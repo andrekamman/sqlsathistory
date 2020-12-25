@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 35778
 # Learning R through a typical BI task
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Other
 ## Speaker: Mark Wilcock
 ## Title: Learning R through a typical BI task
@@ -43,7 +43,7 @@ The purpose of this session is to show R strengths and weaknesses to help you de
 #  
 #### SessionID: 38075
 # Query Store in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
 ## Speaker: Andre Batista
 ## Title: Query Store in SQL Server 2016
@@ -52,7 +52,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
 #  
 #### SessionID: 38107
 # SQL vNext Business Intelligence
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
 ## Speaker: Bruno Basto
 ## Title: SQL vNext Business Intelligence
@@ -61,7 +61,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
 #  
 #### SessionID: 38118
 # PowerShell - Jump from simple scripts to advanced functions
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Other
 ## Speaker: Cláudio Silva
 ## Title: PowerShell - Jump from simple scripts to advanced functions
@@ -81,7 +81,7 @@ We will also see in action a set of functions that are designed to automate and 
 #  
 #### SessionID: 40777
 # What is IoT? What does Microsoft offer? Azure IoT Suite.
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 ## Speaker: Scott Klein
 ## Title: What is IoT? What does Microsoft offer? Azure IoT Suite.
@@ -90,7 +90,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 #  
 #### SessionID: 37778
 # Flying Through the Clouds--Performance Tuning in Azure
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL
 ## Speaker: Joseph D'Antoni
 ## Title: Flying Through the Clouds--Performance Tuning in Azure
@@ -108,7 +108,7 @@ You will learn about techniques that will not just improve your system performan
 #  
 #### SessionID: 37869
 # Columnstore in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: BI
 ## Speaker: Niko Neugebauer
 ## Title: Columnstore in SQL Server 2016
@@ -120,7 +120,7 @@ This session will be delivering an overview of what is new and how it is going t
 #  
 #### SessionID: 38542
 # SSIS 2016 and Master Data – Whats new?
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
 ## Speaker: Pedro Perfeito
 ## Title: SSIS 2016 and Master Data – Whats new?
@@ -129,7 +129,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
 #  
 #### SessionID: 40778
 # Let them hack with Tessel.io’s
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 ## Speaker: Scott Klein
 ## Title: Let them hack with Tessel.io’s
@@ -138,7 +138,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 #  
 #### SessionID: 35776
 # Triple Trouble - Running a SQL Failover Cluster on a Cluster from a Cluster
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Other
 ## Speaker: Mark Broadbent
 ## Title: Triple Trouble - Running a SQL Failover Cluster on a Cluster from a Cluster
@@ -151,7 +151,7 @@ In this session we will investigate whether times have really changed for the be
 #  
 #### SessionID: 36089
 # Introduction to Azure DocumentDB
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Other
 ## Speaker: Leonard Lobel
 ## Title: Introduction to Azure DocumentDB
@@ -160,7 +160,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Other
 #  
 #### SessionID: 37576
 # Hiding your data with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Other
 ## Speaker: Ivan Campos
 ## Title: Hiding your data with SQL Server 2016
@@ -169,7 +169,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Other
 #  
 #### SessionID: 38289
 # The Reporting Machine!
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: BI
 ## Speaker: Tillmann Eitelberg
 ## Title: The Reporting Machine!
@@ -189,7 +189,7 @@ You will see, how we:
 #  
 #### SessionID: 40779
 # Azure Stream Analytics + Azure Event Hubs
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 ## Speaker: Scott Klein
 ## Title: Azure Stream Analytics + Azure Event Hubs
@@ -198,7 +198,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 #  
 #### SessionID: 36712
 # Approaches to database Unit Testing
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL
 ## Speaker: Gavin Campbell
 ## Title: Approaches to database Unit Testing
@@ -211,7 +211,7 @@ Over the years, a number of tools and approaches have been developed to address 
 #  
 #### SessionID: 37371
 # Power BI for Developers
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL
 ## Speaker: Rui Romano
 ## Title: Power BI for Developers
@@ -220,7 +220,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL
 #  
 #### SessionID: 37645
 # HDInsight: new tricks for the Azure Elephant
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 ## Speaker: Filipe Coelho
 ## Title: HDInsight: new tricks for the Azure Elephant
@@ -229,7 +229,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 #  
 #### SessionID: 38262
 # In-memory OLTP: The faster is now simpler in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
 ## Speaker: Murilo Miranda
 ## Title: In-memory OLTP: The faster is now simpler in SQL Server 2016
@@ -238,7 +238,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
 #  
 #### SessionID: 40780
 #  HDInsight
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 ## Speaker: Scott Klein
 ## Title:  HDInsight
@@ -247,7 +247,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 #  
 #### SessionID: 37795
 # A journey through the Modern Data Warehouse
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 ## Speaker: Ruben Pertusa Lopez
 ## Title: A journey through the Modern Data Warehouse
@@ -258,7 +258,7 @@ Join this session and learn how to enable the Modern Data Warehouse in your orga
 #  
 #### SessionID: 38100
 # Temporal Tables in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
 ## Speaker: Andre Batista
 ## Title: Temporal Tables in SQL Server 2016
@@ -267,7 +267,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
 #  
 #### SessionID: 38213
 # Storage For the DBA
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL
 ## Speaker: Denny Cherry
 ## Title: Storage For the DBA
@@ -276,7 +276,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL
 #  
 #### SessionID: 40781
 # Spark on HDInsight
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 ## Speaker: Olivia Klose
 ## Title: Spark on HDInsight
@@ -285,7 +285,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 #  
 #### SessionID: 37648
 # PolyBase: unleash the power of Big Data in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 ## Speaker: Filipe Coelho
 ## Title: PolyBase: unleash the power of Big Data in SQL Server 2016
@@ -294,7 +294,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 #  
 #### SessionID: 37678
 # Getting Started with Datazen, Microsoft’s New Mobile Dashboard Platform
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Other
 ## Speaker: Tiago Quaresma
 ## Title: Getting Started with Datazen, Microsoft’s New Mobile Dashboard Platform
@@ -303,7 +303,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Other
 #  
 #### SessionID: 38261
 # Curious Cases of Availability Groups
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL
 ## Speaker: Murilo Miranda
 ## Title: Curious Cases of Availability Groups
@@ -312,7 +312,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL
 #  
 #### SessionID: 40782
 # Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#429---Oporto-2015)
+#### [Back to calendar](#SQLSaturday-#429-Oporto-2015)
 Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 ## Speaker: Olivia Klose
 ## Title: Azure Machine Learning

@@ -47,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 39978
 # The Lost Science of Set Theory
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Aaron Cutshall
 ## Title: The Lost Science of Set Theory
@@ -56,7 +56,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 41284
 # Building dynamic SSIS packages for more flexibility
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matt Nelson
 ## Title: Building dynamic SSIS packages for more flexibility
@@ -65,7 +65,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 41542
 # Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Feasel
 ## Title: Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
@@ -74,7 +74,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42378
 # SQL Server Database Encryption
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: SQL Server Database Encryption
@@ -83,7 +83,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42973
 # Building Your Yellow Brick Road: Directing Your Path to a Successful Career
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Justin Randall
 ## Title: Building Your Yellow Brick Road: Directing Your Path to a Successful Career
@@ -92,7 +92,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 42981
 # Answering the question, "What happened?" with Query Store
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Erin Stellato
 ## Title: Answering the question, "What happened?" with Query Store
@@ -101,7 +101,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41224
 # SSMS Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Wayne Sheffield
 ## Title: SSMS Tips and Tricks
@@ -110,7 +110,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41306
 # Your BI Blueprint Does Matter: Modeling for MS BI
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Delora Bradish
 ## Title: Your BI Blueprint Does Matter: Modeling for MS BI
@@ -119,7 +119,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 41560
 # It's OK to Talk to Strangers
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Cassandra Faris
 ## Title: It's OK to Talk to Strangers
@@ -128,7 +128,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 42689
 # Hacking Expos#233; - Using SSL to Secure SQL Server Connections
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: Hacking Expos#233; - Using SSL to Secure SQL Server Connections
@@ -142,7 +142,7 @@ Once secured, we will resume the role of the hacker and look inside the packets 
 #  
 #### SessionID: 42958
 # Azure Data Factory: My Data Wandered Lonely as a CLOUD.
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Julie Smith
 ## Title: Azure Data Factory: My Data Wandered Lonely as a CLOUD.
@@ -151,7 +151,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 42994
 # Troubleshooting SQL Server Performance Using Wait Stats
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Arko
 ## Title: Troubleshooting SQL Server Performance Using Wait Stats
@@ -160,7 +160,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39988
 # Execution Plans 101
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Eugene Meidinger
 ## Title: Execution Plans 101
@@ -169,7 +169,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 41668
 # Successfully Virtualizing SQL Server on vSphere - Straight from t
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from t
@@ -178,7 +178,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 42253
 # Flying Through the Clouds--Performance Tuning in Azure
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Joseph D'Antoni
 ## Title: Flying Through the Clouds--Performance Tuning in Azure
@@ -196,7 +196,7 @@ You will learn about techniques that will not just improve your system performan
 #  
 #### SessionID: 42954
 # Inside the Black Box - Making Sense of Service Broker
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Colleen Morrow
 ## Title: Inside the Black Box - Making Sense of Service Broker
@@ -208,7 +208,7 @@ Service Broker is an asynchronous messaging technology built into SQL Server tha
 #  
 #### SessionID: 42964
 # Improving Your PowerPoint Skills
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Evelyn Maxwell
 ## Title: Improving Your PowerPoint Skills
@@ -217,7 +217,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 45055
 # Diagnosing SQL Amnesia: Where is Your Memory Going?
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jonathan Kehayias
 ## Title: Diagnosing SQL Amnesia: Where is Your Memory Going?
@@ -226,7 +226,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 43043
 # Database Career Opportunities at Hyland
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Sponsor Session
 ## Speaker: Adam Belebczuk
 ## Title: Database Career Opportunities at Hyland
@@ -235,7 +235,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Sponsor Session
 #  
 #### SessionID: 46154
 # SQL Sentry / UpSearch - A case study in SQL monitoring and perfor
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Sponsor Session
 ## Speaker: Adam Belebczuk
 ## Title: SQL Sentry / UpSearch - A case study in SQL monitoring and perfor
@@ -244,7 +244,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Sponsor Session
 #  
 #### SessionID: 46155
 # Pyramid Analytics - Power BI On Prem
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Sponsor Session
 ## Speaker: Adam Belebczuk
 ## Title: Pyramid Analytics - Power BI On Prem
@@ -253,7 +253,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Sponsor Session
 #  
 #### SessionID: 46156
 # Pure Storage
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Sponsor Session
 ## Speaker: Adam Belebczuk
 ## Title: Pure Storage
@@ -262,7 +262,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Sponsor Session
 #  
 #### SessionID: 46157
 # TMW Systems - TMW Awakens
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Sponsor Session
 ## Speaker: Adam Belebczuk
 ## Title: TMW Systems - TMW Awakens
@@ -271,7 +271,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Sponsor Session
 #  
 #### SessionID: 46158
 # EMC - Transform Database Agility with XtremeIO
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Sponsor Session
 ## Speaker: Adam Belebczuk
 ## Title: EMC - Transform Database Agility with XtremeIO
@@ -280,7 +280,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Sponsor Session
 #  
 #### SessionID: 39864
 # Turbo-Charged Transaction Logs
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Turbo-Charged Transaction Logs
@@ -289,7 +289,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40088
 # Introduction to Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Machine Learning
@@ -298,7 +298,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 40348
 # TSQL Coding Techniques - Are You Playing with Fire?
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: TSQL Coding Techniques - Are You Playing with Fire?
@@ -307,7 +307,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 41294
 # The Next Dimension of Data
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: Dave Mattingly
 ## Title: The Next Dimension of Data
@@ -318,7 +318,7 @@ Turn your facts and figures into a compelling story by entering geospace: the fi
 #  
 #### SessionID: 42303
 # Demystifying AlwaysOn
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Wendy Pastrick
 ## Title: Demystifying AlwaysOn
@@ -327,7 +327,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42965
 # The SSIS Catalog - What is it and Why should I use it.
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Paul Hiles
 ## Title: The SSIS Catalog - What is it and Why should I use it.
@@ -336,7 +336,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 42285
 # Exploring R Services and Advanced Analytics in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: David Eldersveld
 ## Title: Exploring R Services and Advanced Analytics in SQL Server 2016
@@ -345,7 +345,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 42843
 # DBA 102: Now What
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: DBA 102: Now What
@@ -354,7 +354,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42962
 # Top Development and Design Mistakes
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Michael John
 ## Title: Top Development and Design Mistakes
@@ -364,7 +364,7 @@ This session will point these issues out, and help you prevent and identify thes
 #  
 #### SessionID: 42977
 # Something Stinks: Avoiding Parameter Sniffing Issues
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Michael J Swart
 ## Title: Something Stinks: Avoiding Parameter Sniffing Issues
@@ -373,7 +373,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 42988
 # Every Byte Counts: Why Your Data Type Choices Matter
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: Every Byte Counts: Why Your Data Type Choices Matter
@@ -386,7 +386,7 @@ When you leave, you will be able to explain to your colleagues why data type cho
 #  
 #### SessionID: 42996
 # Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
@@ -396,7 +396,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39714
 # Data Architecture 101
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: Data Architecture 101
@@ -408,7 +408,7 @@ You’ll get a big bonus if you build this right, but you also remember what you
 #  
 #### SessionID: 41835
 # How to Determine What Data Is Corrupt
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Frank Gill
 ## Title: How to Determine What Data Is Corrupt
@@ -417,7 +417,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42109
 # Optimizing your data warehouse for OLAP Processing
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Konstantin Melamud
 ## Title: Optimizing your data warehouse for OLAP Processing
@@ -426,7 +426,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 42662
 # Indexing Strategy
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Steve Hood
 ## Title: Indexing Strategy
@@ -435,7 +435,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 42912
 # Maintain SQL Server Performance Baseline w/PowerShell
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Maintain SQL Server Performance Baseline w/PowerShell
@@ -444,7 +444,7 @@ Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45233
 # The Secret to High Performance Code...The Devil’s in the Data
-#### [Back to calendar](#SQLSaturday-#473---Cleveland-2016)
+#### [Back to calendar](#SQLSaturday-#473-Cleveland-2016)
 Event Date: 06-02-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Jeff Moden
 ## Title: The Secret to High Performance Code...The Devil’s in the Data

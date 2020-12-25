@@ -38,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10027
 # Manage SQL Server 2012 on Server Core w/PowerShell
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 321
 ## Speaker: Allen White
 ## Title: Manage SQL Server 2012 on Server Core w/PowerShell
@@ -47,7 +47,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 321
 #  
 #### SessionID: 10588
 # Back It Up Faster!
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 350
 ## Speaker: Bob Pusateri
 ## Title: Back It Up Faster!
@@ -58,7 +58,7 @@ Queries aren't the only part of SQL Server you can tune for maximum performance 
 #  
 #### SessionID: 12135
 # “ColumnStore” Indexes for Fast EDW Query
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 384AB
 ## Speaker: Derek Dai
 ## Title: “ColumnStore” Indexes for Fast EDW Query
@@ -67,7 +67,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 384AB
 #  
 #### SessionID: 13886
 # Unit Testing Fundamentals 
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 322
 ## Speaker: Eric Selje
 ## Title: Unit Testing Fundamentals 
@@ -78,7 +78,7 @@ In this session we'll walk through the basics of what unit testing is, how to se
 #  
 #### SessionID: 14105
 # Join Us! Getting Started as a Technical Speaker
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 142A
 ## Speaker: Eddie Wuerch
 ## Title: Join Us! Getting Started as a Technical Speaker
@@ -87,7 +87,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 142A
 #  
 #### SessionID: 14182
 # Introduction to Business Intelligence and Data Mod
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 380
 ## Speaker: Farouq Abukhamireh
 ## Title: Introduction to Business Intelligence and Data Mod
@@ -96,7 +96,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 380
 #  
 #### SessionID: 14642
 # You're the DBA.  Now What?
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 142B
 ## Speaker: Gill Rowley
 ## Title: You're the DBA.  Now What?
@@ -105,7 +105,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 142B
 #  
 #### SessionID: 15711
 # Extend Your Knowledge with Extended Events!
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 321
 ## Speaker: Janis Griffin
 ## Title: Extend Your Knowledge with Extended Events!
@@ -116,7 +116,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 321
 #  
 #### SessionID: 15957
 # Discovering the Plan Cache
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 321
 ## Speaker: Jason Strate
 ## Title: Discovering the Plan Cache
@@ -126,7 +126,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 321
 #  
 #### SessionID: 16252
 # PowerShell and SQLPSX the Dynamic Duo for the DBA
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 384AB
 ## Speaker: Jim Dorame
 ## Title: PowerShell and SQLPSX the Dynamic Duo for the DBA
@@ -138,7 +138,7 @@ Come learn when and how the addition of PowerShell and SQLPSX can benefit you.
 #  
 #### SessionID: 16366
 # Master Data Services
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 380
 ## Speaker: Jeff Prom
 ## Title: Master Data Services
@@ -150,7 +150,7 @@ add-in, security, hierarchies, views, versions, and business rules. After this s
 #  
 #### SessionID: 16520
 # Getting Started with SSAS Tabular Cubes
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 380
 ## Speaker: Jennifer Salvo
 ## Title: Getting Started with SSAS Tabular Cubes
@@ -161,7 +161,7 @@ In this session, we'll discuss the features and benefits of the Tabular Model an
 #  
 #### SessionID: 16631
 # Consulting: The Good, The Bad, The Ugly
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 142A
 ## Speaker: Jes Schultz
 ## Title: Consulting: The Good, The Bad, The Ugly
@@ -170,7 +170,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 142A
 #  
 #### SessionID: 17517
 # Demystifying BISM and Tabular Mode SSAS
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 380
 ## Speaker: Josh Fennessy
 ## Title: Demystifying BISM and Tabular Mode SSAS
@@ -181,7 +181,7 @@ In this session, attendees will gain understanding of what Multidimensional and 
 #  
 #### SessionID: 17845
 # What’s Simple About SIMPLE Recovery?
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 321
 ## Speaker: Kalen Delaney
 ## Title: What’s Simple About SIMPLE Recovery?
@@ -190,7 +190,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 321
 #  
 #### SessionID: 18848
 # Database Development using SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 142B
 ## Speaker: Ken Stuber
 ## Title: Database Development using SQL Server Data Tools
@@ -199,7 +199,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 142B
 #  
 #### SessionID: 18904
 # Throwing T-SQL 2012 Enhancements Against the Wall
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 350
 ## Speaker: Kyle Neier
 ## Title: Throwing T-SQL 2012 Enhancements Against the Wall
@@ -208,7 +208,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 350
 #  
 #### SessionID: 19132
 # Power View Strengths  Weaknesses
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 380
 ## Speaker: Leonard Murphy
 ## Title: Power View Strengths  Weaknesses
@@ -217,7 +217,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 380
 #  
 #### SessionID: 20057
 # Shoveling Frogs into a Wheelbarrow
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 142B
 ## Speaker: Merrill Aldrich
 ## Title: Shoveling Frogs into a Wheelbarrow
@@ -226,7 +226,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 142B
 #  
 #### SessionID: 20445
 # Deadlocks: What to do about the dreaded 1205
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 350
 ## Speaker: Michael DeFehr
 ## Title: Deadlocks: What to do about the dreaded 1205
@@ -235,7 +235,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 350
 #  
 #### SessionID: 21149
 # SQL 2012  Windows 2012 - Better Together
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 350
 ## Speaker: Michael Steineke
 ## Title: SQL 2012  Windows 2012 - Better Together
@@ -244,7 +244,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 350
 #  
 #### SessionID: 21361
 # Effective Index Partitioning, Compression Strategy
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 384AB
 ## Speaker: Neil Hambly
 ## Title: Effective Index Partitioning, Compression Strategy
@@ -257,7 +257,7 @@ Using Demos to illustrate the performance gains with real-world examples, Take a
 #  
 #### SessionID: 22389
 # An Optimistic Approach: Snapshot Isolation in SQL 
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 384AB
 ## Speaker: Paul Timmerman
 ## Title: An Optimistic Approach: Snapshot Isolation in SQL 
@@ -270,7 +270,7 @@ Come learn how to put one of the more powerful, but least understood, aspects of
 #  
 #### SessionID: 22665
 # SSIS Templates Can Make Your Life Easier
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 322
 ## Speaker: Brian Davis
 ## Title: SSIS Templates Can Make Your Life Easier
@@ -279,7 +279,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 322
 #  
 #### SessionID: 23656
 # Introduction to BI Markup Language (BIML) and BIML
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 322
 ## Speaker: Russel Loski
 ## Title: Introduction to BI Markup Language (BIML) and BIML
@@ -289,7 +289,7 @@ In this session we will use BIDS Helper to create a simple SSIS package using BI
 #  
 #### SessionID: 24582
 # Interrogating the Transaction Log 
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 142B
 ## Speaker: Frank Gill
 ## Title: Interrogating the Transaction Log 
@@ -300,7 +300,7 @@ In this session, you will learn how SQL Server uses the transaction log to maint
 #  
 #### SessionID: 24977
 # Flipping Through the SSIS Catalag
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 322
 ## Speaker: MIKE DONNELLY
 ## Title: Flipping Through the SSIS Catalag
@@ -310,7 +310,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 322
 #  
 #### SessionID: 26089
 # Upgrading to SQL Server 2012 with limited downtime
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 142A
 ## Speaker: Ted Krueger
 ## Title: Upgrading to SQL Server 2012 with limited downtime
@@ -321,7 +321,7 @@ I don’t and that is why we’re going to look at methods to upgrade or migrate
 #  
 #### SessionID: 26858
 # Don't Box Me In:  Escape the Cubicle
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 142A
 ## Speaker: Tim Ford
 ## Title: Don't Box Me In:  Escape the Cubicle
@@ -332,7 +332,7 @@ This session is aimed at staff and management alike.
 #  
 #### SessionID: 26859
 # High IO, High IO, It's a Case Study Yo Ho!
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 350
 ## Speaker: Tim Ford
 ## Title: High IO, High IO, It's a Case Study Yo Ho!
@@ -341,7 +341,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 350
 #  
 #### SessionID: 27813
 # Navigating the Options for Data Redundancy
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 142B
 ## Speaker: Wendy Pastrick
 ## Title: Navigating the Options for Data Redundancy
@@ -350,7 +350,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 142B
 #  
 #### SessionID: 28294
 # A Powershell Driven Life
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 384AB
 ## Speaker: Zach Mattson
 ## Title: A Powershell Driven Life
@@ -359,7 +359,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 384AB
 #  
 #### SessionID: 9770
 # The Secret Life of an INSERT Statement
-#### [Back to calendar](#SQLSaturday-#206---Madison-2013)
+#### [Back to calendar](#SQLSaturday-#206-Madison-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Room 321
 ## Speaker: Argenis Fernandez
 ## Title: The Secret Life of an INSERT Statement

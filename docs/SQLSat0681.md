@@ -45,7 +45,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 66865
 # Designing an SSIS Framework
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Designing an SSIS Framework
@@ -59,7 +59,7 @@ In this session, you will learn:
 #  
 #### SessionID: 67022
 # What is Power BI?
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Angela Henry
 ## Title: What is Power BI?
@@ -68,7 +68,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 67072
 # A Tour of Cloud Data Platforms as a Service
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Richard Weiss
 ## Title: A Tour of Cloud Data Platforms as a Service
@@ -77,7 +77,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 67443
 # Getting Noticed: Strategies for Your Resume and LinkedIn
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Rick Heiges
 ## Title: Getting Noticed: Strategies for Your Resume and LinkedIn
@@ -86,7 +86,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 68365
 # ARMed for Azure
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Geoff Hiten
 ## Title: ARMed for Azure
@@ -95,7 +95,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 68434
 # SQL Server Databaseology: A Deep Dive Into Database Internals
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology: A Deep Dive Into Database Internals
@@ -104,7 +104,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 66867
 # TempDB 101 Plus
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Kelly
 ## Title: TempDB 101 Plus
@@ -113,7 +113,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66889
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Watson
 ## Title: Introduction to SQL Server Integration Services
@@ -122,7 +122,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67857
 # Does This Look Weird?  The Importance Of Baselining
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Does This Look Weird?  The Importance Of Baselining
@@ -131,7 +131,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67946
 # Learning on a Budget
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Robert Eder
 ## Title: Learning on a Budget
@@ -142,7 +142,7 @@ There is a log of great training opportunities outside the traditional classroom
 #  
 #### SessionID: 68049
 # R For Sql Developers
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Kiran Math
 ## Title: R For Sql Developers
@@ -163,7 +163,7 @@ Download Open R  : -  https://mran.revolutionanalytics.com/
 #  
 #### SessionID: 68425
 # Controlling Competing Workloads with SQL Server Resource Governor
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Carrig
 ## Title: Controlling Competing Workloads with SQL Server Resource Governor
@@ -172,7 +172,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68439
 # Self-Service ETL with Microsoft Power Query in PowerBI
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Damu Venkatesan
 ## Title: Self-Service ETL with Microsoft Power Query in PowerBI
@@ -181,7 +181,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 66883
 # Master Data Management with SQL Server 2016 MDS
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Neal Waterstreet
 ## Title: Master Data Management with SQL Server 2016 MDS
@@ -190,7 +190,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68064
 # Let Her Finish: Supporting Women's Voices in Technology
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Let Her Finish: Supporting Women's Voices in Technology
@@ -200,7 +200,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 68286
 # SQL Server 2016 In-Memory OLTP Tables
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Justin Randall
 ## Title: SQL Server 2016 In-Memory OLTP Tables
@@ -209,7 +209,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68349
 # Excel with DAX
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Azhagappan Arunachalam
 ## Title: Excel with DAX
@@ -218,7 +218,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68382
 # Execution Plans for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
@@ -229,7 +229,7 @@ Reading execution plans becomes much less intimidating as we walk through the fl
 #  
 #### SessionID: 69200
 # SQL Server Internals
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Naomi Williams
 ## Title: SQL Server Internals
@@ -238,7 +238,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66866
 # Using Powershell to Document SQL Server
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Using Powershell to Document SQL Server
@@ -247,7 +247,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67445
 # Winning with Columnstore - A Customer Story
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Heiges
 ## Title: Winning with Columnstore - A Customer Story
@@ -256,7 +256,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67855
 # Query Store Primer
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
@@ -265,7 +265,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68407
 # Getting started with SQL Azure Database: What you need to know
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Donahoe
 ## Title: Getting started with SQL Azure Database: What you need to know
@@ -276,7 +276,7 @@ By the end of this presentation, you’ll understand if Azure SQL Database is th
 #  
 #### SessionID: 68751
 # Index Fragmentation
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stephen Muliokela
 ## Title: Index Fragmentation
@@ -294,7 +294,7 @@ List of topics include
 #  
 #### SessionID: 68770
 # Play Data - Increase Your Power BI Skills With Free and Fun Data Sets
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Rodney Landrum
 ## Title: Play Data - Increase Your Power BI Skills With Free and Fun Data Sets
@@ -303,7 +303,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 69477
 # Create SQL Server VM, Active Directory VM and App Server VM in Azure
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Michael Wharton
 ## Title: Create SQL Server VM, Active Directory VM and App Server VM in Azure
@@ -312,7 +312,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 69489
 # The DBA Script Thumb (10 year anniversary)
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rodney Landrum
 ## Title: The DBA Script Thumb (10 year anniversary)
@@ -322,7 +322,7 @@ https://www.red-gate.com/simple-talk/sql/database-administration/the-dba-script-
 #  
 #### SessionID: 66878
 # Database Project Makes Deployment Consistent
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
@@ -331,7 +331,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 68063
 # How to Build Your Disaster Recovery Plan
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rie Irish
 ## Title: How to Build Your Disaster Recovery Plan
@@ -340,7 +340,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68346
 # Making your existing hardware work for you
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: Making your existing hardware work for you
@@ -349,7 +349,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68347
 # I'm It - Survival Techniques for the Lone DBA
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
@@ -358,7 +358,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 68420
 # SQL Server Security Model 101
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Chan
 ## Title: SQL Server Security Model 101
@@ -367,7 +367,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68734
 # Microsoft Power BI Essentials
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Roger Clark
 ## Title: Microsoft Power BI Essentials
@@ -376,7 +376,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 69197
 # Stop Doing That! Common T-SQL Anti-Patterns
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Stop Doing That! Common T-SQL Anti-Patterns
@@ -389,7 +389,7 @@ By the end of the session, you will be able to quickly identify these common ant
 #  
 #### SessionID: 66893
 # Treating Tables Like Legos: Table Partitioning Basics
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Leach
 ## Title: Treating Tables Like Legos: Table Partitioning Basics
@@ -399,7 +399,7 @@ With table partitioning, you can break a table or index down into smaller more m
 #  
 #### SessionID: 67216
 # Interrogating your data sources with Biml
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shannon Lowder
 ## Title: Interrogating your data sources with Biml
@@ -412,7 +412,7 @@ During the session, I'll also give a primer on some basic C# programming techniq
 #  
 #### SessionID: 68120
 # Enabling EDW and BI workloads on Hadoop with Hive / LLAP
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Luis Figueroa
 ## Title: Enabling EDW and BI workloads on Hadoop with Hive / LLAP
@@ -422,7 +422,7 @@ In this session, Luis Figueroa (Solutions Engineer @ Hortonworks) will walk you 
 #  
 #### SessionID: 68248
 # Making Your List and Checking It Twice: Introduction to unit testing with tSQLt
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Elizabeth Noble
 ## Title: Making Your List and Checking It Twice: Introduction to unit testing with tSQLt
@@ -431,7 +431,7 @@ Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 68302
 # Environmental SQL Server Troubleshooting
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Mlakar
 ## Title: Environmental SQL Server Troubleshooting
@@ -442,7 +442,7 @@ In this session we will discuss both performance pitfalls and optimizations that
 #  
 #### SessionID: 68362
 # Tame Your Unruly Data With Constraints
-#### [Back to calendar](#SQLSaturday-#681---Spartanburg-2017)
+#### [Back to calendar](#SQLSaturday-#681-Spartanburg-2017)
 Event Date: 23-09-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data With Constraints

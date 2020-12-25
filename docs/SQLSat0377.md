@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10383
 # Query Processing in In-Memory OLTP (Hekaton)
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Query Processing in In-Memory OLTP (Hekaton)
@@ -44,7 +44,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 13759
 # Wait types. Что, как и зачем?
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 ## Speaker: Evgeny Khabarov
 ## Title: Wait types. Что, как и зачем?
@@ -53,7 +53,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 #  
 #### SessionID: 20322
 # Introduction to Microsoft Azure DocumentDB
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Mihail Mateev
 ## Title: Introduction to Microsoft Azure DocumentDB
@@ -68,7 +68,7 @@ In this presentation, you will learn:
 #  
 #### SessionID: 25038
 # Resource Governor - Fine tune your data performance engines
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Satya Jayanty
 ## Title: Resource Governor - Fine tune your data performance engines
@@ -84,7 +84,7 @@ Let us look into the above list of questions with best practices approach from a
 #  
 #### SessionID: 25039
 # What do I need to know about SQL Server platform upgrade? 
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Satya Jayanty
 ## Title: What do I need to know about SQL Server platform upgrade? 
@@ -98,7 +98,7 @@ We will cover the complete upgrade cycle, including the preparation tasks, upgra
 #  
 #### SessionID: 14012
 # Я - BI архитектор
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Eugene Polonichko
 ## Title: Я - BI архитектор
@@ -107,7 +107,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 20320
 # Scaling Out Microsoft Azure SQL Databases
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Scaling Out Microsoft Azure SQL Databases
@@ -118,7 +118,7 @@ This talk is a comparison and overview of these approaches, to be possible to ch
 #  
 #### SessionID: 27539
 # xEvents. Не хотите, а придётся
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 ## Speaker: Олег Алексеев
 ## Title: xEvents. Не хотите, а придётся
@@ -128,7 +128,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 #  
 #### SessionID: 36615
 # NoSQL - MongoDB. Agility, scalability, performance (Part 1)
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Viktoriia Mala
 ## Title: NoSQL - MongoDB. Agility, scalability, performance (Part 1)
@@ -137,7 +137,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37186
 # Инструменты резервирования и репликации реляционных баз данных
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ivan Rudnytskyi
 ## Title: Инструменты резервирования и репликации реляционных баз данных
@@ -149,7 +149,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 22166
 # Внутри Оптимизатора Запросов: Поиск или Просмотр
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 ## Speaker: Dmitry Pilugin
 ## Title: Внутри Оптимизатора Запросов: Поиск или Просмотр
@@ -158,7 +158,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 #  
 #### SessionID: 25040
 # Let's cook  'best SQL Server DBA practices'
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: Let's cook  'best SQL Server DBA practices'
@@ -167,7 +167,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 36064
 # Оптимизация модели для работы с PowerBI QA
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Sergiy Lunyakin
 ## Title: Оптимизация модели для работы с PowerBI QA
@@ -176,7 +176,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 36618
 # NoSQL - MongoDB. Agility, scalability, performance (Part 2)
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Viktoriia Mala
 ## Title: NoSQL - MongoDB. Agility, scalability, performance (Part 2)
@@ -185,7 +185,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37207
 # Database monitoring, tuning and optimization using Dell Software tools
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vladislav Samoylenko
 ## Title: Database monitoring, tuning and optimization using Dell Software tools
@@ -194,7 +194,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 10385
 # Understanding Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
@@ -203,7 +203,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 13295
 # "Это Мое" - Блокировки, Дедлоки и прочая чепуха (часть 1)
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 ## Speaker: Dmitri Korotkevitch
 ## Title: "Это Мое" - Блокировки, Дедлоки и прочая чепуха (часть 1)
@@ -214,7 +214,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 #  
 #### SessionID: 19187
 # Тяп-ляп и в продакшн! 
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Oleksii Kovalov
 ## Title: Тяп-ляп и в продакшн! 
@@ -223,7 +223,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 36490
 # Azure Table Storage - дешевое, быстрое, масштабируемое хранилище
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: Azure Table Storage - дешевое, быстрое, масштабируемое хранилище
@@ -232,7 +232,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 36923
 # Правдивая история об использовании SQL Server Change Data Capture
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Sergey Mikhalev
 ## Title: Правдивая история об использовании SQL Server Change Data Capture
@@ -242,7 +242,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 10384
 # Dive into the Query Optimizer-Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer-Undocumented Insight
@@ -251,7 +251,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 #  
 #### SessionID: 13296
 # "Не отдам!" - Блокировки, Дедлоки и прочая чепуха (часть 2)
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 ## Speaker: Dmitri Korotkevitch
 ## Title: "Не отдам!" - Блокировки, Дедлоки и прочая чепуха (часть 2)
@@ -262,7 +262,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 #  
 #### SessionID: 26456
 # Unit Testing SQL Server
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Unit Testing SQL Server
@@ -271,7 +271,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 36179
 # Windows Server Failover Clustering (WSFC) with SQL Server
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Yevhen Nedashkivskyi
 ## Title: Windows Server Failover Clustering (WSFC) with SQL Server
@@ -283,7 +283,7 @@ After this session you will understand how aforementioned technologies work, how
 #  
 #### SessionID: 37038
 # Introduction to Azure Machine Learning and Data Mining algorithms
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Oleksandr Krakovetskyi
 ## Title: Introduction to Azure Machine Learning and Data Mining algorithms
@@ -292,7 +292,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 10107
 # “Magic numbers”, local variable and performance
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Andrii Zrobok
 ## Title: “Magic numbers”, local variable and performance
@@ -301,7 +301,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 13761
 # Транзакционная репликация - это не страшно. 
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Evgeny Khabarov
 ## Title: Транзакционная репликация - это не страшно. 
@@ -312,7 +312,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 26455
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -321,7 +321,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 27472
 # Transaction Log – How it works.
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 ## Speaker: Vitaliy Popovych
 ## Title: Transaction Log – How it works.
@@ -330,7 +330,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 #  
 #### SessionID: 36922
 # Dynamic SQL:  to be or not to be?
-#### [Back to calendar](#SQLSaturday-#377---Kiev-2015)
+#### [Back to calendar](#SQLSaturday-#377-Kiev-2015)
 Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Alesya Zhuk
 ## Title: Dynamic SQL:  to be or not to be?

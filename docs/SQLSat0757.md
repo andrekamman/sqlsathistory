@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 77954
 # Data Protection  Privacy in the World of Database DevOps
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Grant Fritchey
 ## Title: Data Protection  Privacy in the World of Database DevOps
@@ -46,7 +46,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 78312
 # Monitoring Linux Performance for the SQL Server Admin
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: Monitoring Linux Performance for the SQL Server Admin
@@ -55,7 +55,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 80368
 # SQL Query 101
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Robert Muir
 ## Title: SQL Query 101
@@ -64,7 +64,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 82860
 # Azure Basics for the DBA
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Morehouse
 ## Title: Azure Basics for the DBA
@@ -73,7 +73,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 84304
 # Real-World Data Movement and Orchestration Patterns with Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jason Horner
 ## Title: Real-World Data Movement and Orchestration Patterns with Azure Data Factory
@@ -83,7 +83,7 @@ Whether you are just getting started with Azure Data Factory or looking to make 
 #  
 #### SessionID: 74400
 # Mom Rules for Managing Enterprise Database Environments
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: Mom Rules for Managing Enterprise Database Environments
@@ -92,7 +92,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82742
 # Always Encrypted for Beginners
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Monica Rathbun
 ## Title: Always Encrypted for Beginners
@@ -101,7 +101,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 82863
 # SQL Server Databaseology: A Deep Dive Into Database Internals
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology: A Deep Dive Into Database Internals
@@ -110,7 +110,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83204
 # Get TurnedOn with AlwaysOn
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mitchell Bottel
 ## Title: Get TurnedOn with AlwaysOn
@@ -120,7 +120,7 @@ SQL Server AlwaysOn provides a high-availability and Disaster-recovery solution 
 #  
 #### SessionID: 83563
 # What's new in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Hasan Savran
 ## Title: What's new in SQL Server 2017
@@ -141,7 +141,7 @@ SQL Server 2017 became a great resource for caching with the new In-Memory featu
 #  
 #### SessionID: 74399
 # How To Talk To Your Storage Admin
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: How To Talk To Your Storage Admin
@@ -150,7 +150,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82554
 # Delivering Business Value Faster
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Adam Anderson
 ## Title: Delivering Business Value Faster
@@ -159,7 +159,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 83328
 # Power BI Dashboard - Creating End to End Solutions
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Suresh Datla
 ## Title: Power BI Dashboard - Creating End to End Solutions
@@ -169,7 +169,7 @@ Accessing data, Data preparation, and cleansing, consuming the data for reports 
 #  
 #### SessionID: 83354
 # Big Data - The Biggest Fad of the Decade
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Ami Levin
 ## Title: Big Data - The Biggest Fad of the Decade
@@ -178,7 +178,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 84286
 # Introduction to SQL Server Integration Services, what's new in SSIS
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Information Delivery
 ## Speaker: Steve Rezhener
 ## Title: Introduction to SQL Server Integration Services, what's new in SSIS
@@ -187,7 +187,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Information Delivery
 #  
 #### SessionID: 82747
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
@@ -196,7 +196,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 84514
 # Attunix: Azure Intelligent Services
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Amie Mason
 ## Title: Attunix: Azure Intelligent Services
@@ -205,7 +205,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 74132
 # Insights with massive data ingestion and Power BI
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Armando Lacerda
 ## Title: Insights with massive data ingestion and Power BI
@@ -221,7 +221,7 @@ You will learn:
 #  
 #### SessionID: 77956
 # Disaster Recovery and High Availability in Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Grant Fritchey
 ## Title: Disaster Recovery and High Availability in Azure SQL Database
@@ -230,7 +230,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 78700
 # Dynamic SQL: Tables, Pivots, Parameters  More
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Steven Tidwell
 ## Title: Dynamic SQL: Tables, Pivots, Parameters  More
@@ -239,7 +239,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 82743
 # I'm It - Survival Techniques for the Lone DBA
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
@@ -248,7 +248,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84044
 # A Look Inside SQL Server Distribution Statistics
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Kalen Delaney
 ## Title: A Look Inside SQL Server Distribution Statistics
@@ -257,7 +257,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 74183
 # Data Wrangling for Reporting  Analytics using Power BI
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phil Robinson
 ## Title: Data Wrangling for Reporting  Analytics using Power BI
@@ -270,7 +270,7 @@ In this presentation we will review tools to examine/repair schema issues and ex
 #  
 #### SessionID: 82506
 # Soft skills for Geeks: Don't be a flat boxer
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Randy Knight
 ## Title: Soft skills for Geeks: Don't be a flat boxer
@@ -279,7 +279,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 83366
 # Why Should I Care About ... Partitioned Views?
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
@@ -288,7 +288,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 83946
 # Reporting Services 2016: New Features  Smart Migration Strategy
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services 2016: New Features  Smart Migration Strategy
@@ -299,7 +299,7 @@ The session will then dive into how to use the data in the ReportServer database
 #  
 #### SessionID: 84236
 # PowerBI your way to understand your SQL Server Estate
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Neil Hambly
 ## Title: PowerBI your way to understand your SQL Server Estate
@@ -320,7 +320,7 @@ This is just the beginning of the journey, if you want to know more then ask Nei
 #  
 #### SessionID: 74133
 # Microsoft Azure for SQL Server Professionals - Get your head in the cloud
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Armando Lacerda
 ## Title: Microsoft Azure for SQL Server Professionals - Get your head in the cloud
@@ -335,7 +335,7 @@ You will learn:
 #  
 #### SessionID: 77315
 # The Business Intelligence Side of SQL Server
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sayed Saeed
 ## Title: The Business Intelligence Side of SQL Server
@@ -344,7 +344,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 78317
 # Containers - You Better Get on Board
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: Containers - You Better Get on Board
@@ -358,7 +358,7 @@ In this session we’ll look at
 #  
 #### SessionID: 83957
 # CSV files and ETL- The Good, Bad, and Ugly
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Eric Freeman
 ## Title: CSV files and ETL- The Good, Bad, and Ugly
@@ -367,7 +367,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 84662
 # Lightning Talks!
-#### [Back to calendar](#SQLSaturday-#757---Sacramento-2018)
+#### [Back to calendar](#SQLSaturday-#757-Sacramento-2018)
 Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Glenn Burnett
 ## Title: Lightning Talks!

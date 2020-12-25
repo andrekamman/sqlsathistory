@@ -10,7 +10,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11823
 # Why Big Data Matters?
-#### [Back to calendar](#SQLSaturday-#185---Trinidad-2013)
+#### [Back to calendar](#SQLSaturday-#185-Trinidad-2013)
 Event Date: 25-01-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Paras Doshi
 ## Title: Why Big Data Matters?
@@ -19,7 +19,7 @@ Event Date: 25-01-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15396
 # Inheriting a database for Developers, version 2
-#### [Back to calendar](#SQLSaturday-#185---Trinidad-2013)
+#### [Back to calendar](#SQLSaturday-#185-Trinidad-2013)
 Event Date: 25-01-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Niko Neugebauer
 ## Title: Inheriting a database for Developers, version 2
@@ -28,7 +28,7 @@ Event Date: 25-01-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 23303
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#185---Trinidad-2013)
+#### [Back to calendar](#SQLSaturday-#185-Trinidad-2013)
 Event Date: 25-01-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -37,7 +37,7 @@ Event Date: 25-01-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 23305
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#185---Trinidad-2013)
+#### [Back to calendar](#SQLSaturday-#185-Trinidad-2013)
 Event Date: 25-01-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -46,7 +46,7 @@ Event Date: 25-01-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 8856
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#185---Trinidad-2013)
+#### [Back to calendar](#SQLSaturday-#185-Trinidad-2013)
 Event Date: 25-01-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals

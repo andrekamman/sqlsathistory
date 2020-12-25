@@ -14,7 +14,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 23391
 # Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure
-#### [Back to calendar](#SQLSaturday-#378---Curacao-2015)
+#### [Back to calendar](#SQLSaturday-#378-Curacao-2015)
 Event Date: 23-05-2015 - Session time: 15:45:00 - Track: Track 1
 ## Speaker: Rodney Landrum
 ## Title: Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure
@@ -23,7 +23,7 @@ Event Date: 23-05-2015 - Session time: 15:45:00 - Track: Track 1
 #  
 #### SessionID: 23484
 # In Memory OLTP 
-#### [Back to calendar](#SQLSaturday-#378---Curacao-2015)
+#### [Back to calendar](#SQLSaturday-#378-Curacao-2015)
 Event Date: 23-05-2015 - Session time: 15:45:00 - Track: Track 2
 ## Speaker: Roy Ernest
 ## Title: In Memory OLTP 
@@ -32,7 +32,7 @@ Event Date: 23-05-2015 - Session time: 15:45:00 - Track: Track 2
 #  
 #### SessionID: 21196
 # Buffer Pool Extension (BPE) - How it works?
-#### [Back to calendar](#SQLSaturday-#378---Curacao-2015)
+#### [Back to calendar](#SQLSaturday-#378-Curacao-2015)
 Event Date: 23-05-2015 - Session time: 15:45:00 - Track: Track 2
 ## Speaker: Murilo Miranda
 ## Title: Buffer Pool Extension (BPE) - How it works?
@@ -42,7 +42,7 @@ On this session we will enter in some theoretical details regarding this new tec
 #  
 #### SessionID: 21281
 # SQL Server 2012 AlwaysON (HADR) for dummies
-#### [Back to calendar](#SQLSaturday-#378---Curacao-2015)
+#### [Back to calendar](#SQLSaturday-#378-Curacao-2015)
 Event Date: 23-05-2015 - Session time: 15:45:00 - Track: Track 2
 ## Speaker: Rohan Joackhim
 ## Title: SQL Server 2012 AlwaysON (HADR) for dummies
@@ -51,7 +51,7 @@ Event Date: 23-05-2015 - Session time: 15:45:00 - Track: Track 2
 #  
 #### SessionID: 19275
 # Troubleshooting SQL ServerBasics
-#### [Back to calendar](#SQLSaturday-#378---Curacao-2015)
+#### [Back to calendar](#SQLSaturday-#378-Curacao-2015)
 Event Date: 23-05-2015 - Session time: 15:45:00 - Track: Track 2
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Troubleshooting SQL ServerBasics
@@ -62,7 +62,7 @@ Event Date: 23-05-2015 - Session time: 15:45:00 - Track: Track 2
 #  
 #### SessionID: 36508
 # Power BI in the Fast Lane--Visualizing Formula 1
-#### [Back to calendar](#SQLSaturday-#378---Curacao-2015)
+#### [Back to calendar](#SQLSaturday-#378-Curacao-2015)
 Event Date: 23-05-2015 - Session time: 15:45:00 - Track: Track 1
 ## Speaker: Joseph D'Antoni
 ## Title: Power BI in the Fast Lane--Visualizing Formula 1
@@ -71,7 +71,7 @@ Event Date: 23-05-2015 - Session time: 15:45:00 - Track: Track 1
 #  
 #### SessionID: 19277
 # Protecting SQL Server against Hackers [Best Practices] 
-#### [Back to calendar](#SQLSaturday-#378---Curacao-2015)
+#### [Back to calendar](#SQLSaturday-#378-Curacao-2015)
 Event Date: 23-05-2015 - Session time: 15:45:00 - Track: Track 2
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Protecting SQL Server against Hackers [Best Practices] 
@@ -80,7 +80,7 @@ Event Date: 23-05-2015 - Session time: 15:45:00 - Track: Track 2
 #  
 #### SessionID: 36507
 # 5 Steps to Being a Top DBA--Learning Automation in SQL Server
-#### [Back to calendar](#SQLSaturday-#378---Curacao-2015)
+#### [Back to calendar](#SQLSaturday-#378-Curacao-2015)
 Event Date: 23-05-2015 - Session time: 15:45:00 - Track: Track 2
 ## Speaker: Joseph D'Antoni
 ## Title: 5 Steps to Being a Top DBA--Learning Automation in SQL Server
@@ -96,7 +96,7 @@ This session will benefit both Junior and Senior DBAs, as well as anyone who wan
 #  
 #### SessionID: 21197
 # Super Hybrid 2014
-#### [Back to calendar](#SQLSaturday-#378---Curacao-2015)
+#### [Back to calendar](#SQLSaturday-#378-Curacao-2015)
 Event Date: 23-05-2015 - Session time: 15:45:00 - Track: Track 2
 ## Speaker: Murilo Miranda
 ## Title: Super Hybrid 2014

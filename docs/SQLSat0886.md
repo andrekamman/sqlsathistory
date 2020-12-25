@@ -65,7 +65,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 91252
 # Introduction to Azure Databricks
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: Introduction to Azure Databricks
@@ -76,7 +76,7 @@ With plenty of demos on how to configure cloud storage, work with Databricks not
 #  
 #### SessionID: 91584
 # Leveraging Python in SQL Server
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Julie Smith
 ## Title: Leveraging Python in SQL Server
@@ -85,7 +85,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 91802
 # Developer Nights: The Ballad of Bobby Tables
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Jay Robinson
 ## Title: Developer Nights: The Ballad of Bobby Tables
@@ -94,7 +94,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 92926
 # MSAs, GMSAs,  Groups - Use SQL without traditional user accounts
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: MSAs, GMSAs,  Groups - Use SQL without traditional user accounts
@@ -104,7 +104,7 @@ Managing user domain accounts access in your DB can get tedious fast, especially
 #  
 #### SessionID: 93491
 # Identifying Sensitive data with Redgate Data Catalog
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Aaron Urfer
 ## Title: Identifying Sensitive data with Redgate Data Catalog
@@ -113,7 +113,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 95192
 # What I Learned Stepping onto the Cloud
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Clark Hahn
 ## Title: What I Learned Stepping onto the Cloud
@@ -125,7 +125,7 @@ Remember a smart person learns from their mistakes, a wise person learns from ot
 #  
 #### SessionID: 95202
 # Cloud Data Warehousing with Snowflake on Azure
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brett VanderPlaats
 ## Title: Cloud Data Warehousing with Snowflake on Azure
@@ -135,7 +135,7 @@ This live demo will provide fundamental and technical understanding for roles li
 #  
 #### SessionID: 95357
 # Azure Data Factory - Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Koester
 ## Title: Azure Data Factory - Beyond the Basics
@@ -144,7 +144,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 95493
 # SQLStarter - Intro to Database Administration
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
 ## Speaker: Peter Shore
 ## Title: SQLStarter - Intro to Database Administration
@@ -153,7 +153,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
 #  
 #### SessionID: 91315
 # SSDT, Docker, and (Azure) DevOps: How to Make Your Database Builds a First Class CI/CD Citizen
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dan Mallott
 ## Title: SSDT, Docker, and (Azure) DevOps: How to Make Your Database Builds a First Class CI/CD Citizen
@@ -164,7 +164,7 @@ SSDT and Azure DevOps can solve some of these problems, and even give us a windo
 #  
 #### SessionID: 93056
 # Brick-by-Brick: Foundational Azure Databricks Concepts
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Michael Huffer
 ## Title: Brick-by-Brick: Foundational Azure Databricks Concepts
@@ -173,7 +173,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 93404
 # Stuck In the Middle: Collaborating With Multiple Stakeholders
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Lou` Russell
 ## Title: Stuck In the Middle: Collaborating With Multiple Stakeholders
@@ -182,7 +182,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 93777
 # Beginner's Guide to Text Mining:  What We Learn from SQL Saturday Presentation Abstracts
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Lynn Ballard
 ## Title: Beginner's Guide to Text Mining:  What We Learn from SQL Saturday Presentation Abstracts
@@ -191,7 +191,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 95155
 # Managing the mystery database
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dustin Dorsey
 ## Title: Managing the mystery database
@@ -207,7 +207,7 @@ By figuring out what these mystery databases, you will be more equipped to make 
 #  
 #### SessionID: 95206
 # Cloud Data Warehousing in Azure: Azure DWH and Snowflake
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Britton Gray
 ## Title: Cloud Data Warehousing in Azure: Azure DWH and Snowflake
@@ -216,7 +216,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 95335
 # Microsoft/Azure Data Integrations: Factories, Pipelines, and Flows Oh My!
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Mellinger
 ## Title: Microsoft/Azure Data Integrations: Factories, Pipelines, and Flows Oh My!
@@ -225,7 +225,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 95394
 # SQL Networking  Security
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Sumeeth Evans
 ## Title: SQL Networking  Security
@@ -238,7 +238,7 @@ Attend to get a demo filled session of how to build highly secure SQL environmen
 #  
 #### SessionID: 95494
 # SQLStarter - Intro to Data Science
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
 ## Speaker: Andrew Loree
 ## Title: SQLStarter - Intro to Data Science
@@ -247,7 +247,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
 #  
 #### SessionID: 96735
 # DR  HA 101, what are they and why do I want them?
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Pat Phelan
 ## Title: DR  HA 101, what are they and why do I want them?
@@ -258,7 +258,7 @@ This session does not try to discuss all of the details or go deep into the tech
 #  
 #### SessionID: 91084
 # Moving Data to the Cloud (with Azure Data Factory)
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Simon Kingaby
 ## Title: Moving Data to the Cloud (with Azure Data Factory)
@@ -267,7 +267,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 91116
 # Extended Events: What are they and How do I use them
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
@@ -276,7 +276,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91957
 # Lessons from Consulting:  Vendor Applications
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Andy Wickman
 ## Title: Lessons from Consulting:  Vendor Applications
@@ -285,7 +285,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 93025
 # Building a Machine Learning Regression Model with Zero Code in PowerBI
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Greg Deckler
 ## Title: Building a Machine Learning Regression Model with Zero Code in PowerBI
@@ -294,7 +294,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 93639
 # Dipping Your Toes In: Azure Data Lake for DBAs
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bob Pusateri
 ## Title: Dipping Your Toes In: Azure Data Lake for DBAs
@@ -303,7 +303,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 95067
 # Enable Real-time Analytics and Machine Learning with Azure Stream Analytics
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sriharsh Adari
 ## Title: Enable Real-time Analytics and Machine Learning with Azure Stream Analytics
@@ -312,7 +312,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 95087
 # Migrate Your Database(s) with Distributed AGs
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Elizabeth Noble
 ## Title: Migrate Your Database(s) with Distributed AGs
@@ -325,7 +325,7 @@ NOTE: This session expects that attendees are already familiar with Availability
 #  
 #### SessionID: 95386
 # Migrating your SQL Server Instance
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Lukes
 ## Title: Migrating your SQL Server Instance
@@ -334,7 +334,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 95495
 # SQLStarter - Intro to Big Data
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
 ## Speaker: Warren Sifre
 ## Title: SQLStarter - Intro to Big Data
@@ -343,7 +343,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
 #  
 #### SessionID: 96383
 # Learn History from Temporal Tables
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: Learn History from Temporal Tables
@@ -352,7 +352,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 94229
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
@@ -361,7 +361,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 95396
 # The Community Speaks: WIT, LGBTQ, diversity and inclusion.
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Tamera Clark
 ## Title: The Community Speaks: WIT, LGBTQ, diversity and inclusion.
@@ -370,7 +370,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 96823
 # Agile Ops at Billions of Transactions a Day Without Losing Your M
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eddie Wuerch
 ## Title: Agile Ops at Billions of Transactions a Day Without Losing Your M
@@ -379,7 +379,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93360
 # Introduction To Data Governance
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Other
 ## Speaker: Warren Sifre
 ## Title: Introduction To Data Governance
@@ -388,7 +388,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Other
 #  
 #### SessionID: 93415
 # Designing Accessible Power BI Reports
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Liz Amador
 ## Title: Designing Accessible Power BI Reports
@@ -397,7 +397,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 93524
 # Accelerated Database Recovery: The Future of the Transaction Log
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Frank Gill
 ## Title: Accelerated Database Recovery: The Future of the Transaction Log
@@ -406,7 +406,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 94938
 # Containerized SQL Server on Red Hat OpenShift
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Thomas Lapp
 ## Title: Containerized SQL Server on Red Hat OpenShift
@@ -415,7 +415,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 95180
 # AI for the Masses: The Democratization of Artificial Intelligence in the Microsoft Ecosystem
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Ryan Wade
 ## Title: AI for the Masses: The Democratization of Artificial Intelligence in the Microsoft Ecosystem
@@ -433,7 +433,7 @@ Come to this information packed session, and you will walk away with ideas of ho
 #  
 #### SessionID: 95356
 # Replace Hundreds of Fragmented SSRS Reports with Integrated Dashboards in Weeks
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chad Buher
 ## Title: Replace Hundreds of Fragmented SSRS Reports with Integrated Dashboards in Weeks
@@ -448,7 +448,7 @@ In this session, we will explore:
 #  
 #### SessionID: 95378
 # Agile Data Warehouse and ETL Design with Biml
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Stein
 ## Title: Agile Data Warehouse and ETL Design with Biml
@@ -457,7 +457,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 95387
 # Another new version of SQL Server!?  Highlights of new features coming with SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joe McTaggart
 ## Title: Another new version of SQL Server!?  Highlights of new features coming with SQL Server 2019
@@ -466,7 +466,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 95491
 # Definitive Proof that Pluto is Indeed a Planet
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Josh Fennessy
 ## Title: Definitive Proof that Pluto is Indeed a Planet
@@ -487,7 +487,7 @@ I don't think this will take much longer than 75 mins. Might as well get to it.
 #  
 #### SessionID: 95496
 # SQLStarter - Intro to Database Development
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
 ## Speaker: Jay Robinson
 ## Title: SQLStarter - Intro to Database Development
@@ -496,7 +496,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
 #  
 #### SessionID: 91082
 # Performance Tuning for SQL Developer through Execution Plans
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Performance Tuning for SQL Developer through Execution Plans
@@ -505,7 +505,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 91750
 # Transaction Log Internals and Performance
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Transaction Log Internals and Performance
@@ -514,7 +514,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 92103
 # I have indexes, but do I have the right indexes?
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Blinn
 ## Title: I have indexes, but do I have the right indexes?
@@ -527,7 +527,7 @@ Are you using a version and edition of SQL Server is able to use these features?
 #  
 #### SessionID: 93131
 # "M" is great! Keep it that way.
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: George Bryant
 ## Title: "M" is great! Keep it that way.
@@ -536,7 +536,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 93919
 # Moving Past Imposter Syndrome
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Wendy Pastrick
 ## Title: Moving Past Imposter Syndrome
@@ -545,7 +545,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 94740
 # Intro to SQL Spatial Data: Location Analytics
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Lucas Feiock
 ## Title: Intro to SQL Spatial Data: Location Analytics
@@ -554,7 +554,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 95354
 # Active Directory and Azure Active Directory: Authentication in a Cloudy World
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kerry Tyler
 ## Title: Active Directory and Azure Active Directory: Authentication in a Cloudy World
@@ -564,7 +564,7 @@ This is a beginner session, but there will be some networking involved, in addit
 #  
 #### SessionID: 95380
 # Creating Your Own ETL Automation Framework with Biml for Beginners
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Stein
 ## Title: Creating Your Own ETL Automation Framework with Biml for Beginners
@@ -581,7 +581,7 @@ As a bonus, you’ll leave the presentation with a completed framework which dyn
 #  
 #### SessionID: 95497
 # SQLStarter - Intro to Business Intelligence
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
 ## Speaker: CJ Knapp
 ## Title: SQLStarter - Intro to Business Intelligence
@@ -590,7 +590,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
 #  
 #### SessionID: 91887
 # New Features in SSRS 2017
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Sam Nasr
 ## Title: New Features in SSRS 2017
@@ -600,7 +600,7 @@ With intuitive interfaces and rich data visualization, business users and stake 
 #  
 #### SessionID: 91953
 # Optimizing the ETL Development Process with BIML
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joshua Higginbotham
 ## Title: Optimizing the ETL Development Process with BIML
@@ -609,7 +609,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 92595
 # Extending DevOps To SQL Server
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Extending DevOps To SQL Server
@@ -618,7 +618,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 92827
 # SQL Server Machine Learning Services
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Andrew Loree
 ## Title: SQL Server Machine Learning Services
@@ -629,7 +629,7 @@ A beginner level understanding of Machine Learning and process is highly recomme
 #  
 #### SessionID: 94666
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -641,7 +641,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 95322
 # Ansible Automation for MSSQL Server
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Louis Gordner
 ## Title: Ansible Automation for MSSQL Server
@@ -650,7 +650,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 95363
 # Learn Like Your Life Depends On It
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Peter Shore
 ## Title: Learn Like Your Life Depends On It
@@ -661,7 +661,7 @@ This session is designed to help with just that. In addition to talking about a 
 #  
 #### SessionID: 95371
 # Docker for DBAs
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bradley Nielsen
 ## Title: Docker for DBAs
@@ -670,7 +670,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 95581
 # SQLStarter - Discussion/Networking Session
-#### [Back to calendar](#SQLSaturday-#886---Indianapolis-2019)
+#### [Back to calendar](#SQLSaturday-#886-Indianapolis-2019)
 Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
 ## Speaker: Hope Foley
 ## Title: SQLStarter - Discussion/Networking Session

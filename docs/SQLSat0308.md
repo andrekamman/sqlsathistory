@@ -67,7 +67,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11157
 # The Transaction Log Internals
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Carlos Lopez
 ## Title: The Transaction Log Internals
@@ -76,7 +76,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 11267
 # The Spy Who Loathed Me - An Intro to SQL Security 
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Chris Bell
 ## Title: The Spy Who Loathed Me - An Intro to SQL Security 
@@ -85,7 +85,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 12057
 # Microsoft Predictive Analytics/Data Mining Overview
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Carl Speshock
 ## Title: Microsoft Predictive Analytics/Data Mining Overview
@@ -94,7 +94,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 12448
 # Writing Your First BimlScript
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: David Stein
 ## Title: Writing Your First BimlScript
@@ -103,7 +103,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 12863
 # Fill Factor: Performance or Nuisance?
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 ## Speaker: WIlliam Barnes
 ## Title: Fill Factor: Performance or Nuisance?
@@ -112,7 +112,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 #  
 #### SessionID: 13261
 # Taming the T-Log
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Dane Schilling
 ## Title: Taming the T-Log
@@ -121,7 +121,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13601
 # Tabular Data Visualized by PowerView
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Derek Wilson
 ## Title: Tabular Data Visualized by PowerView
@@ -130,7 +130,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 14384
 # Measuring Data Warehouse Performance
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Garrett Edmondson
 ## Title: Measuring Data Warehouse Performance
@@ -139,7 +139,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 14385
 # Data Warehouse ETL
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Garrett Edmondson
 ## Title: Data Warehouse ETL
@@ -148,7 +148,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 15588
 # Enhancing your career: Building your personal brand
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Prof Dev \ Cloud
 ## Speaker: James Serra
 ## Title: Enhancing your career: Building your personal brand
@@ -157,7 +157,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Prof Dev \ Cloud
 #  
 #### SessionID: 15591
 # Best Practices to Deliver BI Solutions
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: James Serra
 ## Title: Best Practices to Deliver BI Solutions
@@ -168,7 +168,7 @@ I have worked on dozens of end-to-end BI projects and have seen my share of succ
 #  
 #### SessionID: 16154
 # SQL Server--All About HA and DR
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Joseph D'Antoni
 ## Title: SQL Server--All About HA and DR
@@ -177,7 +177,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 16155
 # In-Memory Columnstore Indexes--Make Your Data Warehouse Fly 
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA \ BI \ Cloud
 ## Speaker: Joseph D'Antoni
 ## Title: In-Memory Columnstore Indexes--Make Your Data Warehouse Fly 
@@ -186,7 +186,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA \ BI \ Cloud
 #  
 #### SessionID: 16461
 # T-SQL Code Sins 
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 ## Speaker: Jennifer McCown
 ## Title: T-SQL Code Sins 
@@ -195,7 +195,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 #  
 #### SessionID: 16463
 # DBA Career Roadmap
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Prof Dev \ Cloud
 ## Speaker: Jennifer McCown
 ## Title: DBA Career Roadmap
@@ -204,7 +204,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Prof Dev \ Cloud
 #  
 #### SessionID: 16815
 # Mission Possible: Interactive Performance Troubleshooting - Indexes
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jim Murphy
 ## Title: Mission Possible: Interactive Performance Troubleshooting - Indexes
@@ -213,7 +213,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17305
 # SQL Server 2012 Analytic Functions
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 ## Speaker: John Cook
 ## Title: SQL Server 2012 Analytic Functions
@@ -222,7 +222,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 #  
 #### SessionID: 17687
 # Table Partitioning: the Secret Weapon for your Big Data Problems.
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: John Sterrett
 ## Title: Table Partitioning: the Secret Weapon for your Big Data Problems.
@@ -231,7 +231,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 17688
 # Proactive Monitoring with PBM and CMS
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: John Sterrett
 ## Title: Proactive Monitoring with PBM and CMS
@@ -240,7 +240,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17746
 # Ah, ha, how do you automate database administration?
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jason Wong
 ## Title: Ah, ha, how do you automate database administration?
@@ -264,7 +264,7 @@ These maybe the processes that future SQL Server version could incorporate as a 
 #  
 #### SessionID: 17864
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -273,7 +273,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 #  
 #### SessionID: 17866
 # Windows Azure SQL Database Design: Concepts and Trade-offs
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Prof Dev \ Cloud
 ## Speaker: Karen Lopez
 ## Title: Windows Azure SQL Database Design: Concepts and Trade-offs
@@ -284,7 +284,7 @@ You’ll see demonstrations of the database creation and initial design processe
 #  
 #### SessionID: 18843
 # Beyond the Where: Full Text Search tips and tricks
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 ## Speaker: Kris Hokanson
 ## Title: Beyond the Where: Full Text Search tips and tricks
@@ -293,7 +293,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 #  
 #### SessionID: 19233
 # SQL Server Statistics – What Are The Chances?
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Lori Edwards
 ## Title: SQL Server Statistics – What Are The Chances?
@@ -302,7 +302,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 19929
 # SQL Watchdog -  find out instantly when SQL changes in production
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Michael Bourgon
 ## Title: SQL Watchdog -  find out instantly when SQL changes in production
@@ -312,7 +312,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 19951
 # Change Tracking:  A Near Bullet-Proof ETL Synchronization Control
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mike Byrd
 ## Title: Change Tracking:  A Near Bullet-Proof ETL Synchronization Control
@@ -321,7 +321,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 20651
 # Troubleshooting Your Network Connections
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mike Hays
 ## Title: Troubleshooting Your Network Connections
@@ -330,7 +330,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 20766
 # SQL Server Bingo – Install, Migration  Config
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mindy Curnutt
 ## Title: SQL Server Bingo – Install, Migration  Config
@@ -339,7 +339,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 21019
 # Table Indexing for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Denny Cherry
 ## Title: Table Indexing for the .NET Developer
@@ -348,7 +348,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 21020
 # Storage For the DBA
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Denny Cherry
 ## Title: Storage For the DBA
@@ -357,7 +357,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 21295
 # Cisco Unified Computing System (UCS)
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Nancy Hidy Wilson
 ## Title: Cisco Unified Computing System (UCS)
@@ -366,7 +366,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 21296
 # Strategy to Eliminate Bottlenecks
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Nancy Hidy Wilson
 ## Title: Strategy to Eliminate Bottlenecks
@@ -383,7 +383,7 @@ Come learn about Flash and the database tuning opportunities that can drasticall
 #  
 #### SessionID: 21297
 # Resolving the Database Performance Problem Blame Game 
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA \ BI \ Cloud
 ## Speaker: Nancy Hidy Wilson
 ## Title: Resolving the Database Performance Problem Blame Game 
@@ -399,7 +399,7 @@ You’ll learn tricks to:
 #  
 #### SessionID: 21298
 # Supercharging SQL
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Nancy Hidy Wilson
 ## Title: Supercharging SQL
@@ -408,7 +408,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 23094
 # SSAS - An Introduction to Multidimensional Cubes
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Robert Stewart
 ## Title: SSAS - An Introduction to Multidimensional Cubes
@@ -417,7 +417,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 23689
 # Introduction to BIML and BIMLScript
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Russel Loski
 ## Title: Introduction to BIML and BIMLScript
@@ -426,7 +426,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 23690
 # SSIS project deployments with multiple developers
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Russel Loski
 ## Title: SSIS project deployments with multiple developers
@@ -438,7 +438,7 @@ In this session I demonstrate common problems that arise in the package developm
 #  
 #### SessionID: 23740
 # SQL 2012 AlwaysOn Quickstart
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Ryan Adams
 ## Title: SQL 2012 AlwaysOn Quickstart
@@ -447,7 +447,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 23742
 # How Active Directory affects SQL Server
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Ryan Adams
 ## Title: How Active Directory affects SQL Server
@@ -456,7 +456,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 24164
 # Top 5 SQL Server 2014 Hybrid Features
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA \ BI \ Cloud
 ## Speaker: Scott Klein
 ## Title: Top 5 SQL Server 2014 Hybrid Features
@@ -465,7 +465,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA \ BI \ Cloud
 #  
 #### SessionID: 24165
 # SQL Server 2014 OLTP Deep  Dive
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA \ BI \ Cloud
 ## Speaker: Scott Klein
 ## Title: SQL Server 2014 OLTP Deep  Dive
@@ -474,7 +474,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA \ BI \ Cloud
 #  
 #### SessionID: 24245
 # DIY Performance Reporting
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Sean McCown
 ## Title: DIY Performance Reporting
@@ -483,7 +483,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 24399
 # Expand your TSQL: Intersect, Except, and Apply
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 ## Speaker: Rudy Rodarte
 ## Title: Expand your TSQL: Intersect, Except, and Apply
@@ -492,7 +492,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 #  
 #### SessionID: 24429
 # SQL Server Agent: The life preserver for the drowning DBA
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Lance Tidwell
 ## Title: SQL Server Agent: The life preserver for the drowning DBA
@@ -505,7 +505,7 @@ In addition we will look into how to monitor the jobs and alerts created.  Lastl
 #  
 #### SessionID: 26010
 # 45 min to build your first SSRS report
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Tamera Clark
 ## Title: 45 min to build your first SSRS report
@@ -514,7 +514,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 26108
 # The Cloud and I
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Prof Dev \ Cloud
 ## Speaker: Anthony {Tex} Moreign
 ## Title: The Cloud and I
@@ -528,7 +528,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Prof Dev \ Cloud
 #  
 #### SessionID: 26529
 # Attributes  Hierarchies in Analysis Services 2012
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Thomas LeBlanc
 ## Title: Attributes  Hierarchies in Analysis Services 2012
@@ -538,7 +538,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 26530
 # Execution Plan Basics - Beginners
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA \ BI \ Cloud
 ## Speaker: Thomas LeBlanc
 ## Title: Execution Plan Basics - Beginners
@@ -550,7 +550,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA \ BI \ Cloud
 #  
 #### SessionID: 26624
 # Scripting in SSIS
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Tim Mitchell
 ## Title: Scripting in SSIS
@@ -561,7 +561,7 @@ In this session, we will explore both the Script Task and Script Component tools
 #  
 #### SessionID: 26625
 # 15 Quick Tips for SSIS Performance
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA \ BI \ Cloud
 ## Speaker: Tim Mitchell
 ## Title: 15 Quick Tips for SSIS Performance
@@ -572,7 +572,7 @@ In this session, we’ll focus on SSIS package performance, quickly reviewing 15
 #  
 #### SessionID: 26795
 # Windowing Functions
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 ## Speaker: Tim Costello
 ## Title: Windowing Functions
@@ -581,7 +581,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 #  
 #### SessionID: 26796
 # Pro Tips:  Tuning the data flow in SSIS
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Tim Costello
 ## Title: Pro Tips:  Tuning the data flow in SSIS
@@ -590,7 +590,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 27398
 # Edge Case Testing for the Database Professional
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 ## Speaker: Vicky Harp
 ## Title: Edge Case Testing for the Database Professional
@@ -599,7 +599,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 #  
 #### SessionID: 27400
 # Care and Feeding of Your System Databases
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA \ BI \ Cloud
 ## Speaker: Vicky Harp
 ## Title: Care and Feeding of Your System Databases
@@ -608,7 +608,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA \ BI \ Cloud
 #  
 #### SessionID: 34768
 # Introduction to PowerBI
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mark Moore
 ## Title: Introduction to PowerBI
@@ -617,7 +617,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 8904
 # Speed, Depth  Flexibility - Having it all with real-time SSAS
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Aashish Parekh
 ## Title: Speed, Depth  Flexibility - Having it all with real-time SSAS
@@ -627,7 +627,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 8920
 # Top 5 Ways to Write Effective triggers
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 ## Speaker: Aaron Bertrand
 ## Title: Top 5 Ways to Write Effective triggers
@@ -636,7 +636,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 #  
 #### SessionID: 8921
 # T-SQL : Bad Habits  Best Practices
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits  Best Practices
@@ -645,7 +645,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 #  
 #### SessionID: 8941
 # The Lost Science of Set Theory and Relational Algebra
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 ## Speaker: Aaron Cutshall
 ## Title: The Lost Science of Set Theory and Relational Algebra
@@ -654,7 +654,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 #  
 #### SessionID: 9038
 # Fundamentals of SAN, NAS and IP Storage
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Wesley Brown
 ## Title: Fundamentals of SAN, NAS and IP Storage
@@ -663,7 +663,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 9398
 # Mind your IO: Resource Governor shows you How
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Amit R S Bansal
 ## Title: Mind your IO: Resource Governor shows you How
@@ -672,7 +672,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 9841
 # Converting Unreliable Deployments Into Consistent Releases
-#### [Back to calendar](#SQLSaturday-#308---Houston-2014)
+#### [Back to calendar](#SQLSaturday-#308-Houston-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: AppDev
 ## Speaker: Thomas Norman
 ## Title: Converting Unreliable Deployments Into Consistent Releases

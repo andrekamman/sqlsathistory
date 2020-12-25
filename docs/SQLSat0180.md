@@ -11,7 +11,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10233
 # SQL Server TDE
-#### [Back to calendar](#SQLSaturday-#180---Nepal-2012)
+#### [Back to calendar](#SQLSaturday-#180-Nepal-2012)
 Event Date: 15-12-2012 - Session time: 00:00:00 - Track: Data Platform and Business Intelligence
 ## Speaker: Ben Miller
 ## Title: SQL Server TDE
@@ -21,7 +21,7 @@ Event Date: 15-12-2012 - Session time: 00:00:00 - Track: Data Platform and Busin
 #  
 #### SessionID: 19361
 # Smart Monitoring with SQL Server 2012 Extended Eve
-#### [Back to calendar](#SQLSaturday-#180---Nepal-2012)
+#### [Back to calendar](#SQLSaturday-#180-Nepal-2012)
 Event Date: 15-12-2012 - Session time: 00:00:00 - Track: Data Platform and Business Intelligence
 ## Speaker: Margarita Naumova
 ## Title: Smart Monitoring with SQL Server 2012 Extended Eve
@@ -31,7 +31,7 @@ Extended Events is a really powerful monitoring system in SQL Server which was i
 #  
 #### SessionID: 24423
 # SQL Server 2008 Database Internals
-#### [Back to calendar](#SQLSaturday-#180---Nepal-2012)
+#### [Back to calendar](#SQLSaturday-#180-Nepal-2012)
 Event Date: 15-12-2012 - Session time: 00:00:00 - Track: Data Platform and Business Intelligence
 ## Speaker: Shree Khanal
 ## Title: SQL Server 2008 Database Internals
@@ -40,7 +40,7 @@ Event Date: 15-12-2012 - Session time: 00:00:00 - Track: Data Platform and Busin
 #  
 #### SessionID: 27444
 # What DBAs Should Know About Windows Server 2012
-#### [Back to calendar](#SQLSaturday-#180---Nepal-2012)
+#### [Back to calendar](#SQLSaturday-#180-Nepal-2012)
 Event Date: 15-12-2012 - Session time: 00:00:00 - Track: Data Platform and Business Intelligence
 ## Speaker: Victor Isakov 
 ## Title: What DBAs Should Know About Windows Server 2012
@@ -49,7 +49,7 @@ Event Date: 15-12-2012 - Session time: 00:00:00 - Track: Data Platform and Busin
 #  
 #### SessionID: 34641
 # BI For (Almost) Everyone
-#### [Back to calendar](#SQLSaturday-#180---Nepal-2012)
+#### [Back to calendar](#SQLSaturday-#180-Nepal-2012)
 Event Date: 15-12-2012 - Session time: 00:00:00 - Track: Data Platform and Business Intelligence
 ## Speaker: Gogula Aryalingam
 ## Title: BI For (Almost) Everyone
@@ -59,7 +59,7 @@ This session will showcase how data in an OLTP database can be converted into BI
 #  
 #### SessionID: 34642
 # Integration 101
-#### [Back to calendar](#SQLSaturday-#180---Nepal-2012)
+#### [Back to calendar](#SQLSaturday-#180-Nepal-2012)
 Event Date: 15-12-2012 - Session time: 00:00:00 - Track: Data Platform and Business Intelligence
 ## Speaker: Gogula Aryalingam
 ## Title: Integration 101

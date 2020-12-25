@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 93929
 # Who, What, When. Monitoring usage of your MS BI stack
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Asgeir Gunnarsson
 ## Title: Who, What, When. Monitoring usage of your MS BI stack
@@ -36,7 +36,7 @@ At the end of the session all participants will leave with all the code as well 
 #  
 #### SessionID: 94162
 # Bringing AI to the edge - Azure Cognitive Services in docker containers
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Alexander Klein
 ## Title: Bringing AI to the edge - Azure Cognitive Services in docker containers
@@ -47,7 +47,7 @@ How can you use these API's if you don't want to send your data to an Azure Data
 #  
 #### SessionID: 95245
 # Managing Memory for Optimal Performance
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lord Richard Douglas
 ## Title: Managing Memory for Optimal Performance
@@ -58,7 +58,7 @@ You will leave with a much clearer understanding of how to monitor and manage me
 #  
 #### SessionID: 93154
 # Microsoft Power BI Deployment Types
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Philipp Lenz
 ## Title: Microsoft Power BI Deployment Types
@@ -67,7 +67,7 @@ Event Date: 14-09-2019 - Session time: 16:10:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93813
 # First steps with SQL Server on Docker
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bartosz Ratajczyk
 ## Title: First steps with SQL Server on Docker
@@ -78,7 +78,7 @@ Join me in the session where I will introduce you to the Docker containers world
 #  
 #### SessionID: 95536
 # Getting your ducks in a row - Understanding ordered data flows
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Daniel Hutmacher
 ## Title: Getting your ducks in a row - Understanding ordered data flows
@@ -91,7 +91,7 @@ Once you get these basics right, tuning will feel so much easier and execution p
 #  
 #### SessionID: 93210
 # It depends - don't mistake your Google search for my database knowledge
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Application  Database Development
 ## Speaker: Magnus Ahlkvist
 ## Title: It depends - don't mistake your Google search for my database knowledge
@@ -101,7 +101,7 @@ My powerpoints usually look terrible, so I will focus on T-SQL and execution pla
 #  
 #### SessionID: 94129
 # Azure SQL Database - Lessons learned from the trenches
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Azure SQL Database - Lessons learned from the trenches
@@ -110,7 +110,7 @@ Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 95296
 # SQL Server Availability Groups for dummies
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Broadbent
 ## Title: SQL Server Availability Groups for dummies
@@ -125,7 +125,7 @@ If you want to finally get to grips with SQL Server Always On Availability Group
 #  
 #### SessionID: 98258
 # Churn Norris: Retain your customers with Machine Learning
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Pau Sempere
 ## Title: Churn Norris: Retain your customers with Machine Learning
@@ -134,7 +134,7 @@ Event Date: 14-09-2019 - Session time: 16:10:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93309
 # What the Hekaton?!
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kalen Delaney
 ## Title: What the Hekaton?!
@@ -143,7 +143,7 @@ Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 94811
 # Don't Bite Off More Than You Can Chew - Take It in Chunks
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Don't Bite Off More Than You Can Chew - Take It in Chunks
@@ -156,7 +156,7 @@ I will also look at how you can use chunking for error handling: You want proces
 #  
 #### SessionID: 93669
 # The future of serverless computing
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: The future of serverless computing
@@ -169,7 +169,7 @@ This session will be useful for developers and architects who are seeking a way 
 #  
 #### SessionID: 93797
 # Construct Visual Data Flows by using Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ted Malone
 ## Title: Construct Visual Data Flows by using Azure Data Factory
@@ -180,7 +180,7 @@ In this session, attendees will be introduced to Azure Data Factory Mapping Data
 #  
 #### SessionID: 95552
 # AQP vs IQP - query optimization on steroids
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Application  Database Development
 ## Speaker: Damian Widera
 ## Title: AQP vs IQP - query optimization on steroids
@@ -192,7 +192,7 @@ I would like to present both the AQP and IQP to show what you can expect in the 
 #  
 #### SessionID: 93158
 # How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Aleksandar Talev
 ## Title: How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?
@@ -201,7 +201,7 @@ Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 95017
 # From adaptive to intelligent: query processing in SQL 2019
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: From adaptive to intelligent: query processing in SQL 2019
@@ -212,7 +212,7 @@ In this high-paced session, we will look at all these features and cover some us
 #  
 #### SessionID: 95554
 # Move part of your body to Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#898---Gothenburg-2019)
+#### [Back to calendar](#SQLSaturday-#898-Gothenburg-2019)
 Event Date: 14-09-2019 - Session time: 16:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kamil Nowinski
 ## Title: Move part of your body to Azure SQL Data Warehouse

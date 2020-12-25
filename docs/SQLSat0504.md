@@ -29,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 44984
 # SQL Server 2016 un vistazo a todo lo nuevo!
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eduardo Castro
 ## Title: SQL Server 2016 un vistazo a todo lo nuevo!
@@ -38,7 +38,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 44996
 # Construyendo mi primer modelo Tabular con Analysis Services
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Construyendo mi primer modelo Tabular con Analysis Services
@@ -47,7 +47,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 49217
 # T#233;cnicas en patrones de b#250;squedas (SSIS), Quien gana la carrera?
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jorge García
 ## Title: T#233;cnicas en patrones de b#250;squedas (SSIS), Quien gana la carrera?
@@ -56,7 +56,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 50287
 # SQL-Server-Azure
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Application  Database Development
 ## Speaker: Roberto Pena
 ## Title: SQL-Server-Azure
@@ -65,7 +65,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Application  Database D
 #  
 #### SessionID: 44309
 # Particionamiento y BD Parciales HA para VLDB
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Urena
 ## Title: Particionamiento y BD Parciales HA para VLDB
@@ -74,7 +74,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46568
 # Procesando XML de Estructuras Complejas con SSIS
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Application  Database Development
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Procesando XML de Estructuras Complejas con SSIS
@@ -83,7 +83,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Application  Database D
 #  
 #### SessionID: 49222
 # Calling the doctor to the number "DMV"
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Application  Database Development
 ## Speaker: Ahias Portillo
 ## Title: Calling the doctor to the number "DMV"
@@ -92,7 +92,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Application  Database D
 #  
 #### SessionID: 49250
 # En Data Warehouse debo usar Valores por defecto o por Default?
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Information Delivery
 ## Speaker: Ricardo Estrada
 ## Title: En Data Warehouse debo usar Valores por defecto o por Default?
@@ -101,7 +101,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 49266
 # Modelos Mentales en BI: Implementaci#243;n pr#225;ctica en Finanzas
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Other
 ## Speaker: Javier Loria
 ## Title: Modelos Mentales en BI: Implementaci#243;n pr#225;ctica en Finanzas
@@ -110,7 +110,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Other
 #  
 #### SessionID: 50290
 # Power BI On Cloud (Parte II)
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Information Delivery
 ## Speaker: Ahias Portillo
 ## Title: Power BI On Cloud (Parte II)
@@ -119,7 +119,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 44308
 # Hered#233; una base de datos, y ahora que hago?
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Urena
 ## Title: Hered#233; una base de datos, y ahora que hago?
@@ -128,7 +128,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44985
 # Introducci#243;n al an#225;lisis predictivo con SQL Server y Lenguaje R
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: Introducci#243;n al an#225;lisis predictivo con SQL Server y Lenguaje R
@@ -137,7 +137,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 49264
 # Construyendo una Dimension de Tiempo Excepcional
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: Construyendo una Dimension de Tiempo Excepcional
@@ -146,7 +146,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 50153
 # Me, a Data Scientist?
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Fabricio Quintanilla
 ## Title: Me, a Data Scientist?
@@ -156,7 +156,7 @@ In this session, you will learn which skills should be met to be named a real "D
 #  
 #### SessionID: 50405
 # Balanceo de Carga en Instancias  y Websites en Azure
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Javier Calderón
 ## Title: Balanceo de Carga en Instancias  y Websites en Azure
@@ -165,7 +165,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 44995
 # Analysis Services Multidimensional vs Tabular
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Analysis Services Multidimensional vs Tabular
@@ -174,7 +174,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 49252
 # Tuning con QUERY STORE la nueva caracter#237;stica de SQL 2016
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ricardo Estrada
 ## Title: Tuning con QUERY STORE la nueva caracter#237;stica de SQL 2016
@@ -186,7 +186,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49291
 # Data Profiling (SSIS)- Herramienta #250;til para el perfilamiento de Datos
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Maristel Castro Montero
 ## Title: Data Profiling (SSIS)- Herramienta #250;til para el perfilamiento de Datos
@@ -195,7 +195,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 50288
 # Seguridad Integral en las Empresas
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Other
 ## Speaker: Pablo Ruizs
 ## Title: Seguridad Integral en las Empresas
@@ -204,7 +204,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Other
 #  
 #### SessionID: 50398
 # Power BI On Premise (Parte 1)
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Information Delivery
 ## Speaker: Yanitza Campos
 ## Title: Power BI On Premise (Parte 1)
@@ -213,7 +213,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 46569
 # SQL Server 2016: Row Level Security
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Application  Database Development
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: SQL Server 2016: Row Level Security
@@ -222,7 +222,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Application  Database D
 #  
 #### SessionID: 46591
 # Expandiendo las fronteras de SSIS (Cargando datos desde Web Services JSON)
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mario Guzman
 ## Title: Expandiendo las fronteras de SSIS (Cargando datos desde Web Services JSON)
@@ -231,7 +231,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 50289
 # Tendencia a la Nube
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Other
 ## Speaker: Sen Ceron
 ## Title: Tendencia a la Nube
@@ -240,7 +240,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Other
 #  
 #### SessionID: 50330
 # Visual Studio  SQL Server Better Together
-#### [Back to calendar](#SQLSaturday-#504---El-Salvador-2016)
+#### [Back to calendar](#SQLSaturday-#504-El-Salvador-2016)
 Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Professional Development
 ## Speaker: David Sánchez Aguilar
 ## Title: Visual Studio  SQL Server Better Together

@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 40468
 # From Here to Azure
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas LaRock
 ## Title: From Here to Azure
@@ -53,7 +53,7 @@ Attendees of this session will learn (1) How to decide if IaaS of PaaS is the ri
 #  
 #### SessionID: 41854
 # Know what your machines are doing besides SQL Server - WMI, WQL, and PoSH
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Bourgon
 ## Title: Know what your machines are doing besides SQL Server - WMI, WQL, and PoSH
@@ -64,7 +64,7 @@ We'll finish it off with two immediately-usable implementations you can set up o
 #  
 #### SessionID: 41862
 # Enforce Best Practices with CMS and Policy Based Management
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ryan Adams
 ## Title: Enforce Best Practices with CMS and Policy Based Management
@@ -73,7 +73,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41901
 # Using Power BI when Implementing Data Analytics Management Practices
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: BI Information Delivery
 ## Speaker: Ginger Grant
 ## Title: Using Power BI when Implementing Data Analytics Management Practices
@@ -82,7 +82,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: BI Information Delivery
 #  
 #### SessionID: 41979
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -91,7 +91,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Professional Developmen
 #  
 #### SessionID: 41993
 # Designing Stored Procedure Solutions
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Designing Stored Procedure Solutions
@@ -110,7 +110,7 @@ This session is for data professionals who can write T-SQL, but haven't spent a 
 #  
 #### SessionID: 39001
 # Introducing Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Hazzard
 ## Title: Introducing Azure Data Factory
@@ -119,7 +119,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40628
 # Introduction to Time Series Forecasting
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Peter Myers
 ## Title: Introduction to Time Series Forecasting
@@ -132,7 +132,7 @@ Topics will include Analysis Services forecasting by using the Microsoft Time Se
 #  
 #### SessionID: 41048
 # SQL Server Deprecated and Discontinued Features
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Nancy Hidy Wilson
 ## Title: SQL Server Deprecated and Discontinued Features
@@ -141,7 +141,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41415
 # Continuous Deployments using SSDT
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Christopher Wolff
 ## Title: Continuous Deployments using SSDT
@@ -150,7 +150,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 41868
 # Fun Facts about Availability Groups
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joe Hellsten
 ## Title: Fun Facts about Availability Groups
@@ -160,7 +160,7 @@ For Example  "max worker threads" minus 40 or Cross database ownership chaining 
 #  
 #### SessionID: 45750
 # Introducing SQL Server 2016 (Part One)
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: DBA Track
 ## Speaker: Conor Cunningham
 ## Title: Introducing SQL Server 2016 (Part One)
@@ -169,7 +169,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: DBA Track
 #  
 #### SessionID: 40213
 # Database Virtualization (Monster VM) – Vsphere 6
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Corey
 ## Title: Database Virtualization (Monster VM) – Vsphere 6
@@ -178,7 +178,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41857
 # Making the Leap from Developer to DBA
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Professional Development
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
@@ -187,7 +187,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Professional Developmen
 #  
 #### SessionID: 41977
 # Parameter Sniffing the Good, the Bad and the Ugly
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Lance Tidwell
 ## Title: Parameter Sniffing the Good, the Bad and the Ugly
@@ -196,7 +196,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 41989
 # Testing SSIS Packages
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Testing SSIS Packages
@@ -214,7 +214,7 @@ This session walks through design patterns for testing SSIS packages during and 
 #  
 #### SessionID: 41999
 # Monster Text Manipulation: Regular Expressions for the DBA
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
@@ -229,7 +229,7 @@ Here you’ll learn:
 #  
 #### SessionID: 45751
 # Introducing SQL Server 2016 (Part Two)
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: DBA Track
 ## Speaker: Conor Cunningham
 ## Title: Introducing SQL Server 2016 (Part Two)
@@ -239,7 +239,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: DBA Track
 #  
 #### SessionID: 45908
 # Transform SQL Server Agility with XtremIO
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Other
 ## Speaker: Bryan Walsh
 ## Title: Transform SQL Server Agility with XtremIO
@@ -248,7 +248,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Other
 #  
 #### SessionID: 39077
 # SQL Server 2014/2016 In Memory Technologies - OLTP (aka Hekaton)  ColumnSt
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Reinaldo Kibel
 ## Title: SQL Server 2014/2016 In Memory Technologies - OLTP (aka Hekaton)  ColumnSt
@@ -258,7 +258,7 @@ Having participated in SQL14/SQL15/Hekaton TAP, I'll be showing demo on both of 
 #  
 #### SessionID: 39269
 # ColumnStore Index: Microsoft SQL Server 2014 and Beyond
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jayaprakash Jothiraman
 ## Title: ColumnStore Index: Microsoft SQL Server 2014 and Beyond
@@ -277,7 +277,7 @@ You will also learn what is available new in SQL Server 2012, SQL Server 2014 an
 #  
 #### SessionID: 40624
 # Azure Machine Learning: From Design to Integration
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Peter Myers
 ## Title: Azure Machine Learning: From Design to Integration
@@ -288,7 +288,7 @@ This session has been specifically designed to describe machine learning fundame
 #  
 #### SessionID: 41392
 # The Data Warehouse of the Future
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stan Geiger
 ## Title: The Data Warehouse of the Future
@@ -297,7 +297,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 41863
 # Backup and Restore Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ryan Adams
 ## Title: Backup and Restore Tips and Tricks
@@ -306,7 +306,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42371
 # Database Design Throwdown
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Karen Lopez
 ## Title: Database Design Throwdown
@@ -317,7 +317,7 @@ Attend this new and improved session and join the debate about the pros and cons
 #  
 #### SessionID: 40609
 # Configuring SQL Server for Mission Critical and Scalable Deployments
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Suresh Kandoth
 ## Title: Configuring SQL Server for Mission Critical and Scalable Deployments
@@ -327,7 +327,7 @@ The goal of this session to help you and guide you to perform successful deploym
 #  
 #### SessionID: 41072
 # Mission Possible: Interactive Performance Troubleshooting - Index
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Murphy
 ## Title: Mission Possible: Interactive Performance Troubleshooting - Index
@@ -336,7 +336,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41844
 # "Can I Get A Report of This?":  Introduction to SSRS
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeremy Frye
 ## Title: "Can I Get A Report of This?":  Introduction to SSRS
@@ -345,7 +345,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 41931
 # Overview of Security Investments in SQL Server 2016 and Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jamey Johnston
 ## Title: Overview of Security Investments in SQL Server 2016 and Azure SQL Database
@@ -355,7 +355,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41961
 # Make Your SQL Server Queries Go Faster
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: Make Your SQL Server Queries Go Faster
@@ -364,7 +364,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42021
 # Changing Your Habits to Improve the Performance of Your T-SQL
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Mickey Stuewe
 ## Title: Changing Your Habits to Improve the Performance of Your T-SQL
@@ -373,7 +373,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 38606
 # Strategies for Working with Texas-sized Databases
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Davis
 ## Title: Strategies for Working with Texas-sized Databases
@@ -384,7 +384,7 @@ Working with very large databases can be difficult and tricky at times. Everythi
 #  
 #### SessionID: 38759
 # SS2014 In-Memory Tables:  Formula 1 Performance Unleashed!
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SS2014 In-Memory Tables:  Formula 1 Performance Unleashed!
@@ -399,7 +399,7 @@ After this session you will
 #  
 #### SessionID: 39158
 # Analyze your query plan like a Microsoft Engineer!
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Janik
 ## Title: Analyze your query plan like a Microsoft Engineer!
@@ -408,7 +408,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 39789
 # SQL Server Database Encryption (TDE)
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: SQL Server Database Encryption (TDE)
@@ -417,7 +417,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41145
 # Service Broker: Coach your processes asynchronously
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Service Broker: Coach your processes asynchronously
@@ -427,7 +427,7 @@ Event Date: 30-01-2016 - Session time: 16:20:00 - Track: Application  Database D
 #  
 #### SessionID: 41990
 # Introduction to Biml
-#### [Back to calendar](#SQLSaturday-#461---Austin-2016)
+#### [Back to calendar](#SQLSaturday-#461-Austin-2016)
 Event Date: 30-01-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Introduction to Biml

@@ -53,7 +53,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 37624
 # Crash course on becoming better SQL Developer.
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash course on becoming better SQL Developer.
@@ -62,7 +62,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37632
 # SSIS 2014 Data Flow Tuning Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: SSIS 2014 Data Flow Tuning Tips and Tricks
@@ -71,7 +71,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 37862
 # PowerShell Basics for SQLServer
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Wharton
 ## Title: PowerShell Basics for SQLServer
@@ -80,7 +80,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38134
 # SQL Clinic 
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Harsh Deep Singh
 ## Title: SQL Clinic 
@@ -92,7 +92,7 @@ If you do not have problems or questions you can just sit in and learn what kind
 #  
 #### SessionID: 38220
 # First Look at SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Heiges
 ## Title: First Look at SQL Server 2016
@@ -101,7 +101,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39109
 # Getting Started with SSIS Script Tasks and Components
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: John Welch
 ## Title: Getting Started with SSIS Script Tasks and Components
@@ -111,7 +111,7 @@ Many data movement activities can be handled with SSIS using the built-in tasks 
 #  
 #### SessionID: 39840
 # Introduction To R For Sql Developers
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Kiran Math
 ## Title: Introduction To R For Sql Developers
@@ -127,7 +127,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 40152
 # Tone Analysis with HDInsight and Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Paco Gonzalez
 ## Title: Tone Analysis with HDInsight and Azure Machine Learning
@@ -136,7 +136,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 37630
 # Getting the Skinny on Minimally Logged Operations
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Kelly
 ## Title: Getting the Skinny on Minimally Logged Operations
@@ -145,7 +145,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37638
 # Scripting out SQL Server for Documentation and Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Scripting out SQL Server for Documentation and Disaster Recovery
@@ -157,7 +157,7 @@ Objects exported include: SQL Agent Jobs/Alerts/Schedules, NT Service Credential
 #  
 #### SessionID: 37828
 # Beginners SQL Server Security the Low Hanging Fruit
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lindsay Clark
 ## Title: Beginners SQL Server Security the Low Hanging Fruit
@@ -166,7 +166,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38511
 # Analysis Services: Show Me Where It Hurts
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bill Anton
 ## Title: Analysis Services: Show Me Where It Hurts
@@ -179,7 +179,7 @@ Join this "something-everyone-should-be-doing-but-isn't" session, in which we wi
 #  
 #### SessionID: 39370
 # Power BI: Architecture, Integration Points, Implementation Options
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melissa Coates
 ## Title: Power BI: Architecture, Integration Points, Implementation Options
@@ -188,7 +188,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 39794
 # Scalable Application Design with Service Broker
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Allen White
 ## Title: Scalable Application Design with Service Broker
@@ -197,7 +197,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 40077
 # Trust Your Data with Data Quality Services
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Justin Ward
 ## Title: Trust Your Data with Data Quality Services
@@ -206,7 +206,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 40193
 # Planning for Virtualization
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Other
 ## Speaker: Brian Carrig
 ## Title: Planning for Virtualization
@@ -215,7 +215,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Other
 #  
 #### SessionID: 37636
 # Table Partitioning Intro and make that a sliding window too!
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Reinhard
 ## Title: Table Partitioning Intro and make that a sliding window too!
@@ -225,7 +225,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37707
 # Much Ado About Hadoop
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Other
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
@@ -234,7 +234,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Other
 #  
 #### SessionID: 37829
 # Managing Complex Workloads Using the SQL Server 2014 Resource Governor
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Denis McDowell
 ## Title: Managing Complex Workloads Using the SQL Server 2014 Resource Governor
@@ -243,7 +243,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37875
 # Statistics are hidden treasure.
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Slava Murygin
 ## Title: Statistics are hidden treasure.
@@ -258,7 +258,7 @@ Also, will show how to use statistics in your day-to-day life and benefit from i
 #  
 #### SessionID: 38093
 # Introduction to R Programming
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Jake Switzer
 ## Title: Introduction to R Programming
@@ -267,7 +267,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 39007
 # From T4 to BimlScript
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Kevin Hazzard
 ## Title: From T4 to BimlScript
@@ -276,7 +276,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 39459
 # Managing a Production Azure SQL Database - True Story!
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jason Hall
 ## Title: Managing a Production Azure SQL Database - True Story!
@@ -287,7 +287,7 @@ I'd like to share some of the lessons I've learned in hopes that it can save oth
 #  
 #### SessionID: 40194
 # Small Scale Data Collection Using PowerShell -  Going NSA Style!
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Other
 ## Speaker: Jana Sattainathan
 ## Title: Small Scale Data Collection Using PowerShell -  Going NSA Style!
@@ -296,7 +296,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Other
 #  
 #### SessionID: 40879
 # Looking for the Power BI on-prem alternative?
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Mark Scott
 ## Title: Looking for the Power BI on-prem alternative?
@@ -307,7 +307,7 @@ Do you want to allow your business users to build Tabular models on the fly, or 
 #  
 #### SessionID: 41338
 # Profisee: Learn How To Build A Golden Record for Any Subject
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Sponsored Session
 ## Speaker: Gene Webb
 ## Title: Profisee: Learn How To Build A Golden Record for Any Subject
@@ -321,7 +321,7 @@ o   Improve data quality, data stewardship, workflow, and data sharing with any 
 #  
 #### SessionID: 41339
 # Pyramid Analytics:  Looking for the Power BI on-prem alternative
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Sponsored Session
 ## Speaker: Mark Scott
 ## Title: Pyramid Analytics:  Looking for the Power BI on-prem alternative
@@ -332,7 +332,7 @@ Do you want to allow your business users to build Tabular models on the fly, or 
 #  
 #### SessionID: 41342
 # Better Managed Services Through Monitoring with UpSearch and SQL Sentry
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Sponsored Session
 ## Speaker: Scott Fallen
 ## Title: Better Managed Services Through Monitoring with UpSearch and SQL Sentry
@@ -341,7 +341,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Sponsored Session
 #  
 #### SessionID: 41343
 # DELL SQL Server Solutions
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Sponsored Session
 ## Speaker: Vera Takakura
 ## Title: DELL SQL Server Solutions
@@ -350,7 +350,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Sponsored Session
 #  
 #### SessionID: 37672
 # Building Your Yellow Brick Road: Directing Your Path to a Successful Career
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Justin Randall
 ## Title: Building Your Yellow Brick Road: Directing Your Path to a Successful Career
@@ -359,7 +359,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 38487
 # Azure SQL Database - Is it right for my organization?
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Lori Clark
 ## Title: Azure SQL Database - Is it right for my organization?
@@ -368,7 +368,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 38813
 # There May Be No Free Lunch But You Can Have Free Training
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Meagan Longoria
 ## Title: There May Be No Free Lunch But You Can Have Free Training
@@ -377,7 +377,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 39719
 # What's in a Date? Avoiding confusion with Dates, Times, and Durations
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Nate West
 ## Title: What's in a Date? Avoiding confusion with Dates, Times, and Durations
@@ -386,7 +386,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 39824
 # Creating a Performance Monitoring Solution for SQL Server BI Suite
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melvin Black
 ## Title: Creating a Performance Monitoring Solution for SQL Server BI Suite
@@ -395,7 +395,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 40008
 # Making Predictions with Microsoft Data Mining Tools
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Other
 ## Speaker: Mark Hudson
 ## Title: Making Predictions with Microsoft Data Mining Tools
@@ -404,7 +404,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Other
 #  
 #### SessionID: 40009
 # Configuring and using PolyBase to interact with Hadoop
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Montrial Harrell
 ## Title: Configuring and using PolyBase to interact with Hadoop
@@ -413,7 +413,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 40024
 # Disaster Recovery Where to Begin
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Other
 ## Speaker: Tracy Boggiano
 ## Title: Disaster Recovery Where to Begin
@@ -422,7 +422,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Other
 #  
 #### SessionID: 40190
 # Secure/Encrypt SQL Server Database With TDE
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Chan
 ## Title: Secure/Encrypt SQL Server Database With TDE
@@ -431,7 +431,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41074
 # SQL Server and Azure
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Rich Cargile
 ## Title: SQL Server and Azure
@@ -442,7 +442,7 @@ In this session, we will learn some details of using SQL Server 2014 with Azure,
 #  
 #### SessionID: 37681
 # Policy Based Management: Introduction and Implementation
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ryan Brickey
 ## Title: Policy Based Management: Introduction and Implementation
@@ -451,7 +451,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37691
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -460,7 +460,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37727
 # Introducing Forensic Analytics with PowerPivot for Excel
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: William E Pearson III
 ## Title: Introducing Forensic Analytics with PowerPivot for Excel
@@ -470,7 +470,7 @@ In this session, we explore Forensic Analytics: a set of techniques we can use t
 #  
 #### SessionID: 39141
 # Status of the Charlotte IT Marketplace
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Leveat Ruse
 ## Title: Status of the Charlotte IT Marketplace
@@ -479,7 +479,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 39157
 # Database Corruption
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Other
 ## Speaker: Stephen Muliokela
 ## Title: Database Corruption
@@ -490,7 +490,7 @@ I will also give examples of how to verify integrity of backups. Backups are ess
 #  
 #### SessionID: 39401
 # No Money for Performance Monitoring Tools? No Problem!
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Keisler
 ## Title: No Money for Performance Monitoring Tools? No Problem!
@@ -499,7 +499,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39608
 # Getting Started With Execution Plans
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Scott Fallen
 ## Title: Getting Started With Execution Plans
@@ -510,7 +510,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39959
 # Beginning Azure
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Thomas Norman
 ## Title: Beginning Azure
@@ -519,7 +519,7 @@ Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 40687
 # Enhancing Data and Predictive Analytics with NoSQL
-#### [Back to calendar](#SQLSaturday-#452---Charlotte-2015)
+#### [Back to calendar](#SQLSaturday-#452-Charlotte-2015)
 Event Date: 17-10-2015 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Cornell Emile
 ## Title: Enhancing Data and Predictive Analytics with NoSQL

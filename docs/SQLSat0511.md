@@ -33,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 44333
 # Scripting out SQL Server for Documentation and Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Scripting out SQL Server for Documentation and Disaster Recovery
@@ -45,7 +45,7 @@ Objects exported include: SQL Agent Jobs/Alerts/Schedules, NT Service Credential
 #  
 #### SessionID: 44436
 # In-Memory Analytics using Columnstore Index in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sunil Agarwal
 ## Title: In-Memory Analytics using Columnstore Index in SQL Server 2016
@@ -54,7 +54,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44527
 # Top 10 Wait Types Everyone Should Know
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Top 10 Wait Types Everyone Should Know
@@ -63,7 +63,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45479
 # Introduction to Wait Types and Response Time Analysis
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dean Richards
 ## Title: Introduction to Wait Types and Response Time Analysis
@@ -72,7 +72,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46150
 # Life Balance - Sad Realities of Divorce, Optimizations and Being On Call
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Eric Crew
 ## Title: Life Balance - Sad Realities of Divorce, Optimizations and Being On Call
@@ -81,7 +81,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 47488
 # Keep your confidential data out of the prying eyes of your DBA
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Greg Larsen
 ## Title: Keep your confidential data out of the prying eyes of your DBA
@@ -90,7 +90,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44335
 # Intro to Monitoring I/O: The Counters That Count
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: J May
 ## Title: Intro to Monitoring I/O: The Counters That Count
@@ -99,7 +99,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44435
 # Real Time Operational Analtyics in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Sunil Agarwal
 ## Title: Real Time Operational Analtyics in SQL Server 2016
@@ -108,7 +108,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 45091
 # It’s Time for a Change : Temporal Table Support in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vern Rabe
 ## Title: It’s Time for a Change : Temporal Table Support in SQL Server 2016
@@ -119,7 +119,7 @@ In this session we’ll discuss how you can benefit from temporal support in you
 #  
 #### SessionID: 45232
 # Diversity Panel: Career Decisions
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Cindy Gross
 ## Title: Diversity Panel: Career Decisions
@@ -131,7 +131,7 @@ Cindy Gross / Panelists: Aviva Stephens, Julie Koesmarno, Scott Senkeresty, Soni
 #  
 #### SessionID: 45272
 # Microsoft and Big Data - An Overview of the Power Tools and more!
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: David Patrick
 ## Title: Microsoft and Big Data - An Overview of the Power Tools and more!
@@ -140,7 +140,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 48210
 # Be Friendly to SQL Server with TSQL Best Practices
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: Be Friendly to SQL Server with TSQL Best Practices
@@ -150,7 +150,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49188
 # Transform Database Agility with XtremIO
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Vendor 
 ## Speaker: Bryan Walsh
 ## Title: Transform Database Agility with XtremIO
@@ -159,7 +159,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Vendor
 #  
 #### SessionID: 44402
 # The Art and the Science of Designing a Mission Critical SQL Server Solution
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Maxwell Myrick
 ## Title: The Art and the Science of Designing a Mission Critical SQL Server Solution
@@ -168,7 +168,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 44528
 # Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
@@ -177,7 +177,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45144
 # Moving Beyond Unconscious Bias
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Cindy Gross
 ## Title: Moving Beyond Unconscious Bias
@@ -186,7 +186,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 45705
 # TempDB… Do this and don’t do that.
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steve Stedman
 ## Title: TempDB… Do this and don’t do that.
@@ -197,7 +197,7 @@ We will start by taking a look at what TempDB is, how it is used, and why this i
 #  
 #### SessionID: 48211
 # SQL Server Encryption
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: SQL Server Encryption
@@ -206,7 +206,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44526
 # Seamlessly Scaling Azure SQL DB with Elastic Database Tools
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Silvia Doomra
 ## Title: Seamlessly Scaling Azure SQL DB with Elastic Database Tools
@@ -215,7 +215,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 44999
 # Analyze your query plan like a Microsoft Engineer!
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Janik
 ## Title: Analyze your query plan like a Microsoft Engineer!
@@ -224,7 +224,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 45413
 # Query Optimization Statistics – the Driving Force Behind Good Performance
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vern Rabe
 ## Title: Query Optimization Statistics – the Driving Force Behind Good Performance
@@ -233,7 +233,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45920
 # Troubleshooting made easier using Extended events
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amit Banerjee
 ## Title: Troubleshooting made easier using Extended events
@@ -243,7 +243,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46164
 # Inside and out of Transactional Replication
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chuck Lathrope
 ## Title: Inside and out of Transactional Replication
@@ -252,7 +252,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45028
 # From Data Engineers to Data Scientist: Customer Experiences with R in SQL16
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sanjay Mishra
 ## Title: From Data Engineers to Data Scientist: Customer Experiences with R in SQL16
@@ -261,7 +261,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45040
 # What you're missing out on if you're not using Master Data Services
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Moss
 ## Title: What you're missing out on if you're not using Master Data Services
@@ -274,7 +274,7 @@ This presentation will outline some of the core MDS functionality and will provi
 #  
 #### SessionID: 45546
 # Anatomy of an I/O Tuning Exercise
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Theresa Iserman
 ## Title: Anatomy of an I/O Tuning Exercise
@@ -283,7 +283,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45675
 # Azure SQL DB Monitoring  Performance Tuning
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Julie Koesmarno
 ## Title: Azure SQL DB Monitoring  Performance Tuning
@@ -292,7 +292,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46050
 # Table Partitioning -Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#511---Redmond-2016)
+#### [Back to calendar](#SQLSaturday-#511-Redmond-2016)
 Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Arnie Rowland
 ## Title: Table Partitioning -Beyond the Basics

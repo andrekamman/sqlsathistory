@@ -33,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 90152
 # The Date Conspiracy
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Application  Database Development
 ## Speaker: Peter Larsson
 ## Title: The Date Conspiracy
@@ -44,7 +44,7 @@ After this session you will master new smooth tricks about dates.
 #  
 #### SessionID: 90161
 # Performance troubleshooting in the Analysis Services Tabular and PowerBI world
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ivan Donev
 ## Title: Performance troubleshooting in the Analysis Services Tabular and PowerBI world
@@ -53,7 +53,7 @@ Event Date: 12-10-2019 - Session time: 18:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 90354
 # Time intelligence function in DAX
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Boriana Petrova
 ## Title: Time intelligence function in DAX
@@ -62,7 +62,7 @@ Event Date: 12-10-2019 - Session time: 18:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 92136
 # Database Adventure
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Chant
 ## Title: Database Adventure
@@ -73,7 +73,7 @@ Each selection will have a different outcome, and along the way you will probabl
 #  
 #### SessionID: 90151
 # Embedding Power BI in your application
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Application  Database Development
 ## Speaker: Andrey Nikolov
 ## Title: Embedding Power BI in your application
@@ -82,7 +82,7 @@ Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Application  Database D
 #  
 #### SessionID: 96854
 # ML on the Edge
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Catalin Gheorghiu
 ## Title: ML on the Edge
@@ -91,7 +91,7 @@ Event Date: 12-10-2019 - Session time: 18:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 96922
 # Practical Adaptive Query Processing in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Margarita Naumova
 ## Title: Practical Adaptive Query Processing in SQL Server 2019
@@ -100,7 +100,7 @@ Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 96923
 # SQL Server Big Data Cluster
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rozalina Zaharieva
 ## Title: SQL Server Big Data Cluster
@@ -110,7 +110,7 @@ During this session we will go over the architecture of the platform and we will
 #  
 #### SessionID: 90158
 # SQL Graph Databases: Beyond Relational
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Application  Database Development
 ## Speaker: Dennes Torres
 ## Title: SQL Graph Databases: Beyond Relational
@@ -121,7 +121,7 @@ In this session, you will discover how Graph Databases in SQL Server works and w
 #  
 #### SessionID: 95585
 # The intelligent Firing Range (Building Server-less python applications)
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Francesco Sbrescia
 ## Title: The intelligent Firing Range (Building Server-less python applications)
@@ -133,7 +133,7 @@ At the end of the session you'll have an understanding of how to set up these di
 #  
 #### SessionID: 95984
 # Successful Enterprise Roll-out of Power BI
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Analytics and Visualization
 ## Speaker: Lazaros Viastikopoulos
 ## Title: Successful Enterprise Roll-out of Power BI
@@ -145,7 +145,7 @@ this session looks to address how Power BI should be deployed and managed in an 
 #  
 #### SessionID: 99034
 # A star is born - a.k.a. Power BI data modeling
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: BI Information Delivery
 ## Speaker: Diana Tisheva
 ## Title: A star is born - a.k.a. Power BI data modeling
@@ -154,7 +154,7 @@ Event Date: 12-10-2019 - Session time: 18:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 95872
 # The Maths Behind Machine Learning
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matt Willis
 ## Title: The Maths Behind Machine Learning
@@ -167,7 +167,7 @@ If you would like an introduction to the world of Machine Learning and to acquir
 #  
 #### SessionID: 96119
 # Learn how to build a real-time analytics solution
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose Mendes
 ## Title: Learn how to build a real-time analytics solution
@@ -180,7 +180,7 @@ At the end of the session, you will have learned how to ingest, store, prepare a
 #  
 #### SessionID: 96333
 # ML in PowerBI for Business and Pros
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ivelin Andreev
 ## Title: ML in PowerBI for Business and Pros
@@ -192,7 +192,7 @@ This session is not about learning how to do AI but how to make AI usable and ad
 #  
 #### SessionID: 96824
 # Possiblities and Limitations of System-Versioned Temporal Tables beyond the Basics
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Application  Database Development
 ## Speaker: Reinhard Flügel
 ## Title: Possiblities and Limitations of System-Versioned Temporal Tables beyond the Basics
@@ -201,7 +201,7 @@ Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Application  Database D
 #  
 #### SessionID: 90587
 # Climbing the SQL Server Index B-Tree
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: Climbing the SQL Server Index B-Tree
@@ -220,7 +220,7 @@ performance, and the right indexes will give your application a big performance 
 #  
 #### SessionID: 96899
 # Hidden force of the PowerQuery. Powerful ETL  AI integration
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ruslan Zolotukhin
 ## Title: Hidden force of the PowerQuery. Powerful ETL  AI integration
@@ -229,7 +229,7 @@ Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 99125
 # An evolution of the database: Scalable and Distributed SQL
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Application  Database Development
 ## Speaker: Boris Simandoff
 ## Title: An evolution of the database: Scalable and Distributed SQL
@@ -238,7 +238,7 @@ Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Application  Database D
 #  
 #### SessionID: 99167
 # Make sense of real-time data using Elasticsearch
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Analytics and Visualization
 ## Speaker: Emanuil Tolev
 ## Title: Make sense of real-time data using Elasticsearch
@@ -247,7 +247,7 @@ Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 90500
 # Hidden gems of SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Application  Database Development
 ## Speaker: Denis Reznik
 ## Title: Hidden gems of SQL Server 2017
@@ -258,7 +258,7 @@ In this session, we will learn a lot about these features and improvements. Whic
 #  
 #### SessionID: 96051
 # Practical Power BI
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: BI Information Delivery
 ## Speaker: Vitali Burla
 ## Title: Practical Power BI
@@ -267,7 +267,7 @@ Event Date: 12-10-2019 - Session time: 18:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 96390
 # Connecting IoT data with artificial intelligence at scale
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Mihail Mateev
 ## Title: Connecting IoT data with artificial intelligence at scale
@@ -279,7 +279,7 @@ The concept is explained in the context of Azure IoT and Azure AI platforms.
 #  
 #### SessionID: 99126
 # Elasticsearch with Azure
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Miroslav Lessev
 ## Title: Elasticsearch with Azure
@@ -289,7 +289,7 @@ Users can start with a free 14-day trial by only email registration.
 #  
 #### SessionID: 93798
 # BI Powers - The A.I. Who Tagged Me
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Analytics and Visualization
 ## Speaker: André Melancia
 ## Title: BI Powers - The A.I. Who Tagged Me
@@ -299,7 +299,7 @@ Disclaimer: A.I. will eventually take over the world. Unlike Doctor Evil, it won
 #  
 #### SessionID: 94110
 # Driven by the 9s - I need a highly available Microsoft Data Platform – what features should I use?
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gethyn Ellis
 ## Title: Driven by the 9s - I need a highly available Microsoft Data Platform – what features should I use?
@@ -312,7 +312,7 @@ In this session we will look at how we can combine SQL Server Availability Group
 #  
 #### SessionID: 96806
 # Microsoft PowerApps: Creating apps with less time  effort
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jason Bonello
 ## Title: Microsoft PowerApps: Creating apps with less time  effort
@@ -325,7 +325,7 @@ It might also be worth keeping in mind one thing: PowerApps could also be part o
 #  
 #### SessionID: 99123
 # Use forecasting in your application with ML. NET
-#### [Back to calendar](#SQLSaturday-#878---Sofia-2019)
+#### [Back to calendar](#SQLSaturday-#878-Sofia-2019)
 Event Date: 12-10-2019 - Session time: 18:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Joskovski
 ## Title: Use forecasting in your application with ML. NET

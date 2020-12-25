@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 54558
 # Introduction to SQL
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Thane Schaffer
 ## Title: Introduction to SQL
@@ -45,7 +45,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 56316
 # Statistics and New Cardinality Estimator Model
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Susantha Bathige
 ## Title: Statistics and New Cardinality Estimator Model
@@ -54,7 +54,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 57133
 # Up Close and Personal with the Tabular SSAS DMVs
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Meagan Longoria
 ## Title: Up Close and Personal with the Tabular SSAS DMVs
@@ -63,7 +63,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 57957
 # Introduction to Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Machine Learning
@@ -72,7 +72,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 59323
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -81,7 +81,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 61075
 # Weird Stuff I Saw While ... Working With Heaps
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Weird Stuff I Saw While ... Working With Heaps
@@ -90,7 +90,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 56384
 # Seeking the Perfect Hybrid:  On-Prem Data with Reports and Dashboards in Power BI
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: William E Pearson III
 ## Title: Seeking the Perfect Hybrid:  On-Prem Data with Reports and Dashboards in Power BI
@@ -102,7 +102,7 @@ This session applies, in most respects, to Analysis Services 2012 and above.
 #  
 #### SessionID: 56503
 # Disaster Recovery Where to Begin
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Strategy and Architecture
 ## Speaker: Tracy Boggiano
 ## Title: Disaster Recovery Where to Begin
@@ -111,7 +111,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 56566
 # The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization
@@ -124,7 +124,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 56751
 # Finding root cause for unexplained Availability Group failover
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Trayce Jordan
 ## Title: Finding root cause for unexplained Availability Group failover
@@ -133,7 +133,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 59831
 # Visualize Your Transaction Log
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Visualize Your Transaction Log
@@ -142,7 +142,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61130
 # Data Integration: the neglected hero of your information environment
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Information Delivery
 ## Speaker: Scot Reagin
 ## Title: Data Integration: the neglected hero of your information environment
@@ -157,7 +157,7 @@ A managed Data Integration platform can provide both efficient data management a
 #  
 #### SessionID: 54712
 # My Top 10 Favorite Replication Tricks
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcus Hopfinger
 ## Title: My Top 10 Favorite Replication Tricks
@@ -166,7 +166,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 59322
 # Bringing DevOps to the Database
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Strategy and Architecture
 ## Speaker: Steve Jones
 ## Title: Bringing DevOps to the Database
@@ -175,7 +175,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 59710
 # Continuous Deployments using SSDT
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christopher Wolff
 ## Title: Continuous Deployments using SSDT
@@ -184,7 +184,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 60965
 # Introduction to Data Science with R
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Reeves Smith
 ## Title: Introduction to Data Science with R
@@ -195,7 +195,7 @@ In this session, we will introduce the R language and review some of the feature
 #  
 #### SessionID: 61051
 # Even I Can Power BI!
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Julia Renz
 ## Title: Even I Can Power BI!
@@ -204,7 +204,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 61108
 # Getting Started with Databases on Amazon Web Services
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Gabriel Villa
 ## Title: Getting Started with Databases on Amazon Web Services
@@ -213,7 +213,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 63692
 # SQL Performance Best Practices
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Craig Allen
 ## Title: SQL Performance Best Practices
@@ -222,7 +222,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54601
 # Test Automation: Agile Enablement for DW and BI Teams
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Other
 ## Speaker: Cher Fox
 ## Title: Test Automation: Agile Enablement for DW and BI Teams
@@ -231,7 +231,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Other
 #  
 #### SessionID: 56842
 # Accelerating DevOps and TDM Using Data Virtualization
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Gorman
 ## Title: Accelerating DevOps and TDM Using Data Virtualization
@@ -248,7 +248,7 @@ Data virtualization is the solution.  Come learn.
 #  
 #### SessionID: 57553
 # Power BI on  Azure Analysis Services
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: BI Information Delivery
 ## Speaker: Patrick Geselbracht
 ## Title: Power BI on  Azure Analysis Services
@@ -259,7 +259,7 @@ We will discuss modeling  security patterns in Analysis Services in conjunction 
 #  
 #### SessionID: 61049
 # Introduction To Azure DocumentDB
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Jeff Renz
 ## Title: Introduction To Azure DocumentDB
@@ -270,7 +270,7 @@ In this session I will demonstrate how to create a DocumentDB instance in Azure,
 #  
 #### SessionID: 61117
 # So you want to launch a software company
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Paul Nielsen
 ## Title: So you want to launch a software company
@@ -279,7 +279,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 61473
 # Business Intelligence in the Cloud
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Carlos Bossy
 ## Title: Business Intelligence in the Cloud
@@ -288,7 +288,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 54542
 # Mobile, Paginated, KPIs, and Power BI, Oh My! SSRS 2016 Reporting
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: BI Information Delivery
 ## Speaker: Steve Wake
 ## Title: Mobile, Paginated, KPIs, and Power BI, Oh My! SSRS 2016 Reporting
@@ -300,7 +300,7 @@ If you have been curious about what has changed with SSRS in SQL Server 2016 and
 #  
 #### SessionID: 54567
 # Isolation Levels – Understanding Transaction Temper Tantrums
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adam Koehler
 ## Title: Isolation Levels – Understanding Transaction Temper Tantrums
@@ -309,7 +309,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 56297
 # How to Use Analytics (and Data Science) to Get a Promotion
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: David Brown
 ## Title: How to Use Analytics (and Data Science) to Get a Promotion
@@ -320,7 +320,7 @@ Welcome to my world. I've worked for years as a consultant, and I started in thi
 #  
 #### SessionID: 56728
 # On the Doorsteps - Women in Technology
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Michelle Haarhues
 ## Title: On the Doorsteps - Women in Technology
@@ -331,7 +331,7 @@ In this session, we will discuss the effects of trends in industry such as colle
 #  
 #### SessionID: 59808
 # Get Into the Goldilocks Zone: Managing SQL Transaction Log VLF Growth
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Strategy and Architecture
 ## Speaker: Michelle Poolet
 ## Title: Get Into the Goldilocks Zone: Managing SQL Transaction Log VLF Growth
@@ -344,7 +344,7 @@ The SQL Server transaction log is a critical piece of SQL Server's ability to en
 #  
 #### SessionID: 59810
 # Intro to Azure SQL Databases
-#### [Back to calendar](#SQLSaturday-#584---Colorado-Springs-2017)
+#### [Back to calendar](#SQLSaturday-#584-Colorado-Springs-2017)
 Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Michael Fal
 ## Title: Intro to Azure SQL Databases

@@ -11,7 +11,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10836
 # SQL 2012 Extended Events
-#### [Back to calendar](#SQLSaturday-#240---Curacao-2013)
+#### [Back to calendar](#SQLSaturday-#240-Curacao-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Extended Events
@@ -20,7 +20,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 10837
 # SQL 2012 Table Compression
-#### [Back to calendar](#SQLSaturday-#240---Curacao-2013)
+#### [Back to calendar](#SQLSaturday-#240-Curacao-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Table Compression
@@ -29,7 +29,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15131
 # SQL Server Page verification option, why it is important for every DBA?
-#### [Back to calendar](#SQLSaturday-#240---Curacao-2013)
+#### [Back to calendar](#SQLSaturday-#240-Curacao-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ignacio Salom Rangel
 ## Title: SQL Server Page verification option, why it is important for every DBA?
@@ -38,7 +38,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21279
 #  Basics of  SQL Server Parallel Query Processing
-#### [Back to calendar](#SQLSaturday-#240---Curacao-2013)
+#### [Back to calendar](#SQLSaturday-#240-Curacao-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Rohan Joackhim
 ## Title:  Basics of  SQL Server Parallel Query Processing
@@ -47,7 +47,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 23483
 # Execution Plans
-#### [Back to calendar](#SQLSaturday-#240---Curacao-2013)
+#### [Back to calendar](#SQLSaturday-#240-Curacao-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Roy Ernest
 ## Title: Execution Plans
@@ -56,7 +56,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28113
 # Possible Musics:  Choosing between Analysis Services 2012 Multidimensional and Tabular
-#### [Back to calendar](#SQLSaturday-#240---Curacao-2013)
+#### [Back to calendar](#SQLSaturday-#240-Curacao-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: William E Pearson III
 ## Title: Possible Musics:  Choosing between Analysis Services 2012 Multidimensional and Tabular

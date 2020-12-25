@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 84786
 # Business Intelligence DevOps
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: César Oviedo
 ## Title: Business Intelligence DevOps
@@ -43,7 +43,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 84787
 # Business Intelligence - De la teoría a los Hechos
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: César Oviedo
 ## Title: Business Intelligence - De la teoría a los Hechos
@@ -52,7 +52,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 85326
 # Azure Log Analytics
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Keneth Murillo
 ## Title: Azure Log Analytics
@@ -61,7 +61,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 86516
 # Bases de datos de Plataforma como Servicio en la nube Azure
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kenneth Urena
 ## Title: Bases de datos de Plataforma como Servicio en la nube Azure
@@ -72,7 +72,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 94523
 # Delivering a Data Warehouse in the Cloud
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ahias Portillo
 ## Title: Delivering a Data Warehouse in the Cloud
@@ -87,7 +87,7 @@ Loading data from a variety of sources, querying using PolyBase, securing and re
 #  
 #### SessionID: 95188
 # Ciencia de datos: Creando modelos de clasificación con clases desbalanceadas
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ahias Portillo
 ## Title: Ciencia de datos: Creando modelos de clasificación con clases desbalanceadas
@@ -96,7 +96,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 86365
 # ¿Comó Iniciar con R  VS + SQL?
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Ricardo Estrada
 ## Title: ¿Comó Iniciar con R  VS + SQL?
@@ -105,7 +105,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 94820
 # Business Intelligence to Business Analytics w SQL Server + Tableau + Alteryx on Azure
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Rafael Garita Molina
 ## Title: Business Intelligence to Business Analytics w SQL Server + Tableau + Alteryx on Azure
@@ -114,7 +114,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 94922
 # Introduccón a Equipos de Datos: Roles y Responsabilidades Tecnológicas
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Daniel Montero
 ## Title: Introduccón a Equipos de Datos: Roles y Responsabilidades Tecnológicas
@@ -123,7 +123,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 84176
 # Analisis en tiempo real con Power BI
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Vladimir Guzman
 ## Title: Analisis en tiempo real con Power BI
@@ -135,7 +135,7 @@ En esta sesión se mostrara como:
 #  
 #### SessionID: 87738
 # Using Intelligent Insights and SQL Analytics to monitor databases in the cloud
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Julio Calderón
 ## Title: Using Intelligent Insights and SQL Analytics to monitor databases in the cloud
@@ -144,7 +144,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 94531
 # Técnicas en patrones de búsquedas (SSIS), Quien gana la carrera?
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jorge García
 ## Title: Técnicas en patrones de búsquedas (SSIS), Quien gana la carrera?
@@ -153,7 +153,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 94966
 # How to integrate  BI  Six Sigma using digital tools for Business Projects?
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Bryan Medrano Ruiz
 ## Title: How to integrate  BI  Six Sigma using digital tools for Business Projects?
@@ -164,7 +164,7 @@ En esta sesión te presentaremos las distintas herramientas digitales (entre ell
 #  
 #### SessionID: 85341
 # SQL Server 2017 - Graph Databases con Power BI
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: SQL Server 2017 - Graph Databases con Power BI
@@ -175,7 +175,7 @@ Evoluciones, como trabajarlo correctamente, interacción con Power BI, entre otr
 #  
 #### SessionID: 94525
 # Descubriendo el corazón de la optimización “Estadísticas más que un concepto”
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Ahias Portillo
 ## Title: Descubriendo el corazón de la optimización “Estadísticas más que un concepto”
@@ -184,7 +184,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 94910
 # Optimización SQL: conociendo la infraestructura de herramientas integradas
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leda Araya
 ## Title: Optimización SQL: conociendo la infraestructura de herramientas integradas
@@ -193,7 +193,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 95189
 # Ciencia de datos: Un análisis estadístico de la satisfacción laboral con R
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ahias Portillo
 ## Title: Ciencia de datos: Un análisis estadístico de la satisfacción laboral con R
@@ -202,7 +202,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 83274
 # Cognitive Computing con Microsoft
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Eduardo Castro
 ## Title: Cognitive Computing con Microsoft
@@ -211,7 +211,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 85339
 # La nueva era Azure Data Factory v2
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: La nueva era Azure Data Factory v2
@@ -226,7 +226,7 @@ En esta charla pretendemos compartir las usabilidad de este servicio y orientarl
 #  
 #### SessionID: 94634
 # La evolución de la inteligencia de negocios
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: La evolución de la inteligencia de negocios
@@ -235,7 +235,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 83275
 # Data Analytics con Python en SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: Data Analytics con Python en SQL Server 2017
@@ -244,7 +244,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 84179
 # Power BI Report Server - OnPremise
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Vladimir Guzman
 ## Title: Power BI Report Server - OnPremise
@@ -257,7 +257,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 85325
 # Monitorear Aplicaciones Móviles con App Center
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Keneth Murillo
 ## Title: Monitorear Aplicaciones Móviles con App Center
@@ -266,7 +266,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 86514
 # SQL 2017 - Diseñando mi datawarehouse "Disaster recovery ready"
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kenneth Urena
 ## Title: SQL 2017 - Diseñando mi datawarehouse "Disaster recovery ready"
@@ -275,7 +275,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 94633
 # La liga de las dimensiones extraordinarias
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: La liga de las dimensiones extraordinarias
@@ -285,7 +285,7 @@ Revisaremos dimensiones copo de nieve, dimensiones degeneradas, dimensiones chat
 #  
 #### SessionID: 94960
 # Analisis Visual de datos Avanzado
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Rafael Garita Molina
 ## Title: Analisis Visual de datos Avanzado
@@ -294,7 +294,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 86366
 # ¡Rompiendo la barrera del sonido con SSIS! Modelos y Patrones Avanzados
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Ricardo Estrada
 ## Title: ¡Rompiendo la barrera del sonido con SSIS! Modelos y Patrones Avanzados
@@ -303,7 +303,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 94640
 # PolyBase enables your SQL Server to process Transact-SQL queries that read data from different frame
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Carol Araya Alpízar
 ## Title: PolyBase enables your SQL Server to process Transact-SQL queries that read data from different frame
@@ -313,7 +313,7 @@ Polybase, a feature of SQL Server PDW V2 that allows users to manage and query d
 #  
 #### SessionID: 94925
 # Explorando y aprovechando tus fortalezas
-#### [Back to calendar](#SQLSaturday-#783---Costa-Rica-–-BI-2018)
+#### [Back to calendar](#SQLSaturday-#783-Costa-Rica-–-BI-2018)
 Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Luis Carlos Piedra
 ## Title: Explorando y aprovechando tus fortalezas

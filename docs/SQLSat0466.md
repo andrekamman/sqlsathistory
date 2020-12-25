@@ -11,7 +11,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 39605
 # Query Plans and Indexes in SQL Server
-#### [Back to calendar](#SQLSaturday-#466---Montreal-2015)
+#### [Back to calendar](#SQLSaturday-#466-Montreal-2015)
 Event Date: 21-11-2015 - Session time: 14:30:00 - Track: Application  Database Development and Administration
 ## Speaker: Michael DeFehr
 ## Title: Query Plans and Indexes in SQL Server
@@ -20,7 +20,7 @@ Event Date: 21-11-2015 - Session time: 14:30:00 - Track: Application  Database D
 #  
 #### SessionID: 40372
 # Analyse Pr#233;dictive - Partie 1
-#### [Back to calendar](#SQLSaturday-#466---Montreal-2015)
+#### [Back to calendar](#SQLSaturday-#466-Montreal-2015)
 Event Date: 21-11-2015 - Session time: 14:30:00 - Track: Azure ML
 ## Speaker: Charles Verdon
 ## Title: Analyse Pr#233;dictive - Partie 1
@@ -31,7 +31,7 @@ Integration des donn#233;es dans Excel, Power BI et applications .NET.
 #  
 #### SessionID: 40603
 # Analyse Pr#233;dictive - Partie 2
-#### [Back to calendar](#SQLSaturday-#466---Montreal-2015)
+#### [Back to calendar](#SQLSaturday-#466-Montreal-2015)
 Event Date: 21-11-2015 - Session time: 14:30:00 - Track: Azure ML
 ## Speaker: Charles Verdon
 ## Title: Analyse Pr#233;dictive - Partie 2
@@ -47,7 +47,7 @@ Op#233;rationnalisation du mod#232;le
 #  
 #### SessionID: 39998
 # The SQL Server Modern DBA
-#### [Back to calendar](#SQLSaturday-#466---Montreal-2015)
+#### [Back to calendar](#SQLSaturday-#466-Montreal-2015)
 Event Date: 21-11-2015 - Session time: 14:30:00 - Track: Application  Database Development and Administration
 ## Speaker: Jean Rene Roy
 ## Title: The SQL Server Modern DBA
@@ -56,7 +56,7 @@ Event Date: 21-11-2015 - Session time: 14:30:00 - Track: Application  Database D
 #  
 #### SessionID: 40584
 # Visualisation de donn#233;es en mode libre-service
-#### [Back to calendar](#SQLSaturday-#466---Montreal-2015)
+#### [Back to calendar](#SQLSaturday-#466-Montreal-2015)
 Event Date: 21-11-2015 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: Sophie Marchand
 ## Title: Visualisation de donn#233;es en mode libre-service
@@ -67,7 +67,7 @@ Event Date: 21-11-2015 - Session time: 14:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 39168
 # Improve query performance with the new SQL Server 2016 query store!!
-#### [Back to calendar](#SQLSaturday-#466---Montreal-2015)
+#### [Back to calendar](#SQLSaturday-#466-Montreal-2015)
 Event Date: 21-11-2015 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michelle Gutzait
 ## Title: Improve query performance with the new SQL Server 2016 query store!!

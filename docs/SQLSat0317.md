@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10205
 # Introducing Microsoft Azure HDInsight
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Belkis Ozhorasan
 ## Title: Introducing Microsoft Azure HDInsight
@@ -37,7 +37,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 10568
 # Load Testing Analysis Services
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Bob Duffy
 ## Title: Load Testing Analysis Services
@@ -50,7 +50,7 @@ Sample source code will be supplied to help you load test analysis services. We 
 #  
 #### SessionID: 10953
 # The nightmare of locking, blocking and isolation levels!
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Boris Hristov
 ## Title: The nightmare of locking, blocking and isolation levels!
@@ -59,7 +59,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 11230
 # Generate SSIS packages automatically with Biml and BimlScript
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Generate SSIS packages automatically with Biml and BimlScript
@@ -70,7 +70,7 @@ It's time to bring the Don't Repeat Yourself principle to SSIS development. In t
 #  
 #### SessionID: 13922
 # CUBE-functions for fun  profit
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Erik Flateby
 ## Title: CUBE-functions for fun  profit
@@ -79,7 +79,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15124
 # SQL Server PDW (APS)  vs SQL Server, let's see the big differences 
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Henk van der Valk
 ## Title: SQL Server PDW (APS)  vs SQL Server, let's see the big differences 
@@ -88,7 +88,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 15428
 # Clustered Columnstore Deep Dive
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Niko Neugebauer
 ## Title: Clustered Columnstore Deep Dive
@@ -97,7 +97,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 16095
 # Modern Performance
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Joe Chang
 ## Title: Modern Performance
@@ -106,7 +106,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17140
 # Visualization – tales from the field.  How to build a cool Risk Analysis Dashboard on a shoestring
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Johan Ludvig Brattås
 ## Title: Visualization – tales from the field.  How to build a cool Risk Analysis Dashboard on a shoestring
@@ -117,7 +117,7 @@ This session will show you how to make a cool dashboard using a database (MS SQL
 #  
 #### SessionID: 17838
 # What is Microsoft doing with Predictive Analytics?
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kaisa  Lervik 
 ## Title: What is Microsoft doing with Predictive Analytics?
@@ -126,7 +126,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 17852
 # Unblock yourself -- Optimistic concurrency in Hekaton
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kalen Delaney
 ## Title: Unblock yourself -- Optimistic concurrency in Hekaton
@@ -135,7 +135,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18130
 # SQL anti patterns
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kennie Pontoppidan
 ## Title: SQL anti patterns
@@ -146,7 +146,7 @@ We will become acquainted with antipatterns on a physical level, a logical level
 #  
 #### SessionID: 19380
 # Top 10 DBA mistakes that affect the SQL Server performance
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Margarita Naumova
 ## Title: Top 10 DBA mistakes that affect the SQL Server performance
@@ -155,7 +155,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 19472
 # DAX from the field: Real World Case Studies
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Marco Russo
 ## Title: DAX from the field: Real World Case Studies
@@ -164,7 +164,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 21388
 # Effective Index Partitioning, Compression Strategy
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Neil Hambly
 ## Title: Effective Index Partitioning, Compression Strategy
@@ -178,7 +178,7 @@ Using Demos to illustrate the performance gains with real-world examples, Take a
 #  
 #### SessionID: 22148
 # 1, 2, 3, … 100. How to manage many SQL Servers the
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Pieter Vanhove
 ## Title: 1, 2, 3, … 100. How to manage many SQL Servers the
@@ -187,7 +187,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22856
 # Power View and the Cube
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Regis Baccaro
 ## Title: Power View and the Cube
@@ -202,7 +202,7 @@ The session we'll present
 #  
 #### SessionID: 24199
 # SQL Server 2014 Top 5 - Hybrid Features
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Scott Klein
 ## Title: SQL Server 2014 Top 5 - Hybrid Features
@@ -211,7 +211,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 24374
 # Analyzing Query Plans Deep Dive
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Sergey Olontsev
 ## Title: Analyzing Query Plans Deep Dive
@@ -220,7 +220,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 26883
 # Query Tuning Superstardom for Beginners
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Tim Ford
 ## Title: Query Tuning Superstardom for Beginners
@@ -229,7 +229,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 27783
 # Practical use of the SSIS Script components
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mikael Wedham
 ## Title: Practical use of the SSIS Script components
@@ -238,7 +238,7 @@ Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 34569
 # Private Cloud for DBAs
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: André Kamman
 ## Title: Private Cloud for DBAs
@@ -249,7 +249,7 @@ But "at home" developers can click a few buttons in Windows Azure and have a SQL
 #  
 #### SessionID: 8877
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#317---Oslo-2014)
+#### [Back to calendar](#SQLSaturday-#317-Oslo-2014)
 Event Date: 30-08-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals

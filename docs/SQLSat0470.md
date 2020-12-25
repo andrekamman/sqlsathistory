@@ -40,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 39525
 # Automated SQL Server installation and configuration using PowerShell
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jamie Wick
 ## Title: Automated SQL Server installation and configuration using PowerShell
@@ -50,7 +50,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39625
 # Advanced SSIS Techniques
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Other
 ## Speaker: David Dye
 ## Title: Advanced SSIS Techniques
@@ -71,7 +71,7 @@ Upon completion of this workshop attendees will be able to:
 #  
 #### SessionID: 40756
 # First Look at SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Heiges
 ## Title: First Look at SQL Server 2016
@@ -80,7 +80,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40851
 # I'm It - Survival Techniques for the Lone DBA
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
@@ -89,7 +89,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Professional Developmen
 #  
 #### SessionID: 41253
 # Avoiding the Pitfalls of Database Change Automation
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Cindy Bean
 ## Title: Avoiding the Pitfalls of Database Change Automation
@@ -98,7 +98,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41269
 # Distributed Replay: Testing With Your Data, Your Way!
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Melody Zacharias
 ## Title: Distributed Replay: Testing With Your Data, Your Way!
@@ -107,7 +107,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database D
 #  
 #### SessionID: 41321
 # Watch Brent Tune Queries
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brent Ozar
 ## Title: Watch Brent Tune Queries
@@ -116,7 +116,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39571
 # SQL Server Storage Engine under the hood 
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: SQL Server Storage Engine under the hood 
@@ -131,7 +131,7 @@ Which I/O Subsystems (including SSD) are best for which type of data and what's 
 #  
 #### SessionID: 39879
 # Service Broker: Introduction to wheeling and dealing
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Service Broker: Introduction to wheeling and dealing
@@ -140,7 +140,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database D
 #  
 #### SessionID: 40354
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Other
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -149,7 +149,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Other
 #  
 #### SessionID: 40570
 # Performance Tuning Pit Stop for DBAs
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ayman El-Ghazali
 ## Title: Performance Tuning Pit Stop for DBAs
@@ -159,7 +159,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41133
 # Wheaton's Law for Technology Pros: Level up your customer service
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Professional Development
 ## Speaker: Andy Mallon
 ## Title: Wheaton's Law for Technology Pros: Level up your customer service
@@ -170,7 +170,7 @@ It can be hard to enforce the rules, do what's best for your environment, and of
 #  
 #### SessionID: 41157
 # T-SQL 101: Getting started with T-SQL
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Ravi Kumar
 ## Title: T-SQL 101: Getting started with T-SQL
@@ -181,7 +181,7 @@ If you want to follow along in the class, please have SQL Server and AdventureWo
 #  
 #### SessionID: 41501
 # Dimensional Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond Basics
@@ -199,7 +199,7 @@ the art of dimensional modeling. We will look at the different types of fact tab
 #  
 #### SessionID: 40442
 # Disaster Recovery 101
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Strategy and Architecture
 ## Speaker: Tracy Boggiano
 ## Title: Disaster Recovery 101
@@ -208,7 +208,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 41217
 # Table Vars and Temp Tables – What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars and Temp Tables – What you NEED to Know!
@@ -217,7 +217,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database D
 #  
 #### SessionID: 41259
 # If You Build It, They Will Come--Creating Your Own Opportunities!
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Professional Development
 ## Speaker: Carlos L Chacon
 ## Title: If You Build It, They Will Come--Creating Your Own Opportunities!
@@ -226,7 +226,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Professional Developmen
 #  
 #### SessionID: 41282
 # Building dynamic SSIS packages for more flexibility
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matt Nelson
 ## Title: Building dynamic SSIS packages for more flexibility
@@ -235,7 +235,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 41323
 # How to Think Like the Engine
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brent Ozar
 ## Title: How to Think Like the Engine
@@ -244,7 +244,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41865
 # TSQL Coding Techniques - Are You Playing with Fire?
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: TSQL Coding Techniques - Are You Playing with Fire?
@@ -256,7 +256,7 @@ Through examples and demos in this session you will witness the situational pitf
 #  
 #### SessionID: 42788
 # Understanding the Impact of Flash on SQL Server
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Wells
 ## Title: Understanding the Impact of Flash on SQL Server
@@ -265,7 +265,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39534
 # Using BIML as an SSIS Design Patterns Engine 
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Using BIML as an SSIS Design Patterns Engine 
@@ -274,7 +274,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 40355
 # Get Testing with tSQLt
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Steve Jones
 ## Title: Get Testing with tSQLt
@@ -283,7 +283,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database D
 #  
 #### SessionID: 40519
 # Get Familiar with Spatial Data
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Slava Murygin
 ## Title: Get Familiar with Spatial Data
@@ -293,7 +293,7 @@ We'll go through very basic SQL Server Spatial data functionality and draw some 
 #  
 #### SessionID: 40590
 # TFS for SQL/BI Developers
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Dave Fackler
 ## Title: TFS for SQL/BI Developers
@@ -302,7 +302,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database D
 #  
 #### SessionID: 40604
 # SSIS: Design principles for robust ETL processes
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rafael Salas
 ## Title: SSIS: Design principles for robust ETL processes
@@ -313,7 +313,7 @@ Data integration is still the most common point of failure of data centric proje
 #  
 #### SessionID: 41201
 # Making the Leap from Developer to DBA
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Professional Development
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
@@ -322,7 +322,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Professional Developmen
 #  
 #### SessionID: 41359
 # Policy Based Management - Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Keisler
 ## Title: Policy Based Management - Beyond the Basics
@@ -331,7 +331,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40085
 # Become a SQL Server Performance Detective
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Danette Riviello
 ## Title: Become a SQL Server Performance Detective
@@ -340,7 +340,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41218
 # Window Functions in SQL Server
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Wayne Sheffield
 ## Title: Window Functions in SQL Server
@@ -349,7 +349,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database D
 #  
 #### SessionID: 41230
 # What Can Data Quality Services Do for You?
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Other
 ## Speaker: Mark Hudson
 ## Title: What Can Data Quality Services Do for You?
@@ -358,7 +358,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Other
 #  
 #### SessionID: 41233
 # T-SQL for Application Developers - Attendees chose
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Kevin Goff
 ## Title: T-SQL for Application Developers - Attendees chose
@@ -368,7 +368,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Application  Database D
 #  
 #### SessionID: 41250
 # A New Approach to Unit and Integration Testing in SSIS
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reeves Smith
 ## Title: A New Approach to Unit and Integration Testing in SSIS
@@ -380,7 +380,7 @@ In this session, a new approach to unit testing (focusing on verifying the corre
 #  
 #### SessionID: 42453
 # Sponsor Session
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Other
 ## Speaker: Chris Bell
 ## Title: Sponsor Session
@@ -389,7 +389,7 @@ Event Date: 05-12-2015 - Session time: 15:05:00 - Track: Other
 #  
 #### SessionID: 42898
 # Only You Can Prevent Database Fires!
-#### [Back to calendar](#SQLSaturday-#470---Washington-DC-2015)
+#### [Back to calendar](#SQLSaturday-#470-Washington-DC-2015)
 Event Date: 05-12-2015 - Session time: 15:05:00 - Track: DBA 1
 ## Speaker: John Morehouse
 ## Title: Only You Can Prevent Database Fires!

@@ -29,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 35010
 # The Basics of Scrum and Why it Works
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: Infrastructure
 ## Speaker: Brad McDonald
 ## Title: The Basics of Scrum and Why it Works
@@ -38,7 +38,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: Infrastructure
 #  
 #### SessionID: 35024
 # BI Solutions for a Tough Economy
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: BI/SQL Admin
 ## Speaker: Barry Ralston
 ## Title: BI Solutions for a Tough Economy
@@ -50,7 +50,7 @@ Excel Services provides a powerful and flexible tool for increasing visibility o
 #  
 #### SessionID: 35029
 # Zen Coding
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: .Net
 ## Speaker: Brian Rigsby
 ## Title: Zen Coding
@@ -59,7 +59,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: .Net
 #  
 #### SessionID: 35146
 # Test Driven Development
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: .Net
 ## Speaker: Joseph Besse
 ## Title: Test Driven Development
@@ -68,7 +68,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: .Net
 #  
 #### SessionID: 35200
 # Providing Enhanced Business Value Using Scorecards
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: BI/SQL Admin
 ## Speaker: John Lauer
 ## Title: Providing Enhanced Business Value Using Scorecards
@@ -77,7 +77,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: BI/SQL Admin
 #  
 #### SessionID: 35295
 # SQL 2008 Reporting Services - Getting Started
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Mark Verret
 ## Title: SQL 2008 Reporting Services - Getting Started
@@ -86,7 +86,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 35328
 # TFS/VSTS 2010 sneak peek
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: Infrastructure
 ## Speaker: Michael Moles
 ## Title: TFS/VSTS 2010 sneak peek
@@ -95,7 +95,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: Infrastructure
 #  
 #### SessionID: 35347
 # Codecraft
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: .Net
 ## Speaker: Phillip Jackson
 ## Title: Codecraft
@@ -105,7 +105,7 @@ Software development is a craft and, like every other craft, to be a master craf
 #  
 #### SessionID: 35348
 # Table-Valued Parameters (TVP)
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Phillip Jackson
 ## Title: Table-Valued Parameters (TVP)
@@ -114,7 +114,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 35367
 # Introduction SQL Profiler
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction SQL Profiler
@@ -123,7 +123,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 35383
 # Can you control your reports? (SSRS 2005)
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: .Net
 ## Speaker: Ryan Duclos
 ## Title: Can you control your reports? (SSRS 2005)
@@ -132,7 +132,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: .Net
 #  
 #### SessionID: 35384
 # Reporting Services 2008 - Report Authoring
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: BI/SQL Admin
 ## Speaker: Ryan Duclos
 ## Title: Reporting Services 2008 - Report Authoring
@@ -141,7 +141,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: BI/SQL Admin
 #  
 #### SessionID: 35415
 # Indexing For Performance
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Ryan Richard
 ## Title: Indexing For Performance
@@ -150,7 +150,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 35438
 # The Modern Resume: Building Your Brand
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: Infrastructure
 ## Speaker: Steve Jones
 ## Title: The Modern Resume: Building Your Brand
@@ -159,7 +159,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: Infrastructure
 #  
 #### SessionID: 35447
 # Geospatial capabilities of SQL 2008
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Stacey Hopkins
 ## Title: Geospatial capabilities of SQL 2008
@@ -168,7 +168,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 35470
 # Care and Feeding of TempDB
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: Infrastructure
 ## Speaker: Kevin Boles
 ## Title: Care and Feeding of TempDB
@@ -177,7 +177,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: Infrastructure
 #  
 #### SessionID: 35471
 # Disk Partition Alignment
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: Infrastructure
 ## Speaker: Kevin Boles
 ## Title: Disk Partition Alignment
@@ -186,7 +186,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: Infrastructure
 #  
 #### SessionID: 35476
 # RML Ultities
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: BI/SQL Admin
 ## Speaker: Thomas LeBlanc
 ## Title: RML Ultities
@@ -198,7 +198,7 @@ RML Utilities can answer questions about where the most resources are being cons
 #  
 #### SessionID: 35477
 # SSIS: Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: BI/SQL Admin
 ## Speaker: Tim Mitchell
 ## Title: SSIS: Beyond the Basics
@@ -207,7 +207,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: BI/SQL Admin
 #  
 #### SessionID: 35478
 # Custom ETL using SSIS Scripting
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: .Net
 ## Speaker: Tim Mitchell
 ## Title: Custom ETL using SSIS Scripting
@@ -216,7 +216,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: .Net
 #  
 #### SessionID: 35489
 # Deadlocks: Detection, Troubleshooting, and Prevent
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: Infrastructure
 ## Speaker: Trevor Barkhouse
 ## Title: Deadlocks: Detection, Troubleshooting, and Prevent
@@ -225,7 +225,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: Infrastructure
 #  
 #### SessionID: 35493
 # Windows Communication Foundation
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: .Net
 ## Speaker: Joseph Besse
 ## Title: Windows Communication Foundation
@@ -234,7 +234,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: .Net
 #  
 #### SessionID: 35515
 # SSIS Introduction
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: BI/SQL Admin
 ## Speaker: William Assaf
 ## Title: SSIS Introduction
@@ -243,7 +243,7 @@ Event Date: 01-08-2009 - Session time: 00:00:00 - Track: BI/SQL Admin
 #  
 #### SessionID: 35517
 # DMV Overview 
-#### [Back to calendar](#SQLSaturday-#17---Baton-Rouge-2009)
+#### [Back to calendar](#SQLSaturday-#17-Baton-Rouge-2009)
 Event Date: 01-08-2009 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: William Assaf
 ## Title: DMV Overview 

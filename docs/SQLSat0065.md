@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28437
 # What's new in SQL Server 2011 ("Denali")?
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Aaron Bertrand
 ## Title: What's new in SQL Server 2011 ("Denali")?
@@ -39,7 +39,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 28603
 # Is That A Failover Cluster On Your Laptop?
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 1
 ## Speaker: Allan Hirt
 ## Title: Is That A Failover Cluster On Your Laptop?
@@ -48,7 +48,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 1
 #  
 #### SessionID: 28802
 # Multi-Server Management with SQL Server 2008 R2
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 2
 ## Speaker: Argenis Fernandez
 ## Title: Multi-Server Management with SQL Server 2008 R2
@@ -58,7 +58,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 2
 #  
 #### SessionID: 29053
 # Troubleshooting with the SQL Server 2008 DC  MDW 
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 2
 ## Speaker: Bill Ramos
 ## Title: Troubleshooting with the SQL Server 2008 DC  MDW 
@@ -67,7 +67,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 2
 #  
 #### SessionID: 29240
 # Virtualization and SAN Basics for DBAs
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Brent Ozar
 ## Title: Virtualization and SAN Basics for DBAs
@@ -76,7 +76,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 29953
 # SQL Server 2008 Reporting from the Ground
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Donabel Santos
 ## Title: SQL Server 2008 Reporting from the Ground
@@ -85,7 +85,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 30213
 # Introduction to Indexes
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Gail Shaw
 ## Title: Introduction to Indexes
@@ -96,7 +96,7 @@ We'll start with the basics of what an index is and why SQL likes them and look 
 #  
 #### SessionID: 30214
 # Lies, Damned Lies And Statistics
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Gail Shaw
 ## Title: Lies, Damned Lies And Statistics
@@ -105,7 +105,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 30288
 # Through the Looking-Glass
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Greg Larsen
 ## Title: Through the Looking-Glass
@@ -114,7 +114,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 30729
 # Refactoring SQL
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Jeremiah Peschka
 ## Title: Refactoring SQL
@@ -123,7 +123,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 30964
 # Do You Know the Data Flow?
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: John Welch
 ## Title: Do You Know the Data Flow?
@@ -132,7 +132,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 30967
 # Processing Flat Files with SSIS
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: John Welch
 ## Title: Processing Flat Files with SSIS
@@ -141,7 +141,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 31194
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -152,7 +152,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 31513
 # No More Bad Dates: Using Temporal Data Wisely
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Kendra Little
 ## Title: No More Bad Dates: Using Temporal Data Wisely
@@ -161,7 +161,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 32006
 # Where should I be encrypting my data
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 1
 ## Speaker: Denny Cherry
 ## Title: Where should I be encrypting my data
@@ -170,7 +170,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 1
 #  
 #### SessionID: 32411
 # Become a Bilingual DBA! Oracle for the SQL Server 
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 1
 ## Speaker: Randy Knight
 ## Title: Become a Bilingual DBA! Oracle for the SQL Server 
@@ -181,7 +181,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 1
 #  
 #### SessionID: 32447
 # NUMA for the SQL Server
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 1
 ## Speaker: Rich Baumet
 ## Title: NUMA for the SQL Server
@@ -190,7 +190,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 1
 #  
 #### SessionID: 32832
 # SQL Azure - Cloud Database Coolness
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 2
 ## Speaker: Scott Klein
 ## Title: SQL Azure - Cloud Database Coolness
@@ -199,7 +199,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 2
 #  
 #### SessionID: 32922
 # High Performance functions
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Simon Sabin
 ## Title: High Performance functions
@@ -208,7 +208,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 33024
 # Who Needs DMVs?  You Do!
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 2
 ## Speaker: Tim Ford
 ## Title: Who Needs DMVs?  You Do!
@@ -217,7 +217,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 2
 #  
 #### SessionID: 33634
 # Tableau: Delivering Self-Serve BI
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 2
 ## Speaker: Tim Costello
 ## Title: Tableau: Delivering Self-Serve BI
@@ -226,7 +226,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 2
 #  
 #### SessionID: 33762
 # Data Warehouse ETL with Integration Services
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Todd McDermid
 ## Title: Data Warehouse ETL with Integration Services
@@ -235,7 +235,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 34264
 # Attribute Discretization in Analysis Services (BI)
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 1
 ## Speaker: William E Pearson III
 ## Title: Attribute Discretization in Analysis Services (BI)
@@ -244,7 +244,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Expanded Horizons 1
 #  
 #### SessionID: 34265
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
@@ -256,7 +256,7 @@ Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 34684
 # Query Plan
-#### [Back to calendar](#SQLSaturday-#65---Vancouver-2011)
+#### [Back to calendar](#SQLSaturday-#65-Vancouver-2011)
 Event Date: 26-02-2011 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: John Huang
 ## Title: Query Plan

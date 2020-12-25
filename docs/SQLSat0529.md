@@ -16,7 +16,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 47104
 # SQL Server 2016 Security Enhancements
-#### [Back to calendar](#SQLSaturday-#529---Bratislava-2016)
+#### [Back to calendar](#SQLSaturday-#529-Bratislava-2016)
 Event Date: 04-06-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marek Chmel
 ## Title: SQL Server 2016 Security Enhancements
@@ -25,7 +25,7 @@ Event Date: 04-06-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49130
 # Reporting Services 2016, a reborn product
-#### [Back to calendar](#SQLSaturday-#529---Bratislava-2016)
+#### [Back to calendar](#SQLSaturday-#529-Bratislava-2016)
 Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Information Delivery
 ## Speaker: LEONEL ABREU
 ## Title: Reporting Services 2016, a reborn product
@@ -34,7 +34,7 @@ Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 47081
 # What Application Developers Should Know About SQL Server?
-#### [Back to calendar](#SQLSaturday-#529---Bratislava-2016)
+#### [Back to calendar](#SQLSaturday-#529-Bratislava-2016)
 Event Date: 04-06-2016 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Miloš Radivojević
 ## Title: What Application Developers Should Know About SQL Server?
@@ -45,7 +45,7 @@ In this session we will cover the most important things they need to know about 
 #  
 #### SessionID: 49369
 # Azure Machine Learning: From Design to Integration
-#### [Back to calendar](#SQLSaturday-#529---Bratislava-2016)
+#### [Back to calendar](#SQLSaturday-#529-Bratislava-2016)
 Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Peter Myers
 ## Title: Azure Machine Learning: From Design to Integration
@@ -58,7 +58,7 @@ This session has been specifically designed to describe Machine Learning fundame
 #  
 #### SessionID: 46896
 # Top 10 SSAS Solution Design Best Practices
-#### [Back to calendar](#SQLSaturday-#529---Bratislava-2016)
+#### [Back to calendar](#SQLSaturday-#529-Bratislava-2016)
 Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Zoltán Horváth
 ## Title: Top 10 SSAS Solution Design Best Practices
@@ -69,7 +69,7 @@ I've collected a number of best practices during the years I've spent on buildin
 #  
 #### SessionID: 49160
 # To NHibernate or not to NHibernate
-#### [Back to calendar](#SQLSaturday-#529---Bratislava-2016)
+#### [Back to calendar](#SQLSaturday-#529-Bratislava-2016)
 Event Date: 04-06-2016 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Volodymyr Usarskyy
 ## Title: To NHibernate or not to NHibernate
@@ -83,7 +83,7 @@ I will also provide some demos to show why NHibernate is not as good as develope
 #  
 #### SessionID: 48715
 # Easy ETL with Biml
-#### [Back to calendar](#SQLSaturday-#529---Bratislava-2016)
+#### [Back to calendar](#SQLSaturday-#529-Bratislava-2016)
 Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andrzej Kukula
 ## Title: Easy ETL with Biml
@@ -92,7 +92,7 @@ Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 49962
 # Power BI – “5 Minutes to WOW”, but HOW?
-#### [Back to calendar](#SQLSaturday-#529---Bratislava-2016)
+#### [Back to calendar](#SQLSaturday-#529-Bratislava-2016)
 Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Information Delivery
 ## Speaker: Sam Lester
 ## Title: Power BI – “5 Minutes to WOW”, but HOW?
@@ -101,7 +101,7 @@ Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 47243
 # Revolutionary R integration in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#529---Bratislava-2016)
+#### [Back to calendar](#SQLSaturday-#529-Bratislava-2016)
 Event Date: 04-06-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: Revolutionary R integration in SQL Server 2016
@@ -116,7 +116,7 @@ As if this was not enough, you can use familiar user interface and SQL Server En
 #  
 #### SessionID: 49760
 # Using offline shopping data to boost e-shop sales
-#### [Back to calendar](#SQLSaturday-#529---Bratislava-2016)
+#### [Back to calendar](#SQLSaturday-#529-Bratislava-2016)
 Event Date: 04-06-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Filip Vitek
 ## Title: Using offline shopping data to boost e-shop sales
@@ -125,7 +125,7 @@ Event Date: 04-06-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 49961
 # Power BI Desktop – Leveraging the magic of Power BI - ON-PREM
-#### [Back to calendar](#SQLSaturday-#529---Bratislava-2016)
+#### [Back to calendar](#SQLSaturday-#529-Bratislava-2016)
 Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Information Delivery
 ## Speaker: Sam Lester
 ## Title: Power BI Desktop – Leveraging the magic of Power BI - ON-PREM

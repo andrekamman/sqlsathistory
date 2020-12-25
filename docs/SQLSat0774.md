@@ -60,7 +60,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 78622
 # Ch-ch-ch-changes! How to keep track of what's happening to your data
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Weigel
 ## Title: Ch-ch-ch-changes! How to keep track of what's happening to your data
@@ -69,7 +69,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82219
 # Microsoft Machine Learning Services
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: Andrew Loree
 ## Title: Microsoft Machine Learning Services
@@ -80,7 +80,7 @@ A beginner level understanding of Machine Learning and process is highly recomme
 #  
 #### SessionID: 82645
 # High Availability/Disaster Recovery 101
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Strategy and Architecture
 ## Speaker: Glenn Berry
 ## Title: High Availability/Disaster Recovery 101
@@ -89,7 +89,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 83756
 # SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Service?
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Rick Lowe
 ## Title: SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Service?
@@ -98,7 +98,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 84091
 # Become the Most Valuable Player: Soft Skills for the Hard Market
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Angela Tidwell
 ## Title: Become the Most Valuable Player: Soft Skills for the Hard Market
@@ -107,7 +107,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 84504
 # Innovative Data Modeling: Make Data Warehousing Cool Again
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Weed
 ## Title: Innovative Data Modeling: Make Data Warehousing Cool Again
@@ -116,7 +116,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 84527
 # The Life Cycle of a Query in Virtual Reality
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Todd Kleinhans
 ## Title: The Life Cycle of a Query in Virtual Reality
@@ -129,7 +129,7 @@ The Life Cycle of a Query in Virtual Reality is built using a video game engine 
 #  
 #### SessionID: 84529
 # Automate the Pain Away with Adaptive Query Processing and Automatic Tuning
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: Automate the Pain Away with Adaptive Query Processing and Automatic Tuning
@@ -138,7 +138,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85347
 # Exploring the SQL Server Powershell Module
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Exploring the SQL Server Powershell Module
@@ -147,7 +147,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 77547
 # Amazon Web Services RDS with SQL Server
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christopher Wolff
 ## Title: Amazon Web Services RDS with SQL Server
@@ -156,7 +156,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 77570
 # Experience SQL Server on Linux and Containers
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: Experience SQL Server on Linux and Containers
@@ -165,7 +165,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 78052
 # Understanding and Handling Database Corruption
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Understanding and Handling Database Corruption
@@ -174,7 +174,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 80361
 # Azure SQL Database Performance Tuning
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jes Schultz
 ## Title: Azure SQL Database Performance Tuning
@@ -183,7 +183,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 82476
 # Introduction to Azure Streaming Analytics
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Streaming Analytics
@@ -192,7 +192,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 84254
 # SQL vs NoSQL: a Comparison of SQL vs MongoDB
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Eric Peterson
 ## Title: SQL vs NoSQL: a Comparison of SQL vs MongoDB
@@ -207,7 +207,7 @@ We'll discuss the factors that drive your choice of database along with the trad
 #  
 #### SessionID: 84488
 # Implementing a Cloud Analytics Solution: Options, Costs and More
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marc Beacom
 ## Title: Implementing a Cloud Analytics Solution: Options, Costs and More
@@ -216,7 +216,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 84512
 # Confidence: The fuel for action
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Melody Zacharias
 ## Title: Confidence: The fuel for action
@@ -225,7 +225,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 85346
 # Power BI, from a DBA's Perspective
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: TJay Belt
 ## Title: Power BI, from a DBA's Perspective
@@ -236,7 +236,7 @@ As a DBA, we often need to collect and display data in a friendly and interactiv
 #  
 #### SessionID: 77701
 # SQL Server with Docker Containers
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: SQL Server with Docker Containers
@@ -245,7 +245,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 80124
 # Everything You Need to Know About SQL Server Indexes
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Janis Griffin
 ## Title: Everything You Need to Know About SQL Server Indexes
@@ -256,7 +256,7 @@ This presentation is a must see for DBAs, Developers, Application Architects and
 #  
 #### SessionID: 80363
 # Busy is a Four-Letter Word
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Jes Schultz
 ## Title: Busy is a Four-Letter Word
@@ -265,7 +265,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 82972
 # Monster Text Manipulation: Regular Expressions for the DBA
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
@@ -279,7 +279,7 @@ Here you’ll learn:
 #  
 #### SessionID: 84168
 # Master Data Management in the GDPR Era
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reeves Smith
 ## Title: Master Data Management in the GDPR Era
@@ -290,7 +290,7 @@ How does GDPR effect businesses inside and outside of the EU? What is required t
 #  
 #### SessionID: 84352
 # Set Me Up: How to Think in Sets
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Brian Hansen
 ## Title: Set Me Up: How to Think in Sets
@@ -301,7 +301,7 @@ We will look at T-SQL features that can break set-based processing -- generally 
 #  
 #### SessionID: 84416
 # Fishing for Answers: Azure Data Lake
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeff Renz
 ## Title: Fishing for Answers: Azure Data Lake
@@ -311,7 +311,7 @@ This session will demo putting data into a data lake, pulling data, visualizing 
 #  
 #### SessionID: 84517
 # Architecting an Analytics Solution on Amazon Web Services
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Gabriel Villa
 ## Title: Architecting an Analytics Solution on Amazon Web Services
@@ -320,7 +320,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 84530
 # Data Science Tips and Tricks using Python and SQL
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Carlos Bossy
 ## Title: Data Science Tips and Tricks using Python and SQL
@@ -329,7 +329,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 77472
 # Speed Up Development and Testing Using Data Virtualization
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Gorman
 ## Title: Speed Up Development and Testing Using Data Virtualization
@@ -344,7 +344,7 @@ Good, fast, and cheap -- have all three with data virtualization.  Clone things 
 #  
 #### SessionID: 78759
 # Monitoring Availability Groups
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Monitoring Availability Groups
@@ -355,7 +355,7 @@ You will walk away from this session with tools you need to monitor your environ
 #  
 #### SessionID: 80938
 # Consulting/contracting - is it right for me?
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Paul Paiva
 ## Title: Consulting/contracting - is it right for me?
@@ -364,7 +364,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 82711
 # The Power of Data:  The Complete Beginners Data Warehouse Kit
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data:  The Complete Beginners Data Warehouse Kit
@@ -373,7 +373,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 84058
 # That's bad mkay!
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kris Hokanson
 ## Title: That's bad mkay!
@@ -382,7 +382,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84188
 # It's Time for a Change: Temporal Table Support in SQL Server 2016/17
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vern Rabe
 ## Title: It's Time for a Change: Temporal Table Support in SQL Server 2016/17
@@ -393,7 +393,7 @@ In this session we’ll discuss how you can benefit from temporal support in you
 #  
 #### SessionID: 84390
 # How to Realize  Quantify Value from Data
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Strategy and Architecture
 ## Speaker: Patrick Geselbracht
 ## Title: How to Realize  Quantify Value from Data
@@ -404,7 +404,7 @@ We will discuss how to create business cases, value statements and return on inv
 #  
 #### SessionID: 84480
 # Azure Intelligent Services
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Amie Mason
 ## Title: Azure Intelligent Services
@@ -413,7 +413,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 84634
 # inMemory OLTP for developers
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Konstantin Melamud
 ## Title: inMemory OLTP for developers
@@ -422,7 +422,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 77491
 # That's So Metadata: Discover Your Database From the Inside
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: That's So Metadata: Discover Your Database From the Inside
@@ -440,7 +440,7 @@ We'll also demonstrate the new SQL Data Discovery/Classification and Vulnerabili
 #  
 #### SessionID: 78615
 # Data Positioning: Self-Defense or a Brilliant New Architecture
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Scot Reagin
 ## Title: Data Positioning: Self-Defense or a Brilliant New Architecture
@@ -449,7 +449,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 80303
 # How to Manage Very Large Databases with SQL Server
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Carrig
 ## Title: How to Manage Very Large Databases with SQL Server
@@ -458,7 +458,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83248
 # Database best practices for applications
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Adam Durazo
 ## Title: Database best practices for applications
@@ -467,7 +467,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 83305
 # Beginning Admin: The Care and Feeding of SQL Server
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jennifer McCown
 ## Title: Beginning Admin: The Care and Feeding of SQL Server
@@ -484,7 +484,7 @@ Being a database administrator is a big job, but we can cover the basics in one 
 #  
 #### SessionID: 83530
 # Moving Past Imposter Syndrome
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Wendy Pastrick
 ## Title: Moving Past Imposter Syndrome
@@ -493,7 +493,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 84284
 # Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
@@ -503,7 +503,7 @@ Whether you are just getting started with Azure Data Factory or looking to make 
 #  
 #### SessionID: 84348
 # The Anatomy of Select
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Jason Brimhall
 ## Title: The Anatomy of Select
@@ -516,7 +516,7 @@ This session will help the attendee better understand the Select statement. With
 #  
 #### SessionID: 84475
 # What's new for Developers - SQL Server 2014-2017
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Bill Fellows
 ## Title: What's new for Developers - SQL Server 2014-2017
@@ -527,7 +527,7 @@ Topics covered will include JSON, string splitting and aggregation, data masking
 #  
 #### SessionID: 77444
 # I/O Tuning 101
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Anders Pedersen
 ## Title: I/O Tuning 101
@@ -544,7 +544,7 @@ All of this can be done without the need for any 3rd party tools, all within the
 #  
 #### SessionID: 77464
 # How to do a SQL Server Health Check
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carlos Robles
 ## Title: How to do a SQL Server Health Check
@@ -559,7 +559,7 @@ What tools we can use to perform a SQL Server health check?
 #  
 #### SessionID: 77729
 # Don't just code it—Generate It
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Kevin Mackey
 ## Title: Don't just code it—Generate It
@@ -574,7 +574,7 @@ Generated code has systematic errors. Fix the errors at the generator. All the c
 #  
 #### SessionID: 77960
 # Power BI Development Best Practices
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: BI Information Delivery
 ## Speaker: Martin Schoombee
 ## Title: Power BI Development Best Practices
@@ -585,7 +585,7 @@ In this session we will take a brief look at all of the considerations and best 
 #  
 #### SessionID: 78563
 # Screw DevOps, Let's Talk DataOps
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Screw DevOps, Let's Talk DataOps
@@ -600,7 +600,7 @@ Takeaways from this session:
 #  
 #### SessionID: 80801
 # Eyes on the Prize:  Simple and Effective Dashboard Visualization Techniques
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Eyes on the Prize:  Simple and Effective Dashboard Visualization Techniques
@@ -609,7 +609,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 81971
 # A DBA's guide to full stack performance troubleshooting
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Daniel Janik
 ## Title: A DBA's guide to full stack performance troubleshooting
@@ -622,7 +622,7 @@ Join me as I guide you through troubleshooting SQL Server performance from tip t
 #  
 #### SessionID: 84824
 # Sponsor Spotlight: COZYROC
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Other
 ## Speaker: Denver SQL Server User Group
 ## Title: Sponsor Spotlight: COZYROC
@@ -631,7 +631,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Other
 #  
 #### SessionID: 84825
 # #GetModern SQL Server infrastructure with DellEMC
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Other
 ## Speaker: Denver SQL Server User Group
 ## Title: #GetModern SQL Server infrastructure with DellEMC
@@ -640,7 +640,7 @@ Event Date: 15-09-2018 - Session time: 16:30:00 - Track: Other
 #  
 #### SessionID: 85723
 # COZYROC: Dynamic Data Flows in SSIS without Programming
-#### [Back to calendar](#SQLSaturday-#774---Denver-2018)
+#### [Back to calendar](#SQLSaturday-#774-Denver-2018)
 Event Date: 15-09-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: COZYROC: Dynamic Data Flows in SSIS without Programming

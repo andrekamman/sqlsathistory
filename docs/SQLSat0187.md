@@ -44,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10660
 # A DBAs Guide to HIPAA
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Brandon Leach
 ## Title: A DBAs Guide to HIPAA
@@ -54,7 +54,7 @@ We'll also dive into several features in SQL Server that can help in this endeav
 #  
 #### SessionID: 11399
 # Writing faster queries
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Tim Chapman
 ## Title: Writing faster queries
@@ -63,7 +63,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 11400
 # SQL Server Index Internals
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Tim Chapman
 ## Title: SQL Server Index Internals
@@ -72,7 +72,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 12044
 # How Flash-Optimized Storage Accelerate Performance and Simplify Storage For Virtualized Environments
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Professional Development / Misc
 ## Speaker: Nimble Storage
 ## Title: How Flash-Optimized Storage Accelerate Performance and Simplify Storage For Virtualized Environments
@@ -81,7 +81,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 14473
 # Intro to Common Table Expressions
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Geoff Johnson
 ## Title: Intro to Common Table Expressions
@@ -90,7 +90,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 14764
 # Query Tuning in the Clouds
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Professional Development / Misc
 ## Speaker: Grant Fritchey
 ## Title: Query Tuning in the Clouds
@@ -99,7 +99,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 14765
 # Database Backups for the Accidental DBA
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Grant Fritchey
 ## Title: Database Backups for the Accidental DBA
@@ -108,7 +108,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 16172
 # SQL 2012 -- All About HA and DR
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Joseph D'Antoni
 ## Title: SQL 2012 -- All About HA and DR
@@ -117,7 +117,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 16650
 # Getting Reports on Your Schedule
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jessica Moss
 ## Title: Getting Reports on Your Schedule
@@ -126,7 +126,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 16651
 # Women in Technology: Breaking the Glass Ceiling
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Mixed
 ## Speaker: Jessica Moss
 ## Title: Women in Technology: Breaking the Glass Ceiling
@@ -135,7 +135,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Mixed
 #  
 #### SessionID: 16652
 # Implementing CapTech's Data Management Framework
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Jessica Moss
 ## Title: Implementing CapTech's Data Management Framework
@@ -144,7 +144,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 16762
 # 5 Common SQL Server Performance Issues
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Jason Hall
 ## Title: 5 Common SQL Server Performance Issues
@@ -155,7 +155,7 @@ I intend to share the whys and hows of these issues with anyone who would like t
 #  
 #### SessionID: 16763
 # Recipe for a happy DBA
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Professional Development / Misc
 ## Speaker: Jason Hall
 ## Title: Recipe for a happy DBA
@@ -165,7 +165,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 17184
 # Moving Big Data - SSIS, Pig, and Sqoop
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI2
 ## Speaker: John Welch
 ## Title: Moving Big Data - SSIS, Pig, and Sqoop
@@ -174,7 +174,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI2
 #  
 #### SessionID: 17185
 # Unit Testing SSIS Packages
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI2
 ## Speaker: John Welch
 ## Title: Unit Testing SSIS Packages
@@ -183,7 +183,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI2
 #  
 #### SessionID: 17904
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Mixed
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -192,7 +192,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Mixed
 #  
 #### SessionID: 18185
 # Team Leadership Fundamentals
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Mixed
 ## Speaker: Kevin Kline
 ## Title: Team Leadership Fundamentals
@@ -207,7 +207,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Mixed
 #  
 #### SessionID: 18186
 # Top 10 Admininistrator Mistakes on SQL Server
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Mixed
 ## Speaker: Kevin Kline
 ## Title: Top 10 Admininistrator Mistakes on SQL Server
@@ -216,7 +216,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Mixed
 #  
 #### SessionID: 19873
 # Build your own Virtual Lab
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Professional Development / Misc
 ## Speaker: Matt Velic
 ## Title: Build your own Virtual Lab
@@ -227,7 +227,7 @@ We'll begin the session by talking about why you might want to build a lab, and 
 #  
 #### SessionID: 20230
 # Virtualizing SQL Server 2012: Doing IT Right 
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Professional Development / Misc
 ## Speaker: Michael Corey
 ## Title: Virtualizing SQL Server 2012: Doing IT Right 
@@ -236,7 +236,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 20556
 # How Not to Be a Cranky DBA
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mike Hillwig
 ## Title: How Not to Be a Cranky DBA
@@ -245,7 +245,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 21779
 # SQL Server and XML Imports and Exports
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Paul Oster
 ## Title: SQL Server and XML Imports and Exports
@@ -254,7 +254,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 21781
 # Upgrading to SSIS 2012
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Paul Rizza
 ## Title: Upgrading to SSIS 2012
@@ -263,7 +263,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 22215
 # Realizing the Power of Microsoft Reporting
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Philip Noakes
 ## Title: Realizing the Power of Microsoft Reporting
@@ -274,7 +274,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 22952
 # Waiter, There's a Fly In My Data 
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Rafael Salas
 ## Title: Waiter, There's a Fly In My Data 
@@ -283,7 +283,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 23308
 # Revenge: The SQL Part 2: The Sequel!
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Professional Development / Misc
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL Part 2: The Sequel!
@@ -292,7 +292,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 24466
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Mixed
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -301,7 +301,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Mixed
 #  
 #### SessionID: 24468
 # The Encryption Primer
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Steve Jones
 ## Title: The Encryption Primer
@@ -310,7 +310,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 24624
 # OnPremise to Azure
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Professional Development / Misc
 ## Speaker: Shannon Lowder
 ## Title: OnPremise to Azure
@@ -319,7 +319,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 24715
 # (Way Too Much) Fun with Reporting Services 
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Stacia Varga
 ## Title: (Way Too Much) Fun with Reporting Services 
@@ -328,7 +328,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 24934
 # Dashboards...How To Choose Which MSBI Tool
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Melissa Coates
 ## Title: Dashboards...How To Choose Which MSBI Tool
@@ -337,7 +337,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 24936
 # So You Want To Be A Rockstar Report Developer?
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI2
 ## Speaker: Melissa Coates
 ## Title: So You Want To Be A Rockstar Report Developer?
@@ -346,7 +346,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI2
 #  
 #### SessionID: 25126
 # Choose Your Own Adventure: Performance Tuning
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Mixed
 ## Speaker: Thomas LaRock
 ## Title: Choose Your Own Adventure: Performance Tuning
@@ -355,7 +355,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Mixed
 #  
 #### SessionID: 26225
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -364,7 +364,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 26226
 # Windowing Functions: THE Reason to Upgrade to 2012
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012
@@ -373,7 +373,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 28232
 # Creating an Extensible Data Quality Foundation
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI2
 ## Speaker: Kevin Hazzard
 ## Title: Creating an Extensible Data Quality Foundation
@@ -382,7 +382,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI2
 #  
 #### SessionID: 9104
 # SQL Server 2012's Net-New BI Capabilities 
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI2
 ## Speaker: A.J. Mee
 ## Title: SQL Server 2012's Net-New BI Capabilities 
@@ -391,7 +391,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI2
 #  
 #### SessionID: 9522
 # “I See a Control Flow Tab. Now What?” (Level 100)
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI2
 ## Speaker: Andy Leonard
 ## Title: “I See a Control Flow Tab. Now What?” (Level 100)
@@ -400,7 +400,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: BI2
 #  
 #### SessionID: 9523
 # Using BIML as an SSIS Design Patterns Engine 
-#### [Back to calendar](#SQLSaturday-#187---Richmond-2013)
+#### [Back to calendar](#SQLSaturday-#187-Richmond-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Mixed
 ## Speaker: Andy Leonard
 ## Title: Using BIML as an SSIS Design Patterns Engine 

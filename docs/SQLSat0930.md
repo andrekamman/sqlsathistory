@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 101242
 # Registration
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Admin
 ## Speaker: Paul Popovich Jr
 ## Title: Registration
@@ -55,7 +55,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Admin
 #  
 #### SessionID: 101236
 # Opening
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Admin
 ## Speaker: Paul Popovich Jr
 ## Title: Opening
@@ -64,7 +64,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Admin
 #  
 #### SessionID: 100412
 # Hardware Hints For The SQL DBA - Don't Let Your IT Department Hand You A Big Bag Of Hurt
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Performance
 ## Speaker: Matt Slocum
 ## Title: Hardware Hints For The SQL DBA - Don't Let Your IT Department Hand You A Big Bag Of Hurt
@@ -74,7 +74,7 @@ This session will also cover some options that the DBA can investigate if they h
 #  
 #### SessionID: 100435
 # The Power of Data: The Complete Beginners Data Warehouse Kit
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: SQL Development
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data: The Complete Beginners Data Warehouse Kit
@@ -83,7 +83,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: SQL Development
 #  
 #### SessionID: 100485
 # If you use Azure, you must learn Kusto Query Language?
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Cloud
 ## Speaker: Taiob Ali
 ## Title: If you use Azure, you must learn Kusto Query Language?
@@ -94,7 +94,7 @@ In this 95% demo session, I will show you some ‘getting started’ tips and a 
 #  
 #### SessionID: 99370
 # Inside the Database Engine
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Performance
 ## Speaker: John Deardurff
 ## Title: Inside the Database Engine
@@ -103,7 +103,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Performance
 #  
 #### SessionID: 99468
 # Eyes on the Prize:  Simple and Effective Dashboard Visualization Techniques
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Eyes on the Prize:  Simple and Effective Dashboard Visualization Techniques
@@ -112,7 +112,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 99498
 # How to do a Complete SQL Server Assessment
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Monitoring, Maintenance, and Tools
 ## Speaker: Dave Bland
 ## Title: How to do a Complete SQL Server Assessment
@@ -121,7 +121,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Monitoring, Ma
 #  
 #### SessionID: 99991
 # Replication Technologies
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Architecture and Design
 ## Speaker: Hilary Cotter
 ## Title: Replication Technologies
@@ -130,7 +130,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Architecture a
 #  
 #### SessionID: 101234
 # Break
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Admin
 ## Speaker: Paul Popovich Jr
 ## Title: Break
@@ -139,7 +139,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Admin
 #  
 #### SessionID: 100426
 # Performance Improvements in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Performance
 ## Speaker: Frank Gill
 ## Title: Performance Improvements in SQL Server 2019
@@ -148,7 +148,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Performance
 #  
 #### SessionID: 100536
 # Source Control for Databases: Why You Need It and How To Get Started
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: SQL Development
 ## Speaker: Jes Schultz
 ## Title: Source Control for Databases: Why You Need It and How To Get Started
@@ -159,7 +159,7 @@ Database administrators *and* developers should attend this working demo session
 #  
 #### SessionID: 99362
 # Make Your Company Conversational using Azure Cognitive Services
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Analytics and Visualization
 ## Speaker: Matt Gordon
 ## Title: Make Your Company Conversational using Azure Cognitive Services
@@ -168,7 +168,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 99518
 # Wait Wait Do Tell Me
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Monitoring, Maintenance, and Tools
 ## Speaker: Peter Shore
 ## Title: Wait Wait Do Tell Me
@@ -177,7 +177,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Monitoring, Ma
 #  
 #### SessionID: 99601
 # Going Beyond the Basics with Query Store
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Performance
 ## Speaker: Joseph Fleming
 ## Title: Going Beyond the Basics with Query Store
@@ -186,7 +186,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Performance
 #  
 #### SessionID: 99900
 # Azure Data Factory as easy as 1..2...3
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Cloud
 ## Speaker: Dan de Sousa
 ## Title: Azure Data Factory as easy as 1..2...3
@@ -196,7 +196,7 @@ There will be some live demos and by the end of the session we may have a workin
 #  
 #### SessionID: 100199
 # Find (So You can Fix) those Troublesome Queries
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Monitoring, Maintenance, and Tools
 ## Speaker: Allen White
 ## Title: Find (So You can Fix) those Troublesome Queries
@@ -205,7 +205,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Monitoring, Ma
 #  
 #### SessionID: 100480
 # Using Azure DevOps to Automate Database Deployments
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: SQL Development
 ## Speaker: Sarah Dutkiewicz
 ## Title: Using Azure DevOps to Automate Database Deployments
@@ -214,7 +214,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: SQL Development
 #  
 #### SessionID: 99348
 # Data Types Do Matter
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Architecture and Design
 ## Speaker: Angela Henry
 ## Title: Data Types Do Matter
@@ -223,7 +223,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Architecture a
 #  
 #### SessionID: 99367
 # Introduction to SQL++ for Big Data: Same Language, More Power
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Analytics and Visualization
 ## Speaker: Matthew Groves
 ## Title: Introduction to SQL++ for Big Data: Same Language, More Power
@@ -232,7 +232,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 99662
 # Mario..Take My Data To The Cloud!
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Cloud
 ## Speaker: Jim Donahoe
 ## Title: Mario..Take My Data To The Cloud!
@@ -241,7 +241,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Cloud
 #  
 #### SessionID: 99968
 # It's Not Your Fault, It's the SQL Server Default
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Performance
 ## Speaker: Jeff Iannucci
 ## Title: It's Not Your Fault, It's the SQL Server Default
@@ -250,7 +250,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Performance
 #  
 #### SessionID: 101235
 # Lunch
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Admin
 ## Speaker: Paul Popovich Jr
 ## Title: Lunch
@@ -259,7 +259,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Admin
 #  
 #### SessionID: 100196
 # Practical Container Scenarios in Azure
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Cloud
 ## Speaker: Anthony Nocentino
 ## Title: Practical Container Scenarios in Azure
@@ -268,7 +268,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Cloud
 #  
 #### SessionID: 100423
 # Shortcuts from an Impatient DBA
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: SQL Development
 ## Speaker: Andy Mallon
 ## Title: Shortcuts from an Impatient DBA
@@ -283,7 +283,7 @@ Slides and handouts available on GitHub: http://am2.co/shortcuts-ppt
 #  
 #### SessionID: 100493
 # DBA - What's Most Important
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Monitoring, Maintenance, and Tools
 ## Speaker: Ed Wagner
 ## Title: DBA - What's Most Important
@@ -292,7 +292,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Monitoring, Ma
 #  
 #### SessionID: 99383
 # Loading your Data Vault with Azure Data Factory Mapping Data Flows
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Architecture and Design
 ## Speaker: Rayis Imayev
 ## Title: Loading your Data Vault with Azure Data Factory Mapping Data Flows
@@ -305,7 +305,7 @@ In this session, I will share my experience of populating a Data Vault repositor
 #  
 #### SessionID: 99713
 # Tapping into the Power of Data Flows in Power BI
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Analytics and Visualization
 ## Speaker: Joshua Higginbotham
 ## Title: Tapping into the Power of Data Flows in Power BI
@@ -314,7 +314,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 99735
 # SQL Server Indexing - Practical Solutions
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Performance
 ## Speaker: David Maxwell
 ## Title: SQL Server Indexing - Practical Solutions
@@ -325,7 +325,7 @@ In this session, we’ll discuss how SQL Server selects and uses indexes to impr
 #  
 #### SessionID: 100404
 # Automating "Excel Hell" with T-SQL
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: SQL Development
 ## Speaker: Jeff Moden
 ## Title: Automating "Excel Hell" with T-SQL
@@ -340,7 +340,7 @@ Don’t let the “Advanced” rating of this session scare you away. We make it
 #  
 #### SessionID: 100840
 # How To Talk To Your Storage Admin
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Architecture and Design
 ## Speaker: Marsha Pierce
 ## Title: How To Talk To Your Storage Admin
@@ -349,7 +349,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Architecture a
 #  
 #### SessionID: 99331
 # Keys to a Healthy Relationship with SQL Server
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: SQL Development
 ## Speaker: Andy Levy
 ## Title: Keys to a Healthy Relationship with SQL Server
@@ -360,7 +360,7 @@ In this talk designed for application and database developers, we’ll talk abou
 #  
 #### SessionID: 99439
 # What Developers Need to Know About The Transaction Log
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Performance
 ## Speaker: Michael J Swart
 ## Title: What Developers Need to Know About The Transaction Log
@@ -371,7 +371,7 @@ We're going to take a close look at the function of the transaction log, the cha
 #  
 #### SessionID: 99572
 # Introduction to M (a.k.a Power Query)
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Analytics and Visualization
 ## Speaker: Eugene Meidinger
 ## Title: Introduction to M (a.k.a Power Query)
@@ -382,7 +382,7 @@ In this session, we'll demonstrate how M is a linear series of transformations, 
 #  
 #### SessionID: 99921
 # Data Hub Automation with Databricks Delta
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Cloud
 ## Speaker: Sean Forgatch
 ## Title: Data Hub Automation with Databricks Delta
@@ -396,7 +396,7 @@ Agenda:
 #  
 #### SessionID: 100259
 # Power BI: From Zero to 101
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Analytics and Visualization
 ## Speaker: Slava Murygin
 ## Title: Power BI: From Zero to 101
@@ -412,7 +412,7 @@ After this session you will be really able to work with Power BI on your own.
 #  
 #### SessionID: 100526
 # Let's Dive Into SQL Server I/O To Improve T-SQL Performance
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Performance
 ## Speaker: Andy Yun
 ## Title: Let's Dive Into SQL Server I/O To Improve T-SQL Performance
@@ -425,7 +425,7 @@ When you leave, you'll be able to optimize your T-SQL reduce I/O and improve per
 #  
 #### SessionID: 100612
 # Real World Use Cases Utilizing DbaTools.IO
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Monitoring, Maintenance, and Tools
 ## Speaker: Josh Handler
 ## Title: Real World Use Cases Utilizing DbaTools.IO
@@ -434,7 +434,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Monitoring, Ma
 #  
 #### SessionID: 99642
 # CosmosDB is the missing piece to your Data puzzle!
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Cloud
 ## Speaker: Hasan Savran
 ## Title: CosmosDB is the missing piece to your Data puzzle!
@@ -454,7 +454,7 @@ CosmosDB Limitations
 #  
 #### SessionID: 99844
 # Tame Your Unruly Data With Constraints
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Architecture and Design
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data With Constraints
@@ -463,7 +463,7 @@ Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Database Architecture a
 #  
 #### SessionID: 101237
 # Closing
-#### [Back to calendar](#SQLSaturday-#930---Cleveland-2020)
+#### [Back to calendar](#SQLSaturday-#930-Cleveland-2020)
 Event Date: 01-02-2020 - Session time: 17:15:00 - Track: Admin
 ## Speaker: Paul Popovich Jr
 ## Title: Closing

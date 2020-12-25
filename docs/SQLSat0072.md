@@ -22,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 29109
 # BI: Then and Now 
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: SQL Track
 ## Speaker: Bob Abernethy
 ## Title: BI: Then and Now 
@@ -31,7 +31,7 @@ Event Date: 01-04-2011 - Session time: 00:00:00 - Track: SQL Track
 #  
 #### SessionID: 29110
 # Mission Possible:  Pervasive BI
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: MISC Track
 ## Speaker: Bob Abernethy
 ## Title: Mission Possible:  Pervasive BI
@@ -40,7 +40,7 @@ Event Date: 01-04-2011 - Session time: 00:00:00 - Track: MISC Track
 #  
 #### SessionID: 29685
 # SQL Server Analysis Services: a 10,000-foot view
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: SQL Track
 ## Speaker: Deepak Puri
 ## Title: SQL Server Analysis Services: a 10,000-foot view
@@ -51,7 +51,7 @@ This session will describe major SSAS functionality, with demos to illustrate ke
 #  
 #### SessionID: 29774
 # Calling Microsoft Dynamics eConnect Stored Procs
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: MISC Track
 ## Speaker: David Eichner
 ## Title: Calling Microsoft Dynamics eConnect Stored Procs
@@ -62,7 +62,7 @@ vendors, customers, inventory items, and related transactions into Microsoft Dyn
 #  
 #### SessionID: 30314
 # SQL Server + SharePoint = BI Solutions
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: SQL Track
 ## Speaker: Wen He
 ## Title: SQL Server + SharePoint = BI Solutions
@@ -71,7 +71,7 @@ Event Date: 01-04-2011 - Session time: 00:00:00 - Track: SQL Track
 #  
 #### SessionID: 30315
 # SSIS + SharePoint = Interoperability
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: SQL Track
 ## Speaker: Wen He
 ## Title: SSIS + SharePoint = Interoperability
@@ -82,7 +82,7 @@ This session will demonstrate the techniques to simplify access to the SharePoin
 #  
 #### SessionID: 30466
 # Looney Tuner?  No, there IS a method to my madness
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: SQL Track
 ## Speaker: Janis Griffin
 ## Title: Looney Tuner?  No, there IS a method to my madness
@@ -91,7 +91,7 @@ Event Date: 01-04-2011 - Session time: 00:00:00 - Track: SQL Track
 #  
 #### SessionID: 30468
 # Confio Ignite VM - Monitoring with a Big Picture V
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: SQL Track
 ## Speaker: Janis Griffin
 ## Title: Confio Ignite VM - Monitoring with a Big Picture V
@@ -100,7 +100,7 @@ Event Date: 01-04-2011 - Session time: 00:00:00 - Track: SQL Track
 #  
 #### SessionID: 31464
 # Secrets of a .NET Ninja
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: DEV Track
 ## Speaker: Chris Eargle
 ## Title: Secrets of a .NET Ninja
@@ -110,7 +110,7 @@ Event Date: 01-04-2011 - Session time: 00:00:00 - Track: DEV Track
 #  
 #### SessionID: 31465
 # What’s new in ASP.NET MVC 3: Building NerdDinner
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: DEV Track
 ## Speaker: Chris Eargle
 ## Title: What’s new in ASP.NET MVC 3: Building NerdDinner
@@ -119,7 +119,7 @@ Event Date: 01-04-2011 - Session time: 00:00:00 - Track: DEV Track
 #  
 #### SessionID: 31467
 # Code like a Ninja: Enhance Your Productivity
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: DEV Track
 ## Speaker: Chris Eargle
 ## Title: Code like a Ninja: Enhance Your Productivity
@@ -130,7 +130,7 @@ This session covers features of Visual Studio and JustCode that make you more pr
 #  
 #### SessionID: 32216
 # Windows Presentation Foundation for Developers
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: DEV Track
 ## Speaker: Philip Japikse
 ## Title: Windows Presentation Foundation for Developers
@@ -139,7 +139,7 @@ Event Date: 01-04-2011 - Session time: 00:00:00 - Track: DEV Track
 #  
 #### SessionID: 32219
 # Mocks, Stubs, and Dependency Injection, Oh My!
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: MISC Track
 ## Speaker: Philip Japikse
 ## Title: Mocks, Stubs, and Dependency Injection, Oh My!
@@ -148,7 +148,7 @@ Event Date: 01-04-2011 - Session time: 00:00:00 - Track: MISC Track
 #  
 #### SessionID: 32220
 # Lessons Learned:Being Agile in a Waterfall Sandbox
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: MISC Track
 ## Speaker: Philip Japikse
 ## Title: Lessons Learned:Being Agile in a Waterfall Sandbox
@@ -157,7 +157,7 @@ Event Date: 01-04-2011 - Session time: 00:00:00 - Track: MISC Track
 #  
 #### SessionID: 32221
 # An Intro To Test Driven Development
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: MISC Track
 ## Speaker: Philip Japikse
 ## Title: An Intro To Test Driven Development
@@ -166,7 +166,7 @@ Event Date: 01-04-2011 - Session time: 00:00:00 - Track: MISC Track
 #  
 #### SessionID: 33792
 # So... You've Inherited "The DB From Heck" (v2.0)
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: DEV Track
 ## Speaker: Troy Ketsdever
 ## Title: So... You've Inherited "The DB From Heck" (v2.0)
@@ -178,7 +178,7 @@ In this session, we'll look at some tools, techniques, and scripts that will acc
 #  
 #### SessionID: 33793
 # Predictive Analytics - You Can, Too!
-#### [Back to calendar](#SQLSaturday-#72---Hawaii-2011)
+#### [Back to calendar](#SQLSaturday-#72-Hawaii-2011)
 Event Date: 01-04-2011 - Session time: 00:00:00 - Track: MISC Track
 ## Speaker: Troy Ketsdever
 ## Title: Predictive Analytics - You Can, Too!

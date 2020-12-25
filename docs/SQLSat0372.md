@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 9211
 # The elephant in the room: Continuous Delivery for Databases
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Other
 ## Speaker: Alex Yates
 ## Title: The elephant in the room: Continuous Delivery for Databases
@@ -56,7 +56,7 @@ By the end of the session, delegates will have learned that the elephant in the 
 #  
 #### SessionID: 13548
 # Analizing Text with SQL Server 2014 and R
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 01
 ## Speaker: Dejan Sarka
 ## Title: Analizing Text with SQL Server 2014 and R
@@ -65,7 +65,7 @@ Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 01
 #  
 #### SessionID: 13657
 # Practical advice on how to get started using source control, ssdt and ci
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 2
 ## Speaker: Ed Elliott
 ## Title: Practical advice on how to get started using source control, ssdt and ci
@@ -80,7 +80,7 @@ In a nutshell, how do we become more agile on our Sql development!
 #  
 #### SessionID: 22144
 # Run your DBA morning checklist with policy based management while sipping coffee
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 3
 ## Speaker: Pieter Vanhove
 ## Title: Run your DBA morning checklist with policy based management while sipping coffee
@@ -89,7 +89,7 @@ Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 3
 #  
 #### SessionID: 27041
 # You did WHAT to my transaction log?!
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 4
 ## Speaker: Tony Davis
 ## Title: You did WHAT to my transaction log?!
@@ -99,7 +99,7 @@ Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 4
 #  
 #### SessionID: 36208
 # Loading Dimensions with SSIS
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 3
 ## Speaker: Prathy Kamasani
 ## Title: Loading Dimensions with SSIS
@@ -108,7 +108,7 @@ Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 3
 #  
 #### SessionID: 18786
 # Certification and IT Career - Self Case Study
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 3
 ## Speaker: Tobias Koprowski
 ## Title: Certification and IT Career - Self Case Study
@@ -117,7 +117,7 @@ Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 3
 #  
 #### SessionID: 18260
 # Introduction to Execution Plans
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 4
 ## Speaker: Kevan Riley
 ## Title: Introduction to Execution Plans
@@ -126,7 +126,7 @@ Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 4
 #  
 #### SessionID: 35931
 # Agile BI
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 01
 ## Speaker: Stephanie Locke
 ## Title: Agile BI
@@ -136,7 +136,7 @@ Covering the technology and process sides of enabling agile BI, this session is 
 #  
 #### SessionID: 9324
 # Azure Data Factory - The New SSIS?
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 2
 ## Speaker: Allan Mitchell
 ## Title: Azure Data Factory - The New SSIS?
@@ -145,7 +145,7 @@ Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 2
 #  
 #### SessionID: 11237
 # Biml for Beginners: Generating SSIS packages with BimlScript
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 01
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Biml for Beginners: Generating SSIS packages with BimlScript
@@ -158,7 +158,7 @@ This session is intended for SSIS developers who are not yet familiar with Biml.
 #  
 #### SessionID: 12847
 # Statistics, Estimation   Plan Caching - The Big Three
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 4
 ## Speaker: David Morrison
 ## Title: Statistics, Estimation   Plan Caching - The Big Three
@@ -172,7 +172,7 @@ Using lots of demos and examples attendees will leave the session with a greater
 #  
 #### SessionID: 15656
 # Database Partitioning - Part I
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 3
 ## Speaker: James Skipwith
 ## Title: Database Partitioning - Part I
@@ -181,7 +181,7 @@ Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 3
 #  
 #### SessionID: 21124
 # Making PowerShell useful for your team
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 2
 ## Speaker: Rob Sewell
 ## Title: Making PowerShell useful for your team
@@ -198,7 +198,7 @@ Where else to go for help
 #  
 #### SessionID: 15657
 # Database Partitioning - Part II
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 3
 ## Speaker: James Skipwith
 ## Title: Database Partitioning - Part II
@@ -207,7 +207,7 @@ Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 3
 #  
 #### SessionID: 23523
 # Building a meta-driven near realtime ETL solution with BIML and SSIS
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 01
 ## Speaker: Rasmus Reinholdt
 ## Title: Building a meta-driven near realtime ETL solution with BIML and SSIS
@@ -221,7 +221,7 @@ Topics covered in the session
 #  
 #### SessionID: 26061
 # SharePoint Databases - What you need to know
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 2
 ## Speaker: Al Eardley
 ## Title: SharePoint Databases - What you need to know
@@ -230,7 +230,7 @@ Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 2
 #  
 #### SessionID: 34860
 # Top Down Tuning
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 4
 ## Speaker: Richard Douglas
 ## Title: Top Down Tuning
@@ -239,7 +239,7 @@ Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 4
 #  
 #### SessionID: 36485
 # The first step towards continuous integration for SQL Server
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Other
 ## Speaker: Alex Yates
 ## Title: The first step towards continuous integration for SQL Server
@@ -257,7 +257,7 @@ One lucky session attendee will also win a licence of SQL Source Control.
 #  
 #### SessionID: 12092
 # Session Details not available
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 01
 ## Speaker: n/a n/a
 ## Title: Session Details not available
@@ -266,7 +266,7 @@ Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 01
 #  
 #### SessionID: 22712
 # SQL Server 2014 Features EVERYONE Can Use
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 4
 ## Speaker: Lord Richard Douglas
 ## Title: SQL Server 2014 Features EVERYONE Can Use
@@ -279,7 +279,7 @@ After this session you will be able to outline why you need to upgrade to the la
 #  
 #### SessionID: 36185
 # Machine Learning without a PhD in statisitcs
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Other
 ## Speaker: Andrew Fryer
 ## Title: Machine Learning without a PhD in statisitcs
@@ -288,7 +288,7 @@ Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Other
 #  
 #### SessionID: 24800
 # SQL Server and Application Security for Developers
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 3
 ## Speaker: Mladen Prajdić
 ## Title: SQL Server and Application Security for Developers
@@ -298,7 +298,7 @@ In this session we'll look at a few attack vectors that can be used against your
 #  
 #### SessionID: 26101
 # SSRS Inception: Reporting on Reporting services.
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 01
 ## Speaker: Terry McCann
 ## Title: SSRS Inception: Reporting on Reporting services.
@@ -309,7 +309,7 @@ Wouldn't it be great if you could see who is viewing a report, in what format an
 #  
 #### SessionID: 28218
 # Stories from the Trenches: Upgrading SQL with Minimal Downtime
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 2
 ## Speaker: William Durkin
 ## Title: Stories from the Trenches: Upgrading SQL with Minimal Downtime
@@ -318,7 +318,7 @@ Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 2
 #  
 #### SessionID: 9467
 # Visualizing performance tuning data
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 4
 ## Speaker: André Kamman
 ## Title: Visualizing performance tuning data
@@ -328,7 +328,7 @@ Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 4
 #  
 #### SessionID: 10571
 # When good SQL design goes bad
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 2
 ## Speaker: Bob Duffy
 ## Title: When good SQL design goes bad
@@ -349,7 +349,7 @@ Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 2
 #  
 #### SessionID: 17283
 # Microsoft SQL Server AlwaysOn in a Multi-Site world
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 3
 ## Speaker: John Martin
 ## Title: Microsoft SQL Server AlwaysOn in a Multi-Site world
@@ -360,7 +360,7 @@ Covering things like Asymmetric storage configurations, DNS considerations and t
 #  
 #### SessionID: 21386
 # Load Testing With SQL Server Tools
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Track 4
 ## Speaker: Neil Hambly
 ## Title: Load Testing With SQL Server Tools
@@ -371,7 +371,7 @@ Come learn about the native tools at our disposal for performing these important
 #  
 #### SessionID: 21598
 # SSRS - After the Begining (formerly But SSRS Can't Do That)
-#### [Back to calendar](#SQLSaturday-#372---Exeter-2015)
+#### [Back to calendar](#SQLSaturday-#372-Exeter-2015)
 Event Date: 25-04-2015 - Session time: 16:20:00 - Track: Other
 ## Speaker: Oz Locke
 ## Title: SSRS - After the Begining (formerly But SSRS Can't Do That)

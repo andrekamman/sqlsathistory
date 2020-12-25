@@ -52,7 +52,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 89067
 # What Is Clogging Your Database Performance?
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eddy Djaja
 ## Title: What Is Clogging Your Database Performance?
@@ -61,7 +61,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 89638
 # Database Corruption
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stephen Muliokela
 ## Title: Database Corruption
@@ -79,7 +79,7 @@ Highlight of topics
 #  
 #### SessionID: 89722
 # Making Sense of the Power BI Ecosystem
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Dustin Ryan
 ## Title: Making Sense of the Power BI Ecosystem
@@ -88,7 +88,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 89849
 # 2017 SSIS Scale Out for HA/DR ETL
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul LaGrone
 ## Title: 2017 SSIS Scale Out for HA/DR ETL
@@ -97,7 +97,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 89887
 # Building Defense in Depth Using the Full Spectrum of SQL Server Encryption
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Compliance and Security
 ## Speaker: Michael Keleher
 ## Title: Building Defense in Depth Using the Full Spectrum of SQL Server Encryption
@@ -106,7 +106,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Compliance and Security
 #  
 #### SessionID: 90135
 # Continuous Analytics Deployment with Azure DevOps
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Doug McClurg
 ## Title: Continuous Analytics Deployment with Azure DevOps
@@ -115,7 +115,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 90173
 # 14 Tips for an Effective Job Search  Leveraging Recruiters
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Erica Woods
 ## Title: 14 Tips for an Effective Job Search  Leveraging Recruiters
@@ -124,7 +124,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 90817
 # Understanding SQL Server Backup and Restore
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Radney
 ## Title: Understanding SQL Server Backup and Restore
@@ -133,7 +133,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90820
 # REAL WORLD REPORT SERVER PERFORMANCE  SCALABILITY STRATEGIES
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Pless
 ## Title: REAL WORLD REPORT SERVER PERFORMANCE  SCALABILITY STRATEGIES
@@ -150,7 +150,7 @@ We will cover Azure Data Studio extensions, Power BI Dashboards, and examining t
 #  
 #### SessionID: 89084
 # Fundamentals That Will Improve Your Query Performance!
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: John Wells
 ## Title: Fundamentals That Will Improve Your Query Performance!
@@ -159,7 +159,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 89193
 # A System for Managing Career Learning
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Andy Warren
 ## Title: A System for Managing Career Learning
@@ -168,7 +168,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 89250
 # What's New in Creating Data Models and Reporting with Power BI
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Information Delivery
 ## Speaker: Michael Antonovich
 ## Title: What's New in Creating Data Models and Reporting with Power BI
@@ -177,7 +177,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Information Delivery
 #  
 #### SessionID: 89377
 # Hadoop 123. NoSQL, Not Only SQL SQL Everywhere
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Frank Quintana
 ## Title: Hadoop 123. NoSQL, Not Only SQL SQL Everywhere
@@ -187,7 +187,7 @@ In this presentation, I will depict the Hadoop evolution from version1 to versio
 #  
 #### SessionID: 89547
 # Learn Power BI Report Server Enterprise Architecture, Tools to publish reports and Best Practice
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vishal Pawar
 ## Title: Learn Power BI Report Server Enterprise Architecture, Tools to publish reports and Best Practice
@@ -197,7 +197,7 @@ In this session Vishal will go over Power BI Ecosystem with Example, PBI RS evol
 #  
 #### SessionID: 89726
 # Building a Data Warehouse from the Ground Up
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dustin Ryan
 ## Title: Building a Data Warehouse from the Ground Up
@@ -206,7 +206,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 90396
 # DevOps  Database Obfuscation
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Katie Schmidt
 ## Title: DevOps  Database Obfuscation
@@ -215,7 +215,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90564
 # Powershell for DBA to day to day stuff
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Other
 ## Speaker: Jignesh Patel
 ## Title: Powershell for DBA to day to day stuff
@@ -226,7 +226,7 @@ Run one powershell script for all instance and many more
 #  
 #### SessionID: 90796
 # SQL Server Fundamentals for Beginners
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Harvey Hyman
 ## Title: SQL Server Fundamentals for Beginners
@@ -235,7 +235,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 89898
 # Successfully Virtualizing SQL Server on vSphere
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Successfully Virtualizing SQL Server on vSphere
@@ -245,7 +245,7 @@ Still, many IT architects and DBA's are hesitant of virtualizing their SQL workl
 #  
 #### SessionID: 91650
 # Modernize SQL with Dell Technologies
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Craig Allen
 ## Title: Modernize SQL with Dell Technologies
@@ -254,7 +254,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 88998
 # Introduction to SQL Server Big Data Clusters
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Buck Woody
 ## Title: Introduction to SQL Server Big Data Clusters
@@ -263,7 +263,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 89001
 # The SSRS 2017 Restful API
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: George Walkey
 ## Title: The SSRS 2017 Restful API
@@ -272,7 +272,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 89288
 # Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose Chinchilla
 ## Title: Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
@@ -281,7 +281,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 89359
 # Introduction to IoT using Azure
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: John Wang
 ## Title: Introduction to IoT using Azure
@@ -291,7 +291,7 @@ We will take an look on what is Internet of Things (IoT), the impact of IoT to t
 #  
 #### SessionID: 90136
 # Tracking Change is the Backbone of Your Data Platform
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Doug McClurg
 ## Title: Tracking Change is the Backbone of Your Data Platform
@@ -300,7 +300,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 90146
 # Partnership Between Audit and Technology Teams
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Compliance and Security
 ## Speaker: Martina Tesar
 ## Title: Partnership Between Audit and Technology Teams
@@ -318,7 +318,7 @@ Questions and Contact Info
 #  
 #### SessionID: 90180
 # Your Interview Prep Action List - 11 To-Dos to Rock Their Socks Off!
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Erica Woods
 ## Title: Your Interview Prep Action List - 11 To-Dos to Rock Their Socks Off!
@@ -330,7 +330,7 @@ confidence building strategies and provide some favorite recommended resources a
 #  
 #### SessionID: 90263
 # SQL Server 2019 CTP 2.x - New Features
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Taylor
 ## Title: SQL Server 2019 CTP 2.x - New Features
@@ -339,7 +339,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90528
 # How to Speak SQL
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Carolyn Risk
 ## Title: How to Speak SQL
@@ -348,7 +348,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 89194
 # Constraints are the Key (to Data Integrity)
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Andy Warren
 ## Title: Constraints are the Key (to Data Integrity)
@@ -357,7 +357,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 89378
 # “Past, Present and Future of the Data Profession"
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Frank Quintana
 ## Title: “Past, Present and Future of the Data Profession"
@@ -367,7 +367,7 @@ How is Data Science and Big Data changing our profession? What is a Data Scienti
 #  
 #### SessionID: 89897
 # How to make a SQL Saturday Presentation
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Shawn Meyers
 ## Title: How to make a SQL Saturday Presentation
@@ -376,7 +376,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 90059
 # Storytelling for Machine Learning and Advanced Analytics
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Jen Underwood
 ## Title: Storytelling for Machine Learning and Advanced Analytics
@@ -387,7 +387,7 @@ Machine learning and advanced analytics can be difficult to understand and expla
 #  
 #### SessionID: 90116
 # Changing Data Is Easy, Managing Data Change is Hard!
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: James McAuliffe
 ## Title: Changing Data Is Easy, Managing Data Change is Hard!
@@ -396,7 +396,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90147
 # Why You Should Consider Implementing Indexed Views
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alexander Fleming
 ## Title: Why You Should Consider Implementing Indexed Views
@@ -405,7 +405,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 90216
 # An Introduction to Power BI for Data Science With Python
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Adriano da Silva
 ## Title: An Introduction to Power BI for Data Science With Python
@@ -416,7 +416,7 @@ This is an introductory session designed for those with basic Power BI skills; a
 #  
 #### SessionID: 90313
 # Look, over there, your permissions are showing!
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Compliance and Security
 ## Speaker: Travis Page
 ## Title: Look, over there, your permissions are showing!
@@ -425,7 +425,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Compliance and Security
 #  
 #### SessionID: 90789
 # Creating a Resume for Online Submission
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Suzanne Ricci
 ## Title: Creating a Resume for Online Submission
@@ -434,7 +434,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 89002
 # Using Powershell to Document SQL Server
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Using Powershell to Document SQL Server
@@ -443,7 +443,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 89025
 # Azure Resource Management with PowerShell
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ronald Dameron
 ## Title: Azure Resource Management with PowerShell
@@ -452,7 +452,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 89092
 # How To Tune A Multi-Terabyte Database For Optimum Performance.
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Taylor
 ## Title: How To Tune A Multi-Terabyte Database For Optimum Performance.
@@ -461,7 +461,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 89248
 # Accessibility Concerns of Reporting Style with Power BI
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Michael Antonovich
 ## Title: Accessibility Concerns of Reporting Style with Power BI
@@ -470,7 +470,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 89289
 # Become a Power BI superstar under 1 hour !
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Jose Chinchilla
 ## Title: Become a Power BI superstar under 1 hour !
@@ -479,7 +479,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 89903
 # Thinking in SQL
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Robert Hatton
 ## Title: Thinking in SQL
@@ -488,7 +488,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 90295
 # Temporal Tables:  Creation, Use, and Optimizing
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Dale Sullenberger
 ## Title: Temporal Tables:  Creation, Use, and Optimizing
@@ -497,7 +497,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 90493
 # Stop Leaving Money On the Table – A Data Professional’s Guide to Unlocking Tax S
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Jo Willetts
 ## Title: Stop Leaving Money On the Table – A Data Professional’s Guide to Unlocking Tax S
@@ -506,7 +506,7 @@ Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 90758
 # Women in IT . A survival kit.
-#### [Back to calendar](#SQLSaturday-#859---Tampa-2019)
+#### [Back to calendar](#SQLSaturday-#859-Tampa-2019)
 Event Date: 23-03-2019 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Gilda Alvarez
 ## Title: Women in IT . A survival kit.

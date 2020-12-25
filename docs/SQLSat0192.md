@@ -51,7 +51,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10138
 # SQL Internals , Recovery Models, and Backups! OH M
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Bradley Ball
 ## Title: SQL Internals , Recovery Models, and Backups! OH M
@@ -60,7 +60,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 10335
 # Top Query Optimizer Topics for Better Performance
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Benjamin Nevarez
 ## Title: Top Query Optimizer Topics for Better Performance
@@ -69,7 +69,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 10401
 # Pivoting Performance Data  Pinpointing Problems
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Brian Flynn
 ## Title: Pivoting Performance Data  Pinpointing Problems
@@ -78,7 +78,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 10528
 # Reporting Services Deep Dive
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brian K McDonald
 ## Title: Reporting Services Deep Dive
@@ -87,7 +87,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 10899
 # Reporting 101
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Brook Ranne
 ## Title: Reporting 101
@@ -96,7 +96,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 11961
 # Building a SSIS Business Rules Engine
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Christopher Price
 ## Title: Building a SSIS Business Rules Engine
@@ -105,7 +105,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 12925
 # Dealing With Errors in SSIS 2012
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Dye
 ## Title: Dealing With Errors in SSIS 2012
@@ -114,7 +114,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13268
 # "It's MINE" - Intro into locking in SQL Server
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Dmitri Korotkevitch
 ## Title: "It's MINE" - Intro into locking in SQL Server
@@ -126,7 +126,7 @@ This is PowerPoint-free session. Only Management Studio, T-SQL Code and bag of c
 #  
 #### SessionID: 13269
 # "It's THEIRS" - Locking - a step further
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Dmitri Korotkevitch
 ## Title: "It's THEIRS" - Locking - a step further
@@ -137,7 +137,7 @@ This is PowerPoint-free session. Only Management Studio, T-SQL Code and bag of c
 #  
 #### SessionID: 13500
 # MDXplosion! Intro To MDX
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Dustin Ryan
 ## Title: MDXplosion! Intro To MDX
@@ -146,7 +146,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13692
 # Backups: Getting the Most Out of Your Storage
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Ed Watson
 ## Title: Backups: Getting the Most Out of Your Storage
@@ -155,7 +155,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 14069
 # Join Us - Getting Started as a Technical Speaker
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Eddie Wuerch
 ## Title: Join Us - Getting Started as a Technical Speaker
@@ -164,7 +164,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 14070
 # Partitioning for Perf and Management
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Eddie Wuerch
 ## Title: Partitioning for Perf and Management
@@ -173,7 +173,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 14859
 # Power View  Reporting Enhancements in SQL Server 
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Guillermo Caicedo
 ## Title: Power View  Reporting Enhancements in SQL Server 
@@ -182,7 +182,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 15664
 # Extend Your Knowledge with Extended Events!
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Janis Griffin
 ## Title: Extend Your Knowledge with Extended Events!
@@ -193,7 +193,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 16118
 # PowerPivot+Powerview=Self-service BI Revolution
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jose Chinchilla
 ## Title: PowerPivot+Powerview=Self-service BI Revolution
@@ -202,7 +202,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16169
 # SQL 2012 -- All About HA and DR
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Joseph D'Antoni
 ## Title: SQL 2012 -- All About HA and DR
@@ -211,7 +211,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 16293
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
@@ -220,7 +220,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 16294
 # Indexing for Join Optimization
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for Join Optimization
@@ -230,7 +230,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 16653
 # Exploring your Data with Power View
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jessica Moss
 ## Title: Exploring your Data with Power View
@@ -239,7 +239,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16957
 # Predictive Analytics at your fingertips
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jose L. Rivera
 ## Title: Predictive Analytics at your fingertips
@@ -248,7 +248,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 16975
 # Database Projects: A Walk Around SQL Server Databa
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: James McAuliffe
 ## Title: Database Projects: A Walk Around SQL Server Databa
@@ -263,7 +263,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 17063
 # Performance Tuning by Digging into the Plan Cache
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Jonathan Kehayias
 ## Title: Performance Tuning by Digging into the Plan Cache
@@ -272,7 +272,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 17065
 # Successfully Virtualizing SQL Server in Production
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Jonathan Kehayias
 ## Title: Successfully Virtualizing SQL Server in Production
@@ -281,7 +281,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 17068
 # Free Tools for the DBA
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Jonathan Kehayias
 ## Title: Free Tools for the DBA
@@ -290,7 +290,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 17181
 # Moving Big Data - SSIS, Pig, and Sqoop
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: John Welch
 ## Title: Moving Big Data - SSIS, Pig, and Sqoop
@@ -299,7 +299,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 17183
 # Tuning Analysis Services Processing Performance
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: John Welch
 ## Title: Tuning Analysis Services Processing Performance
@@ -308,7 +308,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17377
 # SSIS Programming Using .NET
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Jorge Novo
 ## Title: SSIS Programming Using .NET
@@ -319,7 +319,7 @@ Build ssis packages dynamically for generic ETL solutions.
 #  
 #### SessionID: 17380
 # What is a BI DBA?
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jorge Segarra
 ## Title: What is a BI DBA?
@@ -328,7 +328,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17453
 # New T-SQL features in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Richie Rump
 ## Title: New T-SQL features in SQL Server 2012
@@ -337,7 +337,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 18052
 # Using PowerShell To Document Your SQL Envronment
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Kendal Van Dyke
 ## Title: Using PowerShell To Document Your SQL Envronment
@@ -354,7 +354,7 @@ This session will give you the answer by demonstrating how to use PowerShell and
 #  
 #### SessionID: 19119
 # Report Builder: reports made easy
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Yelena Pavlyuk
 ## Title: Report Builder: reports made easy
@@ -368,7 +368,7 @@ Also we'll touch a bit on Report Manager that provides a user interface to a rep
 #  
 #### SessionID: 19897
 # Extend your T-SQL scripting with PowerShell
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Maximo Trinidad
 ## Title: Extend your T-SQL scripting with PowerShell
@@ -377,7 +377,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 20674
 # Hello, My Name is DAX
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Michael Antonovich
 ## Title: Hello, My Name is DAX
@@ -386,7 +386,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20839
 # Building your first SSIS package made easy
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Mitchell Pearson
 ## Title: Building your first SSIS package made easy
@@ -395,7 +395,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 23141
 # Process Automation with SSIS
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Robert Biddle
 ## Title: Process Automation with SSIS
@@ -404,7 +404,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 23312
 # Revenge: The SQL Part 2: The Sequel!
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL Part 2: The Sequel!
@@ -413,7 +413,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 23437
 # Sysadmin not always required...
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Ronald Dameron
 ## Title: Sysadmin not always required...
@@ -422,7 +422,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 23606
 # Building a Windows 8 app from scratch 
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Russell Fustino
 ## Title: Building a Windows 8 app from scratch 
@@ -435,7 +435,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 24142
 # Kung Fu Migration to Windows Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Scott Klein
 ## Title: Kung Fu Migration to Windows Azure SQL Database
@@ -444,7 +444,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 24712
 # (Way Too Much) Fun with Reporting Services 
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Stacia Varga
 ## Title: (Way Too Much) Fun with Reporting Services 
@@ -453,7 +453,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24713
 # A Big Data Primer
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Stacia Varga
 ## Title: A Big Data Primer
@@ -462,7 +462,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28269
 # Becoming a Data Professional – taking it to the ne
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Buck Woody
 ## Title: Becoming a Data Professional – taking it to the ne
@@ -472,7 +472,7 @@ You’ll learn which areas to study, the types of problem areas this knowledge s
 #  
 #### SessionID: 8855
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals
@@ -482,7 +482,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9572
 # Building Your Professional Development Plan
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Andy Warren
 ## Title: Building Your Professional Development Plan
@@ -491,7 +491,7 @@ Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 9876
 # The Database Creation Process
-#### [Back to calendar](#SQLSaturday-#192---Tampa-2013)
+#### [Back to calendar](#SQLSaturday-#192-Tampa-2013)
 Event Date: 02-03-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Arvin Meyer
 ## Title: The Database Creation Process

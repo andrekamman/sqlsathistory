@@ -49,7 +49,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10469
 # Hadoop for the SQL Developer/DBA
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 45
 ## Speaker: Bill Preachuk
 ## Title: Hadoop for the SQL Developer/DBA
@@ -58,7 +58,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 45
 #  
 #### SessionID: 11451
 # Top Features of SQL 2012 Nobody Told You About
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-210: MVP-MCM
 ## Speaker: Robert Davis
 ## Title: Top Features of SQL 2012 Nobody Told You About
@@ -67,7 +67,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-210: MVP-MCM
 #  
 #### SessionID: 11453
 # Recovering from Corruption
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-180
 ## Speaker: Robert Davis
 ## Title: Recovering from Corruption
@@ -78,7 +78,7 @@ In this session, we will discuss the protections within SQL Server to help ident
 #  
 #### SessionID: 12363
 # Freaky Fast Database Development Tips
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 45
 ## Speaker: David Valentine
 ## Title: Freaky Fast Database Development Tips
@@ -87,7 +87,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 45
 #  
 #### SessionID: 12692
 # SRS Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-125
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
@@ -96,7 +96,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-125
 #  
 #### SessionID: 13063
 # Power View - Bringing your Data to Life!
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-180
 ## Speaker: Dan English
 ## Title: Power View - Bringing your Data to Life!
@@ -105,7 +105,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-180
 #  
 #### SessionID: 13188
 # An Intro to Columnstore Indexes in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 54
 ## Speaker: Derek Dai
 ## Title: An Intro to Columnstore Indexes in SQL Server 2012
@@ -114,7 +114,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 54
 #  
 #### SessionID: 13715
 # Practically Normal
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 2-260
 ## Speaker: Ed Leighton-Dick
 ## Title: Practically Normal
@@ -123,7 +123,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 2-260
 #  
 #### SessionID: 13906
 # Dimensional Data Model Prototyping With PowerPivot
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-115
 ## Speaker: Eric Ness
 ## Title: Dimensional Data Model Prototyping With PowerPivot
@@ -132,7 +132,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-115
 #  
 #### SessionID: 13917
 # Beginners Guide to Execution Plans
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 43
 ## Speaker: Eric Zierdt
 ## Title: Beginners Guide to Execution Plans
@@ -141,7 +141,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 43
 #  
 #### SessionID: 14185
 # Advanced Dimensional Design and Implementation
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-125
 ## Speaker: Fazel Haris
 ## Title: Advanced Dimensional Design and Implementation
@@ -150,7 +150,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-125
 #  
 #### SessionID: 14809
 # Using Microsoft Tools for Healthcare BI
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-115
 ## Speaker: Greg Beaumont
 ## Title: Using Microsoft Tools for Healthcare BI
@@ -159,7 +159,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-115
 #  
 #### SessionID: 15012
 # Consulting The Good, The Bad, The Ugly
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 43
 ## Speaker: Hope Foley
 ## Title: Consulting The Good, The Bad, The Ugly
@@ -168,7 +168,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 43
 #  
 #### SessionID: 15479
 # Creating a Metadata Mart w/ SSIS - Data Governance
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 56
 ## Speaker: Ira Warren
 ## Title: Creating a Metadata Mart w/ SSIS - Data Governance
@@ -177,7 +177,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 56
 #  
 #### SessionID: 15829
 # Posh Eye for the BI Guy
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-125
 ## Speaker: Jason Horner
 ## Title: Posh Eye for the BI Guy
@@ -193,7 +193,7 @@ previous minor exposure to PowerShell or .Net programming is assumed.
 #  
 #### SessionID: 15898
 # Fast Track to Spatial Reporting
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 56
 ## Speaker: Jason Thomas
 ## Title: Fast Track to Spatial Reporting
@@ -202,7 +202,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 56
 #  
 #### SessionID: 16358
 # Master Data Services
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 2-260
 ## Speaker: Jeff Prom
 ## Title: Master Data Services
@@ -212,7 +212,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 2-260
 #  
 #### SessionID: 16622
 # The What, Why, and How of Filegroups 
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-210: MVP-MCM
 ## Speaker: Jes Schultz
 ## Title: The What, Why, and How of Filegroups 
@@ -221,7 +221,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-210: MVP-MCM
 #  
 #### SessionID: 16623
 # Make Your Voice Heard!
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 2-260
 ## Speaker: Jes Schultz
 ## Title: Make Your Voice Heard!
@@ -230,7 +230,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 2-260
 #  
 #### SessionID: 16936
 # Real Time big data with Microsoft StreamInsight
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 2-260
 ## Speaker: Jeff Krebsbach
 ## Title: Real Time big data with Microsoft StreamInsight
@@ -239,7 +239,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 2-260
 #  
 #### SessionID: 17120
 # Resolving Cardinality Estimate Issues 
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-210: MVP-MCM
 ## Speaker: Joe Sack
 ## Title: Resolving Cardinality Estimate Issues 
@@ -248,7 +248,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-210: MVP-MCM
 #  
 #### SessionID: 17738
 # Getting to Know Index Operation Stats
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 45
 ## Speaker: Jason Strate
 ## Title: Getting to Know Index Operation Stats
@@ -257,7 +257,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 45
 #  
 #### SessionID: 17742
 # The Creepy DBA, How to Stalk Your Users
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 54
 ## Speaker: Jason Strate
 ## Title: The Creepy DBA, How to Stalk Your Users
@@ -266,7 +266,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 54
 #  
 #### SessionID: 18383
 # Break it up!  Implement Table Partitioning
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 56
 ## Speaker: Kirby Richter
 ## Title: Break it up!  Implement Table Partitioning
@@ -275,7 +275,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 56
 #  
 #### SessionID: 18897
 # Locks, Blocks, and Deadlocks
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 54
 ## Speaker: Kyle Neier
 ## Title: Locks, Blocks, and Deadlocks
@@ -284,7 +284,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 54
 #  
 #### SessionID: 18950
 # Big Data
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-180
 ## Speaker: Lara Rubbelke
 ## Title: Big Data
@@ -293,7 +293,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-180
 #  
 #### SessionID: 19639
 # MDX Trek: First Contact
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-115
 ## Speaker: Mark Vaillancourt
 ## Title: MDX Trek: First Contact
@@ -302,7 +302,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-115
 #  
 #### SessionID: 20063
 # PowerShell 101
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 45
 ## Speaker: Merrill Aldrich
 ## Title: PowerShell 101
@@ -311,7 +311,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 45
 #  
 #### SessionID: 21772
 # Real-Time Analytics with SSAS Tabular DirectQuery
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-125
 ## Speaker: Paul Doyle
 ## Title: Real-Time Analytics with SSAS Tabular DirectQuery
@@ -320,7 +320,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-125
 #  
 #### SessionID: 22391
 # Quest Software Session - TBD
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-180
 ## Speaker: Paul Timmerman
 ## Title: Quest Software Session - TBD
@@ -329,7 +329,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-180
 #  
 #### SessionID: 23021
 # SSRS: Reporting on Reports
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 43
 ## Speaker: Rick Krueger
 ## Title: SSRS: Reporting on Reports
@@ -340,7 +340,7 @@ Co-Presenter: Dave Valentine (@IngeniousSQL)
 #  
 #### SessionID: 23456
 # GeoGRAPHY and GeoMETRY Spatial Data Types
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 2-260
 ## Speaker: Ross McNeely
 ## Title: GeoGRAPHY and GeoMETRY Spatial Data Types
@@ -349,7 +349,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 2-260
 #  
 #### SessionID: 23984
 # SQL server 2012 - Contained Database
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 54
 ## Speaker: Sarita Garg
 ## Title: SQL server 2012 - Contained Database
@@ -358,7 +358,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 54
 #  
 #### SessionID: 24310
 # Anatomy of a Join
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 43
 ## Speaker: Luke Jian
 ## Title: Anatomy of a Join
@@ -367,7 +367,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 43
 #  
 #### SessionID: 24975
 # Advancements in CDC with SSIS in SQL 2012
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 54
 ## Speaker: MIKE DONNELLY
 ## Title: Advancements in CDC with SSIS in SQL 2012
@@ -376,7 +376,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 54
 #  
 #### SessionID: 25789
 # A Window into Your Data: Using SQL Window Function
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 45
 ## Speaker: Steve Hughes
 ## Title: A Window into Your Data: Using SQL Window Function
@@ -385,7 +385,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 45
 #  
 #### SessionID: 26086
 # Merge Replication for Offline Data Mobility
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-210: MVP-MCM
 ## Speaker: Ted Krueger
 ## Title: Merge Replication for Offline Data Mobility
@@ -395,7 +395,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-210: MVP-MCM
 #  
 #### SessionID: 26545
 # SQL Bonsai - Identifying dead schema
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 56
 ## Speaker: Ben Thul
 ## Title: SQL Bonsai - Identifying dead schema
@@ -404,7 +404,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 56
 #  
 #### SessionID: 27992
 # Documenting Your Integrated Microsoft BI Solution
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-125
 ## Speaker: William E Pearson III
 ## Title: Documenting Your Integrated Microsoft BI Solution
@@ -413,7 +413,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-125
 #  
 #### SessionID: 28004
 # Design and Implement BI Like Edison! 
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-210: MVP-MCM
 ## Speaker: William E Pearson III
 ## Title: Design and Implement BI Like Edison! 
@@ -422,7 +422,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-210: MVP-MCM
 #  
 #### SessionID: 28293
 # A Powershell Driven Life
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 56
 ## Speaker: Zach Mattson
 ## Title: A Powershell Driven Life
@@ -433,7 +433,7 @@ No SSIS or Powerpoint will be harmed during this presentation.
 #  
 #### SessionID: 8892
 # Writing Professional Database Code
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-180
 ## Speaker: Aaron Lowe
 ## Title: Writing Professional Database Code
@@ -442,7 +442,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-180
 #  
 #### SessionID: 9163
 # A Complete BI Solution in About an Hour!
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-115
 ## Speaker: Aaron King
 ## Title: A Complete BI Solution in About an Hour!
@@ -451,7 +451,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Keller 3-115
 #  
 #### SessionID: 9352
 # Beginning TSQL Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#149---Minnesota-2012)
+#### [Back to calendar](#SQLSaturday-#149-Minnesota-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Rapson 43
 ## Speaker: Andy Lohn
 ## Title: Beginning TSQL Tips and Tricks

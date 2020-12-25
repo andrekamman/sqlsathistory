@@ -61,7 +61,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 41297
 # Turbo-Charged Transaction Logs
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Turbo-Charged Transaction Logs
@@ -70,7 +70,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41381
 # Profiler is Dead! Long Live Extended Events!
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Keith Tate
 ## Title: Profiler is Dead! Long Live Extended Events!
@@ -82,7 +82,7 @@ Profiler was a friend of mine, but it is time to embrace the new king!
 #  
 #### SessionID: 41406
 # What's New in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ross LoForte
 ## Title: What's New in SQL Server 2016
@@ -92,7 +92,7 @@ SQL Server 2016 delivers breakthrough mission-critical capabilities with in-memo
 #  
 #### SessionID: 41427
 # How to collect a baseline on all your servers and still get a good night's sleep.
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Dorame
 ## Title: How to collect a baseline on all your servers and still get a good night's sleep.
@@ -101,7 +101,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41572
 # Encrypting Data within Sql Server
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within Sql Server
@@ -110,7 +110,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 42848
 # Infrastructure for the DBA: An Introduction
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: Infrastructure for the DBA: An Introduction
@@ -119,7 +119,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44671
 # SSAS:  What is it and How do I get started using it
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dave Bland
 ## Title: SSAS:  What is it and How do I get started using it
@@ -128,7 +128,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 46431
 # What is a Latch, and Why Do I Care?
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eddie Wuerch
 ## Title: What is a Latch, and Why Do I Care?
@@ -137,7 +137,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41290
 # Licensing Simplified: AlwaysOn, Virtualization, and More
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Brent Ozar
 ## Title: Licensing Simplified: AlwaysOn, Virtualization, and More
@@ -146,7 +146,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 41379
 # Introduction to Window Functions
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: Introduction to Window Functions
@@ -157,7 +157,7 @@ This session will teach you how to avoid cursor solutions, and create simpler co
 #  
 #### SessionID: 41413
 # Continuous Deployments using SSDT
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Christopher Wolff
 ## Title: Continuous Deployments using SSDT
@@ -166,7 +166,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 41636
 # Scripting out SQL Server for Documentation and Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Scripting out SQL Server for Documentation and Disaster Recovery
@@ -177,7 +177,7 @@ By Learning a little Powershell, we will script out an organized set of files th
 #  
 #### SessionID: 42241
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -186,7 +186,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44232
 # Biml for Beginners: Speed up your SSIS development
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Biml for Beginners: Speed up your SSIS development
@@ -199,7 +199,7 @@ Speed up your SSIS development by using Biml and BimlScript, and see how you can
 #  
 #### SessionID: 44572
 # Monster Text Manipulation: Regular Expressions for the DBA
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
@@ -212,7 +212,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44922
 # Anatomy of an Optimizer
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Luke Jian
 ## Title: Anatomy of an Optimizer
@@ -223,7 +223,7 @@ We explain why query optimization complexity increases exponentially with the nu
 #  
 #### SessionID: 41313
 # Effective Data Visualization: The Ideas of Edward Tufte
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: David Giard
 ## Title: Effective Data Visualization: The Ideas of Edward Tufte
@@ -235,7 +235,7 @@ In this session, I will explain some of Tufte's most important guidelines about 
 #  
 #### SessionID: 41334
 # Data Pages, Allocation Units, IAM chains... Oh My!
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Leach
 ## Title: Data Pages, Allocation Units, IAM chains... Oh My!
@@ -246,7 +246,7 @@ We’ll start off by looking at the structure of a row and then move on the conc
 #  
 #### SessionID: 41825
 # Context  Calculation, Back to the Basics with DAX
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Austin Senseman
 ## Title: Context  Calculation, Back to the Basics with DAX
@@ -257,7 +257,7 @@ This session is for the intermediate DAX user who has produced some quality data
 #  
 #### SessionID: 42079
 # Lock, Block and Two Smoking Barrels
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Mark Broadbent
 ## Title: Lock, Block and Two Smoking Barrels
@@ -269,7 +269,7 @@ Let’s take a long look into the world of SQL Server concurrency and investigat
 #  
 #### SessionID: 42441
 # Top 10 Clustering Dos and Don'ts
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allan Hirt
 ## Title: Top 10 Clustering Dos and Don'ts
@@ -278,7 +278,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42676
 # Analyze your query plan like a Microsoft Engineer!
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Janik
 ## Title: Analyze your query plan like a Microsoft Engineer!
@@ -287,7 +287,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 44533
 # Data Architecture 101
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: Data Architecture 101
@@ -301,7 +301,7 @@ This presentation is a survey of Data Architecture for the Intermediate DBA, it 
 #  
 #### SessionID: 44912
 # Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
@@ -310,7 +310,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44253
 # Big Data in the Modern Data Warehouse
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Fred Bliss
 ## Title: Big Data in the Modern Data Warehouse
@@ -321,7 +321,7 @@ This session aims to define big data from the perspective of the enterprise data
 #  
 #### SessionID: 44564
 # Effortless Backups with Minion Backup
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jennifer McCown
 ## Title: Effortless Backups with Minion Backup
@@ -330,7 +330,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44787
 # Be a Role Model for Women in Tech through Blogging
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Mickey Stuewe
 ## Title: Be a Role Model for Women in Tech through Blogging
@@ -339,7 +339,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 46657
 # Are You Optimistic About Concurrency?
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kalen Delaney
 ## Title: Are You Optimistic About Concurrency?
@@ -348,7 +348,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 47019
 # IO Whack-a-Mole
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christopher Slater
 ## Title: IO Whack-a-Mole
@@ -357,7 +357,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 47293
 # Transform Database Agility with XtremIO -- EMC Sponsored Session
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Wendy Pastrick
 ## Title: Transform Database Agility with XtremIO -- EMC Sponsored Session
@@ -366,7 +366,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 47294
 # DELL Sponsored Session - David Swanson
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Other
 ## Speaker: Wendy Pastrick
 ## Title: DELL Sponsored Session - David Swanson
@@ -375,7 +375,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 47586
 # Workload Replay: Synthetic vs Real-World Benchmarking
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: Workload Replay: Synthetic vs Real-World Benchmarking
@@ -385,7 +385,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41309
 # What is your Character Data Type?
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: What is your Character Data Type?
@@ -394,7 +394,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 41891
 # Wish you could live the glamorous consulting life?
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Other
 ## Speaker: Juan Soto
 ## Title: Wish you could live the glamorous consulting life?
@@ -406,7 +406,7 @@ In this session you will learn sales, marketing and management strategies to get
 #  
 #### SessionID: 42879
 # Spatial Data - Looking Outside the Map
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Hope Foley
 ## Title: Spatial Data - Looking Outside the Map
@@ -415,7 +415,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 44514
 # Azure SQL Database for the Earthed DBA
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Grant Fritchey
 ## Title: Azure SQL Database for the Earthed DBA
@@ -424,7 +424,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 44720
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -433,7 +433,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 44855
 # Performance Monitoring AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: Performance Monitoring AlwaysOn Availability Groups
@@ -443,7 +443,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44873
 # Making the Leap from Developer to DBA
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
@@ -452,7 +452,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 46616
 # Reporting Services 2016 Solutions: The New Awesome
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Paul Turley
 ## Title: Reporting Services 2016 Solutions: The New Awesome
@@ -461,7 +461,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 41972
 # Big Data in the Cloud - An Intro to HDInsight and Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Josh Fennessy
 ## Title: Big Data in the Cloud - An Intro to HDInsight and Microsoft Azure
@@ -474,7 +474,7 @@ During this session, we'll start with a brief overview of Hadoop and HDFS. Next 
 #  
 #### SessionID: 42535
 # Designing SQL Server HA/DR Infrastructure to meet the SLA
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: Designing SQL Server HA/DR Infrastructure to meet the SLA
@@ -485,7 +485,7 @@ For each one of the solutions we discuss we will define a series of failure mode
 #  
 #### SessionID: 42636
 # Virtual SQL Servers, Actual Performance
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Virtual SQL Servers, Actual Performance
@@ -496,7 +496,7 @@ This session is packed with many tips and tricks for getting the most performanc
 #  
 #### SessionID: 43015
 # Dimensional Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond Basics
@@ -514,7 +514,7 @@ the art of dimensional modeling. We will look at the different types of fact tab
 #  
 #### SessionID: 43025
 # Shortcuts from an Impatient DBA
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Andy Mallon
 ## Title: Shortcuts from an Impatient DBA
@@ -527,7 +527,7 @@ We spend a lot of time thinking about how to write efficient code, but we don't 
 #  
 #### SessionID: 44746
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -536,7 +536,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 44794
 # "R" You Ready For SQL 2016?
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: John Pertell
 ## Title: "R" You Ready For SQL 2016?
@@ -547,7 +547,7 @@ In this beginner session we will look at how to set up R on your SQL instance. W
 #  
 #### SessionID: 45666
 # Intro to Monitoring I/O: The Counters That Count
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: J May
 ## Title: Intro to Monitoring I/O: The Counters That Count
@@ -556,7 +556,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41319
 # Clusters! From the ground up, let's build one together
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Popovich Jr
 ## Title: Clusters! From the ground up, let's build one together
@@ -566,7 +566,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41333
 # Becoming the Data Platform Engineer of Tomorrow
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: John Martin
 ## Title: Becoming the Data Platform Engineer of Tomorrow
@@ -577,7 +577,7 @@ Will the traditional developer, BI and DBA roles that we know so well today be t
 #  
 #### SessionID: 41546
 # Much Ado About Hadoop
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
@@ -586,7 +586,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 41663
 # XML Without Xanax: How to Handle XML in SQL Server
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Adam Belebczuk
 ## Title: XML Without Xanax: How to Handle XML in SQL Server
@@ -599,7 +599,7 @@ If you survive this session, you'll have faced your fears about XML in SQL Serve
 #  
 #### SessionID: 42197
 # Introduction to Indexes and SARGability
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Jared Karney
 ## Title: Introduction to Indexes and SARGability
@@ -608,7 +608,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 42792
 # Teaching Your Servers to Call For Help
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Hillwig
 ## Title: Teaching Your Servers to Call For Help
@@ -617,7 +617,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42801
 # Time to Stretch: Scaling out with Azure DB Elastic Scale
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warner Chaves
 ## Title: Time to Stretch: Scaling out with Azure DB Elastic Scale
@@ -630,7 +630,7 @@ In this session we will demo the elastic scale API, elastic db pools, elastic qu
 #  
 #### SessionID: 46123
 # Power BI  - Explore SQL Server Database and Performance Metrics
-#### [Back to calendar](#SQLSaturday-#484---Chicago-2016)
+#### [Back to calendar](#SQLSaturday-#484-Chicago-2016)
 Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Seth Bauer
 ## Title: Power BI  - Explore SQL Server Database and Performance Metrics

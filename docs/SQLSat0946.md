@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 102279
 # Keynote - Women in Technology Panel
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Panel of Discussion
 ## Speaker: SQL Saturday South Florida
 ## Title: Keynote - Women in Technology Panel
@@ -56,7 +56,7 @@ Cecilia Brusatori
 #  
 #### SessionID: 100571
 # The Psychology of Better Power BI Reporting
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Power BI
 ## Speaker: Ed Watson
 ## Title: The Psychology of Better Power BI Reporting
@@ -65,7 +65,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Power BI
 #  
 #### SessionID: 100966
 # Design your Power BI with inclusive intelligence
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: LATAM ( BI topics in Spanish)
 ## Speaker: Diana Betancourt
 ## Title: Design your Power BI with inclusive intelligence
@@ -76,7 +76,7 @@ Let's work together on a hands-on journey to learn the statistics that affect ou
 #  
 #### SessionID: 100977
 # Networking 101: Getting Ready for a SQL Event
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Networking
 ## Speaker: Matt Cushing
 ## Title: Networking 101: Getting Ready for a SQL Event
@@ -87,7 +87,7 @@ In this session, we'll go over steps you can take before, during and after the e
 #  
 #### SessionID: 101255
 # Architecting a Modern Business Intelligence Data Platform
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Warner Chaves
 ## Title: Architecting a Modern Business Intelligence Data Platform
@@ -100,7 +100,7 @@ In this session we will look at the main components and reference architectures 
 #  
 #### SessionID: 101277
 # Are you a Power BI Newbie?
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Power BI
 ## Speaker: Priscilla Camp
 ## Title: Are you a Power BI Newbie?
@@ -109,7 +109,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Power BI
 #  
 #### SessionID: 101673
 # Session in Spanish Coming soon [reserved slot]
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: LATAM ( BI topics in Spanish)
 ## Speaker: SQL Saturday South Florida
 ## Title: Session in Spanish Coming soon [reserved slot]
@@ -118,7 +118,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: LATAM ( BI topics in Sp
 #  
 #### SessionID: 100437
 # DAX for Beginners - Learn the basics for Power BI
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Power BI
 ## Speaker: Katie Schmidt
 ## Title: DAX for Beginners - Learn the basics for Power BI
@@ -127,7 +127,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Power BI
 #  
 #### SessionID: 100970
 # Designing BI Architectures in the world of Azure
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: LATAM ( BI topics in Spanish)
 ## Speaker: Mariano Kovo
 ## Title: Designing BI Architectures in the world of Azure
@@ -137,7 +137,7 @@ So many options can be overwhelming and there is no single solution that can be 
 #  
 #### SessionID: 101120
 # An Intro to Databricks
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Artificial Intelligence
 ## Speaker: Barkha Herman
 ## Title: An Intro to Databricks
@@ -146,7 +146,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 99951
 # Azure SQL DB Hyperscale, the game has changed.
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Armando Lacerda
 ## Title: Azure SQL DB Hyperscale, the game has changed.
@@ -156,7 +156,7 @@ In this session you will learn and see how it works and the best scenarios where
 #  
 #### SessionID: 100710
 # Using Python In Power BI
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Power BI
 ## Speaker: Julie Smith
 ## Title: Using Python In Power BI
@@ -165,7 +165,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Power BI
 #  
 #### SessionID: 101205
 # Azure Data Factory for Beginners
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Darius Liktorius
 ## Title: Azure Data Factory for Beginners
@@ -174,7 +174,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 101507
 # Build a Modern Data Warehouse with Apache Spark and SQL Server
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: LATAM ( BI topics in Spanish)
 ## Speaker: oscar garcia
 ## Title: Build a Modern Data Warehouse with Apache Spark and SQL Server
@@ -196,7 +196,7 @@ Data analysis and visualization with Power BI
 #  
 #### SessionID: 99912
 # What is the Power Query Editor?
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Power BI
 ## Speaker: Jessica Jolly
 ## Title: What is the Power Query Editor?
@@ -216,7 +216,7 @@ In this session, we will cover:
 #  
 #### SessionID: 101667
 # How to build a Virtual Data Warehouse with SQL Server
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Herve Roggero
 ## Title: How to build a Virtual Data Warehouse with SQL Server
@@ -225,7 +225,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 100085
 # BI against Azure Synapse Analytics or Azure Analysis Services. What architecture to be considered?
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Oscar Zamora
 ## Title: BI against Azure Synapse Analytics or Azure Analysis Services. What architecture to be considered?
@@ -234,7 +234,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 100900
 # Data and DevOps: Joining the CI/CD Fun
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Power BI
 ## Speaker: Kelly Tabler
 ## Title: Data and DevOps: Joining the CI/CD Fun
@@ -243,7 +243,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Power BI
 #  
 #### SessionID: 101175
 # Getting Involved and Getting Ahead
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Networking
 ## Speaker: Tim Radney
 ## Title: Getting Involved and Getting Ahead
@@ -252,7 +252,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Networking
 #  
 #### SessionID: 99806
 # User Experience Brilliance in Power BI Dashboards
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Power BI
 ## Speaker: Hilary Wilkie
 ## Title: User Experience Brilliance in Power BI Dashboards
@@ -263,7 +263,7 @@ In this session, we will explore how to start using UX and the psychology behind
 #  
 #### SessionID: 99924
 # Surviving the digital transformation
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: LATAM ( BI topics in Spanish)
 ## Speaker: Gilda Alvarez
 ## Title: Surviving the digital transformation
@@ -272,7 +272,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: LATAM ( BI topics in Sp
 #  
 #### SessionID: 100084
 # Automated Machine Learning (AutoML) in Power BI
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Artificial Intelligence
 ## Speaker: Hector Villafuerte
 ## Title: Automated Machine Learning (AutoML) in Power BI
@@ -281,7 +281,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 101276
 # Networking Clinic
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Networking
 ## Speaker: SQL Saturday South Florida
 ## Title: Networking Clinic
@@ -297,7 +297,7 @@ Join the networking clinic, we will have activities and discussions to help
 #  
 #### SessionID: 101354
 # Power BI creating reports with Visio diagrams and Cognitive Servi
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: LATAM ( BI topics in Spanish)
 ## Speaker: Mahesh Caroicar
 ## Title: Power BI creating reports with Visio diagrams and Cognitive Servi
@@ -306,7 +306,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: LATAM ( BI topics in Sp
 #  
 #### SessionID: 99906
 # Level-up your Power BI Reports
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Power BI
 ## Speaker: Cecilia Brusatori
 ## Title: Level-up your Power BI Reports
@@ -316,7 +316,7 @@ This session is 100% demos: shortcuts, visuals interactions, drilling down/up/th
 #  
 #### SessionID: 99926
 # "There Be Whales Here!" -- Big Data in SQL Server
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Aaron Cutshall
 ## Title: "There Be Whales Here!" -- Big Data in SQL Server
@@ -325,7 +325,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 100649
 # Data Virtualization with PolyBase
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Feasel
 ## Title: Data Virtualization with PolyBase
@@ -334,7 +334,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 101419
 # Dare to change, the path of a peak performance professional
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Networking
 ## Speaker: Patricia Monica Ojeda
 ## Title: Dare to change, the path of a peak performance professional
@@ -345,7 +345,7 @@ During this session you will discover, thru the assessment of the peak performan
 #  
 #### SessionID: 101420
 # An introduction to utilizing SSIS for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Candace Thompson
 ## Title: An introduction to utilizing SSIS for Business Intelligence
@@ -355,7 +355,7 @@ Join me to this introductory class.
 #  
 #### SessionID: 101438
 # Pattern Recognition: Unlock Data’s Potential using Azure Cognitiv
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Artificial Intelligence
 ## Speaker: Audrey Hammonds
 ## Title: Pattern Recognition: Unlock Data’s Potential using Azure Cognitiv
@@ -364,7 +364,7 @@ Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 99952
 # Power BI Dataset Tuning
-#### [Back to calendar](#SQLSaturday-#946---South-Florida---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#946-South-Florida-BI-Edition-2020)
 Event Date: 22-02-2020 - Session time: 16:00:00 - Track: Power BI
 ## Speaker: Armando Lacerda
 ## Title: Power BI Dataset Tuning

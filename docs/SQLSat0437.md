@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 36857
 # SQL Server Compression - Getting More Out of Less
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael Nowill
 ## Title: SQL Server Compression - Getting More Out of Less
@@ -39,7 +39,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 39766
 # 100 Times Faster: Experiences making SQL Server go fast
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Andrew Novick
 ## Title: 100 Times Faster: Experiences making SQL Server go fast
@@ -52,7 +52,7 @@ This presentation is illustrated with examples from my work and we'll look for c
 #  
 #### SessionID: 40058
 # Unleashing SSIS with expressions, configurable properties, and parameters
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Daniel Bowlin
 ## Title: Unleashing SSIS with expressions, configurable properties, and parameters
@@ -61,7 +61,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 40073
 # 15 Quick Tips for SSIS Performance
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Tim Mitchell
 ## Title: 15 Quick Tips for SSIS Performance
@@ -72,7 +72,7 @@ In this session, we’ll focus on SSIS package performance, quickly reviewing 15
 #  
 #### SessionID: 40136
 # You Can Still Analyze Data with T-SQL ... No Really
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Steve Hughes
 ## Title: You Can Still Analyze Data with T-SQL ... No Really
@@ -81,7 +81,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 37271
 # Building a Big Data Solution
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: James Serra
 ## Title: Building a Big Data Solution
@@ -90,7 +90,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 38459
 # The future of the data professional
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Adam Jorgensen
 ## Title: The future of the data professional
@@ -99,7 +99,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 39945
 # Extending Your Data Warehouse With PolyBase and Hadoop
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Strate
 ## Title: Extending Your Data Warehouse With PolyBase and Hadoop
@@ -111,7 +111,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 40075
 # Introduction to Biml
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Introduction to Biml
@@ -122,7 +122,7 @@ In this session, we'll cover the essentials of Biml. I'll discuss what it is and
 #  
 #### SessionID: 40286
 # Advanced SQL Server Analysis Services
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Goff
 ## Title: Advanced SQL Server Analysis Services
@@ -131,7 +131,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 37985
 # Managing Copy Data for BI
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paresh Motiwala
 ## Title: Managing Copy Data for BI
@@ -152,7 +152,7 @@ In this session we will study the issues above and see how we can avoid these is
 #  
 #### SessionID: 38460
 # Delivering Agile Analytics with Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Adam Jorgensen
 ## Title: Delivering Agile Analytics with Azure Machine Learning
@@ -162,7 +162,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 39268
 # Processing Temporal Telemetry Data -aka- Storing BigData in a Small Space
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Thomas Grohser
 ## Title: Processing Temporal Telemetry Data -aka- Storing BigData in a Small Space
@@ -173,7 +173,7 @@ Schema, ETL, Aggregation, Querying  and grooming  will be covered.
 #  
 #### SessionID: 39319
 # Create a Power BI Dashboard in 90 Minutes or LESS
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Todd Chittenden
 ## Title: Create a Power BI Dashboard in 90 Minutes or LESS
@@ -182,7 +182,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 40287
 # T-SQL for Application Developers - Attendees chose
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Goff
 ## Title: T-SQL for Application Developers - Attendees chose
@@ -192,7 +192,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 36684
 # Big Data querying with HDInsight and Hadoop with Excel
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: George Walters
 ## Title: Big Data querying with HDInsight and Hadoop with Excel
@@ -201,7 +201,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 36768
 # SSIS 2012/2014:  The Quiet Revolution
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Bryan Cafferky
 ## Title: SSIS 2012/2014:  The Quiet Revolution
@@ -210,7 +210,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 36918
 # Scratching the Surface: Designing your first Power View Report
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Self Service BI
 ## Speaker: Chris Seferlis
 ## Title: Scratching the Surface: Designing your first Power View Report
@@ -219,7 +219,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Self Service BI
 #  
 #### SessionID: 38356
 # Leadership Without Borders: Working with Global Teams
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Mike Hillwig
 ## Title: Leadership Without Borders: Working with Global Teams
@@ -232,7 +232,7 @@ In this session, we demonstrate how a language barrier isn't usually the biggest
 #  
 #### SessionID: 38990
 # Handling Data Error in a Data Flow
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Jack Corbett
 ## Title: Handling Data Error in a Data Flow
@@ -247,7 +247,7 @@ Basic .NET knowledge
 #  
 #### SessionID: 36557
 # SQL Server Reporting Services 2014 on Steroids!!
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services 2014 on Steroids!!
@@ -260,7 +260,7 @@ We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as
 #  
 #### SessionID: 37276
 # Transitioning to a BI role
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: James Serra
 ## Title: Transitioning to a BI role
@@ -269,7 +269,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 37722
 # Self-Service ETL with Power Query
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Self Service BI
 ## Speaker: Dan Clark
 ## Title: Self-Service ETL with Power Query
@@ -278,7 +278,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Self Service BI
 #  
 #### SessionID: 38010
 # Dashboards, KPIs and Maps for any Device
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Sunil Kadimdiwan
 ## Title: Dashboards, KPIs and Maps for any Device
@@ -289,7 +289,7 @@ In this session come to learn the power and ease of how you can make this possib
 #  
 #### SessionID: 39947
 # Azure SQL Data Warehouse Overview
-#### [Back to calendar](#SQLSaturday-#437---Boston---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#437-Boston-BI-Edition-2015)
 Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Strate
 ## Title: Azure SQL Data Warehouse Overview

@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10475
 # BI in the Cloud
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSAS (1049)
 ## Speaker: David Liebman
 ## Title: BI in the Cloud
@@ -45,7 +45,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSAS (1049)
 #  
 #### SessionID: 11973
 # Introduction to Master Data Services 2012 
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SQL Server 2012 (1054)
 ## Speaker: Christopher Price
 ## Title: Introduction to Master Data Services 2012 
@@ -54,7 +54,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SQL Server 2012 (1054)
 #  
 #### SessionID: 11976
 # SSIS Moving Beyond the Script Task  Script Compon
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSIS (1048)
 ## Speaker: Christopher Price
 ## Title: SSIS Moving Beyond the Script Task  Script Compon
@@ -63,7 +63,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSIS (1048)
 #  
 #### SessionID: 13276
 # Deep Dive into Indexes (Part 1)
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: DBA (1047)
 ## Speaker: Dmitri Korotkevitch
 ## Title: Deep Dive into Indexes (Part 1)
@@ -73,7 +73,7 @@ This session dives into the internals of SQL Server and covers various topics su
 #  
 #### SessionID: 13277
 # Deep Dive into Indexes (Part 2)
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: DBA (1047)
 ## Speaker: Dmitri Korotkevitch
 ## Title: Deep Dive into Indexes (Part 2)
@@ -83,7 +83,7 @@ This session dives into the internals of SQL Server and covers various topics su
 #  
 #### SessionID: 13612
 # Using With in SQL
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: DEV (3031)
 ## Speaker: Eduardo Blumenfeld
 ## Title: Using With in SQL
@@ -95,7 +95,7 @@ This session will go from simple examples to more involved recursive ones.
 #  
 #### SessionID: 15026
 # KEYNOTE SESSION: What Happens Next
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: Auditorium (1124)
 ## Speaker: John Schneyer
 ## Title: KEYNOTE SESSION: What Happens Next
@@ -104,7 +104,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: Auditorium (1124)
 #  
 #### SessionID: 15674
 # Looney Tuner?  No, there IS a method to my madness
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: Other (1052)
 ## Speaker: Janis Griffin
 ## Title: Looney Tuner?  No, there IS a method to my madness
@@ -113,7 +113,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: Other (1052)
 #  
 #### SessionID: 16573
 # Mobile Business Intelligence for Everyone, Now!
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: Auditorium (1124)
 ## Speaker: Jen Stirrup
 ## Title: Mobile Business Intelligence for Everyone, Now!
@@ -125,7 +125,7 @@ Come to this session to learn about mobilising Business Intelligence using Share
 #  
 #### SessionID: 16574
 # SQL Server 2012: Business Intelligence  Data Viz
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSAS (1049)
 ## Speaker: Jen Stirrup
 ## Title: SQL Server 2012: Business Intelligence  Data Viz
@@ -140,7 +140,7 @@ Come to this session in order to 'hit the ground running' with Business Intellig
 #  
 #### SessionID: 16900
 # DW/BI: 0 to 60 and beyond!
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSAS (1049)
 ## Speaker: Josh Kodi
 ## Title: DW/BI: 0 to 60 and beyond!
@@ -149,7 +149,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSAS (1049)
 #  
 #### SessionID: 16982
 # Clean Up On Column 3
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSIS (1048)
 ## Speaker: James McAuliffe
 ## Title: Clean Up On Column 3
@@ -161,7 +161,7 @@ This document will talk about Data Quality issues, and how using Microsoft’s n
 #  
 #### SessionID: 17448
 # New T-SQL features in SQL Server 2012 
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SQL Server 2012 (1054)
 ## Speaker: Richie Rump
 ## Title: New T-SQL features in SQL Server 2012 
@@ -170,7 +170,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SQL Server 2012 (1054)
 #  
 #### SessionID: 18625
 # Creating Dashboards with PerformancePoint Services
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: Auditorium (1124)
 ## Speaker: Devin Knight
 ## Title: Creating Dashboards with PerformancePoint Services
@@ -179,7 +179,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: Auditorium (1124)
 #  
 #### SessionID: 18626
 # Extending Reporting Services with Custom Code
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: Auditorium (1124)
 ## Speaker: Devin Knight
 ## Title: Extending Reporting Services with Custom Code
@@ -188,7 +188,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: Auditorium (1124)
 #  
 #### SessionID: 19000
 # Extremely Fast Dimension Updates with CDC and CT
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSIS (1048)
 ## Speaker: Luis Figueroa
 ## Title: Extremely Fast Dimension Updates with CDC and CT
@@ -197,7 +197,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSIS (1048)
 #  
 #### SessionID: 19902
 # Basic Intro to PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: DEV (3031)
 ## Speaker: Maximo Trinidad
 ## Title: Basic Intro to PowerShell for the DBA
@@ -206,7 +206,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: DEV (3031)
 #  
 #### SessionID: 19903
 # PowerShell Query for the T-SQL Developer
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: DEV (3031)
 ## Speaker: Maximo Trinidad
 ## Title: PowerShell Query for the T-SQL Developer
@@ -215,7 +215,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: DEV (3031)
 #  
 #### SessionID: 21713
 # Mining XML Query Plans
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: DEV (3031)
 ## Speaker: Sebastian Meine
 ## Title: Mining XML Query Plans
@@ -224,7 +224,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: DEV (3031)
 #  
 #### SessionID: 22346
 # Tips  Tricks for dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSRS (1053)
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic SSRS Reports
@@ -234,7 +234,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSRS (1053)
 #  
 #### SessionID: 22347
 # Taking the Scary out of Monster Reports
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSRS (1053)
 ## Speaker: Pam Shaw
 ## Title: Taking the Scary out of Monster Reports
@@ -244,7 +244,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSRS (1053)
 #  
 #### SessionID: 24415
 # SQL 2012 BI Capabilities in SharePoint 2010 
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SQL Server 2012 (1054)
 ## Speaker: Shervin Shakibi
 ## Title: SQL 2012 BI Capabilities in SharePoint 2010 
@@ -254,7 +254,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SQL Server 2012 (1054)
 #  
 #### SessionID: 24905
 # Designing An Efficient Replication Topology
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: DBA (1047)
 ## Speaker: Chad Churchwell
 ## Title: Designing An Efficient Replication Topology
@@ -263,7 +263,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: DBA (1047)
 #  
 #### SessionID: 26093
 # Are you spatially aware?
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSRS (1053)
 ## Speaker: Telmo Sampaio
 ## Title: Are you spatially aware?
@@ -272,7 +272,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSRS (1053)
 #  
 #### SessionID: 26688
 # It's TEMPDB Why Should You Care?
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: DBA (1047)
 ## Speaker: Tim Radney
 ## Title: It's TEMPDB Why Should You Care?
@@ -281,7 +281,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: DBA (1047)
 #  
 #### SessionID: 26689
 # Know Backups and Know Recovery
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: Auditorium (1124)
 ## Speaker: Tim Radney
 ## Title: Know Backups and Know Recovery
@@ -294,7 +294,7 @@ Tim will discuss industry best practices for backing up and recovering your data
 #  
 #### SessionID: 26778
 # Dimensional Design primer:  What you need to know
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSAS (1049)
 ## Speaker: Tim Costello
 ## Title: Dimensional Design primer:  What you need to know
@@ -303,7 +303,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSAS (1049)
 #  
 #### SessionID: 34552
 # For Love or Money, Your IT Career
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: Other (1052)
 ## Speaker: Alex Funkhouser
 ## Title: For Love or Money, Your IT Career
@@ -315,7 +315,7 @@ In this seminar session, you will learn multiple I.T. career strategies for maxi
 #  
 #### SessionID: 8861
 # Time Saving Tips  Tricks for SSMS 2012
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SQL Server 2012 (1054)
 ## Speaker: Aaron Nelson
 ## Title: Time Saving Tips  Tricks for SSMS 2012
@@ -324,7 +324,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SQL Server 2012 (1054)
 #  
 #### SessionID: 8862
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: Other (1052)
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals
@@ -334,7 +334,7 @@ Event Date: 16-06-2012 - Session time: 00:00:00 - Track: Other (1052)
 #  
 #### SessionID: 9907
 # Divide  Conquer Reporting - With Replication
-#### [Back to calendar](#SQLSaturday-#141---South-Florida-2012)
+#### [Back to calendar](#SQLSaturday-#141-South-Florida-2012)
 Event Date: 16-06-2012 - Session time: 00:00:00 - Track: SSRS (1053)
 ## Speaker: Anthony Sammartino
 ## Title: Divide  Conquer Reporting - With Replication

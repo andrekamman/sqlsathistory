@@ -33,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 102887
 # What's new in SQL Server Tools?
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Julie Koesmarno
 ## Title: What's new in SQL Server Tools?
@@ -42,7 +42,7 @@ Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 104185
 # How I reduced my actual Power BI Dataset by a whopping 60%
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gilbert Quevauvilliers
 ## Title: How I reduced my actual Power BI Dataset by a whopping 60%
@@ -58,7 +58,7 @@ Event Date: 30-05-2020 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 104742
 # When to use Indexing Pro Features
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Andy Mallon
 ## Title: When to use Indexing Pro Features
@@ -71,7 +71,7 @@ We won't only talk about what these options are, we'll also cover how and when t
 #  
 #### SessionID: 104792
 # DevOps for Azure SQL
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Arvind Shyamsundar
 ## Title: DevOps for Azure SQL
@@ -82,7 +82,7 @@ Come to this session to learn how to use tools like Visual Studio, Azure DevOps,
 #  
 #### SessionID: 102940
 # Practising Safe Custom Visuals
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Daniel Marsh-Patrick
 ## Title: Practising Safe Custom Visuals
@@ -95,7 +95,7 @@ In this session, we’ll talk about considerations to make when selecting custom
 #  
 #### SessionID: 104637
 # Intro to Azure Data Catalog
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Angela Henry
 ## Title: Intro to Azure Data Catalog
@@ -104,7 +104,7 @@ Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 104739
 # The lowdown on character data types in SQL Server
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Greg Low
 ## Title: The lowdown on character data types in SQL Server
@@ -113,7 +113,7 @@ Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 104990
 # Creating Modern Data Platform with Azure Synapse Workspace
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Ginger Grant
 ## Title: Creating Modern Data Platform with Azure Synapse Workspace
@@ -122,7 +122,7 @@ Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 104091
 # Top 10 Power BI Data Storytelling Techniques - An Environmental Story
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Alice Drummond
 ## Title: Top 10 Power BI Data Storytelling Techniques - An Environmental Story
@@ -131,7 +131,7 @@ Event Date: 30-05-2020 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 104659
 # Data Classification and Masking: the What and How of Data Protection
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Other
 ## Speaker: Martin Cairney
 ## Title: Data Classification and Masking: the What and How of Data Protection
@@ -144,7 +144,7 @@ This session will introduce tools and processes that can be used to help protect
 #  
 #### SessionID: 104782
 # Dipping Your Toes In: Azure Data Lake for DBAs
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bob Pusateri
 ## Title: Dipping Your Toes In: Azure Data Lake for DBAs
@@ -153,7 +153,7 @@ Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 105047
 # Successfully Virtualizing SQL Server on VMware vSphere: Straight from the Source
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Other
 ## Speaker: Hamish Watson
 ## Title: Successfully Virtualizing SQL Server on VMware vSphere: Straight from the Source
@@ -168,7 +168,7 @@ If all that you want to know about virtual platform configuration but hesitated 
 #  
 #### SessionID: 104322
 # Migration path from SQL Server Instance on Azure VM (IaaS) towards Azure SQL Managed Instance (PaaS)
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Zoran Barac
 ## Title: Migration path from SQL Server Instance on Azure VM (IaaS) towards Azure SQL Managed Instance (PaaS)
@@ -188,7 +188,7 @@ Use Azure DMS as end-to-end solution for migrating source SQL Server databases t
 #  
 #### SessionID: 104589
 # Data Virtualization with PolyBase
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Data Virtualization with PolyBase
@@ -197,7 +197,7 @@ Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 104753
 # Performance, Optimization, and Intelligent Error Handling in Power Query
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reid Havens
 ## Title: Performance, Optimization, and Intelligent Error Handling in Power Query
@@ -206,7 +206,7 @@ Event Date: 30-05-2020 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 105058
 # Breaking the fourth wall to connect with your audiences
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Rob Farley
 ## Title: Breaking the fourth wall to connect with your audiences
@@ -215,7 +215,7 @@ Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 104156
 # Get Comfortable with Query tuning and Execution Plans
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: Get Comfortable with Query tuning and Execution Plans
@@ -235,7 +235,7 @@ This session will assume a basic knowledge of T-SQL and execution plans.
 #  
 #### SessionID: 104580
 # Developing Cosmos DB for the Enterprise
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Will Velida
 ## Title: Developing Cosmos DB for the Enterprise
@@ -248,7 +248,7 @@ By the end of this session, you should be able to take these learnings and apply
 #  
 #### SessionID: 104673
 # Lessons learnt to improve the durability of PowerBI reports
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kelly Broekstra
 ## Title: Lessons learnt to improve the durability of PowerBI reports
@@ -259,7 +259,7 @@ Join us for lessons learnt, demos and a discussion about moving to Power BI Prem
 #  
 #### SessionID: 104839
 # Exploring Window Functions
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Martin Catherall
 ## Title: Exploring Window Functions
@@ -272,7 +272,7 @@ Come along to this session and see a deep dive into window functions and learn h
 #  
 #### SessionID: 103111
 # Paginated Reporting with Power BI
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Craig Bryden
 ## Title: Paginated Reporting with Power BI
@@ -283,7 +283,7 @@ In this session, Craig will discuss the various options available for implementi
 #  
 #### SessionID: 104602
 # Bare Naked Skinny on SQL Server
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Jason Brimhall
 ## Title: Bare Naked Skinny on SQL Server
@@ -296,7 +296,7 @@ In this session I will disrobe misunderstandings related to the aforementioned t
 #  
 #### SessionID: 104622
 # Architecting Microsoft Azure Data Platform Solutions Correctly
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Victor Isakov
 ## Title: Architecting Microsoft Azure Data Platform Solutions Correctly
@@ -305,7 +305,7 @@ Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 105063
 # DevOps for AI Applications
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Anupama Natarajan
 ## Title: DevOps for AI Applications
@@ -316,7 +316,7 @@ In this session you will learn how to build a Continuous Integration pipeline st
 #  
 #### SessionID: 104155
 # Exploring the ‘people’ element of a Power BI project – its more than just data!!
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Christian Borovac
 ## Title: Exploring the ‘people’ element of a Power BI project – its more than just data!!
@@ -325,7 +325,7 @@ Event Date: 30-05-2020 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 104620
 # SQL Server 2019 Big Data Clusters: Make SQL Server your Data Hub for everything
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Weissman
 ## Title: SQL Server 2019 Big Data Clusters: Make SQL Server your Data Hub for everything
@@ -338,7 +338,7 @@ In this session we are going to explore the capabilities of the exciting new fea
 #  
 #### SessionID: 104771
 # Jupyter Notebooks for DBAs
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Sewell
 ## Title: Jupyter Notebooks for DBAs
@@ -357,7 +357,7 @@ We will have fun as well.
 #  
 #### SessionID: 104824
 # DevOps for Databases: 10 steps to failure
-#### [Back to calendar](#SQLSaturday-#986---Brisbane-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#986-Brisbane-–-Virtual-2020)
 Event Date: 30-05-2020 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Anderson Rangel
 ## Title: DevOps for Databases: 10 steps to failure

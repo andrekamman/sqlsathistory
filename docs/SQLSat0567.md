@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 50961
 # SQL Server 2016 - is it worth the upgrade?
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:    DBA/DEV
 ## Speaker: William Durkin
 ## Title: SQL Server 2016 - is it worth the upgrade?
@@ -41,7 +41,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:    DBA/DEV
 #  
 #### SessionID: 52427
 # Demistifying the errorlog
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:  DBA
 ## Speaker: Stephane Haby
 ## Title: Demistifying the errorlog
@@ -51,7 +51,7 @@ In this session, we will discuss about this famous and essential feedback tool, 
 #  
 #### SessionID: 52919
 # Introduction to U-SQL and Data Lake
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:       BI
 ## Speaker: Alex Whittles
 ## Title: Introduction to U-SQL and Data Lake
@@ -60,7 +60,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:       BI
 #  
 #### SessionID: 50944
 # SQL Server 2016 Availability Group Enhancements
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:  DBA
 ## Speaker: Karol Papaj
 ## Title: SQL Server 2016 Availability Group Enhancements
@@ -69,7 +69,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:  DBA
 #  
 #### SessionID: 50957
 # Advanced BIML - for the advanced ETL developer
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:      BI/DEV
 ## Speaker: Regis Baccaro
 ## Title: Advanced BIML - for the advanced ETL developer
@@ -78,7 +78,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:      BI/DEV
 #  
 #### SessionID: 50975
 # Are Temporal Tables The Better CDC?
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:    DBA/DEV
 ## Speaker: Uwe Ricken
 ## Title: Are Temporal Tables The Better CDC?
@@ -91,7 +91,7 @@ See in this demo-heavy session both techniques will all there pros and cons. Mak
 #  
 #### SessionID: 54162
 # Execution Plans End-to-End in SQL Server
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
 ## Speaker: Sergio Govoni
 ## Title: Execution Plans End-to-End in SQL Server
@@ -100,7 +100,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
 #  
 #### SessionID: 54675
 # Compelling visuals in Power BI
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:       BI
 ## Speaker: Prathy Kamasani
 ## Title: Compelling visuals in Power BI
@@ -111,7 +111,7 @@ In this demo-focused session, we look at how we can create stunning dashboards u
 #  
 #### SessionID: 51178
 # SQL Server Myths and Misconceptions
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:    DBA/DEV
 ## Speaker: Miroslav Dimitrov
 ## Title: SQL Server Myths and Misconceptions
@@ -120,7 +120,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:    DBA/DEV
 #  
 #### SessionID: 51184
 # The Good, the Bad and the Ugly - Always Encrypted in action
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
 ## Speaker: Janos Berke
 ## Title: The Good, the Bad and the Ugly - Always Encrypted in action
@@ -137,7 +137,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
 #  
 #### SessionID: 52476
 # In the name of the resources: Aggregating data
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
 ## Speaker: Dejan Dular
 ## Title: In the name of the resources: Aggregating data
@@ -146,7 +146,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
 #  
 #### SessionID: 54547
 # Step into the Internet of Things with Azure IoT, Stream Analytics and PowerBI
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:       BI
 ## Speaker: Johan Ludvig Brattås
 ## Title: Step into the Internet of Things with Azure IoT, Stream Analytics and PowerBI
@@ -155,7 +155,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:       BI
 #  
 #### SessionID: 50943
 # How I use PowerShell to automate the installation  upgrade of DBA scripts
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:  DBA
 ## Speaker: Rob Sewell
 ## Title: How I use PowerShell to automate the installation  upgrade of DBA scripts
@@ -167,7 +167,7 @@ In this session I will show how I tackle this for hundreds or thousands of insta
 #  
 #### SessionID: 51009
 # Session Details not available
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:      BI/DEV
 ## Speaker: n/a n/a
 ## Title: Session Details not available
@@ -176,7 +176,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:      BI/DEV
 #  
 #### SessionID: 52236
 # Mobile BI with Microsoft tools
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:       BI
 ## Speaker: Andrea Martorana Tusa
 ## Title: Mobile BI with Microsoft tools
@@ -191,7 +191,7 @@ Based on some real examples we will set out a comparison matrix to find the best
 #  
 #### SessionID: 54285
 # Giving Permissions through Stored Procedures
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
 ## Speaker: Erland Sommarskog
 ## Title: Giving Permissions through Stored Procedures
@@ -204,7 +204,7 @@ The session should be of interest both to DBAs and application developers that n
 #  
 #### SessionID: 54694
 # Benchmarking like a Pro
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:    DBA/DEV
 ## Speaker: Gianluca Sartori
 ## Title: Benchmarking like a Pro
@@ -216,7 +216,7 @@ In this demo-intensive session you will discover how to capture a meaningful wor
 #  
 #### SessionID: 50971
 # Deadlocks. Everything you ever wanted to ask but were too shy.
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
 ## Speaker: Denis Reznik
 ## Title: Deadlocks. Everything you ever wanted to ask but were too shy.
@@ -227,7 +227,7 @@ In this session, we will learn some basics about Locks and Transaction Isolation
 #  
 #### SessionID: 51121
 # Introducing the SQL Server 2016 Query Store
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:    DBA/DEV
 ## Speaker: Enrico van de Laar
 ## Title: Introducing the SQL Server 2016 Query Store
@@ -237,7 +237,7 @@ During this session we will take a thorough look at the Query Store, it’s arch
 #  
 #### SessionID: 52341
 # Scripting tabular models
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:       BI
 ## Speaker: Bent Pedersen
 ## Title: Scripting tabular models
@@ -248,7 +248,7 @@ During this session I will go through and explain some examples on generating a 
 #  
 #### SessionID: 53849
 # Powershell community scripts for DBAs
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:  DBA
 ## Speaker: André Kamman
 ## Title: Powershell community scripts for DBAs
@@ -257,7 +257,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:  DBA
 #  
 #### SessionID: 54066
 # Real-Time Analytics: OLAP  OLTP in the mix!
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:      BI/DEV
 ## Speaker: Stijn Wynants
 ## Title: Real-Time Analytics: OLAP  OLTP in the mix!
@@ -266,7 +266,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:      BI/DEV
 #  
 #### SessionID: 50985
 # Boosting DWH-Performance with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:      BI/DEV
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Boosting DWH-Performance with SQL Server 2016
@@ -275,7 +275,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:      BI/DEV
 #  
 #### SessionID: 54373
 # How to recover deleted data with no backups?
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:  DBA
 ## Speaker: Vedran Kesegic
 ## Title: How to recover deleted data with no backups?
@@ -285,7 +285,7 @@ It is nearly impossible to recover the lost data from that situation. But I will
 #  
 #### SessionID: 54522
 # SQL Security in the Cloud
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:    DBA/DEV
 ## Speaker: Tobias Koprowski
 ## Title: SQL Security in the Cloud
@@ -294,7 +294,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:    DBA/DEV
 #  
 #### SessionID: 54705
 # From MDS to SSRS - a short walkthrough
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:       BI
 ## Speaker: Gabi Münster
 ## Title: From MDS to SSRS - a short walkthrough
@@ -303,7 +303,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:       BI
 #  
 #### SessionID: 54746
 # Performance tips for faster SQL queries
-#### [Back to calendar](#SQLSaturday-#567---Slovenia-2016)
+#### [Back to calendar](#SQLSaturday-#567-Slovenia-2016)
 Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
 ## Speaker: Emanuele Zanchettin
 ## Title: Performance tips for faster SQL queries

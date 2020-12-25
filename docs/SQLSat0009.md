@@ -14,7 +14,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 35091
 # Resource Governor in SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#9---Greenville-2008)
+#### [Back to calendar](#SQLSaturday-#9-Greenville-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: SQL DBA
 ## Speaker: David Darden
 ## Title: Resource Governor in SQL Server 2008
@@ -24,7 +24,7 @@ Event Date: 11-10-2008 - Session time: 00:00:00 - Track: SQL DBA
 #  
 #### SessionID: 35147
 # Getting Started with SQL Express
-#### [Back to calendar](#SQLSaturday-#9---Greenville-2008)
+#### [Back to calendar](#SQLSaturday-#9-Greenville-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Jason Burton
 ## Title: Getting Started with SQL Express
@@ -33,7 +33,7 @@ Event Date: 11-10-2008 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 35213
 # Patterns for SSIS Configurations
-#### [Back to calendar](#SQLSaturday-#9---Greenville-2008)
+#### [Back to calendar](#SQLSaturday-#9-Greenville-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: John Welch
 ## Title: Patterns for SSIS Configurations
@@ -42,7 +42,7 @@ Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 35216
 # Using Data Profiling to Improve ETL
-#### [Back to calendar](#SQLSaturday-#9---Greenville-2008)
+#### [Back to calendar](#SQLSaturday-#9-Greenville-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: John Welch
 ## Title: Using Data Profiling to Improve ETL
@@ -51,7 +51,7 @@ Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 35294
 # SQL Server 2005 Auditing Using the CLR
-#### [Back to calendar](#SQLSaturday-#9---Greenville-2008)
+#### [Back to calendar](#SQLSaturday-#9-Greenville-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Lee Johnson
 ## Title: SQL Server 2005 Auditing Using the CLR
@@ -60,7 +60,7 @@ Event Date: 11-10-2008 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 35399
 # Scaling SQL Server for Large Datamarts
-#### [Back to calendar](#SQLSaturday-#9---Greenville-2008)
+#### [Back to calendar](#SQLSaturday-#9-Greenville-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: SQL DBA
 ## Speaker: Rob Schoenborn
 ## Title: Scaling SQL Server for Large Datamarts
@@ -69,7 +69,7 @@ Event Date: 11-10-2008 - Session time: 00:00:00 - Track: SQL DBA
 #  
 #### SessionID: 35400
 # Performance Point 2007 Server Data Integration
-#### [Back to calendar](#SQLSaturday-#9---Greenville-2008)
+#### [Back to calendar](#SQLSaturday-#9-Greenville-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Rob Schoenborn
 ## Title: Performance Point 2007 Server Data Integration
@@ -78,7 +78,7 @@ Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 35457
 # Implementing Smart Reports with MS BI Platform
-#### [Back to calendar](#SQLSaturday-#9---Greenville-2008)
+#### [Back to calendar](#SQLSaturday-#9-Greenville-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Tejas Patel
 ## Title: Implementing Smart Reports with MS BI Platform
@@ -87,7 +87,7 @@ Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 35514
 # Dynamic Management Views Will Save Your Life
-#### [Back to calendar](#SQLSaturday-#9---Greenville-2008)
+#### [Back to calendar](#SQLSaturday-#9-Greenville-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: SQL DBA
 ## Speaker: Whitney Weaver
 ## Title: Dynamic Management Views Will Save Your Life

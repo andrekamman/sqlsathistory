@@ -49,7 +49,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 86743
 # Building the HASSP: Putting SQL Server In Space
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Drew Furgiuele
 ## Title: Building the HASSP: Putting SQL Server In Space
@@ -64,7 +64,7 @@ In this session, you'll hear about how this is possible: we'll discuss the hardw
 #  
 #### SessionID: 86842
 # Azure-d Availability: Scaling SQL Server to the Cloud
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: Azure-d Availability: Scaling SQL Server to the Cloud
@@ -73,7 +73,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 87178
 # Encryption:  Not just for the NSA anymore
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Blinn
 ## Title: Encryption:  Not just for the NSA anymore
@@ -82,7 +82,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 87226
 # Hello My Friends, Welcome to CosmosDB
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Peter Shore
 ## Title: Hello My Friends, Welcome to CosmosDB
@@ -91,7 +91,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 87300
 # Help Me SSIS Logging, You're My Only Hope!
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vanessa Kesten
 ## Title: Help Me SSIS Logging, You're My Only Hope!
@@ -102,7 +102,7 @@ SSIS logging may be the last thing on your mind when starting a new project, but
 #  
 #### SessionID: 87798
 # Azure Data Factory Ingestion Framework
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sean Forgatch
 ## Title: Azure Data Factory Ingestion Framework
@@ -111,7 +111,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 87155
 # Microsoft Machine Learning Services
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Andrew Loree
 ## Title: Microsoft Machine Learning Services
@@ -122,7 +122,7 @@ A beginner level understanding of Machine Learning and process is highly recomme
 #  
 #### SessionID: 87309
 # Populating a Data Warehouse with SSIS and Biml Patterns
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jim Miller
 ## Title: Populating a Data Warehouse with SSIS and Biml Patterns
@@ -132,7 +132,7 @@ Attend to see how Biml can revolutionize your SSIS development!
 #  
 #### SessionID: 89429
 # Install  Configure SQL Server with PowerShell DSC
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jess Pomfret
 ## Title: Install  Configure SQL Server with PowerShell DSC
@@ -146,7 +146,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 89537
 # Demystifying Data Compression
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Andy Mallon
 ## Title: Demystifying Data Compression
@@ -159,7 +159,7 @@ By the end of this session, you'll have a better idea of how the different compr
 #  
 #### SessionID: 89577
 # Migrate Your Database with Distributed AGs
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Elizabeth Noble
 ## Title: Migrate Your Database with Distributed AGs
@@ -172,7 +172,7 @@ NOTE: This session expects that attendees are already familiar with Availability
 #  
 #### SessionID: 89712
 # Better Together: Power BI Dataflows and Azure Data Lake Storage
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Slava Trofimov
 ## Title: Better Together: Power BI Dataflows and Azure Data Lake Storage
@@ -181,7 +181,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 87153
 # Azure Data Studio - The Open-Source, Cross-Platform, Cloud Database Tool for SQL
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Andrew Loree
 ## Title: Azure Data Studio - The Open-Source, Cross-Platform, Cloud Database Tool for SQL
@@ -191,7 +191,7 @@ In this session, we introduce Azure Data Studio and interacting with SQL Server 
 #  
 #### SessionID: 87227
 # Infrastructure for the DBA: An Introduction
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: Infrastructure for the DBA: An Introduction
@@ -200,7 +200,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88495
 # Azure Migration Options for the SQL Server BI Stack
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Mellinger
 ## Title: Azure Migration Options for the SQL Server BI Stack
@@ -209,7 +209,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 88840
 # “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
@@ -222,7 +222,7 @@ In this first of two back-to-back sessions on the subject, we’ll explore what 
 #  
 #### SessionID: 89581
 # SQL Server Database Security: Do Your Part, Be Security Smart!
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Julie McLain-Harper
 ## Title: SQL Server Database Security: Do Your Part, Be Security Smart!
@@ -231,7 +231,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 89824
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
@@ -242,7 +242,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 89986
 # Your SQL Servers are misconfigured
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Hill
 ## Title: Your SQL Servers are misconfigured
@@ -270,7 +270,7 @@ Dallas DBAs is dedicated to helping you find these issues, test them, remediate 
 #  
 #### SessionID: 91525
 # Snowflake - The Data Warehouse Built For The Cloud
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ryan Morris
 ## Title: Snowflake - The Data Warehouse Built For The Cloud
@@ -282,7 +282,7 @@ Come by the Snowflake booth to learn more.
 #  
 #### SessionID: 86718
 # A Beginners Guide to Transactions
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: A Beginners Guide to Transactions
@@ -291,7 +291,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 88279
 # AzureVM + Log Shipping + Automation = Bargain Basement DR Solution (How To)
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mindy Curnutt
 ## Title: AzureVM + Log Shipping + Automation = Bargain Basement DR Solution (How To)
@@ -300,7 +300,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88841
 # “Black Arts” Index Maintenance #2: Better Methods that Can Actually Prevent Fragmentation for Weeks.
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #2: Better Methods that Can Actually Prevent Fragmentation for Weeks.
@@ -315,7 +315,7 @@ We’ll also learn that no simple method is a panacea, what to do about the horr
 #  
 #### SessionID: 88855
 # Optimizing the ETL Development Process with BIML
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joshua Higginbotham
 ## Title: Optimizing the ETL Development Process with BIML
@@ -324,7 +324,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 89079
 # Get Near Realtime ETL with Service Broker
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Allen White
 ## Title: Get Near Realtime ETL with Service Broker
@@ -333,7 +333,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 89502
 # PBI Dataflows for the BI Pro
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Josh Burgin
 ## Title: PBI Dataflows for the BI Pro
@@ -342,7 +342,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 89671
 # Getting Started with Azure Databricks
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Todd Walker
 ## Title: Getting Started with Azure Databricks
@@ -351,7 +351,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 90594
 # PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: PowerShell for the DBA
@@ -362,7 +362,7 @@ In this session we will explore real-world examples and demonstrate how PowerShe
 #  
 #### SessionID: 86907
 # How to perform a health check
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carl Roepe
 ## Title: How to perform a health check
@@ -375,7 +375,7 @@ At the end of the session you will be able to: (1) Perform a Health Check on a s
 #  
 #### SessionID: 87120
 # Getting Started with Apache Spark
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Getting Started with Apache Spark
@@ -384,7 +384,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 87136
 # Lambda architecture design using Azure Databricks for advanced analytics
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Lucas Feiock
 ## Title: Lambda architecture design using Azure Databricks for advanced analytics
@@ -393,7 +393,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 89368
 # Data Visualization: How to truly tell a great story!
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization: How to truly tell a great story!
@@ -402,7 +402,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 89379
 # DBA - What's Most Important
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Wagner
 ## Title: DBA - What's Most Important
@@ -411,7 +411,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 89448
 # The Curious Case of the Foreign Key
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Lisa Bohm
 ## Title: The Curious Case of the Foreign Key
@@ -420,7 +420,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 89642
 # Who's Pissing in Your Data Lake?
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Karen Lopez
 ## Title: Who's Pissing in Your Data Lake?
@@ -435,7 +435,7 @@ We will build a list of good practices and tools to use to spare you from a floo
 #  
 #### SessionID: 91562
 # AI Cognitive Services: Vision 101
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Alicia Moniz
 ## Title: AI Cognitive Services: Vision 101
@@ -448,7 +448,7 @@ In this session, we will look at the basics of Cognitive Services Vision.  First
 #  
 #### SessionID: 86820
 # Statistics - Why are they there and what do I do with them
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Statistics - Why are they there and what do I do with them
@@ -457,7 +457,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88003
 # Are you following SQL Server Development Best Practices?
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sourav Mukherjee
 ## Title: Are you following SQL Server Development Best Practices?
@@ -467,7 +467,7 @@ Many of us already may have been using these steps already but for those who are
 #  
 #### SessionID: 88566
 # Data Time Travel with SQL Server Temporal Tables
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: Data Time Travel with SQL Server Temporal Tables
@@ -476,7 +476,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 88926
 # Deep Into the Cosmos(DB)
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anthony Mattas
 ## Title: Deep Into the Cosmos(DB)
@@ -485,7 +485,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 89246
 # Successfully Virtualizing SQL Server on vSphere - Straight from the Source
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
@@ -494,7 +494,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 89461
 # Applying Visual Design Best Practices in Power BI
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Michael Hewitt
 ## Title: Applying Visual Design Best Practices in Power BI
@@ -503,7 +503,7 @@ Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 89634
 # Stretch DB – Moving your SQL Server Database to the Cloud One Record at a Time
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Clark Hahn
 ## Title: Stretch DB – Moving your SQL Server Database to the Cloud One Record at a Time
@@ -514,7 +514,7 @@ Clark will share his real world experience with trying to implement Stretch DB a
 #  
 #### SessionID: 89709
 # Understanding and making good decisions on SQL licensing
-#### [Back to calendar](#SQLSaturday-#827---Cincinnati-2019)
+#### [Back to calendar](#SQLSaturday-#827-Cincinnati-2019)
 Event Date: 30-03-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dustin Dorsey
 ## Title: Understanding and making good decisions on SQL licensing

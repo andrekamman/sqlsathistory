@@ -44,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 68856
 # Unleashing Stretched Databases
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Armando Lacerda
 ## Title: Unleashing Stretched Databases
@@ -53,7 +53,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68905
 # Modeling and Analytics Features Coming in Azure Analysis Services
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christian Wade
 ## Title: Modeling and Analytics Features Coming in Azure Analysis Services
@@ -62,7 +62,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 69262
 # Running applications on Azure Database for PostgreSQL/MySQL
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Amit Banerjee
 ## Title: Running applications on Azure Database for PostgreSQL/MySQL
@@ -73,7 +73,7 @@ In this session, we will show you how you can develop on Azure and deploy soluti
 #  
 #### SessionID: 71285
 # Accelerating Development and Testing Using Data Virtualization
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Gorman
 ## Title: Accelerating Development and Testing Using Data Virtualization
@@ -88,7 +88,7 @@ Good, fast, and cheap -- have all three with data virtualization.  Be able to cl
 #  
 #### SessionID: 71678
 # Blurring your Data with Dynamic Data Masking
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Greg Larsen
 ## Title: Blurring your Data with Dynamic Data Masking
@@ -104,7 +104,7 @@ After attending this session, Attendee will gain a solid understanding of Dynami
 #  
 #### SessionID: 71718
 # It's Time for a Change: Temporal Table Support in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Vern Rabe
 ## Title: It's Time for a Change: Temporal Table Support in SQL Server 2016
@@ -115,7 +115,7 @@ In this session we’ll discuss how you can benefit from temporal support in you
 #  
 #### SessionID: 71897
 # Why should I care about ... the plan cache?
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
@@ -126,7 +126,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #  
 #### SessionID: 68811
 # Getting graphy with CosmosDB Graph API with Gremlin
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christopher Sims
 ## Title: Getting graphy with CosmosDB Graph API with Gremlin
@@ -135,7 +135,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68854
 # SQL Server Tricks for Storage and I/O Performance in the cloud
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Armando Lacerda
 ## Title: SQL Server Tricks for Storage and I/O Performance in the cloud
@@ -144,7 +144,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 69384
 # DevOps for the DBA
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: DevOps for the DBA
@@ -159,7 +159,7 @@ The take-aways from this session are to embrace DevOps basics with a “DBA twis
 #  
 #### SessionID: 69589
 # An Introduction to Azure SQL Database for DBA's
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Sterrett
 ## Title: An Introduction to Azure SQL Database for DBA's
@@ -168,7 +168,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 70088
 # SQL Server Then and Now: Changing the State of Long-held Beliefs
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Maxwell Myrick
 ## Title: SQL Server Then and Now: Changing the State of Long-held Beliefs
@@ -177,7 +177,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71286
 # Reducing The Surface Area Of Risk in Data Security
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Information Delivery
 ## Speaker: Tim Gorman
 ## Title: Reducing The Surface Area Of Risk in Data Security
@@ -190,7 +190,7 @@ Come learn about the right way to mask non-production data in order to allow the
 #  
 #### SessionID: 71725
 # Gathering Trending Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Ben Miller
 ## Title: Gathering Trending Data with PowerShell
@@ -199,7 +199,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 71803
 # Serverless Computing: Azure Functions, Logic Apps and Azure SQL and CosmosDB
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: Davide Mauri
 ## Title: Serverless Computing: Azure Functions, Logic Apps and Azure SQL and CosmosDB
@@ -213,7 +213,7 @@ In this session we'll see how all the mentioned technologies can help us to have
 #  
 #### SessionID: 73671
 # Prevent Presentation Paralysis
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Information Delivery
 ## Speaker: Arnie Rowland
 ## Title: Prevent Presentation Paralysis
@@ -224,7 +224,7 @@ Arnie will guide you with techniques to better understand and match the audience
 #  
 #### SessionID: 69914
 # HiHo! HiHo! SQL Server on Linux, We Go!
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: HiHo! HiHo! SQL Server on Linux, We Go!
@@ -238,7 +238,7 @@ The participant will learn:
 #  
 #### SessionID: 70089
 # The Consulting Dilemma:  Is Inside or Outside of the Corporation the Right Fit for You?
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Maxwell Myrick
 ## Title: The Consulting Dilemma:  Is Inside or Outside of the Corporation the Right Fit for You?
@@ -247,7 +247,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 70779
 # Troubleshooting Always On Availability Group Failovers
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sourabh Agarwal
 ## Title: Troubleshooting Always On Availability Group Failovers
@@ -256,7 +256,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71719
 # Proper DataType Usage=Guaranteed Better Performance and Accuracy
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Vern Rabe
 ## Title: Proper DataType Usage=Guaranteed Better Performance and Accuracy
@@ -267,7 +267,7 @@ In this demo-heavy presentation I will show you the importance of choosing the p
 #  
 #### SessionID: 71727
 # SQL Server Encryption
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: SQL Server Encryption
@@ -276,7 +276,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71821
 # Querying Semistructured Data in Azure Data Lake with USQL
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Russel Loski
 ## Title: Querying Semistructured Data in Azure Data Lake with USQL
@@ -285,7 +285,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 73889
 # Power BI for the Faint of Heart - Building an Interactive Report
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Scott Stauffer
 ## Title: Power BI for the Faint of Heart - Building an Interactive Report
@@ -294,7 +294,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 69056
 # Build ETL efficiently (10x) with Minimal Logging
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Cho
 ## Title: Build ETL efficiently (10x) with Minimal Logging
@@ -305,7 +305,7 @@ We will first analyze how data gets accessed from the source and how data gets u
 #  
 #### SessionID: 69286
 # APPLY Yourself
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
@@ -314,7 +314,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 71491
 # A Look Inside SQL Server Distribution Statistics
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Kalen Delaney
 ## Title: A Look Inside SQL Server Distribution Statistics
@@ -329,7 +329,7 @@ Goals:
 #  
 #### SessionID: 71624
 # Rethink Server Sizing
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joe Chang
 ## Title: Rethink Server Sizing
@@ -338,7 +338,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71820
 # Managing SSRS Reports using PowerShell and SSRS Web Services  (60 minutes)
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Russel Loski
 ## Title: Managing SSRS Reports using PowerShell and SSRS Web Services  (60 minutes)
@@ -347,7 +347,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 71832
 # Back to the Roots: When indexes are not enough
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Davide Mauri
 ## Title: Back to the Roots: When indexes are not enough
@@ -356,7 +356,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 72628
 # Five Lighting sessions (click here to see them)
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Other
 ## Speaker: SQLSaturday Redmond
 ## Title: Five Lighting sessions (click here to see them)
@@ -376,7 +376,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Other
 #  
 #### SessionID: 72922
 # The Nine Realms of Power BI
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paul Turley
 ## Title: The Nine Realms of Power BI
@@ -386,7 +386,7 @@ From simple desktop  published reports, to enterprise-scale and highly-secured s
 #  
 #### SessionID: 68927
 # Xamarin Data Syncing
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Andrew Cook
 ## Title: Xamarin Data Syncing
@@ -397,7 +397,7 @@ Offline sync allows users to interact with a mobile application, viewing, adding
 #  
 #### SessionID: 69289
 # Securing SQL Server
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Feasel
 ## Title: Securing SQL Server
@@ -406,7 +406,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 69385
 # Oracle vs. SQL Server-  The War of the Indices
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Oracle vs. SQL Server-  The War of the Indices
@@ -422,7 +422,7 @@ Takeaways are:
 #  
 #### SessionID: 69949
 # Advanced SQL Server troubleshooting with SQLCallStackResolver
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Arvind Shyamsundar
 ## Title: Advanced SQL Server troubleshooting with SQLCallStackResolver
@@ -431,7 +431,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70006
 # SQLCAT: A customer story of Distributed AG strategy for Hybrid Architecture (Cloud agnostic)
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kun Cheng
 ## Title: SQLCAT: A customer story of Distributed AG strategy for Hybrid Architecture (Cloud agnostic)
@@ -440,7 +440,7 @@ Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70494
 # Enjoy Your Power Responsibly; Governance for PowerBI  O365
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Yana Berkovich
 ## Title: Enjoy Your Power Responsibly; Governance for PowerBI  O365
@@ -450,7 +450,7 @@ I will be talking about why do we need governance in Power BI? Groups and PowerB
 #  
 #### SessionID: 71744
 # Introduction to Log Parser: Log What?
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Michael Wall
 ## Title: Introduction to Log Parser: Log What?
@@ -461,7 +461,7 @@ As with most things, there are multiple ways to accomplish a task.  Log Parser w
 #  
 #### SessionID: 74016
 # Machine Learning Services in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#696---Redmond-2018)
+#### [Back to calendar](#SQLSaturday-#696-Redmond-2018)
 Event Date: 10-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Sumit Kumar
 ## Title: Machine Learning Services in SQL Server 2017

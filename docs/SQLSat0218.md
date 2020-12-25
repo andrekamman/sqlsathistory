@@ -12,7 +12,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10119
 # SQL Server Index Internals
-#### [Back to calendar](#SQLSaturday-#218---Philippines-2013)
+#### [Back to calendar](#SQLSaturday-#218-Philippines-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Edwin Sarmiento
 ## Title: SQL Server Index Internals
@@ -21,7 +21,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 10122
 # Windows PowerShell for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#218---Philippines-2013)
+#### [Back to calendar](#SQLSaturday-#218-Philippines-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Edwin Sarmiento
 ## Title: Windows PowerShell for the SQL Server DBA
@@ -32,7 +32,7 @@ In this session, learn Windows PowerShell from the ground up and how you can use
 #  
 #### SessionID: 10123
 # The Transaction Log and How It Affects HA/DR
-#### [Back to calendar](#SQLSaturday-#218---Philippines-2013)
+#### [Back to calendar](#SQLSaturday-#218-Philippines-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Edwin Sarmiento
 ## Title: The Transaction Log and How It Affects HA/DR
@@ -41,7 +41,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 14962
 # SQL Tools for Maintaining Data Integrity
-#### [Back to calendar](#SQLSaturday-#218---Philippines-2013)
+#### [Back to calendar](#SQLSaturday-#218-Philippines-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Henry Hutalle
 ## Title: SQL Tools for Maintaining Data Integrity
@@ -50,7 +50,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 16522
 # Different ways of SQL Server Backup and Restoring
-#### [Back to calendar](#SQLSaturday-#218---Philippines-2013)
+#### [Back to calendar](#SQLSaturday-#218-Philippines-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Jennifer Osorio
 ## Title: Different ways of SQL Server Backup and Restoring
@@ -59,7 +59,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 17349
 # SQL vs. NoSQL - Data in the world of social media 
-#### [Back to calendar](#SQLSaturday-#218---Philippines-2013)
+#### [Back to calendar](#SQLSaturday-#218-Philippines-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Jon Limjap
 ## Title: SQL vs. NoSQL - Data in the world of social media 
@@ -68,7 +68,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 19678
 # Using SQL Window Functions
-#### [Back to calendar](#SQLSaturday-#218---Philippines-2013)
+#### [Back to calendar](#SQLSaturday-#218-Philippines-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Mark Nathaniel Ortigas
 ## Title: Using SQL Window Functions

@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 30671
 # Index Selection for SQL Server 2005
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 202
 ## Speaker: Jeffrey Garbus
 ## Title: Index Selection for SQL Server 2005
@@ -51,7 +51,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 202
 #  
 #### SessionID: 34937
 # Transactional Replication for Beginners
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 307
 ## Speaker: Andy Warren
 ## Title: Transactional Replication for Beginners
@@ -60,7 +60,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 307
 #  
 #### SessionID: 34947
 # How to Become a DBA
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 138
 ## Speaker: Michael Antonovich
 ## Title: How to Become a DBA
@@ -69,7 +69,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 138
 #  
 #### SessionID: 34948
 # Using CASE in TSQL
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 307
 ## Speaker: Michael Antonovich
 ## Title: Using CASE in TSQL
@@ -78,7 +78,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 307
 #  
 #### SessionID: 34976
 # Amazon for Everyone, Data Mining  SQL 2005
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 220
 ## Speaker: Barry Ralston
 ## Title: Amazon for Everyone, Data Mining  SQL 2005
@@ -87,7 +87,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 220
 #  
 #### SessionID: 34981
 # Performance Tuning SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 307
 ## Speaker: Brian Knight
 ## Title: Performance Tuning SQL Server Integration Services
@@ -96,7 +96,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 307
 #  
 #### SessionID: 34982
 # SQL Server 2008 New Feature Overview
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 138
 ## Speaker: Brian Knight
 ## Title: SQL Server 2008 New Feature Overview
@@ -105,7 +105,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 138
 #  
 #### SessionID: 34983
 # Hacking SQL Server
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 202
 ## Speaker: Brian Knight
 ## Title: Hacking SQL Server
@@ -114,7 +114,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 202
 #  
 #### SessionID: 35028
 # SQL Server 2005: Sql Management Objects (SMO)
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 303
 ## Speaker: Brandon Kelly
 ## Title: SQL Server 2005: Sql Management Objects (SMO)
@@ -123,7 +123,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 303
 #  
 #### SessionID: 35052
 # Persisting and Tracking Workflows using Sql Server
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 228
 ## Speaker: Bayer White
 ## Title: Persisting and Tracking Workflows using Sql Server
@@ -132,7 +132,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 228
 #  
 #### SessionID: 35067
 # Using DDL Triggers
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 303
 ## Speaker: Chris Rock
 ## Title: Using DDL Triggers
@@ -141,7 +141,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 303
 #  
 #### SessionID: 35085
 # Using Microsoft Dynamics GP Stored Procedures
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 220
 ## Speaker: David Eichner
 ## Title: Using Microsoft Dynamics GP Stored Procedures
@@ -150,7 +150,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 220
 #  
 #### SessionID: 35099
 # How to Use a Staffing Firm Effectively
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 138
 ## Speaker: Declan Link
 ## Title: How to Use a Staffing Firm Effectively
@@ -159,7 +159,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 138
 #  
 #### SessionID: 35105
 # Comparing SQL Server 2005 to Oracle 10g
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 202
 ## Speaker: Donnie Reynolds
 ## Title: Comparing SQL Server 2005 to Oracle 10g
@@ -170,7 +170,7 @@ This technical session is an excellent migration tool for Oracle DBA's now worki
 #  
 #### SessionID: 35143
 # Establishing Infrastructure Standards for SSIS
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 228
 ## Speaker: Joseph Memmo
 ## Title: Establishing Infrastructure Standards for SSIS
@@ -179,7 +179,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 228
 #  
 #### SessionID: 35148
 # SQL Server 2008 Data Warehousing Enhancements - 1
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 138
 ## Speaker: Jean-Claude Armand
 ## Title: SQL Server 2008 Data Warehousing Enhancements - 1
@@ -188,7 +188,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 138
 #  
 #### SessionID: 35149
 # SQL Server 2008 Data Warehousing Enhancements - 2
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 138
 ## Speaker: Jean-Claude Armand
 ## Title: SQL Server 2008 Data Warehousing Enhancements - 2
@@ -197,7 +197,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 138
 #  
 #### SessionID: 35159
 # Relational Division -- The Forgotten Operator
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 138
 ## Speaker: Joe Celko
 ## Title: Relational Division -- The Forgotten Operator
@@ -214,7 +214,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 138
 #  
 #### SessionID: 35160
 # SQL Programming Style
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 202
 ## Speaker: Joe Celko
 ## Title: SQL Programming Style
@@ -223,7 +223,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 202
 #  
 #### SessionID: 35167
 # Unlocking the Black Box of Application Performance
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 202
 ## Speaker: Jeffrey Garbus
 ## Title: Unlocking the Black Box of Application Performance
@@ -232,7 +232,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 202
 #  
 #### SessionID: 35191
 # MDX: From WITH To WHERE
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 228
 ## Speaker: Jessica Moss
 ## Title: MDX: From WITH To WHERE
@@ -241,7 +241,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 228
 #  
 #### SessionID: 35195
 # ADO.NET Synchronization Services in .NET 3.5
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 220
 ## Speaker: Joe Healy
 ## Title: ADO.NET Synchronization Services in .NET 3.5
@@ -250,7 +250,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 220
 #  
 #### SessionID: 35198
 # Intro to VSTS DB
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 220
 ## Speaker: Jim Blizzard
 ## Title: Intro to VSTS DB
@@ -259,7 +259,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 220
 #  
 #### SessionID: 35235
 # Working with an XML Data Structure in SQL 2005 and
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 228
 ## Speaker: Jose Fuentes
 ## Title: Working with an XML Data Structure in SQL 2005 and
@@ -268,7 +268,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 228
 #  
 #### SessionID: 35237
 # SOA Using SQL Server 2005 Service Broker
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 303
 ## Speaker: Judy Pipia
 ## Title: SOA Using SQL Server 2005 Service Broker
@@ -277,7 +277,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 303
 #  
 #### SessionID: 35245
 # CLR User Defined Functions - Real World Examples
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 202
 ## Speaker: Jon Winer
 ## Title: CLR User Defined Functions - Real World Examples
@@ -286,7 +286,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 202
 #  
 #### SessionID: 35270
 # XML Features in SQL 2005
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 307
 ## Speaker: Kendal Van Dyke
 ## Title: XML Features in SQL 2005
@@ -295,7 +295,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 307
 #  
 #### SessionID: 35314
 # SQL Server 2005 Compact Edition in Action
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 220
 ## Speaker: Michael Wells
 ## Title: SQL Server 2005 Compact Edition in Action
@@ -304,7 +304,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 220
 #  
 #### SessionID: 35340
 # How XML Changes Database Design
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 303
 ## Speaker: patrick thompson
 ## Title: How XML Changes Database Design
@@ -313,7 +313,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 303
 #  
 #### SessionID: 35368
 # Tips and Tricks for Reporting Services
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 307
 ## Speaker: Pam Shaw
 ## Title: Tips and Tricks for Reporting Services
@@ -322,7 +322,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 307
 #  
 #### SessionID: 35428
 # XML in SQL Server 2005
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 228
 ## Speaker: Scott Farriss
 ## Title: XML in SQL Server 2005
@@ -331,7 +331,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 228
 #  
 #### SessionID: 35429
 # .NET CLR Basics
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 220
 ## Speaker: Shawn Weisfeld
 ## Title: .NET CLR Basics
@@ -340,7 +340,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 220
 #  
 #### SessionID: 35484
 # Integrating Data Mining with SSIS
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 303
 ## Speaker: Trey Johnson
 ## Title: Integrating Data Mining with SSIS
@@ -349,7 +349,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 303
 #  
 #### SessionID: 35485
 # SSIS Patterns and Practices
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 303
 ## Speaker: Trey Johnson
 ## Title: SSIS Patterns and Practices
@@ -358,7 +358,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 303
 #  
 #### SessionID: 35497
 # Linq
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 202
 ## Speaker: Kenneth Tucker
 ## Title: Linq
@@ -367,7 +367,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 202
 #  
 #### SessionID: 35506
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 307
 ## Speaker: Wes Dumey
 ## Title: Introduction to SQL Server Integration Services
@@ -376,7 +376,7 @@ Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 307
 #  
 #### SessionID: 35507
 # Designing Data Warehouse Practices with SQL Server
-#### [Back to calendar](#SQLSaturday-#1---Orlando-2007)
+#### [Back to calendar](#SQLSaturday-#1-Orlando-2007)
 Event Date: 10-11-2007 - Session time: 00:00:00 - Track: Room 228
 ## Speaker: Wes Dumey
 ## Title: Designing Data Warehouse Practices with SQL Server

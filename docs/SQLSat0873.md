@@ -14,7 +14,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 90572
 # A Masters view on Locking and blocking
-#### [Back to calendar](#SQLSaturday-#873---Bratislava-2019)
+#### [Back to calendar](#SQLSaturday-#873-Bratislava-2019)
 Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mikael Wedham
 ## Title: A Masters view on Locking and blocking
@@ -26,7 +26,7 @@ And finally a real-world quick list of suggestions on what you can do to solve s
 #  
 #### SessionID: 94210
 # Power BI as a universal analytic tool 1/2
-#### [Back to calendar](#SQLSaturday-#873---Bratislava-2019)
+#### [Back to calendar](#SQLSaturday-#873-Bratislava-2019)
 Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Michal Chmelár
 ## Title: Power BI as a universal analytic tool 1/2
@@ -35,7 +35,7 @@ Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 92006
 # Advanced data types – JSON
-#### [Back to calendar](#SQLSaturday-#873---Bratislava-2019)
+#### [Back to calendar](#SQLSaturday-#873-Bratislava-2019)
 Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Damir Matesic
 ## Title: Advanced data types – JSON
@@ -49,7 +49,7 @@ Main topics:
 #  
 #### SessionID: 94211
 # Power BI as a universal analytic tool 2/2
-#### [Back to calendar](#SQLSaturday-#873---Bratislava-2019)
+#### [Back to calendar](#SQLSaturday-#873-Bratislava-2019)
 Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Michal Chmelár
 ## Title: Power BI as a universal analytic tool 2/2
@@ -58,7 +58,7 @@ Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 92774
 # Power BI loves AI and Azure AI Services
-#### [Back to calendar](#SQLSaturday-#873---Bratislava-2019)
+#### [Back to calendar](#SQLSaturday-#873-Bratislava-2019)
 Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Gergely Csom
 ## Title: Power BI loves AI and Azure AI Services
@@ -69,7 +69,7 @@ In the second part of the presentation we will overview and try Microsoft's rece
 #  
 #### SessionID: 93352
 # How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?
-#### [Back to calendar](#SQLSaturday-#873---Bratislava-2019)
+#### [Back to calendar](#SQLSaturday-#873-Bratislava-2019)
 Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Aleksandar Talev
 ## Title: How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?
@@ -78,7 +78,7 @@ Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90567
 # SQL Server Big Data Clusters
-#### [Back to calendar](#SQLSaturday-#873---Bratislava-2019)
+#### [Back to calendar](#SQLSaturday-#873-Bratislava-2019)
 Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marek Chmel
 ## Title: SQL Server Big Data Clusters
@@ -87,7 +87,7 @@ Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90532
 # Introduction to Azure Data Lake
-#### [Back to calendar](#SQLSaturday-#873---Bratislava-2019)
+#### [Back to calendar](#SQLSaturday-#873-Bratislava-2019)
 Event Date: 08-06-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Oskari Heikkinen
 ## Title: Introduction to Azure Data Lake
@@ -96,7 +96,7 @@ Event Date: 08-06-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93629
 # MS SQL New functions, syntaxes, tips  tricks
-#### [Back to calendar](#SQLSaturday-#873---Bratislava-2019)
+#### [Back to calendar](#SQLSaturday-#873-Bratislava-2019)
 Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Damir Matesic
 ## Title: MS SQL New functions, syntaxes, tips  tricks

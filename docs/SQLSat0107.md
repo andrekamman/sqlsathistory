@@ -65,7 +65,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10342
 # Top Query Optimizer Topics for Better Performance
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Benjamin Nevarez
 ## Title: Top Query Optimizer Topics for Better Performance
@@ -74,7 +74,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 10344
 # Inside the SQL Server Query Optimizer
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Multi Track
 ## Speaker: Benjamin Nevarez
 ## Title: Inside the SQL Server Query Optimizer
@@ -83,7 +83,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Multi Track
 #  
 #### SessionID: 11449
 # Strategies for Working with VLDBs
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Robert Davis
 ## Title: Strategies for Working with VLDBs
@@ -98,7 +98,7 @@ Demos will include how I set up a log shipping secondary and a replica of a 2 TB
 #  
 #### SessionID: 11450
 # Replication Magic: Initializing From Backups
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Robert Davis
 ## Title: Replication Magic: Initializing From Backups
@@ -109,7 +109,7 @@ Demos will include initializing a subscriber from a transaction log backup and p
 #  
 #### SessionID: 11603
 # SQL Server Internals:  It's What's for Dinner!
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Christina Leo
 ## Title: SQL Server Internals:  It's What's for Dinner!
@@ -118,7 +118,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 11845
 # Introduction to Triggers
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD Track
 ## Speaker: Jack Corbett
 ## Title: Introduction to Triggers
@@ -127,7 +127,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD Track
 #  
 #### SessionID: 12442
 # Data Warehousing - How to Convince "The Bobs"
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: David Stein
 ## Title: Data Warehousing - How to Convince "The Bobs"
@@ -140,7 +140,7 @@ Come to this presentation, and I’ll answer all of these questions plus the mos
 #  
 #### SessionID: 13881
 # .NET Powers Activate! Form of PowerShell!
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD\DBA Track
 ## Speaker: Eric Humphrey
 ## Title: .NET Powers Activate! Form of PowerShell!
@@ -149,7 +149,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD\DBA Track
 #  
 #### SessionID: 16480
 # T-SQL Brush-up:The Best Things You Forgot You Knew
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Multi Track
 ## Speaker: Jennifer McCown
 ## Title: T-SQL Brush-up:The Best Things You Forgot You Knew
@@ -158,7 +158,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Multi Track
 #  
 #### SessionID: 16481
 # Unraveling Tangled Code – A Spellbinding Tale
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD Track
 ## Speaker: Jennifer McCown
 ## Title: Unraveling Tangled Code – A Spellbinding Tale
@@ -167,7 +167,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD Track
 #  
 #### SessionID: 17696
 # Evaluate your daily Checklist with PBM and CMS
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: John Sterrett
 ## Title: Evaluate your daily Checklist with PBM and CMS
@@ -176,7 +176,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 18056
 # Building Your Own SQL Server Virtual Playground
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: PD Track
 ## Speaker: Kendal Van Dyke
 ## Title: Building Your Own SQL Server Virtual Playground
@@ -185,7 +185,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: PD Track
 #  
 #### SessionID: 18057
 # Working With XML In SQL Server 
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD Track
 ## Speaker: Kendal Van Dyke
 ## Title: Working With XML In SQL Server 
@@ -195,7 +195,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD Track
 #  
 #### SessionID: 18838
 # Beyond the Where: Full Text Search tips and tricks
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD Track
 ## Speaker: Kris Hokanson
 ## Title: Beyond the Where: Full Text Search tips and tricks
@@ -204,7 +204,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD Track
 #  
 #### SessionID: 19569
 # Optimizing Stored Procedures
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Multi Track
 ## Speaker: Mark Rosenberg
 ## Title: Optimizing Stored Procedures
@@ -213,7 +213,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Multi Track
 #  
 #### SessionID: 20366
 # EXCEL @ SQL Reporting
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Michael D. Newby
 ## Title: EXCEL @ SQL Reporting
@@ -222,7 +222,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 20437
 # A consolidation architecture to host 1000s of DBs
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Mike Saleme
 ## Title: A consolidation architecture to host 1000s of DBs
@@ -231,7 +231,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 21291
 # WIT Discussion Panel
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: PD Track
 ## Speaker: Nancy Hidy Wilson
 ## Title: WIT Discussion Panel
@@ -240,7 +240,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: PD Track
 #  
 #### SessionID: 23012
 # Avoid Errors on Errors
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD Track
 ## Speaker: Rick  Morelan
 ## Title: Avoid Errors on Errors
@@ -249,7 +249,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD Track
 #  
 #### SessionID: 23640
 # Introduction to the XML source
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD Track
 ## Speaker: Russel Loski
 ## Title: Introduction to the XML source
@@ -261,7 +261,7 @@ Attendees will be able to import simple XML using SSIS.  They will be able to cr
 #  
 #### SessionID: 24258
 # Understanding Backups
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD\DBA Track
 ## Speaker: Sean McCown
 ## Title: Understanding Backups
@@ -270,7 +270,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD\DBA Track
 #  
 #### SessionID: 24261
 # Beginning Powershell for DBAs 1.0
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD\DBA Track
 ## Speaker: Sean McCown
 ## Title: Beginning Powershell for DBAs 1.0
@@ -279,7 +279,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD\DBA Track
 #  
 #### SessionID: 24263
 # Mouth Wide Shut: Coherent Interviewing
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: PD Track
 ## Speaker: Sean McCown
 ## Title: Mouth Wide Shut: Coherent Interviewing
@@ -288,7 +288,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: PD Track
 #  
 #### SessionID: 26376
 # SQL Server 2012 TSQL Enhancements and Additions
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Multi Track
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2012 TSQL Enhancements and Additions
@@ -297,7 +297,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Multi Track
 #  
 #### SessionID: 26377
 # Windowing Functions: THE Reason to Upgrade to 2012
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Multi Track
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012
@@ -306,7 +306,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Multi Track
 #  
 #### SessionID: 26616
 # Top 10 New Features of SSIS in 2012
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Tim Mitchell
 ## Title: Top 10 New Features of SSIS in 2012
@@ -319,7 +319,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 26617
 # Parent/Child Structures in SSIS
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Tim Mitchell
 ## Title: Parent/Child Structures in SSIS
@@ -338,7 +338,7 @@ We'll also walk through some practical examples of parent/child package implemen
 #  
 #### SessionID: 26677
 # You Inherited a Database, Now What?
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Tim Radney
 ## Title: You Inherited a Database, Now What?
@@ -347,7 +347,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 26678
 # It is TEMPDB, Why Should You Care?
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Tim Radney
 ## Title: It is TEMPDB, Why Should You Care?
@@ -356,7 +356,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 26773
 # Data Visualization primer:  What you need to know
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Tim Costello
 ## Title: Data Visualization primer:  What you need to know
@@ -365,7 +365,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 27792
 # Read Dirty to Me - Isolation Levels/User Impact
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD Track
 ## Speaker: Wendy Pastrick
 ## Title: Read Dirty to Me - Isolation Levels/User Impact
@@ -374,7 +374,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD Track
 #  
 #### SessionID: 27793
 # Transactional Replication 101
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Wendy Pastrick
 ## Title: Transactional Replication 101
@@ -385,7 +385,7 @@ We will cover the players in the game: Pubishers, Subscribers and Distributors, 
 #  
 #### SessionID: 28493
 # Solid State Storage Deep Dive
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Wesley Brown
 ## Title: Solid State Storage Deep Dive
@@ -394,7 +394,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 28494
 # Benchmarking, Baselines and Monitoring Storage
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Wesley Brown
 ## Title: Benchmarking, Baselines and Monitoring Storage
@@ -412,7 +412,7 @@ With these tools you can plan, deploy and manage your storage for years to come!
 #  
 #### SessionID: 28700
 # SQL Server Security for Developers
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD\DBA Track
 ## Speaker: Andy Warren
 ## Title: SQL Server Security for Developers
@@ -421,7 +421,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD\DBA Track
 #  
 #### SessionID: 28701
 # Building Your Professional Development Plan
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: PD Track
 ## Speaker: Andy Warren
 ## Title: Building Your Professional Development Plan
@@ -430,7 +430,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: PD Track
 #  
 #### SessionID: 28783
 # Troubleshooting SQL Server with SysInternals Tools
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD\DBA Track
 ## Speaker: Argenis Fernandez
 ## Title: Troubleshooting SQL Server with SysInternals Tools
@@ -439,7 +439,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD\DBA Track
 #  
 #### SessionID: 28785
 # Rolling Upgrades Leveraging Database Mirroring
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Argenis Fernandez
 ## Title: Rolling Upgrades Leveraging Database Mirroring
@@ -450,7 +450,7 @@ This is a demo-intensive session that you won't want to miss.
 #  
 #### SessionID: 29319
 # Implementing Columnstore Indexes
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Bryan Smith
 ## Title: Implementing Columnstore Indexes
@@ -459,7 +459,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 29320
 # An Introduction to Big Data for BI
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Bryan Smith
 ## Title: An Introduction to Big Data for BI
@@ -468,7 +468,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 30417
 # Scaling SQL Server to HUNDREDS of Terabytes
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: James Serra
 ## Title: Scaling SQL Server to HUNDREDS of Terabytes
@@ -477,7 +477,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 30474
 # Don't Panic, DBAs!  Databases on VMware made easy.
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Janis Griffin
 ## Title: Don't Panic, DBAs!  Databases on VMware made easy.
@@ -486,7 +486,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 30840
 # AlwaysOn - Finally, A usable 'mirror'!
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Jim Murphy
 ## Title: AlwaysOn - Finally, A usable 'mirror'!
@@ -495,7 +495,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 30996
 # SQL Server Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD\DBA Track
 ## Speaker: John Cook
 ## Title: SQL Server Tips and Tricks
@@ -504,7 +504,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD\DBA Track
 #  
 #### SessionID: 31164
 # A Comparison of SQL Server and Oracle
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: PD Track
 ## Speaker: Jason Wong
 ## Title: A Comparison of SQL Server and Oracle
@@ -521,7 +521,7 @@ It is assumed the audience already have some good SQL Server knowledge, but with
 #  
 #### SessionID: 31171
 # Costs of Concurrency
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Kalen Delaney
 ## Title: Costs of Concurrency
@@ -531,7 +531,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 31740
 # Build a Data Warehouse in Less than 1 Hour
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Multi Track
 ## Speaker: Mike Hotek
 ## Title: Build a Data Warehouse in Less than 1 Hour
@@ -540,7 +540,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Multi Track
 #  
 #### SessionID: 31743
 # Knowledge from Data–FileTable and Semantic Search
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Mike Hotek
 ## Title: Knowledge from Data–FileTable and Semantic Search
@@ -549,7 +549,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 31750
 # Recover from a Disaster–What to do When All Fails
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Mike Hotek
 ## Title: Recover from a Disaster–What to do When All Fails
@@ -558,7 +558,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 33235
 # SQL Server Amnesia
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Steven Ormrod
 ## Title: SQL Server Amnesia
@@ -569,7 +569,7 @@ When I started as a DBA I didn't know much about SQL Server internals. I inherit
 #  
 #### SessionID: 33370
 # The {Microsoft} Cloud and I
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: PD Track
 ## Speaker: Anthony {Tex} Moreign
 ## Title: The {Microsoft} Cloud and I
@@ -578,7 +578,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: PD Track
 #  
 #### SessionID: 33567
 # Dimensional Modeling 101
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Thomas LeBlanc
 ## Title: Dimensional Modeling 101
@@ -587,7 +587,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 33569
 # Execution Plan Basics - Beginners
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Thomas LeBlanc
 ## Title: Execution Plan Basics - Beginners
@@ -599,7 +599,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 33826
 # Edge Case Testing for the Database Professional
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD Track
 ## Speaker: Vicky Harp
 ## Title: Edge Case Testing for the Database Professional
@@ -608,7 +608,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: AD Track
 #  
 #### SessionID: 34319
 # Becoming DAX: An Introduction ... 
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: William E Pearson III
 ## Title: Becoming DAX: An Introduction ... 
@@ -617,7 +617,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 34324
 # Many-to-Many: Multiple Calendars in a Single Cube
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: William E Pearson III
 ## Title: Many-to-Many: Multiple Calendars in a Single Cube
@@ -627,7 +627,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 34503
 # SQL Admin Best Practices with DMV's
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: William Assaf
 ## Title: SQL Admin Best Practices with DMV's
@@ -636,7 +636,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 34813
 # Eating the Elephant: SQL Server Table Partitioning
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Michael Fal
 ## Title: Eating the Elephant: SQL Server Table Partitioning
@@ -646,7 +646,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 34814
 # The Fabulous Query Plan Primer
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: Michael Fal
 ## Title: The Fabulous Query Plan Primer
@@ -656,7 +656,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 #  
 #### SessionID: 9116
 # Standardize Your Environment With Best Practices
-#### [Back to calendar](#SQLSaturday-#107---Houston-2012)
+#### [Back to calendar](#SQLSaturday-#107-Houston-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: DBA Track
 ## Speaker: AJ Mendo
 ## Title: Standardize Your Environment With Best Practices

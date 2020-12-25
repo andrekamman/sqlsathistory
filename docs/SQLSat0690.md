@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 67956
 # Analysis Services Tabular Model
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Business Intelligence 
 ## Speaker: Jorge Michael Muchaypiña Gutierrez
 ## Title: Analysis Services Tabular Model
@@ -42,7 +42,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Business Intelligence
 #  
 #### SessionID: 69717
 # El despertar de la fuerza con Power BI
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: El despertar de la fuerza con Power BI
@@ -51,7 +51,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 69745
 # Nos vamos a la nube! cómo llevar tu SQL Server al servicio de Azure
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: DBA
 ## Speaker: Alberto De Rossi
 ## Title: Nos vamos a la nube! cómo llevar tu SQL Server al servicio de Azure
@@ -60,7 +60,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: DBA
 #  
 #### SessionID: 69828
 # Dashboards con Mobile Reports
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: Dashboards con Mobile Reports
@@ -69,7 +69,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 70490
 # Azure Data Lake vs Azure HDInsight
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Business Intelligence 
 ## Speaker: Jorge Pastor
 ## Title: Azure Data Lake vs Azure HDInsight
@@ -78,7 +78,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Business Intelligence
 #  
 #### SessionID: 70570
 # Streaming de datos con Power BI
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: DBA
 ## Speaker: Marlon Leandro
 ## Title: Streaming de datos con Power BI
@@ -87,7 +87,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: DBA
 #  
 #### SessionID: 67897
 # Data Migrations using SQL technologies
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: DBA
 ## Speaker: Eduardo Favio Angeles
 ## Title: Data Migrations using SQL technologies
@@ -96,7 +96,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: DBA
 #  
 #### SessionID: 67905
 # Explorando los sabores de SQL Azure Data Warehouse
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Business Intelligence 
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Explorando los sabores de SQL Azure Data Warehouse
@@ -105,7 +105,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Business Intelligence
 #  
 #### SessionID: 69746
 # Office y Power BI, usando Visio y Power Point para analizar y presentar datos
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 ## Speaker: Alberto De Rossi
 ## Title: Office y Power BI, usando Visio y Power Point para analizar y presentar datos
@@ -114,7 +114,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 69787
 # De 0 a 100 con Reporting Services 2016
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Business Intelligence 
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: De 0 a 100 con Reporting Services 2016
@@ -125,7 +125,7 @@ A su vez se demostrarán las nuevas características evolución, entre otros.
 #  
 #### SessionID: 70486
 # Hybrid BI con Power BI Report Server y PowerBI.com
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 ## Speaker: Alejandro Humberto Sánchez Núñez
 ## Title: Hybrid BI con Power BI Report Server y PowerBI.com
@@ -136,7 +136,7 @@ Punto aparte no olvidar que si se usa PBI RS y quieres ir al servicio, puedes ha
 #  
 #### SessionID: 70554
 # Los negocios de hoy en dia con PowerApps, Power BI y Microsoft Fl
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 ## Speaker: Juan Rafael
 ## Title: Los negocios de hoy en dia con PowerApps, Power BI y Microsoft Fl
@@ -145,7 +145,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 67901
 # Administración de SQL Server 2017 desde Linux
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: DBA
 ## Speaker: German Cayo
 ## Title: Administración de SQL Server 2017 desde Linux
@@ -154,7 +154,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: DBA
 #  
 #### SessionID: 69826
 # Pariticionamiento y Compresion de Datos en SQL Server
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: DBA
 ## Speaker: Vladimir Guzman
 ## Title: Pariticionamiento y Compresion de Datos en SQL Server
@@ -163,7 +163,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: DBA
 #  
 #### SessionID: 70478
 # BI360 CPM Suite al rescate de las necesidades de Financial Reporting  Planning
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Business Intelligence 
 ## Speaker: Brian Koo
 ## Title: BI360 CPM Suite al rescate de las necesidades de Financial Reporting  Planning
@@ -172,7 +172,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Business Intelligence
 #  
 #### SessionID: 67957
 # Visualizaciones con R en PowerBI.
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 ## Speaker: Jorge Michael Muchaypiña Gutierrez
 ## Title: Visualizaciones con R en PowerBI.
@@ -184,7 +184,7 @@ Utilización de paquetes de visualización como ggplot2, lattice, etc.
 #  
 #### SessionID: 69718
 # Optimización de SQL Server para IOT
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: DBA
 ## Speaker: Marlon Leandro
 ## Title: Optimización de SQL Server para IOT
@@ -193,7 +193,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: DBA
 #  
 #### SessionID: 70553
 # PowerBI y Microsoft Dynamics 365
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 ## Speaker: Juan Rafael
 ## Title: PowerBI y Microsoft Dynamics 365
@@ -202,7 +202,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 69716
 # Artificial Intelligence in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 ## Speaker: Nicolas Nakasone
 ## Title: Artificial Intelligence in SQL Server 2017
@@ -211,7 +211,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 69827
 # La ultima milla...Power BI Report Server - OnPremise
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 ## Speaker: Vladimir Guzman
 ## Title: La ultima milla...Power BI Report Server - OnPremise
@@ -224,7 +224,7 @@ Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 70953
 # Ciencia de Datos con R y Microsoft Power BI
-#### [Back to calendar](#SQLSaturday-#690---Lima-2017)
+#### [Back to calendar](#SQLSaturday-#690-Lima-2017)
 Event Date: 02-12-2017 - Session time: 17:20:00 - Track: Big Data  Analytics
 ## Speaker: Alejandro Humberto Sánchez Núñez
 ## Title: Ciencia de Datos con R y Microsoft Power BI

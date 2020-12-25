@@ -44,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10550
 # Optimising a dot.net solution on the SQL platform
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 4 - Super Development
 ## Speaker: Bob Duffy
 ## Title: Optimising a dot.net solution on the SQL platform
@@ -53,7 +53,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 4 - Super Development
 #  
 #### SessionID: 10738
 # How to Think Like the Engine
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 1 - DBA
 ## Speaker: Brent Ozar
 ## Title: How to Think Like the Engine
@@ -62,7 +62,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 1 - DBA
 #  
 #### SessionID: 10739
 # Real-Life SQL 2012 and 2014 Availability Group Deployments
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 1 - DBA
 ## Speaker: Brent Ozar
 ## Title: Real-Life SQL 2012 and 2014 Availability Group Deployments
@@ -71,7 +71,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 1 - DBA
 #  
 #### SessionID: 11006
 # Data in, Information out
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 5 - Mixed Data
 ## Speaker: Bruno Basto
 ## Title: Data in, Information out
@@ -80,7 +80,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 5 - Mixed Data
 #  
 #### SessionID: 11797
 # SQL Server Data Tools - The IDE for database developers
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 4 - Super Development
 ## Speaker: Constantin Klein
 ## Title: SQL Server Data Tools - The IDE for database developers
@@ -93,7 +93,7 @@ This session aims to change that and to provide an overview of the advantages an
 #  
 #### SessionID: 13518
 # High Performance Statistical Queries
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 2 - Developers
 ## Speaker: Dejan Sarka
 ## Title: High Performance Statistical Queries
@@ -102,7 +102,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 2 - Developers
 #  
 #### SessionID: 13732
 # The Transaction Log and How It Affects HA/DR
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 1 - DBA
 ## Speaker: Edwin M Sarmiento
 ## Title: The Transaction Log and How It Affects HA/DR
@@ -111,7 +111,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 1 - DBA
 #  
 #### SessionID: 13734
 # Integrating Big Data with SharePoint 2013
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 5 - Mixed Data
 ## Speaker: Edwin M Sarmiento
 ## Title: Integrating Big Data with SharePoint 2013
@@ -122,7 +122,7 @@ We will look at surfacing Big Data via Excel with PowerView and eventually publi
 #  
 #### SessionID: 13976
 # Securing SQL Server
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 4 - Super Development
 ## Speaker: Etienne Lopes
 ## Title: Securing SQL Server
@@ -135,7 +135,7 @@ Proxy accounts; alerts for potencial security risks when using clr integration o
 #  
 #### SessionID: 14255
 # Smart SSIS with BIML
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 6 - Clustered Data
 ## Speaker: Fernando Marçal
 ## Title: Smart SSIS with BIML
@@ -144,7 +144,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 6 - Clustered Data
 #  
 #### SessionID: 15089
 # Create Your Own Aggregate
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 5 - Mixed Data
 ## Speaker: Hugo Kornelis
 ## Title: Create Your Own Aggregate
@@ -155,7 +155,7 @@ This session will show you exactly how to create a CLR user-defined aggregate fu
 #  
 #### SessionID: 15359
 # Clustered Columnstore Deep Dive
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 1 - DBA
 ## Speaker: Niko Neugebauer
 ## Title: Clustered Columnstore Deep Dive
@@ -164,7 +164,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 1 - DBA
 #  
 #### SessionID: 16530
 # Power View from the Data Visualisation Perspective
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 5 - Mixed Data
 ## Speaker: Jen Stirrup
 ## Title: Power View from the Data Visualisation Perspective
@@ -179,7 +179,7 @@ Come to this session if you really want to think about the best ways of presenti
 #  
 #### SessionID: 19402
 # Project Sienna - The gist
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 6 - Clustered Data
 ## Speaker: Paulo Matos
 ## Title: Project Sienna - The gist
@@ -188,7 +188,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 6 - Clustered Data
 #  
 #### SessionID: 19516
 # Olde Cluster Curiosity Shoppe - A Miscellany of top tips from the field
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 6 - Clustered Data
 ## Speaker: Mark Broadbent
 ## Title: Olde Cluster Curiosity Shoppe - A Miscellany of top tips from the field
@@ -197,7 +197,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 6 - Clustered Data
 #  
 #### SessionID: 20292
 # Entity Framework 6 New Features
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 2 - Developers
 ## Speaker: Mihail Mateev
 ## Title: Entity Framework 6 New Features
@@ -206,7 +206,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 2 - Developers
 #  
 #### SessionID: 20739
 # Hekaton challenges from Database Development point of view
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 2 - Developers
 ## Speaker: Miloš Radivojević
 ## Title: Hekaton challenges from Database Development point of view
@@ -215,7 +215,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 2 - Developers
 #  
 #### SessionID: 20741
 # SQL Server 2014 - New Cardinality Estimator
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 2 - Developers
 ## Speaker: Miloš Radivojević
 ## Title: SQL Server 2014 - New Cardinality Estimator
@@ -226,7 +226,7 @@ This session will answers all these questions and will demonstrate new query pro
 #  
 #### SessionID: 21177
 # Clustered Instance - Storage Introduction
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 6 - Clustered Data
 ## Speaker: Murilo Miranda
 ## Title: Clustered Instance - Storage Introduction
@@ -240,7 +240,7 @@ I'll wait for you there!
 #  
 #### SessionID: 21482
 # Introduction to NoSQL
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 7 - Free Data
 ## Speaker: Nabeel Derhem
 ## Title: Introduction to NoSQL
@@ -249,7 +249,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 7 - Free Data
 #  
 #### SessionID: 21537
 # Power BI - The self service BI Lifecycle in the cloud
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 3 - Business Intelligence
 ## Speaker: Oliver Engels
 ## Title: Power BI - The self service BI Lifecycle in the cloud
@@ -258,7 +258,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 3 - Business Intelligen
 #  
 #### SessionID: 21538
 # M versus P versus R -  Languages for Data Exploration
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 3 - Business Intelligence
 ## Speaker: Oliver Engels
 ## Title: M versus P versus R -  Languages for Data Exploration
@@ -274,7 +274,7 @@ languages.
 #  
 #### SessionID: 21825
 # Visualization Choices: What, When, and How?
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 3 - Business Intelligence
 ## Speaker: Paul Turley
 ## Title: Visualization Choices: What, When, and How?
@@ -283,7 +283,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 3 - Business Intelligen
 #  
 #### SessionID: 21826
 # Tabular Models: Easier  Faster Than Cubes; Really? 
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 3 - Business Intelligence
 ## Speaker: Paul Turley
 ## Title: Tabular Models: Easier  Faster Than Cubes; Really? 
@@ -293,7 +293,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 3 - Business Intelligen
 #  
 #### SessionID: 21917
 # Good fellows: System Center and SQL Server
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 7 - Free Data
 ## Speaker: Pedro Simoes
 ## Title: Good fellows: System Center and SQL Server
@@ -304,7 +304,7 @@ Let's see what is the SCOM and meet some tips for monitoring our server SQL-serv
 #  
 #### SessionID: 22383
 # Analytical Data Mining - Using Data Mining to Understand Data
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 7 - Free Data
 ## Speaker: Paul te Braak
 ## Title: Analytical Data Mining - Using Data Mining to Understand Data
@@ -315,7 +315,7 @@ SQL Server Analysis Services includes a data mining engine that can be used at v
 #  
 #### SessionID: 22408
 # Data auditing
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 2 - Developers
 ## Speaker: Quilson Antunes
 ## Title: Data auditing
@@ -328,7 +328,7 @@ What are the advantages and disadvantages of its use, where and in what environm
 #  
 #### SessionID: 22819
 # DBAs are from Mars,  SharePoint admins are from Venus
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 5 - Mixed Data
 ## Speaker: Regis Baccaro
 ## Title: DBAs are from Mars,  SharePoint admins are from Venus
@@ -337,7 +337,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 5 - Mixed Data
 #  
 #### SessionID: 23486
 # Improving our BI solutions with Geolocated data
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 6 - Clustered Data
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Improving our BI solutions with Geolocated data
@@ -346,7 +346,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 6 - Clustered Data
 #  
 #### SessionID: 24097
 # SQL Server HA and DR in a Windows Azure Virtual Machine – Deep Dive
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 4 - Super Development
 ## Speaker: Scott Klein
 ## Title: SQL Server HA and DR in a Windows Azure Virtual Machine – Deep Dive
@@ -355,7 +355,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 4 - Super Development
 #  
 #### SessionID: 24341
 # Analyzing Query Plans Deep Dive
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 4 - Super Development
 ## Speaker: Sergey Olontsev
 ## Title: Analyzing Query Plans Deep Dive
@@ -364,7 +364,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 4 - Super Development
 #  
 #### SessionID: 26610
 # 15 Quick Tips for SSIS Performance
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 3 - Business Intelligence
 ## Speaker: Tim Mitchell
 ## Title: 15 Quick Tips for SSIS Performance
@@ -375,7 +375,7 @@ In this session, we’ll focus on SSIS package performance, quickly reviewing 15
 #  
 #### SessionID: 26611
 # Handling Errors and Data Anomalies in SSIS
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 3 - Business Intelligence
 ## Speaker: Tim Mitchell
 ## Title: Handling Errors and Data Anomalies in SSIS
@@ -384,7 +384,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 3 - Business Intelligen
 #  
 #### SessionID: 27076
 # MDX, it is not that hard!
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 7 - Free Data
 ## Speaker: Peter ter Braake
 ## Title: MDX, it is not that hard!
@@ -393,7 +393,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 7 - Free Data
 #  
 #### SessionID: 27148
 # Top 10 Performance Tips for SQL Server Developers
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 2 - Developers
 ## Speaker: Turgay Sahtiyan
 ## Title: Top 10 Performance Tips for SQL Server Developers
@@ -402,7 +402,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 2 - Developers
 #  
 #### SessionID: 8804
 # SQL Server 2014 In-Memory OLTP / XTP Management Deep Dive
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 1 - DBA
 ## Speaker: Andreas Wolter
 ## Title: SQL Server 2014 In-Memory OLTP / XTP Management Deep Dive
@@ -411,7 +411,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 1 - DBA
 #  
 #### SessionID: 9294
 # Happy as a Pig in Muck
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 6 - Clustered Data
 ## Speaker: Allan Mitchell
 ## Title: Happy as a Pig in Muck
@@ -420,7 +420,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 6 - Clustered Data
 #  
 #### SessionID: 9354
 # Powershell: The DBA as a consumer
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 1 - DBA
 ## Speaker: Johan Bijnens
 ## Title: Powershell: The DBA as a consumer
@@ -430,7 +430,7 @@ Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 1 - DBA
 #  
 #### SessionID: 9874
 # SQL PDW vs SQL Server, let's see the big differences
-#### [Back to calendar](#SQLSaturday-#267---Lisbon-2014)
+#### [Back to calendar](#SQLSaturday-#267-Lisbon-2014)
 Event Date: 12-04-2014 - Session time: 00:00:00 - Track: 5 - Mixed Data
 ## Speaker: Artur Vieira
 ## Title: SQL PDW vs SQL Server, let's see the big differences

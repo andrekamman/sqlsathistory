@@ -39,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 37434
 # Getting the Skinny on Minimally Logged Operations
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Intermediate
 ## Speaker: Andrew Kelly
 ## Title: Getting the Skinny on Minimally Logged Operations
@@ -48,7 +48,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37880
 # Get Familiar with Spatial Data
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Beginner
 ## Speaker: Slava Murygin
 ## Title: Get Familiar with Spatial Data
@@ -58,7 +58,7 @@ We'll go through very basic SQL Server Spatial data functionality and draw some 
 #  
 #### SessionID: 38656
 # SQL Server Basic Backups for Beginners
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Beginner
 ## Speaker: Mark Gordon
 ## Title: SQL Server Basic Backups for Beginners
@@ -67,7 +67,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 39005
 # Working with Object Compression in SQL Server
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Advanced
 ## Speaker: Jason Brimhall
 ## Title: Working with Object Compression in SQL Server
@@ -78,7 +78,7 @@ This session shows you how to reach into the database and discover compression s
 #  
 #### SessionID: 39966
 # Analysis Services: Show Me Where It Hurts
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration Intermediate
 ## Speaker: Bill Anton
 ## Title: Analysis Services: Show Me Where It Hurts
@@ -91,7 +91,7 @@ Join this "something-everyone-should-be-doing-but-isn't" session, in which we wi
 #  
 #### SessionID: 39989
 # Disaster Recovery 101
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Tracy Boggiano
 ## Title: Disaster Recovery 101
@@ -100,7 +100,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 40053
 # Managing Very Large Databases with SQL Server
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Intermediate
 ## Speaker: Brian Carrig
 ## Title: Managing Very Large Databases with SQL Server
@@ -111,7 +111,7 @@ In this session, I will provide some practical advice on managing VLDBs with SQL
 #  
 #### SessionID: 37823
 # I’m New, Select Me!
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Beginner
 ## Speaker: Thomas Norman
 ## Title: I’m New, Select Me!
@@ -120,7 +120,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37861
 # PowerShell Basics for SQLServer
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Beginner
 ## Speaker: Michael Wharton
 ## Title: PowerShell Basics for SQLServer
@@ -129,7 +129,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38219
 # First Look at SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Intermediate
 ## Speaker: Rick Heiges
 ## Title: First Look at SQL Server 2016
@@ -138,7 +138,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38365
 # Query Compilation and Plan Caching
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Intermediate
 ## Speaker: Dale Burnett
 ## Title: Query Compilation and Plan Caching
@@ -147,7 +147,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 39106
 # Getting Started with SSIS Script Tasks and Components
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration Beginner
 ## Speaker: John Welch
 ## Title: Getting Started with SSIS Script Tasks and Components
@@ -157,7 +157,7 @@ Many data movement activities can be handled with SSIS using the built-in tasks 
 #  
 #### SessionID: 39761
 # If You Build It, They Will Come--Creating Your Own Opportunities!
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Carlos L Chacon
 ## Title: If You Build It, They Will Come--Creating Your Own Opportunities!
@@ -166,7 +166,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 37049
 # Congrats on your promotion to DBA, now what?
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Doug Purnell
 ## Title: Congrats on your promotion to DBA, now what?
@@ -175,7 +175,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 37930
 # Automated SQL Server installation and configuration using PowerShell
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Beginner
 ## Speaker: Jamie Wick
 ## Title: Automated SQL Server installation and configuration using PowerShell
@@ -185,7 +185,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39003
 # A Masters Passport to Extended Events
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Advanced
 ## Speaker: Jason Brimhall
 ## Title: A Masters Passport to Extended Events
@@ -198,7 +198,7 @@ This session on Extended Events will help prepare you to put this tool to immedi
 #  
 #### SessionID: 39229
 # Table Vars and Temp Tables – What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Intermediate
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars and Temp Tables – What you NEED to Know!
@@ -207,7 +207,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 39791
 # Maintain SQL Server Performance Baseline w/PowerShell
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Intermediate
 ## Speaker: Allen White
 ## Title: Maintain SQL Server Performance Baseline w/PowerShell
@@ -216,7 +216,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39967
 # 20 Minute Tabular Model
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration Intermediate
 ## Speaker: Bill Anton
 ## Title: 20 Minute Tabular Model
@@ -227,7 +227,7 @@ Join me in this session and learn what a Tabular model is, how it fits into the 
 #  
 #### SessionID: 40056
 # Common SQL Server Development Misconceptions
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Beginner
 ## Speaker: Brian Carrig
 ## Title: Common SQL Server Development Misconceptions
@@ -236,7 +236,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37435
 # Collecting and Analyzing File  Wait Statistics
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Intermediate
 ## Speaker: Andrew Kelly
 ## Title: Collecting and Analyzing File  Wait Statistics
@@ -245,7 +245,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37881
 # Statistics are hidden treasure.
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Advanced
 ## Speaker: Slava Murygin
 ## Title: Statistics are hidden treasure.
@@ -260,7 +260,7 @@ Also, will show how to use statistics in your day-to-day life and benefit from i
 #  
 #### SessionID: 39107
 # Advanced Scripting Using SSIS Script Tasks and Components
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration Intermediate
 ## Speaker: John Welch
 ## Title: Advanced Scripting Using SSIS Script Tasks and Components
@@ -270,7 +270,7 @@ SSIS offers significant capabilities out-of-the-box. However, many data movement
 #  
 #### SessionID: 39399
 # No Money for Performance Monitoring Tools? No Problem!
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Beginner
 ## Speaker: Patrick Keisler
 ## Title: No Money for Performance Monitoring Tools? No Problem!
@@ -279,7 +279,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39763
 # The TSQL Review for the Busy Data Professional
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Beginner
 ## Speaker: Carlos L Chacon
 ## Title: The TSQL Review for the Busy Data Professional
@@ -288,7 +288,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 39790
 # Scalable Application Design with Service Broker
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Intermediate
 ## Speaker: Allen White
 ## Title: Scalable Application Design with Service Broker
@@ -297,7 +297,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37079
 # Excel with DAX
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration Beginner
 ## Speaker: Azhagappan Arunachalam
 ## Title: Excel with DAX
@@ -306,7 +306,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 37301
 # R For The .NET Developer
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Jamie Dixon
 ## Title: R For The .NET Developer
@@ -318,7 +318,7 @@ This session will assume no prior experience with R.  We will look at its syntax
 #  
 #### SessionID: 37366
 # What can SQLCLR do for you?
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Beginner
 ## Speaker: Solomon Rutzky
 ## Title: What can SQLCLR do for you?
@@ -327,7 +327,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 39699
 # Secure SQL Server Database With TDE
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Intermediate
 ## Speaker: Thomas Chan
 ## Title: Secure SQL Server Database With TDE
@@ -336,7 +336,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39958
 # Beginning Azure
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Thomas Norman
 ## Title: Beginning Azure
@@ -345,7 +345,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 37050
 # Are Availability Groups a good fit for your database?
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Beginner
 ## Speaker: Doug Purnell
 ## Title: Are Availability Groups a good fit for your database?
@@ -354,7 +354,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39230
 # Window Functions in SQL Server
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Intermediate
 ## Speaker: Wayne Sheffield
 ## Title: Window Functions in SQL Server
@@ -363,7 +363,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 39400
 # Policy Based Management - Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#445---Raleigh-2015)
+#### [Back to calendar](#SQLSaturday-#445-Raleigh-2015)
 Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Intermediate
 ## Speaker: Patrick Keisler
 ## Title: Policy Based Management - Beyond the Basics

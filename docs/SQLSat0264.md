@@ -20,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11812
 # Useful everyday tips and tricks for Reporting Services (IT)
-#### [Back to calendar](#SQLSaturday-#264---Ancona,-Italy-2013)
+#### [Back to calendar](#SQLSaturday-#264-Ancona,-Italy-2013)
 Event Date: 13-12-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Francesco Milano
 ## Title: Useful everyday tips and tricks for Reporting Services (IT)
@@ -29,7 +29,7 @@ Event Date: 13-12-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 12913
 # SQL Server Virtualization Best Practices (IT)
-#### [Back to calendar](#SQLSaturday-#264---Ancona,-Italy-2013)
+#### [Back to calendar](#SQLSaturday-#264-Ancona,-Italy-2013)
 Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Danilo Dominici
 ## Title: SQL Server Virtualization Best Practices (IT)
@@ -38,7 +38,7 @@ Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 14190
 # Monitoring MDX Queries in Analysis Services (IT)
-#### [Back to calendar](#SQLSaturday-#264---Ancona,-Italy-2013)
+#### [Back to calendar](#SQLSaturday-#264-Ancona,-Italy-2013)
 Event Date: 13-12-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Francesco De Chirico
 ## Title: Monitoring MDX Queries in Analysis Services (IT)
@@ -47,7 +47,7 @@ Event Date: 13-12-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 14590
 # What's new in SQL Server 2014 Database Engine (IT)
-#### [Back to calendar](#SQLSaturday-#264---Ancona,-Italy-2013)
+#### [Back to calendar](#SQLSaturday-#264-Ancona,-Italy-2013)
 Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Gianluca Hotz
 ## Title: What's new in SQL Server 2014 Database Engine (IT)
@@ -56,7 +56,7 @@ Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 14595
 # SQL Server Data Collector From Every Angle (IT)
-#### [Back to calendar](#SQLSaturday-#264---Ancona,-Italy-2013)
+#### [Back to calendar](#SQLSaturday-#264-Ancona,-Italy-2013)
 Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Gianluca Sartori
 ## Title: SQL Server Data Collector From Every Angle (IT)
@@ -65,7 +65,7 @@ Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 14626
 # Exploring In-memory OLTP Engine (Hekaton) in SQL Server 2014 CTP2 (IT)
-#### [Back to calendar](#SQLSaturday-#264---Ancona,-Italy-2013)
+#### [Back to calendar](#SQLSaturday-#264-Ancona,-Italy-2013)
 Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Gilberto Zampatti
 ## Title: Exploring In-memory OLTP Engine (Hekaton) in SQL Server 2014 CTP2 (IT)
@@ -74,7 +74,7 @@ Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 15214
 # T-SQL Performance Guidelines for better DB stress powers
-#### [Back to calendar](#SQLSaturday-#264---Ancona,-Italy-2013)
+#### [Back to calendar](#SQLSaturday-#264-Ancona,-Italy-2013)
 Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for better DB stress powers
@@ -83,7 +83,7 @@ Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 15215
 # Data Warehousing Guidelines for BI and BAM solutions (EN)
-#### [Back to calendar](#SQLSaturday-#264---Ancona,-Italy-2013)
+#### [Back to calendar](#SQLSaturday-#264-Ancona,-Italy-2013)
 Event Date: 13-12-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Shehab El-Najjar
 ## Title: Data Warehousing Guidelines for BI and BAM solutions (EN)
@@ -92,7 +92,7 @@ Event Date: 13-12-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 15314
 # Hardware Planning  Sizing for SQL Server (IT)
-#### [Back to calendar](#SQLSaturday-#264---Ancona,-Italy-2013)
+#### [Back to calendar](#SQLSaturday-#264-Ancona,-Italy-2013)
 Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Davide Mauri
 ## Title: Hardware Planning  Sizing for SQL Server (IT)
@@ -101,7 +101,7 @@ Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 15339
 # Dax Introduction (IT)
-#### [Back to calendar](#SQLSaturday-#264---Ancona,-Italy-2013)
+#### [Back to calendar](#SQLSaturday-#264-Ancona,-Italy-2013)
 Event Date: 13-12-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Marco Pozzan
 ## Title: Dax Introduction (IT)
@@ -110,7 +110,7 @@ Event Date: 13-12-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 19329
 # Agile SSIS with Biml (IT)
-#### [Back to calendar](#SQLSaturday-#264---Ancona,-Italy-2013)
+#### [Back to calendar](#SQLSaturday-#264-Ancona,-Italy-2013)
 Event Date: 13-12-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Luca Zavarella
 ## Title: Agile SSIS with Biml (IT)
@@ -119,7 +119,7 @@ Event Date: 13-12-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 19461
 # .NET Development for the SQL Server Developer (IT)
-#### [Back to calendar](#SQLSaturday-#264---Ancona,-Italy-2013)
+#### [Back to calendar](#SQLSaturday-#264-Ancona,-Italy-2013)
 Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Marco Parenzan
 ## Title: .NET Development for the SQL Server Developer (IT)
@@ -128,7 +128,7 @@ Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 24388
 # Trigger: Utili o dannosi? (IT)
-#### [Back to calendar](#SQLSaturday-#264---Ancona,-Italy-2013)
+#### [Back to calendar](#SQLSaturday-#264-Ancona,-Italy-2013)
 Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Sergio Govoni
 ## Title: Trigger: Utili o dannosi? (IT)
@@ -137,7 +137,7 @@ Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 25890
 # Put database in ALM backgrounds (IT)
-#### [Back to calendar](#SQLSaturday-#264---Ancona,-Italy-2013)
+#### [Back to calendar](#SQLSaturday-#264-Ancona,-Italy-2013)
 Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Alessandro Alpi
 ## Title: Put database in ALM backgrounds (IT)
@@ -146,7 +146,7 @@ Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 28296
 # Six degrees of separation: a quick crash course into the SQL Server authorization world (IT)
-#### [Back to calendar](#SQLSaturday-#264---Ancona,-Italy-2013)
+#### [Back to calendar](#SQLSaturday-#264-Ancona,-Italy-2013)
 Event Date: 13-12-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Giuseppe Zagarrio Francesco Cogno
 ## Title: Six degrees of separation: a quick crash course into the SQL Server authorization world (IT)

@@ -21,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13100
 #  SQL Server Deep Dive
-#### [Back to calendar](#SQLSaturday-#290---Kiev-2014)
+#### [Back to calendar](#SQLSaturday-#290-Kiev-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 1. Kyiv
 ## Speaker: Denis Reznik
 ## Title:  SQL Server Deep Dive
@@ -30,7 +30,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 1. Kyiv
 #  
 #### SessionID: 14011
 # Создание надежного перезапускаемого пакета SSIS. Аудит и логирование
-#### [Back to calendar](#SQLSaturday-#290---Kiev-2014)
+#### [Back to calendar](#SQLSaturday-#290-Kiev-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Amsterdam
 ## Speaker: Eugene Polonichko
 ## Title: Создание надежного перезапускаемого пакета SSIS. Аудит и логирование
@@ -39,7 +39,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Amsterdam
 #  
 #### SessionID: 17826
 # Database version control
-#### [Back to calendar](#SQLSaturday-#290---Kiev-2014)
+#### [Back to calendar](#SQLSaturday-#290-Kiev-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Barcelona
 ## Speaker: Konstantin Proskurdin
 ## Title: Database version control
@@ -48,7 +48,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Barcelona
 #  
 #### SessionID: 18677
 # Azure SQL Database Tips and Tricks for Beginners
-#### [Back to calendar](#SQLSaturday-#290---Kiev-2014)
+#### [Back to calendar](#SQLSaturday-#290-Kiev-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Barcelona
 ## Speaker: Tobias Koprowski
 ## Title: Azure SQL Database Tips and Tricks for Beginners
@@ -57,7 +57,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Barcelona
 #  
 #### SessionID: 18679
 # Maintenance Plans ad Hoc
-#### [Back to calendar](#SQLSaturday-#290---Kiev-2014)
+#### [Back to calendar](#SQLSaturday-#290-Kiev-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. New York
 ## Speaker: Tobias Koprowski
 ## Title: Maintenance Plans ad Hoc
@@ -67,7 +67,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. New York
 #  
 #### SessionID: 19184
 # Я построю свой профайлер, с гридами и кнопками!
-#### [Back to calendar](#SQLSaturday-#290---Kiev-2014)
+#### [Back to calendar](#SQLSaturday-#290-Kiev-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Barcelona
 ## Speaker: Oleksii Kovalov
 ## Title: Я построю свой профайлер, с гридами и кнопками!
@@ -77,7 +77,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Barcelona
 #  
 #### SessionID: 19185
 # Включать иль не включать? Сказочка об индексах
-#### [Back to calendar](#SQLSaturday-#290---Kiev-2014)
+#### [Back to calendar](#SQLSaturday-#290-Kiev-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. New York
 ## Speaker: Oleksii Kovalov
 ## Title: Включать иль не включать? Сказочка об индексах
@@ -87,7 +87,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. New York
 #  
 #### SessionID: 19406
 # SSIS - Повышение производительности обработки потоков данных
-#### [Back to calendar](#SQLSaturday-#290---Kiev-2014)
+#### [Back to calendar](#SQLSaturday-#290-Kiev-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Amsterdam
 ## Speaker: Maksim Garnets
 ## Title: SSIS - Повышение производительности обработки потоков данных
@@ -99,7 +99,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Amsterdam
 #  
 #### SessionID: 20306
 # Dealing with Entity Framework 6.1
-#### [Back to calendar](#SQLSaturday-#290---Kiev-2014)
+#### [Back to calendar](#SQLSaturday-#290-Kiev-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 1. Kyiv
 ## Speaker: Mihail Mateev
 ## Title: Dealing with Entity Framework 6.1
@@ -108,7 +108,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 1. Kyiv
 #  
 #### SessionID: 20309
 # Power BI for Office 365 -  a Complete Self-Service
-#### [Back to calendar](#SQLSaturday-#290---Kiev-2014)
+#### [Back to calendar](#SQLSaturday-#290-Kiev-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Amsterdam
 ## Speaker: Mihail Mateev
 ## Title: Power BI for Office 365 -  a Complete Self-Service
@@ -117,7 +117,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Amsterdam
 #  
 #### SessionID: 21274
 # Проектирование хранилищ данных для бизнес-аналитики
-#### [Back to calendar](#SQLSaturday-#290---Kiev-2014)
+#### [Back to calendar](#SQLSaturday-#290-Kiev-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Barcelona
 ## Speaker: Eugene Polonichko
 ## Title: Проектирование хранилищ данных для бизнес-аналитики
@@ -126,7 +126,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 3. Barcelona
 #  
 #### SessionID: 21579
 # Query and Plan Fingerprints
-#### [Back to calendar](#SQLSaturday-#290---Kiev-2014)
+#### [Back to calendar](#SQLSaturday-#290-Kiev-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Amsterdam
 ## Speaker: Olena Smoliak
 ## Title: Query and Plan Fingerprints
@@ -136,7 +136,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 4. Amsterdam
 #  
 #### SessionID: 24329
 # In-Memory OLTP (Hekaton) в SQL Server 2014 (introduction)
-#### [Back to calendar](#SQLSaturday-#290---Kiev-2014)
+#### [Back to calendar](#SQLSaturday-#290-Kiev-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 1. Kyiv
 ## Speaker: Sergey Olontsev
 ## Title: In-Memory OLTP (Hekaton) в SQL Server 2014 (introduction)
@@ -145,7 +145,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 1. Kyiv
 #  
 #### SessionID: 24330
 # In-Memory OLTP (Hekaton) в SQL Server 2014 (deep dive)
-#### [Back to calendar](#SQLSaturday-#290---Kiev-2014)
+#### [Back to calendar](#SQLSaturday-#290-Kiev-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 1. Kyiv
 ## Speaker: Sergey Olontsev
 ## Title: In-Memory OLTP (Hekaton) в SQL Server 2014 (deep dive)
@@ -154,7 +154,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 1. Kyiv
 #  
 #### SessionID: 27470
 # Key-Range Locking — Все тайное становится явным
-#### [Back to calendar](#SQLSaturday-#290---Kiev-2014)
+#### [Back to calendar](#SQLSaturday-#290-Kiev-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. New York
 ## Speaker: Vitaliy Popovych
 ## Title: Key-Range Locking — Все тайное становится явным
@@ -163,7 +163,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. New York
 #  
 #### SessionID: 9492
 # MS SQL data types:  features of  conversion
-#### [Back to calendar](#SQLSaturday-#290---Kiev-2014)
+#### [Back to calendar](#SQLSaturday-#290-Kiev-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: 2. New York
 ## Speaker: Andrii Zrobok
 ## Title: MS SQL data types:  features of  conversion

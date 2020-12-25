@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 96791
 # Introduction to BI Architecture
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Warren Sifre
 ## Title: Introduction to BI Architecture
@@ -32,7 +32,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 98158
 # 45 Minutes to Your First Tabular Model
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kerry Tyler
 ## Title: 45 Minutes to Your First Tabular Model
@@ -42,7 +42,7 @@ In this session, we will talk about what Tabular is and what it does, in additio
 #  
 #### SessionID: 93260
 # Women in IT. A survival guide.
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Professional Development
 ## Speaker: Gilda Alvarez
 ## Title: Women in IT. A survival guide.
@@ -51,7 +51,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 96919
 # How do you Azure?
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tamera Clark
 ## Title: How do you Azure?
@@ -64,7 +64,7 @@ This is a level 0 session, #N00b, #Imabeginner
 #  
 #### SessionID: 98555
 # Typescript and beyond...
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Edwin Martinez
 ## Title: Typescript and beyond...
@@ -73,7 +73,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 98754
 # Azure Databricks: A Brief Introduction
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Philip Austin
 ## Title: Azure Databricks: A Brief Introduction
@@ -82,7 +82,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 98501
 # Chatbot, 0 to 100 with L.U.I.S.
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Isaias Martinez
 ## Title: Chatbot, 0 to 100 with L.U.I.S.
@@ -91,7 +91,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 99086
 # Data visualization tips for Power BI
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: Orlando Mezquita
 ## Title: Data visualization tips for Power BI
@@ -100,7 +100,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 98159
 # Active Directory and Azure Active Directory: Authentication in a Cloudy World
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kerry Tyler
 ## Title: Active Directory and Azure Active Directory: Authentication in a Cloudy World
@@ -110,7 +110,7 @@ This is a beginner session, but there will be some networking involved, in addit
 #  
 #### SessionID: 98957
 # SQL Server 2019: Estrategias de Indexación para alto desempeño
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2019: Estrategias de Indexación para alto desempeño
@@ -123,7 +123,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 99163
 # Data Integration at Scale with Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Information Delivery
 ## Speaker: Guillermo Caicedo
 ## Title: Data Integration at Scale with Azure Data Factory
@@ -132,7 +132,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 96792
 # Introduction To Data Lakes
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Warren Sifre
 ## Title: Introduction To Data Lakes
@@ -141,7 +141,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 96793
 # Introduction To Data Governance
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Other
 ## Speaker: Warren Sifre
 ## Title: Introduction To Data Governance
@@ -150,7 +150,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Other
 #  
 #### SessionID: 98604
 # What's new in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose L. Rivera
 ## Title: What's new in SQL Server 2019
@@ -159,7 +159,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 98605
 # SQL Server 2019: Big Data Clusters
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose L. Rivera
 ## Title: SQL Server 2019: Big Data Clusters
@@ -168,7 +168,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 98958
 # Heredé una base de datos, y ahora que hago?
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Urena
 ## Title: Heredé una base de datos, y ahora que hago?
@@ -177,7 +177,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 99102
 # Let's make your apps, "smart" apps!
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Juan Martí
 ## Title: Let's make your apps, "smart" apps!
@@ -188,7 +188,7 @@ In a world were smartphones get "smarter" have higher bells and whistles; they n
 #  
 #### SessionID: 99161
 # Azure Machine Learning Overview
-#### [Back to calendar](#SQLSaturday-#896---Puerto-Rico-2019)
+#### [Back to calendar](#SQLSaturday-#896-Puerto-Rico-2019)
 Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Guillermo Caicedo
 ## Title: Azure Machine Learning Overview

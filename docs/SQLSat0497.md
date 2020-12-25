@@ -57,7 +57,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 42216
 # Habits of Highly Effective SQL Development Teams
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Other
 ## Speaker: Ike Ellis
 ## Title: Habits of Highly Effective SQL Development Teams
@@ -68,7 +68,7 @@ However, if the teammate isn't doing what they're supposed to do, the play disso
 #  
 #### SessionID: 43087
 # Mastering and Enhancing Company Data
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rushabh Mehta
 ## Title: Mastering and Enhancing Company Data
@@ -77,7 +77,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 44701
 # 3 Skills Every Junior DBA Must Know
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kendra Little
 ## Title: 3 Skills Every Junior DBA Must Know
@@ -86,7 +86,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45896
 # Mysteries of Data Masking Revealed -  in Azure, SQL Server, and beyond.
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Yevgeniya Mushkatblat
 ## Title: Mysteries of Data Masking Revealed -  in Azure, SQL Server, and beyond.
@@ -95,7 +95,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 46470
 # Managing Hierarchial Data in a Relational Database
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Robert Hatton
 ## Title: Managing Hierarchial Data in a Relational Database
@@ -104,7 +104,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 46745
 # A NoSQL Primer for the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Andrew Karcher
 ## Title: A NoSQL Primer for the SQL Server Developer
@@ -117,7 +117,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 42225
 # Data Modeling for Integration of RDBMS with NOSQL
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Daniel Upton
 ## Title: Data Modeling for Integration of RDBMS with NOSQL
@@ -126,7 +126,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 44396
 # Production SQL Server 2016--Lessons from the Field
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joseph D'Antoni
 ## Title: Production SQL Server 2016--Lessons from the Field
@@ -145,7 +145,7 @@ This session will present a candid view of the 2016 process and why it will be r
 #  
 #### SessionID: 45508
 # Introduction to Azure Streaming Analytics
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Streaming Analytics
@@ -154,7 +154,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 45536
 # Tired of looking for query performance optimizations?  Try the Query Store!
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Sean Werick
 ## Title: Tired of looking for query performance optimizations?  Try the Query Store!
@@ -163,7 +163,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 45971
 # How to successfully virtualize critical SQL servers 
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Niran Even-Chen
 ## Title: How to successfully virtualize critical SQL servers 
@@ -173,7 +173,7 @@ Still, many IT architects and DBA's are hesitant of virtualizing their SQL workl
 #  
 #### SessionID: 46737
 # Data Migrations (using SSIS)
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Eduardo Favio Angeles
 ## Title: Data Migrations (using SSIS)
@@ -189,7 +189,7 @@ Agenda
 #  
 #### SessionID: 46779
 # Microsoft Business Intelligence 2016 – More Love for Your Data
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Tamera Clark
 ## Title: Microsoft Business Intelligence 2016 – More Love for Your Data
@@ -198,7 +198,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 46869
 # Are You Optimistic About Concurrency?
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kalen Delaney
 ## Title: Are You Optimistic About Concurrency?
@@ -207,7 +207,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42233
 # SQL Injections and How to Stop Them
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Jeff Prom
 ## Title: SQL Injections and How to Stop Them
@@ -220,7 +220,7 @@ Attend this session to learn how SQL injections work, identify if you are being 
 #  
 #### SessionID: 43042
 # How to Bully Your Query Execution Plans
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kendra Little
 ## Title: How to Bully Your Query Execution Plans
@@ -229,7 +229,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45094
 # Effortless Backups with Minion Backup
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jennifer McCown
 ## Title: Effortless Backups with Minion Backup
@@ -238,7 +238,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45104
 # The Power  of Partitioning
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Ranjay Singh
 ## Title: The Power  of Partitioning
@@ -258,7 +258,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 45735
 # Building a PowerPivot BI Dashboard
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Vazi Okhandiar
 ## Title: Building a PowerPivot BI Dashboard
@@ -267,7 +267,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 46334
 # Query Processing in In-Memory OLTP (Hekaton)
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Query Processing in In-Memory OLTP (Hekaton)
@@ -276,7 +276,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 46445
 # Optimizing your data warehouse for OLAP Processing
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Konstantin Melamud
 ## Title: Optimizing your data warehouse for OLAP Processing
@@ -285,7 +285,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 46728
 # Introduction to SQL 2016 Temporal Tables
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Vicky Harp
 ## Title: Introduction to SQL 2016 Temporal Tables
@@ -294,7 +294,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 46837
 # Cisco and Nimble Storage: Partners to Create a Next Gen SQL Server Solution
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Cho
 ## Title: Cisco and Nimble Storage: Partners to Create a Next Gen SQL Server Solution
@@ -303,7 +303,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48368
 # New Capabilities on top of Microsoft SQL  SSAS
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Rony Ross
 ## Title: New Capabilities on top of Microsoft SQL  SSAS
@@ -312,7 +312,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 49115
 # DB "Time Machine" Never lose more than 1 second of transactions ever again!
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Other
 ## Speaker: Ken Smallwood
 ## Title: DB "Time Machine" Never lose more than 1 second of transactions ever again!
@@ -324,7 +324,7 @@ Never lose more than 1 second of transactions ever again. Reduxio will showcase 
 #  
 #### SessionID: 49277
 # SQL and VMware - more than just virtualization demos
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Niran Even-Chen
 ## Title: SQL and VMware - more than just virtualization demos
@@ -333,7 +333,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49293
 # Flash Storage 101:  How Flash Storage Modernizes Database Design
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Matt Henderson
 ## Title: Flash Storage 101:  How Flash Storage Modernizes Database Design
@@ -342,7 +342,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 49314
 # Keeping your SQL Objects Safe In Development
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mickey Stuewe
 ## Title: Keeping your SQL Objects Safe In Development
@@ -355,7 +355,7 @@ Join me in this demo heavy session where we will explore the benefits of version
 #  
 #### SessionID: 42316
 # Building Your Way to Better Database Testing
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Phil Helmer
 ## Title: Building Your Way to Better Database Testing
@@ -365,7 +365,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 44230
 # Rock Your Technical Interview (Part 1)
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Other
 ## Speaker: David McCarter
 ## Title: Rock Your Technical Interview (Part 1)
@@ -374,7 +374,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 44350
 # SQL Stretch Database
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sapna Jeswani
 ## Title: SQL Stretch Database
@@ -383,7 +383,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45506
 # Introduction to Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Machine Learning
@@ -392,7 +392,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 45709
 # The Key to Keys
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Karen Lopez
 ## Title: The Key to Keys
@@ -406,7 +406,7 @@ We'll look at the generic and proprietary terms for these concepts, as well as w
 #  
 #### SessionID: 46444
 # VLDB: Partitioning in SQL Server Standard Edition.
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Konstantin Melamud
 ## Title: VLDB: Partitioning in SQL Server Standard Edition.
@@ -417,7 +417,7 @@ In this session we will go through the steps needed to configure and use the par
 #  
 #### SessionID: 46589
 # Power BI for the Enterprise
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paul Turley
 ## Title: Power BI for the Enterprise
@@ -426,7 +426,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 46860
 # Connecting Power BI to On-Prem Data with SSAS
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Kerry Tyler
 ## Title: Connecting Power BI to On-Prem Data with SSAS
@@ -435,7 +435,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 42295
 # Protecting your data in the Cloud
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Vijayakumar Thurupathan
 ## Title: Protecting your data in the Cloud
@@ -445,7 +445,7 @@ The session will cover the following topics with demos. Introduction to cloud ad
 #  
 #### SessionID: 44231
 # Rock Your Technical Interview (Part 2)
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Other
 ## Speaker: David McCarter
 ## Title: Rock Your Technical Interview (Part 2)
@@ -454,7 +454,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 44802
 # Be a Role Model for Women in Tech through Blogging
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Mickey Stuewe
 ## Title: Be a Role Model for Women in Tech through Blogging
@@ -463,7 +463,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 45097
 # Monster Text Manipulation: Regular Expressions for the DBA
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
@@ -476,7 +476,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45747
 # PolyBase in SQL Server 2016: Query Hadoop with ease
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Sahaj Saini
 ## Title: PolyBase in SQL Server 2016: Query Hadoop with ease
@@ -487,7 +487,7 @@ This session will cover the PolyBase fundamentals of what the feature is, how cu
 #  
 #### SessionID: 46335
 # Understanding Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
@@ -496,7 +496,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 46858
 # Managing Your Schema with Database Projects in Visual Studio
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kerry Tyler
 ## Title: Managing Your Schema with Database Projects in Visual Studio
@@ -505,7 +505,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46943
 # Better Report Development and Management Techniques 
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ted Stathakis
 ## Title: Better Report Development and Management Techniques 
@@ -514,7 +514,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 49332
 # Things You Should Never Do In Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Denny Cherry
 ## Title: Things You Should Never Do In Microsoft SQL Server
@@ -525,7 +525,7 @@ Most importantly we will look at why these implementations went horribly wrong s
 #  
 #### SessionID: 42218
 # How to Get Lightning Fast Answers with Power BI QA and Cortana
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Vishal Pawar
 ## Title: How to Get Lightning Fast Answers with Power BI QA and Cortana
@@ -534,7 +534,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 42305
 # Mastering Master Data Services
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeff Prom
 ## Title: Mastering Master Data Services
@@ -545,7 +545,7 @@ In this presentation we will cover MDS from start to finish including installati
 #  
 #### SessionID: 45711
 # Panel: Will the DBA Job of the Future Still Involve DBAs?
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Karen Lopez
 ## Title: Panel: Will the DBA Job of the Future Still Involve DBAs?
@@ -557,7 +557,7 @@ Our panel of SQL Server experts share their current experiences in the data prof
 #  
 #### SessionID: 46469
 # Thinking in SQL
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Robert Hatton
 ## Title: Thinking in SQL
@@ -566,7 +566,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 46590
 # Reporting Services 2016 Solutions: The New Awesome
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Paul Turley
 ## Title: Reporting Services 2016 Solutions: The New Awesome
@@ -575,7 +575,7 @@ Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 46660
 # Power BI Desktop – A BI developer’s view
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Phil Robinson
 ## Title: Power BI Desktop – A BI developer’s view
@@ -586,7 +586,7 @@ This session will explore Power BI Desktop features for data accusation and mani
 #  
 #### SessionID: 46726
 # Understanding and Monitoring Tempdb
-#### [Back to calendar](#SQLSaturday-#497---Huntington-Beach-2016)
+#### [Back to calendar](#SQLSaturday-#497-Huntington-Beach-2016)
 Event Date: 02-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Vicky Harp
 ## Title: Understanding and Monitoring Tempdb

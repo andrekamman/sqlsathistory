@@ -14,7 +14,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28453
 # Query Optimizer Topics for Better Performance
-#### [Back to calendar](#SQLSaturday-#83---Johannesburg-2011)
+#### [Back to calendar](#SQLSaturday-#83-Johannesburg-2011)
 Event Date: 07-05-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Benjamin Nevarez
 ## Title: Query Optimizer Topics for Better Performance
@@ -23,7 +23,7 @@ Event Date: 07-05-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29290
 # Tools for a DB TakeOver
-#### [Back to calendar](#SQLSaturday-#83---Johannesburg-2011)
+#### [Back to calendar](#SQLSaturday-#83-Johannesburg-2011)
 Event Date: 07-05-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jason Brimhall
 ## Title: Tools for a DB TakeOver
@@ -32,7 +32,7 @@ Event Date: 07-05-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30215
 # 12 ways to write badly performing T-SQL
-#### [Back to calendar](#SQLSaturday-#83---Johannesburg-2011)
+#### [Back to calendar](#SQLSaturday-#83-Johannesburg-2011)
 Event Date: 07-05-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Gail Shaw
 ## Title: 12 ways to write badly performing T-SQL
@@ -46,7 +46,7 @@ The user will be guided through each query, be shown why it’s not the optimal 
 #  
 #### SessionID: 31525
 # Database Design Methodologies
-#### [Back to calendar](#SQLSaturday-#83---Johannesburg-2011)
+#### [Back to calendar](#SQLSaturday-#83-Johannesburg-2011)
 Event Date: 07-05-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Luis de Sousa
 ## Title: Database Design Methodologies
@@ -55,7 +55,7 @@ Event Date: 07-05-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 32027
 #  "GIS in SQL and SSRS using Statistics SA data"
-#### [Back to calendar](#SQLSaturday-#83---Johannesburg-2011)
+#### [Back to calendar](#SQLSaturday-#83-Johannesburg-2011)
 Event Date: 07-05-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mark Stacey
 ## Title:  "GIS in SQL and SSRS using Statistics SA data"
@@ -64,7 +64,7 @@ Event Date: 07-05-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 32968
 # Get your Oracle data into SQL Server faster!
-#### [Back to calendar](#SQLSaturday-#83---Johannesburg-2011)
+#### [Back to calendar](#SQLSaturday-#83-Johannesburg-2011)
 Event Date: 07-05-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Phlippie Smit
 ## Title: Get your Oracle data into SQL Server faster!
@@ -73,7 +73,7 @@ Event Date: 07-05-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 33150
 # Recursive Queries: Beautiful Events Always Recur 
-#### [Back to calendar](#SQLSaturday-#83---Johannesburg-2011)
+#### [Back to calendar](#SQLSaturday-#83-Johannesburg-2011)
 Event Date: 07-05-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Steve Simon
 ## Title: Recursive Queries: Beautiful Events Always Recur 
@@ -83,7 +83,7 @@ Within the realm of financial instruments, business structure and rules are high
 #  
 #### SessionID: 33200
 # The Transaction Log and VLF performance.
-#### [Back to calendar](#SQLSaturday-#83---Johannesburg-2011)
+#### [Back to calendar](#SQLSaturday-#83-Johannesburg-2011)
 Event Date: 07-05-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Stephan Lawson
 ## Title: The Transaction Log and VLF performance.
@@ -92,7 +92,7 @@ Event Date: 07-05-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 33377
 # Baseline my Database
-#### [Back to calendar](#SQLSaturday-#83---Johannesburg-2011)
+#### [Back to calendar](#SQLSaturday-#83-Johannesburg-2011)
 Event Date: 07-05-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Theo Potgieter
 ## Title: Baseline my Database

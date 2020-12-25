@@ -55,7 +55,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28707
 # Meet the PASS Board of Directors
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc1
 ## Speaker: Andy Warren
 ## Title: Meet the PASS Board of Directors
@@ -64,7 +64,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc1
 #  
 #### SessionID: 28708
 # Building a Professional Development Plan
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc2
 ## Speaker: Andy Warren
 ## Title: Building a Professional Development Plan
@@ -73,7 +73,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc2
 #  
 #### SessionID: 28709
 # Introduction to SQL Server Statistics
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI2
 ## Speaker: Andy Warren
 ## Title: Introduction to SQL Server Statistics
@@ -82,7 +82,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI2
 #  
 #### SessionID: 29069
 # 0 to SSRS Presentation
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI1
 ## Speaker: David Liebman
 ## Title: 0 to SSRS Presentation
@@ -91,7 +91,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI1
 #  
 #### SessionID: 29141
 # Page and Row Compression How, When, and Why
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA1
 ## Speaker: Bradley Ball
 ## Title: Page and Row Compression How, When, and Why
@@ -100,7 +100,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA1
 #  
 #### SessionID: 29142
 # Transprent Data Encryption Inside and Out
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA1
 ## Speaker: Bradley Ball
 ## Title: Transprent Data Encryption Inside and Out
@@ -109,7 +109,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA1
 #  
 #### SessionID: 29143
 # SQL Internals, Recovery Modes, Backups! OH MY!
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA1
 ## Speaker: Bradley Ball
 ## Title: SQL Internals, Recovery Modes, Backups! OH MY!
@@ -118,7 +118,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA1
 #  
 #### SessionID: 29258
 # Scaling your BI solution
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI3
 ## Speaker: Brian Mitchell
 ## Title: Scaling your BI solution
@@ -127,7 +127,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI3
 #  
 #### SessionID: 29325
 # Introduction to SSIS
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI1
 ## Speaker: Bradley Schacht
 ## Title: Introduction to SSIS
@@ -136,7 +136,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI1
 #  
 #### SessionID: 29326
 # Configuring and Extending SSIS
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI1
 ## Speaker: Bradley Schacht
 ## Title: Configuring and Extending SSIS
@@ -145,7 +145,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI1
 #  
 #### SessionID: 29863
 # Column Level Encryption
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev2
 ## Speaker: David Dye
 ## Title: Column Level Encryption
@@ -155,7 +155,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev2
 #  
 #### SessionID: 29864
 # Implementing auditing in SQL Server
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: David Dye
 ## Title: Implementing auditing in SQL Server
@@ -165,7 +165,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 29919
 # Anti-patterns in Database design and T-Sql code
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev1
 ## Speaker: Dmitri Korotkevitch
 ## Title: Anti-patterns in Database design and T-Sql code
@@ -176,7 +176,7 @@ The session focuses on a few obvious and not-so-obvious anti-patterns commonly e
 #  
 #### SessionID: 29920
 # Data Sharding in OLTP Systems
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI3
 ## Speaker: Dmitri Korotkevitch
 ## Title: Data Sharding in OLTP Systems
@@ -187,7 +187,7 @@ This session demonstrates several data sharding techniques that can be used to p
 #  
 #### SessionID: 29947
 # The Art of the Trace
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Don Stevic
 ## Title: The Art of the Trace
@@ -200,7 +200,7 @@ In this session, I will take you through the creation of a process to setup serv
 #  
 #### SessionID: 29948
 # The Fundamentals of DBA-ism 
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Don Stevic
 ## Title: The Fundamentals of DBA-ism 
@@ -210,7 +210,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 30237
 # SQL “Denali” AlwaysOn High Availability Solutions
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev1
 ## Speaker: Geoff Hiten
 ## Title: SQL “Denali” AlwaysOn High Availability Solutions
@@ -219,7 +219,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev1
 #  
 #### SessionID: 30331
 # Import data into SQL Azure with SqlBulkCopy
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev1
 ## Speaker: Herve Roggero
 ## Title: Import data into SQL Azure with SqlBulkCopy
@@ -228,7 +228,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev1
 #  
 #### SessionID: 30621
 # Designing and Optimizing SSAS Hierarchies
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI1
 ## Speaker: Jose Chinchilla
 ## Title: Designing and Optimizing SSAS Hierarchies
@@ -237,7 +237,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI1
 #  
 #### SessionID: 30622
 # What is BI Semantic Model and why should you care?
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI3
 ## Speaker: Jose Chinchilla
 ## Title: What is BI Semantic Model and why should you care?
@@ -246,7 +246,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI3
 #  
 #### SessionID: 30833
 # Data Options on Windows Phone "Mango"
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc1
 ## Speaker: Joe Healy
 ## Title: Data Options on Windows Phone "Mango"
@@ -255,7 +255,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc1
 #  
 #### SessionID: 30834
 # Introduction to Kinect SDK
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc1
 ## Speaker: Joe Healy
 ## Title: Introduction to Kinect SDK
@@ -264,7 +264,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc1
 #  
 #### SessionID: 30871
 # Share The Code, Man
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev2
 ## Speaker: James McAuliffe
 ## Title: Share The Code, Man
@@ -279,7 +279,7 @@ For many SSIS scenarios, a desired outcome is to implement logic or rules that a
 #  
 #### SessionID: 30872
 # Data Late Than Never
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc1
 ## Speaker: James McAuliffe
 ## Title: Data Late Than Never
@@ -295,7 +295,7 @@ When ETL lookups don’t match this can be a problem.  In the case of ETL proces
 #  
 #### SessionID: 31046
 # An Introduction to Project Management
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc2
 ## Speaker: Richie Rump
 ## Title: An Introduction to Project Management
@@ -304,7 +304,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc2
 #  
 #### SessionID: 31057
 # Mission Possible: Pervasive BI
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI3
 ## Speaker: Bob Abernethy
 ## Title: Mission Possible: Pervasive BI
@@ -313,7 +313,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI3
 #  
 #### SessionID: 31085
 # MS Access with SQL Server Strategies and Tips
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev2
 ## Speaker: Juan Soto
 ## Title: MS Access with SQL Server Strategies and Tips
@@ -322,7 +322,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev2
 #  
 #### SessionID: 31271
 # Paging DR Availability, Recovery Room STAT!
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI2
 ## Speaker: Kendal Van Dyke
 ## Title: Paging DR Availability, Recovery Room STAT!
@@ -331,7 +331,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI2
 #  
 #### SessionID: 31272
 # Working with XML in SQL Server
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev2
 ## Speaker: Kendal Van Dyke
 ## Title: Working with XML in SQL Server
@@ -340,7 +340,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev2
 #  
 #### SessionID: 31638
 # Let’s talk about SQL PowerShell
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc1
 ## Speaker: Maximo Trinidad
 ## Title: Let’s talk about SQL PowerShell
@@ -351,7 +351,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc1
 #  
 #### SessionID: 31639
 # Extend your T-SQL Scripting with PowerShell
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc1
 ## Speaker: Maximo Trinidad
 ## Title: Extend your T-SQL Scripting with PowerShell
@@ -360,7 +360,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc1
 #  
 #### SessionID: 31660
 # Denali SSIS Features and Best Practices
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI2
 ## Speaker: Mike Davis
 ## Title: Denali SSIS Features and Best Practices
@@ -369,7 +369,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI2
 #  
 #### SessionID: 31811
 # Introduction to PowerPivot for Excel 
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev1
 ## Speaker: Michael Antonovich
 ## Title: Introduction to PowerPivot for Excel 
@@ -379,7 +379,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev1
 #  
 #### SessionID: 31812
 # Pivot Tables  Charts from T-SQL thru SharePoint
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev1
 ## Speaker: Michael Antonovich
 ## Title: Pivot Tables  Charts from T-SQL thru SharePoint
@@ -388,7 +388,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev1
 #  
 #### SessionID: 31834
 # Cool Things MSDB Will Tell You (If you ask)
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA1
 ## Speaker: Mike Hillwig
 ## Title: Cool Things MSDB Will Tell You (If you ask)
@@ -397,7 +397,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA1
 #  
 #### SessionID: 31835
 # Top Ten Rules for Managing a Production Environmen
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Mike Hillwig
 ## Title: Top Ten Rules for Managing a Production Environmen
@@ -406,7 +406,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 31836
 # Top Ten Operational Mistakes to Avoid
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI3
 ## Speaker: Mike Hillwig
 ## Title: Top Ten Operational Mistakes to Avoid
@@ -415,7 +415,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI3
 #  
 #### SessionID: 32334
 # Funding Your Software Project in Two Easy Steps 
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc2
 ## Speaker: Jared  Nielsen
 ## Title: Funding Your Software Project in Two Easy Steps 
@@ -424,7 +424,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc2
 #  
 #### SessionID: 32335
 # SQL and SEO - a DBA's Guide to Search Engines
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc2
 ## Speaker: Jared  Nielsen
 ## Title: SQL and SEO - a DBA's Guide to Search Engines
@@ -433,7 +433,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc2
 #  
 #### SessionID: 32651
 # Business Intelligence dashboards with Share Point
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI1
 ## Speaker: Phillip E Rosen
 ## Title: Business Intelligence dashboards with Share Point
@@ -448,7 +448,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI1
 #  
 #### SessionID: 32780
 # Delivering BI to the Masses at Microsoft
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI2
 ## Speaker: Sanjay Soni
 ## Title: Delivering BI to the Masses at Microsoft
@@ -457,7 +457,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI2
 #  
 #### SessionID: 33006
 # DIY Hyper-V, Clustering and SQL Server
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev1
 ## Speaker: David Cobb
 ## Title: DIY Hyper-V, Clustering and SQL Server
@@ -466,7 +466,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev1
 #  
 #### SessionID: 33051
 # Monitoring Databases in a Virtual Environment
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA1
 ## Speaker: Thomas LaRock
 ## Title: Monitoring Databases in a Virtual Environment
@@ -475,7 +475,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA1
 #  
 #### SessionID: 33052
 # SQL Server Memory Management
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Thomas LaRock
 ## Title: SQL Server Memory Management
@@ -484,7 +484,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 33053
 # Waits and Queues and You
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Thomas LaRock
 ## Title: Waits and Queues and You
@@ -493,7 +493,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 33101
 # Enterprise Data Mining with SQL Server 2008 R2 
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI3
 ## Speaker: Mark Tabladilo
 ## Title: Enterprise Data Mining with SQL Server 2008 R2 
@@ -502,7 +502,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI3
 #  
 #### SessionID: 33102
 # Social Marketing 2011 for Microsoft Professionals
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc2
 ## Speaker: Mark Tabladilo
 ## Title: Social Marketing 2011 for Microsoft Professionals
@@ -511,7 +511,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc2
 #  
 #### SessionID: 34179
 # An Overview of PowerPivot in SharePoint
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev2
 ## Speaker: William E Pearson III
 ## Title: An Overview of PowerPivot in SharePoint
@@ -520,7 +520,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Dev2
 #  
 #### SessionID: 34182
 # Beyond Plateaux: Optimize SSAS with Best Practices
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI3
 ## Speaker: William E Pearson III
 ## Title: Beyond Plateaux: Optimize SSAS with Best Practices
@@ -529,7 +529,7 @@ Event Date: 13-08-2011 - Session time: 00:00:00 - Track: BI3
 #  
 #### SessionID: 34550
 # For Love or Money, Your IT Career
-#### [Back to calendar](#SQLSaturday-#79---South-Florida-2011)
+#### [Back to calendar](#SQLSaturday-#79-South-Florida-2011)
 Event Date: 13-08-2011 - Session time: 00:00:00 - Track: Misc2
 ## Speaker: Alex Funkhouser
 ## Title: For Love or Money, Your IT Career

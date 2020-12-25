@@ -29,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 48664
 # Why “R” you not leveraging the power of “R” in Power BI?!?
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Wade
 ## Title: Why “R” you not leveraging the power of “R” in Power BI?!?
@@ -40,7 +40,7 @@ In this session I will focus on the benefits of using R in Power BI. I will show
 #  
 #### SessionID: 49118
 # Availability Groups:  Monitoring and Alerting
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Phil Ekins
 ## Title: Availability Groups:  Monitoring and Alerting
@@ -51,7 +51,7 @@ We will look at the DMVs, extended event sessions, perfmon counters, SQL agent j
 #  
 #### SessionID: 49185
 # Using Powershell to Document SQL Server
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Using Powershell to Document SQL Server
@@ -61,7 +61,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 52923
 # Designing a Better Database
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Rickey Nunn
 ## Title: Designing a Better Database
@@ -76,7 +76,7 @@ In this session, we will review some of the common challenges we face and some p
 #  
 #### SessionID: 53252
 # Indexing Fundamentals
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: Indexing Fundamentals
@@ -85,7 +85,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 48517
 # The PROCESS of Queries
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: The PROCESS of Queries
@@ -94,7 +94,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 49152
 # Availability Groups 101: An Introduction
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adam Belebczuk
 ## Title: Availability Groups 101: An Introduction
@@ -103,7 +103,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 52514
 # What is Biml and why are SSIS developers excited about it?
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bill Fellows
 ## Title: What is Biml and why are SSIS developers excited about it?
@@ -117,7 +117,7 @@ You will leave this session armed with the knowledge of how Biml can help you ac
 #  
 #### SessionID: 52978
 # Data Modeling 101
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Leslie Weed
 ## Title: Data Modeling 101
@@ -128,7 +128,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 53173
 # SSAS Tabular Models amp; What#39;s new in SQL 2016
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Howard
 ## Title: SSAS Tabular Models amp; What#39;s new in SQL 2016
@@ -137,7 +137,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 52526
 # Introduction To Azure DocumentDB
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jeff Renz
 ## Title: Introduction To Azure DocumentDB
@@ -149,7 +149,7 @@ In this session I will demonstrate how to create a DocumentDB instance in Azure,
 #  
 #### SessionID: 53011
 # Extending Your Availability Group for Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: Extending Your Availability Group for Disaster Recovery
@@ -158,7 +158,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53093
 # Power BI - Analyzing sales data from Excel and an OData feed
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: William Stanley
 ## Title: Power BI - Analyzing sales data from Excel and an OData feed
@@ -167,7 +167,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 53175
 # What’s New in SSRS 2016
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Gary Bell
 ## Title: What’s New in SSRS 2016
@@ -176,7 +176,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 53656
 # SQL Server Power hour with Kathi, Dan and Kim
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Other
 ## Speaker: Kathi Kellenberger
 ## Title: SQL Server Power hour with Kathi, Dan and Kim
@@ -185,7 +185,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Other
 #  
 #### SessionID: 48578
 # Implementing security inside SQL Server
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Rick Bielawski
 ## Title: Implementing security inside SQL Server
@@ -194,7 +194,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 52527
 # Introduction to Ensemble Modeling
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Jeff Renz
 ## Title: Introduction to Ensemble Modeling
@@ -203,7 +203,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 53045
 # SQL and BI Business Value
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Matthew Bowers
 ## Title: SQL and BI Business Value
@@ -214,7 +214,7 @@ Participants will learn about the basics of determining business value for a sol
 #  
 #### SessionID: 53174
 # Stop making ugly Power BI Reports!
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Steve Howard
 ## Title: Stop making ugly Power BI Reports!
@@ -223,7 +223,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 53657
 # Hive 2.0: ACID and sub-second SQL latency with LLAP
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Scott Shaw
 ## Title: Hive 2.0: ACID and sub-second SQL latency with LLAP
@@ -232,7 +232,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 52365
 # Practical Transactional Log Fundamentals for the DBA
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Practical Transactional Log Fundamentals for the DBA
@@ -241,7 +241,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 52398
 # SQL Server 2014/2016 Technology Enhancements for Developers
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Wylie Blanchard
 ## Title: SQL Server 2014/2016 Technology Enhancements for Developers
@@ -250,7 +250,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 53010
 # Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
@@ -259,7 +259,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53130
 # Azure Stream Analytics - IoT data in, useful insights out
-#### [Back to calendar](#SQLSaturday-#542---St.-Louis-2016)
+#### [Back to calendar](#SQLSaturday-#542-St.-Louis-2016)
 Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Todd Robinson
 ## Title: Azure Stream Analytics - IoT data in, useful insights out

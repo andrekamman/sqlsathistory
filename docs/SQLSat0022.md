@@ -48,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28507
 # Introduction to SharePoint 2010 BI and PowerPivot
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2175 - SSIS
 ## Speaker: Adam Jorgensen
 ## Title: Introduction to SharePoint 2010 BI and PowerPivot
@@ -57,7 +57,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2175 - SSIS
 #  
 #### SessionID: 28754
 # Full Text Searching - A Guide for DBAs  Devs
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2142 - MS TECH
 ## Speaker: Robert Cain
 ## Title: Full Text Searching - A Guide for DBAs  Devs
@@ -66,7 +66,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2142 - MS TECH
 #  
 #### SessionID: 28971
 # Rapid Dimensional Prototypes with PowerPivot
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2171 - DEV 2
 ## Speaker: Barry Ralston
 ## Title: Rapid Dimensional Prototypes with PowerPivot
@@ -75,7 +75,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2171 - DEV 2
 #  
 #### SessionID: 29156
 # Best Practices Every SQL Server DBA Must Know
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2142 - MS TECH
 ## Speaker: Brad McGehee
 ## Title: Best Practices Every SQL Server DBA Must Know
@@ -84,7 +84,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2142 - MS TECH
 #  
 #### SessionID: 29159
 # of Pensacola Junior College
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2176 - SECURITY
 ## Speaker: Brad McGehee
 ## Title: of Pensacola Junior College
@@ -93,7 +93,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2176 - SECURITY
 #  
 #### SessionID: 29284
 # Zen Coding
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2171 - DEV 2
 ## Speaker: Brian Rigsby
 ## Title: Zen Coding
@@ -102,7 +102,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2171 - DEV 2
 #  
 #### SessionID: 29304
 # CMS using Kentico, ASP.NET, and  SQL Server
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2169 - DEV 1
 ## Speaker: Bryan Soltis
 ## Title: CMS using Kentico, ASP.NET, and  SQL Server
@@ -111,7 +111,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2169 - DEV 1
 #  
 #### SessionID: 29336
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2175 - SSIS
 ## Speaker: Bradley Schacht
 ## Title: Introduction to SQL Server Integration Services
@@ -120,7 +120,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2175 - SSIS
 #  
 #### SessionID: 29429
 # SharePoint 2010 Management with PowerShell
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2171 - DEV 2
 ## Speaker: Cody  Gros
 ## Title: SharePoint 2010 Management with PowerShell
@@ -129,7 +129,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2171 - DEV 2
 #  
 #### SessionID: 29500
 # Introduction to Change Data Capture
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2172 - DBA
 ## Speaker: Chris Skorlinski
 ## Title: Introduction to Change Data Capture
@@ -139,7 +139,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2172 - DBA
 #  
 #### SessionID: 29572
 # SharePoint Mashup: Internal Data for External Life
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2169 - DEV 1
 ## Speaker: Cory Loriot
 ## Title: SharePoint Mashup: Internal Data for External Life
@@ -148,7 +148,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2169 - DEV 1
 #  
 #### SessionID: 29624
 # Accelerating SQL with Solid State Technology
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2172 - DBA
 ## Speaker: Sumeet  Bansal
 ## Title: Accelerating SQL with Solid State Technology
@@ -168,7 +168,7 @@ c.	Host-based PCI Express devices
 #  
 #### SessionID: 29701
 # GOD, good object design
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2169 - DEV 1
 ## Speaker: Daniel Rosales
 ## Title: GOD, good object design
@@ -177,7 +177,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2169 - DEV 1
 #  
 #### SessionID: 30117
 # SSIS 2008 - Profiling Your Data
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2175 - SSIS
 ## Speaker: Eric Wisdahl
 ## Title: SSIS 2008 - Profiling Your Data
@@ -186,7 +186,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2175 - SSIS
 #  
 #### SessionID: 30835
 # Intro to Windows Azure
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2142 - MS TECH
 ## Speaker: Joe Healy
 ## Title: Intro to Windows Azure
@@ -195,7 +195,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2142 - MS TECH
 #  
 #### SessionID: 30912
 # SQL Server Locking  Blocking Made Simple
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2176 - SECURITY
 ## Speaker: Joe Webb
 ## Title: SQL Server Locking  Blocking Made Simple
@@ -204,7 +204,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2176 - SECURITY
 #  
 #### SessionID: 31049
 # Opening the Tacklebox on VS2010
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2142 - MS TECH
 ## Speaker: Joe Healy
 ## Title: Opening the Tacklebox on VS2010
@@ -213,7 +213,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2142 - MS TECH
 #  
 #### SessionID: 31204
 # SQL at the “Speed of Light” with Fusion-io
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2172 - DBA
 ## Speaker: Karla Landrum
 ## Title: SQL at the “Speed of Light” with Fusion-io
@@ -222,7 +222,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2172 - DBA
 #  
 #### SessionID: 31289
 # Enforcing Compliance With Policy-Based Management
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2176 - SECURITY
 ## Speaker: Ken Simmons
 ## Title: Enforcing Compliance With Policy-Based Management
@@ -231,7 +231,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2176 - SECURITY
 #  
 #### SessionID: 31299
 # Understanding and Preventing SQL Injection Attacks
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2176 - SECURITY
 ## Speaker: Kevin Kline
 ## Title: Understanding and Preventing SQL Injection Attacks
@@ -240,7 +240,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2176 - SECURITY
 #  
 #### SessionID: 31301
 # SQL Server Internals and Architecture
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2176 - SECURITY
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals and Architecture
@@ -255,7 +255,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2176 - SECURITY
 #  
 #### SessionID: 31329
 # Location Aware Applications Using SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2169 - DEV 1
 ## Speaker: Kevin Grohoske
 ## Title: Location Aware Applications Using SQL Server 2008
@@ -264,7 +264,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2169 - DEV 1
 #  
 #### SessionID: 31415
 # Analysis Services Performance Tuning and Security
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2176 - SECURITY
 ## Speaker: Devin Knight
 ## Title: Analysis Services Performance Tuning and Security
@@ -273,7 +273,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2176 - SECURITY
 #  
 #### SessionID: 31462
 # C# Ninjitsu
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2169 - DEV 1
 ## Speaker: Chris Eargle
 ## Title: C# Ninjitsu
@@ -284,7 +284,7 @@ I will introduce new principles in the context of the classic object-oriented an
 #  
 #### SessionID: 31549
 # Debug TalkAbout
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2171 - DEV 2
 ## Speaker: Marc Matthews
 ## Title: Debug TalkAbout
@@ -293,7 +293,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2171 - DEV 2
 #  
 #### SessionID: 31649
 # Introduction to Microsoft® Silverlight™
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2169 - DEV 1
 ## Speaker: Vincent Mayfield
 ## Title: Introduction to Microsoft® Silverlight™
@@ -302,7 +302,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2169 - DEV 1
 #  
 #### SessionID: 31650
 # Building Scalable ASP.NET Applications
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2169 - DEV 1
 ## Speaker: Vincent Mayfield
 ## Title: Building Scalable ASP.NET Applications
@@ -311,7 +311,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2169 - DEV 1
 #  
 #### SessionID: 32131
 # Introduction to Transactional Replication
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2172 - DBA
 ## Speaker: Troy Gallant
 ## Title: Introduction to Transactional Replication
@@ -320,7 +320,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2172 - DBA
 #  
 #### SessionID: 32280
 # CDC + SSIS = SCD 
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2172 - DBA
 ## Speaker: Patrick LeBlanc
 ## Title: CDC + SSIS = SCD 
@@ -330,7 +330,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2172 - DBA
 #  
 #### SessionID: 32467
 # Can you control your reports?
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2175 - SSIS
 ## Speaker: Ryan Duclos
 ## Title: Can you control your reports?
@@ -341,7 +341,7 @@ SSRS, ASP.NET
 #  
 #### SessionID: 32535
 # From Zero to BI in 10 Minutes
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2142 - MS TECH
 ## Speaker: Rushabh Mehta
 ## Title: From Zero to BI in 10 Minutes
@@ -350,7 +350,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2142 - MS TECH
 #  
 #### SessionID: 32619
 # DBA Repository Update 2010 Using SSIS and SSRS
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2175 - SSIS
 ## Speaker: Rodney Landrum
 ## Title: DBA Repository Update 2010 Using SSIS and SSRS
@@ -360,7 +360,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2175 - SSIS
 #  
 #### SessionID: 32911
 # SQL Server 2008 Resource Governor
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2176 - SECURITY
 ## Speaker: Shawn McGehee
 ## Title: SQL Server 2008 Resource Governor
@@ -369,7 +369,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2176 - SECURITY
 #  
 #### SessionID: 32937
 # The Modern Resume: Building Your Brand
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2142 - MS TECH
 ## Speaker: Steve Jones
 ## Title: The Modern Resume: Building Your Brand
@@ -378,7 +378,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2142 - MS TECH
 #  
 #### SessionID: 32938
 # Basic SQL Server
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2142 - MS TECH
 ## Speaker: Steve Jones
 ## Title: Basic SQL Server
@@ -387,7 +387,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2142 - MS TECH
 #  
 #### SessionID: 33225
 # Silverlight 4 - What's the differences?
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2171 - DEV 2
 ## Speaker: Steven Lane
 ## Title: Silverlight 4 - What's the differences?
@@ -399,7 +399,7 @@ All of this in a 90 minute presentation, what more could you ask?  Depending on 
 #  
 #### SessionID: 33276
 # ADO.NET Entity Framework v4 - Part 1
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2176 - SECURITY
 ## Speaker: Sven Aelterman
 ## Title: ADO.NET Entity Framework v4 - Part 1
@@ -408,7 +408,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2176 - SECURITY
 #  
 #### SessionID: 33277
 # ADO.NET Entity Framework v4 - Part 2
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2175 - SSIS
 ## Speaker: Sven Aelterman
 ## Title: ADO.NET Entity Framework v4 - Part 2
@@ -417,7 +417,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2175 - SSIS
 #  
 #### SessionID: 33498
 # Common TSQL Programming Mistakes
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2142 - MS TECH
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Programming Mistakes
@@ -426,7 +426,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2142 - MS TECH
 #  
 #### SessionID: 33587
 # Loops, Lookups, and Splits: SSIS Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2172 - DBA
 ## Speaker: Tim Mitchell
 ## Title: Loops, Lookups, and Splits: SSIS Beyond the Basics
@@ -435,7 +435,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2172 - DBA
 #  
 #### SessionID: 33648
 # SQL Source Control:  Poor man's data dude.
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2171 - DEV 2
 ## Speaker: Tim Costello
 ## Title: SQL Source Control:  Poor man's data dude.
@@ -444,7 +444,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2171 - DEV 2
 #  
 #### SessionID: 33724
 # A PowerShell Cookbook for DBAs
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2175 - SSIS
 ## Speaker: Trevor Barkhouse
 ## Title: A PowerShell Cookbook for DBAs
@@ -453,7 +453,7 @@ Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2175 - SSIS
 #  
 #### SessionID: 34492
 # Introduction to DMVs in SQL 2005/2008
-#### [Back to calendar](#SQLSaturday-#22---Pensacola-2010)
+#### [Back to calendar](#SQLSaturday-#22-Pensacola-2010)
 Event Date: 05-06-2010 - Session time: 00:00:00 - Track: Room 2172 - DBA
 ## Speaker: William Assaf
 ## Title: Introduction to DMVs in SQL 2005/2008

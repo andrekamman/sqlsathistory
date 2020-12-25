@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 72095
 # Conheça seu novo ambiente SQL Server - O Linux
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
 ## Speaker: Rodrigo Crespi
 ## Title: Conheça seu novo ambiente SQL Server - O Linux
@@ -33,7 +33,7 @@ Tudo que é básico entre os dois sistemas operacionais colocado lado a lado.
 #  
 #### SessionID: 72365
 # Go to Space with Azure CosmosDB (Abertura com Fernando Andreazi)
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Azure
 ## Speaker: Flávio Farias
 ## Title: Go to Space with Azure CosmosDB (Abertura com Fernando Andreazi)
@@ -42,7 +42,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Azure
 #  
 #### SessionID: 72932
 # Machine Learning de caixinha?
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Análise de Dados
 ## Speaker: Diego Nogare
 ## Title: Machine Learning de caixinha?
@@ -51,7 +51,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Análise de Dados
 #  
 #### SessionID: 70931
 # Machine Learning Services: Detecção de anomalias onde um desvio pode custar milhões
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Análise de Dados
 ## Speaker: Igor Santos de Paula
 ## Title: Machine Learning Services: Detecção de anomalias onde um desvio pode custar milhões
@@ -62,7 +62,7 @@ O objetivo é demonstrar as técnicas, algoritmos e ferramentas das Microsoft ut
 #  
 #### SessionID: 71797
 # SQL 2017 não é somente Linux, conheça as outras novidades!
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
 ## Speaker: Felipe de Assis
 ## Title: SQL 2017 não é somente Linux, conheça as outras novidades!
@@ -71,7 +71,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
 #  
 #### SessionID: 72500
 # Implementando soluções de IA utilizando os serviços cognitvos no Azure
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Azure
 ## Speaker: Vitor Fava
 ## Title: Implementando soluções de IA utilizando os serviços cognitvos no Azure
@@ -82,7 +82,7 @@ Nesta sessão discutiremos os conceitos básicos da IA e como podemos aplicá-la
 #  
 #### SessionID: 72313
 # Big Data com Ecossistema Hadoop: Hands-on (HBase, MySql e Hive + Power BI)
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Análise de Dados
 ## Speaker: Diogenes Santos
 ## Title: Big Data com Ecossistema Hadoop: Hands-on (HBase, MySql e Hive + Power BI)
@@ -91,7 +91,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Análise de Dados
 #  
 #### SessionID: 72364
 # Man vs Machine: Adaptive query processing and auto tuning on SQL2017
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
 ## Speaker: Fabiano Amorim
 ## Title: Man vs Machine: Adaptive query processing and auto tuning on SQL2017
@@ -100,7 +100,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
 #  
 #### SessionID: 73141
 # ITIL ajuda ou atrapalha a vida do DBA
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Administração
 ## Speaker: Luiz Henrique Garetti
 ## Title: ITIL ajuda ou atrapalha a vida do DBA
@@ -110,7 +110,7 @@ Muito julgam por dificultar o dia dia.. "engessar" o trabalho e assim por diante
 #  
 #### SessionID: 72518
 # Transaction Log - O que há de novo?
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
 ## Speaker: Luiz Mercante
 ## Title: Transaction Log - O que há de novo?
@@ -119,7 +119,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
 #  
 #### SessionID: 72933
 # Hacking SQL Server
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Administração
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Hacking SQL Server
@@ -131,7 +131,7 @@ Simularemos uma invasão ao SQL Server explorando alguns conceitos mal interpret
 #  
 #### SessionID: 73946
 # Como o Azure Site Recovery e SQL Server lhe auxiliarão a entregar o RPO e RTO de sua Aplicação
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Azure
 ## Speaker: Marcos Vinicius Oliveira Schardong
 ## Title: Como o Azure Site Recovery e SQL Server lhe auxiliarão a entregar o RPO e RTO de sua Aplicação
@@ -140,7 +140,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Azure
 #  
 #### SessionID: 72266
 # Você conhece o Power BI Report Server?
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Análise de Dados
 ## Speaker: Felippe Oliveira
 ## Title: Você conhece o Power BI Report Server?
@@ -149,7 +149,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Análise de Dados
 #  
 #### SessionID: 72366
 # Segurança de dados utilizando controles da ISO 27002
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Administração
 ## Speaker: Diemerson Campos
 ## Title: Segurança de dados utilizando controles da ISO 27002
@@ -158,7 +158,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Administração
 #  
 #### SessionID: 72479
 # Docker Windows com SQL Server 2017 - HowTo
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
 ## Speaker: Anderson Souza
 ## Title: Docker Windows com SQL Server 2017 - HowTo
@@ -167,7 +167,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
 #  
 #### SessionID: 72776
 # Tratamento de dados no Power BI
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Análise de Dados
 ## Speaker: RUY LACERDA
 ## Title: Tratamento de dados no Power BI
@@ -184,7 +184,7 @@ Palestra destinada a iniciantes em tratamento de dados no Power BI.
 #  
 #### SessionID: 72845
 # Melhores práticas #SQN - O que você não deveria fazer
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Administração
 ## Speaker: Ricardo Leka
 ## Title: Melhores práticas #SQN - O que você não deveria fazer
@@ -194,7 +194,7 @@ Vamos conversar sobre configurações e programação que já encontramos em vá
 #  
 #### SessionID: 72934
 # Deploy de Modelos no Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#718---Joinville-2018)
+#### [Back to calendar](#SQLSaturday-#718-Joinville-2018)
 Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Azure
 ## Speaker: Orlando Mariano
 ## Title: Deploy de Modelos no Azure Machine Learning

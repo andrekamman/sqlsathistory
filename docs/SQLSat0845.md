@@ -98,7 +98,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 87797
 # Azure Data Factory Ingestion Framework
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sean Forgatch
 ## Title: Azure Data Factory Ingestion Framework
@@ -107,7 +107,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 88515
 # Whipping Away Stress
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Whipping Away Stress
@@ -116,7 +116,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 89615
 # Data Collection and Usage: Illegal or Unethical?
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Machine Learning and Ethics
 ## Speaker: Angela Tidwell
 ## Title: Data Collection and Usage: Illegal or Unethical?
@@ -125,7 +125,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Machine Learning and Et
 #  
 #### SessionID: 89852
 # Event Driven ELT
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Michael French
 ## Title: Event Driven ELT
@@ -134,7 +134,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 89905
 # A Beginner's Guide to Power BI
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Watson
 ## Title: A Beginner's Guide to Power BI
@@ -143,7 +143,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 89911
 # Performance Tuning, Getting the Biggest Bang for Your Buck
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: Performance Tuning, Getting the Biggest Bang for Your Buck
@@ -152,7 +152,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90679
 # Real Time Anomaly Detection With Stream Analytics
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Samara Soucy
 ## Title: Real Time Anomaly Detection With Stream Analytics
@@ -161,7 +161,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 90716
 # Data as an Asset: Patterns and Anti-Patterns for Testing Data
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: John Welch
 ## Title: Data as an Asset: Patterns and Anti-Patterns for Testing Data
@@ -180,7 +180,7 @@ Attend this session, and you will gain valuable information on ensuring your dat
 #  
 #### SessionID: 90978
 # Why is my DBA So Grumpy ... When I Use NOLOCK and Other Query Hints.
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Why is my DBA So Grumpy ... When I Use NOLOCK and Other Query Hints.
@@ -189,7 +189,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 91022
 # SQL DevOps Simplified with Production Databases
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Paul Stanton
 ## Title: SQL DevOps Simplified with Production Databases
@@ -198,7 +198,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 91030
 # Migrations 101
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gilda Alvarez
 ## Title: Migrations 101
@@ -207,7 +207,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91359
 # SQL Server Internals and Architecture
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals and Architecture
@@ -222,7 +222,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 91683
 # Real-World AI in Azure
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Amie Mason
 ## Title: Real-World AI in Azure
@@ -231,7 +231,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 91690
 # Introduction to PowerApps
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Christina Wheeler
 ## Title: Introduction to PowerApps
@@ -240,7 +240,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 91852
 # PowerShell Core for Linux
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: PowerShell
 ## Speaker: Robert Cain
 ## Title: PowerShell Core for Linux
@@ -253,7 +253,7 @@ We'll wrap up the session showing how to install SQL Server in a Docker Containe
 #  
 #### SessionID: 87496
 # Azure-d Availability: Scaling SQL Server to the Cloud
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: Azure-d Availability: Scaling SQL Server to the Cloud
@@ -262,7 +262,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 87504
 # Moving Data with Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Andy Leonard
 ## Title: Moving Data with Azure Data Factory
@@ -276,7 +276,7 @@ Attend this session to learn:
 #  
 #### SessionID: 87743
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
@@ -287,7 +287,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 89293
 # Azure IoT: An interactive demo
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Jose Chinchilla
 ## Title: Azure IoT: An interactive demo
@@ -296,7 +296,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 89458
 # 3 Keys to Successful Consulting
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Mohammad Darab
 ## Title: 3 Keys to Successful Consulting
@@ -311,7 +311,7 @@ Whether you are interested in starting your own business, or a consultant wantin
 #  
 #### SessionID: 89941
 # Storytelling for Machine Learning and Advanced Analytics
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Jen Underwood
 ## Title: Storytelling for Machine Learning and Advanced Analytics
@@ -322,7 +322,7 @@ Machine learning and advanced analytics can be difficult to understand and expla
 #  
 #### SessionID: 89996
 # DBA's and DevOps: The Fundamentals
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Stuart Ainsworth
 ## Title: DBA's and DevOps: The Fundamentals
@@ -336,7 +336,7 @@ Topics covered include:
 #  
 #### SessionID: 90056
 # Getting started with Azure SQL Database: What You Need To Know!
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Donahoe
 ## Title: Getting started with Azure SQL Database: What You Need To Know!
@@ -345,7 +345,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 91413
 # A Perfect Ten: The Data Model
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: A Perfect Ten: The Data Model
@@ -354,7 +354,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 91499
 # Azure Databricks for Machine Learning
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Mark Tabladillo
 ## Title: Azure Databricks for Machine Learning
@@ -363,7 +363,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 91593
 # SQL Server Data Tools (SSDT) = Awesome
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Paul Waters
 ## Title: SQL Server Data Tools (SSDT) = Awesome
@@ -384,7 +384,7 @@ In this presentation, I will show you how to get started with SSDT, get some qui
 #  
 #### SessionID: 91706
 # Is My Bias Showing? Real World Implications of Application  Machine Bias
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Rie Irish
 ## Title: Is My Bias Showing? Real World Implications of Application  Machine Bias
@@ -395,7 +395,7 @@ Learn how to identify bias when it seeps in, how to code to be inclusive instead
 #  
 #### SessionID: 91707
 # Power BI Dataflows and How to Leverage for Data Science
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jamey Johnston
 ## Title: Power BI Dataflows and How to Leverage for Data Science
@@ -404,7 +404,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 91714
 # Using the Power platform to radically change your business
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Patrick LeBlanc
 ## Title: Using the Power platform to radically change your business
@@ -413,7 +413,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 87558
 # 13 reasons why my query is slow
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Fabiano Amorim
 ## Title: 13 reasons why my query is slow
@@ -436,7 +436,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 87635
 # Encrypting Data within Sql Server
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within Sql Server
@@ -449,7 +449,7 @@ You will leave the session with a deeper understanding about SQL Server encrypti
 #  
 #### SessionID: 87672
 # Essential Linux Skills for the DBA
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: 101 Beginner Level Sessions
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Essential Linux Skills for the DBA
@@ -459,7 +459,7 @@ This extended session will provide the attendee with a full immersion into the L
 #  
 #### SessionID: 88480
 # Re-Architect your Software as a Service Application for Azure: Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: George Walters
 ## Title: Re-Architect your Software as a Service Application for Azure: Tips and Tricks
@@ -468,7 +468,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 89037
 # Introduction to SQL Server Big Data Clusters
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Buck Woody
 ## Title: Introduction to SQL Server Big Data Clusters
@@ -483,7 +483,7 @@ Learning Objectives:
 #  
 #### SessionID: 89736
 # Azure Data Factory V2
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kevin Wilkie
 ## Title: Azure Data Factory V2
@@ -496,7 +496,7 @@ We'll look at moving data around from On-Prem to Azure, moving files to Azure, a
 #  
 #### SessionID: 89958
 # DevOps, Continuous Integration  Automated Testing: Rule them all
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Samir Behara
 ## Title: DevOps, Continuous Integration  Automated Testing: Rule them all
@@ -508,7 +508,7 @@ Come join me in this 60 min session to understand the problems with traditional 
 #  
 #### SessionID: 90948
 # Level Up: Data Modeling for the Power BI Rockstar
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bill Anton
 ## Title: Level Up: Data Modeling for the Power BI Rockstar
@@ -523,7 +523,7 @@ If your Power BI solutions contain a single table, if you're frequently banging 
 #  
 #### SessionID: 91021
 # Evolving Your BI Environment From SSRS To Power BI
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Preston Mesarvey
 ## Title: Evolving Your BI Environment From SSRS To Power BI
@@ -532,7 +532,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 91177
 # AI Cognitive Services: Vision 101
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: 101 Beginner Level Sessions
 ## Speaker: Alicia Moniz
 ## Title: AI Cognitive Services: Vision 101
@@ -549,7 +549,7 @@ Prerequisites: Attendees who would like to follow along should have an Azure acc
 #  
 #### SessionID: 91576
 # Leveraging Python in SQL Server
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Julie Smith
 ## Title: Leveraging Python in SQL Server
@@ -558,7 +558,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 91688
 # Managing SQL Server with Powershell
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: PowerShell
 ## Speaker: Michael Fal
 ## Title: Managing SQL Server with Powershell
@@ -567,7 +567,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: PowerShell
 #  
 #### SessionID: 91721
 # Power BI Architecture
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paco Gonzalez
 ## Title: Power BI Architecture
@@ -576,7 +576,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 90438
 # Be a HERO and build powerful custom apps with Azure SQL Database and Skuid!
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Carl Sheffield
 ## Title: Be a HERO and build powerful custom apps with Azure SQL Database and Skuid!
@@ -595,7 +595,7 @@ Leave the session empowered with a new tool in your toolkit to get things done b
 #  
 #### SessionID: 91680
 # Running SQL Server on AWS - High Availability and Reliability in the Cloud
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Steve Abraham
 ## Title: Running SQL Server on AWS - High Availability and Reliability in the Cloud
@@ -604,7 +604,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 91708
 # Women in Tech: Thriving Not Just Surviving
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Women in Tech: Thriving Not Just Surviving
@@ -615,7 +615,7 @@ Let's talk tech,  Where we've been  Where it's going.  How we keep our skills sh
 #  
 #### SessionID: 93786
 # Survival of the Fittest:  Matching Approaches for Golden Record
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Sponsor Session
 ## Speaker: SQL Saturday Atlanta
 ## Title: Survival of the Fittest:  Matching Approaches for Golden Record
@@ -635,7 +635,7 @@ Amanda Nguyen with Melissa Data
 #  
 #### SessionID: 93787
 # How Fast Can You Restore Your Database?
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: 101 Beginner Level Sessions
 ## Speaker: Marsha Pierce
 ## Title: How Fast Can You Restore Your Database?
@@ -648,7 +648,7 @@ Pure Storage, Inc.
 #  
 #### SessionID: 93848
 # Profisee Sponsor Session
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Sponsor Session
 ## Speaker: SQL Saturday Atlanta
 ## Title: Profisee Sponsor Session
@@ -657,7 +657,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Sponsor Session
 #  
 #### SessionID: 93850
 # Dell EMC Sponsor Session
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Sponsor Session
 ## Speaker: SQL Saturday Atlanta
 ## Title: Dell EMC Sponsor Session
@@ -666,7 +666,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Sponsor Session
 #  
 #### SessionID: 93851
 # Successfully Virtualizing SQL Server on vSphere - Straight from t
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Sponsor Session
 ## Speaker: SQL Saturday Atlanta
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from t
@@ -676,7 +676,7 @@ Over the years, virtualization has matured from the exotic black magic realm to 
 #  
 #### SessionID: 93853
 # Improving - Atlanta
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Sponsor Session
 ## Speaker: SQL Saturday Atlanta
 ## Title: Improving - Atlanta
@@ -685,7 +685,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Sponsor Session
 #  
 #### SessionID: 93855
 # SIOS -SANLess clustering for physical, virtual and cloud environm
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Sponsor Session
 ## Speaker: SQL Saturday Atlanta
 ## Title: SIOS -SANLess clustering for physical, virtual and cloud environm
@@ -694,7 +694,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Sponsor Session
 #  
 #### SessionID: 87539
 # Containers - You Better Get on Board!
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: Containers - You Better Get on Board!
@@ -708,7 +708,7 @@ In this session we’ll look at
 #  
 #### SessionID: 88320
 # Not your Dad's SQL Server; Contemporary twist on a classic standby.
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Hasan Savran
 ## Title: Not your Dad's SQL Server; Contemporary twist on a classic standby.
@@ -723,7 +723,7 @@ In-Memory Tables (Let's create NoSQL DB in SQL Server)
 #  
 #### SessionID: 88466
 # Where the Heck in Azure is SSIS?
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Geoff Hiten
 ## Title: Where the Heck in Azure is SSIS?
@@ -732,7 +732,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 89034
 # Inside SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: Inside SQL Server 2019
@@ -741,7 +741,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 89282
 # What's New for BI in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Teo Lachev
 ## Title: What's New for BI in SQL Server 2019
@@ -750,7 +750,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 89310
 # Unleashing Stretched Databases
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Armando Lacerda
 ## Title: Unleashing Stretched Databases
@@ -759,7 +759,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90074
 # Modern CPU Architecture and SQL Server Performance
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: David Klee
 ## Title: Modern CPU Architecture and SQL Server Performance
@@ -768,7 +768,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 90182
 # Performance Tuning for SQL Developer through Execution Plans
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Performance Tuning for SQL Developer through Execution Plans
@@ -777,7 +777,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 90384
 # The Master Stored Procedure Workshop: Part 1
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Sean McCown
 ## Title: The Master Stored Procedure Workshop: Part 1
@@ -794,7 +794,7 @@ The session will be packed with tons of code examples, with plenty of labs to re
 #  
 #### SessionID: 91684
 # What is CosmosDB and should I care about it?
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: 101 Beginner Level Sessions
 ## Speaker: Jeremy Edmondson
 ## Title: What is CosmosDB and should I care about it?
@@ -810,7 +810,7 @@ Should I use CosmosDB?
 #  
 #### SessionID: 91701
 # How do you Azure?
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: 101 Beginner Level Sessions
 ## Speaker: Tamera Clark
 ## Title: How do you Azure?
@@ -823,7 +823,7 @@ This is a level 0 session, #N00b, #Imabeginner
 #  
 #### SessionID: 91745
 # First Day on the Job: Getting to Know Your Database
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Chris Voss
 ## Title: First Day on the Job: Getting to Know Your Database
@@ -832,7 +832,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 93022
 # Introduction to Azure Analysis Services
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Shabnam Watson
 ## Title: Introduction to Azure Analysis Services
@@ -841,7 +841,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 87534
 # Intro to Query Store
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Intro to Query Store
@@ -854,7 +854,7 @@ In this session, we will walk through the features of Query Store, so you can un
 #  
 #### SessionID: 87575
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -863,7 +863,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 87833
 # HA/DR Solutions Using Distributed Availability Groups (Read-Scalable AGs too!)
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Jennifer Brocato
 ## Title: HA/DR Solutions Using Distributed Availability Groups (Read-Scalable AGs too!)
@@ -876,7 +876,7 @@ Finally, we will see Automatic Failover and see how to perform a Manual Failover
 #  
 #### SessionID: 89151
 # 45 Minutes to Your First Tabular Model
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kerry Tyler
 ## Title: 45 Minutes to Your First Tabular Model
@@ -886,7 +886,7 @@ In this session, we will talk about what Tabular is and what it does, in additio
 #  
 #### SessionID: 89286
 # Uncovering Duplicate, Redundant,  Missing Indexes
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Yun
 ## Title: Uncovering Duplicate, Redundant,  Missing Indexes
@@ -896,7 +896,7 @@ Attend this session and learn how SQL Server tracks actual index usage, and how 
 #  
 #### SessionID: 90085
 # A System for Managing Career Learning
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Andy Warren
 ## Title: A System for Managing Career Learning
@@ -905,7 +905,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 90377
 # Beginning Admin: The Care and Feeding of SQL Server
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: 101 Beginner Level Sessions
 ## Speaker: Jennifer McCown
 ## Title: Beginning Admin: The Care and Feeding of SQL Server
@@ -922,7 +922,7 @@ Being a database administrator is a big job, but we can cover the basics in one 
 #  
 #### SessionID: 90397
 # PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: PowerShell
 ## Speaker: Amy Herold
 ## Title: PowerShell for the DBA
@@ -933,7 +933,7 @@ In this session we will explore real-world examples and demonstrate how PowerShe
 #  
 #### SessionID: 90511
 # Everything You Need to Know About SQL Server Indexes
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Janis Griffin
 ## Title: Everything You Need to Know About SQL Server Indexes
@@ -944,7 +944,7 @@ This presentation is a must see for DBAs, Developers, Application Architects and
 #  
 #### SessionID: 90607
 # Implementing IT and Data Governance using Azure Policy Management
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: George Govantes
 ## Title: Implementing IT and Data Governance using Azure Policy Management
@@ -953,7 +953,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 91352
 # Azure Managed Instances—Your Bridge to the Cloud
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joseph D'Antoni
 ## Title: Azure Managed Instances—Your Bridge to the Cloud
@@ -966,7 +966,7 @@ In this session, you will learn about migrating your databases to Managed Instan
 #  
 #### SessionID: 91687
 # Implementing dbatools with Azure Automation
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Melton
 ## Title: Implementing dbatools with Azure Automation
@@ -977,7 +977,7 @@ During this feature-rich demo, we will walk-through getting started with Azure A
 #  
 #### SessionID: 91694
 # New Features in SQL That Will Change the Way You Tune
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Lance Tidwell
 ## Title: New Features in SQL That Will Change the Way You Tune
@@ -988,7 +988,7 @@ In this session we will explore these new features and how they can make your li
 #  
 #### SessionID: 91730
 # Overcoming Challenges with Source Control and Continuous Integration.
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Elizabeth Noble
 ## Title: Overcoming Challenges with Source Control and Continuous Integration.
@@ -1003,7 +1003,7 @@ Attendees should be familiar with general concepts about source control and be c
 #  
 #### SessionID: 87512
 # Becoming a Data Scientist
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Shannon Lowder
 ## Title: Becoming a Data Scientist
@@ -1012,7 +1012,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 87554
 # Getting started with Azure Machine Learning Services
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Bhakthi Liyanage
 ## Title: Getting started with Azure Machine Learning Services
@@ -1021,7 +1021,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 87847
 # Understanding and Implementing System-Versioned Temporal Tables
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: David Maxwell
 ## Title: Understanding and Implementing System-Versioned Temporal Tables
@@ -1030,7 +1030,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 88421
 # Ensuring Analytics Hit the Mark  (and Get Used!)
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Trey Johnson
 ## Title: Ensuring Analytics Hit the Mark  (and Get Used!)
@@ -1042,7 +1042,7 @@ This session will talk to the culture of analytics and the ways you might marry 
 #  
 #### SessionID: 88648
 # Parameters in SQL Server - Query Performance Makers or Breakers
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: Parameters in SQL Server - Query Performance Makers or Breakers
@@ -1057,7 +1057,7 @@ If this is a new topic to you, you'll leave this session with takeaways galore.
 #  
 #### SessionID: 89060
 # Creat Pixel Perfect Reports: The Story of Paginated Reports
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Patrick LeBlanc
 ## Title: Creat Pixel Perfect Reports: The Story of Paginated Reports
@@ -1066,7 +1066,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 89385
 # Back to the Basics: T-SQL 101
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: 101 Beginner Level Sessions
 ## Speaker: Deborah Melkin
 ## Title: Back to the Basics: T-SQL 101
@@ -1077,7 +1077,7 @@ This session is designed for the junior DBA or developer who is looking for a be
 #  
 #### SessionID: 90038
 # The New Tool in Your Kit: Azure Data Studio
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sven Aelterman
 ## Title: The New Tool in Your Kit: Azure Data Studio
@@ -1086,7 +1086,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 90149
 # Optimizing Data Access: Mixing Entity Framework Core and Dapper
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Shawn Wildermuth
 ## Title: Optimizing Data Access: Mixing Entity Framework Core and Dapper
@@ -1095,7 +1095,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 91392
 # SQL Server with Docker Containers
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Marsha Pierce
 ## Title: SQL Server with Docker Containers
@@ -1104,7 +1104,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 91519
 # Turbo-charging SSMS for Beginners
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: 101 Beginner Level Sessions
 ## Speaker: Nathan Boster
 ## Title: Turbo-charging SSMS for Beginners
@@ -1113,7 +1113,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: 101 Beginner Level Sess
 #  
 #### SessionID: 91677
 # The Art of Data DevOps with SSDT
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ken Muse
 ## Title: The Art of Data DevOps with SSDT
@@ -1122,7 +1122,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 91697
 # Extended Events - Better than Profiler
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Extended Events - Better than Profiler
@@ -1131,7 +1131,7 @@ Event Date: 18-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91727
 # HA/DR - Too Many Choices!
-#### [Back to calendar](#SQLSaturday-#845---Atlanta-2019)
+#### [Back to calendar](#SQLSaturday-#845-Atlanta-2019)
 Event Date: 18-05-2019 - Session time: 15:30:00 - Track: 101 Beginner Level Sessions
 ## Speaker: Mike Walsh
 ## Title: HA/DR - Too Many Choices!

@@ -44,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 83559
 # Applying Data Warehousing Principles
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 ## Speaker: Spencer Swindell
 ## Title: Applying Data Warehousing Principles
@@ -53,7 +53,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 #  
 #### SessionID: 83998
 # Getting started with Postgresql
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
 ## Speaker: Ramu Pulipati
 ## Title: Getting started with Postgresql
@@ -62,7 +62,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
 #  
 #### SessionID: 84028
 # Administrating and Managing SQL Server on Linux
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Support
 ## Speaker: Prabhaker Potharaju
 ## Title: Administrating and Managing SQL Server on Linux
@@ -71,7 +71,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Support
 #  
 #### SessionID: 84545
 # Moving Data with Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Innovate
 ## Speaker: Andy Leonard
 ## Title: Moving Data with Azure Data Factory
@@ -85,7 +85,7 @@ Attend this session to learn:
 #  
 #### SessionID: 84783
 # Automating the Data-Centric Deployment Pipeline
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Build
 ## Speaker: John Welch
 ## Title: Automating the Data-Centric Deployment Pipeline
@@ -94,7 +94,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Build
 #  
 #### SessionID: 85672
 # Digital Storytelling with Power BI
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Analyze
 ## Speaker: Devin Knight
 ## Title: Digital Storytelling with Power BI
@@ -105,7 +105,7 @@ In this session, you will learn how to leverage these features to tell a story w
 #  
 #### SessionID: 85685
 # Introduction to DAX
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Build
 ## Speaker: Mitchell Pearson
 ## Title: Introduction to DAX
@@ -114,7 +114,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Build
 #  
 #### SessionID: 86634
 # Encrypting Data within SQL Server
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within SQL Server
@@ -123,7 +123,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 #  
 #### SessionID: 83938
 # Getting Started with PowerShell Basics for SQL Server Administration
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Support
 ## Speaker: Michael Wharton
 ## Title: Getting Started with PowerShell Basics for SQL Server Administration
@@ -132,7 +132,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Support
 #  
 #### SessionID: 84040
 # Successfully Running SQL Server in AWS
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 ## Speaker: Brian Carrig
 ## Title: Successfully Running SQL Server in AWS
@@ -141,7 +141,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 #  
 #### SessionID: 84096
 # Getting your Database off to a Right Start
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Scale
 ## Speaker: Andrew Kelly
 ## Title: Getting your Database off to a Right Start
@@ -150,7 +150,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Scale
 #  
 #### SessionID: 84678
 # Database Corruption! Preventing Disaster to your Database.
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Support
 ## Speaker: Jeff Mlakar
 ## Title: Database Corruption! Preventing Disaster to your Database.
@@ -163,7 +163,7 @@ Beginners will benefit along with others who may one day find themselves with a 
 #  
 #### SessionID: 85336
 # Database Corruption
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Perform
 ## Speaker: Stephen Muliokela
 ## Title: Database Corruption
@@ -181,7 +181,7 @@ Highlight of topics
 #  
 #### SessionID: 85579
 # Managing SQL Server on Windows Server Core
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Support
 ## Speaker: Frank Henninger
 ## Title: Managing SQL Server on Windows Server Core
@@ -192,7 +192,7 @@ We'll cover what versions and features are supported, how to install sql server 
 #  
 #### SessionID: 85607
 # Improve Performance and Save Space with SQL Server Data Compression
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Perform
 ## Speaker: Justin Randall
 ## Title: Improve Performance and Save Space with SQL Server Data Compression
@@ -202,7 +202,7 @@ In this presentation you will learn how data compression works, how to determine
 #  
 #### SessionID: 83824
 # DevOps: Consistent Deployments / Team Development
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Build
 ## Speaker: Thomas Norman
 ## Title: DevOps: Consistent Deployments / Team Development
@@ -211,7 +211,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Build
 #  
 #### SessionID: 84054
 # Power BI Models, Productivity, and NODE.JS
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 ## Speaker: Michael Moen
 ## Title: Power BI Models, Productivity, and NODE.JS
@@ -222,7 +222,7 @@ After those demos, use NODE.JS to bring all sorts of data into Power BI. This wi
 #  
 #### SessionID: 84100
 # Grokking the Grammar of Graphics
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Analyze
 ## Speaker: Kevin Feasel
 ## Title: Grokking the Grammar of Graphics
@@ -231,7 +231,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Analyze
 #  
 #### SessionID: 85523
 # Introduction to the R Programming Language for BI Professionals
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Analyze
 ## Speaker: Jeff Renz
 ## Title: Introduction to the R Programming Language for BI Professionals
@@ -242,7 +242,7 @@ In this session I will demonstrate how to use R Studio to generate and test R sc
 #  
 #### SessionID: 85625
 # New T-SQL capabilities in SQL Server 2016, 2017, and beyond
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
 ## Speaker: Aaron Bertrand
 ## Title: New T-SQL capabilities in SQL Server 2016, 2017, and beyond
@@ -251,7 +251,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
 #  
 #### SessionID: 85627
 # Social Intelligence at Work: What it is, Why it Matters, and How to Improve it
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
 ## Speaker: Linda Groszyk
 ## Title: Social Intelligence at Work: What it is, Why it Matters, and How to Improve it
@@ -260,7 +260,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
 #  
 #### SessionID: 85871
 # Data Architectures in Azure for Analytics  Big Data
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 ## Speaker: Melissa Coates
 ## Title: Data Architectures in Azure for Analytics  Big Data
@@ -269,7 +269,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 #  
 #### SessionID: 85874
 # SentryOne Tools for Productivity and Performance
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Perform
 ## Speaker: Kevin Kline
 ## Title: SentryOne Tools for Productivity and Performance
@@ -278,7 +278,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Perform
 #  
 #### SessionID: 86725
 # How to Get Management Buy-In for Compliant Provisioning Software
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Analyze
 ## Speaker: Andy Leonard
 ## Title: How to Get Management Buy-In for Compliant Provisioning Software
@@ -287,7 +287,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Analyze
 #  
 #### SessionID: 83983
 # Collecting Performance Metrics
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Perform
 ## Speaker: Tracy Boggiano
 ## Title: Collecting Performance Metrics
@@ -298,7 +298,7 @@ In this session, we will be combining three open source tools - Telegraf, Influx
 #  
 #### SessionID: 84016
 # Getting started with SQL Azure Database: What you need to know
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Build
 ## Speaker: Jim Donahoe
 ## Title: Getting started with SQL Azure Database: What you need to know
@@ -309,7 +309,7 @@ By the end of this presentation, you’ll understand if Azure SQL Database is th
 #  
 #### SessionID: 84409
 # Keeping Data Science Simple in Azure Machine Learning Studio
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Analyze
 ## Speaker: Zach Maddigan
 ## Title: Keeping Data Science Simple in Azure Machine Learning Studio
@@ -323,7 +323,7 @@ In this session we will walk through how to approach a data science problem in v
 #  
 #### SessionID: 84474
 # SQL Server Then and Now: Changing the State of Long-held Beliefs
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
 ## Speaker: Maxwell Myrick
 ## Title: SQL Server Then and Now: Changing the State of Long-held Beliefs
@@ -332,7 +332,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
 #  
 #### SessionID: 84598
 # Your BI Workloads and How They Change in the Cloud (Azure)
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 ## Speaker: Trey Johnson
 ## Title: Your BI Workloads and How They Change in the Cloud (Azure)
@@ -349,7 +349,7 @@ Attendees should have the confidence to map out their own plans for making the m
 #  
 #### SessionID: 85034
 # Master Data Management with SQL Server 2016 MDS
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 ## Speaker: Neal Waterstreet
 ## Title: Master Data Management with SQL Server 2016 MDS
@@ -358,7 +358,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 #  
 #### SessionID: 85645
 # Index Trek
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Perform
 ## Speaker: Sandra Peele
 ## Title: Index Trek
@@ -375,7 +375,7 @@ This presentation was co-produced with Stéphane Faroult, author of Getting the 
 #  
 #### SessionID: 85688
 # Use Python to Make Better Email Reports With Graphs
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Build
 ## Speaker: Mike Burek
 ## Title: Use Python to Make Better Email Reports With Graphs
@@ -388,7 +388,7 @@ You'll be surprised how little code is needed for this. It's simpler than you th
 #  
 #### SessionID: 83996
 # Azure Machine Learning: Four Tips from the Pros
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Analyze
 ## Speaker: Brad Llewellyn
 ## Title: Azure Machine Learning: Four Tips from the Pros
@@ -397,7 +397,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Analyze
 #  
 #### SessionID: 84208
 # Resume Tips-Go Beyond the Print Out
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
 ## Speaker: Leveat Ruse
 ## Title: Resume Tips-Go Beyond the Print Out
@@ -406,7 +406,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
 #  
 #### SessionID: 84525
 # The Ultimate Maintenance Plan
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Support
 ## Speaker: Edward Roepe
 ## Title: The Ultimate Maintenance Plan
@@ -419,7 +419,7 @@ At the end of this session you will be able to: (1) Choose a maintenance program
 #  
 #### SessionID: 84794
 # Using DMVs for Performance Root Cause
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Perform
 ## Speaker: Jared Poché
 ## Title: Using DMVs for Performance Root Cause
@@ -428,7 +428,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Perform
 #  
 #### SessionID: 85315
 # Avoid Shiny Object Syndrome and Create Visualizations That Last
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 ## Speaker: Jeff Burns
 ## Title: Avoid Shiny Object Syndrome and Create Visualizations That Last
@@ -441,7 +441,7 @@ In this session you will leave with 5 field-tested rules to follow when creating
 #  
 #### SessionID: 85503
 # SQL Restore: Optimizing Your Data Recovery
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Support
 ## Speaker: Jamie Wick
 ## Title: SQL Restore: Optimizing Your Data Recovery
@@ -455,7 +455,7 @@ In this session, we'll answer these questions by looking at how to establish and
 #  
 #### SessionID: 85534
 # Custom Auditing in SSIS
-#### [Back to calendar](#SQLSaturday-#806---Charlotte-2018)
+#### [Back to calendar](#SQLSaturday-#806-Charlotte-2018)
 Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 ## Speaker: Meghana Vasavada
 ## Title: Custom Auditing in SSIS

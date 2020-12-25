@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10043
 # Automate Your ETL Infrastructure with SSIS and PowerShell
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Wile Auditorium
 ## Speaker: Allen White
 ## Title: Automate Your ETL Infrastructure with SSIS and PowerShell
@@ -43,7 +43,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Wile Auditorium
 #  
 #### SessionID: 10673
 # Wrangling performance with Resource Governor
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room D
 ## Speaker: Brandon Leach
 ## Title: Wrangling performance with Resource Governor
@@ -52,7 +52,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room D
 #  
 #### SessionID: 11874
 # SSIS Olympics
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room B
 ## Speaker: Cory Stevenson
 ## Title: SSIS Olympics
@@ -61,7 +61,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room B
 #  
 #### SessionID: 12369
 # T-SQL: Simple Changes That Go a Long Way
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room C
 ## Speaker: David Valentine
 ## Title: T-SQL: Simple Changes That Go a Long Way
@@ -70,7 +70,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room C
 #  
 #### SessionID: 13316
 # DBA 911 - Database Corruption
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room B
 ## Speaker: David Maxwell
 ## Title: DBA 911 - Database Corruption
@@ -80,7 +80,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room B
 #  
 #### SessionID: 14110
 # Partitioning for Perf and Mgmt of Large Tables
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room B
 ## Speaker: Eddie Wuerch
 ## Title: Partitioning for Perf and Mgmt of Large Tables
@@ -89,7 +89,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room B
 #  
 #### SessionID: 14300
 # Going Spatial
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room D
 ## Speaker: Frank Murphy
 ## Title: Going Spatial
@@ -98,7 +98,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room D
 #  
 #### SessionID: 14639
 # You're THE DBA.  Now What?
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room B
 ## Speaker: Gill Rowley
 ## Title: You're THE DBA.  Now What?
@@ -107,7 +107,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room B
 #  
 #### SessionID: 15003
 # My SQL Server is Not Slow for Pete's Sake! - Server Side Performance Analysis 
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room A
 ## Speaker: Hope Foley
 ## Title: My SQL Server is Not Slow for Pete's Sake! - Server Side Performance Analysis 
@@ -116,7 +116,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room A
 #  
 #### SessionID: 15464
 # Creating a Metadata Mart w/ SSIS - Data Governance
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room D
 ## Speaker: Ira Warren
 ## Title: Creating a Metadata Mart w/ SSIS - Data Governance
@@ -125,7 +125,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room D
 #  
 #### SessionID: 16044
 # Disabling xp_CmdShell - Is it really a best practice?
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Wile Auditorium
 ## Speaker: Jeff Moden
 ## Title: Disabling xp_CmdShell - Is it really a best practice?
@@ -136,7 +136,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Wile Auditorium
 #  
 #### SessionID: 16206
 # Using Compression to Improve Database Performance
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room A
 ## Speaker: Joseph D'Antoni
 ## Title: Using Compression to Improve Database Performance
@@ -145,7 +145,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room A
 #  
 #### SessionID: 16208
 # You Wouldn't Let HR Manage Your DBs...
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room C
 ## Speaker: Joseph D'Antoni
 ## Title: You Wouldn't Let HR Manage Your DBs...
@@ -154,7 +154,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room C
 #  
 #### SessionID: 17889
 # Windows Azure SQL Database Design: Silver Lining and Dark Side
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room A
 ## Speaker: Karen Lopez
 ## Title: Windows Azure SQL Database Design: Silver Lining and Dark Side
@@ -165,7 +165,7 @@ You’ll see demonstrations of the database design processes and gain best pract
 #  
 #### SessionID: 20840
 # Five Easy Pieces
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room A
 ## Speaker: Michael Swart
 ## Title: Five Easy Pieces
@@ -174,7 +174,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room A
 #  
 #### SessionID: 22657
 # Goodbye Next Next Next, Hello Automated Installs
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room D
 ## Speaker: Brian Davis
 ## Title: Goodbye Next Next Next, Hello Automated Installs
@@ -183,7 +183,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room D
 #  
 #### SessionID: 22993
 # Temporary Objects Without Permanent Consequences
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room D
 ## Speaker: Rick Krueger
 ## Title: Temporary Objects Without Permanent Consequences
@@ -192,7 +192,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room D
 #  
 #### SessionID: 24590
 # Interrogating the Transaction Log 
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room C
 ## Speaker: Frank Gill
 ## Title: Interrogating the Transaction Log 
@@ -205,7 +205,7 @@ In this session, you will learn how SQL Server uses the transaction log to maint
 #  
 #### SessionID: 24653
 # A Big Data Primer
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Wile Auditorium
 ## Speaker: Stacia Varga
 ## Title: A Big Data Primer
@@ -214,7 +214,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Wile Auditorium
 #  
 #### SessionID: 24933
 # Maximizing the Data Exploration Capabilities of Power View
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room B
 ## Speaker: Melissa Coates
 ## Title: Maximizing the Data Exploration Capabilities of Power View
@@ -225,7 +225,7 @@ We will identify which situations Power View is most suited for, as well as its 
 #  
 #### SessionID: 25181
 # A World Where All Data Has a Place to Live:  Centralizing Distributed Reference Data
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room C
 ## Speaker: Shane Risk
 ## Title: A World Where All Data Has a Place to Live:  Centralizing Distributed Reference Data
@@ -238,7 +238,7 @@ Don't get hung up trying to build a custom solution to house homeless reference 
 #  
 #### SessionID: 25993
 # 45 min to build your first SSRS report
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room A
 ## Speaker: Tamera Clark
 ## Title: 45 min to build your first SSRS report
@@ -247,7 +247,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room A
 #  
 #### SessionID: 25994
 # Designing  Formatting Reports
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room A
 ## Speaker: Tamera Clark
 ## Title: Designing  Formatting Reports
@@ -256,7 +256,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room A
 #  
 #### SessionID: 26547
 # Back(up) to Basics
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room D
 ## Speaker: Ben Thul
 ## Title: Back(up) to Basics
@@ -265,7 +265,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room D
 #  
 #### SessionID: 26868
 # Periodic Table of DMVs: Collecting Baselines 
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Wile Auditorium
 ## Speaker: Tim Ford
 ## Title: Periodic Table of DMVs: Collecting Baselines 
@@ -274,7 +274,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Wile Auditorium
 #  
 #### SessionID: 27454
 # Data Flow Architectures in Software Development Life-Cycle
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room B
 ## Speaker: Virginia Mushkatbat
 ## Title: Data Flow Architectures in Software Development Life-Cycle
@@ -283,7 +283,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room B
 #  
 #### SessionID: 8908
 # T-SQL : Bad Habits  Best Practices
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Wile Auditorium
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits  Best Practices
@@ -292,7 +292,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Wile Auditorium
 #  
 #### SessionID: 8970
 # Introduction to SQL Server Service Broker
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room C
 ## Speaker: Adam Belebczuk
 ## Title: Introduction to SQL Server Service Broker
@@ -301,7 +301,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room C
 #  
 #### SessionID: 9080
 # Manageable SSAS Deployment Strategies
-#### [Back to calendar](#SQLSaturday-#256---Kalamazoo-2013)
+#### [Back to calendar](#SQLSaturday-#256-Kalamazoo-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Room C
 ## Speaker: Kerry Tyler
 ## Title: Manageable SSAS Deployment Strategies

@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 89616
 # An introduction to Data Mining  with SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Steve Simon
 ## Title: An introduction to Data Mining  with SQL Server 2017
@@ -55,7 +55,7 @@ In this hands on BEGINNERS presentation we shall be looking at Microsoft SQL Ser
 #  
 #### SessionID: 90095
 # Architecting SQL Server environments for Mission Critical and High Performance
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcelo Fernandes
 ## Title: Architecting SQL Server environments for Mission Critical and High Performance
@@ -64,7 +64,7 @@ Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 92036
 # Modern Data Warehousing - The Lambda Approach to Azure BI
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Whiteley
 ## Title: Modern Data Warehousing - The Lambda Approach to Azure BI
@@ -77,7 +77,7 @@ This intense, demo-packed session implements real-time reporting using the Lambd
 #  
 #### SessionID: 93227
 # Power BI KISS, make it beautiful
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: PowerBI
 ## Speaker: Mary Fealty
 ## Title: Power BI KISS, make it beautiful
@@ -88,7 +88,7 @@ This session is for folks who are new to Power BI but should be of interest to f
 #  
 #### SessionID: 90112
 # Launching A Data Science Project:  Cleaning Is Half The Battle
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Kevin Feasel
 ## Title: Launching A Data Science Project:  Cleaning Is Half The Battle
@@ -97,7 +97,7 @@ Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 92501
 # Intro Into Index Analysis
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dmitri Korotkevitch
 ## Title: Intro Into Index Analysis
@@ -108,7 +108,7 @@ In this session, Dmitri demonstrates several techniques that help you to perform
 #  
 #### SessionID: 92887
 # Using Azure Cosmos DB and DataBricks to provide Realtime Customer Matching
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brynn Borton
 ## Title: Using Azure Cosmos DB and DataBricks to provide Realtime Customer Matching
@@ -125,7 +125,7 @@ Find out what lessons were learned and what best practices helped ensure that th
 #  
 #### SessionID: 94932
 # ADF Data Flows: Build scalable, cloud-based ETL without code
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Azure / Cloud
 ## Speaker: Daire Cunningham
 ## Title: ADF Data Flows: Build scalable, cloud-based ETL without code
@@ -137,7 +137,7 @@ Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Azure / Cloud
 #  
 #### SessionID: 89528
 # SQL Server  Kubernetes
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Pruski
 ## Title: SQL Server  Kubernetes
@@ -156,7 +156,7 @@ This session is aimed at SQL Server DBAs and Developers who want to learn the wh
 #  
 #### SessionID: 90487
 # Connecting SQL and Blockchain: The Azure Blockchain Workbench [EN]
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christoph Seck
 ## Title: Connecting SQL and Blockchain: The Azure Blockchain Workbench [EN]
@@ -174,7 +174,7 @@ Last but not least, we can look at some real world projects.
 #  
 #### SessionID: 91043
 # Database Continuous Integration and Delivery (CI/CD) using Visual Studio and DACFx for SQL Server
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Angela Ross Innes
 ## Title: Database Continuous Integration and Delivery (CI/CD) using Visual Studio and DACFx for SQL Server
@@ -183,7 +183,7 @@ Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 93148
 # Rock Your Session - Best Practices for Presentations
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Douglas McDowell
 ## Title: Rock Your Session - Best Practices for Presentations
@@ -192,7 +192,7 @@ Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 95333
 # Lightning Talks
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Azure / Cloud
 ## Speaker: Mark Hayes
 ## Title: Lightning Talks
@@ -203,7 +203,7 @@ All welcome - feel free to turn up and speak on the day!
 #  
 #### SessionID: 91354
 # Power BI and PowerShell - A Match Made in Heaven
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: PowerBI
 ## Speaker: Craig Porteous
 ## Title: Power BI and PowerShell - A Match Made in Heaven
@@ -216,7 +216,7 @@ You'll leave the session with an overview of the management capabilities of Powe
 #  
 #### SessionID: 91630
 # Keeping your SQL Code safe – An introduction to GIT and SSDT for DB professionals
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Geovanny Hernandez
 ## Title: Keeping your SQL Code safe – An introduction to GIT and SSDT for DB professionals
@@ -227,7 +227,7 @@ In this session, I'm going to show you how to avoid problems derived of mistakes
 #  
 #### SessionID: 92048
 # SQL Notebooks in Azure Data Studio for the DBA
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Sewell
 ## Title: SQL Notebooks in Azure Data Studio for the DBA
@@ -240,7 +240,7 @@ You will learn about SQL Notebooks from installing them in Azure Data Studio to 
 #  
 #### SessionID: 93247
 # Data Vault data warehousing - an introduction
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Dan Galavan
 ## Title: Data Vault data warehousing - an introduction
@@ -251,7 +251,7 @@ Demo: Using a SQL 2017 data source, we will orchestrate the extraction, transfor
 #  
 #### SessionID: 89594
 # How to win Kaggle competition and get familiar with machine learning ?
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: How to win Kaggle competition and get familiar with machine learning ?
@@ -262,7 +262,7 @@ Minimum slides and maximum fun guaranteed.
 #  
 #### SessionID: 91287
 # Training a large-scale recommendation engine on SQL server 2019
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Kaijisse Waaijer
 ## Title: Training a large-scale recommendation engine on SQL server 2019
@@ -273,7 +273,7 @@ On-top, by building on SQL Server 2019 BDC and Kubernetes you can run your clust
 #  
 #### SessionID: 92137
 # Database Adventure
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Chant
 ## Title: Database Adventure
@@ -284,7 +284,7 @@ Each selection will have a different outcome, and along the way you will probabl
 #  
 #### SessionID: 93263
 # Secrets of Azure storage and SQL
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Duffy
 ## Title: Secrets of Azure storage and SQL
@@ -301,7 +301,7 @@ Come along and chat to SQL Certified Architect, Bob Duffy, as we dive deeper int
 #  
 #### SessionID: 89599
 # Working with SQL Managed Data Types
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Peter Willmot
 ## Title: Working with SQL Managed Data Types
@@ -310,7 +310,7 @@ Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 90016
 # Understanding the Transaction Log For Faster Throughput
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lord Richard Douglas
 ## Title: Understanding the Transaction Log For Faster Throughput
@@ -321,7 +321,7 @@ In this session, you will learn to appreciate how the transaction log works and 
 #  
 #### SessionID: 90876
 # Complex Azure Orchestration with Dynamic Data Factory Pipelines
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paul Andrew
 ## Title: Complex Azure Orchestration with Dynamic Data Factory Pipelines
@@ -330,7 +330,7 @@ Event Date: 29-06-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 91614
 # Many roads to reporting with Microsoft BI technologies
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Mark Hayes
 ## Title: Many roads to reporting with Microsoft BI technologies
@@ -347,7 +347,7 @@ In this session we will see cover;
 #  
 #### SessionID: 89526
 # Implementing AI solutions using the cognitive services in Azure
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Vitor Fava
 ## Title: Implementing AI solutions using the cognitive services in Azure
@@ -358,7 +358,7 @@ In this session we will discuss the basics of IA and how we can apply it in our 
 #  
 #### SessionID: 89542
 # Eight hours of work in 20 minutes
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Magnus Ahlkvist
 ## Title: Eight hours of work in 20 minutes
@@ -368,7 +368,7 @@ The presentation also includes some reflections on how partitioning the table ha
 #  
 #### SessionID: 89725
 # Performance Dreams started at SQL Server 2014 and came true now at SQL Server 2016,2017
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shehab El-Najjar
 ## Title: Performance Dreams started at SQL Server 2014 and came true now at SQL Server 2016,2017
@@ -377,7 +377,7 @@ Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 92274
 # 2 Fast 2 Furious - designing for speed, concurrency, and correctness
-#### [Back to calendar](#SQLSaturday-#862---Cork-2019)
+#### [Back to calendar](#SQLSaturday-#862-Cork-2019)
 Event Date: 29-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Mark Broadbent
 ## Title: 2 Fast 2 Furious - designing for speed, concurrency, and correctness

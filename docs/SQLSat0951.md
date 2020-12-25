@@ -74,7 +74,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 100074
 # Getting Started: Introduction to Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Sterrett
 ## Title: Getting Started: Introduction to Azure SQL Database
@@ -83,7 +83,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 100081
 # HOW TO TROUBLESHOOT DATABASE PERFORMANCE ISSUES
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jean Joseph
 ## Title: HOW TO TROUBLESHOOT DATABASE PERFORMANCE ISSUES
@@ -92,7 +92,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 100094
 # An Examination of Today's Certifications
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Rick Heiges
 ## Title: An Examination of Today's Certifications
@@ -101,7 +101,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 100127
 # Welcome to Azure Synapse
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Dustin Ryan
 ## Title: Welcome to Azure Synapse
@@ -110,7 +110,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 100759
 # Let’s democratize Spark for .NET developers
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Sergiy Lunyakin
 ## Title: Let’s democratize Spark for .NET developers
@@ -119,7 +119,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 100824
 # Artificial Intelligence, Machine Learning and Deep Learning Explained
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Buck Woody
 ## Title: Artificial Intelligence, Machine Learning and Deep Learning Explained
@@ -128,7 +128,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 101435
 # Scaling Clustered Column Store Indexes
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Thomas Grohser
 ## Title: Scaling Clustered Column Store Indexes
@@ -139,7 +139,7 @@ Come and learn how to partition, select the right datatypes, and insert the data
 #  
 #### SessionID: 101469
 # Mastering TempDB
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: Mastering TempDB
@@ -148,7 +148,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 101655
 # Load a Data Warehouse using SSIS
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Cai
 ## Title: Load a Data Warehouse using SSIS
@@ -157,7 +157,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 101747
 # PowerBI and PowerApps Married at First Sight
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Dan King
 ## Title: PowerBI and PowerApps Married at First Sight
@@ -166,7 +166,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 101757
 # Successfully Virtualizing SQL Server on vSphere - Straight from the Source
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
@@ -175,7 +175,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 101787
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
@@ -184,7 +184,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 100016
 # Machine Learning with AzureML and Microsoft Excel API
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Srikrishna Krishnarao Srinivasan
 ## Title: Machine Learning with AzureML and Microsoft Excel API
@@ -197,7 +197,7 @@ Join me in this exploratory session on building and deploying Machine Learning m
 #  
 #### SessionID: 100026
 # Big Data Clusters for the Absolute Beginner
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohammad Darab
 ## Title: Big Data Clusters for the Absolute Beginner
@@ -213,7 +213,7 @@ Topics include:
 #  
 #### SessionID: 100041
 # What's New In SQL Server For The Developer
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Jeff Taylor
 ## Title: What's New In SQL Server For The Developer
@@ -222,7 +222,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 100679
 # Starting a Career in IT - Ask the Panel!
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Dale Sullenberger
 ## Title: Starting a Career in IT - Ask the Panel!
@@ -231,7 +231,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 100751
 # Failure needs to be an option.
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Donna Ellis Wilson
 ## Title: Failure needs to be an option.
@@ -240,7 +240,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 101194
 # SQL Server SSMS Fundamentals for Beginners
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Harvey Hyman
 ## Title: SQL Server SSMS Fundamentals for Beginners
@@ -249,7 +249,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 101261
 # Azure Cost Management
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dustin Dorsey
 ## Title: Azure Cost Management
@@ -258,7 +258,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 101687
 # Eliminating Anti-Patterns and RBAR for Faster Performance
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Jonathan Kehayias
 ## Title: Eliminating Anti-Patterns and RBAR for Faster Performance
@@ -271,7 +271,7 @@ This session is the third session in the SQL Performance for Developers Learning
 #  
 #### SessionID: 101715
 # Using Powershell to Document SQL Server
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Using Powershell to Document SQL Server
@@ -280,7 +280,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 101816
 # “The different faces of Information: Data Modeling and the Data Profession in the 21st Century”
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Information Delivery
 ## Speaker: Frank Quintana
 ## Title: “The different faces of Information: Data Modeling and the Data Profession in the 21st Century”
@@ -292,7 +292,7 @@ The presentation is an overview of the way we work today with data and how the n
 #  
 #### SessionID: 101866
 # Data Science, Analytics, and Storytelling Tools
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: ALAN FERRANDIZ LANGLEY
 ## Title: Data Science, Analytics, and Storytelling Tools
@@ -301,7 +301,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 102098
 # PowerApps and AI: A Flow of Location Events
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeremy Frye
 ## Title: PowerApps and AI: A Flow of Location Events
@@ -312,7 +312,7 @@ In this session, we will dissect an application using Power Apps and location se
 #  
 #### SessionID: 102210
 # The District Dashboard: Modeling  Reporting Solutions for Public Education
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Paul Turley
 ## Title: The District Dashboard: Modeling  Reporting Solutions for Public Education
@@ -321,7 +321,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 100095
 # Getting Noticed
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Rick Heiges
 ## Title: Getting Noticed
@@ -330,7 +330,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 100765
 # How To Talk To Your Storage Admin
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: How To Talk To Your Storage Admin
@@ -339,7 +339,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 101654
 # KingswaySoft - Supercharge your ETL Development with Advanced SSIS Components
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Cai
 ## Title: KingswaySoft - Supercharge your ETL Development with Advanced SSIS Components
@@ -352,7 +352,7 @@ In additional to performing advanced transformations you will also find codeless
 #  
 #### SessionID: 100028
 # Tally Ho! -- Explore the Varied Uses of Tally Tables
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Aaron Cutshall
 ## Title: Tally Ho! -- Explore the Varied Uses of Tally Tables
@@ -361,7 +361,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 100038
 # That's So Metadata: Discover Your Database From The Inside
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: That's So Metadata: Discover Your Database From The Inside
@@ -379,7 +379,7 @@ We will also cover the official Microsoft documentation on these features and ot
 #  
 #### SessionID: 100310
 # The Power of Power BI Themes or I Haven't Written Themes Since High School
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael Antonovich
 ## Title: The Power of Power BI Themes or I Haven't Written Themes Since High School
@@ -388,7 +388,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 100653
 # Data Virtualization with PolyBase
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Data Virtualization with PolyBase
@@ -397,7 +397,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 100681
 # Data and the Data Professionals Future - Ask the Panel
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Dale Sullenberger
 ## Title: Data and the Data Professionals Future - Ask the Panel
@@ -406,7 +406,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 101008
 # Exploring The JSON Features In SQL Server
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Eric Cobb
 ## Title: Exploring The JSON Features In SQL Server
@@ -415,7 +415,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 101256
 # Deploying Database Changes Without Taking an Outage
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Warren
 ## Title: Deploying Database Changes Without Taking an Outage
@@ -424,7 +424,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 101838
 # Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Chinchilla
 ## Title: Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
@@ -433,7 +433,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 101851
 # How to Beat the ATS
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Suzanne Ricci
 ## Title: How to Beat the ATS
@@ -442,7 +442,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 101854
 # Replace Hundreds of Fragmented SSRS Reports with Integrated Dashboards in Weeks
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chad Buher
 ## Title: Replace Hundreds of Fragmented SSRS Reports with Integrated Dashboards in Weeks
@@ -457,7 +457,7 @@ In this session, we will explore:
 #  
 #### SessionID: 102158
 # Intelligent Infrastructure for the DBA
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Intelligent Infrastructure for the DBA
@@ -466,7 +466,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 102683
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
@@ -475,7 +475,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 100032
 # dbatools - A PowerShell Toolkit for the DBA
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jack Corbett
 ## Title: dbatools - A PowerShell Toolkit for the DBA
@@ -486,7 +486,7 @@ At the end of the session, you will be able to return to your office with dbatoo
 #  
 #### SessionID: 100212
 # Auditing and Taming SQL Server Permissions
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Compliance and Security
 ## Speaker: Dave Mason
 ## Title: Auditing and Taming SQL Server Permissions
@@ -495,7 +495,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Compliance and Security
 #  
 #### SessionID: 100532
 # MA + THE - E = Aggravated with Aggregation
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Carolyn Risk
 ## Title: MA + THE - E = Aggravated with Aggregation
@@ -504,7 +504,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 100547
 # An Introduction to Spatial Data in SQL Server
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: An Introduction to Spatial Data in SQL Server
@@ -522,7 +522,7 @@ Come to this session to learn about:
 #  
 #### SessionID: 100680
 # Switching to an IT Career - Ask the Panel
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Dale Sullenberger
 ## Title: Switching to an IT Career - Ask the Panel
@@ -531,7 +531,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 100859
 # Data Science 101: An Introduction to Data Science Using Python
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Ganesh Lohani
 ## Title: Data Science 101: An Introduction to Data Science Using Python
@@ -540,7 +540,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 100892
 # Maximizing SQL Server Management Studio for Developers and DBAs
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Nem Schlecht
 ## Title: Maximizing SQL Server Management Studio for Developers and DBAs
@@ -549,7 +549,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 100911
 # Intro to Azure for SQL Geeks
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: David Patrick
 ## Title: Intro to Azure for SQL Geeks
@@ -558,7 +558,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 101449
 # Powershell for DBA to day to day stuff
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Other
 ## Speaker: Jignesh Patel
 ## Title: Powershell for DBA to day to day stuff
@@ -569,7 +569,7 @@ Run one powershell script for all instance and many more
 #  
 #### SessionID: 101508
 # Instant SQL Sandbox Using Docker
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Eddy Djaja
 ## Title: Instant SQL Sandbox Using Docker
@@ -578,7 +578,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 101688
 # Deadlocking for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Jonathan Kehayias
 ## Title: Deadlocking for Mere Mortals
@@ -587,7 +587,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 101727
 # From Tech to Lead - Transitioning from a Technician to a Leader
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: TBTLA Tampa Bay Technology Leadership Association
 ## Title: From Tech to Lead - Transitioning from a Technician to a Leader
@@ -601,7 +601,7 @@ This presentation will share some successful practices on how to successfully tr
 #  
 #### SessionID: 101756
 # 5 Availability Groups Issues That May Ruin Your Day
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dmitri Korotkevitch
 ## Title: 5 Availability Groups Issues That May Ruin Your Day
@@ -612,7 +612,7 @@ While Availability Groups help to achieve required High Availability, they may a
 #  
 #### SessionID: 101998
 # Performance Tuning - Analyzing Execution Plans
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Konstantin Melamud
 ## Title: Performance Tuning - Analyzing Execution Plans
@@ -622,7 +622,7 @@ In this presentation, we will identify what indexes are being used by the SQL Op
 #  
 #### SessionID: 102105
 # 2017 SSIS Scale Out for High Availability
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Paul LaGrone
 ## Title: 2017 SSIS Scale Out for High Availability
@@ -631,7 +631,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 100024
 # Working with JSON in SQL Server
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Alexander Fleming
 ## Title: Working with JSON in SQL Server
@@ -640,7 +640,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 100030
 # How To Give a Technical Presentation
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Aaron Cutshall
 ## Title: How To Give a Technical Presentation
@@ -649,7 +649,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 100037
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -664,7 +664,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 100042
 # Top 10 Things DBA's Should Know About Their Infrastructure
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Taylor
 ## Title: Top 10 Things DBA's Should Know About Their Infrastructure
@@ -673,7 +673,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 100061
 # Become a T-SQL Pivoting Ninja in 59.9 Minutes Or Less
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Peter Doyle
 ## Title: Become a T-SQL Pivoting Ninja in 59.9 Minutes Or Less
@@ -687,7 +687,7 @@ Come join me, and by the end of this session, you will have the knowledge to lev
 #  
 #### SessionID: 100086
 # Azure Synapse Analytics against Google BigQuery and Snowflake. What are the main differentiators?
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Oscar Zamora
 ## Title: Azure Synapse Analytics against Google BigQuery and Snowflake. What are the main differentiators?
@@ -699,7 +699,7 @@ The presentation shows a side by side comparison, with pros and cons of each pla
 #  
 #### SessionID: 100236
 # Introduction to IoT using Azure
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: John Wang
 ## Title: Introduction to IoT using Azure
@@ -709,7 +709,7 @@ We will take an look on what is Internet of Things (IoT), the impact of IoT to t
 #  
 #### SessionID: 100390
 # Turn Runbooks into Notebooks: Handling Maintenance and Emergencies with Azure Data Studio
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: Turn Runbooks into Notebooks: Handling Maintenance and Emergencies with Azure Data Studio
@@ -718,7 +718,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 100763
 # The Future Is Here for Containers!
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Marsha Pierce
 ## Title: The Future Is Here for Containers!
@@ -727,7 +727,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 101061
 # Performance Improvements in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Frank Gill
 ## Title: Performance Improvements in SQL Server 2019
@@ -736,7 +736,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 101195
 # Normal Forms Made Easy
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Harvey Hyman
 ## Title: Normal Forms Made Easy
@@ -745,7 +745,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 101705
 # DAX 360 and Power BI
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Adriano da Silva
 ## Title: DAX 360 and Power BI
@@ -764,7 +764,7 @@ The information in this presentation provides attendees with a fresh look at the
 #  
 #### SessionID: 101834
 # Designing end to end platform for advance data analysis and machine learning on Azure
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Rahat Yasir
 ## Title: Designing end to end platform for advance data analysis and machine learning on Azure
@@ -773,7 +773,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 101865
 # Sarah the Explorer: Navigating and Customizing the SharePoint Interface
-#### [Back to calendar](#SQLSaturday-#951---Tampa-2020)
+#### [Back to calendar](#SQLSaturday-#951-Tampa-2020)
 Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Sarah Patrick
 ## Title: Sarah the Explorer: Navigating and Customizing the SharePoint Interface

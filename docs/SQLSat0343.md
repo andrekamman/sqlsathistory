@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 12102
 # Always on feature with Sharepoint 2013
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Carlos Torres
 ## Title: Always on feature with Sharepoint 2013
@@ -34,7 +34,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 12854
 # BCS con SharePoint 2013
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: David Sánchez Aguilar
 ## Title: BCS con SharePoint 2013
@@ -43,7 +43,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 12855
 # Visualización de Datos Analíticos con SharePoint 2013
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Sánchez Aguilar
 ## Title: Visualización de Datos Analíticos con SharePoint 2013
@@ -52,7 +52,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13253
 # RBS with FILESTREAM in a SharePoint 2013
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Fernando Chiquiza
 ## Title: RBS with FILESTREAM in a SharePoint 2013
@@ -61,7 +61,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13632
 # Introducción al análisis predictivo con SQL Server
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Eduardo Castro
 ## Title: Introducción al análisis predictivo con SQL Server
@@ -70,7 +70,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13633
 # Qué debe saber un BI-DBA de SQL Server sobre Hadoop
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Eduardo Castro
 ## Title: Qué debe saber un BI-DBA de SQL Server sobre Hadoop
@@ -79,7 +79,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13635
 # SQL 2014 Alta disponibilidad en ambientes empresariales
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Eduardo Castro
 ## Title: SQL 2014 Alta disponibilidad en ambientes empresariales
@@ -88,7 +88,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14341
 # Desarrollo de modelos de minería de datos
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Freddy Angarita
 ## Title: Desarrollo de modelos de minería de datos
@@ -97,7 +97,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15140
 # Collecting and analyzing SQL Server performance data with DMOs
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ignacio Salom Rangel
 ## Title: Collecting and analyzing SQL Server performance data with DMOs
@@ -106,7 +106,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 16072
 # Buffer Pool y BD en Memoria
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: John Bocachica
 ## Title: Buffer Pool y BD en Memoria
@@ -115,7 +115,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 16139
 # Aprende todo sobre Business Intelligence con SQL Server 2012, SharePoint y Excel 2013
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jose Chinchilla
 ## Title: Aprende todo sobre Business Intelligence con SQL Server 2012, SharePoint y Excel 2013
@@ -124,7 +124,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 16140
 # Change Data Capture (CDC) - El mejor amigo secreto de todo profesional SQL
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jose Chinchilla
 ## Title: Change Data Capture (CDC) - El mejor amigo secreto de todo profesional SQL
@@ -133,7 +133,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16141
 # SQL Server 2014 Columnstore indexes: Tu data warehouse a todo rock !
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jose Chinchilla
 ## Title: SQL Server 2014 Columnstore indexes: Tu data warehouse a todo rock !
@@ -142,7 +142,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 16700
 # Llaves y contrallaves para ganarle a las malas practicas en TSQL
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jesus Gil Velasco
 ## Title: Llaves y contrallaves para ganarle a las malas practicas en TSQL
@@ -151,7 +151,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16701
 # SQL2014 -- ¿Cómo crear soluciones de bases de datos hibridas?
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jesus Gil Velasco
 ## Title: SQL2014 -- ¿Cómo crear soluciones de bases de datos hibridas?
@@ -161,7 +161,7 @@ Acompañame y te mostrare paso a paso como crear desde cero una solución hibrid
 #  
 #### SessionID: 17278
 # SQL Server Data Tools la nueva generación de herramientas de desarrollo de bases de datos
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: John Alexander Bulla Torres
 ## Title: SQL Server Data Tools la nueva generación de herramientas de desarrollo de bases de datos
@@ -170,7 +170,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17775
 # Tips de desarrollo con SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Julián Castiblanco
 ## Title: Tips de desarrollo con SQL Server 2014
@@ -179,7 +179,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20974
 # Control de versiones en base de datos y otros temas de ALM
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Miguel Mendoza
 ## Title: Control de versiones en base de datos y otros temas de ALM
@@ -188,7 +188,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 9460
 # Capacidades de Power BI
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andrei Garzon
 ## Title: Capacidades de Power BI
@@ -197,7 +197,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9476
 # Creando soluciones de inteligencia de Negocios con SharePoint 2013
-#### [Back to calendar](#SQLSaturday-#343---Medellin-2014)
+#### [Back to calendar](#SQLSaturday-#343-Medellin-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Andres Felipe Rojas Parra
 ## Title: Creando soluciones de inteligencia de Negocios con SharePoint 2013

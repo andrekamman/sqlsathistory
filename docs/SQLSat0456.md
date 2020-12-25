@@ -11,7 +11,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 39807
 # Being Smarter with Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#456---Auckland-2015)
+#### [Back to calendar](#SQLSaturday-#456-Auckland-2015)
 Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
 ## Speaker: Leila Etaati
 ## Title: Being Smarter with Azure Machine Learning
@@ -20,7 +20,7 @@ Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
 #  
 #### SessionID: 38049
 # Mission Critical SQL Server and You
-#### [Back to calendar](#SQLSaturday-#456---Auckland-2015)
+#### [Back to calendar](#SQLSaturday-#456-Auckland-2015)
 Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
 ## Speaker: Warwick Rudd
 ## Title: Mission Critical SQL Server and You
@@ -32,7 +32,7 @@ In this session I will look at the options available to you to meet your High Av
 #  
 #### SessionID: 37918
 # Deep dive into Running SQL Platform on Azure IAAS
-#### [Back to calendar](#SQLSaturday-#456---Auckland-2015)
+#### [Back to calendar](#SQLSaturday-#456-Auckland-2015)
 Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
 ## Speaker: Aben Samuel
 ## Title: Deep dive into Running SQL Platform on Azure IAAS
@@ -41,7 +41,7 @@ Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
 #  
 #### SessionID: 40295
 # SQL Developer Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#456---Auckland-2015)
+#### [Back to calendar](#SQLSaturday-#456-Auckland-2015)
 Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
 ## Speaker: Martin Catherall
 ## Title: SQL Developer Tips and Tricks
@@ -50,7 +50,7 @@ Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
 #  
 #### SessionID: 40163
 # Myths and misconceptions
-#### [Back to calendar](#SQLSaturday-#456---Auckland-2015)
+#### [Back to calendar](#SQLSaturday-#456-Auckland-2015)
 Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
 ## Speaker: Dave Dustin
 ## Title: Myths and misconceptions
@@ -59,7 +59,7 @@ Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
 #  
 #### SessionID: 39797
 # Power BI; Amazing Things You Can Do
-#### [Back to calendar](#SQLSaturday-#456---Auckland-2015)
+#### [Back to calendar](#SQLSaturday-#456-Auckland-2015)
 Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
 ## Speaker: Reza Rad
 ## Title: Power BI; Amazing Things You Can Do

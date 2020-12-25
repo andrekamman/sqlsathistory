@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11250
 # “Indexing” Encrypted Data
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Chris Bell
 ## Title: “Indexing” Encrypted Data
@@ -43,7 +43,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 11508
 # Becoming Certified In Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Chris Hyde
 ## Title: Becoming Certified In Microsoft SQL Server
@@ -52,7 +52,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 11856
 # An Introduction to Extended Events
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jack Corbett
 ## Title: An Introduction to Extended Events
@@ -70,7 +70,7 @@ What you should know coming in:
 #  
 #### SessionID: 11857
 # Inroduction to Triggers
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jack Corbett
 ## Title: Inroduction to Triggers
@@ -79,7 +79,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 12043
 # Introduction to SQL Server Analysis Services
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Christopher Crane
 ## Title: Introduction to SQL Server Analysis Services
@@ -88,7 +88,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 12885
 # Managing your reporting services environment
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Daniel Bowlin
 ## Title: Managing your reporting services environment
@@ -97,7 +97,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 12886
 # SSIS templates, configurations and variables, oh my
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Daniel Bowlin
 ## Title: SSIS templates, configurations and variables, oh my
@@ -106,7 +106,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13652
 # How PowerShell helps me as a DBA (2013 Edition)
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Carlton Ramsey
 ## Title: How PowerShell helps me as a DBA (2013 Edition)
@@ -115,7 +115,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13842
 # Query Optimization Crash Course
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Edward Pollack
 ## Title: Query Optimization Crash Course
@@ -125,7 +125,7 @@ This is a fun, fast-paced walkthrough of the most effective strategies for query
 #  
 #### SessionID: 13843
 # My Favorite DMVs
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Edward Pollack
 ## Title: My Favorite DMVs
@@ -135,7 +135,7 @@ We will dig into some of the most useful DMVs available and review some real-wor
 #  
 #### SessionID: 14522
 # SQL Server 2012 AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: George Walters
 ## Title: SQL Server 2012 AlwaysOn Availability Groups
@@ -144,7 +144,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 14524
 # SQL Server 2012 Performance Tuning
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: George Walters
 ## Title: SQL Server 2012 Performance Tuning
@@ -153,7 +153,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 14749
 # Database Backups for the Accidental DBA
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Grant Fritchey
 ## Title: Database Backups for the Accidental DBA
@@ -162,7 +162,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 14750
 # Tune Queries By Fixing Bad Parameter Sniffing 
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Grant Fritchey
 ## Title: Tune Queries By Fixing Bad Parameter Sniffing 
@@ -171,7 +171,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 14997
 # Full-Text Search, it's not just for documents
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jay Holliday
 ## Title: Full-Text Search, it's not just for documents
@@ -180,7 +180,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 15694
 # Extend Your Knowledge with Extended Events!
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Janis Griffin
 ## Title: Extend Your Knowledge with Extended Events!
@@ -191,7 +191,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 15695
 # Don't Panic, DBAs!  Databases on VMware made easy.
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Janis Griffin
 ## Title: Don't Panic, DBAs!  Databases on VMware made easy.
@@ -200,7 +200,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 17407
 # Policy-Based Management in a Nutshell
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Jorge Segarra
 ## Title: Policy-Based Management in a Nutshell
@@ -209,7 +209,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 17408
 # Do More With Less: Consolidate and Virtualize
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Jorge Segarra
 ## Title: Do More With Less: Consolidate and Virtualize
@@ -218,7 +218,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 17880
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -227,7 +227,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17881
 # $#*! Your Database Says About Me
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Karen Lopez
 ## Title: $#*! Your Database Says About Me
@@ -236,7 +236,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 20529
 # How Not to Be a Cranky DBA
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mike Hillwig
 ## Title: How Not to Be a Cranky DBA
@@ -245,7 +245,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20531
 # What the VLF? 
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mike Hillwig
 ## Title: What the VLF? 
@@ -259,7 +259,7 @@ In this more advanced session, veteran DBA Mike Hillwig will show you what VLFs 
 #  
 #### SessionID: 20649
 # Troubleshooting your TCP/IP connections
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mike Hays
 ## Title: Troubleshooting your TCP/IP connections
@@ -268,7 +268,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21143
 # Installing SQL Server 2012 and what the heck is SSMS
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Matt Slocum
 ## Title: Installing SQL Server 2012 and what the heck is SSMS
@@ -277,7 +277,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 21443
 # SQL Server Data Tools: Write it, test it, deploy it with Visual Studio
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Robert Schoedel
 ## Title: SQL Server Data Tools: Write it, test it, deploy it with Visual Studio
@@ -286,7 +286,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 26181
 # Windowing Functions: THE Reason to Upgrade to 2012
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012
@@ -295,7 +295,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 26182
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -304,7 +304,7 @@ Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 26184
 # Indexing Deep Dive
-#### [Back to calendar](#SQLSaturday-#209---Rochester,-NY-2013)
+#### [Back to calendar](#SQLSaturday-#209-Rochester,-NY-2013)
 Event Date: 11-05-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Kevin Boles
 ## Title: Indexing Deep Dive

@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11988
 # Introducing Microsoft Power Query
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Craig Bryden
 ## Title: Introducing Microsoft Power Query
@@ -32,7 +32,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 13240
 # Drop your DAX
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Darren Gosbell
 ## Title: Drop your DAX
@@ -47,7 +47,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14724
 # Kick-ass Ad-hoc Cube Browser build in SSRS 2014
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Grant Paisley
 ## Title: Kick-ass Ad-hoc Cube Browser build in SSRS 2014
@@ -60,7 +60,7 @@ The techniques we will discuss are based on concepts in the books “Advanced Re
 #  
 #### SessionID: 14829
 # Why compression matters so much for SQL Server and BI
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Greg Low
 ## Title: Why compression matters so much for SQL Server and BI
@@ -69,7 +69,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 15191
 # T-SQL Performance Guidelines for better DB stress powers
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for better DB stress powers
@@ -78,7 +78,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 16917
 # Building Your Myth Busting Lab With Power BI
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Julie Koesmarno
 ## Title: Building Your Myth Busting Lab With Power BI
@@ -87,7 +87,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18670
 # Data Quality Services (Deep dive)
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Konstantin Khomyakov
 ## Title: Data Quality Services (Deep dive)
@@ -98,7 +98,7 @@ In this session two new controls will be introduced: DQS Domain Value Import and
 #  
 #### SessionID: 19730
 # Automating Deployments with Powershell
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Martin Cairney
 ## Title: Automating Deployments with Powershell
@@ -109,7 +109,7 @@ This session will show how Powershell can be used to prep the servers (including
 #  
 #### SessionID: 19758
 # Event notifications for the proactive DBA
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Martin Catherall
 ## Title: Event notifications for the proactive DBA
@@ -118,7 +118,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 20007
 # Agile BI with SQL Server 2014 and TFS 2013
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Mohamed Kabiruddin
 ## Title: Agile BI with SQL Server 2014 and TFS 2013
@@ -127,7 +127,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 21935
 # VARIGENCE AUSTRALIA - Build an Integrated Metadata Framework
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Peter Avenant
 ## Title: VARIGENCE AUSTRALIA - Build an Integrated Metadata Framework
@@ -142,7 +142,7 @@ http://bimlscript.com/Walkthrough/Details/2074
 #  
 #### SessionID: 21990
 # Introduction to SQL Server Data Mining
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Peter Myers
 ## Title: Introduction to SQL Server Data Mining
@@ -151,7 +151,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 22374
 # Analytical Data Mining - Using Data Mining to Understand Data
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Paul te Braak
 ## Title: Analytical Data Mining - Using Data Mining to Understand Data
@@ -162,7 +162,7 @@ SQL Server Analysis Services includes a data mining engine that can be used at v
 #  
 #### SessionID: 23225
 # The Incredible Shrinking Execution Plan
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Rob Farley
 ## Title: The Incredible Shrinking Execution Plan
@@ -171,7 +171,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 23377
 # Hour of Power BI
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Rod Colledge
 ## Title: Hour of Power BI
@@ -188,7 +188,7 @@ In addition to answering the above questions, Rod will build a Power BI solution
 #  
 #### SessionID: 23426
 # Leveraging SQL Spatial Analytics for Making Business Decisions
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Rolf Tesmer
 ## Title: Leveraging SQL Spatial Analytics for Making Business Decisions
@@ -197,7 +197,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 27410
 # Understanding SQL Server 2014's In-Memory OLTP Table Technology
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Victor Isakov
 ## Title: Understanding SQL Server 2014's In-Memory OLTP Table Technology
@@ -206,7 +206,7 @@ Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 27656
 # Performance Eye for the SQL Guy
-#### [Back to calendar](#SQLSaturday-#296---Melbourne-2014)
+#### [Back to calendar](#SQLSaturday-#296-Melbourne-2014)
 Event Date: 05-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Warwick Rudd
 ## Title: Performance Eye for the SQL Guy

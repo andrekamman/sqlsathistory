@@ -21,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 64630
 # An introduction to Data Mining  with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#659---Durban-2017)
+#### [Back to calendar](#SQLSaturday-#659-Durban-2017)
 Event Date: 16-09-2017 - Session time: 14:45:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: An introduction to Data Mining  with SQL Server 2016
@@ -42,7 +42,7 @@ In this hands on BEGINNERS presentation we shall be looking at Microsoft SQL Ser
 #  
 #### SessionID: 66583
 # What is a Database?
-#### [Back to calendar](#SQLSaturday-#659---Durban-2017)
+#### [Back to calendar](#SQLSaturday-#659-Durban-2017)
 Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Rory Bolle
 ## Title: What is a Database?
@@ -53,7 +53,7 @@ This session is designed to give a respectful nod to all the things you "Get for
 #  
 #### SessionID: 67009
 # Getting started with Power BI
-#### [Back to calendar](#SQLSaturday-#659---Durban-2017)
+#### [Back to calendar](#SQLSaturday-#659-Durban-2017)
 Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Michael Johnson
 ## Title: Getting started with Power BI
@@ -64,7 +64,7 @@ You will learn how PowerBI can connect to data that exists on-premise as well as
 #  
 #### SessionID: 64896
 # Exploring Twitter Campaigns, Facebook and Google Analytics data in PowerBI
-#### [Back to calendar](#SQLSaturday-#659---Durban-2017)
+#### [Back to calendar](#SQLSaturday-#659-Durban-2017)
 Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Jeanne Combrinck
 ## Title: Exploring Twitter Campaigns, Facebook and Google Analytics data in PowerBI
@@ -73,7 +73,7 @@ Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 66543
 # A Lap Around New Developer Features in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#659---Durban-2017)
+#### [Back to calendar](#SQLSaturday-#659-Durban-2017)
 Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Niels Berglund
 ## Title: A Lap Around New Developer Features in SQL Server 2017
@@ -82,7 +82,7 @@ Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 67841
 # Jump Start Into SQL Development
-#### [Back to calendar](#SQLSaturday-#659---Durban-2017)
+#### [Back to calendar](#SQLSaturday-#659-Durban-2017)
 Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Ruben Meyer
 ## Title: Jump Start Into SQL Development
@@ -96,7 +96,7 @@ We will be taking you through a few key concepts along with practical examples:
 #  
 #### SessionID: 67152
 # Adaptive Query Plans? What’s up with that?
-#### [Back to calendar](#SQLSaturday-#659---Durban-2017)
+#### [Back to calendar](#SQLSaturday-#659-Durban-2017)
 Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Gail Shaw
 ## Title: Adaptive Query Plans? What’s up with that?
@@ -107,7 +107,7 @@ This session will show why this is a radical departure from the way that things 
 #  
 #### SessionID: 67777
 # Transactions...because ACID can save you
-#### [Back to calendar](#SQLSaturday-#659---Durban-2017)
+#### [Back to calendar](#SQLSaturday-#659-Durban-2017)
 Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Jonathan Pillay
 ## Title: Transactions...because ACID can save you
@@ -117,7 +117,7 @@ Let's take a dive into the details and see how we can use Transactions to code d
 #  
 #### SessionID: 69406
 # Get started with R
-#### [Back to calendar](#SQLSaturday-#659---Durban-2017)
+#### [Back to calendar](#SQLSaturday-#659-Durban-2017)
 Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Luis de Sousa
 ## Title: Get started with R
@@ -127,7 +127,7 @@ We'll cover reading data into R, accessing R packages, writing R functions, and 
 #  
 #### SessionID: 64766
 # Introduction to Database Design
-#### [Back to calendar](#SQLSaturday-#659---Durban-2017)
+#### [Back to calendar](#SQLSaturday-#659-Durban-2017)
 Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Sean Cremer
 ## Title: Introduction to Database Design
@@ -136,7 +136,7 @@ Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 66542
 # Real World Example of Using R in SQL Server
-#### [Back to calendar](#SQLSaturday-#659---Durban-2017)
+#### [Back to calendar](#SQLSaturday-#659-Durban-2017)
 Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Niels Berglund
 ## Title: Real World Example of Using R in SQL Server
@@ -145,7 +145,7 @@ Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 67358
 # Shedding some light on Windowing Functions
-#### [Back to calendar](#SQLSaturday-#659---Durban-2017)
+#### [Back to calendar](#SQLSaturday-#659-Durban-2017)
 Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Information Delivery
 ## Speaker: James McGillivray
 ## Title: Shedding some light on Windowing Functions
@@ -158,7 +158,7 @@ In this session, we'll combine these unlikely bedfellows, by using The Beatles' 
 #  
 #### SessionID: 64627
 # Efficient and Effective coding of Stored Procedures
-#### [Back to calendar](#SQLSaturday-#659---Durban-2017)
+#### [Back to calendar](#SQLSaturday-#659-Durban-2017)
 Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Information Delivery
 ## Speaker: Steve Simon
 ## Title: Efficient and Effective coding of Stored Procedures
@@ -168,7 +168,7 @@ In this hands-on presentation, we shall be looking at best practices with regard
 #  
 #### SessionID: 64991
 # Docker => Containers => Service Fabric => SQL
-#### [Back to calendar](#SQLSaturday-#659---Durban-2017)
+#### [Back to calendar](#SQLSaturday-#659-Durban-2017)
 Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Clinton van Blommestein
 ## Title: Docker => Containers => Service Fabric => SQL
@@ -179,7 +179,7 @@ In this session we will look at what these various pieces of software are, what 
 #  
 #### SessionID: 67150
 # Parameter sniffing and other cases of the confused optimiser
-#### [Back to calendar](#SQLSaturday-#659---Durban-2017)
+#### [Back to calendar](#SQLSaturday-#659-Durban-2017)
 Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Gail Shaw
 ## Title: Parameter sniffing and other cases of the confused optimiser
@@ -194,7 +194,7 @@ Along the way you’ll learn enough about the behaviour of the optimiser to be a
 #  
 #### SessionID: 68447
 # Data without technology
-#### [Back to calendar](#SQLSaturday-#659---Durban-2017)
+#### [Back to calendar](#SQLSaturday-#659-Durban-2017)
 Event Date: 16-09-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Jody Roberts
 ## Title: Data without technology

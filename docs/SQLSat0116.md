@@ -16,7 +16,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28966
 # Demsytifying SQL Server Memory Dumps
-#### [Back to calendar](#SQLSaturday-#116---Bangalore-2012)
+#### [Back to calendar](#SQLSaturday-#116-Bangalore-2012)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Practical Track
 ## Speaker: Amit Banerjee
 ## Title: Demsytifying SQL Server Memory Dumps
@@ -25,7 +25,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Practical Track
 #  
 #### SessionID: 29089
 # Want Databases Always Available?AlwaysOn Unplugged
-#### [Back to calendar](#SQLSaturday-#116---Bangalore-2012)
+#### [Back to calendar](#SQLSaturday-#116-Bangalore-2012)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Main Track
 ## Speaker: Balmukund Lakhani
 ## Title: Want Databases Always Available?AlwaysOn Unplugged
@@ -34,7 +34,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Main Track
 #  
 #### SessionID: 31173
 # BI in Denali
-#### [Back to calendar](#SQLSaturday-#116---Bangalore-2012)
+#### [Back to calendar](#SQLSaturday-#116-Bangalore-2012)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Practical Track
 ## Speaker: Karan Gulati
 ## Title: BI in Denali
@@ -47,7 +47,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Practical Track
 #  
 #### SessionID: 31175
 # Keynote
-#### [Back to calendar](#SQLSaturday-#116---Bangalore-2012)
+#### [Back to calendar](#SQLSaturday-#116-Bangalore-2012)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Practical Track
 ## Speaker: Karan Gulati
 ## Title: Keynote
@@ -56,7 +56,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Practical Track
 #  
 #### SessionID: 31206
 # SQL Sever Dev Tools - Code Name Juneau
-#### [Back to calendar](#SQLSaturday-#116---Bangalore-2012)
+#### [Back to calendar](#SQLSaturday-#116-Bangalore-2012)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Main Track
 ## Speaker: Lohith GN
 ## Title: SQL Sever Dev Tools - Code Name Juneau
@@ -65,7 +65,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Main Track
 #  
 #### SessionID: 32232
 # SQL Server Performance Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#116---Bangalore-2012)
+#### [Back to calendar](#SQLSaturday-#116-Bangalore-2012)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Main Track
 ## Speaker: Pinal Dave
 ## Title: SQL Server Performance Tips and Tricks
@@ -83,7 +83,7 @@ o	A Surprise Secret Tip
 #  
 #### SessionID: 32328
 # A Whirlwind Tour of Contained Databases and TSQL e
-#### [Back to calendar](#SQLSaturday-#116---Bangalore-2012)
+#### [Back to calendar](#SQLSaturday-#116-Bangalore-2012)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Practical Track
 ## Speaker: Pranab Mazumdar
 ## Title: A Whirlwind Tour of Contained Databases and TSQL e
@@ -92,7 +92,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Practical Track
 #  
 #### SessionID: 32507
 # Basic Performance Tips and Gotchas
-#### [Back to calendar](#SQLSaturday-#116---Bangalore-2012)
+#### [Back to calendar](#SQLSaturday-#116-Bangalore-2012)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Main Track
 ## Speaker: Rick  Morelan
 ## Title: Basic Performance Tips and Gotchas
@@ -101,7 +101,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Main Track
 #  
 #### SessionID: 32508
 # Avoid Errors on Errors
-#### [Back to calendar](#SQLSaturday-#116---Bangalore-2012)
+#### [Back to calendar](#SQLSaturday-#116-Bangalore-2012)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Main Track
 ## Speaker: Rick  Morelan
 ## Title: Avoid Errors on Errors
@@ -110,7 +110,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Main Track
 #  
 #### SessionID: 33352
 # SQL Server Clinic
-#### [Back to calendar](#SQLSaturday-#116---Bangalore-2012)
+#### [Back to calendar](#SQLSaturday-#116-Bangalore-2012)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Practical Track
 ## Speaker: Tejas Shah
 ## Title: SQL Server Clinic
@@ -119,7 +119,7 @@ Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Practical Track
 #  
 #### SessionID: 33841
 # Security with SQL Server - Discovering Pitfalls
-#### [Back to calendar](#SQLSaturday-#116---Bangalore-2012)
+#### [Back to calendar](#SQLSaturday-#116-Bangalore-2012)
 Event Date: 07-01-2012 - Session time: 00:00:00 - Track: Main Track
 ## Speaker: Vinod Kumar M
 ## Title: Security with SQL Server - Discovering Pitfalls

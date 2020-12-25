@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11573
 # Advanced SQL Server 2012 HA and DR Architectures
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Christian Bolton
 ## Title: Advanced SQL Server 2012 HA and DR Architectures
@@ -40,7 +40,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 12061
 # Session Details not available
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: n/a n/a
 ## Title: Session Details not available
@@ -49,7 +49,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 12202
 # Estimation, Statistics and “Oh My!”
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dave Ballantyne
 ## Title: Estimation, Statistics and “Oh My!”
@@ -60,7 +60,7 @@ This will be a deep dive into how the optimizer makes its decisions to give you 
 #  
 #### SessionID: 12316
 # "I'm sure my procedure does what it should!"
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dave Green
 ## Title: "I'm sure my procedure does what it should!"
@@ -71,7 +71,7 @@ In this brisk session we will discuss some of the reasons to unit test your proc
 #  
 #### SessionID: 12821
 # Myth Busters! Busting Common TSQL Myths
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Morrison
 ## Title: Myth Busters! Busting Common TSQL Myths
@@ -81,7 +81,7 @@ We will look at areas such as Indexing / SARGability, joins  sub queries, nested
 #  
 #### SessionID: 15301
 # A temporary fix for a short term problem 
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ian Meade
 ## Title: A temporary fix for a short term problem 
@@ -93,7 +93,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 15540
 # Professional PowerShell
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: James Boother
 ## Title: Professional PowerShell
@@ -112,7 +112,7 @@ This is an opportunity for you to see the important new features first hand.
 #  
 #### SessionID: 15658
 # Declarative database development with SSDT
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jamie Thomson
 ## Title: Declarative database development with SSDT
@@ -121,7 +121,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 17170
 # SQL Sever, the DBA  Compliance
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: John Martin
 ## Title: SQL Sever, the DBA  Compliance
@@ -132,7 +132,7 @@ Information Heavy and Demo Light, this session will help you identify what you n
 #  
 #### SessionID: 17337
 # Tracking server activity without slowing it down
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jonathan Allen
 ## Title: Tracking server activity without slowing it down
@@ -143,7 +143,7 @@ Event Notifications is a very light-weight, asynchronous mechanism for identifyi
 #  
 #### SessionID: 17603
 # Thinking Big  Understanding PDW
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: James Rowland-Jones
 ## Title: Thinking Big  Understanding PDW
@@ -156,7 +156,7 @@ You will leave this session understanding why you should be thinking about PDW f
 #  
 #### SessionID: 18705
 # Welcome to the Licensing Nightmare 
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Tobias Koprowski
 ## Title: Welcome to the Licensing Nightmare 
@@ -166,7 +166,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 19551
 # READPAST  Furious-Transactions,LockingIsolation
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mark Broadbent
 ## Title: READPAST  Furious-Transactions,LockingIsolation
@@ -182,7 +182,7 @@ I look forward to you joining me in this very revealing and thought provoking se
 #  
 #### SessionID: 19681
 # Cloudbursting - Amazon RDS for SQL Vs SQL Azure
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Mark Pryce-Maher
 ## Title: Cloudbursting - Amazon RDS for SQL Vs SQL Azure
@@ -197,7 +197,7 @@ If the demo gods are with us, will can see they both in action and you can see f
 #  
 #### SessionID: 20022
 # An Introduction to SQL Server Virtualisation
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Gethyn Ellis
 ## Title: An Introduction to SQL Server Virtualisation
@@ -206,7 +206,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21037
 # Table Indexing for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Denny Cherry
 ## Title: Table Indexing for the .NET Developer
@@ -215,7 +215,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 21331
 # Why are we Waiting..
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Neil Hambly
 ## Title: Why are we Waiting..
@@ -232,7 +232,7 @@ And @ several UK User Groups
 #  
 #### SessionID: 22117
 # XML: The Marmite of SQL Server
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Phil Quinn
 ## Title: XML: The Marmite of SQL Server
@@ -241,7 +241,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 22686
 # Natural Born Killers, performance issues to avoid
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Lord Richard Douglas
 ## Title: Natural Born Killers, performance issues to avoid
@@ -257,7 +257,7 @@ Plus, you’ll learn how to take corrective action when:
 #  
 #### SessionID: 22815
 # Power View and the Cube
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Regis Baccaro
 ## Title: Power View and the Cube
@@ -272,7 +272,7 @@ The session we'll present
 #  
 #### SessionID: 24763
 # SQL Injection from website to SQL Server
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mladen Prajdić
 ## Title: SQL Injection from website to SQL Server
@@ -284,7 +284,7 @@ In this session we'll look at how would an attacker go about using SQL Injection
 #  
 #### SessionID: 27391
 # Quantifying the cost of Compression
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Thomas Kejser 
 ## Title: Quantifying the cost of Compression
@@ -293,7 +293,7 @@ Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28204
 # Database Replication - What, How and Why
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: William Durkin
 ## Title: Database Replication - What, How and Why
@@ -308,7 +308,7 @@ The content will be valid for all versions of SQL Server from 2005 onward,
 #  
 #### SessionID: 34575
 # ETL Shootout, SSIS vs Powershell
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: André Kamman
 ## Title: ETL Shootout, SSIS vs Powershell
@@ -321,7 +321,7 @@ This session will be around 70% "why is this hard in SSIS and can you work aroun
 #  
 #### SessionID: 34630
 # Star Schema database primer
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Eric Lawson
 ## Title: Star Schema database primer
@@ -338,7 +338,7 @@ In this session we cover
 #  
 #### SessionID: 9214
 # MDX 101
-#### [Back to calendar](#SQLSaturday-#194---Exeter-2013)
+#### [Back to calendar](#SQLSaturday-#194-Exeter-2013)
 Event Date: 09-03-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Alex Whittles
 ## Title: MDX 101

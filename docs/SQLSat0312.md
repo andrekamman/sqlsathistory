@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10218
 # SQL Server TDE
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Ben Miller
 ## Title: SQL Server TDE
@@ -45,7 +45,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 10839
 # SQL 2012 Extended Events
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Extended Events
@@ -54,7 +54,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 12127
 # Benchmark your SQL server storage system
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: DIlip nayak
 ## Title: Benchmark your SQL server storage system
@@ -63,7 +63,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 13879
 # PowerShell - Making the most of SQL Server Commandlets
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Eric Courville
 ## Title: PowerShell - Making the most of SQL Server Commandlets
@@ -72,7 +72,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 14349
 # What is the cardinality estimator?
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Eric Freeman
 ## Title: What is the cardinality estimator?
@@ -81,7 +81,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 15821
 # Dimensional Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond Basics
@@ -90,7 +90,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 16168
 # The Modern Analytics Architecture
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Joseph D'Antoni
 ## Title: The Modern Analytics Architecture
@@ -99,7 +99,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16817
 # AlwaysOn - Finally, A usable 'mirror'!
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Jim Murphy
 ## Title: AlwaysOn - Finally, A usable 'mirror'!
@@ -108,7 +108,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 17851
 # Hekaton Data: A Whole New World
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kalen Delaney
 ## Title: Hekaton Data: A Whole New World
@@ -117,7 +117,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 18856
 # The Curious Case of Isolation Levels
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Keith Tate
 ## Title: The Curious Case of Isolation Levels
@@ -126,7 +126,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 20142
 # Violin Memory Lunch Session: Flash Storage 101 and How it Modernizes Database Design
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Matt Henderson
 ## Title: Violin Memory Lunch Session: Flash Storage 101 and How it Modernizes Database Design
@@ -135,7 +135,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20401
 # Scalable SSRS Reports Achieved Through the Powerful Tablix
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Mickey Stuewe
 ## Title: Scalable SSRS Reports Achieved Through the Powerful Tablix
@@ -147,7 +147,7 @@ In this demo-heavy session, you'll learn how to create a columnar report that gr
 #  
 #### SessionID: 20402
 # Changing Your Habits to Improve the Performance of Your T-SQL
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mickey Stuewe
 ## Title: Changing Your Habits to Improve the Performance of Your T-SQL
@@ -156,7 +156,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20615
 # Tools You Probably Aren’t Using. Why Not?
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mike Tutor
 ## Title: Tools You Probably Aren’t Using. Why Not?
@@ -165,7 +165,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 20836
 # Want a promotion? It’s up to you!
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mitchell Bottel
 ## Title: Want a promotion? It’s up to you!
@@ -174,7 +174,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 22281
 # Streamlining SQL Server Implementations Across Organization
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Prakash Heda
 ## Title: Streamlining SQL Server Implementations Across Organization
@@ -183,7 +183,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 22550
 # Understanding the SQL Server Transaction Log
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Randy Knight
 ## Title: Understanding the SQL Server Transaction Log
@@ -192,7 +192,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24648
 # Introducing Power BI
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Stacia Varga
 ## Title: Introducing Power BI
@@ -201,7 +201,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24952
 # Lightning talks - SacSQLUG 
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Dan Hess
 ## Title: Lightning talks - SacSQLUG 
@@ -217,7 +217,7 @@ Joe Simmons - public relations;
 #  
 #### SessionID: 25708
 # Capture Change and Apply it With Change Data Capture  SSIS
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Steve Wake
 ## Title: Capture Change and Apply it With Change Data Capture  SSIS
@@ -226,7 +226,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 26414
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -235,7 +235,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 26416
 # Windowing Functions: THE Reason to Upgrade to 2012+
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012+
@@ -244,7 +244,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 26965
 # The Life Cycle of a Query in 3D
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Todd Kleinhans
 ## Title: The Life Cycle of a Query in 3D
@@ -253,7 +253,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 27037
 # Managing Oracle and Migrating to SQL Server: Tips from the Trenches
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Tom Keller
 ## Title: Managing Oracle and Migrating to SQL Server: Tips from the Trenches
@@ -262,7 +262,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 27107
 # SQL Server on VMWare Monitoring:  Optimized for Performance
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Trent Sherman
 ## Title: SQL Server on VMWare Monitoring:  Optimized for Performance
@@ -271,7 +271,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 34775
 # Improving Database Restores with Powershell
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Michael Fal
 ## Title: Improving Database Restores with Powershell
@@ -280,7 +280,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 9369
 # Self-Service BI Solution from Data to Report Builder 3
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jonathan Amen
 ## Title: Self-Service BI Solution from Data to Report Builder 3
@@ -289,7 +289,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 9389
 # Physical Join Operators
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ami Levin
 ## Title: Physical Join Operators
@@ -298,7 +298,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9490
 # An Analytics Sandbox in A World of Big Data
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Andrew Eichenbaum
 ## Title: An Analytics Sandbox in A World of Big Data
@@ -307,7 +307,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9559
 # Powershell 101 for the DBA
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Andrew Nakamura
 ## Title: Powershell 101 for the DBA
@@ -316,7 +316,7 @@ Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9663
 # Discover Power BI for Office 365
-#### [Back to calendar](#SQLSaturday-#312---Sacramento-2014)
+#### [Back to calendar](#SQLSaturday-#312-Sacramento-2014)
 Event Date: 12-07-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Angel Abundez
 ## Title: Discover Power BI for Office 365

@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11723
 # DARUMA
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Desenvolvimento
 ## Speaker: Claudenir Andrade
 ## Title: DARUMA
@@ -45,7 +45,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Desenvolvimento
 #  
 #### SessionID: 13061
 # Front-End de BI da Microsoft no SQL Server 2014 e SharePoint 2013
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Demetrio Silva
 ## Title: Front-End de BI da Microsoft no SQL Server 2014 e SharePoint 2013
@@ -56,7 +56,7 @@ O conhecimento das ferramentas disponíveis vai lhe ajudar no processo de avalia
 #  
 #### SessionID: 14007
 # Alta disponibilidade de SQL ao seu alcance!
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 2
 ## Speaker: SIOS Technology
 ## Title: Alta disponibilidade de SQL ao seu alcance!
@@ -65,7 +65,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 2
 #  
 #### SessionID: 14246
 # Utilizando e monitorando o CLR e Broker no SQL Server
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Administração
 ## Speaker: Marcelo Fernandes
 ## Title: Utilizando e monitorando o CLR e Broker no SQL Server
@@ -75,7 +75,7 @@ Nesta sessão você conhecerá o CLR e o Broker e como construir procedures com 
 #  
 #### SessionID: 14345
 # Troubleshooting SQL Server com DMVs 
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 2
 ## Speaker: Frederico Santos
 ## Title: Troubleshooting SQL Server com DMVs 
@@ -84,7 +84,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 2
 #  
 #### SessionID: 17559
 # MS DTC de A a Z
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 2
 ## Speaker: João Polisel
 ## Title: MS DTC de A a Z
@@ -95,7 +95,7 @@ Nesta sessão abordarei os princípios de funcionamento do MS DTC, como ele se i
 #  
 #### SessionID: 18929
 # Criando suas próprias solouções usando PowerShell 
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 1
 ## Speaker: Laerte Junior
 ## Title: Criando suas próprias solouções usando PowerShell 
@@ -111,7 +111,7 @@ Esta mais do que na hora de se enturmar com o futuro.
 #  
 #### SessionID: 19015
 # Transaction Log - Melhores Práticas
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Administração
 ## Speaker: Luiz Mercante
 ## Title: Transaction Log - Melhores Práticas
@@ -120,7 +120,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Administração
 #  
 #### SessionID: 19126
 # Usando o Hyper-v 2012 para virtualização do SQL Server
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 1
 ## Speaker: Leandro Ribeiro
 ## Title: Usando o Hyper-v 2012 para virtualização do SQL Server
@@ -133,7 +133,7 @@ Nesta sessão será apresentado a arquitetura e as novidades do Hyper-v 2012, os
 #  
 #### SessionID: 19135
 # Implementando padrões e aumentando a produtividade do DBA com Policies no SQL Server 2014    
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Desenvolvimento
 ## Speaker: Leonardo Pedroso Costa
 ## Title: Implementando padrões e aumentando a produtividade do DBA com Policies no SQL Server 2014    
@@ -144,7 +144,7 @@ Mostrarei como tirar proveito recurso e simplificar o trabalho de administracão
 #  
 #### SessionID: 19250
 # In-Memory OLTP a.k.a Hekaton 
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Administração
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: In-Memory OLTP a.k.a Hekaton 
@@ -160,7 +160,7 @@ Garbage Collector e Merge Operation Internals
 #  
 #### SessionID: 19310
 # Entendendo o paralelismo no SQL Server
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 1
 ## Speaker: Luciano Moreira
 ## Title: Entendendo o paralelismo no SQL Server
@@ -169,7 +169,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 1
 #  
 #### SessionID: 19312
 # Do MTA ao MCM*, carreira SQL Server e DBA multiplataforma
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 2
 ## Speaker: Luciano Moreira
 ## Title: Do MTA ao MCM*, carreira SQL Server e DBA multiplataforma
@@ -178,7 +178,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 2
 #  
 #### SessionID: 19439
 # Dicas e melhores práticas sobre Protheus com SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Administração
 ## Speaker: Marcel Inowe
 ## Title: Dicas e melhores práticas sobre Protheus com SQL Server 2014
@@ -187,7 +187,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Administração
 #  
 #### SessionID: 19502
 # Resource Governor 101
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Desenvolvimento
 ## Speaker: Marcos Freccia
 ## Title: Resource Governor 101
@@ -196,7 +196,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Desenvolvimento
 #  
 #### SessionID: 21244
 # MythBusters - Caçadores de Mitos
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Administração
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: MythBusters - Caçadores de Mitos
@@ -205,7 +205,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Administração
 #  
 #### SessionID: 21455
 # Minimizando o downtime de Migrações com o Database Mirroring
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 1
 ## Speaker: Nilton Pinheiro
 ## Title: Minimizando o downtime de Migrações com o Database Mirroring
@@ -214,7 +214,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 1
 #  
 #### SessionID: 21573
 # Ignite DPA - Como Melhorar o desempenho dos databases e gerar colaboração na TI
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Administração
 ## Speaker: Oduvaldo Zeferino
 ## Title: Ignite DPA - Como Melhorar o desempenho dos databases e gerar colaboração na TI
@@ -223,7 +223,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Administração
 #  
 #### SessionID: 21610
 # Computação em Nuvem e SQL Azure
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Desenvolvimento
 ## Speaker: Ozimar Souza
 ## Title: Computação em Nuvem e SQL Azure
@@ -232,7 +232,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Desenvolvimento
 #  
 #### SessionID: 22131
 # Como lidar com 1, 10 , 100 e 1024 GB no seu banco de dados
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Desenvolvimento
 ## Speaker: Mauro Pichiliani
 ## Title: Como lidar com 1, 10 , 100 e 1024 GB no seu banco de dados
@@ -241,7 +241,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Desenvolvimento
 #  
 #### SessionID: 22434
 # Automatizando um ambiente de Big Data escalável no Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Rafael Godinho / Viviane Ribeiro
 ## Title: Automatizando um ambiente de Big Data escalável no Microsoft Azure
@@ -250,7 +250,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 22979
 # Disponibilidade Parcial e Restauração Online
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 1
 ## Speaker: Ricardo Leka
 ## Title: Disponibilidade Parcial e Restauração Online
@@ -260,7 +260,7 @@ Vamos configurar o SQL para suportar perda de partes da estrutura da base e mesm
 #  
 #### SessionID: 23375
 # BI Tabular x MultiDimensional  x Derivativos  aspectos
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Roberval Ranches
 ## Title: BI Tabular x MultiDimensional  x Derivativos  aspectos
@@ -269,7 +269,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 23401
 # Estratégias de Backup e Recovery
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 1
 ## Speaker: Rodrigo Crespi
 ## Title: Estratégias de Backup e Recovery
@@ -279,7 +279,7 @@ Nesta sessão irei falar sobre a estrutura do Backup no SQL Server e as formas d
 #  
 #### SessionID: 26553
 # Alem do NNF - Next Next Finish
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Desenvolvimento
 ## Speaker: Tiago Balabuch
 ## Title: Alem do NNF - Next Next Finish
@@ -289,7 +289,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Desenvolvimento
 #  
 #### SessionID: 27495
 # Monitorando o SQL Server com Extended Events
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Administração
 ## Speaker: Vitor Fava
 ## Title: Monitorando o SQL Server com Extended Events
@@ -300,7 +300,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Administração
 #  
 #### SessionID: 27502
 # Desenvolvendo Soluções para BIG Data no Microsoft Azure HDInsight
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Viviane Ribeiro
 ## Title: Desenvolvendo Soluções para BIG Data no Microsoft Azure HDInsight
@@ -309,7 +309,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 28331
 # Analysis Services Internals
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Thiago Zavaschi
 ## Title: Analysis Services Internals
@@ -318,7 +318,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 28333
 # Junte, manipule e conecte dados com o Power Query
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 2
 ## Speaker: Thiago Zavaschi
 ## Title: Junte, manipule e conecte dados com o Power Query
@@ -327,7 +327,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Miscellaneous 2
 #  
 #### SessionID: 34617
 # Monitorando grandes ambientes com o Data Collector
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Dennes Torres
 ## Title: Monitorando grandes ambientes com o Data Collector
@@ -337,7 +337,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 9210
 # Tuning do inicio ao fim!
-#### [Back to calendar](#SQLSaturday-#325---São-Paulo-2014)
+#### [Back to calendar](#SQLSaturday-#325-São-Paulo-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Desenvolvimento
 ## Speaker: Thiago Carlos de Alencar
 ## Title: Tuning do inicio ao fim!

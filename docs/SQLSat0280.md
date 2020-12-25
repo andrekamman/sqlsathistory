@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10919
 # Replay your workload as it's your actual one!
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: A - Administration
 ## Speaker: Boris Hristov
 ## Title: Replay your workload as it's your actual one!
@@ -37,7 +37,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: A - Administration
 #  
 #### SessionID: 10920
 # The nightmare of locking, blocking and isolation levels!
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: A - Administration
 ## Speaker: Boris Hristov
 ## Title: The nightmare of locking, blocking and isolation levels!
@@ -46,7 +46,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: A - Administration
 #  
 #### SessionID: 11790
 # SQL Server Data Tools - The IDE for database developers
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: D - Development
 ## Speaker: Constantin Klein
 ## Title: SQL Server Data Tools - The IDE for database developers
@@ -59,7 +59,7 @@ This session aims to change that and to provide an overview of the advantages an
 #  
 #### SessionID: 13528
 # Temporal Data in SQL Server
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: D - Development
 ## Speaker: Dejan Sarka
 ## Title: Temporal Data in SQL Server
@@ -68,7 +68,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: D - Development
 #  
 #### SessionID: 15408
 # Clustered Columnstore Deep Dive
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: A - Administration
 ## Speaker: Niko Neugebauer
 ## Title: Clustered Columnstore Deep Dive
@@ -77,7 +77,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: A - Administration
 #  
 #### SessionID: 15430
 # Product-Demo: MelissaData
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: D - Development
 ## Speaker: Inna Selipanov
 ## Title: Product-Demo: MelissaData
@@ -86,7 +86,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: D - Development
 #  
 #### SessionID: 16404
 # WiT-Panel
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: C - Cloud
 ## Speaker: Jen Stirrup
 ## Title: WiT-Panel
@@ -95,7 +95,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: C - Cloud
 #  
 #### SessionID: 16408
 # The 'Secret Sauce' in your Big Data: R, HDInsight and PowerBI
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: C - Cloud
 ## Speaker: Jen Stirrup
 ## Title: The 'Secret Sauce' in your Big Data: R, HDInsight and PowerBI
@@ -104,7 +104,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: C - Cloud
 #  
 #### SessionID: 18116
 # SQL anti patterns
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: D - Development
 ## Speaker: Kennie Pontoppidan
 ## Title: SQL anti patterns
@@ -115,7 +115,7 @@ We will become acquainted with antipatterns on a physical level, a logical level
 #  
 #### SessionID: 19685
 # Opening  Keynote
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: D - Development
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Opening  Keynote
@@ -124,7 +124,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: D - Development
 #  
 #### SessionID: 21998
 # Preparing a Tabular Data Model for Power View Reporting
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: B - Business Intelligence  Big Data
 ## Speaker: Peter Myers
 ## Title: Preparing a Tabular Data Model for Power View Reporting
@@ -133,7 +133,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: B - Business Intelligen
 #  
 #### SessionID: 22831
 # ETL for the masses with Power Query and "M"
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: C - Cloud
 ## Speaker: Regis Baccaro
 ## Title: ETL for the masses with Power Query and "M"
@@ -145,7 +145,7 @@ In this demo-driven session I will show how you can use Power Query to do some i
 #  
 #### SessionID: 23508
 # Optimizing BI with SQL2014 In-Memory tables
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: B - Business Intelligence  Big Data
 ## Speaker: Rasmus Reinholdt
 ## Title: Optimizing BI with SQL2014 In-Memory tables
@@ -156,7 +156,7 @@ The session will use the latest CTP release and is constantly updated to include
 #  
 #### SessionID: 23571
 # Product-Demo: Idera
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: A - Administration
 ## Speaker: Rudolf Brandstötter
 ## Title: Product-Demo: Idera
@@ -165,7 +165,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: A - Administration
 #  
 #### SessionID: 24176
 # SQL Server HA and DR in a Windows Azure Virtual Machine – Deep Dive
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: C - Cloud
 ## Speaker: Scott Klein
 ## Title: SQL Server HA and DR in a Windows Azure Virtual Machine – Deep Dive
@@ -174,7 +174,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: C - Cloud
 #  
 #### SessionID: 24177
 # Windows Azure SQL Database - your cloud database and why you need it
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: C - Cloud
 ## Speaker: Scott Klein
 ## Title: Windows Azure SQL Database - your cloud database and why you need it
@@ -183,7 +183,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: C - Cloud
 #  
 #### SessionID: 25106
 # Scaling Analysis Services in the Cloud
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: C - Cloud
 ## Speaker: Gerhard Brueckl
 ## Title: Scaling Analysis Services in the Cloud
@@ -192,7 +192,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: C - Cloud
 #  
 #### SessionID: 25971
 # Siena calling! Project Siena a RBID App?
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: B - Business Intelligence  Big Data
 ## Speaker: Tillmann Eitelberg
 ## Title: Siena calling! Project Siena a RBID App?
@@ -201,7 +201,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: B - Business Intelligen
 #  
 #### SessionID: 26397
 # Windowing Functions: THE Reason to Upgrade to 2012
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: D - Development
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012
@@ -210,7 +210,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: D - Development
 #  
 #### SessionID: 26399
 # Indexing Deep Dive
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: A - Administration
 ## Speaker: Kevin Boles
 ## Title: Indexing Deep Dive
@@ -219,7 +219,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: A - Administration
 #  
 #### SessionID: 27552
 # Product-Demo: cubido
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: B - Business Intelligence  Big Data
 ## Speaker: Wolfgang Ennikl
 ## Title: Product-Demo: cubido
@@ -228,7 +228,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: B - Business Intelligen
 #  
 #### SessionID: 27553
 # SQL2014 InMemory OLTP - Features, Limitations, Reasons and Workarounds
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: A - Administration
 ## Speaker: Wolfgang Rick Kutschera
 ## Title: SQL2014 InMemory OLTP - Features, Limitations, Reasons and Workarounds
@@ -237,7 +237,7 @@ Event Date: 06-03-2014 - Session time: 00:00:00 - Track: A - Administration
 #  
 #### SessionID: 28301
 # MDS + DQS + SSIS = EIM or How to build master data management solution
-#### [Back to calendar](#SQLSaturday-#280---Vienna-2014)
+#### [Back to calendar](#SQLSaturday-#280-Vienna-2014)
 Event Date: 06-03-2014 - Session time: 00:00:00 - Track: B - Business Intelligence  Big Data
 ## Speaker: Andrey Zavadskiy
 ## Title: MDS + DQS + SSIS = EIM or How to build master data management solution

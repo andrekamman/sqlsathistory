@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 35048
 # Performance Tuning with SQL Server 200
-#### [Back to calendar](#SQLSaturday-#12---Portland-2009)
+#### [Back to calendar](#SQLSaturday-#12-Portland-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Buck Woody
 ## Title: Performance Tuning with SQL Server 200
@@ -26,7 +26,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 35110
 # XML and Relational Databases
-#### [Back to calendar](#SQLSaturday-#12---Portland-2009)
+#### [Back to calendar](#SQLSaturday-#12-Portland-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Eric  Wilson
 ## Title: XML and Relational Databases
@@ -35,7 +35,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 35128
 # T-SQL Best Practices
-#### [Back to calendar](#SQLSaturday-#12---Portland-2009)
+#### [Back to calendar](#SQLSaturday-#12-Portland-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Greg Larsen
 ## Title: T-SQL Best Practices
@@ -45,7 +45,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 35236
 # SQL Indexes Implementation in Practice
-#### [Back to calendar](#SQLSaturday-#12---Portland-2009)
+#### [Back to calendar](#SQLSaturday-#12-Portland-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Joshua Jin
 ## Title: SQL Indexes Implementation in Practice
@@ -63,7 +63,7 @@ During the session, your questions and sharing your experience/knowledge are hig
 #  
 #### SessionID: 35344
 # Developing and Designing Super Reports
-#### [Back to calendar](#SQLSaturday-#12---Portland-2009)
+#### [Back to calendar](#SQLSaturday-#12-Portland-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Paul Turley
 ## Title: Developing and Designing Super Reports
@@ -72,7 +72,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 35345
 # Implementing a Self-Service Reporting Strategy wit
-#### [Back to calendar](#SQLSaturday-#12---Portland-2009)
+#### [Back to calendar](#SQLSaturday-#12-Portland-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Paul Turley
 ## Title: Implementing a Self-Service Reporting Strategy wit
@@ -81,7 +81,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 35346
 # High Availability on SQL Server
-#### [Back to calendar](#SQLSaturday-#12---Portland-2009)
+#### [Back to calendar](#SQLSaturday-#12-Portland-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Paul Bertucci
 ## Title: High Availability on SQL Server
@@ -92,7 +92,7 @@ This presentation covers assessing, planning, choosing, implementing and adminis
 #  
 #### SessionID: 35385
 # Bridging the BI Chasm 
-#### [Back to calendar](#SQLSaturday-#12---Portland-2009)
+#### [Back to calendar](#SQLSaturday-#12-Portland-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Rachel Dyer
 ## Title: Bridging the BI Chasm 
@@ -101,7 +101,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 35396
 # Perf Testing 2008’s Transparent Data Encryption
-#### [Back to calendar](#SQLSaturday-#12---Portland-2009)
+#### [Back to calendar](#SQLSaturday-#12-Portland-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Rob Garrison
 ## Title: Perf Testing 2008’s Transparent Data Encryption
@@ -114,7 +114,7 @@ How much will TDE affect performance in an OLTP environment? This session will h
 #  
 #### SessionID: 35397
 # Understanding SQL Injection (DB Devs and Admins)
-#### [Back to calendar](#SQLSaturday-#12---Portland-2009)
+#### [Back to calendar](#SQLSaturday-#12-Portland-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Rob Garrison
 ## Title: Understanding SQL Injection (DB Devs and Admins)
@@ -125,7 +125,7 @@ This session will help you understand what SQL injection is, why it is a risk fo
 #  
 #### SessionID: 35414
 # Sql Server 2008 Compression
-#### [Back to calendar](#SQLSaturday-#12---Portland-2009)
+#### [Back to calendar](#SQLSaturday-#12-Portland-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ryan Lence
 ## Title: Sql Server 2008 Compression
@@ -143,7 +143,7 @@ restoring a database with Backup Compression, and what about going to tape?
 #  
 #### SessionID: 35443
 # Tips, Tricks and Code on Table/Index Partitioning
-#### [Back to calendar](#SQLSaturday-#12---Portland-2009)
+#### [Back to calendar](#SQLSaturday-#12-Portland-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Steve Moss
 ## Title: Tips, Tricks and Code on Table/Index Partitioning

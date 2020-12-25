@@ -11,7 +11,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13613
 # Metodos de Alta Disponiblidad en SQL Server
-#### [Back to calendar](#SQLSaturday-#195---Mexico-2013)
+#### [Back to calendar](#SQLSaturday-#195-Mexico-2013)
 Event Date: 02-02-2013 - Session time: 00:00:00 - Track: Nuevas Características
 ## Speaker: Eduardo Castro
 ## Title: Metodos de Alta Disponiblidad en SQL Server
@@ -20,7 +20,7 @@ Event Date: 02-02-2013 - Session time: 00:00:00 - Track: Nuevas Características
 #  
 #### SessionID: 14954
 # Normatividad: Seguridad y Protección de informació
-#### [Back to calendar](#SQLSaturday-#195---Mexico-2013)
+#### [Back to calendar](#SQLSaturday-#195-Mexico-2013)
 Event Date: 02-02-2013 - Session time: 00:00:00 - Track: Nuevas Características
 ## Speaker: Hector Eugenio Jiménez
 ## Title: Normatividad: Seguridad y Protección de informació
@@ -30,7 +30,7 @@ Event Date: 02-02-2013 - Session time: 00:00:00 - Track: Nuevas Características
 #  
 #### SessionID: 15309
 # Modelo relacional y performance
-#### [Back to calendar](#SQLSaturday-#195---Mexico-2013)
+#### [Back to calendar](#SQLSaturday-#195-Mexico-2013)
 Event Date: 02-02-2013 - Session time: 00:00:00 - Track: Nuevas Características
 ## Speaker: Ismael Medina Muñoz
 ## Title: Modelo relacional y performance
@@ -39,7 +39,7 @@ Event Date: 02-02-2013 - Session time: 00:00:00 - Track: Nuevas Características
 #  
 #### SessionID: 16698
 # Mil maneras de morir
-#### [Back to calendar](#SQLSaturday-#195---Mexico-2013)
+#### [Back to calendar](#SQLSaturday-#195-Mexico-2013)
 Event Date: 02-02-2013 - Session time: 00:00:00 - Track: Nuevas Características
 ## Speaker: Jesus Gil Velasco
 ## Title: Mil maneras de morir
@@ -48,7 +48,7 @@ Event Date: 02-02-2013 - Session time: 00:00:00 - Track: Nuevas Características
 #  
 #### SessionID: 17270
 # Descubriendo los datos espaciales en SQL 2012 
-#### [Back to calendar](#SQLSaturday-#195---Mexico-2013)
+#### [Back to calendar](#SQLSaturday-#195-Mexico-2013)
 Event Date: 02-02-2013 - Session time: 00:00:00 - Track: Nuevas Características
 ## Speaker: John Alexander Bulla Torres
 ## Title: Descubriendo los datos espaciales en SQL 2012 
@@ -57,7 +57,7 @@ Event Date: 02-02-2013 - Session time: 00:00:00 - Track: Nuevas Características
 #  
 #### SessionID: 9691
 # Myths and Truths about Resource Governor
-#### [Back to calendar](#SQLSaturday-#195---Mexico-2013)
+#### [Back to calendar](#SQLSaturday-#195-Mexico-2013)
 Event Date: 02-02-2013 - Session time: 00:00:00 - Track: Nuevas Características
 ## Speaker: Anwar Avila
 ## Title: Myths and Truths about Resource Governor

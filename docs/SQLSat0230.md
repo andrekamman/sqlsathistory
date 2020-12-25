@@ -33,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11144
 # Einsatzmöglichkeiten von Window Functions
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Christoph Muthmann
 ## Title: Einsatzmöglichkeiten von Window Functions
@@ -42,7 +42,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 11425
 # Hadoop Now, Next and Beyond
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Openness
 ## Speaker: Mrinal Devadas
 ## Title: Hadoop Now, Next and Beyond
@@ -51,7 +51,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Openness
 #  
 #### SessionID: 11801
 # StreamInsight: Complex Event Processing by MS
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Constantin Klein
 ## Title: StreamInsight: Complex Event Processing by MS
@@ -62,7 +62,7 @@ In this session you will learn what a great addition for your toolbox StreamInsi
 #  
 #### SessionID: 13177
 # DDD und relationale Daten - Ein Widerspruch?
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Dennis Traub
 ## Title: DDD und relationale Daten - Ein Widerspruch?
@@ -71,7 +71,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 14320
 # SQL Server basierte SharePoint 2013 Apps mit LightSwitch entwickeln
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Azure  Big Data
 ## Speaker: Frank Geisler
 ## Title: SQL Server basierte SharePoint 2013 Apps mit LightSwitch entwickeln
@@ -80,7 +80,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Azure  Big Data
 #  
 #### SessionID: 14358
 # From MDS to SSRS - a short walkthrough
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Gabi Münster
 ## Title: From MDS to SSRS - a short walkthrough
@@ -89,7 +89,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 14569
 # Introduction to Microsoft Big Data – Part I
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Openness
 ## Speaker: Georg Urban Sascha Dittmann
 ## Title: Introduction to Microsoft Big Data – Part I
@@ -98,7 +98,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Openness
 #  
 #### SessionID: 14922
 # Die Qual der Wahl - nicht-relationale Datenbanken im Überblick
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Openness
 ## Speaker: Jan Steemann
 ## Title: Die Qual der Wahl - nicht-relationale Datenbanken im Überblick
@@ -110,7 +110,7 @@ Am konkreten Beispiel wird gezeigt, welche neuen Möglichkeiten sich beim Einsat
 #  
 #### SessionID: 15072
 # Advanced Indexing
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Azure  Big Data
 ## Speaker: Hugo Kornelis
 ## Title: Advanced Indexing
@@ -120,7 +120,7 @@ Hugo will explore advanced features such as included columns, indexed views, and
 #  
 #### SessionID: 15076
 # Inside the Columnstore Index - Deep Dive
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Hugo Kornelis
 ## Title: Inside the Columnstore Index - Deep Dive
@@ -130,7 +130,7 @@ But do you know how they work? Come to this session to find out. We will lift th
 #  
 #### SessionID: 15373
 # DataExplorer - the reason you might not need SQL Server 
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Niko Neugebauer
 ## Title: DataExplorer - the reason you might not need SQL Server 
@@ -141,7 +141,7 @@ Join me for an hour of "DataExploration"! :)
 #  
 #### SessionID: 16555
 # Analysing Data with Power View
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jen Stirrup
 ## Title: Analysing Data with Power View
@@ -156,7 +156,7 @@ Come to this session if you really want to think about the best ways of presenti
 #  
 #### SessionID: 17918
 # Reporting Services mit Geospatial Visualization
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Alexander Karl
 ## Title: Reporting Services mit Geospatial Visualization
@@ -171,7 +171,7 @@ Im dritten Schritt erfolgt die Verwendung und Konfiguration des Controls und der
 #  
 #### SessionID: 18742
 # SQL Azure from Plan, to Backup, to Cloud 
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Azure  Big Data
 ## Speaker: Tobias Koprowski
 ## Title: SQL Azure from Plan, to Backup, to Cloud 
@@ -181,7 +181,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Azure  Big Data
 #  
 #### SessionID: 19224
 # The Developer Side of Master Data Services
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Sascha Lorenz
 ## Title: The Developer Side of Master Data Services
@@ -190,7 +190,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 19434
 # Big Data - Hype or Reality?
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Openness
 ## Speaker: Marcel Franke
 ## Title: Big Data - Hype or Reality?
@@ -199,7 +199,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Openness
 #  
 #### SessionID: 20732
 # TSQL Performance Tips
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Azure  Big Data
 ## Speaker: Miloš Radivojević
 ## Title: TSQL Performance Tips
@@ -210,7 +210,7 @@ In this session we will advice how to avoid common developer mistakes and show h
 #  
 #### SessionID: 21345
 # SQL Server 2012 Memory Management
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Neil Hambly
 ## Title: SQL Server 2012 Memory Management
@@ -220,7 +220,7 @@ This session will dive into questions related to memory primarily for SQL Server
 #  
 #### SessionID: 22430
 # oData- Selbst gemacht
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Openness
 ## Speaker: Rafael Dabrowski
 ## Title: oData- Selbst gemacht
@@ -232,7 +232,7 @@ Ich gehe kurz auf die Definition und die daraus gegebenen Möglichkeiten von oDa
 #  
 #### SessionID: 23487
 # Social Text, Sentiment and Tone Analysis
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Social Text, Sentiment and Tone Analysis
@@ -241,7 +241,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 23985
 # Introduction to Microsoft Big Data – Part II
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Openness
 ## Speaker: Sascha Dittmann
 ## Title: Introduction to Microsoft Big Data – Part II
@@ -250,7 +250,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Openness
 #  
 #### SessionID: 24767
 # From SQL Traces to Extended Events. The next big switch.
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mladen Prajdić
 ## Title: From SQL Traces to Extended Events. The next big switch.
@@ -263,7 +263,7 @@ We'll look at how the Extended Events work with only a brief overview of old SQL
 #  
 #### SessionID: 25958
 # Advanced DQS Integration
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Tillmann Eitelberg
 ## Title: Advanced DQS Integration
@@ -272,7 +272,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 25991
 # Microsoft PDW im Projekteinsatz
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Thomas Strehlow
 ## Title: Microsoft PDW im Projekteinsatz
@@ -282,7 +282,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 27050
 # Performance  Manageability der tempdb
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Azure  Big Data
 ## Speaker: Torsten Schüßler
 ## Title: Performance  Manageability der tempdb
@@ -294,7 +294,7 @@ Abschliessend gehen wir der Frage nach: Gibt es "die tempdb" für Jedermann?
 #  
 #### SessionID: 34579
 # The SSIS Script Task  Component from A - Z
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: André Kamman
 ## Title: The SSIS Script Task  Component from A - Z
@@ -303,7 +303,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 8792
 # SQL Server under Attack - Angriffsszenarien
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Andreas Wolter
 ## Title: SQL Server under Attack - Angriffsszenarien
@@ -313,7 +313,7 @@ In dieser rein Demo-basierten Session werden verschiedene Angriffsszenarien auf 
 #  
 #### SessionID: 9358
 # Powershell: The DBA as a consumer
-#### [Back to calendar](#SQLSaturday-#230---Rheinland-2013)
+#### [Back to calendar](#SQLSaturday-#230-Rheinland-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Johan Bijnens
 ## Title: Powershell: The DBA as a consumer

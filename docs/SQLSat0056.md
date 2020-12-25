@@ -39,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28647
 # Answers at the Speed of thought with SSAS
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR1200
 ## Speaker: Anand Pandya
 ## Title: Answers at the Speed of thought with SSAS
@@ -48,7 +48,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR1200
 #  
 #### SessionID: 28769
 # Predictive Analytics Lifecycle Management - Part 1
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4025
 ## Speaker: ANDREW MINKIN
 ## Title: Predictive Analytics Lifecycle Management - Part 1
@@ -57,7 +57,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4025
 #  
 #### SessionID: 28770
 # Predictive Analytics Lifecycle Management - Part 2
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4025
 ## Speaker: ANDREW MINKIN
 ## Title: Predictive Analytics Lifecycle Management - Part 2
@@ -66,7 +66,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4025
 #  
 #### SessionID: 29314
 # MDX Boot Camp - Long
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4005
 ## Speaker: Bryan Smith
 ## Title: MDX Boot Camp - Long
@@ -75,7 +75,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4005
 #  
 #### SessionID: 29751
 # Creating Interactive Dashboards with PowerPivot
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Visual Basic
 ## Speaker: David Stein
 ## Title: Creating Interactive Dashboards with PowerPivot
@@ -84,7 +84,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Visual Basic
 #  
 #### SessionID: 29752
 # Who, What, Where. The Power of SSRS Parameters
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Windows
 ## Speaker: David Stein
 ## Title: Who, What, Where. The Power of SSRS Parameters
@@ -93,7 +93,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Windows
 #  
 #### SessionID: 30088
 # High-performance Data Warehouses
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4005
 ## Speaker: Erin Welker
 ## Title: High-performance Data Warehouses
@@ -102,7 +102,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4005
 #  
 #### SessionID: 30209
 # BI Dashboarding End to End
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4025
 ## Speaker: Forrest Dermid
 ## Title: BI Dashboarding End to End
@@ -111,7 +111,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4025
 #  
 #### SessionID: 30604
 # Business Intelligence: Decaffeinated Please!
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR1200
 ## Speaker: Jose Chinchilla
 ## Title: Business Intelligence: Decaffeinated Please!
@@ -120,7 +120,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR1200
 #  
 #### SessionID: 30704
 # Ground Zero SSRS
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Visual Basic
 ## Speaker: Jennifer McCown
 ## Title: Ground Zero SSRS
@@ -129,7 +129,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Visual Basic
 #  
 #### SessionID: 30954
 # Implementing a Data Cleansing Component for SSIS
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4025
 ## Speaker: John Welch
 ## Title: Implementing a Data Cleansing Component for SSIS
@@ -138,7 +138,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4025
 #  
 #### SessionID: 30956
 # Using the Excel PivotTable as an OLAP Client
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Visual Basic
 ## Speaker: John Welch
 ## Title: Using the Excel PivotTable as an OLAP Client
@@ -147,7 +147,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Visual Basic
 #  
 #### SessionID: 31105
 # SQL Server 2008 for Developers
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4005
 ## Speaker: John Sterrett
 ## Title: SQL Server 2008 for Developers
@@ -156,7 +156,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4005
 #  
 #### SessionID: 31496
 # Business Intelligence from data to presentation
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4005
 ## Speaker: Leonard Mwangi
 ## Title: Business Intelligence from data to presentation
@@ -165,7 +165,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4005
 #  
 #### SessionID: 31588
 # My First Report
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR1200
 ## Speaker: Mark Verret
 ## Title: My First Report
@@ -174,7 +174,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR1200
 #  
 #### SessionID: 32039
 # SQL Spatial
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4005
 ## Speaker: Ranjan Muttiah
 ## Title: SQL Spatial
@@ -186,7 +186,7 @@ data mashups using mapping services API, spatial analysis with BI stack.
 #  
 #### SessionID: 32710
 # SSIS and SSRS Better Together - Long
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4025
 ## Speaker: Russel Loski
 ## Title: SSIS and SSRS Better Together - Long
@@ -195,7 +195,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4025
 #  
 #### SessionID: 32726
 # Enhanced contextual help for Reporting Services
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Office
 ## Speaker: Microsoft Presenter
 ## Title: Enhanced contextual help for Reporting Services
@@ -204,7 +204,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Office
 #  
 #### SessionID: 32727
 # Analysis Services Supporting User workflow -SQL 11
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Office
 ## Speaker: Microsoft Presenter
 ## Title: Analysis Services Supporting User workflow -SQL 11
@@ -213,7 +213,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Office
 #  
 #### SessionID: 32728
 # Integration Services -- Migrating to the Cloud
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Office
 ## Speaker: Microsoft Presenter
 ## Title: Integration Services -- Migrating to the Cloud
@@ -222,7 +222,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Office
 #  
 #### SessionID: 32729
 # Azure Reporting - early look
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Office
 ## Speaker: Microsoft Presenter
 ## Title: Azure Reporting - early look
@@ -231,7 +231,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Office
 #  
 #### SessionID: 32730
 # High Availability, Disaster Recovery  - SQL11
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Office
 ## Speaker: Microsoft Presenter
 ## Title: High Availability, Disaster Recovery  - SQL11
@@ -240,7 +240,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Office
 #  
 #### SessionID: 32731
 # Impact and Lineage Analysis
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Office
 ## Speaker: Microsoft Presenter
 ## Title: Impact and Lineage Analysis
@@ -249,7 +249,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Office
 #  
 #### SessionID: 32845
 # Intro to SSIS: Part 1
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Windows
 ## Speaker: Sean McCown
 ## Title: Intro to SSIS: Part 1
@@ -258,7 +258,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Windows
 #  
 #### SessionID: 32846
 # Intro to SSIS: Part 2
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Windows
 ## Speaker: Sean McCown
 ## Title: Intro to SSIS: Part 2
@@ -267,7 +267,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Windows
 #  
 #### SessionID: 32847
 # SSIS Package Architecture
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Visual Basic
 ## Speaker: Sean McCown
 ## Title: SSIS Package Architecture
@@ -276,7 +276,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Visual Basic
 #  
 #### SessionID: 33138
 # Using powerpivot to create quick  effective cubes
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Visual Basic
 ## Speaker: Sriram Ganapathy
 ## Title: Using powerpivot to create quick  effective cubes
@@ -285,7 +285,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Visual Basic
 #  
 #### SessionID: 33140
 # How to integrate BI services with SQL Azure
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Visual Basic
 ## Speaker: Sriram Ganapathy
 ## Title: How to integrate BI services with SQL Azure
@@ -294,7 +294,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Visual Basic
 #  
 #### SessionID: 33273
 # Efficient Data Warehouse Design
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4025
 ## Speaker: Dr. Suresh Rajappa
 ## Title: Efficient Data Warehouse Design
@@ -303,7 +303,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR4025
 #  
 #### SessionID: 33595
 # Loops, Lookups and Splits: Intermediate SSIS
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Windows
 ## Speaker: Tim Mitchell
 ## Title: Loops, Lookups and Splits: Intermediate SSIS
@@ -312,7 +312,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Windows
 #  
 #### SessionID: 33596
 # Dynamic SSIS with Expressions and Configurations
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Windows
 ## Speaker: Tim Mitchell
 ## Title: Dynamic SSIS with Expressions and Configurations
@@ -321,7 +321,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Windows
 #  
 #### SessionID: 33597
 # Scripting in SSIS
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Windows
 ## Speaker: Tim Mitchell
 ## Title: Scripting in SSIS
@@ -330,7 +330,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: Windows
 #  
 #### SessionID: 33639
 # Tableau: Delivering Self-Serve BI
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR1200
 ## Speaker: Tim Costello
 ## Title: Tableau: Delivering Self-Serve BI
@@ -339,7 +339,7 @@ Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR1200
 #  
 #### SessionID: 33717
 # Transition from DBA to BI Architect
-#### [Back to calendar](#SQLSaturday-#56---Dallas-(BI-Edition)-2010)
+#### [Back to calendar](#SQLSaturday-#56-Dallas-(BI-Edition)-2010)
 Event Date: 23-10-2010 - Session time: 00:00:00 - Track: Room: MPR1200
 ## Speaker: Thomas LeBlanc
 ## Title: Transition from DBA to BI Architect

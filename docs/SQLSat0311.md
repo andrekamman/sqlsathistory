@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10610
 # Building Great Business Intelligence Semantic Models for Power View
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 5:Mixed  OSS
 ## Speaker: Boriana Petrova
 ## Title: Building Great Business Intelligence Semantic Models for Power View
@@ -44,7 +44,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 5:Mixed  OSS
 #  
 #### SessionID: 10928
 # Top 5 T-SQL Improvements in SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 1:Development
 ## Speaker: Boris Hristov
 ## Title: Top 5 T-SQL Improvements in SQL Server 2014
@@ -53,7 +53,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 1:Development
 #  
 #### SessionID: 11384
 # Databases for mobile
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 5:Mixed  OSS
 ## Speaker: Catalin Gheorghiu
 ## Title: Databases for mobile
@@ -62,7 +62,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 5:Mixed  OSS
 #  
 #### SessionID: 13102
 # Deadlocks. Everything that developer needs to know
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 1:Development
 ## Speaker: Denis Reznik
 ## Title: Deadlocks. Everything that developer needs to know
@@ -71,7 +71,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 1:Development
 #  
 #### SessionID: 13532
 # Analyzing Text with SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 3:BI
 ## Speaker: Dejan Sarka
 ## Title: Analyzing Text with SQL Server 2014
@@ -81,7 +81,7 @@ Microsoft SQL Server in versions 2012 and 2014 enhances full-text search support
 #  
 #### SessionID: 13534
 # Optimizing Temporal Queries
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 1:Development
 ## Speaker: Dejan Sarka
 ## Title: Optimizing Temporal Queries
@@ -90,7 +90,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 1:Development
 #  
 #### SessionID: 13792
 # No more waiting – an introduction to SQL Server wait statistics
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 4:Mixed  Azure
 ## Speaker: Enrico van de Laar
 ## Title: No more waiting – an introduction to SQL Server wait statistics
@@ -99,7 +99,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 4:Mixed  Azure
 #  
 #### SessionID: 15269
 # Get the most out of your Windows Azure SQL virtual machines
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 4:Mixed  Azure
 ## Speaker: Ivan Donev
 ## Title: Get the most out of your Windows Azure SQL virtual machines
@@ -108,7 +108,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 4:Mixed  Azure
 #  
 #### SessionID: 15270
 # Tips and tricks to optimize your SQL Server backup
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 5:Mixed  OSS
 ## Speaker: Ivan Donev
 ## Title: Tips and tricks to optimize your SQL Server backup
@@ -117,7 +117,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 5:Mixed  OSS
 #  
 #### SessionID: 15461
 # Data Warehouse Design and Best Practices
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 3:BI
 ## Speaker: Ivelin Andreev
 ## Title: Data Warehouse Design and Best Practices
@@ -127,7 +127,7 @@ Join this session to learn various architectural approaches our team evaluated f
 #  
 #### SessionID: 15754
 # High Availability - Partial Database Availabilty
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 2:DBA
 ## Speaker: Janos Berke
 ## Title: High Availability - Partial Database Availabilty
@@ -149,7 +149,7 @@ Session agenda is the follwoing:
 #  
 #### SessionID: 17540
 # Introduction to Forecasting
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 5:Mixed  OSS
 ## Speaker: Daniel Joskovski
 ## Title: Introduction to Forecasting
@@ -159,7 +159,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 5:Mixed  OSS
 #  
 #### SessionID: 17854
 # Managing 999 MS SQL Servers
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 4:Mixed  Azure
 ## Speaker: Kaloyan Kosev
 ## Title: Managing 999 MS SQL Servers
@@ -168,7 +168,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 4:Mixed  Azure
 #  
 #### SessionID: 17921
 # Reporting Services with Geospatial Visualization
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 3:BI
 ## Speaker: Alexander Karl
 ## Title: Reporting Services with Geospatial Visualization
@@ -178,7 +178,7 @@ specifically: „from address data to data-presentation in SSRS Mapcontrol in 3 
 #  
 #### SessionID: 18687
 # SQL Server Source Control
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 2:DBA
 ## Speaker: Tobias Koprowski
 ## Title: SQL Server Source Control
@@ -187,7 +187,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 2:DBA
 #  
 #### SessionID: 19186
 # MySql for SQL Server developers
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 5:Mixed  OSS
 ## Speaker: Oleksii Kovalov
 ## Title: MySql for SQL Server developers
@@ -196,7 +196,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 5:Mixed  OSS
 #  
 #### SessionID: 19375
 # A deep dive into SQL Server Plan Cache Management  
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 4:Mixed  Azure
 ## Speaker: Margarita Naumova
 ## Title: A deep dive into SQL Server Plan Cache Management  
@@ -205,7 +205,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 4:Mixed  Azure
 #  
 #### SessionID: 19376
 # Let those statistics be with you!
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 1:Development
 ## Speaker: Margarita Naumova
 ## Title: Let those statistics be with you!
@@ -215,7 +215,7 @@ We usually rely on auto-update stats database options and sometimes perform a re
 #  
 #### SessionID: 19460
 # Indexing for denormalization
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 1:Development
 ## Speaker: Marcin Szeliga
 ## Title: Indexing for denormalization
@@ -226,7 +226,7 @@ A third normal form is great, but sometime a database really should be denormali
 #  
 #### SessionID: 20315
 # Node.js for Microsoft SQLServer Nerds
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 5:Mixed  OSS
 ## Speaker: Mihail Mateev
 ## Title: Node.js for Microsoft SQLServer Nerds
@@ -237,7 +237,7 @@ With the continued support from Microsoft for Nodejs on both Windows and Windows
 #  
 #### SessionID: 20751
 # Hekaton Challenges from Database Development Point of View
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 1:Development
 ## Speaker: Miloš Radivojević
 ## Title: Hekaton Challenges from Database Development Point of View
@@ -246,7 +246,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 1:Development
 #  
 #### SessionID: 20810
 # Performance Tuning for the Transaction Log
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 4:Mixed  Azure
 ## Speaker: Miroslav Dimitrov
 ## Title: Performance Tuning for the Transaction Log
@@ -255,7 +255,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 4:Mixed  Azure
 #  
 #### SessionID: 21176
 # Buffer Pool Extension (BPE) - How it works?
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 2:DBA
 ## Speaker: Murilo Miranda
 ## Title: Buffer Pool Extension (BPE) - How it works?
@@ -265,7 +265,7 @@ On this session we will enter in some theoretical details regarding this new tec
 #  
 #### SessionID: 21446
 # SQL Server 2012 + Hadoop. Is that possible?
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 4:Mixed  Azure
 ## Speaker: Nikolay Nyagolov
 ## Title: SQL Server 2012 + Hadoop. Is that possible?
@@ -274,7 +274,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 4:Mixed  Azure
 #  
 #### SessionID: 22051
 # Advantages using DAX in Tabular data model 
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 3:BI
 ## Speaker: Stefan Damyanov
 ## Title: Advantages using DAX in Tabular data model 
@@ -283,7 +283,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 3:BI
 #  
 #### SessionID: 23516
 # Dos and Don'ts of Columnstore indexes
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 3:BI
 ## Speaker: Rasmus Reinholdt
 ## Title: Dos and Don'ts of Columnstore indexes
@@ -293,7 +293,7 @@ In the session I will explain the details of xVelosity engine in generel and the
 #  
 #### SessionID: 24334
 # Practical usage of partitioning
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 2:DBA
 ## Speaker: Sergey Olontsev
 ## Title: Practical usage of partitioning
@@ -302,7 +302,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 2:DBA
 #  
 #### SessionID: 25022
 # SQL Server Data platform upgrade Techniques, best practices  notes from the field
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 2:DBA
 ## Speaker: Satya Jayanty
 ## Title: SQL Server Data platform upgrade Techniques, best practices  notes from the field
@@ -314,7 +314,7 @@ In this session, we will overview end-to-end upgrade process that covers the ess
 #  
 #### SessionID: 27149
 # HADR with SQL Server AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 2:DBA
 ## Speaker: Turgay Sahtiyan
 ## Title: HADR with SQL Server AlwaysOn Availability Groups
@@ -323,7 +323,7 @@ Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 2:DBA
 #  
 #### SessionID: 34915
 # So you are a BI Developer by Accident
-#### [Back to calendar](#SQLSaturday-#311---Bulgaria-2014)
+#### [Back to calendar](#SQLSaturday-#311-Bulgaria-2014)
 Event Date: 11-10-2014 - Session time: 00:00:00 - Track: 3:BI
 ## Speaker: Zoltán Horváth
 ## Title: So you are a BI Developer by Accident

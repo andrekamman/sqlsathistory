@@ -38,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 61287
 # Database Corruption - Advanced Recovery Techniques
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DBA 
 ## Speaker: Patrick Flynn
 ## Title: Database Corruption - Advanced Recovery Techniques
@@ -50,7 +50,7 @@ Warning: Hex Editors and DBCC Page dumps will be involved!
 #  
 #### SessionID: 63462
 # What's new in Power BI Report Server
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
 ## Speaker: Prathy Kamasani
 ## Title: What's new in Power BI Report Server
@@ -60,7 +60,7 @@ In this session, Prathy will show top features of Power BI Report Server. Variou
 #  
 #### SessionID: 64576
 # Bringing DevOps to the Database
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DEV 
 ## Speaker: Steve Jones
 ## Title: Bringing DevOps to the Database
@@ -69,7 +69,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DEV
 #  
 #### SessionID: 61420
 # Big Data - Big Quality?  A governance round-trip through the possibilities of the MS data platform
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
 ## Speaker: Oliver Engels
 ## Title: Big Data - Big Quality?  A governance round-trip through the possibilities of the MS data platform
@@ -79,7 +79,7 @@ We dive into the requirements of modern data governance and curation and show in
 #  
 #### SessionID: 62476
 # SQL Storage Fundamentals for Azure IaaS
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
 ## Speaker: Bob Duffy
 ## Title: SQL Storage Fundamentals for Azure IaaS
@@ -99,7 +99,7 @@ o	File and Filegroup layout concepts
 #  
 #### SessionID: 62605
 # A Masters view on Query plans and indexing
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DEV 
 ## Speaker: Mikael Wedham
 ## Title: A Masters view on Query plans and indexing
@@ -111,7 +111,7 @@ selecting appropriate indexing for your query load.
 #  
 #### SessionID: 64283
 # Hiding data with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DBA 
 ## Speaker: Ivan Campos
 ## Title: Hiding data with SQL Server 2016
@@ -120,7 +120,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DBA
 #  
 #### SessionID: 67073
 # Data Science Fundamentals
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BA
 ## Speaker: Stephanie Locke
 ## Title: Data Science Fundamentals
@@ -133,7 +133,7 @@ Let's go behind the curtains and see the process and the fundamentals employed i
 #  
 #### SessionID: 67218
 # Azure Data Factory  Creating Custom Activities Workshop part I
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
 ## Speaker: Paul Andrew
 ## Title: Azure Data Factory  Creating Custom Activities Workshop part I
@@ -144,7 +144,7 @@ Azure Data Factory. This is not SSIS in Azure. But it’s a start for our contro
 #  
 #### SessionID: 61197
 # Pro Techniques for the SSASMD Developer
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
 ## Speaker: Jens Vestergaard
 ## Title: Pro Techniques for the SSASMD Developer
@@ -160,7 +160,7 @@ PowerShell to tie all the ends together.
 #  
 #### SessionID: 61214
 # Create Stunning Visualizations with The Help of R
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BA
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Create Stunning Visualizations with The Help of R
@@ -169,7 +169,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BA
 #  
 #### SessionID: 61226
 # Kerberos for SQL Server and SharePoint the easy way
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Other
 ## Speaker: Dmytro Andriychenko
 ## Title: Kerberos for SQL Server and SharePoint the easy way
@@ -184,7 +184,7 @@ This presentation covers some very useful resources to help you tame your three-
 #  
 #### SessionID: 61237
 # SQL SERVER - Next station Azure
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: SQL SERVER - Next station Azure
@@ -200,7 +200,7 @@ We will cover:
 #  
 #### SessionID: 61491
 # Temporal Data in SQL Server
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DEV 
 ## Speaker: Dejan Sarka
 ## Title: Temporal Data in SQL Server
@@ -214,7 +214,7 @@ This session introduces the temporal problems, deals with solutions that go beyo
 #  
 #### SessionID: 67219
 # Azure Data Factory  Creating Custom Activities Workshop part II
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
 ## Speaker: Paul Andrew
 ## Title: Azure Data Factory  Creating Custom Activities Workshop part II
@@ -225,7 +225,7 @@ Having covered the basics in part 1 we’ll now go beyond the Azure Data Factory
 #  
 #### SessionID: 65121
 # Sponsor lunchtime session Part I
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Sponsor
 ## Speaker: Mark Broadbent
 ## Title: Sponsor lunchtime session Part I
@@ -234,7 +234,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Sponsor
 #  
 #### SessionID: 65122
 # Sponsor lunchtime session Part II
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Sponsor
 ## Speaker: Mark Broadbent
 ## Title: Sponsor lunchtime session Part II
@@ -243,7 +243,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Sponsor
 #  
 #### SessionID: 61194
 # DevOps for BI Workshop Part I
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
 ## Speaker: Jens Vestergaard
 ## Title: DevOps for BI Workshop Part I
@@ -266,7 +266,7 @@ PowerShell
 #  
 #### SessionID: 61207
 # Azure Machine learning beyond the basics with Juypter notebooks
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
 ## Speaker: Terry McCann
 ## Title: Azure Machine learning beyond the basics with Juypter notebooks
@@ -275,7 +275,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
 #  
 #### SessionID: 61336
 # An introduction to SQL Server  Containers
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DBA 
 ## Speaker: Andrew Pruski
 ## Title: An introduction to SQL Server  Containers
@@ -296,7 +296,7 @@ Windows Server administration
 #  
 #### SessionID: 61447
 # Analyzing the impact of weather on English Premier League matches in Power BI
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
 ## Speaker: Asgeir Gunnarsson
 ## Title: Analyzing the impact of weather on English Premier League matches in Power BI
@@ -308,7 +308,7 @@ In this end to end Power BI Desktop demo we will use fun data that many can rela
 #  
 #### SessionID: 64550
 # Azure Functions and Automation: The SQL Agent in the Cloud
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
 ## Speaker: Sam Cogan
 ## Title: Azure Functions and Automation: The SQL Agent in the Cloud
@@ -317,7 +317,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
 #  
 #### SessionID: 61204
 # Exploring Dark Data with SQL Server 2016 and R
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DEV 
 ## Speaker: Oliver Frost
 ## Title: Exploring Dark Data with SQL Server 2016 and R
@@ -330,7 +330,7 @@ This session is for anyone who is new to R and is interested in expanding their 
 #  
 #### SessionID: 61362
 # How to unlock value in your anonymized data
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
 ## Speaker: Andreas Bergstedt
 ## Title: How to unlock value in your anonymized data
@@ -342,7 +342,7 @@ We dig into the magical land of "Snakes" and "Ladders" commonly used by fraud pr
 #  
 #### SessionID: 61626
 # Columnstore killed the OLAP-Star?
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
 ## Speaker: Niko Neugebauer
 ## Title: Columnstore killed the OLAP-Star?
@@ -356,7 +356,7 @@ Find out about advantages and disadvantages of the different solutions in regard
 #  
 #### SessionID: 62503
 # SQL Server on Linux
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DBA 
 ## Speaker: Frank Geisler
 ## Title: SQL Server on Linux
@@ -365,7 +365,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DBA
 #  
 #### SessionID: 64872
 # Multi-tenant database architectures – from small scale to hyper-scale
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
 ## Speaker: Kennie Pontoppidan
 ## Title: Multi-tenant database architectures – from small scale to hyper-scale
@@ -374,7 +374,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
 #  
 #### SessionID: 67659
 # DevOps for BI Workshop Part II
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
 ## Speaker: Jens Vestergaard
 ## Title: DevOps for BI Workshop Part II
@@ -397,7 +397,7 @@ PowerShell
 #  
 #### SessionID: 61251
 # So you installed R, now what? A journey through the Tidyverse
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BA
 ## Speaker: Thomas Hütter
 ## Title: So you installed R, now what? A journey through the Tidyverse
@@ -417,7 +417,7 @@ dplyr and readr, and we'll have lots of code demos on real world examples.
 #  
 #### SessionID: 61315
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DBA 
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -426,7 +426,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DBA
 #  
 #### SessionID: 61399
 # Scripting tabular models
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
 ## Speaker: Bent Pedersen
 ## Title: Scripting tabular models
@@ -439,7 +439,7 @@ The last thing i will show is how you speed up your development free up up to 50
 #  
 #### SessionID: 62532
 # Effective Unit Testing for SQL Server
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DEV 
 ## Speaker: Gavin Campbell
 ## Title: Effective Unit Testing for SQL Server
@@ -458,7 +458,7 @@ This session will incorporate real-life experiences with tSQLt, as well as lesso
 #  
 #### SessionID: 64306
 # Real-Time Reporting through the medium of Dance
-#### [Back to calendar](#SQLSaturday-#632---Cambridge-2017)
+#### [Back to calendar](#SQLSaturday-#632-Cambridge-2017)
 Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
 ## Speaker: Simon Whiteley
 ## Title: Real-Time Reporting through the medium of Dance

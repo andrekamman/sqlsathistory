@@ -22,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 90540
 # The Haberdashery of Machine Learning
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jan Mulkens
 ## Title: The Haberdashery of Machine Learning
@@ -35,7 +35,7 @@ Using Azure and SQL Server Machine Learning Services during our examples, you'll
 #  
 #### SessionID: 93665
 # The future of serverless computing
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: The future of serverless computing
@@ -48,7 +48,7 @@ This session will be useful for developers and architects who are seeking a way 
 #  
 #### SessionID: 94404
 # SQL Server  PowerShell. How to become a true senior DBA (на русском)
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andriy Pogorelov
 ## Title: SQL Server  PowerShell. How to become a true senior DBA (на русском)
@@ -57,7 +57,7 @@ Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 98783
 # The future of serverless computing
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Illia Lubenets
 ## Title: The future of serverless computing
@@ -70,7 +70,7 @@ This session will be useful for developers and architects who are seeking a way 
 #  
 #### SessionID: 89563
 # If a machine can learn, why can't YOU learn Azure Machine Learning?
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: André Melancia
 ## Title: If a machine can learn, why can't YOU learn Azure Machine Learning?
@@ -81,7 +81,7 @@ Disclaimer: Sadly, AzureML still can't predict what's on your girlfriend's mind.
 #  
 #### SessionID: 96248
 # AI Capabilities for Power BI
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Eugene Polonichko
 ## Title: AI Capabilities for Power BI
@@ -90,7 +90,7 @@ Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 98594
 # Polybase in MS SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Andrii Zrobok
 ## Title: Polybase in MS SQL Server 2019
@@ -99,7 +99,7 @@ Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 90080
 # Attention Contention!!!
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Attention Contention!!!
@@ -108,7 +108,7 @@ Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91301
 # What is CI/CD for databases or how to automate DB changes
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taras Kloba
 ## Title: What is CI/CD for databases or how to automate DB changes
@@ -119,7 +119,7 @@ The main goal is to understand that applications and databases can and should sh
 #  
 #### SessionID: 96354
 # ML on the Edge
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Catalin Gheorghiu
 ## Title: ML on the Edge
@@ -128,7 +128,7 @@ Event Date: 21-09-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 98053
 # SQL Server: Поради для непрофільних розробників
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Yevhen Nedashkivskyi
 ## Title: SQL Server: Поради для непрофільних розробників
@@ -139,7 +139,7 @@ Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 96371
 # A Game of Hierarchies: Graph Processing with SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: A Game of Hierarchies: Graph Processing with SQL Server 2019
@@ -154,7 +154,7 @@ Join this session for a journey through best practices to transform your hierarc
 #  
 #### SessionID: 96809
 # Report optimization techniques in both Desktop and Service. Vertipaq Engine in Power BI
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ruslan Zolotukhin
 ## Title: Report optimization techniques in both Desktop and Service. Vertipaq Engine in Power BI
@@ -165,7 +165,7 @@ At current session I will describe possible performance issues and how to handle
 #  
 #### SessionID: 98634
 # Data Insight Ecosystem Today
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Taras Bachynskyy
 ## Title: Data Insight Ecosystem Today
@@ -174,7 +174,7 @@ Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 96074
 # Docker for data amateur
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sławomir Drzymała
 ## Title: Docker for data amateur
@@ -184,7 +184,7 @@ I will show you my journey, my thoughts and my findings regarding the usage of S
 #  
 #### SessionID: 96421
 # Tuning SQL Server for mere mortals (українською)
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Mykola Pobyivovk
 ## Title: Tuning SQL Server for mere mortals (українською)
@@ -195,7 +195,7 @@ In this session I would like to show common mistakes, connected with DB developm
 #  
 #### SessionID: 98054
 # Узгодженість, паралелізм та блокування в сучасних базах даних
-#### [Back to calendar](#SQLSaturday-#860---Lviv-2019)
+#### [Back to calendar](#SQLSaturday-#860-Lviv-2019)
 Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Yevhen Nedashkivskyi
 ## Title: Узгодженість, паралелізм та блокування в сучасних базах даних

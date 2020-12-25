@@ -48,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 40032
 # Setting up your BI Infrastructure
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paresh Motiwala
 ## Title: Setting up your BI Infrastructure
@@ -70,7 +70,7 @@ Last but not the least: one of the things that plagues most leaders/Project Mana
 #  
 #### SessionID: 40276
 # Microsoft Technologies for Data Science
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Mark Tabladillo
 ## Title: Microsoft Technologies for Data Science
@@ -79,7 +79,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 41065
 # Getting Started with SSIS Script Tasks and Components
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Integration Services
 ## Speaker: John Welch
 ## Title: Getting Started with SSIS Script Tasks and Components
@@ -89,7 +89,7 @@ Many data movement activities can be handled with SSIS using the built-in tasks 
 #  
 #### SessionID: 41242
 # Transitioning from T-SQL to MDX for Beginners
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Analysis Services
 ## Speaker: Dan King
 ## Title: Transitioning from T-SQL to MDX for Beginners
@@ -98,7 +98,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Analysis Services
 #  
 #### SessionID: 41674
 # Microsoft and Big Data - An Overview of the Power Tools and more!
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Big Data
 ## Speaker: David Patrick
 ## Title: Microsoft and Big Data - An Overview of the Power Tools and more!
@@ -107,7 +107,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Big Data
 #  
 #### SessionID: 42068
 # Power BI: Architecture, Integration Points, Implementation Options
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melissa Coates
 ## Title: Power BI: Architecture, Integration Points, Implementation Options
@@ -116,7 +116,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 42122
 # Biml Recipes: Automatically create T-SQL Scripts for Common Tasks
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BIML
 ## Speaker: Scott Currie
 ## Title: Biml Recipes: Automatically create T-SQL Scripts for Common Tasks
@@ -133,7 +133,7 @@ Scenarios include:
 #  
 #### SessionID: 44856
 # Cortana Analytics and Cortana Perceptual APIs
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Paco Gonzalez
 ## Title: Cortana Analytics and Cortana Perceptual APIs
@@ -142,7 +142,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 40205
 # Introduction to Azure Streaming Analytics
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Streaming Analytics
@@ -151,7 +151,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 40830
 # Azure Data Factory: My Data Wandered Lonely as a CLOUD.
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Julie Smith
 ## Title: Azure Data Factory: My Data Wandered Lonely as a CLOUD.
@@ -160,7 +160,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 41303
 # Your BI Blueprint Does Matter: Modeling for MS BI
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Data Modeling
 ## Speaker: Delora Bradish
 ## Title: Your BI Blueprint Does Matter: Modeling for MS BI
@@ -169,7 +169,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Data Modeling
 #  
 #### SessionID: 41535
 # Mastering and Enhancing Company Data
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rushabh Mehta
 ## Title: Mastering and Enhancing Company Data
@@ -178,7 +178,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 41821
 # Context  Calculation, Back to the Basics with DAX
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Austin Senseman
 ## Title: Context  Calculation, Back to the Basics with DAX
@@ -189,7 +189,7 @@ This session is for the intermediate DAX user who has produced some quality data
 #  
 #### SessionID: 42098
 # Machine Learning Modelling with Cortana Analytics
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Paco Gonzalez
 ## Title: Machine Learning Modelling with Cortana Analytics
@@ -198,7 +198,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 42115
 # Create and Load a Staging Environment from Scratch in an Hour with Biml
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BIML
 ## Speaker: Jay Harris
 ## Title: Create and Load a Staging Environment from Scratch in an Hour with Biml
@@ -207,7 +207,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BIML
 #  
 #### SessionID: 44307
 # Power BI - Getting It Right - A Full Walkthrough
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: PowerBI
 ## Speaker: Dandy Weyn
 ## Title: Power BI - Getting It Right - A Full Walkthrough
@@ -221,7 +221,7 @@ By the end of this session you will have a full understanding of the Power BI of
 #  
 #### SessionID: 41633
 # Looking for the Power BI On-Prem Alternative?
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Sponsor
 ## Speaker: Mark Scott
 ## Title: Looking for the Power BI On-Prem Alternative?
@@ -232,7 +232,7 @@ Do you want to allow your business users to build Tabular models on the fly, or 
 #  
 #### SessionID: 44970
 # Get the Most From Your BI Solution by Tapping Into Wire Data
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Other
 ## Speaker: Tony Huiker
 ## Title: Get the Most From Your BI Solution by Tapping Into Wire Data
@@ -241,7 +241,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 45056
 # Automating Critical BI Workflows
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gennaro Piccolo
 ## Title: Automating Critical BI Workflows
@@ -250,7 +250,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 40036
 # Analysis Services: Show Me Where It Hurts
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Analysis Services
 ## Speaker: Bill Anton
 ## Title: Analysis Services: Show Me Where It Hurts
@@ -263,7 +263,7 @@ Join this "something-everyone-should-be-doing-but-isn't" session, in which we wi
 #  
 #### SessionID: 40038
 # Using BIML as an SSIS Design Patterns Engine 
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BIML
 ## Speaker: Andy Leonard
 ## Title: Using BIML as an SSIS Design Patterns Engine 
@@ -272,7 +272,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BIML
 #  
 #### SessionID: 41938
 # Change Tracking:  A Near Bullet-Proof ETL Synchronization Control
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Integration Services
 ## Speaker: Mike Byrd
 ## Title: Change Tracking:  A Near Bullet-Proof ETL Synchronization Control
@@ -281,7 +281,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Integration Services
 #  
 #### SessionID: 42077
 # Introduction to DataZen
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to DataZen
@@ -290,7 +290,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 42125
 # Azure Data Lake Store  Data Lake Analytics - Let's Go Swimming!
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Audrey Hammonds
 ## Title: Azure Data Lake Store  Data Lake Analytics - Let's Go Swimming!
@@ -299,7 +299,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 42178
 # Creating a Custom Visual In Power BI
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Jessica Moss
 ## Title: Creating a Custom Visual In Power BI
@@ -308,7 +308,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 43128
 # Working with On-Premises data and Power BI
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: PowerBI
 ## Speaker: Adam Saxton
 ## Title: Working with On-Premises data and Power BI
@@ -321,7 +321,7 @@ It will finish off with looking at some troubleshooting tools available to you w
 #  
 #### SessionID: 44865
 # The Real Value of Name-Value Pairs: Using PIVOT and UNPIVOT 
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: SQL Development
 ## Speaker: Kevin Wilkie
 ## Title: The Real Value of Name-Value Pairs: Using PIVOT and UNPIVOT 
@@ -330,7 +330,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: SQL Development
 #  
 #### SessionID: 40092
 # Introduction to Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Machine Learning
@@ -339,7 +339,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 40094
 # Configuring and using PolyBase to interact with Hadoop
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Big Data
 ## Speaker: Montrial Harrell
 ## Title: Configuring and using PolyBase to interact with Hadoop
@@ -348,7 +348,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Big Data
 #  
 #### SessionID: 40608
 # Solving the Data Integration Problem for Non-Developers with Power Query
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rafael Salas
 ## Title: Solving the Data Integration Problem for Non-Developers with Power Query
@@ -359,7 +359,7 @@ In this session, learn how  businesses and IT can use Power Query--a free data i
 #  
 #### SessionID: 41068
 # Testing Data and Data-Centric Applications
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: John Welch
 ## Title: Testing Data and Data-Centric Applications
@@ -369,7 +369,7 @@ Testing is vital to fast, successful delivery of software and information today.
 #  
 #### SessionID: 42060
 # How to Get Lightning Fast Answers with Power BI QA and Cortana
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: PowerBI
 ## Speaker: Vishal Pawar
 ## Title: How to Get Lightning Fast Answers with Power BI QA and Cortana
@@ -378,7 +378,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: PowerBI
 #  
 #### SessionID: 42108
 # Optimizing Your Data Warehouse for OLAP Processing
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Data Warehousing
 ## Speaker: Konstantin Melamud
 ## Title: Optimizing Your Data Warehouse for OLAP Processing
@@ -387,7 +387,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Data Warehousing
 #  
 #### SessionID: 42121
 # SSIS Unit and Integration Testing with the Open Source BEST project
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BIML
 ## Speaker: Scott Currie
 ## Title: SSIS Unit and Integration Testing with the Open Source BEST project
@@ -402,7 +402,7 @@ Note that while BEST is implemented using Biml, you do not need to learn Biml to
 #  
 #### SessionID: 42135
 # Top 5 Tricks to Optimize Excel Query Performance Against SSAS 
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Analysis Services
 ## Speaker: Javier Guillen
 ## Title: Top 5 Tricks to Optimize Excel Query Performance Against SSAS 
@@ -413,7 +413,7 @@ This session will provide an overview of useful techniques designed to optimize 
 #  
 #### SessionID: 40107
 # What's New for BI in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Teo Lachev
 ## Title: What's New for BI in SQL Server 2016
@@ -422,7 +422,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 40170
 # Practical use of CTEs, Ranking Functions, MERGE statement, OUTPUT clause and other latest features i
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: SQL Development
 ## Speaker: Alex Grinberg
 ## Title: Practical use of CTEs, Ranking Functions, MERGE statement, OUTPUT clause and other latest features i
@@ -431,7 +431,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: SQL Development
 #  
 #### SessionID: 40316
 # Insight through Spatial Data
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Vladimir Oselsky
 ## Title: Insight through Spatial Data
@@ -440,7 +440,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 41254
 # What is the SSIS Catalog? and Why Do I Care?
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Integration Services
 ## Speaker: Stan Geiger
 ## Title: What is the SSIS Catalog? and Why Do I Care?
@@ -449,7 +449,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Integration Services
 #  
 #### SessionID: 42032
 # Getting Involved and Getting Ahead
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Tim Radney
 ## Title: Getting Involved and Getting Ahead
@@ -458,7 +458,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 42078
 # What's New in SSRS 2016
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Reporting Services
 ## Speaker: Patrick LeBlanc
 ## Title: What's New in SSRS 2016
@@ -467,7 +467,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Reporting Services
 #  
 #### SessionID: 42120
 # Guided Tour of a Real World Biml Solution
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BIML
 ## Speaker: Daniel McLeod
 ## Title: Guided Tour of a Real World Biml Solution
@@ -476,7 +476,7 @@ Event Date: 09-01-2016 - Session time: 15:45:00 - Track: BIML
 #  
 #### SessionID: 42167
 # Analysis Services: Multidimensional vs Tabular
-#### [Back to calendar](#SQLSaturday-#477---Atlanta---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#477-Atlanta-BI-Edition-2016)
 Event Date: 09-01-2016 - Session time: 15:45:00 - Track: Analysis Services
 ## Speaker: Jessica Moss
 ## Title: Analysis Services: Multidimensional vs Tabular

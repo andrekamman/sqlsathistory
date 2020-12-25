@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 14366
 # Lies, Damned Lies And Statistics
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Gail Shaw
 ## Title: Lies, Damned Lies And Statistics
@@ -32,7 +32,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 14367
 # On Transactions and Atomic Operations
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Gail Shaw
 ## Title: On Transactions and Atomic Operations
@@ -45,7 +45,7 @@ In this session, we’ll look at what transactions are and why we should use the
 #  
 #### SessionID: 14391
 # an Introduction to AzureML
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Azure
 ## Speaker: Gary Hope
 ## Title: an Introduction to AzureML
@@ -54,7 +54,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Azure
 #  
 #### SessionID: 14718
 # Power BI in Office 365
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Gordon Beeming
 ## Title: Power BI in Office 365
@@ -63,7 +63,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 17100
 # Exploring CloudOS
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Azure
 ## Speaker: Jody Roberts
 ## Title: Exploring CloudOS
@@ -72,7 +72,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Azure
 #  
 #### SessionID: 18495
 # UNIQUEIDENTIFIERs as Primary Keys in SQL Server
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Klaus Aschenbrenner
 ## Title: UNIQUEIDENTIFIERs as Primary Keys in SQL Server
@@ -81,7 +81,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 18502
 # Inside the SQL Server Query Optimizer
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Klaus Aschenbrenner
 ## Title: Inside the SQL Server Query Optimizer
@@ -90,7 +90,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 19322
 # Custom Prompt Pages for Microsoft Reporting Services
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Lyndon Johnson
 ## Title: Custom Prompt Pages for Microsoft Reporting Services
@@ -99,7 +99,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 19742
 # Who's in Control? Use Sql Server Resource Governor
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Martin Phelps
 ## Title: Who's in Control? Use Sql Server Resource Governor
@@ -108,7 +108,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 20153
 # Introduction to Data Analysis Expressions (DAX)
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Matt Horn
 ## Title: Introduction to Data Analysis Expressions (DAX)
@@ -119,7 +119,7 @@ While this session will not make you a DAX Jedi It should provide you with a goo
 #  
 #### SessionID: 20791
 # Relational Data Management on Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Azure
 ## Speaker: Mine Tokus
 ## Title: Relational Data Management on Microsoft Azure
@@ -128,7 +128,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Azure
 #  
 #### SessionID: 21439
 # SQLCLR Real World Usage
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Niels Berglund
 ## Title: SQLCLR Real World Usage
@@ -137,7 +137,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 22323
 # Securing your SQL Database Applications
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Peter Willmot
 ## Title: Securing your SQL Database Applications
@@ -148,7 +148,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 23812
 # SQL 2014 Enhancements Overview
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Azure
 ## Speaker: Serdar Altug
 ## Title: SQL 2014 Enhancements Overview
@@ -157,7 +157,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Azure
 #  
 #### SessionID: 25241
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Stanley Roos
 ## Title: Indexing for performance
@@ -166,7 +166,7 @@ Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 25250
 # SQL Source … controlled in the studio
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Stefan Cronje
 ## Title: SQL Source … controlled in the studio
@@ -176,7 +176,7 @@ Tools being discussed, Visual Studio, TFS, Powershell, SQL Server, branching.“
 #  
 #### SessionID: 25442
 # SQL Server Reporting Services 2014 on Steroids!!
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services 2014 on Steroids!!
@@ -189,7 +189,7 @@ We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as
 #  
 #### SessionID: 25463
 # Database design for mere developers
-#### [Back to calendar](#SQLSaturday-#301---Cape-Town-2014)
+#### [Back to calendar](#SQLSaturday-#301-Cape-Town-2014)
 Event Date: 06-09-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Steve Simon
 ## Title: Database design for mere developers

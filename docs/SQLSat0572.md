@@ -53,7 +53,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 52842
 # New SQL Server 2016 Feature: "Query Store"
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Slava Murygin
 ## Title: New SQL Server 2016 Feature: "Query Store"
@@ -70,7 +70,7 @@ You will learn about that new SQL Server feature and maybe you find how it would
 #  
 #### SessionID: 52854
 # Performance Pitfalls from Code Reuse
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: Performance Pitfalls from Code Reuse
@@ -81,7 +81,7 @@ Come to this session and learn why applying object-oriented principles can be ex
 #  
 #### SessionID: 52962
 # Azure Machine Learning: From Design to Integration
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Peter Myers
 ## Title: Azure Machine Learning: From Design to Integration
@@ -94,7 +94,7 @@ This session has been specifically designed to describe Machine Learning fundame
 #  
 #### SessionID: 53261
 # Execution Plans for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
@@ -105,7 +105,7 @@ Reading execution plans becomes much less intimidating as we walk through the fl
 #  
 #### SessionID: 53487
 # The Lost Science of Set Theory
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Aaron Cutshall
 ## Title: The Lost Science of Set Theory
@@ -114,7 +114,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database D
 #  
 #### SessionID: 53690
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Watson
 ## Title: Introduction to SQL Server Integration Services
@@ -123,7 +123,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 53833
 # PowerShell for Absolute Beginnners
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Wells
 ## Title: PowerShell for Absolute Beginnners
@@ -132,7 +132,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54004
 # 10 Amazing Things About Power BI You Don't Know
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Information Delivery
 ## Speaker: Reza Rad
 ## Title: 10 Amazing Things About Power BI You Don't Know
@@ -143,7 +143,7 @@ In this session you can expect many live demos and to be impressed by the extrao
 #  
 #### SessionID: 52961
 # Role Based Security in Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Cook
 ## Title: Role Based Security in Azure SQL Database
@@ -152,7 +152,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 53037
 # SSIS Deployment Methods and Dynamic Execution
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Dye
 ## Title: SSIS Deployment Methods and Dynamic Execution
@@ -161,7 +161,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 53331
 # Hi, my name is Powershell, let's be friends! An Intro to PoSH
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Hi, my name is Powershell, let's be friends! An Intro to PoSH
@@ -170,7 +170,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53473
 # Data Architecture 101
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: Data Architecture 101
@@ -183,7 +183,7 @@ This presentation is a survey of Data Architecture for the Intermediate DBA, it 
 #  
 #### SessionID: 53499
 # Analysing your online presence using Power BI
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Information Delivery
 ## Speaker: Asgeir Gunnarsson
 ## Title: Analysing your online presence using Power BI
@@ -198,7 +198,7 @@ The participants will leave the session with ideas on how they can use Power BI 
 #  
 #### SessionID: 53700
 # SQL Server 2014/2016 Technology Enhancements for Developers
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Wylie Blanchard
 ## Title: SQL Server 2014/2016 Technology Enhancements for Developers
@@ -207,7 +207,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database D
 #  
 #### SessionID: 53997
 # Temporal Tables in SQL 2016
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dan de Sousa
 ## Title: Temporal Tables in SQL 2016
@@ -220,7 +220,7 @@ This presentation will go through the requirements, some use cases, technicaliti
 #  
 #### SessionID: 54038
 # Diagnosing Common Query Performance Problems with Execution Plans
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Tony Davis
 ## Title: Diagnosing Common Query Performance Problems with Execution Plans
@@ -230,7 +230,7 @@ If your query logic confused the optimizer, or if it had inaccurate statistical 
 #  
 #### SessionID: 53993
 # Power BI developer features easy as 1-2-3: live tiles, REST APIs,
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Charles Sterling
 ## Title: Power BI developer features easy as 1-2-3: live tiles, REST APIs,
@@ -239,7 +239,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 54033
 # Power BI - Dashboard in an Hour
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Analytics and Visualization
 ## Speaker: Ron Ellis Gaut
 ## Title: Power BI - Dashboard in an Hour
@@ -253,7 +253,7 @@ Power BI is a collection of software services, apps, and connectors that work to
 #  
 #### SessionID: 54037
 # WhereScape RED - an agile IDE for Data Warehouses
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Douglas Barrett
 ## Title: WhereScape RED - an agile IDE for Data Warehouses
@@ -268,7 +268,7 @@ Join us for a discussion and demonstration on how you can deliver projects with 
 #  
 #### SessionID: 54045
 # Keeping your SQL Objects Safe In Development
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mickey Stuewe
 ## Title: Keeping your SQL Objects Safe In Development
@@ -281,7 +281,7 @@ Join me in this demo heavy session where we will explore the benefits of version
 #  
 #### SessionID: 54301
 # Learn about Pyramid Analytics BI Office Platform
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Picker
 ## Title: Learn about Pyramid Analytics BI Office Platform
@@ -290,7 +290,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 54344
 # Cluster Standalone SQL Server Instances at “Ludicrous” Speed
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: OJ Ngo
 ## Title: Cluster Standalone SQL Server Instances at “Ludicrous” Speed
@@ -306,7 +306,7 @@ Stop slaving over your traditional WSFC environments and learn why Global 500 cu
 #  
 #### SessionID: 54434
 # Remove Repetitive SQL Agent Jobs from Your Plate, from Your Plate
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Vliet
 ## Title: Remove Repetitive SQL Agent Jobs from Your Plate, from Your Plate
@@ -317,7 +317,7 @@ Plus, we’ll explore some of the ways JAMS can integrate SQL processes into cro
 #  
 #### SessionID: 55112
 # Server Storage Performance Best Practices
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Craig Allen
 ## Title: Server Storage Performance Best Practices
@@ -326,7 +326,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 52832
 # Mobile, Paginated, KPIs, and Power BI, Oh My! SSRS 2016 Reporting
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Information Delivery
 ## Speaker: Steve Wake
 ## Title: Mobile, Paginated, KPIs, and Power BI, Oh My! SSRS 2016 Reporting
@@ -338,7 +338,7 @@ If you have been curious about what has changed with SSRS in SQL Server 2016 and
 #  
 #### SessionID: 52846
 # Real World In-Memory OLTP 2016
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Russ Thomas
 ## Title: Real World In-Memory OLTP 2016
@@ -353,7 +353,7 @@ Many presentations, books, and deep dives describe the internals of In-Memory OL
 #  
 #### SessionID: 52850
 # Making Row Level Security and Dynamic Data Masking work for you!
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: John Martin
 ## Title: Making Row Level Security and Dynamic Data Masking work for you!
@@ -366,7 +366,7 @@ Understanding the capabilities that we have available is important, as the threa
 #  
 #### SessionID: 52874
 # Why NULL is not a value (and other SQL gotchas)
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Wendy Pastrick
 ## Title: Why NULL is not a value (and other SQL gotchas)
@@ -375,7 +375,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database D
 #  
 #### SessionID: 53102
 # Biml for Beginners: Speed Up Your SSIS Development
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Biml for Beginners: Speed Up Your SSIS Development
@@ -390,7 +390,7 @@ Stop wasting your valuable time on doing the same things over and over and over 
 #  
 #### SessionID: 53458
 # SQL Server Debugging Made Easy using Extended Events
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amit Banerjee
 ## Title: SQL Server Debugging Made Easy using Extended Events
@@ -399,7 +399,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53875
 # Inside the SQLPS PowerShell Module
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: Inside the SQLPS PowerShell Module
@@ -408,7 +408,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54000
 # Cortana Analytics : Transform Data into Intelligence
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Analytics and Visualization
 ## Speaker: Leila Etaati
 ## Title: Cortana Analytics : Transform Data into Intelligence
@@ -417,7 +417,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 54476
 # Lightening Talks
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Misc Speakers
 ## Title: Lightening Talks
@@ -426,7 +426,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 52853
 # Introduction to Indexes and SARGability
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Jared Karney
 ## Title: Introduction to Indexes and SARGability
@@ -435,7 +435,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database D
 #  
 #### SessionID: 53187
 # Using a gateway to leverage on-premises data in Power BI
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Adam Saxton
 ## Title: Using a gateway to leverage on-premises data in Power BI
@@ -444,7 +444,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 53215
 # Using Powershell to Automate Your Restore Strategy
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Frank Gill
 ## Title: Using Powershell to Automate Your Restore Strategy
@@ -453,7 +453,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53903
 # Why Should I Care About ... Partitioned Views?
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
@@ -462,7 +462,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53941
 # Reporting Services 2016: New Features  Smart Migration Strategy
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services 2016: New Features  Smart Migration Strategy
@@ -473,7 +473,7 @@ The session will conclude with a look at my “Ultimate Footer”, which you can
 #  
 #### SessionID: 53980
 # Getting More from your Data with Azure Data Catalog
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Information Delivery
 ## Speaker: Matthew Roche
 ## Title: Getting More from your Data with Azure Data Catalog
@@ -484,7 +484,7 @@ If you want the data you produce to have more impact, or you want to spend less 
 #  
 #### SessionID: 54046
 # In memory OLTP  - what can it do for me?
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Martin Catherall
 ## Title: In memory OLTP  - what can it do for me?
@@ -497,7 +497,7 @@ Come along to this session and learn about some of features of in memory OLTP  -
 #  
 #### SessionID: 52830
 # SQL Server R Services in SQL 2016
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
@@ -506,7 +506,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 52859
 # Women in Technology: Identifying and Understanding Gender Bias  Inequality
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Women in Technology: Identifying and Understanding Gender Bias  Inequality
@@ -515,7 +515,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 53271
 # Split, Merge and Eliminate - An Introduction to Partitioning
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Martin Cairney
 ## Title: Split, Merge and Eliminate - An Introduction to Partitioning
@@ -525,7 +525,7 @@ In this session we'll cover the basics of partitioning - from getting started wi
 #  
 #### SessionID: 53275
 # What You're Missing If You Aren't Using SQL Windowing Functions
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Moss
 ## Title: What You're Missing If You Aren't Using SQL Windowing Functions
@@ -534,7 +534,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 53530
 # Security 101
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Thomas Grohser
 ## Title: Security 101
@@ -543,7 +543,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database D
 #  
 #### SessionID: 53818
 # Consolidated Essential Performance Health Check using PowerShell
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prakash Heda
 ## Title: Consolidated Essential Performance Health Check using PowerShell
@@ -554,7 +554,7 @@ First part of the email shares some key observations about SQL Server performanc
 #  
 #### SessionID: 53932
 # Hierarchical Queries
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Ben Thul
 ## Title: Hierarchical Queries
@@ -563,7 +563,7 @@ Event Date: 22-10-2016 - Session time: 16:45:00 - Track: Application  Database D
 #  
 #### SessionID: 53944
 # Advanced Spatial Analysis Beyond Bubble Charts
-#### [Back to calendar](#SQLSaturday-#572---Oregon-2016)
+#### [Back to calendar](#SQLSaturday-#572-Oregon-2016)
 Event Date: 22-10-2016 - Session time: 16:45:00 - Track: BI Information Delivery
 ## Speaker: Jason Horner
 ## Title: Advanced Spatial Analysis Beyond Bubble Charts

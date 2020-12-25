@@ -53,7 +53,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 86605
 # Find and Fix those Troublesome Queries
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Architecture  Tools
 ## Speaker: Allen White
 ## Title: Find and Fix those Troublesome Queries
@@ -62,7 +62,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Architecture  Tools
 #  
 #### SessionID: 87287
 # T-SQL Tips  Tricks to Make Your Life Easier!
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Andy Yun
 ## Title: T-SQL Tips  Tricks to Make Your Life Easier!
@@ -75,7 +75,7 @@ This session targets both developers and DBAs; the only prerequisites are the de
 #  
 #### SessionID: 87593
 # Introduction to Azure Search
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Julie Smith
 ## Title: Introduction to Azure Search
@@ -85,7 +85,7 @@ In this session I will introduce the features and use cases for Azure Search, ba
 #  
 #### SessionID: 87621
 # Pester your SQL Servers!
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Monitoring  Maintenance
 ## Speaker: James Livingston
 ## Title: Pester your SQL Servers!
@@ -98,7 +98,7 @@ This session will work through some light demos.  Familiarity with SQL Server da
 #  
 #### SessionID: 87692
 # A Perfect Ten: The Data Model
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Design
 ## Speaker: Leslie Andrews
 ## Title: A Perfect Ten: The Data Model
@@ -107,7 +107,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Design
 #  
 #### SessionID: 87694
 # Data Compression: Squeeze Out Some Free Gains
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 2
 ## Speaker: Jess Pomfret
 ## Title: Data Compression: Squeeze Out Some Free Gains
@@ -116,7 +116,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 
 #  
 #### SessionID: 87704
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Analytics  Visualization
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
@@ -127,7 +127,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 87707
 # Performance Tuning, Getting the Biggest Bang for Your Buck
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 1
 ## Speaker: Monica Rathbun
 ## Title: Performance Tuning, Getting the Biggest Bang for Your Buck
@@ -136,7 +136,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 
 #  
 #### SessionID: 86310
 # Encrypting Data within Sql Server
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within Sql Server
@@ -149,7 +149,7 @@ You will leave the session with a deeper understanding about SQL Server encrypti
 #  
 #### SessionID: 86354
 # Why do I need Analysis Services?
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Analytics  Visualization
 ## Speaker: Phillip Labry
 ## Title: Why do I need Analysis Services?
@@ -160,7 +160,7 @@ In this session we will go over use cases for Analysis Services and highlight th
 #  
 #### SessionID: 86385
 # “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 2
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
@@ -173,7 +173,7 @@ In this first of two back-to-back sessions on the subject, we’ll explore what 
 #  
 #### SessionID: 86895
 # Ola Hallengren’s Free  Awesome SQL Server Maintenance Solution
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Monitoring  Maintenance
 ## Speaker: Mike Petrak
 ## Title: Ola Hallengren’s Free  Awesome SQL Server Maintenance Solution
@@ -182,7 +182,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Monitoring  Ma
 #  
 #### SessionID: 86962
 # Applying Data Warehousing Principles
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Design
 ## Speaker: Spencer Swindell
 ## Title: Applying Data Warehousing Principles
@@ -191,7 +191,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Design
 #  
 #### SessionID: 87022
 # Azure Data Studio - The Open-Source, Cross-Platform, Cloud Database Tool for SQL
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Architecture  Tools
 ## Speaker: Andrew Loree
 ## Title: Azure Data Studio - The Open-Source, Cross-Platform, Cloud Database Tool for SQL
@@ -201,7 +201,7 @@ In this session, we introduce Azure Data Studio and interacting with SQL Server 
 #  
 #### SessionID: 88064
 # Real World Report Server Performance  Scalability Strategies
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 1
 ## Speaker: David Pless
 ## Title: Real World Report Server Performance  Scalability Strategies
@@ -218,7 +218,7 @@ We will cover Azure Data Studio extensions, Power BI Dashboards, and examining t
 #  
 #### SessionID: 89663
 # Azure Basics for the DBA
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: John Morehouse
 ## Title: Azure Basics for the DBA
@@ -227,7 +227,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Cloud
 #  
 #### SessionID: 86386
 # “Black Arts” Index Maintenance #2: Better Methods that Can Actually Prevent Fragmentation for Weeks.
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 2
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #2: Better Methods that Can Actually Prevent Fragmentation for Weeks.
@@ -242,7 +242,7 @@ We’ll also learn that no simple method is a panacea, what to do about the horr
 #  
 #### SessionID: 86402
 # SQL Server Transactional Replication: A Deeper Dive
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Design
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server Transactional Replication: A Deeper Dive
@@ -255,7 +255,7 @@ Finally, you'll see examples on how to configure transactional replication in hi
 #  
 #### SessionID: 86826
 # Grudge Match: XML vs JSON
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Aaron King
 ## Title: Grudge Match: XML vs JSON
@@ -264,7 +264,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 87150
 # I have Indexes, but do I have the Right Indexes?
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 1
 ## Speaker: Eric Blinn
 ## Title: I have Indexes, but do I have the Right Indexes?
@@ -273,7 +273,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 
 #  
 #### SessionID: 87218
 # Infrastructure for the DBA: An Introduction
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Architecture  Tools
 ## Speaker: Peter Shore
 ## Title: Infrastructure for the DBA: An Introduction
@@ -282,7 +282,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Architecture  Tools
 #  
 #### SessionID: 87382
 # Power BI with Maps: Choose Your Destination
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Analytics  Visualization
 ## Speaker: Rayis Imayev
 ## Title: Power BI with Maps: Choose Your Destination
@@ -293,7 +293,7 @@ Power BI itself a great tool that could feed your appetite for an adventure usin
 #  
 #### SessionID: 87651
 # Introduction to Query Store
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Monitoring  Maintenance
 ## Speaker: Erin Stellato
 ## Title: Introduction to Query Store
@@ -302,7 +302,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Monitoring  Ma
 #  
 #### SessionID: 87703
 # An Introduction to Azure SQL Managed Instances
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Tim Radney
 ## Title: An Introduction to Azure SQL Managed Instances
@@ -311,7 +311,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Cloud
 #  
 #### SessionID: 86337
 # Using Extended Events for Wait Stats Analysis
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 2
 ## Speaker: David Maxwell
 ## Title: Using Extended Events for Wait Stats Analysis
@@ -320,7 +320,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 
 #  
 #### SessionID: 86459
 # Wow....there are a ton of Settings in SSMS
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Architecture  Tools
 ## Speaker: Dave Bland
 ## Title: Wow....there are a ton of Settings in SSMS
@@ -329,7 +329,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Architecture  Tools
 #  
 #### SessionID: 86712
 # Introduction to M (a.k.a Power Query)
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Eugene Meidinger
 ## Title: Introduction to M (a.k.a Power Query)
@@ -340,7 +340,7 @@ In this session, we'll demonstrate how M is a linear series of transformations, 
 #  
 #### SessionID: 86922
 # Now you see it, but did you really?  Correcting visual fallacies...
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Analytics  Visualization
 ## Speaker: Jonathan Stewart
 ## Title: Now you see it, but did you really?  Correcting visual fallacies...
@@ -349,7 +349,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Analytics  Visualizatio
 #  
 #### SessionID: 87433
 # Building Scalable, Globally Distributed Systems with Cosmos DB
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Hasan Savran
 ## Title: Building Scalable, Globally Distributed Systems with Cosmos DB
@@ -368,7 +368,7 @@ Cosmos DB Limitations
 #  
 #### SessionID: 87556
 # I Want To Go Faster! An Introduction To Indexing
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 1
 ## Speaker: Bert Wagner
 ## Title: I Want To Go Faster! An Introduction To Indexing
@@ -383,7 +383,7 @@ Presentation available for download at: https://bertwagner.com/intro-to-indexing
 #  
 #### SessionID: 87659
 # A Beginners Guide to Transactions
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Design
 ## Speaker: John Deardurff
 ## Title: A Beginners Guide to Transactions
@@ -392,7 +392,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Design
 #  
 #### SessionID: 87731
 # PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Monitoring  Maintenance
 ## Speaker: Amy Herold
 ## Title: PowerShell for the DBA
@@ -403,7 +403,7 @@ In this session we will explore real-world examples and demonstrate how PowerShe
 #  
 #### SessionID: 86347
 # Taming of the Shrew - Optimizing Power BI
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Analytics  Visualization
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Taming of the Shrew - Optimizing Power BI
@@ -419,7 +419,7 @@ Understand when a problem is really a problem.
 #  
 #### SessionID: 86513
 # Data Virtualization -  SQL Server 2019 Enhanced PolyBase
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Architecture  Tools
 ## Speaker: Kimberly StJacques
 ## Title: Data Virtualization -  SQL Server 2019 Enhanced PolyBase
@@ -428,7 +428,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Architecture  Tools
 #  
 #### SessionID: 86560
 # The Curious Case of the Foreign Key
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 2
 ## Speaker: Lisa Bohm
 ## Title: The Curious Case of the Foreign Key
@@ -437,7 +437,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 
 #  
 #### SessionID: 87134
 # Lambda architecture design using Azure Databricks for advanced analytics
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Lucas Feiock
 ## Title: Lambda architecture design using Azure Databricks for advanced analytics
@@ -446,7 +446,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Cloud
 #  
 #### SessionID: 87148
 # "Full Text indexing!" or..."What is that service I never turn on?"
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 1
 ## Speaker: Eric Blinn
 ## Title: "Full Text indexing!" or..."What is that service I never turn on?"
@@ -457,7 +457,7 @@ We'll talk about installing, setting up, maintaining, and using full text indexe
 #  
 #### SessionID: 87400
 # Using distributed AGs for your migrations
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Design
 ## Speaker: Elizabeth Noble
 ## Title: Using distributed AGs for your migrations
@@ -468,7 +468,7 @@ In this session I will discuss what distributed AGs are, show how to set them up
 #  
 #### SessionID: 87729
 # Are you following SQL Server Development Best Practices?
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Sourav Mukherjee
 ## Title: Are you following SQL Server Development Best Practices?
@@ -478,7 +478,7 @@ Many of us already may have been using these steps already but for those who are
 #  
 #### SessionID: 88063
 # DBA - What's Most Important
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Monitoring  Maintenance
 ## Speaker: Ed Wagner
 ## Title: DBA - What's Most Important
@@ -487,7 +487,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Monitoring  Ma
 #  
 #### SessionID: 86457
 # Statistics - Why are they there and what do I do with them
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 2
 ## Speaker: Dave Bland
 ## Title: Statistics - Why are they there and what do I do with them
@@ -496,7 +496,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 
 #  
 #### SessionID: 86536
 # Getting Started with Apache Spark
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Kevin Feasel
 ## Title: Getting Started with Apache Spark
@@ -505,7 +505,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Cloud
 #  
 #### SessionID: 86644
 # How to Keep Your Database Servers Out of the News
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Monitoring  Maintenance
 ## Speaker: Matt Gordon
 ## Title: How to Keep Your Database Servers Out of the News
@@ -514,7 +514,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Monitoring  Ma
 #  
 #### SessionID: 86830
 # Build a Simple OLAP Cube from Scratch
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Analytics  Visualization
 ## Speaker: Joe Bruno
 ## Title: Build a Simple OLAP Cube from Scratch
@@ -523,7 +523,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Analytics  Visualizatio
 #  
 #### SessionID: 87217
 # The Data-Professional’s Junk Drawer
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Architecture  Tools
 ## Speaker: Peter Shore
 ## Title: The Data-Professional’s Junk Drawer
@@ -532,7 +532,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Architecture  Tools
 #  
 #### SessionID: 87645
 # The Analyst’s Guide To Finding and Fixing Performance Anti-Patterns
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Performance - 1
 ## Speaker: Bert Wagner
 ## Title: The Analyst’s Guide To Finding and Fixing Performance Anti-Patterns
@@ -547,7 +547,7 @@ Presentation available for download at: https://bertwagner.com/analyst-performan
 #  
 #### SessionID: 87674
 # 14 T-SQL Functions You May Not Know
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Development
 ## Speaker: Sam Nasr
 ## Title: 14 T-SQL Functions You May Not Know
@@ -556,7 +556,7 @@ Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Development
 #  
 #### SessionID: 88291
 # Learn History from Temporal Tables
-#### [Back to calendar](#SQLSaturday-#821---Cleveland-2019)
+#### [Back to calendar](#SQLSaturday-#821-Cleveland-2019)
 Event Date: 02-02-2019 - Session time: 16:00:00 - Track: Database Design
 ## Speaker: Ameena Lalani
 ## Title: Learn History from Temporal Tables

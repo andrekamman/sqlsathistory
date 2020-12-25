@@ -51,7 +51,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10111
 # The Transaction Log and How It Affects HA/DR
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Edwin Sarmiento
 ## Title: The Transaction Log and How It Affects HA/DR
@@ -60,7 +60,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 10182
 # Surviving Your Peak Database Load
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ben DeBow
 ## Title: Surviving Your Peak Database Load
@@ -69,7 +69,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 11254
 # “Indexing” Encrypted Data
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Chris Bell
 ## Title: “Indexing” Encrypted Data
@@ -78,7 +78,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 12383
 # Deploying Highly Available SQL Servers in the Amazon EC2 Cloud
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Bermingham
 ## Title: Deploying Highly Available SQL Servers in the Amazon EC2 Cloud
@@ -87,7 +87,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 12541
 # Database Health and Performance
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Klee
 ## Title: Database Health and Performance
@@ -96,7 +96,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 12884
 # SSIS templates, configurations and variables, oh my
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Daniel Bowlin
 ## Title: SSIS templates, configurations and variables, oh my
@@ -105,7 +105,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 12960
 # Dealing With Errors in SSIS 2012
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: David Dye
 ## Title: Dealing With Errors in SSIS 2012
@@ -114,7 +114,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 13357
 # How to Create a Self-Managed SQL Server Utility without SQL Server Enterprise Edition
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Carl Berglund
 ## Title: How to Create a Self-Managed SQL Server Utility without SQL Server Enterprise Edition
@@ -123,7 +123,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 13837
 # Query Optimization Crash Course
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Edward Pollack
 ## Title: Query Optimization Crash Course
@@ -133,7 +133,7 @@ This is a fun, fast-paced walkthrough of the most effective strategies for query
 #  
 #### SessionID: 14515
 # SQL Server 2012 AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: George Walters
 ## Title: SQL Server 2012 AlwaysOn Availability Groups
@@ -142,7 +142,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14976
 # Merge Replicaton Internals
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Hilary Cotter
 ## Title: Merge Replicaton Internals
@@ -151,7 +151,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 15523
 # How to Build a Centralized Database Monitoring Solution – Never Miss a Backup
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: John  Abrams
 ## Title: How to Build a Centralized Database Monitoring Solution – Never Miss a Backup
@@ -170,7 +170,7 @@ So that your answer to that all important question is always YES!
 #  
 #### SessionID: 16196
 # Into the Blue: Extending AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Joseph D'Antoni
 ## Title: Into the Blue: Extending AlwaysOn Availability Groups
@@ -182,7 +182,7 @@ This session will demonstrate how to extend an Availability Group into Windows A
 #  
 #### SessionID: 16302
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
@@ -191,7 +191,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17049
 # How to audit and prevent unwanted user actions.
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: John Miner
 ## Title: How to audit and prevent unwanted user actions.
@@ -213,7 +213,7 @@ Coverage:
 #  
 #### SessionID: 17890
 # Windows Azure SQL Database Design: Silver Lining and Dark Side
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Karen Lopez
 ## Title: Windows Azure SQL Database Design: Silver Lining and Dark Side
@@ -224,7 +224,7 @@ You’ll see demonstrations of the database design processes and gain best pract
 #  
 #### SessionID: 18193
 # SQL Server Internals and Architecture
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals and Architecture
@@ -241,7 +241,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18255
 # SQL Server Sudoku Solver using Transact-SQL
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Kevin Feit
 ## Title: SQL Server Sudoku Solver using Transact-SQL
@@ -250,7 +250,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 18271
 # SSAS Tabular 2012 vs SSAS Multidimensional OLAP
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Goff
 ## Title: SSAS Tabular 2012 vs SSAS Multidimensional OLAP
@@ -259,7 +259,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18408
 # Indexes: The Basics
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kathi Kellenberger
 ## Title: Indexes: The Basics
@@ -268,7 +268,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19041
 # Database Development with SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Leonard Lobel
 ## Title: Database Development with SQL Server Data Tools
@@ -277,7 +277,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 19751
 # The 10 Commandments of ETL
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Martin Schoombee
 ## Title: The 10 Commandments of ETL
@@ -288,7 +288,7 @@ In this session I will share the 10 basic principles I follow when developing ET
 #  
 #### SessionID: 19882
 # Automating in the Cloud
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Matt Velic
 ## Title: Automating in the Cloud
@@ -297,7 +297,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 20235
 # Virtualizing SQL 2012: Doing It Right
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Michael Corey
 ## Title: Virtualizing SQL 2012: Doing It Right
@@ -306,7 +306,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 20533
 # Recovery and Backup for Beginners
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Mike Hillwig
 ## Title: Recovery and Backup for Beginners
@@ -317,7 +317,7 @@ In this session, veteran DBA Mike Hillwig will start with understanding the reco
 #  
 #### SessionID: 21585
 # Indexing your Data Warehouse
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Troy Gallant
 ## Title: Indexing your Data Warehouse
@@ -326,7 +326,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 21788
 # ETL not ELT!  Common mistakes and misconceptions about SSIS
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Paul Rizza
 ## Title: ETL not ELT!  Common mistakes and misconceptions about SSIS
@@ -336,7 +336,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 23545
 #  HealthySQL
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Robert Pearl
 ## Title:  HealthySQL
@@ -351,7 +351,7 @@ Speaker photo Robert Pearl, President of Pearl Knowledge Solutions, Inc.,  SQL M
 #  
 #### SessionID: 23900
 # Biml for Fun and Profit with SSIS
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Samuel Vanga
 ## Title: Biml for Fun and Profit with SSIS
@@ -360,7 +360,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 24019
 # New version: Get-PowerShell | Get-SQLServer
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: SB Chatterjee
 ## Title: New version: Get-PowerShell | Get-SQLServer
@@ -372,7 +372,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 24666
 # Using Power View  Hadoop to Unlock Hidden Markets
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Stacia Varga
 ## Title: Using Power View  Hadoop to Unlock Hidden Markets
@@ -381,7 +381,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 25140
 # Database Design: Size DOES Matter
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Thomas LaRock
 ## Title: Database Design: Size DOES Matter
@@ -390,7 +390,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 25323
 # Alright,WHY is the server REALLY running so slow!
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Steve Simon
 ## Title: Alright,WHY is the server REALLY running so slow!
@@ -399,7 +399,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 25772
 # Building BI Solutions with Excel 2013
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Steve Hughes
 ## Title: Building BI Solutions with Excel 2013
@@ -408,7 +408,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 26090
 # Upgrading to SQL Server 2012 with limited downtime
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Ted Krueger
 ## Title: Upgrading to SQL Server 2012 with limited downtime
@@ -419,7 +419,7 @@ I don’t and that is why we’re going to look at methods to upgrade or migrate
 #  
 #### SessionID: 26112
 # SQL Server Storage Engine under the hood 
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Thomas Grohser
 ## Title: SQL Server Storage Engine under the hood 
@@ -434,7 +434,7 @@ Which I/O Subsystems (including SSD) are best for which type of data and what's 
 #  
 #### SessionID: 26195
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -443,7 +443,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 26820
 # A Walk Around the SQL Server 2012 Audit Feature
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Timothy McAliley
 ## Title: A Walk Around the SQL Server 2012 Audit Feature
@@ -452,7 +452,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 27458
 # Data Flow Architectures in Software Development Life-Cycle
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Virginia Mushkatbat
 ## Title: Data Flow Architectures in Software Development Life-Cycle
@@ -461,7 +461,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 27679
 # Minimally Invasive - Tools to Doctor Up Your Code
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Wayne Sheffield
 ## Title: Minimally Invasive - Tools to Doctor Up Your Code
@@ -470,7 +470,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 34843
 # SQL Server Databaseology 201
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology 201
@@ -479,7 +479,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 35785
 # Data Career Paths and Decision Making Strategies
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Melissa Demsak
 ## Title: Data Career Paths and Decision Making Strategies
@@ -488,7 +488,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9223
 # Advanced T-SQL Development with latest features.
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Alex Grinberg
 ## Title: Advanced T-SQL Development with latest features.
@@ -497,7 +497,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9239
 # Patch Management Strategies for SQL Server
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Allan Hirt
 ## Title: Patch Management Strategies for SQL Server
@@ -506,7 +506,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 9481
 # Big Data-BI Fusion: Microsoft HDInsight  MS BI
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andrew Brust
 ## Title: Big Data-BI Fusion: Microsoft HDInsight  MS BI
@@ -515,7 +515,7 @@ Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9915
 # SQL Server 2014 - Staying Ahead of the curve
-#### [Back to calendar](#SQLSaturday-#235---New-York-City-2013)
+#### [Back to calendar](#SQLSaturday-#235-New-York-City-2013)
 Event Date: 17-08-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Ashish Sharma
 ## Title: SQL Server 2014 - Staying Ahead of the curve

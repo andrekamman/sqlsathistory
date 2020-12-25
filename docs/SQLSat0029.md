@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28387
 # PowerShell for Data Professionals 
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals 
@@ -35,7 +35,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 28388
 # Virtualize This!
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration 2
 ## Speaker: Aaron Nelson
 ## Title: Virtualize This!
@@ -44,7 +44,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 28748
 # PowerPivot for Excel and SharePoint 2010
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Robert Cain
 ## Title: PowerPivot for Excel and SharePoint 2010
@@ -53,7 +53,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 28750
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Robert Cain
 ## Title: Introduction to SQL Server Integration Services
@@ -63,7 +63,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 29196
 # Introduction to MDX for SQL Programmers
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Barry Ralston
 ## Title: Introduction to MDX for SQL Programmers
@@ -72,7 +72,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 29996
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -81,7 +81,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 29997
 # Database Design Patterns
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Louis Davidson
 ## Title: Database Design Patterns
@@ -90,7 +90,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 30435
 # Tuna Helper for SQL Server DBA's
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Janis Griffin
 ## Title: Tuna Helper for SQL Server DBA's
@@ -99,7 +99,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 30852
 # LINQ Kinq for the DBA Guy
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration 2
 ## Speaker: Jim Wooley
 ## Title: LINQ Kinq for the DBA Guy
@@ -108,7 +108,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 30910
 # SQL Server Locking  Blocking Made Simple
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Joe Webb
 ## Title: SQL Server Locking  Blocking Made Simple
@@ -117,7 +117,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 30911
 # Tips  Tricks for Writing Better Queries
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Joe Webb
 ## Title: Tips  Tricks for Writing Better Queries
@@ -126,7 +126,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 31328
 # Location Aware Applications Using SQL Server 2008 
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Kevin Grohoske
 ## Title: Location Aware Applications Using SQL Server 2008 
@@ -135,7 +135,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 32616
 # DBA Repository Update 2010 Using SSRS and SSIS. 
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration 2
 ## Speaker: Rodney Landrum
 ## Title: DBA Repository Update 2010 Using SSRS and SSIS. 
@@ -144,7 +144,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 33036
 # Clustering for Mere Mortals.
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Geoff Hiten
 ## Title: Clustering for Mere Mortals.
@@ -153,7 +153,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 33038
 # Scale-Out the DBA.
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Geoff Hiten
 ## Title: Scale-Out the DBA.
@@ -162,7 +162,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 33279
 # FILESTREAM in Depth
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Sven Aelterman
 ## Title: FILESTREAM in Depth
@@ -171,7 +171,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 33280
 # FILESTREAM in Breadth
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Sven Aelterman
 ## Title: FILESTREAM in Breadth
@@ -180,7 +180,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 33499
 # SQL Server Memory Deep Dive
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration 2
 ## Speaker: Kevin Boles
 ## Title: SQL Server Memory Deep Dive
@@ -189,7 +189,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 33500
 # Parallel Query Execution Deep Dive
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration 2
 ## Speaker: Kevin Boles
 ## Title: Parallel Query Execution Deep Dive
@@ -198,7 +198,7 @@ Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 33839
 # ASP.NET for the Enterprise with NLB and Clustering
-#### [Back to calendar](#SQLSaturday-#29---Birmingham-2010)
+#### [Back to calendar](#SQLSaturday-#29-Birmingham-2010)
 Event Date: 27-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Vincent Mayfield
 ## Title: ASP.NET for the Enterprise with NLB and Clustering

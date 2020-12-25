@@ -15,7 +15,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 88937
 # Working with Very Large Tables Like a Pro in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#858---Athens-2019)
+#### [Back to calendar](#SQLSaturday-#858-Athens-2019)
 Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Guy Glantser
 ## Title: Working with Very Large Tables Like a Pro in SQL Server 2017
@@ -25,7 +25,7 @@ The latest versions of SQL Server, including 2017, offer several new features th
 #  
 #### SessionID: 93400
 # Machine Learning - Best Practices and Vulnerabilities
-#### [Back to calendar](#SQLSaturday-#858---Athens-2019)
+#### [Back to calendar](#SQLSaturday-#858-Athens-2019)
 Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Other
 ## Speaker: Sebastiano Galazzo
 ## Title: Machine Learning - Best Practices and Vulnerabilities
@@ -37,7 +37,7 @@ The second part will cover vulnerabilities of ML discovering how easy could be t
 #  
 #### SessionID: 90801
 # SQL Server Query Optimizer end-to-end
-#### [Back to calendar](#SQLSaturday-#858---Athens-2019)
+#### [Back to calendar](#SQLSaturday-#858-Athens-2019)
 Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sergio Govoni
 ## Title: SQL Server Query Optimizer end-to-end
@@ -46,7 +46,7 @@ Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 94972
 # Design, Build, Deploy  Monitor a Store on the Cloud using Azure Services as Lego blocks
-#### [Back to calendar](#SQLSaturday-#858---Athens-2019)
+#### [Back to calendar](#SQLSaturday-#858-Athens-2019)
 Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Stavros Menegos
 ## Title: Design, Build, Deploy  Monitor a Store on the Cloud using Azure Services as Lego blocks
@@ -56,7 +56,7 @@ Furthermore, how all these can be orchestrated and programmed on Microsoft .NET 
 #  
 #### SessionID: 89174
 # Hash Match, the Operator - part 1
-#### [Back to calendar](#SQLSaturday-#858---Athens-2019)
+#### [Back to calendar](#SQLSaturday-#858-Athens-2019)
 Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: Hash Match, the Operator - part 1
@@ -68,7 +68,7 @@ It is going to be wild ride, so keep your hands, arms, and legs inside the confe
 #  
 #### SessionID: 89552
 # Hacking SQL Server Is Not Enough
-#### [Back to calendar](#SQLSaturday-#858---Athens-2019)
+#### [Back to calendar](#SQLSaturday-#858-Athens-2019)
 Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server Is Not Enough
@@ -79,7 +79,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #  
 #### SessionID: 88955
 # Exploiting Artificial Intelligence within Power BI
-#### [Back to calendar](#SQLSaturday-#858---Athens-2019)
+#### [Back to calendar](#SQLSaturday-#858-Athens-2019)
 Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Exploiting Artificial Intelligence within Power BI
@@ -88,7 +88,7 @@ Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 89175
 # Hash Match, the Operator - part 2
-#### [Back to calendar](#SQLSaturday-#858---Athens-2019)
+#### [Back to calendar](#SQLSaturday-#858-Athens-2019)
 Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: Hash Match, the Operator - part 2
@@ -100,7 +100,7 @@ It is going to be wild ride, so keep your hands, arms, and legs inside the confe
 #  
 #### SessionID: 90093
 # Effectively Troubleshooting Latency and Failover of Always On Availability Group
-#### [Back to calendar](#SQLSaturday-#858---Athens-2019)
+#### [Back to calendar](#SQLSaturday-#858-Athens-2019)
 Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcelo Fernandes
 ## Title: Effectively Troubleshooting Latency and Failover of Always On Availability Group
@@ -109,7 +109,7 @@ Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91702
 # Introduction to Polybase
-#### [Back to calendar](#SQLSaturday-#858---Athens-2019)
+#### [Back to calendar](#SQLSaturday-#858-Athens-2019)
 Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Wehland
 ## Title: Introduction to Polybase

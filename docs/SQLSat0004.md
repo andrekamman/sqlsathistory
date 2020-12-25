@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 34940
 # Statistics in SQL Server
-#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)---Orlando-2008)
+#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)-Orlando-2008)
 Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL for DBA's
 ## Speaker: Andy Warren
 ## Title: Statistics in SQL Server
@@ -26,7 +26,7 @@ Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL for DBA's
 #  
 #### SessionID: 34946
 # Using CASE in TSQL
-#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)---Orlando-2008)
+#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)-Orlando-2008)
 Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL for Developers
 ## Speaker: Michael Antonovich
 ## Title: Using CASE in TSQL
@@ -35,7 +35,7 @@ Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL for Developers
 #  
 #### SessionID: 34949
 # Introduction to SQL Server Full Text Searching
-#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)---Orlando-2008)
+#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)-Orlando-2008)
 Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL for DBA's
 ## Speaker: Robert Cain
 ## Title: Introduction to SQL Server Full Text Searching
@@ -44,7 +44,7 @@ Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL for DBA's
 #  
 #### SessionID: 34979
 # SQL Server 2008 New Feature Overview
-#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)---Orlando-2008)
+#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)-Orlando-2008)
 Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL for DBA's
 ## Speaker: Brian Knight
 ## Title: SQL Server 2008 New Feature Overview
@@ -53,7 +53,7 @@ Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL for DBA's
 #  
 #### SessionID: 35021
 # Home Runs and DMX, Intro to Microsoft Data Mining
-#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)---Orlando-2008)
+#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)-Orlando-2008)
 Event Date: 07-06-2008 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Barry Ralston
 ## Title: Home Runs and DMX, Intro to Microsoft Data Mining
@@ -62,7 +62,7 @@ Event Date: 07-06-2008 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 35066
 # Using DDL Triggers
-#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)---Orlando-2008)
+#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)-Orlando-2008)
 Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL for DBA's
 ## Speaker: Chris Rock
 ## Title: Using DDL Triggers
@@ -71,7 +71,7 @@ Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL for DBA's
 #  
 #### SessionID: 35240
 # SOA Using SQL Server 2005 Service Broker
-#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)---Orlando-2008)
+#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)-Orlando-2008)
 Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL for Developers
 ## Speaker: Judy Pipia
 ## Title: SOA Using SQL Server 2005 Service Broker
@@ -80,7 +80,7 @@ Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL for Developers
 #  
 #### SessionID: 35246
 # CLR User Defined Functions - Real World Examples
-#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)---Orlando-2008)
+#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)-Orlando-2008)
 Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL for Developers
 ## Speaker: Jon Winer
 ## Title: CLR User Defined Functions - Real World Examples
@@ -89,7 +89,7 @@ Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL for Developers
 #  
 #### SessionID: 35269
 # XML Features in SQL 2005
-#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)---Orlando-2008)
+#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)-Orlando-2008)
 Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL for Developers
 ## Speaker: Kendal Van Dyke
 ## Title: XML Features in SQL 2005
@@ -98,7 +98,7 @@ Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL for Developers
 #  
 #### SessionID: 35391
 # Introduction to Master Data Management (MDM)
-#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)---Orlando-2008)
+#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)-Orlando-2008)
 Event Date: 07-06-2008 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Rushabh Mehta
 ## Title: Introduction to Master Data Management (MDM)
@@ -107,7 +107,7 @@ Event Date: 07-06-2008 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 35398
 # Analysis Services 2005 – Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)---Orlando-2008)
+#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)-Orlando-2008)
 Event Date: 07-06-2008 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Robert Skoglund
 ## Title: Analysis Services 2005 – Tips  Tricks
@@ -116,7 +116,7 @@ Event Date: 07-06-2008 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 35505
 # Using SSIS to Solve Common Business Problems
-#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)---Orlando-2008)
+#### [Back to calendar](#SQLSaturday-#4-Tweener(Sat)-Orlando-2008)
 Event Date: 07-06-2008 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Wes Dumey
 ## Title: Using SSIS to Solve Common Business Problems

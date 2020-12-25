@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 62643
 # Introduction to SQL Server v.Next for Linux
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrzej Kukula
 ## Title: Introduction to SQL Server v.Next for Linux
@@ -46,7 +46,7 @@ In addition to slides you're going to see lots of terminal windows, tools that a
 #  
 #### SessionID: 67023
 # Is Power BI Enterprise ready?
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Scott Hudson
 ## Title: Is Power BI Enterprise ready?
@@ -55,7 +55,7 @@ Event Date: 14-10-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67633
 # Creating data-driven serverless apps with Azure Functions
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: Creating data-driven serverless apps with Azure Functions
@@ -64,7 +64,7 @@ Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 68183
 # Database Continuous Delivery on the Microsoft Platform
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Gavin Campbell
 ## Title: Database Continuous Delivery on the Microsoft Platform
@@ -79,7 +79,7 @@ This session will discuss some of the challenges associated with database contin
 #  
 #### SessionID: 68895
 # Adaptive Query Processing in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Margarita Naumova
 ## Title: Adaptive Query Processing in SQL Server 2017
@@ -88,7 +88,7 @@ Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 62632
 # Cloud BI with Azure Analysis Services
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Cloud BI with Azure Analysis Services
@@ -97,7 +97,7 @@ Event Date: 14-10-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 66269
 # Enabling Citizen Data Science with Microsoft
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jan Mulkens
 ## Title: Enabling Citizen Data Science with Microsoft
@@ -108,7 +108,7 @@ These advances have given people with less knowledge of statistics and programmi
 #  
 #### SessionID: 68274
 # Real world DevOps - challenges, tools and solutions
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Ivan Donev
 ## Title: Real world DevOps - challenges, tools and solutions
@@ -117,7 +117,7 @@ Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Application  Database D
 #  
 #### SessionID: 68572
 # In-database Predictive Analytics with SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Analytics and Visualization
 ## Speaker: Sacha Tomey
 ## Title: In-database Predictive Analytics with SQL Server 2017
@@ -128,7 +128,7 @@ The session will initially provide a primer to supervised Machine Learning befor
 #  
 #### SessionID: 68609
 # Power BI: Performance Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: BI Information Delivery
 ## Speaker: Callum Green
 ## Title: Power BI: Performance Tips  Tricks
@@ -141,7 +141,7 @@ This 1 hour session will range from quick development wins to more strategic, en
 #  
 #### SessionID: 62622
 # Anomaly Detection
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dejan Sarka
 ## Title: Anomaly Detection
@@ -150,7 +150,7 @@ Event Date: 14-10-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 62687
 # How Indexes and Statistics can improve performance of our databases
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Professional Development
 ## Speaker: Gilberto Zampatti
 ## Title: How Indexes and Statistics can improve performance of our databases
@@ -159,7 +159,7 @@ Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 66560
 # Creating “Always Encrypted” applications
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Andrey Nikolov
 ## Title: Creating “Always Encrypted” applications
@@ -170,7 +170,7 @@ This session is intended for both developers and database administrators.
 #  
 #### SessionID: 66913
 # SQL database on IoT devices, could you? should you? would you?
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: SQL database on IoT devices, could you? should you? would you?
@@ -181,7 +181,7 @@ How does all fit with the field gateway concept?  During the presentation, we wi
 #  
 #### SessionID: 68026
 # Data replication - who with whom, for whom, why and for what?
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kamil Nowinski
 ## Title: Data replication - who with whom, for whom, why and for what?
@@ -190,7 +190,7 @@ Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64713
 # PowerBI for Rookies
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Miroslav Dimitrov
 ## Title: PowerBI for Rookies
@@ -199,7 +199,7 @@ Event Date: 14-10-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67670
 # Machine Learning for IoT - Unpacking the blackbox
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Analytics and Visualization
 ## Speaker: Ivelin Andreev
 ## Title: Machine Learning for IoT - Unpacking the blackbox
@@ -209,7 +209,7 @@ This session is about managing and understanding IoT data. Check this out and se
 #  
 #### SessionID: 67865
 # State-of-the-Art Machine Learning Algorithms in R from Microsoft
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: State-of-the-Art Machine Learning Algorithms in R from Microsoft
@@ -222,7 +222,7 @@ In the second part we will use almost the same ML algorithms for classification 
 #  
 #### SessionID: 69498
 # How GDPR affect most common DBA maintenance tasks
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tsvetozar Ivanov
 ## Title: How GDPR affect most common DBA maintenance tasks
@@ -233,7 +233,7 @@ Session is suitable for beginner DBAs and Developers.
 #  
 #### SessionID: 69543
 # USE CASE: LOCALDB
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Daniel Joskovski
 ## Title: USE CASE: LOCALDB
@@ -252,7 +252,7 @@ In this presentation we will show:
 #  
 #### SessionID: 62634
 # Exploring Dark Data with SQL Server 2016 and R [EN]
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: BI Information Delivery
 ## Speaker: Oliver Frost
 ## Title: Exploring Dark Data with SQL Server 2016 and R [EN]
@@ -265,7 +265,7 @@ This session is for anyone who is new to R and is interesting expanding their sk
 #  
 #### SessionID: 62733
 # Hacking SQL Server
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server
@@ -278,7 +278,7 @@ This is a demo-driven session, suited for DBAs, developers and security consulta
 #  
 #### SessionID: 67798
 # Master your Data in the Cloud with Power Apps and Logic Apps
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matt How
 ## Title: Master your Data in the Cloud with Power Apps and Logic Apps
@@ -287,7 +287,7 @@ Event Date: 14-10-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68901
 # I am a DBA! "What's next"?
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rozalina Zaharieva
 ## Title: I am a DBA! "What's next"?
@@ -296,7 +296,7 @@ Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 69508
 # GDPR compliant by design
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Miroslav Lessev
 ## Title: GDPR compliant by design
@@ -309,7 +309,7 @@ This presentation provides a breakdown of the key provisions introduced by the n
 #  
 #### SessionID: 62627
 # From SQL to R – Leverage Your T-SQL Knowledge to Learn R
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: From SQL to R – Leverage Your T-SQL Knowledge to Learn R
@@ -318,7 +318,7 @@ Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 66257
 # Dynamic Search Conditions
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Dynamic Search Conditions
@@ -327,7 +327,7 @@ Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Application  Database D
 #  
 #### SessionID: 67155
 # Discover the new graph features of SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Rudi Bruchez
 ## Title: Discover the new graph features of SQL Server 2017
@@ -336,7 +336,7 @@ Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Application  Database D
 #  
 #### SessionID: 67944
 # Logic Apps - Data Orchestration in Azure
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Whiteley
 ## Title: Logic Apps - Data Orchestration in Azure
@@ -349,7 +349,7 @@ This session will introduce Logic Apps  how it fits into the Modern Azure Wareho
 #  
 #### SessionID: 69545
 # Dealing with CosmosDB
-#### [Back to calendar](#SQLSaturday-#642---Sofia-2017)
+#### [Back to calendar](#SQLSaturday-#642-Sofia-2017)
 Event Date: 14-10-2017 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Dealing with CosmosDB

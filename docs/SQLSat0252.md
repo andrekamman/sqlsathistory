@@ -12,7 +12,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10717
 # Using Event Notifications with SQL Server
-#### [Back to calendar](#SQLSaturday-#252---Christchurch,-NZ-2013)
+#### [Back to calendar](#SQLSaturday-#252-Christchurch,-NZ-2013)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brent McCracken
 ## Title: Using Event Notifications with SQL Server
@@ -21,7 +21,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 12234
 # Microsoft SQL Server – Project Hekaton
-#### [Back to calendar](#SQLSaturday-#252---Christchurch,-NZ-2013)
+#### [Back to calendar](#SQLSaturday-#252-Christchurch,-NZ-2013)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dave Dustin
 ## Title: Microsoft SQL Server – Project Hekaton
@@ -32,7 +32,7 @@ In this session we'll look at what Hekaton actually is, how it achieves the 10x-
 #  
 #### SessionID: 12911
 # Building to scale: Overcoming Performance Hurdles
-#### [Back to calendar](#SQLSaturday-#252---Christchurch,-NZ-2013)
+#### [Back to calendar](#SQLSaturday-#252-Christchurch,-NZ-2013)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: David Curlewis
 ## Title: Building to scale: Overcoming Performance Hurdles
@@ -43,7 +43,7 @@ This will include some basic design and indexing best practices to kick things o
 #  
 #### SessionID: 19761
 # SQL Saturday #252 - Keynote and Introduction
-#### [Back to calendar](#SQLSaturday-#252---Christchurch,-NZ-2013)
+#### [Back to calendar](#SQLSaturday-#252-Christchurch,-NZ-2013)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Martin Catherall
 ## Title: SQL Saturday #252 - Keynote and Introduction
@@ -52,7 +52,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22625
 # 10 easy ways to improve data quality
-#### [Back to calendar](#SQLSaturday-#252---Christchurch,-NZ-2013)
+#### [Back to calendar](#SQLSaturday-#252-Christchurch,-NZ-2013)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ray Bachert
 ## Title: 10 easy ways to improve data quality
@@ -61,7 +61,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 23237
 # Are you High?  Can you Recovery?
-#### [Back to calendar](#SQLSaturday-#252---Christchurch,-NZ-2013)
+#### [Back to calendar](#SQLSaturday-#252-Christchurch,-NZ-2013)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Rob Douglas
 ## Title: Are you High?  Can you Recovery?
@@ -70,7 +70,7 @@ Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9777
 # Code-Less Securing of SQL Server
-#### [Back to calendar](#SQLSaturday-#252---Christchurch,-NZ-2013)
+#### [Back to calendar](#SQLSaturday-#252-Christchurch,-NZ-2013)
 Event Date: 10-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Argenis Fernandez
 ## Title: Code-Less Securing of SQL Server

@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10434
 # 2012 TSQL Sweets
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 1 Amazon
 ## Speaker: Bill Fellows
 ## Title: 2012 TSQL Sweets
@@ -45,7 +45,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 1 Amazon
 #  
 #### SessionID: 11488
 # "What is the Best Disaster Recovery Solution?"
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 3 Columbia
 ## Speaker: Chris Shaw
 ## Title: "What is the Best Disaster Recovery Solution?"
@@ -54,7 +54,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 3 Columbia
 #  
 #### SessionID: 11948
 # Introduction to Master Data Services 2012 
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 4 Seine
 ## Speaker: Christopher Price
 ## Title: Introduction to Master Data Services 2012 
@@ -63,7 +63,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 4 Seine
 #  
 #### SessionID: 11950
 # Integrating DQS, MDS and Your Data Warehouse 
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 4 Seine
 ## Speaker: Christopher Price
 ## Title: Integrating DQS, MDS and Your Data Warehouse 
@@ -72,7 +72,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 4 Seine
 #  
 #### SessionID: 12365
 # SSRS: Reporting on Reports
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 1 Amazon
 ## Speaker: David Valentine
 ## Title: SSRS: Reporting on Reports
@@ -81,7 +81,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 1 Amazon
 #  
 #### SessionID: 12574
 # Database Health and Performance
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 0 Sports Bar
 ## Speaker: David Klee
 ## Title: Database Health and Performance
@@ -90,7 +90,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 0 Sports Bar
 #  
 #### SessionID: 13259
 # Virtualizing Business Critical SQL Servers
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 5 Hudson
 ## Speaker: David Klee
 ## Title: Virtualizing Business Critical SQL Servers
@@ -99,7 +99,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 5 Hudson
 #  
 #### SessionID: 13386
 # Devs are from Mars, Report Servers are from Venus
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 2 Danube
 ## Speaker: Doug Lane
 ## Title: Devs are from Mars, Report Servers are from Venus
@@ -116,7 +116,7 @@ In this couples therapy for you and SSRS, rekindle your love by reviewing how re
 #  
 #### SessionID: 14270
 # Building your first PowerView report
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 3 Columbia
 ## Speaker: Frank Kearney
 ## Title: Building your first PowerView report
@@ -125,7 +125,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 3 Columbia
 #  
 #### SessionID: 14951
 # Introduction to Execution Plans
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 3 Columbia
 ## Speaker: Nathan  Heaivilin
 ## Title: Introduction to Execution Plans
@@ -134,7 +134,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 3 Columbia
 #  
 #### SessionID: 15932
 # Discovering the Plan Cache
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 4 Seine
 ## Speaker: Jason Strate
 ## Title: Discovering the Plan Cache
@@ -143,7 +143,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 4 Seine
 #  
 #### SessionID: 15933
 # Extended Events, Work Smarter Not Harder
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 2 Danube
 ## Speaker: Jason Strate
 ## Title: Extended Events, Work Smarter Not Harder
@@ -152,7 +152,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 2 Danube
 #  
 #### SessionID: 16883
 # The Accidental Programmer
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 2 Danube
 ## Speaker: Jason Kassay
 ## Title: The Accidental Programmer
@@ -161,7 +161,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 2 Danube
 #  
 #### SessionID: 17659
 # So you want to be a computer consultant?
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 6 Missouri
 ## Speaker: Juan Soto
 ## Title: So you want to be a computer consultant?
@@ -173,7 +173,7 @@ In this session you will lean sales, marketing and management strategies to get 
 #  
 #### SessionID: 17899
 # Database Design Throwdown
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 1 Amazon
 ## Speaker: Karen Lopez
 ## Title: Database Design Throwdown
@@ -182,7 +182,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 1 Amazon
 #  
 #### SessionID: 17900
 # Model-Driven Database Design
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 2 Danube
 ## Speaker: Karen Lopez
 ## Title: Model-Driven Database Design
@@ -191,7 +191,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 2 Danube
 #  
 #### SessionID: 19200
 # Reporting Services tips for the Stephen Few fan
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 1 Amazon
 ## Speaker: Meagan Longoria
 ## Title: Reporting Services tips for the Stephen Few fan
@@ -200,7 +200,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 1 Amazon
 #  
 #### SessionID: 23023
 # Freaky Fast Database Development Tips
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 0 Sports Bar
 ## Speaker: Rick Krueger
 ## Title: Freaky Fast Database Development Tips
@@ -211,7 +211,7 @@ Co-Presenter: Dave Valentine (@IngeniousSQL)
 #  
 #### SessionID: 23118
 # SSIS 2012 Management Considerations and Best Pract
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 4 Seine
 ## Speaker: Rushabh Mehta
 ## Title: SSIS 2012 Management Considerations and Best Pract
@@ -220,7 +220,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 4 Seine
 #  
 #### SessionID: 23119
 # Introduction to Data Quality Services
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 4 Seine
 ## Speaker: Rushabh Mehta
 ## Title: Introduction to Data Quality Services
@@ -229,7 +229,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 4 Seine
 #  
 #### SessionID: 23478
 # Storage Design and SQL Server Performance 
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 0 Sports Bar
 ## Speaker: Rowland Gosling
 ## Title: Storage Design and SQL Server Performance 
@@ -241,7 +241,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 0 Sports Bar
 #  
 #### SessionID: 25123
 # Choose Your Own Adventure: Performance Tuning
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 0 Sports Bar
 ## Speaker: Thomas LaRock
 ## Title: Choose Your Own Adventure: Performance Tuning
@@ -250,7 +250,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 0 Sports Bar
 #  
 #### SessionID: 25688
 # SSIS 2012: More Than Just a Pretty UI
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 2 Danube
 ## Speaker: Steve Wake
 ## Title: SSIS 2012: More Than Just a Pretty UI
@@ -259,7 +259,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 2 Danube
 #  
 #### SessionID: 26000
 # 45 Minutes to Build Your First Reporting Services
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 1 Amazon
 ## Speaker: Tamera Clark
 ## Title: 45 Minutes to Build Your First Reporting Services
@@ -268,7 +268,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 1 Amazon
 #  
 #### SessionID: 26259
 # Parallel Query Execution Deep Dive
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 3 Columbia
 ## Speaker: Kevin Boles
 ## Title: Parallel Query Execution Deep Dive
@@ -277,7 +277,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 3 Columbia
 #  
 #### SessionID: 26261
 # SQL Server 2012 Column Store Index
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 3 Columbia
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2012 Column Store Index
@@ -286,7 +286,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 3 Columbia
 #  
 #### SessionID: 27343
 # SQL Azure  Intro and What's New
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 5 Hudson
 ## Speaker: Andy Thiru
 ## Title: SQL Azure  Intro and What's New
@@ -295,7 +295,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 5 Hudson
 #  
 #### SessionID: 27344
 # SQL Azure Data Sync and What's New
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 5 Hudson
 ## Speaker: Andy Thiru
 ## Title: SQL Azure Data Sync and What's New
@@ -312,7 +312,7 @@ What you will learn:
 #  
 #### SessionID: 34830
 # 10 Things That Every DBA Should Know!
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 0 Sports Bar
 ## Speaker: John Morehouse
 ## Title: 10 Things That Every DBA Should Know!
@@ -321,7 +321,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 0 Sports Bar
 #  
 #### SessionID: 34831
 # Social Networking Is Alive!
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 6 Missouri
 ## Speaker: John Morehouse
 ## Title: Social Networking Is Alive!
@@ -330,7 +330,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 6 Missouri
 #  
 #### SessionID: 9611
 # Maintain Your DBs with Help from Ola Hallengren
-#### [Back to calendar](#SQLSaturday-#159---Kansas-City-2012)
+#### [Back to calendar](#SQLSaturday-#159-Kansas-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: 5 Hudson
 ## Speaker: Andy Galbraith
 ## Title: Maintain Your DBs with Help from Ola Hallengren

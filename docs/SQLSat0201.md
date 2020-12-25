@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10308
 # SQL Azure vs. Amazon RDS - An In-Depth Comparison
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ben Aminnia
 ## Title: SQL Azure vs. Amazon RDS - An In-Depth Comparison
@@ -46,7 +46,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 10316
 # Dive into the Query Optimizer-Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer-Undocumented Insight
@@ -55,7 +55,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 10317
 # Understanding Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
@@ -64,7 +64,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 10721
 # Lean BI Solutions w PowerPivot, Tabular  a Mullet
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Brent Greenwood
 ## Title: Lean BI Solutions w PowerPivot, Tabular  a Mullet
@@ -73,7 +73,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 11339
 # Enterprise Tabular Models
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Carlos Bossy
 ## Title: Enterprise Tabular Models
@@ -82,7 +82,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 11340
 # Predictive Modeling with SQL Server Data Mining
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Carlos Bossy
 ## Title: Predictive Modeling with SQL Server Data Mining
@@ -91,7 +91,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 13285
 # "It's MINE" - Intro into locking in SQL Server
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Dmitri Korotkevitch
 ## Title: "It's MINE" - Intro into locking in SQL Server
@@ -103,7 +103,7 @@ This is PowerPoint-free session. Only Management Studio, T-SQL Code and bag of c
 #  
 #### SessionID: 13286
 # Data Partitioning in VLDB
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Dmitri Korotkevitch
 ## Title: Data Partitioning in VLDB
@@ -112,7 +112,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13419
 # Thanks for the Memory
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Diana Dee
 ## Title: Thanks for the Memory
@@ -129,7 +129,7 @@ The talk will describe:
 #  
 #### SessionID: 14686
 # Hardware 201: Selecting Database Hardware
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Glenn Berry
 ## Title: Hardware 201: Selecting Database Hardware
@@ -138,7 +138,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14687
 # Dr. DMV: How to Use Dynamic Management Views
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Glenn Berry
 ## Title: Dr. DMV: How to Use Dynamic Management Views
@@ -148,7 +148,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15281
 # 10 Reporting Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Ike Ellis
 ## Title: 10 Reporting Tips and Tricks
@@ -157,7 +157,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 15282
 # Continuous Integration, Continuous Deployment, and
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ike Ellis
 ## Title: Continuous Integration, Continuous Deployment, and
@@ -166,7 +166,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15704
 # Extend Your Knowledge with Extended Events!
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Janis Griffin
 ## Title: Extend Your Knowledge with Extended Events!
@@ -177,7 +177,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15705
 # Looney Tuner?  No, there IS a method to my madness
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Janis Griffin
 ## Title: Looney Tuner?  No, there IS a method to my madness
@@ -186,7 +186,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 15706
 # Advanced Performance Tuning Tips with Confio’s Ignite
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Janis Griffin
 ## Title: Advanced Performance Tuning Tips with Confio’s Ignite
@@ -195,7 +195,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 15827
 # Dimension Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jason Horner
 ## Title: Dimension Modeling Design Patterns: Beyond Basics
@@ -209,7 +209,7 @@ toughest Dimensional Modeling quandaries.
 #  
 #### SessionID: 16912
 # From Impaired To Insightful Geospatial Reporting
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Julie Koesmarno
 ## Title: From Impaired To Insightful Geospatial Reporting
@@ -218,7 +218,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 17494
 # Data Quality Services Approach to Cleansing 
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Joseph Verftido
 ## Title: Data Quality Services Approach to Cleansing 
@@ -227,7 +227,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 19324
 # AWS for the SQL Server Pro
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Lynn Langit
 ## Title: AWS for the SQL Server Pro
@@ -236,7 +236,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 20384
 # Tablix - The Rubik Cube of Reporting Services
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Mickey Stuewe
 ## Title: Tablix - The Rubik Cube of Reporting Services
@@ -247,7 +247,7 @@ Learn how to get the most out of the Tablix controls in this demo-heavy session.
 #  
 #### SessionID: 22879
 # Data Vault Data Warehouse Architecture
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jeff Renz
 ## Title: Data Vault Data Warehouse Architecture
@@ -256,7 +256,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 23162
 # Designing for Analysis: Facts and Dimensions
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Robert Hatton
 ## Title: Designing for Analysis: Facts and Dimensions
@@ -265,7 +265,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 23163
 # The server side of Reporting Services
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Robert Hatton
 ## Title: The server side of Reporting Services
@@ -274,7 +274,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 24686
 # Taking BI to the Next Level: Collaboration
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Stacia Varga
 ## Title: Taking BI to the Next Level: Collaboration
@@ -283,7 +283,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 24687
 # A Big Data Primer
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Stacia Varga
 ## Title: A Big Data Primer
@@ -292,7 +292,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 24846
 # MDX vs. DAX: Currency Conversion
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Christian Wade
 ## Title: MDX vs. DAX: Currency Conversion
@@ -301,7 +301,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 24946
 # Report Delivery - From Report Manager to the Cloud
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Phil Robinson
 ## Title: Report Delivery - From Report Manager to the Cloud
@@ -310,7 +310,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 27100
 # Visibility into server workload to the statement level with Dell's Foglight Performance Analysis for
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Trent Mera
 ## Title: Visibility into server workload to the statement level with Dell's Foglight Performance Analysis for
@@ -319,7 +319,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 27459
 # Data Flow Architectures in Software Development Life-Cycle
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Virginia Mushkatbat
 ## Title: Data Flow Architectures in Software Development Life-Cycle
@@ -328,7 +328,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 34544
 # Violin Memory Lunch Session
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Violin Memory
 ## Title: Violin Memory Lunch Session
@@ -337,7 +337,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9146
 # SQL 2012 Programmability Enhancements
-#### [Back to calendar](#SQLSaturday-#201---Orange-County,-CA-2013)
+#### [Back to calendar](#SQLSaturday-#201-Orange-County,-CA-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Andrew Karcher
 ## Title: SQL 2012 Programmability Enhancements

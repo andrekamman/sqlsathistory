@@ -14,7 +14,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 56568
 # Date Dimension: One Script for All
-#### [Back to calendar](#SQLSaturday-#596---Denver---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#596-Denver-BI-Edition-2017)
 Event Date: 25-02-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Wake
 ## Title: Date Dimension: One Script for All
@@ -23,7 +23,7 @@ Event Date: 25-02-2017 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 58256
 # Business Intelligence Overview - Architecture and Management
-#### [Back to calendar](#SQLSaturday-#596---Denver---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#596-Denver-BI-Edition-2017)
 Event Date: 25-02-2017 - Session time: 15:00:00 - Track: Thoughtful Track
 ## Speaker: Carlos Bossy
 ## Title: Business Intelligence Overview - Architecture and Management
@@ -32,7 +32,7 @@ Event Date: 25-02-2017 - Session time: 15:00:00 - Track: Thoughtful Track
 #  
 #### SessionID: 56543
 # Data Visualization:  How to truly tell a great story!
-#### [Back to calendar](#SQLSaturday-#596---Denver---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#596-Denver-BI-Edition-2017)
 Event Date: 25-02-2017 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization:  How to truly tell a great story!
@@ -41,7 +41,7 @@ Event Date: 25-02-2017 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 58254
 # Power BI for the Developer
-#### [Back to calendar](#SQLSaturday-#596---Denver---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#596-Denver-BI-Edition-2017)
 Event Date: 25-02-2017 - Session time: 15:00:00 - Track: Technical Track
 ## Speaker: Peter Myers
 ## Title: Power BI for the Developer
@@ -50,7 +50,7 @@ Event Date: 25-02-2017 - Session time: 15:00:00 - Track: Technical Track
 #  
 #### SessionID: 58262
 # Lunch
-#### [Back to calendar](#SQLSaturday-#596---Denver---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#596-Denver-BI-Edition-2017)
 Event Date: 25-02-2017 - Session time: 15:00:00 - Track: Technical Track
 ## Speaker: Steve Jones
 ## Title: Lunch
@@ -59,7 +59,7 @@ Event Date: 25-02-2017 - Session time: 15:00:00 - Track: Technical Track
 #  
 #### SessionID: 58263
 # Lunch
-#### [Back to calendar](#SQLSaturday-#596---Denver---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#596-Denver-BI-Edition-2017)
 Event Date: 25-02-2017 - Session time: 15:00:00 - Track: Thoughtful Track
 ## Speaker: Steve Jones
 ## Title: Lunch
@@ -68,7 +68,7 @@ Event Date: 25-02-2017 - Session time: 15:00:00 - Track: Thoughtful Track
 #  
 #### SessionID: 56605
 # Test Automation: Agile Enablement for DW and BI Teams
-#### [Back to calendar](#SQLSaturday-#596---Denver---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#596-Denver-BI-Edition-2017)
 Event Date: 25-02-2017 - Session time: 15:00:00 - Track: Other
 ## Speaker: Cher Fox
 ## Title: Test Automation: Agile Enablement for DW and BI Teams
@@ -77,7 +77,7 @@ Event Date: 25-02-2017 - Session time: 15:00:00 - Track: Other
 #  
 #### SessionID: 58255
 # Practical Data Science using R and SQL
-#### [Back to calendar](#SQLSaturday-#596---Denver---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#596-Denver-BI-Edition-2017)
 Event Date: 25-02-2017 - Session time: 15:00:00 - Track: Thoughtful Track
 ## Speaker: Carlos Bossy
 ## Title: Practical Data Science using R and SQL
@@ -86,7 +86,7 @@ Event Date: 25-02-2017 - Session time: 15:00:00 - Track: Thoughtful Track
 #  
 #### SessionID: 57515
 # Azure Machine Learning: From Design to Integration
-#### [Back to calendar](#SQLSaturday-#596---Denver---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#596-Denver-BI-Edition-2017)
 Event Date: 25-02-2017 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Peter Myers
 ## Title: Azure Machine Learning: From Design to Integration

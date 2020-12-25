@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11852
 # An Introduction to Extended Events
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jack Corbett
 ## Title: An Introduction to Extended Events
@@ -43,7 +43,7 @@ What you should know coming in:
 #  
 #### SessionID: 12926
 # Dealing With Errors in SSIS 2012
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Dye
 ## Title: Dealing With Errors in SSIS 2012
@@ -52,7 +52,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 12927
 # Whats New in T-SQL With SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: David Dye
 ## Title: Whats New in T-SQL With SQL Server 2012
@@ -61,7 +61,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 14100
 # TempDB Performance Troubleshooting and Optimizing
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Eddie Wuerch
 ## Title: TempDB Performance Troubleshooting and Optimizing
@@ -70,7 +70,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 14101
 # Partitioning for Perf and Mgmt of Large Tables
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Eddie Wuerch
 ## Title: Partitioning for Perf and Mgmt of Large Tables
@@ -79,7 +79,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 14853
 # Power View  Reporting Enhancements in SQL Server 
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Guillermo Caicedo Santiago
 ## Title: Power View  Reporting Enhancements in SQL Server 
@@ -88,7 +88,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 14854
 # SQL Server Data Tools, What can you do for me?
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Guillermo Caicedo Santiago
 ## Title: SQL Server Data Tools, What can you do for me?
@@ -97,7 +97,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 16309
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
@@ -106,7 +106,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 16312
 # How to be a GREAT DBA
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jeffrey Garbus
 ## Title: How to be a GREAT DBA
@@ -118,7 +118,7 @@ Great for beginner to intermediate DBAs, as well as Developers who think this is
 #  
 #### SessionID: 16959
 # Upgrade your TSQL to the NEXT level
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jose L. Rivera
 ## Title: Upgrade your TSQL to the NEXT level
@@ -127,7 +127,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16961
 # Stay ahead with Change Data Capture
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jose L. Rivera
 ## Title: Stay ahead with Change Data Capture
@@ -136,7 +136,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 17627
 # SQL Server Performance Troubleshooting for the DBA
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jorge Sanchez
 ## Title: SQL Server Performance Troubleshooting for the DBA
@@ -145,7 +145,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 17628
 # SQL Server High Availability  Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jorge Sanchez
 ## Title: SQL Server High Availability  Disaster Recovery
@@ -154,7 +154,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 17656
 # MS Access with SQL Server Strategies and Tips
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Juan Soto
 ## Title: MS Access with SQL Server Strategies and Tips
@@ -163,7 +163,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 22443
 # SQL Server Deployment Options
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ramon Ponte
 ## Title: SQL Server Deployment Options
@@ -174,7 +174,7 @@ Indistinctively of which deployment model makes sense for you, it is extremely i
 #  
 #### SessionID: 28078
 # Getting Started with MDX: The (Very) Basics
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX: The (Very) Basics
@@ -183,7 +183,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28080
 # Serene Velocity: Reporting Services and SSAS Data
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: William E Pearson III
 ## Title: Serene Velocity: Reporting Services and SSAS Data
@@ -192,7 +192,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9181
 # Predictive Analytics using SQL Analysis Services 2012
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Alan Koo
 ## Title: Predictive Analytics using SQL Analysis Services 2012
@@ -201,7 +201,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 9182
 # Tasting the Analysis Services 2012 Flavors
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Alan Koo
 ## Title: Tasting the Analysis Services 2012 Flavors
@@ -210,7 +210,7 @@ Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9461
 # DW Design Tips Slowly Changing Dimensions
-#### [Back to calendar](#SQLSaturday-#205---Puerto-Rico-2013)
+#### [Back to calendar](#SQLSaturday-#205-Puerto-Rico-2013)
 Event Date: 20-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andreina Rizo
 ## Title: DW Design Tips Slowly Changing Dimensions

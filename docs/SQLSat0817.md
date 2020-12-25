@@ -24,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 86562
 # AlwaysOn com Kubernets no SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rodrigo Crespi
 ## Title: AlwaysOn com Kubernets no SQL Server 2019
@@ -34,7 +34,7 @@ Veja como aproveitar a execução escalável com tarefas paralelizadas em contê
 #  
 #### SessionID: 89274
 # Passo a passo de como fiz um Tuning em 7 queries reais do Protheus
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Developer
 ## Speaker: Fabrício Lima
 ## Title: Passo a passo de como fiz um Tuning em 7 queries reais do Protheus
@@ -43,7 +43,7 @@ Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Developer
 #  
 #### SessionID: 90417
 # Data Storytelling - Power BI
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Analytics and Visualization
 ## Speaker: Paulo Ricardo Santos
 ## Title: Data Storytelling - Power BI
@@ -52,7 +52,7 @@ Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 90616
 # Hoje no SQL Saturday – Índices! Como vivem? Como se reproduzem? Do que se alimentam?
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Developer
 ## Speaker: Tiago Crespi
 ## Title: Hoje no SQL Saturday – Índices! Como vivem? Como se reproduzem? Do que se alimentam?
@@ -65,7 +65,7 @@ Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Developer
 #  
 #### SessionID: 86557
 # Analise de Dados com Azure Machine Learning, R e Power BI
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Orlando Mariano
 ## Title: Analise de Dados com Azure Machine Learning, R e Power BI
@@ -74,7 +74,7 @@ Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 87465
 # Desafios e tendências na utilização de bancos de dados para soluções de Internet das Coisas
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Walter Coan
 ## Title: Desafios e tendências na utilização de bancos de dados para soluções de Internet das Coisas
@@ -83,7 +83,7 @@ Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Application  Database D
 #  
 #### SessionID: 90249
 # SQL Data Discovery and Classification no ambiente On-Premises e Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Other
 ## Speaker: Anderson Souza
 ## Title: SQL Data Discovery and Classification no ambiente On-Premises e Azure SQL Database
@@ -92,7 +92,7 @@ Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Other
 #  
 #### SessionID: 88371
 # Streaming de dados no Power BI utilizando PowerShell
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rafael Mendonça
 ## Title: Streaming de dados no Power BI utilizando PowerShell
@@ -101,7 +101,7 @@ Event Date: 06-04-2019 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 89217
 # Extração de Dados da Web com Selenium WebDriver
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Developer
 ## Speaker: Renato Groffe
 ## Title: Extração de Dados da Web com Selenium WebDriver
@@ -110,7 +110,7 @@ Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Developer
 #  
 #### SessionID: 90364
 # Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Diego Nogare
 ## Title: Azure Machine Learning
@@ -119,7 +119,7 @@ Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 86485
 # Graph Databases on CosmosDB
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bruno Feldman
 ## Title: Graph Databases on CosmosDB
@@ -128,7 +128,7 @@ Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 87689
 # E agora? NoSQL ou SQL?
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Felipe de Assis
 ## Title: E agora? NoSQL ou SQL?
@@ -137,7 +137,7 @@ Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Application  Database D
 #  
 #### SessionID: 88198
 # Big Data e Arquitetura Lambda
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Arthur Luz
 ## Title: Big Data e Arquitetura Lambda
@@ -146,7 +146,7 @@ Event Date: 06-04-2019 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 87591
 # Power BI na Gestão Operacional
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: BI Information Delivery
 ## Speaker: Felipe Togashi
 ## Title: Power BI na Gestão Operacional
@@ -155,7 +155,7 @@ Event Date: 06-04-2019 - Session time: 17:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 87994
 # SQL Server 2019 Big Data Clusters
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Luiz Henrique Garetti
 ## Title: SQL Server 2019 Big Data Clusters
@@ -166,7 +166,7 @@ Nesta sessão, vamos aprofundar um pouco mais nesse assunto, entendendo (na teor
 #  
 #### SessionID: 89414
 # Deploy Automatizado de Banco de Dados SQL Server com Azure DevOps.
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Milton Camara
 ## Title: Deploy Automatizado de Banco de Dados SQL Server com Azure DevOps.
@@ -175,7 +175,7 @@ Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 88520
 # MongoDB para DBAs Relacionais e Dev´s
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Strategy and Architecture
 ## Speaker: Leandro Domingues
 ## Title: MongoDB para DBAs Relacionais e Dev´s
@@ -184,7 +184,7 @@ Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 88714
 # Segurança de dados e Criptografia no SQL Server
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Diemerson Campos
 ## Title: Segurança de dados e Criptografia no SQL Server
@@ -193,7 +193,7 @@ Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90028
 # Hacking SQL Server
-#### [Back to calendar](#SQLSaturday-#817---Joinville-2019)
+#### [Back to calendar](#SQLSaturday-#817-Joinville-2019)
 Event Date: 06-04-2019 - Session time: 17:00:00 - Track: Strategy and Architecture
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Hacking SQL Server

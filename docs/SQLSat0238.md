@@ -45,7 +45,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 12368
 # T-SQL: Simple Changes That Go a Long Way
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-125
 ## Speaker: David Valentine
 ## Title: T-SQL: Simple Changes That Go a Long Way
@@ -54,7 +54,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-125
 #  
 #### SessionID: 12380
 # Deploying Highly Available SQL Servers in the Amazon EC2 Cloud
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-115
 ## Speaker: David Bermingham
 ## Title: Deploying Highly Available SQL Servers in the Amazon EC2 Cloud
@@ -63,7 +63,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-115
 #  
 #### SessionID: 13666
 # Service Broker: The Queue Continuum
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-125
 ## Speaker: Ed Leighton-Dick
 ## Title: Service Broker: The Queue Continuum
@@ -72,7 +72,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-125
 #  
 #### SessionID: 13887
 # Unit Testing Fundamentals 
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-125
 ## Speaker: Eric Selje
 ## Title: Unit Testing Fundamentals 
@@ -83,7 +83,7 @@ In this session we'll walk through the basics of what unit testing is, how to se
 #  
 #### SessionID: 13912
 # Data Mining Deep Dive: Clustering
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-210
 ## Speaker: Eric Ness
 ## Title: Data Mining Deep Dive: Clustering
@@ -92,7 +92,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-210
 #  
 #### SessionID: 13914
 # Table Partitions for Archiving
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 45
 ## Speaker: Eric Zierdt
 ## Title: Table Partitions for Archiving
@@ -101,7 +101,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 45
 #  
 #### SessionID: 14641
 # You're THE DBA.  Now What?
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 45
 ## Speaker: Gill Rowley
 ## Title: You're THE DBA.  Now What?
@@ -110,7 +110,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 45
 #  
 #### SessionID: 14810
 # Take Your Data Global with Microsoft BI Data Explorer, GeoFlow, and Power View Maps
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 54
 ## Speaker: Greg Beaumont
 ## Title: Take Your Data Global with Microsoft BI Data Explorer, GeoFlow, and Power View Maps
@@ -119,7 +119,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 54
 #  
 #### SessionID: 15470
 # (SQL,SSIS,MDS) Adv Fuzzy Matching Roll Your Own
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 56
 ## Speaker: Ira Warren
 ## Title: (SQL,SSIS,MDS) Adv Fuzzy Matching Roll Your Own
@@ -128,7 +128,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 56
 #  
 #### SessionID: 15552
 # PowerShell and SQLPSX the Dynamic Duo for the DBA
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-180
 ## Speaker: Jim Dorame
 ## Title: PowerShell and SQLPSX the Dynamic Duo for the DBA
@@ -142,7 +142,7 @@ PowerShell and SQLPSX can benefit you.
 #  
 #### SessionID: 15824
 # Dimension Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 54
 ## Speaker: Jason Horner
 ## Title: Dimension Modeling Design Patterns: Beyond Basics
@@ -151,7 +151,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 54
 #  
 #### SessionID: 15958
 # Managing SQL Server Performance with Extended Events
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-180
 ## Speaker: Jason Strate
 ## Title: Managing SQL Server Performance with Extended Events
@@ -160,7 +160,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-180
 #  
 #### SessionID: 16369
 # When Scripting Worlds Collide: PHP + SQL Server
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-115
 ## Speaker: Jeff Prom
 ## Title: When Scripting Worlds Collide: PHP + SQL Server
@@ -169,7 +169,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-115
 #  
 #### SessionID: 16825
 # T-SQL: How to create a million sample people
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-125
 ## Speaker: Jim Horn
 ## Title: T-SQL: How to create a million sample people
@@ -180,7 +180,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-125
 #  
 #### SessionID: 18384
 # Implement a Dynamic Table Partitioning Solution
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-180
 ## Speaker: Kirby Richter
 ## Title: Implement a Dynamic Table Partitioning Solution
@@ -190,7 +190,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-180
 #  
 #### SessionID: 18953
 # Big Data in the Cloud with HDInsight
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-115
 ## Speaker: Lara Rubbelke
 ## Title: Big Data in the Cloud with HDInsight
@@ -199,7 +199,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-115
 #  
 #### SessionID: 18958
 # Yesterday I Couldn’t Even Spell ‘DBA’.
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 45
 ## Speaker: Larry Toothman
 ## Title: Yesterday I Couldn’t Even Spell ‘DBA’.
@@ -208,7 +208,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 45
 #  
 #### SessionID: 19633
 # DANGER: The Art and Science of Presenting
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-115
 ## Speaker: Mark Vaillancourt
 ## Title: DANGER: The Art and Science of Presenting
@@ -217,7 +217,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-115
 #  
 #### SessionID: 19634
 # MDX Trek: First Contact
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 56
 ## Speaker: Mark Vaillancourt
 ## Title: MDX Trek: First Contact
@@ -226,7 +226,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 56
 #  
 #### SessionID: 20061
 # Shoveling Frogs into a Wheelbarrow
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 43
 ## Speaker: Merrill Aldrich
 ## Title: Shoveling Frogs into a Wheelbarrow
@@ -235,7 +235,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 43
 #  
 #### SessionID: 20062
 # Eureka! Visual deep dive into storage internals
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 43
 ## Speaker: Merrill Aldrich
 ## Title: Eureka! Visual deep dive into storage internals
@@ -244,7 +244,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 43
 #  
 #### SessionID: 20843
 # The care and feeding of your adolescent SQL Server.
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 45
 ## Speaker: Mark Knutson
 ## Title: The care and feeding of your adolescent SQL Server.
@@ -255,7 +255,7 @@ At this stage in the organization’s use of SQL Server, there are a few simple 
 #  
 #### SessionID: 21365
 # SQL Server 2012 Memory Management
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 43
 ## Speaker: Neil Hambly
 ## Title: SQL Server 2012 Memory Management
@@ -265,7 +265,7 @@ This session will dive into questions related to memory primarily for SQL Server
 #  
 #### SessionID: 21368
 # Why are we Waiting..
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 43
 ## Speaker: Neil Hambly
 ## Title: Why are we Waiting..
@@ -282,7 +282,7 @@ And @ several UK User Groups
 #  
 #### SessionID: 21821
 # Hadoop on Windows
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-115
 ## Speaker: Paul Codding
 ## Title: Hadoop on Windows
@@ -291,7 +291,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-115
 #  
 #### SessionID: 21944
 # Big Data Analytics with PowerPivot and Power View
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-210
 ## Speaker: Peter Myers
 ## Title: Big Data Analytics with PowerPivot and Power View
@@ -302,7 +302,7 @@ Demonstrations will include creating a big data solution by using HDInsight Serv
 #  
 #### SessionID: 21946
 # Mastering the CUBE Functions in Excel 2013
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-210
 ## Speaker: Peter Myers
 ## Title: Mastering the CUBE Functions in Excel 2013
@@ -315,7 +315,7 @@ This session is a must for those looking to drive more from Excel when reporting
 #  
 #### SessionID: 22387
 # Database Snapshots - Making Your Job Easier
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-180
 ## Speaker: Paul Timmerman
 ## Title: Database Snapshots - Making Your Job Easier
@@ -324,7 +324,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-180
 #  
 #### SessionID: 22992
 # Temporary Objects Without Permanent Consequences
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-180
 ## Speaker: Rick Krueger
 ## Title: Temporary Objects Without Permanent Consequences
@@ -333,7 +333,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-180
 #  
 #### SessionID: 23465
 # Self-Service Roles and Responsibilities
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 54
 ## Speaker: Ross McNeely
 ## Title: Self-Service Roles and Responsibilities
@@ -342,7 +342,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 54
 #  
 #### SessionID: 23663
 # Introduction to BIML and BIMLScript
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 56
 ## Speaker: Russel Loski
 ## Title: Introduction to BIML and BIMLScript
@@ -351,7 +351,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 56
 #  
 #### SessionID: 23666
 # SSRS data driven subscription using SSIS
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-210
 ## Speaker: Russel Loski
 ## Title: SSRS data driven subscription using SSIS
@@ -360,7 +360,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-210
 #  
 #### SessionID: 25776
 # Power to the User: a look at Power BI
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 54
 ## Speaker: Steve Hughes
 ## Title: Power to the User: a look at Power BI
@@ -369,7 +369,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 54
 #  
 #### SessionID: 25777
 # Beyond Power Pivot - Building Tabular Model Solutions
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 56
 ## Speaker: Steve Hughes
 ## Title: Beyond Power Pivot - Building Tabular Model Solutions
@@ -378,7 +378,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 56
 #  
 #### SessionID: 26030
 # Agile Data Warehouse - The final frontier 
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 56
 ## Speaker: Terry Bunio
 ## Title: Agile Data Warehouse - The final frontier 
@@ -388,7 +388,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 56
 #  
 #### SessionID: 26546
 # Back(up) to Basics
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 45
 ## Speaker: Ben Thul
 ## Title: Back(up) to Basics
@@ -397,7 +397,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 45
 #  
 #### SessionID: 26579
 # Data Migration Between SQL Servers
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 43
 ## Speaker: Tim Plas
 ## Title: Data Migration Between SQL Servers
@@ -406,7 +406,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 43
 #  
 #### SessionID: 27062
 # Subqueries for Superheroes
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-125
 ## Speaker: Tracy McKibben
 ## Title: Subqueries for Superheroes
@@ -415,7 +415,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-125
 #  
 #### SessionID: 28196
 # They Say We Shouldn't, But Let’s Do It Anyway – Ad
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-210
 ## Speaker: William Weber
 ## Title: They Say We Shouldn't, But Let’s Do It Anyway – Ad
@@ -424,7 +424,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Keller 3-210
 #  
 #### SessionID: 9684
 # Data cleansing life cycle with Data Quality Services in SQL 2012
-#### [Back to calendar](#SQLSaturday-#238---Minnesota-2013)
+#### [Back to calendar](#SQLSaturday-#238-Minnesota-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Rapson 54
 ## Speaker: Anton Rozenson
 ## Title: Data cleansing life cycle with Data Quality Services in SQL 2012

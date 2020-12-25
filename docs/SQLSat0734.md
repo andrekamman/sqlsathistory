@@ -58,7 +58,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 71611
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualization, BI Delivery
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
@@ -69,7 +69,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 73990
 # DIY: SQL Server Monitoring for your Enterprise
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: DIY: SQL Server Monitoring for your Enterprise
@@ -78,7 +78,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 74324
 # Climbing the SQL Server Index B-Tree (from a user perspective)
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: Climbing the SQL Server Index B-Tree (from a user perspective)
@@ -87,7 +87,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 75782
 # Database Project Makes Deployment Consistent
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
@@ -96,7 +96,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 77161
 # What's New In SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: William Assaf
 ## Title: What's New In SQL Server 2017
@@ -105,7 +105,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 77379
 # Wish you could live the glamorous consulting life?
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Juan Soto
 ## Title: Wish you could live the glamorous consulting life?
@@ -118,7 +118,7 @@ In this session you will learn sales, marketing and management strategies to get
 #  
 #### SessionID: 77815
 # Why Should I Care About ... Partitioned Views?
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
@@ -127,7 +127,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 77936
 # History Tracking with Temporal Tables
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Ryan Adams
 ## Title: History Tracking with Temporal Tables
@@ -136,7 +136,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 77986
 # Are There Time Bombs in your SSIS Packages?
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Are There Time Bombs in your SSIS Packages?
@@ -147,7 +147,7 @@ In this session, we will explore some of the most common SSIS design patterns th
 #  
 #### SessionID: 71620
 # Getting your DB schema under control with SSDT
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Peter Schott
 ## Title: Getting your DB schema under control with SSDT
@@ -165,7 +165,7 @@ This session assumes basic knowledge of TSQL to create and manipulate database o
 #  
 #### SessionID: 73044
 # Experience SQL Server 2017: The Modern Database Platform
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: Experience SQL Server 2017: The Modern Database Platform
@@ -174,7 +174,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 74059
 # Extended Events: What are they and How do I use them
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
@@ -183,7 +183,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 74260
 # SQL Server Security from the ground up
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Fisher
 ## Title: SQL Server Security from the ground up
@@ -192,7 +192,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 74547
 # Windowing Functions
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Costello
 ## Title: Windowing Functions
@@ -201,7 +201,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 75850
 # Azure SQL and Azure Data Warehouse 101
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Other
 ## Speaker: Mark Moore
 ## Title: Azure SQL and Azure Data Warehouse 101
@@ -210,7 +210,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 77849
 # Deploying SQL Server on Azure VM (IaaS)
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Abdullah Mamun
 ## Title: Deploying SQL Server on Azure VM (IaaS)
@@ -219,7 +219,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 78073
 # Managing Azure Data Lake with PowerShell
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Russel Loski
 ## Title: Managing Azure Data Lake with PowerShell
@@ -230,7 +230,7 @@ In this session, we will look at how to authenticate in Azure Data Lake using Po
 #  
 #### SessionID: 71613
 # Disaster recovery is everyone's job!
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Hill
 ## Title: Disaster recovery is everyone's job!
@@ -241,7 +241,7 @@ Everyone involved in a technical role needs to at least know that the things the
 #  
 #### SessionID: 72061
 # Get insights from data with Cognitive Services
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Shawn Weisfeld
 ## Title: Get insights from data with Cognitive Services
@@ -250,7 +250,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 73226
 # Essential Linux for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Essential Linux for the SQL Server DBA
@@ -269,7 +269,7 @@ You’ll leave feeling more at ease with Linux and have plenty of content and li
 #  
 #### SessionID: 74443
 # Use PowerShell and dbatools to Manage your SQL Server Environment
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Garry Bargsley
 ## Title: Use PowerShell and dbatools to Manage your SQL Server Environment
@@ -279,7 +279,7 @@ In this session, you will learn how to standardize, monitor and alert on your en
 #  
 #### SessionID: 77160
 # Think Like a Certification Exam
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: William Assaf
 ## Title: Think Like a Certification Exam
@@ -288,7 +288,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 77976
 # Transactional Replication New Features for AlwaysOn AG in SQL 2017
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Henry Weng
 ## Title: Transactional Replication New Features for AlwaysOn AG in SQL 2017
@@ -300,7 +300,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 77985
 # Introduction to Biml
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Introduction to Biml
@@ -311,7 +311,7 @@ In this session, we'll cover the essentials of Biml. I'll discuss what it is and
 #  
 #### SessionID: 78044
 # New Features in SQL That Will Change the Way You Tune
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Lance Tidwell
 ## Title: New Features in SQL That Will Change the Way You Tune
@@ -322,7 +322,7 @@ In this session we will explore these new features and how they can make your li
 #  
 #### SessionID: 78145
 # QuickStart on embedding PowerBI reports in your line of business applications
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualization, BI Delivery
 ## Speaker: Tejpal Thatte
 ## Title: QuickStart on embedding PowerBI reports in your line of business applications
@@ -331,7 +331,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 71851
 # Dynamic SQL: Tables, Pivots, Parameters  More
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Steven Tidwell
 ## Title: Dynamic SQL: Tables, Pivots, Parameters  More
@@ -340,7 +340,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 72972
 # How to transition from Profiler to Extended Events and why you should consider.
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dainius Sutkevicius
 ## Title: How to transition from Profiler to Extended Events and why you should consider.
@@ -356,7 +356,7 @@ In this session we will cover the following:
 #  
 #### SessionID: 73010
 # Code Like a Snake Charmer - Intro to Python!
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualization, BI Delivery
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Snake Charmer - Intro to Python!
@@ -378,7 +378,7 @@ No prior statistics knowledge needed.
 #  
 #### SessionID: 73223
 # Becoming the MVP: Soft Skills for the Hard Market
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Angela Tidwell
 ## Title: Becoming the MVP: Soft Skills for the Hard Market
@@ -387,7 +387,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 73927
 # Security, Hypocrisy, and Standards, "OH MY" or How to hack your data center in three easy steps.
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Guarnieri
 ## Title: Security, Hypocrisy, and Standards, "OH MY" or How to hack your data center in three easy steps.
@@ -396,7 +396,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 74516
 # Encryption:  Not just for the NSA anymore
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Blinn
 ## Title: Encryption:  Not just for the NSA anymore
@@ -405,7 +405,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 77117
 # Loading SQL Server Data with Powershell
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Loading SQL Server Data with Powershell
@@ -414,7 +414,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 77768
 # Automating Azure Analysis Services
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Greg Galloway
 ## Title: Automating Azure Analysis Services
@@ -423,7 +423,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 78000
 # Should This Be Normalized? When Database Normalization Seems Abnormal
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Voss
 ## Title: Should This Be Normalized? When Database Normalization Seems Abnormal
@@ -432,7 +432,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 71610
 # Troubleshooting SQL Server Performance
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stacy Gray
 ## Title: Troubleshooting SQL Server Performance
@@ -441,7 +441,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71673
 # Intro to Query Store
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Intro to Query Store
@@ -454,7 +454,7 @@ In this session we will walk through the features of Query Store, so you can und
 #  
 #### SessionID: 73045
 # Experience SQL Server on Linux and Containers
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: Experience SQL Server on Linux and Containers
@@ -463,7 +463,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 74144
 # Beginning Admin: The Care and Feeding of SQL Server
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jennifer McCown
 ## Title: Beginning Admin: The Care and Feeding of SQL Server
@@ -480,7 +480,7 @@ Being a database administrator is a big job, but we can cover the basics in one 
 #  
 #### SessionID: 77082
 # Performance Tuning for Salary Negotiations
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Je'Anna Lanza-Abbott
 ## Title: Performance Tuning for Salary Negotiations
@@ -496,7 +496,7 @@ Participants will:
 #  
 #### SessionID: 77561
 # Data Security in Power BI
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Hughes
 ## Title: Data Security in Power BI
@@ -507,7 +507,7 @@ Due to the frequent changes to Power BI, improvements to data security are commo
 #  
 #### SessionID: 77770
 # Whats New in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Jayaprakash Jothiraman
 ## Title: Whats New in SQL Server 2017
@@ -522,7 +522,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 78047
 # AWS Aurora from a SQL Server DBA's perspective
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Michael Bourgon
 ## Title: AWS Aurora from a SQL Server DBA's perspective
@@ -531,7 +531,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 78089
 # Azure Data Factory V2 and SSIS Automation With Biml
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Stein
 ## Title: Azure Data Factory V2 and SSIS Automation With Biml
@@ -544,7 +544,7 @@ All of the code used in this presentation can be downloaded by attendees, custom
 #  
 #### SessionID: 71887
 # Getting started with Tabular Analysis Services
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Thomas LeBlanc
 ## Title: Getting started with Tabular Analysis Services
@@ -553,7 +553,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 72016
 # SQL Unit Testing with T-SQLt
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Trojanowski
 ## Title: SQL Unit Testing with T-SQLt
@@ -562,7 +562,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 72036
 # SQL Server on Linux : Troubleshooting tips and tricks
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Suresh Kandoth
 ## Title: SQL Server on Linux : Troubleshooting tips and tricks
@@ -571,7 +571,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 72613
 # That's bad mkay!
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kris Hokanson
 ## Title: That's bad mkay!
@@ -580,7 +580,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 72616
 # AlwaysOn on 2012/2014/2016/2017 Notes from the field and Best Practice
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Reinaldo Kibel
 ## Title: AlwaysOn on 2012/2014/2016/2017 Notes from the field and Best Practice
@@ -589,7 +589,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73212
 # 3 Lessons Learned in Successful Consulting
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Mohammad Darab
 ## Title: 3 Lessons Learned in Successful Consulting
@@ -598,7 +598,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 75758
 # Fundamentals That Will Improve Your Query Performance!
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: John Wells
 ## Title: Fundamentals That Will Improve Your Query Performance!
@@ -607,7 +607,7 @@ Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 78076
 # The Life Cycle of a Query in Virtual Reality
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Todd Kleinhans
 ## Title: The Life Cycle of a Query in Virtual Reality
@@ -618,7 +618,7 @@ The Life Cycle of a Query in Virtual Reality is built using Epic Games video gam
 #  
 #### SessionID: 80605
 # "Real World" examples on loading a data warehouse using SSIS
-#### [Back to calendar](#SQLSaturday-#734---Dallas-2018)
+#### [Back to calendar](#SQLSaturday-#734-Dallas-2018)
 Event Date: 19-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Casey
 ## Title: "Real World" examples on loading a data warehouse using SSIS

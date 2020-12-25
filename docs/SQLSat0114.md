@@ -24,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 20246
 # Reserved for Microsoft
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Development
 ## Speaker: Michael Lato
 ## Title: Reserved for Microsoft
@@ -33,7 +33,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 20247
 # Baselines
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Expanded Horizons
 ## Speaker: Michael Lato
 ## Title: Baselines
@@ -42,7 +42,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Expanded Horizons
 #  
 #### SessionID: 20248
 # Design Planning
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Expanded Horizons
 ## Speaker: Michael Lato
 ## Title: Design Planning
@@ -51,7 +51,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Expanded Horizons
 #  
 #### SessionID: 29385
 # Analysis Services Tabular Modeling 101
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Expanded Horizons
 ## Speaker: Cathy Dumas
 ## Title: Analysis Services Tabular Modeling 101
@@ -60,7 +60,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Expanded Horizons
 #  
 #### SessionID: 29386
 # Using DirectQuery
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Cathy Dumas
 ## Title: Using DirectQuery
@@ -69,7 +69,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 29900
 # Database Development: Keep It Agile, Not Fragile
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Development
 ## Speaker: Dev Nambi
 ## Title: Database Development: Keep It Agile, Not Fragile
@@ -78,7 +78,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 29956
 # ETL with SSIS for Beginners
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Administration
 ## Speaker: Donabel Santos
 ## Title: ETL with SSIS for Beginners
@@ -89,7 +89,7 @@ Of course, our go-to ETL tool is SSIS.
 #  
 #### SessionID: 29957
 # You did what with PowerShell?!
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Expanded Horizons
 ## Speaker: Donabel Santos
 ## Title: You did what with PowerShell?!
@@ -98,7 +98,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Expanded Horizons
 #  
 #### SessionID: 31767
 # Raffle Draws
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Expanded Horizons
 ## Speaker: Michael Lato
 ## Title: Raffle Draws
@@ -107,7 +107,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Expanded Horizons
 #  
 #### SessionID: 32174
 # Dashboard Design: Making Reports Pop
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Paul Turley
 ## Title: Dashboard Design: Making Reports Pop
@@ -116,7 +116,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 32177
 # Power View and PowerPivot: High-Octane Self-Servic
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Expanded Horizons
 ## Speaker: Paul Turley
 ## Title: Power View and PowerPivot: High-Octane Self-Servic
@@ -125,7 +125,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Expanded Horizons
 #  
 #### SessionID: 32509
 # Basic Performance Tips and Gotchas
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Administration
 ## Speaker: Rick  Morelan
 ## Title: Basic Performance Tips and Gotchas
@@ -134,7 +134,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Administration
 #  
 #### SessionID: 32510
 # Avoid Errors on Errors
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Administration
 ## Speaker: Rick  Morelan
 ## Title: Avoid Errors on Errors
@@ -143,7 +143,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Administration
 #  
 #### SessionID: 33211
 # Unleashing Common Table Expressions in SQL Server
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Development
 ## Speaker: Steve Stedman
 ## Title: Unleashing Common Table Expressions in SQL Server
@@ -152,7 +152,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 33213
 # Using SSRS reports to analyze SQL Server health
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Administration
 ## Speaker: Steve Stedman
 ## Title: Using SSRS reports to analyze SQL Server health
@@ -161,7 +161,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Administration
 #  
 #### SessionID: 34387
 # Design and Implement BI Like Edison! 
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: William E Pearson III
 ## Title: Design and Implement BI Like Edison! 
@@ -170,7 +170,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 34395
 # Bridging the Chasm: BI Theory vs. Practice
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: William E Pearson III
 ## Title: Bridging the Chasm: BI Theory vs. Practice
@@ -179,7 +179,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 34689
 # Advanced SQL Certifications
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: John Huang
 ## Title: Advanced SQL Certifications
@@ -188,7 +188,7 @@ Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 34691
 # Introduction to SQL Server Development (2hours)
-#### [Back to calendar](#SQLSaturday-#114---Vancouver-2012)
+#### [Back to calendar](#SQLSaturday-#114-Vancouver-2012)
 Event Date: 17-03-2012 - Session time: 00:00:00 - Track: Development
 ## Speaker: John Huang
 ## Title: Introduction to SQL Server Development (2hours)

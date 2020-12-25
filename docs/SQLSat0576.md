@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 54185
 # Inside the SQLPS PowerShell Module
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: Inside the SQLPS PowerShell Module
@@ -34,7 +34,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 56473
 # Introduction to the SQL Server Query Store
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Preece
 ## Title: Introduction to the SQL Server Query Store
@@ -43,7 +43,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53640
 # Creating an Always On Distributed Availability Group
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dale Cunningham
 ## Title: Creating an Always On Distributed Availability Group
@@ -52,7 +52,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54190
 # Alerts: Knowing Is Half the Battle!
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lars Rasmussen
 ## Title: Alerts: Knowing Is Half the Battle!
@@ -61,7 +61,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54440
 # Locks, Blocks, and Deadlocks, Oh My!
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Randy Knight
 ## Title: Locks, Blocks, and Deadlocks, Oh My!
@@ -72,7 +72,7 @@ In this session targeted at the accidental or new DBA, we will walk through each
 #  
 #### SessionID: 54846
 # Power to the people
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: BI Information Delivery
 ## Speaker: Steve Seeley
 ## Title: Power to the people
@@ -81,7 +81,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: BI Information Delivery
 #  
 #### SessionID: 53901
 # Introduction to Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Scott Cameron
 ## Title: Introduction to Azure SQL Data Warehouse
@@ -90,7 +90,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 56199
 # SQL Server 2016 Always On Availability Groups Perf  Internals
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Strategy and Architecture
 ## Speaker: J May
 ## Title: SQL Server 2016 Always On Availability Groups Perf  Internals
@@ -101,7 +101,7 @@ Our work shows enhancements of 7x – 10x, allowing over 1/2GB/s (4Gb/s) across 
 #  
 #### SessionID: 53518
 # Advanced SSIS Techniques
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Dye
 ## Title: Advanced SSIS Techniques
@@ -122,7 +122,7 @@ Upon completion of this workshop attendees will be able to:
 #  
 #### SessionID: 54341
 # MMM: Making the Most of the M Language - Real World Power Query for Excel and Power BI
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Advanced Analysis Techniques
 ## Speaker: Greg McMurray
 ## Title: MMM: Making the Most of the M Language - Real World Power Query for Excel and Power BI
@@ -131,7 +131,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 54445
 # Extended Events - Better than Profiler
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Extended Events - Better than Profiler
@@ -140,7 +140,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53520
 # Dealing With Errors in SSIS 
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Dye
 ## Title: Dealing With Errors in SSIS 
@@ -156,7 +156,7 @@ You will learn:
 #  
 #### SessionID: 53975
 # SQL Server R Services in SQL 2016
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
@@ -165,7 +165,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 54143
 # Disaster Recovery Where to Begin
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Strategy and Architecture
 ## Speaker: Tracy Boggiano
 ## Title: Disaster Recovery Where to Begin
@@ -174,7 +174,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 56475
 # PowerBI, from a DBA
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: TJay Belt
 ## Title: PowerBI, from a DBA
@@ -187,7 +187,7 @@ You will be given permissions to an Azure DB, and get connected to this source. 
 #  
 #### SessionID: 53435
 # Using Powershell to Document SQL Server
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Using Powershell to Document SQL Server
@@ -197,7 +197,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54144
 # Query Store Primer
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
@@ -206,7 +206,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54439
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -215,7 +215,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 54444
 # Bare Naked Skinny on SQL Server
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Bare Naked Skinny on SQL Server
@@ -228,7 +228,7 @@ In this session I will disrobe misunderstandings related to the aforementioned t
 #  
 #### SessionID: 54472
 # Database Restore Testing...Automated
-#### [Back to calendar](#SQLSaturday-#576---Salt-Lake-City-2016)
+#### [Back to calendar](#SQLSaturday-#576-Salt-Lake-City-2016)
 Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Every
 ## Title: Database Restore Testing...Automated

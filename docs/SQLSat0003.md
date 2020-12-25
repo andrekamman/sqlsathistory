@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 34938
 # Beginning Transactional Replication
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1402
 ## Speaker: Andy Warren
 ## Title: Beginning Transactional Replication
@@ -51,7 +51,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1402
 #  
 #### SessionID: 34939
 # Mentoring  Professional Development Plans
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1400
 ## Speaker: Andy Warren
 ## Title: Mentoring  Professional Development Plans
@@ -60,7 +60,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1400
 #  
 #### SessionID: 34978
 # Backup and Recovery Basics
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1402
 ## Speaker: Brian Knight
 ## Title: Backup and Recovery Basics
@@ -69,7 +69,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1402
 #  
 #### SessionID: 34980
 # Finding a Job - Do's  Dont's
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1406
 ## Speaker: Brian Knight
 ## Title: Finding a Job - Do's  Dont's
@@ -78,7 +78,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1406
 #  
 #### SessionID: 35030
 # Understanding Disk I/O Performance in SQL 2005
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 110
 ## Speaker: Bryan Oliver
 ## Title: Understanding Disk I/O Performance in SQL 2005
@@ -87,7 +87,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 110
 #  
 #### SessionID: 35032
 # Benchmarking: The Forgotten Role of Performance
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1400
 ## Speaker: Bryan Oliver
 ## Title: Benchmarking: The Forgotten Role of Performance
@@ -96,7 +96,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1400
 #  
 #### SessionID: 35046
 # Introduction to SQL Reporting Services
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 110
 ## Speaker: Brandie Tarvin
 ## Title: Introduction to SQL Reporting Services
@@ -105,7 +105,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 110
 #  
 #### SessionID: 35057
 # ASP.NET Dynamic Data Web Application
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1406
 ## Speaker: Chris Rock
 ## Title: ASP.NET Dynamic Data Web Application
@@ -118,7 +118,7 @@ We're also going to look under the hood at what type of TSQL is generated from o
 #  
 #### SessionID: 35086
 # LINQ For SQL Server
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 110
 ## Speaker: David Fekke
 ## Title: LINQ For SQL Server
@@ -127,7 +127,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 110
 #  
 #### SessionID: 35087
 # Introduction to the Business Data Catalog
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1404
 ## Speaker: David Fekke
 ## Title: Introduction to the Business Data Catalog
@@ -136,7 +136,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1404
 #  
 #### SessionID: 35097
 # Report Viewer Control for Web and Windows
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1404
 ## Speaker: Darren Herbold
 ## Title: Report Viewer Control for Web and Windows
@@ -145,7 +145,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1404
 #  
 #### SessionID: 35098
 # SQL Server 2008 Business Intelligence
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 1202
 ## Speaker: Darren Herbold
 ## Title: SQL Server 2008 Business Intelligence
@@ -154,7 +154,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 1202
 #  
 #### SessionID: 35121
 # Comprehansive data protection for SQL Server
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1402
 ## Speaker: Fadi Albatal
 ## Title: Comprehansive data protection for SQL Server
@@ -163,7 +163,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1402
 #  
 #### SessionID: 35123
 # SQL 2008 Overview
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 1202
 ## Speaker: Geoff Hiten
 ## Title: SQL 2008 Overview
@@ -172,7 +172,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 1202
 #  
 #### SessionID: 35124
 # SQL 2008 Policy Based Management
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 1202
 ## Speaker: Geoff Hiten
 ## Title: SQL 2008 Policy Based Management
@@ -181,7 +181,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 1202
 #  
 #### SessionID: 35171
 # Choosing indexes for performance
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 110
 ## Speaker: Jeffrey Garbus
 ## Title: Choosing indexes for performance
@@ -190,7 +190,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 110
 #  
 #### SessionID: 35173
 # Database Impact on Application Performance
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1400
 ## Speaker: Jeffrey Garbus
 ## Title: Database Impact on Application Performance
@@ -199,7 +199,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1400
 #  
 #### SessionID: 35196
 # ADO.NET Synchronization Services in .NET 3.5
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1406
 ## Speaker: Joe Healy
 ## Title: ADO.NET Synchronization Services in .NET 3.5
@@ -208,7 +208,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1406
 #  
 #### SessionID: 35247
 # Protecting Your SQL Server from Treasure Seekers
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1406
 ## Speaker: Brian Kelley
 ## Title: Protecting Your SQL Server from Treasure Seekers
@@ -217,7 +217,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1406
 #  
 #### SessionID: 35248
 # Trigger Happy Database Security
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1404
 ## Speaker: Brian Kelley
 ## Title: Trigger Happy Database Security
@@ -226,7 +226,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1404
 #  
 #### SessionID: 35268
 # XML Features in SQL 2005
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1400
 ## Speaker: Kendal Van Dyke
 ## Title: XML Features in SQL 2005
@@ -235,7 +235,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1400
 #  
 #### SessionID: 35272
 # FAQs from the MSDN Transact SQL Forum
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 110
 ## Speaker: Kent Waldrop
 ## Title: FAQs from the MSDN Transact SQL Forum
@@ -260,7 +260,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 110
 #  
 #### SessionID: 35281
 # First Day/Month a DBA
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1404
 ## Speaker: Devin Knight
 ## Title: First Day/Month a DBA
@@ -269,7 +269,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1404
 #  
 #### SessionID: 35282
 # Introduction to SSIS
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1406
 ## Speaker: Devin Knight
 ## Title: Introduction to SSIS
@@ -278,7 +278,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1406
 #  
 #### SessionID: 35333
 # Smokin' Mirrors - SQL 2005 Mirroring Technology
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1400
 ## Speaker: Michael Mollenhour
 ## Title: Smokin' Mirrors - SQL 2005 Mirroring Technology
@@ -287,7 +287,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1400
 #  
 #### SessionID: 35335
 # Reporting in Microsoft Dynamics GP
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1404
 ## Speaker: Mark Polino
 ## Title: Reporting in Microsoft Dynamics GP
@@ -296,7 +296,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1404
 #  
 #### SessionID: 35342
 # Modeling People and Organizations
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1402
 ## Speaker: Patrick Thompson
 ## Title: Modeling People and Organizations
@@ -305,7 +305,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1402
 #  
 #### SessionID: 35363
 # Performance Tuning and Query Optimization
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 110
 ## Speaker: Plamen Ratchev
 ## Title: Performance Tuning and Query Optimization
@@ -314,7 +314,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 110
 #  
 #### SessionID: 35364
 # SQL Server 2008 T-SQL Enhancements
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 1202
 ## Speaker: Plamen Ratchev
 ## Title: SQL Server 2008 T-SQL Enhancements
@@ -323,7 +323,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 1202
 #  
 #### SessionID: 35369
 # Tips and tricks for dynamic Reports
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1406
 ## Speaker: Pam Shaw
 ## Title: Tips and tricks for dynamic Reports
@@ -332,7 +332,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1406
 #  
 #### SessionID: 35370
 # Gain RANK in your queries with the ranking functio
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1400
 ## Speaker: Pam Shaw
 ## Title: Gain RANK in your queries with the ranking functio
@@ -341,7 +341,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1400
 #  
 #### SessionID: 35404
 # Building a DBA Repository with SSIS and SSRS
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1404
 ## Speaker: Rodney Landrum
 ## Title: Building a DBA Repository with SSIS and SSRS
@@ -350,7 +350,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1404
 #  
 #### SessionID: 35426
 # Data Mining Concepts and Techniques
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1406
 ## Speaker: Sherif Elfayoumy
 ## Title: Data Mining Concepts and Techniques
@@ -359,7 +359,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1406
 #  
 #### SessionID: 35431
 # SQL Server CLR
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 1202
 ## Speaker: Shawn Weisfeld
 ## Title: SQL Server CLR
@@ -368,7 +368,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 1202
 #  
 #### SessionID: 35480
 # Programming SMO for Fun and Profit!
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1402
 ## Speaker: Tim Mitchell
 ## Title: Programming SMO for Fun and Profit!
@@ -377,7 +377,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1402
 #  
 #### SessionID: 35481
 # An Introduction to Performance Point
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1402
 ## Speaker: Trey Johnson
 ## Title: An Introduction to Performance Point
@@ -386,7 +386,7 @@ Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Classroom 1402
 #  
 #### SessionID: 35508
 # Building a Data Warehouse Using SQL Server 2005
-#### [Back to calendar](#SQLSaturday-#3---Jacksonville-2008)
+#### [Back to calendar](#SQLSaturday-#3-Jacksonville-2008)
 Event Date: 03-05-2008 - Session time: 00:00:00 - Track: Auditorium 1202
 ## Speaker: Wes Dumey
 ## Title: Building a Data Warehouse Using SQL Server 2005

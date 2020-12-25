@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 12025
 # SQL Server 101 for IT Pros
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Craig Purnell
 ## Title: SQL Server 101 for IT Pros
@@ -34,7 +34,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 13438
 # Transaction and Balance Facts: Identical Cousins
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dave Rodabaugh
 ## Title: Transaction and Balance Facts: Identical Cousins
@@ -43,7 +43,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13448
 # What Sequence objects are (and are not)
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Louis Davidson
 ## Title: What Sequence objects are (and are not)
@@ -53,7 +53,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 14043
 # TempDB Performance Troubleshooting and Optimizing
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Eddie Wuerch
 ## Title: TempDB Performance Troubleshooting and Optimizing
@@ -62,7 +62,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14755
 # Execution Plans a Deep Dive
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Grant Fritchey
 ## Title: Execution Plans a Deep Dive
@@ -71,7 +71,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 15485
 # Creating a Metadata Mart w/ SSIS - Data Governance
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ira Warren
 ## Title: Creating a Metadata Mart w/ SSIS - Data Governance
@@ -80,7 +80,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 15881
 # Profiler? What is this tool you speak of?
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jason Spangler
 ## Title: Profiler? What is this tool you speak of?
@@ -89,7 +89,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 16129
 # Change Data Capture a tool for BI,DR,Audit  more 
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jose Chinchilla
 ## Title: Change Data Capture a tool for BI,DR,Audit  more 
@@ -98,7 +98,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17691
 # Performance Tuning for Pirates
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: John Sterrett
 ## Title: Performance Tuning for Pirates
@@ -109,7 +109,7 @@ This session assumes some knowledge of code tuning and performance tuning and ge
 #  
 #### SessionID: 19166
 # SQL Server and Sharepoint: Best Frienemies
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Lisa Gardner
 ## Title: SQL Server and Sharepoint: Best Frienemies
@@ -118,7 +118,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 22486
 # Understanding SQL Server XML Features 
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Randy Knight
 ## Title: Understanding SQL Server XML Features 
@@ -127,7 +127,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24966
 # SSIS: Figuring Out Configuring
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: MIKE DONNELLY
 ## Title: SSIS: Figuring Out Configuring
@@ -138,7 +138,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 25097
 # Getting Started With PowerShell and SQL Server 
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kevin Bullen
 ## Title: Getting Started With PowerShell and SQL Server 
@@ -147,7 +147,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 26348
 # Parallel Query Execution Deep Dive
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kevin Boles
 ## Title: Parallel Query Execution Deep Dive
@@ -156,7 +156,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 27791
 # Visualizing Your Indexes - Science vs Art
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Wendy Pastrick
 ## Title: Visualizing Your Indexes - Science vs Art
@@ -165,7 +165,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 28569
 # A Complete BI Solution in About an Hour! 
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Aaron King
 ## Title: A Complete BI Solution in About an Hour! 
@@ -174,7 +174,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 31179
 # 5+ Database Design Blunders and How To Avoid Them
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Karen Lopez
 ## Title: 5+ Database Design Blunders and How To Avoid Them
@@ -185,7 +185,7 @@ In this presentation we discuss five physical data modeling mistakes that cost y
 #  
 #### SessionID: 33074
 # Choose Your Own Adventure: Performance Tuning
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Thomas LaRock
 ## Title: Choose Your Own Adventure: Performance Tuning
@@ -194,7 +194,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 34413
 # Design and Implement BI Like Edison! 
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: William E Pearson III
 ## Title: Design and Implement BI Like Edison! 
@@ -203,7 +203,7 @@ Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 8988
 # Introduction to SQL Server Service Broker
-#### [Back to calendar](#SQLSaturday-#117---Columbus-2012)
+#### [Back to calendar](#SQLSaturday-#117-Columbus-2012)
 Event Date: 02-06-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Adam Belebczuk
 ## Title: Introduction to SQL Server Service Broker

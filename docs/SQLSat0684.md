@@ -29,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 70365
 # Power BI - Dashboard in a Day
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Gaston Cruz
 ## Title: Power BI - Dashboard in a Day
@@ -45,7 +45,7 @@ Registro y Pago en https://welcu.com/metric-learning/power-bi-day?utm_source=dir
 #  
 #### SessionID: 70370
 # SQL Server Query Tuning and Optimization
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 ## Speaker: Kamal Valero
 ## Title: SQL Server Query Tuning and Optimization
@@ -64,7 +64,7 @@ Registro y Pago en https://welcu.com/metric-learning/sql-server-tuning?utm_sourc
 #  
 #### SessionID: 67104
 # Tip para migrar SSIS (Integration Services)
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Carlos Farias
 ## Title: Tip para migrar SSIS (Integration Services)
@@ -73,7 +73,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 67663
 # Usando Hive en HDInsight
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Cristobal Ibarra
 ## Title: Usando Hive en HDInsight
@@ -82,7 +82,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 68404
 # Administre, Diagnostique y Resuelva problemas sobre su SQL Server
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 ## Speaker: Gustavo Boismoreau
 ## Title: Administre, Diagnostique y Resuelva problemas sobre su SQL Server
@@ -99,7 +99,7 @@ Bloqueos
 #  
 #### SessionID: 68729
 # Implementacion de Modelos Analiticos de Alto Impacto en Azure Analysis Services.
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Nicolas Nakasone
 ## Title: Implementacion de Modelos Analiticos de Alto Impacto en Azure Analysis Services.
@@ -111,7 +111,7 @@ tecnologias Microsoft Business Intelligence.
 #  
 #### SessionID: 70300
 # SQL Server 2017 - Deep Learning, clasificación de imagenes usando Azure Data Science Virtual Machine
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
 ## Speaker: Adrian Fernandez
 ## Title: SQL Server 2017 - Deep Learning, clasificación de imagenes usando Azure Data Science Virtual Machine
@@ -121,7 +121,7 @@ Los últimos avanaces para Data Scientist usando  Azure Data Science Virtual Mac
 #  
 #### SessionID: 70599
 # Ven, Adopta y Gobierna tus datos
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Marcelo Escudero
 ## Title: Ven, Adopta y Gobierna tus datos
@@ -130,7 +130,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 69183
 # Testeando nuevas características y revisando mitos de SQL Server 2016 y 2017
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 ## Speaker: Kamal Valero
 ## Title: Testeando nuevas características y revisando mitos de SQL Server 2016 y 2017
@@ -139,7 +139,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 #  
 #### SessionID: 70174
 # Empoderando a la Manufactura con IoT e inteligencia Artificial
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
 ## Speaker: Armando Blanco
 ## Title: Empoderando a la Manufactura con IoT e inteligencia Artificial
@@ -148,7 +148,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
 #  
 #### SessionID: 70463
 # Lo nuevo en Power BI
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Leidy Ortiz
 ## Title: Lo nuevo en Power BI
@@ -157,7 +157,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 67472
 # Aplicaciones de alto rendimiento con Azure Redis Cache
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 ## Speaker: Nestor Campos
 ## Title: Aplicaciones de alto rendimiento con Azure Redis Cache
@@ -166,7 +166,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 #  
 #### SessionID: 67662
 # Utilizando Apache Spark en HDInsight
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
 ## Speaker: Cristobal Ibarra
 ## Title: Utilizando Apache Spark en HDInsight
@@ -176,7 +176,7 @@ La idea de esta sesión es mostrar las bondades de Spark para dar los primeros p
 #  
 #### SessionID: 67717
 # Analisis Sentimientos en Power BI
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Gaston Cruz
 ## Title: Analisis Sentimientos en Power BI
@@ -185,7 +185,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 66986
 # Usando R y Python desde SQL Server
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
 ## Speaker: Patricio Cofre
 ## Title: Usando R y Python desde SQL Server
@@ -194,7 +194,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
 #  
 #### SessionID: 67666
 # Nuevas Caracteristicas de SQL Server 2016 para DBAs
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 ## Speaker: Javier Villegas
 ## Title: Nuevas Caracteristicas de SQL Server 2016 para DBAs
@@ -203,7 +203,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 #  
 #### SessionID: 68405
 # Integrando Datos y Migrando hacia una plataforma Microsoft
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Gustavo Boismoreau
 ## Title: Integrando Datos y Migrando hacia una plataforma Microsoft
@@ -220,7 +220,7 @@ Migrando hacia una plataforma Microsoft
 #  
 #### SessionID: 67109
 # Microsoft SQL Server 2017 in Linux el nuevo desafio....
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 ## Speaker: Carlos Farias
 ## Title: Microsoft SQL Server 2017 in Linux el nuevo desafio....
@@ -229,7 +229,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 #  
 #### SessionID: 67479
 # Azure Data Lake Analytics y U-SQL
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
 ## Speaker: Marco Ramirez
 ## Title: Azure Data Lake Analytics y U-SQL
@@ -238,7 +238,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
 #  
 #### SessionID: 67851
 # Cosmos DB and beyond
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 ## Speaker: Sergio Borromei
 ## Title: Cosmos DB and beyond
@@ -247,7 +247,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 #  
 #### SessionID: 66995
 # Creación de un Sistema Recomendador basado en Grafos
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
 ## Speaker: Patricio Cofre
 ## Title: Creación de un Sistema Recomendador basado en Grafos
@@ -256,7 +256,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
 #  
 #### SessionID: 67665
 # SQL Server 2017 - Community-driven enhancements
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 ## Speaker: Javier Villegas
 ## Title: SQL Server 2017 - Community-driven enhancements
@@ -265,7 +265,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 #  
 #### SessionID: 67667
 # Tecnicas Avanzadas de Monitoreo
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 ## Speaker: Javier Villegas
 ## Title: Tecnicas Avanzadas de Monitoreo
@@ -278,7 +278,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 #  
 #### SessionID: 70245
 # Gestión y Visibilidad del SQL en entornos virtualizados VMware con vRealize Operations + Bluemedora
-#### [Back to calendar](#SQLSaturday-#684---Concepción-2017)
+#### [Back to calendar](#SQLSaturday-#684-Concepción-2017)
 Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 ## Speaker: Diego Cabai
 ## Title: Gestión y Visibilidad del SQL en entornos virtualizados VMware con vRealize Operations + Bluemedora

@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 87366
 # The Tricky Part of Doing Tricky Things in your Database
-#### [Back to calendar](#SQLSaturday-#837---Winnipeg-2019)
+#### [Back to calendar](#SQLSaturday-#837-Winnipeg-2019)
 Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Karen Lopez
 ## Title: The Tricky Part of Doing Tricky Things in your Database
@@ -28,7 +28,7 @@ We'll demo tricks that we've seen in our database design reviews and show you ho
 #  
 #### SessionID: 88385
 # The wonders of modern SQL Server administration
-#### [Back to calendar](#SQLSaturday-#837---Winnipeg-2019)
+#### [Back to calendar](#SQLSaturday-#837-Winnipeg-2019)
 Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kirill Kravtsov
 ## Title: The wonders of modern SQL Server administration
@@ -45,7 +45,7 @@ During this session you will see by yourself how easy it is to automate mundane 
 #  
 #### SessionID: 90432
 # Introduction to Power BI
-#### [Back to calendar](#SQLSaturday-#837---Winnipeg-2019)
+#### [Back to calendar](#SQLSaturday-#837-Winnipeg-2019)
 Event Date: 02-03-2019 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mike Diehl
 ## Title: Introduction to Power BI
@@ -55,7 +55,7 @@ With Power BI Desktop, we will import data from several sources, then perform so
 #  
 #### SessionID: 87365
 # Who's Pissing in Your Data Lake?
-#### [Back to calendar](#SQLSaturday-#837---Winnipeg-2019)
+#### [Back to calendar](#SQLSaturday-#837-Winnipeg-2019)
 Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Karen Lopez
 ## Title: Who's Pissing in Your Data Lake?
@@ -70,7 +70,7 @@ We will build a list of good pracitices and tools to use to spare you from a flo
 #  
 #### SessionID: 87949
 # Database Corruption - Advanced Recovery Techniques
-#### [Back to calendar](#SQLSaturday-#837---Winnipeg-2019)
+#### [Back to calendar](#SQLSaturday-#837-Winnipeg-2019)
 Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: Database Corruption - Advanced Recovery Techniques
@@ -82,7 +82,7 @@ Warning: Hex Editors and DBCC Page dumps will be involved!
 #  
 #### SessionID: 90433
 # Building measures in Power BI (and SQL Server Analysis Services tabular models)
-#### [Back to calendar](#SQLSaturday-#837---Winnipeg-2019)
+#### [Back to calendar](#SQLSaturday-#837-Winnipeg-2019)
 Event Date: 02-03-2019 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mike Diehl
 ## Title: Building measures in Power BI (and SQL Server Analysis Services tabular models)
@@ -94,7 +94,7 @@ The DAX language is designed to look like Excel functions, so if you don't have 
 #  
 #### SessionID: 87364
 # A Database Designer's Favorite Features in SQL Server: Security, Privacy, and More
-#### [Back to calendar](#SQLSaturday-#837---Winnipeg-2019)
+#### [Back to calendar](#SQLSaturday-#837-Winnipeg-2019)
 Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Karen Lopez
 ## Title: A Database Designer's Favorite Features in SQL Server: Security, Privacy, and More
@@ -111,7 +111,7 @@ We'll look at the features, why you should consider them, where they work, where
 #  
 #### SessionID: 88411
 # Get Your Optimizer to Give up All Its Secrets
-#### [Back to calendar](#SQLSaturday-#837---Winnipeg-2019)
+#### [Back to calendar](#SQLSaturday-#837-Winnipeg-2019)
 Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
@@ -120,7 +120,7 @@ Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 89007
 # Why do I need Analysis Services?
-#### [Back to calendar](#SQLSaturday-#837---Winnipeg-2019)
+#### [Back to calendar](#SQLSaturday-#837-Winnipeg-2019)
 Event Date: 02-03-2019 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Labry
 ## Title: Why do I need Analysis Services?
@@ -131,7 +131,7 @@ In this session we will go over use cases for Analysis Services and highlight th
 #  
 #### SessionID: 87392
 # GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects
-#### [Back to calendar](#SQLSaturday-#837---Winnipeg-2019)
+#### [Back to calendar](#SQLSaturday-#837-Winnipeg-2019)
 Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Patrick Flynn
 ## Title: GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects
@@ -146,7 +146,7 @@ Based around personal experience of learning not to hate Source control, this se
 #  
 #### SessionID: 87652
 # Maximizing SQL Server Management Studio for Developers and DBAs
-#### [Back to calendar](#SQLSaturday-#837---Winnipeg-2019)
+#### [Back to calendar](#SQLSaturday-#837-Winnipeg-2019)
 Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Nem Schlecht
 ## Title: Maximizing SQL Server Management Studio for Developers and DBAs
@@ -155,7 +155,7 @@ Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Application  Database D
 #  
 #### SessionID: 87915
 # Introduction to Azure AI - The Art of the possible
-#### [Back to calendar](#SQLSaturday-#837---Winnipeg-2019)
+#### [Back to calendar](#SQLSaturday-#837-Winnipeg-2019)
 Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Melody Zacharias
 ## Title: Introduction to Azure AI - The Art of the possible

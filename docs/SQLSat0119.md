@@ -45,7 +45,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10421
 # Kama Sutra of SSIS: A guide to loving ETL
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Bill Fellows
 ## Title: Kama Sutra of SSIS: A guide to loving ETL
@@ -55,7 +55,7 @@ After attending this session, you will come out with an understanding of how Con
 #  
 #### SessionID: 11598
 # What's Buried in the Plan Cache?
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Christina Leo
 ## Title: What's Buried in the Plan Cache?
@@ -67,7 +67,7 @@ In this session, we’ll look at how the plan cache is organized, what plans are
 #  
 #### SessionID: 12018
 # Upgrade Roadmap: Let’s delve into SQL Server 2012 
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Craig Purnell
 ## Title: Upgrade Roadmap: Let’s delve into SQL Server 2012 
@@ -76,7 +76,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 13260
 # Virtualizing Business Critical SQL Servers
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Klee
 ## Title: Virtualizing Business Critical SQL Servers
@@ -86,7 +86,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13901
 # SQL Azure Intro and What’s New
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andy Thiru
 ## Title: SQL Azure Intro and What’s New
@@ -95,7 +95,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 13944
 # DBCC Commands: The Quick and the Dangerous
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Erin Stellato
 ## Title: DBCC Commands: The Quick and the Dangerous
@@ -104,7 +104,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14050
 # Join Us! Getting Started as a Technical Speaker
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 8 
 ## Speaker: Eddie Wuerch
 ## Title: Join Us! Getting Started as a Technical Speaker
@@ -113,7 +113,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 15013
 # Performance Tuning 2012 SSIS Data Loads
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Hope Foley
 ## Title: Performance Tuning 2012 SSIS Data Loads
@@ -123,7 +123,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 16717
 # Administering the BI Stack
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Josh Fennessy
 ## Title: Administering the BI Stack
@@ -134,7 +134,7 @@ This session will focus on the SSIS, SSRS, and SSAS engines in this session.  No
 #  
 #### SessionID: 19641
 # MDX Trek: First Contact
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Mark Vaillancourt
 ## Title: MDX Trek: First Contact
@@ -143,7 +143,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 21507
 # The Script Task, powerhouse of SSIS
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Norman Kelm
 ## Title: The Script Task, powerhouse of SSIS
@@ -152,7 +152,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 23173
 # SARGability
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Rob Farley
 ## Title: SARGability
@@ -161,7 +161,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 23175
 # Analytic T-SQL Functions in 2012
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Rob Farley
 ## Title: Analytic T-SQL Functions in 2012
@@ -170,7 +170,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 23452
 # Microsoft Big Data
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ross LoForte
 ## Title: Microsoft Big Data
@@ -180,7 +180,7 @@ This session on the Big Data solution running Hadoop on Windows and Windows Azur
 #  
 #### SessionID: 24316
 # Optimizing SQL Server I/O with Solid State Drives
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Luke Jian
 ## Title: Optimizing SQL Server I/O with Solid State Drives
@@ -189,7 +189,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24971
 # Advancements in CDC with SSIS in SQL 2012
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: MIKE DONNELLY
 ## Title: Advancements in CDC with SSIS in SQL 2012
@@ -198,7 +198,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 26063
 # Ask the Experts - Anything and Everything
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 8 
 ## Speaker: Ted Krueger
 ## Title: Ask the Experts - Anything and Everything
@@ -207,7 +207,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 26341
 # SQL Server 2012 Column Store Index
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2012 Column Store Index
@@ -216,7 +216,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 26751
 # Writing Faster SQL Server Queries
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Tim Chapman
 ## Title: Writing Faster SQL Server Queries
@@ -225,7 +225,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 28567
 # A Complete BI Solution in About an Hour! 
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 8 
 ## Speaker: Aaron King
 ## Title: A Complete BI Solution in About an Hour! 
@@ -234,7 +234,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 28616
 # Is That A Failover Cluster On Your Laptop/Desktop?
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Allan Hirt
 ## Title: Is That A Failover Cluster On Your Laptop/Desktop?
@@ -245,7 +245,7 @@ This session will demystify the "magic" behind configuring a cluster on your lap
 #  
 #### SessionID: 28794
 # Troubleshooting SQL Server with SysInternals Tools
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Argenis Fernandez
 ## Title: Troubleshooting SQL Server with SysInternals Tools
@@ -254,7 +254,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 28999
 # Build Your Own SQL Server Private Cloud
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ben DeBow
 ## Title: Build Your Own SQL Server Private Cloud
@@ -263,7 +263,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29121
 # The Skinny on Data Compression
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bob Pusateri
 ## Title: The Skinny on Data Compression
@@ -272,7 +272,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29205
 # BLITZ! One Hour SQL Server Takeovers
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Brent Ozar
 ## Title: BLITZ! One Hour SQL Server Takeovers
@@ -281,7 +281,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29590
 # So I started this blog... now what?
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 8 
 ## Speaker: Colleen Morrow
 ## Title: So I started this blog... now what?
@@ -290,7 +290,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 29782
 # SRS Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
@@ -299,7 +299,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 30484
 # Don't Panic, DBAs!  Databases on VMware made easy.
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Janis Griffin
 ## Title: Don't Panic, DBAs!  Databases on VMware made easy.
@@ -308,7 +308,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 30787
 # Reporting Services 201: From Basic To WOW!
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Jes Schultz
 ## Title: Reporting Services 201: From Basic To WOW!
@@ -317,7 +317,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 31134
 # Getting to Know Index Operation Stats
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jason Strate
 ## Title: Getting to Know Index Operation Stats
@@ -326,7 +326,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 31841
 # Error Handling in ETL
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Michael Sexton
 ## Title: Error Handling in ETL
@@ -335,7 +335,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 32803
 # Licensing SQL Server in a Virtual Environment
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Scott Shaw
 ## Title: Licensing SQL Server in a Virtual Environment
@@ -344,7 +344,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 32918
 # NoSQL: Know Your Enemy
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 8 
 ## Speaker: Shelly Noll
 ## Title: NoSQL: Know Your Enemy
@@ -353,7 +353,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 33091
 # Enterprise Data Mining with SQL Server
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mark Tabladillo
 ## Title: Enterprise Data Mining with SQL Server
@@ -362,7 +362,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 33344
 # Query Tuning for Developers and DBAs
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Ted Krueger
 ## Title: Query Tuning for Developers and DBAs
@@ -372,7 +372,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 33671
 # The Periodic Table of Dynamic Management Objects
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Tim Ford
 ## Title: The Periodic Table of Dynamic Management Objects
@@ -381,7 +381,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33710
 # Compliance and Auditing in Sql Server
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Thomas Norman
 ## Title: Compliance and Auditing in Sql Server
@@ -390,7 +390,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33854
 # Introduction to FileTables in SQL 2012
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Warren Sifre
 ## Title: Introduction to FileTables in SQL 2012
@@ -399,7 +399,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 8896
 # Writing Professional Database Code
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Aaron Lowe
 ## Title: Writing Professional Database Code
@@ -408,7 +408,7 @@ Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 9811
 # Master Data Services in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#119---Chicago-2012)
+#### [Back to calendar](#SQLSaturday-#119-Chicago-2012)
 Event Date: 19-05-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Arie Jones
 ## Title: Master Data Services in SQL Server 2012

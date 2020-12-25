@@ -48,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28454
 # Inside the SQL Server Query Optimizer
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Performance/Other
 ## Speaker: Benjamin Nevarez
 ## Title: Inside the SQL Server Query Optimizer
@@ -59,7 +59,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Performance/Other
 #  
 #### SessionID: 28455
 # Understanding Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
@@ -70,7 +70,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 28550
 # So you want to be a BI Developer?
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Andrew Karcher
 ## Title: So you want to be a BI Developer?
@@ -79,7 +79,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 28735
 # Unleash the Tablix
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Angel Abundez
 ## Title: Unleash the Tablix
@@ -88,7 +88,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 29018
 # A Business Intelligence Walk-through in 48 Minutes
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Ben Aminnia
 ## Title: A Business Intelligence Walk-through in 48 Minutes
@@ -97,7 +97,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 29133
 # Tips to be a better Ninja
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Denali/Other
 ## Speaker: Brad Cunningham
 ## Title: Tips to be a better Ninja
@@ -106,7 +106,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Denali/Other
 #  
 #### SessionID: 29197
 # Integration Services 101
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Ben Bolte
 ## Title: Integration Services 101
@@ -115,7 +115,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 29471
 # Panel Discussion on Advanced SQL Certifications
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Panels/Other
 ## Speaker: Robert Davis
 ## Title: Panel Discussion on Advanced SQL Certifications
@@ -126,7 +126,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Panels/Other
 #  
 #### SessionID: 29472
 # 10 Things all BI Administrators Should Know
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Robert Davis
 ## Title: 10 Things all BI Administrators Should Know
@@ -135,7 +135,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 29473
 # Replication Magic: Initializing From Backups
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Robert Davis
 ## Title: Replication Magic: Initializing From Backups
@@ -146,7 +146,7 @@ Demos will include initializing a subscriber from a transaction log backup and p
 #  
 #### SessionID: 29558
 # SQL Server Denali BI Enhancements
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Denali/Other
 ## Speaker: Matt Hollingsworth
 ## Title: SQL Server Denali BI Enhancements
@@ -155,7 +155,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Denali/Other
 #  
 #### SessionID: 29559
 # Virtualizing your SQL Server Environments
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Panels/Other
 ## Speaker: Matt Hollingsworth
 ## Title: Virtualizing your SQL Server Environments
@@ -165,7 +165,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Panels/Other
 #  
 #### SessionID: 29581
 # Backup Basics - Know your options
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Meredith Ryan-Smith
 ## Title: Backup Basics - Know your options
@@ -174,7 +174,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 29582
 # Energizing the Next Generation
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Panels/Other
 ## Speaker: Meredith Ryan-Smith
 ## Title: Energizing the Next Generation
@@ -185,7 +185,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Panels/Other
 #  
 #### SessionID: 29625
 # SSIS in Denali
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Denali/Other
 ## Speaker: Creighton  Kagey
 ## Title: SSIS in Denali
@@ -194,7 +194,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Denali/Other
 #  
 #### SessionID: 29681
 # SQL Server Analysis Services: a 10,000-foot view
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Performance/Other
 ## Speaker: Deepak Puri
 ## Title: SQL Server Analysis Services: a 10,000-foot view
@@ -205,7 +205,7 @@ This session will describe major SSAS functionality, with demos to illustrate ke
 #  
 #### SessionID: 29772
 # Business Intelligence with SRS Report Builder
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: David Eichner
 ## Title: Business Intelligence with SRS Report Builder
@@ -214,7 +214,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 29888
 # “BEGIN…COMMIT” is Not Enough
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Denise McInerney
 ## Title: “BEGIN…COMMIT” is Not Enough
@@ -225,7 +225,7 @@ Transactions are essential to maintaining data integrity. Getting transactions r
 #  
 #### SessionID: 29889
 # My Co-workers Are 9000 Miles Away! 
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Denali/Other
 ## Speaker: Denise McInerney
 ## Title: My Co-workers Are 9000 Miles Away! 
@@ -235,7 +235,7 @@ More and more technology professionals work with colleagues who are based all ov
 #  
 #### SessionID: 30355
 # T-SQL Tips and Tricks Part 1
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Ike Ellis
 ## Title: T-SQL Tips and Tricks Part 1
@@ -244,7 +244,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 30356
 # T-SQL Tips and Tricks Part 2
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Ike Ellis
 ## Title: T-SQL Tips and Tricks Part 2
@@ -253,7 +253,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 30369
 # Find Bad Queries: Profiler, DMVs, Extended Events
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Performance/Other
 ## Speaker: Chris Dickey
 ## Title: Find Bad Queries: Profiler, DMVs, Extended Events
@@ -262,7 +262,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Performance/Other
 #  
 #### SessionID: 31052
 # Address Quality – What you don’t know can cost you
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Panels/Other
 ## Speaker: Joseph Verftido
 ## Title: Address Quality – What you don’t know can cost you
@@ -271,7 +271,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Panels/Other
 #  
 #### SessionID: 31207
 # SQL Server on VMware, what a DBA should know
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Panels/Other
 ## Speaker: Kathy  Gibbs
 ## Title: SQL Server on VMware, what a DBA should know
@@ -280,7 +280,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Panels/Other
 #  
 #### SessionID: 31490
 # Fast Track Data Warehouse project experience
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Performance/Other
 ## Speaker: Lakshmi Randall
 ## Title: Fast Track Data Warehouse project experience
@@ -289,7 +289,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Performance/Other
 #  
 #### SessionID: 31499
 # Introduction to Agile 
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Performance/Other
 ## Speaker: Llewellyn Falco
 ## Title: Introduction to Agile 
@@ -298,7 +298,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Performance/Other
 #  
 #### SessionID: 31527
 # SQL Azure: Tools and Frameworks for Developers
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Panels/Other
 ## Speaker: Lynn Langit
 ## Title: SQL Azure: Tools and Frameworks for Developers
@@ -307,7 +307,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Panels/Other
 #  
 #### SessionID: 31700
 # Working with spatial data in SQL Server
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Paul Mendoza
 ## Title: Working with spatial data in SQL Server
@@ -316,7 +316,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 31998
 # Indexing Internals
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Denny Cherry
 ## Title: Indexing Internals
@@ -325,7 +325,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 31999
 # SQL Server Clustering 101
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Denny Cherry
 ## Title: SQL Server Clustering 101
@@ -334,7 +334,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 32000
 # Table Indexing for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 ## Speaker: Denny Cherry
 ## Title: Table Indexing for the .NET Developer
@@ -343,7 +343,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 32214
 # Problem Solving with Common Table Expressions
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Phil Helmer
 ## Title: Problem Solving with Common Table Expressions
@@ -352,7 +352,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 32235
 # Building a SQL Listener Job Using Powershell
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Peter Kral
 ## Title: Building a SQL Listener Job Using Powershell
@@ -361,7 +361,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 32325
 # SQL Server Denali HA
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Denali/Other
 ## Speaker: Prakash Heda
 ## Title: SQL Server Denali HA
@@ -378,7 +378,7 @@ AlwaysOn implementation Demo (Availability Group/Virtual Name Failover/Readable 
 #  
 #### SessionID: 32366
 # Reducing the impact of database changes on an app
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 ## Speaker: Rajmund Rzepecki
 ## Title: Reducing the impact of database changes on an app
@@ -387,7 +387,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 32369
 # What is "Project Apollo"?
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Denali/Other
 ## Speaker: Lakshmi Randall
 ## Title: What is "Project Apollo"?
@@ -404,7 +404,7 @@ using columnstore index.
 #  
 #### SessionID: 32517
 # Basic Performance Tips and Gotchas
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Performance/Other
 ## Speaker: Rick  Morelan
 ## Title: Basic Performance Tips and Gotchas
@@ -413,7 +413,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Performance/Other
 #  
 #### SessionID: 32518
 # Avoid Errors on Errors
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Rick  Morelan
 ## Title: Avoid Errors on Errors
@@ -422,7 +422,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 32805
 # Aspect EntityFramework for SqlAzure best practices
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 ## Speaker: Scott Reed
 ## Title: Aspect EntityFramework for SqlAzure best practices
@@ -432,7 +432,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 33722
 # Ask the Experts - SQL Server QA Session
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Panels/Other
 ## Speaker: Thomas Mueller
 ## Title: Ask the Experts - SQL Server QA Session
@@ -451,7 +451,7 @@ The following experts will answer your questions:
 #  
 #### SessionID: 34507
 # Technical Debt with Woody Pewitt
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 ## Speaker: Woody Pewitt
 ## Title: Technical Debt with Woody Pewitt
@@ -460,7 +460,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 34621
 # Building nTier Applications with Entity Framework 
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 ## Speaker: David McCarter
 ## Title: Building nTier Applications with Entity Framework 
@@ -470,7 +470,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 34622
 # Real World API Design Using The Entity Framework
-#### [Back to calendar](#SQLSaturday-#95---San-Diego-2011)
+#### [Back to calendar](#SQLSaturday-#95-San-Diego-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 ## Speaker: David McCarter
 ## Title: Real World API Design Using The Entity Framework

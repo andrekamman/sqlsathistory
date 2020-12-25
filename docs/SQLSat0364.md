@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10699
 # Introduction to SQL Server - Part 1
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Introduction to SQL Server
 ## Speaker: Brandon Leach
 ## Title: Introduction to SQL Server - Part 1
@@ -55,7 +55,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Introduction to SQL Ser
 #  
 #### SessionID: 10747
 # Watch Brent Tune Queries
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Performance Tuning
 ## Speaker: Brent Ozar
 ## Title: Watch Brent Tune Queries
@@ -64,7 +64,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Performance Tuning
 #  
 #### SessionID: 17728
 # Introduction to Powershell for DBA's
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: John Sterrett
 ## Title: Introduction to Powershell for DBA's
@@ -73,7 +73,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 21684
 # Why do we shun using tools for DBA job?
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Paresh Motiwala
 ## Title: Why do we shun using tools for DBA job?
@@ -85,7 +85,7 @@ Hopefuly after this session, you will find the same confidence in using third pa
 #  
 #### SessionID: 9138
 # The future of the data professional
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Adam Jorgensen
 ## Title: The future of the data professional
@@ -94,7 +94,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 9272
 # So You Want To Be A Consultant? 
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Allan Hirt
 ## Title: So You Want To Be A Consultant? 
@@ -103,7 +103,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 9549
 # Hacking the SSIS 2012 Catalog
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Integration and SSIS
 ## Speaker: Andy Leonard
 ## Title: Hacking the SSIS 2012 Catalog
@@ -112,7 +112,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Integration and SSIS
 #  
 #### SessionID: 10700
 # Introduction to SQL Server - Part 2
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Introduction to SQL Server
 ## Speaker: Brandon Leach
 ## Title: Introduction to SQL Server - Part 2
@@ -121,7 +121,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Introduction to SQL Ser
 #  
 #### SessionID: 11293
 # Hacking Exposé - Using SSL to Protect SQL Connections
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Chris Bell
 ## Title: Hacking Exposé - Using SSL to Protect SQL Connections
@@ -134,7 +134,7 @@ Using a simple hacking technique we will dig into some packets on our network an
 #  
 #### SessionID: 16592
 # Leaving the Windows Open
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Application Development
 ## Speaker: Jeremiah Peschka
 ## Title: Leaving the Windows Open
@@ -143,7 +143,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Application Development
 #  
 #### SessionID: 21810
 # ETL not ELT!  Common mistakes and misconceptions about SSIS
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Integration and SSIS
 ## Speaker: Paul Rizza
 ## Title: ETL not ELT!  Common mistakes and misconceptions about SSIS
@@ -153,7 +153,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Integration and SSIS
 #  
 #### SessionID: 26132
 # Establishing a SLA
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Non Technical
 ## Speaker: Thomas Grohser
 ## Title: Establishing a SLA
@@ -165,7 +165,7 @@ This Session will teach you how to ask the right questions, analyze your databas
 #  
 #### SessionID: 27639
 # The Restore Cookbook
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Warner Chaves
 ## Title: The Restore Cookbook
@@ -178,7 +178,7 @@ Come see the scenarios and demos so you'll be prepared with the right ingredient
 #  
 #### SessionID: 9274
 # Is That A Failover Cluster On Your Laptop/Desktop?
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Allan Hirt
 ## Title: Is That A Failover Cluster On Your Laptop/Desktop?
@@ -189,7 +189,7 @@ This session will demystify the "magic" behind configuring a cluster on your lap
 #  
 #### SessionID: 35995
 # Auto generating a process data warehouse using Effektor
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Sponsor Spotlights
 ## Speaker: Kennie Pontoppidan
 ## Title: Auto generating a process data warehouse using Effektor
@@ -198,7 +198,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Sponsor Spotlights
 #  
 #### SessionID: 11169
 # Standalone to High-Availability Clusters over Lunch—with Time to Spare
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Sponsor Spotlights
 ## Speaker: Carl Berglund
 ## Title: Standalone to High-Availability Clusters over Lunch—with Time to Spare
@@ -207,7 +207,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Sponsor Spotlights
 #  
 #### SessionID: 14006
 # Clusters Your Way: #SANLess Clusters for Physical, Virtual, and Cloud Environments
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Sponsor Spotlights
 ## Speaker: SIOS Technology
 ## Title: Clusters Your Way: #SANLess Clusters for Physical, Virtual, and Cloud Environments
@@ -216,7 +216,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Sponsor Spotlights
 #  
 #### SessionID: 24007
 # Faster, Better Decisions with Self Service Business Analytics
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Sponsor Spotlights
 ## Speaker: Sayed Saeed
 ## Title: Faster, Better Decisions with Self Service Business Analytics
@@ -225,7 +225,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Sponsor Spotlights
 #  
 #### SessionID: 35939
 # Optimal Infrastructure Strategies for Cisco UCS, Nexus and SQL Server
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Sponsor Spotlights
 ## Speaker: Kevin Schenega
 ## Title: Optimal Infrastructure Strategies for Cisco UCS, Nexus and SQL Server
@@ -234,7 +234,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Sponsor Spotlights
 #  
 #### SessionID: 14552
 # SQL Server AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: George Walters
 ## Title: SQL Server AlwaysOn Availability Groups
@@ -243,7 +243,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 17727
 # Automate your daily checklist with PBM and CMS
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: John Sterrett
 ## Title: Automate your daily checklist with PBM and CMS
@@ -252,7 +252,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 18360
 # Implementing Data Warehouse Patterns with the Microsoft BI Tools
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Kevin Goff
 ## Title: Implementing Data Warehouse Patterns with the Microsoft BI Tools
@@ -261,7 +261,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 20442
 # Baselines and Performance Monitoring with PAL
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Mike Walsh
 ## Title: Baselines and Performance Monitoring with PAL
@@ -270,7 +270,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 23557
 # Creating A Performance Health Repository - using MDW
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Robert Pearl
 ## Title: Creating A Performance Health Repository - using MDW
@@ -279,7 +279,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 24738
 # Reduce, Reuse, Recycle: Automating Your BI Framework
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Stacia Varga
 ## Title: Reduce, Reuse, Recycle: Automating Your BI Framework
@@ -288,7 +288,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 25597
 # An introduction to Data Mining
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Application Development
 ## Speaker: Steve Simon
 ## Title: An introduction to Data Mining
@@ -309,7 +309,7 @@ In this hands on BEGINNERS presentation we shall be looking at Microsoft SQL Ser
 #  
 #### SessionID: 8928
 # T-SQL : Bad Habits  Best Practices
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Application Development
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits  Best Practices
@@ -318,7 +318,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Application Development
 #  
 #### SessionID: 10883
 # Using Extended Events in SQL Server
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Jason Brimhall
 ## Title: Using Extended Events in SQL Server
@@ -327,7 +327,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 11862
 # Tired of the CRUD?  Automate it!
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Application Development
 ## Speaker: Jack Corbett
 ## Title: Tired of the CRUD?  Automate it!
@@ -342,7 +342,7 @@ After this session you will:
 #  
 #### SessionID: 12404
 # Highly Available SQL Server in Windows Azure IaaS
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: David Bermingham
 ## Title: Highly Available SQL Server in Windows Azure IaaS
@@ -351,7 +351,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 15609
 # What is it like to work for Microsoft?
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: James Serra
 ## Title: What is it like to work for Microsoft?
@@ -360,7 +360,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 16231
 # Becoming a Top DBA--Learning Automation in SQL Server
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Joseph D'Antoni
 ## Title: Becoming a Top DBA--Learning Automation in SQL Server
@@ -376,7 +376,7 @@ This session will benefit both new and Senior DBAs, as well as anyone who wants 
 #  
 #### SessionID: 16741
 # Development Lifecycle with SQL Server Data Tools and DACFx
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Application Development
 ## Speaker: John Flannery
 ## Title: Development Lifecycle with SQL Server Data Tools and DACFx
@@ -385,7 +385,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Application Development
 #  
 #### SessionID: 20441
 # Never Have to Say "Mayday!!!" Again
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Mike Walsh
 ## Title: Never Have to Say "Mayday!!!" Again
@@ -396,7 +396,7 @@ In this session, we'll look at case studies of real-life aviation disasters and 
 #  
 #### SessionID: 13872
 # Query Optimization Crash Course
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Performance Tuning
 ## Speaker: Edward Pollack
 ## Title: Query Optimization Crash Course
@@ -406,7 +406,7 @@ This is a fun, fast-paced walkthrough of the most effective strategies for query
 #  
 #### SessionID: 14414
 # Dealing With Difficult People
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Gigi Bell
 ## Title: Dealing With Difficult People
@@ -415,7 +415,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 14784
 # Execution Plans: What Can You Do With Them?
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Performance Tuning
 ## Speaker: Grant Fritchey
 ## Title: Execution Plans: What Can You Do With Them?
@@ -424,7 +424,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Performance Tuning
 #  
 #### SessionID: 14981
 # Stress testing SQL Server
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Application Development
 ## Speaker: Hilary Cotter
 ## Title: Stress testing SQL Server
@@ -433,7 +433,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Application Development
 #  
 #### SessionID: 15518
 # Table partitioning for Azure SQL Databases
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: John Miner
 ## Title: Table partitioning for Azure SQL Databases
@@ -460,7 +460,7 @@ Coverage:
 #  
 #### SessionID: 20237
 # Database Virtualization and Drinking out of the Fire Hose 
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Michael Corey
 ## Title: Database Virtualization and Drinking out of the Fire Hose 
@@ -469,7 +469,7 @@ Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 25883
 # Balanced Scorecards using SSRS
-#### [Back to calendar](#SQLSaturday-#364---Boston-2015)
+#### [Back to calendar](#SQLSaturday-#364-Boston-2015)
 Event Date: 18-04-2015 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Sunil Kadimdiwan
 ## Title: Balanced Scorecards using SSRS

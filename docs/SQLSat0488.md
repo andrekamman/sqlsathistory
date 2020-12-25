@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 42949
 # Muito Al#233;m do Select - Como ocorre a execu#231;#227;o de uma query no SQL Server
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 02 - Desenvolvimento
 ## Speaker: Rodrigo Crespi
 ## Title: Muito Al#233;m do Select - Como ocorre a execu#231;#227;o de uma query no SQL Server
@@ -37,7 +37,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 02 - Desenvolvime
 #  
 #### SessionID: 44348
 # O Dia a Dia do Cientista de Dados
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 03 - Business Intelligence
 ## Speaker: Diego Nogare
 ## Title: O Dia a Dia do Cientista de Dados
@@ -46,7 +46,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 03 - Business Int
 #  
 #### SessionID: 46214
 # Corrup#231;#227;o de dados e Perda Acidental - Preven#231;#227;o, Tratamento, Boas Pr#225;ticas
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 01 - Administração
 ## Speaker: Gustavo Maia Aguiar
 ## Title: Corrup#231;#227;o de dados e Perda Acidental - Preven#231;#227;o, Tratamento, Boas Pr#225;ticas
@@ -57,7 +57,7 @@ Se alguma vez voc#234; j#225; teve de lidar com corrup#231;#227;o de dados ou pe
 #  
 #### SessionID: 42583
 # Conhecendo o Query Store do SQL 2016
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 01 - Administração
 ## Speaker: Luiz Mercante
 ## Title: Conhecendo o Query Store do SQL 2016
@@ -66,7 +66,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 01 - Administraç
 #  
 #### SessionID: 46129
 # Hands On Lab - Performance e Tuning
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 02 - Desenvolvimento
 ## Speaker: Thiago Carlos de Alencar
 ## Title: Hands On Lab - Performance e Tuning
@@ -77,7 +77,7 @@ Esque#231;a os PPTs e enha se divertir apenas com a pr#225;tica!! Lhe espero nes
 #  
 #### SessionID: 46130
 # PowerBI - A nova plataforma de BI da Microsoft
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 03 - Business Intelligence
 ## Speaker: Thiago Zavaschi
 ## Title: PowerBI - A nova plataforma de BI da Microsoft
@@ -86,7 +86,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 03 - Business Int
 #  
 #### SessionID: 42478
 # Novidades no SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 02 - Desenvolvimento
 ## Speaker: Marcos Freccia
 ## Title: Novidades no SQL Server 2016
@@ -97,7 +97,7 @@ Se voc#234; tem d#250;vidas se o SQL Server 2016 est#225; preparado para o seu a
 #  
 #### SessionID: 42677
 # Saindo do Basico: Implementando SQL Server 2014 Failover Cluster com CSV
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 01 - Administração
 ## Speaker: Nilton Pinheiro
 ## Title: Saindo do Basico: Implementando SQL Server 2014 Failover Cluster com CSV
@@ -107,7 +107,7 @@ Uma das mais valiosas features do SQL Server 2014 voltada para alta disponibilid
 #  
 #### SessionID: 42688
 # Microsoft Business Intelligence End to End - Do Conceito a Pr#225;tica.
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 03 - Business Intelligence
 ## Speaker: Alexandre Soteras
 ## Title: Microsoft Business Intelligence End to End - Do Conceito a Pr#225;tica.
@@ -116,7 +116,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 03 - Business Int
 #  
 #### SessionID: 45584
 # Melhores Pr#225;ticas de Seguran#231;a - DBA Vs. Hacker
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 02 - Desenvolvimento
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Melhores Pr#225;ticas de Seguran#231;a - DBA Vs. Hacker
@@ -125,7 +125,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 02 - Desenvolvime
 #  
 #### SessionID: 42360
 # Integrando BigData ao OLTP com Polybase
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 03 - Business Intelligence
 ## Speaker: Dennes Torres
 ## Title: Integrando BigData ao OLTP com Polybase
@@ -136,7 +136,7 @@ Voc#234; ver#225; como fazer um cluster do polybase, novos query hints para push
 #  
 #### SessionID: 42515
 # Monitorando o SQL Server atrav#233;s do SQLDiag.
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 02 - Desenvolvimento
 ## Speaker: Andre Rodrigues
 ## Title: Monitorando o SQL Server atrav#233;s do SQLDiag.
@@ -145,7 +145,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 02 - Desenvolvime
 #  
 #### SessionID: 42971
 # Carreira - Dicas para fazer um milh#227;o com MSSQL
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 01 - Administração
 ## Speaker: Fabiano Amorim
 ## Title: Carreira - Dicas para fazer um milh#227;o com MSSQL
@@ -156,7 +156,7 @@ Tamb#233;m veremos algumas boas pr#225;ticas para desenvolvedores e administrado
 #  
 #### SessionID: 41777
 # Gerenciamento de m#250;ltiplas inst#226;ncias de SQL Server (Fasttrack)
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 01 - Administração
 ## Speaker: Vitor Fava
 ## Title: Gerenciamento de m#250;ltiplas inst#226;ncias de SQL Server (Fasttrack)
@@ -165,7 +165,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 01 - Administraç
 #  
 #### SessionID: 41801
 # SQL Server Reporting Services 2016 (FastTrack)
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 03 - Business Intelligence
 ## Speaker: Arthur Luz
 ## Title: SQL Server Reporting Services 2016 (FastTrack)
@@ -174,7 +174,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 03 - Business Int
 #  
 #### SessionID: 42577
 # Assumi o cargo de DBA. O que devo aprender para ontem?
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 02 - Desenvolvimento
 ## Speaker: Fabrício Lima
 ## Title: Assumi o cargo de DBA. O que devo aprender para ontem?
@@ -183,7 +183,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 02 - Desenvolvime
 #  
 #### SessionID: 46522
 # Licenciamento do SQL Server (FastTrack)
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 02 - Desenvolvimento
 ## Speaker: Roberto Fonseca
 ## Title: Licenciamento do SQL Server (FastTrack)
@@ -192,7 +192,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 02 - Desenvolvime
 #  
 #### SessionID: 41784
 # SQL Server  Universo TOTVS (FastTrack)
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 02 - Desenvolvimento
 ## Speaker: Sulamita Dantas
 ## Title: SQL Server  Universo TOTVS (FastTrack)
@@ -201,7 +201,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 02 - Desenvolvime
 #  
 #### SessionID: 44823
 # SQL SERVER e ORACLE: Semelhan#231;as e Diferen#231;as para o DBA
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 01 - Administração
 ## Speaker: Marcelo Adade
 ## Title: SQL SERVER e ORACLE: Semelhan#231;as e Diferen#231;as para o DBA
@@ -211,7 +211,7 @@ A ideia #233; mostrar como os recursos do SQL SERVER equivalem aos de Oracle e v
 #  
 #### SessionID: 44853
 # Replica#231;#227;o - Por qu#234; e para qu#234; (Fasttrack)
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 01 - Administração
 ## Speaker: Lucas Souza
 ## Title: Replica#231;#227;o - Por qu#234; e para qu#234; (Fasttrack)
@@ -220,7 +220,7 @@ Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 01 - Administraç
 #  
 #### SessionID: 45815
 # Desenvolvimento #225;gil de projetos ETL com BIML (FastTrack)
-#### [Back to calendar](#SQLSaturday-#488---Joinville-2016)
+#### [Back to calendar](#SQLSaturday-#488-Joinville-2016)
 Event Date: 09-04-2016 - Session time: 17:00:00 - Track: Track 03 - Business Intelligence
 ## Speaker: Wasley Portes
 ## Title: Desenvolvimento #225;gil de projetos ETL com BIML (FastTrack)

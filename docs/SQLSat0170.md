@@ -22,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11145
 # 10 Tipps für die Reporting Services
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Christoph Muthmann
 ## Title: 10 Tipps für die Reporting Services
@@ -31,7 +31,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 11806
 # Die T-SQL Sahnestückchen des SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Constantin Klein
 ## Title: Die T-SQL Sahnestückchen des SQL Server 2012
@@ -40,7 +40,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 11807
 # Spass mit SQL Server und Dokumenten
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Constantin Klein
 ## Title: Spass mit SQL Server und Dokumenten
@@ -49,7 +49,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13507
 # Fraud Detection – Notes From the Field
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dejan Sarka
 ## Title: Fraud Detection – Notes From the Field
@@ -58,7 +58,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 14319
 # Datenbankanwendungen mit Visual Studio Lightswitch
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Frank Geisler
 ## Title: Datenbankanwendungen mit Visual Studio Lightswitch
@@ -67,7 +67,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14843
 # AlwaysOn - Hochverfügbarkeit  Disaster Recovery L
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Guido Jacobs
 ## Title: AlwaysOn - Hochverfügbarkeit  Disaster Recovery L
@@ -80,7 +80,7 @@ Ich werde Ihnen an Hand von praktischen Bespielen zeigen, wie Sie eine HA  DR L�
 #  
 #### SessionID: 15054
 # Everything you always wanted to know about MERGE
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Hugo Kornelis
 ## Title: Everything you always wanted to know about MERGE
@@ -91,7 +91,7 @@ In this demo-rich session, Hugo Kornelis shows how the full syntax of MERGE enab
 #  
 #### SessionID: 15400
 # ETL Frameworks with Dynamic SSIS Packages
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Niko Neugebauer
 ## Title: ETL Frameworks with Dynamic SSIS Packages
@@ -106,7 +106,7 @@ The only existing constant in the nature is the change, so we better be ready to
 #  
 #### SessionID: 16556
 # Mobile Business Intelligence for Everyone, Now!
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jen Stirrup
 ## Title: Mobile Business Intelligence for Everyone, Now!
@@ -118,7 +118,7 @@ Come to this session to learn about mobilising Business Intelligence using Share
 #  
 #### SessionID: 19226
 # AMO und ADOMD.NET mit dem SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Sascha Lorenz
 ## Title: AMO und ADOMD.NET mit dem SQL Server 2012
@@ -127,7 +127,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21120
 # Ausführungspläne im SQL Server
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Michael Rother
 ## Title: Ausführungspläne im SQL Server
@@ -136,7 +136,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21533
 # Data Quality rulez! - DQS best practice
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Oliver Engels
 ## Title: Data Quality rulez! - DQS best practice
@@ -145,7 +145,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21758
 # SQLTalk: Relationale Datenbanken  BI in der Cloud
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Patrick Heyde
 ## Title: SQLTalk: Relationale Datenbanken  BI in der Cloud
@@ -155,7 +155,7 @@ Diese Session wird gemeinsam mit Stephan Pepersack (Microsoft Product Marketing 
 #  
 #### SessionID: 26508
 # Microsoft is Big in Big Data
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Thomas Fleischer
 ## Title: Microsoft is Big in Big Data
@@ -164,7 +164,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 27780
 # Einführung (Merge-)Replikation SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Johannes Curio
 ## Title: Einführung (Merge-)Replikation SQL Server 2012
@@ -173,7 +173,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 8812
 # Tracing with SQL Server 2012 Extended Events
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Andreas Wolter
 ## Title: Tracing with SQL Server 2012 Extended Events
@@ -182,7 +182,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 9305
 # SQL Server 2012 SSIS Change Data Capture
-#### [Back to calendar](#SQLSaturday-#170---Munich-2012)
+#### [Back to calendar](#SQLSaturday-#170-Munich-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Allan Mitchell
 ## Title: SQL Server 2012 SSIS Change Data Capture

@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 85065
 # Remember Back When?  Temporal Tables in SQL Server 2016 and 2017
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Brian Hansen
 ## Title: Remember Back When?  Temporal Tables in SQL Server 2016 and 2017
@@ -44,7 +44,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 85278
 # How to Get SQL Server to Run Better on Crappy Hardware.
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: How to Get SQL Server to Run Better on Crappy Hardware.
@@ -53,7 +53,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85377
 # Statistics - Why are they there and what do I do with them
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Statistics - Why are they there and what do I do with them
@@ -62,7 +62,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85408
 # Azure Basics for the DBA
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Morehouse
 ## Title: Azure Basics for the DBA
@@ -71,7 +71,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 85532
 # Why should I care about ... the plan cache?
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
@@ -82,7 +82,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #  
 #### SessionID: 85553
 # Understanding SQL Server Always Encrypted
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Ed Leighton-Dick
 ## Title: Understanding SQL Server Always Encrypted
@@ -91,7 +91,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 80810
 # APPLY Yourself
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
@@ -100,7 +100,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 82974
 # Monster Text Manipulation: Regular Expressions for the DBA
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
@@ -114,7 +114,7 @@ Here you’ll learn:
 #  
 #### SessionID: 84694
 # Husker Power BI
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Brett Powell
 ## Title: Husker Power BI
@@ -123,7 +123,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 85317
 # Beginning Admin: The Care and Feeding of SQL Server
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jennifer McCown
 ## Title: Beginning Admin: The Care and Feeding of SQL Server
@@ -140,7 +140,7 @@ Being a database administrator is a big job, but we can cover the basics in one 
 #  
 #### SessionID: 85410
 # Temporal Tables – The New Hotness in Data Auditing
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: John Morehouse
 ## Title: Temporal Tables – The New Hotness in Data Auditing
@@ -149,7 +149,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 85420
 # SELECT Tidbits FROM My.Experience WHERE  NiceToKnow = 1 and date = DATEADD(D,-1,current_timestamp)
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: B.D. Softley
 ## Title: SELECT Tidbits FROM My.Experience WHERE  NiceToKnow = 1 and date = DATEADD(D,-1,current_timestamp)
@@ -158,7 +158,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 77169
 # Implementing a Cloud Analytics Solution: Options, costs and more
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marc Beacom
 ## Title: Implementing a Cloud Analytics Solution: Options, costs and more
@@ -167,7 +167,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 82709
 # Taking the pain out of database migrations
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Lumnah
 ## Title: Taking the pain out of database migrations
@@ -178,7 +178,7 @@ This session will discuss what you need to take into account to ensure a success
 #  
 #### SessionID: 83384
 # Zen and the Art of Baselines
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Zen and the Art of Baselines
@@ -187,7 +187,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84478
 # What's new for Developers - SQL Server 2014-2017
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Bill Fellows
 ## Title: What's new for Developers - SQL Server 2014-2017
@@ -198,7 +198,7 @@ Topics covered will include JSON, string splitting and aggregation, data masking
 #  
 #### SessionID: 85551
 # How to Keep Your Databases Secure in Just Minutes a Day
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: How to Keep Your Databases Secure in Just Minutes a Day
@@ -211,7 +211,7 @@ In this session, we will explore how to create reports that are quick to review 
 #  
 #### SessionID: 86344
 # Processing Analysis Services Tabular Models
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brett Powell
 ## Title: Processing Analysis Services Tabular Models
@@ -220,7 +220,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 77021
 # Reducing The Surface Area Of Risk in Data Security
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Gorman
 ## Title: Reducing The Surface Area Of Risk in Data Security
@@ -233,7 +233,7 @@ Come learn about the right way to secure non-production data to limit exposure o
 #  
 #### SessionID: 80811
 # Using Kafka for Real-Time Data Ingestion with .NET
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Using Kafka for Real-Time Data Ingestion with .NET
@@ -242,7 +242,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 82973
 # Loading SQL Server Data with Powershell
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Loading SQL Server Data with Powershell
@@ -251,7 +251,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85064
 # Let's Explore SQL Internals
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Let's Explore SQL Internals
@@ -260,7 +260,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85277
 # I'm It - Survival Techniques for the Lone DBA
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
@@ -269,7 +269,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 86356
 # Analysis Services is in Azure? Seriously!? Let's build a model!
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Phillip Labry
 ## Title: Analysis Services is in Azure? Seriously!? Let's build a model!
@@ -280,7 +280,7 @@ This demo heavy session will be focused on setting up Azure Analysis Services, d
 #  
 #### SessionID: 80243
 # Shiny, SSAS Tabular Model Developed from a Star Schema
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Casey
 ## Title: Shiny, SSAS Tabular Model Developed from a Star Schema
@@ -305,7 +305,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 83193
 # Getting Started with Extended Events
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Galbraith
 ## Title: Getting Started with Extended Events
@@ -318,7 +318,7 @@ Come learn how to get started - the basics of sessions, events, actions, targets
 #  
 #### SessionID: 83385
 # Level Up Your Cloud Skills
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Level Up Your Cloud Skills
@@ -327,7 +327,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85321
 # T-SQL's Hidden Support Feature
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: T-SQL's Hidden Support Feature
@@ -338,7 +338,7 @@ In this session, Microsoft Certified Master Jennifer McCown will demonstrate the
 #  
 #### SessionID: 85533
 # SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Service?
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Rick Lowe
 ## Title: SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Service?
@@ -347,7 +347,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 86379
 # Data Breach 101 - Legal and IT Responses
-#### [Back to calendar](#SQLSaturday-#767---Lincoln-2018)
+#### [Back to calendar](#SQLSaturday-#767-Lincoln-2018)
 Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Security
 ## Speaker: Wm Bruce Wray
 ## Title: Data Breach 101 - Legal and IT Responses

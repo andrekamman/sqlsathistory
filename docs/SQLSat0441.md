@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 36779
 # Parameter Sniffing the Good and the Bad
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Lance Tidwell
 ## Title: Parameter Sniffing the Good and the Bad
@@ -55,7 +55,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 38998
 # Data Integration with Master Data Services 
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reeves Smith
 ## Title: Data Integration with Master Data Services 
@@ -72,7 +72,7 @@ In this session, you will learn:
 #  
 #### SessionID: 39203
 # The Life Cycle of a Query in VR
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Todd Kleinhans
 ## Title: The Life Cycle of a Query in VR
@@ -81,7 +81,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 39302
 # Getting Started with Execution Plans
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Kassay
 ## Title: Getting Started with Execution Plans
@@ -90,7 +90,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39306
 # Power BI Desktop - Intro
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Shannon Holck
 ## Title: Power BI Desktop - Intro
@@ -99,7 +99,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 #  
 #### SessionID: 40324
 # Transactional Replication 101
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Wendy Pastrick
 ## Title: Transactional Replication 101
@@ -108,7 +108,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 36777
 # The Augean Stables:  Data Cleansing in the Modern Enterprise
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael Sexton
 ## Title: The Augean Stables:  Data Cleansing in the Modern Enterprise
@@ -123,7 +123,7 @@ Database professionals in Greece circa 600 BCE may have access to the Alpheus an
 #  
 #### SessionID: 36786
 # Tips for SQL Server Performance and Resiliency
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Shaw
 ## Title: Tips for SQL Server Performance and Resiliency
@@ -135,7 +135,7 @@ These patterns are so clear in fact that I many SQL Servers will benefit from th
 #  
 #### SessionID: 38497
 # Dimensional Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond Basics
@@ -153,7 +153,7 @@ the art of dimensional modeling. We will look at the different types of fact tab
 #  
 #### SessionID: 39152
 # Use Hive and Hadoop for High Performance Data Warehousing
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Carlos Bossy
 ## Title: Use Hive and Hadoop for High Performance Data Warehousing
@@ -162,7 +162,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 #  
 #### SessionID: 39162
 # Distributed Replay: Testing With Your Data, Your Way!
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Melody Zacharias
 ## Title: Distributed Replay: Testing With Your Data, Your Way!
@@ -171,7 +171,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 39294
 # 15  Things to ensure survivability of your database
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andre DuBois
 ## Title: 15  Things to ensure survivability of your database
@@ -180,7 +180,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 36771
 # Row-Based Security in SSRS and SSAS
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Chris Hyde
 ## Title: Row-Based Security in SSRS and SSAS
@@ -189,7 +189,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 #  
 #### SessionID: 38197
 # Profiler is Dead! Long Live Extended Events!
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Keith Tate
 ## Title: Profiler is Dead! Long Live Extended Events!
@@ -201,7 +201,7 @@ Profiler was a friend of mine, but it is time to embrace the new king!
 #  
 #### SessionID: 38740
 # Stress Inoculation: Maintaining Performance Under Pressure
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Russ Thomas
 ## Title: Stress Inoculation: Maintaining Performance Under Pressure
@@ -214,7 +214,7 @@ Whether you regularly support a multi-million dollar data center on a 24-hour on
 #  
 #### SessionID: 39190
 # Source Control practices for your BI World
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Weed
 ## Title: Source Control practices for your BI World
@@ -223,7 +223,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 39238
 # Very Large Databases in your future
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Peterson
 ## Title: Very Large Databases in your future
@@ -238,7 +238,7 @@ indexing and DBCC checks into itty-bitty maintenance windows. As a bonus, many o
 #  
 #### SessionID: 39279
 # Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
@@ -248,7 +248,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40663
 # Accelerate SQL Server Master Data Services with Profisee Maestro
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: John McAllister
 ## Title: Accelerate SQL Server Master Data Services with Profisee Maestro
@@ -263,7 +263,7 @@ Come see how Profisee Maestro can take your MDS implementation from the departme
 #  
 #### SessionID: 40675
 # Advanced Performance Tuning Tips with Database Performance Analyz
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Trent Sherman
 ## Title: Advanced Performance Tuning Tips with Database Performance Analyz
@@ -272,7 +272,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40689
 # Keeping Your SQL Under Control: Version Controlling Your Database
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Bob Pusateri
 ## Title: Keeping Your SQL Under Control: Version Controlling Your Database
@@ -283,7 +283,7 @@ This session will cover the fundamentals of source control systems and how getti
 #  
 #### SessionID: 40691
 # Light up your SQL investment with Pyramid Analytics
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Matt White
 ## Title: Light up your SQL investment with Pyramid Analytics
@@ -292,7 +292,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 #  
 #### SessionID: 40729
 # Modern BI Solutions based on Lambda Architecture
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Cox
 ## Title: Modern BI Solutions based on Lambda Architecture
@@ -301,7 +301,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 36804
 # Predicting the future with Machine Learning  
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Ginger Grant
 ## Title: Predicting the future with Machine Learning  
@@ -310,7 +310,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 #  
 #### SessionID: 36886
 # An Unexpected Journey: SQL Server 2000 to 2014
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michelle Poolet
 ## Title: An Unexpected Journey: SQL Server 2000 to 2014
@@ -319,7 +319,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37813
 # Accelerating DevOps Using Data Virtualization
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Gorman
 ## Title: Accelerating DevOps Using Data Virtualization
@@ -332,7 +332,7 @@ Data virtualization is the solution. Virtual databases and file-systems only con
 #  
 #### SessionID: 37816
 # Building your ETL Framework with BIML
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Meagan Longoria
 ## Title: Building your ETL Framework with BIML
@@ -341,7 +341,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 38887
 # SQL Server Benchmarking: The Powershell Speedometer
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: SQL Server Benchmarking: The Powershell Speedometer
@@ -350,7 +350,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40754
 # Hadoop, and Hive, and Json and Data! Oh my! 
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: TJay Belt
 ## Title: Hadoop, and Hive, and Json and Data! Oh my! 
@@ -359,7 +359,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 36776
 # Getting started with Dimensional Modeling
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marc Beacom
 ## Title: Getting started with Dimensional Modeling
@@ -368,7 +368,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 37265
 # Abstraction Techniques for SQL Server Reporting Services
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Justin Hudnall
 ## Title: Abstraction Techniques for SQL Server Reporting Services
@@ -383,7 +383,7 @@ In this session we’ll review the following abstraction techniques and how they
 #  
 #### SessionID: 37651
 # Analyzing I/O Subsystem Performance
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Glenn Berry
 ## Title: Analyzing I/O Subsystem Performance
@@ -392,7 +392,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38161
 # SQL Server Security Basics
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Pusateri
 ## Title: SQL Server Security Basics
@@ -401,7 +401,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39191
 # Introduction to Microsoft Azure DocumentDB
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Jeff Renz
 ## Title: Introduction to Microsoft Azure DocumentDB
@@ -416,7 +416,7 @@ Goals:
 #  
 #### SessionID: 39283
 # Don't Rely on Magic - Tabular Performance Troubleshooting 
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Hope Foley
 ## Title: Don't Rely on Magic - Tabular Performance Troubleshooting 
@@ -426,7 +426,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 37095
 # Exploring the BI Universe
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Phillip Labry
 ## Title: Exploring the BI Universe
@@ -435,7 +435,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 #  
 #### SessionID: 37320
 # Achieving Peak Performance from your Virtual SQL Servers
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Achieving Peak Performance from your Virtual SQL Servers
@@ -444,7 +444,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38343
 # Performance Tuning: Index Optimization
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Konstantin Melamud
 ## Title: Performance Tuning: Index Optimization
@@ -453,7 +453,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38643
 # 2014 SSIS Project Deployment Model: Deployment and Maintenance
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bill Fellows
 ## Title: 2014 SSIS Project Deployment Model: Deployment and Maintenance
@@ -464,7 +464,7 @@ This session begins by exploring mapping between elements in an SSIS project and
 #  
 #### SessionID: 38917
 # Why should I care about the plan cache?
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about the plan cache?
@@ -473,7 +473,7 @@ Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39200
 # Develop your Database using “Database Projects” from SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#441---Denver-2015)
+#### [Back to calendar](#SQLSaturday-#441-Denver-2015)
 Event Date: 19-09-2015 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Andy Vold
 ## Title: Develop your Database using “Database Projects” from SQL Server Data Tools

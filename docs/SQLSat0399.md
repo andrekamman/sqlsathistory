@@ -48,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10298
 # SQL Server Encryption
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: DB Developer
 ## Speaker: Ben Miller
 ## Title: SQL Server Encryption
@@ -57,7 +57,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: DB Developer
 #  
 #### SessionID: 21871
 # Tabular Models: Easier  Faster Than Cubes; Really? 
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Business Intelligence
 ## Speaker: Paul Turley
 ## Title: Tabular Models: Easier  Faster Than Cubes; Really? 
@@ -67,7 +67,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 9625
 # Performing a SQL Server Health Check
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Database Administrator
 ## Speaker: Andy Galbraith
 ## Title: Performing a SQL Server Health Check
@@ -78,7 +78,7 @@ Come learn how to use freely available tools to check your servers for basic iss
 #  
 #### SessionID: 9626
 # Are You Maintaining Your SQL Servers?
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Database Administrator
 ## Speaker: Andy Galbraith
 ## Title: Are You Maintaining Your SQL Servers?
@@ -87,7 +87,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Database Administrator
 #  
 #### SessionID: 38057
 # Registration
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Non-Session
 ## Speaker: Mitchell Bottel
 ## Title: Registration
@@ -96,7 +96,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Non-Session
 #  
 #### SessionID: 38140
 # Event Registration
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Non-Session
 ## Speaker: Mitchell Bottel
 ## Title: Event Registration
@@ -105,7 +105,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Non-Session
 #  
 #### SessionID: 35601
 # Big Data  Data Science, How to Get Past the Hype and Into a Team
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Professional Development
 ## Speaker: Andrew Eichenbaum
 ## Title: Big Data  Data Science, How to Get Past the Hype and Into a Team
@@ -114,7 +114,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 37173
 # Standardized SQL Installations – Script Review  Demo
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Database Administrator
 ## Speaker: Prakash Heda
 ## Title: Standardized SQL Installations – Script Review  Demo
@@ -130,7 +130,7 @@ You’ll see PowerShell scripts where a single line script can install any of th
 #  
 #### SessionID: 37486
 # Powershell Tips and Tricks for SQL Server Administration
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Other
 ## Speaker: Michael Fal
 ## Title: Powershell Tips and Tricks for SQL Server Administration
@@ -139,7 +139,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Other
 #  
 #### SessionID: 38839
 # Automating Power BI Creations
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Business Intelligence
 ## Speaker: Eric Bragas
 ## Title: Automating Power BI Creations
@@ -148,7 +148,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 9627
 # Getting Started with Extended Events
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Database Administrator
 ## Speaker: Andy Galbraith
 ## Title: Getting Started with Extended Events
@@ -162,7 +162,7 @@ Come learn how to get started - the basics of sessions, events, actions, targets
 #  
 #### SessionID: 11524
 # Becoming Certified In Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Professional Development
 ## Speaker: Chris Hyde
 ## Title: Becoming Certified In Microsoft SQL Server
@@ -171,7 +171,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 11785
 # Successfully Virtualizing SQL Server on vSphere - Straight from the Source
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Other
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
@@ -180,7 +180,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Other
 #  
 #### SessionID: 35720
 # Master Data Management - Getting Started with SQL Server MDS 
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: DB Developer
 ## Speaker: John McAllister
 ## Title: Master Data Management - Getting Started with SQL Server MDS 
@@ -189,7 +189,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: DB Developer
 #  
 #### SessionID: 37302
 # Everything SQL Server - Lightning Talks with Sacramento SQL UG
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Database Administrator
 ## Speaker: Mitchell Bottel
 ## Title: Everything SQL Server - Lightning Talks with Sacramento SQL UG
@@ -205,7 +205,7 @@ Come have fun with this session!
 #  
 #### SessionID: 37741
 # Best Practices for Excel Pivot Tables
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Business Intelligence
 ## Speaker: Tom Keller
 ## Title: Best Practices for Excel Pivot Tables
@@ -223,7 +223,7 @@ Although the concept is straightforward, there are some stumbling blocks to avoi
 #  
 #### SessionID: 10299
 # TSQL Best Practices for SQL Engine Kindness
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: DB Developer
 ## Speaker: Ben Miller
 ## Title: TSQL Best Practices for SQL Engine Kindness
@@ -232,7 +232,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: DB Developer
 #  
 #### SessionID: 10365
 # Query Processing in In-Memory OLTP (Hekaton)
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Professional Development
 ## Speaker: Benjamin Nevarez
 ## Title: Query Processing in In-Memory OLTP (Hekaton)
@@ -241,7 +241,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 36242
 # Intro to PowerShell by example
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Other
 ## Speaker: Eric Courville
 ## Title: Intro to PowerShell by example
@@ -250,7 +250,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Other
 #  
 #### SessionID: 36664
 # Introduction to Wait Types and Response Time Analysis
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Database Administrator
 ## Speaker: Jonathan Shaulis
 ## Title: Introduction to Wait Types and Response Time Analysis
@@ -259,7 +259,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Database Administrator
 #  
 #### SessionID: 37471
 # Big Data Analytics with Excel
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Business Intelligence
 ## Speaker: Peter Myers
 ## Title: Big Data Analytics with Excel
@@ -268,7 +268,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 38139
 # Lunch Sessions
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Non-Session
 ## Speaker: Mitchell Bottel
 ## Title: Lunch Sessions
@@ -277,7 +277,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Non-Session
 #  
 #### SessionID: 38776
 # Dell: How SharePlex Replicates from Oracle to SQL Server  8 Other Targets
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Lunch
 ## Speaker: SQLSAT399 Sponsor
 ## Title: Dell: How SharePlex Replicates from Oracle to SQL Server  8 Other Targets
@@ -290,7 +290,7 @@ Replicate from Oracle to a more economical and potentially easier-to-manage plat
 #  
 #### SessionID: 38777
 # Microsoft
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Lunch
 ## Speaker: SQLSAT399 Sponsor
 ## Title: Microsoft
@@ -299,7 +299,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Lunch
 #  
 #### SessionID: 38778
 # Micron: Choosing the Right SSD for Your Application
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Lunch
 ## Speaker: SQLSAT399 Sponsor
 ## Title: Micron: Choosing the Right SSD for Your Application
@@ -312,7 +312,7 @@ This presentation is a case study of an IT manager’s decision process in choos
 #  
 #### SessionID: 38779
 # Tegile
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Lunch
 ## Speaker: SQLSAT399 Sponsor
 ## Title: Tegile
@@ -321,7 +321,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Lunch
 #  
 #### SessionID: 38780
 # Profisee: Accelerate SQL Server Master Data Services with Profisee Maestro
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Lunch
 ## Speaker: SQLSAT399 Sponsor
 ## Title: Profisee: Accelerate SQL Server Master Data Services with Profisee Maestro
@@ -336,7 +336,7 @@ Come see how Profisee Maestro can take your MDS implementation from the departme
 #  
 #### SessionID: 18864
 # SQL Server Backups and Restores A to Z
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Database Administrator
 ## Speaker: Keith Tate
 ## Title: SQL Server Backups and Restores A to Z
@@ -347,7 +347,7 @@ The session will begin with the reasons why databases must be backed up (hint: t
 #  
 #### SessionID: 36566
 # Getting Started with Reporting Services
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Business Intelligence
 ## Speaker: Ted Stathakis
 ## Title: Getting Started with Reporting Services
@@ -356,7 +356,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 37352
 # Are You Optimistic About Concurrency?
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Database Administrator
 ## Speaker: Kalen Delaney
 ## Title: Are You Optimistic About Concurrency?
@@ -368,7 +368,7 @@ In this session, we'll look at what guarantees the various isolation levels prov
 #  
 #### SessionID: 37470
 # Azure Machine Learning: From Design to Integration
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Other
 ## Speaker: Peter Myers
 ## Title: Azure Machine Learning: From Design to Integration
@@ -379,7 +379,7 @@ This session has been specifically designed to describe machine learning fundame
 #  
 #### SessionID: 38051
 # SSAS: Zero to Cube in Sixty Minutes
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Business Intelligence
 ## Speaker: Pravina Parthasarthy
 ## Title: SSAS: Zero to Cube in Sixty Minutes
@@ -388,7 +388,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 11459
 # SQL Server Mythconceptions and Mythteries
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Other
 ## Speaker: Robert Davis
 ## Title: SQL Server Mythconceptions and Mythteries
@@ -403,7 +403,7 @@ In this session, we will explore some of these misconceptions and mysteries turn
 #  
 #### SessionID: 20403
 # Techniques for Dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Business Intelligence
 ## Speaker: Mickey Stuewe
 ## Title: Techniques for Dynamic SSRS Reports
@@ -414,7 +414,7 @@ If you answered yes to any of these questions, then join me in this demo heavy s
 #  
 #### SessionID: 36567
 # Take your Reporting Services Implementation to a New Level
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Business Intelligence
 ## Speaker: Ted Stathakis
 ## Title: Take your Reporting Services Implementation to a New Level
@@ -423,7 +423,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 37401
 # Data Pages, Allocation Units, IAM chains... Oh My!
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Database Administrator
 ## Speaker: Brandon Leach
 ## Title: Data Pages, Allocation Units, IAM chains... Oh My!
@@ -433,7 +433,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Database Administrator
 #  
 #### SessionID: 37487
 # Powershell and the Art of SQL Server Deployment
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Other
 ## Speaker: Michael Fal
 ## Title: Powershell and the Art of SQL Server Deployment
@@ -442,7 +442,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Other
 #  
 #### SessionID: 10392
 # Flash Disk Alternatives for SQL Server Databases
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Other
 ## Speaker: Bert Scalzo
 ## Title: Flash Disk Alternatives for SQL Server Databases
@@ -451,7 +451,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Other
 #  
 #### SessionID: 11460
 # Diagnosing Performance with Wait Statistics
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Database Administrator
 ## Speaker: Robert Davis
 ## Title: Diagnosing Performance with Wait Statistics
@@ -462,7 +462,7 @@ This session will cover what you need to know about wait stats like the best way
 #  
 #### SessionID: 21870
 # Power BI Hands-On Micro-Workshop
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Business Intelligence
 ## Speaker: Paul Turley
 ## Title: Power BI Hands-On Micro-Workshop
@@ -473,7 +473,7 @@ Power Query add-in: http://www.microsoft.com/en-us/download/details.aspx?id=3937
 #  
 #### SessionID: 36952
 # Physical Join Operators
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: DB Developer
 ## Speaker: Ami Levin
 ## Title: Physical Join Operators
@@ -482,7 +482,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: DB Developer
 #  
 #### SessionID: 37607
 # CTE's and Recursion in T-SQL
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: DB Developer
 ## Speaker: Eric Freeman
 ## Title: CTE's and Recursion in T-SQL
@@ -491,7 +491,7 @@ Event Date: 25-07-2015 - Session time: 17:30:00 - Track: DB Developer
 #  
 #### SessionID: 38056
 # Raffle
-#### [Back to calendar](#SQLSaturday-#399---Sacramento-2015)
+#### [Back to calendar](#SQLSaturday-#399-Sacramento-2015)
 Event Date: 25-07-2015 - Session time: 17:30:00 - Track: Non-Session
 ## Speaker: Mitchell Bottel
 ## Title: Raffle

@@ -40,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10134
 # Page Row Compression How, When,  Why in SQL 2012
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 2. DBA (Auditorium 2)
 ## Speaker: Bradley Ball
 ## Title: Page Row Compression How, When,  Why in SQL 2012
@@ -49,7 +49,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 2. DBA (Auditorium 2)
 #  
 #### SessionID: 10479
 # BI in the Cloud
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 3. Personal Dev  Azure
 ## Speaker: David Liebman
 ## Title: BI in the Cloud
@@ -59,7 +59,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 3. Personal Dev  Azure
 #  
 #### SessionID: 10505
 # Develop Faster with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 1. BI (Auditorium 1)
 ## Speaker: Brian Knight
 ## Title: Develop Faster with SQL Server 2012
@@ -68,7 +68,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 1. BI (Auditorium 1)
 #  
 #### SessionID: 11155
 # Building your First Cube with SSAS
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 1. BI (Auditorium 1)
 ## Speaker: Chris Albrektson
 ## Title: Building your First Cube with SSAS
@@ -77,7 +77,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 1. BI (Auditorium 1)
 #  
 #### SessionID: 11608
 # SQL Server Internals:  It's What's for Dinner!
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 2. DBA (Auditorium 2)
 ## Speaker: Christina Leo
 ## Title: SQL Server Internals:  It's What's for Dinner!
@@ -86,7 +86,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 2. DBA (Auditorium 2)
 #  
 #### SessionID: 11651
 # I am a DBA!  Why do I care about Scrum?
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 3. Personal Dev  Azure
 ## Speaker: Christopher Daily
 ## Title: I am a DBA!  Why do I care about Scrum?
@@ -104,7 +104,7 @@ This session will provide an overview of Scrum and answer the reason why a DBA s
 #  
 #### SessionID: 11965
 # Integrating DQS, MDS and Your Data Warehouse 
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 4. BI  Data Warehouse
 ## Speaker: Christopher Price
 ## Title: Integrating DQS, MDS and Your Data Warehouse 
@@ -113,7 +113,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 4. BI  Data Warehouse
 #  
 #### SessionID: 12694
 # SRS Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 6. BI
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
@@ -122,7 +122,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 6. BI
 #  
 #### SessionID: 13272
 # Deep Dive into Indexes (Part 1)
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 5. DBA
 ## Speaker: Dmitri Korotkevitch
 ## Title: Deep Dive into Indexes (Part 1)
@@ -131,7 +131,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 5. DBA
 #  
 #### SessionID: 13273
 # Deep Dive into Indexes (Part 2)
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 5. DBA
 ## Speaker: Dmitri Korotkevitch
 ## Title: Deep Dive into Indexes (Part 2)
@@ -140,7 +140,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 5. DBA
 #  
 #### SessionID: 13499
 # MDX 101: An Introduction to MDX
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 4. BI  Data Warehouse
 ## Speaker: Dustin Ryan
 ## Title: MDX 101: An Introduction to MDX
@@ -149,7 +149,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 4. BI  Data Warehouse
 #  
 #### SessionID: 14027
 # An Introductory Look at Execution Plans
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 5. DBA
 ## Speaker: Eric Wisdahl
 ## Title: An Introductory Look at Execution Plans
@@ -158,7 +158,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 5. DBA
 #  
 #### SessionID: 15784
 # PowerShell for Beginners
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 6. BI
 ## Speaker: Jason Hofferle
 ## Title: PowerShell for Beginners
@@ -167,7 +167,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 6. BI
 #  
 #### SessionID: 15895
 # Advanced Charting Techniques in SSRS
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 6. BI
 ## Speaker: Jason Thomas
 ## Title: Advanced Charting Techniques in SSRS
@@ -177,7 +177,7 @@ This session will talk about the basic functionalities of all the charts as well
 #  
 #### SessionID: 16987
 # It’s In There Somewhere!
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 5. DBA
 ## Speaker: James McAuliffe
 ## Title: It’s In There Somewhere!
@@ -187,7 +187,7 @@ It’s like having the biggest junk drawer EVER.  That’s often what our “Doc
 #  
 #### SessionID: 17187
 # Handling Advanced Data Warehouse Scenarios in SSIS
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 4. BI  Data Warehouse
 ## Speaker: John Welch
 ## Title: Handling Advanced Data Warehouse Scenarios in SSIS
@@ -196,7 +196,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 4. BI  Data Warehouse
 #  
 #### SessionID: 17348
 # Surviving Your Sql Developer Interview
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 3. Personal Dev  Azure
 ## Speaker: Jonathon Moorman
 ## Title: Surviving Your Sql Developer Interview
@@ -205,7 +205,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 3. Personal Dev  Azure
 #  
 #### SessionID: 17374
 # SSIS Programming Using  .NET
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 6. BI
 ## Speaker: Jorge Novo
 ## Title: SSIS Programming Using  .NET
@@ -218,7 +218,7 @@ Create Custom SSIS Components for your organization.
 #  
 #### SessionID: 17385
 # SQL University: Back That Thang Up!
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 2. DBA (Auditorium 2)
 ## Speaker: Jorge Segarra
 ## Title: SQL University: Back That Thang Up!
@@ -227,7 +227,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 2. DBA (Auditorium 2)
 #  
 #### SessionID: 18633
 # Choosing a Microsoft Reporting Technology
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 1. BI (Auditorium 1)
 ## Speaker: Devin Knight
 ## Title: Choosing a Microsoft Reporting Technology
@@ -236,7 +236,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 1. BI (Auditorium 1)
 #  
 #### SessionID: 18884
 # Performance Tuning your SSIS packages
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 4. BI  Data Warehouse
 ## Speaker: Kyle Walker
 ## Title: Performance Tuning your SSIS packages
@@ -245,7 +245,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 4. BI  Data Warehouse
 #  
 #### SessionID: 19386
 # The New SSIS in SQL 2012
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 1. BI (Auditorium 1)
 ## Speaker: Mike Davis
 ## Title: The New SSIS in SQL 2012
@@ -254,7 +254,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 1. BI (Auditorium 1)
 #  
 #### SessionID: 20028
 # The Fangorn Forest - ColumnStore Indexes
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 2. DBA (Auditorium 2)
 ## Speaker: Gareth Swanepoel
 ## Title: The Fangorn Forest - ColumnStore Indexes
@@ -263,7 +263,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 2. DBA (Auditorium 2)
 #  
 #### SessionID: 20436
 # Jax IT - Trends, Demand  Landing the Job
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 3. Personal Dev  Azure
 ## Speaker: Mike Maglin
 ## Title: Jax IT - Trends, Demand  Landing the Job
@@ -272,7 +272,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 3. Personal Dev  Azure
 #  
 #### SessionID: 20470
 # Hello, My Name Is DAX
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 4. BI  Data Warehouse
 ## Speaker: Michael Antonovich
 ## Title: Hello, My Name Is DAX
@@ -281,7 +281,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 4. BI  Data Warehouse
 #  
 #### SessionID: 20985
 # SQL Server 2012 Data Mining Add-ins for Office
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 6. BI
 ## Speaker: Mike Milligan
 ## Title: SQL Server 2012 Data Mining Add-ins for Office
@@ -293,7 +293,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 6. BI
 #  
 #### SessionID: 21583
 # Indexing your Data Warehouse
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 4. BI  Data Warehouse
 ## Speaker: Troy Gallant
 ## Title: Indexing your Data Warehouse
@@ -302,7 +302,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 4. BI  Data Warehouse
 #  
 #### SessionID: 22342
 # Taking the Scary out of Monster Reports
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 6. BI
 ## Speaker: Pam Shaw
 ## Title: Taking the Scary out of Monster Reports
@@ -312,7 +312,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 6. BI
 #  
 #### SessionID: 23326
 # Lego Sets: Relational Building Blocks
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 5. DBA
 ## Speaker: Rob Volk
 ## Title: Lego Sets: Relational Building Blocks
@@ -321,7 +321,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 5. DBA
 #  
 #### SessionID: 24404
 # Into to SSIS
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 3. Personal Dev  Azure
 ## Speaker: Shawn Harrison
 ## Title: Into to SSIS
@@ -330,7 +330,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 3. Personal Dev  Azure
 #  
 #### SessionID: 24907
 # SQL Server 2012 AlwaysOn for HA and DR
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 2. DBA (Auditorium 2)
 ## Speaker: Chad Churchwell
 ## Title: SQL Server 2012 AlwaysOn for HA and DR
@@ -339,7 +339,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 2. DBA (Auditorium 2)
 #  
 #### SessionID: 25121
 # Monitoring Databases in a Virtual Environment
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 2. DBA (Auditorium 2)
 ## Speaker: Thomas LaRock
 ## Title: Monitoring Databases in a Virtual Environment
@@ -348,7 +348,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 2. DBA (Auditorium 2)
 #  
 #### SessionID: 26022
 # Job Common Sense 101 - Don't be that Guy!!
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 3. Personal Dev  Azure
 ## Speaker: Tom Brenneman
 ## Title: Job Common Sense 101 - Don't be that Guy!!
@@ -357,7 +357,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 3. Personal Dev  Azure
 #  
 #### SessionID: 26321
 # SQL Server 2012 TSQL Enhancements and Additions
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 5. DBA
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2012 TSQL Enhancements and Additions
@@ -366,7 +366,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 5. DBA
 #  
 #### SessionID: 9130
 # Fast Track to BISM Tabular and PowerView
-#### [Back to calendar](#SQLSaturday-#130---Jacksonville-2012)
+#### [Back to calendar](#SQLSaturday-#130-Jacksonville-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: 1. BI (Auditorium 1)
 ## Speaker: Adam Jorgensen
 ## Title: Fast Track to BISM Tabular and PowerView

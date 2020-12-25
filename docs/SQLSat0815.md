@@ -61,7 +61,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 86346
 # Taming of the Shrew - Optimizing Power BI
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Architecture  Management
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Taming of the Shrew - Optimizing Power BI
@@ -77,7 +77,7 @@ Understand when a problem is really a problem.
 #  
 #### SessionID: 86360
 # Data Analysis With SQL Window Functions
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: Adam McDonald
 ## Title: Data Analysis With SQL Window Functions
@@ -86,7 +86,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application D
 #  
 #### SessionID: 86566
 # Learn History from Temporal Tables
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Ameena Lalani
 ## Title: Learn History from Temporal Tables
@@ -95,7 +95,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 86570
 # Modern SQL Server Security Features for Developers
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: Leonard Lobel
 ## Title: Modern SQL Server Security Features for Developers
@@ -104,7 +104,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application D
 #  
 #### SessionID: 86731
 # Weird Stuff I Saw While ... Working With Heaps
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: Rick Lowe
 ## Title: Weird Stuff I Saw While ... Working With Heaps
@@ -113,7 +113,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application D
 #  
 #### SessionID: 86802
 # Containers - You Better Get on Board!
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Anthony Nocentino
 ## Title: Containers - You Better Get on Board!
@@ -127,7 +127,7 @@ In this session we’ll look at
 #  
 #### SessionID: 86911
 # Azure Data Factory V2
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Kevin Wilkie
 ## Title: Azure Data Factory V2
@@ -140,7 +140,7 @@ We'll look at moving data around from On-Prem to Azure, moving files to Azure, a
 #  
 #### SessionID: 87128
 # Very Large Databases in your future
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Eric Peterson
 ## Title: Very Large Databases in your future
@@ -152,7 +152,7 @@ indexing and DBCC checks into itty-bitty maintenance windows. As a bonus, many o
 #  
 #### SessionID: 87152
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Analytics and Visualization 
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
@@ -163,7 +163,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 87233
 # SQL Server 2019 Big Data Clusters
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Architecture  Management
 ## Speaker: Jon Boulineau
 ## Title: SQL Server 2019 Big Data Clusters
@@ -172,7 +172,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #  
 #### SessionID: 87936
 # On-Site Registration  non-printed SPEEDPASS
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Other
 ## Speaker: SQLSaturday Nashville
 ## Title: On-Site Registration  non-printed SPEEDPASS
@@ -181,7 +181,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Other
 #  
 #### SessionID: 86542
 # Cleaning Is Half The Battle: Launching A Data Science Project
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Architecture  Management
 ## Speaker: Kevin Feasel
 ## Title: Cleaning Is Half The Battle: Launching A Data Science Project
@@ -190,7 +190,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #  
 #### SessionID: 86738
 # Reasons to upgade to SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: Hasan Savran
 ## Title: Reasons to upgade to SQL Server 2017
@@ -207,7 +207,7 @@ In-Memory Tables (NoSQL in SQL Server)
 #  
 #### SessionID: 87015
 # Query Tuning Internals for the Advanced SQL Developer
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: Kevin Kline
 ## Title: Query Tuning Internals for the Advanced SQL Developer
@@ -216,7 +216,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application D
 #  
 #### SessionID: 87041
 # SQL Server Take Over:  Establishing a Baseline
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Lowry Kozlowski
 ## Title: SQL Server Take Over:  Establishing a Baseline
@@ -231,7 +231,7 @@ The server is running slowly... or is it? Slow compared to what?  Before you be
 #  
 #### SessionID: 87099
 # Lambda architecture design using Azure Databricks for advanced analytics
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Lucas Feiock
 ## Title: Lambda architecture design using Azure Databricks for advanced analytics
@@ -240,7 +240,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 87166
 # Integrating Hadoop data into Azure SQL Server PaaS - Lessons Learned
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Don McMunn
 ## Title: Integrating Hadoop data into Azure SQL Server PaaS - Lessons Learned
@@ -249,7 +249,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 87173
 # Using distributed AGs for your migrations
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Elizabeth Noble
 ## Title: Using distributed AGs for your migrations
@@ -260,7 +260,7 @@ In this session I will discuss what distributed AGs are, show how to set them up
 #  
 #### SessionID: 87519
 # SQL Server ColumnStore Indexes
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Architecture  Management
 ## Speaker: Gareth Swanepoel
 ## Title: SQL Server ColumnStore Indexes
@@ -270,7 +270,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #  
 #### SessionID: 87527
 # SQL Internals , Recovery Models,  Backups! OH MY
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Bradley Ball
 ## Title: SQL Internals , Recovery Models,  Backups! OH MY
@@ -279,7 +279,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 87781
 # Achievement Unlocked: How to Get Promoted
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Professional Development
 ## Speaker: Dave Mattingly
 ## Title: Achievement Unlocked: How to Get Promoted
@@ -290,7 +290,7 @@ In this session, you'll learn how to promote yourself, how to speak confidently,
 #  
 #### SessionID: 86245
 # Using Extended Events for Wait Stats Analysis
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: David Maxwell
 ## Title: Using Extended Events for Wait Stats Analysis
@@ -299,7 +299,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application D
 #  
 #### SessionID: 86332
 # How to Get SQL Server to Run Better on Crappy Hardware.
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Monica Rathbun
 ## Title: How to Get SQL Server to Run Better on Crappy Hardware.
@@ -308,7 +308,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 86465
 # Profiling Your Data
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: Angela Henry
 ## Title: Profiling Your Data
@@ -317,7 +317,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application D
 #  
 #### SessionID: 86613
 # Applying Data Warehousing Principles
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Architecture  Management
 ## Speaker: Spencer Swindell
 ## Title: Applying Data Warehousing Principles
@@ -326,7 +326,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #  
 #### SessionID: 86803
 # Inside Kubernetes - An Architectural Deep Dive
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Anthony Nocentino
 ## Title: Inside Kubernetes - An Architectural Deep Dive
@@ -340,7 +340,7 @@ Designing Production Ready Kubernetes Clusters
 #  
 #### SessionID: 87176
 # Cracking the Code: Understanding and making good decisions on SQL Server licensing
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Dustin Dorsey
 ## Title: Cracking the Code: Understanding and making good decisions on SQL Server licensing
@@ -349,7 +349,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 87234
 # Continuous Learning for the Modern Age
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Professional Development
 ## Speaker: Peter Shore
 ## Title: Continuous Learning for the Modern Age
@@ -360,7 +360,7 @@ This session is designed to help with just that. In addition to talking about a 
 #  
 #### SessionID: 87657
 # A Beginners Guide to Transactions
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: John Deardurff
 ## Title: A Beginners Guide to Transactions
@@ -369,7 +369,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 87801
 # What Is Clogging Your Database Performance?
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Eddy Djaja
 ## Title: What Is Clogging Your Database Performance?
@@ -378,7 +378,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 88245
 # PowerShell for the Reluctant Administrator
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: PowerShell
 ## Speaker: Pat Phelan
 ## Title: PowerShell for the Reluctant Administrator
@@ -391,7 +391,7 @@ This session was designed for the non-PowerShell user and the new PowerShell use
 #  
 #### SessionID: 88236
 # Performance tuning with SQLGrease
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: franklin yamamoto
 ## Title: Performance tuning with SQLGrease
@@ -400,7 +400,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 88339
 # Women in IT. A survival guide.
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Professional Development
 ## Speaker: Gilda Alvarez
 ## Title: Women in IT. A survival guide.
@@ -409,7 +409,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 88358
 # The Evolving Role of the Data Professional
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Kerry Tyler
 ## Title: The Evolving Role of the Data Professional
@@ -418,7 +418,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 88496
 # Rubrik - Simplifying SQL Server Data Protection
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Other
 ## Speaker: Andy Puckett
 ## Title: Rubrik - Simplifying SQL Server Data Protection
@@ -427,7 +427,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Other
 #  
 #### SessionID: 88581
 # #GetModern with Dell EMC
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Other
 ## Speaker: Bryan Walsh
 ## Title: #GetModern with Dell EMC
@@ -436,7 +436,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Other
 #  
 #### SessionID: 88683
 # Master Data Services: A Path to the Cloud with Profisee
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Tyler Graham
 ## Title: Master Data Services: A Path to the Cloud with Profisee
@@ -445,7 +445,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 86722
 # A walk in the Azure cloud
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Carlos L Chacon
 ## Title: A walk in the Azure cloud
@@ -454,7 +454,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 86829
 # How I Would Attack SQL Server
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Brian Kelley
 ## Title: How I Would Attack SQL Server
@@ -463,7 +463,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 86913
 # Data Visualization: How to truly tell a great story!
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Analytics and Visualization 
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization: How to truly tell a great story!
@@ -472,7 +472,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #  
 #### SessionID: 87147
 # I have Indexes, but do I have the Right Indexes?
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Eric Blinn
 ## Title: I have Indexes, but do I have the Right Indexes?
@@ -481,7 +481,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 87169
 # Mom Rules for Managing Enterprise Database Environments
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Marsha Pierce
 ## Title: Mom Rules for Managing Enterprise Database Environments
@@ -490,7 +490,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 87174
 # PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: PowerShell
 ## Speaker: Amy Herold
 ## Title: PowerShell for the DBA
@@ -501,7 +501,7 @@ In this session we will explore real-world examples and demonstrate how PowerShe
 #  
 #### SessionID: 87215
 # Data Collection and Usage: Illegal or Unethical?
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Architecture  Management
 ## Speaker: Angela Tidwell
 ## Title: Data Collection and Usage: Illegal or Unethical?
@@ -510,7 +510,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #  
 #### SessionID: 87239
 # Characteristics of a Great Relational Database
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: Louis Davidson
 ## Title: Characteristics of a Great Relational Database
@@ -519,7 +519,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application D
 #  
 #### SessionID: 87243
 # Throw a Brick at Your Data: Intro to Azure Databricks
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: Hope Foley
 ## Title: Throw a Brick at Your Data: Intro to Azure Databricks
@@ -528,7 +528,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application D
 #  
 #### SessionID: 88404
 # What's New with Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Josh Luedeman
 ## Title: What's New with Azure Data Factory
@@ -537,7 +537,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 86150
 # High Availability and Azure - Scaling SQL Server to the Cloud
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Matt Gordon
 ## Title: High Availability and Azure - Scaling SQL Server to the Cloud
@@ -546,7 +546,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 86327
 # Is My Application Bias Showing?
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database  Application Development 
 ## Speaker: Rie Irish
 ## Title: Is My Application Bias Showing?
@@ -557,7 +557,7 @@ Learn how to identify bias when it seeps in, how to code to be inclusive instead
 #  
 #### SessionID: 86387
 # Migrations 101
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Gilda Alvarez
 ## Title: Migrations 101
@@ -566,7 +566,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration
 #  
 #### SessionID: 86577
 # Introduction to PowerApps
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment 
 ## Speaker: Christina Wheeler
 ## Title: Introduction to PowerApps
@@ -575,7 +575,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #  
 #### SessionID: 87040
 # Gaining insights with Power BI
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Analytics and Visualization 
 ## Speaker: Daniel Glenn
 ## Title: Gaining insights with Power BI
@@ -586,7 +586,7 @@ This session will cover the basics on creating compelling dashboards and guide y
 #  
 #### SessionID: 87165
 # DevOops: Why Aren't We Using DevOps for our BI and Analytics Projects?
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Architecture  Management
 ## Speaker: Jeff Dudenhoeffer
 ## Title: DevOops: Why Aren't We Using DevOps for our BI and Analytics Projects?
@@ -595,7 +595,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #  
 #### SessionID: 87290
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: Database Administration 
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -607,7 +607,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 87576
 # The Modern Power BI approach
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Analytics and Visualization 
 ## Speaker: Dan Evans
 ## Title: The Modern Power BI approach
@@ -616,7 +616,7 @@ Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #  
 #### SessionID: 88682
 # Master Data Services: BI and Data Science’s Best Friend
-#### [Back to calendar](#SQLSaturday-#815---Nashville-2019)
+#### [Back to calendar](#SQLSaturday-#815-Nashville-2019)
 Event Date: 12-01-2019 - Session time: 14:50:00 - Track: BI Architecture  Management
 ## Speaker: Tyler Graham
 ## Title: Master Data Services: BI and Data Science’s Best Friend

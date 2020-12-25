@@ -66,7 +66,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 61091
 # Crash Course on Better SQL Development
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
@@ -75,7 +75,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 61095
 # SQL Server 2016: Data Masking and Encryption
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Sean Werick
 ## Title: SQL Server 2016: Data Masking and Encryption
@@ -84,7 +84,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 61244
 # Securing SQL Server
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Feasel
 ## Title: Securing SQL Server
@@ -93,7 +93,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61272
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -102,7 +102,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 63151
 # Alexa, Talk to Me
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dave Mattingly
 ## Title: Alexa, Talk to Me
@@ -112,7 +112,7 @@ In this session, we'll create a simple skill from scratch, and show how to get i
 #  
 #### SessionID: 63332
 # Extended Events: What are they and How do I use them
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
@@ -121,7 +121,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63688
 # MPP – Master Parallel Productivity in Azure SQL DW
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Britton Gray
 ## Title: MPP – Master Parallel Productivity in Azure SQL DW
@@ -135,7 +135,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 65806
 # An Adventure Works IoT Demo: moving beyond sales data
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Martin Madsen
 ## Title: An Adventure Works IoT Demo: moving beyond sales data
@@ -144,7 +144,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 66527
 # SQL into R: an Absolute Beginners' Guide to R for the SQL User
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Stan Siranovich
 ## Title: SQL into R: an Absolute Beginners' Guide to R for the SQL User
@@ -154,7 +154,7 @@ We will do this using side-by-side examples of R and SQL code, and by using the 
 #  
 #### SessionID: 66987
 # Introduction to Big Data
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: SQL Starter Track
 ## Speaker: Warren Sifre
 ## Title: Introduction to Big Data
@@ -163,7 +163,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: SQL Starter Track
 #  
 #### SessionID: 61116
 # Find out why SQL Server 2016 Service Pack 1 is an Industry Game changer
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ross LoForte
 ## Title: Find out why SQL Server 2016 Service Pack 1 is an Industry Game changer
@@ -177,7 +177,7 @@ Learn how to upgrade to SQL Server 2016 Service Pack 1
 #  
 #### SessionID: 61616
 # Anatomy of a Transaction
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Frank Gill
 ## Title: Anatomy of a Transaction
@@ -186,7 +186,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 62934
 # Introduction to Azure Streaming Analytics
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Streaming Analytics
@@ -195,7 +195,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 64099
 # Managing Availability Groups with PowerShell
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: Managing Availability Groups with PowerShell
@@ -204,7 +204,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65313
 # SQL Server 2017 New BI Features
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Mellinger
 ## Title: SQL Server 2017 New BI Features
@@ -213,7 +213,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 66713
 # SSMS Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Lukes
 ## Title: SSMS Tips and Tricks
@@ -222,7 +222,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66758
 # Getting Started with R and R Services
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Alan Dykes
 ## Title: Getting Started with R and R Services
@@ -231,7 +231,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 66762
 # Ethics, Morals, and Laws for the DBA 101
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Pat Phelan
 ## Title: Ethics, Morals, and Laws for the DBA 101
@@ -244,7 +244,7 @@ This session presents basic definitions, ideas, and discussion points. It is int
 #  
 #### SessionID: 66989
 # Introduction to Database Administration
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: SQL Starter Track
 ## Speaker: David Maxwell
 ## Title: Introduction to Database Administration
@@ -253,7 +253,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: SQL Starter Track
 #  
 #### SessionID: 61145
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Watson
 ## Title: Introduction to SQL Server Integration Services
@@ -262,7 +262,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 61163
 # MS SSAS  Business Value: Should I choose Tabular or Multidimensional?
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Wylie Blanchard
 ## Title: MS SSAS  Business Value: Should I choose Tabular or Multidimensional?
@@ -271,7 +271,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 61520
 # Introduction to Relational Database Design Patterns
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Aaron Cutshall
 ## Title: Introduction to Relational Database Design Patterns
@@ -280,7 +280,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 61543
 # Increase Your Coding Speed in SQL Server Management Studio
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Samir Behara
 ## Title: Increase Your Coding Speed in SQL Server Management Studio
@@ -293,7 +293,7 @@ By the end of this session, you will learn some useful techniques to take back w
 #  
 #### SessionID: 62850
 # SELECT Provider FROM Cloud
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Peter Shore
 ## Title: SELECT Provider FROM Cloud
@@ -302,7 +302,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 64100
 # SQL Server Encryption
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: SQL Server Encryption
@@ -311,7 +311,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64290
 # Handling Temporal Data in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: David Maxwell
 ## Title: Handling Temporal Data in SQL Server 2016
@@ -320,7 +320,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 66146
 # Reduce your DBA ( DEV) task list by using Microsoft BI tools
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tamera Clark
 ## Title: Reduce your DBA ( DEV) task list by using Microsoft BI tools
@@ -333,7 +333,7 @@ Come to this "BI for the Engine Guy" session and let me help you make visualizat
 #  
 #### SessionID: 66771
 # Right-Size Your Data Files
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Robert Verell
 ## Title: Right-Size Your Data Files
@@ -344,7 +344,7 @@ In this session we'll look into why having multiple files for databases and file
 #  
 #### SessionID: 66988
 # Introduction to Data Science
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: SQL Starter Track
 ## Speaker: Stan Siranovich
 ## Title: Introduction to Data Science
@@ -353,7 +353,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: SQL Starter Track
 #  
 #### SessionID: 68730
 # Introduction to Data Science
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: SQL Starter Track
 ## Speaker: Sean Werick
 ## Title: Introduction to Data Science
@@ -362,7 +362,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: SQL Starter Track
 #  
 #### SessionID: 68617
 # Architecting for Performance
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Other
 ## Speaker: Matt Henderson
 ## Title: Architecting for Performance
@@ -371,7 +371,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Other
 #  
 #### SessionID: 61125
 # Data Visualization:  How to truly tell a great story!
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization:  How to truly tell a great story!
@@ -380,7 +380,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 63873
 # Unleashing Stretched Databases
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Armando Lacerda
 ## Title: Unleashing Stretched Databases
@@ -389,7 +389,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63917
 # Using SQL as the Key to Robust Automation
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Amber Goins
 ## Title: Using SQL as the Key to Robust Automation
@@ -404,7 +404,7 @@ The ORCHESTRATOR data bus is extremely powerful but it is not persistent. This m
 #  
 #### SessionID: 64081
 # Read Dirty to Me - Isolation Levels/User Impact
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Wendy Pastrick
 ## Title: Read Dirty to Me - Isolation Levels/User Impact
@@ -413,7 +413,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 64094
 # Installing SQL Server on Linux in AWS
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Stacy Hein
 ## Title: Installing SQL Server on Linux in AWS
@@ -424,7 +424,7 @@ The session will end with a demonstration of an install of SQL Server 2016 on Li
 #  
 #### SessionID: 66770
 # SQL Election: Which Tech is Faster?
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Robert Verell
 ## Title: SQL Election: Which Tech is Faster?
@@ -433,7 +433,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 66782
 # 45 Minutes to Your First SSAS Tabular Model
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kerry Tyler
 ## Title: 45 Minutes to Your First SSAS Tabular Model
@@ -443,7 +443,7 @@ SSAS Tabular is a new-ish form of business intelligence model released with SQL 
 #  
 #### SessionID: 66784
 # How to Keep Your Databases Secure in Just Minutes a Day
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: How to Keep Your Databases Secure in Just Minutes a Day
@@ -456,7 +456,7 @@ In this session, we will explore how to create reports that are quick to review 
 #  
 #### SessionID: 66990
 # Introduction to Database Development
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: SQL Starter Track
 ## Speaker: Aaron King
 ## Title: Introduction to Database Development
@@ -465,7 +465,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: SQL Starter Track
 #  
 #### SessionID: 68850
 # The Data-Professional’s Junk Drawer
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: The Data-Professional’s Junk Drawer
@@ -474,7 +474,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68857
 # Game of Thrones Discussion
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Other
 ## Speaker: Alan Dykes
 ## Title: Game of Thrones Discussion
@@ -483,7 +483,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Other
 #  
 #### SessionID: 61199
 # Stop Ignoring the SQL Server Resource Governor
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Denis McDowell
 ## Title: Stop Ignoring the SQL Server Resource Governor
@@ -492,7 +492,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 62928
 # It's a Machine World - Predictive Analytics with Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Greg Deckler
 ## Title: It's a Machine World - Predictive Analytics with Azure Machine Learning
@@ -501,7 +501,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 63492
 # Advanced Biml Concepts
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shannon Lowder
 ## Title: Advanced Biml Concepts
@@ -512,7 +512,7 @@ At the end we discuss the implications of automating your solutions: what do we 
 #  
 #### SessionID: 63944
 # Query Store Primer
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
@@ -521,7 +521,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64281
 # Getting Your Story Straight with Data Visualizations
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Stacia Varga
 ## Title: Getting Your Story Straight with Data Visualizations
@@ -530,7 +530,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 64421
 # SQL Server 2017 (Linux and Beyond)
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Loree
 ## Title: SQL Server 2017 (Linux and Beyond)
@@ -541,7 +541,7 @@ In this session, we will look at the background of SQL Server’s move to non-Wi
 #  
 #### SessionID: 66015
 # From SQL to DAX – another way of extract data
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Dan (Annie) Xu
 ## Title: From SQL to DAX – another way of extract data
@@ -556,7 +556,7 @@ Thus, I am glad to provide this presentation focusing on three areas:
 #  
 #### SessionID: 66773
 # Partitioned Tables and Query Performance
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Jay Robinson
 ## Title: Partitioned Tables and Query Performance
@@ -565,7 +565,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 66991
 # Introduction to Business Intelligence
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: SQL Starter Track
 ## Speaker: Kerry Tyler
 ## Title: Introduction to Business Intelligence
@@ -574,7 +574,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: SQL Starter Track
 #  
 #### SessionID: 68794
 # Never Lose Data! Digging Out From Corruption
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eddie Wuerch
 ## Title: Never Lose Data! Digging Out From Corruption
@@ -583,7 +583,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 62871
 # SSAS 2016 Tabular - Diving into the new features
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Beswick
 ## Title: SSAS 2016 Tabular - Diving into the new features
@@ -592,7 +592,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 63669
 # Leveraging SQL Server R Services to Perform Advanced Analytics
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ryan Wade
 ## Title: Leveraging SQL Server R Services to Perform Advanced Analytics
@@ -603,7 +603,7 @@ In this session I will demonstrate how to productionize models developed by your
 #  
 #### SessionID: 64280
 # Where Does R Fit Into Your SQL Server Stack?
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Stacia Varga
 ## Title: Where Does R Fit Into Your SQL Server Stack?
@@ -618,7 +618,7 @@ Then we explore options for using R to prepare data for analytics using SSIS or 
 #  
 #### SessionID: 64405
 # Tame Your Unruly Data With Constraints
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data With Constraints
@@ -627,7 +627,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 66651
 # Working with JSON in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Koester
 ## Title: Working with JSON in SQL Server 2016
@@ -636,7 +636,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 66777
 # Availablity Groups in SQL 2016 and beyond: Faster, Higher, Stronger
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Joe McTaggart
 ## Title: Availablity Groups in SQL 2016 and beyond: Faster, Higher, Stronger
@@ -645,7 +645,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 67070
 # SQL Server ColumnStore Indexes
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gareth Swanepoel
 ## Title: SQL Server ColumnStore Indexes
@@ -655,7 +655,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67691
 # SQL Server Tricks for Storage and I/O Performance in the cloud
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Armando Lacerda
 ## Title: SQL Server Tricks for Storage and I/O Performance in the cloud
@@ -664,7 +664,7 @@ Event Date: 12-08-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67694
 # How to get Microsoft Certified
-#### [Back to calendar](#SQLSaturday-#629---Indianapolis-2017)
+#### [Back to calendar](#SQLSaturday-#629-Indianapolis-2017)
 Event Date: 12-08-2017 - Session time: 15:30:00 - Track: SQL Starter Track
 ## Speaker: John Deardurff
 ## Title: How to get Microsoft Certified

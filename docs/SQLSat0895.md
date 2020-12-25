@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 94220
 # Power BI server and Office Online server, modernize your on-premises BI approach.
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Data Science
 ## Speaker: Isabelle Van Campenhoudt
 ## Title: Power BI server and Office Online server, modernize your on-premises BI approach.
@@ -44,7 +44,7 @@ What infrastructure is needed to make it working ? How to manage the authenticat
 #  
 #### SessionID: 95229
 # Architecting SQL Server environments for Mission Critical and High Performance
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Database Admin
 ## Speaker: Marcelo Fernandes
 ## Title: Architecting SQL Server environments for Mission Critical and High Performance
@@ -53,7 +53,7 @@ Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Database Admin
 #  
 #### SessionID: 95623
 # The language of graph databases and SQL Server
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Development
 ## Speaker: Andrea Martorana Tusa
 ## Title: The language of graph databases and SQL Server
@@ -65,7 +65,7 @@ Then we compare the semantic model with SQL Server to discover how to apply it t
 #  
 #### SessionID: 98175
 # How to use PowerBI as a free monitoring tool (including 5 free reports for SQL Server)
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Analytics and Visualization
 ## Speaker: Emanuele Meazzo
 ## Title: How to use PowerBI as a free monitoring tool (including 5 free reports for SQL Server)
@@ -87,7 +87,7 @@ This will give you both some reports that you can start to use right now, and th
 #  
 #### SessionID: 98390
 # SQL Server Modernization (IT)
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Database Admin
 ## Speaker: Gianluca Hotz
 ## Title: SQL Server Modernization (IT)
@@ -96,7 +96,7 @@ Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Database Admin
 #  
 #### SessionID: 94155
 # 101 BI and AI
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Cloud
 ## Speaker: Alexander Klein
 ## Title: 101 BI and AI
@@ -108,7 +108,7 @@ If you already have your BI application in the cloud, Azure Data Factory, Logic 
 #  
 #### SessionID: 96744
 # Query Processing improvements in the latest versions of SQL Server – IT
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Database Admin
 ## Speaker: Sergio Govoni
 ## Title: Query Processing improvements in the latest versions of SQL Server – IT
@@ -117,7 +117,7 @@ Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Database Admin
 #  
 #### SessionID: 98263
 # A gentle introduction to Apache Spark for SQL Server people
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Development
 ## Speaker: Francesco Milano
 ## Title: A gentle introduction to Apache Spark for SQL Server people
@@ -131,7 +131,7 @@ In questa sessione proveremo ad avvicinarci ad Apache Spark partendo dalle sue b
 #  
 #### SessionID: 98386
 # Monitoring SQL Server without breaking the bank
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: DevOps
 ## Speaker: Gianluca Sartori
 ## Title: Monitoring SQL Server without breaking the bank
@@ -141,7 +141,7 @@ In this session we will combine multiple open source tools (InfluxDB, Telegraf ,
 #  
 #### SessionID: 94204
 # Machine Learning - Best Practices and Vulnerabilities
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Data Science
 ## Speaker: Sebastiano Galazzo
 ## Title: Machine Learning - Best Practices and Vulnerabilities
@@ -153,7 +153,7 @@ The second part will cover vulnerabilities of ML discovering how easy could be t
 #  
 #### SessionID: 95169
 # SQL-Serverless
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Cloud
 ## Speaker: Massimo Bonanni
 ## Title: SQL-Serverless
@@ -163,7 +163,7 @@ In questa sessione vedremo in che modo sfruttare l'estensibilità delle Azure Fu
 #  
 #### SessionID: 96804
 # Inside SQL Server containers
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: DevOps
 ## Speaker: Danilo Dominici
 ## Title: Inside SQL Server containers
@@ -172,7 +172,7 @@ Event Date: 23-11-2019 - Session time: 17:00:00 - Track: DevOps
 #  
 #### SessionID: 96845
 # TempDB optimizations from SQL Server 2005 to 2019
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Database Admin
 ## Speaker: Gabriele Franco
 ## Title: TempDB optimizations from SQL Server 2005 to 2019
@@ -182,7 +182,7 @@ Negli anni sono state fatte parecchie ottimizzazioni dell’architettura del tem
 #  
 #### SessionID: 95687
 # Analyzing System with Extended events, Query Store and R and Python
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Database Admin
 ## Speaker: Tomaž Kaštrun
 ## Title: Analyzing System with Extended events, Query Store and R and Python
@@ -195,7 +195,7 @@ Session will cover demos and use cases, especially which statistical approaches 
 #  
 #### SessionID: 96389
 # Design and Architect always disconnected IoT System
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Cloud
 ## Speaker: Marco Dal Pino
 ## Title: Design and Architect always disconnected IoT System
@@ -205,7 +205,7 @@ Let's see what are the main topic to consider during the design process of this 
 #  
 #### SessionID: 96720
 # Query tuning with Hypothetical Indexes - IT
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Database Admin
 ## Speaker: Alessandro Mortola
 ## Title: Query tuning with Hypothetical Indexes - IT
@@ -217,7 +217,7 @@ In this session we are going to give all the known details of these features and
 #  
 #### SessionID: 99732
 # Walk-through of Azure Machine Learning Service new features
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Data Science
 ## Speaker: Luca Zavarella
 ## Title: Walk-through of Azure Machine Learning Service new features
@@ -226,7 +226,7 @@ Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Data Science
 #  
 #### SessionID: 95118
 # SQL Server e PowerShell: from zero to hero!
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: DevOps
 ## Speaker: Marco Obinu
 ## Title: SQL Server e PowerShell: from zero to hero!
@@ -235,7 +235,7 @@ Event Date: 23-11-2019 - Session time: 17:00:00 - Track: DevOps
 #  
 #### SessionID: 95419
 # SQL Server Availability Groups for dummies
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Database Admin
 ## Speaker: Mark Broadbent
 ## Title: SQL Server Availability Groups for dummies
@@ -250,7 +250,7 @@ If you want to finally get to grips with SQL Server Always On Availability Group
 #  
 #### SessionID: 96910
 # Pratical Data Virtualization
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Analytics and Visualization
 ## Speaker: franco perduca
 ## Title: Pratical Data Virtualization
@@ -260,7 +260,7 @@ Quali sono i concetti e come poterli affrontare con i miglioramenti aggiunti a P
 #  
 #### SessionID: 98070
 # Azure SQL Database: Dove siamo arrivati
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Cloud
 ## Speaker: Luca Ferrari
 ## Title: Azure SQL Database: Dove siamo arrivati
@@ -269,7 +269,7 @@ Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Cloud
 #  
 #### SessionID: 94147
 # Accesso ai dati in applicazioni client/server con .NET Core 3.0
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Development
 ## Speaker: Marco Minerva
 ## Title: Accesso ai dati in applicazioni client/server con .NET Core 3.0
@@ -278,7 +278,7 @@ Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Development
 #  
 #### SessionID: 96643
 # EmPower your BI Architecture
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Database Admin
 ## Speaker: Riccardo Perico
 ## Title: EmPower your BI Architecture
@@ -287,7 +287,7 @@ Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Database Admin
 #  
 #### SessionID: 98195
 # Database recovery: Concetti e novità in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Database Admin
 ## Speaker: Gilberto Zampatti
 ## Title: Database recovery: Concetti e novità in SQL Server 2019
@@ -297,7 +297,7 @@ Questa sessione ne illustra i concetti e l'evoluzione delle tecniche e degli str
 #  
 #### SessionID: 98207
 # No more Powerpoint: Datastorytelling  Presentation with PowerBi
-#### [Back to calendar](#SQLSaturday-#895---Parma-2019)
+#### [Back to calendar](#SQLSaturday-#895-Parma-2019)
 Event Date: 23-11-2019 - Session time: 17:00:00 - Track: Analytics and Visualization
 ## Speaker: Lorenzo Vercellati
 ## Title: No more Powerpoint: Datastorytelling  Presentation with PowerBi

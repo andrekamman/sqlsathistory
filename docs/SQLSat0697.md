@@ -29,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 70690
 # JSON and the Astronauts
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Peter Kral
 ## Title: JSON and the Astronauts
@@ -41,7 +41,7 @@ You should have experience writing queries in T-SQL. No previous knowledge of JS
 #  
 #### SessionID: 71540
 # Maintain SQL Server Performance Baseline with PowerShell
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Maintain SQL Server Performance Baseline with PowerShell
@@ -50,7 +50,7 @@ Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71913
 # Azure Data Catalog – Turning Unused Assets into Usable Knowledge
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Melody Zacharias
 ## Title: Azure Data Catalog – Turning Unused Assets into Usable Knowledge
@@ -60,7 +60,7 @@ ADC is an indispensable tool that helps companies organize and make sense of the
 #  
 #### SessionID: 74021
 # Introduction to Relational Databases
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Dan Li
 ## Title: Introduction to Relational Databases
@@ -69,7 +69,7 @@ Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 69377
 # Oracle vs. SQL Server Indexing-  The Good, the Bad and the Ugly
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Oracle vs. SQL Server Indexing-  The Good, the Bad and the Ugly
@@ -84,7 +84,7 @@ Takeaways are:
 #  
 #### SessionID: 70342
 # Boost your Analytics with Machine Learning for SQL Nerds
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Julie Koesmarno
 ## Title: Boost your Analytics with Machine Learning for SQL Nerds
@@ -95,7 +95,7 @@ This session will provide a gentle and fun introduction to SQL Server R Services
 #  
 #### SessionID: 72498
 # Prevent Presentation Paralysis
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Arnie Rowland
 ## Title: Prevent Presentation Paralysis
@@ -106,7 +106,7 @@ Arnie will guide you with techniques to better understand and match the audience
 #  
 #### SessionID: 72689
 # RPO, RTO  SLA: Three Letter Words for When the S H T Hits the F A N
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: josh smith
 ## Title: RPO, RTO  SLA: Three Letter Words for When the S H T Hits the F A N
@@ -115,7 +115,7 @@ Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 69248
 # Move Your SQLServer Database to "The Cloud" With Almost Zero Downtime
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Cloud  Infrastructure
 ## Speaker: Clay Jackson
 ## Title: Move Your SQLServer Database to "The Cloud" With Almost Zero Downtime
@@ -124,7 +124,7 @@ Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Cloud  Infrastructure
 #  
 #### SessionID: 69696
 # Why is my DBA So Grumpy ... When I Use NOLOCK and Other Query Hints.
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Why is my DBA So Grumpy ... When I Use NOLOCK and Other Query Hints.
@@ -133,7 +133,7 @@ Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 71875
 # Becoming a Master by Giving it All Away
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Michael Wall
 ## Title: Becoming a Master by Giving it All Away
@@ -145,7 +145,7 @@ Be prepared for an interactive and lively discussion and to walk away with some 
 #  
 #### SessionID: 72701
 # Creating Dynamic, Reusable, SSIS Packages
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Elizabeth Hunt
 ## Title: Creating Dynamic, Reusable, SSIS Packages
@@ -154,7 +154,7 @@ Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 69353
 # Basics of Database Corruption Repair
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steve Stedman
 ## Title: Basics of Database Corruption Repair
@@ -163,7 +163,7 @@ Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 69766
 # R For the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
@@ -172,7 +172,7 @@ Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 73029
 # Confidence: The fuel for action
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Melody Zacharias
 ## Title: Confidence: The fuel for action
@@ -181,7 +181,7 @@ Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 74182
 # Master Data: Theory  Reality
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Swagatika Sarangi
 ## Title: Master Data: Theory  Reality
@@ -191,7 +191,7 @@ SQL Server Master Data Services 2016 feature enhancements, tremendously helpful 
 #  
 #### SessionID: 70852
 # DevOPs and the DBA
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamish Watson
 ## Title: DevOPs and the DBA
@@ -210,7 +210,7 @@ Through the use of a comprehensive live demo to a running database hosted in Azu
 #  
 #### SessionID: 72499
 # Magical Memory Moments
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Arnie Rowland
 ## Title: Magical Memory Moments
@@ -225,7 +225,7 @@ In this demo packed session, we will discuss the pros and cons of using memory-o
 #  
 #### SessionID: 72657
 # Analyzing real-time data using Azure Streaming Analytics
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Michael Johnson
 ## Title: Analyzing real-time data using Azure Streaming Analytics
@@ -234,7 +234,7 @@ Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 73137
 # Data without technology
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Jody Roberts
 ## Title: Data without technology
@@ -243,7 +243,7 @@ Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 69268
 # Azure SQL DB - Where is SQL Agent?
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Armando Lacerda
 ## Title: Azure SQL DB - Where is SQL Agent?
@@ -252,7 +252,7 @@ Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 69767
 # Securing SQL Server
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Feasel
 ## Title: Securing SQL Server
@@ -261,7 +261,7 @@ Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73222
 # Building a Modern Data Warehouse in Azure for Power BI
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Philip Spokas
 ## Title: Building a Modern Data Warehouse in Azure for Power BI
@@ -271,7 +271,7 @@ In this presentation, we’ll Use Azure services to extract, load, and transform
 #  
 #### SessionID: 73998
 # Starting From Nothing to a Dashboard and Analysis in an Hour Using PowerBI
-#### [Back to calendar](#SQLSaturday-#697---Spokane-2018)
+#### [Back to calendar](#SQLSaturday-#697-Spokane-2018)
 Event Date: 10-03-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Kyle Stevenson
 ## Title: Starting From Nothing to a Dashboard and Analysis in an Hour Using PowerBI

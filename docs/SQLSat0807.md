@@ -40,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 85340
 # Everlasting Issues with Temporary Tables and tempdb
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Kalen Delaney
 ## Title: Everlasting Issues with Temporary Tables and tempdb
@@ -49,7 +49,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 85840
 # Real-World AI in Azure
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Amie Mason
 ## Title: Real-World AI in Azure
@@ -58,7 +58,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 86680
 # Why Solidity is Solid – Basics of Ethereum, Smart Contracts, and Blockchain.
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Information Delivery
 ## Speaker: Swagatika Sarangi
 ## Title: Why Solidity is Solid – Basics of Ethereum, Smart Contracts, and Blockchain.
@@ -73,7 +73,7 @@ Topics that I will cover in this session –
 #  
 #### SessionID: 87044
 # Better Query Performance from Proper Statistics Management
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Vern Rabe
 ## Title: Better Query Performance from Proper Statistics Management
@@ -82,7 +82,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 87742
 # Practical Visual Guidance for PowerBI
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Yana Berkovich
 ## Title: Practical Visual Guidance for PowerBI
@@ -96,7 +96,7 @@ Customer Profitability sample and HR sample
 #  
 #### SessionID: 90975
 # A Beginner's Guide To Plan Guides
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Carrig
 ## Title: A Beginner's Guide To Plan Guides
@@ -107,7 +107,7 @@ In this session we will cover what plan guides are, how they work and demonstrat
 #  
 #### SessionID: 91118
 # Automated tests in your database: tSQLt
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Janice Gerbrandt
 ## Title: Automated tests in your database: tSQLt
@@ -118,7 +118,7 @@ In this session you’ll learn how to use tSQLt to add automated tests to your d
 #  
 #### SessionID: 85998
 # Build ETL Patterns in the Cloud with Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 ## Speaker: Mark Kromer
 ## Title: Build ETL Patterns in the Cloud with Azure Data Factory
@@ -127,7 +127,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 87045
 # T-SQL Habits and Practices That Can Kill Performance
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Vern Rabe
 ## Title: T-SQL Habits and Practices That Can Kill Performance
@@ -138,7 +138,7 @@ Armed with this knowledge, you will definitely impress your boss with your abili
 #  
 #### SessionID: 87354
 # Keys to Successfully Governing Power BI for your Organization
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Amie Mason
 ## Title: Keys to Successfully Governing Power BI for your Organization
@@ -147,7 +147,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 91147
 # Demystifying Chart Types and Report Design Principles in Power BI
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Reid Havens
 ## Title: Demystifying Chart Types and Report Design Principles in Power BI
@@ -156,7 +156,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 91804
 # Protect Your SQL Server Data with Static Data Masking
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Greg Larsen
 ## Title: Protect Your SQL Server Data with Static Data Masking
@@ -166,7 +166,7 @@ In order to protect data and comply with regulations such as the GDPR and HIPAA,
 #  
 #### SessionID: 93367
 # Azure SQL DW: Optimization Technics to Maximize Performance
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sergiy Lunyakin
 ## Title: Azure SQL DW: Optimization Technics to Maximize Performance
@@ -182,7 +182,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 93369
 # PowerApps  Power BI: Better Together
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Yana Berkovich
 ## Title: PowerApps  Power BI: Better Together
@@ -191,7 +191,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 86698
 # Using Columnstore indexes in Azure DevOps Services. Lessons learned
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Konstantin Kosinsky
 ## Title: Using Columnstore indexes in Azure DevOps Services. Lessons learned
@@ -210,7 +210,7 @@ Working on it, I've learned a lot of DOs and DON'Ts about columnstore indexes. S
 #  
 #### SessionID: 86781
 # Managing Table Partitions at the Extremes
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ron Talmage
 ## Title: Managing Table Partitions at the Extremes
@@ -219,7 +219,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 87649
 # Managing ETL Change using BIMLScript
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Russel Loski
 ## Title: Managing ETL Change using BIMLScript
@@ -234,7 +234,7 @@ Finally, I will use BIMLScript to handle changes from one version of SSIS to the
 #  
 #### SessionID: 87920
 # Power BI for the Faint of Heart - Building an Interactive Report Step-by-Step!
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 ## Speaker: Scott Stauffer
 ## Title: Power BI for the Faint of Heart - Building an Interactive Report Step-by-Step!
@@ -243,7 +243,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 93362
 # Becoming a Master by Giving It All Away
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Michael Wall
 ## Title: Becoming a Master by Giving It All Away
@@ -255,7 +255,7 @@ By passing on your knowledge, you are leaving behind a legacy that extends beyon
 #  
 #### SessionID: 93363
 # SQL 101: A Very Good Place to Start
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: josh smith
 ## Title: SQL 101: A Very Good Place to Start
@@ -264,7 +264,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93366
 # Azure SQL DWH: Tips and Tricks for developers
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Azure SQL DWH: Tips and Tricks for developers
@@ -273,7 +273,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 84867
 # Predictive Analytics with R in Power BI
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Joseph Yeates
 ## Title: Predictive Analytics with R in Power BI
@@ -282,7 +282,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 86966
 # Large-scale graph querying and analytics with SQL Graph
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Arvind Shyamsundar
 ## Title: Large-scale graph querying and analytics with SQL Graph
@@ -291,7 +291,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 87648
 # Querying Semistructured Data in Azure Data Lake with USQL
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Russel Loski
 ## Title: Querying Semistructured Data in Azure Data Lake with USQL
@@ -300,7 +300,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 87826
 # RC, SI, and RCSI -It's So Confusing. Which Should You Use?
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Arnie Rowland
 ## Title: RC, SI, and RCSI -It's So Confusing. Which Should You Use?
@@ -309,7 +309,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 87919
 # SQL Server 2019 Big Data Clusters
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Rock Pereira
 ## Title: SQL Server 2019 Big Data Clusters
@@ -318,7 +318,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 93364
 # Power BI Administration to Optimize your Premium Services
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: DeNisha Malone
 ## Title: Power BI Administration to Optimize your Premium Services
@@ -333,7 +333,7 @@ If you are a premium user, a Power BI Service Admin, or just interested in premi
 #  
 #### SessionID: 93370
 # How to write a Kicka** anything
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Blythe Morrow
 ## Title: How to write a Kicka** anything
@@ -342,7 +342,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 87827
 # Prevent Presentation Paralysis
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Arnie Rowland
 ## Title: Prevent Presentation Paralysis
@@ -353,7 +353,7 @@ Arnie will guide you with techniques to better understand and match the audience
 #  
 #### SessionID: 89380
 # Master Data Management: BI and Data Science’s Best Friend
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: John McAllister
 ## Title: Master Data Management: BI and Data Science’s Best Friend
@@ -362,7 +362,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 90778
 # Everything You Need to Know About SQL Server Indexes
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Janis Griffin
 ## Title: Everything You Need to Know About SQL Server Indexes
@@ -373,7 +373,7 @@ This presentation is a must see for DBAs, Developers, Application Architects and
 #  
 #### SessionID: 90976
 # Controlling Competing Workloads with SQL Server Resource Governor
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Carrig
 ## Title: Controlling Competing Workloads with SQL Server Resource Governor
@@ -382,7 +382,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91420
 # Tell a Story with Data in Power BI
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 ## Speaker: DeNisha Malone
 ## Title: Tell a Story with Data in Power BI
@@ -393,7 +393,7 @@ This session will give you the steps to get the most insightful story from you d
 #  
 #### SessionID: 93365
 # Machine Learning – Classification
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: vinh vu
 ## Title: Machine Learning – Classification
@@ -404,7 +404,7 @@ Through my presentation, I will talk about the classification problem in machine
 #  
 #### SessionID: 93371
 # Build a blog worth reading
-#### [Back to calendar](#SQLSaturday-#807---Redmond-2019)
+#### [Back to calendar](#SQLSaturday-#807-Redmond-2019)
 Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Blythe Morrow
 ## Title: Build a blog worth reading

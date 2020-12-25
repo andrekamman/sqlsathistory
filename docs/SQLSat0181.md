@@ -11,7 +11,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 18829
 # BI を始めてみよう！
-#### [Back to calendar](#SQLSaturday-#181---Tokyo-2012)
+#### [Back to calendar](#SQLSaturday-#181-Tokyo-2012)
 Event Date: 01-12-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: 武田 正樹
 ## Title: BI を始めてみよう！
@@ -20,7 +20,7 @@ Event Date: 01-12-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18830
 # 次期SQL Server の新機能「Hekaton」とは？
-#### [Back to calendar](#SQLSaturday-#181---Tokyo-2012)
+#### [Back to calendar](#SQLSaturday-#181-Tokyo-2012)
 Event Date: 01-12-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: 武田 正樹
 ## Title: 次期SQL Server の新機能「Hekaton」とは？
@@ -29,7 +29,7 @@ Event Date: 01-12-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18831
 # ここからはじめる SQL Server の状態取得
-#### [Back to calendar](#SQLSaturday-#181---Tokyo-2012)
+#### [Back to calendar](#SQLSaturday-#181-Tokyo-2012)
 Event Date: 01-12-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: 武田 正樹
 ## Title: ここからはじめる SQL Server の状態取得
@@ -43,7 +43,7 @@ Event Date: 01-12-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18832
 # T-SQL 振り返り
-#### [Back to calendar](#SQLSaturday-#181---Tokyo-2012)
+#### [Back to calendar](#SQLSaturday-#181-Tokyo-2012)
 Event Date: 01-12-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: 武田 正樹
 ## Title: T-SQL 振り返り
@@ -55,7 +55,7 @@ Event Date: 01-12-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18833
 # 今さら聞けない!? SQL データベース（旧称：SQL Azure）超入門
-#### [Back to calendar](#SQLSaturday-#181---Tokyo-2012)
+#### [Back to calendar](#SQLSaturday-#181-Tokyo-2012)
 Event Date: 01-12-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: 武田 正樹
 ## Title: 今さら聞けない!? SQL データベース（旧称：SQL Azure）超入門
@@ -64,7 +64,7 @@ Event Date: 01-12-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18834
 # SQL Database (Windows Azure) ハンズオン　その２
-#### [Back to calendar](#SQLSaturday-#181---Tokyo-2012)
+#### [Back to calendar](#SQLSaturday-#181-Tokyo-2012)
 Event Date: 01-12-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: 武田 正樹
 ## Title: SQL Database (Windows Azure) ハンズオン　その２

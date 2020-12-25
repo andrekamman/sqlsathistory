@@ -41,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 48383
 # The PROCESS of Queries
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: The PROCESS of Queries
@@ -50,7 +50,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 49144
 # Infrastructure for the DBA: An Introduction
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: Infrastructure for the DBA: An Introduction
@@ -59,7 +59,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50329
 # What's new in Reporting Services 2016
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Chris Albrektson
 ## Title: What's new in Reporting Services 2016
@@ -68,7 +68,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 50614
 # Learning R Using Fantasy Football Data
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Wilkie
 ## Title: Learning R Using Fantasy Football Data
@@ -83,7 +83,7 @@ We'll go over the basics of R and rStudio, plus items such as:
 #  
 #### SessionID: 51198
 # The Sorcerer's Apprentice Guide to Configuration Options and Trace Flags
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Justin Randall
 ## Title: The Sorcerer's Apprentice Guide to Configuration Options and Trace Flags
@@ -92,7 +92,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 51210
 # Power BI  SharePoint - A Marriage Made in Redmond
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Glenn
 ## Title: Power BI  SharePoint - A Marriage Made in Redmond
@@ -101,7 +101,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 47012
 # Word Up: Text Mining in SQL
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dave Mattingly
 ## Title: Word Up: Text Mining in SQL
@@ -114,7 +114,7 @@ Learn how to dig through your library of language to make your data better.
 #  
 #### SessionID: 48568
 # Why “R” you not leveraging the power of “R” in Power BI?!?
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Wade
 ## Title: Why “R” you not leveraging the power of “R” in Power BI?!?
@@ -125,7 +125,7 @@ In this session I will focus on the benefits of using R in Power BI. I will show
 #  
 #### SessionID: 48627
 # Baselines and Performance Monitoring with PAL
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Walsh
 ## Title: Baselines and Performance Monitoring with PAL
@@ -134,7 +134,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48969
 # The Lost Science of Set Theory
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Aaron Cutshall
 ## Title: The Lost Science of Set Theory
@@ -143,7 +143,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 49106
 # Improving Your PowerPoint Skills
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Evelyn Maxwell
 ## Title: Improving Your PowerPoint Skills
@@ -152,7 +152,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 51181
 # Service Broker: A Conceptual Approach
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: James King
 ## Title: Service Broker: A Conceptual Approach
@@ -161,7 +161,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 48122
 # I’m It – Survival Techniques for the Lone DBA
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I’m It – Survival Techniques for the Lone DBA
@@ -170,7 +170,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 48560
 # Let Me Finish... Isolating Write Operations
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Let Me Finish... Isolating Write Operations
@@ -179,7 +179,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 48959
 # Wait Statistics - The Top 5 Waits You Should Know
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Wait Statistics - The Top 5 Waits You Should Know
@@ -188,7 +188,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50353
 # Women in Technology: Identifying, Understanding and Combating Gender Bias
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Women in Technology: Identifying, Understanding and Combating Gender Bias
@@ -197,7 +197,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 50421
 # Is your Flight on Time? – Power BI Dashboard
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Kenney Snell
 ## Title: Is your Flight on Time? – Power BI Dashboard
@@ -215,7 +215,7 @@ Finally, see the Dashboard in action and also how to use QA, a natural-language 
 #  
 #### SessionID: 52464
 # Exploring SQLPS, the SQL Server Powershell Module
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Exploring SQLPS, the SQL Server Powershell Module
@@ -224,7 +224,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48316
 # Stretch Database and Managed Backups: Cloud Services for your SQL Servers
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Loree
 ## Title: Stretch Database and Managed Backups: Cloud Services for your SQL Servers
@@ -233,7 +233,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50260
 # Query Store Primer
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
@@ -242,7 +242,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50474
 # Backup Strategies are for Losers...of Data!
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Watson
 ## Title: Backup Strategies are for Losers...of Data!
@@ -251,7 +251,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50644
 # Scalable Application Design with Service Broker
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Allen White
 ## Title: Scalable Application Design with Service Broker
@@ -260,7 +260,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 51078
 # Getting started with Always Encrypted in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Tim Chapman
 ## Title: Getting started with Always Encrypted in SQL Server 2016
@@ -270,7 +270,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 52248
 # Getting Started with SQL Server Replication
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Verell
 ## Title: Getting Started with SQL Server Replication
@@ -279,7 +279,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48535
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -288,7 +288,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48785
 # The Many Paths of Consulting
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: David Klee
 ## Title: The Many Paths of Consulting
@@ -300,7 +300,7 @@ This session will help you ask the right questions to better chose and prepare f
 #  
 #### SessionID: 48995
 # Statistics  Cardinality – How they work to find data efficiently
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: Statistics  Cardinality – How they work to find data efficiently
@@ -312,7 +312,7 @@ In this session we will go over why statistics matter, how they are generated, h
 #  
 #### SessionID: 49322
 # Introduction to the Power BI Desktop
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to the Power BI Desktop
@@ -321,7 +321,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 50335
 # Digging Out From Corruption
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eddie Wuerch
 ## Title: Digging Out From Corruption
@@ -330,7 +330,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50867
 # Top 5 Tips to Keep Always On Always Humming and Users Happy
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: Top 5 Tips to Keep Always On Always Humming and Users Happy
@@ -339,7 +339,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46973
 # Introduction to Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Machine Learning
@@ -348,7 +348,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 48997
 # Dealing With Difficult Managers
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Gigi Bell
 ## Title: Dealing With Difficult Managers
@@ -358,7 +358,7 @@ Through case studies and open discussion, we will help you determine if you inde
 #  
 #### SessionID: 50606
 # Real world In-Memory OLTP
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ned Otter
 ## Title: Real world In-Memory OLTP
@@ -375,7 +375,7 @@ All of these questions and more are answered as we discuss real-world usage of I
 #  
 #### SessionID: 50687
 # Azure, PowerShell, and SQL Server Virtual Machines
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Azure, PowerShell, and SQL Server Virtual Machines
@@ -384,7 +384,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50869
 # Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
@@ -393,7 +393,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 53415
 # Extended Events - Better than Profiler
-#### [Back to calendar](#SQLSaturday-#531---Louisville-2016)
+#### [Back to calendar](#SQLSaturday-#531-Louisville-2016)
 Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Extended Events - Better than Profiler

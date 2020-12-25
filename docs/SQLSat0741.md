@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 72537
 # Introduction to Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Enterprise BI
 ## Speaker: Derik Hammer
 ## Title: Introduction to Azure SQL Data Warehouse
@@ -45,7 +45,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Enterprise BI
 #  
 #### SessionID: 73625
 # Effective Data Warehouse Storage Patterns
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: John Miner
 ## Title: Effective Data Warehouse Storage Patterns
@@ -74,7 +74,7 @@ Coverage:
 #  
 #### SessionID: 74205
 # DAX and the tabular model
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Self-Service BI
 ## Speaker: Steve Simon
 ## Title: DAX and the tabular model
@@ -84,7 +84,7 @@ We shall discuss many of the often used functions, discuss their 'overloads' (ut
 #  
 #### SessionID: 77286
 # Whoa! Backup, what happened? The Basics of Backups
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Greg Moore
 ## Title: Whoa! Backup, what happened? The Basics of Backups
@@ -95,7 +95,7 @@ Many DBAs still setup their backups via a GUI and “fire and forget” and don�
 #  
 #### SessionID: 82035
 # Networking: it isn't just for breakfast anymore
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Professional/Personal Development
 ## Speaker: Ray Kim
 ## Title: Networking: it isn't just for breakfast anymore
@@ -106,7 +106,7 @@ In this interactive session, we will discuss networking -- what it is, why it's 
 #  
 #### SessionID: 82098
 # DevOps Database administration.
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: QA/Automation
 ## Speaker: Stephen Mokszycki
 ## Title: DevOps Database administration.
@@ -117,7 +117,7 @@ There will be a demo!
 #  
 #### SessionID: 72156
 # Learning to present and becoming good at it
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Professional/Personal Development
 ## Speaker: James Serra
 ## Title: Learning to present and becoming good at it
@@ -126,7 +126,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Professional/Personal D
 #  
 #### SessionID: 72538
 # Launching your database into Azure
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Derik Hammer
 ## Title: Launching your database into Azure
@@ -135,7 +135,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 74201
 # An introduction to Data Mining  with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Enterprise BI
 ## Speaker: Steve Simon
 ## Title: An introduction to Data Mining  with SQL Server 2016
@@ -156,7 +156,7 @@ In this hands on BEGINNERS presentation we shall be looking at Microsoft SQL Ser
 #  
 #### SessionID: 80000
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Application Development
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -165,7 +165,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Application Development
 #  
 #### SessionID: 83022
 # Performance Troubleshooting made easier - new features in Management Studio !
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Taiob Ali
 ## Title: Performance Troubleshooting made easier - new features in Management Studio !
@@ -178,7 +178,7 @@ In this demo intensive session, I will show you how to find and use new features
 #  
 #### SessionID: 83405
 # BI Infrastructure in Azure: Points to Consider
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Enterprise BI
 ## Speaker: Paresh Motiwala
 ## Title: BI Infrastructure in Azure: Points to Consider
@@ -194,7 +194,7 @@ We will also learn about setting up teams and ways to train them(and yourself) i
 #  
 #### SessionID: 83755
 # WIT Luncheon: Women Participation at Conferences/Workshops/Technical Market
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Professional/Personal Development
 ## Speaker: Vijaya Kokkili
 ## Title: WIT Luncheon: Women Participation at Conferences/Workshops/Technical Market
@@ -208,7 +208,7 @@ https://www.meetup.com/CD-WiT/
 #  
 #### SessionID: 84384
 # Development  Test Data Management: Achieving breakthrough saving
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Application Development
 ## Speaker: Andrew Cary
 ## Title: Development  Test Data Management: Achieving breakthrough saving
@@ -218,7 +218,7 @@ data automation to reduce application development cycle time, reduce costs and e
 #  
 #### SessionID: 72153
 # Big data architectures and the data lake
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Big Data
 ## Speaker: James Serra
 ## Title: Big data architectures and the data lake
@@ -227,7 +227,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Big Data
 #  
 #### SessionID: 82164
 # Shaving of Microseconds
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Optimization/Tuning
 ## Speaker: Thomas Grohser
 ## Title: Shaving of Microseconds
@@ -236,7 +236,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Optimization/Tuning
 #  
 #### SessionID: 83246
 # Documenting your SQL Server environment with PowerShell
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Matthew Anderson
 ## Title: Documenting your SQL Server environment with PowerShell
@@ -247,7 +247,7 @@ Finding a free and simple method to gather information about my SQL Server envir
 #  
 #### SessionID: 83329
 # Azure Data Factory V2 /ETL in the clouds
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Big Data
 ## Speaker: Christian Cote
 ## Title: Azure Data Factory V2 /ETL in the clouds
@@ -257,7 +257,7 @@ This session will also introduce concepts like the modern data warehouse and wha
 #  
 #### SessionID: 84329
 # Lightning Talks
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Lightning Talks
 ## Speaker: Kevin Boles
 ## Title: Lightning Talks
@@ -272,7 +272,7 @@ Michelle Gutzait: Performance Tuning
 #  
 #### SessionID: 72406
 # An Introduction to Predictive Modeling with R
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Machine Learning and AI
 ## Speaker: Bryan Cafferky
 ## Title: An Introduction to Predictive Modeling with R
@@ -281,7 +281,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Machine Learning and AI
 #  
 #### SessionID: 79998
 # SQL Server 2016 (SP1)  2017 ROCKS!!
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Optimization/Tuning
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2016 (SP1)  2017 ROCKS!!
@@ -290,7 +290,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Optimization/Tuning
 #  
 #### SessionID: 80146
 # Implementing Security Standard Regulations in SQL Server  Azure
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Michelle Gutzait
 ## Title: Implementing Security Standard Regulations in SQL Server  Azure
@@ -300,7 +300,7 @@ The focus will be on the new GDPR standard.
 #  
 #### SessionID: 80917
 # From (User) Story to Tables: Read Between the Lines to Find Your Data
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Deborah Melkin
 ## Title: From (User) Story to Tables: Read Between the Lines to Find Your Data
@@ -315,7 +315,7 @@ This is for DBAs who are involved in any part of designing databases, who want t
 #  
 #### SessionID: 82022
 # Take the changes under control
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Alex Grinberg
 ## Title: Take the changes under control
@@ -324,7 +324,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Administration
 #  
 #### SessionID: 83342
 # Query Optimization Techniques
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Edward Pollack
 ## Title: Query Optimization Techniques
@@ -339,7 +339,7 @@ Demos of poor-performing queries will be provided to illustrate key optimization
 #  
 #### SessionID: 73630
 # Full Text Indexing Basics
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: John Miner
 ## Title: Full Text Indexing Basics
@@ -362,7 +362,7 @@ Coverage:
 #  
 #### SessionID: 77285
 # So you want to Present: Tips and Tricks of the trade
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Professional/Personal Development
 ## Speaker: Greg Moore
 ## Title: So you want to Present: Tips and Tricks of the trade
@@ -379,7 +379,7 @@ This will be partly interactive so come with questions and be prepared to be ask
 #  
 #### SessionID: 80071
 # “Go Faster!” And Other Things Yelled at the Backup Jobs
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Mike Hays
 ## Title: “Go Faster!” And Other Things Yelled at the Backup Jobs
@@ -388,7 +388,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Administration
 #  
 #### SessionID: 82163
 # "Schadenfreude" - Let's enjoy the mistakes other people made...
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Professional/Personal Development
 ## Speaker: Thomas Grohser
 ## Title: "Schadenfreude" - Let's enjoy the mistakes other people made...
@@ -399,7 +399,7 @@ After a log day, come in and have some fun before the evening event starts
 #  
 #### SessionID: 83599
 # Power up SSRS 2017 with Power BI and other new enhancements
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Enterprise BI
 ## Speaker: Sunil Kadimdiwan
 ## Title: Power up SSRS 2017 with Power BI and other new enhancements
@@ -412,7 +412,7 @@ Then show you how to work with Mobile Reports, KPIs and Paginated reports. The n
 #  
 #### SessionID: 84330
 # Ask the Experts Panel
-#### [Back to calendar](#SQLSaturday-#741---Albany-2018)
+#### [Back to calendar](#SQLSaturday-#741-Albany-2018)
 Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Panel
 ## Speaker: Bryan Cafferky
 ## Title: Ask the Experts Panel

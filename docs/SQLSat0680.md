@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 66781
 # LIVE SQL Server 2017 LINUX Availability Group buildout!
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Walden
 ## Title: LIVE SQL Server 2017 LINUX Availability Group buildout!
@@ -44,7 +44,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67648
 # Data Modeling for the Modern Enterprise
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Casey
 ## Title: Data Modeling for the Modern Enterprise
@@ -69,7 +69,7 @@ Different Modeling Techniques
 #  
 #### SessionID: 68672
 # Hidden Power: Service Broker
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
 ## Speaker: Ankit Baria
 ## Title: Hidden Power: Service Broker
@@ -80,7 +80,7 @@ With focusing on your basic database to database asynchronous messaging to more 
 #  
 #### SessionID: 68902
 # Introduction to R
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Jeff Renz
 ## Title: Introduction to R
@@ -89,7 +89,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 68920
 # The Junior Developer's Handbook
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Doug Lane
 ## Title: The Junior Developer's Handbook
@@ -98,7 +98,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 66761
 # Performance Monitoring AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: Performance Monitoring AlwaysOn Availability Groups
@@ -107,7 +107,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68428
 # SQL Unit Testing with T-SQLt
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Trojanowski
 ## Title: SQL Unit Testing with T-SQLt
@@ -116,7 +116,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 68459
 # Remote SQL Server Troubleshooting and Monitoring Using SSIS
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Don St. Cyr
 ## Title: Remote SQL Server Troubleshooting and Monitoring Using SSIS
@@ -128,7 +128,7 @@ In this session I'll use Glenn Berry's diagnostic queries and SSIS to show how w
 #  
 #### SessionID: 68985
 # Service Broker Empowering near Real-time Mainframe Analytics
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Brendon Collier
 ## Title: Service Broker Empowering near Real-time Mainframe Analytics
@@ -137,7 +137,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 69786
 # Preparing to be Hacked
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Bill Graziano
 ## Title: Preparing to be Hacked
@@ -146,7 +146,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 69825
 # Set Me Up: How to Think in Sets
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Brian Hansen
 ## Title: Set Me Up: How to Think in Sets
@@ -157,7 +157,7 @@ We will look at T-SQL features that can break set-based processing -- generally 
 #  
 #### SessionID: 69892
 # Tallgrass Consulting
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
 ## Speaker: KC SQLSaturday
 ## Title: Tallgrass Consulting
@@ -166,7 +166,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 69893
 # Rockhurst University – Business Intelligence  Analytics Programs
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
 ## Speaker: KC SQLSaturday
 ## Title: Rockhurst University – Business Intelligence  Analytics Programs
@@ -176,7 +176,7 @@ Come learn about Rockhurst University’s unique certificate and master’s degr
 #  
 #### SessionID: 69895
 # Datrium
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
 ## Speaker: KC SQLSaturday
 ## Title: Datrium
@@ -185,7 +185,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 69896
 # Cohesity
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
 ## Speaker: KC SQLSaturday
 ## Title: Cohesity
@@ -194,7 +194,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 69897
 # Quest
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
 ## Speaker: KC SQLSaturday
 ## Title: Quest
@@ -210,7 +210,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 66746
 # ORMs and the DBA: How to Make Both Happy
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Dan Mallott
 ## Title: ORMs and the DBA: How to Make Both Happy
@@ -219,7 +219,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 67933
 # Azure Machine Learning 101
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Kathi Kellenberger
 ## Title: Azure Machine Learning 101
@@ -228,7 +228,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 68415
 # Source Control and Database Projects - Just Do It
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Weed
 ## Title: Source Control and Database Projects - Just Do It
@@ -237,7 +237,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68907
 # Don't just code it—Generate It
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Mackey
 ## Title: Don't just code it—Generate It
@@ -252,7 +252,7 @@ Generated code has systematic errors. Fix the errors at the generator. All the c
 #  
 #### SessionID: 66776
 # Continuous Deployments using SSDT
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christopher Wolff
 ## Title: Continuous Deployments using SSDT
@@ -261,7 +261,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66780
 # Index Speed Demons - How To Turbo-Charge Your Text Based Queries Using Full-Text Indexing
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adam Koehler
 ## Title: Index Speed Demons - How To Turbo-Charge Your Text Based Queries Using Full-Text Indexing
@@ -270,7 +270,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67068
 # SQL and BI Business Value
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Matthew Bowers
 ## Title: SQL and BI Business Value
@@ -283,7 +283,7 @@ Participants will learn about the basics of determining business value for a sol
 #  
 #### SessionID: 67381
 # Working with Temporal Data in SQL Server
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: David Maxwell
 ## Title: Working with Temporal Data in SQL Server
@@ -292,7 +292,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 68271
 # Data Mining Techniques with R and Azure Batch Services
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Matthew Sharkey
 ## Title: Data Mining Techniques with R and Azure Batch Services
@@ -301,7 +301,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 68463
 # Dynamic SQL: Tables, Pivots, Parameters
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Steven Tidwell
 ## Title: Dynamic SQL: Tables, Pivots, Parameters
@@ -310,7 +310,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 66729
 # Make Power BI Your Own with the Power BI APIs
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Wake
 ## Title: Make Power BI Your Own with the Power BI APIs
@@ -319,7 +319,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 66742
 # Transitioning from Integration Services to Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Meagan Longoria
 ## Title: Transitioning from Integration Services to Azure Data Factory
@@ -328,7 +328,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68710
 # Security Developers Need To Know
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Rob Kraft
 ## Title: Security Developers Need To Know
@@ -337,7 +337,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 68934
 # How to Keep Your Databases Secure in Just Minutes a Day
-#### [Back to calendar](#SQLSaturday-#680---Kansas-City-2017)
+#### [Back to calendar](#SQLSaturday-#680-Kansas-City-2017)
 Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: How to Keep Your Databases Secure in Just Minutes a Day

@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10486
 # Why proper data quality and modelling matters
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Magnus
 ## Speaker: Bjorn D. Jensen
 ## Title: Why proper data quality and modelling matters
@@ -44,7 +44,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Magnus
 #  
 #### SessionID: 10551
 # MIgrating to the Azure and the cloud
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Harald
 ## Speaker: Bob Duffy
 ## Title: MIgrating to the Azure and the cloud
@@ -56,7 +56,7 @@ In one hour we will take a sample ecommerce application and database, show tools
 #  
 #### SessionID: 10774
 # Dynamic Partitioning Cubes
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Svend
 ## Speaker: Brian Boenk
 ## Title: Dynamic Partitioning Cubes
@@ -69,7 +69,7 @@ The answer is simple: No!
 #  
 #### SessionID: 10901
 # Replay your workload as it's your actual one!
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Magnus
 ## Speaker: Boris Hristov
 ## Title: Replay your workload as it's your actual one!
@@ -78,7 +78,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Magnus
 #  
 #### SessionID: 11583
 # Building Your T-SQL Tool Kit: Window Function Fundamentals
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Harald
 ## Speaker: Christina Leo
 ## Title: Building Your T-SQL Tool Kit: Window Function Fundamentals
@@ -87,7 +87,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Harald
 #  
 #### SessionID: 11707
 # The Irish Economic Crisis, Visualized with Power BI
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Harald
 ## Speaker: Carmel Gunn
 ## Title: The Irish Economic Crisis, Visualized with Power BI
@@ -103,7 +103,7 @@ Come by to find out what led to a small country owing over 200 billion euro and 
 #  
 #### SessionID: 13958
 # Prepare your Excel Power Pivot models for QA
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Harald
 ## Speaker: Erik Svensen
 ## Title: Prepare your Excel Power Pivot models for QA
@@ -116,7 +116,7 @@ QA will really enable you to rock the way that users interact with data.
 #  
 #### SessionID: 14688
 # Analyzing I/O Subsystem Performance
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Gorm
 ## Speaker: Glenn Berry
 ## Title: Analyzing I/O Subsystem Performance
@@ -125,7 +125,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Gorm
 #  
 #### SessionID: 14939
 # Encryption in SQL Server - things to consider before flipping the switch
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Svend
 ## Speaker: Hans Hansen
 ## Title: Encryption in SQL Server - things to consider before flipping the switch
@@ -134,7 +134,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Svend
 #  
 #### SessionID: 15035
 # Advanced Indexing
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Knud
 ## Speaker: Hugo Kornelis
 ## Title: Advanced Indexing
@@ -144,7 +144,7 @@ Hugo will explore advanced features such as included columns, indexed views, and
 #  
 #### SessionID: 16533
 # Let's PowerBI Denmark with Big Data!
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Gorm
 ## Speaker: Jen Stirrup
 ## Title: Let's PowerBI Denmark with Big Data!
@@ -155,7 +155,7 @@ If the 'too much data, too little information' scenario is familiar, then come t
 #  
 #### SessionID: 17780
 # Unit testing Analysis Services
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Knud
 ## Speaker: Just Blindbaek
 ## Title: Unit testing Analysis Services
@@ -164,7 +164,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Knud
 #  
 #### SessionID: 17792
 # Analysis Services Security
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Knud
 ## Speaker: Jens Vestergaard
 ## Title: Analysis Services Security
@@ -173,7 +173,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Knud
 #  
 #### SessionID: 18103
 # Autogenerating a process data warehouse
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Svend
 ## Speaker: Kennie Pontoppidan
 ## Title: Autogenerating a process data warehouse
@@ -184,7 +184,7 @@ In this talk I will show you how Rehfeld has overcome this difficult problem usi
 #  
 #### SessionID: 18591
 # Microsoft Master Data Services - Used for more than just data management
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Magnus
 ## Speaker: Kenneth Nielsen
 ## Title: Microsoft Master Data Services - Used for more than just data management
@@ -197,7 +197,7 @@ Also a short walk through of the tools in MDS from sql server 2012
 #  
 #### SessionID: 19452
 # Indexing for denormalization
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Svend
 ## Speaker: Marcin Szeliga
 ## Title: Indexing for denormalization
@@ -208,7 +208,7 @@ A third normal form is great, but sometime a database really should be denormali
 #  
 #### SessionID: 19465
 # Optimizing DAX Analyzing Query Plans
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Gorm
 ## Speaker: Marco Russo
 ## Title: Optimizing DAX Analyzing Query Plans
@@ -217,7 +217,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Gorm
 #  
 #### SessionID: 19602
 # Recovering Data from Fatally Corrupt Databases
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Gorm
 ## Speaker: Mark S. Rasmussen
 ## Title: Recovering Data from Fatally Corrupt Databases
@@ -228,7 +228,7 @@ In this demo-rich session I will briefly introduce the internals of MDF files wh
 #  
 #### SessionID: 20121
 # Overview of a PDW project
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Harald
 ## Speaker: Mark Stacey
 ## Title: Overview of a PDW project
@@ -238,7 +238,7 @@ You will also learn about some of the differences between a PDW and SQL Server, 
 #  
 #### SessionID: 20368
 # High Performance Infrastructure for SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Gorm
 ## Speaker: Michael Frandsen
 ## Title: High Performance Infrastructure for SQL Server 2014
@@ -251,7 +251,7 @@ Being in the Data Platforms Advisors group for the SQL Server development team i
 #  
 #### SessionID: 20736
 # SQL Server 2014 - New Cardinality Estimator
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Harald
 ## Speaker: Miloš Radivojević
 ## Title: SQL Server 2014 - New Cardinality Estimator
@@ -262,7 +262,7 @@ This session will answers all these questions and will demonstrate new query pro
 #  
 #### SessionID: 21315
 # SQL Server 2012 Memory Management
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Knud
 ## Speaker: Neil Hambly
 ## Title: SQL Server 2012 Memory Management
@@ -272,7 +272,7 @@ This session will dive into questions related to memory primarily for SQL Server
 #  
 #### SessionID: 23512
 # Optimizing BI with SQL2014 In-Memory tables
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Knud
 ## Speaker: Rasmus Reinholdt
 ## Title: Optimizing BI with SQL2014 In-Memory tables
@@ -283,7 +283,7 @@ This demo intensiv session is build around a number of hypothesis that are teste
 #  
 #### SessionID: 25019
 # Let's cook  'best SQL Server DBA practices'
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Magnus
 ## Speaker: Satya Jayanty
 ## Title: Let's cook  'best SQL Server DBA practices'
@@ -292,7 +292,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Magnus
 #  
 #### SessionID: 25247
 # Window Functions Unleashed
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Svend
 ## Speaker: Steen Dybboe
 ## Title: Window Functions Unleashed
@@ -301,7 +301,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Svend
 #  
 #### SessionID: 27240
 # INSERT / UPDATE / DELETE - deep dive
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Gorm
 ## Speaker: Uwe Ricken
 ## Title: INSERT / UPDATE / DELETE - deep dive
@@ -312,7 +312,7 @@ SEE, what a workload will be caused by a "forwarded record". What tremendous wor
 #  
 #### SessionID: 27782
 # Practical use of the SSIS Script components
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Svend
 ## Speaker: Mikael Wedham
 ## Title: Practical use of the SSIS Script components
@@ -321,7 +321,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Svend
 #  
 #### SessionID: 34559
 # Automate your SSIS development with BIML
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Harald
 ## Speaker: André Kamman
 ## Title: Automate your SSIS development with BIML
@@ -338,7 +338,7 @@ This is not just for BI developers, DBA's or SQL dev's who need to import or exp
 #  
 #### SessionID: 8815
 # SQL Server 2014 In-Memory OLTP / XTP Management Deep Dive
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Gorm
 ## Speaker: Andreas Wolter
 ## Title: SQL Server 2014 In-Memory OLTP / XTP Management Deep Dive
@@ -347,7 +347,7 @@ Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Gorm
 #  
 #### SessionID: 8873
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#275---Copenhagen-2014)
+#### [Back to calendar](#SQLSaturday-#275-Copenhagen-2014)
 Event Date: 29-03-2014 - Session time: 00:00:00 - Track: Knud
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals

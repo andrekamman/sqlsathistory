@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28468
 # Introduction to SQL Server Spatial Data
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA/DEV Advanced
 ## Speaker: Michael Coles
 ## Title: Introduction to SQL Server Spatial Data
@@ -43,7 +43,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA/DEV Advanced
 #  
 #### SessionID: 28469
 # Sell Yourself Into An Interview!
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Michael Coles
 ## Title: Sell Yourself Into An Interview!
@@ -52,7 +52,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 28663
 # Some Thoughts on Managing Teams
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Andy Leonard
 ## Title: Some Thoughts on Managing Teams
@@ -61,7 +61,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 28666
 # Introduction to Incremental Loads 
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Andy Leonard
 ## Title: Introduction to Incremental Loads 
@@ -70,7 +70,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 28905
 # Gather SQL Server Performance Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA/DEV Advanced
 ## Speaker: Allen White
 ## Title: Gather SQL Server Performance Data with PowerShell
@@ -79,7 +79,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA/DEV Advanced
 #  
 #### SessionID: 28907
 # Automate Policy-Based Management using PowerShell
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA/DEV Advanced
 ## Speaker: Allen White
 ## Title: Automate Policy-Based Management using PowerShell
@@ -88,7 +88,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA/DEV Advanced
 #  
 #### SessionID: 28976
 # DBA Disaster Recovery Techniques To Keep Handy
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA/DEV Advanced
 ## Speaker: Edwin Sarmiento
 ## Title: DBA Disaster Recovery Techniques To Keep Handy
@@ -97,7 +97,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA/DEV Advanced
 #  
 #### SessionID: 28977
 # Presentation WOW!
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Edwin Sarmiento
 ## Title: Presentation WOW!
@@ -106,7 +106,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 29449
 # Writing faster queries
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA/DEV Advanced
 ## Speaker: Tim Chapman
 ## Title: Writing faster queries
@@ -115,7 +115,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA/DEV Advanced
 #  
 #### SessionID: 30420
 # Partitioning in SQL Server 2005/2008
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jana Sattainathan
 ## Title: Partitioning in SQL Server 2005/2008
@@ -124,7 +124,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 30600
 # Business Intelligence: Decaffeinated Please!
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jose Chinchilla
 ## Title: Business Intelligence: Decaffeinated Please!
@@ -133,7 +133,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 30601
 # Get Cert! Get Cred!
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Jose Chinchilla
 ## Title: Get Cert! Get Cred!
@@ -142,7 +142,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 30650
 # Deploying Data Tier Applications with SQL 2k8 R2
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Joseph D'Antoni
 ## Title: Deploying Data Tier Applications with SQL 2k8 R2
@@ -151,7 +151,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 30741
 # Fundamentals of SQL Server Internals
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jeremiah Peschka
 ## Title: Fundamentals of SQL Server Internals
@@ -160,7 +160,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 30901
 # SSIS for real: A walk through a real world project
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Joel Cochran
 ## Title: SSIS for real: A walk through a real world project
@@ -169,7 +169,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 30902
 # Intro to C# for the SSIS Script Component
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Joel Cochran
 ## Title: Intro to C# for the SSIS Script Component
@@ -178,7 +178,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 30951
 # Processing Flat Files with SSIS
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: John Welch
 ## Title: Processing Flat Files with SSIS
@@ -187,7 +187,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 31104
 # Monitor your SQL Server farm with PBM and CMS
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: John Sterrett
 ## Title: Monitor your SQL Server farm with PBM and CMS
@@ -198,7 +198,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 31191
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -207,7 +207,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 31342
 # Applied MDX in OLAP applications
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Kevin Goff
 ## Title: Applied MDX in OLAP applications
@@ -217,7 +217,7 @@ Learning the basics of MDX is one thing - learning how to incorporate MDX into c
 #  
 #### SessionID: 31345
 # Introduction to PowerPivot
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Kevin Goff
 ## Title: Introduction to PowerPivot
@@ -226,7 +226,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 31506
 # Table Partitioning: Evaluation, Planning, Options
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kendra Little
 ## Title: Table Partitioning: Evaluation, Planning, Options
@@ -235,7 +235,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 31618
 # SSRS Interactive Reports
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Matt Van Horn
 ## Title: SSRS Interactive Reports
@@ -244,7 +244,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 32342
 # SQL and SEO - the FUZION of data and marketing
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA/DEV Advanced
 ## Speaker: Jared  Nielsen
 ## Title: SQL and SEO - the FUZION of data and marketing
@@ -254,7 +254,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA/DEV Advanced
 #  
 #### SessionID: 32762
 # Data Files and Transaction Logs – Beyond the GUIs 
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Sandra Mueller
 ## Title: Data Files and Transaction Logs – Beyond the GUIs 
@@ -263,7 +263,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 32890
 # SQL Server Performance Related DMVs
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Sergey Pustovit
 ## Title: SQL Server Performance Related DMVs
@@ -273,7 +273,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 33072
 # Performance Tuning Made Easy
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Thomas LaRock
 ## Title: Performance Tuning Made Easy
@@ -282,7 +282,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 33237
 # A better way to store and archive SQL Backups
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Steve Radich
 ## Title: A better way to store and archive SQL Backups
@@ -291,7 +291,7 @@ Event Date: 04-12-2010 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 33966
 # Design and Implement BI Like Edison!
-#### [Back to calendar](#SQLSaturday-#61---DC-2010)
+#### [Back to calendar](#SQLSaturday-#61-DC-2010)
 Event Date: 04-12-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: William E Pearson III
 ## Title: Design and Implement BI Like Edison!

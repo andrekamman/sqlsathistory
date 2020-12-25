@@ -13,7 +13,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10464
 # Writing Faster SQL
-#### [Back to calendar](#SQLSaturday-#148---Shanghai-2012)
+#### [Back to calendar](#SQLSaturday-#148-Shanghai-2012)
 Event Date: 30-06-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bill Graziano
 ## Title: Writing Faster SQL
@@ -22,7 +22,7 @@ Event Date: 30-06-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14948
 # Introduction to SQL Data Sync
-#### [Back to calendar](#SQLSaturday-#148---Shanghai-2012)
+#### [Back to calendar](#SQLSaturday-#148-Shanghai-2012)
 Event Date: 30-06-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Han Wong
 ## Title: Introduction to SQL Data Sync
@@ -31,7 +31,7 @@ Event Date: 30-06-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15405
 # T-SQL Enhancements in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#148---Shanghai-2012)
+#### [Back to calendar](#SQLSaturday-#148-Shanghai-2012)
 Event Date: 30-06-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Niko Neugebauer
 ## Title: T-SQL Enhancements in SQL Server 2012
@@ -42,7 +42,7 @@ This session will focus on some of the new programability features that will be 
 #  
 #### SessionID: 19387
 # Data Quality Fundamentals
-#### [Back to calendar](#SQLSaturday-#148---Shanghai-2012)
+#### [Back to calendar](#SQLSaturday-#148-Shanghai-2012)
 Event Date: 30-06-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Miguel Angel Granados
 ## Title: Data Quality Fundamentals
@@ -51,7 +51,7 @@ Event Date: 30-06-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 20109
 # PowerPivot
-#### [Back to calendar](#SQLSaturday-#148---Shanghai-2012)
+#### [Back to calendar](#SQLSaturday-#148-Shanghai-2012)
 Event Date: 30-06-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mark Stacey
 ## Title: PowerPivot
@@ -62,7 +62,7 @@ As an added bonus, you will see how to pull the model into Visual Studio, decora
 #  
 #### SessionID: 20155
 # Cube Management with stored procs and agent jobs
-#### [Back to calendar](#SQLSaturday-#148---Shanghai-2012)
+#### [Back to calendar](#SQLSaturday-#148-Shanghai-2012)
 Event Date: 30-06-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Matt Horn
 ## Title: Cube Management with stored procs and agent jobs
@@ -72,7 +72,7 @@ Event Date: 30-06-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 27621
 # SQL Server 2012 ??????? /SSAS 2012 new features
-#### [Back to calendar](#SQLSaturday-#148---Shanghai-2012)
+#### [Back to calendar](#SQLSaturday-#148-Shanghai-2012)
 Event Date: 30-06-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Hui Wang
 ## Title: SQL Server 2012 ??????? /SSAS 2012 new features
@@ -81,7 +81,7 @@ Event Date: 30-06-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 27786
 # What’s New in SQL Server Integration Services 2012
-#### [Back to calendar](#SQLSaturday-#148---Shanghai-2012)
+#### [Back to calendar](#SQLSaturday-#148-Shanghai-2012)
 Event Date: 30-06-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Wee Hyong Tok
 ## Title: What’s New in SQL Server Integration Services 2012

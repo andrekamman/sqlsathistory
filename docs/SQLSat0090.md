@@ -21,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28481
 # Understanding Storage Systems and SQL Server
-#### [Back to calendar](#SQLSaturday-#90---Oklahoma-City-2011)
+#### [Back to calendar](#SQLSaturday-#90-Oklahoma-City-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Wesley Brown
 ## Title: Understanding Storage Systems and SQL Server
@@ -30,7 +30,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 29014
 # SQL Server TDE in 30 Minutes
-#### [Back to calendar](#SQLSaturday-#90---Oklahoma-City-2011)
+#### [Back to calendar](#SQLSaturday-#90-Oklahoma-City-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Ben Miller
 ## Title: SQL Server TDE in 30 Minutes
@@ -39,7 +39,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 29315
 # Building Secure Applications with SQL Server
-#### [Back to calendar](#SQLSaturday-#90---Oklahoma-City-2011)
+#### [Back to calendar](#SQLSaturday-#90-Oklahoma-City-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Bryan Smith
 ## Title: Building Secure Applications with SQL Server
@@ -48,7 +48,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 30244
 # Making Heads or Tails of Analysis Services Storage
-#### [Back to calendar](#SQLSaturday-#90---Oklahoma-City-2011)
+#### [Back to calendar](#SQLSaturday-#90-Oklahoma-City-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Greg Galloway
 ## Title: Making Heads or Tails of Analysis Services Storage
@@ -57,7 +57,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 30710
 # Unraveling Tangled Code – A Spellbinding Tale
-#### [Back to calendar](#SQLSaturday-#90---Oklahoma-City-2011)
+#### [Back to calendar](#SQLSaturday-#90-Oklahoma-City-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Jennifer McCown
 ## Title: Unraveling Tangled Code – A Spellbinding Tale
@@ -66,7 +66,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 32081
 # What's so special about PL/SQL in 30 Minutes
-#### [Back to calendar](#SQLSaturday-#90---Oklahoma-City-2011)
+#### [Back to calendar](#SQLSaturday-#90-Oklahoma-City-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Paul Hunter
 ## Title: What's so special about PL/SQL in 30 Minutes
@@ -75,7 +75,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 32600
 # EntityFramework 360:  CodeOnly 4.1
-#### [Back to calendar](#SQLSaturday-#90---Oklahoma-City-2011)
+#### [Back to calendar](#SQLSaturday-#90-Oklahoma-City-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Rob Vettor
 ## Title: EntityFramework 360:  CodeOnly 4.1
@@ -84,7 +84,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 32689
 # How to use the XML Datasource in SSIS
-#### [Back to calendar](#SQLSaturday-#90---Oklahoma-City-2011)
+#### [Back to calendar](#SQLSaturday-#90-Oklahoma-City-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Russel Loski
 ## Title: How to use the XML Datasource in SSIS
@@ -93,7 +93,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 32690
 # Stored procedure tracing using the xml datatype 
-#### [Back to calendar](#SQLSaturday-#90---Oklahoma-City-2011)
+#### [Back to calendar](#SQLSaturday-#90-Oklahoma-City-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Russel Loski
 ## Title: Stored procedure tracing using the xml datatype 
@@ -102,7 +102,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 32738
 # Manage your shop with CMS and Policy Based Mgmt
-#### [Back to calendar](#SQLSaturday-#90---Oklahoma-City-2011)
+#### [Back to calendar](#SQLSaturday-#90-Oklahoma-City-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Ryan Adams
 ## Title: Manage your shop with CMS and Policy Based Mgmt
@@ -111,7 +111,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 32855
 # The Backup Tune-up
-#### [Back to calendar](#SQLSaturday-#90---Oklahoma-City-2011)
+#### [Back to calendar](#SQLSaturday-#90-Oklahoma-City-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Sean McCown
 ## Title: The Backup Tune-up
@@ -123,7 +123,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 32925
 # The Winding Road
-#### [Back to calendar](#SQLSaturday-#90---Oklahoma-City-2011)
+#### [Back to calendar](#SQLSaturday-#90-Oklahoma-City-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Steve Jones
 ## Title: The Winding Road
@@ -132,7 +132,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 33189
 # Governing  Your Database Environment 
-#### [Back to calendar](#SQLSaturday-#90---Oklahoma-City-2011)
+#### [Back to calendar](#SQLSaturday-#90-Oklahoma-City-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Sri Sridharan
 ## Title: Governing  Your Database Environment 
@@ -141,7 +141,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 33582
 # ETL Head-to-Head: T-SQL vs. SSIS
-#### [Back to calendar](#SQLSaturday-#90---Oklahoma-City-2011)
+#### [Back to calendar](#SQLSaturday-#90-Oklahoma-City-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Tim Mitchell
 ## Title: ETL Head-to-Head: T-SQL vs. SSIS
@@ -154,7 +154,7 @@ Seesion Goals:
 #  
 #### SessionID: 33583
 # BI Drive By: A Quick Tour of SQL Server BI
-#### [Back to calendar](#SQLSaturday-#90---Oklahoma-City-2011)
+#### [Back to calendar](#SQLSaturday-#90-Oklahoma-City-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Tim Mitchell
 ## Title: BI Drive By: A Quick Tour of SQL Server BI
@@ -163,7 +163,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 34125
 # Serene Velocity: Reporting Services and SSAS Data
-#### [Back to calendar](#SQLSaturday-#90---Oklahoma-City-2011)
+#### [Back to calendar](#SQLSaturday-#90-Oklahoma-City-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: William E Pearson III
 ## Title: Serene Velocity: Reporting Services and SSAS Data

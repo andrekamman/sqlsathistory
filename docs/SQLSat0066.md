@@ -44,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 29037
 # 45 new 2005/2008 TSQL features in 45 minutes
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bill Fellows
 ## Title: 45 new 2005/2008 TSQL features in 45 minutes
@@ -53,7 +53,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29416
 # A Data Mining Solution
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Carlos Bossy
 ## Title: A Data Mining Solution
@@ -62,7 +62,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29579
 # Helpdesk to DBA in 60-ish minutes
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Meredith Ryan-Smith
 ## Title: Helpdesk to DBA in 60-ish minutes
@@ -71,7 +71,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29656
 # "Beyond BIDS" - Caring for and Feeding a SQL Serve
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Chris  Randall
 ## Title: "Beyond BIDS" - Caring for and Feeding a SQL Serve
@@ -80,7 +80,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29865
 # Best Practices for SQL Server on VMWare
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dean Richards
 ## Title: Best Practices for SQL Server on VMWare
@@ -89,7 +89,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29965
 # Make it fast, make it pretty (SSRS)
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Doug Lane
 ## Title: Make it fast, make it pretty (SSRS)
@@ -98,7 +98,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30177
 # Securing your SQL Server
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Gabriel Villa
 ## Title: Securing your SQL Server
@@ -107,7 +107,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30255
 # Hardware 201: Selecting Database Hardware
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Glenn Berry
 ## Title: Hardware 201: Selecting Database Hardware
@@ -116,7 +116,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31215
 # Networking Session 4
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kat Long
 ## Title: Networking Session 4
@@ -125,7 +125,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31216
 # Networking Session 5
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kat Long
 ## Title: Networking Session 5
@@ -134,7 +134,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31217
 # Networking Session 6
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kat Long
 ## Title: Networking Session 6
@@ -143,7 +143,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 31218
 # Lunch\Meet the experts\WIT
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kat Long
 ## Title: Lunch\Meet the experts\WIT
@@ -152,7 +152,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31219
 # Lunch\Meet the experts\WIT 2
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kat Long
 ## Title: Lunch\Meet the experts\WIT 2
@@ -161,7 +161,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31220
 # Lunch\Meet the experts\WIT 3
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kat Long
 ## Title: Lunch\Meet the experts\WIT 3
@@ -170,7 +170,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 31221
 # Break 1
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kat Long
 ## Title: Break 1
@@ -179,7 +179,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31222
 # Break 2
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kat Long
 ## Title: Break 2
@@ -188,7 +188,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31223
 # Break 3
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kat Long
 ## Title: Break 3
@@ -197,7 +197,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 31224
 # Networking 7
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kat Long
 ## Title: Networking 7
@@ -206,7 +206,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31225
 # Networking 8
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kat Long
 ## Title: Networking 8
@@ -215,7 +215,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31226
 # Networking 9
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kat Long
 ## Title: Networking 9
@@ -224,7 +224,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 31227
 # Networking 10
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kat Long
 ## Title: Networking 10
@@ -233,7 +233,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31228
 # Networking 11
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kat Long
 ## Title: Networking 11
@@ -242,7 +242,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31229
 # Networking 12
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kat Long
 ## Title: Networking 12
@@ -251,7 +251,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 31230
 # Break 4
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kat Long
 ## Title: Break 4
@@ -260,7 +260,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31231
 # Break 5
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kat Long
 ## Title: Break 5
@@ -269,7 +269,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31232
 # Break 6
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kat Long
 ## Title: Break 6
@@ -278,7 +278,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 31724
 # SQL Server Performance tuning
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mark Halstead
 ## Title: SQL Server Performance tuning
@@ -287,7 +287,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32409
 # Visual Studio 2010 Database Projects 
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Randy Knight
 ## Title: Visual Studio 2010 Database Projects 
@@ -297,7 +297,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32926
 # The Modern Resume - Building Your Brand
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Steve Jones
 ## Title: The Modern Resume - Building Your Brand
@@ -306,7 +306,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 33122
 # Welcome
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Christopher Shaw
 ## Title: Welcome
@@ -315,7 +315,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 33123
 # Welcome
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Christopher Shaw
 ## Title: Welcome
@@ -324,7 +324,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33124
 # Welcome
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Christopher Shaw
 ## Title: Welcome
@@ -333,7 +333,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33125
 # Networking Session 1
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Christopher Shaw
 ## Title: Networking Session 1
@@ -342,7 +342,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 33126
 # Networking Session 2
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Christopher Shaw
 ## Title: Networking Session 2
@@ -351,7 +351,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33127
 # Networking Session 3
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Christopher Shaw
 ## Title: Networking Session 3
@@ -360,7 +360,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33325
 # Managing the Data Tier Application Lifecycle
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ted Malone
 ## Title: Managing the Data Tier Application Lifecycle
@@ -369,7 +369,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33684
 # Documentation. You know you love it
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: TJay Belt
 ## Title: Documentation. You know you love it
@@ -379,7 +379,7 @@ This Library will also allow you to simply document your systems for your and ot
 #  
 #### SessionID: 33695
 # Policy Based Management
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Thomas Norman
 ## Title: Policy Based Management
@@ -388,7 +388,7 @@ Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 34276
 # Becoming DAX:  An Introduction
-#### [Back to calendar](#SQLSaturday-#66---Colorado-Springs-2011)
+#### [Back to calendar](#SQLSaturday-#66-Colorado-Springs-2011)
 Event Date: 12-02-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: William E Pearson III
 ## Title: Becoming DAX:  An Introduction

@@ -16,7 +16,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 57446
 # PowerQuery Tips and Tricks for Power BI
-#### [Back to calendar](#SQLSaturday-#607---Calgary-2017)
+#### [Back to calendar](#SQLSaturday-#607-Calgary-2017)
 Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Other
 ## Speaker: Rushabh Mehta
 ## Title: PowerQuery Tips and Tricks for Power BI
@@ -25,7 +25,7 @@ Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Other
 #  
 #### SessionID: 62989
 # Secrets of SQL Server - Database Worst Practices
-#### [Back to calendar](#SQLSaturday-#607---Calgary-2017)
+#### [Back to calendar](#SQLSaturday-#607-Calgary-2017)
 Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Pinal Dave
 ## Title: Secrets of SQL Server - Database Worst Practices
@@ -34,7 +34,7 @@ Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 57436
 # SQL Server on Linux - The How, the What and the Why?
-#### [Back to calendar](#SQLSaturday-#607---Calgary-2017)
+#### [Back to calendar](#SQLSaturday-#607-Calgary-2017)
 Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: SQL Server on Linux - The How, the What and the Why?
@@ -52,7 +52,7 @@ The presentation will be based around experience gained in evaluating the Public
 #  
 #### SessionID: 61057
 # SQL Server Security Enhancements
-#### [Back to calendar](#SQLSaturday-#607---Calgary-2017)
+#### [Back to calendar](#SQLSaturday-#607-Calgary-2017)
 Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohit Gupta
 ## Title: SQL Server Security Enhancements
@@ -61,7 +61,7 @@ Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63403
 # Using Models as the Blueprints for Enterprise Data Governance
-#### [Back to calendar](#SQLSaturday-#607---Calgary-2017)
+#### [Back to calendar](#SQLSaturday-#607-Calgary-2017)
 Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Ron Huizenga
 ## Title: Using Models as the Blueprints for Enterprise Data Governance
@@ -70,7 +70,7 @@ Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 57702
 # Adding Power to the DBA toolkit!
-#### [Back to calendar](#SQLSaturday-#607---Calgary-2017)
+#### [Back to calendar](#SQLSaturday-#607-Calgary-2017)
 Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: Adding Power to the DBA toolkit!
@@ -85,7 +85,7 @@ This is a constantly evolving Presentation based around latest features in Power
 #  
 #### SessionID: 62990
 # Performance in 60 Seconds - SQL Tricks Everybody MUST Know
-#### [Back to calendar](#SQLSaturday-#607---Calgary-2017)
+#### [Back to calendar](#SQLSaturday-#607-Calgary-2017)
 Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Pinal Dave
 ## Title: Performance in 60 Seconds - SQL Tricks Everybody MUST Know
@@ -94,7 +94,7 @@ Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 57634
 # Monitoring SQL 2016 on-premise for performance and stability
-#### [Back to calendar](#SQLSaturday-#607---Calgary-2017)
+#### [Back to calendar](#SQLSaturday-#607-Calgary-2017)
 Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Wood
 ## Title: Monitoring SQL 2016 on-premise for performance and stability
@@ -108,7 +108,7 @@ Do you have table/index hot-spots?
 #  
 #### SessionID: 61143
 # SQL Server In-Flight Recorder Deep-Dive
-#### [Back to calendar](#SQLSaturday-#607---Calgary-2017)
+#### [Back to calendar](#SQLSaturday-#607-Calgary-2017)
 Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohit Gupta
 ## Title: SQL Server In-Flight Recorder Deep-Dive
@@ -117,7 +117,7 @@ Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61785
 # Power BI for the Faint of Heart - Building an Interactive Report Step-by-Step!
-#### [Back to calendar](#SQLSaturday-#607---Calgary-2017)
+#### [Back to calendar](#SQLSaturday-#607-Calgary-2017)
 Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Scott Stauffer
 ## Title: Power BI for the Faint of Heart - Building an Interactive Report Step-by-Step!
@@ -126,7 +126,7 @@ Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 63365
 # Introduction to Unit-Testing in SQL Server
-#### [Back to calendar](#SQLSaturday-#607---Calgary-2017)
+#### [Back to calendar](#SQLSaturday-#607-Calgary-2017)
 Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Sebastian Meine
 ## Title: Introduction to Unit-Testing in SQL Server

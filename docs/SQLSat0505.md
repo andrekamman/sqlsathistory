@@ -13,7 +13,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 44884
 # Advanced SQL Server execution plans - level 400
-#### [Back to calendar](#SQLSaturday-#505---Belgium-2016)
+#### [Back to calendar](#SQLSaturday-#505-Belgium-2016)
 Event Date: 19-03-2016 - Session time: 14:40:00 - Track: DBA
 ## Speaker: Fabiano Amorim
 ## Title: Advanced SQL Server execution plans - level 400
@@ -22,7 +22,7 @@ Event Date: 19-03-2016 - Session time: 14:40:00 - Track: DBA
 #  
 #### SessionID: 44939
 # Polybase in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#505---Belgium-2016)
+#### [Back to calendar](#SQLSaturday-#505-Belgium-2016)
 Event Date: 19-03-2016 - Session time: 14:40:00 - Track: BI
 ## Speaker: Nico Jacobs
 ## Title: Polybase in SQL Server 2016
@@ -33,7 +33,7 @@ In this session we first introduce the Polybase architecture, then show how to s
 #  
 #### SessionID: 42953
 # No more waiting – an introduction to SQL Server wait statistics
-#### [Back to calendar](#SQLSaturday-#505---Belgium-2016)
+#### [Back to calendar](#SQLSaturday-#505-Belgium-2016)
 Event Date: 19-03-2016 - Session time: 14:40:00 - Track: DBA
 ## Speaker: Enrico van de Laar
 ## Title: No more waiting – an introduction to SQL Server wait statistics
@@ -42,7 +42,7 @@ Event Date: 19-03-2016 - Session time: 14:40:00 - Track: DBA
 #  
 #### SessionID: 44545
 # DAX unraveled
-#### [Back to calendar](#SQLSaturday-#505---Belgium-2016)
+#### [Back to calendar](#SQLSaturday-#505-Belgium-2016)
 Event Date: 19-03-2016 - Session time: 14:40:00 - Track: BI
 ## Speaker: Peter ter Braake
 ## Title: DAX unraveled
@@ -51,7 +51,7 @@ Event Date: 19-03-2016 - Session time: 14:40:00 - Track: BI
 #  
 #### SessionID: 42915
 # Mastering indexing maintenance with DMO like a PRO
-#### [Back to calendar](#SQLSaturday-#505---Belgium-2016)
+#### [Back to calendar](#SQLSaturday-#505-Belgium-2016)
 Event Date: 19-03-2016 - Session time: 14:40:00 - Track: DBA
 ## Speaker: Uwe Ricken
 ## Title: Mastering indexing maintenance with DMO like a PRO
@@ -60,7 +60,7 @@ Event Date: 19-03-2016 - Session time: 14:40:00 - Track: DBA
 #  
 #### SessionID: 45172
 # What's New in Integration Services 2016
-#### [Back to calendar](#SQLSaturday-#505---Belgium-2016)
+#### [Back to calendar](#SQLSaturday-#505-Belgium-2016)
 Event Date: 19-03-2016 - Session time: 14:40:00 - Track: BI
 ## Speaker: Koen Verbeeck
 ## Title: What's New in Integration Services 2016
@@ -71,7 +71,7 @@ Join us in this demo-packed talk to find out what's coming and put yourself ahea
 #  
 #### SessionID: 44213
 # It's time to refresh your data in Power BI!
-#### [Back to calendar](#SQLSaturday-#505---Belgium-2016)
+#### [Back to calendar](#SQLSaturday-#505-Belgium-2016)
 Event Date: 19-03-2016 - Session time: 14:40:00 - Track: BI
 ## Speaker: Cédric Charlier
 ## Title: It's time to refresh your data in Power BI!
@@ -80,7 +80,7 @@ Event Date: 19-03-2016 - Session time: 14:40:00 - Track: BI
 #  
 #### SessionID: 45214
 # Run Your DBA Morning Checklist with Policy-Based Management
-#### [Back to calendar](#SQLSaturday-#505---Belgium-2016)
+#### [Back to calendar](#SQLSaturday-#505-Belgium-2016)
 Event Date: 19-03-2016 - Session time: 14:40:00 - Track: DBA
 ## Speaker: Pieter Vanhove
 ## Title: Run Your DBA Morning Checklist with Policy-Based Management

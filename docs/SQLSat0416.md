@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13119
 # Тарас Бобровицкий - Columnstore Indexes
-#### [Back to calendar](#SQLSaturday-#416---Odessa-2015)
+#### [Back to calendar](#SQLSaturday-#416-Odessa-2015)
 Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Other
 ## Speaker: Denis Reznik
 ## Title: Тарас Бобровицкий - Columnstore Indexes
@@ -26,7 +26,7 @@ Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Other
 #  
 #### SessionID: 10109
 # “Magic numbers”, local variable and performance
-#### [Back to calendar](#SQLSaturday-#416---Odessa-2015)
+#### [Back to calendar](#SQLSaturday-#416-Odessa-2015)
 Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Other
 ## Speaker: Andrii Zrobok
 ## Title: “Magic numbers”, local variable and performance
@@ -35,7 +35,7 @@ Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Other
 #  
 #### SessionID: 37489
 # Поговорим об ожиданиях и очередях
-#### [Back to calendar](#SQLSaturday-#416---Odessa-2015)
+#### [Back to calendar](#SQLSaturday-#416-Odessa-2015)
 Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Track 1
 ## Speaker: Evgeny Khabarov
 ## Title: Поговорим об ожиданиях и очередях
@@ -44,7 +44,7 @@ Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Track 1
 #  
 #### SessionID: 37373
 # Continuous integration and delivery of databases in web development
-#### [Back to calendar](#SQLSaturday-#416---Odessa-2015)
+#### [Back to calendar](#SQLSaturday-#416-Odessa-2015)
 Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Track 1
 ## Speaker: Konstantin Proskurdin
 ## Title: Continuous integration and delivery of databases in web development
@@ -53,7 +53,7 @@ Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Track 1
 #  
 #### SessionID: 37521
 # NoSQL - MongoDB. Agility, scalability, performance (Part 1)
-#### [Back to calendar](#SQLSaturday-#416---Odessa-2015)
+#### [Back to calendar](#SQLSaturday-#416-Odessa-2015)
 Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Track 1
 ## Speaker: Viktoriia Mala
 ## Title: NoSQL - MongoDB. Agility, scalability, performance (Part 1)
@@ -62,7 +62,7 @@ Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Track 1
 #  
 #### SessionID: 13121
 # Hidden gems of SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#416---Odessa-2015)
+#### [Back to calendar](#SQLSaturday-#416-Odessa-2015)
 Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Other
 ## Speaker: Denis Reznik
 ## Title: Hidden gems of SQL Server 2014
@@ -71,7 +71,7 @@ Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Other
 #  
 #### SessionID: 37522
 # NoSQL - MongoDB. Agility, scalability, performance (Part 2)
-#### [Back to calendar](#SQLSaturday-#416---Odessa-2015)
+#### [Back to calendar](#SQLSaturday-#416-Odessa-2015)
 Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Track 1
 ## Speaker: Viktoriia Mala
 ## Title: NoSQL - MongoDB. Agility, scalability, performance (Part 2)
@@ -80,7 +80,7 @@ Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Track 1
 #  
 #### SessionID: 13120
 # Effective T-SQL. To be effective or not to be.
-#### [Back to calendar](#SQLSaturday-#416---Odessa-2015)
+#### [Back to calendar](#SQLSaturday-#416-Odessa-2015)
 Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Other
 ## Speaker: Denis Reznik
 ## Title: Effective T-SQL. To be effective or not to be.
@@ -89,7 +89,7 @@ Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Other
 #  
 #### SessionID: 37490
 # Транзакционная репликация - это не страшно. 
-#### [Back to calendar](#SQLSaturday-#416---Odessa-2015)
+#### [Back to calendar](#SQLSaturday-#416-Odessa-2015)
 Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Track 1
 ## Speaker: Evgeny Khabarov
 ## Title: Транзакционная репликация - это не страшно. 
@@ -100,7 +100,7 @@ Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Track 1
 #  
 #### SessionID: 37969
 # Database version control
-#### [Back to calendar](#SQLSaturday-#416---Odessa-2015)
+#### [Back to calendar](#SQLSaturday-#416-Odessa-2015)
 Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Other
 ## Speaker: Konstantin Proskurdin
 ## Title: Database version control
@@ -109,7 +109,7 @@ Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Other
 #  
 #### SessionID: 38143
 # Upgrading to SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#416---Odessa-2015)
+#### [Back to calendar](#SQLSaturday-#416-Odessa-2015)
 Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Track 1
 ## Speaker: Michal Sadowski
 ## Title: Upgrading to SQL Server 2014
@@ -118,7 +118,7 @@ Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Track 1
 #  
 #### SessionID: 10108
 # MS SQL data types: features of conversion
-#### [Back to calendar](#SQLSaturday-#416---Odessa-2015)
+#### [Back to calendar](#SQLSaturday-#416-Odessa-2015)
 Event Date: 25-07-2015 - Session time: 17:05:00 - Track: Other
 ## Speaker: Andrii Zrobok
 ## Title: MS SQL data types: features of conversion

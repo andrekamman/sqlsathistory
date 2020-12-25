@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 41800
 # SS2014 In-Memory Tables:  Formula 1 Performance Unleashed?
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SS2014 In-Memory Tables:  Formula 1 Performance Unleashed?
@@ -61,7 +61,7 @@ After this session you will
 #  
 #### SessionID: 46412
 # Beginning SQL Server Investigation and Troubleshooting
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Wisdahl
 ## Title: Beginning SQL Server Investigation and Troubleshooting
@@ -70,7 +70,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46687
 # Parent, Child development Using SSIS Framework
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Jorge Novo
 ## Title: Parent, Child development Using SSIS Framework
@@ -79,7 +79,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 46702
 # Only You Can Prevent Database Fires!
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: Only You Can Prevent Database Fires!
@@ -88,7 +88,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46835
 # End to End Protection with Always Encrypted in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Steve Jones
 ## Title: End to End Protection with Always Encrypted in SQL Server 2016
@@ -97,7 +97,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 46988
 # Azure Data Factory: My Data Wandered Lonely as a CLOUD.
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Julie Smith
 ## Title: Azure Data Factory: My Data Wandered Lonely as a CLOUD.
@@ -106,7 +106,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 41866
 # Beginners SQL Server Security the Low Hanging Fruit
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lindsay Clark
 ## Title: Beginners SQL Server Security the Low Hanging Fruit
@@ -115,7 +115,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42182
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Ed Watson
 ## Title: Introduction to SQL Server Integration Services
@@ -124,7 +124,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 43037
 # Introducing Forensic Analytics with Power BI
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: William E Pearson III
 ## Title: Introducing Forensic Analytics with Power BI
@@ -134,7 +134,7 @@ In this session, we explore Forensic Analytics: a set of techniques we can use t
 #  
 #### SessionID: 44323
 # Performance Monitoring AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: Performance Monitoring AlwaysOn Availability Groups
@@ -144,7 +144,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49918
 # SQL 2012  2014 Extended Events
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gareth Swanepoel
 ## Title: SQL 2012  2014 Extended Events
@@ -153,7 +153,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50794
 # Giving Feedback: How to Effectively Communicate to your Employees
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Giving Feedback: How to Effectively Communicate to your Employees
@@ -162,7 +162,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 41727
 # Understanding SQL Server Backup and Restore
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Radney
 ## Title: Understanding SQL Server Backup and Restore
@@ -171,7 +171,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41731
 # SQL Admin Best Practices with DMVs
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: William Assaf
 ## Title: SQL Admin Best Practices with DMVs
@@ -180,7 +180,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 41737
 # Getting started with Tabular Analysis Services
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Thomas LeBlanc
 ## Title: Getting started with Tabular Analysis Services
@@ -189,7 +189,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 41934
 # Overview of Security Investments in SQL Server 2016 and Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jamey Johnston
 ## Title: Overview of Security Investments in SQL Server 2016 and Azure SQL Database
@@ -199,7 +199,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45624
 # Mastering and Enhancing Company Data
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Rushabh Mehta
 ## Title: Mastering and Enhancing Company Data
@@ -208,7 +208,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 50861
 # Women in Technology: Identifying, Understanding and Combating Gen
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Women in Technology: Identifying, Understanding and Combating Gen
@@ -217,7 +217,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 50477
 # RedGate - Automatically Tracking  Deploying Database Changes in Order
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steve Jones
 ## Title: RedGate - Automatically Tracking  Deploying Database Changes in Order
@@ -228,7 +228,7 @@ Come see how easy it can be to track all your database changes in Visual Studio 
 #  
 #### SessionID: 50478
 # SolarWinds Database Performance Analyzer Overview
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: SolarWinds Database Performance Analyzer Overview
@@ -237,7 +237,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50479
 # SQL and VMWare - More than just virtualization demos
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Rodney Landrum
 ## Title: SQL and VMWare - More than just virtualization demos
@@ -246,7 +246,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 50795
 # Cisco UCS for the Data Professional
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Radney
 ## Title: Cisco UCS for the Data Professional
@@ -255,7 +255,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50860
 # SIOS - Clusters Your Way
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Brandon Leach
 ## Title: SIOS - Clusters Your Way
@@ -264,7 +264,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 41858
 # Execution Plans for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
@@ -282,7 +282,7 @@ Finally, you will be able to capture the execution plan, save it for analysis an
 #  
 #### SessionID: 42036
 # Azure SQL Database: Deployment and Development of Your First DB
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sven Aelterman
 ## Title: Azure SQL Database: Deployment and Development of Your First DB
@@ -291,7 +291,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 42841
 # Managing a Production Azure SQL Database - True Story!
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jason Hall
 ## Title: Managing a Production Azure SQL Database - True Story!
@@ -302,7 +302,7 @@ I'd like to share some of the lessons I've learned in hopes that it can save oth
 #  
 #### SessionID: 47318
 # Why Should I Care About ... Partitioned Views?
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
@@ -311,7 +311,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 47567
 # NEW FEATURES WITH SQL SERVER 2016 REPORTING SERVICES
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: David Pless
 ## Title: NEW FEATURES WITH SQL SERVER 2016 REPORTING SERVICES
@@ -326,7 +326,7 @@ We will cover the new visualizations and Power BI integration dashboard. This fu
 #  
 #### SessionID: 49925
 # Power BI – Exploring New Frontiers
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: Pam Shaw
 ## Title: Power BI – Exploring New Frontiers
@@ -335,7 +335,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 42124
 # I'm It - Survival Techniques for the Lone DBA
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
@@ -344,7 +344,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 42238
 # Tuning SQL Server for SharePoint
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Other
 ## Speaker: Daniel Glenn
 ## Title: Tuning SQL Server for SharePoint
@@ -354,7 +354,7 @@ Some of the topics covered will include: the configuration steps and settings ne
 #  
 #### SessionID: 45179
 # Crash Course on Better SQL Development
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
@@ -363,7 +363,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 46620
 # Top 10 Wait Types Everyone Should Know
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Top 10 Wait Types Everyone Should Know
@@ -372,7 +372,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46947
 # PowerShell Desired State Configuration from the Trenches
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Other
 ## Speaker: Mike Robbins
 ## Title: PowerShell Desired State Configuration from the Trenches
@@ -381,7 +381,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Other
 #  
 #### SessionID: 51036
 # A SQL Developer’s Guide to MDX Basics
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shabnam Watson
 ## Title: A SQL Developer’s Guide to MDX Basics
@@ -392,7 +392,7 @@ In this session you will explore how data is organized in SSAS in a data structu
 #  
 #### SessionID: 41729
 # Fundamentals of Disaster Planning  Recovery
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Michael Viron
 ## Title: Fundamentals of Disaster Planning  Recovery
@@ -401,7 +401,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 44752
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -410,7 +410,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 45542
 # Data Pages, Allocation Units, IAM chains... Oh My!
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Leach
 ## Title: Data Pages, Allocation Units, IAM chains... Oh My!
@@ -421,7 +421,7 @@ We’ll start off by looking at the structure of a row and then move on the conc
 #  
 #### SessionID: 47474
 # Tone Analysis with HDInsight and Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Paco Gonzalez
 ## Title: Tone Analysis with HDInsight and Azure Machine Learning
@@ -430,7 +430,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 48382
 # Let Me Finish... Isolating Write Operations
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Let Me Finish... Isolating Write Operations
@@ -439,7 +439,7 @@ Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 50793
 # Hostile Takeover
-#### [Back to calendar](#SQLSaturday-#491---Pensacola-2016)
+#### [Back to calendar](#SQLSaturday-#491-Pensacola-2016)
 Event Date: 04-06-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Bishop
 ## Title: Hostile Takeover

@@ -59,7 +59,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10324
 # Dive into the Query Optimizer-Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer-Undocumented Insight
@@ -68,7 +68,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 10325
 # Defeating the Limitations of the Query Optimizer
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Benjamin Nevarez
 ## Title: Defeating the Limitations of the Query Optimizer
@@ -77,7 +77,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 10750
 # Windows Azure  SQL Server - Better Together
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Bret Stateham
 ## Title: Windows Azure  SQL Server - Better Together
@@ -86,7 +86,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 12384
 # Deploying Highly Available SQL Servers in the Amazon EC2 Cloud
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: David Bermingham
 ## Title: Deploying Highly Available SQL Servers in the Amazon EC2 Cloud
@@ -95,7 +95,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 12385
 # SQL Server 2012 AlwaysOn Step-by-Step
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: David Bermingham
 ## Title: SQL Server 2012 AlwaysOn Step-by-Step
@@ -104,7 +104,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 12807
 # Discover SQL# (SQL CLR library) 
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: David Sumlin
 ## Title: Discover SQL# (SQL CLR library) 
@@ -113,7 +113,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 #  
 #### SessionID: 13003
 # Implementing Auditing in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: David Dye
 ## Title: Implementing Auditing in SQL Server 2012
@@ -123,7 +123,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13005
 # Dealing With Errors in SSIS 2012
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: David Dye
 ## Title: Dealing With Errors in SSIS 2012
@@ -132,7 +132,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 #  
 #### SessionID: 14737
 # Best Practices for Database Deployment
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Grant Fritchey
 ## Title: Best Practices for Database Deployment
@@ -144,7 +144,7 @@ The difference between a successful deployment and a failed or problematic deplo
 #  
 #### SessionID: 14738
 # Tune Queries By Fixing Bad Parameter Sniffing 
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Grant Fritchey
 ## Title: Tune Queries By Fixing Bad Parameter Sniffing 
@@ -153,7 +153,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 15344
 # High Performance SANLess Clustering
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: SIOS  
 ## Title: High Performance SANLess Clustering
@@ -162,7 +162,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 #  
 #### SessionID: 15466
 # Creating a Metadata Mart w/ SSIS - Data Governance
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Ira Warren
 ## Title: Creating a Metadata Mart w/ SSIS - Data Governance
@@ -171,7 +171,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 16199
 # Into the Blue: Extending AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Joseph D'Antoni
 ## Title: Into the Blue: Extending AlwaysOn Availability Groups
@@ -183,7 +183,7 @@ This session will demonstrate how to extend an Availability Group into Windows A
 #  
 #### SessionID: 16200
 # Using PowerView and Hadoop to Unlock Hidden Market
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Joseph D'Antoni
 ## Title: Using PowerView and Hadoop to Unlock Hidden Market
@@ -193,7 +193,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 17497
 # SSRS – Implementing a Rendering Extension
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Josh Sivey
 ## Title: SSRS – Implementing a Rendering Extension
@@ -202,7 +202,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 17498
 # Unit Testing your SQL Server database with SSDT
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: Josh Sivey
 ## Title: Unit Testing your SQL Server database with SSDT
@@ -211,7 +211,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 #  
 #### SessionID: 17893
 # $#*! Your Database Says About Me
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: Karen Lopez
 ## Title: $#*! Your Database Says About Me
@@ -220,7 +220,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 #  
 #### SessionID: 17894
 # 10 Things I Hate About Interviewing with You
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: Karen Lopez
 ## Title: 10 Things I Hate About Interviewing with You
@@ -229,7 +229,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 #  
 #### SessionID: 18089
 # How to Find Bad Queries, Fast
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Kendra Little
 ## Title: How to Find Bad Queries, Fast
@@ -239,7 +239,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 18190
 # Top 10 Admininistrator Mistakes on SQL Server
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kevin Kline
 ## Title: Top 10 Admininistrator Mistakes on SQL Server
@@ -248,7 +248,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 18192
 # Team Leadership Fundamentals
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Other
 ## Speaker: Kevin Kline
 ## Title: Team Leadership Fundamentals
@@ -263,7 +263,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Other
 #  
 #### SessionID: 19325
 # AWS for the SQL Server Pro
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Lynn Langit
 ## Title: AWS for the SQL Server Pro
@@ -272,7 +272,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 20386
 # Scalable SSRS Reports Achieved Through the Powerful Tablix
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mickey Stuewe
 ## Title: Scalable SSRS Reports Achieved Through the Powerful Tablix
@@ -281,7 +281,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 20387
 # Tired of BI Tools That Don’t Work Together? Introducing the BI Office Suite
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mickey Stuewe
 ## Title: Tired of BI Tools That Don’t Work Together? Introducing the BI Office Suite
@@ -290,7 +290,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 20388
 # How Flash Storage Modernizes Databases
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mickey Stuewe
 ## Title: How Flash Storage Modernizes Databases
@@ -299,7 +299,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 21054
 # SQL Server 2012 Licensing Options
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Denny Cherry
 ## Title: SQL Server 2012 Licensing Options
@@ -308,7 +308,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 21055
 # SQL Server's In Memory Database Objects
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Denny Cherry
 ## Title: SQL Server's In Memory Database Objects
@@ -317,7 +317,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 21591
 # Big Data! What's the Big Deal?
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Orion Gebremedhin
 ## Title: Big Data! What's the Big Deal?
@@ -326,7 +326,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 21629
 # Flash Deployment Strategies in SQL 2012
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Peter Andrews
 ## Title: Flash Deployment Strategies in SQL 2012
@@ -337,7 +337,7 @@ This session presents three successful strategies to leverage Flash in your SQL 
 #  
 #### SessionID: 21823
 # Visualization Choices: What, When, and How?
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Paul Turley
 ## Title: Visualization Choices: What, When, and How?
@@ -346,7 +346,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 21824
 # Tabular Models: Easier  Faster Than Cubes; Really? 
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Paul Turley
 ## Title: Tabular Models: Easier  Faster Than Cubes; Really? 
@@ -356,7 +356,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 22113
 # Up Your Game With OUTPUT
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: Phil Helmer
 ## Title: Up Your Game With OUTPUT
@@ -365,7 +365,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 #  
 #### SessionID: 23161
 # Designing for Analysis: Facts and Dimensions
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Robert Hatton
 ## Title: Designing for Analysis: Facts and Dimensions
@@ -374,7 +374,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 24512
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Other
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -383,7 +383,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Other
 #  
 #### SessionID: 24513
 # The Encryption Primer
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: Steve Jones
 ## Title: The Encryption Primer
@@ -392,7 +392,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 #  
 #### SessionID: 24659
 # Taking BI to the Next Level: Collaboration
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Stacia Varga
 ## Title: Taking BI to the Next Level: Collaboration
@@ -401,7 +401,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 24660
 # Dashboard Do's and Don'ts
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Stacia Varga
 ## Title: Dashboard Do's and Don'ts
@@ -410,7 +410,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 24856
 # Stop That!
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: David Moutray
 ## Title: Stop That!
@@ -419,7 +419,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 #  
 #### SessionID: 24857
 # How to Be a Better SQL Database Developer
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: David Moutray
 ## Title: How to Be a Better SQL Database Developer
@@ -428,7 +428,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 #  
 #### SessionID: 24945
 # Data Vault – What is it?  Where Does It Fit?
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Phil Robinson
 ## Title: Data Vault – What is it?  Where Does It Fit?
@@ -437,7 +437,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 25141
 # Database Design: Size DOES Matter
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Thomas LaRock
 ## Title: Database Design: Size DOES Matter
@@ -446,7 +446,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 25996
 # 45 min to build your first SSRS report
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Tamera Clark
 ## Title: 45 min to build your first SSRS report
@@ -455,7 +455,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 26207
 # Windowing Functions: THE Reason to Upgrade to 2012
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012
@@ -464,7 +464,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 #  
 #### SessionID: 26208
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -473,7 +473,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 #  
 #### SessionID: 26210
 # SQL Injection
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: Kevin Boles
 ## Title: SQL Injection
@@ -482,7 +482,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 #  
 #### SessionID: 26901
 # Database Monitoring : Trying To Keep Sane
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: TJay Belt
 ## Title: Database Monitoring : Trying To Keep Sane
@@ -492,7 +492,7 @@ We will discuss various ideas, tools, approaches, and solutions to how to monito
 #  
 #### SessionID: 26902
 # Documentation – you know you love it
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: TJay Belt
 ## Title: Documentation – you know you love it
@@ -501,7 +501,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 27456
 # Data Flow Architectures in Software Development Life-Cycle
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: Virginia Mushkatbat
 ## Title: Data Flow Architectures in Software Development Life-Cycle
@@ -510,7 +510,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 #  
 #### SessionID: 8840
 # SQL Server Database Development with SSDT 
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: Aaron Nelson
 ## Title: SQL Server Database Development with SSDT 
@@ -522,7 +522,7 @@ Most importantly we’ll show the many benefits of the Publish feature, and why 
 #  
 #### SessionID: 8841
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals
@@ -532,7 +532,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 9078
 # Manageable SSAS Deployment Strategies
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Kerry Tyler
 ## Title: Manageable SSAS Deployment Strategies
@@ -543,7 +543,7 @@ If you've answered "yes" to any of these questions, and are in search of a bette
 #  
 #### SessionID: 9147
 # SQL 2012 Programmability Enhancements
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: Andrew Karcher
 ## Title: SQL 2012 Programmability Enhancements
@@ -552,7 +552,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 #  
 #### SessionID: 9378
 # Physical Join Operators
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: Ami Levin
 ## Title: Physical Join Operators
@@ -561,7 +561,7 @@ Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 #  
 #### SessionID: 9379
 # Where did I put my (primary) keys?
-#### [Back to calendar](#SQLSaturday-#249---San-Diego-2013)
+#### [Back to calendar](#SQLSaturday-#249-San-Diego-2013)
 Event Date: 21-09-2013 - Session time: 00:00:00 - Track: Dev / Design
 ## Speaker: Ami Levin
 ## Title: Where did I put my (primary) keys?

@@ -20,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 29132
 # Getting the warm "Fuzzies" with SSIS
-#### [Back to calendar](#SQLSaturday-#7---Birmingham-2009)
+#### [Back to calendar](#SQLSaturday-#7-Birmingham-2009)
 Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Brad Marshall
 ## Title: Getting the warm "Fuzzies" with SSIS
@@ -29,7 +29,7 @@ Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 31457
 # RESTful Data
-#### [Back to calendar](#SQLSaturday-#7---Birmingham-2009)
+#### [Back to calendar](#SQLSaturday-#7-Birmingham-2009)
 Event Date: 30-05-2009 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Chris Eargle
 ## Title: RESTful Data
@@ -41,7 +41,7 @@ This session will describe RESTful Data, the benefits it conveys, and its uses. 
 #  
 #### SessionID: 34943
 # Introduction to SQL Server Statistics
-#### [Back to calendar](#SQLSaturday-#7---Birmingham-2009)
+#### [Back to calendar](#SQLSaturday-#7-Birmingham-2009)
 Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Andy Warren
 ## Title: Introduction to SQL Server Statistics
@@ -50,7 +50,7 @@ Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 34953
 # Introduction to Data Warehousing with SQL Server
-#### [Back to calendar](#SQLSaturday-#7---Birmingham-2009)
+#### [Back to calendar](#SQLSaturday-#7-Birmingham-2009)
 Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Robert Cain
 ## Title: Introduction to Data Warehousing with SQL Server
@@ -59,7 +59,7 @@ Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 35071
 # SQL Server Preproduction Tasks
-#### [Back to calendar](#SQLSaturday-#7---Birmingham-2009)
+#### [Back to calendar](#SQLSaturday-#7-Birmingham-2009)
 Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Ken Simmons
 ## Title: SQL Server Preproduction Tasks
@@ -68,7 +68,7 @@ Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 35090
 # BI for a Tough Economy, Data Mining
-#### [Back to calendar](#SQLSaturday-#7---Birmingham-2009)
+#### [Back to calendar](#SQLSaturday-#7-Birmingham-2009)
 Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Derek Comingore
 ## Title: BI for a Tough Economy, Data Mining
@@ -77,7 +77,7 @@ Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 35093
 # Tuna Helper- A Proven Process for Tuning SQL
-#### [Back to calendar](#SQLSaturday-#7---Birmingham-2009)
+#### [Back to calendar](#SQLSaturday-#7-Birmingham-2009)
 Event Date: 30-05-2009 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Dean Richards
 ## Title: Tuna Helper- A Proven Process for Tuning SQL
@@ -86,7 +86,7 @@ Event Date: 30-05-2009 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 35451
 # Confessions of a Data Integrator
-#### [Back to calendar](#SQLSaturday-#7---Birmingham-2009)
+#### [Back to calendar](#SQLSaturday-#7-Birmingham-2009)
 Event Date: 30-05-2009 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Stuart Ainsworth
 ## Title: Confessions of a Data Integrator
@@ -95,7 +95,7 @@ Event Date: 30-05-2009 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 35459
 # Data Mining ASP.Net Controls Library
-#### [Back to calendar](#SQLSaturday-#7---Birmingham-2009)
+#### [Back to calendar](#SQLSaturday-#7-Birmingham-2009)
 Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Tejas Patel
 ## Title: Data Mining ASP.Net Controls Library
@@ -104,7 +104,7 @@ Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 35465
 # SQL Injection
-#### [Back to calendar](#SQLSaturday-#7---Birmingham-2009)
+#### [Back to calendar](#SQLSaturday-#7-Birmingham-2009)
 Event Date: 30-05-2009 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Kevin Boles
 ## Title: SQL Injection
@@ -113,7 +113,7 @@ Event Date: 30-05-2009 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 35467
 # Disk Partition Alignment/Care and Feeding TempDB
-#### [Back to calendar](#SQLSaturday-#7---Birmingham-2009)
+#### [Back to calendar](#SQLSaturday-#7-Birmingham-2009)
 Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Kevin Boles
 ## Title: Disk Partition Alignment/Care and Feeding TempDB
@@ -122,7 +122,7 @@ Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 35468
 # SANs and SQL Server
-#### [Back to calendar](#SQLSaturday-#7---Birmingham-2009)
+#### [Back to calendar](#SQLSaturday-#7-Birmingham-2009)
 Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Kevin Boles
 ## Title: SANs and SQL Server
@@ -131,7 +131,7 @@ Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 35491
 # Revitalizing a neglected SQL Server
-#### [Back to calendar](#SQLSaturday-#7---Birmingham-2009)
+#### [Back to calendar](#SQLSaturday-#7-Birmingham-2009)
 Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Tim  Roper
 ## Title: Revitalizing a neglected SQL Server
@@ -140,7 +140,7 @@ Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 35494
 # ASP.NET Databinding 101
-#### [Back to calendar](#SQLSaturday-#7---Birmingham-2009)
+#### [Back to calendar](#SQLSaturday-#7-Birmingham-2009)
 Event Date: 30-05-2009 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Terry Webster
 ## Title: ASP.NET Databinding 101
@@ -149,7 +149,7 @@ Event Date: 30-05-2009 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 35495
 # Using Multi-dimensional Data in SSAS in ASP.NET
-#### [Back to calendar](#SQLSaturday-#7---Birmingham-2009)
+#### [Back to calendar](#SQLSaturday-#7-Birmingham-2009)
 Event Date: 30-05-2009 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Terry Webster
 ## Title: Using Multi-dimensional Data in SSAS in ASP.NET

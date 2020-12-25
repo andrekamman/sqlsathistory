@@ -22,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 71626
 # Back to Basics – An overview of the internals of SQL Server
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Dave Dustin
 ## Title: Back to Basics – An overview of the internals of SQL Server
@@ -33,7 +33,7 @@ We’ll look at the interpreter, optimizer, estimator, storage, memory, locking,
 #  
 #### SessionID: 72429
 # Azure Data Lake Analytics: Leveraging the Modern Data Warehouse
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gogula Aryalingam
 ## Title: Azure Data Lake Analytics: Leveraging the Modern Data Warehouse
@@ -43,7 +43,7 @@ Fear not, all you need to do is look to the heavens; with Azure Data Lake and Az
 #  
 #### SessionID: 77446
 # Deciphering the Black Box - Why productivity projects crash and burn
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Other
 ## Speaker: Vanessa Larsen
 ## Title: Deciphering the Black Box - Why productivity projects crash and burn
@@ -54,7 +54,7 @@ In this session, we will share our stories from our time in the field experienci
 #  
 #### SessionID: 78712
 # Create Custom Visual using JSON and R
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Leila Etaati
 ## Title: Create Custom Visual using JSON and R
@@ -63,7 +63,7 @@ Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 70334
 # Advanced DAX for the SQL Professional
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Seamark
 ## Title: Advanced DAX for the SQL Professional
@@ -74,7 +74,7 @@ We will create data from thin air and show how you can shape your data model usi
 #  
 #### SessionID: 78623
 # Implementing Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ginger Grant
 ## Title: Implementing Python in SQL Server 2017
@@ -83,7 +83,7 @@ Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 78720
 # Cloning the human brain - Cognitive Services
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Other
 ## Speaker: Sudeep Ghatak
 ## Title: Cloning the human brain - Cognitive Services
@@ -92,7 +92,7 @@ Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 80111
 # Troubleshooting SQL Server Memory Issues
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amit R S Bansal
 ## Title: Troubleshooting SQL Server Memory Issues
@@ -101,7 +101,7 @@ Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 75787
 # SSRS and Power BI Report Server - What's New
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Craig Bryden
 ## Title: SSRS and Power BI Report Server - What's New
@@ -110,7 +110,7 @@ Event Date: 26-05-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 78176
 # SQLOpsStudio Vs SSMS - There can be only one
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Warwick Rudd
 ## Title: SQLOpsStudio Vs SSMS - There can be only one
@@ -120,7 +120,7 @@ In this session we will take you on a journey of comparing SSMS and SQLOpsStudio
 #  
 #### SessionID: 78534
 # Take Power BI Visualization to the Next Level
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Reza Rad
 ## Title: Take Power BI Visualization to the Next Level
@@ -129,7 +129,7 @@ Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 71107
 # DBATools! The reason to finally start learning and using Powershell
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: DBATools! The reason to finally start learning and using Powershell
@@ -145,7 +145,7 @@ No prior experience with Powershell required!
 #  
 #### SessionID: 77366
 # Modern Data Warehouse using Lambda Architecture and Azure
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anupama Natarajan
 ## Title: Modern Data Warehouse using Lambda Architecture and Azure
@@ -162,7 +162,7 @@ In this session you will learn about
 #  
 #### SessionID: 80494
 # Orchestration and data movement with Azure Data Factory v2
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Peck
 ## Title: Orchestration and data movement with Azure Data Factory v2
@@ -173,7 +173,7 @@ And of course, being automation experts with Biml, we’ll demonstrate how we ca
 #  
 #### SessionID: 70391
 # Real-Time Analytics with Power BI
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Manohar Punna
 ## Title: Real-Time Analytics with Power BI
@@ -188,7 +188,7 @@ In this session
 #  
 #### SessionID: 77101
 # Data Privacy and the Data Professional.
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Martin Catherall
 ## Title: Data Privacy and the Data Professional.
@@ -202,7 +202,7 @@ Come along to this session and hear how you and your team can lessen your chance
 #  
 #### SessionID: 80613
 # Google Forms meet Power BI via Reporting Services (SSRS)
-#### [Back to calendar](#SQLSaturday-#712---South-Island-NZ-2018)
+#### [Back to calendar](#SQLSaturday-#712-South-Island-NZ-2018)
 Event Date: 26-05-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Indira Bandari
 ## Title: Google Forms meet Power BI via Reporting Services (SSRS)

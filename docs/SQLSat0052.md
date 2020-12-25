@@ -41,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28774
 # Data Mining in Action: a Case Study
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: ANDREW MINKIN
 ## Title: Data Mining in Action: a Case Study
@@ -50,7 +50,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 29348
 # Putting Traces  SQL Profiler To Work
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Brandon Tucker
 ## Title: Putting Traces  SQL Profiler To Work
@@ -59,7 +59,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 29349
 # SSIS + DBAs = ?
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: PD/DBA
 ## Speaker: Brandon Tucker
 ## Title: SSIS + DBAs = ?
@@ -68,7 +68,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: PD/DBA
 #  
 #### SessionID: 29399
 # Real-time Data Integration Architecture
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev/BI
 ## Speaker: Carlos Bossy
 ## Title: Real-time Data Integration Architecture
@@ -77,7 +77,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev/BI
 #  
 #### SessionID: 29400
 # Essentials of a Business Intelligence Architecture
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Carlos Bossy
 ## Title: Essentials of a Business Intelligence Architecture
@@ -86,7 +86,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 29482
 # Managing a 0 Downtime Shop
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Chris Shaw
 ## Title: Managing a 0 Downtime Shop
@@ -97,7 +97,7 @@ Data is becoming more and more critical with the needs of business every day.  T
 #  
 #### SessionID: 29606
 # Introduction to Triggers
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev/BI
 ## Speaker: Jack Corbett
 ## Title: Introduction to Triggers
@@ -113,7 +113,7 @@ After attending this session a person will:
 #  
 #### SessionID: 29607
 # Why I Use Stored Procedures
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Jack Corbett
 ## Title: Why I Use Stored Procedures
@@ -122,7 +122,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 29884
 # Query Tuning - Get it Right the First Time
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Dean Richards
 ## Title: Query Tuning - Get it Right the First Time
@@ -135,7 +135,7 @@ tuning path with no guessing.  If you are a beginner or expert, this approach wi
 #  
 #### SessionID: 30250
 # Dr. DMV: How to Use Dynamic Management Views to Mo
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Glenn Berry
 ## Title: Dr. DMV: How to Use Dynamic Management Views to Mo
@@ -144,7 +144,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 30252
 # Getting Started With SQL Azure
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Glenn Berry
 ## Title: Getting Started With SQL Azure
@@ -153,7 +153,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 30426
 # Performance Management – 2008 MDW  
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Janis Griffin
 ## Title: Performance Management – 2008 MDW  
@@ -162,7 +162,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 30427
 # SQL Server Service Broker – An Overview
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev/BI
 ## Speaker: Janis Griffin
 ## Title: SQL Server Service Broker – An Overview
@@ -173,7 +173,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev/BI
 #  
 #### SessionID: 30504
 # PowerShell for the Reluctant DBA / Developer
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jason Horner
 ## Title: PowerShell for the Reluctant DBA / Developer
@@ -183,7 +183,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 30524
 # Extended Events, Work Smarter Not Harder 
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jason Strate
 ## Title: Extended Events, Work Smarter Not Harder 
@@ -192,7 +192,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 30526
 # Do SQL Server Certifications Really Matter?
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: PD/DBA
 ## Speaker: Jason Strate
 ## Title: Do SQL Server Certifications Really Matter?
@@ -201,7 +201,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: PD/DBA
 #  
 #### SessionID: 30695
 # T-SQL Brush-up:The Best Things You Forgot You Knew
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Jennifer McCown
 ## Title: T-SQL Brush-up:The Best Things You Forgot You Knew
@@ -210,7 +210,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 30697
 # T-SQL Code Sins 
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Jennifer McCown
 ## Title: T-SQL Code Sins 
@@ -219,7 +219,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 30770
 # The importance of data strategy
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jeremy Lowell
 ## Title: The importance of data strategy
@@ -230,7 +230,7 @@ This session will address the data in your environment instead of the container 
 #  
 #### SessionID: 31334
 # Best practices for designing databases for perfo
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Kevin Cox
 ## Title: Best practices for designing databases for perfo
@@ -239,7 +239,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 31335
 # What is in SQL 2008 R2
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Kevin Cox
 ## Title: What is in SQL 2008 R2
@@ -248,7 +248,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 31543
 # Teaching SQL People to Speak Suit
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: PD/DBA
 ## Speaker: Michelle Poolet
 ## Title: Teaching SQL People to Speak Suit
@@ -257,7 +257,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: PD/DBA
 #  
 #### SessionID: 31546
 # Introduction to Analysis Services
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Marc Beacom
 ## Title: Introduction to Analysis Services
@@ -266,7 +266,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 31779
 # Data Partitions for Optimization  Retention
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: PD/DBA
 ## Speaker: Michelle Poolet
 ## Title: Data Partitions for Optimization  Retention
@@ -277,7 +277,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: PD/DBA
 #  
 #### SessionID: 32020
 # Work/Life Balance? Just A Myth?
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: PD/DBA
 ## Speaker: Meredith Ryan-Smith
 ## Title: Work/Life Balance? Just A Myth?
@@ -286,7 +286,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: PD/DBA
 #  
 #### SessionID: 32672
 # Introduction to SSRS 2008
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Rob Schafer
 ## Title: Introduction to SSRS 2008
@@ -295,7 +295,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 32950
 # The Modern Resume: Building Your Brand
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: PD/DBA
 ## Speaker: Steve Jones
 ## Title: The Modern Resume: Building Your Brand
@@ -304,7 +304,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: PD/DBA
 #  
 #### SessionID: 33210
 # Reporting Services 2008 R2 - Report Parts
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev/BI
 ## Speaker: Steve Wake
 ## Title: Reporting Services 2008 R2 - Report Parts
@@ -313,7 +313,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev/BI
 #  
 #### SessionID: 33598
 # Exploring the SSIS API
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev/BI
 ## Speaker: Tim Mitchell
 ## Title: Exploring the SSIS API
@@ -322,7 +322,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev/BI
 #  
 #### SessionID: 33599
 # Building an ETL Framework with SSIS
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: Tim Mitchell
 ## Title: Building an ETL Framework with SSIS
@@ -332,7 +332,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 33689
 # Compliance, Auditing and Encryption in Sql Server 
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Thomas Norman
 ## Title: Compliance, Auditing and Encryption in Sql Server 
@@ -341,7 +341,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 33691
 # Policy Based Management
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Thomas Norman
 ## Title: Policy Based Management
@@ -350,7 +350,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 33756
 # SQL Encryption and You
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Todd Kleinhans
 ## Title: SQL Encryption and You
@@ -359,7 +359,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 33787
 # Zero to "MERGE" in 60 Minutes
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev/BI
 ## Speaker: Troy Ketsdever
 ## Title: Zero to "MERGE" in 60 Minutes
@@ -369,7 +369,7 @@ Event Date: 25-09-2010 - Session time: 00:00:00 - Track: Dev/BI
 #  
 #### SessionID: 33788
 # So... You've Inherited "The DB From Heck"
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Troy Ketsdever
 ## Title: So... You've Inherited "The DB From Heck"
@@ -380,7 +380,7 @@ In this session, we'll look at some tools, techniques, and scripts that will acc
 #  
 #### SessionID: 33915
 # Intro to MDX
-#### [Back to calendar](#SQLSaturday-#52---Colorado-2010)
+#### [Back to calendar](#SQLSaturday-#52-Colorado-2010)
 Event Date: 25-09-2010 - Session time: 00:00:00 - Track: BI
 ## Speaker: William E Pearson III
 ## Title: Intro to MDX

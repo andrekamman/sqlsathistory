@@ -33,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 47092
 # What is the Internet-of-Things and why should you care?
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 4 - Mixed
 ## Speaker: Scott Klein
 ## Title: What is the Internet-of-Things and why should you care?
@@ -42,7 +42,7 @@ Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 4 - Mixed
 #  
 #### SessionID: 48531
 # Joga f#252;r die Datenbank - Stretch Database in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 3 - Cloud
 ## Speaker: Patrick Heyde
 ## Title: Joga f#252;r die Datenbank - Stretch Database in SQL Server 2016
@@ -52,7 +52,7 @@ Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 3 - Cloud
 #  
 #### SessionID: 48713
 # R Services in SQL Server - Revolution oder Spielzeug?
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 2 - DEV
 ## Speaker: Mark A. Kuschel
 ## Title: R Services in SQL Server - Revolution oder Spielzeug?
@@ -63,7 +63,7 @@ Ebenso gehen wir auf die Unterschiede zwischen SQ Server R Services und dem eige
 #  
 #### SessionID: 49167
 # Rock Solid SQL Server Settings. Not Just "Next, Next, Finish"
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 1 - DBA
 ## Speaker: William Durkin
 ## Title: Rock Solid SQL Server Settings. Not Just "Next, Next, Finish"
@@ -76,7 +76,7 @@ You will leave this session with an understanding of what settings are available
 #  
 #### SessionID: 49658
 # Slowly Changing Dimensions mit den MDS
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 5 - BI
 ## Speaker: Christoph Seck
 ## Title: Slowly Changing Dimensions mit den MDS
@@ -86,7 +86,7 @@ Vorkenntnisse zu den MDS sind nicht notwendig, solides SQL schon.
 #  
 #### SessionID: 45804
 # Are Temporal Tables a useful feature?
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 2 - DEV
 ## Speaker: Uwe Ricken
 ## Title: Are Temporal Tables a useful feature?
@@ -98,7 +98,7 @@ Fasten seat belts and get an overview of the core concept of Temporal Tables and
 #  
 #### SessionID: 45807
 # SQL Server Release Management - SPs, CUs und CODs, ich verstehe nur Bahnhof
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 4 - Mixed
 ## Speaker: Andre Essing
 ## Title: SQL Server Release Management - SPs, CUs und CODs, ich verstehe nur Bahnhof
@@ -110,7 +110,7 @@ Diese Session erkl#228;rt, warum Updates wichtig sind und wann dieses eingespiel
 #  
 #### SessionID: 46607
 # The current state of Powershell DSC for DBAs
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 1 - DBA
 ## Speaker: André Kamman
 ## Title: The current state of Powershell DSC for DBAs
@@ -128,7 +128,7 @@ After this session you are better equiped to decide if Powershell DSC is useful 
 #  
 #### SessionID: 50768
 # Neue Benutzerinteraktionen mit der Cortana Intelligence Suite
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 3 - Cloud
 ## Speaker: Constantin Klein
 ## Title: Neue Benutzerinteraktionen mit der Cortana Intelligence Suite
@@ -139,7 +139,7 @@ In diesem Talk besch#228;ftigen wir uns mit dem gesamten Stack vom skalierbaren 
 #  
 #### SessionID: 45913
 # The (Consumer) Internet of Things on your arm - MS Band  PowerBI connected
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 4 - Mixed
 ## Speaker: Wolfgang Strasser
 ## Title: The (Consumer) Internet of Things on your arm - MS Band  PowerBI connected
@@ -150,7 +150,7 @@ The challenge: Let's prepare a real-time dashboard of Band2 data in Power BI in 
 #  
 #### SessionID: 46113
 # What's new in Reporting Services 2016?
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 5 - BI
 ## Speaker: Frank Geisler
 ## Title: What's new in Reporting Services 2016?
@@ -159,7 +159,7 @@ Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 5 - BI
 #  
 #### SessionID: 46508
 # Power BI Desktop – Leveraging the magic of Power BI - ON-PREM
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 5 - BI
 ## Speaker: Sam Lester
 ## Title: Power BI Desktop – Leveraging the magic of Power BI - ON-PREM
@@ -168,7 +168,7 @@ Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 5 - BI
 #  
 #### SessionID: 47251
 # SQL Security in the Cloud
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 3 - Cloud
 ## Speaker: Tobias Koprowski
 ## Title: SQL Security in the Cloud
@@ -177,7 +177,7 @@ Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 3 - Cloud
 #  
 #### SessionID: 49096
 # Analysieren von SQL Server Workloads mit DMVs und XEvents
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 1 - DBA
 ## Speaker: Andreas Wolter
 ## Title: Analysieren von SQL Server Workloads mit DMVs und XEvents
@@ -186,7 +186,7 @@ Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 1 - DBA
 #  
 #### SessionID: 46370
 # Join Operatoren
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 4 - Mixed
 ## Speaker: Torsten Strauss
 ## Title: Join Operatoren
@@ -197,7 +197,7 @@ Ein grundlegendes Verst#228;ndnis der Interpretation des Abfrageplans und -Stati
 #  
 #### SessionID: 46691
 # Scripting tabular models
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 5 - BI
 ## Speaker: Bent Pedersen
 ## Title: Scripting tabular models
@@ -208,7 +208,7 @@ During this session I will go through and explain some examples on generating a 
 #  
 #### SessionID: 47376
 # Are You a DBA by Accident? Welcome to the Club!
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 1 - DBA
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Are You a DBA by Accident? Welcome to the Club!
@@ -222,7 +222,7 @@ In this session I will invite you to discuss the pros  cons of the solutions I c
 #  
 #### SessionID: 48436
 # 360#176; around Azure Data Lake – Storage, Analytics and Development Part 1
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 3 - Cloud
 ## Speaker: Oliver Engels
 ## Title: 360#176; around Azure Data Lake – Storage, Analytics and Development Part 1
@@ -231,7 +231,7 @@ Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 3 - Cloud
 #  
 #### SessionID: 49077
 # Performanceoptimierung mit Hilfe des Plancache
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 2 - DEV
 ## Speaker: Christoph Muthmann
 ## Title: Performanceoptimierung mit Hilfe des Plancache
@@ -240,7 +240,7 @@ Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 2 - DEV
 #  
 #### SessionID: 45855
 # Best practices in modelling Power pivot.
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 5 - BI
 ## Speaker: Henk Vlootman
 ## Title: Best practices in modelling Power pivot.
@@ -251,7 +251,7 @@ There are best practices you should stick to in order to port the model without 
 #  
 #### SessionID: 45914
 # From SQL to R and beyond
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 2 - DEV
 ## Speaker: Thomas Hütter
 ## Title: From SQL to R and beyond
@@ -268,7 +268,7 @@ Finally we’ll see how to use the Shiny framework to display our data on a map,
 #  
 #### SessionID: 46189
 # The log, the whole log and nothing but the log
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 1 - DBA
 ## Speaker: Mikael Wedham
 ## Title: The log, the whole log and nothing but the log
@@ -277,7 +277,7 @@ Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 1 - DBA
 #  
 #### SessionID: 47335
 # Die Quadratur des Kreises? Wie NoSQL und der SQL Server zueinander finden.
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 4 - Mixed
 ## Speaker: Benjamin Kettner
 ## Title: Die Quadratur des Kreises? Wie NoSQL und der SQL Server zueinander finden.
@@ -288,7 +288,7 @@ Wir zeigen, wie eine hybride Architektur aus NoSQL Datenbanken auf Devices im Fe
 #  
 #### SessionID: 48437
 # 360#176; around Azure Data Lake – Storage, Analytics and Development Part 2
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 3 - Cloud
 ## Speaker: Oliver Engels
 ## Title: 360#176; around Azure Data Lake – Storage, Analytics and Development Part 2
@@ -298,7 +298,7 @@ Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 3 - Cloud
 #  
 #### SessionID: 45909
 # SSIS f#252;r Faulpelze – Einf#252;hrung in BIML
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 5 - BI
 ## Speaker: Ben Weissman
 ## Title: SSIS f#252;r Faulpelze – Einf#252;hrung in BIML
@@ -307,7 +307,7 @@ Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 5 - BI
 #  
 #### SessionID: 48432
 # JSON    XML;  seit SQL 2016 gilt es die jeweiligen Vorteile abzuw#228;gen
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 2 - DEV
 ## Speaker: Alexander Karl
 ## Title: JSON    XML;  seit SQL 2016 gilt es die jeweiligen Vorteile abzuw#228;gen
@@ -325,7 +325,7 @@ Ziel der Session ist aufzuzeigen, wann welche Sprache jeweils Vorteile bringt.
 #  
 #### SessionID: 49599
 # Cloud Wars – what‘s the smartest data platform?
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 3 - Cloud
 ## Speaker: Stefan Kirner
 ## Title: Cloud Wars – what‘s the smartest data platform?
@@ -334,7 +334,7 @@ Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 3 - Cloud
 #  
 #### SessionID: 50781
 # Bioinformatics on Azure
-#### [Back to calendar](#SQLSaturday-#525---Rheinland-2016)
+#### [Back to calendar](#SQLSaturday-#525-Rheinland-2016)
 Event Date: 11-06-2016 - Session time: 17:15:00 - Track: 4 - Mixed
 ## Speaker: Tillmann Eitelberg
 ## Title: Bioinformatics on Azure

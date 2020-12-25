@@ -65,7 +65,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11151
 # Get a Lever and Pick Any Turtle: Lifting with Metadata
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL Dev
 ## Speaker: Cade Roux
 ## Title: Get a Lever and Pick Any Turtle: Lifting with Metadata
@@ -80,7 +80,7 @@ Basic knowledge of T-SQL and relational database principles is assumed.
 #  
 #### SessionID: 11628
 # Interview Tips for Managers
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: CIO/CTO/IT Manager
 ## Speaker: Christine Assaf
 ## Title: Interview Tips for Managers
@@ -89,7 +89,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: CIO/CTO/IT Manager
 #  
 #### SessionID: 11630
 # Mastering your Resume  Interview: Tips to Get Hired
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Career Development
 ## Speaker: Christine Assaf
 ## Title: Mastering your Resume  Interview: Tips to Get Hired
@@ -98,7 +98,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Career Development
 #  
 #### SessionID: 11738
 # Building an Intranet SharePoint 2013 Style
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SharePoint
 ## Speaker: Cody Gros
 ## Title: Building an Intranet SharePoint 2013 Style
@@ -108,7 +108,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SharePoint
 #  
 #### SessionID: 11868
 # Configuring SharePoint Search for an optimal document management experience
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SharePoint
 ## Speaker: Corey Roth
 ## Title: Configuring SharePoint Search for an optimal document management experience
@@ -117,7 +117,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SharePoint
 #  
 #### SessionID: 11872
 # SQL 2012 OLAP vs Tabular Modeling
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence Foundations
 ## Speaker: Cory Hutchinson
 ## Title: SQL 2012 OLAP vs Tabular Modeling
@@ -128,7 +128,7 @@ In 2011, the HSRG developed an OLAP cube for 'slicing and dicing' crash, DWI, an
 #  
 #### SessionID: 12122
 # Improving Performance, Backups, and the Development Lifecycle with Centralized Storage
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL DBA Foundations
 ## Speaker: Chris Wolfley
 ## Title: Improving Performance, Backups, and the Development Lifecycle with Centralized Storage
@@ -137,7 +137,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL DBA Foundations
 #  
 #### SessionID: 12180
 # Get your feet wet with Hadoop on Azure
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL Dev
 ## Speaker: Daniel Hillis
 ## Title: Get your feet wet with Hadoop on Azure
@@ -146,7 +146,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL Dev
 #  
 #### SessionID: 12320
 # How to Prepare  Conduct Technical Presentations
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Career Development
 ## Speaker: David Reid
 ## Title: How to Prepare  Conduct Technical Presentations
@@ -155,7 +155,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Career Development
 #  
 #### SessionID: 13233
 # Data Access 0-120 : Because 60 just won't do
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET Foundations
 ## Speaker: Devlin Liles
 ## Title: Data Access 0-120 : Because 60 just won't do
@@ -164,7 +164,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET Foundations
 #  
 #### SessionID: 14571
 # The ABCs of SSIS
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence Foundations
 ## Speaker: Glenda Gable
 ## Title: The ABCs of SSIS
@@ -173,7 +173,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence F
 #  
 #### SessionID: 15526
 # SQL Licensing White Board Session  
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL DBA Foundations
 ## Speaker: Jaisson Mailloux
 ## Title: SQL Licensing White Board Session  
@@ -182,7 +182,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL DBA Foundations
 #  
 #### SessionID: 15537
 # Who Could Ask for More with LESS CSS?
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev Web/Mobile
 ## Speaker: James Sampson
 ## Title: Who Could Ask for More with LESS CSS?
@@ -191,7 +191,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev Web/Mobile
 #  
 #### SessionID: 15538
 # Visual Studio Productivity Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET Foundations
 ## Speaker: James Sampson
 ## Title: Visual Studio Productivity Tips and Tricks
@@ -200,7 +200,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET Foundations
 #  
 #### SessionID: 15560
 # Building Resilient Workflows in SharePoint 2013
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SharePoint
 ## Speaker: Jameson Bozeman
 ## Title: Building Resilient Workflows in SharePoint 2013
@@ -210,7 +210,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SharePoint
 #  
 #### SessionID: 15778
 # Multiplatform Development with Unity 3D and C#
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev Web/Mobile
 ## Speaker: Jason Tate
 ## Title: Multiplatform Development with Unity 3D and C#
@@ -219,7 +219,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev Web/Mobile
 #  
 #### SessionID: 16033
 # Moving to XAML
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET Foundations
 ## Speaker: Jeremy Beckham
 ## Title: Moving to XAML
@@ -237,7 +237,7 @@ This presentation will introduce intermediate+ C# developers to XAML.
 #  
 #### SessionID: 16142
 # Using Team Foundation 2012 for Agile Project Management
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET/ALM
 ## Speaker: Jeremy Cronan
 ## Title: Using Team Foundation 2012 for Agile Project Management
@@ -246,7 +246,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET/ALM
 #  
 #### SessionID: 16474
 # Beginning T-SQL
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL Dev
 ## Speaker: Jennifer McCown
 ## Title: Beginning T-SQL
@@ -255,7 +255,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL Dev
 #  
 #### SessionID: 17633
 # StreamInsight in action: Monitoring website performance in real time
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev App Support
 ## Speaker: J Sawyer
 ## Title: StreamInsight in action: Monitoring website performance in real time
@@ -264,7 +264,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev App Support
 #  
 #### SessionID: 17635
 # Back to Basics: .NET Essentials You May have Forgotten
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET Foundations
 ## Speaker: J Sawyer
 ## Title: Back to Basics: .NET Essentials You May have Forgotten
@@ -273,7 +273,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET Foundations
 #  
 #### SessionID: 18040
 # Building an English-Based Rules Engine using the Dynamic Language Runtime and IronRuby
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET/ALM
 ## Speaker: Keith Elder
 ## Title: Building an English-Based Rules Engine using the Dynamic Language Runtime and IronRuby
@@ -282,7 +282,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET/ALM
 #  
 #### SessionID: 19626
 # Introduction to SQL Spatial Analysis and Reporting
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence Advanced
 ## Speaker: Mark Verret
 ## Title: Introduction to SQL Spatial Analysis and Reporting
@@ -291,7 +291,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence A
 #  
 #### SessionID: 19627
 # Data cleaning with SSIS - SQL 2012
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence Foundations
 ## Speaker: Mark Verret
 ## Title: Data cleaning with SSIS - SQL 2012
@@ -300,7 +300,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence F
 #  
 #### SessionID: 19938
 # Change Tracking:  A Near Bullet-Proof ETL Synchronization Control
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence Advanced
 ## Speaker: Mike Byrd
 ## Title: Change Tracking:  A Near Bullet-Proof ETL Synchronization Control
@@ -309,7 +309,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence A
 #  
 #### SessionID: 20143
 # PowerShell Not Your Father's Command Line 10 things you need to know
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: PowerShell
 ## Speaker: Matt Hester
 ## Title: PowerShell Not Your Father's Command Line 10 things you need to know
@@ -318,7 +318,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: PowerShell
 #  
 #### SessionID: 20144
 # Windows Azure IaaS and You
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Windows Server Infrastructure
 ## Speaker: Matt Hester
 ## Title: Windows Azure IaaS and You
@@ -330,7 +330,7 @@ This session will clarify the myths and provide pertinent information on cloud c
 #  
 #### SessionID: 20434
 # Getting Started with C#
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET Foundations
 ## Speaker: Mike Huguet
 ## Title: Getting Started with C#
@@ -339,7 +339,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET Foundations
 #  
 #### SessionID: 20435
 # When Things Go Wrong in My Code
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev App Support
 ## Speaker: Mike Huguet
 ## Title: When Things Go Wrong in My Code
@@ -348,7 +348,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev App Support
 #  
 #### SessionID: 20592
 # Power of Patterns: Refactoring to (or away from) Patterns
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET/ALM
 ## Speaker: Mike Clement
 ## Title: Power of Patterns: Refactoring to (or away from) Patterns
@@ -361,7 +361,7 @@ We'll talk about why you should know common design patterns, why they are powerf
 #  
 #### SessionID: 20594
 # Agile Games: Games with Cards and Dice
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET/ALM
 ## Speaker: Mike Clement
 ## Title: Agile Games: Games with Cards and Dice
@@ -371,7 +371,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET/ALM
 #  
 #### SessionID: 20700
 # PowerShell Fundamentals for Beginners
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: PowerShell
 ## Speaker: Mike Robbins
 ## Title: PowerShell Fundamentals for Beginners
@@ -380,7 +380,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: PowerShell
 #  
 #### SessionID: 20725
 # What's it like to Work for Microsoft?
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev App Support
 ## Speaker: Mike Huguet
 ## Title: What's it like to Work for Microsoft?
@@ -389,7 +389,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev App Support
 #  
 #### SessionID: 21410
 # Advanced Performance Tuning Tips with Ignite
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev Web/Mobile
 ## Speaker: Neil  Hambly
 ## Title: Advanced Performance Tuning Tips with Ignite
@@ -398,7 +398,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev Web/Mobile
 #  
 #### SessionID: 21426
 # SCCM 2012 High Availability
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Windows Server Infrastructure
 ## Speaker: Nicholas Jones
 ## Title: SCCM 2012 High Availability
@@ -407,7 +407,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Windows Server Infrastr
 #  
 #### SessionID: 22734
 # Web Sites on Windows Azure
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev Web/Mobile
 ## Speaker: Ryan Duclos
 ## Title: Web Sites on Windows Azure
@@ -416,7 +416,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev Web/Mobile
 #  
 #### SessionID: 23701
 # Analytics 101 : Big data, business intelligence, and predictive analytics for decision makers
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence Foundations
 ## Speaker: Rusty Frioux
 ## Title: Analytics 101 : Big data, business intelligence, and predictive analytics for decision makers
@@ -428,7 +428,7 @@ Rusty Frioux from DataClear will sort out truth from hype and give some practica
 #  
 #### SessionID: 23727
 # SQL 2012 AlwaysOn Quickstart
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL DBA Foundations
 ## Speaker: Ryan Adams
 ## Title: SQL 2012 AlwaysOn Quickstart
@@ -442,7 +442,7 @@ capabilities it gives us.
 #  
 #### SessionID: 23728
 # AlwaysOn Live Deployment
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL DBA Foundations
 ## Speaker: Ryan Adams
 ## Title: AlwaysOn Live Deployment
@@ -451,7 +451,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL DBA Foundations
 #  
 #### SessionID: 24270
 # Beginning Powershell for DBAs 1.0
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: PowerShell
 ## Speaker: Sean McCown
 ## Title: Beginning Powershell for DBAs 1.0
@@ -460,7 +460,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: PowerShell
 #  
 #### SessionID: 24271
 # Beginning Powershell for DBAs 1.5
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: PowerShell
 ## Speaker: Sean McCown
 ## Title: Beginning Powershell for DBAs 1.5
@@ -469,7 +469,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: PowerShell
 #  
 #### SessionID: 24384
 # High Traffic Web Services
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev App Support
 ## Speaker: Stephen Fulcher
 ## Title: High Traffic Web Services
@@ -478,7 +478,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev App Support
 #  
 #### SessionID: 24385
 # Application Instrumentation 
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev App Support
 ## Speaker: Stephen Fulcher
 ## Title: Application Instrumentation 
@@ -487,7 +487,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev App Support
 #  
 #### SessionID: 25305
 # Unit Tests in Action – an exercise in updating legacy code, and how unit tests play a critical role
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev App Support
 ## Speaker: Steve Schaneville
 ## Title: Unit Tests in Action – an exercise in updating legacy code, and how unit tests play a critical role
@@ -501,7 +501,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev App Support
 #  
 #### SessionID: 25813
 # ConfigMgr 2012 - Whats the big deal?
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Windows Server Infrastructure
 ## Speaker: Steven Rachui
 ## Title: ConfigMgr 2012 - Whats the big deal?
@@ -510,7 +510,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Windows Server Infrastr
 #  
 #### SessionID: 25814
 # Troubleshoot ConfigMgr 2012 like a pro
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Windows Server Infrastructure
 ## Speaker: Steven Rachui
 ## Title: Troubleshoot ConfigMgr 2012 like a pro
@@ -519,7 +519,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Windows Server Infrastr
 #  
 #### SessionID: 25905
 # Managing the SQL Server 2012 SSIS catalog (SSISDB)
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence Advanced
 ## Speaker: Sven Aelterman
 ## Title: Managing the SQL Server 2012 SSIS catalog (SSISDB)
@@ -528,7 +528,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence A
 #  
 #### SessionID: 25908
 # Configuring and Managing FILESTREAM and FileTable
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL Dev
 ## Speaker: Sven Aelterman
 ## Title: Configuring and Managing FILESTREAM and FileTable
@@ -537,7 +537,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL Dev
 #  
 #### SessionID: 25932
 # Toastmasters Demo Meeting
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Career Development
 ## Speaker: Stacy Vicknair
 ## Title: Toastmasters Demo Meeting
@@ -546,7 +546,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Career Development
 #  
 #### SessionID: 26146
 # Who Moved My SharePoint (to 2013)?
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SharePoint
 ## Speaker: Theresa Eller
 ## Title: Who Moved My SharePoint (to 2013)?
@@ -555,7 +555,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SharePoint
 #  
 #### SessionID: 26523
 # Execution Plan Basics - Beginners
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL Dev
 ## Speaker: Thomas LeBlanc
 ## Title: Execution Plan Basics - Beginners
@@ -567,7 +567,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL Dev
 #  
 #### SessionID: 26524
 # Attributes  Hierarchies in Analysis Services 2012
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence Advanced
 ## Speaker: Thomas LeBlanc
 ## Title: Attributes  Hierarchies in Analysis Services 2012
@@ -577,7 +577,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence A
 #  
 #### SessionID: 26738
 # Install-Package Your.Architecture
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET/ALM
 ## Speaker: Tim Rayburn
 ## Title: Install-Package Your.Architecture
@@ -586,7 +586,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev .NET/ALM
 #  
 #### SessionID: 26739
 # Intro PowerShell for Technologists
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: PowerShell
 ## Speaker: Tim Rayburn
 ## Title: Intro PowerShell for Technologists
@@ -595,7 +595,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: PowerShell
 #  
 #### SessionID: 27322
 # iPhone Apps in C#
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev Web/Mobile
 ## Speaker: Seth Valdetero
 ## Title: iPhone Apps in C#
@@ -604,7 +604,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev Web/Mobile
 #  
 #### SessionID: 27670
 # Bringing Business Intelligence to SharePoint Users
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SharePoint
 ## Speaker: Bill Watters
 ## Title: Bringing Business Intelligence to SharePoint Users
@@ -614,7 +614,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SharePoint
 #  
 #### SessionID: 28097
 # Getting Started with Analysis Services 2012 Tabular
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence Advanced
 ## Speaker: William E Pearson III
 ## Title: Getting Started with Analysis Services 2012 Tabular
@@ -623,7 +623,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence A
 #  
 #### SessionID: 28099
 # Practical Self-Service BI with Excel 2013
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence Foundations
 ## Speaker: William E Pearson III
 ## Title: Practical Self-Service BI with Excel 2013
@@ -632,7 +632,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Business Intelligence F
 #  
 #### SessionID: 34638
 # Let's Learn Knockout
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev Web/Mobile
 ## Speaker: George Mauer
 ## Title: Let's Learn Knockout
@@ -642,7 +642,7 @@ Event Date: 03-08-2013 - Session time: 00:00:00 - Track: Dev Web/Mobile
 #  
 #### SessionID: 9032
 # Understanding Storage Systems and SQL Server 
-#### [Back to calendar](#SQLSaturday-#234---Baton-Rouge-2013)
+#### [Back to calendar](#SQLSaturday-#234-Baton-Rouge-2013)
 Event Date: 03-08-2013 - Session time: 00:00:00 - Track: SQL DBA Foundations
 ## Speaker: Wesley Brown
 ## Title: Understanding Storage Systems and SQL Server 

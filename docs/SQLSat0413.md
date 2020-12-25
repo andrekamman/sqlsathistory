@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10979
 # Securing your SQL Azure Database. How?
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Azure
 ## Speaker: Boris Hristov
 ## Title: Securing your SQL Azure Database. How?
@@ -55,7 +55,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Azure
 #  
 #### SessionID: 13963
 # From Navision to Power BI Dashboard in 45 minutes
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Erik Svensen
 ## Title: From Navision to Power BI Dashboard in 45 minutes
@@ -68,7 +68,7 @@ Join me on an exciting journey through the Power BI tool belt on Navision data.
 #  
 #### SessionID: 27093
 # PowerQuery and M
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Peter ter Braake
 ## Title: PowerQuery and M
@@ -77,7 +77,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: BI
 #  
 #### SessionID: 27290
 # CDC - Change Data Capture in Detail
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Dev
 ## Speaker: Uwe Ricken
 ## Title: CDC - Change Data Capture in Detail
@@ -89,7 +89,7 @@ The demo is based on a real scenario which has been implemented that way!
 #  
 #### SessionID: 36742
 # How to create a Windows app with Project Siena, SharePoint and Of
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: SharePoint
 ## Speaker: Knut Relbe-Moe
 ## Title: How to create a Windows app with Project Siena, SharePoint and Of
@@ -98,7 +98,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: SharePoint
 #  
 #### SessionID: 36916
 # A deep dive into SQL Server Plan Cache Management
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: DBA
 ## Speaker: Margarita Naumova
 ## Title: A deep dive into SQL Server Plan Cache Management
@@ -107,7 +107,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: DBA
 #  
 #### SessionID: 11242
 # Upgrading from SSIS Package Deployment to Project Deployment
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Upgrading from SSIS Package Deployment to Project Deployment
@@ -118,7 +118,7 @@ In this session I will explain the differences between the package deployment mo
 #  
 #### SessionID: 17781
 # Excel Services in SharePoint 2013
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: SharePoint
 ## Speaker: Just Blindbaek
 ## Title: Excel Services in SharePoint 2013
@@ -134,7 +134,7 @@ Last but not least the session will include “Tips  Tricks” including how to 
 #  
 #### SessionID: 20730
 # Akademisk Track: Hvordan kan man bruge Big Data i det offentlige
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: DBA
 ## Speaker: Mikkel Freltoft Krogsholm
 ## Title: Akademisk Track: Hvordan kan man bruge Big Data i det offentlige
@@ -145,7 +145,7 @@ Det offentlige vil kunne forudsige Big Data områder såsom behov for infrastruk
 #  
 #### SessionID: 28261
 # Professional Recycling - SSIS Custom Control Flow Components with Visual Studio Community
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Wolfgang Strasser
 ## Title: Professional Recycling - SSIS Custom Control Flow Components with Visual Studio Community
@@ -154,7 +154,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: BI
 #  
 #### SessionID: 35645
 # Introduction to Replication from concepts to a running system!
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: DBA
 ## Speaker: David Williams
 ## Title: Introduction to Replication from concepts to a running system!
@@ -163,7 +163,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: DBA
 #  
 #### SessionID: 9187
 # Toolkit for DAX Optimization 
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Alberto Ferrari
 ## Title: Toolkit for DAX Optimization 
@@ -172,7 +172,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: BI
 #  
 #### SessionID: 12157
 # Power BI – getting it right
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Dandy Weyn
 ## Title: Power BI – getting it right
@@ -183,7 +183,7 @@ You’ll get an introduction to Dashboard creation using a variety of data sourc
 #  
 #### SessionID: 17802
 # Introduction to MDX
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Dev
 ## Speaker: Jens Vestergaard
 ## Title: Introduction to MDX
@@ -197,7 +197,7 @@ Aspects covered in the session:
 #  
 #### SessionID: 20145
 # This is how developers might punish your database
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: DBA
 ## Speaker: Mogens Heller Grabe
 ## Title: This is how developers might punish your database
@@ -210,7 +210,7 @@ Participants will get an introduction to all the mentioned concepts, and there w
 #  
 #### SessionID: 23532
 # Building a meta-driven near realtime ETL solution with BIML and S
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Rasmus Reinholdt
 ## Title: Building a meta-driven near realtime ETL solution with BIML and S
@@ -223,7 +223,7 @@ Topics covered in the session
 #  
 #### SessionID: 36186
 # AzureML: Welcome to the future of predictive analytics
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Azure
 ## Speaker: Ruben Pertusa Lopez
 ## Title: AzureML: Welcome to the future of predictive analytics
@@ -233,7 +233,7 @@ Real machine learning solutions and some best practices when integrating ML on A
 #  
 #### SessionID: 37113
 # Branding SharePoint and Office 365
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: SharePoint
 ## Speaker: Sonja Madsen
 ## Title: Branding SharePoint and Office 365
@@ -243,7 +243,7 @@ I'll talk about what it takes to apply consistent corporate branding on Office 3
 #  
 #### SessionID: 40518
 # SQL Server Data Warehouse Fast Track – Understanding the Program
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Sponsor
 ## Speaker: Niall MacLeod
 ## Title: SQL Server Data Warehouse Fast Track – Understanding the Program
@@ -252,7 +252,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Sponsor
 #  
 #### SessionID: 40629
 # Data Quality Improvement through Master Data Driven Business Inte
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Sponsor
 ## Speaker: Dave Lawrence
 ## Title: Data Quality Improvement through Master Data Driven Business Inte
@@ -261,7 +261,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Sponsor
 #  
 #### SessionID: 40716
 # Extracting tables with Ontrack PowerControls
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Sponsor
 ## Speaker: Henrik Andersen
 ## Title: Extracting tables with Ontrack PowerControls
@@ -272,7 +272,7 @@ Henrik Andersen from Kroll Ontrack will show you how to restore tables with Ontr
 #  
 #### SessionID: 40769
 # ( virtual ) SQL on Steroids
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Sponsor
 ## Speaker: Frank Brix Pedersen
 ## Title: ( virtual ) SQL on Steroids
@@ -283,7 +283,7 @@ What if one could guarantee SQL Server latency would take a vacation as In-Memor
 #  
 #### SessionID: 40841
 # In-Memory or Violin Memory - or both?
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Sponsor
 ## Speaker: Jens Melhede
 ## Title: In-Memory or Violin Memory - or both?
@@ -295,7 +295,7 @@ SQL2014 In-Memory (Hekaton) and Violin Memory storage acceleration.
 #  
 #### SessionID: 15756
 # Introduction to SQL Server high availability solutions
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: DBA
 ## Speaker: Janos Berke
 ## Title: Introduction to SQL Server high availability solutions
@@ -318,7 +318,7 @@ Demos:
 #  
 #### SessionID: 26996
 # Blue Sky Thinking: SQL Azure Geospatial Mashup 
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Azure
 ## Speaker: Thomas Sykes
 ## Title: Blue Sky Thinking: SQL Azure Geospatial Mashup 
@@ -327,7 +327,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Azure
 #  
 #### SessionID: 36032
 # WTF with SQL
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Dev
 ## Speaker: Kennie Pontoppidan
 ## Title: WTF with SQL
@@ -338,7 +338,7 @@ Come and have fun when we explore scenarios of simple SQL statements, where I gu
 #  
 #### SessionID: 36140
 # Azure SQL Database Tips and Tricks for Beginners
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Azure
 ## Speaker: Tobias Koprowski
 ## Title: Azure SQL Database Tips and Tricks for Beginners
@@ -347,7 +347,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Azure
 #  
 #### SessionID: 37139
 # Configure on-premises SharePoint environment for App/Add-in
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: SharePoint
 ## Speaker: Anders Dissing
 ## Title: Configure on-premises SharePoint environment for App/Add-in
@@ -356,7 +356,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: SharePoint
 #  
 #### SessionID: 38108
 # From MDS to SSRS - a short walkthrough
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Gabi Münster
 ## Title: From MDS to SSRS - a short walkthrough
@@ -365,7 +365,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: BI
 #  
 #### SessionID: 14614
 # SQL Server Security In An Insecure World
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: DBA
 ## Speaker: Gianluca Sartori
 ## Title: SQL Server Security In An Insecure World
@@ -377,7 +377,7 @@ In this session you'll learn how attackers take advantage of weaknesses in your 
 #  
 #### SessionID: 21570
 # Under Construction - Power BI Development
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: DBA
 ## Speaker: Oliver Engels
 ## Title: Under Construction - Power BI Development
@@ -386,7 +386,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: DBA
 #  
 #### SessionID: 36408
 # Putting Your head in the Cloud - Working with SQL Azure
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Azure
 ## Speaker: David Postlethwaite
 ## Title: Putting Your head in the Cloud - Working with SQL Azure
@@ -397,7 +397,7 @@ By the end of this sessions you will some way to becoming an Azure Jedi
 #  
 #### SessionID: 36865
 # Datazen - On-premise mobile bi
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Bent Pedersen
 ## Title: Datazen - On-premise mobile bi
@@ -409,7 +409,7 @@ I want to show you how simply and easy it is to gets started and find data insig
 #  
 #### SessionID: 37118
 # Build your own metadata repository with Powershell
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Dev
 ## Speaker: André Kamman
 ## Title: Build your own metadata repository with Powershell
@@ -421,7 +421,7 @@ Let's build a Powershell script together that will use Remoting to run whatever 
 #  
 #### SessionID: 40599
 # 5 reasons I am excited for IoT and Cortana Analytics
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Azure
 ## Speaker: Iman Eftekhari
 ## Title: 5 reasons I am excited for IoT and Cortana Analytics
@@ -430,7 +430,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Azure
 #  
 #### SessionID: 13578
 # High Performance Statistical Queries
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Dev
 ## Speaker: Dejan Sarka
 ## Title: High Performance Statistical Queries
@@ -439,7 +439,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Dev
 #  
 #### SessionID: 25282
 # Intro to R
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Stephanie Locke
 ## Title: Intro to R
@@ -458,7 +458,7 @@ By the end of this session, you'll truly know your Rs from your elbow.
 #  
 #### SessionID: 36066
 # End to end risk assessment – affordable solution using Power BI
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Azure
 ## Speaker: Asgeir Gunnarsson
 ## Title: End to end risk assessment – affordable solution using Power BI
@@ -469,7 +469,7 @@ This method can easily transfer to any other data collection solution such as bu
 #  
 #### SessionID: 36686
 # SQL Server Batch Mode and CPU Architectures
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Azure
 ## Speaker: Christopher Adkin
 ## Title: SQL Server Batch Mode and CPU Architectures
@@ -478,7 +478,7 @@ Event Date: 19-09-2015 - Session time: 16:15:00 - Track: Azure
 #  
 #### SessionID: 36991
 # Desigining Complex Tabular Models - A Case Study
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Bob Duffy
 ## Title: Desigining Complex Tabular Models - A Case Study
@@ -502,7 +502,7 @@ This one hour session will walk through an actual case study of a tabular model 
 #  
 #### SessionID: 37131
 # Shadow prediction: SQL 2014 spatial data types and astronomy well mixed
-#### [Back to calendar](#SQLSaturday-#413---Denmark-2015)
+#### [Back to calendar](#SQLSaturday-#413-Denmark-2015)
 Event Date: 19-09-2015 - Session time: 16:15:00 - Track: DBA
 ## Speaker: Arne Bartels
 ## Title: Shadow prediction: SQL 2014 spatial data types and astronomy well mixed

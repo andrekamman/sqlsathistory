@@ -40,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28433
 # Securing an SSAS, SSRS, and SharePoint BI Solution
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-2
 ## Speaker: Dan Lewendowski,  Aaron Bangasser
 ## Title: Securing an SSAS, SSRS, and SharePoint BI Solution
@@ -49,7 +49,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-2
 #  
 #### SessionID: 28502
 # Converged SQL Server Solutions from HP  Microsoft
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-1
 ## Speaker: Ajay Nangia
 ## Title: Converged SQL Server Solutions from HP  Microsoft
@@ -58,7 +58,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-1
 #  
 #### SessionID: 28634
 # TSQL Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-1 
 ## Speaker: Andy Lohn
 ## Title: TSQL Tips and Tricks
@@ -67,7 +67,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-1
 #  
 #### SessionID: 29062
 # Database Restores - Lessons from the Real World
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-2
 ## Speaker: Bill Preachuk
 ## Title: Database Restores - Lessons from the Real World
@@ -77,7 +77,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-2
 #  
 #### SessionID: 29093
 # Geographic Visualizations Using Maps in SSRS
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Prof Develop
 ## Speaker: Brian Larson
 ## Title: Geographic Visualizations Using Maps in SSRS
@@ -86,7 +86,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Prof Develop
 #  
 #### SessionID: 29094
 # Introduction to Data Mining in SQL Server
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-1
 ## Speaker: Brian Larson
 ## Title: Introduction to Data Mining in SQL Server
@@ -95,7 +95,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-1
 #  
 #### SessionID: 29886
 # Inside PerformancePoint
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-1
 ## Speaker: Dan English
 ## Title: Inside PerformancePoint
@@ -104,7 +104,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-1
 #  
 #### SessionID: 30064
 # A Beginners Guide to Execution Plans
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-1
 ## Speaker: Eric Zierdt
 ## Title: A Beginners Guide to Execution Plans
@@ -113,7 +113,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-1
 #  
 #### SessionID: 30280
 # Uniting Free Government Data using PowerPivot
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-2
 ## Speaker: Greg Beaumont
 ## Title: Uniting Free Government Data using PowerPivot
@@ -122,7 +122,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-2
 #  
 #### SessionID: 30294
 # SSRS Multi-language  Dynamic DB Connections
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-2
 ## Speaker: Hans Johnson
 ## Title: SSRS Multi-language  Dynamic DB Connections
@@ -133,7 +133,7 @@ Prizes will be given away based on a few different criteria that Hans will make 
 #  
 #### SessionID: 30450
 # Don't Panic, DBAs!  Databases on VMware made easy.
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-1
 ## Speaker: Janis Griffin
 ## Title: Don't Panic, DBAs!  Databases on VMware made easy.
@@ -142,7 +142,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-1
 #  
 #### SessionID: 30451
 # SQL Server Service Broker – An Overview
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-2
 ## Speaker: Janis Griffin
 ## Title: SQL Server Service Broker – An Overview
@@ -151,7 +151,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-2
 #  
 #### SessionID: 30506
 # PowerShell for the Reluctant DBA
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-2
 ## Speaker: Jason Horner
 ## Title: PowerShell for the Reluctant DBA
@@ -163,7 +163,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-2
 #  
 #### SessionID: 30853
 # SQL Denali - What's new for PowerPivot and SSAS!
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-1
 ## Speaker: Jin Cho
 ## Title: SQL Denali - What's new for PowerPivot and SSAS!
@@ -172,7 +172,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-1
 #  
 #### SessionID: 30856
 # Custom assemblies for Reporting Services
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-1 
 ## Speaker: Jeff Krebsbach
 ## Title: Custom assemblies for Reporting Services
@@ -182,7 +182,7 @@ In this session we will see an example of extending SSRS  to use a .Net library 
 #  
 #### SessionID: 31110
 # SQL Denali - An Open Window To T-SQL Enhancements
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-2
 ## Speaker: Jason Strate
 ## Title: SQL Denali - An Open Window To T-SQL Enhancements
@@ -191,7 +191,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-2
 #  
 #### SessionID: 31111
 # Do SQL Server Certifications Really Matter?
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Prof Develop
 ## Speaker: Jason Strate
 ## Title: Do SQL Server Certifications Really Matter?
@@ -200,7 +200,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Prof Develop
 #  
 #### SessionID: 31375
 # Intro to Locking and Blocking
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-2
 ## Speaker: Kirby Richter
 ## Title: Intro to Locking and Blocking
@@ -209,7 +209,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-2
 #  
 #### SessionID: 31554
 # Introduction to Integration Services
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-2
 ## Speaker: Marc Beacom
 ## Title: Introduction to Integration Services
@@ -218,7 +218,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-2
 #  
 #### SessionID: 31555
 # Introduction to Data Warehousing
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-2
 ## Speaker: Marc Beacom
 ## Title: Introduction to Data Warehousing
@@ -227,7 +227,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-2
 #  
 #### SessionID: 31784
 # Diving into the Cloud with SQL Azure
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-2
 ## Speaker: Mike Benkovich
 ## Title: Diving into the Cloud with SQL Azure
@@ -237,7 +237,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-2
 #  
 #### SessionID: 32046
 # Introduction to Project Crescent
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-1
 ## Speaker: Natalie Wood
 ## Title: Introduction to Project Crescent
@@ -246,7 +246,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-1
 #  
 #### SessionID: 32159
 # Analysis Services vs. PowerPivot Denali
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-2
 ## Speaker: Paul Doyle
 ## Title: Analysis Services vs. PowerPivot Denali
@@ -255,7 +255,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-2
 #  
 #### SessionID: 32234
 # Building a SQL Listener Job Using Powershell
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-1 
 ## Speaker: Peter Kral
 ## Title: Building a SQL Listener Job Using Powershell
@@ -264,7 +264,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-1
 #  
 #### SessionID: 32542
 # Loading a Data Warehouse with SSIS
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-1 
 ## Speaker: Robert Biddle
 ## Title: Loading a Data Warehouse with SSIS
@@ -273,7 +273,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-1
 #  
 #### SessionID: 32657
 # Minimal Processing for Large Cubes
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-1
 ## Speaker: Ross McNeely
 ## Title: Minimal Processing for Large Cubes
@@ -282,7 +282,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-1
 #  
 #### SessionID: 32666
 # Storage Design and SQL Server Performance 
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-1
 ## Speaker: Rowland Gosling
 ## Title: Storage Design and SQL Server Performance 
@@ -291,7 +291,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-1
 #  
 #### SessionID: 33222
 # Beyond Rounded Corners - SSIS Changes in Denali 
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-1 
 ## Speaker: Steve Hughes
 ## Title: Beyond Rounded Corners - SSIS Changes in Denali 
@@ -300,7 +300,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DEV-1
 #  
 #### SessionID: 33319
 # Performance, Scalability and Efficiency
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-1
 ## Speaker: Gus Siefker
 ## Title: Performance, Scalability and Efficiency
@@ -309,7 +309,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-1
 #  
 #### SessionID: 33333
 # Merge Replication for Offline Data Mobility
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-2
 ## Speaker: Ted Krueger
 ## Title: Merge Replication for Offline Data Mobility
@@ -319,7 +319,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-2
 #  
 #### SessionID: 33579
 # High-Availability and DR Options for SQL Server
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-1
 ## Speaker: Tim Plas
 ## Title: High-Availability and DR Options for SQL Server
@@ -331,7 +331,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-1
 #  
 #### SessionID: 33782
 # Baselining for SQL Server
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-1
 ## Speaker: Trent Mera
 ## Title: Baselining for SQL Server
@@ -340,7 +340,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-1
 #  
 #### SessionID: 33976
 # Becoming DAX: An Introduction ... 
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-2
 ## Speaker: William E Pearson III
 ## Title: Becoming DAX: An Introduction ... 
@@ -350,7 +350,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: BI-2
 #  
 #### SessionID: 33980
 # Entity Strategies: Structuring Your Consultancy
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Prof Develop
 ## Speaker: William E Pearson III
 ## Title: Entity Strategies: Structuring Your Consultancy
@@ -359,7 +359,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Prof Develop
 #  
 #### SessionID: 34523
 # Powershell and Perfmon - A performance story
-#### [Back to calendar](#SQLSaturday-#99---Minnesota-2011)
+#### [Back to calendar](#SQLSaturday-#99-Minnesota-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: DBA-2
 ## Speaker: Zach Mattson
 ## Title: Powershell and Perfmon - A performance story

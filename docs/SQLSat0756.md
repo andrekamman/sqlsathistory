@@ -7,7 +7,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 78702
 # How to manage SAGE SAARI system from Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#756---Bafoussam-2018)
+#### [Back to calendar](#SQLSaturday-#756-Bafoussam-2018)
 Event Date: 26-05-2018 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: ACHILLE NGUELA NGUELA
 ## Title: How to manage SAGE SAARI system from Microsoft SQL Server
@@ -21,7 +21,7 @@ Cas Pratique et Demonstrations
 #  
 #### SessionID: 74437
 # Can i make a record management with Microsoft Sharepoint
-#### [Back to calendar](#SQLSaturday-#756---Bafoussam-2018)
+#### [Back to calendar](#SQLSaturday-#756-Bafoussam-2018)
 Event Date: 26-05-2018 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: ACHILLE NGUELA NGUELA
 ## Title: Can i make a record management with Microsoft Sharepoint

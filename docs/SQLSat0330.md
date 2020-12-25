@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10171
 # BI DBA Performance Tuning
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bradley Ball
 ## Title: BI DBA Performance Tuning
@@ -52,7 +52,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 10186
 # Index Tuning for the DBA
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ben DeBow
 ## Title: Index Tuning for the DBA
@@ -61,7 +61,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 11036
 # Source Control with MSBI Solutions
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Bryant Byrd
 ## Title: Source Control with MSBI Solutions
@@ -70,7 +70,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 11093
 # Power This, Power That...Making Sense of Power BI
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Brett Tomson
 ## Title: Power This, Power That...Making Sense of Power BI
@@ -79,7 +79,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 11131
 # BIML--Step by Step
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Julie Smith
 ## Title: BIML--Step by Step
@@ -88,7 +88,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 11566
 # Your Best Interview Ever
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Chris Skorlinski
 ## Title: Your Best Interview Ever
@@ -98,7 +98,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 12184
 # Introducing Azure DocumentDB
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Dan Shaver
 ## Title: Introducing Azure DocumentDB
@@ -107,7 +107,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 14425
 # Building an MDM Center of Excellence with MDS and Maestro 
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Gene Webb
 ## Title: Building an MDM Center of Excellence with MDS and Maestro 
@@ -116,7 +116,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 14497
 # Cloudy with a Chance of Data
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Geoff Hiten
 ## Title: Cloudy with a Chance of Data
@@ -125,7 +125,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 15596
 # Best Practices to Deliver BI Solutions
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: James Serra
 ## Title: Best Practices to Deliver BI Solutions
@@ -136,7 +136,7 @@ I have worked on dozens of end-to-end BI projects and have seen my share of succ
 #  
 #### SessionID: 15660
 # Querying in the 21’st century – A window into Windowing functions
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jana Sattainathan
 ## Title: Querying in the 21’st century – A window into Windowing functions
@@ -145,7 +145,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 15914
 # All Your HBase Are Belong To Us- an intro to HBase
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jason Howell
 ## Title: All Your HBase Are Belong To Us- an intro to HBase
@@ -154,7 +154,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 16677
 # What's in the SQL Server 2014 Business Intelligence Suite?
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jessica Moss
 ## Title: What's in the SQL Server 2014 Business Intelligence Suite?
@@ -163,7 +163,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 16780
 # Launching your career in data management
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Jason Hall
 ## Title: Launching your career in data management
@@ -180,7 +180,7 @@ We'll cover some real world basics to help get your foot in the door:
 #  
 #### SessionID: 16838
 # Closing the SSIS Package Management Story with BIPS
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Jim Christopher
 ## Title: Closing the SSIS Package Management Story with BIPS
@@ -193,7 +193,7 @@ In this session, you will learn how to leverage BIPS in your own environment.  S
 #  
 #### SessionID: 17126
 # The Data Management Discipline (with a focus on Data Warehousing)
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Joe Dib
 ## Title: The Data Management Discipline (with a focus on Data Warehousing)
@@ -202,7 +202,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 17521
 # From Zero to Hero - Designing and Deploying Dynamic Reports Using SSRS
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Josh Gerszewski
 ## Title: From Zero to Hero - Designing and Deploying Dynamic Reports Using SSRS
@@ -211,7 +211,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 17530
 # Show me whatcha workin' with: Big Data Edition
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Josh Luedeman
 ## Title: Show me whatcha workin' with: Big Data Edition
@@ -220,7 +220,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 17582
 # Shade Tree Mechanic's Guide to SSAS
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Justin Randall
 ## Title: Shade Tree Mechanic's Guide to SSAS
@@ -229,7 +229,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 18151
 # Hive 101
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kevin Goode
 ## Title: Hive 101
@@ -238,7 +238,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 21820
 # It's full of Star Schemas… 
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Paul Waters
 ## Title: It's full of Star Schemas… 
@@ -250,7 +250,7 @@ In this session we will cover the core principles of a star schema dimensional d
 #  
 #### SessionID: 22170
 # Columnstore Indexes
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Patrick Keisler
 ## Title: Columnstore Indexes
@@ -259,7 +259,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 22260
 # SQL server data tools
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Prabhaker Potharaju
 ## Title: SQL server data tools
@@ -268,7 +268,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23341
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -277,7 +277,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23696
 # Documenting SSIS packages using XQuery
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Russel Loski
 ## Title: Documenting SSIS packages using XQuery
@@ -286,7 +286,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 24051
 # A New Approach to Unit Testing and Integration Testing in SSIS
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Scott Currie
 ## Title: A New Approach to Unit Testing and Integration Testing in SSIS
@@ -297,7 +297,7 @@ In this session, a new approach to unit testing (focusing on verifying the corre
 #  
 #### SessionID: 24052
 # Create and Load a Staging Environment from Scratch in an Hour with Biml
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Scott Currie
 ## Title: Create and Load a Staging Environment from Scratch in an Hour with Biml
@@ -306,7 +306,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 24418
 # PowerBI
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Scott Holmes
 ## Title: PowerBI
@@ -315,7 +315,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 26548
 # Back(up) to Basics
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ben Thul
 ## Title: Back(up) to Basics
@@ -324,7 +324,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 27220
 # Introduction to SQL Server 2014 AlwaysOn Solutions
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Uttam Parui
 ## Title: Introduction to SQL Server 2014 AlwaysOn Solutions
@@ -333,7 +333,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 27351
 # DAX 101
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Damu Venkatesan
 ## Title: DAX 101
@@ -343,7 +343,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 27779
 # Introduction to Microsoft Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Bill Carroll
 ## Title: Introduction to Microsoft Azure Machine Learning
@@ -352,7 +352,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 28177
 # The 20-Minute Tabular Model
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Bill Anton
 ## Title: The 20-Minute Tabular Model
@@ -361,7 +361,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 28238
 # Change Data Capture  Change Tracking Deep Dive
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Hazzard
 ## Title: Change Data Capture  Change Tracking Deep Dive
@@ -370,7 +370,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 34729
 # Applied Enterprise Semantic Mining
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Mark Tabladillo
 ## Title: Applied Enterprise Semantic Mining
@@ -379,7 +379,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 34730
 # Data Mining Innovation with SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mark Tabladillo
 ## Title: Data Mining Innovation with SQL Server 2014
@@ -388,7 +388,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9100
 # APS/PDW – Are you ready for the next generation DW solution??
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Andy Isley
 ## Title: APS/PDW – Are you ready for the next generation DW solution??
@@ -397,7 +397,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 9142
 # On-Demand Compute and Analytics with Powershell, Hadoop and Azure
-#### [Back to calendar](#SQLSaturday-#330---Charlotte---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#330-Charlotte-BI-Edition-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Adam Jorgensen
 ## Title: On-Demand Compute and Analytics with Powershell, Hadoop and Azure

@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10247
 # SMO Internals for High Performance PowerShell
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Lucas
 ## Speaker: Ben Miller
 ## Title: SMO Internals for High Performance PowerShell
@@ -52,7 +52,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Lucas
 #  
 #### SessionID: 10830
 # SQL 2012 Extended Events
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Lucas
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Extended Events
@@ -61,7 +61,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Lucas
 #  
 #### SessionID: 11507
 # Becoming Certified In Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Michelangelo
 ## Speaker: Chris Hyde
 ## Title: Becoming Certified In Microsoft SQL Server
@@ -70,7 +70,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Michelangelo
 #  
 #### SessionID: 15822
 # Dimension Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Michelangelo
 ## Speaker: Jason Horner
 ## Title: Dimension Modeling Design Patterns: Beyond Basics
@@ -79,7 +79,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Michelangelo
 #  
 #### SessionID: 16880
 # Getting Started with Execution Plans
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Spielberg
 ## Speaker: Jason Kassay
 ## Title: Getting Started with Execution Plans
@@ -88,7 +88,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Spielberg
 #  
 #### SessionID: 17618
 # SSIS 2012 - Best Practices and Design Patterns
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Atrium 
 ## Speaker: Joe Salvatore
 ## Title: SSIS 2012 - Best Practices and Design Patterns
@@ -97,7 +97,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Atrium
 #  
 #### SessionID: 21159
 # What secrets does your database schema hold?
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Spielberg
 ## Speaker: Andre DuBois
 ## Title: What secrets does your database schema hold?
@@ -106,7 +106,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Spielberg
 #  
 #### SessionID: 21749
 # SQL Server 2012: To NAS or not to NAS, that is the question
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Atrium 
 ## Speaker: Pat Sinthusan
 ## Title: SQL Server 2012: To NAS or not to NAS, that is the question
@@ -115,7 +115,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Atrium
 #  
 #### SessionID: 22768
 # Master Data Services – 101
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Michelangelo
 ## Speaker: Reeves Smith
 ## Title: Master Data Services – 101
@@ -124,7 +124,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Michelangelo
 #  
 #### SessionID: 24058
 # SSIS Metric Performance Collection (Case Study)
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Rodin
 ## Speaker: Scott Heffron
 ## Title: SSIS Metric Performance Collection (Case Study)
@@ -135,7 +135,7 @@ This presentation will discuss how we created the storage area for the metrics a
 #  
 #### SessionID: 24751
 # Bulletproof Database Deployments
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Spielberg
 ## Speaker: Stacey Glossner
 ## Title: Bulletproof Database Deployments
@@ -148,7 +148,7 @@ You'll leave with a better understanding of these techniques and how a botched d
 #  
 #### SessionID: 26017
 # Locks, Blocks and Isolation Oh My!
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Lucas
 ## Speaker: Keith Tate
 ## Title: Locks, Blocks and Isolation Oh My!
@@ -157,7 +157,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Lucas
 #  
 #### SessionID: 26216
 # SQL Server 2012 Column Store Index
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Spielberg
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2012 Column Store Index
@@ -166,7 +166,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Spielberg
 #  
 #### SessionID: 26905
 # Database Monitoring : Trying To Keep Sane
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Michelangelo
 ## Speaker: TJay Belt
 ## Title: Database Monitoring : Trying To Keep Sane
@@ -176,7 +176,7 @@ We will discuss various ideas, tools, approaches, and solutions to how to monito
 #  
 #### SessionID: 34888
 # Essentails of a Big Data Architecture
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Gym 1
 ## Speaker: David Gonzalez
 ## Title: Essentails of a Big Data Architecture
@@ -186,7 +186,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Gym 1
 #  
 #### SessionID: 34889
 # A travelers' guide to Vertica
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Atrium 
 ## Speaker: David Gonzalez
 ## Title: A travelers' guide to Vertica
@@ -196,7 +196,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Atrium
 #  
 #### SessionID: 34890
 # A Couple of Oracle Security Tricks
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Michelangelo
 ## Speaker: David Gonzalez
 ## Title: A Couple of Oracle Security Tricks
@@ -206,7 +206,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Michelangelo
 #  
 #### SessionID: 34891
 # Introduction to Cassandra
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Gym 1
 ## Speaker: David Gonzalez
 ## Title: Introduction to Cassandra
@@ -216,7 +216,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Gym 1
 #  
 #### SessionID: 34892
 # Classification and Regression in Clojure
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Rodin
 ## Speaker: David Gonzalez
 ## Title: Classification and Regression in Clojure
@@ -226,7 +226,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Rodin
 #  
 #### SessionID: 34893
 # Big Data Lambda Architecture Overview
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Gym 1
 ## Speaker: David Gonzalez
 ## Title: Big Data Lambda Architecture Overview
@@ -236,7 +236,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Gym 1
 #  
 #### SessionID: 34894
 # Introduction to ElasticSearch
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Lucas
 ## Speaker: David Gonzalez
 ## Title: Introduction to ElasticSearch
@@ -246,7 +246,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Lucas
 #  
 #### SessionID: 34895
 # Getting to Step 1: Automatic Installation of Big Data, Cloud, Web and HPC Cluster 
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Michelangelo
 ## Speaker: David Gonzalez
 ## Title: Getting to Step 1: Automatic Installation of Big Data, Cloud, Web and HPC Cluster 
@@ -255,7 +255,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Michelangelo
 #  
 #### SessionID: 34896
 # Big Data in Sports
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Atrium 
 ## Speaker: David Gonzalez
 ## Title: Big Data in Sports
@@ -265,7 +265,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Atrium
 #  
 #### SessionID: 34897
 # Getting Down on the CouchDB
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Lucas
 ## Speaker: David Gonzalez
 ## Title: Getting Down on the CouchDB
@@ -275,7 +275,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Lucas
 #  
 #### SessionID: 34898
 # Getting to visualizations from Big Data fast
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Gym 1
 ## Speaker: David Gonzalez
 ## Title: Getting to visualizations from Big Data fast
@@ -285,7 +285,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Gym 1
 #  
 #### SessionID: 34899
 # You Can Do That? Using Predictive Analytics To Improve Graduation Rates
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Gym 1
 ## Speaker: David Gonzalez
 ## Title: You Can Do That? Using Predictive Analytics To Improve Graduation Rates
@@ -295,7 +295,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Gym 1
 #  
 #### SessionID: 34900
 # AWSDynamo Lessons Learned:
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Lucas
 ## Speaker: David Gonzalez
 ## Title: AWSDynamo Lessons Learned:
@@ -305,7 +305,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Lucas
 #  
 #### SessionID: 34901
 # Cure for Data Impetancy
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Spielberg
 ## Speaker: David Gonzalez
 ## Title: Cure for Data Impetancy
@@ -315,7 +315,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Spielberg
 #  
 #### SessionID: 34902
 # Oracle Transportable Tablespaces
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Rodin
 ## Speaker: David Gonzalez
 ## Title: Oracle Transportable Tablespaces
@@ -325,7 +325,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Rodin
 #  
 #### SessionID: 34903
 # A simple framework for presenting complex data. 
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Spielberg
 ## Speaker: David Gonzalez
 ## Title: A simple framework for presenting complex data. 
@@ -335,7 +335,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Spielberg
 #  
 #### SessionID: 34904
 # Scaling DNA Data Processing with HBase and Hadoop
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Atrium 
 ## Speaker: David Gonzalez
 ## Title: Scaling DNA Data Processing with HBase and Hadoop
@@ -344,7 +344,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Atrium
 #  
 #### SessionID: 34905
 # Hadoop Shuffle - the Magic Behind Map Reduce
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Gym 1
 ## Speaker: David Gonzalez
 ## Title: Hadoop Shuffle - the Magic Behind Map Reduce
@@ -354,7 +354,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Gym 1
 #  
 #### SessionID: 34906
 # "Big Data" - Utah's Strong Position for Building a Big Data Cluster
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Gym 1
 ## Speaker: David Gonzalez
 ## Title: "Big Data" - Utah's Strong Position for Building a Big Data Cluster
@@ -363,7 +363,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Gym 1
 #  
 #### SessionID: 34907
 # Introduction to Machine Learning.
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Michelangelo
 ## Speaker: David Gonzalez
 ## Title: Introduction to Machine Learning.
@@ -372,7 +372,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Michelangelo
 #  
 #### SessionID: 34908
 # Open Design and Discussion session
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Rodin
 ## Speaker: David Gonzalez
 ## Title: Open Design and Discussion session
@@ -381,7 +381,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Rodin
 #  
 #### SessionID: 8885
 # T-SQL Tips  Tricks Part 2
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Atrium 
 ## Speaker: Aaron Cutshall
 ## Title: T-SQL Tips  Tricks Part 2
@@ -390,7 +390,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Atrium
 #  
 #### SessionID: 9347
 # Unleash the Power of PowerPivot
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Lucas
 ## Speaker: Andrea Allred
 ## Title: Unleash the Power of PowerPivot
@@ -399,7 +399,7 @@ Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Lucas
 #  
 #### SessionID: 9775
 # Troubleshooting SQL Server with SysInternals Tools
-#### [Back to calendar](#SQLSaturday-#246---Salt-Lake-City-2013)
+#### [Back to calendar](#SQLSaturday-#246-Salt-Lake-City-2013)
 Event Date: 07-09-2013 - Session time: 00:00:00 - Track: Spielberg
 ## Speaker: Argenis Fernandez
 ## Title: Troubleshooting SQL Server with SysInternals Tools

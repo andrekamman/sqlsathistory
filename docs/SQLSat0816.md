@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 85920
 # BI in Azure one year live
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Business Intelligence
 ## Speaker: Alexander Klein
 ## Title: BI in Azure one year live
@@ -37,7 +37,7 @@ Now, after more than a year in live operation, a short summary and evaluation on
 #  
 #### SessionID: 86016
 # Continuous Integration Pipelines With Jenkins, Docker and SQL Server
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Development
 ## Speaker: Christopher Adkin
 ## Title: Continuous Integration Pipelines With Jenkins, Docker and SQL Server
@@ -46,7 +46,7 @@ Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Development
 #  
 #### SessionID: 86259
 # Permission Granted... Oh, No!
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: DBA
 ## Speaker: Etienne Lopes
 ## Title: Permission Granted... Oh, No!
@@ -59,7 +59,7 @@ I will also show how easily this can be done ;)
 #  
 #### SessionID: 86569
 # Improving data quality with Data Science and Machine Learning (no math required!)
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Business Intelligence
 ## Speaker: Allen ONeill
 ## Title: Improving data quality with Data Science and Machine Learning (no math required!)
@@ -72,7 +72,7 @@ This session will examine using basic Data Science and AI techniques along with 
 #  
 #### SessionID: 86754
 # Execution plans ... where do I start?
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: DBA
 ## Speaker: Hugo Kornelis
 ## Title: Execution plans ... where do I start?
@@ -87,7 +87,7 @@ In this session you will learn how to obtain execution plans. and how to start r
 #  
 #### SessionID: 89297
 # Don't Cross the Streams! A Closer Look at Azure Stream Analytics
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Development
 ## Speaker: Johan Ludvig Brattås
 ## Title: Don't Cross the Streams! A Closer Look at Azure Stream Analytics
@@ -96,7 +96,7 @@ Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Development
 #  
 #### SessionID: 85932
 # New Security Features in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Development
 ## Speaker: David Postlethwaite
 ## Title: New Security Features in SQL Server 2016
@@ -114,7 +114,7 @@ In this session we will have an overview of these important security features an
 #  
 #### SessionID: 86383
 # Azure IoT, Windows 10 Core  Raspberry PI (DIY)
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Business Intelligence
 ## Speaker: Jens Vestergaard
 ## Title: Azure IoT, Windows 10 Core  Raspberry PI (DIY)
@@ -124,7 +124,7 @@ This session is not for the Enterprise rather has a more DIY approach.
 #  
 #### SessionID: 87248
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: DBA
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -136,7 +136,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 86724
 # SQL Server  Kubernetes
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: DBA
 ## Speaker: Andrew Pruski
 ## Title: SQL Server  Kubernetes
@@ -155,7 +155,7 @@ This session is aimed at SQL Server DBAs and Developers who want to learn the wh
 #  
 #### SessionID: 86856
 # Python Pipeline Primer: Data Engineering with Azure DataBricks
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Business Intelligence
 ## Speaker: Simon Whiteley
 ## Title: Python Pipeline Primer: Data Engineering with Azure DataBricks
@@ -176,7 +176,7 @@ The session is aimed at Data Engineers seeking to put the Azure DataBricks techn
 #  
 #### SessionID: 90871
 # Analyzing Performance Problems Using XEvents, DMVs  Query Store
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: DBA
 ## Speaker: Ola Hallengren
 ## Title: Analyzing Performance Problems Using XEvents, DMVs  Query Store
@@ -189,7 +189,7 @@ In this session, we will look at how the tools work in different scenarios, how 
 #  
 #### SessionID: 86080
 # Choosing your Data Platform fit: SQL database, Managed Instance, VM or Hybrid?
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: DBA
 ## Speaker: Stijn Wynants
 ## Title: Choosing your Data Platform fit: SQL database, Managed Instance, VM or Hybrid?
@@ -203,7 +203,7 @@ After this session you will be ready to start moving your environment to the clo
 #  
 #### SessionID: 86756
 # T-SQL User-Defined Functions, or: How to kill performance in one, easy step
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Development
 ## Speaker: Hugo Kornelis
 ## Title: T-SQL User-Defined Functions, or: How to kill performance in one, easy step
@@ -214,7 +214,7 @@ However, you will also see that there is a way to avoid the problems. With just 
 #  
 #### SessionID: 88557
 # Introduction To Dataflows In Power BI
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Business Intelligence
 ## Speaker: Chris Webb
 ## Title: Introduction To Dataflows In Power BI
@@ -228,7 +228,7 @@ Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Business Intelligence
 #  
 #### SessionID: 85926
 # Building low-cost back-end app services with SQL Express and .Net Core on Linux
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Development
 ## Speaker: Peter Willmot
 ## Title: Building low-cost back-end app services with SQL Express and .Net Core on Linux
@@ -242,7 +242,7 @@ This session will provide an overview of challenges and opportunities, notably i
 #  
 #### SessionID: 85952
 # What to Do When SQL Server is Unusually Slow
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: DBA
 ## Speaker: Brent Ozar
 ## Title: What to Do When SQL Server is Unusually Slow
@@ -255,7 +255,7 @@ Good news – there is, and you’re about to learn how the pros do it. In one a
 #  
 #### SessionID: 86186
 # Introduction to Azure Data Lake
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Business Intelligence
 ## Speaker: Oskari Heikkinen
 ## Title: Introduction to Azure Data Lake
@@ -264,7 +264,7 @@ Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Business Intelligence
 #  
 #### SessionID: 85947
 # The DBA Survival Guide for In-Memory OLTP
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: DBA
 ## Speaker: Ned Otter
 ## Title: The DBA Survival Guide for In-Memory OLTP
@@ -276,7 +276,7 @@ Attendees will gain a clear understanding of the knowledge and skills required t
 #  
 #### SessionID: 86285
 # Be a dynamic SQL dynamo!
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Development
 ## Speaker: Joanna Wolthuis
 ## Title: Be a dynamic SQL dynamo!
@@ -285,7 +285,7 @@ Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Development
 #  
 #### SessionID: 89054
 # Deploying Power BI in the Enterprise
-#### [Back to calendar](#SQLSaturday-#816---Iceland-2019)
+#### [Back to calendar](#SQLSaturday-#816-Iceland-2019)
 Event Date: 16-03-2019 - Session time: 16:20:00 - Track: Business Intelligence
 ## Speaker: Just Blindbaek
 ## Title: Deploying Power BI in the Enterprise

@@ -40,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 34926
 # Introduction to SQL Server Statistics
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Andy Warren
 ## Title: Introduction to SQL Server Statistics
@@ -49,7 +49,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 34954
 # Introduction to Data Warehouse Concepts
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development
 ## Speaker: Robert Cain
 ## Title: Introduction to Data Warehouse Concepts
@@ -58,7 +58,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 34955
 # Introduction to SQL Server Full Text Searching
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development 2
 ## Speaker: Robert Cain
 ## Title: Introduction to SQL Server Full Text Searching
@@ -67,7 +67,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development 2
 #  
 #### SessionID: 34956
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI
 ## Speaker: Robert Cain
 ## Title: Introduction to SQL Server Integration Services
@@ -76,7 +76,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 35068
 # SSRS Working with Images and Subreports
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Curtis Smith
 ## Title: SSRS Working with Images and Subreports
@@ -85,7 +85,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 35107
 # Why Normalization Matters
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development
 ## Speaker: Louis Davidson
 ## Title: Why Normalization Matters
@@ -94,7 +94,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 35109
 # SSIS Internals and Optimization
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Erik Veerman
 ## Title: SSIS Internals and Optimization
@@ -103,7 +103,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 35145
 # Wait-Time SQL Server Performance Management
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Janis Griffin
 ## Title: Wait-Time SQL Server Performance Management
@@ -112,7 +112,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 35158
 # Nested Sets Model - Trees  Hierarchies in SQL
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development
 ## Speaker: Joe Celko
 ## Title: Nested Sets Model - Trees  Hierarchies in SQL
@@ -121,7 +121,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 35181
 # How to Build Analysis Services Cubes (2005/2008)
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jen Underwood
 ## Title: How to Build Analysis Services Cubes (2005/2008)
@@ -130,7 +130,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 35182
 # Building Reporting Services and Excel Reports
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jen Underwood
 ## Title: Building Reporting Services and Excel Reports
@@ -140,7 +140,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 35253
 # Fortress SQL Server
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI
 ## Speaker: Brian Kelley
 ## Title: Fortress SQL Server
@@ -149,7 +149,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 35260
 # XML Features in SQL 2005
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development
 ## Speaker: Kendal Van Dyke
 ## Title: XML Features in SQL 2005
@@ -158,7 +158,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 35261
 # Disk Performance Hands On
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kendal Van Dyke
 ## Title: Disk Performance Hands On
@@ -169,7 +169,7 @@ Your answer was probably close to something like “Of course not!”. Now let�
 #  
 #### SessionID: 35273
 # End-to-End Troubleshooting
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kevin Kline
 ## Title: End-to-End Troubleshooting
@@ -185,7 +185,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 35274
 # Surviving the Data Avalanche
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI
 ## Speaker: Kevin Kline
 ## Title: Surviving the Data Avalanche
@@ -201,7 +201,7 @@ Administrating and protecting very large databases is extremely difficult and ve
 #  
 #### SessionID: 35292
 # Data Mining Beyond Adventure Works
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Mark Tabladillo
 ## Title: Data Mining Beyond Adventure Works
@@ -210,7 +210,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 35293
 # SQL Server Auditing Using the CLR
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Lee Johnson
 ## Title: SQL Server Auditing Using the CLR
@@ -219,7 +219,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 35331
 # Smokin' Mirrors - SQL Mirroring Technology
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Michael Mollenhour
 ## Title: Smokin' Mirrors - SQL Mirroring Technology
@@ -228,7 +228,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 35332
 # Mining for Data the SQL 2008 way
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Michael Mollenhour
 ## Title: Mining for Data the SQL 2008 way
@@ -237,7 +237,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 35339
 # Effective T-SQL Solutions
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development
 ## Speaker: Noah Subrin
 ## Title: Effective T-SQL Solutions
@@ -246,7 +246,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 35427
 # CLR integration
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development
 ## Speaker: Sergey Barskiy
 ## Title: CLR integration
@@ -255,7 +255,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 35432
 # Using MSchema in Project Lifecycles
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development 2
 ## Speaker: Shawn Wildermuth
 ## Title: Using MSchema in Project Lifecycles
@@ -264,7 +264,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development 2
 #  
 #### SessionID: 35433
 # ADO.NET Data Services for DBAs
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Shawn Wildermuth
 ## Title: ADO.NET Data Services for DBAs
@@ -273,7 +273,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 35445
 # An Introduction to SQL Server 2008 Features
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Geoff Hiten
 ## Title: An Introduction to SQL Server 2008 Features
@@ -282,7 +282,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 35446
 # SQL Clustering Essentials
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Geoff Hiten
 ## Title: SQL Clustering Essentials
@@ -292,7 +292,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 35449
 # SQL Saturday Super Short Session I
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development 2
 ## Speaker: Stuart Ainsworth
 ## Title: SQL Saturday Super Short Session I
@@ -301,7 +301,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development 2
 #  
 #### SessionID: 35450
 # SQL Saturday Super Short Session II
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development 2
 ## Speaker: Stuart Ainsworth
 ## Title: SQL Saturday Super Short Session II
@@ -310,7 +310,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development 2
 #  
 #### SessionID: 35456
 # SQL Server 2008 Date / Time Data Types
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development 2
 ## Speaker: Scott Russell
 ## Title: SQL Server 2008 Date / Time Data Types
@@ -319,7 +319,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development 2
 #  
 #### SessionID: 35460
 # Data Mining ASP.Net Controls Library
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI
 ## Speaker: Tejas Patel
 ## Title: Data Mining ASP.Net Controls Library
@@ -328,7 +328,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 35474
 # Disk Partition Alignment
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kevin Boles
 ## Title: Disk Partition Alignment
@@ -337,7 +337,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 35475
 # SANs and SQL Server
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Kevin Boles
 ## Title: SANs and SQL Server
@@ -346,7 +346,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 35490
 # Consolidating Your Database Infrastructure
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Tom Mills
 ## Title: Consolidating Your Database Infrastructure
@@ -355,7 +355,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 35512
 # Solving real world problems with meta data
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development
 ## Speaker: Whitney Weaver
 ## Title: Solving real world problems with meta data
@@ -364,7 +364,7 @@ Event Date: 25-04-2009 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 35513
 # A Lap Around Partitioning
-#### [Back to calendar](#SQLSaturday-#13---Atlanta-2009)
+#### [Back to calendar](#SQLSaturday-#13-Atlanta-2009)
 Event Date: 25-04-2009 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Whitney Weaver
 ## Title: A Lap Around Partitioning

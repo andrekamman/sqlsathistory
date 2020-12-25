@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28460
 # High Performance SSIS Dimensional Datamart Loads
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Michael Coles
 ## Title: High Performance SSIS Dimensional Datamart Loads
@@ -44,7 +44,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 28611
 # Failover Clustering with Windows Server 2008  R2
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Allan Hirt
 ## Title: Failover Clustering with Windows Server 2008  R2
@@ -53,7 +53,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 28612
 # So Many High Availability Options, So Little Time
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Allan Hirt
 ## Title: So Many High Availability Options, So Little Time
@@ -62,7 +62,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 28957
 # PowerPivot for Excel and SharePoint 2010
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ayad Shammout
 ## Title: PowerPivot for Excel and SharePoint 2010
@@ -71,7 +71,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28958
 # Building a High Availability SQL Server 2008 R2
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ayad Shammout
 ## Title: Building a High Availability SQL Server 2008 R2
@@ -80,7 +80,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29552
 # Data Vault and the Data Warehouse
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Chuck Kelley
 ## Title: Data Vault and the Data Warehouse
@@ -93,7 +93,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 29939
 # OData For DBAs
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Don Demsak
 ## Title: OData For DBAs
@@ -102,7 +102,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 29942
 # Building Business Contacts at IT Conferences
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Don Gabor
 ## Title: Building Business Contacts at IT Conferences
@@ -111,7 +111,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 30263
 # DMV's as a Shortcut to Procedure Tuning
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Grant Fritchey
 ## Title: DMV's as a Shortcut to Procedure Tuning
@@ -120,7 +120,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30320
 # Transactional Replication Fundamentals
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Hilary Cotter
 ## Title: Transactional Replication Fundamentals
@@ -129,7 +129,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 30421
 # Partitioning in SQL Server 2005/2008
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jana Sattainathan
 ## Title: Partitioning in SQL Server 2005/2008
@@ -138,7 +138,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30648
 # Deploying Data Tier Applications with SQL 2k8 R2
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Joseph D'Antoni
 ## Title: Deploying Data Tier Applications with SQL 2k8 R2
@@ -147,7 +147,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 30649
 # MDW-What's going on in my server?
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Joseph D'Antoni
 ## Title: MDW-What's going on in my server?
@@ -156,7 +156,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 31189
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -165,7 +165,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31336
 # Cool Reporting Features in SSRS 2008R2
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Goff
 ## Title: Cool Reporting Features in SSRS 2008R2
@@ -174,7 +174,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31340
 # Three cool packages in SSIS 2008
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Goff
 ## Title: Three cool packages in SSIS 2008
@@ -183,7 +183,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31502
 # Notes on Linked Servers
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Linchi Shea
 ## Title: Notes on Linked Servers
@@ -192,7 +192,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 31615
 # SSRS Interactive Reports
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Matt Van Horn
 ## Title: SSRS Interactive Reports
@@ -201,7 +201,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31944
 # Light-up BI Dashboards with Cool Visualizations
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mark Kromer
 ## Title: Light-up BI Dashboards with Cool Visualizations
@@ -210,7 +210,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32629
 # SQL Server Development Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Roman Rehak
 ## Title: SQL Server Development Tips and Tricks
@@ -220,7 +220,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 32679
 # I/O I/O It's Why My Server's Slow - Waits  Queues
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Robert Pearl
 ## Title: I/O I/O It's Why My Server's Slow - Waits  Queues
@@ -231,7 +231,7 @@ In addition, Robert will scratch the surface and introduce performance tuning us
 #  
 #### SessionID: 32839
 # Keeping your SQL Code DRY 
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Scott Weinstein
 ## Title: Keeping your SQL Code DRY 
@@ -241,7 +241,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 32840
 # Get your database under version control
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Scott Weinstein
 ## Title: Get your database under version control
@@ -252,7 +252,7 @@ With a few concepts and tools build into every version of SQL Server I'll show h
 #  
 #### SessionID: 32946
 # The Modern Resume: Building Your Brand
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Steve Jones
 ## Title: The Modern Resume: Building Your Brand
@@ -261,7 +261,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33070
 # Performance Tuning Made Easy
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Thomas LaRock
 ## Title: Performance Tuning Made Easy
@@ -270,7 +270,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 33169
 # 12 ways to write POORLY performing MDX queries
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Steve Simon
 ## Title: 12 ways to write POORLY performing MDX queries
@@ -279,7 +279,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33171
 # Handling data anomalies with Data Profiling Tasks
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Steve Simon
 ## Title: Handling data anomalies with Data Profiling Tasks
@@ -288,7 +288,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33781
 # The Benefits of SQL Azure
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Aaron King
 ## Title: The Benefits of SQL Azure
@@ -297,7 +297,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 33939
 # Attribute Discretization in Analysis Services
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: William E Pearson III
 ## Title: Attribute Discretization in Analysis Services
@@ -306,7 +306,7 @@ Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33940
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#59---New-York-City-2010)
+#### [Back to calendar](#SQLSaturday-#59-New-York-City-2010)
 Event Date: 20-11-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX

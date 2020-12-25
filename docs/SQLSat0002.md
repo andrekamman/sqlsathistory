@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 34920
 # TSQL Basics for Developers
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 3
 ## Speaker: AJ Warnock
 ## Title: TSQL Basics for Developers
@@ -41,7 +41,7 @@ If approved, i will provide a better and more complete session description.
 #  
 #### SessionID: 34935
 # Transactional Replication For Beginners
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Andy Warren
 ## Title: Transactional Replication For Beginners
@@ -50,7 +50,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 2
 #  
 #### SessionID: 34984
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Brian Knight
 ## Title: Introduction to SQL Server Integration Services
@@ -59,7 +59,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 1
 #  
 #### SessionID: 34985
 # Performance Tuning SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Brian Knight
 ## Title: Performance Tuning SQL Server Integration Services
@@ -68,7 +68,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 1
 #  
 #### SessionID: 35026
 # SMO (SQL Management Objects) for SQL Server 2005
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 4
 ## Speaker: Brandon Kelly
 ## Title: SMO (SQL Management Objects) for SQL Server 2005
@@ -77,7 +77,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 4
 #  
 #### SessionID: 35053
 # Persisting and Tracking Workflows Using SqlServer
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 5
 ## Speaker: Bayer White
 ## Title: Persisting and Tracking Workflows Using SqlServer
@@ -86,7 +86,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 5
 #  
 #### SessionID: 35080
 # SQL Server Data Access Tips and Techniques
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 4
 ## Speaker: David Hayden
 ## Title: SQL Server Data Access Tips and Techniques
@@ -95,7 +95,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 4
 #  
 #### SessionID: 35168
 # Index Selection for Performance  Tuning
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 5
 ## Speaker: Jeffrey Garbus
 ## Title: Index Selection for Performance  Tuning
@@ -104,7 +104,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 5
 #  
 #### SessionID: 35169
 # Writing Determinate Functions
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 5
 ## Speaker: Jeffrey Garbus
 ## Title: Writing Determinate Functions
@@ -113,7 +113,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 5
 #  
 #### SessionID: 35189
 # Migrating DTS Packages to SSIS
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Jessica Moss
 ## Title: Migrating DTS Packages to SSIS
@@ -122,7 +122,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 1
 #  
 #### SessionID: 35190
 # Logging in SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 3
 ## Speaker: Jessica Moss
 ## Title: Logging in SQL Server Integration Services
@@ -131,7 +131,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 3
 #  
 #### SessionID: 35197
 # Database Change Management with Team System
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Jim Blizzard
 ## Title: Database Change Management with Team System
@@ -140,7 +140,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 2
 #  
 #### SessionID: 35327
 # 20 Things You Need to Know About Analysis Services
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 4
 ## Speaker: Mark Landry
 ## Title: 20 Things You Need to Know About Analysis Services
@@ -160,7 +160,7 @@ Resources
 #  
 #### SessionID: 35341
 # Normalization and all that
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 5
 ## Speaker: Patrick Thompson
 ## Title: Normalization and all that
@@ -169,7 +169,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 5
 #  
 #### SessionID: 35380
 # Tips and Tricks for Reporting Services
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 3
 ## Speaker: Pam Shaw
 ## Title: Tips and Tricks for Reporting Services
@@ -178,7 +178,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 3
 #  
 #### SessionID: 35389
 # Introduction to Master Data Management (MDM)
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Rushabh Mehta
 ## Title: Introduction to Master Data Management (MDM)
@@ -187,7 +187,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 1
 #  
 #### SessionID: 35390
 # Managing SSIS Packages
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Rushabh Mehta
 ## Title: Managing SSIS Packages
@@ -196,7 +196,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 1
 #  
 #### SessionID: 35395
 # Designing an Analysis Services cube
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 3
 ## Speaker: Robert Hatton
 ## Title: Designing an Analysis Services cube
@@ -205,7 +205,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 3
 #  
 #### SessionID: 35407
 # Comparing Python and PowerShell DBA Scripting
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Ronald Dameron
 ## Title: Comparing Python and PowerShell DBA Scripting
@@ -214,7 +214,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 2
 #  
 #### SessionID: 35430
 # SQL Server CLR
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Shawn Weisfeld
 ## Title: SQL Server CLR
@@ -223,7 +223,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 2
 #  
 #### SessionID: 35464
 # Getting With it With With (and Over On It, Too)
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 5
 ## Speaker: Terry Bomberger
 ## Title: Getting With it With With (and Over On It, Too)
@@ -232,7 +232,7 @@ Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 5
 #  
 #### SessionID: 35519
 # SQL Server 2005 Reporting Solutions
-#### [Back to calendar](#SQLSaturday-#2---Tampa-2008)
+#### [Back to calendar](#SQLSaturday-#2-Tampa-2008)
 Event Date: 16-02-2008 - Session time: 00:00:00 - Track: Room 3
 ## Speaker: Xidan Zhou
 ## Title: SQL Server 2005 Reporting Solutions

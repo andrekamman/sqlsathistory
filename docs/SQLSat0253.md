@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13928
 # SQL Server 2014, fique por dentro!
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Academico
 ## Speaker: Erika Madeira
 ## Title: SQL Server 2014, fique por dentro!
@@ -34,7 +34,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Academico
 #  
 #### SessionID: 14240
 # Conhecendo o SQL Server Express - A edição gratuita do SQL Server
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Academico
 ## Speaker: Marcelo Fernandes
 ## Title: Conhecendo o SQL Server Express - A edição gratuita do SQL Server
@@ -43,7 +43,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Academico
 #  
 #### SessionID: 14241
 # Dividir e conquistar - Particionando de tabelas no SQL Server
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Desenvolvimento
 ## Speaker: Marcelo Fernandes
 ## Title: Dividir e conquistar - Particionando de tabelas no SQL Server
@@ -52,7 +52,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Desenvolvimento
 #  
 #### SessionID: 14708
 # Concorrência Otimista, Read Committed Snapshot (RCSI) e Snapshot Isolation Level
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Desenvolvimento
 ## Speaker: Gustavo Maia Aguiar
 ## Title: Concorrência Otimista, Read Committed Snapshot (RCSI) e Snapshot Isolation Level
@@ -61,7 +61,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Desenvolvimento
 #  
 #### SessionID: 14709
 # Dicas e Recomendações para o Exame 70-461 (Querying Microsoft SQL Server 2012)
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Desenvolvimento
 ## Speaker: Gustavo Maia Aguiar
 ## Title: Dicas e Recomendações para o Exame 70-461 (Querying Microsoft SQL Server 2012)
@@ -70,7 +70,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Desenvolvimento
 #  
 #### SessionID: 19124
 # Usando o Hyper-v 2012 para virtualização de SGBDs
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Administração
 ## Speaker: Leandro Ribeiro
 ## Title: Usando o Hyper-v 2012 para virtualização de SGBDs
@@ -79,7 +79,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Administração
 #  
 #### SessionID: 19257
 # In-Memory OLAP a.k.a ColumnStore Index
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: In-Memory OLAP a.k.a ColumnStore Index
@@ -88,7 +88,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 19258
 # In-Memory OLTP a.k.a Hekaton
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Desenvolvimento
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: In-Memory OLTP a.k.a Hekaton
@@ -97,7 +97,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Desenvolvimento
 #  
 #### SessionID: 19307
 # Cenários de corrupção no SQL Server
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Administração
 ## Speaker: Luciano Moreira
 ## Title: Cenários de corrupção no SQL Server
@@ -106,7 +106,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Administração
 #  
 #### SessionID: 19308
 # Do MTA ao MCM*, carreira SQL Server e DBA multiplataforma
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Luciano Moreira
 ## Title: Do MTA ao MCM*, carreira SQL Server e DBA multiplataforma
@@ -115,7 +115,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 19309
 # Windows Server Failover Cluster Fundamentals
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Administração
 ## Speaker: Luciano Moreira
 ## Title: Windows Server Failover Cluster Fundamentals
@@ -124,7 +124,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Administração
 #  
 #### SessionID: 21450
 # Provendo Alta Disponibilidade para suas Apps em Pequenos, Médios e Grandes Ambientes com SQL2012
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Administração
 ## Speaker: Nilton Pinheiro
 ## Title: Provendo Alta Disponibilidade para suas Apps em Pequenos, Médios e Grandes Ambientes com SQL2012
@@ -133,7 +133,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Administração
 #  
 #### SessionID: 21451
 # Troubleshooting for Microsoft SQL Server 2005/2008/2012
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Administração
 ## Speaker: Nilton Pinheiro
 ## Title: Troubleshooting for Microsoft SQL Server 2005/2008/2012
@@ -142,7 +142,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Administração
 #  
 #### SessionID: 21488
 # Primeiros passos com BI
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Academico
 ## Speaker: Diego Nogare
 ## Title: Primeiros passos com BI
@@ -151,7 +151,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Academico
 #  
 #### SessionID: 21489
 # Por onde começar no BigData??
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Diego Nogare
 ## Title: Por onde começar no BigData??
@@ -160,7 +160,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 23407
 # Índices: Introdução
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Academico
 ## Speaker: Rodrigo Ribeiro Gomes
 ## Title: Índices: Introdução
@@ -169,7 +169,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Academico
 #  
 #### SessionID: 23418
 # Mapeamento Objeto-Relacional com Entity Framework 
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Desenvolvimento
 ## Speaker: Rogério Moraes de Carvalho
 ## Title: Mapeamento Objeto-Relacional com Entity Framework 
@@ -178,7 +178,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Desenvolvimento
 #  
 #### SessionID: 23419
 # Entenda LINQ (Language-Integrated Query) e sua sintaxe na linguagem C#
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Academico
 ## Speaker: Rogério Moraes de Carvalho
 ## Title: Entenda LINQ (Language-Integrated Query) e sua sintaxe na linguagem C#
@@ -187,7 +187,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Academico
 #  
 #### SessionID: 28323
 # Self-service BI de ponta a ponta!
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Thiago Zavaschi
 ## Title: Self-service BI de ponta a ponta!
@@ -196,7 +196,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 28324
 # Analysis Services Internals
-#### [Back to calendar](#SQLSaturday-#253---Brasilia-2013)
+#### [Back to calendar](#SQLSaturday-#253-Brasilia-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Thiago Zavaschi
 ## Title: Analysis Services Internals

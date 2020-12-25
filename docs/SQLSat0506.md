@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 46020
 # SQL Server Internals: The Practical Angle - Part 1
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DBA
 ## Speaker: Dmitri Korotkevitch
 ## Title: SQL Server Internals: The Practical Angle - Part 1
@@ -56,7 +56,7 @@ This pre-conference session helps to address these issues and shows you how SQL 
 #  
 #### SessionID: 46409
 # Full day precon: Building Better SSIS Packages
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Tim Mitchell
 ## Title: Full day precon: Building Better SSIS Packages
@@ -73,7 +73,7 @@ In this full-day presentation, we will walk through each of these five facets of
 #  
 #### SessionID: 46021
 # SQL Server Internals: The Practical Angle - Part 2
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DBA
 ## Speaker: Dmitri Korotkevitch
 ## Title: SQL Server Internals: The Practical Angle - Part 2
@@ -88,7 +88,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DBA
 #  
 #### SessionID: 43099
 # Optimizing the SQL Server and Databases for large Fact Tables
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DBA
 ## Speaker: Thomas Grohser
 ## Title: Optimizing the SQL Server and Databases for large Fact Tables
@@ -99,7 +99,7 @@ We will also as a side effect explore the Mary Go Round query feature and find w
 #  
 #### SessionID: 44150
 # Going beyond SELECT *
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DEV
 ## Speaker: Eugene Meidinger
 ## Title: Going beyond SELECT *
@@ -108,7 +108,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DEV
 #  
 #### SessionID: 44734
 # Advanced SQL Server Analysis Services
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Kevin Goff
 ## Title: Advanced SQL Server Analysis Services
@@ -117,7 +117,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 #  
 #### SessionID: 45121
 # Microsoft and Big Data - An Overview of the Power Tools and more!
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: David Patrick
 ## Title: Microsoft and Big Data - An Overview of the Power Tools and more!
@@ -126,7 +126,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 #  
 #### SessionID: 47343
 # Would You Just Load Already?!  Maximizing Your SSIS Data Load
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Chris Bell
 ## Title: Would You Just Load Already?!  Maximizing Your SSIS Data Load
@@ -137,7 +137,7 @@ In this session you will learn a simple method to load data via SSIS and identif
 #  
 #### SessionID: 47790
 # SSRS Episode  2016 - The Reports Awaken!
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Ayman El-Ghazali
 ## Title: SSRS Episode  2016 - The Reports Awaken!
@@ -148,7 +148,7 @@ In English, we're going to take a look at the latest edition for SQL Server Repo
 #  
 #### SessionID: 44184
 # Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DEV
 ## Speaker: Kevin Feasel
 ## Title: Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
@@ -157,7 +157,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DEV
 #  
 #### SessionID: 44735
 # Implementing Data Warehouse Patterns with the Microsoft BI Tools
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Kevin Goff
 ## Title: Implementing Data Warehouse Patterns with the Microsoft BI Tools
@@ -166,7 +166,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 #  
 #### SessionID: 45319
 # Power BI Desktop Fundamentals
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Junaith Haja
 ## Title: Power BI Desktop Fundamentals
@@ -175,7 +175,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 #  
 #### SessionID: 45432
 # Introduction to Biml
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Tim Mitchell
 ## Title: Introduction to Biml
@@ -186,7 +186,7 @@ In this session, we'll cover the essentials of Biml. I'll discuss what it is and
 #  
 #### SessionID: 48835
 # Disaster Recovery Options with Azure
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DBA
 ## Speaker: Carlos L Chacon
 ## Title: Disaster Recovery Options with Azure
@@ -195,7 +195,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DBA
 #  
 #### SessionID: 48858
 # SQL Auditing - Getting A View Of Yesterday's Activity Today
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DBA
 ## Speaker: Brad McKuhen
 ## Title: SQL Auditing - Getting A View Of Yesterday's Activity Today
@@ -204,7 +204,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DBA
 #  
 #### SessionID: 49257
 # PolyBase: I now pronounce you SQL and Hadoop
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Ayman El-Ghazali
 ## Title: PolyBase: I now pronounce you SQL and Hadoop
@@ -213,7 +213,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 #  
 #### SessionID: 43113
 # Use Biml to Automate SSIS Design Patterns
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Andy Leonard
 ## Title: Use Biml to Automate SSIS Design Patterns
@@ -228,7 +228,7 @@ In this session, you will learn:
 #  
 #### SessionID: 44783
 # Setting up your BI Infrastructure
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Paresh Motiwala
 ## Title: Setting up your BI Infrastructure
@@ -257,7 +257,7 @@ We will look at the best practices involved in creating a BI infrastructure. Tim
 #  
 #### SessionID: 45515
 # Top 10 Wait Types Everyone Should Know
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DBA
 ## Speaker: Janis Griffin
 ## Title: Top 10 Wait Types Everyone Should Know
@@ -266,7 +266,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DBA
 #  
 #### SessionID: 45605
 # Getting to know U-SQL
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Azhagappan Arunachalam
 ## Title: Getting to know U-SQL
@@ -275,7 +275,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 #  
 #### SessionID: 46044
 # Performance Monitoring for Analysis Services
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DBA
 ## Speaker: Stan Geiger
 ## Title: Performance Monitoring for Analysis Services
@@ -284,7 +284,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DBA
 #  
 #### SessionID: 46698
 # Making Predictions with Microsoft Data Mining Tools
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Mark Hudson
 ## Title: Making Predictions with Microsoft Data Mining Tools
@@ -293,7 +293,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 #  
 #### SessionID: 48641
 # Table Vars and Temp Tables – What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DEV
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars and Temp Tables – What you NEED to Know!
@@ -302,7 +302,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DEV
 #  
 #### SessionID: 49895
 # Microsoft Sponsor's Session
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: Other
 ## Speaker: Extra Session
 ## Title: Microsoft Sponsor's Session
@@ -311,7 +311,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: Other
 #  
 #### SessionID: 49897
 # SQL Games
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: Other
 ## Speaker: Extra Session
 ## Title: SQL Games
@@ -320,7 +320,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: Other
 #  
 #### SessionID: 50024
 # Advanced Performance Tuning Tips with Database Performance Analyzer
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: Other
 ## Speaker: Janis Griffin
 ## Title: Advanced Performance Tuning Tips with Database Performance Analyzer
@@ -329,7 +329,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: Other
 #  
 #### SessionID: 43091
 # Let's Talk About Your Model: Simple Modeling Solutions to Complex Problems
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DEV
 ## Speaker: Greg Baldini
 ## Title: Let's Talk About Your Model: Simple Modeling Solutions to Complex Problems
@@ -344,7 +344,7 @@ By the end of this talk, you should have a stronger understanding of the right q
 #  
 #### SessionID: 45183
 # Azure Machine Learning – Bringing Advanced Analytics to the Masses
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Dan Clark
 ## Title: Azure Machine Learning – Bringing Advanced Analytics to the Masses
@@ -353,7 +353,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 #  
 #### SessionID: 45434
 # Managing Security in SSIS
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Tim Mitchell
 ## Title: Managing Security in SSIS
@@ -369,7 +369,7 @@ In this presentation, we’ll discuss the security features in SQL Server Integr
 #  
 #### SessionID: 48226
 # 7 steps to better career opportunities
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: Pro
 ## Speaker: Carlos L Chacon
 ## Title: 7 steps to better career opportunities
@@ -378,7 +378,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: Pro
 #  
 #### SessionID: 48400
 # Speed Up Your SSAS Cube's Data Refresh With Dynamic Partition Processing
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Jeremy Frye
 ## Title: Speed Up Your SSAS Cube's Data Refresh With Dynamic Partition Processing
@@ -387,7 +387,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 #  
 #### SessionID: 49355
 # Data Partitioning for Database Architects and Mere Mortals
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DBA
 ## Speaker: Dmitri Korotkevitch
 ## Title: Data Partitioning for Database Architects and Mere Mortals
@@ -397,7 +397,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DBA
 #  
 #### SessionID: 44798
 # Working with SSRS Data-Driven Subscriptions 
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Ben Galluzzo
 ## Title: Working with SSRS Data-Driven Subscriptions 
@@ -408,7 +408,7 @@ We'll begin with a quick overview of what the more familiar subscription functio
 #  
 #### SessionID: 45503
 # Successfully Virtualizing SQL Server on vSphere
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: Pro
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere
@@ -417,7 +417,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: Pro
 #  
 #### SessionID: 47450
 # Dealing With Difficult Managers
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: Pro
 ## Speaker: Gigi Bell
 ## Title: Dealing With Difficult Managers
@@ -427,7 +427,7 @@ Through case studies and open discussion, we will help you determine if you inde
 #  
 #### SessionID: 49356
 # How the Grinch Stole SQL Server Performance
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DEV
 ## Speaker: Dmitri Korotkevitch
 ## Title: How the Grinch Stole SQL Server Performance
@@ -436,7 +436,7 @@ Event Date: 30-04-2016 - Session time: 15:15:00 - Track: DEV
 #  
 #### SessionID: 49892
 # Security for your BI data
-#### [Back to calendar](#SQLSaturday-#506---Baltimore---BI-Edition-2016)
+#### [Back to calendar](#SQLSaturday-#506-Baltimore-BI-Edition-2016)
 Event Date: 30-04-2016 - Session time: 15:15:00 - Track: BI
 ## Speaker: Thomas Grohser
 ## Title: Security for your BI data

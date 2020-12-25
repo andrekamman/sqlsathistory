@@ -44,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 85787
 # Power BI In a day Hands-On
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Analytics and Visualization
 ## Speaker: Ravi Kumar
 ## Title: Power BI In a day Hands-On
@@ -77,7 +77,7 @@ Pre-requisite: Please have Power
 #  
 #### SessionID: 85808
 # Keeping Your DBA Happy. Why Some Practices Drive Admins Crazy.
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: pre-con
 ## Speaker: Rick Lowe
 ## Title: Keeping Your DBA Happy. Why Some Practices Drive Admins Crazy.
@@ -92,7 +92,7 @@ Query hints, indexing, LINQ to Entities, common table expressions, looping vs se
 #  
 #### SessionID: 85910
 # Enter the Tidyverse:  R for the Data Professional
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: pre-con
 ## Speaker: Kevin Feasel
 ## Title: Enter the Tidyverse:  R for the Data Professional
@@ -103,7 +103,7 @@ Over the course of the day, we will look at several problem domains.  For databa
 #  
 #### SessionID: 85811
 # BI Infrastructure in Azure: Points to Consider
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paresh Motiwala
 ## Title: BI Infrastructure in Azure: Points to Consider
@@ -119,7 +119,7 @@ We will also learn about setting up teams and ways to train them(and yourself) i
 #  
 #### SessionID: 85857
 # Execution Plans 101
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Eugene Meidinger
 ## Title: Execution Plans 101
@@ -128,7 +128,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #  
 #### SessionID: 86170
 # Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Strategy and Architecture
 ## Speaker: Jose Chinchilla
 ## Title: Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
@@ -137,7 +137,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 86288
 # What's new in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Strategy and Architecture
 ## Speaker: Hasan Savran
 ## Title: What's new in SQL Server 2017
@@ -153,7 +153,7 @@ In-Memory Tables (NoSQL in SQL Server)
 #  
 #### SessionID: 86436
 # Encryption, Encryption, Encryption! Protect your data at the right level
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Encryption, Encryption, Encryption! Protect your data at the right level
@@ -162,7 +162,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 86749
 # Temporal Tables – The New Hotness in Data Auditing
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: John Morehouse
 ## Title: Temporal Tables – The New Hotness in Data Auditing
@@ -171,7 +171,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #  
 #### SessionID: 87502
 # Azure Managed Instances: A Primer
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mike Walsh
 ## Title: Azure Managed Instances: A Primer
@@ -182,7 +182,7 @@ Come to this session and find out. We’ll do some obligatory slides talking abo
 #  
 #### SessionID: 85777
 # 3 Ways for Getting Data from SharePoint : SSIS, Excel and Access
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: David Patrick
 ## Title: 3 Ways for Getting Data from SharePoint : SSIS, Excel and Access
@@ -191,7 +191,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #  
 #### SessionID: 85788
 # DAX 101
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: BI Information Delivery
 ## Speaker: Ravi Kumar
 ## Title: DAX 101
@@ -202,7 +202,7 @@ Currently DAX is used in Power BI and SSAS Tabular.  Attend this session to lear
 #  
 #### SessionID: 85837
 # Find and Fix those Troublesome Queries
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Allen White
 ## Title: Find and Fix those Troublesome Queries
@@ -211,7 +211,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #  
 #### SessionID: 85908
 # Eyes on the Prize:  Simple and Effective Dashboard Visualization Techniques
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Eyes on the Prize:  Simple and Effective Dashboard Visualization Techniques
@@ -220,7 +220,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 86109
 # Data Profiling or Statistics 201
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Advanced Analysis Techniques
 ## Speaker: Slava Murygin
 ## Title: Data Profiling or Statistics 201
@@ -231,7 +231,7 @@ In order to make the process faster, we will use a hidden gem of SQL Server:  St
 #  
 #### SessionID: 86703
 # How can containers for my database help me?
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Carlos L Chacon
 ## Title: How can containers for my database help me?
@@ -240,7 +240,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #  
 #### SessionID: 86727
 # SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Services?
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Rick Lowe
 ## Title: SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Services?
@@ -249,7 +249,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 85833
 # Whacha just say? Talking technology to non-technical people
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: Whacha just say? Talking technology to non-technical people
@@ -258,7 +258,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Professional Developmen
 #  
 #### SessionID: 85839
 # Get Near Realtime ETL with Service Broker
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Allen White
 ## Title: Get Near Realtime ETL with Service Broker
@@ -267,7 +267,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #  
 #### SessionID: 86031
 # How to build your career
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Professional Development
 ## Speaker: James Serra
 ## Title: How to build your career
@@ -280,7 +280,7 @@ Your first step to enhancing your career will be to attend this session!  Let me
 #  
 #### SessionID: 86056
 # SQL Graph
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Azhagappan Arunachalam
 ## Title: SQL Graph
@@ -289,7 +289,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #  
 #### SessionID: 86171
 # Become a Power BI superstar under 1 hour!
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Analytics and Visualization
 ## Speaker: Jose Chinchilla
 ## Title: Become a Power BI superstar under 1 hour!
@@ -298,7 +298,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 86629
 # Always Encrypted for Beginners
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: Always Encrypted for Beginners
@@ -307,7 +307,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 87114
 # Using distributed AGs for your migrations
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Strategy and Architecture
 ## Speaker: Elizabeth Noble
 ## Title: Using distributed AGs for your migrations
@@ -318,7 +318,7 @@ In this session I will discuss what distributed AGs are, show how to set them up
 #  
 #### SessionID: 86438
 # Successfully Virtualizing SQL Server on vSphere
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Successfully Virtualizing SQL Server on vSphere
@@ -328,7 +328,7 @@ Still, many IT architects and DBA's are hesitant of virtualizing their SQL workl
 #  
 #### SessionID: 85831
 # Networking 101: Building professional relationships
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: Networking 101: Building professional relationships
@@ -339,7 +339,7 @@ In this interactive session, we will discuss networking -- what it is, why it's 
 #  
 #### SessionID: 85905
 # Now you see it, but did you really?  Correcting visual fallacies...
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: Now you see it, but did you really?  Correcting visual fallacies...
@@ -348,7 +348,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 85906
 # Cleaning Is Half The Battle: Launching A Data Science Project
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Advanced Analysis Techniques
 ## Speaker: Kevin Feasel
 ## Title: Cleaning Is Half The Battle: Launching A Data Science Project
@@ -357,7 +357,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 85911
 # Pocket-sized SQL Server
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Other
 ## Speaker: Greg Moore
 ## Title: Pocket-sized SQL Server
@@ -367,7 +367,7 @@ At the other end of the spectrum there's an amazing amount of power available in
 #  
 #### SessionID: 85937
 # SQL Restore: Optimizing Your Data Recovery
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jamie Wick
 ## Title: SQL Restore: Optimizing Your Data Recovery
@@ -381,7 +381,7 @@ In this session, we'll answer these questions by looking at how to establish and
 #  
 #### SessionID: 86237
 # Using SQL Server 2017 Machine Learning Services to Implement Common Machine Learning Tasks
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Jon Tupitza
 ## Title: Using SQL Server 2017 Machine Learning Services to Implement Common Machine Learning Tasks
@@ -390,7 +390,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #  
 #### SessionID: 86342
 # Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
@@ -400,7 +400,7 @@ Whether you are just getting started with Azure Data Factory or looking to make 
 #  
 #### SessionID: 85812
 # How to Get and Nail Your Job Interviews
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Professional Development
 ## Speaker: Paresh Motiwala
 ## Title: How to Get and Nail Your Job Interviews
@@ -415,7 +415,7 @@ Never stop looking!
 #  
 #### SessionID: 86029
 # Big data architectures and the data lake
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: James Serra
 ## Title: Big data architectures and the data lake
@@ -424,7 +424,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 86179
 # Shaving off Microseconds
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Thomas Grohser
 ## Title: Shaving off Microseconds
@@ -433,7 +433,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #  
 #### SessionID: 86341
 # Networking 101: Getting Ready for a SQL Event
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Professional Development
 ## Speaker: Matt Cushing
 ## Title: Networking 101: Getting Ready for a SQL Event
@@ -444,7 +444,7 @@ In this session, we'll go over steps you can take before, during and after the e
 #  
 #### SessionID: 86343
 # Dimensional Modeling Design patterns beyond the basics
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design patterns beyond the basics
@@ -453,7 +453,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 86983
 # SQL Server Indexing for Developers and Accidental DBAs
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Sebastian Meine
 ## Title: SQL Server Indexing for Developers and Accidental DBAs
@@ -475,7 +475,7 @@ Don’t miss this unique session. Attend, and you might just turn into an indexi
 #  
 #### SessionID: 87037
 # What about the Data Dude? SSDT Database Projects
-#### [Back to calendar](#SQLSaturday-#814---Washington,-DC-2018)
+#### [Back to calendar](#SQLSaturday-#814-Washington,-DC-2018)
 Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
 ## Speaker: Jack Corbett
 ## Title: What about the Data Dude? SSDT Database Projects

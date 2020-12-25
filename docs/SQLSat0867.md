@@ -74,7 +74,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 89739
 # Azure Data Factory Ingestion Framework
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Sean Forgatch
 ## Title: Azure Data Factory Ingestion Framework
@@ -85,7 +85,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 89861
 # A Map To Success:  Functional Programming For Database Developers
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Kevin Feasel
 ## Title: A Map To Success:  Functional Programming For Database Developers
@@ -96,7 +96,7 @@ In this talk, we will focus on one functional programming language, F#.  We will
 #  
 #### SessionID: 89933
 # All (Data) Things Considered: The Lean Coffee Workshop
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Stuart Ainsworth
 ## Title: All (Data) Things Considered: The Lean Coffee Workshop
@@ -105,7 +105,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 91001
 # Documentation: A Habit and a Culture
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Jay Bienvenu
 ## Title: Documentation: A Habit and a Culture
@@ -114,7 +114,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 92661
 # Monster Text Manipulation: Regular Expressions for the DBA
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
@@ -128,7 +128,7 @@ Here you’ll learn:
 #  
 #### SessionID: 93605
 # Catching up with Angular 7
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Ryan Richard
 ## Title: Catching up with Angular 7
@@ -137,7 +137,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: .NET Dev
 #  
 #### SessionID: 93876
 # PowerShell + SQL Server = Better Together
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Mike Robbins
 ## Title: PowerShell + SQL Server = Better Together
@@ -146,7 +146,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 93911
 # Common SQL Server Mistakes and How to Avoid Them
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Tim Radney
 ## Title: Common SQL Server Mistakes and How to Avoid Them
@@ -155,7 +155,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 94223
 # The Latest SharePoint Features: What They Are and Why They Matter
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Office 365/SharePoint
 ## Speaker: Theresa Eller
 ## Title: The Latest SharePoint Features: What They Are and Why They Matter
@@ -164,7 +164,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Office 365/SharePoint
 #  
 #### SessionID: 94435
 # Big Data Clusters for the Absolute Beginner
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Mohammad Darab
 ## Title: Big Data Clusters for the Absolute Beginner
@@ -180,7 +180,7 @@ Topics include:
 #  
 #### SessionID: 94492
 # Why There are No Code Problems, Only Organizational Culture Problems
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Agile
 ## Speaker: Andrew Barefield
 ## Title: Why There are No Code Problems, Only Organizational Culture Problems
@@ -198,7 +198,7 @@ Join to discuss
 #  
 #### SessionID: 94739
 # Consumer Bill of Rights: Your Data and Changing Privacy Laws in 2020
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: CIO/Executive
 ## Speaker: Aaron Kruger
 ## Title: Consumer Bill of Rights: Your Data and Changing Privacy Laws in 2020
@@ -207,7 +207,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: CIO/Executive
 #  
 #### SessionID: 94821
 # PrequelSaturday - How the SQL Server community is about to make your job easier
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Beginner
 ## Speaker: Scott Minar
 ## Title: PrequelSaturday - How the SQL Server community is about to make your job easier
@@ -220,7 +220,7 @@ If you're new to SQL Server, when you get back to work on Monday you'll know how
 #  
 #### SessionID: 94985
 # STEMupBR Track for Kids
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: STEMupBR Kid's Track
 ## Speaker: Kenneth Neal
 ## Title: STEMupBR Track for Kids
@@ -236,7 +236,7 @@ Want to volunteer? https://foundationebr.org/brstem/volunteer.html
 #  
 #### SessionID: 97975
 # How to become a SQLSaturday Presenter, Step-by-Step
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Peter Doyle
 ## Title: How to become a SQLSaturday Presenter, Step-by-Step
@@ -245,7 +245,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 89859
 # Approaching Zero:  Minimizing Downtime During Deployments
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Kevin Feasel
 ## Title: Approaching Zero:  Minimizing Downtime During Deployments
@@ -254,7 +254,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Development
 #  
 #### SessionID: 89995
 # Database People and DevOps: The Fundamentals
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Agile
 ## Speaker: Stuart Ainsworth
 ## Title: Database People and DevOps: The Fundamentals
@@ -268,7 +268,7 @@ Topics covered include:
 #  
 #### SessionID: 90140
 # Mastering your Resume  Interview: Tips to Get Hired
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Mastering your Resume  Interview: Tips to Get Hired
@@ -277,7 +277,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 92660
 # Loading SQL Server Data with Powershell
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Sean McCown
 ## Title: Loading SQL Server Data with Powershell
@@ -286,7 +286,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 92893
 # Azure Databricks (ADB) and the Traditional DBA
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Rodney Landrum
 ## Title: Azure Databricks (ADB) and the Traditional DBA
@@ -295,7 +295,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 93216
 # Ethical Computing
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: AI and Machine Learning
 ## Speaker: Shermaine Haymer
 ## Title: Ethical Computing
@@ -305,7 +305,7 @@ What will prevent the technological imperative from pushing us into places we do
 #  
 #### SessionID: 93910
 # Azure for the Production Data Professional
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Tim Radney
 ## Title: Azure for the Production Data Professional
@@ -322,7 +322,7 @@ If you are interested in learning about Azure for your SQL Server environment, t
 #  
 #### SessionID: 93915
 # Containers - You Better Get on Board!
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Windows Server/Virtualization
 ## Speaker: Anthony Nocentino
 ## Title: Containers - You Better Get on Board!
@@ -331,7 +331,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Windows Server/Virtuali
 #  
 #### SessionID: 93994
 # Intro to Query Store
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Tracy Boggiano
 ## Title: Intro to Query Store
@@ -344,7 +344,7 @@ In this session, we will walk through the features of Query Store, so you can un
 #  
 #### SessionID: 94222
 # Are You Ready for the Modern SharePoint Experience?
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Office 365/SharePoint
 ## Speaker: Theresa Eller
 ## Title: Are You Ready for the Modern SharePoint Experience?
@@ -353,7 +353,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Office 365/SharePoint
 #  
 #### SessionID: 94226
 # Everything I know about UX I learned at Disney
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Ricky Tucker
 ## Title: Everything I know about UX I learned at Disney
@@ -362,7 +362,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 94680
 # A Beginner's Guide to Seven Practices that Kill Performance
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Beginner
 ## Speaker: Andy Yun
 ## Title: A Beginner's Guide to Seven Practices that Kill Performance
@@ -375,7 +375,7 @@ When you leave, you'll be armed with knowledge and tools to tackle your current 
 #  
 #### SessionID: 94822
 # Serverless Cloud Computing: Promises and Pitfalls
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: CIO/Executive
 ## Speaker: Jonathan Schellack
 ## Title: Serverless Cloud Computing: Promises and Pitfalls
@@ -392,7 +392,7 @@ This session will provide useful insights for IT decision-makers exploring where
 #  
 #### SessionID: 96758
 # Customizable User Interfaces with Dynamic Components in Angular
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: John Harvey
 ## Title: Customizable User Interfaces with Dynamic Components in Angular
@@ -401,7 +401,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: .NET Dev
 #  
 #### SessionID: 89738
 # 3 Keys to Successful Consulting
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Mohammad Darab
 ## Title: 3 Keys to Successful Consulting
@@ -416,7 +416,7 @@ Whether you are interested in starting your own business, or a consultant wantin
 #  
 #### SessionID: 89753
 # Be Part of the Solution with Automation
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Agile
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Be Part of the Solution with Automation
@@ -426,7 +426,7 @@ The session will demonstrate the reasons to automate, along with the steps requi
 #  
 #### SessionID: 89876
 # How to index, win friends, and influence people.
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Beginner
 ## Speaker: Jonathan Jefferson
 ## Title: How to index, win friends, and influence people.
@@ -435,7 +435,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Beginner
 #  
 #### SessionID: 89965
 # Designing Data Intensive Cloud Native Applications
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Samir Behara
 ## Title: Designing Data Intensive Cloud Native Applications
@@ -448,7 +448,7 @@ If you are a Data professional, Software Engineer or Architect, come join me in 
 #  
 #### SessionID: 90138
 # Giving Feedback: How to Effectively Communicate to your Employees
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Giving Feedback: How to Effectively Communicate to your Employees
@@ -457,7 +457,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 92657
 # The SQL Career Roadmap for Women (and Men)
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Jennifer McCown
 ## Title: The SQL Career Roadmap for Women (and Men)
@@ -469,7 +469,7 @@ How can I get a database job with no experience? What’s the best way to learn 
 #  
 #### SessionID: 92864
 # Lightning Fast Backups
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Robert Canzonire
 ## Title: Lightning Fast Backups
@@ -478,7 +478,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 93881
 # Writing Award Winning PowerShell Functions and Script Modules
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Mike Robbins
 ## Title: Writing Award Winning PowerShell Functions and Script Modules
@@ -487,7 +487,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 93899
 # Building, Debugging  Deploying Containerized .NET Apps in Visual Studio
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Jeremy Cronan
 ## Title: Building, Debugging  Deploying Containerized .NET Apps in Visual Studio
@@ -496,7 +496,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: .NET Dev
 #  
 #### SessionID: 94123
 # Microsoft Teams: Building a Project Management Solution in Office 365
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Office 365/SharePoint
 ## Speaker: Cody Gros
 ## Title: Microsoft Teams: Building a Project Management Solution in Office 365
@@ -505,7 +505,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Office 365/SharePoint
 #  
 #### SessionID: 94657
 # Simple_Safety™ > $0 Tools-n-Tips for Non-Techies and Techies
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: CIO/Executive
 ## Speaker: Zane Moreign
 ## Title: Simple_Safety™ > $0 Tools-n-Tips for Non-Techies and Techies
@@ -524,7 +524,7 @@ SPEAKER DISCLOSURE:  https://www.linkedin.com/today/author/ZaneMoreign
 #  
 #### SessionID: 94800
 # Managing ETL Change using BIMLScript
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Russel Loski
 ## Title: Managing ETL Change using BIMLScript
@@ -533,7 +533,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 95253
 # Birds of a Feather Conversations in the Auditorium
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Mike Huguet
 ## Title: Birds of a Feather Conversations in the Auditorium
@@ -552,7 +552,7 @@ PowerApps
 #  
 #### SessionID: 95742
 # A Self-Tuning Fill Factor Technique for SQL Server
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Mike Byrd
 ## Title: A Self-Tuning Fill Factor Technique for SQL Server
@@ -561,7 +561,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 89832
 # Careers in IT - Baton Rouge 2019
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Career
 ## Speaker: Michael Viron
 ## Title: Careers in IT - Baton Rouge 2019
@@ -570,7 +570,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Career
 #  
 #### SessionID: 89985
 # Building Quality Web APIs with Asp.Net Core
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Bryan McCoy
 ## Title: Building Quality Web APIs with Asp.Net Core
@@ -579,7 +579,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: .NET Dev
 #  
 #### SessionID: 90141
 # Organizational Behavior Voodoo! Learn how to get more effort out of your team.
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Organizational Behavior Voodoo! Learn how to get more effort out of your team.
@@ -588,7 +588,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 92654
 # Beginning T-SQL
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Beginner
 ## Speaker: Jennifer McCown
 ## Title: Beginning T-SQL
@@ -597,7 +597,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Beginner
 #  
 #### SessionID: 92899
 # TDD With No Tears
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Agile
 ## Speaker: George Mauer
 ## Title: TDD With No Tears
@@ -608,7 +608,7 @@ This talk goes deep into the philosophy behind unit testing in general and test-
 #  
 #### SessionID: 93657
 # Become a T-SQL Pivoting Ninja in 59.9 Minutes Or Less
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Peter Doyle
 ## Title: Become a T-SQL Pivoting Ninja in 59.9 Minutes Or Less
@@ -622,7 +622,7 @@ Come join me, and by the end of this session, you will have the knowledge to lev
 #  
 #### SessionID: 93892
 # Feeling SETSy?
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Balaji Nedurumalli
 ## Title: Feeling SETSy?
@@ -631,7 +631,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 93916
 # Inside Kubernetes - An Architectural Deep Dive
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Windows Server/Virtualization
 ## Speaker: Anthony Nocentino
 ## Title: Inside Kubernetes - An Architectural Deep Dive
@@ -640,7 +640,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Windows Server/Virtuali
 #  
 #### SessionID: 93993
 # Using Open Source Software to Collect Performance Metrics
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Tracy Boggiano
 ## Title: Using Open Source Software to Collect Performance Metrics
@@ -653,7 +653,7 @@ Attendees will see how easy it is to get good performance data and visualize it 
 #  
 #### SessionID: 94050
 # Azure Automation with PowerShell: Scripting Away the Problems of Yesterday
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Kevin Cefalu
 ## Title: Azure Automation with PowerShell: Scripting Away the Problems of Yesterday
@@ -662,7 +662,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 94637
 # Communicating with Non -Techies
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: David Reid
 ## Title: Communicating with Non -Techies
@@ -671,7 +671,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 94799
 # Let it Flow:  Data Flows in Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Russel Loski
 ## Title: Let it Flow:  Data Flows in Azure Data Factory
@@ -680,7 +680,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 89744
 # Climbing the SQL Server Index B-Tree
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Mike Byrd
 ## Title: Climbing the SQL Server Index B-Tree
@@ -699,7 +699,7 @@ performance, and the right indexes will give your application a big performance 
 #  
 #### SessionID: 89752
 # Taming of the Shrew - Optimizing Power BI
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: PowerBI
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Taming of the Shrew - Optimizing Power BI
@@ -715,7 +715,7 @@ Understand when a problem is really a problem.
 #  
 #### SessionID: 92834
 # Employee On-boarding - building business solutions in modern SharePoint
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Office 365/SharePoint
 ## Speaker: Cody Gros
 ## Title: Employee On-boarding - building business solutions in modern SharePoint
@@ -724,7 +724,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Office 365/SharePoint
 #  
 #### SessionID: 93859
 # 7.5 Steps to Social Media Marketing Domination for Employees, Entrepreneurs and Aspiring Influencers
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Career
 ## Speaker: Peter Doyle
 ## Title: 7.5 Steps to Social Media Marketing Domination for Employees, Entrepreneurs and Aspiring Influencers
@@ -737,7 +737,7 @@ At the end of the session, you will be equipped with the tools, resources, and e
 #  
 #### SessionID: 94219
 # Developer's Intro. to Cosmos DB
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Brandon Brockhoeft
 ## Title: Developer's Intro. to Cosmos DB
@@ -746,7 +746,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: .NET Dev
 #  
 #### SessionID: 94681
 # T-SQL Tips  Tricks to Make Your Life Easier!
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Beginner
 ## Speaker: Andy Yun
 ## Title: T-SQL Tips  Tricks to Make Your Life Easier!
@@ -759,7 +759,7 @@ This session targets both developers and DBAs; the only prerequisites are the de
 #  
 #### SessionID: 94753
 # Monitoring SQL Server with Telegraf/InfluxDB/Grafana -- Lessons from the Trenches
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Tom Shaw
 ## Title: Monitoring SQL Server with Telegraf/InfluxDB/Grafana -- Lessons from the Trenches
@@ -776,7 +776,7 @@ The topics I will address include:
 #  
 #### SessionID: 94778
 # The Game Master's Guide to People Management
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Stacy Vicknair
 ## Title: The Game Master's Guide to People Management
@@ -787,7 +787,7 @@ As much as some might want to draw a line between work and play, there is much t
 #  
 #### SessionID: 94779
 # Goodbye Classes: Writing React the Functional Way
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Alexander Lemkin
 ## Title: Goodbye Classes: Writing React the Functional Way
@@ -802,7 +802,7 @@ A reasonable familiarity with JavaScript is expected, as well as Node and npm ar
 #  
 #### SessionID: 94790
 # How to Develop Without a Designer
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Rebecca Milazzo
 ## Title: How to Develop Without a Designer
@@ -811,7 +811,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 94986
 # STEMupBR Kid's Showcase
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: STEMupBR Kid's Track
 ## Speaker: Kenneth Neal
 ## Title: STEMupBR Kid's Showcase
@@ -820,7 +820,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: STEMupBR Kid's Track
 #  
 #### SessionID: 94993
 # Extend Azure DevOps with a Custom PowerShell-based Pipeline Task
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Mike Huguet
 ## Title: Extend Azure DevOps with a Custom PowerShell-based Pipeline Task
@@ -831,7 +831,7 @@ Mike Huguet is a Senior Software Engineering Lead on the PowerApps product devel
 #  
 #### SessionID: 95252
 # GDPR: Does your organization need to comply?
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: CIO/Executive
 ## Speaker: John Graff
 ## Title: GDPR: Does your organization need to comply?
@@ -840,7 +840,7 @@ Event Date: 17-08-2019 - Session time: 14:45:00 - Track: CIO/Executive
 #  
 #### SessionID: 95655
 # Improve Dist`d System  Web App Performance Using In-Memory Cache
-#### [Back to calendar](#SQLSaturday-#867---Baton-Rouge-2019)
+#### [Back to calendar](#SQLSaturday-#867-Baton-Rouge-2019)
 Event Date: 17-08-2019 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: oscar garcia
 ## Title: Improve Dist`d System  Web App Performance Using In-Memory Cache

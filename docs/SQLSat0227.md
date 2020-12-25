@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10825
 # SQL 2012 Table Compression
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Table Compression
@@ -32,7 +32,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 11252
 # “Indexing” Encrypted Data
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Chris Bell
 ## Title: “Indexing” Encrypted Data
@@ -41,7 +41,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 11434
 # 10 Things all BI System Administrators Should Know
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Robert Davis
 ## Title: 10 Things all BI System Administrators Should Know
@@ -52,7 +52,7 @@ Fortunately, I've been administering BI systems for several years, and I have le
 #  
 #### SessionID: 11547
 # Check Engine Lights
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Chris Skorlinski
 ## Title: Check Engine Lights
@@ -62,7 +62,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 11913
 # Visualizing Data with Reporting Services
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Christopher Price
 ## Title: Visualizing Data with Reporting Services
@@ -71,7 +71,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 12550
 # Database Health and Performance
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Klee
 ## Title: Database Health and Performance
@@ -80,7 +80,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14744
 # What to look for in Execution Plans
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Grant Fritchey
 ## Title: What to look for in Execution Plans
@@ -89,7 +89,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16614
 # The Transaction Log – Beginner's Mind
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jeremy Carroll
 ## Title: The Transaction Log – Beginner's Mind
@@ -99,7 +99,7 @@ Well, welcome to the “The Transaction Log – Beginner's Mind”. In one hour,
 #  
 #### SessionID: 17361
 # SSIS Programming Using .NET
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jorge Novo
 ## Title: SSIS Programming Using .NET
@@ -108,7 +108,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17524
 # SSRS: On Premises or Azure? What's the difference?
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Josh Luedeman
 ## Title: SSRS: On Premises or Azure? What's the difference?
@@ -117,7 +117,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 18009
 # Being the Swiss Army Knife of DB Pros
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Brian Kelley
 ## Title: Being the Swiss Army Knife of DB Pros
@@ -126,7 +126,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 18924
 # Full automation of the installation of and Hyper-V VM - (W2012 / SQL2012).Core –PoSh 3.0 Workflows
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Laerte Junior
 ## Title: Full automation of the installation of and Hyper-V VM - (W2012 / SQL2012).Core –PoSh 3.0 Workflows
@@ -135,7 +135,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20372
 # DBA Task Automation: Unleash the PowerShell Hero in You!
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Michael Wells
 ## Title: DBA Task Automation: Unleash the PowerShell Hero in You!
@@ -144,7 +144,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20697
 # Temporary Insanity
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Michael Femenella
 ## Title: Temporary Insanity
@@ -153,7 +153,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24490
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -162,7 +162,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 24621
 # OnPremise to Azure
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Shannon Lowder
 ## Title: OnPremise to Azure
@@ -172,7 +172,7 @@ During this talk I'll walk you through the process actually used to migrate a cl
 #  
 #### SessionID: 27690
 # Table Vars  Temp Tables - What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
@@ -181,7 +181,7 @@ Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9577
 # Building Your Professional Development Plan
-#### [Back to calendar](#SQLSaturday-#227---Charleston-2013)
+#### [Back to calendar](#SQLSaturday-#227-Charleston-2013)
 Event Date: 12-10-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Andy Warren
 ## Title: Building Your Professional Development Plan

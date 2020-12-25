@@ -15,7 +15,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 98264
 # dbatools and Power BI walked into a bar
-#### [Back to calendar](#SQLSaturday-#925---Porto,-Portugal-2019)
+#### [Back to calendar](#SQLSaturday-#925-Porto,-Portugal-2019)
 Event Date: 23-11-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Cláudio Silva
 ## Title: dbatools and Power BI walked into a bar
@@ -30,7 +30,7 @@ I will show how you can save the information gathered by dbatools on a central d
 #  
 #### SessionID: 99012
 # "DAX" the way to do it
-#### [Back to calendar](#SQLSaturday-#925---Porto,-Portugal-2019)
+#### [Back to calendar](#SQLSaturday-#925-Porto,-Portugal-2019)
 Event Date: 23-11-2019 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Pedro Reis
 ## Title: "DAX" the way to do it
@@ -48,7 +48,7 @@ In this session you will learn:
 #  
 #### SessionID: 98061
 # Batch Execution Mode on Rowstore Indexes
-#### [Back to calendar](#SQLSaturday-#925---Porto,-Portugal-2019)
+#### [Back to calendar](#SQLSaturday-#925-Porto,-Portugal-2019)
 Event Date: 23-11-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Niko Neugebauer
 ## Title: Batch Execution Mode on Rowstore Indexes
@@ -59,7 +59,7 @@ Learn with me how and when it will function, and which challenges we shall meet 
 #  
 #### SessionID: 98104
 # PowerBI: From Zero to Hero
-#### [Back to calendar](#SQLSaturday-#925---Porto,-Portugal-2019)
+#### [Back to calendar](#SQLSaturday-#925-Porto,-Portugal-2019)
 Event Date: 23-11-2019 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: Dennes Torres
 ## Title: PowerBI: From Zero to Hero
@@ -68,7 +68,7 @@ Event Date: 23-11-2019 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 98142
 # SQL Server  Kubernetes
-#### [Back to calendar](#SQLSaturday-#925---Porto,-Portugal-2019)
+#### [Back to calendar](#SQLSaturday-#925-Porto,-Portugal-2019)
 Event Date: 23-11-2019 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment  DevOps
 ## Speaker: Andrew Pruski
 ## Title: SQL Server  Kubernetes
@@ -89,7 +89,7 @@ This session is aimed at SQL Server DBAs and Developers who want to learn the wh
 #  
 #### SessionID: 98762
 # Analysis Services - And the journey goes on...
-#### [Back to calendar](#SQLSaturday-#925---Porto,-Portugal-2019)
+#### [Back to calendar](#SQLSaturday-#925-Porto,-Portugal-2019)
 Event Date: 23-11-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development, Administration, Information Delivery
 ## Speaker: Gabi Münster
 ## Title: Analysis Services - And the journey goes on...
@@ -101,7 +101,7 @@ What does this mean in regards to strategic positioning?
 #  
 #### SessionID: 98039
 # SQL Server 2019 what's new for the DBA's
-#### [Back to calendar](#SQLSaturday-#925---Porto,-Portugal-2019)
+#### [Back to calendar](#SQLSaturday-#925-Porto,-Portugal-2019)
 Event Date: 23-11-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ivan Campos
 ## Title: SQL Server 2019 what's new for the DBA's
@@ -110,7 +110,7 @@ Event Date: 23-11-2019 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 99852
 # Feel at Home in Power BI Online
-#### [Back to calendar](#SQLSaturday-#925---Porto,-Portugal-2019)
+#### [Back to calendar](#SQLSaturday-#925-Porto,-Portugal-2019)
 Event Date: 23-11-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development, Administration, Information Delivery
 ## Speaker: Rui Romano
 ## Title: Feel at Home in Power BI Online
@@ -121,7 +121,7 @@ A lot of best practices and tips to be shared though the session.
 #  
 #### SessionID: 98252
 # Azure Database Migration Service
-#### [Back to calendar](#SQLSaturday-#925---Porto,-Portugal-2019)
+#### [Back to calendar](#SQLSaturday-#925-Porto,-Portugal-2019)
 Event Date: 23-11-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Pedro Sousa
 ## Title: Azure Database Migration Service
@@ -131,7 +131,7 @@ At this session, we discuss the several scenarios available with this tool and s
 #  
 #### SessionID: 98763
 # Continuous Intelligence... What's This All About?
-#### [Back to calendar](#SQLSaturday-#925---Porto,-Portugal-2019)
+#### [Back to calendar](#SQLSaturday-#925-Porto,-Portugal-2019)
 Event Date: 23-11-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development, Administration, Information Delivery
 ## Speaker: Gabi Münster
 ## Title: Continuous Intelligence... What's This All About?

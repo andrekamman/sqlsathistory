@@ -14,7 +14,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10417
 # Accelerated BI Growth with Power View  PowerPivot
-#### [Back to calendar](#SQLSaturday-#138---Sydney-2012)
+#### [Back to calendar](#SQLSaturday-#138-Sydney-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Smaller room
 ## Speaker: Bhavik Merchant
 ## Title: Accelerated BI Growth with Power View  PowerPivot
@@ -23,7 +23,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Smaller room
 #  
 #### SessionID: 12148
 # Database Development  Agile: Strange Bedfellows?
-#### [Back to calendar](#SQLSaturday-#138---Sydney-2012)
+#### [Back to calendar](#SQLSaturday-#138-Sydney-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Smaller room
 ## Speaker: Daniel Nolan
 ## Title: Database Development  Agile: Strange Bedfellows?
@@ -32,7 +32,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Smaller room
 #  
 #### SessionID: 14721
 # Killer Real-World PowerPivot Examples II
-#### [Back to calendar](#SQLSaturday-#138---Sydney-2012)
+#### [Back to calendar](#SQLSaturday-#138-Sydney-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Larger room
 ## Speaker: Grant Paisley
 ## Title: Killer Real-World PowerPivot Examples II
@@ -41,7 +41,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Larger room
 #  
 #### SessionID: 14823
 # Better Together: Merge, Partitioning, ColumnStore 
-#### [Back to calendar](#SQLSaturday-#138---Sydney-2012)
+#### [Back to calendar](#SQLSaturday-#138-Sydney-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Larger room
 ## Speaker: Greg Low
 ## Title: Better Together: Merge, Partitioning, ColumnStore 
@@ -50,7 +50,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Larger room
 #  
 #### SessionID: 16901
 # DirectQuery vs Vertipaq mode in SSAS Tabular Model
-#### [Back to calendar](#SQLSaturday-#138---Sydney-2012)
+#### [Back to calendar](#SQLSaturday-#138-Sydney-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Smaller room
 ## Speaker: Julie Koesmarno
 ## Title: DirectQuery vs Vertipaq mode in SSAS Tabular Model
@@ -59,7 +59,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Smaller room
 #  
 #### SessionID: 22063
 # The Dark Art of Performance Tuning
-#### [Back to calendar](#SQLSaturday-#138---Sydney-2012)
+#### [Back to calendar](#SQLSaturday-#138-Sydney-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Larger room
 ## Speaker: Peter Ward
 ## Title: The Dark Art of Performance Tuning
@@ -68,7 +68,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Larger room
 #  
 #### SessionID: 23202
 # Analytic T-SQL Functions in 2012
-#### [Back to calendar](#SQLSaturday-#138---Sydney-2012)
+#### [Back to calendar](#SQLSaturday-#138-Sydney-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Larger room
 ## Speaker: Rob Farley
 ## Title: Analytic T-SQL Functions in 2012
@@ -77,7 +77,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Larger room
 #  
 #### SessionID: 23384
 #  BI Architecture with SQL 2012  SharePoint 2010
-#### [Back to calendar](#SQLSaturday-#138---Sydney-2012)
+#### [Back to calendar](#SQLSaturday-#138-Sydney-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Larger room
 ## Speaker: Rod Colledge
 ## Title:  BI Architecture with SQL 2012  SharePoint 2010
@@ -86,7 +86,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Larger room
 #  
 #### SessionID: 27662
 # Keeping the light's on with SQL 2012 Always On
-#### [Back to calendar](#SQLSaturday-#138---Sydney-2012)
+#### [Back to calendar](#SQLSaturday-#138-Sydney-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Smaller room
 ## Speaker: Warwick Rudd
 ## Title: Keeping the light's on with SQL 2012 Always On

@@ -49,7 +49,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10136
 # SQL Internals , Recovery Modes, and Backups! OH MY
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Admin
 ## Speaker: Bradley Ball
 ## Title: SQL Internals , Recovery Modes, and Backups! OH MY
@@ -58,7 +58,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Admin
 #  
 #### SessionID: 10473
 # SSRS in ASP.Net Application
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Reporting
 ## Speaker: David Liebman
 ## Title: SSRS in ASP.Net Application
@@ -67,7 +67,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Reporting
 #  
 #### SessionID: 11837
 # Transitioning from SQL Trace to Extended Events
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Perf Tuning
 ## Speaker: Jack Corbett
 ## Title: Transitioning from SQL Trace to Extended Events
@@ -76,7 +76,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Perf Tuning
 #  
 #### SessionID: 11981
 # SSIS Moving Beyond the Script Task  Script Compon
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Christopher Price
 ## Title: SSIS Moving Beyond the Script Task  Script Compon
@@ -85,7 +85,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 11982
 # Introduction to Master Data Services 2012 
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Christopher Price
 ## Title: Introduction to Master Data Services 2012 
@@ -94,7 +94,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 12013
 # LinkedIn for SQL Server Professionals
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Career Skills
 ## Speaker: Craig Purnell
 ## Title: LinkedIn for SQL Server Professionals
@@ -104,7 +104,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Career Skills
 #  
 #### SessionID: 13275
 # Database Backend - Between Ground and Clouds
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Cloud
 ## Speaker: Dmitri Korotkevitch
 ## Title: Database Backend - Between Ground and Clouds
@@ -113,7 +113,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Cloud
 #  
 #### SessionID: 13694
 # Best Practices Are Not Just Hypothetical
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Admin
 ## Speaker: Ed Watson
 ## Title: Best Practices Are Not Just Hypothetical
@@ -122,7 +122,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Admin
 #  
 #### SessionID: 14026
 # Free tools from the SQL Server Community
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Admin
 ## Speaker: Eric Wisdahl
 ## Title: Free tools from the SQL Server Community
@@ -132,7 +132,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Admin
 #  
 #### SessionID: 14062
 # Partitioning for Perf  Management of Large Tables
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Perf Tuning
 ## Speaker: Eddie Wuerch
 ## Title: Partitioning for Perf  Management of Large Tables
@@ -141,7 +141,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Perf Tuning
 #  
 #### SessionID: 14846
 # SQL Server Data Tools, What can you do for me?
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Cloud
 ## Speaker: Guillermo Caicedo Santiago
 ## Title: SQL Server Data Tools, What can you do for me?
@@ -150,7 +150,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Cloud
 #  
 #### SessionID: 15682
 # Looney Tuner?  No, there IS a method to my madness
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Perf Tuning
 ## Speaker: Janis Griffin
 ## Title: Looney Tuner?  No, there IS a method to my madness
@@ -159,7 +159,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Perf Tuning
 #  
 #### SessionID: 15781
 # PowerShell for Beginners
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Career Skills
 ## Speaker: Jason Hofferle
 ## Title: PowerShell for Beginners
@@ -168,7 +168,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Career Skills
 #  
 #### SessionID: 16127
 # PowerPivot+Powerview=Self-service BI Revolution
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Jose Chinchilla
 ## Title: PowerPivot+Powerview=Self-service BI Revolution
@@ -177,7 +177,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 16128
 # Real-world Fuzzy matching  with SSIS
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Jose Chinchilla
 ## Title: Real-world Fuzzy matching  with SSIS
@@ -186,7 +186,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 16298
 # Rewriting Bad Code 
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Cloud
 ## Speaker: Jeffrey Garbus
 ## Title: Rewriting Bad Code 
@@ -195,7 +195,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Cloud
 #  
 #### SessionID: 16955
 # Look who's Blocking
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Perf Tuning
 ## Speaker: Jose L. Rivera
 ## Title: Look who's Blocking
@@ -204,7 +204,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Perf Tuning
 #  
 #### SessionID: 17347
 # Surviving Your Sql Developer Interview
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Career Skills
 ## Speaker: Jonathon Moorman
 ## Title: Surviving Your Sql Developer Interview
@@ -214,7 +214,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Career Skills
 #  
 #### SessionID: 17450
 # Introduction to Project Management
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Career Skills
 ## Speaker: Richie Rump
 ## Title: Introduction to Project Management
@@ -223,7 +223,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Career Skills
 #  
 #### SessionID: 17662
 # Wish you could live the glamorous consulting life?
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Career Skills
 ## Speaker: Juan Soto
 ## Title: Wish you could live the glamorous consulting life?
@@ -235,7 +235,7 @@ In this session you will lean sales, marketing and management strategies to get 
 #  
 #### SessionID: 18173
 # SQL Server Internals  Architecture
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Perf Tuning
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals  Architecture
@@ -244,7 +244,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Perf Tuning
 #  
 #### SessionID: 18622
 # Introduction to Power View
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Devin Knight
 ## Title: Introduction to Power View
@@ -253,7 +253,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 18999
 # Change Tracking and Change Data Capture Deep Dive
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Luis Figueroa
 ## Title: Change Tracking and Change Data Capture Deep Dive
@@ -263,7 +263,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 19904
 # Basic Intro to PowerShell for the DBA (1/2)
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Cloud
 ## Speaker: Maximo Trinidad
 ## Title: Basic Intro to PowerShell for the DBA (1/2)
@@ -272,7 +272,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Cloud
 #  
 #### SessionID: 19971
 # Complex DAX Functions
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mike Davis
 ## Title: Complex DAX Functions
@@ -281,7 +281,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 20668
 # BI for the Masses Deux, PowerPivot 2012
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Michael Antonovich
 ## Title: BI for the Masses Deux, PowerPivot 2012
@@ -290,7 +290,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 21497
 # Data Conversions - Steps, Best Practices  More
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Norm Bowen
 ## Title: Data Conversions - Steps, Best Practices  More
@@ -299,7 +299,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 22352
 # Taking the Scary out of Monster Reports
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Reporting
 ## Speaker: Pam Shaw
 ## Title: Taking the Scary out of Monster Reports
@@ -309,7 +309,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Reporting
 #  
 #### SessionID: 22353
 # Tips  Tricks for dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Reporting
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic SSRS Reports
@@ -319,7 +319,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Reporting
 #  
 #### SessionID: 23140
 # Intro to SQL Server Performance Tuning
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Perf Tuning
 ## Speaker: Robert Biddle
 ## Title: Intro to SQL Server Performance Tuning
@@ -328,7 +328,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Perf Tuning
 #  
 #### SessionID: 23166
 # The server side of Reporting Services
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Reporting
 ## Speaker: Robert Hatton
 ## Title: The server side of Reporting Services
@@ -337,7 +337,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Reporting
 #  
 #### SessionID: 23316
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Admin
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -346,7 +346,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Admin
 #  
 #### SessionID: 23386
 # DBA Repository Update Using SSIS and SSRS
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Reporting
 ## Speaker: Rodney Landrum
 ## Title: DBA Repository Update Using SSIS and SSRS
@@ -355,7 +355,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Reporting
 #  
 #### SessionID: 24107
 # SQL Azure vs. Azure Tables –Clearing The Confusion
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Cloud
 ## Speaker: Scott Klein
 ## Title: SQL Azure vs. Azure Tables –Clearing The Confusion
@@ -364,7 +364,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Cloud
 #  
 #### SessionID: 24717
 # Data Visualization in Reporting Services
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Reporting
 ## Speaker: Stacia Varga
 ## Title: Data Visualization in Reporting Services
@@ -373,7 +373,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Reporting
 #  
 #### SessionID: 24902
 # Designing An Efficient Replication Topology
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Admin
 ## Speaker: Chad Churchwell
 ## Title: Designing An Efficient Replication Topology
@@ -382,7 +382,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Admin
 #  
 #### SessionID: 26542
 # Job Common Sense - Don't be that Guy!!
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Career Skills
 ## Speaker: Tom  Brenneman
 ## Title: Job Common Sense - Don't be that Guy!!
@@ -391,7 +391,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Career Skills
 #  
 #### SessionID: 26842
 # Running SQL Server 2012 as a Windows Azure VM
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Cloud
 ## Speaker: Timothy McAliley
 ## Title: Running SQL Server 2012 as a Windows Azure VM
@@ -400,7 +400,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Cloud
 #  
 #### SessionID: 9564
 # Building Your Professional Development Plan
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Career Skills
 ## Speaker: Andy Warren
 ## Title: Building Your Professional Development Plan
@@ -409,7 +409,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Career Skills
 #  
 #### SessionID: 9566
 # How Active Directory Affects SQL Server
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Andy Warren
 ## Title: How Active Directory Affects SQL Server
@@ -418,7 +418,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 9567
 # Object Level Recovery Made Easy
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Andy Warren
 ## Title: Object Level Recovery Made Easy
@@ -427,7 +427,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 9877
 # Database Creation Process
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Admin
 ## Speaker: Arvin Meyer
 ## Title: Database Creation Process
@@ -436,7 +436,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Admin
 #  
 #### SessionID: 9906
 # SSAS Tabular and Self Service BI - TheDynamDAX Duo
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Anthony Sammartino
 ## Title: SSAS Tabular and Self Service BI - TheDynamDAX Duo
@@ -445,7 +445,7 @@ Event Date: 29-09-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 9992
 # Manage SQL Server 2012 on Server Core w/PowerShell
-#### [Back to calendar](#SQLSaturday-#151---Orlando-2012)
+#### [Back to calendar](#SQLSaturday-#151-Orlando-2012)
 Event Date: 29-09-2012 - Session time: 00:00:00 - Track: Admin
 ## Speaker: Allen White
 ## Title: Manage SQL Server 2012 on Server Core w/PowerShell

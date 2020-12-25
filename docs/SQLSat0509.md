@@ -20,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 48424
 # Hitting the SQL Server "Go Faster" Button
-#### [Back to calendar](#SQLSaturday-#509---Brisbane-2016)
+#### [Back to calendar](#SQLSaturday-#509-Brisbane-2016)
 Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Douglas
 ## Title: Hitting the SQL Server "Go Faster" Button
@@ -30,7 +30,7 @@ Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49247
 # Azure Machine Learning: From Design to Integration
-#### [Back to calendar](#SQLSaturday-#509---Brisbane-2016)
+#### [Back to calendar](#SQLSaturday-#509-Brisbane-2016)
 Event Date: 28-05-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Peter Myers
 ## Title: Azure Machine Learning: From Design to Integration
@@ -43,7 +43,7 @@ This session has been specifically designed to describe Machine Learning fundame
 #  
 #### SessionID: 49254
 # SQL Server 2016 -  Real Time Operational Analytics - "Real" Game changer
-#### [Back to calendar](#SQLSaturday-#509---Brisbane-2016)
+#### [Back to calendar](#SQLSaturday-#509-Brisbane-2016)
 Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Nagaraj Venkatesan
 ## Title: SQL Server 2016 -  Real Time Operational Analytics - "Real" Game changer
@@ -59,7 +59,7 @@ and would involve interesting demos show casing the gains using SQL Server 2016 
 #  
 #### SessionID: 48364
 # TempDB: The forgotten pillar of performance tuning
-#### [Back to calendar](#SQLSaturday-#509---Brisbane-2016)
+#### [Back to calendar](#SQLSaturday-#509-Brisbane-2016)
 Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamish Watson
 ## Title: TempDB: The forgotten pillar of performance tuning
@@ -74,7 +74,7 @@ We will then use these best practices to optimize our instance and performance t
 #  
 #### SessionID: 48573
 # An Introduction to R and R Services
-#### [Back to calendar](#SQLSaturday-#509---Brisbane-2016)
+#### [Back to calendar](#SQLSaturday-#509-Brisbane-2016)
 Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Craig Bryden
 ## Title: An Introduction to R and R Services
@@ -84,7 +84,7 @@ In this session I will provide an introduction to the R language as well as disc
 #  
 #### SessionID: 49244
 # Building HA/DR Solutions with SQL Server and Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#509---Brisbane-2016)
+#### [Back to calendar](#SQLSaturday-#509-Brisbane-2016)
 Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dandy Weyn
 ## Title: Building HA/DR Solutions with SQL Server and Azure SQL Database
@@ -95,7 +95,7 @@ Become the DBA of the future!
 #  
 #### SessionID: 44929
 # Boost your SQL Server performance with Delayed Durability and BPE
-#### [Back to calendar](#SQLSaturday-#509---Brisbane-2016)
+#### [Back to calendar](#SQLSaturday-#509-Brisbane-2016)
 Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Manohar Punna
 ## Title: Boost your SQL Server performance with Delayed Durability and BPE
@@ -104,7 +104,7 @@ Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48867
 # Database Corruption - Advanced Recovery Techniques
-#### [Back to calendar](#SQLSaturday-#509---Brisbane-2016)
+#### [Back to calendar](#SQLSaturday-#509-Brisbane-2016)
 Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: Database Corruption - Advanced Recovery Techniques
@@ -116,7 +116,7 @@ Warning: Hex Editors and DBCC Page dumps will be involved!
 #  
 #### SessionID: 49243
 # Power BI - Getting It Right - A Full Walkthrough
-#### [Back to calendar](#SQLSaturday-#509---Brisbane-2016)
+#### [Back to calendar](#SQLSaturday-#509-Brisbane-2016)
 Event Date: 28-05-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Dandy Weyn
 ## Title: Power BI - Getting It Right - A Full Walkthrough
@@ -130,7 +130,7 @@ By the end of this session you will have a full understanding of the Power BI of
 #  
 #### SessionID: 44334
 # Temporal Databases in Microsoft SQL server 2016
-#### [Back to calendar](#SQLSaturday-#509---Brisbane-2016)
+#### [Back to calendar](#SQLSaturday-#509-Brisbane-2016)
 Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amit Arora
 ## Title: Temporal Databases in Microsoft SQL server 2016
@@ -145,7 +145,7 @@ This presentation aims to go deep into Temporal Databases (requirements, use cas
 #  
 #### SessionID: 46936
 # Cortana Intelligence Suite; Where the Magic Happens
-#### [Back to calendar](#SQLSaturday-#509---Brisbane-2016)
+#### [Back to calendar](#SQLSaturday-#509-Brisbane-2016)
 Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Reza Rad
 ## Title: Cortana Intelligence Suite; Where the Magic Happens
@@ -154,7 +154,7 @@ Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 46961
 # Query Store Overview and Architecture
-#### [Back to calendar](#SQLSaturday-#509---Brisbane-2016)
+#### [Back to calendar](#SQLSaturday-#509-Brisbane-2016)
 Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Victor Isakov
 ## Title: Query Store Overview and Architecture
@@ -165,7 +165,7 @@ In this session we will examine Query Store, examine it's architecture, configur
 #  
 #### SessionID: 48360
 # Automated Data Validation with SQL Server using nUnit
-#### [Back to calendar](#SQLSaturday-#509---Brisbane-2016)
+#### [Back to calendar](#SQLSaturday-#509-Brisbane-2016)
 Event Date: 28-05-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan de Sousa
 ## Title: Automated Data Validation with SQL Server using nUnit
@@ -174,7 +174,7 @@ Event Date: 28-05-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 48704
 # Moving from Profiler to Extended Events.
-#### [Back to calendar](#SQLSaturday-#509---Brisbane-2016)
+#### [Back to calendar](#SQLSaturday-#509-Brisbane-2016)
 Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Martin Catherall
 ## Title: Moving from Profiler to Extended Events.
@@ -186,7 +186,7 @@ An understanding of profiler would be advantageous but is definitely not require
 #  
 #### SessionID: 49157
 # Automated and Repeatable Test Cases for SQL Server Development.
-#### [Back to calendar](#SQLSaturday-#509---Brisbane-2016)
+#### [Back to calendar](#SQLSaturday-#509-Brisbane-2016)
 Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Stefan Riedel
 ## Title: Automated and Repeatable Test Cases for SQL Server Development.

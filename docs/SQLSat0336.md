@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11575
 # Understanding SQL Server Parallelism
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Christian Bolton
 ## Title: Understanding SQL Server Parallelism
@@ -44,7 +44,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 12086
 # Session Details not available
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: n/a n/a
 ## Title: Session Details not available
@@ -53,7 +53,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 13159
 #  SQL Server Deep Dive
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Denis Reznik
 ## Title:  SQL Server Deep Dive
@@ -62,7 +62,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 13722
 # Power BI: what, how, why?
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Edgar Walther
 ## Title: Power BI: what, how, why?
@@ -71,7 +71,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 13805
 # No more waiting – an introduction to SQL Server wait statistics
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Enrico van de Laar
 ## Title: No more waiting – an introduction to SQL Server wait statistics
@@ -80,7 +80,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14800
 # Building a Database Deployment Pipeline
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Grant Fritchey
 ## Title: Building a Database Deployment Pipeline
@@ -89,7 +89,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 14801
 # Getting Started Reading Execution Plans
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Grant Fritchey
 ## Title: Getting Started Reading Execution Plans
@@ -98,7 +98,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14959
 # SQL Server PDW (APS) vs SQL Server, let's see the big differences
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Henk Van der Valk
 ## Title: SQL Server PDW (APS) vs SQL Server, let's see the big differences
@@ -107,7 +107,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 15109
 # Improve your Database Performance in Seven Simple Steps
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Hugo Kornelis
 ## Title: Improve your Database Performance in Seven Simple Steps
@@ -118,7 +118,7 @@ This session will show you seven simple things, that might alleviate most of you
 #  
 #### SessionID: 15114
 # Advanced Indexing
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Hugo Kornelis
 ## Title: Advanced Indexing
@@ -128,7 +128,7 @@ Hugo will explore advanced features such as included columns, indexed views, and
 #  
 #### SessionID: 16243
 # Who Moved My Tuple--Columnstore Indexes in SQL Server 2014.
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Joseph D'Antoni
 ## Title: Who Moved My Tuple--Columnstore Indexes in SQL Server 2014.
@@ -139,7 +139,7 @@ Data Warehouse workloads can be very large and taxing on your database server. W
 #  
 #### SessionID: 16434
 # A One Hour Data Analysts Toolkit: using R and PowerBI
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jen Stirrup
 ## Title: A One Hour Data Analysts Toolkit: using R and PowerBI
@@ -148,7 +148,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16926
 # From Impaired To Insightful Geospatial Reporting
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Julie Koesmarno
 ## Title: From Impaired To Insightful Geospatial Reporting
@@ -157,7 +157,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16927
 # Understanding Query Modes in Tabular Model
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Julie Koesmarno
 ## Title: Understanding Query Modes in Tabular Model
@@ -168,7 +168,7 @@ Using live demo, this session will outline advantages and disadvantages between 
 #  
 #### SessionID: 17782
 # Get started with troubleshooting SQL Server 
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Justin Langford
 ## Title: Get started with troubleshooting SQL Server 
@@ -177,7 +177,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 18236
 # Top 10 Admininistrator Mistakes on SQL Server
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kevin Kline
 ## Title: Top 10 Admininistrator Mistakes on SQL Server
@@ -186,7 +186,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18516
 # Latches, Spinlocks, and Lock Free Data Structures
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Klaus Aschenbrenner
 ## Title: Latches, Spinlocks, and Lock Free Data Structures
@@ -195,7 +195,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 18521
 # Troubleshooting TempDb
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Klaus Aschenbrenner
 ## Title: Troubleshooting TempDb
@@ -204,7 +204,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18936
 # Writing your solutions using PowerShell
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Laerte Junior
 ## Title: Writing your solutions using PowerShell
@@ -219,7 +219,7 @@ It is time to you look at the future right ?
 #  
 #### SessionID: 19156
 # How do you create nice/horrible packages?
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Joost van Rossum
 ## Title: How do you create nice/horrible packages?
@@ -229,7 +229,7 @@ I have seen my share of unreadable and unmaintainable SSIS packages. Last year I
 #  
 #### SessionID: 19477
 # Power Query in Modern Corporate BI
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Marco Russo
 ## Title: Power Query in Modern Corporate BI
@@ -238,7 +238,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21097
 # Storage For the DBA
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Denny Cherry
 ## Title: Storage For the DBA
@@ -247,7 +247,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21396
 # Load Testing With SQL Server Tools
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Neil Hambly
 ## Title: Load Testing With SQL Server Tools
@@ -258,7 +258,7 @@ Come learn about the native tools at our disposal for performing these important
 #  
 #### SessionID: 22154
 # 1, 2, 3, … 100. How to manage many SQL Servers the easy way?
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Pieter Vanhove
 ## Title: 1, 2, 3, … 100. How to manage many SQL Servers the easy way?
@@ -267,7 +267,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23357
 # Get ready, here is the cloud
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Robert Hartskeerl
 ## Title: Get ready, here is the cloud
@@ -276,7 +276,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 24744
 # Building a BI Solution in the Cloud 
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Stacia Varga
 ## Title: Building a BI Solution in the Cloud 
@@ -287,7 +287,7 @@ In this session, you will learn about the available Microsoft Azure components a
 #  
 #### SessionID: 24804
 # Digging Into the .Net SqlClient
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Mladen Prajdić
 ## Title: Digging Into the .Net SqlClient
@@ -296,7 +296,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 27022
 # Usage of R in SQL Server for better data understanding
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Tomaž Kaštrun
 ## Title: Usage of R in SQL Server for better data understanding
@@ -311,7 +311,7 @@ Session will focus mainly on:
 #  
 #### SessionID: 27079
 # Top 10 issues for SQL Server Healthchecks
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Peter ter Braake
 ## Title: Top 10 issues for SQL Server Healthchecks
@@ -320,7 +320,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 35852
 # Unlock the Power of Pivot Tables
-#### [Back to calendar](#SQLSaturday-#336---Holland-2014)
+#### [Back to calendar](#SQLSaturday-#336-Holland-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Sander van der hoeff
 ## Title: Unlock the Power of Pivot Tables

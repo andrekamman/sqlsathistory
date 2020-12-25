@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 29905
 # Aplicação prática de gráficos menos comuns do SSRS
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 3
 ## Speaker: Diego Nogare
 ## Title: Aplicação prática de gráficos menos comuns do SSRS
@@ -33,7 +33,7 @@ Nesta sessão você poderá ver a criação e utilização de alguns dos gráfic
 #  
 #### SessionID: 29982
 # Novidades do Denali para Integration Services
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 3
 ## Speaker: Andressa Martins
 ## Title: Novidades do Denali para Integration Services
@@ -42,7 +42,7 @@ Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 3
 #  
 #### SessionID: 30178
 # Windows Functions and Denali
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 2
 ## Speaker: Fabiano Amorim
 ## Title: Windows Functions and Denali
@@ -52,7 +52,7 @@ This session describes the improvements in Windows Functions T-SQL support from 
 #  
 #### SessionID: 30186
 # Protegendo seu banco com o TDE
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 1
 ## Speaker: Marcelo Fernandes
 ## Title: Protegendo seu banco com o TDE
@@ -62,7 +62,7 @@ Em seu ambieten você pode tomar vários cuidados para proteger seu ambiente, ma
 #  
 #### SessionID: 30187
 # Melhores práticas para seu Datawarehouse
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 1
 ## Speaker: Felipe Ferreira
 ## Title: Melhores práticas para seu Datawarehouse
@@ -72,7 +72,7 @@ Vamos ver como podemos otimizar nosso ambiente, nossa base de dados e nossas té
 #  
 #### SessionID: 30258
 # Replicação em ambientes mistos com SSB, XML e .NET
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 1
 ## Speaker: Gustavo Maia Aguiar
 ## Title: Replicação em ambientes mistos com SSB, XML e .NET
@@ -81,7 +81,7 @@ Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 1
 #  
 #### SessionID: 31484
 # Hey PowerShell eventing, você pode me notificar ?
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 1
 ## Speaker: Laerte Junior
 ## Title: Hey PowerShell eventing, você pode me notificar ?
@@ -92,7 +92,7 @@ Será uma sessão de alto nivel técnico, então preparem seus neurônios. Prome
 #  
 #### SessionID: 31521
 # Escalando soluções de BD com SQL Azure Federations
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 2
 ## Speaker: Lucas Romão
 ## Title: Escalando soluções de BD com SQL Azure Federations
@@ -102,7 +102,7 @@ Nesta sessão você aprenderá o que são: Federations, Federation Members, Fede
 #  
 #### SessionID: 31522
 # Por dentro dos wait types no SQL Server
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 2
 ## Speaker: Luciano Moreira
 ## Title: Por dentro dos wait types no SQL Server
@@ -112,7 +112,7 @@ Nota: não é uma sessão introdutória, então se usarmos xEvents ou outros rec
 #  
 #### SessionID: 32083
 # SQL Denali AlwaysOn: Alta Disponibilidade para...
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 2
 ## Speaker: Nilton Pinheiro
 ## Title: SQL Denali AlwaysOn: Alta Disponibilidade para...
@@ -122,7 +122,7 @@ Implementado no SQL Server Denali, AlwaysOn é uma nova solução de Alta Dispon
 #  
 #### SessionID: 32229
 # Aplicando o poder de uma GPU no SQL Server
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 3
 ## Speaker: Mauro Pichiliani
 ## Title: Aplicando o poder de uma GPU no SQL Server
@@ -131,7 +131,7 @@ Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 3
 #  
 #### SessionID: 32544
 # Criando novas aplicações de BI usando Crescent
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 2
 ## Speaker: Rob Ranches
 ## Title: Criando novas aplicações de BI usando Crescent
@@ -140,7 +140,7 @@ Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 2
 #  
 #### SessionID: 32624
 # T-SQL Alphabet Soup
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 1
 ## Speaker: Rodney Landrum
 ## Title: T-SQL Alphabet Soup
@@ -150,7 +150,7 @@ Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 1
 #  
 #### SessionID: 33815
 #  DBA MANTENHA O SEU FOCO!! SQL SERVER + SYSTEM CE
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 3
 ## Speaker: Daniel CAMILLO 
 ## Title:  DBA MANTENHA O SEU FOCO!! SQL SERVER + SYSTEM CE
@@ -159,7 +159,7 @@ Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 3
 #  
 #### SessionID: 33842
 # Alta Disponibilidade com o SQL Server R2
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 3
 ## Speaker: Vitor Fava
 ## Title: Alta Disponibilidade com o SQL Server R2
@@ -170,7 +170,7 @@ Nesta sessão discutiremos as principais soluções de alta disponibilidade de b
 #  
 #### SessionID: 33851
 # As novidades do SQL Server Analysis Services
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 1
 ## Speaker: Viviane Ribeiro
 ## Title: As novidades do SQL Server Analysis Services
@@ -179,7 +179,7 @@ Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 1
 #  
 #### SessionID: 34530
 # Programação DAX Avançada
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 2
 ## Speaker: Thiago Zavaschi
 ## Title: Programação DAX Avançada
@@ -189,7 +189,7 @@ Nesta sessão vamos aprender a como programar em DAX (já com as modificações 
 #  
 #### SessionID: 34611
 # Criando Bancos com MS "Juneau"
-#### [Back to calendar](#SQLSaturday-#100---São-Paulo-2011)
+#### [Back to calendar](#SQLSaturday-#100-São-Paulo-2011)
 Event Date: 26-11-2011 - Session time: 00:00:00 - Track: Sala 3
 ## Speaker: Dennes Torres
 ## Title: Criando Bancos com MS "Juneau"

@@ -60,7 +60,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28372
 # Management Studio Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Aaron Bertrand
 ## Title: Management Studio Tips  Tricks
@@ -69,7 +69,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 28386
 # PowerShell Awesomesauce
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Aaron Nelson
 ## Title: PowerShell Awesomesauce
@@ -78,7 +78,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 28400
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals
@@ -87,7 +87,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 28401
 # Virtualize This!
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Aaron Nelson
 ## Title: Virtualize This!
@@ -96,7 +96,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 28561
 # Practical Performance Monitoring in SQL Server
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Andrew Kelly
 ## Title: Practical Performance Monitoring in SQL Server
@@ -105,7 +105,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 28562
 # Collecting and Analyzing File  Wait Statistics
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Andrew Kelly
 ## Title: Collecting and Analyzing File  Wait Statistics
@@ -114,7 +114,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 28563
 # Maximizing Plan Re-use in SQL 2008
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Andrew Kelly
 ## Title: Maximizing Plan Re-use in SQL 2008
@@ -123,7 +123,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 28643
 # Know Your IO:  Gain Better Performance with Ease
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Amy Styers
 ## Title: Know Your IO:  Gain Better Performance with Ease
@@ -132,7 +132,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 28654
 # Build Your First SSIS Package
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Andy Leonard
 ## Title: Build Your First SSIS Package
@@ -141,7 +141,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 28657
 # Applied SSIS Design Patterns
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 9
 ## Speaker: Andy Leonard
 ## Title: Applied SSIS Design Patterns
@@ -151,7 +151,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 9
 #  
 #### SessionID: 28726
 # Introduction to SQL Server Statistics
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Andy Warren
 ## Title: Introduction to SQL Server Statistics
@@ -161,7 +161,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 28881
 # Compression in SQL 2008 
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Ashton Hobbs
 ## Title: Compression in SQL 2008 
@@ -170,7 +170,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 28896
 # Automate SQL Server Administration with PowerShell
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Allen White
 ## Title: Automate SQL Server Administration with PowerShell
@@ -179,7 +179,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 28898
 # Gather SQL Server Performance Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Allen White
 ## Title: Gather SQL Server Performance Data with PowerShell
@@ -188,7 +188,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 29252
 # What's New In SSRS 2008
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 9
 ## Speaker: Brett Tomson
 ## Title: What's New In SSRS 2008
@@ -197,7 +197,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 9
 #  
 #### SessionID: 29253
 # Growing Pains - A Cautionary Tale
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Brett Tomson
 ## Title: Growing Pains - A Cautionary Tale
@@ -206,7 +206,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 29503
 # Troubleshooting Transactional Replication
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Chris Skorlinski
 ## Title: Troubleshooting Transactional Replication
@@ -215,7 +215,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29504
 # Comparison of Replication Technologies
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Chris Skorlinski
 ## Title: Comparison of Replication Technologies
@@ -224,7 +224,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29707
 # De-mystifying Query Plan Analysis
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Dave Turpin
 ## Title: De-mystifying Query Plan Analysis
@@ -233,7 +233,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 30095
 # SQL Azure: Data in the Cloud is a Good Thing
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Evan Basalik
 ## Title: SQL Azure: Data in the Cloud is a Good Thing
@@ -242,7 +242,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30096
 # Diagnosing Connectivity Issues with SQL Server
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Evan Basalik
 ## Title: Diagnosing Connectivity Issues with SQL Server
@@ -251,7 +251,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30419
 # Partitioning in SQL Server 2005/2008
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jana Sattainathan
 ## Title: Partitioning in SQL Server 2005/2008
@@ -274,7 +274,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30432
 # Tuna Helper for SQL Server DBA's
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Janis Griffin
 ## Title: Tuna Helper for SQL Server DBA's
@@ -283,7 +283,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 30674
 # SQL Server Performance Outside the Box
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Jeffry Schwartz
 ## Title: SQL Server Performance Outside the Box
@@ -292,7 +292,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 30802
 # Incorporating Reporting Services into SharePoint
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 9
 ## Speaker: Jessica Moss
 ## Title: Incorporating Reporting Services into SharePoint
@@ -301,7 +301,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 9
 #  
 #### SessionID: 30803
 # Adding SSRS Report Bells and Whistles
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 9
 ## Speaker: Jessica Moss
 ## Title: Adding SSRS Report Bells and Whistles
@@ -310,7 +310,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 9
 #  
 #### SessionID: 30826
 # Things Your Mom Never Told You About SSMS
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jason Hall
 ## Title: Things Your Mom Never Told You About SSMS
@@ -320,7 +320,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30923
 # Creating Custom Components for SSIS
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: John Welch
 ## Title: Creating Custom Components for SSIS
@@ -329,7 +329,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 30926
 # Delivering BI Solutions Rapidly using Vulcan
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 9
 ## Speaker: John Welch
 ## Title: Delivering BI Solutions Rapidly using Vulcan
@@ -338,7 +338,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 9
 #  
 #### SessionID: 31262
 # The (Solid) State Of Drive Technology
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Kendal Van Dyke
 ## Title: The (Solid) State Of Drive Technology
@@ -347,7 +347,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 31263
 # Getting started in blogging and technical speaking
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kendal Van Dyke
 ## Title: Getting started in blogging and technical speaking
@@ -357,7 +357,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 31304
 # Top 10 Mistakes on SQL Server
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Kline
 ## Title: Top 10 Mistakes on SQL Server
@@ -370,7 +370,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31305
 # SQL Server Internals  Architecture
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals  Architecture
@@ -385,7 +385,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 31704
 # Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Alejandro Mesa
 ## Title: Parameter Sniffing
@@ -394,7 +394,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 31883
 # As a DBA, Where do I start?
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Mike Walsh
 ## Title: As a DBA, Where do I start?
@@ -403,7 +403,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 31884
 # You Can Improve Your Own SQL Code
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mike Walsh
 ## Title: You Can Improve Your Own SQL Code
@@ -412,7 +412,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31979
 # Storage for the DBA
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Denny Cherry
 ## Title: Storage for the DBA
@@ -421,7 +421,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31980
 # Is Virtualization is a good choice for SQL Server?
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Denny Cherry
 ## Title: Is Virtualization is a good choice for SQL Server?
@@ -430,7 +430,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 31981
 # SQL Server Service Broker in the Real World
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Denny Cherry
 ## Title: SQL Server Service Broker in the Real World
@@ -441,7 +441,7 @@ In this session we’ll dig into how to configure the service broker for not onl
 #  
 #### SessionID: 32276
 # SQL Server Data Compression  101
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Patrick LeBlanc
 ## Title: SQL Server Data Compression  101
@@ -451,7 +451,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 32360
 # SSIS, You, and ETL Architecture
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 9
 ## Speaker: Rafael Salas
 ## Title: SSIS, You, and ETL Architecture
@@ -460,7 +460,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 9
 #  
 #### SessionID: 32533
 # Harnessing PowerPivot
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Rushabh Mehta
 ## Title: Harnessing PowerPivot
@@ -469,7 +469,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 32534
 # Building PowerPivot Models and Reports
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Rushabh Mehta
 ## Title: Building PowerPivot Models and Reports
@@ -478,7 +478,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32884
 # SQL Server Performance Related DMVs
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Sergey Pustovit
 ## Title: SQL Server Performance Related DMVs
@@ -487,7 +487,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 32888
 # SQL Server 2008/R2 Overview
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Sergey Pustovit
 ## Title: SQL Server 2008/R2 Overview
@@ -496,7 +496,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32933
 # The Modern Resume: Building Your Brand
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Steve Jones
 ## Title: The Modern Resume: Building Your Brand
@@ -505,7 +505,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33021
 # Tips For The Lazy But Driven DBA
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Tim Ford
 ## Title: Tips For The Lazy But Driven DBA
@@ -514,7 +514,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33022
 # Insight Into Your Indexes With DMVs
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Tim Ford
 ## Title: Insight Into Your Indexes With DMVs
@@ -524,7 +524,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 33032
 # Clustering for Mere Mortals.
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Geoff Hiten
 ## Title: Clustering for Mere Mortals.
@@ -533,7 +533,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 33033
 # Bad SQL.
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Geoff Hiten
 ## Title: Bad SQL.
@@ -542,7 +542,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33307
 # Memory Management in SQL Server Analysis Services
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Steven Wright
 ## Title: Memory Management in SQL Server Analysis Services
@@ -551,7 +551,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 34513
 # SSRS In the Enterprise - Surviving With a Smile!
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Wayne Snyder
 ## Title: SSRS In the Enterprise - Surviving With a Smile!
@@ -569,7 +569,7 @@ We will spend our time in a very practical discussion to help you get SSRS deplo
 #  
 #### SessionID: 34645
 # SQL Server Support Team QA
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andy Warren, Steve Jones, Rushahb Mehta
 ## Title: SQL Server Support Team QA
@@ -578,7 +578,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 34646
 # KEYNOTE: SQLSaturday Past, Present and Future
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andy Warren, Steve Jones, Rushahb Mehta
 ## Title: KEYNOTE: SQLSaturday Past, Present and Future
@@ -587,7 +587,7 @@ Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 34647
 # LUNCH!
-#### [Back to calendar](#SQLSaturday-#33---Charlotte-2010)
+#### [Back to calendar](#SQLSaturday-#33-Charlotte-2010)
 Event Date: 06-03-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andy Warren, Steve Jones, Rushahb Mehta
 ## Title: LUNCH!

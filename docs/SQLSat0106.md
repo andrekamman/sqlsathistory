@@ -20,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13769
 # A Lap Around SQL Server Integration Services 2012 
-#### [Back to calendar](#SQLSaturday-#106---Puerto-Rico-2012)
+#### [Back to calendar](#SQLSaturday-#106-Puerto-Rico-2012)
 Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (03) - AppDev
 ## Speaker: Maritza Córdova
 ## Title: A Lap Around SQL Server Integration Services 2012 
@@ -29,7 +29,7 @@ Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (03) - AppDev
 #  
 #### SessionID: 13967
 # Managing Blobs and Geo-Location Data
-#### [Back to calendar](#SQLSaturday-#106---Puerto-Rico-2012)
+#### [Back to calendar](#SQLSaturday-#106-Puerto-Rico-2012)
 Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (03) - AppDev
 ## Speaker: Eduardo Sobrino
 ## Title: Managing Blobs and Geo-Location Data
@@ -38,7 +38,7 @@ Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (03) - AppDev
 #  
 #### SessionID: 14842
 # HP Data Management Solutions.
-#### [Back to calendar](#SQLSaturday-#106---Puerto-Rico-2012)
+#### [Back to calendar](#SQLSaturday-#106-Puerto-Rico-2012)
 Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (01) - DBA
 ## Speaker: Gualberto Huerta
 ## Title: HP Data Management Solutions.
@@ -47,7 +47,7 @@ Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (01) - DBA
 #  
 #### SessionID: 14844
 # Power View  Reporting Enhancements in SQL Server 
-#### [Back to calendar](#SQLSaturday-#106---Puerto-Rico-2012)
+#### [Back to calendar](#SQLSaturday-#106-Puerto-Rico-2012)
 Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (02) - BI
 ## Speaker: Guillermo Caicedo
 ## Title: Power View  Reporting Enhancements in SQL Server 
@@ -56,7 +56,7 @@ Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (02) - BI
 #  
 #### SessionID: 17464
 # You got XML !!!
-#### [Back to calendar](#SQLSaturday-#106---Puerto-Rico-2012)
+#### [Back to calendar](#SQLSaturday-#106-Puerto-Rico-2012)
 Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (03) - AppDev
 ## Speaker: Jose L. Rivera
 ## Title: You got XML !!!
@@ -65,7 +65,7 @@ Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (03) - AppDev
 #  
 #### SessionID: 19900
 # PowerShell Query for the T-SQL Developer.
-#### [Back to calendar](#SQLSaturday-#106---Puerto-Rico-2012)
+#### [Back to calendar](#SQLSaturday-#106-Puerto-Rico-2012)
 Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (03) - AppDev
 ## Speaker: Maximo Trinidad
 ## Title: PowerShell Query for the T-SQL Developer.
@@ -74,7 +74,7 @@ Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (03) - AppDev
 #  
 #### SessionID: 19901
 # Basic Intro to PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#106---Puerto-Rico-2012)
+#### [Back to calendar](#SQLSaturday-#106-Puerto-Rico-2012)
 Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (01) - DBA
 ## Speaker: Maximo Trinidad
 ## Title: Basic Intro to PowerShell for the DBA
@@ -83,7 +83,7 @@ Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (01) - DBA
 #  
 #### SessionID: 22344
 # Tips  Tricks for dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#106---Puerto-Rico-2012)
+#### [Back to calendar](#SQLSaturday-#106-Puerto-Rico-2012)
 Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (02) - BI
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic SSRS Reports
@@ -92,7 +92,7 @@ Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (02) - BI
 #  
 #### SessionID: 30478
 # Looney Tuner?  No, there IS a method to my madness
-#### [Back to calendar](#SQLSaturday-#106---Puerto-Rico-2012)
+#### [Back to calendar](#SQLSaturday-#106-Puerto-Rico-2012)
 Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (03) - AppDev
 ## Speaker: Janis Griffin
 ## Title: Looney Tuner?  No, there IS a method to my madness
@@ -101,7 +101,7 @@ Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (03) - AppDev
 #  
 #### SessionID: 30651
 # SQL 2012 -- All About HA and DR
-#### [Back to calendar](#SQLSaturday-#106---Puerto-Rico-2012)
+#### [Back to calendar](#SQLSaturday-#106-Puerto-Rico-2012)
 Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (01) - DBA
 ## Speaker: Joseph D'Antoni
 ## Title: SQL 2012 -- All About HA and DR
@@ -110,7 +110,7 @@ Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (01) - DBA
 #  
 #### SessionID: 30652
 # SAN Basics for DBAs
-#### [Back to calendar](#SQLSaturday-#106---Puerto-Rico-2012)
+#### [Back to calendar](#SQLSaturday-#106-Puerto-Rico-2012)
 Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (01) - DBA
 ## Speaker: Joseph D'Antoni
 ## Title: SAN Basics for DBAs
@@ -119,7 +119,7 @@ Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (01) - DBA
 #  
 #### SessionID: 31072
 # SQL Server Performance Troubleshooting for the DBA
-#### [Back to calendar](#SQLSaturday-#106---Puerto-Rico-2012)
+#### [Back to calendar](#SQLSaturday-#106-Puerto-Rico-2012)
 Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (01) - DBA
 ## Speaker: Jorge Sanchez
 ## Title: SQL Server Performance Troubleshooting for the DBA
@@ -128,7 +128,7 @@ Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (01) - DBA
 #  
 #### SessionID: 32368
 # Cleansing Your Data with Data Quality Services. 
-#### [Back to calendar](#SQLSaturday-#106---Puerto-Rico-2012)
+#### [Back to calendar](#SQLSaturday-#106-Puerto-Rico-2012)
 Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (02) - BI
 ## Speaker: Ramon Ponte
 ## Title: Cleansing Your Data with Data Quality Services. 
@@ -137,7 +137,7 @@ Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (02) - BI
 #  
 #### SessionID: 34335
 # PowerPivot for Excel: For Those Unacquainted ... 
-#### [Back to calendar](#SQLSaturday-#106---Puerto-Rico-2012)
+#### [Back to calendar](#SQLSaturday-#106-Puerto-Rico-2012)
 Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (02) - BI
 ## Speaker: William E Pearson III
 ## Title: PowerPivot for Excel: For Those Unacquainted ... 
@@ -146,7 +146,7 @@ Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (02) - BI
 #  
 #### SessionID: 9178
 # Tasting the Flavors of Analysis Services 2012
-#### [Back to calendar](#SQLSaturday-#106---Puerto-Rico-2012)
+#### [Back to calendar](#SQLSaturday-#106-Puerto-Rico-2012)
 Event Date: 26-05-2012 - Session time: 00:00:00 - Track: (02) - BI
 ## Speaker: Alan Koo
 ## Title: Tasting the Flavors of Analysis Services 2012

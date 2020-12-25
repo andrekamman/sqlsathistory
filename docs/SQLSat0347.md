@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10068
 # Get Near Realtime ETL with Service Broker
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI2 - Intermediate / Advanced
 ## Speaker: Allen White
 ## Title: Get Near Realtime ETL with Service Broker
@@ -43,7 +43,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI2 - Intermediate / Ad
 #  
 #### SessionID: 10089
 # Performance Tuning Pit Stop for DBAs
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 2 - Intermediate / Advanced
 ## Speaker: Ayman El-Ghazali
 ## Title: Performance Tuning Pit Stop for DBAs
@@ -53,7 +53,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 2 - Intermediate / 
 #  
 #### SessionID: 10867
 # Murder They Wrote
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 1 - Intro / Intermediate
 ## Speaker: Jason Brimhall
 ## Title: Murder They Wrote
@@ -64,7 +64,7 @@ This is the Solo version of the Joint version normally done as an all-day precon
 #  
 #### SessionID: 11205
 # "I Know What You Did Last Query" --SQL Server
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 1 - Intro / Intermediate
 ## Speaker: Carlos L Chacon
 ## Title: "I Know What You Did Last Query" --SQL Server
@@ -73,7 +73,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 1 - Intro / Interme
 #  
 #### SessionID: 13197
 # Dealing With Errors in SSIS 2012 
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI 1 - Intro / Intermediate
 ## Speaker: David Dye
 ## Title: Dealing With Errors in SSIS 2012 
@@ -89,7 +89,7 @@ You will learn:
 #  
 #### SessionID: 13416
 # Congrats on your promotion to DBA, now what?
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Prof. Dev.
 ## Speaker: Doug Purnell
 ## Title: Congrats on your promotion to DBA, now what?
@@ -98,7 +98,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Prof. Dev.
 #  
 #### SessionID: 14412
 # Dealing With Difficult People
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Prof. Dev.
 ## Speaker: Gigi Bell
 ## Title: Dealing With Difficult People
@@ -107,7 +107,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Prof. Dev.
 #  
 #### SessionID: 14793
 # Getting Started Reading Execution Plans
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 2 - Intermediate / Advanced
 ## Speaker: Grant Fritchey
 ## Title: Getting Started Reading Execution Plans
@@ -116,7 +116,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 2 - Intermediate / 
 #  
 #### SessionID: 16240
 # Power BI in the Fast Lane--Visualizing Formula 1
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI 1 - Intro / Intermediate
 ## Speaker: Joseph D'Antoni
 ## Title: Power BI in the Fast Lane--Visualizing Formula 1
@@ -125,7 +125,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI 1 - Intro / Intermed
 #  
 #### SessionID: 16673
 # Analysis Services: Multidimensional vs Tabular
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI2 - Intermediate / Advanced
 ## Speaker: Jessica Moss
 ## Title: Analysis Services: Multidimensional vs Tabular
@@ -134,7 +134,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI2 - Intermediate / Ad
 #  
 #### SessionID: 16850
 # Columnstore Indexes in SQL Server 2014: Flipping the DW /Faster Bit
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI2 - Intermediate / Advanced
 ## Speaker: Jimmy May
 ## Title: Columnstore Indexes in SQL Server 2014: Flipping the DW /Faster Bit
@@ -143,7 +143,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI2 - Intermediate / Ad
 #  
 #### SessionID: 18566
 # Performance Tuning - Analyzing Execution Plans
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 2 - Intermediate / Advanced
 ## Speaker: Konstantin Melamud
 ## Title: Performance Tuning - Analyzing Execution Plans
@@ -154,7 +154,7 @@ In this presentation, we will identify what indexes are being used by the SQL Op
 #  
 #### SessionID: 18568
 # Turbo Boost Performance: In Memory Tables index optimizations
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Konstantin Melamud
 ## Title: Turbo Boost Performance: In Memory Tables index optimizations
@@ -163,7 +163,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 18871
 # Think like SSIS and Build a package
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI 1 - Intro / Intermediate
 ## Speaker: Ravi Kumar
 ## Title: Think like SSIS and Build a package
@@ -172,7 +172,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI 1 - Intro / Intermed
 #  
 #### SessionID: 19934
 # SQL Watchdog -  find out instantly when SQL changes occur in production
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 1 - Intro / Intermediate
 ## Speaker: Michael Bourgon
 ## Title: SQL Watchdog -  find out instantly when SQL changes occur in production
@@ -182,7 +182,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 1 - Intro / Interme
 #  
 #### SessionID: 21674
 # DBA to Project Manager in 75 minutes flat
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Prof. Dev.
 ## Speaker: Paresh Motiwala
 ## Title: DBA to Project Manager in 75 minutes flat
@@ -193,7 +193,7 @@ In this session we wil actually take an arbitrary application and its affiliated
 #  
 #### SessionID: 21731
 # Securing a Multi-Database Application
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Sebastian Meine
 ## Title: Securing a Multi-Database Application
@@ -205,7 +205,7 @@ In this session, we will do a quick review of access security best practices and
 #  
 #### SessionID: 22077
 # Common Coding Mistakes and how to Mitigate them
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: William Wolf
 ## Title: Common Coding Mistakes and how to Mitigate them
@@ -214,7 +214,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 22571
 # Locks, Blocks, and Deadlocks Oh My!
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 2 - Intermediate / Advanced
 ## Speaker: Randy Knight
 ## Title: Locks, Blocks, and Deadlocks Oh My!
@@ -223,7 +223,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 2 - Intermediate / 
 #  
 #### SessionID: 22779
 # Data Discovery with Power Query for Excel
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI 1 - Intro / Intermediate
 ## Speaker: Reeves Smith
 ## Title: Data Discovery with Power Query for Excel
@@ -235,7 +235,7 @@ This session will demo the ease of the data extraction process in Power Query. W
 #  
 #### SessionID: 22780
 # Get Into Evaluation Context with DAX, the Language of PowerPivot
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI2 - Intermediate / Advanced
 ## Speaker: Reeves Smith
 ## Title: Get Into Evaluation Context with DAX, the Language of PowerPivot
@@ -244,7 +244,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI2 - Intermediate / Ad
 #  
 #### SessionID: 23904
 # SSIS Data Flow Engine: Under the Hood
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI2 - Intermediate / Advanced
 ## Speaker: Samuel Vanga
 ## Title: SSIS Data Flow Engine: Under the Hood
@@ -256,7 +256,7 @@ work for you in an efficient and optimal way.
 #  
 #### SessionID: 24558
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Prof. Dev.
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -265,7 +265,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Prof. Dev.
 #  
 #### SessionID: 26834
 # Backup to the Cloud: Integrating On-Premises SQL Server Backup and Recovery with Window Azure
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 1 - Intro / Intermediate
 ## Speaker: Timothy McAliley
 ## Title: Backup to the Cloud: Integrating On-Premises SQL Server Backup and Recovery with Window Azure
@@ -274,7 +274,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 1 - Intro / Interme
 #  
 #### SessionID: 26888
 # Not So Basic Backup and Restore
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 1 - Intro / Intermediate
 ## Speaker: Theresa Iserman
 ## Title: Not So Basic Backup and Restore
@@ -283,7 +283,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 1 - Intro / Interme
 #  
 #### SessionID: 27532
 # Charlie and the SQL Server Re-Fill Factory
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 2 - Intermediate / Advanced
 ## Speaker: Slava Murygin
 ## Title: Charlie and the SQL Server Re-Fill Factory
@@ -293,7 +293,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DBA 2 - Intermediate / 
 #  
 #### SessionID: 27758
 # SSMS Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Wayne Sheffield
 ## Title: SSMS Tips  Tricks
@@ -302,7 +302,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 9069
 # SSAS Best Practices
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI 1 - Intro / Intermediate
 ## Speaker: Alan Faulkner
 ## Title: SSAS Best Practices
@@ -311,7 +311,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: BI 1 - Intro / Intermed
 #  
 #### SessionID: 9414
 # Beginning Automation with Powershell
-#### [Back to calendar](#SQLSaturday-#347---Washington-DC-2014)
+#### [Back to calendar](#SQLSaturday-#347-Washington-DC-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Amy Herold
 ## Title: Beginning Automation with Powershell

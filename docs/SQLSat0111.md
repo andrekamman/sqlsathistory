@@ -55,7 +55,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11111
 # SQL Server is the Least of My Problems!
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: BEG
 ## Speaker: Julie Smith
 ## Title: SQL Server is the Least of My Problems!
@@ -68,7 +68,7 @@ If this sounds familiar this session is for you. Learn about the SS ecosystem  h
 #  
 #### SessionID: 13884
 # Analytical Master Data Management with MDS 2012
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 ## Speaker: Eric Melcher
 ## Title: Analytical Master Data Management with MDS 2012
@@ -79,7 +79,7 @@ This session session will explore ways that Master Data Services 2012 can be use
 #  
 #### SessionID: 14674
 # Managing data in a Windows Phone application
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Glen Gordon
 ## Title: Managing data in a Windows Phone application
@@ -88,7 +88,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 15017
 # Super-size Your SSIS Breakfast Sandwich: Performan
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 ## Speaker: Hope Foley
 ## Title: Super-size Your SSIS Breakfast Sandwich: Performan
@@ -98,7 +98,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 #  
 #### SessionID: 16603
 # It's Spring - Are You Still Compressed?
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Jeremy Carroll
 ## Title: It's Spring - Are You Still Compressed?
@@ -116,7 +116,7 @@ The following topics will be studied:
 #  
 #### SessionID: 16661
 # Report Parts: Increasing Productivity Since 2008R2
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 ## Speaker: Jessica Moss
 ## Title: Report Parts: Increasing Productivity Since 2008R2
@@ -125,7 +125,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 #  
 #### SessionID: 16834
 # PowerShell Modules You Should Know About
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: POW
 ## Speaker: Jim Christopher
 ## Title: PowerShell Modules You Should Know About
@@ -136,7 +136,7 @@ Come learn about PowerShell modules - what they are, how you use them, where you
 #  
 #### SessionID: 16857
 # Managing Database Changes with Visual Studio
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Jim Wooley
 ## Title: Managing Database Changes with Visual Studio
@@ -146,7 +146,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 17192
 # Tuning Analysis Services Processing Performance
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 ## Speaker: John Welch
 ## Title: Tuning Analysis Services Processing Performance
@@ -155,7 +155,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 #  
 #### SessionID: 17998
 # Windows Operating System Internals for DB Pros
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Brian Kelley
 ## Title: Windows Operating System Internals for DB Pros
@@ -164,7 +164,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 18001
 # Being the Swiss Army Knife of DB Pros
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: BEG
 ## Speaker: Brian Kelley
 ## Title: Being the Swiss Army Knife of DB Pros
@@ -173,7 +173,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: BEG
 #  
 #### SessionID: 22256
 # Using NULL the Right Way
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Phil Pledger
 ## Title: Using NULL the Right Way
@@ -183,7 +183,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 22345
 # Taking the Scary out of Monster Reports
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 ## Speaker: Pam Shaw
 ## Title: Taking the Scary out of Monster Reports
@@ -192,7 +192,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 #  
 #### SessionID: 24723
 # Power View: A Peek Behind the Curtain
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 ## Speaker: Stacia Varga
 ## Title: Power View: A Peek Behind the Curtain
@@ -202,7 +202,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 #  
 #### SessionID: 26358
 # Fundamentals of Physical Join Operations
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Kevin Boles
 ## Title: Fundamentals of Physical Join Operations
@@ -211,7 +211,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 26939
 # The Personal-Team-Organizational BI Conundrum
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 ## Speaker: Teo Lachev
 ## Title: The Personal-Team-Organizational BI Conundrum
@@ -220,7 +220,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 #  
 #### SessionID: 28498
 # Benchmarking, Baselines and Monitoring Storage
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Wesley Brown
 ## Title: Benchmarking, Baselines and Monitoring Storage
@@ -238,7 +238,7 @@ With these tools you can plan, deploy and manage your storage for years to come!
 #  
 #### SessionID: 28696
 # Designing an SSIS Framework 
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 ## Speaker: Andy Leonard
 ## Title: Designing an SSIS Framework 
@@ -247,7 +247,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 #  
 #### SessionID: 29118
 # Introduction to SQL Server Column-Level Encryption
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Bob Langley
 ## Title: Introduction to SQL Server Column-Level Encryption
@@ -258,7 +258,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 29545
 # Working with Server Side Traces
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Christina Leo
 ## Title: Working with Server Side Traces
@@ -269,7 +269,7 @@ First, we’ll examine the anatomy of a server-side trace script and look at the
 #  
 #### SessionID: 30033
 # Windows PowerShell Best Practices
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: POW
 ## Speaker: Ed Wilson
 ## Title: Windows PowerShell Best Practices
@@ -278,7 +278,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: POW
 #  
 #### SessionID: 30242
 # Moving Day - Successful SQL Migrations with ShareP
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 ## Speaker: Geoff Hiten
 ## Title: Moving Day - Successful SQL Migrations with ShareP
@@ -288,7 +288,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 #  
 #### SessionID: 30274
 # Common Backup Problems and How to Deal With Them
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: BEG
 ## Speaker: Grant Fritchey
 ## Title: Common Backup Problems and How to Deal With Them
@@ -297,7 +297,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: BEG
 #  
 #### SessionID: 30276
 # Execution Plans a Deep Dive
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Grant Fritchey
 ## Title: Execution Plans a Deep Dive
@@ -306,7 +306,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 30292
 # PowerScripting Live! (PowerShell podcast / BoF)
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: POW
 ## Speaker: Hal Rottenberg
 ## Title: PowerScripting Live! (PowerShell podcast / BoF)
@@ -315,7 +315,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: POW
 #  
 #### SessionID: 30565
 # Concurrency in PowerShell
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: POW
 ## Speaker: Jon Boulineau
 ## Title: Concurrency in PowerShell
@@ -324,7 +324,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: POW
 #  
 #### SessionID: 30691
 # Mobile Business Intelligence
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Jen Underwood
 ## Title: Mobile Business Intelligence
@@ -333,7 +333,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 30693
 # Beginning T-SQL
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: BEG
 ## Speaker: Jennifer McCown
 ## Title: Beginning T-SQL
@@ -342,7 +342,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: BEG
 #  
 #### SessionID: 30694
 # T-SQL Brush-up:The Best Things You Forgot You Knew
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Jennifer McCown
 ## Title: T-SQL Brush-up:The Best Things You Forgot You Knew
@@ -351,7 +351,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 31146
 # Extended Events, Work Smarter Not Harder
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Jason Strate
 ## Title: Extended Events, Work Smarter Not Harder
@@ -360,7 +360,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 31187
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -369,7 +369,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 31610
 # EIM - Bringing Together SSIS, DQS, and MDS (300)
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 ## Speaker: Matt Masson
 ## Title: EIM - Bringing Together SSIS, DQS, and MDS (300)
@@ -378,7 +378,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 #  
 #### SessionID: 31930
 # “Managed Self-Service BI” and “Data As A Service”
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 ## Speaker: Melissa Coates
 ## Title: “Managed Self-Service BI” and “Data As A Service”
@@ -387,7 +387,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 #  
 #### SessionID: 32010
 # Index Internals
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Denny Cherry
 ## Title: Index Internals
@@ -396,7 +396,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 32013
 # SQL Server Table Partitioning from the ground up
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Denny Cherry
 ## Title: SQL Server Table Partitioning from the ground up
@@ -409,7 +409,7 @@ from one partition to another and from one table to another with minimal to no i
 #  
 #### SessionID: 32494
 # SSIS 2012: Project Deployment Model and Catalog
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 ## Speaker: Rafael Salas
 ## Title: SSIS 2012: Project Deployment Model and Catalog
@@ -419,7 +419,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 #  
 #### SessionID: 32561
 # Revenge: The SQL Part 2: The Sequel!
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL Part 2: The Sequel!
@@ -428,7 +428,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 33079
 # Applied Enterprise Semantic Mining
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 ## Speaker: Mark Tabladillo
 ## Title: Applied Enterprise Semantic Mining
@@ -437,7 +437,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 #  
 #### SessionID: 33257
 # Working with "Biggish Data"
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Stuart Ainsworth
 ## Title: Working with "Biggish Data"
@@ -446,7 +446,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 33294
 # Introduction to FileTables
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Sven Aelterman
 ## Title: Introduction to FileTables
@@ -456,7 +456,7 @@ It may be valuable to attend the Introduction to FILESTREAM session also.
 #  
 #### SessionID: 33616
 # It is TEMPDB, Why Should You Care?
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Tim Radney
 ## Title: It is TEMPDB, Why Should You Care?
@@ -465,7 +465,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 33823
 # Introduction to Common Table Expressions
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Vicky Harp
 ## Title: Introduction to Common Table Expressions
@@ -474,7 +474,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 33877
 # Table Vars  Temp Tables - What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
@@ -483,7 +483,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 34300
 # PowerPivot for Excel: For Those Unacquainted ...
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: William E Pearson III
 ## Title: PowerPivot for Excel: For Those Unacquainted ...
@@ -492,7 +492,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 34634
 # Think Outside the Group! Take MDX to the next leve
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 ## Speaker: Erika Bakse
 ## Title: Think Outside the Group! Take MDX to the next leve
@@ -501,7 +501,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 #  
 #### SessionID: 8869
 # Time Saving Tips  Tricks for SSMS 2012
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Aaron Nelson
 ## Title: Time Saving Tips  Tricks for SSMS 2012
@@ -510,7 +510,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 9365
 # Query Tuning Mastery: Manhandling Parallelism
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 ## Speaker: Adam Machanic
 ## Title: Query Tuning Mastery: Manhandling Parallelism
@@ -519,7 +519,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: DBA\DEV
 #  
 #### SessionID: 9702
 # Configuring SQL Server 2012 Reporting Services
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 ## Speaker: Robert Cain
 ## Title: Configuring SQL Server 2012 Reporting Services
@@ -528,7 +528,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: SSAS\IS\RS
 #  
 #### SessionID: 9703
 # The Decoder Ring for Data Warehousing / BI
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: BEG
 ## Speaker: Robert Cain
 ## Title: The Decoder Ring for Data Warehousing / BI
@@ -537,7 +537,7 @@ Event Date: 14-04-2012 - Session time: 00:00:00 - Track: BEG
 #  
 #### SessionID: 9998
 # Manage SQL Server 2012 on Server Core w/PowerShell
-#### [Back to calendar](#SQLSaturday-#111---Atlanta-2012)
+#### [Back to calendar](#SQLSaturday-#111-Atlanta-2012)
 Event Date: 14-04-2012 - Session time: 00:00:00 - Track: POW
 ## Speaker: Allen White
 ## Title: Manage SQL Server 2012 on Server Core w/PowerShell

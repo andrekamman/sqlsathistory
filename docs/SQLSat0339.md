@@ -7,7 +7,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 15766
 # Practical Management Data Warehouse
-#### [Back to calendar](#SQLSaturday-#339---Shanghai-2015)
+#### [Back to calendar](#SQLSaturday-#339-Shanghai-2015)
 Event Date: 09-05-2015 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Janos Berke
 ## Title: Practical Management Data Warehouse
@@ -26,7 +26,7 @@ Event Date: 09-05-2015 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 19090
 # Programming T-SQL Enhancements in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#339---Shanghai-2015)
+#### [Back to calendar](#SQLSaturday-#339-Shanghai-2015)
 Event Date: 09-05-2015 - Session time: 00:00:00 - Track: Other
 ## Speaker: Leonard Lobel
 ## Title: Programming T-SQL Enhancements in SQL Server 2012

@@ -47,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11047
 # Let's Hadoop!
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Bryan Smith
 ## Title: Let's Hadoop!
@@ -56,7 +56,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 11397
 # Real-Time Analytics with Power View and SSAS Tabular in DirectQuery Mode
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Chaitanya Khaladkar
 ## Title: Real-Time Analytics with Power View and SSAS Tabular in DirectQuery Mode
@@ -65,7 +65,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 11632
 # Mastering your Resume  Interview: Tips to Get Hired
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Christine Assaf
 ## Title: Mastering your Resume  Interview: Tips to Get Hired
@@ -74,7 +74,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 11633
 # Interview Tips for Managers
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Christine Assaf
 ## Title: Interview Tips for Managers
@@ -83,7 +83,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 12435
 # Biml - The Next Step in Agile Data Warehousing
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: David Stein
 ## Title: Biml - The Next Step in Agile Data Warehousing
@@ -92,7 +92,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13186
 # SQL Transaction Log Internals
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Denzil Ribeiro
 ## Title: SQL Transaction Log Internals
@@ -101,7 +101,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13951
 # A Systematic Approach to ETL Performance Tuning
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Erin Welker
 ## Title: A Systematic Approach to ETL Performance Tuning
@@ -112,7 +112,7 @@ In this session, we’ll look at the high-level system as a whole and discuss po
 #  
 #### SessionID: 14572
 # The ABCs of SSIS
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Glenda Gable
 ## Title: The ABCs of SSIS
@@ -121,7 +121,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 14581
 # Performance Tuning of Tabular Models in SQL Server 2012 Analysis Services
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Greg Galloway
 ## Title: Performance Tuning of Tabular Models in SQL Server 2012 Analysis Services
@@ -130,7 +130,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14735
 # Common Problems in Backup and Recovery and How to Handle Them
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Grant Fritchey
 ## Title: Common Problems in Backup and Recovery and How to Handle Them
@@ -139,7 +139,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14928
 # T-SQL Throwdown
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Hakim Ali
 ## Title: T-SQL Throwdown
@@ -148,7 +148,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 16084
 # Nested Sets model for Trees  Hierarchies 
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Joe Celko
 ## Title: Nested Sets model for Trees  Hierarchies 
@@ -157,7 +157,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16870
 # Analytical MDM with Master Data Services 2012
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jeff Johnston
 ## Title: Analytical MDM with Master Data Services 2012
@@ -166,7 +166,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 17645
 # Wish you could live the glamorous consulting life?
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Juan Soto
 ## Title: Wish you could live the glamorous consulting life?
@@ -178,7 +178,7 @@ In this session you will lean sales, marketing and management strategies to get 
 #  
 #### SessionID: 17717
 # Table Partitioning: the Secret Weapon for your Big Data Problems.
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: John Sterrett
 ## Title: Table Partitioning: the Secret Weapon for your Big Data Problems.
@@ -187,7 +187,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18413
 # Women in Tech Panel
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Kathi Kellenberger
 ## Title: Women in Tech Panel
@@ -196,7 +196,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 18414
 # Writing Better Queries with Window Functions
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Kathi Kellenberger
 ## Title: Writing Better Queries with Window Functions
@@ -205,7 +205,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 19509
 # Tell Better Stories with Microsoft BI and PowerMap
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: marek koenig
 ## Title: Tell Better Stories with Microsoft BI and PowerMap
@@ -214,7 +214,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19571
 # Optimizing Stored Procedures
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Mark Rosenberg
 ## Title: Optimizing Stored Procedures
@@ -223,7 +223,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19625
 # Introduction to SQL Spatial Analysis and Reporting
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Mark Verret
 ## Title: Introduction to SQL Spatial Analysis and Reporting
@@ -232,7 +232,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19858
 # SQL Security Best Practices  Shrinking Your Attack Surface
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Matthew Brimer
 ## Title: SQL Security Best Practices  Shrinking Your Attack Surface
@@ -243,7 +243,7 @@ In addition, attending this talk is worth 1.5 Continuing Education credits.
 #  
 #### SessionID: 19931
 # Master of All I Survey - track code changes and more across your environment
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Michael Bourgon
 ## Title: Master of All I Survey - track code changes and more across your environment
@@ -253,7 +253,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 19936
 # Nuts and Bolts of Table Compression
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Mike Byrd
 ## Title: Nuts and Bolts of Table Compression
@@ -262,7 +262,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 20188
 # Extreme Design – A Real World 10+ Exabyte Data Warehouse
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Mike Hotek
 ## Title: Extreme Design – A Real World 10+ Exabyte Data Warehouse
@@ -271,7 +271,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 20198
 # SQL Server 2014 – In memory OLTP Development
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mike Hotek
 ## Title: SQL Server 2014 – In memory OLTP Development
@@ -280,7 +280,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21483
 # SQL 2012 AlwaysOn Quickstart
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ryan Adams
 ## Title: SQL 2012 AlwaysOn Quickstart
@@ -289,7 +289,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21748
 # Leveraging Flash Technologies for Increased SQL Server Performance
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Pat Sinthusan
 ## Title: Leveraging Flash Technologies for Increased SQL Server Performance
@@ -303,7 +303,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 22869
 # Tips and Tricks for architecting a BI infrastructure on SQL 2012 Power View
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Reinaldo Kibel
 ## Title: Tips and Tricks for architecting a BI infrastructure on SQL 2012 Power View
@@ -315,7 +315,7 @@ In this session you will see tips and tricks for setting up an enterprise infras
 #  
 #### SessionID: 23423
 # Moving to Windows Azure SQL Database(WASD)
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Rohit Nayak
 ## Title: Moving to Windows Azure SQL Database(WASD)
@@ -324,7 +324,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 23668
 # Introduction to the XML source
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Russel Loski
 ## Title: Introduction to the XML source
@@ -336,7 +336,7 @@ Attendees will be able to import simple XML using SSIS.  They will be able to cr
 #  
 #### SessionID: 23669
 # SSRS data driven subscription using SSIS
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Russel Loski
 ## Title: SSRS data driven subscription using SSIS
@@ -345,7 +345,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 25227
 # Turbo charge your DBA career
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Sri Sridharan
 ## Title: Turbo charge your DBA career
@@ -354,7 +354,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 25804
 # SQL Server Amnesia - Memory Troubleshooting
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Steven Ormrod
 ## Title: SQL Server Amnesia - Memory Troubleshooting
@@ -363,7 +363,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 25884
 # Explore and Troubleshoot the power-packed new features of SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Suresh Kandoth
 ## Title: Explore and Troubleshoot the power-packed new features of SQL Server 2014
@@ -372,7 +372,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 26606
 # Make Your SSIS Packages Run Faster: 15 Quick Tips
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Tim Mitchell
 ## Title: Make Your SSIS Packages Run Faster: 15 Quick Tips
@@ -381,7 +381,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 26788
 # Window Functions in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Tim Costello
 ## Title: Window Functions in SQL Server 2012
@@ -390,7 +390,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 27396
 # Care and Feeding of Your System Databases
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Vicky Harp
 ## Title: Care and Feeding of Your System Databases
@@ -399,7 +399,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 28183
 # SQL Server Permissions and Security Principals
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: William Assaf
 ## Title: SQL Server Permissions and Security Principals
@@ -408,7 +408,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9122
 # Without A SQLTrace-Getting To Know Extended Events
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: AJ Mendo
 ## Title: Without A SQLTrace-Getting To Know Extended Events
@@ -417,7 +417,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 9381
 # Physical Join Operators
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ami Levin
 ## Title: Physical Join Operators
@@ -426,7 +426,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9501
 # Hacking the SSIS 2012 Catalog
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andy Leonard
 ## Title: Hacking the SSIS 2012 Catalog
@@ -435,7 +435,7 @@ Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9929
 # Intro to SharePoint BI
-#### [Back to calendar](#SQLSaturday-#255---Dallas-2013)
+#### [Back to calendar](#SQLSaturday-#255-Dallas-2013)
 Event Date: 02-11-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Allen Smith
 ## Title: Intro to SharePoint BI

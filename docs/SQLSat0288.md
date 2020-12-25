@@ -64,7 +64,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11543
 # Check Engine Lights
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1048)
 ## Speaker: Chris Skorlinski
 ## Title: Check Engine Lights
@@ -73,7 +73,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1048
 #  
 #### SessionID: 11544
 # Your Best Interview Ever
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Professional Dev (1054)
 ## Speaker: Chris Skorlinski
 ## Title: Your Best Interview Ever
@@ -83,7 +83,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Professional Dev (1054)
 #  
 #### SessionID: 13043
 # What are you Waiting For?
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1052)
 ## Speaker: Dean Richards
 ## Title: What are you Waiting For?
@@ -92,7 +92,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1052
 #  
 #### SessionID: 13044
 # Best Practices to Awesome Performance on VMware
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1048)
 ## Speaker: Dean Richards
 ## Title: Best Practices to Awesome Performance on VMware
@@ -101,7 +101,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1048
 #  
 #### SessionID: 13411
 # REAL WORLD REPORT SERVER PERFORMANCE SOLUTIONS AND STRATEGIES
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Big Data (3047)
 ## Speaker: David Pless
 ## Title: REAL WORLD REPORT SERVER PERFORMANCE SOLUTIONS AND STRATEGIES
@@ -114,7 +114,7 @@ This session is a must for both DBAs and report developers.
 #  
 #### SessionID: 13631
 # HDInsight utilizando Hadoop + SQL con análisis en Excel
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL en Espanol (3048)
 ## Speaker: Eduardo Castro
 ## Title: HDInsight utilizando Hadoop + SQL con análisis en Excel
@@ -123,7 +123,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL en Espanol (3048)
 #  
 #### SessionID: 13957
 # Database Tuning Advisor - When to use it - When not to trust it.
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track:  DBA - Internals (1049)
 ## Speaker: Ernest Ostrander
 ## Title: Database Tuning Advisor - When to use it - When not to trust it.
@@ -132,7 +132,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track:  DBA - Internals (1049)
 #  
 #### SessionID: 14314
 # The DW and Big Data Architecture
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Big Data (3047)
 ## Speaker: Frank Quintana
 ## Title: The DW and Big Data Architecture
@@ -143,7 +143,7 @@ In my presentation I will explain advantages and disadvantages of OLTP, OLAP and
 #  
 #### SessionID: 14336
 # Detección de cambios para el desarrollo de Warehouses
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL en Espanol (3048)
 ## Speaker: Freddy Angarita
 ## Title: Detección de cambios para el desarrollo de Warehouses
@@ -152,7 +152,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL en Espanol (3048)
 #  
 #### SessionID: 14337
 # Desarrollo de modelos de minería de datos
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL en Espanol (3048)
 ## Speaker: Freddy Angarita
 ## Title: Desarrollo de modelos de minería de datos
@@ -161,7 +161,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL en Espanol (3048)
 #  
 #### SessionID: 14461
 # Building an MDM Center of Excellence with MDS and Maestro
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - What's New? (1047)
 ## Speaker: Gene Webb
 ## Title: Building an MDM Center of Excellence with MDS and Maestro
@@ -170,7 +170,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - What's New? (1047
 #  
 #### SessionID: 14856
 # Introduction to SSIS with BIML
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI (3045)
 ## Speaker: Guillermo Caicedo Santiago
 ## Title: Introduction to SSIS with BIML
@@ -179,7 +179,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI (3045)
 #  
 #### SessionID: 15024
 # Azure Table vs. Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL Azure (3046)
 ## Speaker: Herve Roggero
 ## Title: Azure Table vs. Azure SQL Database
@@ -188,7 +188,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL Azure (3046)
 #  
 #### SessionID: 15159
 # T-SQL Performance Guidelines for better DB stress powers
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development (3044)
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for better DB stress powers
@@ -197,7 +197,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development (3044)
 #  
 #### SessionID: 15160
 # Performance dreams  wait for you at SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1052)
 ## Speaker: Shehab El-Najjar
 ## Title: Performance dreams  wait for you at SQL Server 2014
@@ -206,7 +206,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1052
 #  
 #### SessionID: 15796
 # Maintenance and Backups:  Intro to Ola Hallengren
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Auditing  Maint. (1053)
 ## Speaker: Jason Carter
 ## Title: Maintenance and Backups:  Intro to Ola Hallengren
@@ -215,7 +215,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Auditing  Maint. 
 #  
 #### SessionID: 15797
 # 5 TSQL Commands I've Been Missing
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development (3044)
 ## Speaker: Jason Carter
 ## Title: 5 TSQL Commands I've Been Missing
@@ -224,7 +224,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development (3044)
 #  
 #### SessionID: 16104
 # Change Data Capture a developer's unknown best friend
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development (3044)
 ## Speaker: Jose Chinchilla
 ## Title: Change Data Capture a developer's unknown best friend
@@ -233,7 +233,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development (3044)
 #  
 #### SessionID: 16771
 # 5 Common SQL Server Performance Issues
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1048)
 ## Speaker: Jason Hall
 ## Title: 5 Common SQL Server Performance Issues
@@ -244,7 +244,7 @@ I intend to share the whys and hows of these issues with anyone who would like t
 #  
 #### SessionID: 16808
 # Mission Possible: Interactive Performance Troubleshooting - Indexes
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1048)
 ## Speaker: Jim Murphy
 ## Title: Mission Possible: Interactive Performance Troubleshooting - Indexes
@@ -253,7 +253,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1048
 #  
 #### SessionID: 16810
 # AlwaysOn - Finally, A usable 'mirror'!
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track:  DBA - Internals (1049)
 ## Speaker: Jim Murphy
 ## Title: AlwaysOn - Finally, A usable 'mirror'!
@@ -262,7 +262,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track:  DBA - Internals (1049)
 #  
 #### SessionID: 16994
 # Report With Power: New Data Tools, New Insights
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development (3044)
 ## Speaker: James McAuliffe
 ## Title: Report With Power: New Data Tools, New Insights
@@ -271,7 +271,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development (3044)
 #  
 #### SessionID: 17117
 # Business Intelligence Features in SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI (3045)
 ## Speaker: Joe Homnick
 ## Title: Business Intelligence Features in SQL Server 2014
@@ -280,7 +280,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI (3045)
 #  
 #### SessionID: 17426
 # We Don't Need Roads:A Look Into SQL Server Indexes
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development (3044)
 ## Speaker: Richie Rump
 ## Title: We Don't Need Roads:A Look Into SQL Server Indexes
@@ -290,7 +290,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Development (3044)
 #  
 #### SessionID: 17465
 # Tablas Particionadas: De la A a la Z
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL en Espanol (3048)
 ## Speaker: Jose L. Rivera
 ## Title: Tablas Particionadas: De la A a la Z
@@ -299,7 +299,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL en Espanol (3048)
 #  
 #### SessionID: 17529
 # Show me whatcha workin' with: Big Data Edition
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Big Data (3047)
 ## Speaker: Josh Luedeman
 ## Title: Show me whatcha workin' with: Big Data Edition
@@ -308,7 +308,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Big Data (3047)
 #  
 #### SessionID: 18075
 # Inspector Insert And The Case Of The Mistaken IDENTITY
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Auditing  Maint. (1053)
 ## Speaker: Kendal Van Dyke
 ## Title: Inspector Insert And The Case Of The Mistaken IDENTITY
@@ -317,7 +317,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Auditing  Maint. 
 #  
 #### SessionID: 18076
 # How To Build A SQL Server Virtual Lab On Your Own Machine
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - What's New? (1047)
 ## Speaker: Kendal Van Dyke
 ## Title: How To Build A SQL Server Virtual Lab On Your Own Machine
@@ -327,7 +327,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - What's New? (1047
 #  
 #### SessionID: 18220
 # Team Leadership Fundamentals
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Professional Dev (1054)
 ## Speaker: Kevin Kline
 ## Title: Team Leadership Fundamentals
@@ -342,7 +342,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Professional Dev (1054)
 #  
 #### SessionID: 18221
 # SQL Server Internals and Architecture
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Auditorium (1124)
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals and Architecture
@@ -358,7 +358,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Auditorium (1124)
 #  
 #### SessionID: 19057
 # Geospatial Data Types in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - What's New? (1047)
 ## Speaker: Leonard Lobel
 ## Title: Geospatial Data Types in SQL Server 2012
@@ -367,7 +367,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - What's New? (1047
 #  
 #### SessionID: 19061
 # Native File Streaming with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - What's New? (1047)
 ## Speaker: Leonard Lobel
 ## Title: Native File Streaming with SQL Server 2012
@@ -376,7 +376,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - What's New? (1047
 #  
 #### SessionID: 19912
 # Powershell Working with Windows Azure SQL Database Server
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL Azure (3046)
 ## Speaker: Maximo Trinidad
 ## Title: Powershell Working with Windows Azure SQL Database Server
@@ -385,7 +385,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL Azure (3046)
 #  
 #### SessionID: 19955
 # Change Tracking:  A Near Bullet-Proof ETL Synchronization Control
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI (3045)
 ## Speaker: Mike Byrd
 ## Title: Change Tracking:  A Near Bullet-Proof ETL Synchronization Control
@@ -394,7 +394,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI (3045)
 #  
 #### SessionID: 19956
 # Performance Benefits of Data Compression
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1052)
 ## Speaker: Mike Byrd
 ## Title: Performance Benefits of Data Compression
@@ -403,7 +403,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1052
 #  
 #### SessionID: 19957
 # SQL Server Foreign Keys – De-mystifying the Rest of the Story
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track:  DBA - Internals (1049)
 ## Speaker: Mike Byrd
 ## Title: SQL Server Foreign Keys – De-mystifying the Rest of the Story
@@ -412,7 +412,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track:  DBA - Internals (1049)
 #  
 #### SessionID: 20488
 # Introducing Cube World To Users From Flat Table Land
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Big Data (3047)
 ## Speaker: Michael Antonovich
 ## Title: Introducing Cube World To Users From Flat Table Land
@@ -421,7 +421,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Big Data (3047)
 #  
 #### SessionID: 20489
 # Hello, My Name Is DAX
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI (3045)
 ## Speaker: Michael Antonovich
 ## Title: Hello, My Name Is DAX
@@ -430,7 +430,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI (3045)
 #  
 #### SessionID: 21099
 # Big Data: How To.. and Now What?
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Big Data (3047)
 ## Speaker: Michael Reed
 ## Title: Big Data: How To.. and Now What?
@@ -440,7 +440,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Big Data (3047)
 #  
 #### SessionID: 21100
 # From Query to Disk: Managing your queries, data distribution, and environment for best performance
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1048)
 ## Speaker: Michael Reed
 ## Title: From Query to Disk: Managing your queries, data distribution, and environment for best performance
@@ -449,7 +449,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1048
 #  
 #### SessionID: 21630
 # Keep your sanity by using Policy Based Management to implement standards
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Auditing  Maint. (1053)
 ## Speaker: Pankaj Satyaketu
 ## Title: Keep your sanity by using Policy Based Management to implement standards
@@ -458,7 +458,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Auditing  Maint. 
 #  
 #### SessionID: 21771
 # Excel in SQL Reporting
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL Azure (3046)
 ## Speaker: Perry Patterson
 ## Title: Excel in SQL Reporting
@@ -467,7 +467,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL Azure (3046)
 #  
 #### SessionID: 22363
 # Tips  Tricks for dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1052)
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic SSRS Reports
@@ -477,7 +477,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1052
 #  
 #### SessionID: 22756
 # Building the modern architecture of hybrid data for Big Data with Microsoft and Apache Hadoop
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL en Espanol (3048)
 ## Speaker: Jose Redondo
 ## Title: Building the modern architecture of hybrid data for Big Data with Microsoft and Apache Hadoop
@@ -487,7 +487,7 @@ Considering that knowledge is a value added for businesses today, in this exhibi
 #  
 #### SessionID: 23892
 # TempDB Internals – part I
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track:  DBA - Internals (1049)
 ## Speaker: Sam Mesel
 ## Title: TempDB Internals – part I
@@ -501,7 +501,7 @@ This session is heavily based on demos
 #  
 #### SessionID: 23893
 # TempDB Internals – part II
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track:  DBA - Internals (1049)
 ## Speaker: Sam Mesel
 ## Title: TempDB Internals – part II
@@ -513,7 +513,7 @@ A discussion on TempDB data files and their placement will complete this session
 #  
 #### SessionID: 24166
 # SQL Server 2014 Top 5 - Hybrid Features
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Auditorium (1124)
 ## Speaker: Scott Klein
 ## Title: SQL Server 2014 Top 5 - Hybrid Features
@@ -522,7 +522,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Auditorium (1124)
 #  
 #### SessionID: 24167
 # SQL Server 2014 in-memory OLTP Deep  Dive
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Auditorium (1124)
 ## Speaker: Scott Klein
 ## Title: SQL Server 2014 in-memory OLTP Deep  Dive
@@ -531,7 +531,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Auditorium (1124)
 #  
 #### SessionID: 24168
 # SQL Server HA and DR in a Windows Azure Virtual Machine – Deep Dive
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL Azure (3046)
 ## Speaker: Scott Klein
 ## Title: SQL Server HA and DR in a Windows Azure Virtual Machine – Deep Dive
@@ -540,7 +540,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL Azure (3046)
 #  
 #### SessionID: 24870
 # Choose your own adventure, be a SQL consultant
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Professional Dev (1054)
 ## Speaker: David Cobb
 ## Title: Choose your own adventure, be a SQL consultant
@@ -549,7 +549,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Professional Dev (1054)
 #  
 #### SessionID: 25868
 # Understanding Locking, blocking and deadlocks in SQL Server
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Auditing  Maint. (1053)
 ## Speaker: Sujai Karnam
 ## Title: Understanding Locking, blocking and deadlocks in SQL Server
@@ -558,7 +558,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Auditing  Maint. 
 #  
 #### SessionID: 26094
 # Exam Prep 70-462: Administering Microsoft SQL Server 2012 Databases
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Professional Dev (1054)
 ## Speaker: Telmo Sampaio
 ## Title: Exam Prep 70-462: Administering Microsoft SQL Server 2012 Databases
@@ -567,7 +567,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Professional Dev (1054)
 #  
 #### SessionID: 26095
 # Exam Prep 70-461: Querying with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Professional Dev (1054)
 ## Speaker: Telmo Sampaio
 ## Title: Exam Prep 70-461: Querying with SQL Server 2012
@@ -576,7 +576,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Professional Dev (1054)
 #  
 #### SessionID: 27193
 # Indexing strategies and good physical designs for performance tuning
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1052)
 ## Speaker: Kenneth Urena
 ## Title: Indexing strategies and good physical designs for performance tuning
@@ -590,7 +590,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Performance (1052
 #  
 #### SessionID: 27465
 # Breakthrough Data Platform Performance with SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - What's New? (1047)
 ## Speaker: Jason Virtue
 ## Title: Breakthrough Data Platform Performance with SQL Server 2014
@@ -599,7 +599,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - What's New? (1047
 #  
 #### SessionID: 27466
 # Power BI for the masses
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI (3045)
 ## Speaker: Jason Virtue
 ## Title: Power BI for the masses
@@ -608,7 +608,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: BI (3045)
 #  
 #### SessionID: 34767
 # Supercharge Microsoft BI with Pyramid Analytics
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Auditorium (1124)
 ## Speaker: Mark Scott
 ## Title: Supercharge Microsoft BI with Pyramid Analytics
@@ -617,7 +617,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: Auditorium (1124)
 #  
 #### SessionID: 9561
 # Credit Card Security for the SQL DBA
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Auditing  Maint. (1053)
 ## Speaker: Andy Warren
 ## Title: Credit Card Security for the SQL DBA
@@ -626,7 +626,7 @@ Event Date: 14-06-2014 - Session time: 00:00:00 - Track: DBA - Auditing  Maint. 
 #  
 #### SessionID: 9599
 # Creating Access 2013 Web Apps in SQL Azure using SharePoint
-#### [Back to calendar](#SQLSaturday-#288---South-Florida-2014)
+#### [Back to calendar](#SQLSaturday-#288-South-Florida-2014)
 Event Date: 14-06-2014 - Session time: 00:00:00 - Track: SQL Azure (3046)
 ## Speaker: Andy Tabisz
 ## Title: Creating Access 2013 Web Apps in SQL Azure using SharePoint

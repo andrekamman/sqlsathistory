@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28389
 # PowerShell for the Data Professional
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1406
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for the Data Professional
@@ -51,7 +51,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1406
 #  
 #### SessionID: 28390
 # Virtualize This!
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1202 (Auditorium)
 ## Speaker: Aaron Nelson
 ## Title: Virtualize This!
@@ -60,7 +60,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1202 (Auditorium)
 #  
 #### SessionID: 28512
 # Introduction to SharePoint 2010 BI and PowerPivot
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: Business Intelligence -1102
 ## Speaker: Adam Jorgensen
 ## Title: Introduction to SharePoint 2010 BI and PowerPivot
@@ -69,7 +69,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: Business Intelligence -
 #  
 #### SessionID: 28730
 # Introduction to Statistics
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1400
 ## Speaker: Andy Warren
 ## Title: Introduction to Statistics
@@ -79,7 +79,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1400
 #  
 #### SessionID: 29081
 # Iron Chef Competition: Loading a Data Warehouse
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: Business Intelligence -1102
 ## Speaker: Brian Knight
 ## Title: Iron Chef Competition: Loading a Data Warehouse
@@ -88,7 +88,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: Business Intelligence -
 #  
 #### SessionID: 29277
 # Introduction to SQL Server Reporting Services 2008
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: Business Intelligence -1102
 ## Speaker: Brian McDonald
 ## Title: Introduction to SQL Server Reporting Services 2008
@@ -101,7 +101,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: Business Intelligence -
 #  
 #### SessionID: 29334
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: Business Intelligence -1102
 ## Speaker: Bradley Schacht
 ## Title: Introduction to SQL Server Integration Services
@@ -110,7 +110,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: Business Intelligence -
 #  
 #### SessionID: 29341
 # T-SQL 102: Aliases and Table Joins
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1404
 ## Speaker: Brandie Tarvin
 ## Title: T-SQL 102: Aliases and Table Joins
@@ -119,7 +119,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1404
 #  
 #### SessionID: 29622
 # Accelerating SQL with Solid State Technology
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1406
 ## Speaker: Sumeet  Bansal
 ## Title: Accelerating SQL with Solid State Technology
@@ -139,7 +139,7 @@ c.	Host-based PCI Express devices
 #  
 #### SessionID: 29878
 # Response Time Analysis of SQL Server Performance
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1202 (Auditorium)
 ## Speaker: Dean Richards
 ## Title: Response Time Analysis of SQL Server Performance
@@ -148,7 +148,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1202 (Auditorium)
 #  
 #### SessionID: 29879
 # Tuna Helper for SQL Server DBA's
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1402
 ## Speaker: Dean Richards
 ## Title: Tuna Helper for SQL Server DBA's
@@ -157,7 +157,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1402
 #  
 #### SessionID: 30060
 # High Anxiety with ORMs
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1400
 ## Speaker: Eric Humphrey
 ## Title: High Anxiety with ORMs
@@ -166,7 +166,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1400
 #  
 #### SessionID: 30126
 # SSIS Configurations, Expressions and Constraints
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1402
 ## Speaker: Eric Wisdahl
 ## Title: SSIS Configurations, Expressions and Constraints
@@ -175,7 +175,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1402
 #  
 #### SessionID: 30128
 # An Introductory Look at Execution Plans
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1406
 ## Speaker: Eric Wisdahl
 ## Title: An Introductory Look at Execution Plans
@@ -184,7 +184,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1406
 #  
 #### SessionID: 30190
 # Mini - SSIS for the DBA
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: Business Intelligence -1102
 ## Speaker: Michael Flora
 ## Title: Mini - SSIS for the DBA
@@ -193,7 +193,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: Business Intelligence -
 #  
 #### SessionID: 30353
 # Accessing Cube using ADOMD.NET
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1404
 ## Speaker: Mustika Nengah
 ## Title: Accessing Cube using ADOMD.NET
@@ -202,7 +202,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1404
 #  
 #### SessionID: 30654
 # Heterogeneous Data Integration with SSIS  CDC
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1400
 ## Speaker: Jeff Cole
 ## Title: Heterogeneous Data Integration with SSIS  CDC
@@ -211,7 +211,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1400
 #  
 #### SessionID: 30675
 # Basics of Sql Server Profiler
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1406
 ## Speaker: Jonathon Moorman
 ## Title: Basics of Sql Server Profiler
@@ -221,7 +221,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1406
 #  
 #### SessionID: 30676
 # Everything you wanted to know about IDENTITY colum
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1402
 ## Speaker: Jonathon Moorman
 ## Title: Everything you wanted to know about IDENTITY colum
@@ -230,7 +230,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1402
 #  
 #### SessionID: 31023
 # SQL University 101: Starting the SQL Journey
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1404
 ## Speaker: Jorge Segarra
 ## Title: SQL University 101: Starting the SQL Journey
@@ -239,7 +239,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1404
 #  
 #### SessionID: 31024
 # Policy-Based Management: Administration Made Easy
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1400
 ## Speaker: Jorge Segarra
 ## Title: Policy-Based Management: Administration Made Easy
@@ -248,7 +248,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1400
 #  
 #### SessionID: 31423
 # Introduction to Data Warehousing
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: Business Intelligence -1102
 ## Speaker: Devin Knight
 ## Title: Introduction to Data Warehousing
@@ -257,7 +257,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: Business Intelligence -
 #  
 #### SessionID: 31681
 # Building your First Cube in Analysis Services 2008
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: Business Intelligence -1102
 ## Speaker: Mike Davis
 ## Title: Building your First Cube in Analysis Services 2008
@@ -266,7 +266,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: Business Intelligence -
 #  
 #### SessionID: 31804
 # XML 101 for the SQL Developer
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1406
 ## Speaker: Michael Antonovich
 ## Title: XML 101 for the SQL Developer
@@ -275,7 +275,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1406
 #  
 #### SessionID: 31805
 # Publishing Access Applications to SharePoint
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1406
 ## Speaker: Michael Antonovich
 ## Title: Publishing Access Applications to SharePoint
@@ -284,7 +284,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1406
 #  
 #### SessionID: 32133
 # Introduction to Transactional Replication
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1404
 ## Speaker: Troy Gallant
 ## Title: Introduction to Transactional Replication
@@ -293,7 +293,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1404
 #  
 #### SessionID: 32252
 # Common SQL Programming Mistakes
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1202 (Auditorium)
 ## Speaker: Plamen Ratchev
 ## Title: Common SQL Programming Mistakes
@@ -302,7 +302,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1202 (Auditorium)
 #  
 #### SessionID: 32253
 # Refactoring SQL for Performance
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1202 (Auditorium)
 ## Speaker: Plamen Ratchev
 ## Title: Refactoring SQL for Performance
@@ -311,7 +311,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1202 (Auditorium)
 #  
 #### SessionID: 32338
 # SQL and SEO - Database Design and Web Marketing
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1402
 ## Speaker: Jared  Nielsen
 ## Title: SQL and SEO - Database Design and Web Marketing
@@ -322,7 +322,7 @@ Neither SQL nor SEO are four letter words and they go together perfectly!  So to
 #  
 #### SessionID: 32546
 # SSIS Deployment Strategies
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1402
 ## Speaker: Robby Robertson
 ## Title: SSIS Deployment Strategies
@@ -331,7 +331,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1402
 #  
 #### SessionID: 32615
 # Demystyfying SQL Code and Object Deployments
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1202 (Auditorium)
 ## Speaker: Rodney Landrum
 ## Title: Demystyfying SQL Code and Object Deployments
@@ -341,7 +341,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1202 (Auditorium)
 #  
 #### SessionID: 32908
 # Using Parameters in SSRS
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1404
 ## Speaker: Shawn Harrison
 ## Title: Using Parameters in SSRS
@@ -350,7 +350,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1404
 #  
 #### SessionID: 32910
 # SQL Server 2008 Resource Governor 
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1404
 ## Speaker: Shawn McGehee
 ## Title: SQL Server 2008 Resource Governor 
@@ -360,7 +360,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1404
 #  
 #### SessionID: 33202
 # Encryption How-To 101
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1400
 ## Speaker: Steve Schneider
 ## Title: Encryption How-To 101
@@ -374,7 +374,7 @@ This will include a live demonstrations of the concepts presented.
 #  
 #### SessionID: 33660
 # ITIL V3 for the  Database Administrator
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1400
 ## Speaker: Timothy McAliley
 ## Title: ITIL V3 for the  Database Administrator
@@ -383,7 +383,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1400
 #  
 #### SessionID: 33806
 # Table Partitioning: The Basics
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1202 (Auditorium)
 ## Speaker: Elijah Baker
 ## Title: Table Partitioning: The Basics
@@ -392,7 +392,7 @@ Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1202 (Auditorium)
 #  
 #### SessionID: 33835
 # Introduction to Data Mining using SQL 2008
-#### [Back to calendar](#SQLSaturday-#38---Jacksonville-2010)
+#### [Back to calendar](#SQLSaturday-#38-Jacksonville-2010)
 Event Date: 08-05-2010 - Session time: 00:00:00 - Track: 1402
 ## Speaker: Vikas Hawaldar
 ## Title: Introduction to Data Mining using SQL 2008

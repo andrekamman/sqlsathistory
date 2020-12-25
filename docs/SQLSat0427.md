@@ -18,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 35704
 # How to collect a baseline on all your servers and still get a good night's sleep.
-#### [Back to calendar](#SQLSaturday-#427---Sioux-Falls-2015)
+#### [Back to calendar](#SQLSaturday-#427-Sioux-Falls-2015)
 Event Date: 18-07-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Jim Dorame
 ## Title: How to collect a baseline on all your servers and still get a good night's sleep.
@@ -27,7 +27,7 @@ Event Date: 18-07-2015 - Session time: 15:30:00 - Track: DBA
 #  
 #### SessionID: 35823
 # Database Snapshots - Making Your Job Easier
-#### [Back to calendar](#SQLSaturday-#427---Sioux-Falls-2015)
+#### [Back to calendar](#SQLSaturday-#427-Sioux-Falls-2015)
 Event Date: 18-07-2015 - Session time: 15:30:00 - Track: ETL/DB Dev
 ## Speaker: Paul Timmerman
 ## Title: Database Snapshots - Making Your Job Easier
@@ -36,7 +36,7 @@ Event Date: 18-07-2015 - Session time: 15:30:00 - Track: ETL/DB Dev
 #  
 #### SessionID: 37043
 # "But It Sounded So Simple!":  Building a Messaging System in Service Broker
-#### [Back to calendar](#SQLSaturday-#427---Sioux-Falls-2015)
+#### [Back to calendar](#SQLSaturday-#427-Sioux-Falls-2015)
 Event Date: 18-07-2015 - Session time: 15:30:00 - Track: BI/Other
 ## Speaker: Matt Wigdahl
 ## Title: "But It Sounded So Simple!":  Building a Messaging System in Service Broker
@@ -45,7 +45,7 @@ Event Date: 18-07-2015 - Session time: 15:30:00 - Track: BI/Other
 #  
 #### SessionID: 35591
 # SSAS Multidimensional vs. SSAS Tabular – Which one do I use?
-#### [Back to calendar](#SQLSaturday-#427---Sioux-Falls-2015)
+#### [Back to calendar](#SQLSaturday-#427-Sioux-Falls-2015)
 Event Date: 18-07-2015 - Session time: 15:30:00 - Track: BI/Other
 ## Speaker: Alan Faulkner
 ## Title: SSAS Multidimensional vs. SSAS Tabular – Which one do I use?
@@ -57,7 +57,7 @@ Determining whether multidimensional or tabular is the optimum solution for your
 #  
 #### SessionID: 35687
 # A First Look at SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#427---Sioux-Falls-2015)
+#### [Back to calendar](#SQLSaturday-#427-Sioux-Falls-2015)
 Event Date: 18-07-2015 - Session time: 15:30:00 - Track: ETL/DB Dev
 ## Speaker: Rick Heiges
 ## Title: A First Look at SQL Server 2016
@@ -66,7 +66,7 @@ Event Date: 18-07-2015 - Session time: 15:30:00 - Track: ETL/DB Dev
 #  
 #### SessionID: 35999
 # Automated Enterprise-wide SQL Server Auditing
-#### [Back to calendar](#SQLSaturday-#427---Sioux-Falls-2015)
+#### [Back to calendar](#SQLSaturday-#427-Sioux-Falls-2015)
 Event Date: 18-07-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Nem Schlecht
 ## Title: Automated Enterprise-wide SQL Server Auditing
@@ -75,7 +75,7 @@ Event Date: 18-07-2015 - Session time: 15:30:00 - Track: DBA
 #  
 #### SessionID: 38215
 # Tegile - Lunch Session
-#### [Back to calendar](#SQLSaturday-#427---Sioux-Falls-2015)
+#### [Back to calendar](#SQLSaturday-#427-Sioux-Falls-2015)
 Event Date: 18-07-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Erin Dempster
 ## Title: Tegile - Lunch Session
@@ -84,7 +84,7 @@ Event Date: 18-07-2015 - Session time: 15:30:00 - Track: DBA
 #  
 #### SessionID: 35618
 # Effective Reporting through SSRS Advanced Authoring Features 
-#### [Back to calendar](#SQLSaturday-#427---Sioux-Falls-2015)
+#### [Back to calendar](#SQLSaturday-#427-Sioux-Falls-2015)
 Event Date: 18-07-2015 - Session time: 15:30:00 - Track: BI/Other
 ## Speaker: Brian Larson
 ## Title: Effective Reporting through SSRS Advanced Authoring Features 
@@ -93,7 +93,7 @@ Event Date: 18-07-2015 - Session time: 15:30:00 - Track: BI/Other
 #  
 #### SessionID: 37247
 # Continuous Integration for Databases
-#### [Back to calendar](#SQLSaturday-#427---Sioux-Falls-2015)
+#### [Back to calendar](#SQLSaturday-#427-Sioux-Falls-2015)
 Event Date: 18-07-2015 - Session time: 15:30:00 - Track: ETL/DB Dev
 ## Speaker: Steve Jones
 ## Title: Continuous Integration for Databases
@@ -102,7 +102,7 @@ Event Date: 18-07-2015 - Session time: 15:30:00 - Track: ETL/DB Dev
 #  
 #### SessionID: 35622
 # Hadoop for the SQL Server Developer/DBA
-#### [Back to calendar](#SQLSaturday-#427---Sioux-Falls-2015)
+#### [Back to calendar](#SQLSaturday-#427-Sioux-Falls-2015)
 Event Date: 18-07-2015 - Session time: 15:30:00 - Track: ETL/DB Dev
 ## Speaker: Bill Preachuk
 ## Title: Hadoop for the SQL Server Developer/DBA
@@ -111,7 +111,7 @@ Event Date: 18-07-2015 - Session time: 15:30:00 - Track: ETL/DB Dev
 #  
 #### SessionID: 37287
 # Advanced Troubleshooting Your SQL Connections
-#### [Back to calendar](#SQLSaturday-#427---Sioux-Falls-2015)
+#### [Back to calendar](#SQLSaturday-#427-Sioux-Falls-2015)
 Event Date: 18-07-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Mike Hays
 ## Title: Advanced Troubleshooting Your SQL Connections
@@ -120,7 +120,7 @@ Event Date: 18-07-2015 - Session time: 15:30:00 - Track: DBA
 #  
 #### SessionID: 37929
 # Common T-SQL Coding Mistakes and how to Mitigate them
-#### [Back to calendar](#SQLSaturday-#427---Sioux-Falls-2015)
+#### [Back to calendar](#SQLSaturday-#427-Sioux-Falls-2015)
 Event Date: 18-07-2015 - Session time: 15:30:00 - Track: BI/Other
 ## Speaker: William Wolf
 ## Title: Common T-SQL Coding Mistakes and how to Mitigate them
@@ -133,7 +133,7 @@ In this session we will focus some of these patterns and show you how to make th
 #  
 #### SessionID: 38214
 # Panel Discussion - Developing SQL Skills
-#### [Back to calendar](#SQLSaturday-#427---Sioux-Falls-2015)
+#### [Back to calendar](#SQLSaturday-#427-Sioux-Falls-2015)
 Event Date: 18-07-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Erin Dempster
 ## Title: Panel Discussion - Developing SQL Skills

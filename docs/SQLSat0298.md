@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10156
 # Inside the Query Optimizer
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Bradley Ball
 ## Title: Inside the Query Optimizer
@@ -55,7 +55,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 10527
 # Rapid Data Warehouse Design and ETL
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Brian McDonald
 ## Title: Rapid Data Warehouse Design and ETL
@@ -64,7 +64,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 11540
 # Check Engine Lights
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Chris Skorlinski
 ## Title: Check Engine Lights
@@ -73,7 +73,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13290
 # From S to 3XL: Implementing Data Partitioning and Tiered Storage
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Dmitri Korotkevitch
 ## Title: From S to 3XL: Implementing Data Partitioning and Tiered Storage
@@ -82,7 +82,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13495
 # What The Tabular???
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI (Auditorium 2)
 ## Speaker: Dustin Ryan
 ## Title: What The Tabular???
@@ -91,7 +91,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI (Auditorium 2)
 #  
 #### SessionID: 13986
 # ETL Frameworks using SSIS Programming with .NET
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jorge Novo
 ## Title: ETL Frameworks using SSIS Programming with .NET
@@ -100,7 +100,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 14017
 # Free tools from the SQL Server Community
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Eric Wisdahl
 ## Title: Free tools from the SQL Server Community
@@ -110,7 +110,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 15798
 # Maintenance and Backups:  Intro to Ola Hallengren
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jason Carter
 ## Title: Maintenance and Backups:  Intro to Ola Hallengren
@@ -119,7 +119,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 15988
 # Shredding XML in SQL Server
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jason Strate
 ## Title: Shredding XML in SQL Server
@@ -128,7 +128,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 16326
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
@@ -137,7 +137,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17180
 # Moving Big Data - SSIS, Pig, and Sqoop
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Big Data (Auditorium 1)
 ## Speaker: John Welch
 ## Title: Moving Big Data - SSIS, Pig, and Sqoop
@@ -146,7 +146,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Big Data (Auditorium 1)
 #  
 #### SessionID: 17418
 # What is a BI DBA?
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI (Auditorium 2)
 ## Speaker: Jorge Segarra
 ## Title: What is a BI DBA?
@@ -155,7 +155,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI (Auditorium 2)
 #  
 #### SessionID: 17528
 # Show me whatcha workin' with: Big Data Edition
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Big Data (Auditorium 1)
 ## Speaker: Josh Luedeman
 ## Title: Show me whatcha workin' with: Big Data Edition
@@ -164,7 +164,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Big Data (Auditorium 1)
 #  
 #### SessionID: 17622
 # Fundamentals of Data Warehouse Architecture and Design
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Joe Salvatore
 ## Title: Fundamentals of Data Warehouse Architecture and Design
@@ -173,7 +173,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 18652
 # Kids Camp
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Kids Camp
 ## Speaker: Devin Knight
 ## Title: Kids Camp
@@ -182,7 +182,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Kids Camp
 #  
 #### SessionID: 18653
 # Big Data Panel
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Big Data (Auditorium 1)
 ## Speaker: Devin Knight
 ## Title: Big Data Panel
@@ -191,7 +191,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Big Data (Auditorium 1)
 #  
 #### SessionID: 19167
 # SQL Server Extended Events
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Lisa Jackson-Neblett
 ## Title: SQL Server Extended Events
@@ -200,7 +200,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 19671
 # SQL Server and Big Data Projects in the Real World
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Big Data (Auditorium 1)
 ## Speaker: Mark Kromer
 ## Title: SQL Server and Big Data Projects in the Real World
@@ -209,7 +209,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Big Data (Auditorium 1)
 #  
 #### SessionID: 19909
 # Powershell Working with Windows Azure SQL Database Server
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Maximo Trinidad
 ## Title: Powershell Working with Windows Azure SQL Database Server
@@ -218,7 +218,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 19976
 # Mastering the Technology Interview
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mike Davis
 ## Title: Mastering the Technology Interview
@@ -227,7 +227,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 20034
 # SQL Server 2014 for the DBA 
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Gareth Swanepoel
 ## Title: SQL Server 2014 for the DBA 
@@ -237,7 +237,7 @@ The target of this session is SQL Server DBA’s, developers, architects or IT p
 #  
 #### SessionID: 20491
 # Putting Quality Back Into Your Data Analysis
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Michael Antonovich
 ## Title: Putting Quality Back Into Your Data Analysis
@@ -246,7 +246,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 20602
 # Performance Tuning for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mike Lawell
 ## Title: Performance Tuning for Mere Mortals
@@ -255,7 +255,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 21010
 # Introduction to SSIS, SQL 2012
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI (Auditorium 2)
 ## Speaker: Mitchell Pearson
 ## Title: Introduction to SSIS, SQL 2012
@@ -264,7 +264,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI (Auditorium 2)
 #  
 #### SessionID: 21113
 # Intro to Big Data
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Big Data (Auditorium 1)
 ## Speaker: Michael Reed
 ## Title: Intro to Big Data
@@ -273,7 +273,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Big Data (Auditorium 1)
 #  
 #### SessionID: 21476
 # Working with Maps in Reporting Services
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Nengah Mustika
 ## Title: Working with Maps in Reporting Services
@@ -282,7 +282,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 21586
 # Indexing your Data Warehouse
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Troy Gallant
 ## Title: Indexing your Data Warehouse
@@ -291,7 +291,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 22357
 # Tips  Tricks for dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic SSRS Reports
@@ -301,7 +301,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 23149
 # Detecting Changes in SQL Server
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Robert Biddle
 ## Title: Detecting Changes in SQL Server
@@ -311,7 +311,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 23441
 # SQL Server Security Easy Button
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Ronald Dameron
 ## Title: SQL Server Security Easy Button
@@ -323,7 +323,7 @@ In addition, I’ll talk about our DBA’s real world experience with reduced pe
 #  
 #### SessionID: 23789
 # SSRS 2012 Introduction and Capabilities
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Sandhya Hawaldar
 ## Title: SSRS 2012 Introduction and Capabilities
@@ -332,7 +332,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 24406
 # SSIS Performance Tuning
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI (Auditorium 2)
 ## Speaker: Shawn Harrison
 ## Title: SSIS Performance Tuning
@@ -341,7 +341,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI (Auditorium 2)
 #  
 #### SessionID: 24898
 # Introduction to SQL Server Clustering
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Chad Churchwell
 ## Title: Introduction to SQL Server Clustering
@@ -350,7 +350,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 25300
 # SQL 2012 Empowers SharePoint BI
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI (Auditorium 2)
 ## Speaker: Steve Schneider
 ## Title: SQL 2012 Empowers SharePoint BI
@@ -359,7 +359,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI (Auditorium 2)
 #  
 #### SessionID: 27318
 # Add power to SSAS Cube Using MDX
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: VIKAS HAWALDAR HAWALDAR
 ## Title: Add power to SSAS Cube Using MDX
@@ -368,7 +368,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 27348
 # DAX 101
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Damu Venkatesan
 ## Title: DAX 101
@@ -377,7 +377,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 27463
 # Breakthrough Data Platform Performance with SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jason Virtue
 ## Title: Breakthrough Data Platform Performance with SQL Server 2014
@@ -386,7 +386,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 9043
 # Ola Hallengren Maintenance - How to and Advanced configurations
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Valentin Iamandi
 ## Title: Ola Hallengren Maintenance - How to and Advanced configurations
@@ -400,7 +400,7 @@ How to add parameters inline at the maintenance job execution time
 #  
 #### SessionID: 9137
 # On-Demand Compute and Analytics with Powershell, Hadoop and Azure
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Big Data (Auditorium 1)
 ## Speaker: Adam Jorgensen
 ## Title: On-Demand Compute and Analytics with Powershell, Hadoop and Azure
@@ -409,7 +409,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: Big Data (Auditorium 1)
 #  
 #### SessionID: 9563
 # Building Your Professional Development Plan
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Andy Warren
 ## Title: Building Your Professional Development Plan
@@ -418,7 +418,7 @@ Event Date: 10-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 9723
 # So you think MDX is hard?
-#### [Back to calendar](#SQLSaturday-#298---Jacksonville-2014)
+#### [Back to calendar](#SQLSaturday-#298-Jacksonville-2014)
 Event Date: 10-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Robert Cain
 ## Title: So you think MDX is hard?

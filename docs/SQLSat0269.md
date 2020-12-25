@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 12084
 # Session Details not available
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: n/a n/a
 ## Title: Session Details not available
@@ -40,7 +40,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 12199
 # Query Optimizer internals
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dave Ballantyne
 ## Title: Query Optimizer internals
@@ -55,7 +55,7 @@ This session will be a deep dive into the optimizers' internals and not for the 
 #  
 #### SessionID: 12453
 # A real DBA don’t need a GUI -A Guided Tour of SQL Server Management Studio
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: David Postlethwaite
 ## Title: A real DBA don’t need a GUI -A Guided Tour of SQL Server Management Studio
@@ -67,7 +67,7 @@ At the end of this session you will have learnt at least one new feature of SSMS
 #  
 #### SessionID: 12806
 # SQL Server 2014 New Features (not Hekaton!)
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Williams
 ## Title: SQL Server 2014 New Features (not Hekaton!)
@@ -87,7 +87,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 12828
 # Query Plans Deep Dive
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: David Morrison
 ## Title: Query Plans Deep Dive
@@ -98,7 +98,7 @@ Attendees of this session will walk away with a greater understanding of query p
 #  
 #### SessionID: 13775
 # How to become a BI Developer? 
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Emil Glownia
 ## Title: How to become a BI Developer? 
@@ -116,7 +116,7 @@ I have become a BI Developer and I would like to share my experience and thought
 #  
 #### SessionID: 14014
 # SQL Server 2014 and Azure SQL DB - The Road Ahead
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ewan Fairweather
 ## Title: SQL Server 2014 and Azure SQL DB - The Road Ahead
@@ -125,7 +125,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 15099
 # Powerful T-SQL Improvements that Reduce Query Complexity
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Hugo Kornelis
 ## Title: Powerful T-SQL Improvements that Reduce Query Complexity
@@ -136,7 +136,7 @@ Attend this session to boldly take SQL Server where it has never gone before!
 #  
 #### SessionID: 15296
 # Dynamic code for efficient searching 
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Ian Meade
 ## Title: Dynamic code for efficient searching 
@@ -145,7 +145,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 15544
 # SQL 2014 In-Memory: Could you? Would you? Why the fudge should you?
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: James Skipwith
 ## Title: SQL 2014 In-Memory: Could you? Would you? Why the fudge should you?
@@ -154,7 +154,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16393
 # The Accidental Business Intelligence Project Manager
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jen Stirrup
 ## Title: The Accidental Business Intelligence Project Manager
@@ -170,7 +170,7 @@ Jen will give you some ideas and insights that will help you set your BI project
 #  
 #### SessionID: 18135
 # Delivering PowerView with SQL Server 2014 and SharePoint 2013
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kevin Chant
 ## Title: Delivering PowerView with SQL Server 2014 and SharePoint 2013
@@ -179,7 +179,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18258
 # Uncovering the hidden gems in execution plans
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kevan Riley
 ## Title: Uncovering the hidden gems in execution plans
@@ -189,7 +189,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 21123
 # PowerShell Box of Tricks
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Rob Sewell
 ## Title: PowerShell Box of Tricks
@@ -198,7 +198,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21379
 # Effective Index Partitioning, Compression Strategy
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Neil Hambly
 ## Title: Effective Index Partitioning, Compression Strategy
@@ -212,7 +212,7 @@ Using Demos to illustrate the performance gains with real-world examples, Take a
 #  
 #### SessionID: 22139
 # 1, 2, 3, … wait… 1, 2, 3, … many… SQL Servers
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Pieter Vanhove
 ## Title: 1, 2, 3, … wait… 1, 2, 3, … many… SQL Servers
@@ -221,7 +221,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 22172
 # Remodel your old EAV design
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Peter Larsson
 ## Title: Remodel your old EAV design
@@ -234,7 +234,7 @@ There will be real life examples from a recent project. With the techniques disp
 #  
 #### SessionID: 24651
 # Reduce, Reuse, Recycle: Automating Your BI Framework
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Stacia Varga
 ## Title: Reduce, Reuse, Recycle: Automating Your BI Framework
@@ -243,7 +243,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24782
 # SQL Impossible: Restoring/Undeleting a table 
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mladen Prajdić
 ## Title: SQL Impossible: Restoring/Undeleting a table 
@@ -259,7 +259,7 @@ Want to know more? Come and see!
 #  
 #### SessionID: 25014
 # Let's cook  'best SQL Server DBA practices'
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Satya Jayanty
 ## Title: Let's cook  'best SQL Server DBA practices'
@@ -268,7 +268,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 25072
 # Policy-based what ? (Or how I learned to stop worrying and love PBM)
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Richard  Munn
 ## Title: Policy-based what ? (Or how I learned to stop worrying and love PBM)
@@ -277,7 +277,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 25269
 # An introduction to R
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Stephanie Locke
 ## Title: An introduction to R
@@ -286,7 +286,7 @@ Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 25824
 # PowerShell for the curious SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Stuart Moore
 ## Title: PowerShell for the curious SQL Server DBA
@@ -301,7 +301,7 @@ Session 1 will be a easy high level introduction
 #  
 #### SessionID: 28201
 # SQL Server Consolidation - Resistance is Futile
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: William Durkin
 ## Title: SQL Server Consolidation - Resistance is Futile
@@ -312,7 +312,7 @@ In this session we will discuss how consolidating SQL Server can reduce overall 
 #  
 #### SessionID: 34557
 # Automate your SSIS development with BIML
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: André Kamman
 ## Title: Automate your SSIS development with BIML
@@ -329,7 +329,7 @@ This is not just for BI developers, DBA's or SQL dev's who need to import or exp
 #  
 #### SessionID: 9295
 # Hadoop for the Microsoft Guy
-#### [Back to calendar](#SQLSaturday-#269---Exeter-2014)
+#### [Back to calendar](#SQLSaturday-#269-Exeter-2014)
 Event Date: 22-03-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Allan Mitchell
 ## Title: Hadoop for the Microsoft Guy

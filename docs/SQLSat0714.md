@@ -56,7 +56,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 73290
 # Power BI Implementation: A Guide to the Other 90%
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: PreCon (Friday)
 ## Speaker: Eugene Meidinger
 ## Title: Power BI Implementation: A Guide to the Other 90%
@@ -69,7 +69,7 @@ The second half of the day is all about deployment and administration. Do you ha
 #  
 #### SessionID: 74498
 # SQL Server Tools for Query Tuning
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: PreCon (Friday)
 ## Speaker: Grant Fritchey
 ## Title: SQL Server Tools for Query Tuning
@@ -78,7 +78,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: PreCon (Friday)
 #  
 #### SessionID: 74499
 # XML and JSON deep dive
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: PreCon (Friday)
 ## Speaker: Alex Grinberg
 ## Title: XML and JSON deep dive
@@ -95,7 +95,7 @@ solving different types of problems.
 #  
 #### SessionID: 72064
 # T-SQL Window Function Performance
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Window Function Performance
@@ -104,7 +104,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 73409
 # Deploy AlwaysOn on Google Cloud in Real Life
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Zhen Zhang
 ## Title: Deploy AlwaysOn on Google Cloud in Real Life
@@ -113,7 +113,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 80609
 # Simple Modeling Solutions to Complex Measure Problems
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Technical Vendor Session
 ## Speaker: Greg Baldini
 ## Title: Simple Modeling Solutions to Complex Measure Problems
@@ -129,7 +129,7 @@ By the end of this talk, you should have a stronger understanding of the right q
 #  
 #### SessionID: 73235
 # Power BI Security
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ravi Kumar
 ## Title: Power BI Security
@@ -142,7 +142,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 73340
 # Deploying SQL Server using Desired State Configuration
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ned Bellavance
 ## Title: Deploying SQL Server using Desired State Configuration
@@ -153,7 +153,7 @@ There will be demos! No death by PowerPoint.
 #  
 #### SessionID: 73615
 # Effective Data Warehouse Storage Patterns
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: John Miner
 ## Title: Effective Data Warehouse Storage Patterns
@@ -182,7 +182,7 @@ Coverage:
 #  
 #### SessionID: 80429
 # Innovation or Extinction: Reimagining the Role of IT
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Beverly Prohaska
 ## Title: Innovation or Extinction: Reimagining the Role of IT
@@ -191,7 +191,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Professional Developmen
 #  
 #### SessionID: 70777
 # Data Landscape on Azure
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sepand Gojgini
 ## Title: Data Landscape on Azure
@@ -200,7 +200,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 70961
 # Reducing The Surface Area Of Risk in Data Security
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Information Delivery
 ## Speaker: Tim Gorman
 ## Title: Reducing The Surface Area Of Risk in Data Security
@@ -213,7 +213,7 @@ Come learn about the right way to mask non-production data in order to allow the
 #  
 #### SessionID: 73936
 # Healthcare Analytics using Machine Learning Services with Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Analytics and Visualization
 ## Speaker: Rick Wargo
 ## Title: Healthcare Analytics using Machine Learning Services with Python in SQL Server 2017
@@ -222,7 +222,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 70771
 # Microsoft and Big Data - An Overview of the Power Tools and more!
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Analytics and Visualization
 ## Speaker: David Patrick
 ## Title: Microsoft and Big Data - An Overview of the Power Tools and more!
@@ -231,7 +231,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 72642
 # DAX More Than Measures: An Introduction to DAX as a Query Language
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: BI Information Delivery
 ## Speaker: Greg Baldini
 ## Title: DAX More Than Measures: An Introduction to DAX as a Query Language
@@ -242,7 +242,7 @@ DAX is actually a query language, with rich semantics to represent all manner of
 #  
 #### SessionID: 73303
 # XML and JSON, does the DBA need it
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Advanced Analysis Techniques
 ## Speaker: Alex Grinberg
 ## Title: XML and JSON, does the DBA need it
@@ -251,7 +251,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 72281
 # Statistics and Cardinality – How they work together
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Strategy and Architecture
 ## Speaker: Chris Bell
 ## Title: Statistics and Cardinality – How they work together
@@ -262,7 +262,7 @@ In this session we will go over why statistics matter, how they are generated, h
 #  
 #### SessionID: 72551
 # So you want to Present: Tips and Tricks of the trade
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Greg Moore
 ## Title: So you want to Present: Tips and Tricks of the trade
@@ -279,7 +279,7 @@ This will be partly interactive so come with questions and be prepared to be ask
 #  
 #### SessionID: 73640
 # Azure SQL Data Warehouse - Migrate on-premises to cloud: How to and Best Practice
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Linda Zhang
 ## Title: Azure SQL Data Warehouse - Migrate on-premises to cloud: How to and Best Practice
@@ -289,7 +289,7 @@ We will discuss what is Azure SQL DW and ways to build it and migrate to it.  Az
 #  
 #### SessionID: 73949
 # Entrepreneurship - Are you ready to make it on your own?
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Joe Wehr
 ## Title: Entrepreneurship - Are you ready to make it on your own?
@@ -312,7 +312,7 @@ If you have been thinking about “it” but aren't sure if you're ready, you ne
 #  
 #### SessionID: 73897
 # SQL Server 2017 and Python… Perfect Together
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Analytics and Visualization
 ## Speaker: Tracey Kroll
 ## Title: SQL Server 2017 and Python… Perfect Together
@@ -323,7 +323,7 @@ This session explores how the basics of Python, how it is integrated within SQL 
 #  
 #### SessionID: 80503
 # #GetModern With Dell EMC
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Technical Vendor Session
 ## Speaker: Michael Wells
 ## Title: #GetModern With Dell EMC
@@ -332,7 +332,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Technical Vendor Sessio
 #  
 #### SessionID: 70915
 # Big data architectures and the data lake
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Strategy and Architecture
 ## Speaker: James Serra
 ## Title: Big data architectures and the data lake
@@ -341,7 +341,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 73821
 # HA/DR Solutions Using Distributed Availability Groups
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Strategy and Architecture
 ## Speaker: Jennifer Brocato
 ## Title: HA/DR Solutions Using Distributed Availability Groups
@@ -350,7 +350,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 78747
 # REST Easy - Instant APIs for Your Database
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Technical Vendor Session
 ## Speaker: Jerod Johnson
 ## Title: REST Easy - Instant APIs for Your Database
@@ -363,7 +363,7 @@ With the CData API Server, users can rapidly create RESTful APIs for SQL Server 
 #  
 #### SessionID: 70762
 # I lost my job!  Now what?!?  A survival guide for the unemployed
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: I lost my job!  Now what?!?  A survival guide for the unemployed
@@ -376,7 +376,7 @@ Fortunately, unemployment is survivable.  In this session, I'll share my own exp
 #  
 #### SessionID: 80291
 # Remember what it’s like to be a Beginner?
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Walter Shields
 ## Title: Remember what it’s like to be a Beginner?
@@ -391,7 +391,7 @@ In this session, I will walk us down memory lane back to the place we all starte
 #  
 #### SessionID: 80773
 # 7 Steps to Starting Your Own Business
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Ivan Carter
 ## Title: 7 Steps to Starting Your Own Business
@@ -400,7 +400,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Professional Developmen
 #  
 #### SessionID: 72662
 # Collecting Performance Metrics
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Collecting Performance Metrics
@@ -413,7 +413,7 @@ Attendees in this session will learn how to collect important metric data, what 
 #  
 #### SessionID: 74497
 # Extending DevOps to SQL Server
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Extending DevOps to SQL Server
@@ -422,7 +422,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 80770
 # Move Your SQLServer Database to the cloud
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Technical Vendor Session
 ## Speaker: Clay Jackson
 ## Title: Move Your SQLServer Database to the cloud
@@ -437,7 +437,7 @@ How Do I Move to The Cloud?
 #  
 #### SessionID: 72202
 # Controlling Competing Workloads with SQL Server Resource Governor
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Carrig
 ## Title: Controlling Competing Workloads with SQL Server Resource Governor
@@ -446,7 +446,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 72280
 # 5 Minute No Sweat SQL Security Audits
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: 5 Minute No Sweat SQL Security Audits
@@ -456,7 +456,7 @@ In this session, you will get scripts that I use for compliance audits that help
 #  
 #### SessionID: 74501
 # Implementing Data Warehouse Patterns with the Microsoft Data Plat
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Goff
 ## Title: Implementing Data Warehouse Patterns with the Microsoft Data Plat
@@ -465,7 +465,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 72062
 # Azure Machine Learning 101
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kathi Kellenberger
 ## Title: Azure Machine Learning 101
@@ -474,7 +474,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 72875
 # Mom Rules for Managing Enterprise Database Environments
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: Mom Rules for Managing Enterprise Database Environments
@@ -483,7 +483,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73944
 # Power Query ETL: Let’s talk about data integration with Power Query
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: BI Information Delivery
 ## Speaker: Nick Chobotar
 ## Title: Power Query ETL: Let’s talk about data integration with Power Query
@@ -498,7 +498,7 @@ Some key topics include:
 #  
 #### SessionID: 73960
 # The Phenomenal IT Consultant - A Blueprint to Getting New Clients, Charging More, and Working Less
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Sebastian Meine
 ## Title: The Phenomenal IT Consultant - A Blueprint to Getting New Clients, Charging More, and Working Less
@@ -513,7 +513,7 @@ So, if you feel like you are treading water when it comes to growing your client
 #  
 #### SessionID: 73989
 # Data Governance and Master Data Management
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: BI Information Delivery
 ## Speaker: Vince Napoli
 ## Title: Data Governance and Master Data Management
@@ -522,7 +522,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: BI Information Delivery
 #  
 #### SessionID: 78067
 # Protecting SQL Server on Linux!
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Technical Vendor Session
 ## Speaker: Michael Traudt
 ## Title: Protecting SQL Server on Linux!
@@ -531,7 +531,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Technical Vendor Sessio
 #  
 #### SessionID: 80293
 # How to Ace Your Job Interview
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Sarah Hutchins
 ## Title: How to Ace Your Job Interview
@@ -540,7 +540,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Professional Developmen
 #  
 #### SessionID: 72121
 # Power Query Deep Dive
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: BI Information Delivery
 ## Speaker: Dan Clark
 ## Title: Power Query Deep Dive
@@ -549,7 +549,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: BI Information Delivery
 #  
 #### SessionID: 72205
 # Successfully Running SQL Server in AWS
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Carrig
 ## Title: Successfully Running SQL Server in AWS
@@ -558,7 +558,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73827
 # Table Partitioning 101
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ned Otter
 ## Title: Table Partitioning 101
@@ -571,7 +571,7 @@ Only one way to find out!
 #  
 #### SessionID: 70781
 # DevOps Database administration.
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stephen Mokszycki
 ## Title: DevOps Database administration.
@@ -582,7 +582,7 @@ There will be a demo!
 #  
 #### SessionID: 70916
 # Choosing technologies for a big data solution in the cloud
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: James Serra
 ## Title: Choosing technologies for a big data solution in the cloud
@@ -591,7 +591,7 @@ Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 71192
 # Tips on Managing Lots of SQL Servers
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Tips on Managing Lots of SQL Servers
@@ -602,7 +602,7 @@ In this talk we will answer these questions and more as we discuss technologies 
 #  
 #### SessionID: 73161
 # New features in Management Studio and Showplan -- Performance Troubleshooting made easier!
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taiob Ali
 ## Title: New features in Management Studio and Showplan -- Performance Troubleshooting made easier!
@@ -615,7 +615,7 @@ In this demo intensive session, I will show you how to find and use new features
 #  
 #### SessionID: 74500
 # Self Service Business Intelligence: Model for High Efficiency
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: BI Information Delivery
 ## Speaker: Zachary Fanelle
 ## Title: Self Service Business Intelligence: Model for High Efficiency
@@ -626,7 +626,7 @@ In this discussion, Zack Fanelle will be covering the intricacies of why the sel
 #  
 #### SessionID: 80013
 # Women’s Mental Toughness in the Tech Industry
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Bobbi-Jo Brighton, CST, LCI
 ## Title: Women’s Mental Toughness in the Tech Industry
@@ -637,7 +637,7 @@ Mental Toughness coach Bobbi-Jo Brighton, CST, LCI, helps us take a critical and
 #  
 #### SessionID: 80117
 # SQL Automation – In the Cloud, On-Premise, and Hybrid
-#### [Back to calendar](#SQLSaturday-#714---Philadelphia-2018)
+#### [Back to calendar](#SQLSaturday-#714-Philadelphia-2018)
 Event Date: 21-04-2018 - Session time: 15:40:00 - Track: Technical Vendor Session
 ## Speaker: Louis Diaz-Delgado
 ## Title: SQL Automation – In the Cloud, On-Premise, and Hybrid

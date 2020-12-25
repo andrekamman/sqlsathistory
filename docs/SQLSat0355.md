@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13559
 # Analyzing Text with SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track DEV
 ## Speaker: Dejan Sarka
 ## Title: Analyzing Text with SQL Server 2014
@@ -33,7 +33,7 @@ Microsoft SQL Server in versions 2012 and 2014 enhances full-text search support
 #  
 #### SessionID: 13560
 # Identity Mapping and De-Duplicating 
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track DEV
 ## Speaker: Dejan Sarka
 ## Title: Identity Mapping and De-Duplicating 
@@ -42,7 +42,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track DEV
 #  
 #### SessionID: 14603
 # Extending the Data Collector to Monitor SQL Server effortlessly
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track OPERATIONAL
 ## Speaker: Gianluca Sartori
 ## Title: Extending the Data Collector to Monitor SQL Server effortlessly
@@ -51,7 +51,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track OPERATIONAL
 #  
 #### SessionID: 14632
 # Columnstore indexes, concepts and evolution
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track BI
 ## Speaker: Gilberto Zampatti
 ## Title: Columnstore indexes, concepts and evolution
@@ -60,7 +60,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track BI
 #  
 #### SessionID: 15334
 # BI Markup Language - BI to the next level (IT)
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track BI
 ## Speaker: Davide Mauri
 ## Title: BI Markup Language - BI to the next level (IT)
@@ -69,7 +69,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track BI
 #  
 #### SessionID: 15335
 # Modern Hybrid BI Solutions: Azure, Big Data  Power BI
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track BI
 ## Speaker: Davide Mauri
 ## Title: Modern Hybrid BI Solutions: Azure, Big Data  Power BI
@@ -78,7 +78,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track BI
 #  
 #### SessionID: 15341
 # Xvelocity in deep
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track BI
 ## Speaker: Marco Pozzan
 ## Title: Xvelocity in deep
@@ -87,7 +87,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track BI
 #  
 #### SessionID: 19290
 # SQl Server 2012 Parallel Datawarehouse
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track BI
 ## Speaker: Luca Ferrari
 ## Title: SQl Server 2012 Parallel Datawarehouse
@@ -101,7 +101,7 @@ support....
 #  
 #### SessionID: 19291
 # Sql Server 2014 In-Memory Oltp Database
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track DEV
 ## Speaker: Luca Ferrari
 ## Title: Sql Server 2014 In-Memory Oltp Database
@@ -110,7 +110,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track DEV
 #  
 #### SessionID: 19471
 # Power Query in Modern Corporate BI
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track BI
 ## Speaker: Marco Russo
 ## Title: Power Query in Modern Corporate BI
@@ -119,7 +119,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track BI
 #  
 #### SessionID: 20226
 # Entity Framework 6 for developers, Code-First!
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track DEV
 ## Speaker: Michael Denny
 ## Title: Entity Framework 6 for developers, Code-First!
@@ -128,7 +128,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track DEV
 #  
 #### SessionID: 23999
 # Ottimizzare le query SQL: tecniche di analisi del codice eseguito in memoria cache.
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track OPERATIONAL
 ## Speaker: Saverio Lorenzini
 ## Title: Ottimizzare le query SQL: tecniche di analisi del codice eseguito in memoria cache.
@@ -139,7 +139,7 @@ La sessione mostra le tecniche di esplorazione della memoria cache di SQL Server
 #  
 #### SessionID: 24392
 # Execution Plans in SQL Server e SQL Azure
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track OPERATIONAL
 ## Speaker: Sergio Govoni
 ## Title: Execution Plans in SQL Server e SQL Azure
@@ -148,7 +148,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track OPERATIONAL
 #  
 #### SessionID: 25895
 # Database under source control
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track DEV
 ## Speaker: Alessandro Alpi
 ## Title: Database under source control
@@ -157,7 +157,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track DEV
 #  
 #### SessionID: 25896
 # Database unit testing
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track DEV
 ## Speaker: Alessandro Alpi
 ## Title: Database unit testing
@@ -166,7 +166,7 @@ Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track DEV
 #  
 #### SessionID: 34761
 # Azure Overview for SQL Server Developers
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track OPERATIONAL
 ## Speaker: Marco Parenzan
 ## Title: Azure Overview for SQL Server Developers
@@ -176,7 +176,7 @@ https://github.com/marcoparenzan/sqlsat355
 #  
 #### SessionID: 9439
 # SQL Server: miti da sfatare 
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track OPERATIONAL
 ## Speaker: andrea benedetti
 ## Title: SQL Server: miti da sfatare 
@@ -190,7 +190,7 @@ Scopriremo come miti e pregiudizi comuni possono in realtà peggiorare le presta
 #  
 #### SessionID: 9444
 # Virtualize SQL Server
-#### [Back to calendar](#SQLSaturday-#355---Parma,-Italy-2014)
+#### [Back to calendar](#SQLSaturday-#355-Parma,-Italy-2014)
 Event Date: 22-11-2014 - Session time: 00:00:00 - Track: Track OPERATIONAL
 ## Speaker: Andrea Caldarone
 ## Title: Virtualize SQL Server

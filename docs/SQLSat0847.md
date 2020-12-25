@@ -68,7 +68,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 88065
 # Power BI Security -  End to End
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Analytics
 ## Speaker: Suresh Datla
 ## Title: Power BI Security -  End to End
@@ -77,7 +77,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Analytics
 #  
 #### SessionID: 88577
 # Tips, Tricks and Secrets for the SQL Professional
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Mitchell Bottel
 ## Title: Tips, Tricks and Secrets for the SQL Professional
@@ -86,7 +86,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 89430
 # Introduction to T-SQL Windowing Functions
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: T-SQL Introductions
 ## Speaker: Kathi Kellenberger
 ## Title: Introduction to T-SQL Windowing Functions
@@ -97,7 +97,7 @@ Attend this session to learn how T-SQL windowing functions apply to many real wo
 #  
 #### SessionID: 89803
 # I'm It - Survival Techniques for the Lone DBA
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
@@ -106,7 +106,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 90503
 # Don't just code it—Generate It
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Kevin Mackey
 ## Title: Don't just code it—Generate It
@@ -121,7 +121,7 @@ Generated code has systematic errors. Fix the errors at the generator. All the c
 #  
 #### SessionID: 90509
 # SQL Server on AWS - Elastic Compute Cloud vs Relational Database Service
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Azure  Cloud Technologies
 ## Speaker: Rick Lowe
 ## Title: SQL Server on AWS - Elastic Compute Cloud vs Relational Database Service
@@ -130,7 +130,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Azure  Cloud Technologi
 #  
 #### SessionID: 90661
 # Move Over Dexter! We are Building a Enterprise Machine Learning Lab!
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Analytics
 ## Speaker: PEIXIN WANG
 ## Title: Move Over Dexter! We are Building a Enterprise Machine Learning Lab!
@@ -139,7 +139,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Analytics
 #  
 #### SessionID: 90718
 # The Fast and Easy Methods to Automate your SQL Server builds
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Sitotpal Sarkar
 ## Title: The Fast and Easy Methods to Automate your SQL Server builds
@@ -150,7 +150,7 @@ After this session, you'll learn the benefits you can do from a command line ins
 #  
 #### SessionID: 90731
 # [Step by Step] How to Start SQL Server Docker container.
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Azure  Cloud Technologies
 ## Speaker: SUNG WOOK KANG
 ## Title: [Step by Step] How to Start SQL Server Docker container.
@@ -161,7 +161,7 @@ During the given session, I'd like to go over the basic theory of the docker, ho
 #  
 #### SessionID: 91587
 # First Timer Orientation
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Ted Stathakis
 ## Title: First Timer Orientation
@@ -170,7 +170,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 88928
 # Introduction to Azure Cosmos DB
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Azure  Cloud Technologies
 ## Speaker: Leonard Lobel
 ## Title: Introduction to Azure Cosmos DB
@@ -181,7 +181,7 @@ We tour many features of Cosmos DB, including its multi-model capabilities which
 #  
 #### SessionID: 89043
 # Introduction to BI Architecture
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Analytics
 ## Speaker: Warren Sifre
 ## Title: Introduction to BI Architecture
@@ -190,7 +190,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Analytics
 #  
 #### SessionID: 89460
 # 3 Keys to Successful Consulting
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Mohammad Darab
 ## Title: 3 Keys to Successful Consulting
@@ -205,7 +205,7 @@ Whether you are interested in starting your own business, or a consultant wantin
 #  
 #### SessionID: 89632
 # Querying SQL Server for Beginners
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: T-SQL Introductions
 ## Speaker: Kathi Kellenberger
 ## Title: Querying SQL Server for Beginners
@@ -214,7 +214,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: T-SQL Introductions
 #  
 #### SessionID: 89740
 # [StepByStep] SQL Server on Container? What is Kubernetes?
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Azure  Cloud Technologies
 ## Speaker: Simon Cho
 ## Title: [StepByStep] SQL Server on Container? What is Kubernetes?
@@ -235,7 +235,7 @@ Within this session will cover what the market demand is and what SQL server can
 #  
 #### SessionID: 89875
 # Centralized SSIS
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Michellea David
 ## Title: Centralized SSIS
@@ -244,7 +244,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 90253
 # Reporting Services 2016: New Features  Smart Migration Strategy
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Presentation  Visualization
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services 2016: New Features  Smart Migration Strategy
@@ -255,7 +255,7 @@ The session will then dive into how to use the data in the ReportServer database
 #  
 #### SessionID: 90265
 # Mastering Master Data Services
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Jeff Prom
 ## Title: Mastering Master Data Services
@@ -266,7 +266,7 @@ In this presentation we will cover MDS from start to finish including installati
 #  
 #### SessionID: 90674
 # SSIS Basics
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Brodie Brickey
 ## Title: SSIS Basics
@@ -275,7 +275,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 88311
 # Not your Dad's SQL Server; Contemporary twist on a classic standby.
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Hasan Savran
 ## Title: Not your Dad's SQL Server; Contemporary twist on a classic standby.
@@ -290,7 +290,7 @@ In-Memory Tables (Let's create NoSQL DB in SQL Server)
 #  
 #### SessionID: 88576
 # Effective Communication and Self Promotion for the IT Introvert (YOU!)
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Mitchell Bottel
 ## Title: Effective Communication and Self Promotion for the IT Introvert (YOU!)
@@ -299,7 +299,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 89523
 # Table Indexing for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Denny Cherry
 ## Title: Table Indexing for the .NET Developer
@@ -308,7 +308,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 89802
 # Performance Tuning, Getting the Biggest Bang for Your Buck
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Monica Rathbun
 ## Title: Performance Tuning, Getting the Biggest Bang for Your Buck
@@ -317,7 +317,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 90143
 # Better Query Performance from Proper Statistics Management
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Vern Rabe
 ## Title: Better Query Performance from Proper Statistics Management
@@ -326,7 +326,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 90287
 # Introduction to DAX
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Analytics
 ## Speaker: Ike Ellis
 ## Title: Introduction to DAX
@@ -335,7 +335,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Analytics
 #  
 #### SessionID: 90470
 # Practical Power BI Report Design Tips for the Non-Artist
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Presentation  Visualization
 ## Speaker: Meagan Longoria
 ## Title: Practical Power BI Report Design Tips for the Non-Artist
@@ -344,7 +344,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Presentation  Visualiza
 #  
 #### SessionID: 90670
 # Back to Basics - The SELECT Statement
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: T-SQL Introductions
 ## Speaker: Andrew Karcher
 ## Title: Back to Basics - The SELECT Statement
@@ -355,7 +355,7 @@ In this session, we will dive deep in to the SELECT statement as the window to g
 #  
 #### SessionID: 91585
 # How to Introduce your Data Scientists to CI/CD
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Analytics
 ## Speaker: Alicia Moniz
 ## Title: How to Introduce your Data Scientists to CI/CD
@@ -368,7 +368,7 @@ Azure offers the right tools and services that make the process seamless.  In th
 #  
 #### SessionID: 89633
 # WIT: Women in Technology Panel Discussion
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Kathi Kellenberger
 ## Title: WIT: Women in Technology Panel Discussion
@@ -377,7 +377,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 90681
 # Amazon Web Services: Using SQL Server on AWS
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Vlad Vlasceanu
 ## Title: Amazon Web Services: Using SQL Server on AWS
@@ -386,7 +386,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 91899
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
@@ -395,7 +395,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 91978
 # Quest: Real-time Monitoring with Spotlight on SQL Server and Foglight
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Trent Mera
 ## Title: Quest: Real-time Monitoring with Spotlight on SQL Server and Foglight
@@ -404,7 +404,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 92276
 # Enmotus: Real-Time Storage Tiering for Performance and Capacity
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Adam Zagorski
 ## Title: Enmotus: Real-Time Storage Tiering for Performance and Capacity
@@ -419,7 +419,7 @@ Future proof your storage. As needs change or faster storage media becomes avail
 #  
 #### SessionID: 92616
 # Dell EMC: SQL Server Get Modern Architecture
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: SQLSaturday Orange County
 ## Title: Dell EMC: SQL Server Get Modern Architecture
@@ -432,7 +432,7 @@ Aligning along these pillars will bring efficiency and consistency to a unified 
 #  
 #### SessionID: 92943
 # Ledgent Technology: Resume, Interview  Salary Negotiation Tips
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: SQLSaturday Orange County
 ## Title: Ledgent Technology: Resume, Interview  Salary Negotiation Tips
@@ -441,7 +441,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 92944
 # SentryOne: 5 Critical Considerations When Moving to the Cloud
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Kevin Kline
 ## Title: SentryOne: 5 Critical Considerations When Moving to the Cloud
@@ -458,7 +458,7 @@ We'll also share demos and overviews of native features within SQL Server that e
 #  
 #### SessionID: 92989
 # Data Advantage Group: Meta Data Management  Governance
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: SQLSaturday Orange County
 ## Title: Data Advantage Group: Meta Data Management  Governance
@@ -467,7 +467,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 88638
 # Disaster Recovery  High Availability on the Azure Data Platform
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Azure  Cloud Technologies
 ## Speaker: Grant Fritchey
 ## Title: Disaster Recovery  High Availability on the Azure Data Platform
@@ -476,7 +476,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Azure  Cloud Technologi
 #  
 #### SessionID: 89306
 # DBA vNext
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Armando Lacerda
 ## Title: DBA vNext
@@ -489,7 +489,7 @@ In this session full of demos, we will discuss what it takes to be an all-rounde
 #  
 #### SessionID: 89873
 # Faster Transactions: Query Tuning for Data Manipulation
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Jeff Iannucci
 ## Title: Faster Transactions: Query Tuning for Data Manipulation
@@ -498,7 +498,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 89882
 # Azure Basics for the DBA
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Azure  Cloud Technologies
 ## Speaker: John Morehouse
 ## Title: Azure Basics for the DBA
@@ -507,7 +507,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Azure  Cloud Technologi
 #  
 #### SessionID: 90376
 # Power BI Administration Solutions
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Azure  Cloud Technologies
 ## Speaker: Brett Powell
 ## Title: Power BI Administration Solutions
@@ -516,7 +516,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Azure  Cloud Technologi
 #  
 #### SessionID: 90467
 # What's new for Developers - SQL Server 2014-2017
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: T-SQL Introductions
 ## Speaker: Bill Fellows
 ## Title: What's new for Developers - SQL Server 2014-2017
@@ -527,7 +527,7 @@ Topics covered will include JSON, string splitting and aggregation, data masking
 #  
 #### SessionID: 90480
 # Dive into the Query Optimizer - Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer - Undocumented Insight
@@ -536,7 +536,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 90525
 # Containers, Pods, and Databases- The Future of Infrastructure
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Joseph D'Antoni
 ## Title: Containers, Pods, and Databases- The Future of Infrastructure
@@ -545,7 +545,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 90646
 # Power BI Desktop Tips and Best Practices for Projects and Data Preparation
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Analytics
 ## Speaker: Phil Robinson
 ## Title: Power BI Desktop Tips and Best Practices for Projects and Data Preparation
@@ -554,7 +554,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Analytics
 #  
 #### SessionID: 88195
 # Imposter Syndrome   How to work through it
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Charles Embry Jr
 ## Title: Imposter Syndrome   How to work through it
@@ -563,7 +563,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 88313
 # How to use GeoSpatial Data in SQL Server
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Analytics
 ## Speaker: Hasan Savran
 ## Title: How to use GeoSpatial Data in SQL Server
@@ -574,7 +574,7 @@ I will introduce you to Spatial Data in the SQL server and show how to import da
 #  
 #### SessionID: 88639
 # Exploring Execution Plans
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Grant Fritchey
 ## Title: Exploring Execution Plans
@@ -583,7 +583,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 89245
 # Successfully Virtualizing SQL Server on vSphere - Straight from the Source
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Azure  Cloud Technologies
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
@@ -592,7 +592,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Azure  Cloud Technologi
 #  
 #### SessionID: 89530
 # SQL Server Internals and Architecture
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals and Architecture
@@ -607,7 +607,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 89584
 # Simplify your Daily Tasks with DBATools!
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: John Wells
 ## Title: Simplify your Daily Tasks with DBATools!
@@ -618,7 +618,7 @@ Don’t have any experience with PowerShell? Don’t worry because you don’t h
 #  
 #### SessionID: 89884
 # Temporal Tables – The New Hotness in Data Auditing
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: John Morehouse
 ## Title: Temporal Tables – The New Hotness in Data Auditing
@@ -627,7 +627,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 90301
 # SSRS - Thinking Outside the Report
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Elaena Bakman
 ## Title: SSRS - Thinking Outside the Report
@@ -636,7 +636,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 90451
 # What just happened? Creating your own real-time dashboard with Grafana, Influx, and Telegraf
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Presentation  Visualization
 ## Speaker: Patrick Partin
 ## Title: What just happened? Creating your own real-time dashboard with Grafana, Influx, and Telegraf
@@ -647,7 +647,7 @@ In this session, I'll show you how to install, configure, and build your own das
 #  
 #### SessionID: 89495
 # How To Talk To Your Storage Admin
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Marsha Pierce
 ## Title: How To Talk To Your Storage Admin
@@ -656,7 +656,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 89994
 # Using Azure Databricks to Develop Scalable Data Solutions
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Analytics
 ## Speaker: Ginger Grant
 ## Title: Using Azure Databricks to Develop Scalable Data Solutions
@@ -665,7 +665,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Analytics
 #  
 #### SessionID: 90142
 # SQL Security, Encryption,  Compliance
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Thomas Hull
 ## Title: SQL Security, Encryption,  Compliance
@@ -676,7 +676,7 @@ I look forward to seeing you there!
 #  
 #### SessionID: 90214
 # Building a Dashboard in an Hour using PowerPivot  Power BI
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Presentation  Visualization
 ## Speaker: Vazi Okhandiar
 ## Title: Building a Dashboard in an Hour using PowerPivot  Power BI
@@ -685,7 +685,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Presentation  Visualiza
 #  
 #### SessionID: 90309
 # Introduction to SSIS, and third-party tools like MelissaData and CozyRoc
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Analytics
 ## Speaker: Steve Rezhener
 ## Title: Introduction to SSIS, and third-party tools like MelissaData and CozyRoc
@@ -694,7 +694,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Analytics
 #  
 #### SessionID: 90468
 # What is Biml and why are SSIS developers excited about it?
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Bill Fellows
 ## Title: What is Biml and why are SSIS developers excited about it?
@@ -707,7 +707,7 @@ You will leave this session armed with the knowledge of how Biml can help you ac
 #  
 #### SessionID: 90676
 # Do-It-Yourself Performance Monitoring
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Andrew Nakamura
 ## Title: Do-It-Yourself Performance Monitoring
@@ -720,7 +720,7 @@ Finally, you will walk away from this session with a plan that can be implemente
 #  
 #### SessionID: 90697
 # Soft skills for Geeks: Don't be a flat boxer
-#### [Back to calendar](#SQLSaturday-#847---Orange-County-2019)
+#### [Back to calendar](#SQLSaturday-#847-Orange-County-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Randy Knight
 ## Title: Soft skills for Geeks: Don't be a flat boxer

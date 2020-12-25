@@ -50,7 +50,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 61099
 # SQL Server 2017 (Linux and Beyond)
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Loree
 ## Title: SQL Server 2017 (Linux and Beyond)
@@ -61,7 +61,7 @@ In this session, we will look at the background of SQL Server’s move to non-Wi
 #  
 #### SessionID: 61709
 # Running SQL Server in AWS
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Brian Carrig
 ## Title: Running SQL Server in AWS
@@ -70,7 +70,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 62869
 # SSAS 2016 Tabular - Diving into the new features
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Beswick
 ## Title: SSAS 2016 Tabular - Diving into the new features
@@ -79,7 +79,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 63360
 # SQL Server Security model, in plain English
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Hill
 ## Title: SQL Server Security model, in plain English
@@ -92,7 +92,7 @@ This will be a highly interactive session, designed for you to be able to absorb
 #  
 #### SessionID: 63987
 # Crash Course on Better SQL Development
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
@@ -101,7 +101,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 64582
 # Why should I care about ... the plan cache?
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
@@ -112,7 +112,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #  
 #### SessionID: 65051
 # Self Service BI – ETL and More From A Business Unit User’s Perspective
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Paul Southerland
 ## Title: Self Service BI – ETL and More From A Business Unit User’s Perspective
@@ -121,7 +121,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 59603
 # Accelerating DevOps and TDM Using Data Virtualization
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Gorman
 ## Title: Accelerating DevOps and TDM Using Data Virtualization
@@ -138,7 +138,7 @@ Come learn why data virtualization is the solution to a problem everyone knows.
 #  
 #### SessionID: 59653
 # New Instance, Now what?
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Donahoe
 ## Title: New Instance, Now what?
@@ -151,7 +151,7 @@ By the end of this session, you will have developed a pallet of tools to help yo
 #  
 #### SessionID: 59690
 # Microsoft and Big Data - An Overview of the Power Tools and more!
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: David Patrick
 ## Title: Microsoft and Big Data - An Overview of the Power Tools and more!
@@ -160,7 +160,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 59771
 # Transforming Data using the T-SQL PIVOT / UNPIVOT operators
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Jeff Foushee
 ## Title: Transforming Data using the T-SQL PIVOT / UNPIVOT operators
@@ -169,7 +169,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 61495
 # How To Be The DBA When You Don't Have A DBA
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Cobb
 ## Title: How To Be The DBA When You Don't Have A DBA
@@ -180,7 +180,7 @@ Tailored to the "Non-DBA", this session will cover these topics and more to ensu
 #  
 #### SessionID: 61715
 # Power BI  SharePoint - A Marriage Made in Redmond
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Glenn
 ## Title: Power BI  SharePoint - A Marriage Made in Redmond
@@ -189,7 +189,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 63842
 # The Ins and Outs of SQL Indexes
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: The Ins and Outs of SQL Indexes
@@ -198,7 +198,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 64500
 # Making Your List and Checking It Twice: Introduction to unit testing with tSQLt
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Elizabeth Noble
 ## Title: Making Your List and Checking It Twice: Introduction to unit testing with tSQLt
@@ -207,7 +207,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 65086
 # Performance Monitoring SQL Server Analysis Services
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shabnam Watson
 ## Title: Performance Monitoring SQL Server Analysis Services
@@ -220,7 +220,7 @@ If you have experience with SSAS development and are interested in learning abou
 #  
 #### SessionID: 59796
 # Increase Your Coding Speed in SQL Server Management Studio
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Samir Behara
 ## Title: Increase Your Coding Speed in SQL Server Management Studio
@@ -233,7 +233,7 @@ By the end of this session, you will learn some useful techniques to take back w
 #  
 #### SessionID: 62619
 # I like big data for $400  - Exploring quiz show questions using Angular, DocumentDB and Azure Search
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Christopher Sims
 ## Title: I like big data for $400  - Exploring quiz show questions using Angular, DocumentDB and Azure Search
@@ -242,7 +242,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 63563
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Watson
 ## Title: Introduction to SQL Server Integration Services
@@ -251,7 +251,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 63667
 # Leveraging SQL Server R Services to Perform Advanced Analytics
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ryan Wade
 ## Title: Leveraging SQL Server R Services to Perform Advanced Analytics
@@ -262,7 +262,7 @@ In this session I will demonstrate how to productionize models developed by your
 #  
 #### SessionID: 63905
 # The Real Value of Name-Value Pairs: Using PIVOT and UNPIVOT
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Wilkie
 ## Title: The Real Value of Name-Value Pairs: Using PIVOT and UNPIVOT
@@ -271,7 +271,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 64586
 # 45 Minutes to Your First SSAS Tabular Model
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kerry Tyler
 ## Title: 45 Minutes to Your First SSAS Tabular Model
@@ -281,7 +281,7 @@ SSAS Tabular is a new-ish form of business intelligence model released with SQL 
 #  
 #### SessionID: 64593
 # New Features in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Verell
 ## Title: New Features in SQL Server 2017
@@ -290,7 +290,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 62784
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -299,7 +299,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 63796
 # Understanding Power BI Premium
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Teo Lachev
 ## Title: Understanding Power BI Premium
@@ -312,7 +312,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 64272
 # Reduce, Reuse, Recycle: Automating Your BI Framework
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stacia Varga
 ## Title: Reduce, Reuse, Recycle: Automating Your BI Framework
@@ -321,7 +321,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64360
 # Querying Semistructured Data in Azure Data Lake with USQL
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Russel Loski
 ## Title: Querying Semistructured Data in Azure Data Lake with USQL
@@ -330,7 +330,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 64554
 # PowerShell Non-Monolithic Script Module Design
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Other
 ## Speaker: Mike Robbins
 ## Title: PowerShell Non-Monolithic Script Module Design
@@ -339,7 +339,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 64589
 # Enterprise Machine Learning with R and SQL Server 2016  2017
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Paco Gonzalez
 ## Title: Enterprise Machine Learning with R and SQL Server 2016  2017
@@ -348,7 +348,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 64591
 # Perceptual Intelligence with Cortana Analytics
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dan Evans
 ## Title: Perceptual Intelligence with Cortana Analytics
@@ -357,7 +357,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 61330
 # Monitoring Availability Groups
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Monitoring Availability Groups
@@ -366,7 +366,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61528
 # Master Data Management with SQL Server 2016 MDS
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Neal Waterstreet
 ## Title: Master Data Management with SQL Server 2016 MDS
@@ -375,7 +375,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 63259
 # Secure/Encrypt SQL Server Database With TDE
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Chan
 ## Title: Secure/Encrypt SQL Server Database With TDE
@@ -384,7 +384,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63461
 # SQL Server Internals
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Naomi Williams
 ## Title: SQL Server Internals
@@ -393,7 +393,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63668
 # R-ternatives in Power BI
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Ryan Wade
 ## Title: R-ternatives in Power BI
@@ -404,7 +404,7 @@ There are 3 ways you can leverage R in Power BI. You can use it as a data source
 #  
 #### SessionID: 63699
 # SQL Server 2016 SP1 ROCKS!!
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Other
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2016 SP1 ROCKS!!
@@ -413,7 +413,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 63832
 # 5 Ways to Bypass or Ensure Security
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Martin
 ## Title: 5 Ways to Bypass or Ensure Security
@@ -422,7 +422,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66145
 # Reduce your DBA ( DEV) task list by using Microsoft BI tools
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tamera Clark
 ## Title: Reduce your DBA ( DEV) task list by using Microsoft BI tools
@@ -435,7 +435,7 @@ Come to this "BI for the Engine Guy" session and let me help you make visualizat
 #  
 #### SessionID: 59605
 # Install and Configure SQL Server with Windows PowerShell Desired State Configuration
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Warner
 ## Title: Install and Configure SQL Server with Windows PowerShell Desired State Configuration
@@ -444,7 +444,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 59677
 # R For the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
@@ -453,7 +453,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 61809
 # On-Demand Creation of Dev/Test Databases with SQL Clone
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Boles
 ## Title: On-Demand Creation of Dev/Test Databases with SQL Clone
@@ -466,7 +466,7 @@ In this session we will examine how SQL Clone uses disk virtualization to enable
 #  
 #### SessionID: 63017
 # Excel with DAX
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Azhagappan Arunachalam
 ## Title: Excel with DAX
@@ -475,7 +475,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 63388
 # A Tour of Cloud Data Platforms as a Service
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Richard Weiss
 ## Title: A Tour of Cloud Data Platforms as a Service
@@ -484,7 +484,7 @@ Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 64146
 # Locks, Blocks, and Deadlocks; Tame the Sibling Rivalry
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Locks, Blocks, and Deadlocks; Tame the Sibling Rivalry
@@ -497,7 +497,7 @@ By the end of this session you will walk away with the knowledge of how the lock
 #  
 #### SessionID: 65050
 # Using Biml to Automate the Generation of SSIS Packages
-#### [Back to calendar](#SQLSaturday-#624---Chattanooga-2017)
+#### [Back to calendar](#SQLSaturday-#624-Chattanooga-2017)
 Event Date: 24-06-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Kingaby
 ## Title: Using Biml to Automate the Generation of SSIS Packages

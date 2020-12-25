@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 72897
 # Need For Speed? Top Five SQL Server Query Tuning Tips
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Need For Speed? Top Five SQL Server Query Tuning Tips
@@ -46,7 +46,7 @@ Learning objectives:
 #  
 #### SessionID: 80122
 # Introduction to Business Intelligence
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kerry Tyler
 ## Title: Introduction to Business Intelligence
@@ -55,7 +55,7 @@ Event Date: 02-06-2018 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 80417
 # The Master Stored Procedure Workshop
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Sean McCown
 ## Title: The Master Stored Procedure Workshop
@@ -72,7 +72,7 @@ The session will be packed with tons of code examples, with plenty of labs to re
 #  
 #### SessionID: 82983
 # The Strategic Value of Monitoring SQL Server
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rodney Landrum
 ## Title: The Strategic Value of Monitoring SQL Server
@@ -81,7 +81,7 @@ Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 72408
 # You're Stuck with Crappy Hardware, Now What?
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: You're Stuck with Crappy Hardware, Now What?
@@ -90,7 +90,7 @@ Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73842
 # Fundamentals That Will Improve Your Query Performance!
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: John Wells
 ## Title: Fundamentals That Will Improve Your Query Performance!
@@ -99,7 +99,7 @@ Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 78748
 # A Beginner's Guide to Power BI
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Watson
 ## Title: A Beginner's Guide to Power BI
@@ -108,7 +108,7 @@ Event Date: 02-06-2018 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 78765
 # Beginning Admin: The Care and Feeding of SQL Server
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jennifer McCown
 ## Title: Beginning Admin: The Care and Feeding of SQL Server
@@ -125,7 +125,7 @@ Being a database administrator is a big job, but we can cover the basics in one 
 #  
 #### SessionID: 78775
 # Source control, now. Peace through database lifecycle management.
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Elizabeth Noble
 ## Title: Source control, now. Peace through database lifecycle management.
@@ -134,7 +134,7 @@ Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 80033
 # Master Data Management with SQL Server 2016 MDS
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Neal Waterstreet
 ## Title: Master Data Management with SQL Server 2016 MDS
@@ -143,7 +143,7 @@ Event Date: 02-06-2018 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 73213
 # 3 Lessons Learned in Successful Consulting
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Mohammad Darab
 ## Title: 3 Lessons Learned in Successful Consulting
@@ -152,7 +152,7 @@ Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 73554
 # Always Encrypted for Beginners
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: Always Encrypted for Beginners
@@ -161,7 +161,7 @@ Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 78951
 # DevOps, Continuous Integration  Automated Testing: Rule them all
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Samir Behara
 ## Title: DevOps, Continuous Integration  Automated Testing: Rule them all
@@ -173,7 +173,7 @@ Come join me in this 60 min session to understand the problems with traditional 
 #  
 #### SessionID: 80118
 # Temporal Tables – The New Hotness in Data Auditing
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: John Morehouse
 ## Title: Temporal Tables – The New Hotness in Data Auditing
@@ -182,7 +182,7 @@ Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 80123
 # Tuning Like CSS: With These Tools There's No Need Call Support
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kerry Tyler
 ## Title: Tuning Like CSS: With These Tools There's No Need Call Support
@@ -195,7 +195,7 @@ In this session, you'll learn how to use battle tested tools to analyze your wor
 #  
 #### SessionID: 80487
 # Introduction to SQL Server Analysis Services (SSAS) Tabular
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shabnam Watson
 ## Title: Introduction to SQL Server Analysis Services (SSAS) Tabular
@@ -204,7 +204,7 @@ Event Date: 02-06-2018 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 83300
 # MinionWare Solves All* Your SQL Admin Problems (*most)
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jennifer McCown
 ## Title: MinionWare Solves All* Your SQL Admin Problems (*most)
@@ -213,7 +213,7 @@ Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 77035
 # SQL 2017 SSIS Scale Out - Why and How
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paul LaGrone
 ## Title: SQL 2017 SSIS Scale Out - Why and How
@@ -222,7 +222,7 @@ Event Date: 02-06-2018 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 77486
 # That's So Metadata: Discover Your Database From the Inside
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: That's So Metadata: Discover Your Database From the Inside
@@ -240,7 +240,7 @@ We'll also demonstrate the new SQL Data Discovery/Classification and Vulnerabili
 #  
 #### SessionID: 77612
 # Who's on First? SQL Server statistics  Dynamic Power BI Visuals!
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Who's on First? SQL Server statistics  Dynamic Power BI Visuals!
@@ -254,7 +254,7 @@ In this session, we will show you how SQL Server uses statistics to create the e
 #  
 #### SessionID: 80216
 # Cosmos DB: Planet Earth Scale
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mike Lawell
 ## Title: Cosmos DB: Planet Earth Scale
@@ -266,7 +266,7 @@ Most important, who is going to be using it and why?
 #  
 #### SessionID: 80653
 # New Features in SQL That Will Change the Way You Tune
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Lance Tidwell
 ## Title: New Features in SQL That Will Change the Way You Tune
@@ -277,7 +277,7 @@ In this session we will explore these new features and how they can make your li
 #  
 #### SessionID: 82367
 # SQL SERVER 2016 / 2017 AND AZURE SQL DB: SECURITY ALL UP
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Pless
 ## Title: SQL SERVER 2016 / 2017 AND AZURE SQL DB: SECURITY ALL UP
@@ -290,7 +290,7 @@ We will cover the Azure Security Center and Advanced Threat Detection which can 
 #  
 #### SessionID: 72271
 # Fundamentals of Disaster Planning  Recovery
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Viron
 ## Title: Fundamentals of Disaster Planning  Recovery
@@ -299,7 +299,7 @@ Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 72566
 # Azure SQL Database for the Production DBA
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Radney
 ## Title: Azure SQL Database for the Production DBA
@@ -308,7 +308,7 @@ Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73224
 # Becoming the MVP: Soft Skills for the Hard Market
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Angela Tidwell
 ## Title: Becoming the MVP: Soft Skills for the Hard Market
@@ -317,7 +317,7 @@ Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 76899
 # On the Cutting Edge with Nodes: Graph Tables in SQL Server
-#### [Back to calendar](#SQLSaturday-#743---Pensacola-2018)
+#### [Back to calendar](#SQLSaturday-#743-Pensacola-2018)
 Event Date: 02-06-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Sven Aelterman
 ## Title: On the Cutting Edge with Nodes: Graph Tables in SQL Server

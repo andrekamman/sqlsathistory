@@ -78,7 +78,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 41898
 # Reporting Services 2016 Solutions: The New Awesome
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Paul Turley
 ## Title: Reporting Services 2016 Solutions: The New Awesome
@@ -87,7 +87,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 42222
 # Know your bottlenecks: Wait time analysis
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Mandeville
 ## Title: Know your bottlenecks: Wait time analysis
@@ -96,7 +96,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42277
 # SQL Server R Services in SQL 2016
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
@@ -105,7 +105,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 42489
 # It’s Time for a Change : Temporal Table Support in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vern Rabe
 ## Title: It’s Time for a Change : Temporal Table Support in SQL Server 2016
@@ -116,7 +116,7 @@ In this session we’ll discuss how you can benefit from temporal support in you
 #  
 #### SessionID: 42562
 # How to troubleshoot beyond what you understand
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Ryan McCauley
 ## Title: How to troubleshoot beyond what you understand
@@ -127,7 +127,7 @@ In this session, we'll talk about troubleshooting as a process - how you can ide
 #  
 #### SessionID: 42938
 # Build Your BI House with a Blueprint: Modeling for MS BI
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Delora Bradish
 ## Title: Build Your BI House with a Blueprint: Modeling for MS BI
@@ -136,7 +136,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 43035
 # Introducing Forensic Analytics with Power BI
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: William E Pearson III
 ## Title: Introducing Forensic Analytics with Power BI
@@ -146,7 +146,7 @@ In this session, we explore Forensic Analytics: a set of techniques we can use t
 #  
 #### SessionID: 44879
 # Creating Access Web Apps with SQL Azure and SharePoint
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Andy Tabisz
 ## Title: Creating Access Web Apps with SQL Azure and SharePoint
@@ -156,7 +156,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 45602
 # SQL Server Storage Engine under the hood 
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: SQL Server Storage Engine under the hood 
@@ -171,7 +171,7 @@ Which I/O Subsystems (including SSD) are best for which type of data and what's 
 #  
 #### SessionID: 46091
 # Mastering and Enhancing Company Data
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Rushabh Mehta
 ## Title: Mastering and Enhancing Company Data
@@ -180,7 +180,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 46418
 # SQL Server Bingo – Install, Migration  Config
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mindy Curnutt
 ## Title: SQL Server Bingo – Install, Migration  Config
@@ -192,7 +192,7 @@ First one to hit BINGO! will win a fun and unique prize.
 #  
 #### SessionID: 46529
 # The Tricky Part of Doing Tricky Things in your Data Model
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Joseph D'Antoni
 ## Title: The Tricky Part of Doing Tricky Things in your Data Model
@@ -209,7 +209,7 @@ Using design patterns that don't reflect modern architectures and tools
 #  
 #### SessionID: 46777
 # Predictive Analytics Fundamentals
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Carlos Bossy
 ## Title: Predictive Analytics Fundamentals
@@ -218,7 +218,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 46927
 # Microsoft Azure : Elastic Cloud Compute and Storage for Big Data Processing
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Orion Gebremedhin
 ## Title: Microsoft Azure : Elastic Cloud Compute and Storage for Big Data Processing
@@ -227,7 +227,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 42930
 # JSON and SQL 2016
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Eric Peterson
 ## Title: JSON and SQL 2016
@@ -237,7 +237,7 @@ We'll look at JSON vs HTML, JSON implementation as a built-in vs. native data ty
 #  
 #### SessionID: 42939
 # Performance Matters: Optimizing SSAS Multidimensional Cubes
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Delora Bradish
 ## Title: Performance Matters: Optimizing SSAS Multidimensional Cubes
@@ -246,7 +246,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 43033
 # Possible Musics: Choosing between SSAS Multidimensional and Tabular
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: William E Pearson III
 ## Title: Possible Musics: Choosing between SSAS Multidimensional and Tabular
@@ -255,7 +255,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 45518
 # Tired of looking for query performance optimizations?  Try the Query Store!
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Sean Werick
 ## Title: Tired of looking for query performance optimizations?  Try the Query Store!
@@ -264,7 +264,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 45683
 # Even VIEWs can be sexy
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Wilkie
 ## Title: Even VIEWs can be sexy
@@ -273,7 +273,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 46038
 # Performance Monitoring for Analysis Services
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stan Geiger
 ## Title: Performance Monitoring for Analysis Services
@@ -282,7 +282,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 46350
 # SQL SERVER 2016, HEKATON REVEALED
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ned Otter
 ## Title: SQL SERVER 2016, HEKATON REVEALED
@@ -296,7 +296,7 @@ Session topics include architecture, capacity planning, and database maintenance
 #  
 #### SessionID: 46422
 # Tips for SQL Server Performance and Resiliency
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Shaw
 ## Title: Tips for SQL Server Performance and Resiliency
@@ -308,7 +308,7 @@ These patterns are so clear in fact that I many SQL Servers will benefit from th
 #  
 #### SessionID: 46457
 # DataZen and More
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: Geoff Valera
 ## Title: DataZen and More
@@ -317,7 +317,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 46530
 # Essential Architecture for Bi in a Virtual Environment
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joseph D'Antoni
 ## Title: Essential Architecture for Bi in a Virtual Environment
@@ -326,7 +326,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 46673
 # SQL Server Integration Services for Data Science
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reeves Smith
 ## Title: SQL Server Integration Services for Data Science
@@ -348,7 +348,7 @@ This presentation is ideally suited for Business Intelligence professionals that
 #  
 #### SessionID: 46794
 # Real-time Data Warehousing for rapid BI Analysis
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Carlos Bossy
 ## Title: Real-time Data Warehousing for rapid BI Analysis
@@ -357,7 +357,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 46856
 # End to End Protection with Always Encrypted in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Steve Jones
 ## Title: End to End Protection with Always Encrypted in SQL Server 2016
@@ -366,7 +366,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 46928
 # Microsoft Cortana Analytics: The Unified Platform for Advanced Analytics
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Orion Gebremedhin
 ## Title: Microsoft Cortana Analytics: The Unified Platform for Advanced Analytics
@@ -378,7 +378,7 @@ With Cortana Analytics Microsoft provides a well-integrated and managed platform
 #  
 #### SessionID: 48665
 # Don’t forget the licensing!
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Josh Sivey
 ## Title: Don’t forget the licensing!
@@ -387,7 +387,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 49313
 # Learn about Pyramid Analytics’ BI Office Version 6 Platform Release
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Matt White
 ## Title: Learn about Pyramid Analytics’ BI Office Version 6 Platform Release
@@ -396,7 +396,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 49366
 # Microsoft Presents: Don’t forget the licensing!
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Matthew Smith
 ## Title: Microsoft Presents: Don’t forget the licensing!
@@ -405,7 +405,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 49367
 # Cisco and Nimble Storage: Partnering to Create the Next Generation SQL Serv
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Ed Cho
 ## Title: Cisco and Nimble Storage: Partnering to Create the Next Generation SQL Serv
@@ -414,7 +414,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 49540
 # WIT Session: The Year of Yes
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Kathi Kellenberger
 ## Title: WIT Session: The Year of Yes
@@ -423,7 +423,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 41770
 # Introduction to Tableau
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: Michael Perillo
 ## Title: Introduction to Tableau
@@ -437,7 +437,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 41798
 # SS2014 In-Memory Tables:  Formula 1 Performance Unleashed?
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SS2014 In-Memory Tables:  Formula 1 Performance Unleashed?
@@ -452,7 +452,7 @@ After this session you will
 #  
 #### SessionID: 42086
 # Ye Olde Cluster Curiosity Shoppe - A miscellany of SQL Clustering top tips
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Broadbent
 ## Title: Ye Olde Cluster Curiosity Shoppe - A miscellany of SQL Clustering top tips
@@ -463,7 +463,7 @@ Roll-up roll-up! Come and see: The Shrunken Head; The Bearded Lady; Many Headed 
 #  
 #### SessionID: 42087
 # The NOLOCK Chronicles
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Broadbent
 ## Title: The NOLOCK Chronicles
@@ -472,7 +472,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42240
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -481,7 +481,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42484
 # Hadoop, Hive, JSON, and Data! Oh, my!
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: TJay Belt
 ## Title: Hadoop, Hive, JSON, and Data! Oh, my!
@@ -490,7 +490,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 43013
 # Availability Groups:  Monitoring and Alerting
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Phil Ekins
 ## Title: Availability Groups:  Monitoring and Alerting
@@ -501,7 +501,7 @@ We will look at the DMVs, extended event sessions, perfmon counters, SQL agent j
 #  
 #### SessionID: 45206
 # Managing Databases in Visual Studio and TFS
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Sean Brown
 ## Title: Managing Databases in Visual Studio and TFS
@@ -515,7 +515,7 @@ Topics covered:
 #  
 #### SessionID: 45465
 # A Window into Your Data: Using SQL Window Functions
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Steve Hughes
 ## Title: A Window into Your Data: Using SQL Window Functions
@@ -524,7 +524,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 46041
 # "Polybase and Time Travel (Temporal Tables)"
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stan Geiger
 ## Title: "Polybase and Time Travel (Temporal Tables)"
@@ -533,7 +533,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 46413
 # Azure SQL Data Warehouse – Elastic Data Analytics in the cloud
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Josh Sivey
 ## Title: Azure SQL Data Warehouse – Elastic Data Analytics in the cloud
@@ -542,7 +542,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 46417
 # The Ins and Outs of SQL Indexes
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: The Ins and Outs of SQL Indexes
@@ -551,7 +551,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 46742
 # MDX: Troubleshooting Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Martin Schoombee
 ## Title: MDX: Troubleshooting Tips  Tricks
@@ -562,7 +562,7 @@ In this session I will share (and demonstrate) very useful ways to find out the 
 #  
 #### SessionID: 48112
 # Accelerating Batch Processing with Apache Spark
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rowland Gosling
 ## Title: Accelerating Batch Processing with Apache Spark
@@ -571,7 +571,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 41797
 # SQL Server Foreign Keys – De-mystifying the Rest of the Story
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SQL Server Foreign Keys – De-mystifying the Rest of the Story
@@ -585,7 +585,7 @@ After attending this session you will
 #  
 #### SessionID: 42204
 # SQL 2014 , been there done that!
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Schmidt
 ## Title: SQL 2014 , been there done that!
@@ -596,7 +596,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45448
 # Introduction to Wait Types and Response Time Analysis
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dean Richards
 ## Title: Introduction to Wait Types and Response Time Analysis
@@ -605,7 +605,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45625
 # Kerberos Delegation for SSRS Made Simple
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kathi Kellenberger
 ## Title: Kerberos Delegation for SSRS Made Simple
@@ -614,7 +614,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46428
 # SQL Server Internals
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Naomi Williams
 ## Title: SQL Server Internals
@@ -623,7 +623,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 46452
 # Optimizing your data warehouse for OLAP Processing
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Konstantin Melamud
 ## Title: Optimizing your data warehouse for OLAP Processing
@@ -632,7 +632,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 46527
 # How do you validate your ETL?
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paul Graham
 ## Title: How do you validate your ETL?
@@ -641,7 +641,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 46750
 # Data Driven Decision Making with Azure ML
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ginger Grant
 ## Title: Data Driven Decision Making with Azure ML
@@ -650,7 +650,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 46756
 # Introduction to Azure Data Factory Service
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Alan Faulkner
 ## Title: Introduction to Azure Data Factory Service
@@ -662,7 +662,7 @@ In this session, we will review key concepts associated with Azure Data Factory 
 #  
 #### SessionID: 46765
 # Mastering Master Data Services
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeff Prom
 ## Title: Mastering Master Data Services
@@ -673,7 +673,7 @@ In this presentation we will cover MDS from start to finish including installati
 #  
 #### SessionID: 46786
 # Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
@@ -683,7 +683,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46855
 # Get Testing with tSQLt
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Steve Jones
 ## Title: Get Testing with tSQLt
@@ -692,7 +692,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 48623
 # Bare Naked Skinny on SQL Server
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Bare Naked Skinny on SQL Server
@@ -705,7 +705,7 @@ In this session I will disrobe misunderstandings related to the aforementioned t
 #  
 #### SessionID: 45601
 # Optimizing the SQL Server and Databases for large Fact Tables
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: Optimizing the SQL Server and Databases for large Fact Tables
@@ -716,7 +716,7 @@ We will also as a side effect explore the Mary Go Round query feature and find w
 #  
 #### SessionID: 44820
 # Power BI Performance Tips
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rachael Martino
 ## Title: Power BI Performance Tips
@@ -726,7 +726,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 45295
 # Increase your SSIS productivity with Biml
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reeves Smith
 ## Title: Increase your SSIS productivity with Biml
@@ -738,7 +738,7 @@ This session will be a demo based session that will inspire you to make Biml you
 #  
 #### SessionID: 45626
 # Top 5 SQL Server Mistakes
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kathi Kellenberger
 ## Title: Top 5 SQL Server Mistakes
@@ -747,7 +747,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46052
 # Table Partitioning -Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Arnie Rowland
 ## Title: Table Partitioning -Beyond the Basics
@@ -764,7 +764,7 @@ This session will look at how Table Partitioning can be introduced into existing
 #  
 #### SessionID: 46455
 # Turbo Boost Performance: In Memory Tables index optimizations
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Konstantin Melamud
 ## Title: Turbo Boost Performance: In Memory Tables index optimizations
@@ -773,7 +773,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46596
 # Weird stuff I saw while supporting a Java team
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Weird stuff I saw while supporting a Java team
@@ -782,7 +782,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 46665
 # Phone Book Phun - Learning database concepts with the White Pages
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Ben Thul
 ## Title: Phone Book Phun - Learning database concepts with the White Pages
@@ -793,7 +793,7 @@ Wait...  what was that last part? In this session, you'll gain a deeper understa
 #  
 #### SessionID: 46780
 # Welcome to Azure Stream Analytics
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: Robert Miller
 ## Title: Welcome to Azure Stream Analytics
@@ -802,7 +802,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 46787
 # Hi, my name is Powershell, let's be friends! An Intro to PoSH
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Hi, my name is Powershell, let's be friends! An Intro to PoSH
@@ -811,7 +811,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48128
 # The Business Intelligence Side of SQL Server
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Sayed Saeed
 ## Title: The Business Intelligence Side of SQL Server
@@ -820,7 +820,7 @@ Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 48622
 # Working with Object Compression in SQL Server
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Working with Object Compression in SQL Server
@@ -833,7 +833,7 @@ This session shows you how to reach into the database and discover compression s
 #  
 #### SessionID: 49686
 # Power BI Desktop – A BI developer’s view
-#### [Back to calendar](#SQLSaturday-#492---Phoenix-2016)
+#### [Back to calendar](#SQLSaturday-#492-Phoenix-2016)
 Event Date: 16-04-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Phil Robinson
 ## Title: Power BI Desktop – A BI developer’s view

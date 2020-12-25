@@ -40,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 23995
 # Using Common Table Expressions (CTE)
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DEV
 ## Speaker: Ben Galluzzo
 ## Title: Using Common Table Expressions (CTE)
@@ -51,7 +51,7 @@ We'll begin with an overview of how a Common Table Expression is constructed.  T
 #  
 #### SessionID: 35604
 # Intro to Power BI
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 1
 ## Speaker: Azhagappan Arunachalam
 ## Title: Intro to Power BI
@@ -60,7 +60,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 1
 #  
 #### SessionID: 35718
 # Modeling For Tableau
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
 ## Speaker: Jennifer Kenney
 ## Title: Modeling For Tableau
@@ -69,7 +69,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
 #  
 #### SessionID: 35916
 # 15 Quick Tips for SSIS Performance
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 3
 ## Speaker: Tim Mitchell
 ## Title: 15 Quick Tips for SSIS Performance
@@ -80,7 +80,7 @@ In this session, we’ll focus on SSIS package performance, quickly reviewing 15
 #  
 #### SessionID: 35972
 # Execution Plans 101
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DBA
 ## Speaker: Eugene Meidinger
 ## Title: Execution Plans 101
@@ -89,7 +89,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DBA
 #  
 #### SessionID: 36291
 # Automating Your SSIS Design Pattern for Faster Development
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 3
 ## Speaker: Samuel Vanga
 ## Title: Automating Your SSIS Design Pattern for Faster Development
@@ -100,7 +100,7 @@ BI Markup Language (BIML), which is a free plugin, removes the pain-points invol
 #  
 #### SessionID: 17816
 # Automated SQL Server installation and configuration using PowerShell
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DBA
 ## Speaker: Jamie Wick
 ## Title: Automated SQL Server installation and configuration using PowerShell
@@ -110,7 +110,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DBA
 #  
 #### SessionID: 27594
 # Introduction to APS
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
 ## Speaker: Warren Sifre
 ## Title: Introduction to APS
@@ -119,7 +119,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
 #  
 #### SessionID: 35917
 # Introduction to Biml
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 3
 ## Speaker: Tim Mitchell
 ## Title: Introduction to Biml
@@ -130,7 +130,7 @@ In this session, we'll cover the essentials of Biml. I'll discuss what it is and
 #  
 #### SessionID: 35918
 # A "101" Overview  of Microsoft Power BI for Office 365 
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 1
 ## Speaker: Timothy McAliley
 ## Title: A "101" Overview  of Microsoft Power BI for Office 365 
@@ -140,7 +140,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 1
 #  
 #### SessionID: 35971
 # Getting in Sync With The Developer Next To You
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DEV
 ## Speaker: Brad McKuhen
 ## Title: Getting in Sync With The Developer Next To You
@@ -149,7 +149,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DEV
 #  
 #### SessionID: 36287
 # SQL Clinic Part 1
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: PRO
 ## Speaker: Harsh Deep Singh
 ## Title: SQL Clinic Part 1
@@ -161,7 +161,7 @@ If you do not have problems or questions you can just stay there and learn what 
 #  
 #### SessionID: 16681
 # Analysis Services: Multidimensional vs Tabular
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 1
 ## Speaker: Jessica Moss
 ## Title: Analysis Services: Multidimensional vs Tabular
@@ -170,7 +170,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 1
 #  
 #### SessionID: 22438
 # Normalize because you need it
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DEV
 ## Speaker: Raj More
 ## Title: Normalize because you need it
@@ -185,7 +185,7 @@ I back my suggestions with experience from designing Transactional Database Syst
 #  
 #### SessionID: 35742
 # Optimizing your data warehouse for OLAP Processing
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DBA
 ## Speaker: Konstantin Melamud
 ## Title: Optimizing your data warehouse for OLAP Processing
@@ -195,7 +195,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DBA
 #  
 #### SessionID: 35820
 # ETL Design - Staging
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 3
 ## Speaker: Philip Noakes
 ## Title: ETL Design - Staging
@@ -204,7 +204,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 3
 #  
 #### SessionID: 36136
 # 3 Ways for Getting Data from SharePoint : SSIS, Excel and Access
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
 ## Speaker: David Patrick
 ## Title: 3 Ways for Getting Data from SharePoint : SSIS, Excel and Access
@@ -213,7 +213,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
 #  
 #### SessionID: 36288
 # SQL Clinic Part 2
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: PRO
 ## Speaker: Harsh Deep Singh
 ## Title: SQL Clinic Part 2
@@ -225,7 +225,7 @@ If you do not have problems or questions you can just stay there and learn what 
 #  
 #### SessionID: 36289
 # SQL Clinic Part 3
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: PRO
 ## Speaker: Harsh Deep Singh
 ## Title: SQL Clinic Part 3
@@ -237,7 +237,7 @@ If you do not have problems or questions you can just stay there and learn what 
 #  
 #### SessionID: 36346
 # MDM with Profisee. Usage, Value and First Steps
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: Reserved
 ## Speaker: Event Sponsor
 ## Title: MDM with Profisee. Usage, Value and First Steps
@@ -246,7 +246,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: Reserved
 #  
 #### SessionID: 36347
 # Micron Presenting
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: Reserved
 ## Speaker: Event Sponsor
 ## Title: Micron Presenting
@@ -255,7 +255,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: Reserved
 #  
 #### SessionID: 36348
 # Microsoft Presenting
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: Reserved
 ## Speaker: Event Sponsor
 ## Title: Microsoft Presenting
@@ -264,7 +264,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: Reserved
 #  
 #### SessionID: 36349
 # Cisco: Optimize Your SQL Server 2014 Workloads with Cisco UCS
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: Reserved
 ## Speaker: Event Sponsor
 ## Title: Cisco: Optimize Your SQL Server 2014 Workloads with Cisco UCS
@@ -275,7 +275,7 @@ Learn about Cisco Unified Computing System (UCS) and why it is an optimal platfo
 #  
 #### SessionID: 11297
 # Hacking Expos#233; - Using SSL to Protect SQL Connections
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DBA
 ## Speaker: Chris Bell
 ## Title: Hacking Expos#233; - Using SSL to Protect SQL Connections
@@ -288,7 +288,7 @@ Using a simple hacking technique we will dig into some packets on our network an
 #  
 #### SessionID: 11721
 # Creating solid Power Pivot data models
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 1
 ## Speaker: Dan Clark
 ## Title: Creating solid Power Pivot data models
@@ -300,7 +300,7 @@ At the core of every successful data analysis project is a robust data model. In
 #  
 #### SessionID: 18879
 # SSRS 101 to 301: Learn how to build Simple and Intermediate level SSRS Report
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
 ## Speaker: Ravi Kumar
 ## Title: SSRS 101 to 301: Learn how to build Simple and Intermediate level SSRS Report
@@ -309,7 +309,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
 #  
 #### SessionID: 21809
 # ETL not ELT!  Common mistakes and misconceptions about SSIS
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 3
 ## Speaker: Paul Rizza
 ## Title: ETL not ELT!  Common mistakes and misconceptions about SSIS
@@ -319,7 +319,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 3
 #  
 #### SessionID: 35603
 # SQL Server Internals Party: Storage, Memory and the Query Life-cycle
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DEV
 ## Speaker: Ayman El-Ghazali
 ## Title: SQL Server Internals Party: Storage, Memory and the Query Life-cycle
@@ -328,7 +328,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DEV
 #  
 #### SessionID: 35978
 # Lights, Camera, Action: Introduction to Creating and Delivering Presentations
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: PRO
 ## Speaker: Jessica Moss
 ## Title: Lights, Camera, Action: Introduction to Creating and Delivering Presentations
@@ -337,7 +337,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: PRO
 #  
 #### SessionID: 23994
 # MongoDB for SQL Developers and Accessing MongoDB with SSIS
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 3
 ## Speaker: Ben Galluzzo
 ## Title: MongoDB for SQL Developers and Accessing MongoDB with SSIS
@@ -346,7 +346,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 3
 #  
 #### SessionID: 27768
 # Windowing Functions in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DEV
 ## Speaker: Wayne Sheffield
 ## Title: Windowing Functions in SQL Server 2012
@@ -355,7 +355,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DEV
 #  
 #### SessionID: 35624
 # The Quest for the Golden Record: MDM Best Practices 
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 1
 ## Speaker: Brian Benzel
 ## Title: The Quest for the Golden Record: MDM Best Practices 
@@ -364,7 +364,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 1
 #  
 #### SessionID: 35812
 # Securing  Multi-Database Reports
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DBA
 ## Speaker: Sebastian Meine
 ## Title: Securing  Multi-Database Reports
@@ -376,7 +376,7 @@ In this session, we will do a quick review of access security best practices and
 #  
 #### SessionID: 35970
 # Tips and Tricks for Managing SharePoint Databases
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
 ## Speaker: Alara Rogers
 ## Title: Tips and Tricks for Managing SharePoint Databases
@@ -385,7 +385,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
 #  
 #### SessionID: 35977
 # Dealing With Difficult People
-#### [Back to calendar](#SQLSaturday-#395---Baltimore---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#395-Baltimore-BI-Edition-2015)
 Event Date: 09-05-2015 - Session time: 15:20:00 - Track: PRO
 ## Speaker: Gigi Bell
 ## Title: Dealing With Difficult People

@@ -64,7 +64,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28505
 # Performance Tuning Analysis Services
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSAS (V111A)
 ## Speaker: Adam  Jorgensen
 ## Title: Performance Tuning Analysis Services
@@ -73,7 +73,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSAS (V111A)
 #  
 #### SessionID: 28662
 # Database Design
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Design (V101)
 ## Speaker: Andy Leonard
 ## Title: Database Design
@@ -83,7 +83,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Design (V101)
 #  
 #### SessionID: 29082
 # Introduction to SQL Server Analysis Services
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSAS (V111A)
 ## Speaker: Brian Knight
 ## Title: Introduction to SQL Server Analysis Services
@@ -92,7 +92,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSAS (V111A)
 #  
 #### SessionID: 29083
 # Introduction to MDX
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSAS (V111A)
 ## Speaker: Brian Knight
 ## Title: Introduction to MDX
@@ -101,7 +101,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSAS (V111A)
 #  
 #### SessionID: 29095
 # It’s All About the Requirements - MINI
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administration (V006)
 ## Speaker: Bob Blaydes
 ## Title: It’s All About the Requirements - MINI
@@ -112,7 +112,7 @@ In this Mini session we will take a quick look at how business process driven re
 #  
 #### SessionID: 29276
 # Introduction To Reporting Services 2008
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSRS (V107)
 ## Speaker: Brian McDonald
 ## Title: Introduction To Reporting Services 2008
@@ -121,7 +121,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSRS (V107)
 #  
 #### SessionID: 29342
 # T-SQL - English Requests to SQL Queries
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 2 (V105)
 ## Speaker: Brandie Tarvin
 ## Title: T-SQL - English Requests to SQL Queries
@@ -131,7 +131,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 2 (V105)
 #  
 #### SessionID: 29343
 # T-SQL - Subqueries and Joins
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 2 (V105)
 ## Speaker: Brandie Tarvin
 ## Title: T-SQL - Subqueries and Joins
@@ -141,7 +141,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 2 (V105)
 #  
 #### SessionID: 29352
 # SQL Server Resource Governor
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administration (V006)
 ## Speaker: Buck Woody
 ## Title: SQL Server Resource Governor
@@ -150,7 +150,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administration (V006)
 #  
 #### SessionID: 29528
 # SSIS and Slowly Changing Dimensions
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSIS (J105)
 ## Speaker: Christian Loris
 ## Title: SSIS and Slowly Changing Dimensions
@@ -159,7 +159,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSIS (J105)
 #  
 #### SessionID: 29869
 # Tuna Helper - Proven Process for Tuning SQL
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 1 (J108)
 ## Speaker: Dean Richards
 ## Title: Tuna Helper - Proven Process for Tuning SQL
@@ -168,7 +168,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 1 (J108)
 #  
 #### SessionID: 30119
 # SSIS - A Beginning Framework Part 1
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSIS (J105)
 ## Speaker: Eric Wisdahl
 ## Title: SSIS - A Beginning Framework Part 1
@@ -177,7 +177,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSIS (J105)
 #  
 #### SessionID: 30120
 # SSIS - A Beginning Framework Part 2
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSIS (J105)
 ## Speaker: Eric Wisdahl
 ## Title: SSIS - A Beginning Framework Part 2
@@ -186,7 +186,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSIS (J105)
 #  
 #### SessionID: 30407
 # SQL 101 - MINI
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 1 (J108)
 ## Speaker: Delbert James
 ## Title: SQL 101 - MINI
@@ -195,7 +195,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 1 (J108)
 #  
 #### SessionID: 30584
 # Celko on SQL
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Performance (V003)
 ## Speaker: Joe Celko
 ## Title: Celko on SQL
@@ -204,7 +204,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Performance (V003)
 #  
 #### SessionID: 30677
 # Catalog Views and the Art of Template Creation
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Design (V101)
 ## Speaker: Jonathon Moorman
 ## Title: Catalog Views and the Art of Template Creation
@@ -213,7 +213,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Design (V101)
 #  
 #### SessionID: 30837
 # Database change management using Team System 2008
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 2 (V105)
 ## Speaker: Jim Blizzard
 ## Title: Database change management using Team System 2008
@@ -222,7 +222,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 2 (V105)
 #  
 #### SessionID: 30878
 # Auditing User Activity 101
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Security (J107)
 ## Speaker: Jonathan Kehayias
 ## Title: Auditing User Activity 101
@@ -231,7 +231,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Security (J107)
 #  
 #### SessionID: 30879
 # Wait Statistics: A Troubleshooting Methodology
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 2 (V105)
 ## Speaker: Jonathan Kehayias
 ## Title: Wait Statistics: A Troubleshooting Methodology
@@ -240,7 +240,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 2 (V105)
 #  
 #### SessionID: 30914
 # Creating Data-Driven Subscriptions in SSRS
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSRS (V107)
 ## Speaker: Joe Webb
 ## Title: Creating Data-Driven Subscriptions in SSRS
@@ -249,7 +249,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSRS (V107)
 #  
 #### SessionID: 30915
 # Locking  Blocking Made Simple
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Performance (V003)
 ## Speaker: Joe Webb
 ## Title: Locking  Blocking Made Simple
@@ -258,7 +258,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Performance (V003)
 #  
 #### SessionID: 30922
 # Encrypting SSIS Connection String - MINI
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Design (V101)
 ## Speaker: John O'Shea
 ## Title: Encrypting SSIS Connection String - MINI
@@ -267,7 +267,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Design (V101)
 #  
 #### SessionID: 31012
 # Twitter and SQL: A Perfect UNION MINI
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 2 (V105)
 ## Speaker: Jorge Segarra
 ## Title: Twitter and SQL: A Perfect UNION MINI
@@ -276,7 +276,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 2 (V105)
 #  
 #### SessionID: 31253
 # Configuring SQL Access for the Web Developer
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Security (J107)
 ## Speaker: Kendal Van Dyke
 ## Title: Configuring SQL Access for the Web Developer
@@ -289,7 +289,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Security (J107)
 #  
 #### SessionID: 31254
 # Getting started in blogging and technical speaking
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Security (J107)
 ## Speaker: Kendal Van Dyke
 ## Title: Getting started in blogging and technical speaking
@@ -298,7 +298,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Security (J107)
 #  
 #### SessionID: 31256
 # Performance Tuning With DMVs
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Performance (V003)
 ## Speaker: Kendal Van Dyke
 ## Title: Performance Tuning With DMVs
@@ -307,7 +307,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Performance (V003)
 #  
 #### SessionID: 31257
 # Demo of Red Gate SQL Backup (MINI)
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Security (J107)
 ## Speaker: Kendal Van Dyke
 ## Title: Demo of Red Gate SQL Backup (MINI)
@@ -316,7 +316,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Security (J107)
 #  
 #### SessionID: 31302
 # End to End Troubleshooting
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administration (V006)
 ## Speaker: Kevin Kline
 ## Title: End to End Troubleshooting
@@ -325,7 +325,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administration (V006)
 #  
 #### SessionID: 31404
 # No Better Time to Start Your Own Tech Business!
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Security (J107)
 ## Speaker: Kathy Malone
 ## Title: No Better Time to Start Your Own Tech Business!
@@ -334,7 +334,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Security (J107)
 #  
 #### SessionID: 31667
 # Dynamic SSIS Packages
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSIS (J105)
 ## Speaker: Mike Davis
 ## Title: Dynamic SSIS Packages
@@ -343,7 +343,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSIS (J105)
 #  
 #### SessionID: 31803
 # Identifying and Removing Duplicate Records 
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 1 (J108)
 ## Speaker: Michael Antonovich
 ## Title: Identifying and Removing Duplicate Records 
@@ -352,7 +352,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 1 (J108)
 #  
 #### SessionID: 31964
 # SQL 2008 DataMining
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSAS (V111A)
 ## Speaker: Michael Mollenhour
 ## Title: SQL 2008 DataMining
@@ -362,7 +362,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSAS (V111A)
 #  
 #### SessionID: 32154
 # Sql and the Cloud
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Design (V101)
 ## Speaker: patrick thompson
 ## Title: Sql and the Cloud
@@ -371,7 +371,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Design (V101)
 #  
 #### SessionID: 32281
 # Using the CLR to Monitor Disk Space
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 1 (J108)
 ## Speaker: Patrick LeBlanc
 ## Title: Using the CLR to Monitor Disk Space
@@ -380,7 +380,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 1 (J108)
 #  
 #### SessionID: 32349
 # Tips  Tricks for dynamic Reporting Services Repor
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSRS (V107)
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic Reporting Services Repor
@@ -389,7 +389,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSRS (V107)
 #  
 #### SessionID: 32617
 # Taking Control of SQL Server Error Logs
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administration (V006)
 ## Speaker: Rodney Landrum
 ## Title: Taking Control of SQL Server Error Logs
@@ -398,7 +398,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administration (V006)
 #  
 #### SessionID: 32637
 # Database Hardening - Standardization, Optimization
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Performance (V003)
 ## Speaker: Ronald Dameron
 ## Title: Database Hardening - Standardization, Optimization
@@ -407,7 +407,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Performance (V003)
 #  
 #### SessionID: 32834
 # Introduction to SQL XML
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSAS (V111A)
 ## Speaker: Scott Klein
 ## Title: Introduction to SQL XML
@@ -416,7 +416,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSAS (V111A)
 #  
 #### SessionID: 33365
 # SQL Server 2008 - Beyond Relational
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 1 (J108)
 ## Speaker: Telmo Sampaio
 ## Title: SQL Server 2008 - Beyond Relational
@@ -425,7 +425,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 1 (J108)
 #  
 #### SessionID: 33486
 # SANs and SQL Server
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administration (V006)
 ## Speaker: Kevin Boles
 ## Title: SANs and SQL Server
@@ -434,7 +434,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administration (V006)
 #  
 #### SessionID: 33758
 # Backup Basics MINI
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Performance (V003)
 ## Speaker: Todd Holmes
 ## Title: Backup Basics MINI
@@ -443,7 +443,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Performance (V003)
 #  
 #### SessionID: 33802
 # Database Partitioning, The Basics
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Design (V101)
 ## Speaker: Elijah Baker
 ## Title: Database Partitioning, The Basics
@@ -452,7 +452,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Design (V101)
 #  
 #### SessionID: 34484
 # Building a Data Warehouse using SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSAS (V111A)
 ## Speaker: Wes Dumey
 ## Title: Building a Data Warehouse using SQL Server 2008
@@ -461,7 +461,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSAS (V111A)
 #  
 #### SessionID: 34932
 # Social and Not so Social Networking for the DBA
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSRS (V107)
 ## Speaker: Andy Warren
 ## Title: Social and Not so Social Networking for the DBA
@@ -470,7 +470,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSRS (V107)
 #  
 #### SessionID: 35059
 # SQL Server PowerShell Extensions
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 2 (V105)
 ## Speaker: Chad Miller
 ## Title: SQL Server PowerShell Extensions
@@ -479,7 +479,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 2 (V105)
 #  
 #### SessionID: 35062
 # Dive into the Default Trace
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSRS (V107)
 ## Speaker: Jack Corbett
 ## Title: Dive into the Default Trace
@@ -488,7 +488,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSRS (V107)
 #  
 #### SessionID: 35070
 # Automating Routine Maintenance
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administration (V006)
 ## Speaker: Ken Simmons
 ## Title: Automating Routine Maintenance
@@ -497,7 +497,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administration (V006)
 #  
 #### SessionID: 35100
 # Database design of Highly Loaded OLTP systems
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Design (V101)
 ## Speaker: Dmitri Korotkevitch
 ## Title: Database design of Highly Loaded OLTP systems
@@ -506,7 +506,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Design (V101)
 #  
 #### SessionID: 35133
 # Introduction to Execution Plan
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Security (J107)
 ## Speaker: Nathan Heaivilin
 ## Title: Introduction to Execution Plan
@@ -515,7 +515,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Security (J107)
 #  
 #### SessionID: 35137
 # Deep Dive in SQL Server Encryption
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Security (J107)
 ## Speaker: Herve Roggero
 ## Title: Deep Dive in SQL Server Encryption
@@ -524,7 +524,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Security (J107)
 #  
 #### SessionID: 35177
 # Choosing Indexes for Performance
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Performance (V003)
 ## Speaker: Jeffrey Garbus
 ## Title: Choosing Indexes for Performance
@@ -533,7 +533,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Performance (V003)
 #  
 #### SessionID: 35178
 # Indexing for Join Optimization
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Performance (V003)
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for Join Optimization
@@ -542,7 +542,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Performance (V003)
 #  
 #### SessionID: 35209
 # Cloud Computing: SQL Azure and Beyond
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Design (V101)
 ## Speaker: Joe Homnick
 ## Title: Cloud Computing: SQL Azure and Beyond
@@ -551,7 +551,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Design (V101)
 #  
 #### SessionID: 35234
 # Policy Based Management 101
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administration (V006)
 ## Speaker: Jorge Segarra
 ## Title: Policy Based Management 101
@@ -560,7 +560,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Administration (V006)
 #  
 #### SessionID: 35286
 # Introduction to SSIS Part 1
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSIS (J105)
 ## Speaker: Devin Knight
 ## Title: Introduction to SSIS Part 1
@@ -569,7 +569,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSIS (J105)
 #  
 #### SessionID: 35287
 # Introduction to SSIS Part 2
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSIS (J105)
 ## Speaker: Devin Knight
 ## Title: Introduction to SSIS Part 2
@@ -578,7 +578,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: SSIS (J105)
 #  
 #### SessionID: 35290
 # RESTful Data
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 1 (J108)
 ## Speaker: Chris Eargle
 ## Title: RESTful Data
@@ -587,7 +587,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 1 (J108)
 #  
 #### SessionID: 35300
 # PowerShell and SQL Server (More SMO)
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 2 (V105)
 ## Speaker: Maximo Trinidad
 ## Title: PowerShell and SQL Server (More SMO)
@@ -596,7 +596,7 @@ Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 2 (V105)
 #  
 #### SessionID: 35311
 # SQL Server 2008 Spatial Data 
-#### [Back to calendar](#SQLSaturday-#21---Orlando-2009)
+#### [Back to calendar](#SQLSaturday-#21-Orlando-2009)
 Event Date: 17-10-2009 - Session time: 00:00:00 - Track: Development 1 (J108)
 ## Speaker: Michael Stark
 ## Title: SQL Server 2008 Spatial Data 

@@ -33,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11141
 # Microsoft APS - SMP vs. MPP [Sponsored]
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and Tools
 ## Speaker: Chaitanya Khaladkar
 ## Title: Microsoft APS - SMP vs. MPP [Sponsored]
@@ -44,7 +44,7 @@ Learn about how the MPP architecture can benefit hundreds of business use-cases 
 #  
 #### SessionID: 19855
 # The Fundamentals of Great SQL Query Performance
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Matt Wigdahl
 ## Title: The Fundamentals of Great SQL Query Performance
@@ -53,7 +53,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Database Development
 #  
 #### SessionID: 24885
 # Every Byte Counts: Why Your Data Type Choices Matter
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Andy Yun
 ## Title: Every Byte Counts: Why Your Data Type Choices Matter
@@ -66,7 +66,7 @@ When you leave, you will be able to explain to your colleagues why data type cho
 #  
 #### SessionID: 28143
 # Introducing Forensic Analytics with PowerPivot for Excel
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Self-Service BI
 ## Speaker: William E Pearson III
 ## Title: Introducing Forensic Analytics with PowerPivot for Excel
@@ -76,7 +76,7 @@ In this session, we explore Forensic Analytics: a set of techniques we can use t
 #  
 #### SessionID: 35961
 # Using Extended Events in SQL Server
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and Tools
 ## Speaker: Jason Brimhall
 ## Title: Using Extended Events in SQL Server
@@ -85,7 +85,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and 
 #  
 #### SessionID: 17541
 # Introduction to PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and Tools
 ## Speaker: Joshuha Owen
 ## Title: Introduction to PowerShell for the DBA
@@ -94,7 +94,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and 
 #  
 #### SessionID: 18459
 # WIT Panel
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Personal Development
 ## Speaker: Kathi Kellenberger
 ## Title: WIT Panel
@@ -103,7 +103,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Personal Development
 #  
 #### SessionID: 37617
 # Agile BI Methodologies with MS BI tools (PowerPivot, PowerBI) [Sponsored]
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Enterprise BI
 ## Speaker: Chaitanya Khaladkar
 ## Title: Agile BI Methodologies with MS BI tools (PowerPivot, PowerBI) [Sponsored]
@@ -112,7 +112,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Enterprise BI
 #  
 #### SessionID: 22806
 # Data Discovery with Power Query for Excel
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Self-Service BI
 ## Speaker: Reeves Smith
 ## Title: Data Discovery with Power Query for Excel
@@ -124,7 +124,7 @@ This session will demo the ease of the data extraction process in Power Query. W
 #  
 #### SessionID: 32355
 # An Introduction To Resource Governor in SQL Server
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and Tools
 ## Speaker: Paul Timmerman
 ## Title: An Introduction To Resource Governor in SQL Server
@@ -133,7 +133,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and 
 #  
 #### SessionID: 35607
 # TSQL Best Practices for SQL Engine Kindness
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Ben Miller
 ## Title: TSQL Best Practices for SQL Engine Kindness
@@ -142,7 +142,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Database Development
 #  
 #### SessionID: 35708
 # Strategies for SQL Server Index Analysis
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Troubleshooting and Performance Tuning
 ## Speaker: Jason Strate
 ## Title: Strategies for SQL Server Index Analysis
@@ -151,7 +151,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Troubleshooting a
 #  
 #### SessionID: 37304
 # Securing Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and Tools
 ## Speaker: Rick Bielawski
 ## Title: Securing Microsoft SQL Server
@@ -160,7 +160,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and 
 #  
 #### SessionID: 18458
 # T-SQL Window Function Performance
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Window Function Performance
@@ -169,7 +169,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Database Development
 #  
 #### SessionID: 24604
 # How to Determine What Data Is Corrupt
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Troubleshooting and Performance Tuning
 ## Speaker: Frank Gill
 ## Title: How to Determine What Data Is Corrupt
@@ -178,7 +178,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Troubleshooting a
 #  
 #### SessionID: 35653
 # The Many Paths of Consulting
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Personal Development
 ## Speaker: David Klee
 ## Title: The Many Paths of Consulting
@@ -190,7 +190,7 @@ This session will help you ask the right questions to better chose and prepare f
 #  
 #### SessionID: 35678
 # Power to the Prototypes: Using Power BI to Deliver Better SQL Reporting
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Self-Service BI
 ## Speaker: Gina Meronek
 ## Title: Power to the Prototypes: Using Power BI to Deliver Better SQL Reporting
@@ -199,7 +199,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Self-Service BI
 #  
 #### SessionID: 35959
 # Table Vars and Temp Tables – What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars and Temp Tables – What you NEED to Know!
@@ -208,7 +208,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Database Development
 #  
 #### SessionID: 22682
 # Mastering queries into XML data.
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Rick Bielawski
 ## Title: Mastering queries into XML data.
@@ -217,7 +217,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Database Development
 #  
 #### SessionID: 28142
 # Getting Started with Analysis Services 2012 Tabular
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Enterprise BI
 ## Speaker: William E Pearson III
 ## Title: Getting Started with Analysis Services 2012 Tabular
@@ -226,7 +226,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Enterprise BI
 #  
 #### SessionID: 35670
 # Extending Your Availability Group for Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and Tools
 ## Speaker: Ed Leighton-Dick
 ## Title: Extending Your Availability Group for Disaster Recovery
@@ -235,7 +235,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and 
 #  
 #### SessionID: 35706
 # Building the Modern Data Platform Whiteboard Session
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and Tools
 ## Speaker: Jason Strate
 ## Title: Building the Modern Data Platform Whiteboard Session
@@ -244,7 +244,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and 
 #  
 #### SessionID: 35962
 # SQL Server Compression and what it can do for You
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Troubleshooting and Performance Tuning
 ## Speaker: Jason Brimhall
 ## Title: SQL Server Compression and what it can do for You
@@ -253,7 +253,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Troubleshooting a
 #  
 #### SessionID: 12328
 # How to use Execution Plans to find Performance Issues
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Troubleshooting and Performance Tuning
 ## Speaker: Dave Bland
 ## Title: How to use Execution Plans to find Performance Issues
@@ -262,7 +262,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Troubleshooting a
 #  
 #### SessionID: 21138
 # Mission Critical Confidence – (SQL 2012/2014 AlwaysOn) and Availability Groups
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and Tools
 ## Speaker: Mark Skiles
 ## Title: Mission Critical Confidence – (SQL 2012/2014 AlwaysOn) and Availability Groups
@@ -271,7 +271,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and 
 #  
 #### SessionID: 22805
 # Increase your SSIS productivity with Biml
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Reeves Smith
 ## Title: Increase your SSIS productivity with Biml
@@ -283,7 +283,7 @@ This session will be a demo based session that will inspire you to make Biml you
 #  
 #### SessionID: 35608
 # PoShDBA: Practical PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and Tools
 ## Speaker: Ben Miller
 ## Title: PoShDBA: Practical PowerShell for the DBA
@@ -292,7 +292,7 @@ Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and 
 #  
 #### SessionID: 35652
 # Right-Sizing Your SQL Server Virtual Machine
-#### [Back to calendar](#SQLSaturday-#394---Iowa-City-2015)
+#### [Back to calendar](#SQLSaturday-#394-Iowa-City-2015)
 Event Date: 30-05-2015 - Session time: 15:30:00 - Track: DBA - Architecture and Tools
 ## Speaker: David Klee
 ## Title: Right-Sizing Your SQL Server Virtual Machine

@@ -11,7 +11,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 100137
 # Ways of securing your data - SQL Server Security Features (On-Prem and Azure)
-#### [Back to calendar](#SQLSaturday-#902---Nepal-2019)
+#### [Back to calendar](#SQLSaturday-#902-Nepal-2019)
 Event Date: 30-11-2019 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Dinesh Priyankara
 ## Title: Ways of securing your data - SQL Server Security Features (On-Prem and Azure)
@@ -20,7 +20,7 @@ Event Date: 30-11-2019 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 95535
 # Battle Tested Monitoring for Always On Availability Groups
-#### [Back to calendar](#SQLSaturday-#902---Nepal-2019)
+#### [Back to calendar](#SQLSaturday-#902-Nepal-2019)
 Event Date: 30-11-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hemantgiri Goswami
 ## Title: Battle Tested Monitoring for Always On Availability Groups
@@ -33,7 +33,7 @@ I can help you here!! I can share some of the monitoring scripts that I have wri
 #  
 #### SessionID: 94563
 # Time to Solve your VLDB problems - Managed Instance Hyperscale Edition
-#### [Back to calendar](#SQLSaturday-#902---Nepal-2019)
+#### [Back to calendar](#SQLSaturday-#902-Nepal-2019)
 Event Date: 30-11-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: Time to Solve your VLDB problems - Managed Instance Hyperscale Edition
@@ -53,7 +53,7 @@ Attendees will come away with an understanding of what  Azure Managed Instance H
 #  
 #### SessionID: 95978
 # Bigdata: Into the multi-cloud-verse
-#### [Back to calendar](#SQLSaturday-#902---Nepal-2019)
+#### [Back to calendar](#SQLSaturday-#902-Nepal-2019)
 Event Date: 30-11-2019 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Sandeep Arora
 ## Title: Bigdata: Into the multi-cloud-verse
@@ -64,7 +64,7 @@ Cloud Computing offers access to data storage, processing, and analytics to hand
 #  
 #### SessionID: 99104
 # Microsoft Power BI, Python to visualize and predict connected car.
-#### [Back to calendar](#SQLSaturday-#902---Nepal-2019)
+#### [Back to calendar](#SQLSaturday-#902-Nepal-2019)
 Event Date: 30-11-2019 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Anil Maharjan
 ## Title: Microsoft Power BI, Python to visualize and predict connected car.
@@ -75,7 +75,7 @@ Overall, by using Power BI and Python and Azure ML how one can use analytics and
 #  
 #### SessionID: 100161
 # What's New: Modernizing on SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#902---Nepal-2019)
+#### [Back to calendar](#SQLSaturday-#902-Nepal-2019)
 Event Date: 30-11-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shree Khanal
 ## Title: What's New: Modernizing on SQL Server 2019

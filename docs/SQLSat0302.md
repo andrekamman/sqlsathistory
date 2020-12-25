@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10683
 # Treating Tables Like Legos, Partitioning Basics
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Design
 ## Speaker: Brandon Leach
 ## Title: Treating Tables Like Legos, Partitioning Basics
@@ -44,7 +44,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Design
 #  
 #### SessionID: 11027
 # PowerShell for Database Developers
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Bryan Cafferky
 ## Title: PowerShell for Database Developers
@@ -53,7 +53,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 11107
 # BIML--Step by Step
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Julie Smith
 ## Title: BIML--Step by Step
@@ -62,7 +62,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 11270
 # The Spy Who Loathed Me - An Intro to SQL Security 
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: BI / DBA
 ## Speaker: Chris Bell
 ## Title: The Spy Who Loathed Me - An Intro to SQL Security 
@@ -71,7 +71,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: BI / DBA
 #  
 #### SessionID: 11514
 # Ten T-SQL Techniques with Tally Tables
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Chris Hyde
 ## Title: Ten T-SQL Techniques with Tally Tables
@@ -80,7 +80,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 12889
 # SSIS Optimization techniques
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Daniel Bowlin
 ## Title: SSIS Optimization techniques
@@ -89,7 +89,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 13588
 # Remove the Linked Server 2 Hop Limitation by Implementing Kerberos
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Derek Stanley
 ## Title: Remove the Linked Server 2 Hop Limitation by Implementing Kerberos
@@ -98,7 +98,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 14533
 # Hybrid Cloud Scenarios with SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: George Walters
 ## Title: Hybrid Cloud Scenarios with SQL Server 2014
@@ -107,7 +107,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 14779
 # Statistics and Query Optimization
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Design
 ## Speaker: Grant Fritchey
 ## Title: Statistics and Query Optimization
@@ -116,7 +116,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Design
 #  
 #### SessionID: 15720
 # Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Janis Griffin
 ## Title: Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
@@ -125,7 +125,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 16734
 # What the Hekaton
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Design
 ## Speaker: John Flannery
 ## Title: What the Hekaton
@@ -134,7 +134,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Design
 #  
 #### SessionID: 17010
 # Basic Database Programming
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: General Use
 ## Speaker: John Miner
 ## Title: Basic Database Programming
@@ -162,7 +162,7 @@ Coverage:
 #  
 #### SessionID: 17012
 # Effective use of temporary tables
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: John Miner
 ## Title: Effective use of temporary tables
@@ -186,7 +186,7 @@ Coverage:
 #  
 #### SessionID: 17527
 # Show me whatcha workin' with: Big Data Edition
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Josh Luedeman
 ## Title: Show me whatcha workin' with: Big Data Edition
@@ -195,7 +195,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 17550
 # Creating an SSIS Framework
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: James Phillips
 ## Title: Creating an SSIS Framework
@@ -204,7 +204,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 17611
 # Seven Strategies for Awesome Excel Dashboards
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: BI / DBA
 ## Speaker: Joe Rourke
 ## Title: Seven Strategies for Awesome Excel Dashboards
@@ -213,7 +213,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: BI / DBA
 #  
 #### SessionID: 18041
 # Entity Framework - Optimization  Best Practices
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Kelly Gendron
 ## Title: Entity Framework - Optimization  Best Practices
@@ -222,7 +222,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 19649
 # DANGER: The Art and Science of Presenting
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: General Use
 ## Speaker: Mark Vaillancourt
 ## Title: DANGER: The Art and Science of Presenting
@@ -231,7 +231,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: General Use
 #  
 #### SessionID: 20508
 # How Not to Be a Cranky DBA
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: General Use
 ## Speaker: Mike Hillwig
 ## Title: How Not to Be a Cranky DBA
@@ -240,7 +240,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: General Use
 #  
 #### SessionID: 20989
 # SQL Server Compression - Getting More Out of Less
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Design
 ## Speaker: Michael Nowill
 ## Title: SQL Server Compression - Getting More Out of Less
@@ -249,7 +249,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Design
 #  
 #### SessionID: 21141
 # 101 Stupid Things Your Colleagues Do When Setting Up SQL Server
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Design
 ## Speaker: Matt Slocum
 ## Title: 101 Stupid Things Your Colleagues Do When Setting Up SQL Server
@@ -258,7 +258,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Design
 #  
 #### SessionID: 21635
 # Database Forensics - Part 1
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: General Use
 ## Speaker: Paresh Motiwala
 ## Title: Database Forensics - Part 1
@@ -277,7 +277,7 @@ In this the first of the two part session, we will explore the following:
 #  
 #### SessionID: 21636
 # Database Forensics - Part 2
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: General Use
 ## Speaker: Paresh Motiwala
 ## Title: Database Forensics - Part 2
@@ -291,7 +291,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: General Use
 #  
 #### SessionID: 23553
 # HealthySQL 2.0
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: BI / DBA
 ## Speaker: Robert Pearl
 ## Title: HealthySQL 2.0
@@ -300,7 +300,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: BI / DBA
 #  
 #### SessionID: 25444
 # DAX and the tabular model
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Steve Simon
 ## Title: DAX and the tabular model
@@ -310,7 +310,7 @@ We shall discuss many of the often used functions, discuss their 'overloads' (ut
 #  
 #### SessionID: 25880
 # Develop Impressive Dashboards using SSRS 2014
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: BI / DBA
 ## Speaker: Sunil Kadimdiwan
 ## Title: Develop Impressive Dashboards using SSRS 2014
@@ -319,7 +319,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: BI / DBA
 #  
 #### SessionID: 26109
 # SQL Server Storage Engine under the hood 
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Thomas Grohser
 ## Title: SQL Server Storage Engine under the hood 
@@ -334,7 +334,7 @@ Which I/O Subsystems (including SSD) are best for which type of data and what's 
 #  
 #### SessionID: 26664
 # Know Backups and Know Recovery
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Tim Radney
 ## Title: Know Backups and Know Recovery
@@ -343,7 +343,7 @@ Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 28338
 # MongoDB for the Relational DBA
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: Development
 ## Speaker: Justin Dearing
 ## Title: MongoDB for the Relational DBA
@@ -356,7 +356,7 @@ On the non-technical side, this talk will focus on when you would want to use Mo
 #  
 #### SessionID: 9597
 # Creating Access 2013 Web Apps based on SQL Azure using SharePoint
-#### [Back to calendar](#SQLSaturday-#302---Albany-2014)
+#### [Back to calendar](#SQLSaturday-#302-Albany-2014)
 Event Date: 26-07-2014 - Session time: 00:00:00 - Track: BI / DBA
 ## Speaker: Andy Tabisz
 ## Title: Creating Access 2013 Web Apps based on SQL Azure using SharePoint

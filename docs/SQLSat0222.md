@@ -38,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10250
 # SMO Internals for High Performance PowerShell
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Nimble Storage Room
 ## Speaker: Ben Miller
 ## Title: SMO Internals for High Performance PowerShell
@@ -47,7 +47,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Nimble Storage Room
 #  
 #### SessionID: 10253
 # SQL LogShipping with PowerShell
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Nimble Storage Room
 ## Speaker: Ben Miller
 ## Title: SQL LogShipping with PowerShell
@@ -56,7 +56,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Nimble Storage Room
 #  
 #### SessionID: 11338
 # Real-time Data Warehouse and Reporting Solutions
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SIOS Room
 ## Speaker: Carlos Bossy
 ## Title: Real-time Data Warehouse and Reporting Solutions
@@ -65,7 +65,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SIOS Room
 #  
 #### SessionID: 11553
 # RU Ready for the Cloud?
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Red Gate Room
 ## Speaker: Chris Skorlinski
 ## Title: RU Ready for the Cloud?
@@ -74,7 +74,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Red Gate Room
 #  
 #### SessionID: 11556
 # Read Hunter
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SIOS Room
 ## Speaker: Chris Skorlinski
 ## Title: Read Hunter
@@ -84,7 +84,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SIOS Room
 #  
 #### SessionID: 12126
 # AlwaysOn Availability Groups in Action
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Quest/Dell Room
 ## Speaker: DIlip nayak
 ## Title: AlwaysOn Availability Groups in Action
@@ -93,7 +93,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Quest/Dell Room
 #  
 #### SessionID: 12547
 # It's All About the Performance, Right?
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Nimble Storage Room
 ## Speaker: David Klee
 ## Title: It's All About the Performance, Right?
@@ -102,7 +102,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Nimble Storage Room
 #  
 #### SessionID: 12548
 # Squeezing Performance from VMware-Based SQL Server
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: David Klee
 ## Title: Squeezing Performance from VMware-Based SQL Server
@@ -111,7 +111,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 14743
 # What to Look for in Execution Plans
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Red Gate Room
 ## Speaker: Grant Fritchey
 ## Title: What to Look for in Execution Plans
@@ -120,7 +120,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Red Gate Room
 #  
 #### SessionID: 15713
 # Looney Tuner?  No, there IS a method to my madness
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Nimble Storage Room
 ## Speaker: Janis Griffin
 ## Title: Looney Tuner?  No, there IS a method to my madness
@@ -129,7 +129,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Nimble Storage Room
 #  
 #### SessionID: 15882
 # Lunch Session  Dell Software Solutions for SQL Server - Free Tools!!!
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Quest/Dell Room
 ## Speaker: Jason Hall
 ## Title: Lunch Session  Dell Software Solutions for SQL Server - Free Tools!!!
@@ -138,7 +138,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Quest/Dell Room
 #  
 #### SessionID: 16212
 # Using Compression to Improve Database Performance
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Quest/Dell Room
 ## Speaker: Joseph D'Antoni
 ## Title: Using Compression to Improve Database Performance
@@ -147,7 +147,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Quest/Dell Room
 #  
 #### SessionID: 16802
 # AlwaysOn - Finally, A usable 'mirror'!
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Quest/Dell Room
 ## Speaker: Jim Murphy
 ## Title: AlwaysOn - Finally, A usable 'mirror'!
@@ -156,7 +156,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Quest/Dell Room
 #  
 #### SessionID: 17486
 # Data Quality Services Approach to Cleansing
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Red Gate Room
 ## Speaker: Joseph Verftido
 ## Title: Data Quality Services Approach to Cleansing
@@ -165,7 +165,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Red Gate Room
 #  
 #### SessionID: 17544
 # Lunch Session  Accelerating SQL in the Datacenter with Hybrid Storage
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Nimble Storage Room
 ## Speaker: Tom Riggins
 ## Title: Lunch Session  Accelerating SQL in the Datacenter with Hybrid Storage
@@ -174,7 +174,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Nimble Storage Room
 #  
 #### SessionID: 17844
 # What Happened? Exploring the Plan Cache
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Quest/Dell Room
 ## Speaker: Kalen Delaney
 ## Title: What Happened? Exploring the Plan Cache
@@ -186,7 +186,7 @@ In this session, we'll explore SQL Server's plan cache, from the way it is manag
 #  
 #### SessionID: 20136
 # Master Data and Data Quality in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Nimble Storage Room
 ## Speaker: Mark Gschwind
 ## Title: Master Data and Data Quality in SQL Server 2012
@@ -195,7 +195,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Nimble Storage Room
 #  
 #### SessionID: 20385
 # Table Partitioning in the Wild
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SIOS Room
 ## Speaker: Mickey Stuewe
 ## Title: Table Partitioning in the Wild
@@ -204,7 +204,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SIOS Room
 #  
 #### SessionID: 20832
 # Want a promotion? It’s up to you!
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Nimble Storage Room
 ## Speaker: Mitchell Bottel
 ## Title: Want a promotion? It’s up to you!
@@ -213,7 +213,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Nimble Storage Room
 #  
 #### SessionID: 21832
 # Tabular Models: Easier  Faster Than Cubes; Really?
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Red Gate Room
 ## Speaker: Paul Turley
 ## Title: Tabular Models: Easier  Faster Than Cubes; Really?
@@ -222,7 +222,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Red Gate Room
 #  
 #### SessionID: 21959
 # Big Data Analytics with PowerPivot and Power View
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Red Gate Room
 ## Speaker: Peter Myers
 ## Title: Big Data Analytics with PowerPivot and Power View
@@ -233,7 +233,7 @@ Demonstrations will include creating a big data solution by using HDInsight Serv
 #  
 #### SessionID: 22276
 # Detect Worst Performing SQL Queries During Peak Hour
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Quest/Dell Room
 ## Speaker: Prakash Heda
 ## Title: Detect Worst Performing SQL Queries During Peak Hour
@@ -246,7 +246,7 @@ In this session, Prakash walks you through with scenario  demos to find which ex
 #  
 #### SessionID: 24494
 # Searching Binary Data in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Red Gate Room
 ## Speaker: Steve Jones
 ## Title: Searching Binary Data in SQL Server 2012
@@ -255,7 +255,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Red Gate Room
 #  
 #### SessionID: 24947
 # Report Delivery - From Report Manager to the Cloud
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SIOS Room
 ## Speaker: Phil Robinson
 ## Title: Report Delivery - From Report Manager to the Cloud
@@ -264,7 +264,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SIOS Room
 #  
 #### SessionID: 24949
 # SQL Server encryption 3 ways - in transit, at rest and in the database
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Dan Hess
 ## Title: SQL Server encryption 3 ways - in transit, at rest and in the database
@@ -277,7 +277,7 @@ This will be a high level, hands-on discussion that will enable any administrato
 #  
 #### SessionID: 25742
 # T-SQL Productivity
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SIOS Room
 ## Speaker: Steve Stedman
 ## Title: T-SQL Productivity
@@ -286,7 +286,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SIOS Room
 #  
 #### SessionID: 25743
 # Lunch Session  A Day in the Life of a DBA
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Red Gate Room
 ## Speaker: Steve Stedman
 ## Title: Lunch Session  A Day in the Life of a DBA
@@ -295,7 +295,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Red Gate Room
 #  
 #### SessionID: 25744
 # Lunch Session  High Performance SANLess Clustering
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SIOS Room
 ## Speaker: Steve Stedman
 ## Title: Lunch Session  High Performance SANLess Clustering
@@ -304,7 +304,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SIOS Room
 #  
 #### SessionID: 27397
 # Care and Feeding of Your System Databases
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Vicky Harp
 ## Title: Care and Feeding of Your System Databases
@@ -313,7 +313,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 34803
 # Managing Log File Obesity
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Michael Fal
 ## Title: Managing Log File Obesity
@@ -322,7 +322,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 34837
 # SQL Server Databaseology 201
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology 201
@@ -331,7 +331,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9659
 # 5 Ways SSIS 2012 can Save You Time and Money
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Quest/Dell Room
 ## Speaker: Angel Abundez
 ## Title: 5 Ways SSIS 2012 can Save You Time and Money
@@ -350,7 +350,7 @@ If you're on SQL Server 2008, not to worry. I will show you an additional 3rd pa
 #  
 #### SessionID: 9765
 # Code-Less Securing of SQL Server
-#### [Back to calendar](#SQLSaturday-#222---Sacramento-2013)
+#### [Back to calendar](#SQLSaturday-#222-Sacramento-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: SIOS Room
 ## Speaker: Argenis Fernandez
 ## Title: Code-Less Securing of SQL Server

@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 12912
 # Build a SQL Server Machine - the right way
-#### [Back to calendar](#SQLSaturday-#400---Torino-2015)
+#### [Back to calendar](#SQLSaturday-#400-Torino-2015)
 Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
 ## Speaker: Danilo Dominici
 ## Title: Build a SQL Server Machine - the right way
@@ -26,7 +26,7 @@ Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
 #  
 #### SessionID: 34851
 # SSRS Reports  HCI - How to build the perfect dashboard
-#### [Back to calendar](#SQLSaturday-#400---Torino-2015)
+#### [Back to calendar](#SQLSaturday-#400-Torino-2015)
 Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
 ## Speaker: Nicola Pressi
 ## Title: SSRS Reports  HCI - How to build the perfect dashboard
@@ -37,7 +37,7 @@ La sessione illustrer#224; come costruire delle dashboard utilizzando Reporting 
 #  
 #### SessionID: 14629
 # Analisi prestazionale (Performance Tuning) in Microsoft SQL Serve
-#### [Back to calendar](#SQLSaturday-#400---Torino-2015)
+#### [Back to calendar](#SQLSaturday-#400-Torino-2015)
 Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
 ## Speaker: Gilberto Zampatti
 ## Title: Analisi prestazionale (Performance Tuning) in Microsoft SQL Serve
@@ -46,7 +46,7 @@ Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
 #  
 #### SessionID: 19489
 # Power BI Architecture
-#### [Back to calendar](#SQLSaturday-#400---Torino-2015)
+#### [Back to calendar](#SQLSaturday-#400-Torino-2015)
 Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
 ## Speaker: Marco Russo
 ## Title: Power BI Architecture
@@ -55,7 +55,7 @@ Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
 #  
 #### SessionID: 24398
 # Execution Plans in SQL Server and SQL Azure (IT)
-#### [Back to calendar](#SQLSaturday-#400---Torino-2015)
+#### [Back to calendar](#SQLSaturday-#400-Torino-2015)
 Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
 ## Speaker: Sergio Govoni
 ## Title: Execution Plans in SQL Server and SQL Azure (IT)
@@ -64,7 +64,7 @@ Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
 #  
 #### SessionID: 9186
 # Tabular vs. Multidimensional in SQL Server Analysis Services 
-#### [Back to calendar](#SQLSaturday-#400---Torino-2015)
+#### [Back to calendar](#SQLSaturday-#400-Torino-2015)
 Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
 ## Speaker: Alberto Ferrari
 ## Title: Tabular vs. Multidimensional in SQL Server Analysis Services 
@@ -73,7 +73,7 @@ Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
 #  
 #### SessionID: 35675
 # SQL Server AlwaysOn
-#### [Back to calendar](#SQLSaturday-#400---Torino-2015)
+#### [Back to calendar](#SQLSaturday-#400-Torino-2015)
 Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
 ## Speaker: Gianluca Hotz
 ## Title: SQL Server AlwaysOn
@@ -82,7 +82,7 @@ Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
 #  
 #### SessionID: 36402
 # AzureML - Creating and Using Machine Learning Solutions (IT)
-#### [Back to calendar](#SQLSaturday-#400---Torino-2015)
+#### [Back to calendar](#SQLSaturday-#400-Torino-2015)
 Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
 ## Speaker: Davide Mauri
 ## Title: AzureML - Creating and Using Machine Learning Solutions (IT)
@@ -92,7 +92,7 @@ In questa sessione vedremo cos'#232; il machine learning, quali sono le diverse 
 #  
 #### SessionID: 20228
 # Entity Framework 7, Back To The Future!
-#### [Back to calendar](#SQLSaturday-#400---Torino-2015)
+#### [Back to calendar](#SQLSaturday-#400-Torino-2015)
 Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
 ## Speaker: Michael Denny
 ## Title: Entity Framework 7, Back To The Future!
@@ -101,7 +101,7 @@ Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
 #  
 #### SessionID: 25898
 # Database under source control
-#### [Back to calendar](#SQLSaturday-#400---Torino-2015)
+#### [Back to calendar](#SQLSaturday-#400-Torino-2015)
 Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
 ## Speaker: Alessandro Alpi
 ## Title: Database under source control
@@ -110,7 +110,7 @@ Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
 #  
 #### SessionID: 19331
 # SSDT Database Projects Deep Dives (IT)
-#### [Back to calendar](#SQLSaturday-#400---Torino-2015)
+#### [Back to calendar](#SQLSaturday-#400-Torino-2015)
 Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
 ## Speaker: Luca Zavarella
 ## Title: SSDT Database Projects Deep Dives (IT)
@@ -119,7 +119,7 @@ Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
 #  
 #### SessionID: 9447
 # Geocoding with SQL Server, Bing and Google Maps API
-#### [Back to calendar](#SQLSaturday-#400---Torino-2015)
+#### [Back to calendar](#SQLSaturday-#400-Torino-2015)
 Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
 ## Speaker: Andrea Martorana Tusa
 ## Title: Geocoding with SQL Server, Bing and Google Maps API

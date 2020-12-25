@@ -16,7 +16,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 49596
 # Key Note
-#### [Back to calendar](#SQLSaturday-#507---Edmonton-2016)
+#### [Back to calendar](#SQLSaturday-#507-Edmonton-2016)
 Event Date: 09-04-2016 - Session time: 16:15:00 - Track: Other
 ## Speaker: Mohit Gupta
 ## Title: Key Note
@@ -25,7 +25,7 @@ Event Date: 09-04-2016 - Session time: 16:15:00 - Track: Other
 #  
 #### SessionID: 46448
 # Optimizing your data warehouse for OLAP Processing
-#### [Back to calendar](#SQLSaturday-#507---Edmonton-2016)
+#### [Back to calendar](#SQLSaturday-#507-Edmonton-2016)
 Event Date: 09-04-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Konstantin Melamud
 ## Title: Optimizing your data warehouse for OLAP Processing
@@ -34,7 +34,7 @@ Event Date: 09-04-2016 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 48365
 # Visualization  Reporting Options on Microsoft’s Data Platform
-#### [Back to calendar](#SQLSaturday-#507---Edmonton-2016)
+#### [Back to calendar](#SQLSaturday-#507-Edmonton-2016)
 Event Date: 09-04-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Scott Stauffer
 ## Title: Visualization  Reporting Options on Microsoft’s Data Platform
@@ -43,7 +43,7 @@ Event Date: 09-04-2016 - Session time: 16:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 45007
 # Common Coding Mistakes and how to Mitigate them
-#### [Back to calendar](#SQLSaturday-#507---Edmonton-2016)
+#### [Back to calendar](#SQLSaturday-#507-Edmonton-2016)
 Event Date: 09-04-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Common Coding Mistakes and how to Mitigate them
@@ -58,7 +58,7 @@ After this session, you can go back to your office Monday morning and be the cod
 #  
 #### SessionID: 48121
 # Getting Started with Azure Machine Learning (AML)
-#### [Back to calendar](#SQLSaturday-#507---Edmonton-2016)
+#### [Back to calendar](#SQLSaturday-#507-Edmonton-2016)
 Event Date: 09-04-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melody Zacharias
 ## Title: Getting Started with Azure Machine Learning (AML)
@@ -67,7 +67,7 @@ Event Date: 09-04-2016 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 48570
 # T-SQL from Basics to 
-#### [Back to calendar](#SQLSaturday-#507---Edmonton-2016)
+#### [Back to calendar](#SQLSaturday-#507-Edmonton-2016)
 Event Date: 09-04-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Craig Millang
 ## Title: T-SQL from Basics to 
@@ -76,7 +76,7 @@ Event Date: 09-04-2016 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 44324
 # backup and restore features in SQL 2012
-#### [Back to calendar](#SQLSaturday-#507---Edmonton-2016)
+#### [Back to calendar](#SQLSaturday-#507-Edmonton-2016)
 Event Date: 09-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: mirza baig
 ## Title: backup and restore features in SQL 2012
@@ -93,7 +93,7 @@ Will try to take the audience from a beginner level to intermediate to advanced 
 #  
 #### SessionID: 46449
 # Performance Tuning - Analyzing Execution Plans
-#### [Back to calendar](#SQLSaturday-#507---Edmonton-2016)
+#### [Back to calendar](#SQLSaturday-#507-Edmonton-2016)
 Event Date: 09-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Konstantin Melamud
 ## Title: Performance Tuning - Analyzing Execution Plans
@@ -104,7 +104,7 @@ In this presentation, we will identify what indexes are being used by the SQL Op
 #  
 #### SessionID: 44782
 # SQL Server Performance Tuning Starter Kit
-#### [Back to calendar](#SQLSaturday-#507---Edmonton-2016)
+#### [Back to calendar](#SQLSaturday-#507-Edmonton-2016)
 Event Date: 09-04-2016 - Session time: 16:15:00 - Track: Information Delivery
 ## Speaker: Randolph West
 ## Title: SQL Server Performance Tuning Starter Kit
@@ -115,7 +115,7 @@ I talk quickly, and cover a lot of ground, but don't let that scare you.
 #  
 #### SessionID: 46120
 # Migrating SQL Server Quickly and Effectively
-#### [Back to calendar](#SQLSaturday-#507---Edmonton-2016)
+#### [Back to calendar](#SQLSaturday-#507-Edmonton-2016)
 Event Date: 09-04-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ian Chamberland
 ## Title: Migrating SQL Server Quickly and Effectively
@@ -126,7 +126,7 @@ In this session we will look at some techniques that can be used to migrate your
 #  
 #### SessionID: 43104
 # How do I create an automated ETL test suite ??
-#### [Back to calendar](#SQLSaturday-#507---Edmonton-2016)
+#### [Back to calendar](#SQLSaturday-#507-Edmonton-2016)
 Event Date: 09-04-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Terry Bunio
 ## Title: How do I create an automated ETL test suite ??

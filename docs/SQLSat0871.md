@@ -20,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 92519
 # How AI will help us to work better
-#### [Back to calendar](#SQLSaturday-#871---Sardegna-2019)
+#### [Back to calendar](#SQLSaturday-#871-Sardegna-2019)
 Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Artificial Intelligence
 ## Speaker: Davide Luzzu
 ## Title: How AI will help us to work better
@@ -31,7 +31,7 @@ The objective is to understand what we already have and how to use it, while per
 #  
 #### SessionID: 92742
 # Create IoT devices connected or on the Edge using AI and ML
-#### [Back to calendar](#SQLSaturday-#871---Sardegna-2019)
+#### [Back to calendar](#SQLSaturday-#871-Sardegna-2019)
 Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Internet of Things
 ## Speaker: Marco Dal Pino
 ## Title: Create IoT devices connected or on the Edge using AI and ML
@@ -41,7 +41,7 @@ Let's see how we can use Azure IoT platform to build this kind of devices using 
 #  
 #### SessionID: 94179
 # Set-based vs Iterative programming (IT)
-#### [Back to calendar](#SQLSaturday-#871---Sardegna-2019)
+#### [Back to calendar](#SQLSaturday-#871-Sardegna-2019)
 Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Database Development
 ## Speaker: Sergio Govoni
 ## Title: Set-based vs Iterative programming (IT)
@@ -50,7 +50,7 @@ Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Database Development
 #  
 #### SessionID: 90649
 # Il mio grosso grasso modello di Power BI
-#### [Back to calendar](#SQLSaturday-#871---Sardegna-2019)
+#### [Back to calendar](#SQLSaturday-#871-Sardegna-2019)
 Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Advanced Analytics
 ## Speaker: Francesco De Chirico
 ## Title: Il mio grosso grasso modello di Power BI
@@ -61,7 +61,7 @@ In questa sessione, dopo una breve introduzione teorica sul funzionamento di Ver
 #  
 #### SessionID: 92420
 # From 0 to Conversational AI using Microsoft Azure platform: how to get started
-#### [Back to calendar](#SQLSaturday-#871---Sardegna-2019)
+#### [Back to calendar](#SQLSaturday-#871-Sardegna-2019)
 Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Artificial Intelligence
 ## Speaker: Francesco Diaz
 ## Title: From 0 to Conversational AI using Microsoft Azure platform: how to get started
@@ -70,7 +70,7 @@ Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 92986
 # SQL Server 2019 CTP 2.4 (IT)
-#### [Back to calendar](#SQLSaturday-#871---Sardegna-2019)
+#### [Back to calendar](#SQLSaturday-#871-Sardegna-2019)
 Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Database Admin
 ## Speaker: Gianluca Hotz
 ## Title: SQL Server 2019 CTP 2.4 (IT)
@@ -79,7 +79,7 @@ Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Database Admin
 #  
 #### SessionID: 90344
 # SQL Server ed Azure: Disaster Recovery per tutti
-#### [Back to calendar](#SQLSaturday-#871---Sardegna-2019)
+#### [Back to calendar](#SQLSaturday-#871-Sardegna-2019)
 Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Database Admin
 ## Speaker: Marco Obinu
 ## Title: SQL Server ed Azure: Disaster Recovery per tutti
@@ -89,7 +89,7 @@ Vediamo insieme quali sono le soluzioni suggerite da Microsoft, confrontandone p
 #  
 #### SessionID: 92921
 # Lap around the Azure Cognitive Services for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#871---Sardegna-2019)
+#### [Back to calendar](#SQLSaturday-#871-Sardegna-2019)
 Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Internet of Things
 ## Speaker: Giancarlo Lelli
 ## Title: Lap around the Azure Cognitive Services for the .NET Developer
@@ -98,7 +98,7 @@ Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Internet of Things
 #  
 #### SessionID: 92975
 # Applied ML: from theoretical to actionable Deep Learning Structures (IT)
-#### [Back to calendar](#SQLSaturday-#871---Sardegna-2019)
+#### [Back to calendar](#SQLSaturday-#871-Sardegna-2019)
 Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Machine Learning
 ## Speaker: Lucrezia Noli
 ## Title: Applied ML: from theoretical to actionable Deep Learning Structures (IT)
@@ -110,7 +110,7 @@ Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Machine Learning
 #  
 #### SessionID: 90445
 # Self-Service ETL: The PowerBI Data Flows
-#### [Back to calendar](#SQLSaturday-#871---Sardegna-2019)
+#### [Back to calendar](#SQLSaturday-#871-Sardegna-2019)
 Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Advanced Analytics
 ## Speaker: Dennes Torres
 ## Title: Self-Service ETL: The PowerBI Data Flows
@@ -121,7 +121,7 @@ In this session you will understand better what Data Flows can bring to our alre
 #  
 #### SessionID: 91267
 # SQL Server Execution Plans: From Zero to Hero (IT)
-#### [Back to calendar](#SQLSaturday-#871---Sardegna-2019)
+#### [Back to calendar](#SQLSaturday-#871-Sardegna-2019)
 Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Database Development
 ## Speaker: Sergio Govoni
 ## Title: SQL Server Execution Plans: From Zero to Hero (IT)
@@ -130,7 +130,7 @@ Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Database Development
 #  
 #### SessionID: 92179
 # Machine Learning - Best Practices
-#### [Back to calendar](#SQLSaturday-#871---Sardegna-2019)
+#### [Back to calendar](#SQLSaturday-#871-Sardegna-2019)
 Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Machine Learning
 ## Speaker: Sebastiano Galazzo
 ## Title: Machine Learning - Best Practices
@@ -142,7 +142,7 @@ Analizzeremoi alcuni falsi miti nell'impiego del ML e quando non è necessario u
 #  
 #### SessionID: 90359
 # Market Basket Analysis in SQL Server Machine Learning Services
-#### [Back to calendar](#SQLSaturday-#871---Sardegna-2019)
+#### [Back to calendar](#SQLSaturday-#871-Sardegna-2019)
 Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Machine Learning
 ## Speaker: Luca Zavarella
 ## Title: Market Basket Analysis in SQL Server Machine Learning Services
@@ -152,7 +152,7 @@ In questa sessione vedremo come i nuovi Machine Learning Services ci permettono 
 #  
 #### SessionID: 91716
 # Stranger IoThing: behind remote monitoring
-#### [Back to calendar](#SQLSaturday-#871---Sardegna-2019)
+#### [Back to calendar](#SQLSaturday-#871-Sardegna-2019)
 Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Internet of Things
 ## Speaker: Francesco Sparacio
 ## Title: Stranger IoThing: behind remote monitoring
@@ -163,7 +163,7 @@ Vedremo il tutto attraverso una demo reale con un dispositivo compatibile arduin
 #  
 #### SessionID: 93157
 # Practical Data Virtualization
-#### [Back to calendar](#SQLSaturday-#871---Sardegna-2019)
+#### [Back to calendar](#SQLSaturday-#871-Sardegna-2019)
 Event Date: 18-05-2019 - Session time: 15:45:00 - Track: Database Development
 ## Speaker: Franco Perduca
 ## Title: Practical Data Virtualization

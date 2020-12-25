@@ -44,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 50518
 # Achieve More in Less Time by Using the New SQL PowerShell
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: Aaron Nelson
 ## Title: Achieve More in Less Time by Using the New SQL PowerShell
@@ -56,7 +56,7 @@ There is a faster way to manage and even SQL Servers using PowerShell.  I will s
 #  
 #### SessionID: 52324
 # Inside of Indexes
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 ## Speaker: Slava Murygin
 ## Title: Inside of Indexes
@@ -67,7 +67,7 @@ In that session we will use DBCC IND and DBCC PAGE and dig into pages' binary co
 #  
 #### SessionID: 52635
 # Analytics Industry Trends + Your Career
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Jen Underwood
 ## Title: Analytics Industry Trends + Your Career
@@ -76,7 +76,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 52871
 # Analysis Services: Show Me Where It Hurts
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: BI  DW
 ## Speaker: Bill Anton
 ## Title: Analysis Services: Show Me Where It Hurts
@@ -89,7 +89,7 @@ Join me in this "something-everyone-should-be-doing-but-isn't" session, where we
 #  
 #### SessionID: 52908
 # Efficient table design
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 ## Speaker: Alex Grinberg
 ## Title: Efficient table design
@@ -98,7 +98,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 #  
 #### SessionID: 53081
 # Administring SSIS 2012, 2014 and 2016 for DBAs
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 ## Speaker: Ravi Kumar
 ## Title: Administring SSIS 2012, 2014 and 2016 for DBAs
@@ -107,7 +107,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 #  
 #### SessionID: 53161
 # Lightning Talks
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 ## Speaker: Angela Henry
 ## Title: Lightning Talks
@@ -116,7 +116,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 #  
 #### SessionID: 50203
 # SSIS-Lightning fast processing using Parallel processing-Result in Power BI
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: Vishal Pawar
 ## Title: SSIS-Lightning fast processing using Parallel processing-Result in Power BI
@@ -126,7 +126,7 @@ You will see all result of session in Power BI real time - Time and all Batch ru
 #  
 #### SessionID: 50208
 # Stop Doing That! 5 Common T-SQL Anti-Patterns
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: William Wolf
 ## Title: Stop Doing That! 5 Common T-SQL Anti-Patterns
@@ -139,7 +139,7 @@ By the end of the session, you will be able to quickly identify these common ant
 #  
 #### SessionID: 51056
 # Building Blocks of Cortana Intelligence Suite in Azure
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Cloud Data Platform
 ## Speaker: Melissa Coates
 ## Title: Building Blocks of Cortana Intelligence Suite in Azure
@@ -148,7 +148,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Cloud Data Platform
 #  
 #### SessionID: 51167
 # Mastering and Enhancing Company Data
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Rushabh Mehta
 ## Title: Mastering and Enhancing Company Data
@@ -157,7 +157,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 52480
 # SQL Server 2016 and PolyBase
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: BI  DW
 ## Speaker: Sean Werick
 ## Title: SQL Server 2016 and PolyBase
@@ -169,7 +169,7 @@ In this session, you will learn how to install and set up PolyBase, and how to u
 #  
 #### SessionID: 52718
 # Winning with Columnstore - A Customer Story
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 ## Speaker: Rick Heiges
 ## Title: Winning with Columnstore - A Customer Story
@@ -178,7 +178,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 #  
 #### SessionID: 53071
 # SQL Server Permissions and Security Principals
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: William Assaf
 ## Title: SQL Server Permissions and Security Principals
@@ -187,7 +187,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 #  
 #### SessionID: 53160
 # SQL Server 2016 "Hidden Gems"
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: Adam Machanic
 ## Title: SQL Server 2016 "Hidden Gems"
@@ -196,7 +196,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 #  
 #### SessionID: 50801
 # Getting to know U-SQL
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Cloud Data Platform
 ## Speaker: Azhagappan Arunachalam
 ## Title: Getting to know U-SQL
@@ -205,7 +205,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Cloud Data Platform
 #  
 #### SessionID: 50811
 # Big Data, Small Data, and Everything In Between
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Kevin Feasel
 ## Title: Big Data, Small Data, and Everything In Between
@@ -214,7 +214,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 51129
 # Encrypting Data within Sql Server
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within Sql Server
@@ -223,7 +223,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 #  
 #### SessionID: 52278
 # Biml and SSIS Frameworks
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: BI  DW
 ## Speaker: Andy Leonard
 ## Title: Biml and SSIS Frameworks
@@ -232,7 +232,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: BI  DW
 #  
 #### SessionID: 52490
 # What’s your Imperative doing in my Declarative?
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: Geoff Hiten
 ## Title: What’s your Imperative doing in my Declarative?
@@ -241,7 +241,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 #  
 #### SessionID: 52873
 # 20 Minute Tabular Model
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: BI  DW
 ## Speaker: Bill Anton
 ## Title: 20 Minute Tabular Model
@@ -254,7 +254,7 @@ Join me in this session and learn what a Tabular model is, how it fits into the 
 #  
 #### SessionID: 53073
 # Using PowerBI and SQL Server to Create Management Cadence Dashboards
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Patrick Thompson
 ## Title: Using PowerBI and SQL Server to Create Management Cadence Dashboards
@@ -263,7 +263,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 54292
 # Sparkhound Jeopardy
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Vendor Sessions
 ## Speaker: William Assaf
 ## Title: Sparkhound Jeopardy
@@ -272,7 +272,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Vendor Sessions
 #  
 #### SessionID: 54305
 # Maximizing Microsoft SQL Server Storage Investments
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Vendor Sessions
 ## Speaker: John Holtz
 ## Title: Maximizing Microsoft SQL Server Storage Investments
@@ -283,7 +283,7 @@ Beyond just production database performance, EMC provides robust database repurp
 #  
 #### SessionID: 50172
 # SQL Azure Database - No CDC, no problem!
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: boB Taylor
 ## Title: SQL Azure Database - No CDC, no problem!
@@ -295,7 +295,7 @@ Come see how I solved that lack of CDC in SQL Azure Database by leveraging a new
 #  
 #### SessionID: 51188
 # IO Tuning 101
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 ## Speaker: Anders Pedersen
 ## Title: IO Tuning 101
@@ -312,7 +312,7 @@ All of t his can be done without the need for any 3rd party tools, all within th
 #  
 #### SessionID: 52319
 # Interviewing-Be So Good They Can’t Ignore You
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Leveat Ruse
 ## Title: Interviewing-Be So Good They Can’t Ignore You
@@ -321,7 +321,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 52495
 # Query Store Primer
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
@@ -330,7 +330,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 #  
 #### SessionID: 52630
 # Managing Very Large Databases with SQL Server
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 ## Speaker: Brian Carrig
 ## Title: Managing Very Large Databases with SQL Server
@@ -339,7 +339,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 #  
 #### SessionID: 52960
 # Practical PowerShell for the SQL Developers and DBA's - 0 to 60 in 60 mins
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: Jana Sattainathan
 ## Title: Practical PowerShell for the SQL Developers and DBA's - 0 to 60 in 60 mins
@@ -348,7 +348,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 #  
 #### SessionID: 52991
 # Performance Tuning - Analyzing Execution Plans
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 ## Speaker: Konstantin Melamud
 ## Title: Performance Tuning - Analyzing Execution Plans
@@ -359,7 +359,7 @@ In this presentation, we will identify what indexes are being used by the SQL Op
 #  
 #### SessionID: 53104
 # Managing Database Projects in Visual Studio 2013
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: Luke Donley
 ## Title: Managing Database Projects in Visual Studio 2013
@@ -368,7 +368,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 #  
 #### SessionID: 50210
 # Service Broker - Put Me In Coach
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: William Wolf
 ## Title: Service Broker - Put Me In Coach
@@ -381,7 +381,7 @@ At the end of this session, you will have the knowledge to use Service Broker fo
 #  
 #### SessionID: 50435
 # Tips and Tricks for the SSIS Catalog
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: BI  DW
 ## Speaker: Jonathan Buller
 ## Title: Tips and Tricks for the SSIS Catalog
@@ -391,7 +391,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: BI  DW
 #  
 #### SessionID: 50773
 # Replication v. AlwaysOn, the great debate
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Chris Skorlinski
 ## Title: Replication v. AlwaysOn, the great debate
@@ -400,7 +400,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 50814
 # APPLY Yourself
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
@@ -409,7 +409,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 #  
 #### SessionID: 52782
 # SQL Backup 102 - From basic to more
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 ## Speaker: Thomas Chan
 ## Title: SQL Backup 102 - From basic to more
@@ -420,7 +420,7 @@ The last part will cover the other techniques not considered as a normal backup 
 #  
 #### SessionID: 53462
 # Disaster Recovery From On Premises to Azure
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 ## Speaker: Carlos L Chacon
 ## Title: Disaster Recovery From On Premises to Azure
@@ -429,7 +429,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 #  
 #### SessionID: 54117
 # Enterprise Machine Learning with R and SQL Server
-#### [Back to calendar](#SQLSaturday-#560---Charlotte-2016)
+#### [Back to calendar](#SQLSaturday-#560-Charlotte-2016)
 Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Advanced Analytics
 ## Speaker: Paco Gonzalez
 ## Title: Enterprise Machine Learning with R and SQL Server

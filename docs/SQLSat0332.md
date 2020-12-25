@@ -40,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10519
 # Structured Ad Hoc Reporting-Case Study of an Oxymoronic Reality
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Other
 ## Speaker: Brian Larson
 ## Title: Structured Ad Hoc Reporting-Case Study of an Oxymoronic Reality
@@ -49,7 +49,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Other
 #  
 #### SessionID: 12373
 # T-SQL: Simple Changes That Go a Long Way
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 1
 ## Speaker: David Valentine
 ## Title: T-SQL: Simple Changes That Go a Long Way
@@ -58,7 +58,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 1
 #  
 #### SessionID: 12608
 # How to Argue with Your Infrastructure Admins – and Win
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: David Klee
 ## Title: How to Argue with Your Infrastructure Admins – and Win
@@ -67,7 +67,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 13072
 # Getting Down with Power Query and Power Map
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Dan English
 ## Title: Getting Down with Power Query and Power Map
@@ -76,7 +76,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 13264
 # Rapid Table Restore
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Dave Logue
 ## Title: Rapid Table Restore
@@ -85,7 +85,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 13681
 # SQL Server Features That Will Blow Your Mind!
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 2
 ## Speaker: Ed Leighton-Dick
 ## Title: SQL Server Features That Will Blow Your Mind!
@@ -94,7 +94,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 2
 #  
 #### SessionID: 13919
 # Table Partitions for Archiving
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Eric Zierdt
 ## Title: Table Partitions for Archiving
@@ -103,7 +103,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 14653
 # Power to the Prototypes: Using Power BI to Deliver Better SQL Reporting
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Gina Meronek
 ## Title: Power to the Prototypes: Using Power BI to Deliver Better SQL Reporting
@@ -112,7 +112,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 14805
 # A Date With DAX: Time Intelligence in Tabular and PowerPivot
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Greg Baldini
 ## Title: A Date With DAX: Time Intelligence in Tabular and PowerPivot
@@ -128,7 +128,7 @@ Some key topics include:
 #  
 #### SessionID: 14837
 # A New Frontier of Government  Open Data: What it Means to You  Microsoft BI Tools
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Greg Beaumont
 ## Title: A New Frontier of Government  Open Data: What it Means to You  Microsoft BI Tools
@@ -137,7 +137,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 15858
 # Cloudy with a Chance of SQL
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Other
 ## Speaker: Jason Horner
 ## Title: Cloudy with a Chance of SQL
@@ -147,7 +147,7 @@ Let Microsoft Certified Master of SQL Server Jason Horner show you how to apply 
 #  
 #### SessionID: 15989
 # Building the Modern Data Platform Whiteboard Session
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Other
 ## Speaker: Jason Strate
 ## Title: Building the Modern Data Platform Whiteboard Session
@@ -156,7 +156,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Other
 #  
 #### SessionID: 16375
 # SQL Injections and How To Stop Them
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 2
 ## Speaker: Jeff Prom
 ## Title: SQL Injections and How To Stop Them
@@ -165,7 +165,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 2
 #  
 #### SessionID: 16639
 # Index Methods You're Not Using
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 1
 ## Speaker: Jes Schultz
 ## Title: Index Methods You're Not Using
@@ -175,7 +175,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 1
 #  
 #### SessionID: 18392
 # Intro to Locking and Blocking
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 2
 ## Speaker: Kirby Richter
 ## Title: Intro to Locking and Blocking
@@ -184,7 +184,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 2
 #  
 #### SessionID: 18954
 # NoSQL?!? No WAY!
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Other
 ## Speaker: Lara Rubbelke
 ## Title: NoSQL?!? No WAY!
@@ -197,7 +197,7 @@ At the end of this session you will be able to dazzle your family and friends wi
 #  
 #### SessionID: 19211
 # The Accidental Report Designer: Data Visualization Best Practices in SSRS
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Meagan Longoria
 ## Title: The Accidental Report Designer: Data Visualization Best Practices in SSRS
@@ -206,7 +206,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 19661
 # DANGER: The Art and Science of Presenting
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Other
 ## Speaker: Mark Vaillancourt
 ## Title: DANGER: The Art and Science of Presenting
@@ -215,7 +215,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Other
 #  
 #### SessionID: 19963
 # Easy Things to Make SQL Easier
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 1
 ## Speaker: Jennifer McConnell Mark Classen
 ## Title: Easy Things to Make SQL Easier
@@ -224,7 +224,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 1
 #  
 #### SessionID: 20072
 # Eureka! Visual deep dive into storage internals
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Merrill Aldrich
 ## Title: Eureka! Visual deep dive into storage internals
@@ -233,7 +233,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 21734
 # Pseudo-Constants in SQL
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 2
 ## Speaker: Riley Major
 ## Title: Pseudo-Constants in SQL
@@ -246,7 +246,7 @@ Other languages give us real constants and enums—with IntelliSense and compila
 #  
 #### SessionID: 22399
 # Scary Things A Database Owner Can Do
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Paul Timmerman
 ## Title: Scary Things A Database Owner Can Do
@@ -255,7 +255,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 22683
 # Mastering queries into XML data.
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 1
 ## Speaker: Rick Bielawski
 ## Title: Mastering queries into XML data.
@@ -264,7 +264,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 1
 #  
 #### SessionID: 24606
 # Designing a Restore Strategy
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Frank Gill
 ## Title: Designing a Restore Strategy
@@ -273,7 +273,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 24883
 # Every Byte Counts: Why Your Data Type Choices Matter
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Andy Yun
 ## Title: Every Byte Counts: Why Your Data Type Choices Matter
@@ -282,7 +282,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 25797
 # Using PowerPivot to Drive Quality into ETL Processes
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Steve Hughes
 ## Title: Using PowerPivot to Drive Quality into ETL Processes
@@ -291,7 +291,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 26053
 # How do I create an automated ETL test suite ??
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Terry Bunio
 ## Title: How do I create an automated ETL test suite ??
@@ -304,7 +304,7 @@ We will execute hundreds of tests in the short time during the presentation.
 #  
 #### SessionID: 26078
 # Query Tuning for Developers
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 1
 ## Speaker: Ted Krueger
 ## Title: Query Tuning for Developers
@@ -313,7 +313,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 1
 #  
 #### SessionID: 26549
 # Practical Powershell for the Harried DBA
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 2
 ## Speaker: Ben Thul
 ## Title: Practical Powershell for the Harried DBA
@@ -322,7 +322,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DEV 2
 #  
 #### SessionID: 26587
 # Protecting SQL Data for Availability and DR
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Tim Plas
 ## Title: Protecting SQL Data for Availability and DR
@@ -331,7 +331,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 27825
 # Transactional Replication 101
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Wendy Pastrick
 ## Title: Transactional Replication 101
@@ -342,7 +342,7 @@ We will cover the players in the game: Pubishers, Subscribers and Distributors, 
 #  
 #### SessionID: 9143
 # On-Demand Compute and Analytics with Powershell, Hadoop and Azure
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Adam Jorgensen
 ## Title: On-Demand Compute and Analytics with Powershell, Hadoop and Azure
@@ -351,7 +351,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 9489
 # SSIS Deployment and Configuration
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Andy Bolk
 ## Title: SSIS Deployment and Configuration
@@ -368,7 +368,7 @@ Come and see how easy it is to deploy and configure the same SSIS packages to ru
 #  
 #### SessionID: 9617
 # Performing a SQL Server Health Check
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Andy Galbraith
 ## Title: Performing a SQL Server Health Check
@@ -379,7 +379,7 @@ Come learn how to use freely available tools to check your servers for basic iss
 #  
 #### SessionID: 9798
 # Secure Your SQL Server Instance Without Changing Any Code
-#### [Back to calendar](#SQLSaturday-#332---Minnesota-2014)
+#### [Back to calendar](#SQLSaturday-#332-Minnesota-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Argenis Fernandez
 ## Title: Secure Your SQL Server Instance Without Changing Any Code

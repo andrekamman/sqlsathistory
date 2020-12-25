@@ -18,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13929
 # SQL Server 2014, fique por dentro!
-#### [Back to calendar](#SQLSaturday-#245---Rio-de-Janeiro-2013)
+#### [Back to calendar](#SQLSaturday-#245-Rio-de-Janeiro-2013)
 Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Erika Madeira
 ## Title: SQL Server 2014, fique por dentro!
@@ -27,7 +27,7 @@ Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14150
 # SQL Server 2014 - Novidades no Query Optimizer
-#### [Back to calendar](#SQLSaturday-#245---Rio-de-Janeiro-2013)
+#### [Back to calendar](#SQLSaturday-#245-Rio-de-Janeiro-2013)
 Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Fabiano Amorim
 ## Title: SQL Server 2014 - Novidades no Query Optimizer
@@ -36,7 +36,7 @@ Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14239
 # Implementando soluções de alta disponibilidade para seu ambiente
-#### [Back to calendar](#SQLSaturday-#245---Rio-de-Janeiro-2013)
+#### [Back to calendar](#SQLSaturday-#245-Rio-de-Janeiro-2013)
 Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Marcelo Fernandes
 ## Title: Implementando soluções de alta disponibilidade para seu ambiente
@@ -46,7 +46,7 @@ Existem algumas soluções envolvendo investimentos e outras que podem ser aplic
 #  
 #### SessionID: 14700
 # Concorrência Otimista, Read Committed Snapshot (RCSI) e Snapshot Isolation Level
-#### [Back to calendar](#SQLSaturday-#245---Rio-de-Janeiro-2013)
+#### [Back to calendar](#SQLSaturday-#245-Rio-de-Janeiro-2013)
 Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Gustavo Maia Aguiar
 ## Title: Concorrência Otimista, Read Committed Snapshot (RCSI) e Snapshot Isolation Level
@@ -55,7 +55,7 @@ Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19121
 # Resolvendo problemas de Fragmentação do Transaction Log
-#### [Back to calendar](#SQLSaturday-#245---Rio-de-Janeiro-2013)
+#### [Back to calendar](#SQLSaturday-#245-Rio-de-Janeiro-2013)
 Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Leandro Ribeiro
 ## Title: Resolvendo problemas de Fragmentação do Transaction Log
@@ -65,7 +65,7 @@ Veremos as melhores práticas para a configuração Transaction Log e como resol
 #  
 #### SessionID: 19255
 # Hekaton - Um novo paradigma!
-#### [Back to calendar](#SQLSaturday-#245---Rio-de-Janeiro-2013)
+#### [Back to calendar](#SQLSaturday-#245-Rio-de-Janeiro-2013)
 Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Hekaton - Um novo paradigma!
@@ -76,7 +76,7 @@ Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 19499
 # Introdução a Queues e Wait Types 
-#### [Back to calendar](#SQLSaturday-#245---Rio-de-Janeiro-2013)
+#### [Back to calendar](#SQLSaturday-#245-Rio-de-Janeiro-2013)
 Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Marcos Freccia
 ## Title: Introdução a Queues e Wait Types 
@@ -85,7 +85,7 @@ Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21232
 # SQL Performance Countes com Powershell
-#### [Back to calendar](#SQLSaturday-#245---Rio-de-Janeiro-2013)
+#### [Back to calendar](#SQLSaturday-#245-Rio-de-Janeiro-2013)
 Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: SQL Performance Countes com Powershell
@@ -96,7 +96,7 @@ Vamos conhecer alguns destes contadores, qual sua importância, valores aconselh
 #  
 #### SessionID: 21449
 # Troubleshooting for Microsoft SQL Server 2005/2008/2012
-#### [Back to calendar](#SQLSaturday-#245---Rio-de-Janeiro-2013)
+#### [Back to calendar](#SQLSaturday-#245-Rio-de-Janeiro-2013)
 Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Nilton Pinheiro
 ## Title: Troubleshooting for Microsoft SQL Server 2005/2008/2012
@@ -105,7 +105,7 @@ Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 21490
 # Por onde começar no BigData??
-#### [Back to calendar](#SQLSaturday-#245---Rio-de-Janeiro-2013)
+#### [Back to calendar](#SQLSaturday-#245-Rio-de-Janeiro-2013)
 Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Diego Nogare
 ## Title: Por onde começar no BigData??
@@ -114,7 +114,7 @@ Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 27550
 # Uso do SSIS Catalog na publicação de pacotes no Integration Services 2012
-#### [Back to calendar](#SQLSaturday-#245---Rio-de-Janeiro-2013)
+#### [Back to calendar](#SQLSaturday-#245-Rio-de-Janeiro-2013)
 Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Vanessa Porto
 ## Title: Uso do SSIS Catalog na publicação de pacotes no Integration Services 2012
@@ -123,7 +123,7 @@ Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 34620
 # Gerenciando muitos servidores com uso de EPM
-#### [Back to calendar](#SQLSaturday-#245---Rio-de-Janeiro-2013)
+#### [Back to calendar](#SQLSaturday-#245-Rio-de-Janeiro-2013)
 Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dennes Torres
 ## Title: Gerenciando muitos servidores com uso de EPM
@@ -134,7 +134,7 @@ Veja como garantir rapidamente que todos os servidores estejam com as configura�
 #  
 #### SessionID: 34852
 # Estamos preparados para melhorar o desempenho dos bancos de dados?
-#### [Back to calendar](#SQLSaturday-#245---Rio-de-Janeiro-2013)
+#### [Back to calendar](#SQLSaturday-#245-Rio-de-Janeiro-2013)
 Event Date: 31-08-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Oduvaldo Zeferino
 ## Title: Estamos preparados para melhorar o desempenho dos bancos de dados?

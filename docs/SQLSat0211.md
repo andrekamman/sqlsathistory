@@ -45,7 +45,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11472
 # What’s New for BI in Excel 2013?
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Chris Webb
 ## Title: What’s New for BI in Excel 2013?
@@ -54,7 +54,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 12565
 # Database Health and Performance
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: David Klee
 ## Title: Database Health and Performance
@@ -63,7 +63,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 13382
 # Hailing Frequencies: SSAS Terms and Concepts
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Doug Lane
 ## Title: Hailing Frequencies: SSAS Terms and Concepts
@@ -74,7 +74,7 @@ You’ll learn the key differences between SSAS Multidimensional Model (Cubes) a
 #  
 #### SessionID: 13660
 # Service Broker: The Queue Continuum
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Ed Leighton-Dick
 ## Title: Service Broker: The Queue Continuum
@@ -83,7 +83,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 13940
 # Making the Leap from Profiler to Extended Events
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Erin Stellato
 ## Title: Making the Leap from Profiler to Extended Events
@@ -92,7 +92,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 13941
 # Demystifying Database Statistics
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Erin Stellato
 ## Title: Demystifying Database Statistics
@@ -107,7 +107,7 @@ By the end of the session, you will understand:
 #  
 #### SessionID: 14099
 # Partitioning for Perf and Mgmt of Large Tables
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Eddie Wuerch
 ## Title: Partitioning for Perf and Mgmt of Large Tables
@@ -116,7 +116,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 14924
 # Monitoring and collecting storage info for DBAs
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Haidong Ji
 ## Title: Monitoring and collecting storage info for DBAs
@@ -127,7 +127,7 @@ In this session, I will explain and demo a PowerShell/SQL Server combo solution 
 #  
 #### SessionID: 15005
 # Consulting The Good, The Bad, The Ugly
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 8 
 ## Speaker: Hope Foley
 ## Title: Consulting The Good, The Bad, The Ugly
@@ -136,7 +136,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 15565
 # Building an Effective Data Warehouse Architecture
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: James Serra
 ## Title: Building an Effective Data Warehouse Architecture
@@ -145,7 +145,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15568
 # What exactly is Business Intelligence?
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: James Serra
 ## Title: What exactly is Business Intelligence?
@@ -154,7 +154,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 15889
 # Advanced Charting Techniques in SSRS
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jason Thomas
 ## Title: Advanced Charting Techniques in SSRS
@@ -164,7 +164,7 @@ This session will talk about the basic functionalities of all the charts as well
 #  
 #### SessionID: 15951
 # What Are You Waiting For?
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jason Strate
 ## Title: What Are You Waiting For?
@@ -173,7 +173,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 15953
 # Discovering the Plan Cache
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jason Strate
 ## Title: Discovering the Plan Cache
@@ -183,7 +183,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 16217
 # Using Compression to Improve Database Performance
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Joseph D'Antoni
 ## Title: Using Compression to Improve Database Performance
@@ -192,7 +192,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 16914
 # Analytic Cartography: Master geospatial reporting
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Julie Koesmarno
 ## Title: Analytic Cartography: Master geospatial reporting
@@ -203,7 +203,7 @@ In this session, Julie will show you three options for creating and delivering t
 #  
 #### SessionID: 17410
 # What is a BI DBA?
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jorge Segarra
 ## Title: What is a BI DBA?
@@ -212,7 +212,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 17488
 # Data Quality Services Approach to Cleansing
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Joseph Verftido
 ## Title: Data Quality Services Approach to Cleansing
@@ -223,7 +223,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 17518
 # Demystifying BISM and Tabular Mode SSAS
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Josh Fennessy
 ## Title: Demystifying BISM and Tabular Mode SSAS
@@ -234,7 +234,7 @@ In this session, attendees will gain understanding of what Multidimensional and 
 #  
 #### SessionID: 18215
 # SQL Server Internals  Architecture
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals  Architecture
@@ -243,7 +243,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18424
 # SQL Server 2012 T-SQL
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kathi Kellenberger
 ## Title: SQL Server 2012 T-SQL
@@ -252,7 +252,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18911
 # Locks, Blocks, and Deadlocks
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kyle Neier
 ## Title: Locks, Blocks, and Deadlocks
@@ -261,7 +261,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 19131
 # Getting the most out of Power View
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Leonard Murphy
 ## Title: Getting the most out of Power View
@@ -270,7 +270,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 20058
 # PowerShell 101
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Merrill Aldrich
 ## Title: PowerShell 101
@@ -279,7 +279,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 21355
 # SQL Server 2012 Memory Management
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Neil Hambly
 ## Title: SQL Server 2012 Memory Management
@@ -289,7 +289,7 @@ This session will dive into questions related to memory primarily for SQL Server
 #  
 #### SessionID: 21829
 # Visualization Choices: What, When, and How?
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 8 
 ## Speaker: Paul Turley
 ## Title: Visualization Choices: What, When, and How?
@@ -298,7 +298,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 22388
 # An Optimistic Approach: Snapshot Isolation in SQL 
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Paul Timmerman
 ## Title: An Optimistic Approach: Snapshot Isolation in SQL 
@@ -311,7 +311,7 @@ Come learn how to put one of the more powerful, but least understood, aspects of
 #  
 #### SessionID: 22994
 # Rules of Engagement: NoSQL is SQL Server's Ally
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Rick Krueger
 ## Title: Rules of Engagement: NoSQL is SQL Server's Ally
@@ -320,7 +320,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 23272
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -329,7 +329,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 23451
 # Deep dive on SQL Server 2012 Availability Groups
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Ross LoForte
 ## Title: Deep dive on SQL Server 2012 Availability Groups
@@ -338,7 +338,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 23942
 # Database Unit Testing made Easy
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Sanil Mhatre
 ## Title: Database Unit Testing made Easy
@@ -347,7 +347,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 24308
 # Anatomy of a Join
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Luke Jian
 ## Title: Anatomy of a Join
@@ -356,7 +356,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 24583
 # Tools to Make Multi-Object Administration Easier
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Frank Gill
 ## Title: Tools to Make Multi-Object Administration Easier
@@ -365,7 +365,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 24675
 # Dashboard Do's and Don'ts
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 8 
 ## Speaker: Stacia Varga
 ## Title: Dashboard Do's and Don'ts
@@ -374,7 +374,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 24838
 # The Future of the DBA
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Scott Shaw
 ## Title: The Future of the DBA
@@ -386,7 +386,7 @@ future of our profession.
 #  
 #### SessionID: 24979
 # Flipping Through the SSIS Catalag
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 8 
 ## Speaker: MIKE DONNELLY
 ## Title: Flipping Through the SSIS Catalag
@@ -396,7 +396,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 26027
 # How to install and configure SSRS 2012/Sharepoint
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 8 
 ## Speaker: Terry Bunio
 ## Title: How to install and configure SSRS 2012/Sharepoint
@@ -406,7 +406,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 26087
 # Upgrading to SQL Server 2012 with limited downtime
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ted Krueger
 ## Title: Upgrading to SQL Server 2012 with limited downtime
@@ -417,7 +417,7 @@ I don’t and that is why we’re going to look at methods to upgrade or migrate
 #  
 #### SessionID: 8891
 # Writing Professional Database Code
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Aaron Lowe
 ## Title: Writing Professional Database Code
@@ -426,7 +426,7 @@ Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 9254
 # Demystifying Clustering for the DBA
-#### [Back to calendar](#SQLSaturday-#211---Chicago-2013)
+#### [Back to calendar](#SQLSaturday-#211-Chicago-2013)
 Event Date: 13-04-2013 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Allan Hirt
 ## Title: Demystifying Clustering for the DBA

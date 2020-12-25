@@ -11,7 +11,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 30298
 # Microsoft Data Mining Fundamentals
-#### [Back to calendar](#SQLSaturday-#102---Trinidad-2011)
+#### [Back to calendar](#SQLSaturday-#102-Trinidad-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Hasani Holder
 ## Title: Microsoft Data Mining Fundamentals
@@ -20,7 +20,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30493
 # Database Integrity
-#### [Back to calendar](#SQLSaturday-#102---Trinidad-2011)
+#### [Back to calendar](#SQLSaturday-#102-Trinidad-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jason Deyalsingh
 ## Title: Database Integrity
@@ -29,7 +29,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30591
 # Performance for SMB Developers - 2011
-#### [Back to calendar](#SQLSaturday-#102---Trinidad-2011)
+#### [Back to calendar](#SQLSaturday-#102-Trinidad-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Joe Chang
 ## Title: Performance for SMB Developers - 2011
@@ -38,7 +38,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32077
 # What's new in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#102---Trinidad-2011)
+#### [Back to calendar](#SQLSaturday-#102-Trinidad-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Nigel Sammy
 ## Title: What's new in SQL Server 2012
@@ -47,7 +47,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32536
 # Zero to BI in 10 Minutes
-#### [Back to calendar](#SQLSaturday-#102---Trinidad-2011)
+#### [Back to calendar](#SQLSaturday-#102-Trinidad-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Rushabh Mehta
 ## Title: Zero to BI in 10 Minutes
@@ -56,7 +56,7 @@ Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32537
 # Journey into Business Intelligence
-#### [Back to calendar](#SQLSaturday-#102---Trinidad-2011)
+#### [Back to calendar](#SQLSaturday-#102-Trinidad-2011)
 Event Date: 11-11-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Rushabh Mehta
 ## Title: Journey into Business Intelligence

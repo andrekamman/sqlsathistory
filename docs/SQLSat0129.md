@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 12042
 # Introducing Query Optimization
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: A
 ## Speaker: Christopher Crane
 ## Title: Introducing Query Optimization
@@ -44,7 +44,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: A
 #  
 #### SessionID: 12418
 # Replication- A fresh look  peek behind the scenes
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: F
 ## Speaker: David Benoit
 ## Title: Replication- A fresh look  peek behind the scenes
@@ -53,7 +53,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: F
 #  
 #### SessionID: 12698
 # SRS Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: B
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
@@ -62,7 +62,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: B
 #  
 #### SessionID: 14756
 # Top Tips for Writing Better T-SQL Queries
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: E
 ## Speaker: Grant Fritchey
 ## Title: Top Tips for Writing Better T-SQL Queries
@@ -71,7 +71,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: E
 #  
 #### SessionID: 14757
 # Common Backup Problems and How to Deal With Them
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: F
 ## Speaker: Grant Fritchey
 ## Title: Common Backup Problems and How to Deal With Them
@@ -80,7 +80,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: F
 #  
 #### SessionID: 14760
 # Deadlocks and what to do about them
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: F
 ## Speaker: Grant Fritchey
 ## Title: Deadlocks and what to do about them
@@ -89,7 +89,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: F
 #  
 #### SessionID: 14761
 # What to Look for in Execution Plans
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: E
 ## Speaker: Grant Fritchey
 ## Title: What to Look for in Execution Plans
@@ -98,7 +98,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: E
 #  
 #### SessionID: 15684
 # Extend Your Knowledge with Extended Events!
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: D
 ## Speaker: Janis Griffin
 ## Title: Extend Your Knowledge with Extended Events!
@@ -109,7 +109,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: D
 #  
 #### SessionID: 15685
 # Don't Panic, DBAs!  Databases on VMware made easy.
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: D
 ## Speaker: Janis Griffin
 ## Title: Don't Panic, DBAs!  Databases on VMware made easy.
@@ -118,7 +118,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: D
 #  
 #### SessionID: 15686
 # Looney Tuner?  No, there IS a method to my madness
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: D
 ## Speaker: Janis Griffin
 ## Title: Looney Tuner?  No, there IS a method to my madness
@@ -127,7 +127,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: D
 #  
 #### SessionID: 15779
 # Fast Track to Spatial Reporting
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: D
 ## Speaker: Jason  Thomas
 ## Title: Fast Track to Spatial Reporting
@@ -136,7 +136,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: D
 #  
 #### SessionID: 16790
 # Getting Started with Background Jobs in PowerShell
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: C
 ## Speaker: Jeff Hicks
 ## Title: Getting Started with Background Jobs in PowerShell
@@ -145,7 +145,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: C
 #  
 #### SessionID: 16791
 # PowerShell v3 WorkFlows
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: C
 ## Speaker: Jeff Hicks
 ## Title: PowerShell v3 WorkFlows
@@ -154,7 +154,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: C
 #  
 #### SessionID: 16792
 # Jobs and Tasks in PowerShell 3.0
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: C
 ## Speaker: Jeff Hicks
 ## Title: Jobs and Tasks in PowerShell 3.0
@@ -163,7 +163,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: C
 #  
 #### SessionID: 22477
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: D
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -173,7 +173,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: D
 #  
 #### SessionID: 22479
 # Understanding SQL Server XML Features 
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: C
 ## Speaker: Randy Knight
 ## Title: Understanding SQL Server XML Features 
@@ -182,7 +182,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: C
 #  
 #### SessionID: 22480
 # Understanding Transaction Isolation Levels
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: C
 ## Speaker: Randy Knight
 ## Title: Understanding Transaction Isolation Levels
@@ -192,7 +192,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: C
 #  
 #### SessionID: 23539
 # Discover the power of Visual Studio db projects
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: E
 ## Speaker: Robert Schoedel
 ## Title: Discover the power of Visual Studio db projects
@@ -201,7 +201,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: E
 #  
 #### SessionID: 23540
 # SQL 2012 Master Data Services (MDS)
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: E
 ## Speaker: Robert Schoedel
 ## Title: SQL 2012 Master Data Services (MDS)
@@ -210,7 +210,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: E
 #  
 #### SessionID: 26760
 # Pro Tips:  Performance Tuning SSIS
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: A
 ## Speaker: Tim Costello
 ## Title: Pro Tips:  Performance Tuning SSIS
@@ -219,7 +219,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: A
 #  
 #### SessionID: 26762
 # Dimensional Design primer:  What you need to know
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: A
 ## Speaker: Tim Costello
 ## Title: Dimensional Design primer:  What you need to know
@@ -229,7 +229,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: A
 #  
 #### SessionID: 26763
 # Data Visualization primer:  What you need to know
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: A
 ## Speaker: Tim Costello
 ## Title: Data Visualization primer:  What you need to know
@@ -238,7 +238,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: A
 #  
 #### SessionID: 26764
 # ELT:  Old school data loading with tsql
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: A
 ## Speaker: Tim Costello
 ## Title: ELT:  Old school data loading with tsql
@@ -247,7 +247,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: A
 #  
 #### SessionID: 27853
 # An Overview of PowerPivot
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: B
 ## Speaker: William E Pearson III
 ## Title: An Overview of PowerPivot
@@ -256,7 +256,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: B
 #  
 #### SessionID: 27855
 # Becoming DAX: An Introduction ... 
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: B
 ## Speaker: William E Pearson III
 ## Title: Becoming DAX: An Introduction ... 
@@ -265,7 +265,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: B
 #  
 #### SessionID: 27860
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: B
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
@@ -274,7 +274,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: B
 #  
 #### SessionID: 27862
 # Overcoming Barriers and Avoiding Mistakes with BI
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: B
 ## Speaker: William E Pearson III
 ## Title: Overcoming Barriers and Avoiding Mistakes with BI
@@ -283,7 +283,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: B
 #  
 #### SessionID: 34593
 # New High Availability options with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: F
 ## Speaker: Andy Roberts
 ## Title: New High Availability options with SQL Server 2012
@@ -292,7 +292,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: F
 #  
 #### SessionID: 34594
 # The biggest and baddest SQL Installs in the World
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: F
 ## Speaker: Andy Roberts
 ## Title: The biggest and baddest SQL Installs in the World
@@ -301,7 +301,7 @@ Event Date: 12-05-2012 - Session time: 00:00:00 - Track: F
 #  
 #### SessionID: 34595
 # SQL Server 2012 T-SQL Enhancements
-#### [Back to calendar](#SQLSaturday-#129---Rochester-2012)
+#### [Back to calendar](#SQLSaturday-#129-Rochester-2012)
 Event Date: 12-05-2012 - Session time: 00:00:00 - Track: E
 ## Speaker: Andy Roberts
 ## Title: SQL Server 2012 T-SQL Enhancements

@@ -60,7 +60,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 64851
 # Power BI:  From the Desktop to the Enterprise
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Patrick LeBlanc
 ## Title: Power BI:  From the Desktop to the Enterprise
@@ -79,7 +79,7 @@ Con
 #  
 #### SessionID: 61176
 # Women in Technology: Identifying and Understanding Gender Bias  Inequality
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Women in Technology: Identifying and Understanding Gender Bias  Inequality
@@ -88,7 +88,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 63441
 # Hostile Takeover
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Robert Bishop
 ## Title: Hostile Takeover
@@ -97,7 +97,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 63994
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -106,7 +106,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 64513
 # T-SQL's Hidden Support Feature
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Jennifer McCown
 ## Title: T-SQL's Hidden Support Feature
@@ -117,7 +117,7 @@ In this session, Microsoft Certified Master Jennifer McCown will demonstrate the
 #  
 #### SessionID: 64729
 # PowerShell 101: The No-Nonsense Beginner’s Guide to PowerShell
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Mike Robbins
 ## Title: PowerShell 101: The No-Nonsense Beginner’s Guide to PowerShell
@@ -126,7 +126,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 65094
 # Xamarin Forms App with Azure Mobile Services for Authentication and Offline Sync
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Mobile App Dev
 ## Speaker: David Silver
 ## Title: Xamarin Forms App with Azure Mobile Services for Authentication and Offline Sync
@@ -135,7 +135,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Mobile App Dev
 #  
 #### SessionID: 65377
 # Introduction to Azure Analysis Services
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to Azure Analysis Services
@@ -144,7 +144,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 65495
 # What's new with Power BI
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Adam Saxton
 ## Title: What's new with Power BI
@@ -153,7 +153,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 66310
 # Managing SSRS Reports using PowerShell and SSRS Web Services
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Russel Loski
 ## Title: Managing SSRS Reports using PowerShell and SSRS Web Services
@@ -162,7 +162,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 66343
 # Should your spreadsheet be a database?
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Beginner
 ## Speaker: Jonathan Jefferson
 ## Title: Should your spreadsheet be a database?
@@ -171,7 +171,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Beginner
 #  
 #### SessionID: 61352
 # Careers in IT - Baton Rouge 2017
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Career
 ## Speaker: Michael Viron
 ## Title: Careers in IT - Baton Rouge 2017
@@ -180,7 +180,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Career
 #  
 #### SessionID: 61505
 # Dynamic SQL: Tables, Pivots
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Steven Tidwell
 ## Title: Dynamic SQL: Tables, Pivots
@@ -189,7 +189,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
 #  
 #### SessionID: 61668
 # Giving Feedback: How to Effectively Communicate to your Employees
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Giving Feedback: How to Effectively Communicate to your Employees
@@ -198,7 +198,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 61721
 # In-Memory Indexes:  Part 2 -- The rest of the story!
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Windows Server/Virtualization
 ## Speaker: Mike Byrd
 ## Title: In-Memory Indexes:  Part 2 -- The rest of the story!
@@ -211,7 +211,7 @@ After this session you will
 #  
 #### SessionID: 63710
 # Getting Started with .NET Core
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Brandon Cornett
 ## Title: Getting Started with .NET Core
@@ -220,7 +220,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: .NET Dev
 #  
 #### SessionID: 64854
 # Power BI:  Customer Stories from the Frontline
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Patrick LeBlanc
 ## Title: Power BI:  Customer Stories from the Frontline
@@ -229,7 +229,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 64869
 # React Native - So real you can taste it
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Mobile App Dev
 ## Speaker: Justin Obney
 ## Title: React Native - So real you can taste it
@@ -238,7 +238,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Mobile App Dev
 #  
 #### SessionID: 64994
 # Monster VM's (Database Virtualization)
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Michael Corey
 ## Title: Monster VM's (Database Virtualization)
@@ -247,7 +247,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 65106
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
@@ -258,7 +258,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 65811
 # What’s new for SQL Server Analysis Services?
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Thomas LeBlanc
 ## Title: What’s new for SQL Server Analysis Services?
@@ -268,7 +268,7 @@ When an Analysis Service database gets created in an enterprise, and users start
 #  
 #### SessionID: 66281
 # Advanced PowerShell Database Reporting Tools (for Beginners)
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Rohn Edwards
 ## Title: Advanced PowerShell Database Reporting Tools (for Beginners)
@@ -277,7 +277,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 61080
 # Polybase, Didn't that go out with the 70's?
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Stan Geiger
 ## Title: Polybase, Didn't that go out with the 70's?
@@ -286,7 +286,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
 #  
 #### SessionID: 63960
 # Improving Your Management Skills
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: David Reid
 ## Title: Improving Your Management Skills
@@ -295,7 +295,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 63993
 # Bringing DevOps to the Database
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Steve Jones
 ## Title: Bringing DevOps to the Database
@@ -304,7 +304,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
 #  
 #### SessionID: 63997
 # Gimgen - Going Deep With Javascript Generators
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Mobile App Dev
 ## Speaker: George Mauer
 ## Title: Gimgen - Going Deep With Javascript Generators
@@ -313,7 +313,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Mobile App Dev
 #  
 #### SessionID: 64225
 # Programming in Power Query: An Introduction to M
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Andy Parkerson
 ## Title: Programming in Power Query: An Introduction to M
@@ -326,7 +326,7 @@ Our examination will conclude with a discussion of best practices, centering on 
 #  
 #### SessionID: 64319
 # Taking Time for You
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Taking Time for You
@@ -335,7 +335,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 64463
 # Pester the Tester: PowerShell Bugs Beware!
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Robert Cain
 ## Title: Pester the Tester: PowerShell Bugs Beware!
@@ -346,7 +346,7 @@ Pester is a friendly testing framework designed for testing your PowerShells scr
 #  
 #### SessionID: 64620
 # Code Like a Pirate ... Intro to R and Data Science Tools in MS
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Pirate ... Intro to R and Data Science Tools in MS
@@ -370,7 +370,7 @@ The focus of the session will be primarily on the introduction to the R language
 #  
 #### SessionID: 64852
 # Introduction to the Power BI Desktop
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerBI
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to the Power BI Desktop
@@ -379,7 +379,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerBI
 #  
 #### SessionID: 65382
 # Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Amy Herold
 ## Title: Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
@@ -388,7 +388,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 68484
 # How to talk to your Storage Admin
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Marsha Pierce
 ## Title: How to talk to your Storage Admin
@@ -397,7 +397,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 61114
 # SQL Server Statistics – What Are The Chances?
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Lori Edwards
 ## Title: SQL Server Statistics – What Are The Chances?
@@ -406,7 +406,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 61174
 # How to Build Your Disaster Recovery Plan
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Rie Irish
 ## Title: How to Build Your Disaster Recovery Plan
@@ -415,7 +415,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 62623
 # Navigating an Internship: Tips for beginning a career as a software developer.
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Career
 ## Speaker: Jay Tulk
 ## Title: Navigating an Internship: Tips for beginning a career as a software developer.
@@ -424,7 +424,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Career
 #  
 #### SessionID: 64621
 # Code Like a Pirate ... Intermediate R and Data Science in MS
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Pirate ... Intermediate R and Data Science in MS
@@ -437,7 +437,7 @@ In this session, we will use Microsoft R Server, R Tools for Visual Studio and P
 #  
 #### SessionID: 64866
 # Parallel Programming, an Introduction
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Matthew Puneky
 ## Title: Parallel Programming, an Introduction
@@ -449,7 +449,7 @@ The language specific examples will be given in C#.
 #  
 #### SessionID: 64968
 # Trends in the Cloud
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: IT Executive
 ## Speaker: Michael Corey
 ## Title: Trends in the Cloud
@@ -458,7 +458,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: IT Executive
 #  
 #### SessionID: 65140
 # Twilight TimeZone: Handling Time in Your App Architecture
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: William Assaf
 ## Title: Twilight TimeZone: Handling Time in Your App Architecture
@@ -467,7 +467,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: .NET Dev
 #  
 #### SessionID: 65203
 # Exploring the All-New SSRS 2016
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Tim Mitchell
 ## Title: Exploring the All-New SSRS 2016
@@ -476,7 +476,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 65384
 # Beginning Automation with Powershell
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Amy Herold
 ## Title: Beginning Automation with Powershell
@@ -485,7 +485,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 65494
 # Using a gateway to leverage on-premises data in Power BI
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Adam Saxton
 ## Title: Using a gateway to leverage on-premises data in Power BI
@@ -494,7 +494,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 65553
 # Set Me Up: How to Think in Sets
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Brian Hansen
 ## Title: Set Me Up: How to Think in Sets
@@ -505,7 +505,7 @@ We will look at T-SQL features that can break set-based processing -- generally 
 #  
 #### SessionID: 61093
 # Troubleshooting SQL Server Performance
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Stacy Gray
 ## Title: Troubleshooting SQL Server Performance
@@ -514,7 +514,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 61177
 # Let Her Finish: Supporting Women's Voices from meetings to the board room
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Let Her Finish: Supporting Women's Voices from meetings to the board room
@@ -524,7 +524,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 61646
 # App to Azure in 60 Minutes
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Sven Aelterman
 ## Title: App to Azure in 60 Minutes
@@ -533,7 +533,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: .NET Dev
 #  
 #### SessionID: 61670
 # Mastering your Resume  Interview: Tips to Get Hired
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Mastering your Resume  Interview: Tips to Get Hired
@@ -542,7 +542,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 63198
 # Async or Parallel? No they aren't the same thing!
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Andie Saizan
 ## Title: Async or Parallel? No they aren't the same thing!
@@ -551,7 +551,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: .NET Dev
 #  
 #### SessionID: 64495
 # From problem to Power BI:  A journey in data visualization
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerBI
 ## Speaker: Jonathan Stewart
 ## Title: From problem to Power BI:  A journey in data visualization
@@ -560,7 +560,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerBI
 #  
 #### SessionID: 64732
 # Automate Operational Readiness and Validation Testing of SQL Server with PowerShell and Pester
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Mike Robbins
 ## Title: Automate Operational Readiness and Validation Testing of SQL Server with PowerShell and Pester
@@ -569,7 +569,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 65500
 # Data Modeling for the Modern Enterprise
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Ryan Casey
 ## Title: Data Modeling for the Modern Enterprise
@@ -599,7 +599,7 @@ Trans Relational Model
 #  
 #### SessionID: 65551
 # Get Your Optimizer to Give up All Its Secrets
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
@@ -608,7 +608,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 66308
 # Querying Semistructured Data in Azure Data Lake with USQL
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Russel Loski
 ## Title: Querying Semistructured Data in Azure Data Lake with USQL
@@ -617,7 +617,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 66320
 # Weird stuff I saw ... while supporting a Java team
-#### [Back to calendar](#SQLSaturday-#628---Baton-Rouge-2017)
+#### [Back to calendar](#SQLSaturday-#628-Baton-Rouge-2017)
 Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Rick Lowe
 ## Title: Weird stuff I saw ... while supporting a Java team

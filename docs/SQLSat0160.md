@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10013
 # Manage SQL Server 2012 on Server Core w/PowerShell
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Allen White
 ## Title: Manage SQL Server 2012 on Server Core w/PowerShell
@@ -45,7 +45,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 10340
 # Dive into the Query Optimizer-Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer-Undocumented Insight
@@ -54,7 +54,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 10731
 # Building Faster SQL Servers
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Brent Ozar
 ## Title: Building Faster SQL Servers
@@ -63,7 +63,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 11776
 # So I started this blog... now what?
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Colleen Morrow
 ## Title: So I started this blog... now what?
@@ -72,7 +72,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 12743
 # SRS Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
@@ -81,7 +81,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 12816
 # Effective Data Visualization: The Ideas of Edward 
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: David Giard
 ## Title: Effective Data Visualization: The Ideas of Edward 
@@ -93,7 +93,7 @@ In this session, I will explain some of Tufte's most important guidelines about 
 #  
 #### SessionID: 13324
 # DBA Basics: The Four Tasks Every DBA Should Know.
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Maxwell
 ## Title: DBA Basics: The Four Tasks Every DBA Should Know.
@@ -102,7 +102,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14075
 # DB1: Let's Talk Internals
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Eddie Wuerch
 ## Title: DB1: Let's Talk Internals
@@ -112,7 +112,7 @@ There are many tools and techniques for finding performance problems, but solvin
 #  
 #### SessionID: 14076
 # DB2: Let's Talk Internals
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Eddie Wuerch
 ## Title: DB2: Let's Talk Internals
@@ -122,7 +122,7 @@ There are many tools and techniques for finding performance problems, but solvin
 #  
 #### SessionID: 14409
 # Scaling SQL Server to HUNDREDS of Terabytes!
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Garrett Edmondson
 ## Title: Scaling SQL Server to HUNDREDS of Terabytes!
@@ -131,7 +131,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 15010
 # PowerPivot  BISM in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Hope Foley
 ## Title: PowerPivot  BISM in SQL Server 2012
@@ -141,7 +141,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 15880
 # Profiler? What is this tool you speak of?
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jason Spangler
 ## Title: Profiler? What is this tool you speak of?
@@ -150,7 +150,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 15926
 # Discovering the Plan Cache
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Jason Strate
 ## Title: Discovering the Plan Cache
@@ -159,7 +159,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 16053
 # Hierarchies... on Steroids the No RBAR Way
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jeff Moden
 ## Title: Hierarchies... on Steroids the No RBAR Way
@@ -168,7 +168,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 16180
 # SQL 2012 -- All About HA and DR
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Joseph D'Antoni
 ## Title: SQL 2012 -- All About HA and DR
@@ -177,7 +177,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17307
 # Introduction to SSIS with a Real-World Example
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ron Johnson
 ## Title: Introduction to SSIS with a Real-World Example
@@ -186,7 +186,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17658
 # Wish you could live the glamorous consulting life?
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Juan Soto
 ## Title: Wish you could live the glamorous consulting life?
@@ -198,7 +198,7 @@ In this session you will lean sales, marketing and management strategies to get 
 #  
 #### SessionID: 21466
 # SQL Azure Federations
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Nitin Salgar
 ## Title: SQL Azure Federations
@@ -211,7 +211,7 @@ This topic requires rudimentary SQL Azure understanding
 #  
 #### SessionID: 21514
 # PowerShell, the New SQL Hammer
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Norman Kelm
 ## Title: PowerShell, the New SQL Hammer
@@ -220,7 +220,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 23063
 # BI1 Big Data Analytics - Hadoop and Microsoft BI
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Rob Kerr
 ## Title: BI1 Big Data Analytics - Hadoop and Microsoft BI
@@ -229,7 +229,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 23064
 # BI2 Big Data Analytics - Hadoop and Microsoft BI
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Rob Kerr
 ## Title: BI2 Big Data Analytics - Hadoop and Microsoft BI
@@ -238,7 +238,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24319
 # Anatomy of a Join
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Luke Jian
 ## Title: Anatomy of a Join
@@ -247,7 +247,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 24411
 # Women in Technology Panel Discussion
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Shelly Noll
 ## Title: Women in Technology Panel Discussion
@@ -256,7 +256,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24412
 # NoSQL: Know Your Enemy
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Shelly Noll
 ## Title: NoSQL: Know Your Enemy
@@ -265,7 +265,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 25099
 # Free SQL Tools for Your Toolbox
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kevin Bullen
 ## Title: Free SQL Tools for Your Toolbox
@@ -274,7 +274,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 26002
 # 45 min to build your first SSRS Report
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Tamera Clark
 ## Title: 45 min to build your first SSRS Report
@@ -283,7 +283,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 26849
 # Performance Enhancing Laziness
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Tim Ford
 ## Title: Performance Enhancing Laziness
@@ -292,7 +292,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 27802
 # Transactional Replication 101
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Wendy Pastrick
 ## Title: Transactional Replication 101
@@ -303,7 +303,7 @@ We will cover the players in the game: Pubishers, Subscribers and Distributors, 
 #  
 #### SessionID: 8979
 # SQL Server 2012 AlwaysOn Readable Secondaries
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Adam Belebczuk
 ## Title: SQL Server 2012 AlwaysOn Readable Secondaries
@@ -312,7 +312,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9678
 # Load Balancing Analysis Services
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Anthony Mattas
 ## Title: Load Balancing Analysis Services
@@ -325,7 +325,7 @@ This session will cover a unique approach to load balancing SQL Server Analysis 
 #  
 #### SessionID: 9820
 # Introduction to Microsoft StreamInsight
-#### [Back to calendar](#SQLSaturday-#160---Kalamazoo-2012)
+#### [Back to calendar](#SQLSaturday-#160-Kalamazoo-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Arie Jones
 ## Title: Introduction to Microsoft StreamInsight

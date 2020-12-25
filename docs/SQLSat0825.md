@@ -65,7 +65,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 86426
 # A Beginners Guide to Transactions
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: A Beginners Guide to Transactions
@@ -74,7 +74,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 86490
 # Building a Microsoft Business intelligence Solution step-by-step
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Farouq Abukhamireh
 ## Title: Building a Microsoft Business intelligence Solution step-by-step
@@ -92,7 +92,7 @@ Tips for success
 #  
 #### SessionID: 86710
 # Troubleshooting AlwaysOn Availability Groups - Common Customer Scenarios
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chirag Shah
 ## Title: Troubleshooting AlwaysOn Availability Groups - Common Customer Scenarios
@@ -108,7 +108,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 87196
 # Encrypting Data within Sql Server
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within Sql Server
@@ -121,7 +121,7 @@ You will leave the session with a deeper understanding about SQL Server encrypti
 #  
 #### SessionID: 88004
 # Become a SQL Pro who’s in High Demand
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Wylie Blanchard
 ## Title: Become a SQL Pro who’s in High Demand
@@ -130,7 +130,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 88034
 # SQL Server  Auditing
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: H. Ross Reed
 ## Title: SQL Server  Auditing
@@ -139,7 +139,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88045
 # Analysis Services is in Azure? Seriously!? Let's build a model!
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Phillip Labry
 ## Title: Analysis Services is in Azure? Seriously!? Let's build a model!
@@ -150,7 +150,7 @@ This demo heavy session will be focused on setting up Azure Analysis Services, d
 #  
 #### SessionID: 88261
 # Containers, Pods, and Databases- The Future of Infrastructure
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joseph D'Antoni
 ## Title: Containers, Pods, and Databases- The Future of Infrastructure
@@ -159,7 +159,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88507
 # PowerShell for the Reluctant Administrator
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Pat Phelan
 ## Title: PowerShell for the Reluctant Administrator
@@ -172,7 +172,7 @@ This session was designed for the non-PowerShell user and the new PowerShell use
 #  
 #### SessionID: 89353
 # Performance tuning with SQL Server memory grants
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Arthur Daniels III
 ## Title: Performance tuning with SQL Server memory grants
@@ -187,7 +187,7 @@ Prerequisites: General knowledge of execution plans and query writing
 #  
 #### SessionID: 86449
 # Using Extended Events for Wait Stats Analysis
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Using Extended Events for Wait Stats Analysis
@@ -196,7 +196,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 86658
 # Azure SQL Database Managed Instance for DBAs
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ross LoForte
 ## Title: Azure SQL Database Managed Instance for DBAs
@@ -212,7 +212,7 @@ In this session, learn:
 #  
 #### SessionID: 86948
 # How Cloud Computing Empowers a Data Scientist
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: David Giard
 ## Title: How Cloud Computing Empowers a Data Scientist
@@ -223,7 +223,7 @@ In this session, you will learn how the cloud has impacted data science, the mos
 #  
 #### SessionID: 87371
 # Populating a Data Warehouse with SSIS and Biml Patterns
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jim Miller
 ## Title: Populating a Data Warehouse with SSIS and Biml Patterns
@@ -233,7 +233,7 @@ Attend to see how Biml can revolutionize your SSIS development!
 #  
 #### SessionID: 87939
 # Lessons from Consulting:  Third-Party Vendors
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Andy Wickman
 ## Title: Lessons from Consulting:  Third-Party Vendors
@@ -242,7 +242,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 88262
 # Automagic Tuning - SQL Server 2017 and Beyond
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Joseph D'Antoni
 ## Title: Automagic Tuning - SQL Server 2017 and Beyond
@@ -257,7 +257,7 @@ Don’t worry, you will still have your job, but the features introduced in SQL 
 #  
 #### SessionID: 88323
 # Introduction to Azure Machine learning
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Ravi Kumar
 ## Title: Introduction to Azure Machine learning
@@ -269,7 +269,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 88326
 # Top Tips for Deploying AGs and FCIs On Premises or In the Cloud
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allan Hirt
 ## Title: Top Tips for Deploying AGs and FCIs On Premises or In the Cloud
@@ -278,7 +278,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88583
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
@@ -289,7 +289,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 89334
 # SentryOne Tools for Productivity and Performance
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Kline
 ## Title: SentryOne Tools for Productivity and Performance
@@ -298,7 +298,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 86405
 # That's So Metadata: Discover Your Database From The Inside
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: That's So Metadata: Discover Your Database From The Inside
@@ -316,7 +316,7 @@ We will also cover the official Microsoft documentation on these features and ot
 #  
 #### SessionID: 86508
 # Real-time Analytics with Azure
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Jordan Anderson
 ## Title: Real-time Analytics with Azure
@@ -329,7 +329,7 @@ and present insights in real-time with Power BI.
 #  
 #### SessionID: 86588
 # COSMOS DB Develop Local Deploy Globally
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Dorame
 ## Title: COSMOS DB Develop Local Deploy Globally
@@ -340,7 +340,7 @@ Do you need to support JSON, Graph, et al?  Done.  Join me and see how easy it i
 #  
 #### SessionID: 87492
 # Azure Data Factory Ingestion Framework
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sean Forgatch
 ## Title: Azure Data Factory Ingestion Framework
@@ -349,7 +349,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 88133
 # Back to the Basics: T-SQL 101
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Deborah Melkin
 ## Title: Back to the Basics: T-SQL 101
@@ -360,7 +360,7 @@ This session is designed for the junior DBA or developer who is looking for a be
 #  
 #### SessionID: 88204
 # Modern CPU Architecture and SQL Server Performance
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Modern CPU Architecture and SQL Server Performance
@@ -369,7 +369,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88595
 # Laying down the Law with SQL Server Resource Governor
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lonny Niederstadt
 ## Title: Laying down the Law with SQL Server Resource Governor
@@ -380,7 +380,7 @@ We'll also cover potential performance and scaling effects of Resource Governor,
 #  
 #### SessionID: 90947
 # Master Data Management: BI and Data Science’s Best Friend
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tyler Graham
 ## Title: Master Data Management: BI and Data Science’s Best Friend
@@ -389,7 +389,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 91336
 # Why Clustering for SQL Server High Availability?
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Bermingham
 ## Title: Why Clustering for SQL Server High Availability?
@@ -398,7 +398,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91379
 # Database Performance Monitoring
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Database Performance Monitoring
@@ -407,7 +407,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 86404
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -419,7 +419,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 86968
 # Master Data Management with SQL Server MDS
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Neal Waterstreet
 ## Title: Master Data Management with SQL Server MDS
@@ -428,7 +428,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 88028
 # Containers - You Better Get on Board!
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: Containers - You Better Get on Board!
@@ -442,7 +442,7 @@ In this session we’ll look at
 #  
 #### SessionID: 88031
 # Beginner's Guide to Text Mining:  What We Learn from SQL Saturday Presentation Abstracts
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Lynn Ballard
 ## Title: Beginner's Guide to Text Mining:  What We Learn from SQL Saturday Presentation Abstracts
@@ -451,7 +451,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 88408
 # The Amazing Utility of ROW_NUMBER()
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Brian Hansen
 ## Title: The Amazing Utility of ROW_NUMBER()
@@ -460,7 +460,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 88482
 # Got the Consulting Itch?  The Ins and Outs of being a Contractor for a Living
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: John Eisbrener
 ## Title: Got the Consulting Itch?  The Ins and Outs of being a Contractor for a Living
@@ -469,7 +469,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 88607
 # Introduction to Linux for SQL Server
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jay Falck
 ## Title: Introduction to Linux for SQL Server
@@ -478,7 +478,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90929
 # Analyzing Performance Problems Using XEvents, DMVs  Query Store
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ola Hallengren
 ## Title: Analyzing Performance Problems Using XEvents, DMVs  Query Store
@@ -491,7 +491,7 @@ In this session, we will look at how the tools work in different scenarios, how 
 #  
 #### SessionID: 91234
 # Virtualizing SQL Server on vSphere - Straight from the Source
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Deji Akomolafe
 ## Title: Virtualizing SQL Server on vSphere - Straight from the Source
@@ -500,7 +500,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91543
 # Modern Infrastructure Fundamentals for Database Professionals
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allan Hirt
 ## Title: Modern Infrastructure Fundamentals for Database Professionals
@@ -513,7 +513,7 @@ If you want to ensure that your SQL Server deployments are available, reliable, 
 #  
 #### SessionID: 86416
 # New Instance, Now what?
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Donahoe
 ## Title: New Instance, Now what?
@@ -526,7 +526,7 @@ By the end of this session, you will have developed a pallet of tools to help yo
 #  
 #### SessionID: 86547
 # Profiling Your Data
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Angela Henry
 ## Title: Profiling Your Data
@@ -535,7 +535,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 87985
 # Get started with Power BI Dataflows
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael Johnson
 ## Title: Get started with Power BI Dataflows
@@ -548,7 +548,7 @@ During this talk, we will demonstrate the creation of a dataflow using multiple 
 #  
 #### SessionID: 88503
 # Improving Columnstore Load Scalability on Large Servers
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Joe Obbish
 ## Title: Improving Columnstore Load Scalability on Large Servers
@@ -557,7 +557,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 88604
 # Successfully Migrating Existing Databases to Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Sterrett
 ## Title: Successfully Migrating Existing Databases to Azure SQL Database
@@ -566,7 +566,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 88609
 # Refactoring Monolith Database Stored Procedures
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Riley Major
 ## Title: Refactoring Monolith Database Stored Procedures
@@ -575,7 +575,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 89333
 # Ten Query Tuning Techniques Every SQL Programmer Should Know
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Kline
 ## Title: Ten Query Tuning Techniques Every SQL Programmer Should Know
@@ -590,7 +590,7 @@ Attend this session to take your query writing and query tuning skills to the ne
 #  
 #### SessionID: 91360
 # #GetModern with Dell EMC
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bryan Walsh
 ## Title: #GetModern with Dell EMC
@@ -599,7 +599,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91855
 # How To Talk To Your Storage Admin
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: How To Talk To Your Storage Admin
@@ -608,7 +608,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91857
 # You’re hired! Creating value before and after the interview to be
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Wylie Blanchard
 ## Title: You’re hired! Creating value before and after the interview to be
@@ -617,7 +617,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 86445
 # Not your Dad's SQL Server; Contemporary twist on a classic standby.
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Hasan Savran
 ## Title: Not your Dad's SQL Server; Contemporary twist on a classic standby.
@@ -632,7 +632,7 @@ In-Memory Tables (Let's create NoSQL DB in SQL Server)
 #  
 #### SessionID: 87135
 # Lambda architecture design using Azure Databricks for advanced analytics
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Lucas Feiock
 ## Title: Lambda architecture design using Azure Databricks for advanced analytics
@@ -641,7 +641,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 87221
 # Hello My Friends, Welcome to CosmosDB
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Peter Shore
 ## Title: Hello My Friends, Welcome to CosmosDB
@@ -650,7 +650,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 87509
 # High Availability and Disaster Recovery for SQL Server in Azure IaaS
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Bermingham
 ## Title: High Availability and Disaster Recovery for SQL Server in Azure IaaS
@@ -663,7 +663,7 @@ Cloud  Datacenter MVP David Bermingham takes explains all this and more in the s
 #  
 #### SessionID: 87713
 # Climbing the SQL Server Index B-Tree
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: Climbing the SQL Server Index B-Tree
@@ -680,7 +680,7 @@ Attend this demo-heavy session to learn how the SQL Server optimizer uses indexe
 #  
 #### SessionID: 87978
 # Is my SQL Server having Memory Pressure?
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Is my SQL Server having Memory Pressure?
@@ -689,7 +689,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88502
 # Diagnosing and fixing deadlocks in SQL Server
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Jake Manske
 ## Title: Diagnosing and fixing deadlocks in SQL Server
@@ -702,7 +702,7 @@ Attendees will leave with the understanding they need to develop solutions to de
 #  
 #### SessionID: 88958
 # PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: PowerShell for the DBA
@@ -713,7 +713,7 @@ In this session we will explore real-world examples and demonstrate how PowerShe
 #  
 #### SessionID: 90927
 # Azure SQL DevOps Simplified with Production Data
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Paul Stanton
 ## Title: Azure SQL DevOps Simplified with Production Data
@@ -722,7 +722,7 @@ Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 91495
 # My Brain Has Blue Screened - Let's Laugh
-#### [Back to calendar](#SQLSaturday-#825---Chicago-2019)
+#### [Back to calendar](#SQLSaturday-#825-Chicago-2019)
 Event Date: 23-03-2019 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: David Klee
 ## Title: My Brain Has Blue Screened - Let's Laugh

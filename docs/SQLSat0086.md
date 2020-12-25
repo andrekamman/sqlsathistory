@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28526
 # BI with SharePoint 2010 and  Performance Point
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Analysis
 ## Speaker: Adam Jorgensen
 ## Title: BI with SharePoint 2010 and  Performance Point
@@ -46,7 +46,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Analysis
 #  
 #### SessionID: 28528
 # Analysis - 0 to SSAS
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Analysis
 ## Speaker: Adam Jorgensen
 ## Title: Analysis - 0 to SSAS
@@ -55,7 +55,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Analysis
 #  
 #### SessionID: 28702
 # Building a Professional Development Plan
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: xMisc - Prof Dev, DBA, Powershell
 ## Speaker: Andy Warren
 ## Title: Building a Professional Development Plan
@@ -64,7 +64,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: xMisc - Prof Dev, DBA, 
 #  
 #### SessionID: 28733
 # Unleash the Tablix
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Presentation
 ## Speaker: Angel Abundez
 ## Title: Unleash the Tablix
@@ -73,7 +73,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Presentation
 #  
 #### SessionID: 29136
 # Page and Row Compression How, When, and Why
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: xMisc - Prof Dev, DBA, Powershell
 ## Speaker: Bradley Ball
 ## Title: Page and Row Compression How, When, and Why
@@ -82,7 +82,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: xMisc - Prof Dev, DBA, 
 #  
 #### SessionID: 29262
 # Applying FastTrack  PDW Best Practices to your DW
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: ETL
 ## Speaker: Brian Mitchell
 ## Title: Applying FastTrack  PDW Best Practices to your DW
@@ -91,7 +91,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: ETL
 #  
 #### SessionID: 29374
 # Introduction to SSRS Dashboards
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Presentation
 ## Speaker: Chris Albrektson
 ## Title: Introduction to SSRS Dashboards
@@ -100,7 +100,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Presentation
 #  
 #### SessionID: 30022
 # Reporting on a Cube with SSRS 2008
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Presentation
 ## Speaker: Dustin Ryan
 ## Title: Reporting on a Cube with SSRS 2008
@@ -109,7 +109,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Presentation
 #  
 #### SessionID: 30024
 # Useful tools SSMS TipsTricks for DBA  Developer
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: xMisc - Prof Dev, DBA, Powershell
 ## Speaker: Daniel Taylor
 ## Title: Useful tools SSMS TipsTricks for DBA  Developer
@@ -118,7 +118,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: xMisc - Prof Dev, DBA, 
 #  
 #### SessionID: 30574
 # Nested Sets model for Trees  Hierarchies
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: ETL
 ## Speaker: Joe Celko
 ## Title: Nested Sets model for Trees  Hierarchies
@@ -132,7 +132,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: ETL
 #  
 #### SessionID: 30575
 # Modeling Time in SQL
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: ETL
 ## Speaker: Joe Celko
 ## Title: Modeling Time in SQL
@@ -146,7 +146,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: ETL
 #  
 #### SessionID: 30611
 # SQLServer 2012 PowerView "Crescent" Dashboards
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: xMisc - Prof Dev, DBA, Powershell
 ## Speaker: Jose Chinchilla
 ## Title: SQLServer 2012 PowerView "Crescent" Dashboards
@@ -155,7 +155,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: xMisc - Prof Dev, DBA, 
 #  
 #### SessionID: 30722
 # What's New for Business Intelligence in "Denali"
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Analysis
 ## Speaker: Jen Underwood
 ## Title: What's New for Business Intelligence in "Denali"
@@ -164,7 +164,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Analysis
 #  
 #### SessionID: 30864
 # SSIShare The Code, Man
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: ETL
 ## Speaker: James McAuliffe
 ## Title: SSIShare The Code, Man
@@ -173,7 +173,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: ETL
 #  
 #### SessionID: 30866
 # Lookup Between The Lines is Data Late Than Never
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: ETL
 ## Speaker: James McAuliffe
 ## Title: Lookup Between The Lines is Data Late Than Never
@@ -182,7 +182,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: ETL
 #  
 #### SessionID: 30985
 # Do You Know the Data Flow?
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: ETL
 ## Speaker: John Welch
 ## Title: Do You Know the Data Flow?
@@ -191,7 +191,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: ETL
 #  
 #### SessionID: 30986
 # Do More (ETL) with Less (Effort) - Automating SSIS
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: ETL
 ## Speaker: John Welch
 ## Title: Do More (ETL) with Less (Effort) - Automating SSIS
@@ -200,7 +200,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: ETL
 #  
 #### SessionID: 30987
 # Tuning Analysis Services Processing Performance
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Analysis
 ## Speaker: John Welch
 ## Title: Tuning Analysis Services Processing Performance
@@ -209,7 +209,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Analysis
 #  
 #### SessionID: 30989
 # Handling Advanced Data Warehouse Scenarios in SSIS
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: ETL
 ## Speaker: John Welch
 ## Title: Handling Advanced Data Warehouse Scenarios in SSIS
@@ -218,7 +218,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: ETL
 #  
 #### SessionID: 31045
 # Intro to Project Management for BI Professionals
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: xMisc - Prof Dev, DBA, Powershell
 ## Speaker: Richie Rump
 ## Title: Intro to Project Management for BI Professionals
@@ -227,7 +227,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: xMisc - Prof Dev, DBA, 
 #  
 #### SessionID: 31089
 # Using MS Access as a BI Tool with SQL Server
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Analysis
 ## Speaker: Juan Soto
 ## Title: Using MS Access as a BI Tool with SQL Server
@@ -237,7 +237,7 @@ We will cover three topics: Creating a Access dashboard using a SQL Server store
 #  
 #### SessionID: 31544
 # BI in the Cloud
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Analysis
 ## Speaker: Marc Miller
 ## Title: BI in the Cloud
@@ -246,7 +246,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Analysis
 #  
 #### SessionID: 31632
 # SSIS - Analyzing your data integrating PowerShell
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: xMisc - Prof Dev, DBA, Powershell
 ## Speaker: Maximo Trinidad
 ## Title: SSIS - Analyzing your data integrating PowerShell
@@ -255,7 +255,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: xMisc - Prof Dev, DBA, 
 #  
 #### SessionID: 31727
 # BI to SharePoint and vice versa
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Presentation
 ## Speaker: Michael Hinckley
 ## Title: BI to SharePoint and vice versa
@@ -264,7 +264,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Presentation
 #  
 #### SessionID: 31807
 # SQL - External Data Source for SharePoint  Office
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Presentation
 ## Speaker: Michael Antonovich
 ## Title: SQL - External Data Source for SharePoint  Office
@@ -273,7 +273,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Presentation
 #  
 #### SessionID: 31933
 # Dashboards...How to Choose Which MSBI Tool?
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Presentation
 ## Speaker: Melissa Coates
 ## Title: Dashboards...How to Choose Which MSBI Tool?
@@ -289,7 +289,7 @@ This session will be a fun one!  We will compare and contrast options available 
 #  
 #### SessionID: 32550
 # PowerPivot: BI  Massive Data Analysis for Humans
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Analysis
 ## Speaker: Rob Collie
 ## Title: PowerPivot: BI  Massive Data Analysis for Humans
@@ -299,7 +299,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Analysis
 #  
 #### SessionID: 32649
 # Biz Intel Dashboards W/Excel OLAP formulas
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Presentation
 ## Speaker: Phillip E Rosen
 ## Title: Biz Intel Dashboards W/Excel OLAP formulas
@@ -308,7 +308,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Presentation
 #  
 #### SessionID: 32779
 # Delivering BI to the masses at Microsoft
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Presentation
 ## Speaker: Sanjay Soni
 ## Title: Delivering BI to the masses at Microsoft
@@ -317,7 +317,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Presentation
 #  
 #### SessionID: 33108
 # Data Mining with Excel 2010 and PowerPivot
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Analysis
 ## Speaker: Mark Tabladillo
 ## Title: Data Mining with Excel 2010 and PowerPivot
@@ -326,7 +326,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: Analysis
 #  
 #### SessionID: 33109
 # Social Marketing 2011 for Microsoft Professionals
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: xMisc - Prof Dev, DBA, Powershell
 ## Speaker: Mark Tabladillo
 ## Title: Social Marketing 2011 for Microsoft Professionals
@@ -335,7 +335,7 @@ Event Date: 05-11-2011 - Session time: 00:00:00 - Track: xMisc - Prof Dev, DBA, 
 #  
 #### SessionID: 33320
 # SELECT job FROM firm WHERE hired = 'Yes'
-#### [Back to calendar](#SQLSaturday-#86---Tampa-BI-Edition-2011)
+#### [Back to calendar](#SQLSaturday-#86-Tampa-BI-Edition-2011)
 Event Date: 05-11-2011 - Session time: 00:00:00 - Track: xMisc - Prof Dev, DBA, Powershell
 ## Speaker: Todd Davis
 ## Title: SELECT job FROM firm WHERE hired = 'Yes'

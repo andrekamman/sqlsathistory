@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28501
 # Microsoft Business Intelligence Overview for 2010
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: A.J. Mee
 ## Title: Microsoft Business Intelligence Overview for 2010
@@ -36,7 +36,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 28515
 # PowerPivot for Excel and SharePoint 2010
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Adam Jorgensen
 ## Title: PowerPivot for Excel and SharePoint 2010
@@ -45,7 +45,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 29057
 # Accessing SQL Server Data with .NET
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-.NET
 ## Speaker: Bill Wolff
 ## Title: Accessing SQL Server Data with .NET
@@ -54,7 +54,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-.N
 #  
 #### SessionID: 29058
 # Accessing SQL Server Data in SharePoint 2010
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-.NET
 ## Speaker: Bill Wolff
 ## Title: Accessing SQL Server Data in SharePoint 2010
@@ -63,7 +63,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-.N
 #  
 #### SessionID: 29822
 # Adding Spatial Data Visualization to SSRS Reports
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Dan Clark
 ## Title: Adding Spatial Data Visualization to SSRS Reports
@@ -72,7 +72,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 29874
 # Tuna Helper for SQL Server DBA's
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Dean Richards
 ## Title: Tuna Helper for SQL Server DBA's
@@ -81,7 +81,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 30318
 # SQL Server Performance Tuning
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Hilary Cotter
 ## Title: SQL Server Performance Tuning
@@ -96,7 +96,7 @@ Grasp the power of indexing, and minimize locking.
 #  
 #### SessionID: 30884
 # Developing Recursive Queries
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-TSQL
 ## Speaker: Jim Moran
 ## Title: Developing Recursive Queries
@@ -105,7 +105,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-TS
 #  
 #### SessionID: 31058
 # T-SQL Development techniques for performance 
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-TSQL
 ## Speaker: Joshua Lynn
 ## Title: T-SQL Development techniques for performance 
@@ -114,7 +114,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-TS
 #  
 #### SessionID: 31348
 # Integrating SSRS 2008 reports with SharePoint 
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Kevin Goff
 ## Title: Integrating SSRS 2008 reports with SharePoint 
@@ -128,7 +128,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 31350
 # Building an OLAP cube with SSAS 2008
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Kevin Goff
 ## Title: Building an OLAP cube with SSAS 2008
@@ -143,7 +143,7 @@ Then this session is for you!
 #  
 #### SessionID: 31578
 # Application Lifecycle Management for Databases
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-TSQL
 ## Speaker: Mark Scott
 ## Title: Application Lifecycle Management for Databases
@@ -152,7 +152,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-TS
 #  
 #### SessionID: 31625
 # SSRS Interactive Reports
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Business Intelligence 2
 ## Speaker: Matt Van Horn
 ## Title: SSRS Interactive Reports
@@ -161,7 +161,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Business Intelligence 2
 #  
 #### SessionID: 32139
 # Developing a BI / DW Environment using SSIS
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Business Intelligence 2
 ## Speaker: Vince Napoli
 ## Title: Developing a BI / DW Environment using SSIS
@@ -170,7 +170,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Business Intelligence 2
 #  
 #### SessionID: 32164
 # High Availability Solutions for SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Paul Begley
 ## Title: High Availability Solutions for SQL Server 2008
@@ -179,7 +179,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 32363
 # So help me Codd
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Raj More
 ## Title: So help me Codd
@@ -195,7 +195,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 32744
 # Overview of SQL 2005 Service Broker
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-TSQL
 ## Speaker: Said Salomon
 ## Title: Overview of SQL 2005 Service Broker
@@ -204,7 +204,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-TS
 #  
 #### SessionID: 32903
 # New Toys for Developers in SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-TSQL
 ## Speaker: Sharon Dooley
 ## Title: New Toys for Developers in SQL Server 2008
@@ -213,7 +213,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-TS
 #  
 #### SessionID: 33367
 # Pushing Data to a Web Client Using Comet
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-.NET
 ## Speaker: Terry Weiss
 ## Title: Pushing Data to a Web Client Using Comet
@@ -222,7 +222,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-.N
 #  
 #### SessionID: 33774
 # SQL Server 2008 Policy Managment Overview
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Joe Toscano
 ## Title: SQL Server 2008 Policy Managment Overview
@@ -231,7 +231,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 34519
 # Developing with SQL Azure
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-.NET
 ## Speaker: Matt Van Horn
 ## Title: Developing with SQL Azure
@@ -241,7 +241,7 @@ Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-.N
 #  
 #### SessionID: 34520
 # Pivot Data Visualization
-#### [Back to calendar](#SQLSaturday-#37---Philadelphia-2010)
+#### [Back to calendar](#SQLSaturday-#37-Philadelphia-2010)
 Event Date: 13-03-2010 - Session time: 00:00:00 - Track: Database Development-.NET
 ## Speaker: Matt Van Horn
 ## Title: Pivot Data Visualization

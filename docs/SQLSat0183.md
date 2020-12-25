@@ -29,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10232
 # SMO Internals for High Performance PowerShell
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Ben Miller
 ## Title: SMO Internals for High Performance PowerShell
@@ -38,7 +38,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 10813
 # SQL 2012 Extended Events
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Extended Events
@@ -47,7 +47,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 11303
 # Using Columnstore Indexes in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Carlos Bossy
 ## Title: Using Columnstore Indexes in SQL Server 2012
@@ -56,7 +56,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 11491
 # Outages; Dispatchers, Cops and Detectives
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Chris Shaw
 ## Title: Outages; Dispatchers, Cops and Detectives
@@ -67,7 +67,7 @@ The more I watched the more I realized that as database professionals we have cr
 #  
 #### SessionID: 13255
 # SSRS: Tweak  Squeak
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Dave Justice
 ## Title: SSRS: Tweak  Squeak
@@ -76,7 +76,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 14125
 # Scripting Timesavers and Productivity Utilities
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Gabriel Villa
 ## Title: Scripting Timesavers and Productivity Utilities
@@ -85,7 +85,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 15848
 # Dimensional Modeling: Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling: Beyond the Basics
@@ -98,7 +98,7 @@ be very interactive--bring your toughest dimensional modeling quandaries!
 #  
 #### SessionID: 18539
 # SQL Server Maintenance Plans
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Kat Long
 ## Title: SQL Server Maintenance Plans
@@ -107,7 +107,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 18899
 # Throwing T-SQL 2012 Enhancements Against the Wall
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Kyle Neier
 ## Title: Throwing T-SQL 2012 Enhancements Against the Wall
@@ -116,7 +116,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 20138
 # PowerShell For the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Mark Halstead
 ## Title: PowerShell For the SQL Server DBA
@@ -125,7 +125,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 21042
 # Table Indexing for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Denny Cherry
 ## Title: Table Indexing for the .NET Developer
@@ -134,7 +134,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 22777
 # Master Data Services
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Reeves Smith
 ## Title: Master Data Services
@@ -143,7 +143,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 22895
 # Data Vault Data Warehouse Architecture
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Jeff Renz
 ## Title: Data Vault Data Warehouse Architecture
@@ -152,7 +152,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 23363
 # Virtualizing our Environment
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Rob Mandeville
 ## Title: Virtualizing our Environment
@@ -161,7 +161,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 23435
 # SSIS ETL for Type1 and Type2 SCD
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Ron Beatty
 ## Title: SSIS ETL for Type1 and Type2 SCD
@@ -170,7 +170,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 23562
 # PowerPivot and Power View for the Business Analyst
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Russ Burns
 ## Title: PowerPivot and Power View for the Business Analyst
@@ -179,7 +179,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 24463
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -188,7 +188,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 25229
 # Big Data - Where do I start ?
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Sri Sridharan
 ## Title: Big Data - Where do I start ?
@@ -197,7 +197,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 25683
 # SSIS 2012: More Than Just a Pretty UI
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Steve Wake
 ## Title: SSIS 2012: More Than Just a Pretty UI
@@ -206,7 +206,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 26910
 # Release Management: A Necessary Evil
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: TJay Belt
 ## Title: Release Management: A Necessary Evil
@@ -215,7 +215,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 26959
 # Build An Affordable SQL Server 2012 Lab
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Todd Kleinhans
 ## Title: Build An Affordable SQL Server 2012 Lab
@@ -224,7 +224,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 34797
 # Exposing the Core: SQL 2012 on Server Core
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Michael Fal
 ## Title: Exposing the Core: SQL 2012 on Server Core
@@ -233,7 +233,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 8917
 # T-SQL : Bad Habits and Best Practices
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits and Best Practices
@@ -242,7 +242,7 @@ Event Date: 09-02-2013 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 9839
 # Taking Over
-#### [Back to calendar](#SQLSaturday-#183---Albuquerque-2013)
+#### [Back to calendar](#SQLSaturday-#183-Albuquerque-2013)
 Event Date: 09-02-2013 - Session time: 00:00:00 - Track: 
 ## Speaker: Thomas Norman
 ## Title: Taking Over

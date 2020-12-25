@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 100453
 # An End-to-End Approach to App and DB Security
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Mladen Prajdić
 ## Title: An End-to-End Approach to App and DB Security
@@ -37,7 +37,7 @@ Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 100454
 # Retail Point-of-sale scenario using Azure Cosmos DB
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Aleksandar Talev
 ## Title: Retail Point-of-sale scenario using Azure Cosmos DB
@@ -50,7 +50,7 @@ This scenario takes an event sourcing approach, using a functional programming m
 #  
 #### SessionID: 103092
 # Adaptive Query processing in action
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Blagoj Kostovski
 ## Title: Adaptive Query processing in action
@@ -63,7 +63,7 @@ Come to learn how we utilized Adaptive query processing module to boost the perf
 #  
 #### SessionID: 103964
 # Azure Databricks 101
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Kamil Nowinski
 ## Title: Azure Databricks 101
@@ -74,7 +74,7 @@ If you are wondering about all these things - you should join me in this session
 #  
 #### SessionID: 100415
 # Effectively Troubleshooting Latency and Failover of Always On Availability Group
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcelo Fernandes
 ## Title: Effectively Troubleshooting Latency and Failover of Always On Availability Group
@@ -83,7 +83,7 @@ Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 100452
 # Getting To Know SQL Server Encryption Capabilities
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Mladen Prajdić
 ## Title: Getting To Know SQL Server Encryption Capabilities
@@ -97,7 +97,7 @@ In this session we'll look at what SQL Server offers in this area:
 #  
 #### SessionID: 101027
 # MS SQL New functions, syntaxes, tips  tricks
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Damir Matesic
 ## Title: MS SQL New functions, syntaxes, tips  tricks
@@ -107,7 +107,7 @@ Accompanied with multiple examples, this session will show you many interesting 
 #  
 #### SessionID: 101895
 # BI Powers - The A.I. Who Tagged Me
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: André Melancia
 ## Title: BI Powers - The A.I. Who Tagged Me
@@ -117,7 +117,7 @@ Disclaimer: A.I. will eventually take over the world. Unlike Doctor Evil, it won
 #  
 #### SessionID: 101428
 # Predictive Analysis with SQL Server Machine Learning Services
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Fisnik Doko
 ## Title: Predictive Analysis with SQL Server Machine Learning Services
@@ -132,7 +132,7 @@ Demonstration of using R and SQL Server Machine Learning Services.
 #  
 #### SessionID: 101893
 # If a computer can understand, why can't YOU understand Azure Cognitive Services?
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: André Melancia
 ## Title: If a computer can understand, why can't YOU understand Azure Cognitive Services?
@@ -143,7 +143,7 @@ Disclaimer: Cognitive services will never guess a doctor's handwriting. That's j
 #  
 #### SessionID: 102265
 # MLOps – Applying DevOps to Data Science
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Vlatko Ivanovski
 ## Title: MLOps – Applying DevOps to Data Science
@@ -154,7 +154,7 @@ In this session, you’ll learn how to apply DevOps practices to your machine le
 #  
 #### SessionID: 103945
 # Time intelligence function in DAX
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Boriana Petrova
 ## Title: Time intelligence function in DAX
@@ -163,7 +163,7 @@ Event Date: 17-04-2021 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 100416
 # What can Azure do for your batch data analytics workloads?
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mislav Karaula
 ## Title: What can Azure do for your batch data analytics workloads?
@@ -172,7 +172,7 @@ Event Date: 17-04-2021 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 100587
 # Temporal Data in SQL Server
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Dejan Sarka
 ## Title: Temporal Data in SQL Server
@@ -186,7 +186,7 @@ This session introduces the temporal problems, deals with solutions that go beyo
 #  
 #### SessionID: 103740
 # Microsoft SQL Server 2019 big data clusters
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dejan Vakanski
 ## Title: Microsoft SQL Server 2019 big data clusters
@@ -195,7 +195,7 @@ Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 103751
 # Handling concurrency in Real-time Online Booking System
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Marjan Pushev
 ## Title: Handling concurrency in Real-time Online Booking System
@@ -212,7 +212,7 @@ while a combination of up-to-date technologies with well-established quality ser
 #  
 #### SessionID: 100336
 # AutoML at scale
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: AutoML at scale
@@ -222,7 +222,7 @@ Come and see how Azure Machine Learning Service reduce the demand for data scien
 #  
 #### SessionID: 100584
 # Statistical Analysis with T-SQL
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dejan Sarka
 ## Title: Statistical Analysis with T-SQL
@@ -231,7 +231,7 @@ Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 103914
 # How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Aleksandar Talev
 ## Title: How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?
@@ -240,7 +240,7 @@ Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 103962
 # Azure Data Factory v2: Mapping Data Flows - first blood
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kamil Nowinski
 ## Title: Azure Data Factory v2: Mapping Data Flows - first blood
@@ -252,7 +252,7 @@ We will review this new feature of ADFv2, do deep dive to understand the mention
 #  
 #### SessionID: 101381
 # Automatic database tuning with Query Store
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Blagoj Kostovski
 ## Title: Automatic database tuning with Query Store
@@ -269,7 +269,7 @@ This session will include overview of the Query Store capabilities, configuratio
 #  
 #### SessionID: 101933
 # AI in Power BI
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: Marcin Szeliga
 ## Title: AI in Power BI
@@ -280,7 +280,7 @@ Artificial Intelligence features in Power BI can be used for data understanding 
 #  
 #### SessionID: 103791
 # Deep Learning advancements and why data is the key ingredient of AI revolution today?
-#### [Back to calendar](#SQLSaturday-#955---North-Macedonia-2021)
+#### [Back to calendar](#SQLSaturday-#955-North-Macedonia-2021)
 Event Date: 17-04-2021 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Tomislav Bronzin
 ## Title: Deep Learning advancements and why data is the key ingredient of AI revolution today?

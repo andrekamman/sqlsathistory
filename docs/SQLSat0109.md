@@ -39,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13047
 # Advanced Performance Tuning Tips with Ignite8
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 4 - Business Intelligence
 ## Speaker: Dean Richards
 ## Title: Advanced Performance Tuning Tips with Ignite8
@@ -48,7 +48,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 4 - Business Inte
 #  
 #### SessionID: 13048
 # Best Practices for Monitoring SQL Server on VMware
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 2 - Database Administration
 ## Speaker: Dean Richards
 ## Title: Best Practices for Monitoring SQL Server on VMware
@@ -57,7 +57,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 2 - Database Admi
 #  
 #### SessionID: 13090
 # Women in Technology Panel
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 1 - 2012 Launch!
 ## Speaker: Denise McInerney
 ## Title: Women in Technology Panel
@@ -66,7 +66,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 1 - 2012 Launch!
 #  
 #### SessionID: 14720
 # Pro-I : open source security monitoring on SQL2008
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 6 - Bonus Track
 ## Speaker: Grant Babb
 ## Title: Pro-I : open source security monitoring on SQL2008
@@ -75,7 +75,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 6 - Bonus Track
 #  
 #### SessionID: 17542
 # Dimensional Modeling
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 4 - Business Intelligence
 ## Speaker: Joy Mundy
 ## Title: Dimensional Modeling
@@ -84,7 +84,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 4 - Business Inte
 #  
 #### SessionID: 18951
 # SQL Server 2012 and the World of Big Data
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 1 - 2012 Launch!
 ## Speaker: Lara Rubbelke
 ## Title: SQL Server 2012 and the World of Big Data
@@ -93,7 +93,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 1 - 2012 Launch!
 #  
 #### SessionID: 18952
 # Cloud Computing with Windows and SQL Azure
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 5 - Cloud / Azure
 ## Speaker: Lara Rubbelke
 ## Title: Cloud Computing with Windows and SQL Azure
@@ -102,7 +102,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 5 - Cloud / Azure
 #  
 #### SessionID: 19587
 # Accelerate SQL data and applications over the WAN
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 6 - Bonus Track
 ## Speaker: Mark Ginnebaugh
 ## Title: Accelerate SQL data and applications over the WAN
@@ -111,7 +111,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 6 - Bonus Track
 #  
 #### SessionID: 19965
 # Virtualizing SQL Server w/out Sacrificing Performa
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 6 - Bonus Track
 ## Speaker: Mitch Crane
 ## Title: Virtualizing SQL Server w/out Sacrificing Performa
@@ -120,7 +120,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 6 - Bonus Track
 #  
 #### SessionID: 21052
 # Storage for the DBA
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 2 - Database Administration
 ## Speaker: Denny Cherry
 ## Title: Storage for the DBA
@@ -129,7 +129,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 2 - Database Admi
 #  
 #### SessionID: 22114
 # TPC Benchmarks and SQL Server 
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 3 - Development
 ## Speaker: Phil Hummel
 ## Title: TPC Benchmarks and SQL Server 
@@ -138,7 +138,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 3 - Development
 #  
 #### SessionID: 22204
 # PowerPivot and Power View in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 1 - 2012 Launch!
 ## Speaker: Peter Myers
 ## Title: PowerPivot and Power View in SQL Server 2012
@@ -151,7 +151,7 @@ Power View is an interactive data exploration, visualization, and presentation t
 #  
 #### SessionID: 23109
 # SSIS 2012 Management Considerations and Best Pract
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 3 - Development
 ## Speaker: Rushabh Mehta
 ## Title: SSIS 2012 Management Considerations and Best Pract
@@ -160,7 +160,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 3 - Development
 #  
 #### SessionID: 23471
 # SQL Server 2012 Keynote
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 6 - Bonus Track
 ## Speaker: Ross Mistry
 ## Title: SQL Server 2012 Keynote
@@ -169,7 +169,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 6 - Bonus Track
 #  
 #### SessionID: 23472
 # Optimize SQL Server for Private Cloud
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 5 - Cloud / Azure
 ## Speaker: Ross Mistry
 ## Title: Optimize SQL Server for Private Cloud
@@ -178,7 +178,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 5 - Cloud / Azure
 #  
 #### SessionID: 26018
 # FileTable and Semantic Search in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 1 - 2012 Launch!
 ## Speaker: Michael Rys
 ## Title: FileTable and Semantic Search in SQL Server 2012
@@ -189,7 +189,7 @@ Learn how SQL Server 2012 is reshaping FILESTREAM functionality to enable non-tr
 #  
 #### SessionID: 26019
 # SQL Server Appliances - DB Consolidation, DW   BI
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 1 - 2012 Launch!
 ## Speaker: Michael Rys
 ## Title: SQL Server Appliances - DB Consolidation, DW   BI
@@ -198,7 +198,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 1 - 2012 Launch!
 #  
 #### SessionID: 26020
 # SQL and NoSQL in the context of SQL Server
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 2 - Database Administration
 ## Speaker: Michael Rys
 ## Title: SQL and NoSQL in the context of SQL Server
@@ -209,7 +209,7 @@ NoSQL, web-scale databases: These keywords have been increasingly popular and ar
 #  
 #### SessionID: 28499
 # So you want to move your data to the cloud?
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 5 - Cloud / Azure
 ## Speaker: Adwait Ullal
 ## Title: So you want to move your data to the cloud?
@@ -218,7 +218,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 5 - Cloud / Azure
 #  
 #### SessionID: 28621
 # A Preview of High Availability in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 1 - 2012 Launch!
 ## Speaker: Allan Hirt
 ## Title: A Preview of High Availability in SQL Server 2012
@@ -227,7 +227,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 1 - 2012 Launch!
 #  
 #### SessionID: 28737
 # Reporting Services with SharePoint  Mobile Device
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 6 - Bonus Track
 ## Speaker: Angel Abundez
 ## Title: Reporting Services with SharePoint  Mobile Device
@@ -236,7 +236,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 6 - Bonus Track
 #  
 #### SessionID: 29357
 # A Cube Dude Goes Tabular - Notes from the field
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 4 - Business Intelligence
 ## Speaker: Dan Bulos
 ## Title: A Cube Dude Goes Tabular - Notes from the field
@@ -245,7 +245,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 4 - Business Inte
 #  
 #### SessionID: 29423
 # Using Columnstore Indexes in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 6 - Bonus Track
 ## Speaker: Carlos Bossy
 ## Title: Using Columnstore Indexes in SQL Server 2012
@@ -254,7 +254,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 6 - Bonus Track
 #  
 #### SessionID: 29556
 # Introduction to Azure Storage
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 5 - Cloud / Azure
 ## Speaker: Clayton Peddy
 ## Title: Introduction to Azure Storage
@@ -263,7 +263,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 5 - Cloud / Azure
 #  
 #### SessionID: 29894
 # “BEGIN…COMMIT” is Not Enough
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 3 - Development
 ## Speaker: Denise McInerney
 ## Title: “BEGIN…COMMIT” is Not Enough
@@ -274,7 +274,7 @@ Transactions are essential to maintaining data integrity. Getting transactions r
 #  
 #### SessionID: 30278
 # Top Tips for Writing Better T-SQL Queries
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 3 - Development
 ## Speaker: Grant Fritchey
 ## Title: Top Tips for Writing Better T-SQL Queries
@@ -283,7 +283,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 3 - Development
 #  
 #### SessionID: 30569
 # DMVs - Understand an Application's Database Usage
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 3 - Development
 ## Speaker: Jerry Brenner
 ## Title: DMVs - Understand an Application's Database Usage
@@ -292,7 +292,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 3 - Development
 #  
 #### SessionID: 31318
 # SQL Server Internals  Architecture
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 2 - Database Administration
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals  Architecture
@@ -301,7 +301,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 2 - Database Admi
 #  
 #### SessionID: 31721
 # SQL Server 2012 Master Data Services
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 4 - Business Intelligence
 ## Speaker: Mark Gschwind
 ## Title: SQL Server 2012 Master Data Services
@@ -323,7 +323,7 @@ QA
 #  
 #### SessionID: 32067
 # SQL Azure Federations
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 5 - Cloud / Azure
 ## Speaker: Neil Mackenzie
 ## Title: SQL Azure Federations
@@ -332,7 +332,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 5 - Cloud / Azure
 #  
 #### SessionID: 33086
 # Enterprise Data Mining with SQL Server
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 6 - Bonus Track
 ## Speaker: Mark Tabladillo
 ## Title: Enterprise Data Mining with SQL Server
@@ -342,7 +342,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 6 - Bonus Track
 #  
 #### SessionID: 33886
 # Transactional Replication 101
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 2 - Database Administration
 ## Speaker: Wendy Pastrick
 ## Title: Transactional Replication 101
@@ -353,7 +353,7 @@ We will cover the players in the game: Pubishers, Subscribers and Distributors, 
 #  
 #### SessionID: 34490
 # SQL Server 2012 Business Intelligence and SharePoi
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 4 - Business Intelligence
 ## Speaker: William Brown
 ## Title: SQL Server 2012 Business Intelligence and SharePoi
@@ -362,7 +362,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 4 - Business Inte
 #  
 #### SessionID: 9307
 # Data Quality Services in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#109---Silicon-Valley-2012)
+#### [Back to calendar](#SQLSaturday-#109-Silicon-Valley-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: Track 4 - Business Intelligence
 ## Speaker: Allan Mitchell
 ## Title: Data Quality Services in SQL Server 2012

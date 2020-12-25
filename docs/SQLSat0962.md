@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 102659
 # Azure DevOps and the SSIS Development Lifecycle
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Andy Leonard
 ## Title: Azure DevOps and the SSIS Development Lifecycle
@@ -40,7 +40,7 @@ The primary goal of this session is an explanation - via demonstration - of the 
 #  
 #### SessionID: 104286
 # Intelligent Query Processing in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Internals  Performance
 ## Speaker: Wayne Sheffield
 ## Title: Intelligent Query Processing in SQL Server 2019
@@ -49,7 +49,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Internals  Performance
 #  
 #### SessionID: 104534
 # Intro to Azure Data Catalog
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database Development
 ## Speaker: Angela Henry
 ## Title: Intro to Azure Data Catalog
@@ -58,7 +58,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database D
 #  
 #### SessionID: 104556
 # Encrypting Data within SQL Server
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within SQL Server
@@ -71,7 +71,7 @@ You will leave this session with a deeper understanding about SQL Server encrypt
 #  
 #### SessionID: 101139
 # Big Data Clusters for the Absolute Beginner
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohammad Darab
 ## Title: Big Data Clusters for the Absolute Beginner
@@ -87,7 +87,7 @@ Topics include:
 #  
 #### SessionID: 103805
 # Installing SQL Server on a Raspberry Pi
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stephen Leonard
 ## Title: Installing SQL Server on a Raspberry Pi
@@ -96,7 +96,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 104539
 # Think like the Cardinality Estimator
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taiob Ali
 ## Title: Think like the Cardinality Estimator
@@ -107,7 +107,7 @@ In this session, I will show you how CE estimates in all of these scenarios, and
 #  
 #### SessionID: 104540
 # Azure SQL Database: High Availability and Disaster Recovery Options
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: High Availability
 ## Speaker: Timothy McAliley
 ## Title: Azure SQL Database: High Availability and Disaster Recovery Options
@@ -116,7 +116,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: High Availability
 #  
 #### SessionID: 102454
 # Azure SQL DB Managed Instance: Today
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Heiges
 ## Title: Azure SQL DB Managed Instance: Today
@@ -125,7 +125,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 103681
 # Relational Design Critique
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Database Design  Architecture
 ## Speaker: Louis Davidson
 ## Title: Relational Design Critique
@@ -134,7 +134,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Database Design  Archit
 #  
 #### SessionID: 103729
 # Building Your First SQL Server Container Lab in Docker
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: Building Your First SQL Server Container Lab in Docker
@@ -145,7 +145,7 @@ In this session, we will go over the concepts of containers, their general capab
 #  
 #### SessionID: 104467
 # Becoming Ever More Intimate with your Indexes
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Master Level
 ## Speaker: Jason Brimhall
 ## Title: Becoming Ever More Intimate with your Indexes
@@ -156,7 +156,7 @@ Do you know how useful your indexes are? Do you know if your indexes might be a 
 #  
 #### SessionID: 101119
 # Microsoft and Big Data - An Overview of the Power Tools and more!
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Patrick
 ## Title: Microsoft and Big Data - An Overview of the Power Tools and more!
@@ -165,7 +165,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 103519
 # Adopting a Compliant Database DevOps Process
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database Development
 ## Speaker: Steve Jones
 ## Title: Adopting a Compliant Database DevOps Process
@@ -174,7 +174,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database D
 #  
 #### SessionID: 103679
 # Characteristics of a Great Relational Database
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Characteristics of a Great Relational Database
@@ -183,7 +183,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database D
 #  
 #### SessionID: 104521
 # Data Virtualization with PolyBase
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Data Virtualization with PolyBase
@@ -192,7 +192,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database D
 #  
 #### SessionID: 102282
 # Case Study: How I used SharePoint, Flow, PowerApps, and Forms to build a Speaker Database
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database Development
 ## Speaker: Sarah Patrick
 ## Title: Case Study: How I used SharePoint, Flow, PowerApps, and Forms to build a Speaker Database
@@ -201,7 +201,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database D
 #  
 #### SessionID: 103787
 # Uncommon Techniques Every SQL Programmer Should Know
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database Development
 ## Speaker: Kevin Kline
 ## Title: Uncommon Techniques Every SQL Programmer Should Know
@@ -212,7 +212,7 @@ You'll learn things like a T-SQL code test harness, the value of clone databases
 #  
 #### SessionID: 103790
 # Git Ready to Reduce Errors and Deploy Faster with Azure DevOps and tSQL-t Unit Tests
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Travis Lawrence
 ## Title: Git Ready to Reduce Errors and Deploy Faster with Azure DevOps and tSQL-t Unit Tests
@@ -231,7 +231,7 @@ Join this session and reduce your stress the next time you deploy your DB. After
 #  
 #### SessionID: 104522
 # Optimizing Backup Performance Using Data Science Techniques
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Feasel
 ## Title: Optimizing Backup Performance Using Data Science Techniques
@@ -240,7 +240,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 101121
 # Centralized Alert Dashboarding
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Centralized Alert Dashboarding
@@ -249,7 +249,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 101167
 # Choosing the Right Data Science Services in Azure: Scale, Automate, and Deploy with Ease
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Azure / Cloud / Big Data
 ## Speaker: Tony McGovern
 ## Title: Choosing the Right Data Science Services in Azure: Scale, Automate, and Deploy with Ease
@@ -264,7 +264,7 @@ By the end of this session, you'll understand how to choose the set of Azure mac
 #  
 #### SessionID: 103785
 # An In-depth Look Inside SQL Server
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Internals  Performance
 ## Speaker: Kevin Kline
 ## Title: An In-depth Look Inside SQL Server
@@ -279,7 +279,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Internals  Performance
 #  
 #### SessionID: 104470
 # Bare Naked Skinny on SQL Server
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database Development
 ## Speaker: Jason Brimhall
 ## Title: Bare Naked Skinny on SQL Server
@@ -292,7 +292,7 @@ In this session I will disrobe misunderstandings related to the aforementioned t
 #  
 #### SessionID: 104525
 # Getting started with Azure SQL Database: What You Need To Know!
-#### [Back to calendar](#SQLSaturday-#962-–-Richmond---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#962-–-Richmond-Virtual-2020)
 Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Donahoe
 ## Title: Getting started with Azure SQL Database: What You Need To Know!

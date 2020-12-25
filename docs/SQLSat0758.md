@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 74174
 # Implementing AI solutions using the cognitive services in Azure
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Data warehouse and BI delivery
 ## Speaker: Vitor Fava
 ## Title: Implementing AI solutions using the cognitive services in Azure
@@ -36,7 +36,7 @@ In this session we will discuss the basics of IA and how we can apply it in our 
 #  
 #### SessionID: 74200
 # SQL Server Reporting Services 2017 on Steroids!!
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Data warehouse and BI delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services 2017 on Steroids!!
@@ -47,7 +47,7 @@ We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as
 #  
 #### SessionID: 78520
 # Introduction to Microsoft Azure Databricks
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Data warehouse and BI delivery
 ## Speaker: Franck Mercier
 ## Title: Introduction to Microsoft Azure Databricks
@@ -59,7 +59,7 @@ During this presentation, you will discover what A
 #  
 #### SessionID: 74166
 # Hybrid Theory - Synchronizing data between Azure SQL Database and  SQL SERVER Instances
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Database administration and performance management
 ## Speaker: Marcelo Adade
 ## Title: Hybrid Theory - Synchronizing data between Azure SQL Database and  SQL SERVER Instances
@@ -68,7 +68,7 @@ Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Database administration
 #  
 #### SessionID: 74364
 # J'ai migré un publisher sans réinitialiser la réplication
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Database administration and performance management
 ## Speaker: Gregory Boge
 ## Title: J'ai migré un publisher sans réinitialiser la réplication
@@ -78,7 +78,7 @@ Dans cette session, je vais expliquer comment j'ai réalisé cette migration. Si
 #  
 #### SessionID: 80867
 # Azure Cosmos DB + Gremlin API in Action
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Database Development and TSQL
 ## Speaker: Denys Chamberland
 ## Title: Azure Cosmos DB + Gremlin API in Action
@@ -100,7 +100,7 @@ from Visual Studio Code.
 #  
 #### SessionID: 82362
 # Time intelligence and date tables in Power BI
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Data warehouse and BI delivery
 ## Speaker: Marco Russo
 ## Title: Time intelligence and date tables in Power BI
@@ -110,7 +110,7 @@ This session provides you the best practices to correctly shape a data model and
 #  
 #### SessionID: 74195
 # An introduction to Data Mining  with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Data warehouse and BI delivery
 ## Speaker: Steve Simon
 ## Title: An introduction to Data Mining  with SQL Server 2016
@@ -131,7 +131,7 @@ In this hands on BEGINNERS presentation we shall be looking at Microsoft SQL Ser
 #  
 #### SessionID: 74237
 # Accelerating Development and Testing Using Data Virtualization
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Database administration and performance management
 ## Speaker: Tim Gorman
 ## Title: Accelerating Development and Testing Using Data Virtualization
@@ -146,7 +146,7 @@ Good, fast, and cheap -- have all three with data virtualization.  Clone things 
 #  
 #### SessionID: 77374
 # Effective Data Warehouse Storage Patterns
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Data warehouse and BI delivery
 ## Speaker: John Miner
 ## Title: Effective Data Warehouse Storage Patterns
@@ -175,7 +175,7 @@ Coverage:
 #  
 #### SessionID: 82361
 # My Power BI report is slow: what should I do?
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Data warehouse and BI delivery
 ## Speaker: Marco Russo
 ## Title: My Power BI report is slow: what should I do?
@@ -186,7 +186,7 @@ At the end of this session, you will understand how to locate a performance bott
 #  
 #### SessionID: 74637
 # Self-Service ETL with Power Query
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Data warehouse and BI delivery
 ## Speaker: Dan Clark
 ## Title: Self-Service ETL with Power Query
@@ -195,7 +195,7 @@ Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Data warehouse and BI d
 #  
 #### SessionID: 74639
 # Les bases du dépannage SQL Server
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Database administration and performance management
 ## Speaker: Christophe Laporte
 ## Title: Les bases du dépannage SQL Server
@@ -207,7 +207,7 @@ Au cours de cette session, nous allons aborder les bases du diagnostic et du dé
 #  
 #### SessionID: 80497
 # Azure SQL Data Warehouse for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Data warehouse and BI delivery
 ## Speaker: Warner Chaves
 ## Title: Azure SQL Data Warehouse for the SQL Server DBA
@@ -220,7 +220,7 @@ In this session we will look at the main concepts of the Azure SQL Data Warehous
 #  
 #### SessionID: 74278
 # Power BI : Un tour complet de la solution
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Data warehouse and BI delivery
 ## Speaker: Sophie Marchand
 ## Title: Power BI : Un tour complet de la solution
@@ -240,7 +240,7 @@ En cours de présentation, nous allons également illustrer certains concepts pa
 #  
 #### SessionID: 77289
 # Mapping SQL Server Expertise to Azure Cortana Intelligence - Cases and Scenarios
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Database administration and performance management
 ## Speaker: Mohamed Mawla
 ## Title: Mapping SQL Server Expertise to Azure Cortana Intelligence - Cases and Scenarios
@@ -251,7 +251,7 @@ In this session, we'll map Cloud offerings, mainly Azure, that corresponds to th
 #  
 #### SessionID: 82235
 # What Azure platform have to offer for your data
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Data warehouse and BI delivery
 ## Speaker: Jean Rene Roy
 ## Title: What Azure platform have to offer for your data
@@ -260,7 +260,7 @@ Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Data warehouse and BI d
 #  
 #### SessionID: 74212
 # Query Optimization Techniques
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Database administration and performance management
 ## Speaker: Edward Pollack
 ## Title: Query Optimization Techniques
@@ -275,7 +275,7 @@ Demos of poor-performing queries will be provided to illustrate key optimization
 #  
 #### SessionID: 74636
 # Power Query Deep Dive
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Data warehouse and BI delivery
 ## Speaker: Dan Clark
 ## Title: Power Query Deep Dive
@@ -284,7 +284,7 @@ Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Data warehouse and BI d
 #  
 #### SessionID: 76875
 # Screw DevOps, Let's Talk DataOps
-#### [Back to calendar](#SQLSaturday-#758---Montreal-2018)
+#### [Back to calendar](#SQLSaturday-#758-Montreal-2018)
 Event Date: 02-06-2018 - Session time: 15:35:00 - Track: Database administration and performance management
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Screw DevOps, Let's Talk DataOps

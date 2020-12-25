@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10021
 # PowerShell 101 for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Allen White
 ## Title: PowerShell 101 for the SQL Server DBA
@@ -34,7 +34,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 10022
 # Gather SQL Server Performance Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Performance
 ## Speaker: Allen White
 ## Title: Gather SQL Server Performance Data with PowerShell
@@ -43,7 +43,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Performance
 #  
 #### SessionID: 11124
 # Up and Running with SSIS
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Julie Smith
 ## Title: Up and Running with SSIS
@@ -52,7 +52,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 11764
 # SQL Audit - auditing doesn't have to be boring
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Colleen Morrow
 ## Title: SQL Audit - auditing doesn't have to be boring
@@ -61,7 +61,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 11765
 # Quest for the Holy Grail of SQL Server Auditing
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Colleen Morrow
 ## Title: Quest for the Holy Grail of SQL Server Auditing
@@ -70,7 +70,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 13938
 # Making the Leap from Profiler to Extended Events
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Performance
 ## Speaker: Erin Stellato
 ## Title: Making the Leap from Profiler to Extended Events
@@ -79,7 +79,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Performance
 #  
 #### SessionID: 13939
 # Demystifying Database Statistics
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Erin Stellato
 ## Title: Demystifying Database Statistics
@@ -88,7 +88,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 14192
 # What's In YOUR DB Wallet?
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Kevin Feasel
 ## Title: What's In YOUR DB Wallet?
@@ -97,7 +97,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 15699
 # Extend Your Knowledge with Extended Events!
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Performance
 ## Speaker: Janis Griffin
 ## Title: Extend Your Knowledge with Extended Events!
@@ -108,7 +108,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Performance
 #  
 #### SessionID: 15701
 # Looney Tuner?  No, there IS a method to my madness
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Performance
 ## Speaker: Janis Griffin
 ## Title: Looney Tuner?  No, there IS a method to my madness
@@ -117,7 +117,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Performance
 #  
 #### SessionID: 16586
 # Reporting in Production: A Hadoop Case Study
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Jeremiah Peschka
 ## Title: Reporting in Production: A Hadoop Case Study
@@ -126,7 +126,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 16587
 # Much Ado About Hadoop
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Jeremiah Peschka
 ## Title: Much Ado About Hadoop
@@ -135,7 +135,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 22661
 # SSIS Templates Can Make Your Life Easier
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Brian Davis
 ## Title: SSIS Templates Can Make Your Life Easier
@@ -144,7 +144,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 23653
 # Creating an SSIS template using BIML
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Russel Loski
 ## Title: Creating an SSIS template using BIML
@@ -158,7 +158,7 @@ We will create a package that has some specific connection strings.  We will tie
 #  
 #### SessionID: 23848
 # 14 New T-SQL Functions
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Sam Nasr
 ## Title: 14 New T-SQL Functions
@@ -167,7 +167,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 23850
 # Full-Text Search in SQL 2012 with Custom Proximity
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Sam Nasr
 ## Title: Full-Text Search in SQL 2012 with Custom Proximity
@@ -176,7 +176,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 26178
 # Indexing Deep Dive
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Performance
 ## Speaker: Kevin Boles
 ## Title: Indexing Deep Dive
@@ -185,7 +185,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Database Performance
 #  
 #### SessionID: 26180
 # TSQL Road Less Traveled: MERGE
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: SQL Development
 ## Speaker: Kevin Boles
 ## Title: TSQL Road Less Traveled: MERGE
@@ -194,7 +194,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: SQL Development
 #  
 #### SessionID: 28083
 # Design and Implement BI like Edison! 
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: William E Pearson III
 ## Title: Design and Implement BI like Edison! 
@@ -203,7 +203,7 @@ Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 28084
 # Possible Musics:  Choosing between Analysis Services 2012 Multidimensional and Tabular
-#### [Back to calendar](#SQLSaturday-#217---Columbus-2013)
+#### [Back to calendar](#SQLSaturday-#217-Columbus-2013)
 Event Date: 08-06-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: William E Pearson III
 ## Title: Possible Musics:  Choosing between Analysis Services 2012 Multidimensional and Tabular

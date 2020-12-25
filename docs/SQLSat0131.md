@@ -59,7 +59,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10132
 # What's New in SQL Server 2012 SSIS Development
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Brad Baker
 ## Title: What's New in SQL Server 2012 SSIS Development
@@ -69,7 +69,7 @@ in SQL Server 2012 Integration Services. These changes can be organized into the
 #  
 #### SessionID: 11318
 # Real-time Data Warehouse and Reporting
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 ## Speaker: Carlos Bossy
 ## Title: Real-time Data Warehouse and Reporting
@@ -78,7 +78,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 #  
 #### SessionID: 11321
 # Fast-track to BI Analytics with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 ## Speaker: Carlos Bossy
 ## Title: Fast-track to BI Analytics with SQL Server 2012
@@ -87,7 +87,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 #  
 #### SessionID: 11747
 # Backup Basics - Know your options
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Meredith Ryan-Smith
 ## Title: Backup Basics - Know your options
@@ -96,7 +96,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 11748
 # Replication Basics
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev / DBA
 ## Speaker: Meredith Ryan-Smith
 ## Title: Replication Basics
@@ -106,7 +106,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev / DBA
 #  
 #### SessionID: 11758
 # Powershell for the DBA
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Colin Smith
 ## Title: Powershell for the DBA
@@ -115,7 +115,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 12817
 # Introduction to SQL Server 2012 AlwaysON
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Microsoft
 ## Speaker: David Ikeda
 ## Title: Introduction to SQL Server 2012 AlwaysON
@@ -125,7 +125,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Microsoft
 #  
 #### SessionID: 12818
 # Training  Certifications for SQL Server 2012 
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Professional Development / Azure
 ## Speaker: David Ikeda
 ## Title: Training  Certifications for SQL Server 2012 
@@ -134,7 +134,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 13092
 # “BEGIN…COMMIT” is Not Enough
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev / DBA
 ## Speaker: Denise McInerney
 ## Title: “BEGIN…COMMIT” is Not Enough
@@ -145,7 +145,7 @@ Transactions are essential to maintaining data integrity. Getting transactions r
 #  
 #### SessionID: 14862
 # SQL Server 2012 Memory Manager Changes
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Microsoft
 ## Speaker: Gus Apostol
 ## Title: SQL Server 2012 Memory Manager Changes
@@ -154,7 +154,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Microsoft
 #  
 #### SessionID: 14863
 # Troubleshooting SQL Server Performance
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Microsoft
 ## Speaker: Gus Apostol
 ## Title: Troubleshooting SQL Server Performance
@@ -163,7 +163,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Microsoft
 #  
 #### SessionID: 15524
 # SSRS 2012 and SharePoint 2010 Integration
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 ## Speaker: Jacob Wilson
 ## Title: SSRS 2012 and SharePoint 2010 Integration
@@ -172,7 +172,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 #  
 #### SessionID: 16357
 # Transact-SQL does Windows
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Jeff Jones
 ## Title: Transact-SQL does Windows
@@ -181,7 +181,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev
 #  
 #### SessionID: 17502
 # SSAS - Usage Based Optimization
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 ## Speaker: Josh Sivey
 ## Title: SSAS - Usage Based Optimization
@@ -190,7 +190,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 #  
 #### SessionID: 17503
 # SSAS/MDX - Performing "point in time" analysis
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 ## Speaker: Josh Sivey
 ## Title: SSAS/MDX - Performing "point in time" analysis
@@ -199,7 +199,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 #  
 #### SessionID: 17808
 # How To Create A BI Semantic Model
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 ## Speaker: Jason Volpe
 ## Title: How To Create A BI Semantic Model
@@ -208,7 +208,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 #  
 #### SessionID: 17809
 # The Ins and Outs of PowerView
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Microsoft
 ## Speaker: Jason Volpe
 ## Title: The Ins and Outs of PowerView
@@ -217,7 +217,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Microsoft
 #  
 #### SessionID: 17810
 # What Does SQL 2012 Mean For SharePoint
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Microsoft
 ## Speaker: Jason Volpe
 ## Title: What Does SQL 2012 Mean For SharePoint
@@ -226,7 +226,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Microsoft
 #  
 #### SessionID: 17966
 # Agile modeling and reporting with BISM and Azure
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Professional Development / Azure
 ## Speaker: Kathrine Lord
 ## Title: Agile modeling and reporting with BISM and Azure
@@ -235,7 +235,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 17967
 # Best Practices for Monitoring Databases on VMware
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kathy  Gibbs
 ## Title: Best Practices for Monitoring Databases on VMware
@@ -244,7 +244,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 18980
 # Migrating Oracle to SQL Server
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Microsoft
 ## Speaker: Lou Carbone
 ## Title: Migrating Oracle to SQL Server
@@ -255,7 +255,7 @@ Methodology, Demonstration of SSMA (Reports, potentially data migration itself, 
 #  
 #### SessionID: 19339
 # What's this columnstore index thing all about?
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 ## Speaker: Matt Smith
 ## Title: What's this columnstore index thing all about?
@@ -264,7 +264,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 #  
 #### SessionID: 19744
 # Temporal Fact Tables: The Road Less Traveled
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 ## Speaker: Martin Schoombee
 ## Title: Temporal Fact Tables: The Road Less Traveled
@@ -275,7 +275,7 @@ In this session we will walk through a practical example of when and how to impl
 #  
 #### SessionID: 19745
 # DW Architecture: More than just Facts  Dimensions
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 ## Speaker: Martin Schoombee
 ## Title: DW Architecture: More than just Facts  Dimensions
@@ -288,7 +288,7 @@ In this session we will discuss a practical approach to designing the Data Wareh
 #  
 #### SessionID: 22481
 # Understanding SQL Server XML Features 
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev / DBA
 ## Speaker: Randy Knight
 ## Title: Understanding SQL Server XML Features 
@@ -297,7 +297,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev / DBA
 #  
 #### SessionID: 22482
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -307,7 +307,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev
 #  
 #### SessionID: 22483
 # Become Bilingual! Oracle for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev / DBA
 ## Speaker: Randy Knight
 ## Title: Become Bilingual! Oracle for the SQL Server DBA
@@ -316,7 +316,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev / DBA
 #  
 #### SessionID: 22903
 # Advanced SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Jeff Renz
 ## Title: Advanced SQL Server Integration Services
@@ -325,7 +325,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 22904
 # The 2012 Data Warehouse Architecture Debate
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 ## Speaker: Jeff Renz
 ## Title: The 2012 Data Warehouse Architecture Debate
@@ -334,7 +334,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 #  
 #### SessionID: 22905
 # The Best Dashboard on the Block
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 ## Speaker: Jeff Renz
 ## Title: The Best Dashboard on the Block
@@ -343,7 +343,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 #  
 #### SessionID: 23087
 # Using TVPs in .Net applications
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Robert Miller
 ## Title: Using TVPs in .Net applications
@@ -352,7 +352,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev
 #  
 #### SessionID: 23088
 # Using Change Tracking and Change Data Capture
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Robert Miller
 ## Title: Using Change Tracking and Change Data Capture
@@ -361,7 +361,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev
 #  
 #### SessionID: 23108
 # SSIS 2012 Mgmt Considerations  Best Practices
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Rushabh Mehta
 ## Title: SSIS 2012 Mgmt Considerations  Best Practices
@@ -370,7 +370,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 23919
 # Automation and Monitoring for the DBA
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Samuel greene
 ## Title: Automation and Monitoring for the DBA
@@ -379,7 +379,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 24031
 # What is this cache and how did it get so big?
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Doug Brendle
 ## Title: What is this cache and how did it get so big?
@@ -388,7 +388,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 24450
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Professional Development / Azure
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -397,7 +397,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 24451
 # Encryption in SQL Server
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Steve Jones
 ## Title: Encryption in SQL Server
@@ -406,7 +406,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev
 #  
 #### SessionID: 24719
 # (Way Too Much) Fun with Reporting Services 
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 ## Speaker: Stacia Varga
 ## Title: (Way Too Much) Fun with Reporting Services 
@@ -415,7 +415,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 #  
 #### SessionID: 24720
 # Data Visualization in Reporting Services
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 ## Speaker: Stacia Varga
 ## Title: Data Visualization in Reporting Services
@@ -424,7 +424,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 #  
 #### SessionID: 24721
 # Power View: A Peek Behind the Curtain
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 ## Speaker: Stacia Varga
 ## Title: Power View: A Peek Behind the Curtain
@@ -434,7 +434,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 #  
 #### SessionID: 26942
 # Stupid SQL and the Programmers that Write it
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev
 ## Speaker: Mark Bosley
 ## Title: Stupid SQL and the Programmers that Write it
@@ -446,7 +446,7 @@ We will also look at some places where some subtleties of SQL can trip even an e
 #  
 #### SessionID: 26986
 # "Ad Hoc Analytics – Can my customer do that?”
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 ## Speaker: Tom Marek
 ## Title: "Ad Hoc Analytics – Can my customer do that?”
@@ -457,7 +457,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 #  
 #### SessionID: 26988
 # BISM Partitions, Security and Hierarchies
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 ## Speaker: Tom Marek
 ## Title: BISM Partitions, Security and Hierarchies
@@ -466,7 +466,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 #  
 #### SessionID: 27039
 # T-SQL Utilities for Serious DBAs
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: App Dev / DBA
 ## Speaker: Tom Kallal
 ## Title: T-SQL Utilities for Serious DBAs
@@ -477,7 +477,7 @@ The author will demonstrate each utility, and offer suggestions for extending it
 #  
 #### SessionID: 27884
 # Beyond Plateaux: Optimize SSAS with Best Practices
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 ## Speaker: William E Pearson III
 ## Title: Beyond Plateaux: Optimize SSAS with Best Practices
@@ -486,7 +486,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 #  
 #### SessionID: 27887
 # Documenting Your Integrated Microsoft BI Solution
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Professional Development / Azure
 ## Speaker: William E Pearson III
 ## Title: Documenting Your Integrated Microsoft BI Solution
@@ -495,7 +495,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 27890
 # Many-to-Many: Multiple Calendars in a Single Cube
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 ## Speaker: William E Pearson III
 ## Title: Many-to-Many: Multiple Calendars in a Single Cube
@@ -504,7 +504,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Architecture
 #  
 #### SessionID: 28168
 # 5 SSIS Tricks to Take You from Beginner to Awesome
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Wil Sisney
 ## Title: 5 SSIS Tricks to Take You from Beginner to Awesome
@@ -513,7 +513,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 28169
 # 6 Steps to a Stellar Performance Review
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Professional Development / Azure
 ## Speaker: Wil Sisney
 ## Title: 6 Steps to a Stellar Performance Review
@@ -522,7 +522,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 34631
 # Dynamic MDX: Packing a Punch into One .rdl
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 ## Speaker: Erika Bakse
 ## Title: Dynamic MDX: Packing a Punch into One .rdl
@@ -531,7 +531,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 #  
 #### SessionID: 34632
 # Think Outside the Group! Take MDX to the next leve
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 ## Speaker: Erika Bakse
 ## Title: Think Outside the Group! Take MDX to the next leve
@@ -540,7 +540,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 #  
 #### SessionID: 9434
 # Data Cleansing Using the "Scrubbing Bubbles" of SS
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Amy Lewis
 ## Title: Data Cleansing Using the "Scrubbing Bubbles" of SS
@@ -550,7 +550,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 9485
 # SQL Considerations for SharePoint 2010 Farms
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 ## Speaker: Andrew Thornton-Smith
 ## Title: SQL Considerations for SharePoint 2010 Farms
@@ -565,7 +565,7 @@ And finally what tasks in SharePoint are the heavy weights in terms of IOPS, CPU
 #  
 #### SessionID: 9655
 # Mobile BI with SSRS and SharePoint
-#### [Back to calendar](#SQLSaturday-#131---Phoenix-2012)
+#### [Back to calendar](#SQLSaturday-#131-Phoenix-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: BI Delivery
 ## Speaker: Angel Abundez
 ## Title: Mobile BI with SSRS and SharePoint

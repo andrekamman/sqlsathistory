@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 63544
 # SQL Server Permissions and Security Principals
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: William Assaf
 ## Title: SQL Server Permissions and Security Principals
@@ -52,7 +52,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 63546
 # What to Do When SQL Server is Slow
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brent Ozar
 ## Title: What to Do When SQL Server is Slow
@@ -65,7 +65,7 @@ I do this for a living, so I've had to make a written checklist to handle it. I'
 #  
 #### SessionID: 63571
 # Business Analytics in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Thomas LeBlanc
 ## Title: Business Analytics in SQL Server 2016
@@ -78,7 +78,7 @@ You will leave with a comforting feeling that Microsoft is not leaving you behin
 #  
 #### SessionID: 63850
 # Install an AlwaysOn Failover Cluster and Availability Group
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ryan Adams
 ## Title: Install an AlwaysOn Failover Cluster and Availability Group
@@ -87,7 +87,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64120
 # Analysis Services is in Azure? Seriously!? Let's build a model!
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Phillip Labry
 ## Title: Analysis Services is in Azure? Seriously!? Let's build a model!
@@ -96,7 +96,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 64410
 # Why should I care about ... the plan cache?
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
@@ -107,7 +107,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #  
 #### SessionID: 63511
 # Azure SQL Database - Lessons learned from the trenches
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Roberto Cavalcanti
 ## Title: Azure SQL Database - Lessons learned from the trenches
@@ -116,7 +116,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 63549
 # A Rocket Scientist View on Indexes
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: A Rocket Scientist View on Indexes
@@ -125,7 +125,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 63584
 # You want me to Isolate what? An introduction into data integrity and Isolation Levels of SQL Server
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Robert Bishop
 ## Title: You want me to Isolate what? An introduction into data integrity and Isolation Levels of SQL Server
@@ -134,7 +134,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 63589
 # Finding root cause for unexplained Availability Group failover
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Trayce Jordan
 ## Title: Finding root cause for unexplained Availability Group failover
@@ -143,7 +143,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63616
 # Exploring the All-New SSRS 2016
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Exploring the All-New SSRS 2016
@@ -158,7 +158,7 @@ How the all-new SSRS fits in with Datazen, PowerBI, and other Microsoft reportin
 #  
 #### SessionID: 63726
 # Inside SQL Server Machine Learning Services: Database Intelligence at Scale
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: Inside SQL Server Machine Learning Services: Database Intelligence at Scale
@@ -167,7 +167,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63590
 # Backups for non-DBAs...the Why, not the How
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Other
 ## Speaker: Kevin Hill
 ## Title: Backups for non-DBAs...the Why, not the How
@@ -180,7 +180,7 @@ Everyone involved in a technical role needs to at least know that the things the
 #  
 #### SessionID: 63691
 # I like big data for $400  - Exploring quiz show questions using Angular, DocumentDB and Azure Search
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Christopher Sims
 ## Title: I like big data for $400  - Exploring quiz show questions using Angular, DocumentDB and Azure Search
@@ -189,7 +189,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 64358
 # Querying Semistructured Data in Azure Data Lake with USQL
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Russel Loski
 ## Title: Querying Semistructured Data in Azure Data Lake with USQL
@@ -198,7 +198,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 64403
 # Agile Data Warehouse and ETL Design with Biml
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Stein
 ## Title: Agile Data Warehouse and ETL Design with Biml
@@ -207,7 +207,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64442
 # Introduction to Execution Plans
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lance Tidwell
 ## Title: Introduction to Execution Plans
@@ -216,7 +216,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65390
 # Random Acts of Senseless Databasing
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Kris Hokanson
 ## Title: Random Acts of Senseless Databasing
@@ -225,7 +225,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 63550
 # Free Scripts to Troubleshoot SQL Server: sp_Blitz, sp_BlitzCache, and More
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brent Ozar
 ## Title: Free Scripts to Troubleshoot SQL Server: sp_Blitz, sp_BlitzCache, and More
@@ -236,7 +236,7 @@ In this all-demo no-slides session, you'll learn how to use the open source Firs
 #  
 #### SessionID: 65237
 # DevOps for Migratory Deployments
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Robyn Fuentes
 ## Title: DevOps for Migratory Deployments
@@ -245,7 +245,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 63587
 # Dynamic SQL: Tables, Pivots
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Steven Tidwell
 ## Title: Dynamic SQL: Tables, Pivots
@@ -254,7 +254,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 63588
 # Intro to Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Shawn Weisfeld
 ## Title: Intro to Azure SQL Data Warehouse
@@ -263,7 +263,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 63778
 # Beginning T-SQL
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Beginning T-SQL
@@ -272,7 +272,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 64022
 # Introduction to SQL 2016 Temporal Tables
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vicky Harp
 ## Title: Introduction to SQL 2016 Temporal Tables
@@ -281,7 +281,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64178
 # Data Warehousing 101
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Robert Stewart
 ## Title: Data Warehousing 101
@@ -290,7 +290,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64337
 # Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
@@ -299,7 +299,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63725
 # Inside SQL Server In-Memory OLTP
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: Inside SQL Server In-Memory OLTP
@@ -308,7 +308,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63797
 # SQL Server Graph Database
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: John Cook
 ## Title: SQL Server Graph Database
@@ -317,7 +317,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 63816
 # MS SQL - Review, Renew, and Reveal
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Dane Schilling
 ## Title: MS SQL - Review, Renew, and Reveal
@@ -326,7 +326,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 64328
 # Do More Than Just Talk
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Lori Edwards
 ## Title: Do More Than Just Talk
@@ -335,7 +335,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 64346
 # Crappy Queries: A Beginner's Guide to Hunting in the Field
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Harp
 ## Title: Crappy Queries: A Beginner's Guide to Hunting in the Field
@@ -344,7 +344,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65108
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
@@ -355,7 +355,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 63514
 # SQL Server Internals
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Naomi Williams
 ## Title: SQL Server Internals
@@ -364,7 +364,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63529
 # Database Project Makes Deployment Consistent
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
@@ -373,7 +373,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 63723
 # Code Like a Pirate ... Intro to R and Data Science Tools in MS
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Pirate ... Intro to R and Data Science Tools in MS
@@ -397,7 +397,7 @@ The focus of the session will be primarily on the introduction to the R language
 #  
 #### SessionID: 63782
 # Loading SQL Server Data with Powershell
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Loading SQL Server Data with Powershell
@@ -406,7 +406,7 @@ Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64259
 # Table Partitioning: the Secret Weapon for Your Big Data Problems
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: Table Partitioning: the Secret Weapon for Your Big Data Problems
@@ -417,7 +417,7 @@ In this session, you will learn how table partitioning works and when it should 
 #  
 #### SessionID: 64365
 # Big|Small|Tiny Data  +  The Hybrid Cloud
-#### [Back to calendar](#SQLSaturday-#651---Houston-2017)
+#### [Back to calendar](#SQLSaturday-#651-Houston-2017)
 Event Date: 17-06-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anthony {Tex} Moreign
 ## Title: Big|Small|Tiny Data  +  The Hybrid Cloud

@@ -24,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 90418
 # Azure Data Explorer - Fast and highly scalable interactive analytics
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Liviu Ieran
 ## Title: Azure Data Explorer - Fast and highly scalable interactive analytics
@@ -34,7 +34,7 @@ I am going to provide an overview of Azure Data Explorer, an interactive analyti
 #  
 #### SessionID: 91830
 # Handling JSONs in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: ILIE Mugurel
 ## Title: Handling JSONs in SQL Server 2016
@@ -44,7 +44,7 @@ During this session will talk about JSON representation and will explore the new
 #  
 #### SessionID: 93021
 # BI Powers - The A.I. Who Tagged Me
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: AIML Architecture, Development  Administration
 ## Speaker: André Melancia
 ## Title: BI Powers - The A.I. Who Tagged Me
@@ -54,7 +54,7 @@ Disclaimer: A.I. will eventually take over the world. Unlike Doctor Evil, it won
 #  
 #### SessionID: 89928
 # PowerBI: From Zero to Hero
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: AIML Architecture, Development  Administration
 ## Speaker: Dennes Torres
 ## Title: PowerBI: From Zero to Hero
@@ -63,7 +63,7 @@ Event Date: 08-06-2019 - Session time: 15:40:00 - Track: AIML Architecture, Deve
 #  
 #### SessionID: 90515
 # Running Microsoft SQL Server on Amazon Web Services
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dragos Madarasan
 ## Title: Running Microsoft SQL Server on Amazon Web Services
@@ -72,7 +72,7 @@ Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 92334
 # Visual Studio productivity
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Miroslav Popovic
 ## Title: Visual Studio productivity
@@ -81,7 +81,7 @@ Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 89939
 # T-SQL Performance Guidelines for the optimal DB stress powers
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for the optimal DB stress powers
@@ -90,7 +90,7 @@ Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 90120
 # Data Overview and Manipulation – T-SQL, R, Python
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: AIML Architecture, Development  Administration
 ## Speaker: Dejan Sarka
 ## Title: Data Overview and Manipulation – T-SQL, R, Python
@@ -99,7 +99,7 @@ Event Date: 08-06-2019 - Session time: 15:40:00 - Track: AIML Architecture, Deve
 #  
 #### SessionID: 93006
 # If a computer can understand, why can't YOU understand Azure Cognitive Services?
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: AIML Architecture, Development  Administration
 ## Speaker: André Melancia
 ## Title: If a computer can understand, why can't YOU understand Azure Cognitive Services?
@@ -110,7 +110,7 @@ Disclaimer: Cognitive services will never guess a doctor's handwriting. That's j
 #  
 #### SessionID: 93816
 # SQL Managed Instance - From the ground to the cloud
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Alexandra Ciortea
 ## Title: SQL Managed Instance - From the ground to the cloud
@@ -119,7 +119,7 @@ Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 90476
 # When Things go Wrong - Error Handling in SQL Server
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: When Things go Wrong - Error Handling in SQL Server
@@ -130,7 +130,7 @@ This presentation starts with a horror show of the many different actions SQL Se
 #  
 #### SessionID: 91769
 # AI in Power BI
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: AIML Architecture, Development  Administration
 ## Speaker: Cristian Lefter
 ## Title: AI in Power BI
@@ -142,7 +142,7 @@ Fun is guaranteed :)
 #  
 #### SessionID: 92922
 # How to be polite with databases when going serverless
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ivan Čuljak
 ## Title: How to be polite with databases when going serverless
@@ -155,7 +155,7 @@ Come and find out how to approach this problems ;)
 #  
 #### SessionID: 90119
 # SQL Server Data Science: Python or R?
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: AIML Architecture, Development  Administration
 ## Speaker: Dejan Sarka
 ## Title: SQL Server Data Science: Python or R?
@@ -164,7 +164,7 @@ Event Date: 08-06-2019 - Session time: 15:40:00 - Track: AIML Architecture, Deve
 #  
 #### SessionID: 91433
 # Encryption in SQL Server
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Michal Sadowski
 ## Title: Encryption in SQL Server
@@ -173,7 +173,7 @@ Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 93420
 # Connecting IoT data with artificial intelligence at scale
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Connecting IoT data with artificial intelligence at scale
@@ -185,7 +185,7 @@ The concept is explained in the context of Azure IoT and Azure AI platforms.
 #  
 #### SessionID: 92591
 # SQL Server full optimization
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Alexandru Craciun
 ## Title: SQL Server full optimization
@@ -194,7 +194,7 @@ Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 94292
 # Successfully Virtualizing SQL Server on vSphere - Straight from the Source
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
@@ -203,7 +203,7 @@ Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 94878
 # Lightning-fast management of cloud and legacy databases, breaking vendor lock-in
-#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+#### [Back to calendar](#SQLSaturday-#874-Timisoara-2019)
 Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Damir Bulic
 ## Title: Lightning-fast management of cloud and legacy databases, breaking vendor lock-in

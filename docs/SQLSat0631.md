@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 61780
 # MS SSAS  Business Value: Should I choose Tabular or Multidimensional?
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Data Analysis
 ## Speaker: Wylie Blanchard
 ## Title: MS SSAS  Business Value: Should I choose Tabular or Multidimensional?
@@ -45,7 +45,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Data Analysis
 #  
 #### SessionID: 63845
 # Creating an Azure SQL Database Using PowerShell
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Server Administration
 ## Speaker: Frank Gill
 ## Title: Creating an Azure SQL Database Using PowerShell
@@ -54,7 +54,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Server Administration
 #  
 #### SessionID: 64226
 # SSAS:  What is it and How do I get started using it
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Business Intelligence Development
 ## Speaker: Dave Bland
 ## Title: SSAS:  What is it and How do I get started using it
@@ -63,7 +63,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Business Intelligence D
 #  
 #### SessionID: 64415
 # What is new in SQL Server 2016 for DBAs?
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Advanced
 ## Speaker: Ameena Lalani
 ## Title: What is new in SQL Server 2016 for DBAs?
@@ -72,7 +72,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration
 #  
 #### SessionID: 68045
 # Index 360 - Looking at Indexes from Multiple Perspectives
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Advanced
 ## Speaker: John Eisbrener
 ## Title: Index 360 - Looking at Indexes from Multiple Perspectives
@@ -81,7 +81,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration
 #  
 #### SessionID: 68140
 # Protecting Your Data with Encryption
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Beginner
 ## Speaker: Ed Leighton-Dick
 ## Title: Protecting Your Data with Encryption
@@ -90,7 +90,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration
 #  
 #### SessionID: 61225
 # Learn History from Temporal Tables
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Advanced
 ## Speaker: Ameena Lalani
 ## Title: Learn History from Temporal Tables
@@ -99,7 +99,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration
 #  
 #### SessionID: 61326
 # JSON for the Data Mortals
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Other
 ## Speaker: Jim Dorame
 ## Title: JSON for the Data Mortals
@@ -108,7 +108,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Other
 #  
 #### SessionID: 63045
 # Processing Big Data with Azure Data Lake Analytics
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Business Intelligence Development
 ## Speaker: Sean Forgatch
 ## Title: Processing Big Data with Azure Data Lake Analytics
@@ -117,7 +117,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Business Intelligence D
 #  
 #### SessionID: 63846
 # The SQL Server Transaction Log for Developers
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Beginner
 ## Speaker: Frank Gill
 ## Title: The SQL Server Transaction Log for Developers
@@ -126,7 +126,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration
 #  
 #### SessionID: 64228
 # How to use Execution Plans to find Performance Issues
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Beginner
 ## Speaker: Dave Bland
 ## Title: How to use Execution Plans to find Performance Issues
@@ -135,7 +135,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration
 #  
 #### SessionID: 68137
 # How to Keep Your Databases Secure in Just Minutes a Day
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Advanced
 ## Speaker: Ed Leighton-Dick
 ## Title: How to Keep Your Databases Secure in Just Minutes a Day
@@ -148,7 +148,7 @@ In this session, we will explore how to create reports that are quick to review 
 #  
 #### SessionID: 61223
 # Automated Restore Script Output for Ola Hallengren’s Maintenance Solution
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Advanced
 ## Speaker: Jared Zagelbaum
 ## Title: Automated Restore Script Output for Ola Hallengren’s Maintenance Solution
@@ -162,7 +162,7 @@ If you don't know what I just described in that last paragraph, you should come 
 #  
 #### SessionID: 61779
 # SSAS Tabular in 60 mins: Developing Business-Driven Self-Service BI
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Business Intelligence Development
 ## Speaker: Wylie Blanchard
 ## Title: SSAS Tabular in 60 mins: Developing Business-Driven Self-Service BI
@@ -171,7 +171,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Business Intelligence D
 #  
 #### SessionID: 64227
 # I Know SQL Server, but want to become a great DBA - What do I need to know?
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Dave Bland
 ## Title: I Know SQL Server, but want to become a great DBA - What do I need to know?
@@ -180,7 +180,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 64605
 # Problem Solving With The In-Memory Engine
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Advanced
 ## Speaker: Christopher Adkin
 ## Title: Problem Solving With The In-Memory Engine
@@ -195,7 +195,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration
 #  
 #### SessionID: 67415
 # Free SQL Server Tools
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Cecil Spivey
 ## Title: Free SQL Server Tools
@@ -204,7 +204,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 67912
 # Get Your Optimizer to Give up All Its Secrets
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Advanced
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
@@ -213,7 +213,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration
 #  
 #### SessionID: 68138
 # Understanding SQL Server 2016 Always Encrypted
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Beginner
 ## Speaker: Ed Leighton-Dick
 ## Title: Understanding SQL Server 2016 Always Encrypted
@@ -222,7 +222,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration
 #  
 #### SessionID: 61224
 # SQL Server 2016 - New Security Features
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Advanced
 ## Speaker: Jared Zagelbaum
 ## Title: SQL Server 2016 - New Security Features
@@ -232,7 +232,7 @@ There’s a ton of ground to cover on all of the new enhancements, so this sessi
 #  
 #### SessionID: 63844
 # Anatomy of a Transaction
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Advanced
 ## Speaker: Frank Gill
 ## Title: Anatomy of a Transaction
@@ -241,7 +241,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration
 #  
 #### SessionID: 64229
 # Extended Events: What are they and How do I use them
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Other
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
@@ -250,7 +250,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Other
 #  
 #### SessionID: 67911
 # Set Me Up: How to Think in Sets
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Beginner
 ## Speaker: Brian Hansen
 ## Title: Set Me Up: How to Think in Sets
@@ -261,7 +261,7 @@ We will look at T-SQL features that can break set-based processing -- generally 
 #  
 #### SessionID: 68488
 # Navigating Modern BI Infrastructure – Power BI Report Server (On-
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Business Intelligence Development
 ## Speaker: George Bryant
 ## Title: Navigating Modern BI Infrastructure – Power BI Report Server (On-
@@ -270,7 +270,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Business Intelligence D
 #  
 #### SessionID: 68978
 # How to Get Microsoft Certified
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: John Deardurff
 ## Title: How to Get Microsoft Certified
@@ -279,7 +279,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 68984
 # Intro to Machine Learning
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Business Intelligence Development
 ## Speaker: Jared Zagelbaum
 ## Title: Intro to Machine Learning
@@ -288,7 +288,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Business Intelligence D
 #  
 #### SessionID: 67910
 # Visualize Your Transaction Log
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Beginner
 ## Speaker: Brian Hansen
 ## Title: Visualize Your Transaction Log
@@ -297,7 +297,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration
 #  
 #### SessionID: 68139
 # Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Advanced
 ## Speaker: Ed Leighton-Dick
 ## Title: Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
@@ -306,7 +306,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration
 #  
 #### SessionID: 69203
 # The PROCESS of Queries
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration - Beginner
 ## Speaker: John Deardurff
 ## Title: The PROCESS of Queries
@@ -315,7 +315,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Database Administration
 #  
 #### SessionID: 69204
 # Building Your First Data Warehouse
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Business Intelligence Development
 ## Speaker: Jesse Seymour
 ## Title: Building Your First Data Warehouse
@@ -324,7 +324,7 @@ Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Business Intelligence D
 #  
 #### SessionID: 69500
 # QA with SQL Experts
-#### [Back to calendar](#SQLSaturday-#631---Wausau-2017)
+#### [Back to calendar](#SQLSaturday-#631-Wausau-2017)
 Event Date: 16-09-2017 - Session time: 15:15:00 - Track: Business Intelligence Development
 ## Speaker: Krista Olson
 ## Title: QA with SQL Experts

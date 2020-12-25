@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13829
 # Planes de ejecución en SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track DBA
 ## Speaker: Enrique Bañuls
 ## Title: Planes de ejecución en SQL Server 2014
@@ -34,7 +34,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track DBA
 #  
 #### SessionID: 13954
 # Durabilidad diferida de transacciones y mejoras en gestión de bloqueos para tareas administrativas
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track DBA
 ## Speaker: Eladio Rincon
 ## Title: Durabilidad diferida de transacciones y mejoras en gestión de bloqueos para tareas administrativas
@@ -43,7 +43,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track DBA
 #  
 #### SessionID: 15321
 # Hardware Planning  Sizing for SQL Server
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track DBA
 ## Speaker: Davide Mauri
 ## Title: Hardware Planning  Sizing for SQL Server
@@ -52,7 +52,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track DBA
 #  
 #### SessionID: 15322
 # Automating Data Warehouse Patterns Through Metadata
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track BI
 ## Speaker: Davide Mauri
 ## Title: Automating Data Warehouse Patterns Through Metadata
@@ -64,7 +64,7 @@ In this session, we will look at well-known patterns to solving common problems 
 #  
 #### SessionID: 15416
 # Clustered Columnstore Deep Dive
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track BI
 ## Speaker: Niko Neugebauer
 ## Title: Clustered Columnstore Deep Dive
@@ -73,7 +73,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track BI
 #  
 #### SessionID: 16436
 # A One Hour Data Analysts Toolkit: using R and PowerBI
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track Big Data Analytics
 ## Speaker: Jen Stirrup
 ## Title: A One Hour Data Analysts Toolkit: using R and PowerBI
@@ -82,7 +82,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track Big Data Analytic
 #  
 #### SessionID: 20050
 # Datawarehouse en tiempo real con CDC
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track BI
 ## Speaker: Miguel Egea
 ## Title: Datawarehouse en tiempo real con CDC
@@ -91,7 +91,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track BI
 #  
 #### SessionID: 21563
 # ??? Question ??? - Has Power BI QA the answer?
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track Big Data Analytics
 ## Speaker: Oliver Engels
 ## Title: ??? Question ??? - Has Power BI QA the answer?
@@ -104,7 +104,7 @@ addressing natural language questions and a will review the usability
 #  
 #### SessionID: 22026
 # Big Data Analytics with Excel
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track Big Data Analytics
 ## Speaker: Peter Myers
 ## Title: Big Data Analytics with Excel
@@ -113,7 +113,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track Big Data Analytic
 #  
 #### SessionID: 22324
 # SQL Server y Textos
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track Big Data Analytics
 ## Speaker: Pau Sempere
 ## Title: SQL Server y Textos
@@ -122,7 +122,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track Big Data Analytic
 #  
 #### SessionID: 22426
 # Avanzando a SQL Server 2014 como quien no quiere la cosa
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track DBA
 ## Speaker: Alberto López Grande
 ## Title: Avanzando a SQL Server 2014 como quien no quiere la cosa
@@ -131,7 +131,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track DBA
 #  
 #### SessionID: 22859
 # Power View and the Cube
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track BI
 ## Speaker: Regis Baccaro
 ## Title: Power View and the Cube
@@ -146,7 +146,7 @@ The session we'll present
 #  
 #### SessionID: 23396
 # Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track DBA
 ## Speaker: Rodney Landrum
 ## Title: Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure
@@ -155,7 +155,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track DBA
 #  
 #### SessionID: 23497
 # Big Brother: Espiando a nuestro BI
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track BI
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Big Brother: Espiando a nuestro BI
@@ -164,7 +164,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track BI
 #  
 #### SessionID: 23960
 # End to end demos of Power BI, Azure machine learning, HD Insight, APS (PDW) and SAP BI Connector
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track Big Data Analytics
 ## Speaker: Sanjay Soni
 ## Title: End to end demos of Power BI, Azure machine learning, HD Insight, APS (PDW) and SAP BI Connector
@@ -173,7 +173,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track Big Data Analytic
 #  
 #### SessionID: 24037
 # Exprimiendo Reporting Services: Trucos y consejos
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track BI
 ## Speaker: Sergio Carrillo Vila
 ## Title: Exprimiendo Reporting Services: Trucos y consejos
@@ -182,7 +182,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track BI
 #  
 #### SessionID: 24375
 # Moving applications to SQL Server 2014 In-Memory OLTP
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track DBA
 ## Speaker: Sergey Olontsev
 ## Title: Moving applications to SQL Server 2014 In-Memory OLTP
@@ -191,7 +191,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track DBA
 #  
 #### SessionID: 25178
 # Visualización. Mejorando las respuestas a las preguntas de Negocio.
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track Big Data Analytics
 ## Speaker: Salvador Ramos
 ## Title: Visualización. Mejorando las respuestas a las preguntas de Negocio.
@@ -200,7 +200,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track Big Data Analytic
 #  
 #### SessionID: 27253
 # INSERT / UPDATE / DELETE - deep dive
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track DBA
 ## Speaker: Uwe Ricken
 ## Title: INSERT / UPDATE / DELETE - deep dive
@@ -211,7 +211,7 @@ SEE, what a workload will be caused by a "forwarded record". What tremendous wor
 #  
 #### SessionID: 9310
 # Hadoop for the Microsoft Guy
-#### [Back to calendar](#SQLSaturday-#338---Barcelona-2014)
+#### [Back to calendar](#SQLSaturday-#338-Barcelona-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track Big Data Analytics
 ## Speaker: Allan Mitchell
 ## Title: Hadoop for the Microsoft Guy

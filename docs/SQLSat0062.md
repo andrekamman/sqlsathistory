@@ -48,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28413
 # SQL Smackdown: SSIS vs. PowerShell
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Aaron Nelson
 ## Title: SQL Smackdown: SSIS vs. PowerShell
@@ -57,7 +57,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28520
 # Iron Chef SQL Server
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Adam Jorgensen
 ## Title: Iron Chef SQL Server
@@ -66,7 +66,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29050
 # Troubleshooting with the SQL Server 2008 DC  MDW 
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Bill Ramos
 ## Title: Troubleshooting with the SQL Server 2008 DC  MDW 
@@ -75,7 +75,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29076
 # Accelerating BI Development with BI xPress
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Brian Knight
 ## Title: Accelerating BI Development with BI xPress
@@ -84,7 +84,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29149
 # Page And Row Compression How, When, and Why
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Bradley Ball
 ## Title: Page And Row Compression How, When, and Why
@@ -93,7 +93,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29266
 # SQL Server 2008 R2 Parallel Data Warehouse 
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Brian Mitchell
 ## Title: SQL Server 2008 R2 Parallel Data Warehouse 
@@ -102,7 +102,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29280
 # Reporting Services 2008
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Brian McDonald
 ## Title: Reporting Services 2008
@@ -111,7 +111,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29330
 # Introduction to SSIS
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bradley Schacht
 ## Title: Introduction to SSIS
@@ -120,7 +120,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29363
 # Cool Tricks to Pull from your SSIS Hat:
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Julie Smith
 ## Title: Cool Tricks to Pull from your SSIS Hat:
@@ -129,7 +129,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29574
 # SQL Server PowerShell Extensions (SQLPSX)
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Chad Miller
 ## Title: SQL Server PowerShell Extensions (SQLPSX)
@@ -138,7 +138,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 29603
 # Why I Use Stored Procedures
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jack Corbett
 ## Title: Why I Use Stored Procedures
@@ -147,7 +147,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29854
 # Implementing auditing in SQL Server
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: David Dye
 ## Title: Implementing auditing in SQL Server
@@ -157,7 +157,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29923
 # Revive the code: refactoring for performance
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Dmitri Korotkevitch
 ## Title: Revive the code: refactoring for performance
@@ -168,7 +168,7 @@ This session shows how to replace several common procedural style patterns in T-
 #  
 #### SessionID: 29941
 # DBA 101
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Don Stevic
 ## Title: DBA 101
@@ -177,7 +177,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30029
 # To click or to type, that is the question
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: David Taylor
 ## Title: To click or to type, that is the question
@@ -187,7 +187,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 30034
 # Windows PowerShell 2.0 Best Practices for DBA's
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Ed Wilson
 ## Title: Windows PowerShell 2.0 Best Practices for DBA's
@@ -196,7 +196,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 30133
 # SSIS Data Flow Buffer Breakdown
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Eric Wisdahl
 ## Title: SSIS Data Flow Buffer Breakdown
@@ -205,7 +205,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 30162
 # Find Performance Problems by Reading the Waits
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Eddie Wuerch
 ## Title: Find Performance Problems by Reading the Waits
@@ -214,7 +214,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 30233
 # Bad SQL
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Geoff Hiten
 ## Title: Bad SQL
@@ -223,7 +223,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30401
 # Creating a Metadata Mart w/ SSIS - Data Governance
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Ira Warren
 ## Title: Creating a Metadata Mart w/ SSIS - Data Governance
@@ -232,7 +232,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 30430
 # Sql Server Service Broker - An Overview
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Janis Griffin
 ## Title: Sql Server Service Broker - An Overview
@@ -243,7 +243,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 30663
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
@@ -252,7 +252,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30863
 # SSIS Cafeteria
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: James McAuliffe
 ## Title: SSIS Cafeteria
@@ -261,7 +261,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30873
 # SQL Server Auditing 101
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jonathan Kehayias
 ## Title: SQL Server Auditing 101
@@ -271,7 +271,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 30947
 # Do You Know the Data Flow?
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: John Welch
 ## Title: Do You Know the Data Flow?
@@ -280,7 +280,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31025
 # Policy-Based Management in a Nutshell
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Jorge Segarra
 ## Title: Policy-Based Management in a Nutshell
@@ -289,7 +289,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 31268
 # DR Availability,You're Wanted in the Recovery Room
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Kendal Van Dyke
 ## Title: DR Availability,You're Wanted in the Recovery Room
@@ -298,7 +298,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 31772
 # Spatial Data in SQL 2008 and Bing
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Michael Stark
 ## Title: Spatial Data in SQL 2008 and Bing
@@ -307,7 +307,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 31793
 # Introduction to PowerPivot for Excel
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Michael Antonovich
 ## Title: Introduction to PowerPivot for Excel
@@ -317,7 +317,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 31950
 # MDX 201
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Mark Landry
 ## Title: MDX 201
@@ -326,7 +326,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 31992
 # Where should I be encrypting my data
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Denny Cherry
 ## Title: Where should I be encrypting my data
@@ -335,7 +335,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 32127
 # Introduction to Transactional Replication
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Troy Gallant
 ## Title: Introduction to Transactional Replication
@@ -344,7 +344,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 32256
 # Building Hierarchy Solutions with SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Plamen Ratchev
 ## Title: Building Hierarchy Solutions with SQL Server 2008
@@ -353,7 +353,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 32379
 # Become a Bilingual DBA! Oracle for the SQL Server
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Randy Knight
 ## Title: Become a Bilingual DBA! Oracle for the SQL Server
@@ -362,7 +362,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 32622
 # DBA Repository Update 2010 Using SSIS and SSRS 
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Rodney Landrum
 ## Title: DBA Repository Update 2010 Using SSIS and SSRS 
@@ -371,7 +371,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 32639
 # Why Learn PowerShell?
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Ronald Dameron
 ## Title: Why Learn PowerShell?
@@ -380,7 +380,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 32721
 # SSIS and SSRS Better Together
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Russel Loski
 ## Title: SSIS and SSRS Better Together
@@ -390,7 +390,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 32765
 # Developing Date and Role-Playing Dimensions
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Sandra Mueller
 ## Title: Developing Date and Role-Playing Dimensions
@@ -399,7 +399,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32819
 # How SQL saved my Business Intelligence Platform
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Scott Schledwitz
 ## Title: How SQL saved my Business Intelligence Platform
@@ -408,7 +408,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33272
 # Efficient Datawarehouse Design
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dr. Suresh Rajappa
 ## Title: Efficient Datawarehouse Design
@@ -417,7 +417,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33525
 # SQL Server Memory Deep Dive
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Kevin Boles
 ## Title: SQL Server Memory Deep Dive
@@ -426,7 +426,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 33600
 # You inherited a database Now What?
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Tim Radney
 ## Title: You inherited a database Now What?
@@ -435,7 +435,7 @@ Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 33652
 # ITIL V3 for the Database Administrator
-#### [Back to calendar](#SQLSaturday-#62---Tampa-2011)
+#### [Back to calendar](#SQLSaturday-#62-Tampa-2011)
 Event Date: 15-01-2011 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Timothy McAliley
 ## Title: ITIL V3 for the Database Administrator

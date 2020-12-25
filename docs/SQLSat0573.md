@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 53095
 # In-memory OLTP internals
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Luciano Moreira
 ## Title: In-memory OLTP internals
@@ -40,7 +40,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #  
 #### SessionID: 53259
 # Database Console Commands
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Rodrigo Crespi
 ## Title: Database Console Commands
@@ -50,7 +50,7 @@ Falaremos (Sem Censura!) sobre o impacto destes comandos e sua utilidade.#160;
 #  
 #### SessionID: 53860
 # Fazendo seu banco de dados voar
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Thiago Cruz
 ## Title: Fazendo seu banco de dados voar
@@ -59,7 +59,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #  
 #### SessionID: 54552
 # Power BI Embedded (Embarcado)
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, Analytics and Big Data
 ## Speaker: Demetrio Silva
 ## Title: Power BI Embedded (Embarcado)
@@ -68,7 +68,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, 
 #  
 #### SessionID: 56261
 # ILM - Como economizar dinheiro e armazenar os dados de forma mais
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Gustavo Maia Aguiar
 ## Title: ILM - Como economizar dinheiro e armazenar os dados de forma mais
@@ -77,7 +77,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #  
 #### SessionID: 53696
 # Entendendo as diferenças: Índices RowStore vs Índices Columnstore
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Felipe de Assis
 ## Title: Entendendo as diferenças: Índices RowStore vs Índices Columnstore
@@ -86,7 +86,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #  
 #### SessionID: 54639
 # O Dia a Dia do Cientista de Dados
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Career, Academic, Beginner
 ## Speaker: Diego Nogare
 ## Title: O Dia a Dia do Cientista de Dados
@@ -95,7 +95,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Career, Academic, Begin
 #  
 #### SessionID: 54777
 # Azure SQL Database v12: Monitorando e Otimizando seu Database na Nuvem
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Nilton Pinheiro
 ## Title: Azure SQL Database v12: Monitorando e Otimizando seu Database na Nuvem
@@ -105,7 +105,7 @@ Eu mostrarei a você como o time de suporte ao Azure SQL Database da Microsoft C
 #  
 #### SessionID: 55111
 # Modelagem Multidimensional
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, Analytics and Big Data
 ## Speaker: Vitor Ferreira
 ## Title: Modelagem Multidimensional
@@ -115,7 +115,7 @@ Serão esclarecidos conceitos importantes como fatos, dimensões, granularidade,
 #  
 #### SessionID: 57146
 # Corrupção de dados e perda acidental - O que fazer ?
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Rodrigo Ribeiro Gomes
 ## Title: Corrupção de dados e perda acidental - O que fazer ?
@@ -126,7 +126,7 @@ Se alguma vez você já teve de lidar com corrupção de dados ou perda acidenta
 #  
 #### SessionID: 54398
 # Melhores Estratégias de Backup
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Sulamita Dantas
 ## Title: Melhores Estratégias de Backup
@@ -135,7 +135,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #  
 #### SessionID: 56248
 # Carreira, Certificações e Mercado de Trabalho
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Career, Academic, Beginner
 ## Speaker: Arthur Luz
 ## Title: Carreira, Certificações e Mercado de Trabalho
@@ -144,7 +144,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Career, Academic, Begin
 #  
 #### SessionID: 56284
 # Apresentando, Configurando e Criando relatórios Real-time com o Power BI
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, Analytics and Big Data
 ## Speaker: Demetrio Silva
 ## Title: Apresentando, Configurando e Criando relatórios Real-time com o Power BI
@@ -153,7 +153,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, 
 #  
 #### SessionID: 56303
 # Indexação para iniciantes
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Raiane Lins
 ## Title: Indexação para iniciantes
@@ -163,7 +163,7 @@ Explicaremos sobre os tipos de índices, suas diferenças e utilizações, segui
 #  
 #### SessionID: 56307
 # Sou Desenvolvedor, preciso conhecer banco de dados?
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Jucinei Santos
 ## Title: Sou Desenvolvedor, preciso conhecer banco de dados?
@@ -174,7 +174,7 @@ Tópicos: ORM's, Acesso a Dados, boas práticas de acesso a dados como desenvolv
 #  
 #### SessionID: 54178
 # High Availability and Disaster Recovery Salvando Vidas
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Career, Academic, Beginner
 ## Speaker: Luiz Henrique Garetti
 ## Title: High Availability and Disaster Recovery Salvando Vidas
@@ -184,7 +184,7 @@ Também, será abordado exemplos reais de aplicabilidade e como isso já salvou 
 #  
 #### SessionID: 54962
 # Do transacional ao analítico- Pensando em um projeto de BI do início ao fim !
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, Analytics and Big Data
 ## Speaker: Flávio Farias
 ## Title: Do transacional ao analítico- Pensando em um projeto de BI do início ao fim !
@@ -193,7 +193,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, 
 #  
 #### SessionID: 54972
 # Porque minha query esta lenta? - Iniciando um troubleshooting
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Suellen Moraes
 ## Title: Porque minha query esta lenta? - Iniciando um troubleshooting
@@ -202,7 +202,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #  
 #### SessionID: 55041
 # Monitorando SQL SERVER e Oracle
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Marcelo Adade
 ## Title: Monitorando SQL SERVER e Oracle
@@ -211,7 +211,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #  
 #### SessionID: 53542
 # Somos o Big Brother
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Ricardo Leka
 ## Title: Somos o Big Brother
@@ -221,7 +221,7 @@ Vamos habilitar auditoria! Mas vamos fazer isso em v#225;rias inst#226;ncias e v
 #  
 #### SessionID: 53568
 # Suporte do novo Entity Framework Core ao SQL Server
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Rogério Moraes de Carvalho
 ## Title: Suporte do novo Entity Framework Core ao SQL Server
@@ -230,7 +230,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #  
 #### SessionID: 53813
 # Preveja o futuro com Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, Analytics and Big Data
 ## Speaker: Thiago Zavaschi
 ## Title: Preveja o futuro com Azure Machine Learning
@@ -240,7 +240,7 @@ Criaremos um modelo de machine learning que poder#225; prever informa#231;#245;e
 #  
 #### SessionID: 54400
 # Administrando SQL Server para quot;N#227;o DBAsquot;
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Marcelo Fernandes
 ## Title: Administrando SQL Server para quot;N#227;o DBAsquot;
@@ -249,7 +249,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #  
 #### SessionID: 53189
 # SQL Azure Database Vs. Amazon RDS
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: SQL Azure Database Vs. Amazon RDS
@@ -258,7 +258,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #  
 #### SessionID: 54147
 # Novidades do SSRS 2016 - O poder da an#225;lise de dados
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, Analytics and Big Data
 ## Speaker: Marcos Vinicius Oliveira Schardong
 ## Title: Novidades do SSRS 2016 - O poder da an#225;lise de dados
@@ -267,7 +267,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, 
 #  
 #### SessionID: 54594
 # Passo a Passo para realizar uma Consultoria de Tuning em um Cliente
-#### [Back to calendar](#SQLSaturday-#573---Brasilia-2016)
+#### [Back to calendar](#SQLSaturday-#573-Brasilia-2016)
 Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Fabrício Lima
 ## Title: Passo a Passo para realizar uma Consultoria de Tuning em um Cliente

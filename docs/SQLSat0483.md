@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 42276
 # SQL Server R Services in SQL 2016
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
@@ -43,7 +43,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 42929
 # Very Large Databases in your future
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Peterson
 ## Title: Very Large Databases in your future
@@ -55,7 +55,7 @@ indexing and DBCC checks into itty-bitty maintenance windows. As a bonus, many o
 #  
 #### SessionID: 44869
 # Creating Access Web Apps with SQL Azure and SharePoint
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Andy Tabisz
 ## Title: Creating Access Web Apps with SQL Azure and SharePoint
@@ -65,7 +65,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 45441
 # Managing Availability Groups (What happens after the build!)
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Managing Availability Groups (What happens after the build!)
@@ -74,7 +74,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46110
 # IoT - The Internet Of Things
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Jeff Renz
 ## Title: IoT - The Internet Of Things
@@ -83,7 +83,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 41274
 # Table Partitioning 101
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Robert Smith
 ## Title: Table Partitioning 101
@@ -92,7 +92,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 41346
 # Design and Implement BI Like Edison! 
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Strategy and Architecture
 ## Speaker: William E Pearson III
 ## Title: Design and Implement BI Like Edison! 
@@ -101,7 +101,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 42485
 # Hadoop, Hive, JSON, and Data! Oh, my!
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: TJay Belt
 ## Title: Hadoop, Hive, JSON, and Data! Oh, my!
@@ -110,7 +110,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 43078
 # The New Revolution in Data Science, R Integrated into SQL Server
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Reeves Smith
 ## Title: The New Revolution in Data Science, R Integrated into SQL Server
@@ -122,7 +122,7 @@ This session will demo the functionality and power of using R within SQL Server.
 #  
 #### SessionID: 46104
 # Essential steps to ensure survivability of your SQL Server database
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andre DuBois
 ## Title: Essential steps to ensure survivability of your SQL Server database
@@ -131,7 +131,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 47855
 # SQL Server Internals and Architecture
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals and Architecture
@@ -149,7 +149,7 @@ This fast paced session will take you through many aspects of the internal opera
 #  
 #### SessionID: 41717
 # Analysis Services Tabular Jumpstart
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Labry
 ## Title: Analysis Services Tabular Jumpstart
@@ -158,7 +158,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 41939
 # SQL Server Foreign Keys – De-mystifying the Rest of the Story
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SQL Server Foreign Keys – De-mystifying the Rest of the Story
@@ -172,7 +172,7 @@ After attending this session you will
 #  
 #### SessionID: 42339
 # Overlord - tracking changes real-time, in your environment
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Bourgon
 ## Title: Overlord - tracking changes real-time, in your environment
@@ -181,7 +181,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42642
 # Infrastructure Tuning for SQL Server Performance
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Infrastructure Tuning for SQL Server Performance
@@ -190,7 +190,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42979
 # Overcoming Chartaphobia And Moving Toward Enlightening Data Viz
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Meagan Longoria
 ## Title: Overcoming Chartaphobia And Moving Toward Enlightening Data Viz
@@ -199,7 +199,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 44749
 # Revenge: The SQL! - Director's Cut
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL! - Director's Cut
@@ -214,7 +214,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 41291
 # Power BI is Awesome!
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: BI Information Delivery
 ## Speaker: Steve Wake
 ## Title: Power BI is Awesome!
@@ -223,7 +223,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 41473
 # Dimensional Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond Basics
@@ -241,7 +241,7 @@ the art of dimensional modeling. We will look at the different types of fact tab
 #  
 #### SessionID: 45446
 # FROM OLD TO NEW; NAVIGATING THE CHOPPY WATERS OF A CRM/ERP PLATFORM MIGRATI
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Strategy and Architecture
 ## Speaker: Michelle Poolet
 ## Title: FROM OLD TO NEW; NAVIGATING THE CHOPPY WATERS OF A CRM/ERP PLATFORM MIGRATI
@@ -255,7 +255,7 @@ Join Michelle Poolet as she walks you through lessons learned from the many plat
 #  
 #### SessionID: 46153
 # What's your DQ (Data Quotient) ?
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Paul Nielsen
 ## Title: What's your DQ (Data Quotient) ?
@@ -264,7 +264,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 46168
 # Making the Leap from Developer to DBA
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
@@ -273,7 +273,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 48134
 # End-to-End Troubleshooting for SQL Server 
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Kline
 ## Title: End-to-End Troubleshooting for SQL Server 
@@ -292,7 +292,7 @@ Every DBA needs to know how to keep their SQL Server in tip-top condition, and y
 #  
 #### SessionID: 42297
 # Protecting your data in the Cloud
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Vijayakumar Thurupathan
 ## Title: Protecting your data in the Cloud
@@ -302,7 +302,7 @@ The session will cover the following topics with demos. Introduction to cloud ad
 #  
 #### SessionID: 42604
 # How Good Is Your Indexing Strategy?
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Ford
 ## Title: How Good Is Your Indexing Strategy?
@@ -313,7 +313,7 @@ A working knowledge of Dynamic Management Objects, indexing internals, and eager
 #  
 #### SessionID: 42643
 # My Brain Has Blue Screened - Let's Laugh
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: My Brain Has Blue Screened - Let's Laugh
@@ -322,7 +322,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46534
 # Predictive Analytics Fundamentals
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Carlos Bossy
 ## Title: Predictive Analytics Fundamentals
@@ -331,7 +331,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 47821
 # Getting Started with Databases on Amazon Web Services 
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Gabriel Villa
 ## Title: Getting Started with Databases on Amazon Web Services 
@@ -341,7 +341,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 48133
 # No AlwaysOn? HA/DR for Us Mere Mortals
-#### [Back to calendar](#SQLSaturday-#483---Colorado-Springs-2016)
+#### [Back to calendar](#SQLSaturday-#483-Colorado-Springs-2016)
 Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alaina Donofrio
 ## Title: No AlwaysOn? HA/DR for Us Mere Mortals

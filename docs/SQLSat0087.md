@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28850
 # Everything You Need to Know About SQL Azure 
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Arie Jones
 ## Title: Everything You Need to Know About SQL Azure 
@@ -44,7 +44,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 28851
 # Master Data  Services in Denali 
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Misc.
 ## Speaker: Arie Jones
 ## Title: Master Data  Services in Denali 
@@ -53,7 +53,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Misc.
 #  
 #### SessionID: 28925
 # Let Service Broker Help You Scale Your Application
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Allen White
 ## Title: Let Service Broker Help You Scale Your Application
@@ -62,7 +62,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 28926
 # Automate Policy-Based Management using PowerShell
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Allen White
 ## Title: Automate Policy-Based Management using PowerShell
@@ -71,7 +71,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 29373
 # Intro to SSRS
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Chris Albrektson
 ## Title: Intro to SSRS
@@ -80,7 +80,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 29520
 # High Availability features in the NEXT SQL Server
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Misc.
 ## Speaker: Chris Skorlinski
 ## Title: High Availability features in the NEXT SQL Server
@@ -89,7 +89,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Misc.
 #  
 #### SessionID: 29522
 # Transactional Replication – Follow the Data
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Chris Skorlinski
 ## Title: Transactional Replication – Follow the Data
@@ -98,7 +98,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 29674
 # Add It Up: Analysis Services Aggregations
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Craig Utley
 ## Title: Add It Up: Analysis Services Aggregations
@@ -107,7 +107,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 29675
 # Secure SSAS Data Without Tying Yourself in Knots
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Craig Utley
 ## Title: Secure SSAS Data Without Tying Yourself in Knots
@@ -116,7 +116,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 29714
 # Get Ready for SSIS in Denali!
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Misc.
 ## Speaker: Dave Fackler
 ## Title: Get Ready for SSIS in Denali!
@@ -125,7 +125,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Misc.
 #  
 #### SessionID: 29715
 # Understanding SSIS Performance
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Dave Fackler
 ## Title: Understanding SSIS Performance
@@ -134,7 +134,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 30020
 # What Counts For a DBA
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Misc.
 ## Speaker: Louis Davidson
 ## Title: What Counts For a DBA
@@ -144,7 +144,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Misc.
 #  
 #### SessionID: 30158
 # TempDB Performance Troubleshooting and Optimizing
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Eddie Wuerch
 ## Title: TempDB Performance Troubleshooting and Optimizing
@@ -153,7 +153,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 30159
 # Page Latches for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Eddie Wuerch
 ## Title: Page Latches for Mere Mortals
@@ -162,7 +162,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 30918
 # SQL Server Performance Monitoring
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Joe Ferry
 ## Title: SQL Server Performance Monitoring
@@ -171,7 +171,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 30995
 # Exploring Data Privacy
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: John Magnabosco
 ## Title: Exploring Data Privacy
@@ -180,7 +180,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 32625
 # T-SQL Alphabet Soup
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Rodney Landrum
 ## Title: T-SQL Alphabet Soup
@@ -190,7 +190,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 32793
 # The 4-hour DBA: Automate, Audit and Relax
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Sarah Barela
 ## Title: The 4-hour DBA: Automate, Audit and Relax
@@ -199,7 +199,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 32962
 # Database design for developers
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Shannon Lowder
 ## Title: Database design for developers
@@ -208,7 +208,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 33060
 # Monitoring Databases in a Virtual Environment
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Thomas LaRock
 ## Title: Monitoring Databases in a Virtual Environment
@@ -217,7 +217,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 33396
 # SQL Server Memory Deep Dive
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Kevin Boles
 ## Title: SQL Server Memory Deep Dive
@@ -226,7 +226,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 33398
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -235,7 +235,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 33621
 # Writing faster queries
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Advanced DBA
 ## Speaker: Tim Chapman
 ## Title: Writing faster queries
@@ -244,7 +244,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Advanced DBA
 #  
 #### SessionID: 33622
 # Choose Your Own Adventure:  Performance Tuning
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Tim Chapman
 ## Title: Choose Your Own Adventure:  Performance Tuning
@@ -253,7 +253,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 33669
 # The Periodic Table of Dynamic Management Objects
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Misc.
 ## Speaker: Tim Ford
 ## Title: The Periodic Table of Dynamic Management Objects
@@ -262,7 +262,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Misc.
 #  
 #### SessionID: 33820
 # Introduction to Common Table Expressions
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Vicky Harp
 ## Title: Introduction to Common Table Expressions
@@ -271,7 +271,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 33871
 # Table Vars and Temp Tables - What you NEED to Know
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars and Temp Tables - What you NEED to Know
@@ -280,7 +280,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 34107
 # Beyond Plateaux: Optimize SSAS with Best Practices
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: William E Pearson III
 ## Title: Beyond Plateaux: Optimize SSAS with Best Practices
@@ -289,7 +289,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 34113
 # Serene Velocity: Reporting Services and SSAS Data
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: William E Pearson III
 ## Title: Serene Velocity: Reporting Services and SSAS Data
@@ -298,7 +298,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 34698
 # T-SQL in Denali
-#### [Back to calendar](#SQLSaturday-#87---Louisville-2011)
+#### [Back to calendar](#SQLSaturday-#87-Louisville-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Misc.
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL in Denali

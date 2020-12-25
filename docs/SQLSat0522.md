@@ -47,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 45541
 # Why do I need Analysis Services?
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Labry
 ## Title: Why do I need Analysis Services?
@@ -56,7 +56,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 46799
 # Kids Camp
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Other
 ## Speaker: Devin Knight
 ## Title: Kids Camp
@@ -72,7 +72,7 @@ An Adult must remain on campus at SQL Saturday during the day.
 #  
 #### SessionID: 48501
 # A SQL Developer’s Guide to MDX Basics
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shabnam Watson
 ## Title: A SQL Developer’s Guide to MDX Basics
@@ -84,7 +84,7 @@ In this session you will explore how data is organized in SSAS in a data structu
 #  
 #### SessionID: 48901
 # More than Just a basic Database Backup and Recovery
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Daniel Taylor
 ## Title: More than Just a basic Database Backup and Recovery
@@ -93,7 +93,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49036
 # Breaking into the Azure-PowerBI World
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Schneider
 ## Title: Breaking into the Azure-PowerBI World
@@ -107,7 +107,7 @@ This set of knowledge can help you in your career planning, and if nothing else,
 #  
 #### SessionID: 49092
 # Designing a Data Warehouse from the Ground Up
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dustin Ryan
 ## Title: Designing a Data Warehouse from the Ground Up
@@ -116,7 +116,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 49169
 # Step by Step - How to Build World Class Data Culture
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Adam Jorgensen
 ## Title: Step by Step - How to Build World Class Data Culture
@@ -125,7 +125,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 49308
 # Azure Machine Learning with Stock Data
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Alexey Bogomolov
 ## Title: Azure Machine Learning with Stock Data
@@ -134,7 +134,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 45631
 # Parent, Child development Using SSIS Framework
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Jorge Novo
 ## Title: Parent, Child development Using SSIS Framework
@@ -143,7 +143,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 46128
 # Index Sql Server databases for high performance
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Valentin Iamandi
 ## Title: Index Sql Server databases for high performance
@@ -161,7 +161,7 @@ Bonus: Update only necessary statistics using Ola Hallengren Index Optimize spro
 #  
 #### SessionID: 48931
 # From Non-Technical to Fully Employed Technical:  The Road Less Traveled.
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Susan Schneider
 ## Title: From Non-Technical to Fully Employed Technical:  The Road Less Traveled.
@@ -175,7 +175,7 @@ Three foundation bricks for your technical base:
 #  
 #### SessionID: 49168
 # The Future of the Data Professional
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Adam Jorgensen
 ## Title: The Future of the Data Professional
@@ -184,7 +184,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 49256
 # Building your First Cube with SSAS
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Chris Albrektson
 ## Title: Building your First Cube with SSAS
@@ -193,7 +193,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 49269
 # SSIS Destination Fast
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael Mollenhour
 ## Title: SSIS Destination Fast
@@ -202,7 +202,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 49352
 # Database Security Permissions ( you don't need to grant SA )
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Scott Gleason
 ## Title: Database Security Permissions ( you don't need to grant SA )
@@ -211,7 +211,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45962
 # SS2014/2016 In-Memory Tables:  Formula 1 Performance Unleashed!
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SS2014/2016 In-Memory Tables:  Formula 1 Performance Unleashed!
@@ -226,7 +226,7 @@ After this session you will
 #  
 #### SessionID: 48205
 # Database Projects: An Introduction
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Jonathon Moorman
 ## Title: Database Projects: An Introduction
@@ -235,7 +235,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 48753
 # Advanced T-SQL for BI Developers
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Mitchell Pearson
 ## Title: Advanced T-SQL for BI Developers
@@ -244,7 +244,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 49105
 # Inside the Query Optimizer
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bradley Ball
 ## Title: Inside the Query Optimizer
@@ -253,7 +253,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49342
 # Changing Inline Dynamic SQL Statements To Stored Procedures
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Jeff Taylor
 ## Title: Changing Inline Dynamic SQL Statements To Stored Procedures
@@ -262,7 +262,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 49363
 # Introduction to Azure Data Factory Service
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Alan Faulkner
 ## Title: Introduction to Azure Data Factory Service
@@ -274,7 +274,7 @@ In this session, we will review key concepts associated with Azure Data Factory 
 #  
 #### SessionID: 45606
 # Indexing your Data Warehouse
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Troy Gallant
 ## Title: Indexing your Data Warehouse
@@ -283,7 +283,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46087
 # Data Migration Using BIML
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Feasel
 ## Title: Data Migration Using BIML
@@ -292,7 +292,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 49095
 # Advanced Power BI: Solving the Hard Problems
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Devin Knight
 ## Title: Advanced Power BI: Solving the Hard Problems
@@ -301,7 +301,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 49253
 # .NET for Data Professionals
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Robert Biddle
 ## Title: .NET for Data Professionals
@@ -312,7 +312,7 @@ No .NET experience is needed for this session. Basic understanding of programmin
 #  
 #### SessionID: 49331
 # What's new in Reporting Services 2016
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Brad Gall
 ## Title: What's new in Reporting Services 2016
@@ -321,7 +321,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 49359
 # Enterprise Machine Learning with R and SQL Server
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Paco Gonzalez
 ## Title: Enterprise Machine Learning with R and SQL Server
@@ -330,7 +330,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 50176
 # SQL 2012  2014 Extended Events
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gareth Swanepoel
 ## Title: SQL 2012  2014 Extended Events
@@ -339,7 +339,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45859
 # SQL Server Storage Engine under the hood 
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: SQL Server Storage Engine under the hood 
@@ -354,7 +354,7 @@ Which I/O Subsystems (including SSD) are best for which type of data and what's 
 #  
 #### SessionID: 46813
 # Intelligent Indexing
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Arvin Meyer
 ## Title: Intelligent Indexing
@@ -363,7 +363,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 47008
 # Availability Groups:  Monitoring and Alerting
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Availability Groups:  Monitoring and Alerting
@@ -375,7 +375,7 @@ We will look at the DMVs, extended event sessions, perfmon counters, SQL agent j
 #  
 #### SessionID: 48116
 # Accelerating Batch Processing with Apache Spark
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rowland Gosling
 ## Title: Accelerating Batch Processing with Apache Spark
@@ -384,7 +384,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 49104
 # BI DBA Performance Tuning
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bradley Ball
 ## Title: BI DBA Performance Tuning
@@ -393,7 +393,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 49554
 # Introduction to the R programming language
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Keith Seedorf
 ## Title: Introduction to the R programming language
@@ -402,7 +402,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 50175
 # What’s New in SQL Server 2016 ?
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gareth Swanepoel
 ## Title: What’s New in SQL Server 2016 ?
@@ -411,7 +411,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48142
 # The Business Intelligence Side of SQL Server
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Sayed Saeed
 ## Title: The Business Intelligence Side of SQL Server
@@ -420,7 +420,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 48315
 # Building Defense in Depth Using the Full Spectrum of SQL Server Encryption
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Keleher
 ## Title: Building Defense in Depth Using the Full Spectrum of SQL Server Encryption
@@ -429,7 +429,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48387
 # SSIS Performance Tuning
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shawn Harrison
 ## Title: SSIS Performance Tuning
@@ -438,7 +438,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 48796
 # Mastering the Technology Interview
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Mike Davis
 ## Title: Mastering the Technology Interview
@@ -447,7 +447,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 49343
 # What's New In SQL Server 2012/2014/2016 For The Developer
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Jeff Taylor
 ## Title: What's New In SQL Server 2012/2014/2016 For The Developer
@@ -456,7 +456,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 49365
 # SSAS Design and Performance Best Practices
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Alan Faulkner
 ## Title: SSAS Design and Performance Best Practices
@@ -465,7 +465,7 @@ Event Date: 07-05-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 50167
 # Automated Cancer Detection with Deep Learning
-#### [Back to calendar](#SQLSaturday-#522---Jacksonville-2016)
+#### [Back to calendar](#SQLSaturday-#522-Jacksonville-2016)
 Event Date: 07-05-2016 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Matt Berseth
 ## Title: Automated Cancer Detection with Deep Learning

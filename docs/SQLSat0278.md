@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10564
 # Load Testing Analysis Services
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 04 BI Track
 ## Speaker: Bob Duffy
 ## Title: Load Testing Analysis Services
@@ -38,7 +38,7 @@ Sample source code will be supplied to help you load test analysis services. We 
 #  
 #### SessionID: 10924
 # The nightmare of locking, blocking and isolation levels!
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 02 Data Platform Track 1
 ## Speaker: Boris Hristov
 ## Title: The nightmare of locking, blocking and isolation levels!
@@ -47,7 +47,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 02 Data Platform Track 
 #  
 #### SessionID: 13526
 # Optimizing Temporal Queries
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 03 Data Platform Track 2
 ## Speaker: Dejan Sarka
 ## Title: Optimizing Temporal Queries
@@ -56,7 +56,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 03 Data Platform Track 
 #  
 #### SessionID: 13923
 # SQL Server and Transactional Replication - senkit sem hagy hidegen
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 01 Magyar nyelvu szekcio
 ## Speaker: Erik Bitemo
 ## Title: SQL Server and Transactional Replication - senkit sem hagy hidegen
@@ -67,7 +67,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 01 Magyar nyelvu szekci
 #  
 #### SessionID: 14186
 # Using Fusion ioMemory to leverage SQL Server 2014 features: Buffer Pool Extension and In-memory OLTP
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 02 Data Platform Track 1
 ## Speaker: Francois-Manuel Billault
 ## Title: Using Fusion ioMemory to leverage SQL Server 2014 features: Buffer Pool Extension and In-memory OLTP
@@ -76,7 +76,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 02 Data Platform Track 
 #  
 #### SessionID: 14934
 # A jó index scan, a rossz index seek avagy hogyan olvassunk végrehajtási tervet
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 01 Magyar nyelvu szekcio
 ## Speaker: Zoltán Hangyál
 ## Title: A jó index scan, a rossz index seek avagy hogyan olvassunk végrehajtási tervet
@@ -85,7 +85,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 01 Magyar nyelvu szekci
 #  
 #### SessionID: 15304
 # Dynamic code for efficient searching 
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 02 Data Platform Track 1
 ## Speaker: Ian Meade
 ## Title: Dynamic code for efficient searching 
@@ -94,7 +94,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 02 Data Platform Track 
 #  
 #### SessionID: 15752
 # T-SQL hibakezelés a gyakorlatban 
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 01 Magyar nyelvu szekcio
 ## Speaker: Janos Berke
 ## Title: T-SQL hibakezelés a gyakorlatban 
@@ -111,7 +111,7 @@ A prezentáció nagy hangsúlyt feketet a demókra, inkább gyakorlati, mint sem
 #  
 #### SessionID: 16398
 # Let's PowerBI Hungary with Big Data!
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 04 BI Track
 ## Speaker: Jen Stirrup
 ## Title: Let's PowerBI Hungary with Big Data!
@@ -120,7 +120,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 04 BI Track
 #  
 #### SessionID: 18673
 # Azure SQL Database Tips and Tricks for Beginners
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 02 Data Platform Track 1
 ## Speaker: Tobias Koprowski
 ## Title: Azure SQL Database Tips and Tricks for Beginners
@@ -129,7 +129,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 02 Data Platform Track 
 #  
 #### SessionID: 19457
 # Stored procedures — facts and myths
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 03 Data Platform Track 2
 ## Speaker: Marcin Szeliga
 ## Title: Stored procedures — facts and myths
@@ -143,7 +143,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 03 Data Platform Track 
 #  
 #### SessionID: 20311
 # Entity Framework 6 New Features
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 02 Data Platform Track 1
 ## Speaker: Mihail Mateev
 ## Title: Entity Framework 6 New Features
@@ -152,7 +152,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 02 Data Platform Track 
 #  
 #### SessionID: 20749
 # SQL Server 2014 - New Cardinality Estimator
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 03 Data Platform Track 2
 ## Speaker: Miloš Radivojević
 ## Title: SQL Server 2014 - New Cardinality Estimator
@@ -163,7 +163,7 @@ This session will answers all these questions and will demonstrate new query pro
 #  
 #### SessionID: 21999
 # Mastering the Excel CUBE Functions
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 04 BI Track
 ## Speaker: Peter Myers
 ## Title: Mastering the Excel CUBE Functions
@@ -172,7 +172,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 04 BI Track
 #  
 #### SessionID: 22002
 # Introduction to SQL Server 2012 MDS and DQS
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 04 BI Track
 ## Speaker: Peter Myers
 ## Title: Introduction to SQL Server 2012 MDS and DQS
@@ -185,7 +185,7 @@ DQS is a new knowledge-driven data cleansing solution, and it supports building 
 #  
 #### SessionID: 22179
 # Remodel your old EAV design
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 03 Data Platform Track 2
 ## Speaker: Peter Larsson
 ## Title: Remodel your old EAV design
@@ -198,7 +198,7 @@ There will be real life examples from a recent project. With the techniques disp
 #  
 #### SessionID: 22220
 # Data for everyone with Power BI! The role of the data stewards and analysts inside the organization
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 01 Magyar nyelvu szekcio
 ## Speaker: Tamás Polner
 ## Title: Data for everyone with Power BI! The role of the data stewards and analysts inside the organization
@@ -207,7 +207,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 01 Magyar nyelvu szekci
 #  
 #### SessionID: 26412
 # Windowing Functions: THE Reason to Upgrade to 2012
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 02 Data Platform Track 1
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012
@@ -216,7 +216,7 @@ Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 02 Data Platform Track 
 #  
 #### SessionID: 27226
 # SQL Server in motion - Page Splits
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 03 Data Platform Track 2
 ## Speaker: Uwe Ricken
 ## Title: SQL Server in motion - Page Splits
@@ -227,7 +227,7 @@ So FUN should be the primaray target but step by step the audience will get fami
 #  
 #### SessionID: 27355
 # Adatbányászat SQL Server Analysis Services-el
-#### [Back to calendar](#SQLSaturday-#278---Budapest-2014)
+#### [Back to calendar](#SQLSaturday-#278-Budapest-2014)
 Event Date: 01-03-2014 - Session time: 00:00:00 - Track: 01 Magyar nyelvu szekcio
 ## Speaker: Balázs Farkas
 ## Title: Adatbányászat SQL Server Analysis Services-el

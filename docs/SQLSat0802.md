@@ -48,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 83477
 # How to Maintain the Same Level of Utilities in Cloud Deployments - Securability, Reliability and Sca
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Denny Cherry
 ## Title: How to Maintain the Same Level of Utilities in Cloud Deployments - Securability, Reliability and Sca
@@ -57,7 +57,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83533
 # Azure for SQL Server Professionals - Get your head in the Cloud
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Armando Lacerda
 ## Title: Azure for SQL Server Professionals - Get your head in the Cloud
@@ -66,7 +66,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 83550
 # Impostor Syndrome: Are You Faking It  Will they Find Out?
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Mindy Curnutt
 ## Title: Impostor Syndrome: Are You Faking It  Will they Find Out?
@@ -75,7 +75,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 83888
 # Foundations of a Data Driven Organization
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Andrew Karcher
 ## Title: Foundations of a Data Driven Organization
@@ -86,7 +86,7 @@ As you might imagine it is a little bit more complicated that just saying the wo
 #  
 #### SessionID: 84419
 # Columnstore Index Primer
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sepand Gojgini
 ## Title: Columnstore Index Primer
@@ -95,7 +95,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 84477
 # The Art and Science of Designing a Mission Critical SQL Server
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Maxwell Myrick
 ## Title: The Art and Science of Designing a Mission Critical SQL Server
@@ -106,7 +106,7 @@ While you may not be able to revisit your current designs right away, what you l
 #  
 #### SessionID: 85198
 # Introduction to DAX
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Ike Ellis
 ## Title: Introduction to DAX
@@ -115,7 +115,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 85389
 # [StepbyStep] SQL server Index operation for beginner to expert.
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Simon Cho
 ## Title: [StepbyStep] SQL server Index operation for beginner to expert.
@@ -132,7 +132,7 @@ This presentation would very help not only who does not know index but also, who
 #  
 #### SessionID: 83492
 # Save Time and Resources - Performance Tuning Strategies
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Jeff Prom
 ## Title: Save Time and Resources - Performance Tuning Strategies
@@ -141,7 +141,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 83622
 # Introduction to Linux for SQL Server
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jay Falck
 ## Title: Introduction to Linux for SQL Server
@@ -150,7 +150,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84103
 # Much Ado About Hadoop
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
@@ -159,7 +159,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 84479
 # Power BI Dashboard - Creating End to End Solutions
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Suresh Datla
 ## Title: Power BI Dashboard - Creating End to End Solutions
@@ -169,7 +169,7 @@ Accessing data, Data preparation, and cleansing, consuming the data for reports 
 #  
 #### SessionID: 85126
 # Introduction to SQL Server Reporting Services
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Ted Stathakis
 ## Title: Introduction to SQL Server Reporting Services
@@ -183,7 +183,7 @@ You will leave this session able to return to the office and present meaningful 
 #  
 #### SessionID: 85209
 # SSIS Deployment Smackdown! Package vs. Project!
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Peter Kral
 ## Title: SSIS Deployment Smackdown! Package vs. Project!
@@ -192,7 +192,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 85331
 # Choosing a Career Path in Database Technologies
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Ben Aminnia
 ## Title: Choosing a Career Path in Database Technologies
@@ -204,7 +204,7 @@ What is the future for each of these career paths and why is this an important q
 #  
 #### SessionID: 85502
 # A Week in the Life of a Data Scientist
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Data Science, Analytics and Visualization
 ## Speaker: Dustin Vannoy
 ## Title: A Week in the Life of a Data Scientist
@@ -221,7 +221,7 @@ The session will walk through the building of a predictive model for a retail ap
 #  
 #### SessionID: 85419
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
@@ -230,7 +230,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 85805
 # The role of the DBA in Compliant Database DevOps
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Arneh Eskandari
 ## Title: The role of the DBA in Compliant Database DevOps
@@ -248,7 +248,7 @@ Gain an understanding of the state of databases that are being deployed against
 #  
 #### SessionID: 85956
 # Database Migration to Cloud with Zero Downtime
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Susan Wong
 ## Title: Database Migration to Cloud with Zero Downtime
@@ -261,7 +261,7 @@ Learn about:
 #  
 #### SessionID: 83473
 # SQL Server Database Administration for the non-DBA
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Denny Cherry
 ## Title: SQL Server Database Administration for the non-DBA
@@ -272,7 +272,7 @@ While this session won't teach you everything you need to know, it will give you
 #  
 #### SessionID: 83534
 # DBA vNext
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Armando Lacerda
 ## Title: DBA vNext
@@ -285,7 +285,7 @@ In this session full of demos, we will discuss what it takes to be an all-rounde
 #  
 #### SessionID: 83549
 # The Ins and Outs of SQL Indexes
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: The Ins and Outs of SQL Indexes
@@ -294,7 +294,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 84056
 # Hands on Data Science Tutorial
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Data Science, Analytics and Visualization
 ## Speaker: Zia Khan
 ## Title: Hands on Data Science Tutorial
@@ -303,7 +303,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Data Science, Analytics
 #  
 #### SessionID: 84476
 # SQL Server Then and Now: Changing the State of Long-held Beliefs
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Maxwell Myrick
 ## Title: SQL Server Then and Now: Changing the State of Long-held Beliefs
@@ -312,7 +312,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85199
 # SSIS Basics
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Brodie Brickey
 ## Title: SSIS Basics
@@ -321,7 +321,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 85620
 # Dive into the Query Optimizer - Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer - Undocumented Insight
@@ -330,7 +330,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 85722
 # Use SQL Server 2017 Features in Your Older SQL Server Versions
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mike Burek
 ## Title: Use SQL Server 2017 Features in Your Older SQL Server Versions
@@ -344,7 +344,7 @@ Come see examples of incorporating all these features into your workload to incr
 #  
 #### SessionID: 83816
 # Locks, Blocks, and Deadlocks, Oh My!
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Randy Knight
 ## Title: Locks, Blocks, and Deadlocks, Oh My!
@@ -355,7 +355,7 @@ In this session targeted at the accidental or new DBA, we will walk through each
 #  
 #### SessionID: 84104
 # R For the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Data Science, Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
@@ -364,7 +364,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Data Science, Analytics
 #  
 #### SessionID: 84501
 # Delivering Business Value Faster
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Adam Anderson
 ## Title: Delivering Business Value Faster
@@ -373,7 +373,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 84680
 # Database Corruption! Preventing Disaster to your Database.
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Mlakar
 ## Title: Database Corruption! Preventing Disaster to your Database.
@@ -386,7 +386,7 @@ Beginners will benefit along with others who may one day find themselves with a 
 #  
 #### SessionID: 85200
 # Data Driven Subscription Reports with SSRS Standard Edition
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Brodie Brickey
 ## Title: Data Driven Subscription Reports with SSRS Standard Edition
@@ -395,7 +395,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 85248
 # SQL Server Integration Services (SSIS) - hate to love it or love to hate it?
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Steve Rezhener
 ## Title: SQL Server Integration Services (SSIS) - hate to love it or love to hate it?
@@ -404,7 +404,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 85608
 # What just happened? Creating your own real-time dashboard with Grafana, Influx, and Telegraf.
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Information Delivery
 ## Speaker: Patrick Partin
 ## Title: What just happened? Creating your own real-time dashboard with Grafana, Influx, and Telegraf.
@@ -415,7 +415,7 @@ In this session, I'll show you how to install, configure, and build your own das
 #  
 #### SessionID: 85622
 # Understanding Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
@@ -424,7 +424,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 83815
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -433,7 +433,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 84481
 # Azure Intelligent Services
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Data Science, Analytics and Visualization
 ## Speaker: Amie Mason
 ## Title: Azure Intelligent Services
@@ -442,7 +442,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Data Science, Analytics
 #  
 #### SessionID: 84679
 # Environmental SQL Server Troubleshooting
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Mlakar
 ## Title: Environmental SQL Server Troubleshooting
@@ -453,7 +453,7 @@ In this session we will discuss both performance pitfalls and optimizations that
 #  
 #### SessionID: 85127
 # Reporting Services 2016: New Features  Smart Migration Strategy
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services 2016: New Features  Smart Migration Strategy
@@ -464,7 +464,7 @@ The session will then dive into how to use the data in the ReportServer database
 #  
 #### SessionID: 85208
 # SSIS Project Deployment: The T-SQL Way
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Kral
 ## Title: SSIS Project Deployment: The T-SQL Way
@@ -477,7 +477,7 @@ You should have previous experience with SQL Server Integration Services (SSIS) 
 #  
 #### SessionID: 85585
 # The Secrets of Partitioning
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Eddie Maloney
 ## Title: The Secrets of Partitioning
@@ -486,7 +486,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 85719
 # Basic Windowing Functions
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mike Burek
 ## Title: Basic Windowing Functions
@@ -495,7 +495,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 85725
 # SQL Security, Encryption,  Compliance
-#### [Back to calendar](#SQLSaturday-#802---San-Diego-2018)
+#### [Back to calendar](#SQLSaturday-#802-San-Diego-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Hull
 ## Title: SQL Security, Encryption,  Compliance

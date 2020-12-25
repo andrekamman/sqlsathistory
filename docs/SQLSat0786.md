@@ -16,7 +16,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 85739
 # End to End Power BI Workshop - Part1
-#### [Back to calendar](#SQLSaturday-#786---Puerto-Rico-2018)
+#### [Back to calendar](#SQLSaturday-#786-Puerto-Rico-2018)
 Event Date: 06-10-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Jose L. Rivera
 ## Title: End to End Power BI Workshop - Part1
@@ -37,7 +37,7 @@ Power BI Administration
 #  
 #### SessionID: 85740
 # End to End Power BI Workshop - Part2
-#### [Back to calendar](#SQLSaturday-#786---Puerto-Rico-2018)
+#### [Back to calendar](#SQLSaturday-#786-Puerto-Rico-2018)
 Event Date: 06-10-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Jose L. Rivera
 ## Title: End to End Power BI Workshop - Part2
@@ -58,7 +58,7 @@ Power BI Administration
 #  
 #### SessionID: 82684
 # Migrations 101
-#### [Back to calendar](#SQLSaturday-#786---Puerto-Rico-2018)
+#### [Back to calendar](#SQLSaturday-#786-Puerto-Rico-2018)
 Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gilda Alvarez
 ## Title: Migrations 101
@@ -67,7 +67,7 @@ Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 86144
 # Converting images into information with Artificial Intelligence
-#### [Back to calendar](#SQLSaturday-#786---Puerto-Rico-2018)
+#### [Back to calendar](#SQLSaturday-#786-Puerto-Rico-2018)
 Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Isaias Martinez
 ## Title: Converting images into information with Artificial Intelligence
@@ -76,7 +76,7 @@ Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 85738
 # Getting Started with Azure DataBricks
-#### [Back to calendar](#SQLSaturday-#786---Puerto-Rico-2018)
+#### [Back to calendar](#SQLSaturday-#786-Puerto-Rico-2018)
 Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jose L. Rivera
 ## Title: Getting Started with Azure DataBricks
@@ -85,7 +85,7 @@ Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 85832
 # Power BI Dataset monitoring tool
-#### [Back to calendar](#SQLSaturday-#786---Puerto-Rico-2018)
+#### [Back to calendar](#SQLSaturday-#786-Puerto-Rico-2018)
 Event Date: 06-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joan Manuel Pérez
 ## Title: Power BI Dataset monitoring tool
@@ -94,7 +94,7 @@ Event Date: 06-10-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 85900
 # Azure CosmoDB Globalizing Your Data
-#### [Back to calendar](#SQLSaturday-#786---Puerto-Rico-2018)
+#### [Back to calendar](#SQLSaturday-#786-Puerto-Rico-2018)
 Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Juan Martí
 ## Title: Azure CosmoDB Globalizing Your Data
@@ -103,7 +103,7 @@ Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 85989
 # Data Visualization Best Practices
-#### [Back to calendar](#SQLSaturday-#786---Puerto-Rico-2018)
+#### [Back to calendar](#SQLSaturday-#786-Puerto-Rico-2018)
 Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Orlando Mezquita
 ## Title: Data Visualization Best Practices
@@ -112,7 +112,7 @@ Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 85737
 # SQL Server 2017: SSIS Scale Out
-#### [Back to calendar](#SQLSaturday-#786---Puerto-Rico-2018)
+#### [Back to calendar](#SQLSaturday-#786-Puerto-Rico-2018)
 Event Date: 06-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose L. Rivera
 ## Title: SQL Server 2017: SSIS Scale Out
@@ -121,7 +121,7 @@ Event Date: 06-10-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 85828
 # Building a data warehouse in the cloud and its new challenges
-#### [Back to calendar](#SQLSaturday-#786---Puerto-Rico-2018)
+#### [Back to calendar](#SQLSaturday-#786-Puerto-Rico-2018)
 Event Date: 06-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Edwin Torres
 ## Title: Building a data warehouse in the cloud and its new challenges
@@ -132,7 +132,7 @@ We will discuss how to decide if this cloud-based massively parallel processing 
 #  
 #### SessionID: 85899
 # Smart ways to consume your data with LUIS.AI
-#### [Back to calendar](#SQLSaturday-#786---Puerto-Rico-2018)
+#### [Back to calendar](#SQLSaturday-#786-Puerto-Rico-2018)
 Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Juan Martí
 ## Title: Smart ways to consume your data with LUIS.AI

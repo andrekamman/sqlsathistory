@@ -54,7 +54,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10449
 # 2012 TSQL Sweets
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 214
 ## Speaker: Bill Fellows
 ## Title: 2012 TSQL Sweets
@@ -63,7 +63,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 214
 #  
 #### SessionID: 10521
 # Fast and Flexible Applications with Better Database Design
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 218
 ## Speaker: Bill Lescher
 ## Title: Fast and Flexible Applications with Better Database Design
@@ -72,7 +72,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 218
 #  
 #### SessionID: 10740
 # How to Think Like the Engine
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 116
 ## Speaker: Brent Ozar
 ## Title: How to Think Like the Engine
@@ -81,7 +81,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 116
 #  
 #### SessionID: 10741
 # Real-Life SQL 2012 and 2014 Availability Group Deployments
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 216
 ## Speaker: Brent Ozar
 ## Title: Real-Life SQL 2012 and 2014 Availability Group Deployments
@@ -90,7 +90,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 216
 #  
 #### SessionID: 10770
 # Database Unit Testing
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 116
 ## Speaker: Brian Beswick
 ## Title: Database Unit Testing
@@ -99,7 +99,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 116
 #  
 #### SessionID: 11778
 # SQL Audit - auditing doesn't have to be boring
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 214
 ## Speaker: Colleen Morrow
 ## Title: SQL Audit - auditing doesn't have to be boring
@@ -108,7 +108,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 214
 #  
 #### SessionID: 12247
 # Achievement Unlocked: How to Get Promoted
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 219
 ## Speaker: Dave Mattingly
 ## Title: Achievement Unlocked: How to Get Promoted
@@ -119,7 +119,7 @@ In this session, you'll learn how to promote yourself, how to speak confidently,
 #  
 #### SessionID: 12506
 # SQL Server Virtualization 101
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 116
 ## Speaker: David Klee
 ## Title: SQL Server Virtualization 101
@@ -128,7 +128,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 116
 #  
 #### SessionID: 12507
 # Squeezing Top Performance from Your Virtualized SQL Server
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 216
 ## Speaker: David Klee
 ## Title: Squeezing Top Performance from Your Virtualized SQL Server
@@ -137,7 +137,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 216
 #  
 #### SessionID: 13304
 # DBA 911 - Database Corruption
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 214
 ## Speaker: David Maxwell
 ## Title: DBA 911 - Database Corruption
@@ -147,7 +147,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 214
 #  
 #### SessionID: 13676
 # SQL Server Features That Will Blow Your Mind!
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 117
 ## Speaker: Ed Leighton-Dick
 ## Title: SQL Server Features That Will Blow Your Mind!
@@ -156,7 +156,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 117
 #  
 #### SessionID: 13894
 # Working with Data in Windows Azure
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 215
 ## Speaker: Eric D. Boyd
 ## Title: Working with Data in Windows Azure
@@ -165,7 +165,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 215
 #  
 #### SessionID: 14774
 # Best Practices for Database Deployment
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 215
 ## Speaker: Grant Fritchey
 ## Title: Best Practices for Database Deployment
@@ -177,7 +177,7 @@ The difference between a successful deployment and a failed or problematic deplo
 #  
 #### SessionID: 14926
 # Introduction to Big Data
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 117
 ## Speaker: Haidong Ji
 ## Title: Introduction to Big Data
@@ -188,7 +188,7 @@ In this session, I will talk about some use cases of Big Data and the technologi
 #  
 #### SessionID: 15000
 # Spatial Data: Cooler Than You'd Think!
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 214
 ## Speaker: Hope Foley
 ## Title: Spatial Data: Cooler Than You'd Think!
@@ -197,7 +197,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 214
 #  
 #### SessionID: 15555
 # PowerShell and SQLPSX the Dynamic Duo for the DBA
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 215
 ## Speaker: Jim Dorame
 ## Title: PowerShell and SQLPSX the Dynamic Duo for the DBA
@@ -211,7 +211,7 @@ PowerShell and SQLPSX can benefit you.
 #  
 #### SessionID: 15965
 # Managing SQL Server Performance with Extended Events
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 219
 ## Speaker: Jason Strate
 ## Title: Managing SQL Server Performance with Extended Events
@@ -220,7 +220,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 219
 #  
 #### SessionID: 15966
 # 5 Ways to Improve Performance through Indexing
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 217
 ## Speaker: Jason Strate
 ## Title: 5 Ways to Improve Performance through Indexing
@@ -229,7 +229,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 217
 #  
 #### SessionID: 16157
 # The Modern Analytics Architecture
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 117
 ## Speaker: Joseph D'Antoni
 ## Title: The Modern Analytics Architecture
@@ -238,7 +238,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 117
 #  
 #### SessionID: 16158
 # In-Memory Columnstore Indexes--Make Your Data Warehouse Fly 
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 217
 ## Speaker: Joseph D'Antoni
 ## Title: In-Memory Columnstore Indexes--Make Your Data Warehouse Fly 
@@ -247,7 +247,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 217
 #  
 #### SessionID: 16373
 # Master Data Services
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 218
 ## Speaker: Jeff Prom
 ## Title: Master Data Services
@@ -256,7 +256,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 218
 #  
 #### SessionID: 18849
 # Database Development using SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 218
 ## Speaker: Ken Stuber
 ## Title: Database Development using SQL Server Data Tools
@@ -265,7 +265,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 218
 #  
 #### SessionID: 18925
 # How to properly gather performance counter data using Windows PowerShell
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 215
 ## Speaker: Laerte Junior
 ## Title: How to properly gather performance counter data using Windows PowerShell
@@ -274,7 +274,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 215
 #  
 #### SessionID: 19190
 # Choose Your Geospatial Mapping Adventure
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 218
 ## Speaker: Meagan Longoria
 ## Title: Choose Your Geospatial Mapping Adventure
@@ -283,7 +283,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 218
 #  
 #### SessionID: 19653
 # MDX Trek: First Contact
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 217
 ## Speaker: Mark Vaillancourt
 ## Title: MDX Trek: First Contact
@@ -292,7 +292,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 217
 #  
 #### SessionID: 19654
 # DANGER: The Art and Science of Presenting
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 116
 ## Speaker: Mark Vaillancourt
 ## Title: DANGER: The Art and Science of Presenting
@@ -301,7 +301,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 116
 #  
 #### SessionID: 20067
 # Eureka! Visual deep dive into storage internals
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 217
 ## Speaker: Merrill Aldrich
 ## Title: Eureka! Visual deep dive into storage internals
@@ -310,7 +310,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 217
 #  
 #### SessionID: 20976
 # PowerPivot and Excel Reporting
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 218
 ## Speaker: Melissa Meyer
 ## Title: PowerPivot and Excel Reporting
@@ -319,7 +319,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 218
 #  
 #### SessionID: 21130
 # Extending SQL Server with Advanced Analytics and R
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 215
 ## Speaker: Michael Schulte
 ## Title: Extending SQL Server with Advanced Analytics and R
@@ -328,7 +328,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 215
 #  
 #### SessionID: 23454
 # Take SQL Server performance to the next level with SQL 2014 in-memory OLTP
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 116
 ## Speaker: Ross LoForte
 ## Title: Take SQL Server performance to the next level with SQL 2014 in-memory OLTP
@@ -337,7 +337,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 116
 #  
 #### SessionID: 24306
 # How to baseline performance for SQL Server 
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 117
 ## Speaker: Luke Jian
 ## Title: How to baseline performance for SQL Server 
@@ -346,7 +346,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 117
 #  
 #### SessionID: 24594
 # Designing a Restore Strategy
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 214
 ## Speaker: Frank Gill
 ## Title: Designing a Restore Strategy
@@ -357,7 +357,7 @@ For the answers to these questions and a whole lot more about database restores,
 #  
 #### SessionID: 24643
 # Introducing Power BI
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 217
 ## Speaker: Stacia Varga
 ## Title: Introducing Power BI
@@ -366,7 +366,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 217
 #  
 #### SessionID: 24836
 # Pig\Hive - All That's New is Old Again
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 117
 ## Speaker: Scott Shaw
 ## Title: Pig\Hive - All That's New is Old Again
@@ -375,7 +375,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 117
 #  
 #### SessionID: 24880
 # Every Byte Counts: Why Your Data Type Choices Matter
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 219
 ## Speaker: Andy Yun
 ## Title: Every Byte Counts: Why Your Data Type Choices Matter
@@ -384,7 +384,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 219
 #  
 #### SessionID: 24897
 # Self Service Pitfalls 
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 218
 ## Speaker: David Ortiz
 ## Title: Self Service Pitfalls 
@@ -393,7 +393,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 218
 #  
 #### SessionID: 24959
 # Forward the Federations
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 219
 ## Speaker: MIKE DONNELLY
 ## Title: Forward the Federations
@@ -402,7 +402,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 219
 #  
 #### SessionID: 26069
 # SSIS: The DBA Multiplier 
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 216
 ## Speaker: Ted Krueger
 ## Title: SSIS: The DBA Multiplier 
@@ -411,7 +411,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 216
 #  
 #### SessionID: 26874
 # Query Tuning Superstardom for Beginners
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 215
 ## Speaker: Tim Ford
 ## Title: Query Tuning Superstardom for Beginners
@@ -420,7 +420,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 215
 #  
 #### SessionID: 27635
 # Best Practices for your Very Large Databases
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 214
 ## Speaker: Warner Chaves
 ## Title: Best Practices for your Very Large Databases
@@ -431,7 +431,7 @@ In this session we will go into the best practices, tips and tricks learned from
 #  
 #### SessionID: 27815
 # Women In Technology Panel
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 219
 ## Speaker: Wendy Pastrick
 ## Title: Women In Technology Panel
@@ -440,7 +440,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 219
 #  
 #### SessionID: 27816
 # Using Dell tools to improve visibility, efficiency and overall performance
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 216
 ## Speaker: Wendy Pastrick
 ## Title: Using Dell tools to improve visibility, efficiency and overall performance
@@ -449,7 +449,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 216
 #  
 #### SessionID: 27817
 # Keynote
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: All Attendees
 ## Speaker: Wendy Pastrick
 ## Title: Keynote
@@ -458,7 +458,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: All Attendees
 #  
 #### SessionID: 27818
 # Replicate and sync SQL Server data on mobile devices
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 217
 ## Speaker: Wendy Pastrick
 ## Title: Replicate and sync SQL Server data on mobile devices
@@ -467,7 +467,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 217
 #  
 #### SessionID: 27819
 # When Cluster and Virtualization Aren't Enough: How to Create an Application Availability Framework
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 117
 ## Speaker: Wendy Pastrick
 ## Title: When Cluster and Virtualization Aren't Enough: How to Create an Application Availability Framework
@@ -476,7 +476,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 117
 #  
 #### SessionID: 27820
 # Advanced Performance Tuning Tips with Database Performance Analyzer
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 219
 ## Speaker: Wendy Pastrick
 ## Title: Advanced Performance Tuning Tips with Database Performance Analyzer
@@ -485,7 +485,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 219
 #  
 #### SessionID: 9256
 # Hybrid Solutions: The Future of SQL Server Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 216
 ## Speaker: Allan Hirt
 ## Title: Hybrid Solutions: The Future of SQL Server Disaster Recovery
@@ -494,7 +494,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 216
 #  
 #### SessionID: 9258
 # Business Continuity: The Real Reason for HA and DR
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 216
 ## Speaker: Allan Hirt
 ## Title: Business Continuity: The Real Reason for HA and DR
@@ -503,7 +503,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 216
 #  
 #### SessionID: 9367
 # Query Tuning Mastery: Clash of the Row Goals
-#### [Back to calendar](#SQLSaturday-#291---Chicago-2014)
+#### [Back to calendar](#SQLSaturday-#291-Chicago-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Room 116
 ## Speaker: Adam Machanic
 ## Title: Query Tuning Mastery: Clash of the Row Goals

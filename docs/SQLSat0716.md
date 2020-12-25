@@ -58,7 +58,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 71453
 # Faster SSIS
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Faster SSIS
@@ -71,7 +71,7 @@ Finally, we'll demonstrate a design pattern that uses a Script Component in a Da
 #  
 #### SessionID: 71522
 # What’s New in the 2017 Query Store
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Performance Tuning
 ## Speaker: Janis Griffin
 ## Title: What’s New in the 2017 Query Store
@@ -80,7 +80,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Performance Tuning
 #  
 #### SessionID: 72963
 # Locks, Blocks, and Deadlocks, Oh My!
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Randy Knight
 ## Title: Locks, Blocks, and Deadlocks, Oh My!
@@ -91,7 +91,7 @@ In this session targeted at the accidental or new DBA, we will walk through each
 #  
 #### SessionID: 73557
 # Using Powershell to Manage Your Azure Databases
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Grant Fritchey
 ## Title: Using Powershell to Manage Your Azure Databases
@@ -100,7 +100,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 73830
 # Will my workload run faster with In-Memory OLTP?
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Strategy and Architecture
 ## Speaker: Ned Otter
 ## Title: Will my workload run faster with In-Memory OLTP?
@@ -115,7 +115,7 @@ We will lift the veil of confusion that surrounds this blazingly fast feature. B
 #  
 #### SessionID: 73878
 # Introducing SSIS in the Cloud!
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bob Rubocki
 ## Title: Introducing SSIS in the Cloud!
@@ -126,7 +126,7 @@ Come to this session to learn how to set up SSIS in Azure, migrate your existing
 #  
 #### SessionID: 74005
 # Populating a Data Warehouse with SSIS and Biml Patterns
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jim Miller
 ## Title: Populating a Data Warehouse with SSIS and Biml Patterns
@@ -144,7 +144,7 @@ Attend to see how Biml can revolutionize your SSIS development!
 #  
 #### SessionID: 75844
 # How to get your Dream Job: Resume  job hunting tips
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Andy Mallon
 ## Title: How to get your Dream Job: Resume  job hunting tips
@@ -157,7 +157,7 @@ Bring your own resume to this session, and I'll provide you some personal (and p
 #  
 #### SessionID: 82089
 # SQL Integration Hubs - Bridge Cloud and On-Premise Data Connectivity
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Infrastructure
 ## Speaker: Jerod Johnson
 ## Title: SQL Integration Hubs - Bridge Cloud and On-Premise Data Connectivity
@@ -168,7 +168,7 @@ With the CData SQL Broker, users can create a Linked Server based on any of the 
 #  
 #### SessionID: 70828
 # I lost my job!  Now what?!?  A survival guide for the unemployed
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: I lost my job!  Now what?!?  A survival guide for the unemployed
@@ -181,7 +181,7 @@ Fortunately, unemployment is survivable.  In this session, I'll share my own exp
 #  
 #### SessionID: 70841
 # Power BI: Architecture and demo
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: George Walters
 ## Title: Power BI: Architecture and demo
@@ -190,7 +190,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 70906
 # Query Optimization Explained in 15 Demos
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Performance Tuning
 ## Speaker: Erik Darling
 ## Title: Query Optimization Explained in 15 Demos
@@ -207,7 +207,7 @@ This will be fast-paced, demo-heavy and slide-light.
 #  
 #### SessionID: 71581
 # Data To Impress Those That Sign The Checks - Azure Logic Apps, Social Media, and Sentiment Analysis
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Matt Gordon
 ## Title: Data To Impress Those That Sign The Checks - Azure Logic Apps, Social Media, and Sentiment Analysis
@@ -216,7 +216,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 72535
 # Introduction to Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Infrastructure
 ## Speaker: Derik Hammer
 ## Title: Introduction to Azure SQL Data Warehouse
@@ -225,7 +225,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Infrastructure
 #  
 #### SessionID: 73598
 # Destination Azure... building ETL workloads in the cloud!
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Seferlis
 ## Title: Destination Azure... building ETL workloads in the cloud!
@@ -234,7 +234,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 73622
 # Standard and Custom Auditing of Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Strategy and Architecture
 ## Speaker: John Miner
 ## Title: Standard and Custom Auditing of Azure SQL Database
@@ -253,7 +253,7 @@ Coverage:
 #  
 #### SessionID: 74014
 # SQL 2017 on LINUX
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: SQL Server on Linux
 ## Speaker: Charles Hyman
 ## Title: SQL 2017 on LINUX
@@ -263,7 +263,7 @@ Co-Existence between the Windows and Linux environments will be shown and explor
 #  
 #### SessionID: 74153
 # Power BI Development Best Practices
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Martin Schoombee
 ## Title: Power BI Development Best Practices
@@ -274,7 +274,7 @@ In this session we will take a brief look at all of the considerations and best 
 #  
 #### SessionID: 76964
 # Implementing Data Warehouse Patterns with the Microsoft Data Plat
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Goff
 ## Title: Implementing Data Warehouse Patterns with the Microsoft Data Plat
@@ -283,7 +283,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 82808
 # SQL Server and Oracle.  Differences and Similarities for the DBA
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcelo Adade
 ## Title: SQL Server and Oracle.  Differences and Similarities for the DBA
@@ -292,7 +292,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82729
 # Simplifying SQL Data Protection
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Lumnah
 ## Title: Simplifying SQL Data Protection
@@ -301,7 +301,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82778
 # #GetModern With Dell EMC
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Infrastructure
 ## Speaker: Bryan Walsh
 ## Title: #GetModern With Dell EMC
@@ -310,7 +310,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Infrastructure
 #  
 #### SessionID: 70847
 # SQL Server Reporting Services 2017 on Steroids!!
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services 2017 on Steroids!!
@@ -321,7 +321,7 @@ We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as
 #  
 #### SessionID: 70870
 # Data Landscape on Azure
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Infrastructure
 ## Speaker: Sepand Gojgini
 ## Title: Data Landscape on Azure
@@ -330,7 +330,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Infrastructure
 #  
 #### SessionID: 71205
 # Using Kafka for Real-Time Data Ingestion with .NET
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Using Kafka for Real-Time Data Ingestion with .NET
@@ -339,7 +339,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 72123
 # Power Query Deep Dive
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: BI Information Delivery
 ## Speaker: Dan Clark
 ## Title: Power Query Deep Dive
@@ -348,7 +348,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: BI Information Delivery
 #  
 #### SessionID: 72775
 # What's new in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Strategy and Architecture
 ## Speaker: Hasan Savran
 ## Title: What's new in SQL Server 2017
@@ -357,7 +357,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 73556
 # Extending DevOps To SQL Server
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Extending DevOps To SQL Server
@@ -366,7 +366,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 73705
 # Linux Administration for SQL SERVER DBAs
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: SQL Server on Linux
 ## Speaker: Marcelo Adade
 ## Title: Linux Administration for SQL SERVER DBAs
@@ -376,7 +376,7 @@ In this section let´s see how to perform the most common troubleshooting tasks,
 #  
 #### SessionID: 74253
 # Power BI Basics - On Coke
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Jens Vestergaard
 ## Title: Power BI Basics - On Coke
@@ -398,7 +398,7 @@ Additionally I will demonstrate how to deploy your home grown model into Azure A
 #  
 #### SessionID: 74646
 # Azure Data Factory V2-ELT, ETL on Cloud
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Linda Zhang
 ## Title: Azure Data Factory V2-ELT, ETL on Cloud
@@ -407,7 +407,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 74668
 # Azure Data Warehouse Performance Tuning
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Performance Tuning
 ## Speaker: Simon Facer
 ## Title: Azure Data Warehouse Performance Tuning
@@ -417,7 +417,7 @@ How do you identify the queries that can be optimized? Can you identify how to o
 #  
 #### SessionID: 70809
 # Getting started with SQL Azure Database: What you need to know
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Donahoe
 ## Title: Getting started with SQL Azure Database: What you need to know
@@ -428,7 +428,7 @@ By the end of this presentation, you’ll understand if Azure SQL Database is th
 #  
 #### SessionID: 70814
 # Row Level Security in Power BI
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Todd Chittenden
 ## Title: Row Level Security in Power BI
@@ -437,7 +437,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 70840
 # Organizational Security  Compliance with SQL 2012 through 2016/2017
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walters
 ## Title: Organizational Security  Compliance with SQL 2012 through 2016/2017
@@ -446,7 +446,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70962
 # Accelerating Development and Testing Using Data Virtualization
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Gorman
 ## Title: Accelerating Development and Testing Using Data Virtualization
@@ -461,7 +461,7 @@ Good, fast, and cheap -- have all three with data virtualization.  Be able to cl
 #  
 #### SessionID: 71310
 # Don't just code it—Generate It
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Kevin Mackey
 ## Title: Don't just code it—Generate It
@@ -476,7 +476,7 @@ Generated code has systematic errors. Fix the errors at the generator. All the c
 #  
 #### SessionID: 72964
 # Soft skills for Geeks: Don't be a flat boxer
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Randy Knight
 ## Title: Soft skills for Geeks: Don't be a flat boxer
@@ -485,7 +485,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 73499
 # Linux for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: SQL Server on Linux
 ## Speaker: David Klee
 ## Title: Linux for the SQL Server DBA
@@ -496,7 +496,7 @@ This introductory session will help seasoned SQL Server DBAs understand the basi
 #  
 #### SessionID: 73580
 # New Storage Paradigms for SQL Server Deployments
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allan Hirt
 ## Title: New Storage Paradigms for SQL Server Deployments
@@ -505,7 +505,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 74261
 # Statistics - How they're created and how to maintain them
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Information Delivery
 ## Speaker: Russell Etts
 ## Title: Statistics - How they're created and how to maintain them
@@ -514,7 +514,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Information Delivery
 #  
 #### SessionID: 76967
 # SSRS for Developers - attendees choose topics
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Kevin Goff
 ## Title: SSRS for Developers - attendees choose topics
@@ -523,7 +523,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Application  Database D
 #  
 #### SessionID: 82807
 # Shaving off Microseconds
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Infrastructure
 ## Speaker: Thomas Grohser
 ## Title: Shaving off Microseconds
@@ -532,7 +532,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Infrastructure
 #  
 #### SessionID: 70832
 # So you want to be a SQL Saturday speaker?
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: So you want to be a SQL Saturday speaker?
@@ -541,7 +541,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Professional Developmen
 #  
 #### SessionID: 70851
 # DevOps Database administration.
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stephen Mokszycki
 ## Title: DevOps Database administration.
@@ -552,7 +552,7 @@ There will be a demo!
 #  
 #### SessionID: 70913
 # SQL Server 2017: This One Doesn't Suck
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Performance Tuning
 ## Speaker: Erik Darling
 ## Title: SQL Server 2017: This One Doesn't Suck
@@ -565,7 +565,7 @@ In this session, we'll look at some of the key new optimizer features in 2017 th
 #  
 #### SessionID: 71103
 # DAX Query Use Cases
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brett Powell
 ## Title: DAX Query Use Cases
@@ -578,7 +578,7 @@ Each segment of this session will be supported by multiple example DAX queries a
 #  
 #### SessionID: 71203
 # Much Ado About Hadoop
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Strategy and Architecture
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
@@ -587,7 +587,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 72994
 # Developing AI applications using CNTK Deep Learning
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Bhakthi Liyanage
 ## Title: Developing AI applications using CNTK Deep Learning
@@ -597,7 +597,7 @@ The Microsoft Cognitive Toolkit (CNTK) is a free, easy-to-use, open-source, comm
 #  
 #### SessionID: 73410
 # Deploy AlwaysOn on Google Cloud in Real Life
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Zhen Zhang
 ## Title: Deploy AlwaysOn on Google Cloud in Real Life
@@ -606,7 +606,7 @@ Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 73621
 # Using Azure blob storage for staging data
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: John Miner
 ## Title: Using Azure blob storage for staging data
@@ -630,7 +630,7 @@ Coverage:
 #  
 #### SessionID: 73744
 # Making Life Easy With PowerShell
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Application  Database Development
 ## Speaker: Warren Estes
 ## Title: Making Life Easy With PowerShell
@@ -640,7 +640,7 @@ In this demo heavy session I will go over how a DBA can use PowerShell to make l
 #  
 #### SessionID: 73829
 # Table Partitioning 101
-#### [Back to calendar](#SQLSaturday-#716---New-York-City-2018)
+#### [Back to calendar](#SQLSaturday-#716-New-York-City-2018)
 Event Date: 19-05-2018 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ned Otter
 ## Title: Table Partitioning 101

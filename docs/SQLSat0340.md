@@ -40,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10374
 # Understanding Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #1
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
@@ -49,7 +49,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #1
 #  
 #### SessionID: 10375
 # Dive into the Query Optimizer-Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #1
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer-Undocumented Insight
@@ -58,7 +58,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #1
 #  
 #### SessionID: 10376
 # Query Processing in In-Memory OLTP (Hekaton)
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #1
 ## Speaker: Benjamin Nevarez
 ## Title: Query Processing in In-Memory OLTP (Hekaton)
@@ -67,7 +67,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #1
 #  
 #### SessionID: 10693
 # SQL Server Storage internals: Looking under the hood.
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #2
 ## Speaker: Brandon Leach
 ## Title: SQL Server Storage internals: Looking under the hood.
@@ -76,7 +76,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #2
 #  
 #### SessionID: 10694
 # Treating Tables Like Legos, Partitioning Basics
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #2
 ## Speaker: Brandon Leach
 ## Title: Treating Tables Like Legos, Partitioning Basics
@@ -85,7 +85,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #2
 #  
 #### SessionID: 11213
 # (Confio/SolarWinds) Advanced Performance Tuning Tips with Database Performance Analyzer (formerly Co
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #3
 ## Speaker: Carlos  Parra
 ## Title: (Confio/SolarWinds) Advanced Performance Tuning Tips with Database Performance Analyzer (formerly Co
@@ -94,7 +94,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #3
 #  
 #### SessionID: 11225
 # (Violing Memory) Flash storage 101 and what it can do for your databases
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #4
 ## Speaker: Chuck Armstrong
 ## Title: (Violing Memory) Flash storage 101 and what it can do for your databases
@@ -103,7 +103,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #4
 #  
 #### SessionID: 12186
 # Access-to-SQL Server Nuts and Bolts
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #5
 ## Speaker: Darrell Burns
 ## Title: Access-to-SQL Server Nuts and Bolts
@@ -112,7 +112,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #5
 #  
 #### SessionID: 12809
 # Turbo Charged SQL Development With SQL#
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #6
 ## Speaker: David Sumlin
 ## Title: Turbo Charged SQL Development With SQL#
@@ -121,7 +121,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #6
 #  
 #### SessionID: 13201
 # Column Level Encryption
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #2
 ## Speaker: David Dye
 ## Title: Column Level Encryption
@@ -130,7 +130,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #2
 #  
 #### SessionID: 13202
 # Implementing Auditing in SQL Server 2012 
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #4
 ## Speaker: David Dye
 ## Title: Implementing Auditing in SQL Server 2012 
@@ -139,7 +139,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #4
 #  
 #### SessionID: 13203
 # Location Location Location Preparing and Presenting Geographic Data 
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #3
 ## Speaker: David Dye
 ## Title: Location Location Location Preparing and Presenting Geographic Data 
@@ -152,7 +152,7 @@ Events that occurred at a specific address, zip code, and even block range and e
 #  
 #### SessionID: 14796
 # Statistics and Query Optimization
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #1
 ## Speaker: Grant Fritchey
 ## Title: Statistics and Query Optimization
@@ -161,7 +161,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #1
 #  
 #### SessionID: 15447
 # Identity, Sequence and ROW_NUMBER
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #1
 ## Speaker: Itzik Ben-Gan
 ## Title: Identity, Sequence and ROW_NUMBER
@@ -170,7 +170,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #1
 #  
 #### SessionID: 15448
 # Boost your T-SQL with the APPLY Operator
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #1
 ## Speaker: Itzik Ben-Gan
 ## Title: Boost your T-SQL with the APPLY Operator
@@ -179,7 +179,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #1
 #  
 #### SessionID: 17302
 # Master Data Management - Getting Started with SQL Server MDS
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #3
 ## Speaker: John McAllister
 ## Title: Master Data Management - Getting Started with SQL Server MDS
@@ -188,7 +188,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #3
 #  
 #### SessionID: 17609
 # Hadoop - Past, Present and Future
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #3
 ## Speaker: Joe Rossi
 ## Title: Hadoop - Past, Present and Future
@@ -197,7 +197,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #3
 #  
 #### SessionID: 18869
 # CI for DB
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #4
 ## Speaker: Yong Ji
 ## Title: CI for DB
@@ -206,7 +206,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #4
 #  
 #### SessionID: 20407
 # Keeping your SQL Objects Safe In Development
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #5
 ## Speaker: Mickey Stuewe
 ## Title: Keeping your SQL Objects Safe In Development
@@ -219,7 +219,7 @@ Join me in this demo heavy session where we will explore the benefits of version
 #  
 #### SessionID: 22285
 # Standardize SQL Server Implementations (Dev to Prod)
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #4
 ## Speaker: Prakash Heda
 ## Title: Standardize SQL Server Implementations (Dev to Prod)
@@ -240,7 +240,7 @@ The best practice framework will get us past the complexities and provide us wit
 #  
 #### SessionID: 23027
 # (Cisco) - Optimize Your SQL Server 2014 Workloads with Cisco UCS
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #1
 ## Speaker: Aaron Rigney
 ## Title: (Cisco) - Optimize Your SQL Server 2014 Workloads with Cisco UCS
@@ -249,7 +249,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #1
 #  
 #### SessionID: 23169
 # The Server Side of Reporting Services
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #2
 ## Speaker: Robert Hatton
 ## Title: The Server Side of Reporting Services
@@ -258,7 +258,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #2
 #  
 #### SessionID: 23232
 # Thinking in SQL
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #5
 ## Speaker: Robert Hatton
 ## Title: Thinking in SQL
@@ -269,7 +269,7 @@ Join us for a conversation about SQL, why it's different from traditional proced
 #  
 #### SessionID: 24444
 # Transaction
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #6
 ## Speaker: Simon Cho
 ## Title: Transaction
@@ -283,7 +283,7 @@ Best practices for compose Stored procedure to prevent all possible cases.
 #  
 #### SessionID: 24861
 # How to become a better SQL Developer
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #5
 ## Speaker: David Moutray
 ## Title: How to become a better SQL Developer
@@ -292,7 +292,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #5
 #  
 #### SessionID: 24862
 # Developers vs. DBAs
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #5
 ## Speaker: David Moutray
 ## Title: Developers vs. DBAs
@@ -301,7 +301,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #5
 #  
 #### SessionID: 24863
 # Data Quality:  Boosting Software Performance and Business Profit
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #3
 ## Speaker: David Moutray
 ## Title: Data Quality:  Boosting Software Performance and Business Profit
@@ -310,7 +310,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #3
 #  
 #### SessionID: 24864
 # First Normal Form
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #5
 ## Speaker: David Moutray
 ## Title: First Normal Form
@@ -319,7 +319,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #5
 #  
 #### SessionID: 26916
 # Documentation – you know you love it
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #4
 ## Speaker: TJay Belt
 ## Title: Documentation – you know you love it
@@ -328,7 +328,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #4
 #  
 #### SessionID: 26917
 # Database Release Management: Tips to help organize it
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #6
 ## Speaker: TJay Belt
 ## Title: Database Release Management: Tips to help organize it
@@ -340,7 +340,7 @@ We will discuss various terms, define processes, share ideas, and suggest tools 
 #  
 #### SessionID: 26918
 # Database Monitoring : Trying To Keep Sane
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #4
 ## Speaker: TJay Belt
 ## Title: Database Monitoring : Trying To Keep Sane
@@ -350,7 +350,7 @@ We will discuss various ideas, tools, approaches, and solutions to how to monito
 #  
 #### SessionID: 27461
 # Advanced SSIS Techniques
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #3
 ## Speaker: Virginia Mushkatbat
 ## Title: Advanced SSIS Techniques
@@ -360,7 +360,7 @@ It has a lot of faculties that allow to extend its functionality, from built-in 
 #  
 #### SessionID: 27462
 # Data Masking Algorithms Strengths
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #3
 ## Speaker: Virginia Mushkatbat
 ## Title: Data Masking Algorithms Strengths
@@ -369,7 +369,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #3
 #  
 #### SessionID: 9148
 # SQL 2012 Programmability Enhancements
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #6
 ## Speaker: Andrew Karcher
 ## Title: SQL 2012 Programmability Enhancements
@@ -378,7 +378,7 @@ Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #6
 #  
 #### SessionID: 9149
 # A NoSQL Primer for the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#340---San-Diego-2014)
+#### [Back to calendar](#SQLSaturday-#340-San-Diego-2014)
 Event Date: 20-09-2014 - Session time: 00:00:00 - Track: Track #4
 ## Speaker: Andrew Karcher
 ## Title: A NoSQL Primer for the SQL Server Developer

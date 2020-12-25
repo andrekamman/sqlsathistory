@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 35019
 # Introduction to SQL Server Hints
-#### [Back to calendar](#SQLSaturday-#5---Olympia-2008)
+#### [Back to calendar](#SQLSaturday-#5-Olympia-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Brad McGehee
 ## Title: Introduction to SQL Server Hints
@@ -31,7 +31,7 @@ Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 2
 #  
 #### SessionID: 35035
 # Changing role of the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#5---Olympia-2008)
+#### [Back to calendar](#SQLSaturday-#5-Olympia-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Bryan Oliver
 ## Title: Changing role of the SQL Server DBA
@@ -40,7 +40,7 @@ Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 2
 #  
 #### SessionID: 35047
 # SQL Server 2008 Performance Tuning
-#### [Back to calendar](#SQLSaturday-#5---Olympia-2008)
+#### [Back to calendar](#SQLSaturday-#5-Olympia-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Buck Woody
 ## Title: SQL Server 2008 Performance Tuning
@@ -49,7 +49,7 @@ Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 2
 #  
 #### SessionID: 35111
 # XML and Relational Databases
-#### [Back to calendar](#SQLSaturday-#5---Olympia-2008)
+#### [Back to calendar](#SQLSaturday-#5-Olympia-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Eric Wilson
 ## Title: XML and Relational Databases
@@ -60,7 +60,7 @@ Contrary to typical technology presentations, this focuses on what we _should_ d
 #  
 #### SessionID: 35129
 # Practical Table Partitioning
-#### [Back to calendar](#SQLSaturday-#5---Olympia-2008)
+#### [Back to calendar](#SQLSaturday-#5-Olympia-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Greg Larsen
 ## Title: Practical Table Partitioning
@@ -69,7 +69,7 @@ Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 2
 #  
 #### SessionID: 35130
 # Gaining SQL Server Insight with DMV's
-#### [Back to calendar](#SQLSaturday-#5---Olympia-2008)
+#### [Back to calendar](#SQLSaturday-#5-Olympia-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Greg Larsen
 ## Title: Gaining SQL Server Insight with DMV's
@@ -78,7 +78,7 @@ Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 2
 #  
 #### SessionID: 35135
 # Business Intelligence
-#### [Back to calendar](#SQLSaturday-#5---Olympia-2008)
+#### [Back to calendar](#SQLSaturday-#5-Olympia-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Joe Horton
 ## Title: Business Intelligence
@@ -89,7 +89,7 @@ The technology we will cover is SQL Server 2005 and how we leveraged (SSAS) SQL 
 #  
 #### SessionID: 35161
 # Long parameter lists
-#### [Back to calendar](#SQLSaturday-#5---Olympia-2008)
+#### [Back to calendar](#SQLSaturday-#5-Olympia-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Joe Celko
 ## Title: Long parameter lists
@@ -100,7 +100,7 @@ SQL Server cam easily handle a long list of parameters.  The code is not only sa
 #  
 #### SessionID: 35162
 # This is not your father's GROUP BY 
-#### [Back to calendar](#SQLSaturday-#5---Olympia-2008)
+#### [Back to calendar](#SQLSaturday-#5-Olympia-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Joe Celko
 ## Title: This is not your father's GROUP BY 
@@ -114,7 +114,7 @@ Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 1
 #  
 #### SessionID: 35203
 # SSIS Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#5---Olympia-2008)
+#### [Back to calendar](#SQLSaturday-#5-Olympia-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Jessica Moss
 ## Title: SSIS Tips  Tricks
@@ -123,7 +123,7 @@ Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 1
 #  
 #### SessionID: 35205
 # Building Reports in SQL Server Reporting Services 
-#### [Back to calendar](#SQLSaturday-#5---Olympia-2008)
+#### [Back to calendar](#SQLSaturday-#5-Olympia-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Jessica Moss
 ## Title: Building Reports in SQL Server Reporting Services 
@@ -132,7 +132,7 @@ Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 1
 #  
 #### SessionID: 35393
 # SSAS 2008 Designer
-#### [Back to calendar](#SQLSaturday-#5---Olympia-2008)
+#### [Back to calendar](#SQLSaturday-#5-Olympia-2008)
 Event Date: 11-10-2008 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Rushabh Mehta
 ## Title: SSAS 2008 Designer

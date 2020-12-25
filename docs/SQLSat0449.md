@@ -41,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 37939
 # Execution Plans: What Can You Do With Them?
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Execution Plans: What Can You Do With Them?
@@ -50,7 +50,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37991
 # SQL 2016 Changes and Enhancements for BI and Beyond
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Charles Hyman
 ## Title: SQL 2016 Changes and Enhancements for BI and Beyond
@@ -78,7 +78,7 @@ projec
 #  
 #### SessionID: 38081
 # Building Perfect SQL Servers, Every Time
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joseph D'Antoni
 ## Title: Building Perfect SQL Servers, Every Time
@@ -88,7 +88,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40246
 # Configuring SQL Server for a successful SharePoint Server Deployment
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Haaron Gonzalez
 ## Title: Configuring SQL Server for a successful SharePoint Server Deployment
@@ -97,7 +97,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40531
 # Changing Your Habits to Improve the Performance of Your T-SQL
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mickey Stuewe
 ## Title: Changing Your Habits to Improve the Performance of Your T-SQL
@@ -106,7 +106,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37938
 # The Database: The Elephant in the ALM Room
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: The Database: The Elephant in the ALM Room
@@ -115,7 +115,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 38080
 # In-Memory Columnstore Indexes--Make Your Data Warehouse Fly 
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joseph D'Antoni
 ## Title: In-Memory Columnstore Indexes--Make Your Data Warehouse Fly 
@@ -124,7 +124,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 39570
 # Data Modeling for Integration of RDBMS with NOSQL
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Daniel Upton
 ## Title: Data Modeling for Integration of RDBMS with NOSQL
@@ -133,7 +133,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 40171
 # Master Data Management with SQL Master Data Services (MDS) and Maestro
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Information Delivery
 ## Speaker: Pam Matthews
 ## Title: Master Data Management with SQL Master Data Services (MDS) and Maestro
@@ -142,7 +142,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Information Delivery
 #  
 #### SessionID: 40530
 # Silent Killers Lurking in Your Database Design
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mickey Stuewe
 ## Title: Silent Killers Lurking in Your Database Design
@@ -151,7 +151,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 40562
 # Universal SQL Installations - Part 1
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prakash Heda
 ## Title: Universal SQL Installations - Part 1
@@ -162,7 +162,7 @@ Session 2 will cover script review and demo...
 #  
 #### SessionID: 37255
 # Physical Join Operators
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ami Levin
 ## Title: Physical Join Operators
@@ -171,7 +171,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37316
 # Universal SQL Installations – Script Review  Demo
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prakash Heda
 ## Title: Universal SQL Installations – Script Review  Demo
@@ -187,7 +187,7 @@ You’ll see PowerShell scripts where a single line script can install any of th
 #  
 #### SessionID: 37644
 # SQL 2012 Programmability Enhancements
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Andrew Karcher
 ## Title: SQL 2012 Programmability Enhancements
@@ -196,7 +196,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 38893
 # Murder They Wrote
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Murder They Wrote
@@ -205,7 +205,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40415
 # Monster Text Manipulation: Regular Expressions for the DBA
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
@@ -220,7 +220,7 @@ Here you’ll learn:
 #  
 #### SessionID: 40581
 # Understanding Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
@@ -229,7 +229,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37256
 # Where did I put my (primary) keys?
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ami Levin
 ## Title: Where did I put my (primary) keys?
@@ -239,7 +239,7 @@ We will consider the benefits and challenges of using different types of keys - 
 #  
 #### SessionID: 37643
 # A NoSQL Primer for the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Andrew Karcher
 ## Title: A NoSQL Primer for the SQL Server Developer
@@ -252,7 +252,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 37732
 # DBA Monitoring and Maintenance Fundamentals
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warren Sifre
 ## Title: DBA Monitoring and Maintenance Fundamentals
@@ -261,7 +261,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38880
 # Extended Events - Better than Profiler
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Extended Events - Better than Profiler
@@ -270,7 +270,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39798
 # Building Your Way to Better Database Testing
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Phil Helmer
 ## Title: Building Your Way to Better Database Testing
@@ -280,7 +280,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 40416
 # Minion Maintenance and Backup Solutions
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Minion Maintenance and Backup Solutions
@@ -302,7 +302,7 @@ Minion Backup scales to the size of your enterprise, from one to thousands of in
 #  
 #### SessionID: 40579
 # Dive into the Query Optimizer - Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer - Undocumented Insight
@@ -311,7 +311,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37414
 # Database Administration for the non-DBA
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Denny Cherry
 ## Title: Database Administration for the non-DBA
@@ -322,7 +322,7 @@ While this session won't teach you everything you need to know, it will give you
 #  
 #### SessionID: 38895
 # A Masters Passport to Extended Events
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: A Masters Passport to Extended Events
@@ -335,7 +335,7 @@ This session on Extended Events will help prepare you to put this tool to immedi
 #  
 #### SessionID: 39405
 # Understanding the SQL Server Transaction Log
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Randy Knight
 ## Title: Understanding the SQL Server Transaction Log
@@ -344,7 +344,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 39939
 # Code Sins
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Code Sins
@@ -353,7 +353,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 40234
 # Introduction to SQL Server Reporting Services
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Ted Stathakis
 ## Title: Introduction to SQL Server Reporting Services
@@ -362,7 +362,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 40849
 # Architectural Designs Driving SQL Server Performance  Availability
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Sumeet Bansal
 ## Title: Architectural Designs Driving SQL Server Performance  Availability
@@ -373,7 +373,7 @@ In this session, you’ll learn about the latest advancements in storage technol
 #  
 #### SessionID: 37413
 # Things You Should Never Do In Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Denny Cherry
 ## Title: Things You Should Never Do In Microsoft SQL Server
@@ -382,7 +382,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37728
 # Introduction to Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Machine Learning
@@ -391,7 +391,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 39403
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -401,7 +401,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 39938
 # Designing Stored Procedure Solutions
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Designing Stored Procedure Solutions
@@ -420,7 +420,7 @@ This session is for data professionals who can write T-SQL, but haven't spent a 
 #  
 #### SessionID: 40238
 # Better Report Development and Management Techniques
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Ted Stathakis
 ## Title: Better Report Development and Management Techniques
@@ -429,7 +429,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 40834
 # Overview of Open-Source Tools of the Hortonworks Data Platform
-#### [Back to calendar](#SQLSaturday-#449---San-Diego-2015)
+#### [Back to calendar](#SQLSaturday-#449-San-Diego-2015)
 Event Date: 19-09-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Svetlana Marinova
 ## Title: Overview of Open-Source Tools of the Hortonworks Data Platform

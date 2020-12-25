@@ -41,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10424
 # 2012 TSQL Sweets
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 321
 ## Speaker: Bill Fellows
 ## Title: 2012 TSQL Sweets
@@ -50,7 +50,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 321
 #  
 #### SessionID: 12020
 # Upgrade Roadmap: Let’s delve into SQL Server 2012 
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142B
 ## Speaker: Craig Purnell
 ## Title: Upgrade Roadmap: Let’s delve into SQL Server 2012 
@@ -59,7 +59,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142B
 #  
 #### SessionID: 12813
 # Demystifying PowerPivot from the SharePoint Admin 
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 350
 ## Speaker: David Peterson
 ## Title: Demystifying PowerPivot from the SharePoint Admin 
@@ -68,7 +68,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 350
 #  
 #### SessionID: 12919
 # Setting up an ETL Framework with SSIS 2012
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 350
 ## Speaker: Dave DuVarney
 ## Title: Setting up an ETL Framework with SSIS 2012
@@ -77,7 +77,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 350
 #  
 #### SessionID: 13392
 # Devs are from Mars, Report Servers are from Venus
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 350
 ## Speaker: Doug Lane
 ## Title: Devs are from Mars, Report Servers are from Venus
@@ -90,7 +90,7 @@ In this session, Doug will re-ignite your passion for RS by reminding you how re
 #  
 #### SessionID: 13717
 # Practically Normal
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 350
 ## Speaker: Ed Leighton-Dick
 ## Title: Practically Normal
@@ -99,7 +99,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 350
 #  
 #### SessionID: 13902
 # SSMS for Non-DBA Developers
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142B
 ## Speaker: Eric Selje
 ## Title: SSMS for Non-DBA Developers
@@ -108,7 +108,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142B
 #  
 #### SessionID: 13942
 # You’re My Density: Making Sense of Statistics
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 321
 ## Speaker: Erin Stellato
 ## Title: You’re My Density: Making Sense of Statistics
@@ -117,7 +117,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 321
 #  
 #### SessionID: 13943
 # DBCC Commands: The Quick and the Dangerous
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 321
 ## Speaker: Erin Stellato
 ## Title: DBCC Commands: The Quick and the Dangerous
@@ -126,7 +126,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 321
 #  
 #### SessionID: 14046
 # TempDB Performance Troubleshooting and Optimizing
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 322
 ## Speaker: Eddie Wuerch
 ## Title: TempDB Performance Troubleshooting and Optimizing
@@ -135,7 +135,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 322
 #  
 #### SessionID: 14179
 # Deep Dive in PowerPivot 2012
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 336
 ## Speaker: Farouq Abukhamireh
 ## Title: Deep Dive in PowerPivot 2012
@@ -144,7 +144,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 336
 #  
 #### SessionID: 15483
 # Creating a Metadata Mart w/ SSIS - Data Governance
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142A
 ## Speaker: Ira Warren
 ## Title: Creating a Metadata Mart w/ SSIS - Data Governance
@@ -153,7 +153,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142A
 #  
 #### SessionID: 15891
 # Fast Track to Spatial Reporting
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142A
 ## Speaker: Jason Thomas
 ## Title: Fast Track to Spatial Reporting
@@ -162,7 +162,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142A
 #  
 #### SessionID: 19642
 # MDX Trek: First Contact
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 336
 ## Speaker: Mark Vaillancourt
 ## Title: MDX Trek: First Contact
@@ -171,7 +171,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 336
 #  
 #### SessionID: 21513
 # SSIS 2012 New Features
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 336
 ## Speaker: Norman Kelm
 ## Title: SSIS 2012 New Features
@@ -181,7 +181,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 336
 #  
 #### SessionID: 24318
 # Optimizing SQL Server I/O with Solid State Drives
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 336
 ## Speaker: Luke Jian
 ## Title: Optimizing SQL Server I/O with Solid State Drives
@@ -190,7 +190,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 336
 #  
 #### SessionID: 24725
 # (Way Too Much) Fun with Reporting Services 
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 321
 ## Speaker: Stacia Varga
 ## Title: (Way Too Much) Fun with Reporting Services 
@@ -199,7 +199,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 321
 #  
 #### SessionID: 24726
 # Data Visualization in Reporting Services
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 322
 ## Speaker: Stacia Varga
 ## Title: Data Visualization in Reporting Services
@@ -208,7 +208,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 322
 #  
 #### SessionID: 24968
 # SSIS: Figuring Out Configuring
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 336
 ## Speaker: MIKE DONNELLY
 ## Title: SSIS: Figuring Out Configuring
@@ -219,7 +219,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 336
 #  
 #### SessionID: 25784
 # Performance Monitoring and Tuning in SSAS
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142A
 ## Speaker: Steve Hughes
 ## Title: Performance Monitoring and Tuning in SSAS
@@ -228,7 +228,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142A
 #  
 #### SessionID: 25786
 # A Window into Your Data:Using SQL Window Functions
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142A
 ## Speaker: Steve Hughes
 ## Title: A Window into Your Data:Using SQL Window Functions
@@ -237,7 +237,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142A
 #  
 #### SessionID: 27067
 # 10 Ways To Abuse T-SQL
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142B
 ## Speaker: Tracy McKibben
 ## Title: 10 Ways To Abuse T-SQL
@@ -246,7 +246,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142B
 #  
 #### SessionID: 28292
 # A Powershell Driven Life
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142A
 ## Speaker: Zach Mattson
 ## Title: A Powershell Driven Life
@@ -257,7 +257,7 @@ No SSIS or Powerpoint will be harmed during this presentation.
 #  
 #### SessionID: 29120
 # The Skinny on Data Compression
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142A
 ## Speaker: Bob Pusateri
 ## Title: The Skinny on Data Compression
@@ -266,7 +266,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142A
 #  
 #### SessionID: 30653
 # SQL 2012 -- All About HA and DR
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 322
 ## Speaker: Joseph D'Antoni
 ## Title: SQL 2012 -- All About HA and DR
@@ -275,7 +275,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 322
 #  
 #### SessionID: 30784
 # Filegroups: Putting the Puzzle Together 
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 321
 ## Speaker: Jes Schultz
 ## Title: Filegroups: Putting the Puzzle Together 
@@ -284,7 +284,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 321
 #  
 #### SessionID: 30813
 # Administering the BI Stack
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142B
 ## Speaker: Josh Fennessy
 ## Title: Administering the BI Stack
@@ -295,7 +295,7 @@ This session will focus on the SSIS, SSRS, and SSAS engines in this session.  No
 #  
 #### SessionID: 31125
 # Holy Crap! Someone Put the Database in the Cloud
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 321
 ## Speaker: Jason Strate
 ## Title: Holy Crap! Someone Put the Database in the Cloud
@@ -304,7 +304,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 321
 #  
 #### SessionID: 32031
 # SQL 2012 AlwaysOn Configuration Deep Dive 
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 322
 ## Speaker: Michael Steineke
 ## Title: SQL 2012 AlwaysOn Configuration Deep Dive 
@@ -313,7 +313,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 322
 #  
 #### SessionID: 32662
 # Minimal Processing for Large Cubes
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 350
 ## Speaker: Ross McNeely
 ## Title: Minimal Processing for Large Cubes
@@ -322,7 +322,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 350
 #  
 #### SessionID: 32966
 # Asynchronous programming with Service Broker
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 336
 ## Speaker: Sanil Mhatre
 ## Title: Asynchronous programming with Service Broker
@@ -331,7 +331,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 336
 #  
 #### SessionID: 33045
 # Free SQL tools for your toolbox
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142B
 ## Speaker: Kevin Bullen
 ## Title: Free SQL tools for your toolbox
@@ -340,7 +340,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142B
 #  
 #### SessionID: 33233
 # Scriptable UI with PowerShell
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142B
 ## Speaker: Steven Murawski
 ## Title: Scriptable UI with PowerShell
@@ -349,7 +349,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 142B
 #  
 #### SessionID: 33348
 # Merge Replication for Offline Data Mobility
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 350
 ## Speaker: Ted Krueger
 ## Title: Merge Replication for Offline Data Mobility
@@ -359,7 +359,7 @@ Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 350
 #  
 #### SessionID: 33672
 # Performance Enhancing Laziness
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 322
 ## Speaker: Tim Ford
 ## Title: Performance Enhancing Laziness
@@ -372,7 +372,7 @@ It's enough to drive a lesser DBA crazy-insane.  That's why it's important to ta
 #  
 #### SessionID: 8894
 # Database Development using SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#118---Madison-2012)
+#### [Back to calendar](#SQLSaturday-#118-Madison-2012)
 Event Date: 21-04-2012 - Session time: 00:00:00 - Track: Room 322
 ## Speaker: Aaron Lowe
 ## Title: Database Development using SQL Server Data Tools

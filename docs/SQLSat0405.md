@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 19885
 # SQL en ambientes virtuales
-#### [Back to calendar](#SQLSaturday-#405---Buenos-Aires-2015)
+#### [Back to calendar](#SQLSaturday-#405-Buenos-Aires-2015)
 Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deployment
 ## Speaker: Maximiliano Damian Accotto
 ## Title: SQL en ambientes virtuales
@@ -26,7 +26,7 @@ Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deploy
 #  
 #### SessionID: 36739
 # Big Data and Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#405---Buenos-Aires-2015)
+#### [Back to calendar](#SQLSaturday-#405-Buenos-Aires-2015)
 Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarrollo y BI
 ## Speaker: Adrian Fernandez
 ## Title: Big Data and Microsoft Azure
@@ -37,7 +37,7 @@ I’ll also show how to works in Microsoft Big Data Analytics platform component
 #  
 #### SessionID: 15999
 # SQL Monitoring
-#### [Back to calendar](#SQLSaturday-#405---Buenos-Aires-2015)
+#### [Back to calendar](#SQLSaturday-#405-Buenos-Aires-2015)
 Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deployment
 ## Speaker: Javier Villegas
 ## Title: SQL Monitoring
@@ -48,7 +48,7 @@ DBA Dashboard
 #  
 #### SessionID: 36925
 # Power Query
-#### [Back to calendar](#SQLSaturday-#405---Buenos-Aires-2015)
+#### [Back to calendar](#SQLSaturday-#405-Buenos-Aires-2015)
 Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarrollo y BI
 ## Speaker: Alejandro Cabanchik
 ## Title: Power Query
@@ -57,7 +57,7 @@ Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarroll
 #  
 #### SessionID: 19884
 # Tuning avanzado para DBa#180;s
-#### [Back to calendar](#SQLSaturday-#405---Buenos-Aires-2015)
+#### [Back to calendar](#SQLSaturday-#405-Buenos-Aires-2015)
 Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deployment
 ## Speaker: Maximiliano Damian Accotto
 ## Title: Tuning avanzado para DBa#180;s
@@ -66,7 +66,7 @@ Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deploy
 #  
 #### SessionID: 35627
 # Juez, Jurado Y  Verdugo--Una Primera Observaci#243;n de Planes de Eje
-#### [Back to calendar](#SQLSaturday-#405---Buenos-Aires-2015)
+#### [Back to calendar](#SQLSaturday-#405-Buenos-Aires-2015)
 Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarrollo y BI
 ## Speaker: Carlos L Chacon
 ## Title: Juez, Jurado Y  Verdugo--Una Primera Observaci#243;n de Planes de Eje
@@ -75,7 +75,7 @@ Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarroll
 #  
 #### SessionID: 35626
 # "I Know What You Did Last Query" --SQL Server
-#### [Back to calendar](#SQLSaturday-#405---Buenos-Aires-2015)
+#### [Back to calendar](#SQLSaturday-#405-Buenos-Aires-2015)
 Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deployment
 ## Speaker: Carlos L Chacon
 ## Title: "I Know What You Did Last Query" --SQL Server
@@ -84,7 +84,7 @@ Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deploy
 #  
 #### SessionID: 36926
 # Mobile BI with Datazen
-#### [Back to calendar](#SQLSaturday-#405---Buenos-Aires-2015)
+#### [Back to calendar](#SQLSaturday-#405-Buenos-Aires-2015)
 Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarrollo y BI
 ## Speaker: Alejandro Cabanchik
 ## Title: Mobile BI with Datazen
@@ -93,7 +93,7 @@ Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarroll
 #  
 #### SessionID: 36740
 # Microsoft Azure and Internet of Things (IoT)
-#### [Back to calendar](#SQLSaturday-#405---Buenos-Aires-2015)
+#### [Back to calendar](#SQLSaturday-#405-Buenos-Aires-2015)
 Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarrollo y BI
 ## Speaker: Adrian Fernandez
 ## Title: Microsoft Azure and Internet of Things (IoT)
@@ -103,7 +103,7 @@ data, Internet of Things (IoT), Stream Analytcs and Open Hardware.
 #  
 #### SessionID: 37114
 # Administre, Diagnostique y Resuelva problemas sobre su SQL Server
-#### [Back to calendar](#SQLSaturday-#405---Buenos-Aires-2015)
+#### [Back to calendar](#SQLSaturday-#405-Buenos-Aires-2015)
 Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deployment
 ## Speaker: Gustavo Boismoreau
 ## Title: Administre, Diagnostique y Resuelva problemas sobre su SQL Server
@@ -112,7 +112,7 @@ Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deploy
 #  
 #### SessionID: 19886
 # SQL Server 2014 Cardinaly Estimator
-#### [Back to calendar](#SQLSaturday-#405---Buenos-Aires-2015)
+#### [Back to calendar](#SQLSaturday-#405-Buenos-Aires-2015)
 Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deployment
 ## Speaker: Maximiliano Damian Accotto
 ## Title: SQL Server 2014 Cardinaly Estimator
@@ -121,7 +121,7 @@ Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deploy
 #  
 #### SessionID: 9201
 # DAX in Action
-#### [Back to calendar](#SQLSaturday-#405---Buenos-Aires-2015)
+#### [Back to calendar](#SQLSaturday-#405-Buenos-Aires-2015)
 Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarrollo y BI
 ## Speaker: Alejandro Cabanchik
 ## Title: DAX in Action

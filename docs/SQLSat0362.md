@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10885
 # SQL 2012 Extended Events
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Cloud
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Extended Events
@@ -51,7 +51,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Cloud
 #  
 #### SessionID: 11786
 # Query Store - A New SQL Query Tuning Feature
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Thunderdome
 ## Speaker: Conor Cunningham
 ## Title: Query Store - A New SQL Query Tuning Feature
@@ -60,7 +60,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Thunderdome
 #  
 #### SessionID: 12174
 # SQL Server: Monitoring disk usage
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Automation
 ## Speaker: Daniel Janik
 ## Title: SQL Server: Monitoring disk usage
@@ -69,7 +69,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Automation
 #  
 #### SessionID: 12450
 # Writing Your First BimlScript
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: David Stein
 ## Title: Writing Your First BimlScript
@@ -78,7 +78,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 14442
 # Learn How To Build A Golden Record for Any Subject Over Lunch!
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Gene Webb
 ## Title: Learn How To Build A Golden Record for Any Subject Over Lunch!
@@ -92,7 +92,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 14932
 # T-SQL Throwdown
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Development
 ## Speaker: Hakim Ali
 ## Title: T-SQL Throwdown
@@ -101,7 +101,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 15747
 # Introduction to Wait Types and Response Time Analysis
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Cloud
 ## Speaker: Janis Griffin
 ## Title: Introduction to Wait Types and Response Time Analysis
@@ -111,7 +111,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Cloud
 #  
 #### SessionID: 15803
 # 5 TSQL Commands I've Been Missing
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Development
 ## Speaker: Jason Carter
 ## Title: 5 TSQL Commands I've Been Missing
@@ -120,7 +120,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 16501
 # Introduction to Powershell cmdlets for DBAs
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Thunderdome
 ## Speaker: Jennifer McCown
 ## Title: Introduction to Powershell cmdlets for DBAs
@@ -129,7 +129,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Thunderdome
 #  
 #### SessionID: 17857
 # No DR Site?! No problem!! Enhance your SQL Server HA/DR capabilities using Windows Azure
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Cloud
 ## Speaker: Kal Yella
 ## Title: No DR Site?! No problem!! Enhance your SQL Server HA/DR capabilities using Windows Azure
@@ -138,7 +138,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Cloud
 #  
 #### SessionID: 18180
 # The Real Value of Name-Value Pairs: Using PIVOT and UNPIVOT 
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Development
 ## Speaker: Kevin Wilkie
 ## Title: The Real Value of Name-Value Pairs: Using PIVOT and UNPIVOT 
@@ -147,7 +147,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 18583
 # Turbo Boost Performance: In Memory Tables index optimizations
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Development
 ## Speaker: Konstantin Melamud
 ## Title: Turbo Boost Performance: In Memory Tables index optimizations
@@ -156,7 +156,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 19240
 # SQL Server Statistics – What Are The Chances?
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Cloud
 ## Speaker: Lori Edwards
 ## Title: SQL Server Statistics – What Are The Chances?
@@ -165,7 +165,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Cloud
 #  
 #### SessionID: 19932
 # SQL Watchdog -  find out instantly when SQL change
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Security
 ## Speaker: Michael Bourgon
 ## Title: SQL Watchdog -  find out instantly when SQL change
@@ -175,7 +175,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Security
 #  
 #### SessionID: 19960
 # SQL Server Foreign Keys – De-mystifying the Rest of the Story
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Cloud
 ## Speaker: Mike Byrd
 ## Title: SQL Server Foreign Keys – De-mystifying the Rest of the Story
@@ -184,7 +184,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Cloud
 #  
 #### SessionID: 20781
 # SQL Server Bingo – Install, Migration  Config
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Automation
 ## Speaker: Mindy Curnutt
 ## Title: SQL Server Bingo – Install, Migration  Config
@@ -193,7 +193,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Automation
 #  
 #### SessionID: 21300
 # CIS Benchmarks – A Guide to SQL Server Security
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Security
 ## Speaker: Nancy Hidy Wilson
 ## Title: CIS Benchmarks – A Guide to SQL Server Security
@@ -203,7 +203,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Security
 #  
 #### SessionID: 22796
 # Increase your SSIS productivity with Biml
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Thunderdome
 ## Speaker: Reeves Smith
 ## Title: Increase your SSIS productivity with Biml
@@ -215,7 +215,7 @@ This session will be a demo based session that will inspire you to make Biml you
 #  
 #### SessionID: 22872
 # SQL Server 2014 In Memory technologies - In Memory OLTP (aka Hekaton)  ColumnStore
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Thunderdome
 ## Speaker: Reinaldo Kibel
 ## Title: SQL Server 2014 In Memory technologies - In Memory OLTP (aka Hekaton)  ColumnStore
@@ -225,7 +225,7 @@ Having participated in SQL14/Hekaton TAP, I'll be showing demo on both of these 
 #  
 #### SessionID: 23754
 # AlwaysOn Live Deployment
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Thunderdome
 ## Speaker: Ryan Adams
 ## Title: AlwaysOn Live Deployment
@@ -234,7 +234,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Thunderdome
 #  
 #### SessionID: 23755
 # How Active Directory affects SQL Server
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Security
 ## Speaker: Ryan Adams
 ## Title: How Active Directory affects SQL Server
@@ -243,7 +243,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Security
 #  
 #### SessionID: 24409
 # SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Security
 ## Speaker: Shawn Weisfeld
 ## Title: SQL Server Data Tools
@@ -253,7 +253,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Security
 #  
 #### SessionID: 24433
 # Parameter Sniffing the Good and the Bad
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Development
 ## Speaker: Lance Tidwell
 ## Title: Parameter Sniffing the Good and the Bad
@@ -262,7 +262,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 24989
 # XML  SQL: Best Frenemies Forever
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Richard Heim
 ## Title: XML  SQL: Best Frenemies Forever
@@ -271,7 +271,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 25713
 # Capture Change and Apply it with CDC  SSIS
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Steve Wake
 ## Title: Capture Change and Apply it with CDC  SSIS
@@ -280,7 +280,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 26450
 # SQL Injection
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Security
 ## Speaker: Kevin Boles
 ## Title: SQL Injection
@@ -289,7 +289,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Security
 #  
 #### SessionID: 26535
 # Getting started with Tabular Analysis Services
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Thomas LeBlanc
 ## Title: Getting started with Tabular Analysis Services
@@ -298,7 +298,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 26642
 # 15 Quick Tips for SSIS Performance
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Tim Mitchell
 ## Title: 15 Quick Tips for SSIS Performance
@@ -309,7 +309,7 @@ In this session, we’ll focus on SSIS package performance, quickly reviewing 15
 #  
 #### SessionID: 26813
 # Windowing Functions
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Development
 ## Speaker: Tim Costello
 ## Title: Windowing Functions
@@ -318,7 +318,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 26921
 # Database Release Management: Tips to help organize it
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Automation
 ## Speaker: TJay Belt
 ## Title: Database Release Management: Tips to help organize it
@@ -327,7 +327,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Automation
 #  
 #### SessionID: 27747
 # Table Vars  Temp Tables - What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Thunderdome
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
@@ -336,7 +336,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Thunderdome
 #  
 #### SessionID: 28228
 # SQL Server Internals
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Automation
 ## Speaker: Naomi Williams
 ## Title: SQL Server Internals
@@ -345,7 +345,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Automation
 #  
 #### SessionID: 28241
 # Change Data Capture  Change Tracking Deep Dive
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Kevin Hazzard
 ## Title: Change Data Capture  Change Tracking Deep Dive
@@ -354,7 +354,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 34603
 # Getting Started with SQL Server in the Cloud with Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Cloud
 ## Speaker: Anil Mahadev
 ## Title: Getting Started with SQL Server in the Cloud with Microsoft Azure
@@ -363,7 +363,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Cloud
 #  
 #### SessionID: 9124
 # DBA Toolbox: Surviving A Disaster
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Automation
 ## Speaker: AJ Mendo
 ## Title: DBA Toolbox: Surviving A Disaster
@@ -372,7 +372,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Automation
 #  
 #### SessionID: 9425
 # Beginning Automation with Powershell
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Automation
 ## Speaker: Amy Herold
 ## Title: Beginning Automation with Powershell
@@ -382,7 +382,7 @@ Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Automation
 #  
 #### SessionID: 9589
 # Turbocharge Your Career With a Learning Plan
-#### [Back to calendar](#SQLSaturday-#362---Austin-2015)
+#### [Back to calendar](#SQLSaturday-#362-Austin-2015)
 Event Date: 31-01-2015 - Session time: 00:00:00 - Track: DBA, Security
 ## Speaker: Andy Warren
 ## Title: Turbocharge Your Career With a Learning Plan

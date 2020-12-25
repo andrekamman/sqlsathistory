@@ -19,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 102017
 # Analisando dados de séries temporais gerados pelo Azure Sphere com o Azure Time Series Insights
-#### [Back to calendar](#SQLSaturday-#941---Joinville---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#941-Joinville-Virtual-2020)
 Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Walter Coan
 ## Title: Analisando dados de séries temporais gerados pelo Azure Sphere com o Azure Time Series Insights
@@ -28,7 +28,7 @@ Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 102173
 # Porque minha aplicação com Entity Framework está lenta?
-#### [Back to calendar](#SQLSaturday-#941---Joinville---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#941-Joinville-Virtual-2020)
 Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Marcel Inowe
 ## Title: Porque minha aplicação com Entity Framework está lenta?
@@ -39,7 +39,7 @@ Nessa sessão abordaremos esse assunto tão polêmico, quanto interessante e mos
 #  
 #### SessionID: 100572
 # Migrando o SQL Server para o Azure
-#### [Back to calendar](#SQLSaturday-#941---Joinville---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#941-Joinville-Virtual-2020)
 Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Other
 ## Speaker: Tiago Crespi
 ## Title: Migrando o SQL Server para o Azure
@@ -49,7 +49,7 @@ E mostrar na prática passo a passo, como ocorre esta migração.
 #  
 #### SessionID: 108316
 # Data Convergence with Azure
-#### [Back to calendar](#SQLSaturday-#941---Joinville---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#941-Joinville-Virtual-2020)
 Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Flávio Farias
 ## Title: Data Convergence with Azure
@@ -58,7 +58,7 @@ Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 101250
 # Desenvolvimento e Administração em SQL Server com Python
-#### [Back to calendar](#SQLSaturday-#941---Joinville---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#941-Joinville-Virtual-2020)
 Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: William Lino Oliveira
 ## Title: Desenvolvimento e Administração em SQL Server com Python
@@ -67,7 +67,7 @@ Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 102037
 # Hacking SQL Server 3.0
-#### [Back to calendar](#SQLSaturday-#941---Joinville---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#941-Joinville-Virtual-2020)
 Event Date: 03-10-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Hacking SQL Server 3.0
@@ -78,7 +78,7 @@ Vamos simular um novo modelo de acesso em um banco de dados e como prevenir este
 #  
 #### SessionID: 101116
 # SQL Server on Linux - Da Instalação a Configurações
-#### [Back to calendar](#SQLSaturday-#941---Joinville---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#941-Joinville-Virtual-2020)
 Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Anderson Souza
 ## Title: SQL Server on Linux - Da Instalação a Configurações
@@ -87,7 +87,7 @@ Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 101373
 # Análise de Sentimento com Forms + Flow + Azure Cognitive Services + Power BI
-#### [Back to calendar](#SQLSaturday-#941---Joinville---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#941-Joinville-Virtual-2020)
 Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Geórgia Spirandeli
 ## Title: Análise de Sentimento com Forms + Flow + Azure Cognitive Services + Power BI
@@ -96,7 +96,7 @@ Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 100012
 # Técnicas de Tuning que Todo Desenvolvedor Deve Saber
-#### [Back to calendar](#SQLSaturday-#941---Joinville---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#941-Joinville-Virtual-2020)
 Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Rodrigo Crespi
 ## Title: Técnicas de Tuning que Todo Desenvolvedor Deve Saber
@@ -106,7 +106,7 @@ Contudo, você sabe o impacto de suas consultas no futuro? Nesta sessão, aprend
 #  
 #### SessionID: 102343
 # SQL SERVER 2019: features que todo DBA deve conhecer
-#### [Back to calendar](#SQLSaturday-#941---Joinville---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#941-Joinville-Virtual-2020)
 Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcelo Adade
 ## Title: SQL SERVER 2019: features que todo DBA deve conhecer
@@ -115,7 +115,7 @@ Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 101110
 # Trabalhando com Blobs no AZURE SYNAPSE (antigo SQL DW)
-#### [Back to calendar](#SQLSaturday-#941---Joinville---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#941-Joinville-Virtual-2020)
 Event Date: 03-10-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Wagner Crivelini
 ## Title: Trabalhando com Blobs no AZURE SYNAPSE (antigo SQL DW)
@@ -124,7 +124,7 @@ Event Date: 03-10-2020 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 102385
 # A Arte de Criar Storytelling com Power BI
-#### [Back to calendar](#SQLSaturday-#941---Joinville---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#941-Joinville-Virtual-2020)
 Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Gerson Viergutz
 ## Title: A Arte de Criar Storytelling com Power BI
@@ -140,7 +140,7 @@ Formatação Condicional e muito mais...
 #  
 #### SessionID: 100010
 # Implementando uma solução de monitoração robusta e escalável com o SQL Server
-#### [Back to calendar](#SQLSaturday-#941---Joinville---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#941-Joinville-Virtual-2020)
 Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vitor Fava
 ## Title: Implementando uma solução de monitoração robusta e escalável com o SQL Server
@@ -151,7 +151,7 @@ Nesta sessão vamos discutir como utilizar as principais ferramentas disponívei
 #  
 #### SessionID: 101546
 # O que acontece com um Select nos bastidores (Luiz Fernando Lima)
-#### [Back to calendar](#SQLSaturday-#941---Joinville---Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#941-Joinville-Virtual-2020)
 Event Date: 03-10-2020 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Luiz Henrique Garetti
 ## Title: O que acontece com um Select nos bastidores (Luiz Fernando Lima)

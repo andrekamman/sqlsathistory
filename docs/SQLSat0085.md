@@ -51,7 +51,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28527
 # Analysis - 0 to PowerPivot
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Adam Jorgensen
 ## Title: Analysis - 0 to PowerPivot
@@ -60,7 +60,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 28704
 # Building a Professional Development Plan
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Andy Warren
 ## Title: Building a Professional Development Plan
@@ -70,7 +70,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 29033
 # Advancing Data Storage for Databases
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Chris  Wolfley
 ## Title: Advancing Data Storage for Databases
@@ -79,7 +79,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 29068
 # 0 to SSRS Presentation
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: David Liebman
 ## Title: 0 to SSRS Presentation
@@ -88,7 +88,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 29096
 # Reporting Services Deep Dive
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Brian K McDonald
 ## Title: Reporting Services Deep Dive
@@ -97,7 +97,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 29135
 # Page  Row Compression Deep Dive
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Bradley Ball
 ## Title: Page  Row Compression Deep Dive
@@ -106,7 +106,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 29321
 # Introduction to SSIS
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Bradley Schacht
 ## Title: Introduction to SSIS
@@ -115,7 +115,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 29322
 # Dynamic SSIS: Configs, Expressions and Variables
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Bradley Schacht
 ## Title: Dynamic SSIS: Configs, Expressions and Variables
@@ -124,7 +124,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 29355
 # From Ground to Cloud for Databases
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Buck Woody
 ## Title: From Ground to Cloud for Databases
@@ -133,7 +133,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 29576
 # Storing PowerShell Output
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Chad Miller
 ## Title: Storing PowerShell Output
@@ -142,7 +142,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 29628
 # Upgrade Roadmap: Taking YOU to R2
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Craig Purnell
 ## Title: Upgrade Roadmap: Taking YOU to R2
@@ -151,7 +151,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 29699
 # Useful tools for a DBA and or Database Developer 
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Daniel Taylor
 ## Title: Useful tools for a DBA and or Database Developer 
@@ -160,7 +160,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 29921
 # Data Sharding in OLTP Systems
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Dmitri Korotkevitch
 ## Title: Data Sharding in OLTP Systems
@@ -171,7 +171,7 @@ This session demonstrates several data sharding techniques that can be used to p
 #  
 #### SessionID: 29946
 # The Fundamentals of DBA-ism 
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Don Stevic
 ## Title: The Fundamentals of DBA-ism 
@@ -183,7 +183,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 30076
 # You’re My Density: Making Sense of Statistics
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Erin Stellato
 ## Title: You’re My Density: Making Sense of Statistics
@@ -192,7 +192,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 30139
 # SSIS Data Flow Buffer Breakdown
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Eric Wisdahl
 ## Title: SSIS Data Flow Buffer Breakdown
@@ -201,7 +201,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 30152
 # TempDB Performance Troubleshooting and Optimizing
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Eddie Wuerch
 ## Title: TempDB Performance Troubleshooting and Optimizing
@@ -210,7 +210,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 30300
 # Introduction to Execution Plan
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Nathan Heaivilin
 ## Title: Introduction to Execution Plan
@@ -219,7 +219,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 30328
 # SQL Azure Performance Considerations
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Herve Roggero
 ## Title: SQL Azure Performance Considerations
@@ -228,7 +228,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 30459
 # Sql Server On VMware??? 
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Janis Griffin
 ## Title: Sql Server On VMware??? 
@@ -237,7 +237,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 30460
 # Performance Management – 2008 MDW - How  Why
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Janis Griffin
 ## Title: Performance Management – 2008 MDW - How  Why
@@ -246,7 +246,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 30662
 # Rewriting Bad Code
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Jeffrey Garbus
 ## Title: Rewriting Bad Code
@@ -255,7 +255,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 30867
 # SSIShare The Code Man
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: James McAuliffe
 ## Title: SSIShare The Code Man
@@ -269,7 +269,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 31041
 # Policy-Based Management in a Nutshell
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Jorge Segarra
 ## Title: Policy-Based Management in a Nutshell
@@ -278,7 +278,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 31056
 # Mission Possible: Pervasive BI
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Bob Abernethy
 ## Title: Mission Possible: Pervasive BI
@@ -287,7 +287,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 31277
 # Working With XML In SQL Server 
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Kendal Van Dyke
 ## Title: Working With XML In SQL Server 
@@ -297,7 +297,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 31480
 # SSRS Subscriptions
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Kyle Walker
 ## Title: SSRS Subscriptions
@@ -306,7 +306,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 31637
 # Extend your T-SQL Scripting with PowerShell
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Maximo Trinidad
 ## Title: Extend your T-SQL Scripting with PowerShell
@@ -315,7 +315,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 31654
 # Using Script Task and Components in SSIS
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Mike Davis
 ## Title: Using Script Task and Components in SSIS
@@ -324,7 +324,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 31655
 # SQL Smackdown SSIS vs T-SQL
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Mike Davis
 ## Title: SQL Smackdown SSIS vs T-SQL
@@ -333,7 +333,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 31777
 # Rapidly Deploying SQL Server with PowerShell
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Michael Wells
 ## Title: Rapidly Deploying SQL Server with PowerShell
@@ -342,7 +342,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 31808
 # Introduction to PowerPivot for Excel
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Michael Antonovich
 ## Title: Introduction to PowerPivot for Excel
@@ -351,7 +351,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 32097
 # Data Conversions: Steps, Tips and Best Practices
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Norm Bowen
 ## Title: Data Conversions: Steps, Tips and Best Practices
@@ -360,7 +360,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 32155
 # Where to with NoSql
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: patrick thompson
 ## Title: Where to with NoSql
@@ -369,7 +369,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 32247
 # T-SQL Enhancements in Denali
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Plamen Ratchev
 ## Title: T-SQL Enhancements in Denali
@@ -378,7 +378,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 32541
 # Loading a Data Warehouse with SSIS
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Robert Biddle
 ## Title: Loading a Data Warehouse with SSIS
@@ -387,7 +387,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 32551
 # PowerPivot: BI  Massive Data Analysis for Humans
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Rob Collie
 ## Title: PowerPivot: BI  Massive Data Analysis for Humans
@@ -397,7 +397,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 32587
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -406,7 +406,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 32626
 # T-SQL Alphabet Soup
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Rodney Landrum
 ## Title: T-SQL Alphabet Soup
@@ -416,7 +416,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 32644
 # Powershell by Example
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Ronald Dameron
 ## Title: Powershell by Example
@@ -425,7 +425,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 32648
 # Biz Intel Dashboards W/Excel OLAP formulas
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Phillip E Rosen
 ## Title: Biz Intel Dashboards W/Excel OLAP formulas
@@ -440,7 +440,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 32684
 # Reporting in Silverlight 
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Russell Fustino
 ## Title: Reporting in Silverlight 
@@ -453,7 +453,7 @@ He will show how this component is designed for reporting in Microsoft Silverlig
 #  
 #### SessionID: 33389
 # Transaction Log Deep Dive
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Kevin Boles
 ## Title: Transaction Log Deep Dive
@@ -462,7 +462,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 33391
 # Parallel Query Execution Deep Dive
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Kevin Boles
 ## Title: Parallel Query Execution Deep Dive
@@ -471,7 +471,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 34069
 # Becoming DAX: An Introduction ... 
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: William E Pearson III
 ## Title: Becoming DAX: An Introduction ... 
@@ -480,7 +480,7 @@ Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 34075
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#85---Orlando-2011)
+#### [Back to calendar](#SQLSaturday-#85-Orlando-2011)
 Event Date: 24-09-2011 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX

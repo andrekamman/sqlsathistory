@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 88492
 # Migrating our old SQL Server to the modern platform
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Databases
 ## Speaker: Javier Villegas
 ## Title: Migrating our old SQL Server to the modern platform
@@ -38,7 +38,7 @@ https://welcu.com/metric-learning/preconf-migrating-old-sql-server
 #  
 #### SessionID: 90134
 # PreConference: Advanced Power BI
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Cristobal Ibarra
 ## Title: PreConference: Advanced Power BI
@@ -50,7 +50,7 @@ https://welcu.com/metric-learning/preconf-advanced-power-bi
 #  
 #### SessionID: 89501
 # SQL Server 2019 Big Data Clusters
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Databases
 ## Speaker: Adrian Fernandez
 ## Title: SQL Server 2019 Big Data Clusters
@@ -65,7 +65,7 @@ SQL Server 2019 Big Data Clusters primary scenarios are:
 #  
 #### SessionID: 89611
 # Lo Nuevo de Power BI
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Cristobal Ibarra
 ## Title: Lo Nuevo de Power BI
@@ -74,7 +74,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 89713
 # Machine Learning: Algoritmos de clasificación explicados con peras y manzanas
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Science  AI
 ## Speaker: Ricardo Solar
 ## Title: Machine Learning: Algoritmos de clasificación explicados con peras y manzanas
@@ -87,7 +87,7 @@ Se trabajara en lenguaje de programacion Python con librerías SciKit Learn para
 #  
 #### SessionID: 87285
 # Nuevas Caracterísiticas de SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Databases
 ## Speaker: Kamal Valero
 ## Title: Nuevas Caracterísiticas de SQL Server 2019
@@ -96,7 +96,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Databases
 #  
 #### SessionID: 87636
 # Multi-Class Text Classification
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Science  AI
 ## Speaker: Juan Pablo Moraga
 ## Title: Multi-Class Text Classification
@@ -105,7 +105,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Science  AI
 #  
 #### SessionID: 90184
 # Metodologias Agiles en Data Analytics - Azure DevOps y Power BI
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Gaston Cruz
 ## Title: Metodologias Agiles en Data Analytics - Azure DevOps y Power BI
@@ -115,7 +115,7 @@ Analisis de Bugs, Historias de Usuario, y deliveries desde un contexto de desarr
 #  
 #### SessionID: 87375
 # Query Performance Insights - What's New ?
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Databases
 ## Speaker: Javier Villegas
 ## Title: Query Performance Insights - What's New ?
@@ -128,7 +128,7 @@ Finalmente veremos como utilizar las nuevas herramientas de SSMS para poder real
 #  
 #### SessionID: 88463
 # Linux Services on Windows with-out Virtualization
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Science  AI
 ## Speaker: Daniel Fischer
 ## Title: Linux Services on Windows with-out Virtualization
@@ -140,7 +140,7 @@ Todo esto lo realizaremos utilizando una maquina virtual con windows 10 en Azure
 #  
 #### SessionID: 90543
 # Open Data Initiative / CDM Power BI Data Flow
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Mauricio Gamboa
 ## Title: Open Data Initiative / CDM Power BI Data Flow
@@ -149,7 +149,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 87275
 # Accelerating Artificial Intelligence with ONNX
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Science  AI
 ## Speaker: Patricio Cofre
 ## Title: Accelerating Artificial Intelligence with ONNX
@@ -158,7 +158,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Science  AI
 #  
 #### SessionID: 87404
 # SQL Server in Docker Containers
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Databases
 ## Speaker: Javier Villegas
 ## Title: SQL Server in Docker Containers
@@ -168,7 +168,7 @@ En esta sesion veremos como instalar Docker sobre Linux y Windows para luego hac
 #  
 #### SessionID: 90983
 # LA FORMA (IN)CORRECTA DE HACER TESTING EN SQL SERVER
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Databases
 ## Speaker: PABLO JAVIER FERNANDEZ
 ## Title: LA FORMA (IN)CORRECTA DE HACER TESTING EN SQL SERVER
@@ -183,7 +183,7 @@ Esta sesión te mostrará los caminos adecuados para potenciar tus técnicas de 
 #  
 #### SessionID: 89450
 # Nueva Solución para DBA - SQLWatch
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Databases
 ## Speaker: Carlos Farias
 ## Title: Nueva Solución para DBA - SQLWatch
@@ -192,7 +192,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Databases
 #  
 #### SessionID: 90117
 # Diseño de motores de búsqueda con Azure Search y Cognitive Services
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Databases
 ## Speaker: Nestor Campos
 ## Title: Diseño de motores de búsqueda con Azure Search y Cognitive Services
@@ -201,7 +201,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Databases
 #  
 #### SessionID: 90314
 # Shiny apps and Databases
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Science  AI
 ## Speaker: Milenko Brzovic
 ## Title: Shiny apps and Databases
@@ -215,7 +215,7 @@ Firewall configuration.
 #  
 #### SessionID: 89344
 # AZURE y la Industria 4.0
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Science  AI
 ## Speaker: Hector Meza
 ## Title: AZURE y la Industria 4.0
@@ -224,7 +224,7 @@ Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Science  AI
 #  
 #### SessionID: 89821
 # ShinyServer con Docker en Azure (Azure + R + ShinyServer + Auth0)
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Data Science  AI
 ## Speaker: Nicolás Calderón Díaz
 ## Title: ShinyServer con Docker en Azure (Azure + R + ShinyServer + Auth0)
@@ -235,7 +235,7 @@ Todo montado en arquitecturas Azure.
 #  
 #### SessionID: 90981
 # ¿HACKING SQL SERVER?
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Databases
 ## Speaker: PABLO JAVIER FERNANDEZ
 ## Title: ¿HACKING SQL SERVER?
@@ -248,7 +248,7 @@ Depende de nosotros fortalecer nuestros programas y hacer más duro el camino ha
 #  
 #### SessionID: 93233
 # Data Platform Unplugged
-#### [Back to calendar](#SQLSaturday-#836---Santiago-2019)
+#### [Back to calendar](#SQLSaturday-#836-Santiago-2019)
 Event Date: 13-04-2019 - Session time: 16:00:00 - Track: Databases
 ## Speaker: Javier Villegas
 ## Title: Data Platform Unplugged

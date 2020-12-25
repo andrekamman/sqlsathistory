@@ -21,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11834
 # Durability 101
-#### [Back to calendar](#SQLSaturday-#329---Rio-de-Janeiro-2014)
+#### [Back to calendar](#SQLSaturday-#329-Rio-de-Janeiro-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Pedro Correia
 ## Title: Durability 101
@@ -40,7 +40,7 @@ This session is targeted for people that are new to the SQL server world and wan
 #  
 #### SessionID: 13932
 # Tudo que você precisa para um BI de ponta!
-#### [Back to calendar](#SQLSaturday-#329---Rio-de-Janeiro-2014)
+#### [Back to calendar](#SQLSaturday-#329-Rio-de-Janeiro-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Erika Madeira
 ## Title: Tudo que você precisa para um BI de ponta!
@@ -49,7 +49,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 14168
 # Carreira - Dicas para fazer um milhão com MSSQL
-#### [Back to calendar](#SQLSaturday-#329---Rio-de-Janeiro-2014)
+#### [Back to calendar](#SQLSaturday-#329-Rio-de-Janeiro-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Fabiano Amorim
 ## Title: Carreira - Dicas para fazer um milhão com MSSQL
@@ -60,7 +60,7 @@ Também veremos algumas boas práticas para desenvolvedores e administradores de
 #  
 #### SessionID: 14245
 # Entendendo o Clusterlog
-#### [Back to calendar](#SQLSaturday-#329---Rio-de-Janeiro-2014)
+#### [Back to calendar](#SQLSaturday-#329-Rio-de-Janeiro-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Marcelo Fernandes
 ## Title: Entendendo o Clusterlog
@@ -71,7 +71,7 @@ Nesta  sessão você conhecerá como "Debugar" o clusterlog, que é um excelente
 #  
 #### SessionID: 15136
 # Collecting and analyzing SQL Server performance da
-#### [Back to calendar](#SQLSaturday-#329---Rio-de-Janeiro-2014)
+#### [Back to calendar](#SQLSaturday-#329-Rio-de-Janeiro-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ignacio Salom Rangel
 ## Title: Collecting and analyzing SQL Server performance da
@@ -80,7 +80,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 19266
 # In-Memory OLAP a.k.a ColumnStore Index
-#### [Back to calendar](#SQLSaturday-#329---Rio-de-Janeiro-2014)
+#### [Back to calendar](#SQLSaturday-#329-Rio-de-Janeiro-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: In-Memory OLAP a.k.a ColumnStore Index
@@ -89,7 +89,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19294
 # Best Practices TempDB
-#### [Back to calendar](#SQLSaturday-#329---Rio-de-Janeiro-2014)
+#### [Back to calendar](#SQLSaturday-#329-Rio-de-Janeiro-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Lucas Souza
 ## Title: Best Practices TempDB
@@ -107,7 +107,7 @@ Cuide de sua Tempdb, ela é única.
 #  
 #### SessionID: 19303
 # Transaction Log - Entendendo as melhores práticas
-#### [Back to calendar](#SQLSaturday-#329---Rio-de-Janeiro-2014)
+#### [Back to calendar](#SQLSaturday-#329-Rio-de-Janeiro-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Luiz Mercante
 ## Title: Transaction Log - Entendendo as melhores práticas
@@ -116,7 +116,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19883
 # Melhorias na interface do Management Studio
-#### [Back to calendar](#SQLSaturday-#329---Rio-de-Janeiro-2014)
+#### [Back to calendar](#SQLSaturday-#329-Rio-de-Janeiro-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Mauro Pichiliani
 ## Title: Melhorias na interface do Management Studio
@@ -125,7 +125,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 21182
 # Database Administration Strategies
-#### [Back to calendar](#SQLSaturday-#329---Rio-de-Janeiro-2014)
+#### [Back to calendar](#SQLSaturday-#329-Rio-de-Janeiro-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Murilo Miranda
 ## Title: Database Administration Strategies
@@ -137,7 +137,7 @@ On this session, we will talk about few basic strategies to avoid common problem
 #  
 #### SessionID: 21185
 # Buffer Pool Extension (BPE) - How it works?
-#### [Back to calendar](#SQLSaturday-#329---Rio-de-Janeiro-2014)
+#### [Back to calendar](#SQLSaturday-#329-Rio-de-Janeiro-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Murilo Miranda
 ## Title: Buffer Pool Extension (BPE) - How it works?
@@ -147,7 +147,7 @@ On this session we will enter in some theoretical details regarding this new tec
 #  
 #### SessionID: 21457
 # Minimizando o downtime de Migrações com o Database Mirroring
-#### [Back to calendar](#SQLSaturday-#329---Rio-de-Janeiro-2014)
+#### [Back to calendar](#SQLSaturday-#329-Rio-de-Janeiro-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Nilton Pinheiro
 ## Title: Minimizando o downtime de Migrações com o Database Mirroring
@@ -156,7 +156,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 21611
 # Computação em Nuvem e SQL Azure
-#### [Back to calendar](#SQLSaturday-#329---Rio-de-Janeiro-2014)
+#### [Back to calendar](#SQLSaturday-#329-Rio-de-Janeiro-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ozimar Souza
 ## Title: Computação em Nuvem e SQL Azure
@@ -165,7 +165,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 24241
 # Melhores Práticas para Utilizar as Polices no SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#329---Rio-de-Janeiro-2014)
+#### [Back to calendar](#SQLSaturday-#329-Rio-de-Janeiro-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Sulamita Dantas
 ## Title: Melhores Práticas para Utilizar as Polices no SQL Server 2014
@@ -174,7 +174,7 @@ Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 27496
 # Otimizando seus planos de execução com o SQL Server 2014 Cardinality Estimator
-#### [Back to calendar](#SQLSaturday-#329---Rio-de-Janeiro-2014)
+#### [Back to calendar](#SQLSaturday-#329-Rio-de-Janeiro-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Vitor Fava
 ## Title: Otimizando seus planos de execução com o SQL Server 2014 Cardinality Estimator
@@ -185,7 +185,7 @@ Esta apresentação fornecerá uma visão geral das principais alterações real
 #  
 #### SessionID: 34619
 # Trocando o Profiler pelos Extended Events
-#### [Back to calendar](#SQLSaturday-#329---Rio-de-Janeiro-2014)
+#### [Back to calendar](#SQLSaturday-#329-Rio-de-Janeiro-2014)
 Event Date: 25-10-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dennes Torres
 ## Title: Trocando o Profiler pelos Extended Events

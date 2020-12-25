@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10024
 # PowerShell 101 for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Allen White
 ## Title: PowerShell 101 for the SQL Server DBA
@@ -39,7 +39,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 12244
 # Master Data Management
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Dave Mattingly
 ## Title: Master Data Management
@@ -48,7 +48,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 12333
 # Migrating to SSIS 2012
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Dave Fackler
 ## Title: Migrating to SSIS 2012
@@ -57,7 +57,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 12335
 # TFS for SQL/BI Developers
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Dave Fackler
 ## Title: TFS for SQL/BI Developers
@@ -66,7 +66,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 13459
 # How to Write a DML Trigger
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Louis Davidson
 ## Title: How to Write a DML Trigger
@@ -75,7 +75,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 14095
 # Partitioning for Perf and Mgmt of Large Tables
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Adv. DBA
 ## Speaker: Eddie Wuerch
 ## Title: Partitioning for Perf and Mgmt of Large Tables
@@ -84,7 +84,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Adv. DBA
 #  
 #### SessionID: 15521
 # Data Warehouse Architecture (Ralph who?)
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Architecture/Design
 ## Speaker: Jennifer Alexander
 ## Title: Data Warehouse Architecture (Ralph who?)
@@ -93,7 +93,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Architecture/Design
 #  
 #### SessionID: 18209
 # SQL Server Internals  Architecture
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Architecture/Design
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals  Architecture
@@ -102,7 +102,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Architecture/Design
 #  
 #### SessionID: 18210
 # Top 10 Admininistrator Mistakes on SQL Server
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kevin Kline
 ## Title: Top 10 Admininistrator Mistakes on SQL Server
@@ -111,7 +111,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 18909
 # Become a SQL Block’stroyer
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Adv. DBA
 ## Speaker: Kyle Neier
 ## Title: Become a SQL Block’stroyer
@@ -120,7 +120,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Adv. DBA
 #  
 #### SessionID: 20383
 # Tablix - The Rubik Cube of Reporting Services
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mickey Stuewe
 ## Title: Tablix - The Rubik Cube of Reporting Services
@@ -131,7 +131,7 @@ Learn how to get the most out of the Tablix controls in this demo-heavy session.
 #  
 #### SessionID: 20648
 # Unable to Make Lasting Connections?
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mike Hays
 ## Title: Unable to Make Lasting Connections?
@@ -142,7 +142,7 @@ Attend this session to learn the basics of how SQL Server listens for connection
 #  
 #### SessionID: 22459
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -152,7 +152,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 22460
 # Understanding Transaction Isolation Levels
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Adv. DBA
 ## Speaker: Randy Knight
 ## Title: Understanding Transaction Isolation Levels
@@ -162,7 +162,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Adv. DBA
 #  
 #### SessionID: 23651
 # Introduction to the XML source
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Russel Loski
 ## Title: Introduction to the XML source
@@ -174,7 +174,7 @@ Attendees will be able to import simple XML using SSIS.  They will be able to cr
 #  
 #### SessionID: 23941
 # Asynchronous programming with Service Broker
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Sanil Mhatre
 ## Title: Asynchronous programming with Service Broker
@@ -183,7 +183,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 24622
 # OnPremise to Azure
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Architecture/Design
 ## Speaker: Shannon Lowder
 ## Title: OnPremise to Azure
@@ -192,7 +192,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Architecture/Design
 #  
 #### SessionID: 24867
 # Add It Up: Analysis Services Aggregations
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Craig Utley
 ## Title: Add It Up: Analysis Services Aggregations
@@ -201,7 +201,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 24868
 # Secure SSAS Data Without Tying Yourself in Knots
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Craig Utley
 ## Title: Secure SSAS Data Without Tying Yourself in Knots
@@ -210,7 +210,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 26747
 # Index Internals
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Adv. DBA
 ## Speaker: Tim Chapman
 ## Title: Index Internals
@@ -221,7 +221,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Adv. DBA
 #  
 #### SessionID: 26748
 # Transaction Log Internals
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Adv. DBA
 ## Speaker: Tim Chapman
 ## Title: Transaction Log Internals
@@ -231,7 +231,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Adv. DBA
 #  
 #### SessionID: 28090
 # Through Gardens Overgrown: PowerPivot to SSAS 2012Tabular
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: William E Pearson III
 ## Title: Through Gardens Overgrown: PowerPivot to SSAS 2012Tabular
@@ -240,7 +240,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 8958
 # Introduction to SQL Server 2012 AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Adam Belebczuk
 ## Title: Introduction to SQL Server 2012 AlwaysOn Availability Groups
@@ -249,7 +249,7 @@ Event Date: 13-07-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 9942
 # Loading the Windows Azure Cloud 
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Architecture/Design
 ## Speaker: Andy Thiru
 ## Title: Loading the Windows Azure Cloud 
@@ -269,7 +269,7 @@ What you will learn:
 #  
 #### SessionID: 9943
 # Moving Enterprise database to cloud
-#### [Back to calendar](#SQLSaturday-#214---Louisville-2013)
+#### [Back to calendar](#SQLSaturday-#214-Louisville-2013)
 Event Date: 13-07-2013 - Session time: 00:00:00 - Track: Architecture/Design
 ## Speaker: Andy Thiru
 ## Title: Moving Enterprise database to cloud

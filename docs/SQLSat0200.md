@@ -58,7 +58,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10463
 # Using SQL Server for the Model in MVC
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Bill Wolff
 ## Title: Using SQL Server for the Model in MVC
@@ -67,7 +67,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 10766
 # Awesome coaching questions every geek, analyst, leader, and consultant must know.
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Prof Dev/Misc
 ## Speaker: Brian Moran
 ## Title: Awesome coaching questions every geek, analyst, leader, and consultant must know.
@@ -80,7 +80,7 @@ Coaching takes years to master.  Learning basic coaching skills can happen quick
 #  
 #### SessionID: 11247
 # “Indexing” Encrypted Data
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Chris Bell
 ## Title: “Indexing” Encrypted Data
@@ -89,7 +89,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 12187
 # Loading a Partitioned Fact Table using SSIS 2012 (Continuation)
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev/Misc
 ## Speaker: Darryll Petrancuri
 ## Title: Loading a Partitioned Fact Table using SSIS 2012 (Continuation)
@@ -105,7 +105,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev/Misc
 #  
 #### SessionID: 12389
 # SQL Server 2012 AlwaysOn Step-by-Step
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: David Bermingham
 ## Title: SQL Server 2012 AlwaysOn Step-by-Step
@@ -114,7 +114,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 13236
 # Introduction to Spatial Data in SQL Server
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Dominic Falso
 ## Title: Introduction to Spatial Data in SQL Server
@@ -123,7 +123,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 13366
 # Enterprise Information Management Using SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI/Dev
 ## Speaker: Donald Scott
 ## Title: Enterprise Information Management Using SQL Server 2012
@@ -132,7 +132,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI/Dev
 #  
 #### SessionID: 13400
 # Loading a Partitioned Fact Table using SSIS 2012.
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev/Misc
 ## Speaker: Darryll Petrancuri
 ## Title: Loading a Partitioned Fact Table using SSIS 2012.
@@ -151,7 +151,7 @@ Leverage SQL Server Management Objects to deliver a set of robust methods for a 
 #  
 #### SessionID: 14108
 # Partitioning for Perf and Mgmt of Large Tables
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Eddie Wuerch
 ## Title: Partitioning for Perf and Mgmt of Large Tables
@@ -160,7 +160,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 14109
 # Page Latches for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Eddie Wuerch
 ## Title: Page Latches for Mere Mortals
@@ -169,7 +169,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 15008
 # My SQL Server is Not Slow for Pete's Sake! - Server Side Performance Analysis 
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Hope Foley
 ## Title: My SQL Server is Not Slow for Pete's Sake! - Server Side Performance Analysis 
@@ -179,7 +179,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 15522
 # Can you Restore Back to Yesterday?  Always Answer YES!
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev/Misc
 ## Speaker: John  Abrams
 ## Title: Can you Restore Back to Yesterday?  Always Answer YES!
@@ -199,7 +199,7 @@ So that your answer to that all important question is always YES!
 #  
 #### SessionID: 15707
 # Extend Your Knowledge with Extended Events!
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Janis Griffin
 ## Title: Extend Your Knowledge with Extended Events!
@@ -210,7 +210,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 16222
 # Using Compression to Improve Database Performance
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Joseph D'Antoni
 ## Title: Using Compression to Improve Database Performance
@@ -219,7 +219,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 16247
 # Learn RegEx In TSQL  Kick as{2}|a[s][s]+
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Joshua Lynn
 ## Title: Learn RegEx In TSQL  Kick as{2}|a[s][s]+
@@ -228,7 +228,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 16664
 # Exploring your Data with Power View
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jessica Moss
 ## Title: Exploring your Data with Power View
@@ -237,7 +237,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 16798
 # AlwaysOn - Finally, A usable 'mirror'!
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Jim Murphy
 ## Title: AlwaysOn - Finally, A usable 'mirror'!
@@ -246,7 +246,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 18031
 # Business Analytics
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Kevin Bucher
 ## Title: Business Analytics
@@ -255,7 +255,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 18294
 # T-SQL for Application Developers - Attendees chose
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Kevin Goff
 ## Title: T-SQL for Application Developers - Attendees chose
@@ -265,7 +265,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 19395
 # Self Service BI using Office 2013 and SQL 2012
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI/Dev
 ## Speaker: Akesh Gupta
 ## Title: Self Service BI using Office 2013 and SQL 2012
@@ -274,7 +274,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI/Dev
 #  
 #### SessionID: 19405
 # Big Data  Microsoft SQL Server in the Real World
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Prof Dev/Misc
 ## Speaker: Mark Kromer
 ## Title: Big Data  Microsoft SQL Server in the Real World
@@ -283,7 +283,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Prof Dev/Misc
 #  
 #### SessionID: 19573
 # Building Datamarts with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev/Misc
 ## Speaker: Mark Scott
 ## Title: Building Datamarts with SQL Server 2012
@@ -292,7 +292,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev/Misc
 #  
 #### SessionID: 19880
 # Automating in the Cloud
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Matt Velic
 ## Title: Automating in the Cloud
@@ -301,7 +301,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 20020
 # An Introduction to SQL Server Virtualisation
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Gethyn Ellis
 ## Title: An Introduction to SQL Server Virtualisation
@@ -310,7 +310,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA II
 #  
 #### SessionID: 20206
 # Making Predictions with Microsoft Data Mining Tools
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mark Hudson
 ## Title: Making Predictions with Microsoft Data Mining Tools
@@ -319,7 +319,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 20233
 # Virtualizing SQL 2012: Doing IT Right
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Michael Corey
 ## Title: Virtualizing SQL 2012: Doing IT Right
@@ -328,7 +328,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 20523
 # What the VLF? 
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Mike Hillwig
 ## Title: What the VLF? 
@@ -342,7 +342,7 @@ In this more advanced session, veteran DBA Mike Hillwig will show you what VLFs 
 #  
 #### SessionID: 20524
 # Recovery and Backup for Beginners
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI/Dev
 ## Speaker: Mike Hillwig
 ## Title: Recovery and Backup for Beginners
@@ -353,7 +353,7 @@ In this session, veteran DBA Mike Hillwig will walk through the basics of databa
 #  
 #### SessionID: 21229
 # All about NoSQL databases !!
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Prof Dev/Misc
 ## Speaker: Muthu Ramanathan
 ## Title: All about NoSQL databases !!
@@ -362,7 +362,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Prof Dev/Misc
 #  
 #### SessionID: 21272
 # Easy Database Refactoring with SQL Server Database
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Mark Wojciechowicz
 ## Title: Easy Database Refactoring with SQL Server Database
@@ -371,7 +371,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 21612
 # SSIS Performance Tuning Considerations
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Vince Napoli
 ## Title: SSIS Performance Tuning Considerations
@@ -381,7 +381,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 21705
 # 15 aspects of SQL Server indexes that you might not know
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Sebastian Meine
 ## Title: 15 aspects of SQL Server indexes that you might not know
@@ -396,7 +396,7 @@ After attending this demo rich session you will be able to
 #  
 #### SessionID: 21792
 # Upgrading to SSIS 2012
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI/Dev
 ## Speaker: Paul Rizza
 ## Title: Upgrading to SSIS 2012
@@ -405,7 +405,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI/Dev
 #  
 #### SessionID: 22407
 # Run your Applications @ the Speed of Memory
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Peter Wellauer
 ## Title: Run your Applications @ the Speed of Memory
@@ -426,7 +426,7 @@ Setting the Benchmark Standard for SQL performance
 #  
 #### SessionID: 22666
 # Goodbye Next Next Next, Hello Automated Installs
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Prof Dev/Misc
 ## Speaker: Brian Davis
 ## Title: Goodbye Next Next Next, Hello Automated Installs
@@ -435,7 +435,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Prof Dev/Misc
 #  
 #### SessionID: 22970
 # Building a Reusable ETL Framework using SSIS 2012
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI/Dev
 ## Speaker: Ravi Gudlavalleti
 ## Title: Building a Reusable ETL Framework using SSIS 2012
@@ -444,7 +444,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI/Dev
 #  
 #### SessionID: 23028
 # Move Your On Premise Database to a Windows Azure SQL Database and Setup Data Sync
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Charles Rivel
 ## Title: Move Your On Premise Database to a Windows Azure SQL Database and Setup Data Sync
@@ -453,7 +453,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 23549
 # HealthySQL
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Robert Pearl
 ## Title: HealthySQL
@@ -464,7 +464,7 @@ Robert Pearl talks about the importance of regular health checks of your SQL Ser
 #  
 #### SessionID: 23799
 # High Performance SANLess Clustering
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Dave Bermingham and Eric Schwartz
 ## Title: High Performance SANLess Clustering
@@ -474,7 +474,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 23897
 # Automate SSIS Development for Loading a Data Warehouse
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Samuel Vanga
 ## Title: Automate SSIS Development for Loading a Data Warehouse
@@ -483,7 +483,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 24480
 # Searching Binary Data in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Steve Jones
 ## Title: Searching Binary Data in SQL Server 2012
@@ -492,7 +492,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 25677
 # ABCs of CDC with SSIS 2012
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI/Dev
 ## Speaker: Steve Wake
 ## Title: ABCs of CDC with SSIS 2012
@@ -501,7 +501,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI/Dev
 #  
 #### SessionID: 26107
 # Accelerating Microsoft SQL Databases  Critical Applications with Fusion-io
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Sponsor Session
 ## Speaker: Eric Schwartz
 ## Title: Accelerating Microsoft SQL Databases  Critical Applications with Fusion-io
@@ -510,7 +510,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Sponsor Session
 #  
 #### SessionID: 26161
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -519,7 +519,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 26164
 # Transaction Log Deep Dive
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev/Misc
 ## Speaker: Kevin Boles
 ## Title: Transaction Log Deep Dive
@@ -528,7 +528,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev/Misc
 #  
 #### SessionID: 26830
 # A Walk Around the SQL Server 2012 Audit Feature
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Timothy McAliley
 ## Title: A Walk Around the SQL Server 2012 Audit Feature
@@ -537,7 +537,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA I
 #  
 #### SessionID: 27702
 # Table Vars  Temp Tables - What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev/Misc
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
@@ -546,7 +546,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev/Misc
 #  
 #### SessionID: 27704
 # Windowing Functions in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Wayne Sheffield
 ## Title: Windowing Functions in SQL Server 2012
@@ -555,7 +555,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 35783
 # Data Career Paths and Decision Making Strategies
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Prof Dev/Misc
 ## Speaker: Melissa Demsak
 ## Title: Data Career Paths and Decision Making Strategies
@@ -564,7 +564,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Prof Dev/Misc
 #  
 #### SessionID: 9102
 # Analysis Services - Multidimensional vs. PowerPivot vs. Tabular/BISM
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: A.J. Mee
 ## Title: Analysis Services - Multidimensional vs. PowerPivot vs. Tabular/BISM
@@ -573,7 +573,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 9171
 # Is the Job of a DBA, just a DBA?
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA II
 ## Speaker: Todd  Phillippe
 ## Title: Is the Job of a DBA, just a DBA?
@@ -589,7 +589,7 @@ How can this be evaluated and effectively communicated to administrators that ar
 #  
 #### SessionID: 9583
 # Building Your Professional Development Plan
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Prof Dev/Misc
 ## Speaker: Andy Warren
 ## Title: Building Your Professional Development Plan
@@ -598,7 +598,7 @@ Event Date: 01-06-2013 - Session time: 00:00:00 - Track: Prof Dev/Misc
 #  
 #### SessionID: 9665
 # Advanced Performance Tuning Tips with Ignite
-#### [Back to calendar](#SQLSaturday-#200---Philadelphia-2013)
+#### [Back to calendar](#SQLSaturday-#200-Philadelphia-2013)
 Event Date: 01-06-2013 - Session time: 00:00:00 - Track: DBA I
 ## Speaker: Janis Griffin
 ## Title: Advanced Performance Tuning Tips with Ignite

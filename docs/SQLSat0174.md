@@ -53,7 +53,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10311
 # What DBAs need to know about SharePoint Databases
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 7
 ## Speaker: Ben Adams
 ## Title: What DBAs need to know about SharePoint Databases
@@ -62,7 +62,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 7
 #  
 #### SessionID: 11108
 # Data Quality Services--Finally!
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 3
 ## Speaker: Julie Smith
 ## Title: Data Quality Services--Finally!
@@ -71,7 +71,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 3
 #  
 #### SessionID: 11227
 # Top new features in Integration Services 2012
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 4
 ## Speaker: Cathy  Miller
 ## Title: Top new features in Integration Services 2012
@@ -80,7 +80,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 4
 #  
 #### SessionID: 11562
 # Get Hired in 10 minutes
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 8
 ## Speaker: Chris Skorlinski
 ## Title: Get Hired in 10 minutes
@@ -90,7 +90,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 8
 #  
 #### SessionID: 11563
 # High Availability features in the SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 1
 ## Speaker: Chris Skorlinski
 ## Title: High Availability features in the SQL Server 2012
@@ -100,7 +100,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 1
 #  
 #### SessionID: 11952
 # Integrating DQS, MDS and Your Data Warehouse 
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 3
 ## Speaker: Christopher Price
 ## Title: Integrating DQS, MDS and Your Data Warehouse 
@@ -109,7 +109,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 3
 #  
 #### SessionID: 12228
 # Database Physical File Chemistry for the Non-DBA
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 1
 ## Speaker: Dave Turpin
 ## Title: Database Physical File Chemistry for the Non-DBA
@@ -120,7 +120,7 @@ This session will leap frog your understanding of database physical files.  You 
 #  
 #### SessionID: 12727
 # SRS Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 6
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
@@ -129,7 +129,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 6
 #  
 #### SessionID: 12879
 # Expanding Productivity Using BI Data Visualization
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 6
 ## Speaker: David Botzenhart
 ## Title: Expanding Productivity Using BI Data Visualization
@@ -138,7 +138,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 6
 #  
 #### SessionID: 14002
 # Troubleshooting SSRS Performance
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 6
 ## Speaker: Evan Basalik
 ## Title: Troubleshooting SSRS Performance
@@ -147,7 +147,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 6
 #  
 #### SessionID: 14235
 # Explore the Integration Services Catalog
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 3
 ## Speaker: Fendy Huang
 ## Title: Explore the Integration Services Catalog
@@ -158,7 +158,7 @@ In this session we will walk through the steps to configure the catalogs, explor
 #  
 #### SessionID: 14332
 # What's my xVelocity? All about in-memory analytics
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 5
 ## Speaker: Katherine Fraser
 ## Title: What's my xVelocity? All about in-memory analytics
@@ -167,7 +167,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 5
 #  
 #### SessionID: 14481
 # Bad SQL
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 1
 ## Speaker: Geoff Hiten
 ## Title: Bad SQL
@@ -176,7 +176,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 1
 #  
 #### SessionID: 14482
 # Moving Day - SQL Migrations with SharePoint
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 2
 ## Speaker: Geoff Hiten
 ## Title: Moving Day - SQL Migrations with SharePoint
@@ -186,7 +186,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 2
 #  
 #### SessionID: 15488
 # SSIS Package Realtime Visualzation  Analytics
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 4
 ## Speaker: Ira Warren
 ## Title: SSIS Package Realtime Visualzation  Analytics
@@ -195,7 +195,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 4
 #  
 #### SessionID: 15550
 # SQL Server PDW an Introductory view
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 2
 ## Speaker: James Herring
 ## Title: SQL Server PDW an Introductory view
@@ -204,7 +204,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 2
 #  
 #### SessionID: 15913
 # Data Quality Services - Cleanse  Matching intro
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 3
 ## Speaker: Jason Howell
 ## Title: Data Quality Services - Cleanse  Matching intro
@@ -217,7 +217,7 @@ Most any business user will quickly see the value of DQS and walk away feeling r
 #  
 #### SessionID: 15995
 # Principles of BISM Tabular Modeling
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 2
 ## Speaker: Javier Guillen
 ## Title: Principles of BISM Tabular Modeling
@@ -226,7 +226,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 2
 #  
 #### SessionID: 16245
 # What's new in 2012 - High Level
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 7
 ## Speaker: Joe Dib
 ## Title: What's new in 2012 - High Level
@@ -235,7 +235,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 7
 #  
 #### SessionID: 16645
 # Programmatically Managing the BI Stack Metadata
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 4
 ## Speaker: Jesse Kraut
 ## Title: Programmatically Managing the BI Stack Metadata
@@ -244,7 +244,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 4
 #  
 #### SessionID: 16647
 # Realizing the Power of Analysis Services
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 5
 ## Speaker: Jessica Moss
 ## Title: Realizing the Power of Analysis Services
@@ -253,7 +253,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 5
 #  
 #### SessionID: 16648
 # Exploring your Data with Power View
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 6
 ## Speaker: Jessica Moss
 ## Title: Exploring your Data with Power View
@@ -262,7 +262,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 6
 #  
 #### SessionID: 16946
 # Predictive Analytics at your fingertips
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 5
 ## Speaker: Jose L. Rivera
 ## Title: Predictive Analytics at your fingertips
@@ -271,7 +271,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 5
 #  
 #### SessionID: 18144
 # Let's Talk Licensing
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 8
 ## Speaker: Kevin Goode
 ## Title: Let's Talk Licensing
@@ -280,7 +280,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 8
 #  
 #### SessionID: 18146
 # Let’s get parallel
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 4
 ## Speaker: Kevin Goode
 ## Title: Let’s get parallel
@@ -289,7 +289,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 4
 #  
 #### SessionID: 19002
 # Extremely Fast Dimension Updates with CDC and CT
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 3
 ## Speaker: Luis Figueroa
 ## Title: Extremely Fast Dimension Updates with CDC and CT
@@ -298,7 +298,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 3
 #  
 #### SessionID: 19823
 # Build Your Own Dashboard (BYOD) in HTML5
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 8
 ## Speaker: Matthew Duffield
 ## Title: Build Your Own Dashboard (BYOD) in HTML5
@@ -307,7 +307,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 8
 #  
 #### SessionID: 20219
 # Put Your Data on the Map
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 6
 ## Speaker: Mark Hudson
 ## Title: Put Your Data on the Map
@@ -316,7 +316,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 6
 #  
 #### SessionID: 21413
 # Display Line of Business Data in SharePoint
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 7
 ## Speaker: Mike Oryszak
 ## Title: Display Line of Business Data in SharePoint
@@ -325,7 +325,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 7
 #  
 #### SessionID: 21783
 # Upgrading to SSIS 2012
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 4
 ## Speaker: Paul Rizza
 ## Title: Upgrading to SSIS 2012
@@ -334,7 +334,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 4
 #  
 #### SessionID: 21818
 # Automating SSIS Development with Biml
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 3
 ## Speaker: Paul Waters
 ## Title: Automating SSIS Development with Biml
@@ -344,7 +344,7 @@ In this session we will start by showing the power of Biml.  We will then step b
 #  
 #### SessionID: 22406
 # Making your Data "sing" with Visio Services
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 8
 ## Speaker: Paul Wood
 ## Title: Making your Data "sing" with Visio Services
@@ -353,7 +353,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 8
 #  
 #### SessionID: 22951
 # Waiter, There's a Fly In My Data 
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 4
 ## Speaker: Rafael Salas
 ## Title: Waiter, There's a Fly In My Data 
@@ -362,7 +362,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 4
 #  
 #### SessionID: 22972
 # Considering Consulting as a Career?
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 8
 ## Speaker: Rick Heiges
 ## Title: Considering Consulting as a Career?
@@ -371,7 +371,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 8
 #  
 #### SessionID: 23082
 # Incorporating Hadoop into your DW/BI Strategy
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 7
 ## Speaker: Rob Kerr
 ## Title: Incorporating Hadoop into your DW/BI Strategy
@@ -380,7 +380,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 7
 #  
 #### SessionID: 23302
 # Tame Your Unruly Data...With Constraints!
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 2
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
@@ -389,7 +389,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 2
 #  
 #### SessionID: 23605
 # Introduction to Tableau: SQL Server's Best Friend
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 8
 ## Speaker: Russell Christopher
 ## Title: Introduction to Tableau: SQL Server's Best Friend
@@ -400,7 +400,7 @@ In this session, you'll learn about Tableau Desktop and see it in action against
 #  
 #### SessionID: 25941
 # Shade Tree Mechanic's Guide to SSAS
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 5
 ## Speaker: Steven Wright
 ## Title: Shade Tree Mechanic's Guide to SSAS
@@ -412,7 +412,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 5
 #  
 #### SessionID: 26251
 # SQL Server 2012 Column Store Index
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 2
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2012 Column Store Index
@@ -421,7 +421,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 2
 #  
 #### SessionID: 26252
 # SQL Server Partitioning From A to Z
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 1
 ## Speaker: Kevin Boles
 ## Title: SQL Server Partitioning From A to Z
@@ -430,7 +430,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 1
 #  
 #### SessionID: 27675
 # Deeper into Tabular Models -  M-to-M and the "W"
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 5
 ## Speaker: Wayne Snyder
 ## Title: Deeper into Tabular Models -  M-to-M and the "W"
@@ -439,7 +439,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 5
 #  
 #### SessionID: 27778
 # Service Broker Primer
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 1
 ## Speaker: Bill Carroll
 ## Title: Service Broker Primer
@@ -448,7 +448,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 1
 #  
 #### SessionID: 28028
 # Overcoming Barriers and Avoiding Mistakes with BI
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 7
 ## Speaker: William E Pearson III
 ## Title: Overcoming Barriers and Avoiding Mistakes with BI
@@ -457,7 +457,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 7
 #  
 #### SessionID: 28031
 # Prototype with PowerPivot: External SSAS Groups
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 5
 ## Speaker: William E Pearson III
 ## Title: Prototype with PowerPivot: External SSAS Groups
@@ -466,7 +466,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 5
 #  
 #### SessionID: 34711
 # It's a hard Ops life!
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 7
 ## Speaker: Leo Furlong
 ## Title: It's a hard Ops life!
@@ -479,7 +479,7 @@ http://www.youtube.com/watch?v=s4sQI8Evfhcfeature=fvst
 #  
 #### SessionID: 9910
 # Conquer Reporting By Scaling Out SQL Server
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 6
 ## Speaker: Anthony Sammartino
 ## Title: Conquer Reporting By Scaling Out SQL Server
@@ -488,7 +488,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 6
 #  
 #### SessionID: 9962
 # Pretty Output: T-SQL for Presentation
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 2
 ## Speaker: Audrey Hammonds
 ## Title: Pretty Output: T-SQL for Presentation
@@ -497,7 +497,7 @@ Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 2
 #  
 #### SessionID: 9963
 # Dimensional Modeling 101
-#### [Back to calendar](#SQLSaturday-#174---Charlotte---BI-Edition-2012)
+#### [Back to calendar](#SQLSaturday-#174-Charlotte-BI-Edition-2012)
 Event Date: 27-10-2012 - Session time: 00:00:00 - Track: 1
 ## Speaker: Audrey Hammonds
 ## Title: Dimensional Modeling 101

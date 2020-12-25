@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28884
 # Data Architecture – a “Corner Stone” of EA
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Atul Borkar
 ## Title: Data Architecture – a “Corner Stone” of EA
@@ -43,7 +43,7 @@ Most organizations today have a co
 #  
 #### SessionID: 29350
 # SQL Server for the Oracle DBA 
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Buck Woody
 ## Title: SQL Server for the Oracle DBA 
@@ -52,7 +52,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29351
 # SQL Server 2008 R2 Overview
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Buck Woody
 ## Title: SQL Server 2008 R2 Overview
@@ -61,7 +61,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29392
 # Data Mining with Analysis Services
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Carlos Bossy
 ## Title: Data Mining with Analysis Services
@@ -70,7 +70,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29393
 # The Data Warehouse: Your BI Foundation
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Carlos Bossy
 ## Title: The Data Warehouse: Your BI Foundation
@@ -79,7 +79,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29595
 # High Volume Real Time Contiguous ETL and Audit
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Remus Rusanu
 ## Title: High Volume Real Time Contiguous ETL and Audit
@@ -88,7 +88,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29623
 # Accelerating SQL with Solid State Technology
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Sumeet  Bansal
 ## Title: Accelerating SQL with Solid State Technology
@@ -103,7 +103,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 29868
 # Tuna Helper for DBAs and Developers
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Dean Richards
 ## Title: Tuna Helper for DBAs and Developers
@@ -112,7 +112,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 30283
 # Exploring SQL Server System Information with DMVs
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Greg Larsen
 ## Title: Exploring SQL Server System Information with DMVs
@@ -125,7 +125,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 30284
 # T-SQL Coding Best Practices
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Greg Larsen
 ## Title: T-SQL Coding Best Practices
@@ -134,7 +134,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30585
 # Nested Set model for Hierachies in SQL 
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Joe Celko
 ## Title: Nested Set model for Hierachies in SQL 
@@ -143,7 +143,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31055
 # SQL Perf Counters, Thresholds, and Vital Signs
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Joshua Jin
 ## Title: SQL Perf Counters, Thresholds, and Vital Signs
@@ -152,7 +152,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 31970
 # Table Indexing for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Denny Cherry
 ## Title: Table Indexing for the .NET Developer
@@ -161,7 +161,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 31971
 # How to decide if your database is a good candidate
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Denny Cherry
 ## Title: How to decide if your database is a good candidate
@@ -170,7 +170,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31972
 # SQL Server Service Broker in the Real World
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Denny Cherry
 ## Title: SQL Server Service Broker in the Real World
@@ -181,7 +181,7 @@ In this session we’ll dig into how to configure the service broker for not onl
 #  
 #### SessionID: 32034
 # SQL Server 2008 High Availability on Cloud
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Munir Ghamrawi
 ## Title: SQL Server 2008 High Availability on Cloud
@@ -190,7 +190,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 32163
 # Creating Report Subscriptions in Microsoft SQL Ser
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Paul Litwin
 ## Title: Creating Report Subscriptions in Microsoft SQL Ser
@@ -199,7 +199,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32165
 # Cooking with SSRS: Advanced Report Design Recipes
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Paul Turley
 ## Title: Cooking with SSRS: Advanced Report Design Recipes
@@ -208,7 +208,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32166
 # Multidimensional Reporting: MDX Essentials for Rep
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Paul Turley
 ## Title: Multidimensional Reporting: MDX Essentials for Rep
@@ -217,7 +217,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33013
 # Insight Into Your Indexes With DMVs
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Tim Ford
 ## Title: Insight Into Your Indexes With DMVs
@@ -226,7 +226,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33014
 # Disaster Recovery and High Availability for N00Bs
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Tim Ford
 ## Title: Disaster Recovery and High Availability for N00Bs
@@ -235,7 +235,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 33372
 # Leveraging Visual Studio Database Edition
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Tim Giorgi
 ## Title: Leveraging Visual Studio Database Edition
@@ -246,7 +246,7 @@ VSDB is free to download for use with Visual Studio 2008 Developer and Team Suit
 #  
 #### SessionID: 33723
 # Deep Dive on Integration Services
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Todd McDermid
 ## Title: Deep Dive on Integration Services
@@ -255,7 +255,7 @@ Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33759
 # Business Intelligence and Data Warehousing Primer
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Todd McDermid
 ## Title: Business Intelligence and Data Warehousing Primer
@@ -265,7 +265,7 @@ BI from your OLTP database has problems - it requires technical knowledge of you
 #  
 #### SessionID: 33760
 # Dimension Processing with SSIS - Simple to Complex
-#### [Back to calendar](#SQLSaturday-#27---Portland-2010)
+#### [Back to calendar](#SQLSaturday-#27-Portland-2010)
 Event Date: 22-05-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Todd McDermid
 ## Title: Dimension Processing with SSIS - Simple to Complex

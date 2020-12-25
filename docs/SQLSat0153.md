@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10242
 # SMO Internals for High Performance PowerShell
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ben Miller
 ## Title: SMO Internals for High Performance PowerShell
@@ -37,7 +37,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 10243
 # SQL Server TDE
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ben Miller
 ## Title: SQL Server TDE
@@ -47,7 +47,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 10800
 # SQL 2012 Extended Events
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Extended Events
@@ -56,7 +56,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 10803
 # Table Compression
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jason Brimhall
 ## Title: Table Compression
@@ -65,7 +65,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 11386
 # Microsoft Hadoop and Your Enterprise BI Strategy
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dipti Sangani
 ## Title: Microsoft Hadoop and Your Enterprise BI Strategy
@@ -79,7 +79,7 @@ Session takeaways:
 #  
 #### SessionID: 11387
 # What’s all the Buzz about Hadoop and Hive?
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dipti Sangani
 ## Title: What’s all the Buzz about Hadoop and Hive?
@@ -88,7 +88,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 11393
 # Service Broker in Action
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Chad Crawford
 ## Title: Service Broker in Action
@@ -97,7 +97,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16881
 # The Accidental Programmer
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jason Kassay
 ## Title: The Accidental Programmer
@@ -106,7 +106,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 20977
 # Introduction to Dimensional Data Modeling
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Martin Miller
 ## Title: Introduction to Dimensional Data Modeling
@@ -115,7 +115,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 21847
 # Oh, so Tabular!
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Paul Turley
 ## Title: Oh, so Tabular!
@@ -125,7 +125,7 @@ It took some work to get our heads around cubes, MDX  OLAP concepts; and now the
 #  
 #### SessionID: 21850
 # Power View and PowerPivot: High-Octane Self-svc BI
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Paul Turley
 ## Title: Power View and PowerPivot: High-Octane Self-svc BI
@@ -134,7 +134,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 22490
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -144,7 +144,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 22491
 # Understanding Transaction Isolation Levels
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Randy Knight
 ## Title: Understanding Transaction Isolation Levels
@@ -154,7 +154,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24059
 # Processing XML Files into SQL Server using SSIS
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Scott Heffron
 ## Title: Processing XML Files into SQL Server using SSIS
@@ -163,7 +163,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 24104
 # SQL Azure - What is it and why do I need it?
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Scott Klein
 ## Title: SQL Azure - What is it and why do I need it?
@@ -172,7 +172,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24105
 # SQL Azure Scalability with Federations
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Scott Klein
 ## Title: SQL Azure Scalability with Federations
@@ -181,7 +181,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 24760
 # Introduction to SSIS Event Handlers.
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Scott  Heffron
 ## Title: Introduction to SSIS Event Handlers.
@@ -190,7 +190,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24874
 # DBA Open Panel
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Pat Wright
 ## Title: DBA Open Panel
@@ -199,7 +199,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 25690
 # SSIS 2012: More Than Just a Pretty UI
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Steve Wake
 ## Title: SSIS 2012: More Than Just a Pretty UI
@@ -208,7 +208,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 26906
 # Release Management: A Necessary Evil
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: TJay Belt
 ## Title: Release Management: A Necessary Evil
@@ -217,7 +217,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 26946
 # Deploying without a Hitch
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Tobe Pittman
 ## Title: Deploying without a Hitch
@@ -226,7 +226,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 8881
 # T-SQL Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Aaron Cutshall
 ## Title: T-SQL Tips  Tricks
@@ -235,7 +235,7 @@ Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9676
 # What Every DBA Should Know About NoSQL
-#### [Back to calendar](#SQLSaturday-#153---Salt-Lake-City-2012)
+#### [Back to calendar](#SQLSaturday-#153-Salt-Lake-City-2012)
 Event Date: 20-10-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kelly Martinez
 ## Title: What Every DBA Should Know About NoSQL

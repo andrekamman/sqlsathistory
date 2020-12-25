@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 50159
 # Hybrid BI [EN]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Cloud  Big Data
 ## Speaker: Bent Pedersen
 ## Title: Hybrid BI [EN]
@@ -45,7 +45,7 @@ As part of this i will go through the advantages and disadvantages of each area 
 #  
 #### SessionID: 52296
 # Scoped assignments – Fluch oder Segen? Beispiele aus der Praxis... [DE]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Business Intelligence  (BI)
 ## Speaker: Gabi Münster
 ## Title: Scoped assignments – Fluch oder Segen? Beispiele aus der Praxis... [DE]
@@ -55,7 +55,7 @@ Gerade mulitdimensionale Lösungen können so komplex werden. Die Möglichkeiten
 #  
 #### SessionID: 52757
 # SQL Server Replication - What, How and Why [EN]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Administration (DBA)
 ## Speaker: William Durkin
 ## Title: SQL Server Replication - What, How and Why [EN]
@@ -68,7 +68,7 @@ The content will be valid for all versions of SQL Server from 2005 onward.
 #  
 #### SessionID: 53445
 # Columnstore Technology Improvements in SQL Server 2016 [DE]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Development (DEV-OPS)
 ## Speaker: Niko Neugebauer
 ## Title: Columnstore Technology Improvements in SQL Server 2016 [DE]
@@ -77,7 +77,7 @@ Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Development (DEV-OPS)
 #  
 #### SessionID: 49787
 # Daily problems with indexing and its - possible - solution [DE]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Development (DEV-OPS)
 ## Speaker: Uwe Ricken
 ## Title: Daily problems with indexing and its - possible - solution [DE]
@@ -92,7 +92,7 @@ Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Development (DEV-OPS)
 #  
 #### SessionID: 50051
 # SQL Server Security – Netzwerkkabel ziehen ist keine Lösung  [DE]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Administration (DBA)
 ## Speaker: Andre Essing
 ## Title: SQL Server Security – Netzwerkkabel ziehen ist keine Lösung  [DE]
@@ -103,7 +103,7 @@ Diese Session bietet einen Überblick über die wichtigsten Security Features de
 #  
 #### SessionID: 53285
 # Azure Data Lake Store / Analytics 101 [EN]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Cloud  Big Data
 ## Speaker: Kenneth Nielsen
 ## Title: Azure Data Lake Store / Analytics 101 [EN]
@@ -114,7 +114,7 @@ Azure Data Lake Store, our new repository for data of various origins – we can
 #  
 #### SessionID: 53664
 # Kerberos for BI [EN]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Business Intelligence  (BI)
 ## Speaker: Regis Baccaro
 ## Title: Kerberos for BI [EN]
@@ -128,7 +128,7 @@ This session is based on many hours spent sweating in setting up Kerberos in BI 
 #  
 #### SessionID: 50166
 # Heute in der Suppenküche: Cognitive Services Allerlei [DE]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Cloud  Big Data
 ## Speaker: Marcel Tilly
 ## Title: Heute in der Suppenküche: Cognitive Services Allerlei [DE]
@@ -137,7 +137,7 @@ Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Cloud  Big Data
 #  
 #### SessionID: 50901
 # Why and how to Implement PowerShell DSC for SQL Server [EN]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Administration (DBA)
 ## Speaker: Ryan Yates
 ## Title: Why and how to Implement PowerShell DSC for SQL Server [EN]
@@ -149,7 +149,7 @@ This session will also briefly cover the other core necessities that will be req
 #  
 #### SessionID: 52528
 # 2016! Data transformation with M, SSIS, POLY, ADF, ADLA, R [DE]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Business Intelligence  (BI)
 ## Speaker: Oliver Engels
 ## Title: 2016! Data transformation with M, SSIS, POLY, ADF, ADLA, R [DE]
@@ -160,7 +160,7 @@ This gives you a good starting point for new data transformation projects or to 
 #  
 #### SessionID: 53559
 # Are You Optimistic About Concurrency? [EN]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Development (DEV-OPS)
 ## Speaker: Kalen Delaney
 ## Title: Are You Optimistic About Concurrency? [EN]
@@ -169,7 +169,7 @@ Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Development (DEV-OPS)
 #  
 #### SessionID: 53148
 # Das ultimative Solisyon SQL Quiz [DE]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Sponsor Session
 ## Speaker: Ben Weissman
 ## Title: Das ultimative Solisyon SQL Quiz [DE]
@@ -178,7 +178,7 @@ Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Sponsor Session
 #  
 #### SessionID: 54069
 # Women in Technology – Still a Rarity. Any Ideas? [EN]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Women in Technology
 ## Speaker: Gabi Münster
 ## Title: Women in Technology – Still a Rarity. Any Ideas? [EN]
@@ -188,7 +188,7 @@ The goal of this session is to provide you with information regarding those acti
 #  
 #### SessionID: 54070
 # Maximierung Ihres Investments in Microsoft mit Pyramid Analytics
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Sponsor Session
 ## Speaker: Heiko Böhm
 ## Title: Maximierung Ihres Investments in Microsoft mit Pyramid Analytics
@@ -199,7 +199,7 @@ Erfahren Sie in diesem Vortrag, wie Sie mit BI Office Ihr Investment in Microsof
 #  
 #### SessionID: 49799
 # Are You a DBA by Accident? Welcome to the Club! [DE]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Administration (DBA)
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Are You a DBA by Accident? Welcome to the Club! [DE]
@@ -213,7 +213,7 @@ In this session I will invite you to discuss the pros  cons of the solutions I c
 #  
 #### SessionID: 49862
 # T-SQL User-Defined Functions, or: Bad Performance Made Easy [EN]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Development (DEV-OPS)
 ## Speaker: Hugo Kornelis
 ## Title: T-SQL User-Defined Functions, or: Bad Performance Made Easy [EN]
@@ -224,7 +224,7 @@ However, you will also see that there is a way to avoid the problems. With just 
 #  
 #### SessionID: 52700
 # Advanced Analytics im ERP-Umfeld [DE]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Business Intelligence  (BI)
 ## Speaker: Benjamin Kettner
 ## Title: Advanced Analytics im ERP-Umfeld [DE]
@@ -234,7 +234,7 @@ In der Session zeigen wir, wie man ein Vorhersagemodell in R in eine Standard-So
 #  
 #### SessionID: 53678
 # Fun with SQL Server 2016 Stretch Database, Temporal  Always Encrypted [EN]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Cloud  Big Data
 ## Speaker: Scott Klein
 ## Title: Fun with SQL Server 2016 Stretch Database, Temporal  Always Encrypted [EN]
@@ -243,7 +243,7 @@ Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Cloud  Big Data
 #  
 #### SessionID: 49804
 # Using R in SQL Server, Power BI, and Azure ML [EN]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Cloud  Big Data
 ## Speaker: Dejan Sarka
 ## Title: Using R in SQL Server, Power BI, and Azure ML [EN]
@@ -252,7 +252,7 @@ Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Cloud  Big Data
 #  
 #### SessionID: 52657
 # Biml Rezepte für SSIS - Best Practices für das nächste Level [DE]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Business Intelligence  (BI)
 ## Speaker: Ben Weissman
 ## Title: Biml Rezepte für SSIS - Best Practices für das nächste Level [DE]
@@ -262,7 +262,7 @@ sowie die Inkrementelle #220;bernahme von #196;nderungen in eine Staging Area. D
 #  
 #### SessionID: 53111
 # NSA Secrets - Hacking SQL Server [EN]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Administration (DBA)
 ## Speaker: André Melancia
 ## Title: NSA Secrets - Hacking SQL Server [EN]
@@ -276,7 +276,7 @@ Disclaimer: No actual state secrets will be revealed. Please do not send agents 
 #  
 #### SessionID: 53800
 # Scenarios and value proposition for JSON data enabled in Azure SQ
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Development (DEV-OPS)
 ## Speaker: Ralph Kemperdick
 ## Title: Scenarios and value proposition for JSON data enabled in Azure SQ
@@ -289,7 +289,7 @@ o	Advanced scenarios when working with JSON
 #  
 #### SessionID: 50201
 # Deep-Dive into Polybase of SQL Server 2016 [DE]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Cloud  Big Data
 ## Speaker: Gerhard Brueckl
 ## Title: Deep-Dive into Polybase of SQL Server 2016 [DE]
@@ -298,7 +298,7 @@ Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Cloud  Big Data
 #  
 #### SessionID: 50808
 # What Application Developers Should Know About SQL Server? [DE]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Development (DEV-OPS)
 ## Speaker: Miloš Radivojević
 ## Title: What Application Developers Should Know About SQL Server? [DE]
@@ -309,7 +309,7 @@ In this session we will cover the most important things they need to know about 
 #  
 #### SessionID: 53397
 # Bauer BI und seine Pig Data [DE]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Business Intelligence  (BI)
 ## Speaker: Wolfgang Strasser
 ## Title: Bauer BI und seine Pig Data [DE]
@@ -319,7 +319,7 @@ Begleiten Sie uns auf der Datenanalysereise von Bauer BI und Power BI. Vielleich
 #  
 #### SessionID: 53714
 # Powershell community scripts for DBAs [EN]
-#### [Back to calendar](#SQLSaturday-#555---Munich-2016)
+#### [Back to calendar](#SQLSaturday-#555-Munich-2016)
 Event Date: 08-10-2016 - Session time: 17:15:00 - Track: Administration (DBA)
 ## Speaker: André Kamman
 ## Title: Powershell community scripts for DBAs [EN]

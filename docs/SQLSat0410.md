@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13429
 # Self-Service BI with SSAS 
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Dan Evans
 ## Title: Self-Service BI with SSAS 
@@ -45,7 +45,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BI
 #  
 #### SessionID: 14453
 # Introduction to Master Data Management (MDM) with SQL Server Master Data Services (MDS) for Beginner
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BigData
 ## Speaker: Gene Webb
 ## Title: Introduction to Master Data Management (MDM) with SQL Server Master Data Services (MDS) for Beginner
@@ -61,7 +61,7 @@ How to use MDS with a data warehouse to improve data quality
 #  
 #### SessionID: 22096
 # Tame the sibling rivalry
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 ## Speaker: William Wolf
 ## Title: Tame the sibling rivalry
@@ -72,7 +72,7 @@ We will review locking, blocking and deadlocking.  We will also review how to id
 #  
 #### SessionID: 35847
 # Know Your Role(s)!
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: Other
 ## Speaker: Robert Verell
 ## Title: Know Your Role(s)!
@@ -81,7 +81,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: Other
 #  
 #### SessionID: 36108
 # Getting involved and Getting ahead
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: Management/Personal
 ## Speaker: Tim Radney
 ## Title: Getting involved and Getting ahead
@@ -90,7 +90,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: Management/Personal
 #  
 #### SessionID: 37278
 # Primer on Power BI
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BigData
 ## Speaker: Mark Tabladillo
 ## Title: Primer on Power BI
@@ -108,7 +108,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BigData
 #  
 #### SessionID: 37298
 # Crash course on becoming better SQL Developer.
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Developer
 ## Speaker: Vladimir Oselsky
 ## Title: Crash course on becoming better SQL Developer.
@@ -117,7 +117,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Developer
 #  
 #### SessionID: 37871
 # Data Mining with SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Annelies Beaty
 ## Title: Data Mining with SQL Server Data Tools
@@ -126,7 +126,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BI
 #  
 #### SessionID: 13428
 # Self-Service BI with Big Data
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Dan Evans
 ## Title: Self-Service BI with Big Data
@@ -135,7 +135,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BI
 #  
 #### SessionID: 13708
 # Performance Tuning for Mere Mortals Part I
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 ## Speaker: Ed Watson
 ## Title: Performance Tuning for Mere Mortals Part I
@@ -144,7 +144,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 #  
 #### SessionID: 14509
 # What’s your Imperative doing in my Declarative?
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 ## Speaker: Geoff Hiten
 ## Title: What’s your Imperative doing in my Declarative?
@@ -153,7 +153,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 #  
 #### SessionID: 36564
 # Achievement Unlocked: How to Get Promoted
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: Management/Personal
 ## Speaker: Dave Mattingly
 ## Title: Achievement Unlocked: How to Get Promoted
@@ -164,7 +164,7 @@ In this session, you'll learn how to promote yourself, how to speak confidently,
 #  
 #### SessionID: 36904
 # Introduction to Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BigData
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Machine Learning
@@ -173,7 +173,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BigData
 #  
 #### SessionID: 36929
 # 45 Minutes to Your First SSAS Tabular Model
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Kerry Tyler
 ## Title: 45 Minutes to Your First SSAS Tabular Model
@@ -183,7 +183,7 @@ SSAS Tabular is a new form of business intelligence model released with SQL Serv
 #  
 #### SessionID: 12177
 # Tuning SQL Server for SharePoint
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: Other
 ## Speaker: Daniel Glenn
 ## Title: Tuning SQL Server for SharePoint
@@ -193,7 +193,7 @@ Some of the topics covered will include: the configuration steps and settings ne
 #  
 #### SessionID: 20604
 # Performance Tuning for Mere Mortals Part II
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 ## Speaker: Mike Lawell
 ## Title: Performance Tuning for Mere Mortals Part II
@@ -206,7 +206,7 @@ There will be homework!
 #  
 #### SessionID: 26420
 # SQL Server 2014 Column Store Index vNEXT
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: Other
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2014 Column Store Index vNEXT
@@ -215,7 +215,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: Other
 #  
 #### SessionID: 35846
 # Getting Started With SQL Server Replication
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 ## Speaker: Robert Verell
 ## Title: Getting Started With SQL Server Replication
@@ -224,7 +224,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 #  
 #### SessionID: 36930
 # Manageable SSAS Deployment Strategies
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Kerry Tyler
 ## Title: Manageable SSAS Deployment Strategies
@@ -235,7 +235,7 @@ If you've answered "yes" to any of these questions, and are in search of a bette
 #  
 #### SessionID: 8875
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: Other
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals
@@ -245,7 +245,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: Other
 #  
 #### SessionID: 12260
 # The Next Dimension of Data
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BigData
 ## Speaker: Dave Mattingly
 ## Title: The Next Dimension of Data
@@ -254,7 +254,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BigData
 #  
 #### SessionID: 13486
 # How In-Memory Database Objects Affect Database Design
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Developer
 ## Speaker: Louis Davidson
 ## Title: How In-Memory Database Objects Affect Database Design
@@ -263,7 +263,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Developer
 #  
 #### SessionID: 35667
 # Are Availability Groups a good fit for your database?
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 ## Speaker: Doug Purnell
 ## Title: Are Availability Groups a good fit for your database?
@@ -272,7 +272,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 #  
 #### SessionID: 37259
 # Beginners SQL Server Security the Low Hanging Fruit
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 ## Speaker: Lindsay Clark
 ## Title: Beginners SQL Server Security the Low Hanging Fruit
@@ -281,7 +281,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 #  
 #### SessionID: 37420
 # Why should I care about the plan cache?
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 ## Speaker: Rick Lowe
 ## Title: Why should I care about the plan cache?
@@ -290,7 +290,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 #  
 #### SessionID: 13709
 # Backup Strategies are for Losers...of Data!
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 ## Speaker: Ed Watson
 ## Title: Backup Strategies are for Losers...of Data!
@@ -299,7 +299,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 #  
 #### SessionID: 14229
 # Much Ado About Hadoop
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BigData
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
@@ -308,7 +308,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BigData
 #  
 #### SessionID: 20603
 # Execution Plans for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
@@ -319,7 +319,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 #  
 #### SessionID: 24818
 # Querying Active Directory From SSRS To Secure Reports And Enhance The User Experience
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BI
 ## Speaker: Wes Springob
 ## Title: Querying Active Directory From SSRS To Secure Reports And Enhance The User Experience
@@ -329,7 +329,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: BI
 #  
 #### SessionID: 26418
 # SQL Server 2014 New Features
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2014 New Features
@@ -338,7 +338,7 @@ Event Date: 27-06-2015 - Session time: 16:15:00 - Track: DBA/Administration
 #  
 #### SessionID: 9753
 # Zero to Hero with PowerShell and SQL Server
-#### [Back to calendar](#SQLSaturday-#410---Chattanooga-2015)
+#### [Back to calendar](#SQLSaturday-#410-Chattanooga-2015)
 Event Date: 27-06-2015 - Session time: 16:15:00 - Track: Other
 ## Speaker: Robert Cain
 ## Title: Zero to Hero with PowerShell and SQL Server

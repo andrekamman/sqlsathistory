@@ -39,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 48274
 # Performance Monitoring AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: Performance Monitoring AlwaysOn Availability Groups
@@ -48,7 +48,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50119
 # Build ETL efficiently (10x) with Minimal Logging
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Cho
 ## Title: Build ETL efficiently (10x) with Minimal Logging
@@ -59,7 +59,7 @@ We will first analyze how data gets accessed from the source and how data gets u
 #  
 #### SessionID: 50360
 # Partitioning Basics: Treating Your Tables Like Legos
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Leach
 ## Title: Partitioning Basics: Treating Your Tables Like Legos
@@ -70,7 +70,7 @@ With partitioning, you can break a table or index down into smaller more managea
 #  
 #### SessionID: 51061
 # You Don't Have to be in Leadership to be a Leader
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Jonathan Amen
 ## Title: You Don't Have to be in Leadership to be a Leader
@@ -79,7 +79,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 51131
 # Introduction to Data Science with R
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Reeves Smith
 ## Title: Introduction to Data Science with R
@@ -90,7 +90,7 @@ In this session, we will introduce the R language and review some of the feature
 #  
 #### SessionID: 48313
 # Successfully Virtualizing SQL Server on vSphere - Straight from the Source
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
@@ -99,7 +99,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 50337
 # Be Friendly to SQL Server with TSQL Best Practices
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ben Miller
 ## Title: Be Friendly to SQL Server with TSQL Best Practices
@@ -108,7 +108,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 50605
 # Consolidated Essential Performance Health Check using PowerShell
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prakash Heda
 ## Title: Consolidated Essential Performance Health Check using PowerShell
@@ -119,7 +119,7 @@ First part of the email shares some key observations about SQL Server performanc
 #  
 #### SessionID: 50749
 # OWN your SQL Servers with PBM  CMS
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mitchell Bottel
 ## Title: OWN your SQL Servers with PBM  CMS
@@ -128,7 +128,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50761
 # What is Biml and why are SSIS developers excited about it?
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bill Fellows
 ## Title: What is Biml and why are SSIS developers excited about it?
@@ -142,7 +142,7 @@ You will leave this session armed with the knowledge of how Biml can help you ac
 #  
 #### SessionID: 50009
 # Biml for Beginners: Speed Up Your SSIS Development
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Biml for Beginners: Speed Up Your SSIS Development
@@ -157,7 +157,7 @@ Stop wasting your valuable time on doing the same things over and over and over 
 #  
 #### SessionID: 50365
 # DBA Cheat Sheet
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Elizabeth Block
 ## Title: DBA Cheat Sheet
@@ -166,7 +166,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50681
 # Recovery Models Made SIMPLE
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kalen Delaney
 ## Title: Recovery Models Made SIMPLE
@@ -175,7 +175,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50728
 # Life of a Lead DBA - How to explain to your boss 'what you do'
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Christopher Anderson
 ## Title: Life of a Lead DBA - How to explain to your boss 'what you do'
@@ -188,7 +188,7 @@ In this session, you will see some frameworks and templates for explaining your 
 #  
 #### SessionID: 50772
 # Level Up Your Biml: Best Practices and Coding Techniques
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Level Up Your Biml: Best Practices and Coding Techniques
@@ -201,7 +201,7 @@ Start improving your code today and level up your Biml in no time!
 #  
 #### SessionID: 50836
 # Overcoming Chartaphobia with Power BI
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Meagan Longoria
 ## Title: Overcoming Chartaphobia with Power BI
@@ -211,7 +211,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 52922
 # Dell: Manage SQL Server Performance with Spotlight on SQL Server
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: SQLSAT540 Sponsor
 ## Title: Dell: Manage SQL Server Performance with Spotlight on SQL Server
@@ -222,7 +222,7 @@ Trent will show you to get real-time notification and rapid diagnoses of your SQ
 #  
 #### SessionID: 53176
 # Tintri: I/O Whack-a-Mole
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: SQLSAT540 Sponsor
 ## Title: Tintri: I/O Whack-a-Mole
@@ -233,7 +233,7 @@ Disk I/O for a virtualized SQL Server database takes a mysterious journey. In th
 #  
 #### SessionID: 48282
 # The Business Intelligence Side of SQL Server
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sayed Saeed
 ## Title: The Business Intelligence Side of SQL Server
@@ -242,7 +242,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 50336
 # PoShDBA: Practical PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: PoShDBA: Practical PowerShell for the DBA
@@ -251,7 +251,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50696
 # The Life Cycle of a Query in Virtual Reality
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Todd Kleinhans
 ## Title: The Life Cycle of a Query in Virtual Reality
@@ -263,7 +263,7 @@ The Life Cycle of a Query in Virtual Reality is built using Epic Games video gam
 #  
 #### SessionID: 50837
 # Who needs SSAS when you have SQL?
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Meagan Longoria
 ## Title: Who needs SSAS when you have SQL?
@@ -273,7 +273,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 53218
 # NoSQL for SQL DBA
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: DIlip nayak
 ## Title: NoSQL for SQL DBA
@@ -282,7 +282,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48631
 # Dimensional Modeling Design Patterns: Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond the Basics
@@ -292,7 +292,7 @@ In this session, we will dive deeper into the art of dimensional modeling. We wi
 #  
 #### SessionID: 50010
 # Tools and Tips: From Accidental to Efficient Data Warehouse Developer
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Tools and Tips: From Accidental to Efficient Data Warehouse Developer
@@ -305,7 +305,7 @@ In this session I will show you some of what I have learned and discovered that 
 #  
 #### SessionID: 50582
 # Power BI Embedded
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Angel Abundez
 ## Title: Power BI Embedded
@@ -314,7 +314,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 50608
 # Intro to DAX Patterns
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Eric Bragas
 ## Title: Intro to DAX Patterns
@@ -323,7 +323,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 50678
 # Changing Your Habits to Improve the Performance of Your T-SQL
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Mickey Stuewe
 ## Title: Changing Your Habits to Improve the Performance of Your T-SQL
@@ -332,7 +332,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 53258
 # AWS Command Line and Working with RDS
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Courville
 ## Title: AWS Command Line and Working with RDS
@@ -341,7 +341,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48470
 # Power BI Desktop – A BI developer’s view
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Phil Robinson
 ## Title: Power BI Desktop – A BI developer’s view
@@ -352,7 +352,7 @@ This session will explore Power BI Desktop features for data accusation and mani
 #  
 #### SessionID: 50489
 # SQL Server R Services in SQL 2016
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
@@ -361,7 +361,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 50652
 # Protecting SQL Data for Availability and DR
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Plas
 ## Title: Protecting SQL Data for Availability and DR
@@ -370,7 +370,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50760
 # Window Functions- Get OVER it!
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Eric Freeman
 ## Title: Window Functions- Get OVER it!
@@ -381,7 +381,7 @@ This session will be filled with examples and practical applications of window f
 #  
 #### SessionID: 53220
 # Stump the MCM Studs
-#### [Back to calendar](#SQLSaturday-#540---Sacramento-2016)
+#### [Back to calendar](#SQLSaturday-#540-Sacramento-2016)
 Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mitchell Bottel
 ## Title: Stump the MCM Studs

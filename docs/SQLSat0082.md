@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28421
 # Multi-Tenant Database Model with SQL Azure
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: Developer Track
 ## Speaker: Aaron King
 ## Title: Multi-Tenant Database Model with SQL Azure
@@ -37,7 +37,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: Developer Track
 #  
 #### SessionID: 28853
 # Take Control of Your Databases with PBM!
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server  Track 2
 ## Speaker: Arie Jones
 ## Title: Take Control of Your Databases with PBM!
@@ -46,7 +46,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server  Track 2
 #  
 #### SessionID: 28857
 # Getting Started With Service Broker
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: Developer Track
 ## Speaker: Arie Jones
 ## Title: Getting Started With Service Broker
@@ -55,7 +55,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: Developer Track
 #  
 #### SessionID: 28858
 # Reporting Services Greatness!
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Arie Jones
 ## Title: Reporting Services Greatness!
@@ -64,7 +64,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 29634
 # Database Mirroring in the Real World
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server  Track 2
 ## Speaker: Craig Purnell
 ## Title: Database Mirroring in the Real World
@@ -73,7 +73,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server  Track 2
 #  
 #### SessionID: 29635
 # NoSQL- What is it and why do I care? 
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: Developer Track
 ## Speaker: Craig Purnell
 ## Title: NoSQL- What is it and why do I care? 
@@ -82,7 +82,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: Developer Track
 #  
 #### SessionID: 30155
 # TempDB Performance Troubleshooting and Optimizing
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server Track 1
 ## Speaker: Eddie Wuerch
 ## Title: TempDB Performance Troubleshooting and Optimizing
@@ -91,7 +91,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server Track 1
 #  
 #### SessionID: 30156
 # Find Performance Problems by Reading the Waits
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server Track 1
 ## Speaker: Eddie Wuerch
 ## Title: Find Performance Problems by Reading the Waits
@@ -100,7 +100,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server Track 1
 #  
 #### SessionID: 30393
 # Creating a Metadata Mart w/ SSIS - Data Governance
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: Ira Warren
 ## Title: Creating a Metadata Mart w/ SSIS - Data Governance
@@ -112,7 +112,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 30453
 # Looney Tuner? No, there IS a method to my madness
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: Developer Track
 ## Speaker: Janis Griffin
 ## Title: Looney Tuner? No, there IS a method to my madness
@@ -121,7 +121,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: Developer Track
 #  
 #### SessionID: 30455
 # Performance Management – 2008 MDW - How  Why
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server Track 1
 ## Speaker: Janis Griffin
 ## Title: Performance Management – 2008 MDW - How  Why
@@ -130,7 +130,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server Track 1
 #  
 #### SessionID: 30990
 # Do More (ETL) with Less (Effort) - Automating SSIS
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: John Welch
 ## Title: Do More (ETL) with Less (Effort) - Automating SSIS
@@ -139,7 +139,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 30991
 # Tuning Analysis Services Processing Performance
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: John Welch
 ## Title: Tuning Analysis Services Processing Performance
@@ -148,7 +148,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 30994
 # Exploring Data Privacy
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server  Track 2
 ## Speaker: John Magnabosco
 ## Title: Exploring Data Privacy
@@ -157,7 +157,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server  Track 2
 #  
 #### SessionID: 31306
 # SQL Server Internals and Architecture
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server Track 1
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals and Architecture
@@ -171,7 +171,7 @@ What happens during checkpoint
 #  
 #### SessionID: 31307
 # Top 10 Admin Mistakes on SQL Server
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server  Track 2
 ## Speaker: Kevin Kline
 ## Title: Top 10 Admin Mistakes on SQL Server
@@ -183,7 +183,7 @@ What’s the most common Transact-SQL programming mistake and how do
 #  
 #### SessionID: 32098
 # PowerShell, the New SQL Hammer
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: Developer Track
 ## Speaker: Norman Kelm
 ## Title: PowerShell, the New SQL Hammer
@@ -192,7 +192,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: Developer Track
 #  
 #### SessionID: 32786
 # SQL Server Forensics: Tracking your users
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server  Track 2
 ## Speaker: Sarah Barela
 ## Title: SQL Server Forensics: Tracking your users
@@ -201,7 +201,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server  Track 2
 #  
 #### SessionID: 32881
 # Back to basics - How does the Algebrizer work
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server Track 1
 ## Speaker: Luke Jian
 ## Title: Back to basics - How does the Algebrizer work
@@ -211,7 +211,7 @@ Relational algebra represents the foundation of relational databases. Any valid 
 #  
 #### SessionID: 33380
 # Advanced TSQL Solutions
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: Developer Track
 ## Speaker: Kevin Boles
 ## Title: Advanced TSQL Solutions
@@ -220,7 +220,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: Developer Track
 #  
 #### SessionID: 33383
 # SQL Server Memory Deep Dive
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server  Track 2
 ## Speaker: Kevin Boles
 ## Title: SQL Server Memory Deep Dive
@@ -229,7 +229,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: SQl Server  Track 2
 #  
 #### SessionID: 34057
 # An Overview of PowerPivot for Excel 
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: William E Pearson III
 ## Title: An Overview of PowerPivot for Excel 
@@ -238,7 +238,7 @@ Event Date: 25-06-2011 - Session time: 00:00:00 - Track: BI Track
 #  
 #### SessionID: 34065
 # Getting Started with MDX 
-#### [Back to calendar](#SQLSaturday-#82---Indianapolis-2011)
+#### [Back to calendar](#SQLSaturday-#82-Indianapolis-2011)
 Event Date: 25-06-2011 - Session time: 00:00:00 - Track: BI Track
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX 

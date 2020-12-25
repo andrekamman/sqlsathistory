@@ -53,7 +53,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28378
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 1
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals
@@ -63,7 +63,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 1
 #  
 #### SessionID: 28554
 # Configuring and Troubleshooting Tempdb 
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 3
 ## Speaker: Andrew Kelly
 ## Title: Configuring and Troubleshooting Tempdb 
@@ -72,7 +72,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 3
 #  
 #### SessionID: 28575
 # A Best Practice Approach to SQL Server CLR
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Development
 ## Speaker: Alex Tocitu
 ## Title: A Best Practice Approach to SQL Server CLR
@@ -84,7 +84,7 @@ functional barriers.
 #  
 #### SessionID: 28689
 # “I See a Control Flow Tab. Now What?” 
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Andy Leonard
 ## Title: “I See a Control Flow Tab. Now What?” 
@@ -93,7 +93,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 28690
 # Designing an SSIS Framework
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 3
 ## Speaker: Andy Leonard
 ## Title: Designing an SSIS Framework
@@ -102,7 +102,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 3
 #  
 #### SessionID: 28880
 # All about Indexes
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 3
 ## Speaker: Ashton Hobbs
 ## Title: All about Indexes
@@ -111,7 +111,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 3
 #  
 #### SessionID: 28886
 # T-SQL Awesomeness – 3 Ways to Write Cool SQL
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Development
 ## Speaker: Audrey Hammonds
 ## Title: T-SQL Awesomeness – 3 Ways to Write Cool SQL
@@ -125,7 +125,7 @@ We will look at data models and scenarios you might encounter that lend themselv
 #  
 #### SessionID: 28887
 # Down With Ugly Data - Relational Modeling Basics
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: Professional Dev
 ## Speaker: Audrey Hammonds
 ## Title: Down With Ugly Data - Relational Modeling Basics
@@ -141,7 +141,7 @@ Topics include:
 #  
 #### SessionID: 28942
 # Gather SQL Server Performance Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 1
 ## Speaker: Allen White
 ## Title: Gather SQL Server Performance Data with PowerShell
@@ -150,7 +150,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 1
 #  
 #### SessionID: 28944
 # Automate Policy-Based Management using PowerShell
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 1
 ## Speaker: Allen White
 ## Title: Automate Policy-Based Management using PowerShell
@@ -159,7 +159,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 1
 #  
 #### SessionID: 28991
 # PowerPivot, Idea to Solution in 60 Minutes 
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 3
 ## Speaker: Barry Ralston
 ## Title: PowerPivot, Idea to Solution in 60 Minutes 
@@ -171,7 +171,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 3
 #  
 #### SessionID: 29254
 # Introduction to Microsoft StreamInsight
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Development
 ## Speaker: Brett Tomson
 ## Title: Introduction to Microsoft StreamInsight
@@ -180,7 +180,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Development
 #  
 #### SessionID: 29281
 # Reporting Services Deep Dive
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Brian McDonald
 ## Title: Reporting Services Deep Dive
@@ -191,7 +191,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 29359
 # Up and Running with SSIS in 5,4,3,2, (Datachix)1 !
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Julie Smith
 ## Title: Up and Running with SSIS in 5,4,3,2, (Datachix)1 !
@@ -200,7 +200,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 29510
 # "Extra Eyes" with Microsoft Atlanta
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 2
 ## Speaker: Chris Skorlinski
 ## Title: "Extra Eyes" with Microsoft Atlanta
@@ -209,7 +209,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 2
 #  
 #### SessionID: 29569
 # Powerful BI in SharePoint 2010
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 3
 ## Speaker: Cory Loriot
 ## Title: Powerful BI in SharePoint 2010
@@ -218,7 +218,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 3
 #  
 #### SessionID: 29636
 # Database Mirroring in the Real World
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 3
 ## Speaker: Craig Purnell
 ## Title: Database Mirroring in the Real World
@@ -227,7 +227,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 3
 #  
 #### SessionID: 29721
 # Making sense of SQL Server availability options
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 3
 ## Speaker: David Bermingham
 ## Title: Making sense of SQL Server availability options
@@ -236,7 +236,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 3
 #  
 #### SessionID: 30027
 # To click or to type, that is the question 
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: Professional Dev
 ## Speaker: David Taylor
 ## Title: To click or to type, that is the question 
@@ -245,7 +245,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: Professional Dev
 #  
 #### SessionID: 30039
 # Windows PowerShell Best Practices for DBA's
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 1
 ## Speaker: Ed Wilson
 ## Title: Windows PowerShell Best Practices for DBA's
@@ -257,7 +257,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 1
 #  
 #### SessionID: 30239
 # Bad SQL
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 2
 ## Speaker: Geoff Hiten
 ## Title: Bad SQL
@@ -266,7 +266,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 2
 #  
 #### SessionID: 30240
 # Fast Track Data Warehouse
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 1
 ## Speaker: Geoff Hiten
 ## Title: Fast Track Data Warehouse
@@ -275,7 +275,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 1
 #  
 #### SessionID: 30553
 # DAX Formulas: Evaluation Context
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Javier Guillen
 ## Title: DAX Formulas: Evaluation Context
@@ -284,7 +284,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 30789
 # Introducing Microsoft's EDIM Products
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 3
 ## Speaker: Jessica Moss
 ## Title: Introducing Microsoft's EDIM Products
@@ -293,7 +293,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 3
 #  
 #### SessionID: 30790
 # Adding SSRS Report Bells and Whistles
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Jessica Moss
 ## Title: Adding SSRS Report Bells and Whistles
@@ -302,7 +302,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 30829
 # Recipe for a happy DBA
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: Professional Dev
 ## Speaker: Jason Hall
 ## Title: Recipe for a happy DBA
@@ -312,7 +312,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: Professional Dev
 #  
 #### SessionID: 30962
 # Handling Advanced Data Warehouse Scenarios in SSIS
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: John Welch
 ## Title: Handling Advanced Data Warehouse Scenarios in SSIS
@@ -321,7 +321,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 30963
 # Do More (ETL) with Less (Effort) - Automating SSIS
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: John Welch
 ## Title: Do More (ETL) with Less (Effort) - Automating SSIS
@@ -330,7 +330,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 31039
 # SQL University: Class is in Session!
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: Professional Dev
 ## Speaker: Jorge Segarra
 ## Title: SQL University: Class is in Session!
@@ -339,7 +339,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: Professional Dev
 #  
 #### SessionID: 31331
 # Deploying Visual Studio 2010 Database Projects
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 2
 ## Speaker: Kevin Goode
 ## Title: Deploying Visual Studio 2010 Database Projects
@@ -348,7 +348,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 2
 #  
 #### SessionID: 31699
 # Report Calcs - SSRS Source Query vs. Expressions
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Melissa Coates
 ## Title: Report Calcs - SSRS Source Query vs. Expressions
@@ -361,7 +361,7 @@ Session Goal:   Identify common situations when performing calculations within S
 #  
 #### SessionID: 32090
 # SQL Developer's Intro to SSAS
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Nathan Mourfield
 ## Title: SQL Developer's Intro to SSAS
@@ -375,7 +375,7 @@ Data Mining Kung Fu
 #  
 #### SessionID: 32242
 # Zen and the Art of Writing SQL Query
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Development
 ## Speaker: Plamen Ratchev
 ## Title: Zen and the Art of Writing SQL Query
@@ -384,7 +384,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Development
 #  
 #### SessionID: 32243
 # Common SQL Programming Mistakes
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Development
 ## Speaker: Plamen Ratchev
 ## Title: Common SQL Programming Mistakes
@@ -393,7 +393,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Development
 #  
 #### SessionID: 32450
 # Service Broker...What's That  How Do I Use It?
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 1
 ## Speaker: Brian Davis
 ## Title: Service Broker...What's That  How Do I Use It?
@@ -402,7 +402,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 1
 #  
 #### SessionID: 32497
 # DW-ETL: 10 Mistakes to Avoid
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Rafael Salas
 ## Title: DW-ETL: 10 Mistakes to Avoid
@@ -413,7 +413,7 @@ In this session Rafael will share a compilation of pitfalls and mistakes he has 
 #  
 #### SessionID: 32772
 # SSRS Administration - Enter a BIDS Free Zone
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 3
 ## Speaker: Sandra Mueller
 ## Title: SSRS Administration - Enter a BIDS Free Zone
@@ -422,7 +422,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 3
 #  
 #### SessionID: 32899
 # SQL Server Internals - how things work?
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 3
 ## Speaker: Sergey Pustovit
 ## Title: SQL Server Internals - how things work?
@@ -434,7 +434,7 @@ Should we be afraid of SOS_SCHEDULER_YEILD and CXPACKET waits?
 #  
 #### SessionID: 32900
 # New features in SQL Server Denali
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 2
 ## Speaker: Sergey Pustovit
 ## Title: New features in SQL Server Denali
@@ -443,7 +443,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 2
 #  
 #### SessionID: 33100
 # Enterprise Data Mining for SQL Servr Professionals
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Mark Tabladillo
 ## Title: Enterprise Data Mining for SQL Servr Professionals
@@ -452,7 +452,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 33252
 # From DBA to Data Architect: Changing Your Game
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: Professional Dev
 ## Speaker: Stuart Ainsworth
 ## Title: From DBA to Data Architect: Changing Your Game
@@ -461,7 +461,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: Professional Dev
 #  
 #### SessionID: 33253
 # Dirt, Spit, and Happy FLWOR: Hands on with XQuery.
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Development
 ## Speaker: Stuart Ainsworth
 ## Title: Dirt, Spit, and Happy FLWOR: Hands on with XQuery.
@@ -470,7 +470,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Development
 #  
 #### SessionID: 33303
 # Shade Tree Mechanic's Guide to SSAS
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 2
 ## Speaker: Steven Wright
 ## Title: Shade Tree Mechanic's Guide to SSAS
@@ -482,7 +482,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 2
 #  
 #### SessionID: 33354
 # Role of Microsoft Solver Foundation In BI
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 3
 ## Speaker: Tejas Patel
 ## Title: Role of Microsoft Solver Foundation In BI
@@ -492,7 +492,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 3
 #  
 #### SessionID: 33611
 # You inherited a database, now what?
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 2
 ## Speaker: Tim Radney
 ## Title: You inherited a database, now what?
@@ -503,7 +503,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: DB Admin 2
 #  
 #### SessionID: 33861
 # Information: Are You Blinded by the Light ?
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 3
 ## Speaker: Wayne Snyder
 ## Title: Information: Are You Blinded by the Light ?
@@ -513,7 +513,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 3
 #  
 #### SessionID: 34229
 # Design and Implement BI Like Edison! 
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: William E Pearson III
 ## Title: Design and Implement BI Like Edison! 
@@ -522,7 +522,7 @@ Event Date: 19-03-2011 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 34235
 # Entity Strategies: Structuring Your Consultancy
-#### [Back to calendar](#SQLSaturday-#70---Columbia-2011)
+#### [Back to calendar](#SQLSaturday-#70-Columbia-2011)
 Event Date: 19-03-2011 - Session time: 00:00:00 - Track: Professional Dev
 ## Speaker: William E Pearson III
 ## Title: Entity Strategies: Structuring Your Consultancy

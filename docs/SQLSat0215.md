@@ -39,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10139
 # SQL Internals, Recovery Models,  Backups! OH MY!
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA (Auditorium 2)
 ## Speaker: Bradley Ball
 ## Title: SQL Internals, Recovery Models,  Backups! OH MY!
@@ -48,7 +48,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA (Auditorium 2)
 #  
 #### SessionID: 11412
 # Global Address Data: Storage and Verification
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Charles Gaddy
 ## Title: Global Address Data: Storage and Verification
@@ -57,7 +57,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 11924
 # Building an ETL Framework with SSIS 2012
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Christopher Price
 ## Title: Building an ETL Framework with SSIS 2012
@@ -66,7 +66,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 12805
 # NoSQL - Couchbase and Map/Reduce
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Personal Dev  Azure
 ## Speaker: David Talbot
 ## Title: NoSQL - Couchbase and Map/Reduce
@@ -75,7 +75,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Personal Dev  Azure
 #  
 #### SessionID: 13498
 # MDXplosion! Intro To MDX
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Dustin Ryan
 ## Title: MDXplosion! Intro To MDX
@@ -84,7 +84,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 13699
 # Backup Strategies are for Losers!
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA (Auditorium 2)
 ## Speaker: Ed Watson
 ## Title: Backup Strategies are for Losers!
@@ -95,7 +95,7 @@ creating your recovery point and recovery time objectives, selecting the proper 
 #  
 #### SessionID: 15702
 # Extend Your Knowledge with Extended Events!
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Janis Griffin
 ## Title: Extend Your Knowledge with Extended Events!
@@ -106,7 +106,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 15887
 # GeoSpatial Analytics Using Microsoft BI
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track:  BI (Auditorium 1)
 ## Speaker: Jason Thomas
 ## Title: GeoSpatial Analytics Using Microsoft BI
@@ -115,7 +115,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track:  BI (Auditorium 1)
 #  
 #### SessionID: 16024
 # Principles of BISM Tabular Modeling
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track:  BI (Auditorium 1)
 ## Speaker: Javier Guillen
 ## Title: Principles of BISM Tabular Modeling
@@ -128,7 +128,7 @@ On this session, attendees will gain an understanding of the fundamental princip
 #  
 #### SessionID: 16313
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA (Auditorium 2)
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
@@ -137,7 +137,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA (Auditorium 2)
 #  
 #### SessionID: 16381
 # Database Projects - An Introduction
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jonathon Moorman
 ## Title: Database Projects - An Introduction
@@ -146,7 +146,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 16958
 # Predictive Analytics at your fingertips
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jose L. Rivera
 ## Title: Predictive Analytics at your fingertips
@@ -155,7 +155,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 17194
 # Moving Big Data - SSIS, Pig, and Sqoop
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track:  BI (Auditorium 1)
 ## Speaker: John Welch
 ## Title: Moving Big Data - SSIS, Pig, and Sqoop
@@ -164,7 +164,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track:  BI (Auditorium 1)
 #  
 #### SessionID: 17356
 # ETL  Automation Using SSIS
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jorge Novo
 ## Title: ETL  Automation Using SSIS
@@ -173,7 +173,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 17402
 # What is a BI DBA?
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA (Auditorium 2)
 ## Speaker: Jorge Segarra
 ## Title: What is a BI DBA?
@@ -182,7 +182,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA (Auditorium 2)
 #  
 #### SessionID: 18651
 # Creating a Power View Reporting Solution
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track:  BI (Auditorium 1)
 ## Speaker: Devin Knight
 ## Title: Creating a Power View Reporting Solution
@@ -191,7 +191,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track:  BI (Auditorium 1)
 #  
 #### SessionID: 19970
 # Complex DAX Functions
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mike Davis
 ## Title: Complex DAX Functions
@@ -200,7 +200,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 20031
 # SQL 2012 DMV's  Extended Events
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Gareth Swanepoel
 ## Title: SQL 2012 DMV's  Extended Events
@@ -209,7 +209,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 20666
 # Putting Quality Back Into Your Data
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Michael Antonovich
 ## Title: Putting Quality Back Into Your Data
@@ -218,7 +218,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 20726
 # DMX - Data Mining Extensions
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mike Milligan
 ## Title: DMX - Data Mining Extensions
@@ -227,7 +227,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 22338
 # Tips  Tricks for dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Personal Dev  Azure
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic SSRS Reports
@@ -237,7 +237,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Personal Dev  Azure
 #  
 #### SessionID: 22954
 # Waiter, There's a Fly In My Data 
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Rafael Salas
 ## Title: Waiter, There's a Fly In My Data 
@@ -246,7 +246,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 23146
 # Maintaining Indexes in SQL Server
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Robert Biddle
 ## Title: Maintaining Indexes in SQL Server
@@ -255,7 +255,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 24068
 # SQL Server Security
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA (Auditorium 2)
 ## Speaker: Scott Gleason
 ## Title: SQL Server Security
@@ -264,7 +264,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA (Auditorium 2)
 #  
 #### SessionID: 24405
 # Intro to SSIS 2012 Deployment Models
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Shawn Harrison
 ## Title: Intro to SSIS 2012 Deployment Models
@@ -273,7 +273,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 24929
 # Dashboards...How To Choose Which MSBI Tool
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Melissa Coates
 ## Title: Dashboards...How To Choose Which MSBI Tool
@@ -282,7 +282,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 24992
 # SQL Server VS SQL Azure
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Personal Dev  Azure
 ## Speaker: SQL Harry
 ## Title: SQL Server VS SQL Azure
@@ -302,7 +302,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Personal Dev  Azure
 #  
 #### SessionID: 25301
 # BI Consultant's Toolkit
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Personal Dev  Azure
 ## Speaker: Steve Schneider
 ## Title: BI Consultant's Toolkit
@@ -311,7 +311,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Personal Dev  Azure
 #  
 #### SessionID: 25678
 # ABCs of CDC with SSIS 2012
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Steve Wake
 ## Title: ABCs of CDC with SSIS 2012
@@ -320,7 +320,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 26023
 # Adventures in Job Hunting
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Personal Dev  Azure
 ## Speaker: Tom  Brenneman
 ## Title: Adventures in Job Hunting
@@ -329,7 +329,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Personal Dev  Azure
 #  
 #### SessionID: 26828
 # A Walk Around the SQL Server 2012 Audit Feature
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Timothy McAliley
 ## Title: A Walk Around the SQL Server 2012 Audit Feature
@@ -338,7 +338,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 9126
 # Iron Chef - Traditional vs Self Service BI
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track:  BI (Auditorium 1)
 ## Speaker: Adam Jorgensen
 ## Title: Iron Chef - Traditional vs Self Service BI
@@ -347,7 +347,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track:  BI (Auditorium 1)
 #  
 #### SessionID: 9127
 # Roping the Elephant - Hadoop and BI Live!
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Personal Dev  Azure
 ## Speaker: Adam Jorgensen
 ## Title: Roping the Elephant - Hadoop and BI Live!
@@ -357,7 +357,7 @@ Have you been wondering how you can sit down at work and use Hadoop to make your
 #  
 #### SessionID: 9878
 # Database Requirements
-#### [Back to calendar](#SQLSaturday-#215---Jacksonville-2013)
+#### [Back to calendar](#SQLSaturday-#215-Jacksonville-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Arvin Meyer
 ## Title: Database Requirements

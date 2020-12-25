@@ -19,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 64737
 # High Availability and Disaster Recovery on SQL Server, Azure and beyond
-#### [Back to calendar](#SQLSaturday-#658---Toulouse-2017)
+#### [Back to calendar](#SQLSaturday-#658-Toulouse-2017)
 Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 1 - DBA  Cloud-DBA
 ## Speaker: Paul Bertucci
 ## Title: High Availability and Disaster Recovery on SQL Server, Azure and beyond
@@ -28,7 +28,7 @@ Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 1 - DBA  Cloud-DBA
 #  
 #### SessionID: 67524
 # L'ALM pour les bases de données SQL Server grâce à Visual Studio, ReadyRoll et VSTS
-#### [Back to calendar](#SQLSaturday-#658---Toulouse-2017)
+#### [Back to calendar](#SQLSaturday-#658-Toulouse-2017)
 Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 3 - Dev  Data
 ## Speaker: Patrice Lamarche
 ## Title: L'ALM pour les bases de données SQL Server grâce à Visual Studio, ReadyRoll et VSTS
@@ -39,7 +39,7 @@ Vous en avez marre d'effectuer vos mises à jour de BDD manuellement avec des SQ
 #  
 #### SessionID: 67600
 # Azure Data Lake : SELECT People FROM DataLake WHERE Happy = TRUE
-#### [Back to calendar](#SQLSaturday-#658---Toulouse-2017)
+#### [Back to calendar](#SQLSaturday-#658-Toulouse-2017)
 Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 2 - BI  Analytics
 ## Speaker: Jean-Pierre Riehl
 ## Title: Azure Data Lake : SELECT People FROM DataLake WHERE Happy = TRUE
@@ -50,7 +50,7 @@ Even if this session is demo-driven, we won't omit to present you concepts and f
 #  
 #### SessionID: 66750
 # Les bases du dépannage SQL Server
-#### [Back to calendar](#SQLSaturday-#658---Toulouse-2017)
+#### [Back to calendar](#SQLSaturday-#658-Toulouse-2017)
 Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 1 - DBA  Cloud-DBA
 ## Speaker: Christophe Laporte
 ## Title: Les bases du dépannage SQL Server
@@ -62,7 +62,7 @@ Au cours de cette session, nous allons aborder les bases du diagnostic et du dé
 #  
 #### SessionID: 67352
 # SSAS Tabulaire - Optimisation
-#### [Back to calendar](#SQLSaturday-#658---Toulouse-2017)
+#### [Back to calendar](#SQLSaturday-#658-Toulouse-2017)
 Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 2 - BI  Analytics
 ## Speaker: Charles-Henri Sauget
 ## Title: SSAS Tabulaire - Optimisation
@@ -71,7 +71,7 @@ Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 2 - BI  Analytics
 #  
 #### SessionID: 67712
 # Des graphs partout! Microsoft se prendrait-il pour Banksy?
-#### [Back to calendar](#SQLSaturday-#658---Toulouse-2017)
+#### [Back to calendar](#SQLSaturday-#658-Toulouse-2017)
 Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 3 - Dev  Data
 ## Speaker: Cédric Charlier
 ## Title: Des graphs partout! Microsoft se prendrait-il pour Banksy?
@@ -80,7 +80,7 @@ Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 3 - Dev  Data
 #  
 #### SessionID: 64703
 # Reporting Services 2016 and beyond
-#### [Back to calendar](#SQLSaturday-#658---Toulouse-2017)
+#### [Back to calendar](#SQLSaturday-#658-Toulouse-2017)
 Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 2 - BI  Analytics
 ## Speaker: Christian Cote
 ## Title: Reporting Services 2016 and beyond
@@ -89,7 +89,7 @@ Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 2 - BI  Analytics
 #  
 #### SessionID: 66886
 # Introducing SQL Server on Linux for DBAs
-#### [Back to calendar](#SQLSaturday-#658---Toulouse-2017)
+#### [Back to calendar](#SQLSaturday-#658-Toulouse-2017)
 Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 1 - DBA  Cloud-DBA
 ## Speaker: David Barbarin
 ## Title: Introducing SQL Server on Linux for DBAs
@@ -98,7 +98,7 @@ Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 1 - DBA  Cloud-DBA
 #  
 #### SessionID: 67653
 # Scale-Out your SSIS Package Executions
-#### [Back to calendar](#SQLSaturday-#658---Toulouse-2017)
+#### [Back to calendar](#SQLSaturday-#658-Toulouse-2017)
 Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 3 - Dev  Data
 ## Speaker: Wolfgang Strasser
 ## Title: Scale-Out your SSIS Package Executions
@@ -108,7 +108,7 @@ After the definition of scalability-types, the SSIS scale-out architecture and t
 #  
 #### SessionID: 67354
 # POWER BI PREMIUM : POUR QUELS USAGES ?
-#### [Back to calendar](#SQLSaturday-#658---Toulouse-2017)
+#### [Back to calendar](#SQLSaturday-#658-Toulouse-2017)
 Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 2 - BI  Analytics
 ## Speaker: Joël Crest
 ## Title: POWER BI PREMIUM : POUR QUELS USAGES ?
@@ -121,7 +121,7 @@ Autant de questions auxquelles je répondrai au cours de cette session.
 #  
 #### SessionID: 67357
 # Scale out dans la vraie vie
-#### [Back to calendar](#SQLSaturday-#658---Toulouse-2017)
+#### [Back to calendar](#SQLSaturday-#658-Toulouse-2017)
 Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 1 - DBA  Cloud-DBA
 ## Speaker: Gregory Boge
 ## Title: Scale out dans la vraie vie
@@ -132,7 +132,7 @@ Dans cette session, j'essayerai de vous expliquer quelle est notre architecture 
 #  
 #### SessionID: 64560
 # Real-Time Analytics: OLAP  OLTP in the mix!
-#### [Back to calendar](#SQLSaturday-#658---Toulouse-2017)
+#### [Back to calendar](#SQLSaturday-#658-Toulouse-2017)
 Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 1 - DBA  Cloud-DBA
 ## Speaker: Stijn Wynants
 ## Title: Real-Time Analytics: OLAP  OLTP in the mix!
@@ -141,7 +141,7 @@ Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 1 - DBA  Cloud-DBA
 #  
 #### SessionID: 64742
 # Turn insight into action using Microsoft Flow and Power BI
-#### [Back to calendar](#SQLSaturday-#658---Toulouse-2017)
+#### [Back to calendar](#SQLSaturday-#658-Toulouse-2017)
 Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 2 - BI  Analytics
 ## Speaker: Isabelle Van Campenhoudt
 ## Title: Turn insight into action using Microsoft Flow and Power BI
@@ -152,7 +152,7 @@ Microsoft Flow is a SaaS offering for automating workflows across the growing nu
 #  
 #### SessionID: 69118
 # Les nouveautés SAAS de la plateforme AZURE : Cosmos DB, MySQL et PostgreSQL as a service !
-#### [Back to calendar](#SQLSaturday-#658---Toulouse-2017)
+#### [Back to calendar](#SQLSaturday-#658-Toulouse-2017)
 Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 3 - Dev  Data
 ## Speaker: Sébastien Pertus
 ## Title: Les nouveautés SAAS de la plateforme AZURE : Cosmos DB, MySQL et PostgreSQL as a service !

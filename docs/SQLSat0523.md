@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 46182
 # How to collect a baseline on all your servers and still get a good night's sleep.
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Automation and Monitoring
 ## Speaker: Jim Dorame
 ## Title: How to collect a baseline on all your servers and still get a good night's sleep.
@@ -44,7 +44,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Automation and Monitori
 #  
 #### SessionID: 48156
 # Taming the Transaction Log
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Hays
 ## Title: Taming the Transaction Log
@@ -53,7 +53,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49545
 # DataZen and MS SQL 2016 Mobile BI now
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: James Borland
 ## Title: DataZen and MS SQL 2016 Mobile BI now
@@ -62,7 +62,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 49572
 # Performance Pitfalls from Code Reuse
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: Performance Pitfalls from Code Reuse
@@ -73,7 +73,7 @@ Come to this session and learn why applying object-oriented principles can be ex
 #  
 #### SessionID: 52277
 # Data Architecture 101
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: Data Architecture 101
@@ -86,7 +86,7 @@ This presentation is a survey of Data Architecture for the Intermediate DBA, it 
 #  
 #### SessionID: 48564
 # SQL Server 2016 for BI
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: BI Information Delivery
 ## Speaker: George Bryant
 ## Title: SQL Server 2016 for BI
@@ -95,7 +95,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 49225
 # Does it Hurt When I Do This? Performing a SQL Server Health Check
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Automation and Monitoring
 ## Speaker: Andy Galbraith
 ## Title: Does it Hurt When I Do This? Performing a SQL Server Health Check
@@ -106,7 +106,7 @@ Come learn how to use freely available tools from multiple layers of the SQL Ser
 #  
 #### SessionID: 49489
 # Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Automation and Monitoring
 ## Speaker: Ed Leighton-Dick
 ## Title: Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
@@ -115,7 +115,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Automation and Monitori
 #  
 #### SessionID: 49565
 # "R" You Ready For SQL 2016?
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: John Pertell
 ## Title: "R" You Ready For SQL 2016?
@@ -128,7 +128,7 @@ In this beginner session we will look at how to set up R on your SQL instance. W
 #  
 #### SessionID: 49571
 # Uncovering Duplicate, Redundant, and Missing Indexes
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: Uncovering Duplicate, Redundant, and Missing Indexes
@@ -140,7 +140,7 @@ Attend this session and learn how SQL Server tracks actual index usage, and how 
 #  
 #### SessionID: 49292
 # SQL Server 2016: What's new?
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: SQL Server 2016: What's new?
@@ -153,7 +153,7 @@ in your Dev environment.
 #  
 #### SessionID: 49665
 # SQL Server may let you do it, but it doesn't mean you should.
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Samantha Fahrmann
 ## Title: SQL Server may let you do it, but it doesn't mean you should.
@@ -162,7 +162,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 49679
 # Women in Technology Lunch: Energizing the Next Generation
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Andrea Mascher
 ## Title: Women in Technology Lunch: Energizing the Next Generation
@@ -171,7 +171,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 51138
 # The Flash-Enhanced Database [Sponsored]
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: Brandon Grieve
 ## Title: The Flash-Enhanced Database [Sponsored]
@@ -180,7 +180,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 52242
 # SQL Server Data Protection with EMC Technology [Sponsored]
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: Klas Wiberg
 ## Title: SQL Server Data Protection with EMC Technology [Sponsored]
@@ -192,7 +192,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 47703
 # So this is Power BI. What now?
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: George Bryant
 ## Title: So this is Power BI. What now?
@@ -201,7 +201,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 48278
 # Virtual SQL Servers. Actual Performance.
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Virtual SQL Servers. Actual Performance.
@@ -211,7 +211,7 @@ This session is packed with many tips and tricks gained from years of experience
 #  
 #### SessionID: 49602
 # Get Your Optimizer to Give up All Its Secrets
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
@@ -220,7 +220,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49656
 # Using Powershell to Automate Your Restore Strategy
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: PowerShell
 ## Speaker: Frank Gill
 ## Title: Using Powershell to Automate Your Restore Strategy
@@ -229,7 +229,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: PowerShell
 #  
 #### SessionID: 51081
 # Capture Changes with SQL Server's Change Data Capture
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Wylie Blanchard
 ## Title: Capture Changes with SQL Server's Change Data Capture
@@ -238,7 +238,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 48212
 # I Installed SQL Server... Now What?
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jared Karney
 ## Title: I Installed SQL Server... Now What?
@@ -247,7 +247,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48781
 # SQL Server Hybrid Cloud Strategy: Best Of Both Worlds With On-Prem + Cloud
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Paul Timmerman
 ## Title: SQL Server Hybrid Cloud Strategy: Best Of Both Worlds With On-Prem + Cloud
@@ -258,7 +258,7 @@ Come spend the hour with me and you’ll learn how to leverage the power of the 
 #  
 #### SessionID: 49490
 # Understanding SQL Server 2016 Always Encrypted
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Ed Leighton-Dick
 ## Title: Understanding SQL Server 2016 Always Encrypted
@@ -267,7 +267,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 49680
 # Building a Data Warehouse for the DBA
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Automation and Monitoring
 ## Speaker: Pat Phelan
 ## Title: Building a Data Warehouse for the DBA
@@ -280,7 +280,7 @@ This is targeted at the DBA who is responsible for multiple SQL Servers, in mult
 #  
 #### SessionID: 49991
 # PoShDBA: Practical PowerShell for the DBA
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: PowerShell
 ## Speaker: Ben Miller
 ## Title: PoShDBA: Practical PowerShell for the DBA
@@ -289,7 +289,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: PowerShell
 #  
 #### SessionID: 45564
 # Extended Events: What are they and How do I use them
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Automation and Monitoring
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
@@ -298,7 +298,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Automation and Monitori
 #  
 #### SessionID: 48155
 # Tackling Technical Blogging
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Mike Hays
 ## Title: Tackling Technical Blogging
@@ -307,7 +307,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 48280
 # Infrastructure Tuning for SQL Server Performance
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Infrastructure Tuning for SQL Server Performance
@@ -316,7 +316,7 @@ Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49097
 # Kerberos Delegation Made Simple
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kathi Kellenberger
 ## Title: Kerberos Delegation Made Simple
@@ -329,7 +329,7 @@ Attend this session to learn why Kerberos is necessary and how to configure and 
 #  
 #### SessionID: 49544
 # Wibbly-Wobbly, Timey-Wimey Tables
-#### [Back to calendar](#SQLSaturday-#523---Iowa-City-2016)
+#### [Back to calendar](#SQLSaturday-#523-Iowa-City-2016)
 Event Date: 11-06-2016 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: James Borland
 ## Title: Wibbly-Wobbly, Timey-Wimey Tables

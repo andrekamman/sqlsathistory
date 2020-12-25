@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 70013
 # What can you do with SQL Server on Linux?
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Database Administration
 ## Speaker: Rudi Bruchez
 ## Title: What can you do with SQL Server on Linux?
@@ -37,7 +37,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Database Administration
 #  
 #### SessionID: 70265
 # SQL Server 2017 Graph Database
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Development
 ## Speaker: Sergio Govoni
 ## Title: SQL Server 2017 Graph Database
@@ -46,7 +46,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Development
 #  
 #### SessionID: 71307
 # Decision Trees: the Machine Learning "Magic" Unveiled
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Luca Zavarella
 ## Title: Decision Trees: the Machine Learning "Magic" Unveiled
@@ -55,7 +55,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 74309
 # Responding to Extended Events in near real-time
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Gianluca Sartori
 ## Title: Responding to Extended Events in near real-time
@@ -68,7 +68,7 @@ In this session we will see how the Extended Events streaming API can be used to
 #  
 #### SessionID: 70047
 # Parameter Sniffing on SQL Server
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Database Administration
 ## Speaker: Dean Savović
 ## Title: Parameter Sniffing on SQL Server
@@ -77,7 +77,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Database Administration
 #  
 #### SessionID: 70052
 # Azure Data Lake Analytics
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Analytics and Visualization
 ## Speaker: Tomaž Kaštrun
 ## Title: Azure Data Lake Analytics
@@ -90,7 +90,7 @@ For the demo, we will look at the image recognition and emotion detection.
 #  
 #### SessionID: 71931
 # Azure Functions e Logic Apps: i tuoi coltellini svizzeri per gestire i tuoi dati in un SQL Database
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Cloud
 ## Speaker: Marco Parenzan
 ## Title: Azure Functions e Logic Apps: i tuoi coltellini svizzeri per gestire i tuoi dati in un SQL Database
@@ -101,7 +101,7 @@ Quindi introduceremo le minime conoscenze .NET necessarie, come scrivere una Fun
 #  
 #### SessionID: 73016
 # SQL Server Database Engine 2017 Enhancements
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Development
 ## Speaker: Gianluca Hotz
 ## Title: SQL Server Database Engine 2017 Enhancements
@@ -110,7 +110,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Development
 #  
 #### SessionID: 70017
 # An introduction to the magical world of BIML!
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Data Science
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
@@ -119,7 +119,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Data Science
 #  
 #### SessionID: 70154
 # SQL Server performance tuning on Azure IaaS
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Cloud
 ## Speaker: Marco Obinu
 ## Title: SQL Server performance tuning on Azure IaaS
@@ -129,7 +129,7 @@ Let's see together how to maximize performance (and minimize costs) of our SQL V
 #  
 #### SessionID: 71032
 # Gestire SSRS con Powershell
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Data Science
 ## Speaker: Danilo Dominici
 ## Title: Gestire SSRS con Powershell
@@ -138,7 +138,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Data Science
 #  
 #### SessionID: 72377
 # Power BI:  Dal dato grezzo al modello di analisi con M e DAX
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Analytics and Visualization
 ## Speaker: Marco Pozzan
 ## Title: Power BI:  Dal dato grezzo al modello di analisi con M e DAX
@@ -147,7 +147,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 70458
 # Lavorare con database SQL Server con .NET Standard 2.0
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Development
 ## Speaker: Marco Minerva
 ## Title: Lavorare con database SQL Server con .NET Standard 2.0
@@ -156,7 +156,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Development
 #  
 #### SessionID: 71403
 # Integrazione tra PowerBI e Reporting Services: il perché ed il come
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Analytics and Visualization
 ## Speaker: Gilberto Zampatti
 ## Title: Integrazione tra PowerBI e Reporting Services: il perché ed il come
@@ -165,7 +165,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 72420
 # Introducing SQL Operations Studio
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Professional Development
 ## Speaker: Luca Bruni
 ## Title: Introducing SQL Operations Studio
@@ -175,7 +175,7 @@ Anche gli strumenti di lavoro stanno adenguandosi a tale cambiamento ed hanno in
 #  
 #### SessionID: 70262
 # SQL Server 2017: Data Science with Python or R?
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dejan Sarka
 ## Title: SQL Server 2017: Data Science with Python or R?
@@ -184,7 +184,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 70564
 # High availability for SQL Server using Azure as DR site
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Cloud
 ## Speaker: Marcelo Fernandes
 ## Title: High availability for SQL Server using Azure as DR site
@@ -193,7 +193,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Cloud
 #  
 #### SessionID: 71894
 # MDX is still alive! Are you ready for MDX Troubleshooting 2.0 ?
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Data Science
 ## Speaker: Francesco De Chirico
 ## Title: MDX is still alive! Are you ready for MDX Troubleshooting 2.0 ?
@@ -202,7 +202,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Data Science
 #  
 #### SessionID: 72299
 # Columnstore Indexes: what they are, and how to use them
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Development
 ## Speaker: Francesco Milano
 ## Title: Columnstore Indexes: what they are, and how to use them
@@ -213,7 +213,7 @@ In questa sessione verranno introdotti i Columnstore Indexes, concentrandosi sul
 #  
 #### SessionID: 71083
 # Practical SQL Server Machine Learning Services
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jan Mulkens
 ## Title: Practical SQL Server Machine Learning Services
@@ -224,7 +224,7 @@ Learn how you can easily roll out your own Data Science projects or support the 
 #  
 #### SessionID: 71529
 # SQL Audit - Evidence Never Lies
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Database Administration
 ## Speaker: Patrick Keisler
 ## Title: SQL Audit - Evidence Never Lies
@@ -233,7 +233,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Database Administration
 #  
 #### SessionID: 72261
 # JSON before and after SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Development
 ## Speaker: Emanuele Zanchettin
 ## Title: JSON before and after SQL Server 2016
@@ -242,7 +242,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Development
 #  
 #### SessionID: 74382
 # GDPR and Database Management
-#### [Back to calendar](#SQLSaturday-#707---Pordenone-2018)
+#### [Back to calendar](#SQLSaturday-#707-Pordenone-2018)
 Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Database Administration
 ## Speaker: Alessandro Falchetti
 ## Title: GDPR and Database Management

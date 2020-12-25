@@ -49,7 +49,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 57281
 # Automated Restore Script Output for Ola Hallengren’s Maintenance Solution
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Jared Zagelbaum
 ## Title: Automated Restore Script Output for Ola Hallengren’s Maintenance Solution
@@ -63,7 +63,7 @@ If you don't know what I just described in that last paragraph, you should come 
 #  
 #### SessionID: 57661
 # Understanding and Handling Database Corruption
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: David Maxwell
 ## Title: Understanding and Handling Database Corruption
@@ -72,7 +72,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 57857
 # Anatomy of a Transaction
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Frank Gill
 ## Title: Anatomy of a Transaction
@@ -81,7 +81,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 59731
 # Building an SSIS Framework with BIML
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gill Rowley
 ## Title: Building an SSIS Framework with BIML
@@ -90,7 +90,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 59819
 # Big Data Solutions in Azure
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: David Giard
 ## Title: Big Data Solutions in Azure
@@ -101,7 +101,7 @@ In this session, you will learn what tools are available in HD Insight and how t
 #  
 #### SessionID: 59869
 # Statistics  Cardinality – How They Work to Find Data Efficiently
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Chris Bell
 ## Title: Statistics  Cardinality – How They Work to Find Data Efficiently
@@ -112,7 +112,7 @@ In this session we will go over why statistics matter, how they are generated, h
 #  
 #### SessionID: 59873
 # SQL Server Infrastructure – Cloud and On-Prem Options
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: David Klee
 ## Title: SQL Server Infrastructure – Cloud and On-Prem Options
@@ -123,7 +123,7 @@ Physical servers, enterprise virtualization, and cloud servers all provide solid
 #  
 #### SessionID: 62642
 # SQL Server Databases in the Clouds
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tim Plas
 ## Title: SQL Server Databases in the Clouds
@@ -132,7 +132,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 62667
 # Supercharging Backups and Restores For Fun and Profit
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Bob Pusateri
 ## Title: Supercharging Backups and Restores For Fun and Profit
@@ -141,7 +141,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 58274
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -150,7 +150,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 59327
 # Analysis Services is in Azure? Seriously!? Let's build a model!
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Phillip Labry
 ## Title: Analysis Services is in Azure? Seriously!? Let's build a model!
@@ -159,7 +159,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 59562
 # SQL Server Encryption
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Ben Miller
 ## Title: SQL Server Encryption
@@ -168,7 +168,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 59707
 # Care and feeding of AWS RDS Instances
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Luke Jian
 ## Title: Care and feeding of AWS RDS Instances
@@ -177,7 +177,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 60931
 # Power BI - The One Power Tool to Rule Them All?
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Hope Foley
 ## Title: Power BI - The One Power Tool to Rule Them All?
@@ -186,7 +186,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 61144
 # JSON for the Data Mortals
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Jim Dorame
 ## Title: JSON for the Data Mortals
@@ -195,7 +195,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 61579
 # Index 360 - Looking at Indexes from Multiple Perspectives
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: John Eisbrener
 ## Title: Index 360 - Looking at Indexes from Multiple Perspectives
@@ -204,7 +204,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 62559
 # Database Snapshots - Making Your Job Easier
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Other
 ## Speaker: Paul Timmerman
 ## Title: Database Snapshots - Making Your Job Easier
@@ -213,7 +213,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 62668
 # Extending Applications Securely Using Service Broker
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ed Leighton-Dick
 ## Title: Extending Applications Securely Using Service Broker
@@ -222,7 +222,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 57148
 # Building Your First Data Warehouse
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jesse Seymour
 ## Title: Building Your First Data Warehouse
@@ -231,7 +231,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 57269
 # R For the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
@@ -240,7 +240,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 59750
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -255,7 +255,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 59836
 # Get Your Optimizer to Give up All Its Secrets
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
@@ -264,7 +264,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 59850
 # SQL Server 2016 SP1 ROCKS!!
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2016 SP1 ROCKS!!
@@ -273,7 +273,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 61090
 # Relational Data Architecture 101
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: Relational Data Architecture 101
@@ -286,7 +286,7 @@ This presentation is a survey of Data Architecture for the Intermediate DBA, it 
 #  
 #### SessionID: 61245
 # Power BI – Jumpstart
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Seth Bauer
 ## Title: Power BI – Jumpstart
@@ -296,7 +296,7 @@ In this session, we will cover a wide variety of topics within the Power BI eco-
 #  
 #### SessionID: 61686
 # Deconstructing Deceptively Simple DAX
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cory Cundy
 ## Title: Deconstructing Deceptively Simple DAX
@@ -305,7 +305,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 62447
 # Partitioning Basics: Treating Your Tables Like Legos
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Brandon Leach
 ## Title: Partitioning Basics: Treating Your Tables Like Legos
@@ -316,7 +316,7 @@ With partitioning, you can break a table or index down into smaller more managea
 #  
 #### SessionID: 57145
 # The Modern Enterprise Data Warehouse
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ross LoForte
 ## Title: The Modern Enterprise Data Warehouse
@@ -330,7 +330,7 @@ Manage Data Quality and Deliver Clean, Consistent Data
 #  
 #### SessionID: 57169
 # What is new in SQL Server 2016 for DBAs?
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ameena Lalani
 ## Title: What is new in SQL Server 2016 for DBAs?
@@ -339,7 +339,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 57684
 # Help! My Replication Has Fallen and I Cant Get it Replicating again.
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Thomas Lane
 ## Title: Help! My Replication Has Fallen and I Cant Get it Replicating again.
@@ -348,7 +348,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 59589
 # Installing SQL Server on Linux in AWS
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Stacy Hein
 ## Title: Installing SQL Server on Linux in AWS
@@ -359,7 +359,7 @@ The session will end with a demonstration of an install of SQL Server 2016 on Li
 #  
 #### SessionID: 60999
 # Cortana Intelligence Suite: Getting Started with Data Lake Analytics and Polybase
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Sean Forgatch
 ## Title: Cortana Intelligence Suite: Getting Started with Data Lake Analytics and Polybase
@@ -370,7 +370,7 @@ This session will also cover use case scenarios for Cortana technologies and wha
 #  
 #### SessionID: 61571
 # Reporting Services 2016: The Force Awakens
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Paul Turley
 ## Title: Reporting Services 2016: The Force Awakens
@@ -379,7 +379,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 62641
 # Protecting SQL Data for Availability and DR
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Tim Plas
 ## Title: Protecting SQL Data for Availability and DR
@@ -388,7 +388,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 62672
 # SQL Server System Behavior: Observation  Intervention
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Lonny Niederstadt
 ## Title: SQL Server System Behavior: Observation  Intervention
@@ -403,7 +403,7 @@ In this session attendees will see profiles and interventions based situations i
 #  
 #### SessionID: 57366
 # How to use Execution Plans to find Performance Issues
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Dave Bland
 ## Title: How to use Execution Plans to find Performance Issues
@@ -412,7 +412,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 57416
 # SSAS Tabular in 60 mins: Developing Business-Driven Self-Service BI
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Wylie Blanchard
 ## Title: SSAS Tabular in 60 mins: Developing Business-Driven Self-Service BI
@@ -421,7 +421,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 57584
 # Read Dirty to Me - Isolation Levels/User Impact
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Wendy Pastrick
 ## Title: Read Dirty to Me - Isolation Levels/User Impact
@@ -430,7 +430,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 59477
 # Cube Processing Strategies
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ross McNeely
 ## Title: Cube Processing Strategies
@@ -439,7 +439,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 59549
 # Moving Data from Oracle to SQL Server with Biml
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Arthur Wang
 ## Title: Moving Data from Oracle to SQL Server with Biml
@@ -448,7 +448,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 59561
 # Inside the SQLPS PowerShell Module
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ben Miller
 ## Title: Inside the SQLPS PowerShell Module
@@ -457,7 +457,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 60932
 # PaaS Your BISM: Intro to Azure Analysis Services
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Hope Foley
 ## Title: PaaS Your BISM: Intro to Azure Analysis Services
@@ -466,7 +466,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 61183
 # Moving Your BI Solutions to Azure
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dave DuVarney
 ## Title: Moving Your BI Solutions to Azure
@@ -475,7 +475,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 62671
 # XML vs JSON - Battle Royale
-#### [Back to calendar](#SQLSaturday-#604---Madison-2017)
+#### [Back to calendar](#SQLSaturday-#604-Madison-2017)
 Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Riley Major
 ## Title: XML vs JSON - Battle Royale

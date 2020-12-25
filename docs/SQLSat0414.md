@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10975
 # Securing your SQL Azure Database. How?
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 ## Speaker: Boris Hristov
 ## Title: Securing your SQL Azure Database. How?
@@ -41,7 +41,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 #  
 #### SessionID: 36065
 # End to end risk assessment – affordable solution using Power BI
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Analytics  Visualization
 ## Speaker: Asgeir Gunnarsson
 ## Title: End to end risk assessment – affordable solution using Power BI
@@ -53,7 +53,7 @@ This method can easily transfer to any other data collection solution such as bu
 #  
 #### SessionID: 36669
 # Data modeling for data analysis and cubes
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Architecture  Development
 ## Speaker: Alex Whittles
 ## Title: Data modeling for data analysis and cubes
@@ -63,7 +63,7 @@ In this session we’ll look at a number of different data scenarios that we enc
 #  
 #### SessionID: 36839
 # Automating the testing of your BI solutions with NBi
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Architecture  Development
 ## Speaker: Cédric Charlier
 ## Title: Automating the testing of your BI solutions with NBi
@@ -72,7 +72,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Architecture  Develo
 #  
 #### SessionID: 37749
 # From rakfisk to lutefisk - Beginners guide to SQL Server
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Development
 ## Speaker: André Melancia
 ## Title: From rakfisk to lutefisk - Beginners guide to SQL Server
@@ -85,7 +85,7 @@ Session suited for developers and students (beginner level).
 #  
 #### SessionID: 14612
 # Responding to extended events in near real time
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 ## Speaker: Gianluca Sartori
 ## Title: Responding to extended events in near real time
@@ -94,7 +94,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 #  
 #### SessionID: 36979
 # Optimising Cube Processing
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Architecture  Development
 ## Speaker: Bob Duffy
 ## Title: Optimising Cube Processing
@@ -114,7 +114,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Architecture  Develo
 #  
 #### SessionID: 37188
 # Taming the Beast – How a SQL DBA can keep Kerberos under control
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 ## Speaker: David Postlethwaite
 ## Title: Taming the Beast – How a SQL DBA can keep Kerberos under control
@@ -126,7 +126,7 @@ This talk looks at the principle of Kerberos, how it applies to SQL Server and w
 #  
 #### SessionID: 37509
 # Transaction Log Internals and Troubleshooting
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 ## Speaker: Andrey Zavadskiy
 ## Title: Transaction Log Internals and Troubleshooting
@@ -136,7 +136,7 @@ We examine the common issues such as full transaction log, how to get rid of mul
 #  
 #### SessionID: 39597
 # Azure Machine Learning, notes from the field
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Analytics  Visualization
 ## Speaker: Harald Svandal Presthus
 ## Title: Azure Machine Learning, notes from the field
@@ -147,7 +147,7 @@ Come to my session to get an overview of the possibilities Azure Machine Learnin
 #  
 #### SessionID: 13813
 # Efficient Indexing Strategies
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Development
 ## Speaker: Enrico van de Laar
 ## Title: Efficient Indexing Strategies
@@ -156,7 +156,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Development
 #  
 #### SessionID: 17299
 # Availability Group Maintenance Operations
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 ## Speaker: John Martin
 ## Title: Availability Group Maintenance Operations
@@ -165,7 +165,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 #  
 #### SessionID: 37187
 # Business Data Lakes - New architecture, and mindset, saves time and money
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Architecture  Development
 ## Speaker: Martin Kraugerud
 ## Title: Business Data Lakes - New architecture, and mindset, saves time and money
@@ -176,7 +176,7 @@ Imaging that you can give the business what they want in days rather than months
 #  
 #### SessionID: 39624
 # SQL Server Magic Buttons: What are Trace Flags, and why should I care?
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 ## Speaker: Steinar Andersen
 ## Title: SQL Server Magic Buttons: What are Trace Flags, and why should I care?
@@ -187,7 +187,7 @@ In this session you will get a good overview of what Trace Flags can do for you,
 #  
 #### SessionID: 40292
 # Capgemini: Azure Machine Learning by Kjetil #197;mdal
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Lunch with Sponsors
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: Capgemini: Azure Machine Learning by Kjetil #197;mdal
@@ -196,7 +196,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Lunch with Sponsors
 #  
 #### SessionID: 40293
 # NextBridge: Rapid Fire Slowly Changing Dimensions by Are Skaar
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Lunch with Sponsors
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: NextBridge: Rapid Fire Slowly Changing Dimensions by Are Skaar
@@ -212,7 +212,7 @@ o   Relational (hybrid Kimball/Inmon models)
 #  
 #### SessionID: 40294
 # Violin Memory: In-Memory or Violin Memory by Jens Melhede
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Lunch with Sponsors
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: Violin Memory: In-Memory or Violin Memory by Jens Melhede
@@ -221,7 +221,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Lunch with Sponsors
 #  
 #### SessionID: 17143
 # Performance tuning a PowerPivot and Tabular model, notes from the field
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Architecture  Development
 ## Speaker: Johan Ludvig Brattås
 ## Title: Performance tuning a PowerPivot and Tabular model, notes from the field
@@ -235,7 +235,7 @@ Join me on a session of improving a malfunctioning PowerBI Excel sheet and pick 
 #  
 #### SessionID: 36082
 # The Data Loading Performance Presentation
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Development
 ## Speaker: Matan Yungman
 ## Title: The Data Loading Performance Presentation
@@ -252,7 +252,7 @@ Among other topics, we will talk about the #1 enemy of high performance data loa
 #  
 #### SessionID: 36188
 # A deep dive into SQL Server Plan Cache Management
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 ## Speaker: Margarita Naumova
 ## Title: A deep dive into SQL Server Plan Cache Management
@@ -261,7 +261,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 #  
 #### SessionID: 37718
 # An introduction to Datazen
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Analytics  Visualization
 ## Speaker: Erik Flateby
 ## Title: An introduction to Datazen
@@ -272,7 +272,7 @@ creating your own impressive dashboards for mobile devices right away.
 #  
 #### SessionID: 37740
 # Stories from the Trenches: Upgrading SQL with Minimal Downtime
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 ## Speaker: William Durkin
 ## Title: Stories from the Trenches: Upgrading SQL with Minimal Downtime
@@ -281,7 +281,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 #  
 #### SessionID: 19488
 # What’s new in DAX 2015
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Architecture  Development
 ## Speaker: Marco Russo
 ## Title: What’s new in DAX 2015
@@ -290,7 +290,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Architecture  Develo
 #  
 #### SessionID: 23330
 # Revenge: The SQL! - Director's Cut
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL! - Director's Cut
@@ -305,7 +305,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 27309
 # INSERT / UPDATE / DELETE - deep dive
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Development
 ## Speaker: Uwe Ricken
 ## Title: INSERT / UPDATE / DELETE - deep dive
@@ -314,7 +314,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Development
 #  
 #### SessionID: 37200
 # SSRS Inception: Reporting on Reporting services.
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Analytics  Visualization
 ## Speaker: Terry McCann
 ## Title: SSRS Inception: Reporting on Reporting services.
@@ -325,7 +325,7 @@ Wouldn't it be great if you could see who is viewing a report, in what format an
 #  
 #### SessionID: 37699
 # Build your own Monitoring Environment with Powershell
-#### [Back to calendar](#SQLSaturday-#414---Oslo-2015)
+#### [Back to calendar](#SQLSaturday-#414-Oslo-2015)
 Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 ## Speaker: André Kamman
 ## Title: Build your own Monitoring Environment with Powershell

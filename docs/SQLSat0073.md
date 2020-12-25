@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28457
 # Partitioned Tables: Management  Query Processing
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 100
 ## Speaker: Benjamin Nevarez
 ## Title: Partitioned Tables: Management  Query Processing
@@ -52,7 +52,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 100
 #  
 #### SessionID: 28458
 # Top Query Optimizer Topics for Better Performance
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Rustler Hangout
 ## Speaker: Benjamin Nevarez
 ## Title: Top Query Optimizer Topics for Better Performance
@@ -61,7 +61,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Rustler Hangout
 #  
 #### SessionID: 28549
 # Opening Session
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Registration Area
 ## Speaker: Andrew Karcher
 ## Title: Opening Session
@@ -70,7 +70,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Registration Area
 #  
 #### SessionID: 29243
 # SQL Server Reporting Services Map Visualizations
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 118
 ## Speaker: Bret Stateham
 ## Title: SQL Server Reporting Services Map Visualizations
@@ -79,7 +79,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 118
 #  
 #### SessionID: 29407
 # Business Intelligence for Managers/Decision Makers
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 117
 ## Speaker: Carlos Bossy
 ## Title: Business Intelligence for Managers/Decision Makers
@@ -88,7 +88,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 117
 #  
 #### SessionID: 29409
 # The Data Mining Lifecycle
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 117
 ## Speaker: Carlos Bossy
 ## Title: The Data Mining Lifecycle
@@ -97,7 +97,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 117
 #  
 #### SessionID: 29560
 # The Largest SQL Server Projects in the World
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Rustler Hangout
 ## Speaker: Matt Hollingsworth
 ## Title: The Largest SQL Server Projects in the World
@@ -107,7 +107,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Rustler Hangout
 #  
 #### SessionID: 29561
 # Microsoft Business Intelligence All Up
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Rustler Hangout
 ## Speaker: Matt Hollingsworth
 ## Title: Microsoft Business Intelligence All Up
@@ -116,7 +116,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Rustler Hangout
 #  
 #### SessionID: 29578
 # Help Desk to DBA in 60 Minutes
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 118
 ## Speaker: Meredith Ryan-Smith
 ## Title: Help Desk to DBA in 60 Minutes
@@ -125,7 +125,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 118
 #  
 #### SessionID: 29587
 # Powershell for the DBA
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 101
 ## Speaker: Colin Smith
 ## Title: Powershell for the DBA
@@ -134,7 +134,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 101
 #  
 #### SessionID: 29890
 # DBA as Protector of the Data: Notes from the Field
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 101
 ## Speaker: Denise McInerney
 ## Title: DBA as Protector of the Data: Notes from the Field
@@ -143,7 +143,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 101
 #  
 #### SessionID: 29891
 # My Co-workers Are 9000 Miles Away! 
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 117
 ## Speaker: Denise McInerney
 ## Title: My Co-workers Are 9000 Miles Away! 
@@ -153,7 +153,7 @@ More and more technology professionals work with colleagues who are based all ov
 #  
 #### SessionID: 29892
 # Women in Tech: Encouraging the Next Generation
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Rustler Hangout
 ## Speaker: Denise McInerney
 ## Title: Women in Tech: Encouraging the Next Generation
@@ -162,7 +162,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Rustler Hangout
 #  
 #### SessionID: 29979
 # Relational Database Design 101
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 100
 ## Speaker: Diana Dee
 ## Title: Relational Database Design 101
@@ -187,7 +187,7 @@ Content:
 #  
 #### SessionID: 30295
 # Virtualization Basics for the SQL Guru
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 100
 ## Speaker: Harold Wong
 ## Title: Virtualization Basics for the SQL Guru
@@ -198,7 +198,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 100
 #  
 #### SessionID: 30358
 # Developing on SQL Azure
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 118
 ## Speaker: Ike Ellis
 ## Title: Developing on SQL Azure
@@ -207,7 +207,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 118
 #  
 #### SessionID: 31051
 # (SSIS, TSQL) - Record Linkage(Fuzzy Match) 
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 118
 ## Speaker: Joseph Verftido
 ## Title: (SSIS, TSQL) - Record Linkage(Fuzzy Match) 
@@ -219,7 +219,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 118
 #  
 #### SessionID: 31082
 # Access with SQL Server Express - Perfect!
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 116
 ## Speaker: Juan Soto
 ## Title: Access with SQL Server Express - Perfect!
@@ -228,7 +228,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 116
 #  
 #### SessionID: 31084
 # MS Access with SQL Server Strategies and Tips
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 116
 ## Speaker: Juan Soto
 ## Title: MS Access with SQL Server Strategies and Tips
@@ -237,7 +237,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 116
 #  
 #### SessionID: 31528
 # What's New in SQL Azure?
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 118
 ## Speaker: Lynn Langit
 ## Title: What's New in SQL Azure?
@@ -246,7 +246,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 118
 #  
 #### SessionID: 31575
 # Intro to T-SQL
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 116
 ## Speaker: Mark Rosenberg
 ## Title: Intro to T-SQL
@@ -255,7 +255,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 116
 #  
 #### SessionID: 32001
 # Index Internals
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Rustler Hangout
 ## Speaker: Denny Cherry
 ## Title: Index Internals
@@ -264,7 +264,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Rustler Hangout
 #  
 #### SessionID: 32002
 # Table Indexing for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Rustler Hangout
 ## Speaker: Denny Cherry
 ## Title: Table Indexing for the .NET Developer
@@ -273,7 +273,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Rustler Hangout
 #  
 #### SessionID: 32005
 # Using SQL Server Denali's Always On (HADR)
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 100
 ## Speaker: Denny Cherry
 ## Title: Using SQL Server Denali's Always On (HADR)
@@ -285,7 +285,7 @@ Additionally we will be looking at the ability to have redundant servers which c
 #  
 #### SessionID: 32236
 # SQL Server Agent Powershell Jobs 101
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 101
 ## Speaker: Peter Kral
 ## Title: SQL Server Agent Powershell Jobs 101
@@ -294,7 +294,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 101
 #  
 #### SessionID: 32237
 # Designing Re-Startable SSIS Packages
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 100
 ## Speaker: Peter Kral
 ## Title: Designing Re-Startable SSIS Packages
@@ -303,7 +303,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 100
 #  
 #### SessionID: 32316
 # SSIS - a real life sample
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 117
 ## Speaker: Jose Pons
 ## Title: SSIS - a real life sample
@@ -312,7 +312,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 117
 #  
 #### SessionID: 32317
 # To the power of Transact SQL
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 101
 ## Speaker: Jose Pons
 ## Title: To the power of Transact SQL
@@ -321,7 +321,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 101
 #  
 #### SessionID: 32418
 # Become Bilingual! Oracle for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 101
 ## Speaker: Randy Knight
 ## Title: Become Bilingual! Oracle for the SQL Server DBA
@@ -330,7 +330,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 101
 #  
 #### SessionID: 32419
 # Visual Studio 2010 Database Projects
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 101
 ## Speaker: Randy Knight
 ## Title: Visual Studio 2010 Database Projects
@@ -340,7 +340,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 101
 #  
 #### SessionID: 32475
 # SSIS Development: Improving package reliability
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 118
 ## Speaker: Reagan Williams
 ## Title: SSIS Development: Improving package reliability
@@ -358,7 +358,7 @@ We'll get to do some development, move a lot of data around and have some fun.
 #  
 #### SessionID: 32525
 # Delivering BI Solutions with SQL and SharePoint
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 117
 ## Speaker: Rob Kerr
 ## Title: Delivering BI Solutions with SQL and SharePoint
@@ -367,7 +367,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 117
 #  
 #### SessionID: 32984
 # Test Driven Development in SQL Server
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 116
 ## Speaker: David Moutray
 ## Title: Test Driven Development in SQL Server
@@ -376,7 +376,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 116
 #  
 #### SessionID: 33039
 # Reporting Services - Charts and more.
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 117
 ## Speaker: Phil Robinson
 ## Title: Reporting Services - Charts and more.
@@ -386,7 +386,7 @@ We will take a simple table report and enhance it by adding these graphic elemen
 #  
 #### SessionID: 33327
 # Parallel Data Warehouse - Architecture Overview
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 100
 ## Speaker: Ted Tasker
 ## Title: Parallel Data Warehouse - Architecture Overview
@@ -395,7 +395,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 100
 #  
 #### SessionID: 33721
 # SQL Server Panel Discussion
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Rustler Hangout
 ## Speaker: Thomas Mueller
 ## Title: SQL Server Panel Discussion
@@ -404,7 +404,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Rustler Hangout
 #  
 #### SessionID: 34623
 # Building nTier Applications with Entity Framework
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 116
 ## Speaker: David McCarter
 ## Title: Building nTier Applications with Entity Framework
@@ -413,7 +413,7 @@ Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 116
 #  
 #### SessionID: 34624
 # Real World API Design Using The Entity Framework
-#### [Back to calendar](#SQLSaturday-#73---Orange-County-2011)
+#### [Back to calendar](#SQLSaturday-#73-Orange-County-2011)
 Event Date: 09-04-2011 - Session time: 00:00:00 - Track: Tech 116
 ## Speaker: David McCarter
 ## Title: Real World API Design Using The Entity Framework

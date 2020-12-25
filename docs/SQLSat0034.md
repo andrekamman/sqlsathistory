@@ -29,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28373
 # Management Studio Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Aaron Bertrand
 ## Title: Management Studio Tips  Tricks
@@ -38,7 +38,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 28431
 # Introducing PowerPivot (BI Self-Service) for Excel
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Ayad Shammout
 ## Title: Introducing PowerPivot (BI Self-Service) for Excel
@@ -47,7 +47,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 28432
 # Building a High Availability SQL Server environmen
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Ayad Shammout
 ## Title: Building a High Availability SQL Server environmen
@@ -56,7 +56,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 28638
 # What's Really Happening on Your Server: DMV Power
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Performance Tuning
 ## Speaker: Adam Machanic
 ## Title: What's Really Happening on Your Server: DMV Power
@@ -65,7 +65,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Performance Tuning
 #  
 #### SessionID: 29338
 # SQL Server Performance Tuning Tips
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Performance Tuning
 ## Speaker: Bala Subra
 ## Title: SQL Server Performance Tuning Tips
@@ -74,7 +74,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Performance Tuning
 #  
 #### SessionID: 29339
 # SQL Server Reporting Services
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Bala Subra
 ## Title: SQL Server Reporting Services
@@ -83,7 +83,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 29424
 # Dev Overflow: What's New in ADO.NET EF 4.0?
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Performance Tuning
 ## Speaker: Chris Bowen
 ## Title: Dev Overflow: What's New in ADO.NET EF 4.0?
@@ -92,7 +92,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Performance Tuning
 #  
 #### SessionID: 29456
 # USING VSTS Database Edition and 2010 Preview
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Data Development
 ## Speaker: Charles Hyman
 ## Title: USING VSTS Database Edition and 2010 Preview
@@ -102,7 +102,7 @@ also a dog-and pony show of 2010 and some TFS thrown in.
 #  
 #### SessionID: 29873
 # Tuna Helper for SQL Server DBA's
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Performance Tuning
 ## Speaker: Dean Richards
 ## Title: Tuna Helper for SQL Server DBA's
@@ -111,7 +111,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Performance Tuning
 #  
 #### SessionID: 30266
 # Best Practices for Working With Execution Plans
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Performance Tuning
 ## Speaker: Grant Fritchey
 ## Title: Best Practices for Working With Execution Plans
@@ -120,7 +120,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Performance Tuning
 #  
 #### SessionID: 30847
 # "Dallas": Microsoft's Data Marketplace
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Data Development
 ## Speaker: Jim O'Neil
 ## Title: "Dallas": Microsoft's Data Marketplace
@@ -129,7 +129,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Data Development
 #  
 #### SessionID: 31881
 # As a DBA, Where Do I start?
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Mike Walsh
 ## Title: As a DBA, Where Do I start?
@@ -138,7 +138,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 31882
 # You Can Improve Your Own SQL Code 
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Performance Tuning
 ## Speaker: Mike Walsh
 ## Title: You Can Improve Your Own SQL Code 
@@ -147,7 +147,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Performance Tuning
 #  
 #### SessionID: 31952
 # Designing and Implementing an ETL Framework
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Mike Litchfield
 ## Title: Designing and Implementing an ETL Framework
@@ -156,7 +156,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 32351
 # Storage Design For SQL Server
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Peter Tassmer
 ## Title: Storage Design For SQL Server
@@ -165,7 +165,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 32630
 # SQL Server Development Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Roman Rehak
 ## Title: SQL Server Development Tips and Tricks
@@ -174,7 +174,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 32821
 # Automating Database Deployments with Visual Studio
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Data Development
 ## Speaker: Scott Abrants
 ## Title: Automating Database Deployments with Visual Studio
@@ -183,7 +183,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Data Development
 #  
 #### SessionID: 33159
 # Data Access Layers: A Cornucopia
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Data Development
 ## Speaker: Steve Simon
 ## Title: Data Access Layers: A Cornucopia
@@ -192,7 +192,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Data Development
 #  
 #### SessionID: 33160
 # Data Mining.. Making $mart financial decisions
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Steve Simon
 ## Title: Data Mining.. Making $mart financial decisions
@@ -201,7 +201,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 33263
 # Visualize your data on a Map
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Sunil Kadimdiwan
 ## Title: Visualize your data on a Map
@@ -212,7 +212,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 33845
 # Introduction to SSIS - Developing SSIS Packages
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Slava Kokaev
 ## Title: Introduction to SSIS - Developing SSIS Packages
@@ -230,7 +230,7 @@ Use Data Flow Adapters and Transformations
 #  
 #### SessionID: 33848
 # Use PowerShell and SQLCMD - be more effective
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Varsham Papikian
 ## Title: Use PowerShell and SQLCMD - be more effective
@@ -239,7 +239,7 @@ Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 34517
 # Developing with SQL Azure
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Data Development
 ## Speaker: Matt Van Horn
 ## Title: Developing with SQL Azure
@@ -250,7 +250,7 @@ I will share the tips and tricks that I have discovered as I worked with SQL Azu
 #  
 #### SessionID: 34518
 # Pivot Data Visualization
-#### [Back to calendar](#SQLSaturday-#34---Boston-2010)
+#### [Back to calendar](#SQLSaturday-#34-Boston-2010)
 Event Date: 30-01-2010 - Session time: 00:00:00 - Track: Data Development
 ## Speaker: Matt Van Horn
 ## Title: Pivot Data Visualization

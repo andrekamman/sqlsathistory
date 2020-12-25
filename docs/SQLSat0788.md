@@ -44,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 82445
 # SQL en la nube o en tierra??...pensemos en SQL infraestructura hibrida
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Vladimir Guzman
 ## Title: SQL en la nube o en tierra??...pensemos en SQL infraestructura hibrida
@@ -57,7 +57,7 @@ En esta sesión veremos como pueden trabajar en forma coordinada SQL On Premises
 #  
 #### SessionID: 82987
 # Taking full advantage of SQL SERVER to create  high performanse mobile apps enviroments
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Juan Andres Johanning
 ## Title: Taking full advantage of SQL SERVER to create  high performanse mobile apps enviroments
@@ -66,7 +66,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 85372
 # Migración a SQL Server 2017 ¿por qué? ¿para qué? ¿cómo?
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Migración a SQL Server 2017 ¿por qué? ¿para qué? ¿cómo?
@@ -75,7 +75,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85583
 # Inteligencia artificial en la nube
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Eduardo Castro
 ## Title: Inteligencia artificial en la nube
@@ -84,7 +84,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 85819
 # Business Intelligence???
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: César Oviedo
 ## Title: Business Intelligence???
@@ -93,7 +93,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 86296
 # Transformación Digital Empresarial
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Ahias Portillo
 ## Title: Transformación Digital Empresarial
@@ -105,7 +105,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 86317
 # Introducción a Modern Data Solutions
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jesus Gil
 ## Title: Introducción a Modern Data Solutions
@@ -114,7 +114,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 84152
 # Instalacion de SQL Server 2017 utilizando Docker
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Raul Sao
 ## Title: Instalacion de SQL Server 2017 utilizando Docker
@@ -123,7 +123,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 85330
 # Como los modelos de datos soportan la transformación digital
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Fabricio Quintanilla
 ## Title: Como los modelos de datos soportan la transformación digital
@@ -132,7 +132,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 85338
 # La nueva era Azure Data Factory v2
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: La nueva era Azure Data Factory v2
@@ -147,7 +147,7 @@ En esta charla pretendemos compartir las usabilidad de este servicio y orientarl
 #  
 #### SessionID: 85824
 # Machine Learning and Microsoft Cognitive Services
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Keneth Murillo
 ## Title: Machine Learning and Microsoft Cognitive Services
@@ -156,7 +156,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 86069
 # Seguridad de la Información - de lo Básico a lo Formal
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Walter Navarrete
 ## Title: Seguridad de la Información - de lo Básico a lo Formal
@@ -167,7 +167,7 @@ Cómo convivir en la nube bajo un esquema de seguridad.
 #  
 #### SessionID: 86324
 # SQL Server en Azure ¿cómo elegir entre tantas opciones?
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: SQL Server en Azure ¿cómo elegir entre tantas opciones?
@@ -176,7 +176,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84083
 # Big Data en la Nube - Ecosistema Hadoop con HDInsight y Azure Data Lake
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joseph Arriola
 ## Title: Big Data en la Nube - Ecosistema Hadoop con HDInsight y Azure Data Lake
@@ -186,7 +186,7 @@ Una forma de implementar de forma rápida un proyecto de Big Data es a través d
 #  
 #### SessionID: 84227
 # SQL Server Implementation Best Practices and Performance Tuning
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: José Villalta
 ## Title: SQL Server Implementation Best Practices and Performance Tuning
@@ -195,7 +195,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 84852
 # Desarrollando con SQL Server en Linux
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Roberto Pena
 ## Title: Desarrollando con SQL Server en Linux
@@ -204,7 +204,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 85822
 # Exploring Azure Bot Service in Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Keneth Murillo
 ## Title: Exploring Azure Bot Service in Microsoft Azure
@@ -213,7 +213,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 85872
 # ¡Data Discovery con R y PBI! ¿Qué es? y ¿Por qué es importante?
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Ricardo Estrada
 ## Title: ¡Data Discovery con R y PBI! ¿Qué es? y ¿Por qué es importante?
@@ -226,7 +226,7 @@ Herramientas que utilzaremos:
 #  
 #### SessionID: 86116
 # El Ciclo Empresarial de los Datos. Una perspectiva de negocios para la ventaja competitiva
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Carlos Alegria
 ## Title: El Ciclo Empresarial de los Datos. Una perspectiva de negocios para la ventaja competitiva
@@ -235,7 +235,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 82281
 # AZURE: El poder de los servicios Cloud
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Emerson Reyna
 ## Title: AZURE: El poder de los servicios Cloud
@@ -254,7 +254,7 @@ En esta sesion vamos a explorar todas las áreas de aplicación de esta platafor
 #  
 #### SessionID: 82666
 # SQL Server 2017 - Graph Databases
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: SQL Server 2017 - Graph Databases
@@ -265,7 +265,7 @@ Evoluciones, como trabajarlo correctamente, interacción con Power BI, entre otr
 #  
 #### SessionID: 85584
 # Data Analytics en la nube de Azure
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: Data Analytics en la nube de Azure
@@ -274,7 +274,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 85995
 # ¡Hágalo fácil con Azure y Modelos Tabulares! Lecciones aprendidas…
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Ricardo Estrada
 ## Title: ¡Hágalo fácil con Azure y Modelos Tabulares! Lecciones aprendidas…
@@ -283,7 +283,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 86115
 # Visualización de Datos usando Excel. Un modelo practico.
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Carlos Alegria
 ## Title: Visualización de Datos usando Excel. Un modelo practico.
@@ -292,7 +292,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 86312
 # Dr Rudo SQL presenta: Soy el nuevo y me toca Administrar SQL Server
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Dr Rudo SQL presenta: Soy el nuevo y me toca Administrar SQL Server
@@ -301,7 +301,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 86323
 # Business Intelligence y la nube... ¿A dónde vamos a parar?
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: Business Intelligence y la nube... ¿A dónde vamos a parar?
@@ -310,7 +310,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 84108
 # Integracion de datos en la nube - Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Integracion de datos en la nube - Azure Data Factory
@@ -319,7 +319,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 84153
 # Utilización de R en Transact-SQL
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Raul Sao
 ## Title: Utilización de R en Transact-SQL
@@ -328,7 +328,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 85373
 # Dr Rudo SQL Presenta: Mejores practicas para Administrar tu SQL Server
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Dr Rudo SQL Presenta: Mejores practicas para Administrar tu SQL Server
@@ -337,7 +337,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85797
 # Aprendamos Reporting Services
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Mario Guzman
 ## Title: Aprendamos Reporting Services
@@ -346,7 +346,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 85823
 # Working with Text Analytics
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Keneth Murillo
 ## Title: Working with Text Analytics
@@ -355,7 +355,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 85860
 # Visualización de datos, el futuro está en la nube
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Ahias Portillo
 ## Title: Visualización de datos, el futuro está en la nube
@@ -370,7 +370,7 @@ En esta sesión aprenderás:
 #  
 #### SessionID: 86300
 # BIG DATA
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Carlos Munoz
 ## Title: BIG DATA
@@ -379,7 +379,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 82444
 # Analisis en tiempo real con Power BI
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Vladimir Guzman
 ## Title: Analisis en tiempo real con Power BI
@@ -391,7 +391,7 @@ En esta sesión se mostrara como:
 #  
 #### SessionID: 83210
 # BI DevOps 01 - Intro a SQL Server  TFS
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: César Oviedo
 ## Title: BI DevOps 01 - Intro a SQL Server  TFS
@@ -400,7 +400,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 83276
 # Forecasting con SQL Server R Services y PowerBI
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: Forecasting con SQL Server R Services y PowerBI
@@ -409,7 +409,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 85800
 # Usando la ciencia de datos para impulsar un cambio más allá de lo digital
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Fabricio Quintanilla
 ## Title: Usando la ciencia de datos para impulsar un cambio más allá de lo digital
@@ -421,7 +421,7 @@ En cuanto a la experiencia, se trata, por ejemplo, de utilizar los datos de los 
 #  
 #### SessionID: 85873
 # ¿Comó Iniciar con R  VS + SQL?
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Ricardo Estrada
 ## Title: ¿Comó Iniciar con R  VS + SQL?
@@ -430,7 +430,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 86322
 # SQL Server 2019 Nuevas tendencias
-#### [Back to calendar](#SQLSaturday-#788---El-Salvador-2018)
+#### [Back to calendar](#SQLSaturday-#788-El-Salvador-2018)
 Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jesus Gil
 ## Title: SQL Server 2019 Nuevas tendencias

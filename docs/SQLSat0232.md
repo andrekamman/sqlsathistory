@@ -58,7 +58,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10019
 # Automate Your ETL Infrastructure with SSIS and PowerShell
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Allen White
 ## Title: Automate Your ETL Infrastructure with SSIS and PowerShell
@@ -67,7 +67,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Powershell
 #  
 #### SessionID: 10146
 # SQL Server 2014: A First Look at What’s New!
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Bradley Ball
 ## Title: SQL Server 2014: A First Look at What’s New!
@@ -76,7 +76,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 11069
 # Troubleshooting Tips 101
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 3
 ## Speaker: Brandie Tarvin
 ## Title: Troubleshooting Tips 101
@@ -85,7 +85,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 3
 #  
 #### SessionID: 11121
 # Matching with Data Quality Services
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Julie Smith
 ## Title: Matching with Data Quality Services
@@ -94,7 +94,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 11178
 # Your SQL Server Environment--Fair or foul?
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 2
 ## Speaker: Carlos L Chacon
 ## Title: Your SQL Server Environment--Fair or foul?
@@ -105,7 +105,7 @@ This presentation will focus on steps you can take to determine the performance 
 #  
 #### SessionID: 11251
 # “Indexing” Encrypted Data
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin
 ## Speaker: Chris Bell
 ## Title: “Indexing” Encrypted Data
@@ -114,7 +114,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin
 #  
 #### SessionID: 11673
 # DQS: Business logic meets integration
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI  Big Data
 ## Speaker: Chris Schmidt
 ## Title: DQS: Business logic meets integration
@@ -123,7 +123,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI  Big Data
 #  
 #### SessionID: 11858
 # An Introduction to Extended Events
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 2
 ## Speaker: Jack Corbett
 ## Title: An Introduction to Extended Events
@@ -141,7 +141,7 @@ What you should know coming in:
 #  
 #### SessionID: 11901
 # Into the Wild,Taming Unstructured Data
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI  Big Data
 ## Speaker: Christopher Price
 ## Title: Into the Wild,Taming Unstructured Data
@@ -150,7 +150,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI  Big Data
 #  
 #### SessionID: 12152
 # Will SQL Server Standard edition meet your needs?
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 2
 ## Speaker: Daniel Taylor
 ## Title: Will SQL Server Standard edition meet your needs?
@@ -159,7 +159,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 2
 #  
 #### SessionID: 12949
 # Whats New in T-SQL With SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 3
 ## Speaker: David Dye
 ## Title: Whats New in T-SQL With SQL Server 2012
@@ -168,7 +168,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 3
 #  
 #### SessionID: 13284
 # From S to 3XL: Implementing Data Partitioning and Tiered Storage
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 3
 ## Speaker: Dmitri Korotkevitch
 ## Title: From S to 3XL: Implementing Data Partitioning and Tiered Storage
@@ -177,7 +177,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 3
 #  
 #### SessionID: 13361
 # DBA 101
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 3
 ## Speaker: Don Stevic
 ## Title: DBA 101
@@ -186,7 +186,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 3
 #  
 #### SessionID: 13701
 # Backup Strategies are for Losers!
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin
 ## Speaker: Ed Watson
 ## Title: Backup Strategies are for Losers!
@@ -195,7 +195,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin
 #  
 #### SessionID: 14022
 # An Introductory Look at Execution Plans
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 3
 ## Speaker: Eric Wisdahl
 ## Title: An Introductory Look at Execution Plans
@@ -204,7 +204,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 3
 #  
 #### SessionID: 14086
 # Join Us! Getting Started as a Technical Speaker
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Prof Dev/Cloud/Misc
 ## Speaker: Eddie Wuerch
 ## Title: Join Us! Getting Started as a Technical Speaker
@@ -213,7 +213,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Prof Dev/Cloud/Misc
 #  
 #### SessionID: 14851
 # Power View  Reporting Enhancements in SQL Server 
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Guillermo Caicedo Santiago
 ## Title: Power View  Reporting Enhancements in SQL Server 
@@ -222,7 +222,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 15009
 # Spatial Data: Cooler Than You'd Think!
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin
 ## Speaker: Hope Foley
 ## Title: Spatial Data: Cooler Than You'd Think!
@@ -231,7 +231,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin
 #  
 #### SessionID: 15787
 # 5 TSQL Commands I've been missing
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 2
 ## Speaker: Jason Carter
 ## Title: 5 TSQL Commands I've been missing
@@ -240,7 +240,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 2
 #  
 #### SessionID: 16321
 # Indexing for Join Optimization
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 3
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for Join Optimization
@@ -250,7 +250,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 3
 #  
 #### SessionID: 16384
 # Strategies in Data Deployment
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Prof Dev/Cloud/Misc
 ## Speaker: Jonathon Moorman
 ## Title: Strategies in Data Deployment
@@ -260,7 +260,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Prof Dev/Cloud/Misc
 #  
 #### SessionID: 16512
 # Best Practice Data Visualization
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Jen Underwood
 ## Title: Best Practice Data Visualization
@@ -270,7 +270,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 16965
 # Predictive Analytics at your fingertips
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Jose L. Rivera
 ## Title: Predictive Analytics at your fingertips
@@ -279,7 +279,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 16973
 # Changing Data Is Easy, Managing Data Change is Hard!
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 3
 ## Speaker: James McAuliffe
 ## Title: Changing Data Is Easy, Managing Data Change is Hard!
@@ -288,7 +288,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 3
 #  
 #### SessionID: 17060
 # Solving Complex Problems with Extended Events
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin
 ## Speaker: Jonathan Kehayias
 ## Title: Solving Complex Problems with Extended Events
@@ -297,7 +297,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin
 #  
 #### SessionID: 17200
 # Moving Big Data - SSIS, Pig, and Sqoop
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI  Big Data
 ## Speaker: John Welch
 ## Title: Moving Big Data - SSIS, Pig, and Sqoop
@@ -306,7 +306,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI  Big Data
 #  
 #### SessionID: 17366
 # SSIS Development Using .net
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Jorge Novo
 ## Title: SSIS Development Using .net
@@ -315,7 +315,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 17434
 # Entity Framework: Or How I Learned to Stop Worrying and Learned to Love Developers
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin
 ## Speaker: Richie Rump
 ## Title: Entity Framework: Or How I Learned to Stop Worrying and Learned to Love Developers
@@ -327,7 +327,7 @@ Entity Framework (EF) and other object relational mapping technologies have been
 #  
 #### SessionID: 17526
 # SSRS: On Premises or Azure? What's the difference?
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Josh Luedeman
 ## Title: SSRS: On Premises or Azure? What's the difference?
@@ -336,7 +336,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 17551
 # Creating an SSIS Framework
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: James Phillips
 ## Title: Creating an SSIS Framework
@@ -345,7 +345,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 18058
 # Discover, Document,  Diagnose Your Servers on Your Coffee Break
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Kendal Van Dyke
 ## Title: Discover, Document,  Diagnose Your Servers on Your Coffee Break
@@ -359,7 +359,7 @@ Attend this session and walk away with everything you need to generate documenta
 #  
 #### SessionID: 18256
 # Integrating PowerPivot and SharePoint
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Kevin Grohoske
 ## Title: Integrating PowerPivot and SharePoint
@@ -368,7 +368,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 18991
 # Getting started with Master Data Services 2012
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI  Big Data
 ## Speaker: Luis Figueroa
 ## Title: Getting started with Master Data Services 2012
@@ -377,7 +377,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI  Big Data
 #  
 #### SessionID: 19894
 # SSIS - Integrating PowerShell in a ScriptTask component
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Maximo Trinidad
 ## Title: SSIS - Integrating PowerShell in a ScriptTask component
@@ -386,7 +386,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Powershell
 #  
 #### SessionID: 19969
 # Complex DAX Functions
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI  Big Data
 ## Speaker: Mike Davis
 ## Title: Complex DAX Functions
@@ -395,7 +395,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI  Big Data
 #  
 #### SessionID: 20374
 # DBA Task Automation: Unleash the PowerShell Hero in You!
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Michael Wells
 ## Title: DBA Task Automation: Unleash the PowerShell Hero in You!
@@ -404,7 +404,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Powershell
 #  
 #### SessionID: 20485
 # Putting Quality Back Into Your Data Analysis
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Prof Dev/Cloud/Misc
 ## Speaker: Michael Antonovich
 ## Title: Putting Quality Back Into Your Data Analysis
@@ -413,7 +413,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Prof Dev/Cloud/Misc
 #  
 #### SessionID: 20513
 # What the VLF? 
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 2
 ## Speaker: Mike Hillwig
 ## Title: What the VLF? 
@@ -427,7 +427,7 @@ In this more advanced session, veteran DBA Mike Hillwig will show you what VLFs 
 #  
 #### SessionID: 21707
 # 15 aspects of SQL Server indexes that you might not know
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Sebastian Meine
 ## Title: 15 aspects of SQL Server indexes that you might not know
@@ -442,7 +442,7 @@ After attending this demo rich session you will be able to
 #  
 #### SessionID: 22328
 # When Reporting is More than Reporting
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Pam Shaw
 ## Title: When Reporting is More than Reporting
@@ -451,7 +451,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 23142
 # Maintaining Indexes in SQL Server
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 2
 ## Speaker: Robert Biddle
 ## Title: Maintaining Indexes in SQL Server
@@ -460,7 +460,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 2
 #  
 #### SessionID: 23287
 # Revenge: The SQL Part 2: The Sequel!
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL Part 2: The Sequel!
@@ -469,7 +469,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Powershell
 #  
 #### SessionID: 23439
 # Cure your sysadmin addiction
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin
 ## Speaker: Ronald Dameron
 ## Title: Cure your sysadmin addiction
@@ -479,7 +479,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin
 #  
 #### SessionID: 23611
 # Building a Windows 8 app from scratch
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Prof Dev/Cloud/Misc
 ## Speaker: Russell Fustino
 ## Title: Building a Windows 8 app from scratch
@@ -494,7 +494,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Prof Dev/Cloud/Misc
 #  
 #### SessionID: 24619
 # OnPremise to Azure
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Prof Dev/Cloud/Misc
 ## Speaker: Shannon Lowder
 ## Title: OnPremise to Azure
@@ -503,7 +503,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Prof Dev/Cloud/Misc
 #  
 #### SessionID: 26595
 # Maximizing SSIS Package Performance
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Tim Mitchell
 ## Title: Maximizing SSIS Package Performance
@@ -514,7 +514,7 @@ In this demo-packed session, we'll work through some of the most common causes o
 #  
 #### SessionID: 26827
 # A Walk Around the SQL Server 2012 Audit Feature
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin
 ## Speaker: Timothy McAliley
 ## Title: A Walk Around the SQL Server 2012 Audit Feature
@@ -523,7 +523,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin
 #  
 #### SessionID: 26866
 # He Said - She Said:  A Telemcommuting Love Story
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Prof Dev/Cloud/Misc
 ## Speaker: Tim Ford
 ## Title: He Said - She Said:  A Telemcommuting Love Story
@@ -536,7 +536,7 @@ Taken from the approach of a husband and wife team with different experiences in
 #  
 #### SessionID: 34844
 # 10 Things That Every DBA Should Know!
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 2
 ## Speaker: John Morehouse
 ## Title: 10 Things That Every DBA Should Know!
@@ -545,7 +545,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin 2
 #  
 #### SessionID: 8756
 # High Performance SANLess Clustering (begins at 1:15)
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin
 ## Speaker: Tony Tomarchio and Sandy Sandifer
 ## Title: High Performance SANLess Clustering (begins at 1:15)
@@ -554,7 +554,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: DBA Admin
 #  
 #### SessionID: 8845
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals
@@ -564,7 +564,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Powershell
 #  
 #### SessionID: 9579
 # Building Your Professional Development Plan
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Prof Dev/Cloud/Misc
 ## Speaker: Andy Warren
 ## Title: Building Your Professional Development Plan
@@ -573,7 +573,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Prof Dev/Cloud/Misc
 #  
 #### SessionID: 9902
 # DAX for T-SQL folks
-#### [Back to calendar](#SQLSaturday-#232---Orlando-2013)
+#### [Back to calendar](#SQLSaturday-#232-Orlando-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: BI  Big Data
 ## Speaker: Anthony Sammartino
 ## Title: DAX for T-SQL folks

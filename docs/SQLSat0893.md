@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 94992
 # Automagic Tuning - SQL Server 2019 and Beyond
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Joseph D'Antoni
 ## Title: Automagic Tuning - SQL Server 2019 and Beyond
@@ -43,7 +43,7 @@ Don’t worry, you will still have your job, but the features introduced in SQL 
 #  
 #### SessionID: 95407
 # Data Science with SQL Server Machine Learning Service: Predictive Experiment
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dinesh Priyankara
 ## Title: Data Science with SQL Server Machine Learning Service: Predictive Experiment
@@ -61,7 +61,7 @@ Join with me and see how useful this with both operational and business intellig
 #  
 #### SessionID: 95923
 # Azure Data Factory: Ingesting and Integrating Data for a Modern Data Warehouse
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gogula Aryalingam
 ## Title: Azure Data Factory: Ingesting and Integrating Data for a Modern Data Warehouse
@@ -70,7 +70,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 96131
 # 3 reasons to get excited about Power BI Dataflow.
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Aroh Shukla
 ## Title: 3 reasons to get excited about Power BI Dataflow.
@@ -79,7 +79,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 92837
 # The Tricky Part of Doing Tricky Things in your Database
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Karen Lopez
 ## Title: The Tricky Part of Doing Tricky Things in your Database
@@ -90,7 +90,7 @@ We'll demo tricks that we've seen in our database design reviews and show you ho
 #  
 #### SessionID: 93644
 # Securing your data with Azure SQL DB
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Eng Soon Cheah
 ## Title: Securing your data with Azure SQL DB
@@ -99,7 +99,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 93835
 # Scalable Data Models using Aggregations in Power BI
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Nisal Mihiranga
 ## Title: Scalable Data Models using Aggregations in Power BI
@@ -108,7 +108,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 94776
 # Anomaly Detection in Predictive Maintenance for Sql Server
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Janusz Rokicki
 ## Title: Anomaly Detection in Predictive Maintenance for Sql Server
@@ -117,7 +117,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 92856
 # High Availability and Disaster Recovery for SQL Server in Azure IaaS
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Aw
 ## Title: High Availability and Disaster Recovery for SQL Server in Azure IaaS
@@ -130,7 +130,7 @@ HA and DR professional Jason Aw with 20 years of experience explains all this an
 #  
 #### SessionID: 93528
 # Performance Tuning, Getting the Biggest Bang for Your Buck
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: Performance Tuning, Getting the Biggest Bang for Your Buck
@@ -139,7 +139,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93653
 # PaaSport to Paradise: Lifting  Shifting with Azure SQL DB/Managed Instance + Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sandy Winarko
 ## Title: PaaSport to Paradise: Lifting  Shifting with Azure SQL DB/Managed Instance + Azure Data Factory
@@ -148,7 +148,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 94734
 # Get Comfortable with Query tuning and Execution Plans
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Patrick Flynn
 ## Title: Get Comfortable with Query tuning and Execution Plans
@@ -168,7 +168,7 @@ This session will assume a basic knowledge of T-SQL and execution plans.
 #  
 #### SessionID: 92095
 # SQL Server Big Data Clusters - A game changer?
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ben Weissman
 ## Title: SQL Server Big Data Clusters - A game changer?
@@ -179,7 +179,7 @@ Let's take a look at what that means and how you can make use of the extended Po
 #  
 #### SessionID: 92200
 # From Zero to Hero: Start Machine Learning using Azure ML studio
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mohamed Mawla
 ## Title: From Zero to Hero: Start Machine Learning using Azure ML studio
@@ -192,7 +192,7 @@ Lots of hands-on
 #  
 #### SessionID: 93350
 # Bridging the gap between SSRS and Power BI
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Manohar Punna
 ## Title: Bridging the gap between SSRS and Power BI
@@ -201,7 +201,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 93541
 # SQL Server Database Administration for the non-DBA
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Denny Cherry
 ## Title: SQL Server Database Administration for the non-DBA
@@ -212,7 +212,7 @@ While this session won't teach you everything you need to know, it will give you
 #  
 #### SessionID: 92251
 # T-SQL Performance Guidelines for the optimal DB stress powers
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for the optimal DB stress powers
@@ -221,7 +221,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 94587
 # SharePoint as a Data Platform for Microsoft Power Platform
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Senthamil V
 ## Title: SharePoint as a Data Platform for Microsoft Power Platform
@@ -230,7 +230,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 94595
 # Enterprise Big Data Analytics using Azure Data Lake Storage Gen2
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: Anupama Natarajan
 ## Title: Enterprise Big Data Analytics using Azure Data Lake Storage Gen2
@@ -244,7 +244,7 @@ At the end of the session you will learn how to implement end to end Analytics f
 #  
 #### SessionID: 96414
 # The Right way of Modernizing Your SQL Server
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Pio Balistoy
 ## Title: The Right way of Modernizing Your SQL Server
@@ -253,7 +253,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 92092
 # ETL2.0: Data Engineering with Azure Databricks
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Asanka Padmakumara
 ## Title: ETL2.0: Data Engineering with Azure Databricks
@@ -262,7 +262,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93938
 # Be a dynamic SQL dynamo!
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Joanna Wolthuis
 ## Title: Be a dynamic SQL dynamo!
@@ -271,7 +271,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 95579
 # Manage data to the ledger using Azure Blockchain as Service
-#### [Back to calendar](#SQLSaturday-#893---Singapore-2019)
+#### [Back to calendar](#SQLSaturday-#893-Singapore-2019)
 Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mohammad Asif Waquar
 ## Title: Manage data to the ledger using Azure Blockchain as Service

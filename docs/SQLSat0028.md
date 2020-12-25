@@ -58,7 +58,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28485
 # Understanding Storage Systems and SQL Server
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin I
 ## Speaker: Wesley Brown
 ## Title: Understanding Storage Systems and SQL Server
@@ -67,7 +67,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin I
 #  
 #### SessionID: 28570
 # Parallelism Options in .NET 4.0
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: DB Design  App Dev
 ## Speaker: Al Manint
 ## Title: Parallelism Options in .NET 4.0
@@ -76,7 +76,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: DB Design  App Dev
 #  
 #### SessionID: 28658
 # Build Your First SSIS Package 
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SSIS\BI
 ## Speaker: Andy Leonard
 ## Title: Build Your First SSIS Package 
@@ -85,7 +85,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SSIS\BI
 #  
 #### SessionID: 28738
 # Building a Testable Data Access Layer
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: Apps\Cloud\Personal Development
 ## Speaker: Todd Anglin
 ## Title: Building a Testable Data Access Layer
@@ -94,7 +94,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: Apps\Cloud\Personal Dev
 #  
 #### SessionID: 28761
 # Data Mining in Action: A case study 
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SSIS\BI
 ## Speaker: ANDREW MINKIN
 ## Title: Data Mining in Action: A case study 
@@ -103,7 +103,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SSIS\BI
 #  
 #### SessionID: 28968
 # Breakfast Basics, SSAS Cube Creation
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: BI\SSRS
 ## Speaker: Barry Ralston
 ## Title: Breakfast Basics, SSAS Cube Creation
@@ -112,7 +112,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: BI\SSRS
 #  
 #### SessionID: 28969
 # College Football and MSFT Business Intelligence
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: BI\SSRS
 ## Speaker: Barry Ralston
 ## Title: College Football and MSFT Business Intelligence
@@ -121,7 +121,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: BI\SSRS
 #  
 #### SessionID: 29100
 # Introduction to NHibernate and Fluent NHibernate
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 2
 ## Speaker: Brian Sullivan
 ## Title: Introduction to NHibernate and Fluent NHibernate
@@ -130,7 +130,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 2
 #  
 #### SessionID: 29164
 # Best Practices Every SQL Server DBA Must Know
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin II
 ## Speaker: Brad McGehee
 ## Title: Best Practices Every SQL Server DBA Must Know
@@ -139,7 +139,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin II
 #  
 #### SessionID: 29171
 # Database Maintenance Essentials
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin I
 ## Speaker: Brad McGehee
 ## Title: Database Maintenance Essentials
@@ -148,7 +148,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin I
 #  
 #### SessionID: 29282
 # Zen Coding
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 1
 ## Speaker: Brian Rigsby
 ## Title: Zen Coding
@@ -157,7 +157,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 1
 #  
 #### SessionID: 29283
 # Zen Testing
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 1
 ## Speaker: Brian Rigsby
 ## Title: Zen Testing
@@ -166,7 +166,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 1
 #  
 #### SessionID: 29305
 # MDX 101
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SSIS\BI
 ## Speaker: Bryan Smith
 ## Title: MDX 101
@@ -175,7 +175,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SSIS\BI
 #  
 #### SessionID: 29306
 # An Introduction to Power Pivot
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: BI\SSRS
 ## Speaker: Bryan Smith
 ## Title: An Introduction to Power Pivot
@@ -184,7 +184,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: BI\SSRS
 #  
 #### SessionID: 29378
 # Introduction to Windows Phone 7 Development
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: DB Design  App Dev
 ## Speaker: Carlos Femmer
 ## Title: Introduction to Windows Phone 7 Development
@@ -193,7 +193,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: DB Design  App Dev
 #  
 #### SessionID: 29427
 # SharePoint 2010 Management with PowerShell 
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: Apps\Cloud\Personal Development
 ## Speaker: Cody  Gros
 ## Title: SharePoint 2010 Management with PowerShell 
@@ -203,7 +203,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: Apps\Cloud\Personal Dev
 #  
 #### SessionID: 29663
 # Azure - Best Practices
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: Apps\Cloud\Personal Development
 ## Speaker: Chander Dhall
 ## Title: Azure - Best Practices
@@ -212,7 +212,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: Apps\Cloud\Personal Dev
 #  
 #### SessionID: 29664
 # 3P's (Principles, patterns and performance) of SD
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 2
 ## Speaker: Chander Dhall
 ## Title: 3P's (Principles, patterns and performance) of SD
@@ -221,7 +221,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 2
 #  
 #### SessionID: 30495
 # iPhone Development using .NET and Monotouch
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: DB Design  App Dev
 ## Speaker: Jason Awbrey
 ## Title: iPhone Development using .NET and Monotouch
@@ -230,7 +230,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: DB Design  App Dev
 #  
 #### SessionID: 30861
 # Running mixed workloads on SQL Server
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin I
 ## Speaker: Jason Massie
 ## Title: Running mixed workloads on SQL Server
@@ -239,7 +239,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin I
 #  
 #### SessionID: 31251
 # Microsoft .NET Framework from Scratch
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: Microsoft .NET Framework from Scratch
 ## Speaker: Keith Elder
 ## Title: Microsoft .NET Framework from Scratch
@@ -248,7 +248,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: Microsoft .NET Framewor
 #  
 #### SessionID: 31377
 # Building Richer Web Applications with SP2010
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 2
 ## Speaker: Kyle Kelin
 ## Title: Building Richer Web Applications with SP2010
@@ -257,7 +257,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 2
 #  
 #### SessionID: 31454
 # C# Ninjitsu
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 1
 ## Speaker: Chris Eargle
 ## Title: C# Ninjitsu
@@ -266,7 +266,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 1
 #  
 #### SessionID: 31455
 # RESTful Data
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 2
 ## Speaker: Chris Eargle
 ## Title: RESTful Data
@@ -275,7 +275,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 2
 #  
 #### SessionID: 31587
 # My first SQL Report
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: BI\SSRS
 ## Speaker: Mark Verret
 ## Title: My first SQL Report
@@ -284,7 +284,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: BI\SSRS
 #  
 #### SessionID: 31787
 # .NET 3.5 Fundamentals
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 1
 ## Speaker: Mike  Huguet
 ## Title: .NET 3.5 Fundamentals
@@ -293,7 +293,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 1
 #  
 #### SessionID: 31957
 # ALM, Agile and TFS - The Keys to Successful Projec
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 1
 ## Speaker: Mike Moles
 ## Title: ALM, Agile and TFS - The Keys to Successful Projec
@@ -302,7 +302,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 1
 #  
 #### SessionID: 31974
 # Deciding if VMs are a good choice for your SQL Svr
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin II
 ## Speaker: Denny Cherry
 ## Title: Deciding if VMs are a good choice for your SQL Svr
@@ -311,7 +311,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin II
 #  
 #### SessionID: 31975
 # Getting SQL Service Broker Up and Running
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: Apps\Cloud\Personal Development
 ## Speaker: Denny Cherry
 ## Title: Getting SQL Service Broker Up and Running
@@ -322,7 +322,7 @@ In this session we’ll dig into how to configure the service broker for not onl
 #  
 #### SessionID: 32279
 # CDC + SSIS = SCD
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SSIS\BI
 ## Speaker: Patrick LeBlanc
 ## Title: CDC + SSIS = SCD
@@ -331,7 +331,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SSIS\BI
 #  
 #### SessionID: 32465
 # Intro to Windows Azure
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: Apps\Cloud\Personal Development
 ## Speaker: Ryan Duclos
 ## Title: Intro to Windows Azure
@@ -340,7 +340,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: Apps\Cloud\Personal Dev
 #  
 #### SessionID: 32466
 # Can you control your reports?
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: BI\SSRS
 ## Speaker: Ryan Duclos
 ## Title: Can you control your reports?
@@ -351,7 +351,7 @@ SSRS 2008
 #  
 #### SessionID: 32594
 # Advance Your Debugging Skills with VS 2010
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 1
 ## Speaker: Rob Vettor
 ## Title: Advance Your Debugging Skills with VS 2010
@@ -367,7 +367,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 1
 #  
 #### SessionID: 32595
 # Getting Started with the Entity Framework 4.0
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 1
 ## Speaker: Rob Vettor
 ## Title: Getting Started with the Entity Framework 4.0
@@ -385,7 +385,7 @@ You’ll walk-away with a clear understanding of how the Entity Framework 4.0 ca
 #  
 #### SessionID: 32843
 # Beginning Powershell
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin I
 ## Speaker: Sean McCown
 ## Title: Beginning Powershell
@@ -395,7 +395,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin I
 #  
 #### SessionID: 32844
 # SSIS and Powershell: A winning combination
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin II
 ## Speaker: Sean McCown
 ## Title: SSIS and Powershell: A winning combination
@@ -404,7 +404,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin II
 #  
 #### SessionID: 32941
 # Basic SQL Server
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin I
 ## Speaker: Steve Jones
 ## Title: Basic SQL Server
@@ -413,7 +413,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin I
 #  
 #### SessionID: 32943
 # The Modern Resume: Building Your Brand
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: Apps\Cloud\Personal Development
 ## Speaker: Steve Jones
 ## Title: The Modern Resume: Building Your Brand
@@ -422,7 +422,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: Apps\Cloud\Personal Dev
 #  
 #### SessionID: 33166
 # Data Mining.. Making $mart financial decisions
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: BI\SSRS
 ## Speaker: Steve Simon
 ## Title: Data Mining.. Making $mart financial decisions
@@ -431,7 +431,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: BI\SSRS
 #  
 #### SessionID: 33168
 # Get  your Mining Model Predictions out  to all
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: BI\SSRS
 ## Speaker: Steve Simon
 ## Title: Get  your Mining Model Predictions out  to all
@@ -441,7 +441,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: BI\SSRS
 #  
 #### SessionID: 33271
 # Efficient Data Warehouse Design  
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: DB Design  App Dev
 ## Speaker: Dr. Suresh Rajappa
 ## Title: Efficient Data Warehouse Design  
@@ -452,7 +452,7 @@ When designing the enterprise data warehouse, what are the pitfalls an architect
 #  
 #### SessionID: 33315
 # Conceptual Data Modeling: Defining Our Data
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: DB Design  App Dev
 ## Speaker: Eli Weinstock-Herman
 ## Title: Conceptual Data Modeling: Defining Our Data
@@ -461,7 +461,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: DB Design  App Dev
 #  
 #### SessionID: 33489
 # SQL Server Memory Deep Dive 
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin II
 ## Speaker: Kevin Boles
 ## Title: SQL Server Memory Deep Dive 
@@ -471,7 +471,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin II
 #  
 #### SessionID: 33493
 # Common TSQL Programming Mistakes 
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin I
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Programming Mistakes 
@@ -480,7 +480,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin I
 #  
 #### SessionID: 33564
 # 3rd Normal Form: That's crazy talk!!!
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: DB Design  App Dev
 ## Speaker: Thomas LeBlanc
 ## Title: 3rd Normal Form: That's crazy talk!!!
@@ -489,7 +489,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: DB Design  App Dev
 #  
 #### SessionID: 33589
 # Dynamic SSIS with Expressions and Configurations
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SSIS\BI
 ## Speaker: Tim Mitchell
 ## Title: Dynamic SSIS with Expressions and Configurations
@@ -498,7 +498,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SSIS\BI
 #  
 #### SessionID: 33645
 # SQL Source Control:  Poor man's data dude.
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SSIS\BI
 ## Speaker: Tim Costello
 ## Title: SQL Source Control:  Poor man's data dude.
@@ -507,7 +507,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SSIS\BI
 #  
 #### SessionID: 33646
 # ssis templates:  the easy way to win.
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SSIS\BI
 ## Speaker: Tim Costello
 ## Title: ssis templates:  the easy way to win.
@@ -516,7 +516,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SSIS\BI
 #  
 #### SessionID: 33730
 # A PowerShell Cookbook for DBAs
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin II
 ## Speaker: Trevor Barkhouse
 ## Title: A PowerShell Cookbook for DBAs
@@ -525,7 +525,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin II
 #  
 #### SessionID: 33731
 # An Introduction to Profiler and SQL Trace
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin I
 ## Speaker: Trevor Barkhouse
 ## Title: An Introduction to Profiler and SQL Trace
@@ -534,7 +534,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin I
 #  
 #### SessionID: 33814
 # Exploratory Testing with Microsoft Test Manager
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 2
 ## Speaker: Vaneshia Leachman
 ## Title: Exploratory Testing with Microsoft Test Manager
@@ -543,7 +543,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 2
 #  
 #### SessionID: 34493
 # Introduction to DMVs in SQL 2005/2008
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin II
 ## Speaker: William Assaf
 ## Title: Introduction to DMVs in SQL 2005/2008
@@ -552,7 +552,7 @@ Event Date: 14-08-2010 - Session time: 00:00:00 - Track: SQL Admin II
 #  
 #### SessionID: 34525
 # The Best of Visual Studio 2010
-#### [Back to calendar](#SQLSaturday-#28---Baton-Rouge-2010)
+#### [Back to calendar](#SQLSaturday-#28-Baton-Rouge-2010)
 Event Date: 14-08-2010 - Session time: 00:00:00 - Track: .Net 2
 ## Speaker: Zain Naboulsi
 ## Title: The Best of Visual Studio 2010

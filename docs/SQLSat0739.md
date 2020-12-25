@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 73046
 # Don't Use Cursors or Why You Maybe Should Use a Cursor After All
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Don't Use Cursors or Why You Maybe Should Use a Cursor After All
@@ -39,7 +39,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 74709
 # Mindset for doing Data Warehousing in the cloud
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bent Pedersen
 ## Title: Mindset for doing Data Warehousing in the cloud
@@ -59,7 +59,7 @@ Second part of the session will focus on the differences and benefits of differe
 #  
 #### SessionID: 77347
 # Azure Cosmos DB - What you need to know to build globally distributed apps?
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Satya Jayanty
 ## Title: Azure Cosmos DB - What you need to know to build globally distributed apps?
@@ -68,7 +68,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 77390
 # AWS Redshift Introduction
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Maryna Popova
 ## Title: AWS Redshift Introduction
@@ -78,7 +78,7 @@ Will give the overview of the architecture and important details
 #  
 #### SessionID: 78953
 # Back to the future - Migrating our SQL Server OnPremise Database to Azure
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Back to the future - Migrating our SQL Server OnPremise Database to Azure
@@ -94,7 +94,7 @@ This session consists of:
 #  
 #### SessionID: 73269
 # (RU) SQL Server Transaction Log: internals
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andriy Pogorelov
 ## Title: (RU) SQL Server Transaction Log: internals
@@ -103,7 +103,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73804
 # Azure Cosmos DB And HDInsight As Components Of Enterprise Digital Transformation
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vitalii Bondarenko
 ## Title: Azure Cosmos DB And HDInsight As Components Of Enterprise Digital Transformation
@@ -112,7 +112,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 74564
 # Rub DevOps on all the things!
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Jan Mulkens
 ## Title: Rub DevOps on all the things!
@@ -123,7 +123,7 @@ We'll shortly discuss what this actually means and in the demo's you'll see how 
 #  
 #### SessionID: 78619
 # Designing a SQL Server AlwaysOn Availability Groups Topology Without Losing Your Sanity
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Edwin M Sarmiento
 ## Title: Designing a SQL Server AlwaysOn Availability Groups Topology Without Losing Your Sanity
@@ -139,7 +139,7 @@ You will learn:
 #  
 #### SessionID: 82433
 # Performance troubleshoting SQL Server Reporting Service 2017
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alexander Kalenik
 ## Title: Performance troubleshoting SQL Server Reporting Service 2017
@@ -151,7 +151,7 @@ The best practice and recommendations for the SSRS deployment
 #  
 #### SessionID: 72183
 # SQL Server vs. Windows Server - how to configure Windows for better SQL Server performance
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: SQL Server vs. Windows Server - how to configure Windows for better SQL Server performance
@@ -160,7 +160,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 72410
 # Database backups - A DBA's peaceful night's sleep
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mikey Bronowski
 ## Title: Database backups - A DBA's peaceful night's sleep
@@ -169,7 +169,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73913
 # A Game of Hierarchies: Introduction to Graph Processing with SQL
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: A Game of Hierarchies: Introduction to Graph Processing with SQL
@@ -184,7 +184,7 @@ Join this session for a journey through best practices to transform your hierarc
 #  
 #### SessionID: 78728
 # IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Catalin Gheorghiu
 ## Title: IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights
@@ -197,7 +197,7 @@ And we will see them clash, from real hardware, to the big Azure cloud, to mobil
 #  
 #### SessionID: 80226
 # Zombie Attack Against Clustered Indexes - Who really need them!
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Uwe Ricken
 ## Title: Zombie Attack Against Clustered Indexes - Who really need them!
@@ -210,7 +210,7 @@ Watch the demos which show in an impressive way that clustered indexes are not a
 #  
 #### SessionID: 72219
 # Design Myths
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Dejan Sarka
 ## Title: Design Myths
@@ -219,7 +219,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 73856
 # Choosing the Right Database for Microservices Solutions
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Mihail Mateev
 ## Title: Choosing the Right Database for Microservices Solutions
@@ -230,7 +230,7 @@ In this talk we will discuss how we can go about choosing the right database mod
 #  
 #### SessionID: 77253
 # Security Intelligence in Azure PaaS
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Janusz Rokicki
 ## Title: Security Intelligence in Azure PaaS
@@ -239,7 +239,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 77851
 # Possiblities and Limitations of System-Versioned Temporal Tables beyond the Basics.
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Reinhard Flügel
 ## Title: Possiblities and Limitations of System-Versioned Temporal Tables beyond the Basics.
@@ -248,7 +248,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 80622
 # Understanding SQL Server Memory Grant
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alexander Bereznev
 ## Title: Understanding SQL Server Memory Grant
@@ -257,7 +257,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73508
 # Migrating Enteprise BI to Azure: Best Practices
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Wlodek Bielski
 ## Title: Migrating Enteprise BI to Azure: Best Practices
@@ -266,7 +266,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 73693
 # Get data insights faster with Data Wrangling
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Sergiy Lunyakin
 ## Title: Get data insights faster with Data Wrangling
@@ -275,7 +275,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 73728
 # Azure Data Factory v2: What's new?
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Polonichko
 ## Title: Azure Data Factory v2: What's new?
@@ -284,7 +284,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 73817
 # Never Say Hacking SQL Server Again
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: Never Say Hacking SQL Server Again
@@ -295,7 +295,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #  
 #### SessionID: 77848
 # MS SQL 2016/2017 – New in query processing
-#### [Back to calendar](#SQLSaturday-#739---Kyiv-2018)
+#### [Back to calendar](#SQLSaturday-#739-Kyiv-2018)
 Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Andrii Zrobok
 ## Title: MS SQL 2016/2017 – New in query processing

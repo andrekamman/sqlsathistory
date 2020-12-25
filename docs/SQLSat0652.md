@@ -72,7 +72,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 63677
 # What's New for BI in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Dev, Delivery  Admin
 ## Speaker: Teo Lachev
 ## Title: What's New for BI in SQL Server 2017
@@ -81,7 +81,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 63705
 # Running SQL Server in AWS
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Brian Carrig
 ## Title: Running SQL Server in AWS
@@ -90,7 +90,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 63937
 # Deep Dive into the SSIS Catalog
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Dev, Delivery  Admin
 ## Speaker: Tim Mitchell
 ## Title: Deep Dive into the SSIS Catalog
@@ -101,7 +101,7 @@ In this demo-heavy presentation, we will dive into the details of the SSIS catal
 #  
 #### SessionID: 64363
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Dev, Delivery  Admin
 ## Speaker: Ed Watson
 ## Title: Introduction to SQL Server Integration Services
@@ -110,7 +110,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64672
 # Continuous Deployment with SSDT
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Doug McClurg
 ## Title: Continuous Deployment with SSDT
@@ -119,7 +119,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 64725
 # PowerShell 101: The No-Nonsense Beginner’s Guide to PowerShell
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Other
 ## Speaker: Mike Robbins
 ## Title: PowerShell 101: The No-Nonsense Beginner’s Guide to PowerShell
@@ -128,7 +128,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Other
 #  
 #### SessionID: 64901
 # Extract, Transform And Load  - Using R
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Analytics  Visualization
 ## Speaker: Kiran Math
 ## Title: Extract, Transform And Load  - Using R
@@ -137,7 +137,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Analytics  Visualizatio
 #  
 #### SessionID: 65363
 # Collecting Baseline Metrics
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Optimization  Performance
 ## Speaker: Tracy Boggiano
 ## Title: Collecting Baseline Metrics
@@ -146,7 +146,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Optimization  Performan
 #  
 #### SessionID: 65442
 # Is SQL Server 2016 My Perfect Match?
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lindsay Clark
 ## Title: Is SQL Server 2016 My Perfect Match?
@@ -155,7 +155,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67753
 # Power BI:  Customers Stories from the Frontline
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Power BI
 ## Speaker: Patrick LeBlanc
 ## Title: Power BI:  Customers Stories from the Frontline
@@ -164,7 +164,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Power BI
 #  
 #### SessionID: 63660
 # SQL Audit - Evidence Never Lies
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Keisler
 ## Title: SQL Audit - Evidence Never Lies
@@ -173,7 +173,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63735
 # Designing an SSIS Framework
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Dev, Delivery  Admin
 ## Speaker: Andy Leonard
 ## Title: Designing an SSIS Framework
@@ -187,7 +187,7 @@ In this session, you will learn:
 #  
 #### SessionID: 64132
 # High Availability in the Cloud
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Eric Peterson
 ## Title: High Availability in the Cloud
@@ -208,7 +208,7 @@ This session covers all the things that were needed to spin up and get into prod
 #  
 #### SessionID: 64502
 # Let’s Get Meta: an Overview of ETL Frameworks using Biml
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Dev, Delivery  Admin
 ## Speaker: Kate Grass
 ## Title: Let’s Get Meta: an Overview of ETL Frameworks using Biml
@@ -221,7 +221,7 @@ To start you off on your framework building journey, we’ll introduce Biml and 
 #  
 #### SessionID: 64655
 # Replacing Institutional Knowledge with Artificial Intelligence so I can Take a Damned Vacation
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Analytics  Visualization
 ## Speaker: Jim Christopher
 ## Title: Replacing Institutional Knowledge with Artificial Intelligence so I can Take a Damned Vacation
@@ -234,7 +234,7 @@ In this session, you'll learn how we identified the candidates for "micro-AIs," 
 #  
 #### SessionID: 64685
 # Use Visual Studio Code to Access SQL Server from Windows (or Mac, or Linux, or ...)
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Flamm
 ## Title: Use Visual Studio Code to Access SQL Server from Windows (or Mac, or Linux, or ...)
@@ -247,7 +247,7 @@ Need a quick peek at your SQL Server database but don't want to wait for SSMS to
 #  
 #### SessionID: 64979
 # Performance Monitoring SQL Server Analysis Services (SSAS)
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Dev, Delivery  Admin
 ## Speaker: Shabnam Watson
 ## Title: Performance Monitoring SQL Server Analysis Services (SSAS)
@@ -258,7 +258,7 @@ If you have experience with SSAS development and are interested in learning abou
 #  
 #### SessionID: 64984
 # Azure Machine Learning I : Machine Learning and Predictive Analytics with AML Studio
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Analytics  Visualization
 ## Speaker: Bhakthi Liyanage
 ## Title: Azure Machine Learning I : Machine Learning and Predictive Analytics with AML Studio
@@ -267,7 +267,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Analytics  Visualizatio
 #  
 #### SessionID: 65406
 # New Features in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Verell
 ## Title: New Features in SQL Server 2017
@@ -276,7 +276,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65543
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Analytics  Visualization
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
@@ -287,7 +287,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 63657
 # SQL Server Internals
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Naomi Williams
 ## Title: SQL Server Internals
@@ -296,7 +296,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63694
 # How to get Microsoft Certified
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: John Deardurff
 ## Title: How to get Microsoft Certified
@@ -305,7 +305,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 63892
 # Introduction to Execution Plans
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Optimization  Performance
 ## Speaker: Lance Tidwell
 ## Title: Introduction to Execution Plans
@@ -314,7 +314,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Optimization  Performan
 #  
 #### SessionID: 63948
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -323,7 +323,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 64177
 # Enabling EDW and BI workloads on Hadoop with Hive / LLAP
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Luis Figueroa
 ## Title: Enabling EDW and BI workloads on Hadoop with Hive / LLAP
@@ -333,7 +333,7 @@ In this session, Luis Figueroa (Solutions Engineer @ Hortonworks) will walk you 
 #  
 #### SessionID: 64307
 # Power BI  SharePoint - A Marriage Made in Redmond
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Dev, Delivery  Admin
 ## Speaker: Daniel Glenn
 ## Title: Power BI  SharePoint - A Marriage Made in Redmond
@@ -342,7 +342,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64579
 # Heckin Sweet Reports with Power BI
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Dev, Delivery  Admin
 ## Speaker: Julie Smith
 ## Title: Heckin Sweet Reports with Power BI
@@ -351,7 +351,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64645
 # Query Store – What is it all about?
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Optimization  Performance
 ## Speaker: Andrew Kelly
 ## Title: Query Store – What is it all about?
@@ -360,7 +360,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Optimization  Performan
 #  
 #### SessionID: 64680
 # The Future of the DBA: DevOps, the Cloud Paradigm, and the Microsoft Data Platform
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Stuart Ainsworth
 ## Title: The Future of the DBA: DevOps, the Cloud Paradigm, and the Microsoft Data Platform
@@ -371,7 +371,7 @@ Come explore how DevOps and the Cloud Paradigm have developed to address modern 
 #  
 #### SessionID: 65394
 # Self-Service ETL with Microsoft Power Query
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Dev, Delivery  Admin
 ## Speaker: Damu Venkatesan
 ## Title: Self-Service ETL with Microsoft Power Query
@@ -380,7 +380,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64390
 # Let Her Finish: Supporting Women's Voices from meetings to the board room
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Let Her Finish: Supporting Women's Voices from meetings to the board room
@@ -390,7 +390,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 67247
 # Secrets to Fast, Easy High Availability for SQL Server in AWS
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Cassius Rhue
 ## Title: Secrets to Fast, Easy High Availability for SQL Server in AWS
@@ -399,7 +399,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 67248
 # How To Talk To Your Storage Admin
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: How To Talk To Your Storage Admin
@@ -408,7 +408,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67295
 # Using SQL Server on Amazon Web Services - High Availability and R
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Steve Abraham
 ## Title: Using SQL Server on Amazon Web Services - High Availability and R
@@ -417,7 +417,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 67450
 # Excel and SSIS: Better Together
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Dev, Delivery  Admin
 ## Speaker: Diane Schuster
 ## Title: Excel and SSIS: Better Together
@@ -426,7 +426,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67634
 # Architecting for Performance
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Optimization  Performance
 ## Speaker: Nathan Wood
 ## Title: Architecting for Performance
@@ -435,7 +435,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Optimization  Performan
 #  
 #### SessionID: 63646
 # Making the Leap from Developer to DBA
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Other
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
@@ -444,7 +444,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Other
 #  
 #### SessionID: 63746
 # Introduction to Relational Database Design Patterns
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Aaron Cutshall
 ## Title: Introduction to Relational Database Design Patterns
@@ -453,7 +453,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 63773
 # Data Cleansing With SQL And R
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Analytics  Visualization
 ## Speaker: Kevin Feasel
 ## Title: Data Cleansing With SQL And R
@@ -462,7 +462,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Analytics  Visualizatio
 #  
 #### SessionID: 64175
 # What is Power BI?
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Power BI
 ## Speaker: Angela Henry
 ## Title: What is Power BI?
@@ -471,7 +471,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Power BI
 #  
 #### SessionID: 64254
 # Performance Tuning for the BI Professional
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Dev, Delivery  Admin
 ## Speaker: Jonathan Stewart
 ## Title: Performance Tuning for the BI Professional
@@ -480,7 +480,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64501
 # Making Your List and Checking It Twice: Introduction to unit testing with tSQLt
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Elizabeth Noble
 ## Title: Making Your List and Checking It Twice: Introduction to unit testing with tSQLt
@@ -489,7 +489,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 64574
 # ORMs and the DBA: How to Make Both Happy
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Dan Mallott
 ## Title: ORMs and the DBA: How to Make Both Happy
@@ -498,7 +498,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 64932
 # IT and the Evil Empire (Business) : Friends or Enemies?
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Kevin Wilkie
 ## Title: IT and the Evil Empire (Business) : Friends or Enemies?
@@ -507,7 +507,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 65376
 # Introduction to Azure Analysis Services
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to Azure Analysis Services
@@ -516,7 +516,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 67037
 # T-SQL's Hidden Support Feature
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Analytics  Visualization
 ## Speaker: Jennifer McCown
 ## Title: T-SQL's Hidden Support Feature
@@ -527,7 +527,7 @@ In this session, Microsoft Certified Master Jennifer McCown will demonstrate the
 #  
 #### SessionID: 63648
 # Introducing the Limitless DBA-  Copy Data Management, DBA Style
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Introducing the Limitless DBA-  Copy Data Management, DBA Style
@@ -548,7 +548,7 @@ Join Kellyn Pot’Vin-Gorman as she demonstrates why virtualization is key to em
 #  
 #### SessionID: 63650
 # New Features and New Speed in SQL Server 2016 (and 2017!) Always On Availability Groups
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: New Features and New Speed in SQL Server 2016 (and 2017!) Always On Availability Groups
@@ -557,7 +557,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63653
 # I like big data for $400  - Exploring quiz show questions using Angular, DocumentDB and Azure Search
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Christopher Sims
 ## Title: I like big data for $400  - Exploring quiz show questions using Angular, DocumentDB and Azure Search
@@ -566,7 +566,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 63658
 # So you have installed Microsoft R Services (In-database)  ... Now what "R" you going to do?
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Analytics  Visualization
 ## Speaker: Ulysses B Brown Jr
 ## Title: So you have installed Microsoft R Services (In-database)  ... Now what "R" you going to do?
@@ -582,7 +582,7 @@ The goal of this session is for attendees to learn / walk away with:
 #  
 #### SessionID: 63670
 # Database Project Makes Deployment Consistent
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
@@ -591,7 +591,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 64220
 # Blue Collar SQL Tricks - Make Standard Edition Work for you.
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Blue Collar SQL Tricks - Make Standard Edition Work for you.
@@ -604,7 +604,7 @@ Let’s dig in and learn to make use of all we have until we beg our bosses enou
 #  
 #### SessionID: 64318
 # Taking Time for You
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Taking Time for You
@@ -613,7 +613,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 64459
 # Powering Azure from PowerShell
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Robert Cain
 ## Title: Powering Azure from PowerShell
@@ -624,7 +624,7 @@ In this session you'll be introduced to the PowerShell cmdlets for managing your
 #  
 #### SessionID: 64844
 # Plots and Data Points: Pulling R Charts together in a Power BI Da
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Dev, Delivery  Admin
 ## Speaker: Katherine Fraser
 ## Title: Plots and Data Points: Pulling R Charts together in a Power BI Da
@@ -633,7 +633,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 65541
 # What's New with Power BI
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Power BI
 ## Speaker: Adam Saxton
 ## Title: What's New with Power BI
@@ -642,7 +642,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Power BI
 #  
 #### SessionID: 63642
 # SQL Server R Services in SQL 2016
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Analytics  Visualization
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
@@ -651,7 +651,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Analytics  Visualizatio
 #  
 #### SessionID: 63662
 # Leveraging SQL Server R Services to Perform Advanced Analytics
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Analytics  Visualization
 ## Speaker: Ryan Wade
 ## Title: Leveraging SQL Server R Services to Perform Advanced Analytics
@@ -662,7 +662,7 @@ In this session I will demonstrate how to productionize models developed by your
 #  
 #### SessionID: 63706
 # Getting started with Entity Framework Core
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Jim Wooley
 ## Title: Getting started with Entity Framework Core
@@ -671,7 +671,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 63794
 # Making developers lives easier with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Samir Behara
 ## Title: Making developers lives easier with SQL Server 2016
@@ -684,7 +684,7 @@ At the end, we will look at the new and improved features of SSMS 2016. We will 
 #  
 #### SessionID: 63830
 # Optimization, Optimization – Make Your Queries Faster
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Optimization  Performance
 ## Speaker: Matt Martin
 ## Title: Optimization, Optimization – Make Your Queries Faster
@@ -693,7 +693,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Optimization  Performan
 #  
 #### SessionID: 63854
 # Azure SQL Database: 12 Things To Know
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sven Aelterman
 ## Title: Azure SQL Database: 12 Things To Know
@@ -702,7 +702,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 63858
 # Linux for the SQL Server Administrator
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Linux for the SQL Server Administrator
@@ -711,7 +711,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64948
 # How to Move a Ton of Data from the Mainframe to the Cloud (with B
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Dev, Delivery  Admin
 ## Speaker: Simon Kingaby
 ## Title: How to Move a Ton of Data from the Mainframe to the Cloud (with B
@@ -721,7 +721,7 @@ There is!  Business Intelligence Markup Language (Biml) can automate the creatio
 #  
 #### SessionID: 64983
 # VLDB Tips and Migration Tactics
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Todd Kleinhans
 ## Title: VLDB Tips and Migration Tactics
@@ -730,7 +730,7 @@ Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65437
 # Execution Plans for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
@@ -741,7 +741,7 @@ Reading execution plans becomes much less intimidating as we walk through the fl
 #  
 #### SessionID: 65441
 # Agile isn't the A in DBA, but you still should know it
-#### [Back to calendar](#SQLSaturday-#652---Atlanta-2017)
+#### [Back to calendar](#SQLSaturday-#652-Atlanta-2017)
 Event Date: 15-07-2017 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Glen Gordon
 ## Title: Agile isn't the A in DBA, but you still should know it

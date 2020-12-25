@@ -51,7 +51,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28391
 # PowerShell for the Data Professional
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA4
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for the Data Professional
@@ -61,7 +61,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA4
 #  
 #### SessionID: 28519
 # Introduction to SharePoint 2010 BI and PowerPivot
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI1
 ## Speaker: Adam Jorgensen
 ## Title: Introduction to SharePoint 2010 BI and PowerPivot
@@ -70,7 +70,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI1
 #  
 #### SessionID: 28804
 # Multi-Server Management with SQL Server 2008+
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA1
 ## Speaker: Argenis Fernandez
 ## Title: Multi-Server Management with SQL Server 2008+
@@ -79,7 +79,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA1
 #  
 #### SessionID: 29225
 # Disaster Recovery Planning for Hurricane Alley
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Brent Ozar
 ## Title: Disaster Recovery Planning for Hurricane Alley
@@ -88,7 +88,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 29226
 # BLITZ! One Hour SQL Server Takeovers
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Brent Ozar
 ## Title: BLITZ! One Hour SQL Server Takeovers
@@ -97,7 +97,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 29376
 # You don't need Talent to Succeed
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Hector Hernandez
 ## Title: You don't need Talent to Succeed
@@ -110,7 +110,7 @@ This session helps you trigger our natural abilities that go unused for years.  
 #  
 #### SessionID: 29388
 # T-SQL 0-60 (zero- sixty from Standing 2 Sprinting)
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Dev
 ## Speaker: @ccatto Catto
 ## Title: T-SQL 0-60 (zero- sixty from Standing 2 Sprinting)
@@ -125,7 +125,7 @@ At the end of the seesion we'll understand how to query data in SSMS using T-SQL
 #  
 #### SessionID: 29599
 # Don't Be Trigger Happy: Safe Use of Triggers
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA1
 ## Speaker: Jack Corbett
 ## Title: Don't Be Trigger Happy: Safe Use of Triggers
@@ -134,7 +134,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA1
 #  
 #### SessionID: 29703
 # Getting Out from Behind the Curtain - The New DBA 
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA1
 ## Speaker: David Levy
 ## Title: Getting Out from Behind the Curtain - The New DBA 
@@ -143,7 +143,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA1
 #  
 #### SessionID: 29804
 # Sneak Preview: SAPIEN's Visual PowerShell 2011
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA4
 ## Speaker: David Corrales
 ## Title: Sneak Preview: SAPIEN's Visual PowerShell 2011
@@ -161,7 +161,7 @@ The demonstration will cover:
 #  
 #### SessionID: 29928
 # Locking and Blocking for Developers
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Dmitri Korotkevitch
 ## Title: Locking and Blocking for Developers
@@ -172,7 +172,7 @@ This session will provide you an overview how SQL Server Lock Manager works; how
 #  
 #### SessionID: 29929
 #  Database design with performance in mind
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Dmitri Korotkevitch
 ## Title:  Database design with performance in mind
@@ -184,7 +184,7 @@ The purpose of this session is sharing this experience helping to avoid some of 
 #  
 #### SessionID: 29930
 # Getting familiar with Query Optimizer
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Dmitri Korotkevitch
 ## Title: Getting familiar with Query Optimizer
@@ -195,7 +195,7 @@ It's essential to know how query optimizer works if you want to design effective
 #  
 #### SessionID: 29943
 # Building Business Contacts at IT Conferences
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Don Gabor
 ## Title: Building Business Contacts at IT Conferences
@@ -204,7 +204,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 30332
 # SQL Azure Performance
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Azure
 ## Speaker: Herve Roggero
 ## Title: SQL Azure Performance
@@ -213,7 +213,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Azure
 #  
 #### SessionID: 30333
 # Building a Shard for SQL Azure using .NET 4.0
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Azure
 ## Speaker: Herve Roggero
 ## Title: Building a Shard for SQL Azure using .NET 4.0
@@ -222,7 +222,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Azure
 #  
 #### SessionID: 30598
 # Change Data Capture a tool for BI,DR,Audit  more
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA3
 ## Speaker: Jose Chinchilla
 ## Title: Change Data Capture a tool for BI,DR,Audit  more
@@ -233,7 +233,7 @@ On this presentation we will go over the steps necessary to configure CDC and do
 #  
 #### SessionID: 31020
 # SQL University 101: Starting the SQL Journey
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA3
 ## Speaker: Jorge Segarra
 ## Title: SQL University 101: Starting the SQL Journey
@@ -242,7 +242,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA3
 #  
 #### SessionID: 31021
 # SQL University 201: Managing a SQL Server pt 2
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA3
 ## Speaker: Jorge Segarra
 ## Title: SQL University 201: Managing a SQL Server pt 2
@@ -251,7 +251,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA3
 #  
 #### SessionID: 31047
 # Introduction to SQL Azure
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Azure
 ## Speaker: Joe Healy
 ## Title: Introduction to SQL Azure
@@ -260,7 +260,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Azure
 #  
 #### SessionID: 31640
 # Working with SQL Server - SQLPS
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA4
 ## Speaker: Maximo Trinidad
 ## Title: Working with SQL Server - SQLPS
@@ -269,7 +269,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA4
 #  
 #### SessionID: 31641
 # Using PowerShell with SQL Server Agent 
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA4
 ## Speaker: Maximo Trinidad
 ## Title: Using PowerShell with SQL Server Agent 
@@ -279,7 +279,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA4
 #  
 #### SessionID: 31676
 # Advanced Parameters in SQL Server Reporting Servic
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI1
 ## Speaker: Mike Davis
 ## Title: Advanced Parameters in SQL Server Reporting Servic
@@ -288,7 +288,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI1
 #  
 #### SessionID: 31677
 # Dynamically Configuring SSIS Packages
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI1
 ## Speaker: Mike Davis
 ## Title: Dynamically Configuring SSIS Packages
@@ -297,7 +297,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI1
 #  
 #### SessionID: 31679
 # Understanding the SSIS Data Flow
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI1
 ## Speaker: Mike Davis
 ## Title: Understanding the SSIS Data Flow
@@ -306,7 +306,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI1
 #  
 #### SessionID: 31965
 # Building Blocks to Analysis Services
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI2
 ## Speaker: Michael Mollenhour
 ## Title: Building Blocks to Analysis Services
@@ -316,7 +316,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI2
 #  
 #### SessionID: 31966
 # Taking SSIS to the Next Level
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI2
 ## Speaker: Michael Mollenhour
 ## Title: Taking SSIS to the Next Level
@@ -326,7 +326,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI2
 #  
 #### SessionID: 32135
 # Log Shipping vs. Replication; the Great Debate
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA3
 ## Speaker: Troy Gallant
 ## Title: Log Shipping vs. Replication; the Great Debate
@@ -335,7 +335,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA3
 #  
 #### SessionID: 32136
 # Introduction to Transactional Replication
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA3
 ## Speaker: Troy Gallant
 ## Title: Introduction to Transactional Replication
@@ -344,7 +344,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA3
 #  
 #### SessionID: 32341
 # SQL and SEO - More Money Per Query
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Jared  Nielsen
 ## Title: SQL and SEO - More Money Per Query
@@ -353,7 +353,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 32348
 # Tips  Tricks for dynamic SSRS Reports
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI1
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic SSRS Reports
@@ -362,7 +362,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI1
 #  
 #### SessionID: 32613
 # The DBA Script Thumb
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA1
 ## Speaker: Rodney Landrum
 ## Title: The DBA Script Thumb
@@ -372,7 +372,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA1
 #  
 #### SessionID: 32614
 # DBA Repository Update 2010 Using SSIS and SSRS
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI2
 ## Speaker: Rodney Landrum
 ## Title: DBA Repository Update 2010 Using SSIS and SSRS
@@ -381,7 +381,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI2
 #  
 #### SessionID: 32633
 # Automate ID Administration w/ PowerShell  SQLPSX
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA4
 ## Speaker: Ronald Dameron
 ## Title: Automate ID Administration w/ PowerShell  SQLPSX
@@ -390,7 +390,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA4
 #  
 #### SessionID: 32634
 # Why SQL Server DBAs should learn PowerShell
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA4
 ## Speaker: Ronald Dameron
 ## Title: Why SQL Server DBAs should learn PowerShell
@@ -399,7 +399,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA4
 #  
 #### SessionID: 32831
 # Developing Application with SQL Azure
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Azure
 ## Speaker: Scott Klein
 ## Title: Developing Application with SQL Azure
@@ -408,7 +408,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Azure
 #  
 #### SessionID: 32920
 # Cool Stuff with SSRS
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI1
 ## Speaker: Shervin Shakibi
 ## Title: Cool Stuff with SSRS
@@ -417,7 +417,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI1
 #  
 #### SessionID: 33010
 # Insight Into Your Indexes With DMVs
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA1
 ## Speaker: Tim Ford
 ## Title: Insight Into Your Indexes With DMVs
@@ -426,7 +426,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA1
 #  
 #### SessionID: 33012
 # Top 10 SQL Mistakes and Mis-Steps 
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA1
 ## Speaker: Tim Ford
 ## Title: Top 10 SQL Mistakes and Mis-Steps 
@@ -435,7 +435,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA1
 #  
 #### SessionID: 33362
 # Mapping with SQL Server 2008, Silverlight and Bing
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Telmo Sampaio
 ## Title: Mapping with SQL Server 2008, Silverlight and Bing
@@ -444,7 +444,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 33504
 # SQL Server Memory Deep Dive 
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI2
 ## Speaker: Kevin Boles
 ## Title: SQL Server Memory Deep Dive 
@@ -453,7 +453,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI2
 #  
 #### SessionID: 33505
 # Advanced TSQL Solutions
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI2
 ## Speaker: Kevin Boles
 ## Title: Advanced TSQL Solutions
@@ -462,7 +462,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI2
 #  
 #### SessionID: 33506
 # Parallel Query Execution Deep Dive
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI2
 ## Speaker: Kevin Boles
 ## Title: Parallel Query Execution Deep Dive
@@ -471,7 +471,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: BI2
 #  
 #### SessionID: 33659
 # ITIL V3 for the Database Administrator
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA3
 ## Speaker: Timothy McAliley
 ## Title: ITIL V3 for the Database Administrator
@@ -480,7 +480,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA3
 #  
 #### SessionID: 33808
 # Database Partitioning: The Basics
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA2
 ## Speaker: Elijah Baker
 ## Title: Database Partitioning: The Basics
@@ -489,7 +489,7 @@ Event Date: 31-07-2010 - Session time: 00:00:00 - Track: DBA2
 #  
 #### SessionID: 34491
 # Creating a C# Runtime Dynamic SSIS Designer
-#### [Back to calendar](#SQLSaturday-#40---South-Florida-2010)
+#### [Back to calendar](#SQLSaturday-#40-South-Florida-2010)
 Event Date: 31-07-2010 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Sam Abraham
 ## Title: Creating a C# Runtime Dynamic SSIS Designer

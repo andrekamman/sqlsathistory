@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 82592
 # The Dark Side of the Big Data
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Other
 ## Speaker: Fernando Andreazi
 ## Title: The Dark Side of the Big Data
@@ -43,7 +43,7 @@ Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Other
 #  
 #### SessionID: 82602
 # Facilitando sua vida com dbatools
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Reginaldo Silva
 ## Title: Facilitando sua vida com dbatools
@@ -52,7 +52,7 @@ Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84046
 # Conhecendo ColumnStore com casos da vida real!
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Suellen Moraes
 ## Title: Conhecendo ColumnStore com casos da vida real!
@@ -61,7 +61,7 @@ Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84184
 # Oracle e SQL Server na prática: mitos, semelhanças e diferenças
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Leonardo Pedroso Costa
 ## Title: Oracle e SQL Server na prática: mitos, semelhanças e diferenças
@@ -72,7 +72,7 @@ Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84232
 # Machine Learning Services - Utilizando R dentro do SQL Server
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Bernardo Dias Bordalo Loureiro
 ## Title: Machine Learning Services - Utilizando R dentro do SQL Server
@@ -81,7 +81,7 @@ Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 82600
 # Hacking SQL Server 2
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Hacking SQL Server 2
@@ -93,7 +93,7 @@ Simularemos uma invasão ao SQL Server explorando alguns conceitos mal interpret
 #  
 #### SessionID: 83964
 # Power BI - Tipos de contextos dos cálculos X desempenho do seu painel
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: Fernando Garcia
 ## Title: Power BI - Tipos de contextos dos cálculos X desempenho do seu painel
@@ -102,7 +102,7 @@ Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 84076
 # Linux Administration for SQL SERVER DBAs
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcelo Adade
 ## Title: Linux Administration for SQL SERVER DBAs
@@ -112,7 +112,7 @@ In this section let´s see how to perform the most common troubleshooting tasks,
 #  
 #### SessionID: 84331
 # Análise de sentimentos em real time com Cognitive Services, Logic Apps e Azure Cosmos DB
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Igor Santos de Paula
 ## Title: Análise de sentimentos em real time com Cognitive Services, Logic Apps e Azure Cosmos DB
@@ -124,7 +124,7 @@ Na demo irei mostrar como coletar dados de uma rede social, analisar o sentiment
 #  
 #### SessionID: 82777
 # Conhecendo as facilidades do Azure Databricks
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Strategy and Architecture
 ## Speaker: Caio Amante
 ## Title: Conhecendo as facilidades do Azure Databricks
@@ -133,7 +133,7 @@ Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 82828
 # BACKUP DB TO URL = 'Blob Storage'
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Raiane Lins
 ## Title: BACKUP DB TO URL = 'Blob Storage'
@@ -142,7 +142,7 @@ Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83041
 # Power BI não é só um rostinho bonito: Tratando arquivos de log
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: BI Information Delivery
 ## Speaker: RUY LACERDA
 ## Title: Power BI não é só um rostinho bonito: Tratando arquivos de log
@@ -151,7 +151,7 @@ Event Date: 25-08-2018 - Session time: 16:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 84467
 # CPU 100%? Non-yielding Scheduler? SQL Server não responde? Vamos falar de Task Scheduling.
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jefferson Oliveira
 ## Title: CPU 100%? Non-yielding Scheduler? SQL Server não responde? Vamos falar de Task Scheduling.
@@ -163,7 +163,7 @@ Vamos entender como funciona o "Scheduling" de tarefas no processador, falar de 
 #  
 #### SessionID: 85259
 # O Impacto da GDPR nos Projetos de Banco de Dados.
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Danielle Monteiro
 ## Title: O Impacto da GDPR nos Projetos de Banco de Dados.
@@ -176,7 +176,7 @@ Novas leis, novos tempos, novos desafios... Me acompanhe e veja que os novos pro
 #  
 #### SessionID: 83042
 # Você conhece o Power BI Report Server?
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Felippe Oliveira
 ## Title: Você conhece o Power BI Report Server?
@@ -185,7 +185,7 @@ Event Date: 25-08-2018 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 83273
 # SaaS, IaaS e PaaS e a Plataforma de Dados no Azure.
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tiago Neves
 ## Title: SaaS, IaaS e PaaS e a Plataforma de Dados no Azure.
@@ -195,7 +195,7 @@ E quais plataforma de dados temos disponíveis no Azure.
 #  
 #### SessionID: 84665
 # Como ter maior controle no Azure utilizando uma Managed Instance
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vitor Fava
 ## Title: Como ter maior controle no Azure utilizando uma Managed Instance
@@ -206,7 +206,7 @@ Nesta sessão vamos conhecer por completo como funciona esse novo modelo de util
 #  
 #### SessionID: 84667
 # Principais DMVs do SQL Server e suas funcionalidades
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jéssica Lima
 ## Title: Principais DMVs do SQL Server e suas funcionalidades
@@ -215,7 +215,7 @@ Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82794
 # Melhores práticas #SQN
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ricardo Leka
 ## Title: Melhores práticas #SQN
@@ -225,7 +225,7 @@ Vamos conversar sobre configurações e programação que já encontramos em vá
 #  
 #### SessionID: 82882
 # Governança de Dados para BI, em tempos de Self-Service BI
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Claudio Bonel
 ## Title: Governança de Dados para BI, em tempos de Self-Service BI
@@ -236,7 +236,7 @@ Na parte final faremos uma DEMO, utilizando o SQL Server DB, SQL Server Analysis
 #  
 #### SessionID: 84064
 # Migração de Dados com Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Orlando Gomes
 ## Title: Migração de Dados com Azure Data Factory
@@ -245,7 +245,7 @@ Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 84071
 # Segurança de dados, ISO 27002 e Criptografia no SQL Server
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Diemerson Campos
 ## Title: Segurança de dados, ISO 27002 e Criptografia no SQL Server
@@ -254,7 +254,7 @@ Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83376
 # 13 motivos pelo qual minha consulta esta lenta.
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Fabiano Amorim
 ## Title: 13 motivos pelo qual minha consulta esta lenta.
@@ -277,7 +277,7 @@ Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 83843
 # In Memory - Processamento em memória ou Processamento em disco
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Advaldo Mesquita
 ## Title: In Memory - Processamento em memória ou Processamento em disco
@@ -287,7 +287,7 @@ Vou demonstrar algumas diferenças de escrita em disco e escrita em memória par
 #  
 #### SessionID: 83947
 # Transaction Log com AlwaysOn Availability Group
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thiago Cruz
 ## Title: Transaction Log com AlwaysOn Availability Group
@@ -298,7 +298,7 @@ Vamos também entender o comportamento do AG em momentos de reverting e recoveri
 #  
 #### SessionID: 84666
 # Azure PaaS Business Intelligence
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Arthur Luz
 ## Title: Azure PaaS Business Intelligence
@@ -307,7 +307,7 @@ Event Date: 25-08-2018 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 82825
 # MongoDB para DBAs Relacionais - Tudo o que você sempre quis saber
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Leandro Domingues
 ## Title: MongoDB para DBAs Relacionais - Tudo o que você sempre quis saber
@@ -316,7 +316,7 @@ Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83585
 # The Smart Way to Troubleshoot SQL Server Always On Cluster and Availability Group Outages
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Edwin M Sarmiento
 ## Title: The Smart Way to Troubleshoot SQL Server Always On Cluster and Availability Group Outages
@@ -327,7 +327,7 @@ This session will look at understanding how the underlying WSFC platform works t
 #  
 #### SessionID: 84778
 # Práticas de Percepção e Elicitação para BI com foco em Governo
-#### [Back to calendar](#SQLSaturday-#792---Brasilia-2018)
+#### [Back to calendar](#SQLSaturday-#792-Brasilia-2018)
 Event Date: 25-08-2018 - Session time: 16:30:00 - Track: Strategy and Architecture
 ## Speaker: Laura Solano
 ## Title: Práticas de Percepção e Elicitação para BI com foco em Governo

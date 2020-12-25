@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 66504
 # Gestión de Backups y recuperación en bases de datos SQL Server
-#### [Back to calendar](#SQLSaturday-#641---Puerto-Rico-2017)
+#### [Back to calendar](#SQLSaturday-#641-Puerto-Rico-2017)
 Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: German Ordonez
 ## Title: Gestión de Backups y recuperación en bases de datos SQL Server
@@ -29,7 +29,7 @@ Durante esta sesión veremos cómo recuperar un objeto de la base de datos sin t
 #  
 #### SessionID: 66569
 # Better Together: Power BI, Office 365 and Azure
-#### [Back to calendar](#SQLSaturday-#641---Puerto-Rico-2017)
+#### [Back to calendar](#SQLSaturday-#641-Puerto-Rico-2017)
 Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Data Science
 ## Speaker: Ramon Ponte
 ## Title: Better Together: Power BI, Office 365 and Azure
@@ -38,7 +38,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Data Science
 #  
 #### SessionID: 66595
 # Creating a Server Antivirus/Antimalware Definitions Update  Scanning Status Report
-#### [Back to calendar](#SQLSaturday-#641---Puerto-Rico-2017)
+#### [Back to calendar](#SQLSaturday-#641-Puerto-Rico-2017)
 Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Other
 ## Speaker: Jorge Sanchez
 ## Title: Creating a Server Antivirus/Antimalware Definitions Update  Scanning Status Report
@@ -47,7 +47,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Other
 #  
 #### SessionID: 64902
 # Monitoreo y diagnostico de bases de datos SQL Server
-#### [Back to calendar](#SQLSaturday-#641---Puerto-Rico-2017)
+#### [Back to calendar](#SQLSaturday-#641-Puerto-Rico-2017)
 Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: German Ordonez
 ## Title: Monitoreo y diagnostico de bases de datos SQL Server
@@ -56,7 +56,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65511
 # SQL Server Machine Learning Services in a nutshell
-#### [Back to calendar](#SQLSaturday-#641---Puerto-Rico-2017)
+#### [Back to calendar](#SQLSaturday-#641-Puerto-Rico-2017)
 Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Advanced Analytics
 ## Speaker: Jose L. Rivera
 ## Title: SQL Server Machine Learning Services in a nutshell
@@ -65,7 +65,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Advanced Analytics
 #  
 #### SessionID: 66847
 # "The Statistical Sommelier", A Practical Intro to R!
-#### [Back to calendar](#SQLSaturday-#641---Puerto-Rico-2017)
+#### [Back to calendar](#SQLSaturday-#641-Puerto-Rico-2017)
 Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Data Science
 ## Speaker: Nestor Figueroa
 ## Title: "The Statistical Sommelier", A Practical Intro to R!
@@ -74,7 +74,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Data Science
 #  
 #### SessionID: 62724
 # Disaster Recovery, de dificil a muy facil.
-#### [Back to calendar](#SQLSaturday-#641---Puerto-Rico-2017)
+#### [Back to calendar](#SQLSaturday-#641-Puerto-Rico-2017)
 Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: Isaias Martinez
 ## Title: Disaster Recovery, de dificil a muy facil.
@@ -84,7 +84,7 @@ En esta sesión cubriremos las bases de “Site Recovery”, un muy poderoso ser
 #  
 #### SessionID: 66497
 # Using Azure Machine Learning Power In Xamarin
-#### [Back to calendar](#SQLSaturday-#641---Puerto-Rico-2017)
+#### [Back to calendar](#SQLSaturday-#641-Puerto-Rico-2017)
 Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Software Development
 ## Speaker: Juan Martí
 ## Title: Using Azure Machine Learning Power In Xamarin
@@ -93,7 +93,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Software Development
 #  
 #### SessionID: 66570
 # Azure SQL Data Warehouse Loading Strategies
-#### [Back to calendar](#SQLSaturday-#641---Puerto-Rico-2017)
+#### [Back to calendar](#SQLSaturday-#641-Puerto-Rico-2017)
 Event Date: 17-06-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Guillermo Caicedo Santiago
 ## Title: Azure SQL Data Warehouse Loading Strategies
@@ -102,7 +102,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 65512
 # SQL Server on Linux
-#### [Back to calendar](#SQLSaturday-#641---Puerto-Rico-2017)
+#### [Back to calendar](#SQLSaturday-#641-Puerto-Rico-2017)
 Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jose L. Rivera
 ## Title: SQL Server on Linux
@@ -111,7 +111,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66601
 # Introduction to Data Visualization with R: ggplot2  more
-#### [Back to calendar](#SQLSaturday-#641---Puerto-Rico-2017)
+#### [Back to calendar](#SQLSaturday-#641-Puerto-Rico-2017)
 Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Data Science
 ## Speaker: Orlando Mezquita
 ## Title: Introduction to Data Visualization with R: ggplot2  more
@@ -120,7 +120,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Data Science
 #  
 #### SessionID: 66745
 # Microsoft SQL Server Certification and Career Roadmap
-#### [Back to calendar](#SQLSaturday-#641---Puerto-Rico-2017)
+#### [Back to calendar](#SQLSaturday-#641-Puerto-Rico-2017)
 Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Other
 ## Speaker: Kahlil Mendez
 ## Title: Microsoft SQL Server Certification and Career Roadmap

@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11515
 # Ten T-SQL Techniques with Tally Tables
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Chris Hyde
 ## Title: Ten T-SQL Techniques with Tally Tables
@@ -37,7 +37,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 11779
 # SQL Audit - auditing doesn't have to be boring
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Colleen Morrow
 ## Title: SQL Audit - auditing doesn't have to be boring
@@ -47,7 +47,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 12514
 # Easy SQL Server Benchmarking
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: David Klee
 ## Title: Easy SQL Server Benchmarking
@@ -56,7 +56,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 12517
 # Squeezing Top Performance from Your Virtualized SQL Server
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: David Klee
 ## Title: Squeezing Top Performance from Your Virtualized SQL Server
@@ -65,7 +65,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 12887
 # SSIS Optimization techniques
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Daniel Bowlin
 ## Title: SSIS Optimization techniques
@@ -74,7 +74,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 12888
 # SSIS 2012 Parameters, deployments, and environments
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Daniel Bowlin
 ## Title: SSIS 2012 Parameters, deployments, and environments
@@ -83,7 +83,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 13654
 # T-SQL Basics
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Carlton Ramsey
 ## Title: T-SQL Basics
@@ -92,7 +92,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13846
 # Dynamic SQL: Writing Efficient Queries on the Fly
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Edward Pollack
 ## Title: Dynamic SQL: Writing Efficient Queries on the Fly
@@ -103,7 +103,7 @@ Explore the many uses for dynamic SQL as well as best practices for writing, tes
 #  
 #### SessionID: 13847
 # Diving Into Query Execution Plans
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Edward Pollack
 ## Title: Diving Into Query Execution Plans
@@ -112,7 +112,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14534
 # SQL Server 2014 New Features
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: George Walters
 ## Title: SQL Server 2014 New Features
@@ -121,7 +121,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14537
 # SQL Server 2012 Failover Clustering
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: George Walters
 ## Title: SQL Server 2012 Failover Clustering
@@ -130,7 +130,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18072
 # Inspector Insert And The Case Of The Mistaken IDENTITY
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kendal Van Dyke
 ## Title: Inspector Insert And The Case Of The Mistaken IDENTITY
@@ -139,7 +139,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 18073
 # How To Build A SQL Server Virtual Lab On Your Own Machine
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kendal Van Dyke
 ## Title: How To Build A SQL Server Virtual Lab On Your Own Machine
@@ -149,7 +149,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 20654
 # Trace Flags for Developers
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Mike Hays
 ## Title: Trace Flags for Developers
@@ -158,7 +158,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 20655
 # Recovery that May or May Not have a Wizard
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mike Hays
 ## Title: Recovery that May or May Not have a Wizard
@@ -167,7 +167,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21142
 # 101 Stupid Things Your Colleagues Do When Setting Up SQL Server
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Matt Slocum
 ## Title: 101 Stupid Things Your Colleagues Do When Setting Up SQL Server
@@ -176,7 +176,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 28118
 # Possible Musics:  Choosing between Analysis Services 2012 Multidimensional and Tabular
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: William E Pearson III
 ## Title: Possible Musics:  Choosing between Analysis Services 2012 Multidimensional and Tabular
@@ -185,7 +185,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 28119
 # Bridging the Chasm:  BI Theory vs. Practice
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: William E Pearson III
 ## Title: Bridging the Chasm:  BI Theory vs. Practice
@@ -194,7 +194,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9596
 # Creating Access 2013 Web Apps based on SQL Azure using SharePoint
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Andy Tabisz
 ## Title: Creating Access 2013 Web Apps based on SQL Azure using SharePoint
@@ -204,7 +204,7 @@ In this session you will learn to easily create an Access Web Apps with automati
 #  
 #### SessionID: 9633
 # The Modern Data Warehouse
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andy Roberts
 ## Title: The Modern Data Warehouse
@@ -213,7 +213,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9634
 # What the Hek is under the covers? 
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Andy Roberts
 ## Title: What the Hek is under the covers? 
@@ -222,7 +222,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 9974
 # Automate Your ETL Infrastructure with SSIS and PowerShell
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Allen White
 ## Title: Automate Your ETL Infrastructure with SSIS and PowerShell
@@ -231,7 +231,7 @@ Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9975
 # Manage SQLServer Efficiently w/PowerShell Remoting
-#### [Back to calendar](#SQLSaturday-#303---Rochester-2014)
+#### [Back to calendar](#SQLSaturday-#303-Rochester-2014)
 Event Date: 21-06-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Allen White
 ## Title: Manage SQLServer Efficiently w/PowerShell Remoting

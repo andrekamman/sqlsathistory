@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 71304
 # Practical Design Pitfalls in designing Enterprise Data Warehouse
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dr. Suresh Rajappa
 ## Title: Practical Design Pitfalls in designing Enterprise Data Warehouse
@@ -55,7 +55,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 71386
 # Data Modeling for the Modern Data Warehouse
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Casey
 ## Title: Data Modeling for the Modern Data Warehouse
@@ -87,7 +87,7 @@ Different Modeling Techniques
 #  
 #### SessionID: 72943
 # Very Large Databases in your future
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Peterson
 ## Title: Very Large Databases in your future
@@ -99,7 +99,7 @@ indexing and DBCC checks into itty-bitty maintenance windows. As a bonus, many o
 #  
 #### SessionID: 72973
 # Azure Transient SQL Warehouse Resource
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Chris Horvath
 ## Title: Azure Transient SQL Warehouse Resource
@@ -112,7 +112,7 @@ Hadoop Decommision Effort - Hadoop 16hr process replaced with 1.5 hr process at 
 #  
 #### SessionID: 73002
 # Power BI: The Magic of M
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Andrea Letourneau
 ## Title: Power BI: The Magic of M
@@ -121,7 +121,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 73167
 # Data Security in Power BI
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Hughes
 ## Title: Data Security in Power BI
@@ -132,7 +132,7 @@ Due to the frequent changes to Power BI, improvements to data security are commo
 #  
 #### SessionID: 73341
 # Use PowerShell and dbatools to Manage your SQL Server Environment
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Garry Bargsley
 ## Title: Use PowerShell and dbatools to Manage your SQL Server Environment
@@ -142,7 +142,7 @@ In this session, you will learn how to standardize, monitor and alert on your en
 #  
 #### SessionID: 73443
 # Natural Language Processing (NLP) Intro
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Yueying Li
 ## Title: Natural Language Processing (NLP) Intro
@@ -153,7 +153,7 @@ For this session, I will walk you through some fundamental techniques and demos.
 #  
 #### SessionID: 77361
 # Open Source vs SQL Database Maintenance Plans
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Lundell
 ## Title: Open Source vs SQL Database Maintenance Plans
@@ -162,7 +162,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73073
 # Using SQL  PowerPivot In Excel to create a SSAS Tabular Model for Power BI
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Kristine Dyess
 ## Title: Using SQL  PowerPivot In Excel to create a SSAS Tabular Model for Power BI
@@ -171,7 +171,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 73074
 # Proper DataType Usage=Guaranteed Better Performance and Accuracy
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Vern Rabe
 ## Title: Proper DataType Usage=Guaranteed Better Performance and Accuracy
@@ -182,7 +182,7 @@ In this demo-heavy presentation I will show you the importance of choosing the p
 #  
 #### SessionID: 73123
 # Data Driven Digital Transformation
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Adam Jorgensen
 ## Title: Data Driven Digital Transformation
@@ -191,7 +191,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 73177
 # Introduction to Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joe Abbott
 ## Title: Introduction to Azure SQL Database
@@ -200,7 +200,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 73521
 # Monitoring and Alerting of Availability Groups
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Monitoring and Alerting of Availability Groups
@@ -210,7 +210,7 @@ This session will answer all these questions
 #  
 #### SessionID: 73660
 # Implementing Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ginger Grant
 ## Title: Implementing Python in SQL Server 2017
@@ -220,7 +220,7 @@ If you have not had a chance to review SQL Server 2017 yet, please attend to see
 #  
 #### SessionID: 73710
 # Is it really HA when you upgrade from 2016 to 2017? I say yes.
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Schmidt
 ## Title: Is it really HA when you upgrade from 2016 to 2017? I say yes.
@@ -229,7 +229,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 74378
 # Operationalizing Data Science
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Carlos Bossy
 ## Title: Operationalizing Data Science
@@ -238,7 +238,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 74608
 # Beginner's Guide to Query Tuning with SQL Server
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Phil Guevara
 ## Title: Beginner's Guide to Query Tuning with SQL Server
@@ -247,7 +247,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 71305
 # Lockless in Seattle: Using In-Memory OLTP Transaction Processing
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Broadbent
 ## Title: Lockless in Seattle: Using In-Memory OLTP Transaction Processing
@@ -258,7 +258,7 @@ In this session, we will understand how In-Memory OLTP architecture is implement
 #  
 #### SessionID: 72351
 # Climbing the SQL Server Index B-Tree (from a user perspective)
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: Climbing the SQL Server Index B-Tree (from a user perspective)
@@ -267,7 +267,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 72699
 # Locks, Blocks, and Deadlocks, Oh My!
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Randy Knight
 ## Title: Locks, Blocks, and Deadlocks, Oh My!
@@ -278,7 +278,7 @@ In this session targeted at the accidental or new DBA, we will walk through each
 #  
 #### SessionID: 72767
 # Challenges and Opportunities in Creating Accessible Power BI Reports
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Meagan Longoria
 ## Title: Challenges and Opportunities in Creating Accessible Power BI Reports
@@ -287,7 +287,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 73008
 # The Power of Data:  The Complete Beginners Data Warehouse Kit
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data:  The Complete Beginners Data Warehouse Kit
@@ -296,7 +296,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 73132
 # Power BI Development Best Practices
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Martin Schoombee
 ## Title: Power BI Development Best Practices
@@ -307,7 +307,7 @@ In this session we will take a brief look at all of the considerations and best 
 #  
 #### SessionID: 73439
 # Relational meets Graph
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Leonard Lwakabamba
 ## Title: Relational meets Graph
@@ -316,7 +316,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 73444
 # SSIS Project Deployment: The T-SQL Way
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Kral
 ## Title: SSIS Project Deployment: The T-SQL Way
@@ -329,7 +329,7 @@ You should have previous experience with SQL Server Integration Services (SSIS) 
 #  
 #### SessionID: 73573
 # Extended Events - Better than Profiler
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Extended Events - Better than Profiler
@@ -338,7 +338,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71281
 # DBA Impacting Trends
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Mandeville
 ## Title: DBA Impacting Trends
@@ -347,7 +347,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 71367
 # Data Wrangling for Reporting  Analytics using Power BI
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Phil Robinson
 ## Title: Data Wrangling for Reporting  Analytics using Power BI
@@ -360,7 +360,7 @@ In this presentation we will review tools to examine/repair schema issues and ex
 #  
 #### SessionID: 71853
 # Dynamic SQL: Tables, Pivots, Parameters  More
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Steven Tidwell
 ## Title: Dynamic SQL: Tables, Pivots, Parameters  More
@@ -369,7 +369,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 72955
 # Understanding the SQL Server Transaction Log
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Randy Knight
 ## Title: Understanding the SQL Server Transaction Log
@@ -378,7 +378,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73127
 # ETL Best Practices and Techniques
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marc Beacom
 ## Title: ETL Best Practices and Techniques
@@ -389,7 +389,7 @@ Gain helpful insights from decades of lessons learned and walk away with best pr
 #  
 #### SessionID: 73333
 # Intro to tSQLt:  Unit Testing for Databases
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Sandra Walters
 ## Title: Intro to tSQLt:  Unit Testing for Databases
@@ -400,7 +400,7 @@ If you've ever had these questions, this introduction to the unit test framework
 #  
 #### SessionID: 73537
 # Azure Data Factory Version 2 - Early Adopters
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joseph Barth
 ## Title: Azure Data Factory Version 2 - Early Adopters
@@ -414,7 +414,7 @@ Speaker Bio: Joe Barth is the AZSSUG PASS chapter Leader, over 9 years SQL Serve
 #  
 #### SessionID: 77789
 # An introduction to the magical world of BIML!
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
@@ -423,7 +423,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 72784
 # PowerBI, from a DBA
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: TJay Belt
 ## Title: PowerBI, from a DBA
@@ -434,7 +434,7 @@ As a DBA, we often need to collect and display data in a friendly and interactiv
 #  
 #### SessionID: 72999
 # Querying Semistructured Data in Azure Data Lake with USQL
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Russel Loski
 ## Title: Querying Semistructured Data in Azure Data Lake with USQL
@@ -443,7 +443,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 73075
 # Query Optimization Statistics : Driving Force Behind Performance
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Vern Rabe
 ## Title: Query Optimization Statistics : Driving Force Behind Performance
@@ -452,7 +452,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 73726
 # SQL Server on Linux, a new frontier
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Miller
 ## Title: SQL Server on Linux, a new frontier
@@ -462,7 +462,7 @@ With the release of Microsoft SQL Server for Linux, this last major hurdle in th
 #  
 #### SessionID: 73952
 # Data Visualization with D3.js
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Jared Wilber
 ## Title: Data Visualization with D3.js
@@ -471,7 +471,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 73957
 # Solving Common DBA Problems With R
-#### [Back to calendar](#SQLSaturday-#726---Phoenix-2018)
+#### [Back to calendar](#SQLSaturday-#726-Phoenix-2018)
 Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Williams
 ## Title: Solving Common DBA Problems With R

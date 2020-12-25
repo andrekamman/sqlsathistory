@@ -41,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 83261
 # How To Setup Continuous Integration Continuous Delivery Step By Step For Your Website  Database
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Other
 ## Speaker: Jeff Taylor
 ## Title: How To Setup Continuous Integration Continuous Delivery Step By Step For Your Website  Database
@@ -50,7 +50,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Other
 #  
 #### SessionID: 83380
 # HA/DR Solutions Using Distributed Availability Groups
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Jennifer Brocato
 ## Title: HA/DR Solutions Using Distributed Availability Groups
@@ -63,7 +63,7 @@ Finally, we will see Automatic Failover and see how to perform a Manual Failover
 #  
 #### SessionID: 84038
 # Python and R Integration with SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Thomas LeBlanc
 ## Title: Python and R Integration with SQL Server 2017
@@ -74,7 +74,7 @@ The role as a DBA is expanding, and even though you might not be a Data Scientis
 #  
 #### SessionID: 84385
 # Everything You Need to Know About SQL Server Indexes
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Everything You Need to Know About SQL Server Indexes
@@ -85,7 +85,7 @@ This presentation is a must see for DBAs, Developers, Application Architects and
 #  
 #### SessionID: 84493
 # Will my workload run faster with In-Memory OLTP?
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Ned Otter
 ## Title: Will my workload run faster with In-Memory OLTP?
@@ -100,7 +100,7 @@ We will lift the veil of confusion that surrounds this blazingly fast feature. B
 #  
 #### SessionID: 85475
 # Encryption, Encryption, Encryption! Protect your data at the right level
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Encryption, Encryption, Encryption! Protect your data at the right level
@@ -109,7 +109,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 86239
 # Azure Data Store Options
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jonathon Moorman
 ## Title: Azure Data Store Options
@@ -118,7 +118,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 83243
 # Intro Into Index Analysis
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dmitri Korotkevitch
 ## Title: Intro Into Index Analysis
@@ -129,7 +129,7 @@ In this session, Dmitri demonstrates several techniques that help you to perform
 #  
 #### SessionID: 83278
 # Applied Machine Learning with Python
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Adriano da Silva
 ## Title: Applied Machine Learning with Python
@@ -142,7 +142,7 @@ Most importantly, those examples are designed in a manner that are easy for you 
 #  
 #### SessionID: 83490
 # Tame Your Unruly Data With Constraints
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data With Constraints
@@ -151,7 +151,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 83672
 # Hack / Protect / Predict SQL Server - Come learn them.
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Hiram Fleitas
 ## Title: Hack / Protect / Predict SQL Server - Come learn them.
@@ -173,7 +173,7 @@ Looking forward to meeting you all.
 #  
 #### SessionID: 83811
 # Azure Resource Management with PowerShell
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ronald Dameron
 ## Title: Azure Resource Management with PowerShell
@@ -182,7 +182,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 84588
 # Deciding to keep your BI Data Platform On-Premises
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Trey Johnson
 ## Title: Deciding to keep your BI Data Platform On-Premises
@@ -197,7 +197,7 @@ Attendees will be in a better position to explore moving beyond their On-Premise
 #  
 #### SessionID: 84681
 # ETL automation using BIML
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sarju Patel
 ## Title: ETL automation using BIML
@@ -206,7 +206,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 84383
 # What’s New in the 2017 Query Store
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: What’s New in the 2017 Query Store
@@ -215,7 +215,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85684
 # Rubrik-Simplifying SQL Data Protection
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Chris Lumnah
 ## Title: Rubrik-Simplifying SQL Data Protection
@@ -224,7 +224,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 85695
 # Dell: #GetModern with Dell EMC
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Dominick DeQuarto
 ## Title: Dell: #GetModern with Dell EMC
@@ -233,7 +233,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 85813
 # Introduction to Azure Functions using Azure SQL Databases
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Herve Roggero
 ## Title: Introduction to Azure Functions using Azure SQL Databases
@@ -242,7 +242,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 85814
 # Exporting and Synchronizing Data From SharePoint, Twitter and SalesForce into Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Herve Roggero
 ## Title: Exporting and Synchronizing Data From SharePoint, Twitter and SalesForce into Azure SQL Database
@@ -251,7 +251,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 85999
 # Information Governance:  Understanding the Risks and Developing Solutions around Unstructured data
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Other
 ## Speaker: Greg Smith
 ## Title: Information Governance:  Understanding the Risks and Developing Solutions around Unstructured data
@@ -260,7 +260,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Other
 #  
 #### SessionID: 86018
 # Performance tuning with SQLGrease
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: franklin yamamoto
 ## Title: Performance tuning with SQLGrease
@@ -269,7 +269,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 86301
 # The Changing Role of CIOs and the Value of DevOps
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Kendra Little
 ## Title: The Changing Role of CIOs and the Value of DevOps
@@ -278,7 +278,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 83245
 # Azure Analytics In the Cloud
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Luigi Delfin
 ## Title: Azure Analytics In the Cloud
@@ -287,7 +287,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 83314
 # Tally Ho! -- Explore the Varied Uses of Tally Tables
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Aaron Cutshall
 ## Title: Tally Ho! -- Explore the Varied Uses of Tally Tables
@@ -296,7 +296,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 83537
 # Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose Chinchilla
 ## Title: Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
@@ -305,7 +305,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 83560
 # Introduction to IoT using Azure
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: John Wang
 ## Title: Introduction to IoT using Azure
@@ -315,7 +315,7 @@ We will take an look on what is Internet of Things (IoT), the impact of IoT to t
 #  
 #### SessionID: 83901
 # I know what you did last transaction: Auditing using CDC, Temporal Tables and Triggers
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Berkowitz
 ## Title: I know what you did last transaction: Auditing using CDC, Temporal Tables and Triggers
@@ -324,7 +324,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84650
 # Solution development for a query tool for a large Dataset
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Andrew Bozek
 ## Title: Solution development for a query tool for a large Dataset
@@ -333,7 +333,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 85546
 # Twitter Data  Sentiment Analysis: Staring Logic Apps, Azure ML, Twitter Data, Power BI, and Python
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Bradley Ball
 ## Title: Twitter Data  Sentiment Analysis: Staring Logic Apps, Azure ML, Twitter Data, Power BI, and Python
@@ -342,7 +342,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 83338
 # Temporal Tables:  Creation, Use, and Optimizing
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Dale Sullenberger
 ## Title: Temporal Tables:  Creation, Use, and Optimizing
@@ -351,7 +351,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 83346
 # Supercharge Your Maintenance Plans..the Ola Way!!
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Troy Gallant
 ## Title: Supercharge Your Maintenance Plans..the Ola Way!!
@@ -362,7 +362,7 @@ In this session, not only will we introduce these scripts to those unfamiliar wi
 #  
 #### SessionID: 83606
 # Creating Reports and Dashboards with Power BI
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Michael Antonovich
 ## Title: Creating Reports and Dashboards with Power BI
@@ -371,7 +371,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 84119
 # Thinking in SQL
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Robert Hatton
 ## Title: Thinking in SQL
@@ -380,7 +380,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 85520
 # Performance Tuning Magic
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Valentin Iamandi
 ## Title: Performance Tuning Magic
@@ -394,7 +394,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 86333
 # SQL Server Development on Your Platform Of Choice with Containers
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Kendal Van Dyke
 ## Title: SQL Server Development on Your Platform Of Choice with Containers
@@ -403,7 +403,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 86351
 # SQL Execution Plans Demystified
-#### [Back to calendar](#SQLSaturday-#801---Orlando-2018)
+#### [Back to calendar](#SQLSaturday-#801-Orlando-2018)
 Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Ernest Libertucci
 ## Title: SQL Execution Plans Demystified

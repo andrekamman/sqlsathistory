@@ -53,7 +53,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28393
 # PowerShell for the Data Professional
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Buckhead
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for the Data Professional
@@ -62,7 +62,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Buckhead
 #  
 #### SessionID: 28394
 # Virtualize This!
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Chastain Park
 ## Speaker: Aaron Nelson
 ## Title: Virtualize This!
@@ -72,7 +72,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Chastain Park
 #  
 #### SessionID: 28745
 # Full Text Searching - A Guide for DBAs  Devs
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Grant
 ## Speaker: Robert Cain
 ## Title: Full Text Searching - A Guide for DBAs  Devs
@@ -81,7 +81,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Grant
 #  
 #### SessionID: 28746
 # Introduction to Data Warehousing / BI
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Grant
 ## Speaker: Robert Cain
 ## Title: Introduction to Data Warehousing / BI
@@ -90,7 +90,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Grant
 #  
 #### SessionID: 28747
 # Off and Running with PowerPivot for Excel 2010
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Highlands
 ## Speaker: Robert Cain
 ## Title: Off and Running with PowerPivot for Excel 2010
@@ -99,7 +99,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Highlands
 #  
 #### SessionID: 28891
 # The Art and Science of Data Modeling
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Chastain Park
 ## Speaker: Audrey Hammonds
 ## Title: The Art and Science of Data Modeling
@@ -115,7 +115,7 @@ Topics include:
 #  
 #### SessionID: 29506
 # Introduction to Merge Replication
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Buckhead
 ## Speaker: Chris Skorlinski
 ## Title: Introduction to Merge Replication
@@ -124,7 +124,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Buckhead
 #  
 #### SessionID: 29507
 # Introduction to Change Data Capture
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Buckhead
 ## Speaker: Chris Skorlinski
 ## Title: Introduction to Change Data Capture
@@ -133,7 +133,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Buckhead
 #  
 #### SessionID: 29509
 # QA with MS SQL Escalation
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Highlands
 ## Speaker: Chris Skorlinski
 ## Title: QA with MS SQL Escalation
@@ -142,7 +142,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Highlands
 #  
 #### SessionID: 29601
 # Why I Use Stored Procedures and You Should Too!
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Piedmont Park
 ## Speaker: Jack Corbett
 ## Title: Why I Use Stored Procedures and You Should Too!
@@ -151,7 +151,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Piedmont Park
 #  
 #### SessionID: 29695
 # Ad Hoc Visual Analysis 
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Highlands
 ## Speaker: Dan Murray
 ## Title: Ad Hoc Visual Analysis 
@@ -160,7 +160,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Highlands
 #  
 #### SessionID: 29705
 # De-mystifying Execution Plan Analysis
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Centennial Park
 ## Speaker: Dave Turpin
 ## Title: De-mystifying Execution Plan Analysis
@@ -171,7 +171,7 @@ This session will bridge the gap between the theory of internals, where the deta
 #  
 #### SessionID: 29747
 # SQL Server 2008 R2 Overview - Session 1
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Centennial Park
 ## Speaker: David Rodriguez
 ## Title: SQL Server 2008 R2 Overview - Session 1
@@ -180,7 +180,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Centennial Park
 #  
 #### SessionID: 29748
 # SQL Server 2008 R2- BI Drill Down Session 2
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Centennial Park
 ## Speaker: David Rodriguez
 ## Title: SQL Server 2008 R2- BI Drill Down Session 2
@@ -189,7 +189,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Centennial Park
 #  
 #### SessionID: 29749
 # SQL Server 2008 R2- DBA Drill Down Session 3
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Centennial Park
 ## Speaker: David Rodriguez
 ## Title: SQL Server 2008 R2- DBA Drill Down Session 3
@@ -198,7 +198,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Centennial Park
 #  
 #### SessionID: 29994
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Piedmont Park
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -207,7 +207,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Piedmont Park
 #  
 #### SessionID: 29995
 # Database Design Patterns 
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Piedmont Park
 ## Speaker: Louis Davidson
 ## Title: Database Design Patterns 
@@ -216,7 +216,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Piedmont Park
 #  
 #### SessionID: 30103
 # Diagnosing Connectivity Issues with SQL Server 
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Midtown
 ## Speaker: Evan Basalik
 ## Title: Diagnosing Connectivity Issues with SQL Server 
@@ -225,7 +225,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Midtown
 #  
 #### SessionID: 30104
 # SQL Azure: Data in the Cloud is a Good Thing 
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Midtown
 ## Speaker: Evan Basalik
 ## Title: SQL Azure: Data in the Cloud is a Good Thing 
@@ -234,7 +234,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Midtown
 #  
 #### SessionID: 30105
 # Troubleshooting SSRS Performance
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Grant
 ## Speaker: Evan Basalik
 ## Title: Troubleshooting SSRS Performance
@@ -243,7 +243,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Grant
 #  
 #### SessionID: 30224
 # Clustering for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Buckhead
 ## Speaker: Geoff Hiten
 ## Title: Clustering for Mere Mortals
@@ -252,7 +252,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Buckhead
 #  
 #### SessionID: 30246
 # Survey of Windows Azure Platform Storage Options
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Midtown
 ## Speaker: Glen Gordon
 ## Title: Survey of Windows Azure Platform Storage Options
@@ -261,7 +261,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Midtown
 #  
 #### SessionID: 30439
 # Tuna Helper for SQL Server DBA's
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Midtown
 ## Speaker: Janis Griffin
 ## Title: Tuna Helper for SQL Server DBA's
@@ -270,7 +270,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Midtown
 #  
 #### SessionID: 30440
 # Wait-Time Based  SQL Server Performance Management
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Highlands
 ## Speaker: Janis Griffin
 ## Title: Wait-Time Based  SQL Server Performance Management
@@ -279,7 +279,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Highlands
 #  
 #### SessionID: 30685
 # T-SQL Code Sins 
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Piedmont Park
 ## Speaker: Jennifer McCown
 ## Title: T-SQL Code Sins 
@@ -288,7 +288,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Piedmont Park
 #  
 #### SessionID: 30686
 # T-SQL Starter Kit
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Chastain Park
 ## Speaker: Jennifer McCown
 ## Title: T-SQL Starter Kit
@@ -297,7 +297,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Chastain Park
 #  
 #### SessionID: 30881
 # Troubleshooting SQL with Event Notifications
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Highlands
 ## Speaker: Jonathan Kehayias
 ## Title: Troubleshooting SQL with Event Notifications
@@ -306,7 +306,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Highlands
 #  
 #### SessionID: 30882
 # Auditing User Activity 101 
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Buckhead
 ## Speaker: Jonathan Kehayias
 ## Title: Auditing User Activity 101 
@@ -315,7 +315,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Buckhead
 #  
 #### SessionID: 31264
 # Getting started in blogging and technical speaking
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Midtown
 ## Speaker: Kendal Van Dyke
 ## Title: Getting started in blogging and technical speaking
@@ -325,7 +325,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Midtown
 #  
 #### SessionID: 31265
 # The (Solid) State Of Drive Technology 
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Midtown
 ## Speaker: Kendal Van Dyke
 ## Title: The (Solid) State Of Drive Technology 
@@ -334,7 +334,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Midtown
 #  
 #### SessionID: 31266
 # Configuring SQL Access for the Web Developer
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Buckhead
 ## Speaker: Kendal Van Dyke
 ## Title: Configuring SQL Access for the Web Developer
@@ -348,7 +348,7 @@ Session Goals:
 #  
 #### SessionID: 31453
 # RESTful Data
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Chastain Park
 ## Speaker: Chris Eargle
 ## Title: RESTful Data
@@ -357,7 +357,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Chastain Park
 #  
 #### SessionID: 31899
 # Loading Data In Real Time
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Highlands
 ## Speaker: Michael Femenella
 ## Title: Loading Data In Real Time
@@ -366,7 +366,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Highlands
 #  
 #### SessionID: 31900
 # Introduction to Performance Tuning
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Centennial Park
 ## Speaker: Michael Femenella
 ## Title: Introduction to Performance Tuning
@@ -375,7 +375,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Centennial Park
 #  
 #### SessionID: 31934
 # When GEO meets SQL: Hotwiring Data to Locations
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Chastain Park
 ## Speaker: Michael Clifford
 ## Title: When GEO meets SQL: Hotwiring Data to Locations
@@ -384,7 +384,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Chastain Park
 #  
 #### SessionID: 32022
 # Work/Life Balance?  Just A Myth?
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Midtown
 ## Speaker: Meredith Ryan-Smith
 ## Title: Work/Life Balance?  Just A Myth?
@@ -393,7 +393,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Midtown
 #  
 #### SessionID: 32134
 # Introduction to Transactional Replication
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Chastain Park
 ## Speaker: Troy Gallant
 ## Title: Introduction to Transactional Replication
@@ -402,7 +402,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Chastain Park
 #  
 #### SessionID: 32463
 # Can you control your reports?
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Grant
 ## Speaker: Ryan Duclos
 ## Title: Can you control your reports?
@@ -411,7 +411,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Grant
 #  
 #### SessionID: 32464
 # Common Table Expressions
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Chastain Park
 ## Speaker: Ryan Duclos
 ## Title: Common Table Expressions
@@ -420,7 +420,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Chastain Park
 #  
 #### SessionID: 33035
 # Scale Out the DBA (Enterprise Policy Management)
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Buckhead
 ## Speaker: Geoff Hiten
 ## Title: Scale Out the DBA (Enterprise Policy Management)
@@ -429,7 +429,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Buckhead
 #  
 #### SessionID: 33266
 # Data Warehouse Assessments - What,Why, and How
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Grant
 ## Speaker: Noah Subrin
 ## Title: Data Warehouse Assessments - What,Why, and How
@@ -440,7 +440,7 @@ If you answered yes to any of these questions, a data warehouse assessment will 
 #  
 #### SessionID: 33359
 # Introduction to Data Mining
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Grant
 ## Speaker: Tejas Patel
 ## Title: Introduction to Data Mining
@@ -449,7 +449,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Grant
 #  
 #### SessionID: 33361
 # What is Microsoft StreamInsight?
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Highlands
 ## Speaker: Tejas Patel
 ## Title: What is Microsoft StreamInsight?
@@ -459,7 +459,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 2 Highlands
 #  
 #### SessionID: 33503
 # SQL Server Memory Deep Dive
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Centennial Park
 ## Speaker: Kevin Boles
 ## Title: SQL Server Memory Deep Dive
@@ -469,7 +469,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Centennial Park
 #  
 #### SessionID: 33510
 # Common TSQL Programming Mistakes
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Piedmont Park
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Programming Mistakes
@@ -478,7 +478,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Piedmont Park
 #  
 #### SessionID: 33511
 # Advanced TSQL Solutions
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Piedmont Park
 ## Speaker: Kevin Boles
 ## Title: Advanced TSQL Solutions
@@ -487,7 +487,7 @@ Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Piedmont Park
 #  
 #### SessionID: 34487
 # Solving Real World Problems With DMVs
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Piedmont Park
 ## Speaker: Whitney Weaver
 ## Title: Solving Real World Problems With DMVs
@@ -500,7 +500,7 @@ This will be a code heavy session with lots of takeaways!
 #  
 #### SessionID: 34488
 # A Lap Around SQL Server 2008 Master Data Services
-#### [Back to calendar](#SQLSaturday-#41---Atlanta-2010)
+#### [Back to calendar](#SQLSaturday-#41-Atlanta-2010)
 Event Date: 24-04-2010 - Session time: 00:00:00 - Track: 1 Centennial Park
 ## Speaker: Whitney Weaver
 ## Title: A Lap Around SQL Server 2008 Master Data Services

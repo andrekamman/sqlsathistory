@@ -38,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 72054
 # Faster SSIS
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Faster SSIS
@@ -51,7 +51,7 @@ Finally, we'll demonstrate a design pattern that uses a Script Component in a Da
 #  
 #### SessionID: 72069
 # Top 5 SQL Server Mistakes
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kathi Kellenberger
 ## Title: Top 5 SQL Server Mistakes
@@ -60,7 +60,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 73674
 # Partitioned Tables and Query Performance
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Database  Application Development
 ## Speaker: Jay Robinson
 ## Title: Partitioned Tables and Query Performance
@@ -69,7 +69,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Database  Application D
 #  
 #### SessionID: 74660
 # Implementing a Cloud Analytics Solution: Options, costs and more
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Cloud Analytics
 ## Speaker: Marc Beacom
 ## Title: Implementing a Cloud Analytics Solution: Options, costs and more
@@ -78,7 +78,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Cloud Analytics
 #  
 #### SessionID: 77259
 # An Introduction to SQL Server Management Studio
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Introduction to SQL Server
 ## Speaker: Adrian Mee
 ## Title: An Introduction to SQL Server Management Studio
@@ -87,7 +87,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Introduction to SQL Ser
 #  
 #### SessionID: 78295
 # Querying Temporal Tables
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Database  Application Development
 ## Speaker: Ron Beatty
 ## Title: Querying Temporal Tables
@@ -96,7 +96,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Database  Application D
 #  
 #### SessionID: 73211
 # 3 Lessons Learned in Successful Consulting
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Mohammad Darab
 ## Title: 3 Lessons Learned in Successful Consulting
@@ -105,7 +105,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 73684
 # Killing Cursors
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Database  Application Development
 ## Speaker: Cyndi Johnson
 ## Title: Killing Cursors
@@ -114,7 +114,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Database  Application D
 #  
 #### SessionID: 73836
 # Introduction to R
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Jeff Renz
 ## Title: Introduction to R
@@ -123,7 +123,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 74179
 # SQL Server Data Encryption 101
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: SQL Server Data Encryption 101
@@ -132,7 +132,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 78054
 # Dynamic Data Driven Subscriptions in SSRS Without Enterprise Edition
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Dave Justice
 ## Title: Dynamic Data Driven Subscriptions in SSRS Without Enterprise Edition
@@ -144,7 +144,7 @@ By using these techniques we can simulate the power of Data Driven Subscriptions
 #  
 #### SessionID: 70966
 # Accelerating Development and Testing Using Data Virtualization
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Gorman
 ## Title: Accelerating Development and Testing Using Data Virtualization
@@ -159,7 +159,7 @@ Good, fast, and cheap -- have all three with data virtualization.  Be able to cl
 #  
 #### SessionID: 73007
 # The Power of Data:  The Complete Beginners Data Warehouse Kit
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data:  The Complete Beginners Data Warehouse Kit
@@ -168,7 +168,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 74155
 # Why is my DBA So Grumpy ... When I Use NOLOCK and Other Query Hints.
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Database  Application Development
 ## Speaker: Rick Lowe
 ## Title: Why is my DBA So Grumpy ... When I Use NOLOCK and Other Query Hints.
@@ -177,7 +177,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Database  Application D
 #  
 #### SessionID: 77060
 # Querying Semistructured Data in Azure Data Lake with USQL
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Cloud Analytics
 ## Speaker: Russel Loski
 ## Title: Querying Semistructured Data in Azure Data Lake with USQL
@@ -186,7 +186,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Cloud Analytics
 #  
 #### SessionID: 77256
 # Database Project Makes Deployment Consistent
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Database  Application Development
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
@@ -195,7 +195,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Database  Application D
 #  
 #### SessionID: 70928
 # Hi, my name is Powershell, let's be friends! An Intro to PoSH
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Hi, my name is Powershell, let's be friends! An Intro to PoSH
@@ -204,7 +204,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70943
 # Code Like a Snake Charmer - Intro to Python!
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Snake Charmer - Intro to Python!
@@ -226,7 +226,7 @@ No prior statistics knowledge needed.
 #  
 #### SessionID: 71337
 # Critical Path SQL
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Database  Application Development
 ## Speaker: Thane Schaffer
 ## Title: Critical Path SQL
@@ -235,7 +235,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Database  Application D
 #  
 #### SessionID: 73562
 # An Introduction to Power BI
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Introduction to SQL Server
 ## Speaker: Martin Schoombee
 ## Title: An Introduction to Power BI
@@ -244,7 +244,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Introduction to SQL Ser
 #  
 #### SessionID: 77081
 # Performance Tuning for Salary Negotiations
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Je'Anna Lanza-Abbott
 ## Title: Performance Tuning for Salary Negotiations
@@ -260,7 +260,7 @@ Participants will:
 #  
 #### SessionID: 77212
 # VLDB Tips and Migration Tactics
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Todd Kleinhans
 ## Title: VLDB Tips and Migration Tactics
@@ -269,7 +269,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70952
 # Make Power BI Your Own with the Power BI APIs
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Wake
 ## Title: Make Power BI Your Own with the Power BI APIs
@@ -278,7 +278,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 70982
 # SQL Server Take Over:  Establishing a Baseline
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lowry Kozlowski
 ## Title: SQL Server Take Over:  Establishing a Baseline
@@ -293,7 +293,7 @@ The server is running slowly... or is it? Slow compared to what?  Before you be
 #  
 #### SessionID: 72769
 # Challenges  Opportunities in Creating Accessible Power BI Reports
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Meagan Longoria
 ## Title: Challenges  Opportunities in Creating Accessible Power BI Reports
@@ -302,7 +302,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 74178
 # An Introduction to Azure
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Introduction to SQL Server
 ## Speaker: John Morehouse
 ## Title: An Introduction to Azure
@@ -311,7 +311,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Introduction to SQL Ser
 #  
 #### SessionID: 77280
 # The Anatomy of Select
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Database  Application Development
 ## Speaker: Jason Brimhall
 ## Title: The Anatomy of Select
@@ -324,7 +324,7 @@ This session will help the attendee better understand the Select statement. With
 #  
 #### SessionID: 77322
 # SQL Server Meets Big Data in the Cloud: Weather Edition
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Cloud Analytics
 ## Speaker: Rowland Gosling
 ## Title: SQL Server Meets Big Data in the Cloud: Weather Edition
@@ -333,7 +333,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Cloud Analytics
 #  
 #### SessionID: 70935
 # Power BI, from a DBA's Perspective
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: TJay Belt
 ## Title: Power BI, from a DBA's Perspective
@@ -344,7 +344,7 @@ As a DBA, we often need to collect and display data in a friendly and interactiv
 #  
 #### SessionID: 71232
 # Source Control and Database Projects - Just Do It
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Database  Application Development
 ## Speaker: Leslie Weed
 ## Title: Source Control and Database Projects - Just Do It
@@ -353,7 +353,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Database  Application D
 #  
 #### SessionID: 72067
 # Introduction to T-SQL Windowing Functions
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Database  Application Development
 ## Speaker: Kathi Kellenberger
 ## Title: Introduction to T-SQL Windowing Functions
@@ -364,7 +364,7 @@ Attend this session to learn how T-SQL windowing functions apply to many real wo
 #  
 #### SessionID: 77179
 # The Ultimate Maintenance Plan
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Edward Roepe
 ## Title: The Ultimate Maintenance Plan
@@ -377,7 +377,7 @@ At the end of this session you will be able to: (1) Choose a maintenance program
 #  
 #### SessionID: 80010
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#720---Albuquerque-2018)
+#### [Back to calendar](#SQLSaturday-#720-Albuquerque-2018)
 Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017

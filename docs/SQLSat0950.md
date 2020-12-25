@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 104236
 # KEYNOTE: The Next Decade in IT
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Admin
 ## Speaker: Richard Campbell
 ## Title: KEYNOTE: The Next Decade in IT
@@ -39,7 +39,7 @@ Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Admin
 #  
 #### SessionID: 100292
 # Educating yourself can make a SQL career more fulfilling and get you into a network of professionals
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Other
 ## Speaker: Chris Wood
 ## Title: Educating yourself can make a SQL career more fulfilling and get you into a network of professionals
@@ -52,7 +52,7 @@ It will also show how to make any conference more affordable and justify the ben
 #  
 #### SessionID: 101323
 # Migrating data to Azure
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Cloud
 ## Speaker: Melody Zacharias
 ## Title: Migrating data to Azure
@@ -61,7 +61,7 @@ Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Cloud
 #  
 #### SessionID: 101378
 # Using lessons from the Symantec Web in a Kimball Data Warehouse
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: BI
 ## Speaker: Robert Hart
 ## Title: Using lessons from the Symantec Web in a Kimball Data Warehouse
@@ -70,7 +70,7 @@ Event Date: 14-03-2020 - Session time: 14:45:00 - Track: BI
 #  
 #### SessionID: 104131
 # Power BI for the Faint of Heart - A look at tools and services that make up the Power BI landscape
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: BI
 ## Speaker: Scott Stauffer
 ## Title: Power BI for the Faint of Heart - A look at tools and services that make up the Power BI landscape
@@ -79,7 +79,7 @@ Event Date: 14-03-2020 - Session time: 14:45:00 - Track: BI
 #  
 #### SessionID: 99896
 # The Three Abilities of SQL Server Security
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Admin
 ## Speaker: Christopher Docherty
 ## Title: The Three Abilities of SQL Server Security
@@ -88,7 +88,7 @@ Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Admin
 #  
 #### SessionID: 100645
 # Using Columnstore indexes in Azure DevOps Services. Lessons learned
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Dev
 ## Speaker: Konstantin Kosinsky
 ## Title: Using Columnstore indexes in Azure DevOps Services. Lessons learned
@@ -107,7 +107,7 @@ Working on it, I've learned a lot of DOs and DON'Ts about columnstore indexes. S
 #  
 #### SessionID: 100805
 # DW + DevOps !!
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Dev
 ## Speaker: Sepand Gojgini
 ## Title: DW + DevOps !!
@@ -116,7 +116,7 @@ Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Dev
 #  
 #### SessionID: 99894
 # Special Agent Jenkins
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Admin
 ## Speaker: Kirill Kravtsov
 ## Title: Special Agent Jenkins
@@ -126,7 +126,7 @@ This session will talk about an alternative to SQL Server Agent that allows us t
 #  
 #### SessionID: 99931
 # Prep Your Data for Analytics with R and Power BI
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: BI
 ## Speaker: Joseph Yeates
 ## Title: Prep Your Data for Analytics with R and Power BI
@@ -135,7 +135,7 @@ Event Date: 14-03-2020 - Session time: 14:45:00 - Track: BI
 #  
 #### SessionID: 99932
 # Enabling Cloud Analytics with Azure Data Platform
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: BI
 ## Speaker: Dmitry Anoshin
 ## Title: Enabling Cloud Analytics with Azure Data Platform
@@ -154,7 +154,7 @@ This talk will help you understand the potential of Azure Cloud Analytics and le
 #  
 #### SessionID: 100729
 # Sponsored Session: VMWare - Virtualizing SQL Server on vSphere
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Admin
 ## Speaker: Brandon Leach
 ## Title: Sponsored Session: VMWare - Virtualizing SQL Server on vSphere
@@ -163,7 +163,7 @@ Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Admin
 #  
 #### SessionID: 102754
 # Sponsored Session: Redgate - Accomplishing DevOps with Redgate tools
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Admin
 ## Speaker: Hamish Watson
 ## Title: Sponsored Session: Redgate - Accomplishing DevOps with Redgate tools
@@ -176,7 +176,7 @@ The session contains a demonstration, that is based on a real-world system. And 
 #  
 #### SessionID: 103992
 # Sponsored Session: oh22 - HEDDA.IO - Data Quality in Action
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Admin
 ## Speaker: Oliver Engels
 ## Title: Sponsored Session: oh22 - HEDDA.IO - Data Quality in Action
@@ -185,7 +185,7 @@ Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Admin
 #  
 #### SessionID: 104279
 # Sponsored Session: Snowflake - The Modern Data Platform
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Cloud
 ## Speaker: Riaan Tischendorf
 ## Title: Sponsored Session: Snowflake - The Modern Data Platform
@@ -199,7 +199,7 @@ As a bonus, come learn how Snowflake enables customers to share relevant data in
 #  
 #### SessionID: 101444
 # Become #TeamProfilerandXE 2020 Update
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Admin
 ## Speaker: John Puttman
 ## Title: Become #TeamProfilerandXE 2020 Update
@@ -210,7 +210,7 @@ After this session you’ll be comfortable creating your own XE sessions and wil
 #  
 #### SessionID: 101995
 # M Is For Data Monkeys
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: BI
 ## Speaker: Ken Puls
 ## Title: M Is For Data Monkeys
@@ -221,7 +221,7 @@ In this session Ken will provide some simple M tricks to do amazing things. Buil
 #  
 #### SessionID: 104080
 # A metadata approach to fixed width files
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: BI
 ## Speaker: Russel Loski
 ## Title: A metadata approach to fixed width files
@@ -231,7 +231,7 @@ To demonstrate such an approach, I build an Excel file describing US census data
 #  
 #### SessionID: 99891
 # Test Driven Development in SQL Server – how to deploy code safer
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Dev
 ## Speaker: Hamish Watson
 ## Title: Test Driven Development in SQL Server – how to deploy code safer
@@ -247,7 +247,7 @@ A comprehensive DEMO will reveal how Test Driven Development can help you deploy
 #  
 #### SessionID: 99972
 # Azure Synapse Analytics - Intro
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Cloud
 ## Speaker: Rich Baumet
 ## Title: Azure Synapse Analytics - Intro
@@ -256,7 +256,7 @@ Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Cloud
 #  
 #### SessionID: 100312
 # Checking in with Power Apps, Flow and Power BI
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: BI
 ## Speaker: Asgeir Gunnarsson
 ## Title: Checking in with Power Apps, Flow and Power BI
@@ -269,7 +269,7 @@ The audience will take away useful information about Power Apps, Flow and Power 
 #  
 #### SessionID: 103802
 # Why should I care about ... the plan cache?
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Admin
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
@@ -280,7 +280,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #  
 #### SessionID: 104193
 # Strategic Management in Business Intelligence and Data Analytics
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: BI
 ## Speaker: Olga Gould
 ## Title: Strategic Management in Business Intelligence and Data Analytics
@@ -293,7 +293,7 @@ Managing core competence (capability that is valuable, rare and costly to imitat
 #  
 #### SessionID: 99866
 # Database administration through the ages
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Admin
 ## Speaker: Randolph West
 ## Title: Database administration through the ages
@@ -306,7 +306,7 @@ Then when you go back to work on Monday, you will have a starting point on how t
 #  
 #### SessionID: 99892
 # Turbocharge Your SQL Server with In-Memory Technologies
-#### [Back to calendar](#SQLSaturday-#950---Victoria-2020)
+#### [Back to calendar](#SQLSaturday-#950-Victoria-2020)
 Event Date: 14-03-2020 - Session time: 14:45:00 - Track: Admin
 ## Speaker: Pam Lahoud
 ## Title: Turbocharge Your SQL Server with In-Memory Technologies

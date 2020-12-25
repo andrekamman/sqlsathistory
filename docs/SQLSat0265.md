@@ -49,7 +49,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11074
 # ETL in a Nutshell with SSIS
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 7. Admin  Tools
 ## Speaker: Brett Tomson
 ## Title: ETL in a Nutshell with SSIS
@@ -58,7 +58,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 7. Admin  Tools
 #  
 #### SessionID: 11390
 # The Rise of the Flash Powered Economy
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 8. Cloud  Big Data
 ## Speaker: Chad  Chapman
 ## Title: The Rise of the Flash Powered Economy
@@ -67,7 +67,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 8. Cloud  Big Data
 #  
 #### SessionID: 11428
 # Lunch: Performance Troubleshooting with DMVs
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 2. Business Intelligence
 ## Speaker: Robert Davis
 ## Title: Lunch: Performance Troubleshooting with DMVs
@@ -76,7 +76,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 2. Business Intelligenc
 #  
 #### SessionID: 11798
 # Clear View: The power of Window Functions
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 4. Design
 ## Speaker: Constantin Klein
 ## Title: Clear View: The power of Window Functions
@@ -85,7 +85,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 4. Design
 #  
 #### SessionID: 12878
 # Life++: Data mining your life
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 6. Professional Development
 ## Speaker: Dan  Beutler 
 ## Title: Life++: Data mining your life
@@ -94,7 +94,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 6. Professional Develop
 #  
 #### SessionID: 13359
 # How to Create a Self-Managed SQL Server Utility without SQL Server Enterprise Edition
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 7. Admin  Tools
 ## Speaker: Carl Berglund
 ## Title: How to Create a Self-Managed SQL Server Utility without SQL Server Enterprise Edition
@@ -103,7 +103,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 7. Admin  Tools
 #  
 #### SessionID: 13964
 # PostgreSQL for the SQL Server Pro
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 8. Cloud  Big Data
 ## Speaker: Ed Snajder
 ## Title: PostgreSQL for the SQL Server Pro
@@ -114,7 +114,7 @@ I'll be demonstrating with Postgres 9.3 running on a CentOS 6.2 VM, if you would
 #  
 #### SessionID: 14727
 # Lunch -Common DBA Tasks
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 3. Performance
 ## Speaker: Jose Chinchilla
 ## Title: Lunch -Common DBA Tasks
@@ -123,7 +123,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 3. Performance
 #  
 #### SessionID: 14729
 # What to Look for in Execution Plans
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 3. Performance
 ## Speaker: Grant Fritchey
 ## Title: What to Look for in Execution Plans
@@ -132,7 +132,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 3. Performance
 #  
 #### SessionID: 14811
 # Alice's SQL Server DBA Training Plan
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 6. Professional Development
 ## Speaker: Greg Larsen
 ## Title: Alice's SQL Server DBA Training Plan
@@ -151,7 +151,7 @@ As Alice travels through SQL Server Land we will be watching Alice as she perfor
 #  
 #### SessionID: 15693
 # Extend Your Knowledge with Extended Events - Super Size
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 7. Admin  Tools
 ## Speaker: Janis Griffin
 ## Title: Extend Your Knowledge with Extended Events - Super Size
@@ -160,7 +160,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 7. Admin  Tools
 #  
 #### SessionID: 16590
 # Much Ado About Hadoop
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 8. Cloud  Big Data
 ## Speaker: Jeremiah Peschka
 ## Title: Much Ado About Hadoop
@@ -169,7 +169,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 8. Cloud  Big Data
 #  
 #### SessionID: 16634
 # Index Methods You're Not Using
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 3. Performance
 ## Speaker: Jes Schultz
 ## Title: Index Methods You're Not Using
@@ -179,7 +179,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 3. Performance
 #  
 #### SessionID: 16635
 # You CAN Give a Technical Presentation!
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 6. Professional Development
 ## Speaker: Jes Schultz
 ## Title: You CAN Give a Technical Presentation!
@@ -188,7 +188,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 6. Professional Develop
 #  
 #### SessionID: 16636
 # Technical Presentation Workshop
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 1. Fun Starts Here
 ## Speaker: Jes Schultz
 ## Title: Technical Presentation Workshop
@@ -197,7 +197,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 1. Fun Starts Here
 #  
 #### SessionID: 16911
 # Understanding Query Modes in Tabular Model
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 2. Business Intelligence
 ## Speaker: Julie Koesmarno
 ## Title: Understanding Query Modes in Tabular Model
@@ -208,7 +208,7 @@ Using live demo, this session will outline advantages and disadvantages between 
 #  
 #### SessionID: 17860
 # Hybrid cloud scenarios enabled in SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 8. Cloud  Big Data
 ## Speaker: Karthika Raman
 ## Title: Hybrid cloud scenarios enabled in SQL Server 2014
@@ -217,7 +217,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 8. Cloud  Big Data
 #  
 #### SessionID: 17964
 # DAX Evaluation Context
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 2. Business Intelligence
 ## Speaker: Jeffrey Wang
 ## Title: DAX Evaluation Context
@@ -226,7 +226,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 2. Business Intelligenc
 #  
 #### SessionID: 19170
 # How to Find Bad Queries, Fast
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 3. Performance
 ## Speaker: Kendra Little
 ## Title: How to Find Bad Queries, Fast
@@ -235,7 +235,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 3. Performance
 #  
 #### SessionID: 19857
 # Power BI, Information Management, and Data Stewardship
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 9. New Features
 ## Speaker: Matthew  Roche 
 ## Title: Power BI, Information Management, and Data Stewardship
@@ -245,7 +245,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 9. New Features
 #  
 #### SessionID: 20450
 # Deadlocks: What to do about the dreaded 1205
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 5. T-SQL
 ## Speaker: Michael DeFehr
 ## Title: Deadlocks: What to do about the dreaded 1205
@@ -254,7 +254,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 5. T-SQL
 #  
 #### SessionID: 21536
 # Power BI - The self service BI Lifecycle in the cloud
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 8. Cloud  Big Data
 ## Speaker: Oliver Engels
 ## Title: Power BI - The self service BI Lifecycle in the cloud
@@ -263,7 +263,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 8. Cloud  Big Data
 #  
 #### SessionID: 21827
 # BI Expert Panel - Part 1
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 2. Business Intelligence
 ## Speaker: Paul Turley
 ## Title: BI Expert Panel - Part 1
@@ -272,7 +272,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 2. Business Intelligenc
 #  
 #### SessionID: 21828
 # BI Expert Panel - Part 2
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 2. Business Intelligence
 ## Speaker: Paul Turley
 ## Title: BI Expert Panel - Part 2
@@ -281,7 +281,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 2. Business Intelligenc
 #  
 #### SessionID: 21952
 # Mastering the Excel CUBE Functions
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 2. Business Intelligence
 ## Speaker: Peter Myers
 ## Title: Mastering the Excel CUBE Functions
@@ -290,7 +290,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 2. Business Intelligenc
 #  
 #### SessionID: 23120
 # SSIS 2012 Management Considerations and Best Practices
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 7. Admin  Tools
 ## Speaker: Rushabh Mehta
 ## Title: SSIS 2012 Management Considerations and Best Practices
@@ -299,7 +299,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 7. Admin  Tools
 #  
 #### SessionID: 23376
 # The Things You Don't Think About...
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 5. T-SQL
 ## Speaker: Rob  Vieira 
 ## Title: The Things You Don't Think About...
@@ -308,7 +308,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 5. T-SQL
 #  
 #### SessionID: 24353
 # Query Optimizer and Statsitics
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 3. Performance
 ## Speaker: Sergey Olontsev
 ## Title: Query Optimizer and Statsitics
@@ -317,7 +317,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 3. Performance
 #  
 #### SessionID: 24354
 # Overview of In-Memory OLTP feature (Hekaton) in SQL Server 2014 CTP
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 9. New Features
 ## Speaker: Sergey Olontsev
 ## Title: Overview of In-Memory OLTP feature (Hekaton) in SQL Server 2014 CTP
@@ -326,7 +326,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 9. New Features
 #  
 #### SessionID: 24496
 # The Encryption Primer
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 4. Design
 ## Speaker: Steve Jones
 ## Title: The Encryption Primer
@@ -335,7 +335,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 4. Design
 #  
 #### SessionID: 24497
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 6. Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -344,7 +344,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 6. Professional Develop
 #  
 #### SessionID: 24503
 # A Database Deployment Roundtable
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 7. Admin  Tools
 ## Speaker: Steve Jones
 ## Title: A Database Deployment Roundtable
@@ -353,7 +353,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 7. Admin  Tools
 #  
 #### SessionID: 24748
 # Data Quality: Tools and Techniques to Improve Data Quality
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 7. Admin  Tools
 ## Speaker: Steve Moss
 ## Title: Data Quality: Tools and Techniques to Improve Data Quality
@@ -367,7 +367,7 @@ Companies spend considerable time and money making sure financial data is comple
 #  
 #### SessionID: 24853
 # Developers vs. DBA's:  Cats  Dogs
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 9. New Features
 ## Speaker: David Moutray
 ## Title: Developers vs. DBA's:  Cats  Dogs
@@ -376,7 +376,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 9. New Features
 #  
 #### SessionID: 25748
 # Common Table Expressions - Introduction
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 5. T-SQL
 ## Speaker: Steve Stedman
 ## Title: Common Table Expressions - Introduction
@@ -385,7 +385,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 5. T-SQL
 #  
 #### SessionID: 25749
 # Common Table Expressions - Advanced
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 5. T-SQL
 ## Speaker: Steve Stedman
 ## Title: Common Table Expressions - Advanced
@@ -394,7 +394,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 5. T-SQL
 #  
 #### SessionID: 25951
 # Advanced Data Visualization with SQL Server Report
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 8. Cloud  Big Data
 ## Speaker: Tillmann Eitelberg
 ## Title: Advanced Data Visualization with SQL Server Report
@@ -403,7 +403,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 8. Cloud  Big Data
 #  
 #### SessionID: 26867
 # High IO, High IO, It's a Case Study Yo Ho!
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 3. Performance
 ## Speaker: Tim Ford
 ## Title: High IO, High IO, It's a Case Study Yo Ho!
@@ -412,7 +412,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 3. Performance
 #  
 #### SessionID: 27377
 # The Significance of Choosing and Using Data Types
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 4. Design
 ## Speaker: Vern Rabe
 ## Title: The Significance of Choosing and Using Data Types
@@ -421,7 +421,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 4. Design
 #  
 #### SessionID: 27420
 # What Developers Need to Know About Hekaton
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 9. New Features
 ## Speaker: Victor Isakov
 ## Title: What Developers Need to Know About Hekaton
@@ -430,7 +430,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 9. New Features
 #  
 #### SessionID: 8838
 # SQL Server Database Development with SSDT
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 9. New Features
 ## Speaker: Aaron Nelson
 ## Title: SQL Server Database Development with SSDT
@@ -439,7 +439,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 9. New Features
 #  
 #### SessionID: 9372
 # Physical Join Operators
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 4. Design
 ## Speaker: Ami Levin
 ## Title: Physical Join Operators
@@ -448,7 +448,7 @@ Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 4. Design
 #  
 #### SessionID: 9373
 # Where did I put my (primary) keys?
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 4. Design
 ## Speaker: Ami Levin
 ## Title: Where did I put my (primary) keys?
@@ -458,7 +458,7 @@ We will consider the benefits and challenges of using different types of keys - 
 #  
 #### SessionID: 9864
 # Stop Schemers with Schema Security
-#### [Back to calendar](#SQLSaturday-#265---Oregon-2013)
+#### [Back to calendar](#SQLSaturday-#265-Oregon-2013)
 Event Date: 16-11-2013 - Session time: 00:00:00 - Track: 5. T-SQL
 ## Speaker: Arnie Rowland
 ## Title: Stop Schemers with Schema Security

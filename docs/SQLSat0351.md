@@ -11,7 +11,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11371
 # Practicas más dañinas en T-SQL
-#### [Back to calendar](#SQLSaturday-#351---Lima-2014)
+#### [Back to calendar](#SQLSaturday-#351-Lima-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Oficinas Microsoft Perú, Lima
 ## Speaker: Carlos  Casaverde
 ## Title: Practicas más dañinas en T-SQL
@@ -20,7 +20,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Oficinas Microsoft Per�
 #  
 #### SessionID: 14402
 # Backup and Restore SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#351---Lima-2014)
+#### [Back to calendar](#SQLSaturday-#351-Lima-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Oficinas Microsoft Perú, Lima
 ## Speaker: German Cayo
 ## Title: Backup and Restore SQL Server 2014
@@ -29,7 +29,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Oficinas Microsoft Per�
 #  
 #### SessionID: 17836
 # Rompiendo el hielo con Code First y SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#351---Lima-2014)
+#### [Back to calendar](#SQLSaturday-#351-Lima-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Oficinas Microsoft Perú, Lima
 ## Speaker: Kai Clemente
 ## Title: Rompiendo el hielo con Code First y SQL Server 2014
@@ -38,7 +38,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Oficinas Microsoft Per�
 #  
 #### SessionID: 21929
 # Rendimiento del In-Memory OLTP Engine en SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#351---Lima-2014)
+#### [Back to calendar](#SQLSaturday-#351-Lima-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Oficinas Microsoft Perú, Lima
 ## Speaker: Percy Reyes
 ## Title: Rendimiento del In-Memory OLTP Engine en SQL Server 2014
@@ -47,7 +47,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Oficinas Microsoft Per�
 #  
 #### SessionID: 9793
 # Secure Your SQL Server Instance Without Changing Any Code
-#### [Back to calendar](#SQLSaturday-#351---Lima-2014)
+#### [Back to calendar](#SQLSaturday-#351-Lima-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Oficinas Microsoft Perú, Lima
 ## Speaker: Argenis Fernandez
 ## Title: Secure Your SQL Server Instance Without Changing Any Code
@@ -56,7 +56,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Oficinas Microsoft Per�
 #  
 #### SessionID: 9794
 # Making DBCC CHECKDB Go Faster
-#### [Back to calendar](#SQLSaturday-#351---Lima-2014)
+#### [Back to calendar](#SQLSaturday-#351-Lima-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Oficinas Microsoft Perú, Lima
 ## Speaker: Argenis Fernandez
 ## Title: Making DBCC CHECKDB Go Faster

@@ -55,7 +55,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10400
 # Pivoting Performance Data  Pinpointing Problems
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV / DBA
 ## Speaker: Brian Flynn
 ## Title: Pivoting Performance Data  Pinpointing Problems
@@ -65,7 +65,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV / DBA
 #  
 #### SessionID: 10617
 # Data Quality Services and SSIS
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / BID
 ## Speaker: Brad Baker
 ## Title: Data Quality Services and SSIS
@@ -74,7 +74,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / BID
 #  
 #### SessionID: 11334
 # Enterprise Tabular Models
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Carlos Bossy
 ## Title: Enterprise Tabular Models
@@ -83,7 +83,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 11335
 # Predictive Modeling with SQL Server Data Mining
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Carlos Bossy
 ## Title: Predictive Modeling with SQL Server Data Mining
@@ -92,7 +92,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 11495
 # Interview Tips
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Chris Shaw
 ## Title: Interview Tips
@@ -105,7 +105,7 @@ Have you been tasked with conducting an interview?  We will complete the session
 #  
 #### SessionID: 11496
 # "What is the Best Disaster Recovery Solution?"
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Chris Shaw
 ## Title: "What is the Best Disaster Recovery Solution?"
@@ -114,7 +114,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 11756
 # Delphix Agile Data Management
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV
 ## Speaker: Colin Smith
 ## Title: Delphix Agile Data Management
@@ -123,7 +123,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV
 #  
 #### SessionID: 11757
 # Intermediate Powershell for the DBA
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV / DBA
 ## Speaker: Colin Smith
 ## Title: Intermediate Powershell for the DBA
@@ -132,7 +132,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV / DBA
 #  
 #### SessionID: 12724
 # Matching and Survivorship
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV
 ## Speaker: David Eichner
 ## Title: Matching and Survivorship
@@ -141,7 +141,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV
 #  
 #### SessionID: 13403
 # A Heart ot Heart with the Business User
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Azure Big Data Prof Dev
 ## Speaker: Dave Pettengill
 ## Title: A Heart ot Heart with the Business User
@@ -152,7 +152,7 @@ Attendees will gain an understanding of how to initiate conversations and begin 
 #  
 #### SessionID: 13404
 # Virtualizing Business Critical SQL Servers
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Dave Pettengill
 ## Title: Virtualizing Business Critical SQL Servers
@@ -161,7 +161,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17481
 # Global Address Data: Storage and Verification
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV
 ## Speaker: Joseph Verftido
 ## Title: Global Address Data: Storage and Verification
@@ -170,7 +170,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV
 #  
 #### SessionID: 17499
 # SSRS – Implementing a Rendering Extension
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BID
 ## Speaker: Josh Sivey
 ## Title: SSRS – Implementing a Rendering Extension
@@ -179,7 +179,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BID
 #  
 #### SessionID: 17500
 # Unit Testing your SQL Server database using tSQLt
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV
 ## Speaker: Josh Sivey
 ## Title: Unit Testing your SQL Server database using tSQLt
@@ -188,7 +188,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV
 #  
 #### SessionID: 17978
 # Best Practices for Monitoring Databases on VMware
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kathy  Gibbs
 ## Title: Best Practices for Monitoring Databases on VMware
@@ -197,7 +197,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17979
 # Extend your Knowledge with Extended Events
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / DBA
 ## Speaker: Kathy  Gibbs
 ## Title: Extend your Knowledge with Extended Events
@@ -208,7 +208,7 @@ new Event and I will show you how you can use the data collected to report commo
 #  
 #### SessionID: 17989
 # Case studies of Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kat Long
 ## Title: Case studies of Disaster Recovery
@@ -217,7 +217,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 19338
 # Designing SSAS for performance and scalability.
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA/BIA
 ## Speaker: Matt Smith
 ## Title: Designing SSAS for performance and scalability.
@@ -236,7 +236,7 @@ Topics include:
 #  
 #### SessionID: 19749
 # The 10 Commandments of ETL
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA/BIA
 ## Speaker: Martin Schoombee
 ## Title: The 10 Commandments of ETL
@@ -247,7 +247,7 @@ In this session I will share the 10 basic principles I follow when developing ET
 #  
 #### SessionID: 20139
 # PowerShell for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mark Halstead
 ## Title: PowerShell for the SQL Server DBA
@@ -256,7 +256,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 21592
 # SSAS 2012 Dynamic Security in Tabular Models 
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Orion Gebremedhin
 ## Title: SSAS 2012 Dynamic Security in Tabular Models 
@@ -265,7 +265,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 21593
 # MDX For Reporting
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BID
 ## Speaker: Orion Gebremedhin
 ## Title: MDX For Reporting
@@ -274,7 +274,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BID
 #  
 #### SessionID: 21696
 # Spatial Data in SQL Server Reporting Services
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BID
 ## Speaker: Nate Locklin
 ## Title: Spatial Data in SQL Server Reporting Services
@@ -283,7 +283,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BID
 #  
 #### SessionID: 21845
 # Visualization Choices: What, When, and How?
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BID
 ## Speaker: Paul Turley
 ## Title: Visualization Choices: What, When, and How?
@@ -292,7 +292,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BID
 #  
 #### SessionID: 21846
 # Use a custom assembly to extend reports  queries
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BID
 ## Speaker: Paul Turley
 ## Title: Use a custom assembly to extend reports  queries
@@ -301,7 +301,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BID
 #  
 #### SessionID: 22508
 # Understanding Transaction Isolation Levels
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / DBA
 ## Speaker: Randy Knight
 ## Title: Understanding Transaction Isolation Levels
@@ -311,7 +311,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / DBA
 #  
 #### SessionID: 22509
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV / DBA
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -321,7 +321,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV / DBA
 #  
 #### SessionID: 22769
 # Get Into Evaluation Context with DAX, the Language of PowerPivot
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / DBA
 ## Speaker: Reeves Smith
 ## Title: Get Into Evaluation Context with DAX, the Language of PowerPivot
@@ -330,7 +330,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / DBA
 #  
 #### SessionID: 22770
 # Master Data Services – 101
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / BID
 ## Speaker: Reeves Smith
 ## Title: Master Data Services – 101
@@ -339,7 +339,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / BID
 #  
 #### SessionID: 22882
 # Tabular Models
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA/BIA
 ## Speaker: Jeff Renz
 ## Title: Tabular Models
@@ -348,7 +348,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA/BIA
 #  
 #### SessionID: 22883
 # Data Vault Data Warehouse Architecture
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Jeff Renz
 ## Title: Data Vault Data Warehouse Architecture
@@ -357,7 +357,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 23085
 # Secret life of windowing functions
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV
 ## Speaker: Robert Miller
 ## Title: Secret life of windowing functions
@@ -366,7 +366,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV
 #  
 #### SessionID: 23086
 # You got an OVER clause in my SQL.
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV
 ## Speaker: Robert Miller
 ## Title: You got an OVER clause in my SQL.
@@ -375,7 +375,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV
 #  
 #### SessionID: 23564
 # PowerPivot and Power View for the Business Analyst
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / BID
 ## Speaker: Russ Burns
 ## Title: PowerPivot and Power View for the Business Analyst
@@ -384,7 +384,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / BID
 #  
 #### SessionID: 23565
 # Why SSRS/SharePoint Integration Is Worth The Pain
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / BID
 ## Speaker: Russ Burns
 ## Title: Why SSRS/SharePoint Integration Is Worth The Pain
@@ -393,7 +393,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / BID
 #  
 #### SessionID: 23705
 # Introduction to SQL executions plans
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA/BIA
 ## Speaker: Ryan McCauley
 ## Title: Introduction to SQL executions plans
@@ -402,7 +402,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA/BIA
 #  
 #### SessionID: 24146
 # Kung Fu Migration to Windows Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Azure Big Data Prof Dev
 ## Speaker: Scott Klein
 ## Title: Kung Fu Migration to Windows Azure SQL Database
@@ -411,7 +411,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Azure Big Data Prof Dev
 #  
 #### SessionID: 24148
 # Cloud Database Scalability with SQL Federation
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Azure Big Data Prof Dev
 ## Speaker: Scott Klein
 ## Title: Cloud Database Scalability with SQL Federation
@@ -420,7 +420,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Azure Big Data Prof Dev
 #  
 #### SessionID: 24623
 # OnPremise to Azure
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Azure Big Data Prof Dev
 ## Speaker: Shannon Lowder
 ## Title: OnPremise to Azure
@@ -429,7 +429,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Azure Big Data Prof Dev
 #  
 #### SessionID: 24708
 # A Big Data Primer
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Azure Big Data Prof Dev
 ## Speaker: Stacia Varga
 ## Title: A Big Data Primer
@@ -438,7 +438,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: Azure Big Data Prof Dev
 #  
 #### SessionID: 24709
 # Taking BI to the Next Level: Collaboration
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / BID
 ## Speaker: Stacia Varga
 ## Title: Taking BI to the Next Level: Collaboration
@@ -447,7 +447,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / BID
 #  
 #### SessionID: 24944
 # Report Delivery - From Report Manager to the Cloud
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BID
 ## Speaker: Phil Robinson
 ## Title: Report Delivery - From Report Manager to the Cloud
@@ -456,7 +456,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BID
 #  
 #### SessionID: 26237
 # Indexing Deep Dive 
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA
 ## Speaker: Kevin Boles
 ## Title: Indexing Deep Dive 
@@ -465,7 +465,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 26238
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA/BIA
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -474,7 +474,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA/BIA
 #  
 #### SessionID: 26241
 # File IO Stalls and Wait Stats - Tune Like Guru!
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV / DBA
 ## Speaker: Kevin Boles
 ## Title: File IO Stalls and Wait Stats - Tune Like Guru!
@@ -483,7 +483,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV / DBA
 #  
 #### SessionID: 27375
 # The Significance of Choosing and Using Data Types
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV / DBA
 ## Speaker: Vern Rabe
 ## Title: The Significance of Choosing and Using Data Types
@@ -492,7 +492,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: APP DEV / DBA
 #  
 #### SessionID: 27376
 # Columnstore Indexes in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / DBA
 ## Speaker: Vern Rabe
 ## Title: Columnstore Indexes in SQL Server 2012
@@ -501,7 +501,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / DBA
 #  
 #### SessionID: 28072
 # Possible Musics:  SSAS Multidimensional vs Tabular
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA
 ## Speaker: William E Pearson III
 ## Title: Possible Musics:  SSAS Multidimensional vs Tabular
@@ -510,7 +510,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA
 #  
 #### SessionID: 28074
 # Getting Started with MDX:  The (Very) Basics
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / DBA
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX:  The (Very) Basics
@@ -519,7 +519,7 @@ Event Date: 27-04-2013 - Session time: 00:00:00 - Track: BIA / DBA
 #  
 #### SessionID: 9483
 # SQL Server Data Tools Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#193---Phoenix-2013)
+#### [Back to calendar](#SQLSaturday-#193-Phoenix-2013)
 Event Date: 27-04-2013 - Session time: 00:00:00 - Track: DBA/BIA
 ## Speaker: Andrew Duclos
 ## Title: SQL Server Data Tools Tips and Tricks

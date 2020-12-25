@@ -15,7 +15,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 15200
 # T-SQL Performance Guidelines for better DB stress 
-#### [Back to calendar](#SQLSaturday-#208---Riyadh-2013)
+#### [Back to calendar](#SQLSaturday-#208-Riyadh-2013)
 Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for better DB stress 
@@ -24,7 +24,7 @@ Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 15385
 # Analyzing Twitter Data
-#### [Back to calendar](#SQLSaturday-#208---Riyadh-2013)
+#### [Back to calendar](#SQLSaturday-#208-Riyadh-2013)
 Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Niko Neugebauer
 ## Title: Analyzing Twitter Data
@@ -33,7 +33,7 @@ Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15386
 # Inheriting a database for Developers, version 2
-#### [Back to calendar](#SQLSaturday-#208---Riyadh-2013)
+#### [Back to calendar](#SQLSaturday-#208-Riyadh-2013)
 Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Niko Neugebauer
 ## Title: Inheriting a database for Developers, version 2
@@ -42,7 +42,7 @@ Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16089
 # SQL Performance on Powerful Hardware
-#### [Back to calendar](#SQLSaturday-#208---Riyadh-2013)
+#### [Back to calendar](#SQLSaturday-#208-Riyadh-2013)
 Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Joe Chang
 ## Title: SQL Performance on Powerful Hardware
@@ -51,7 +51,7 @@ Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16090
 # Elements of Storage Performance
-#### [Back to calendar](#SQLSaturday-#208---Riyadh-2013)
+#### [Back to calendar](#SQLSaturday-#208-Riyadh-2013)
 Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Joe Chang
 ## Title: Elements of Storage Performance
@@ -60,7 +60,7 @@ Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20998
 # .NET and WCF Transactions for SQL Resource Manager
-#### [Back to calendar](#SQLSaturday-#208---Riyadh-2013)
+#### [Back to calendar](#SQLSaturday-#208-Riyadh-2013)
 Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mohamad Halabi
 ## Title: .NET and WCF Transactions for SQL Resource Manager
@@ -69,7 +69,7 @@ Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21288
 # NoSQL, an Introduction
-#### [Back to calendar](#SQLSaturday-#208---Riyadh-2013)
+#### [Back to calendar](#SQLSaturday-#208-Riyadh-2013)
 Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Nabeel Derhem
 ## Title: NoSQL, an Introduction
@@ -78,7 +78,7 @@ Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 23997
 # A Tour in The Indexing World!
-#### [Back to calendar](#SQLSaturday-#208---Riyadh-2013)
+#### [Back to calendar](#SQLSaturday-#208-Riyadh-2013)
 Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Hossam Alfraih
 ## Title: A Tour in The Indexing World!
@@ -87,7 +87,7 @@ Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24994
 # SQL Server Data platform upgrade Techniques, best practices  notes from the field
-#### [Back to calendar](#SQLSaturday-#208---Riyadh-2013)
+#### [Back to calendar](#SQLSaturday-#208-Riyadh-2013)
 Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Satya Jayanty
 ## Title: SQL Server Data platform upgrade Techniques, best practices  notes from the field
@@ -99,7 +99,7 @@ In this session, we will overview end-to-end upgrade process that covers the ess
 #  
 #### SessionID: 27174
 # SQL Server 2012 Parallel Data Warehouse Appliance
-#### [Back to calendar](#SQLSaturday-#208---Riyadh-2013)
+#### [Back to calendar](#SQLSaturday-#208-Riyadh-2013)
 Event Date: 23-05-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Umit Tiric
 ## Title: SQL Server 2012 Parallel Data Warehouse Appliance

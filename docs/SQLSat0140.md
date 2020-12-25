@@ -15,7 +15,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10411
 # Accelerated BI Growth with Power View  PowerPivot
-#### [Back to calendar](#SQLSaturday-#140---Perth-2012)
+#### [Back to calendar](#SQLSaturday-#140-Perth-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Bhavik Merchant
 ## Title: Accelerated BI Growth with Power View  PowerPivot
@@ -24,7 +24,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 10412
 # Migrating Config and Deployment to SSIS 2012
-#### [Back to calendar](#SQLSaturday-#140---Perth-2012)
+#### [Back to calendar](#SQLSaturday-#140-Perth-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Bhavik Merchant
 ## Title: Migrating Config and Deployment to SSIS 2012
@@ -33,7 +33,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 14828
 # Better Together: Merge, Partitioning, ColumnStore 
-#### [Back to calendar](#SQLSaturday-#140---Perth-2012)
+#### [Back to calendar](#SQLSaturday-#140-Perth-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SQL Server
 ## Speaker: Greg Low
 ## Title: Better Together: Merge, Partitioning, ColumnStore 
@@ -42,7 +42,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SQL Server
 #  
 #### SessionID: 21519
 # DBCA - Database Consolidation Appliance
-#### [Back to calendar](#SQLSaturday-#140---Perth-2012)
+#### [Back to calendar](#SQLSaturday-#140-Perth-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SQL Server
 ## Speaker: Raja N
 ## Title: DBCA - Database Consolidation Appliance
@@ -51,7 +51,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SQL Server
 #  
 #### SessionID: 22060
 # If you had $10K what would you spend it on?
-#### [Back to calendar](#SQLSaturday-#140---Perth-2012)
+#### [Back to calendar](#SQLSaturday-#140-Perth-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SQL Server
 ## Speaker: Peter Ward
 ## Title: If you had $10K what would you spend it on?
@@ -61,7 +61,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SQL Server
 #  
 #### SessionID: 22380
 # Tabular Modelling and Design Concepts
-#### [Back to calendar](#SQLSaturday-#140---Perth-2012)
+#### [Back to calendar](#SQLSaturday-#140-Perth-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Paul te Braak
 ## Title: Tabular Modelling and Design Concepts
@@ -70,7 +70,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 22381
 # Golden Nuggets 
-#### [Back to calendar](#SQLSaturday-#140---Perth-2012)
+#### [Back to calendar](#SQLSaturday-#140-Perth-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Paul te Braak
 ## Title: Golden Nuggets 
@@ -79,7 +79,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 23189
 # Analytic T-SQL Functions in 2012
-#### [Back to calendar](#SQLSaturday-#140---Perth-2012)
+#### [Back to calendar](#SQLSaturday-#140-Perth-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SQL Server
 ## Speaker: Rob Farley
 ## Title: Analytic T-SQL Functions in 2012
@@ -88,7 +88,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SQL Server
 #  
 #### SessionID: 23192
 # The MERGE Statement - T-SQL's Swiss Army Knife
-#### [Back to calendar](#SQLSaturday-#140---Perth-2012)
+#### [Back to calendar](#SQLSaturday-#140-Perth-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SQL Server
 ## Speaker: Rob Farley
 ## Title: The MERGE Statement - T-SQL's Swiss Army Knife
@@ -97,7 +97,7 @@ Event Date: 28-04-2012 - Session time: 00:00:00 - Track: SQL Server
 #  
 #### SessionID: 9062
 # X-ray Vision For SQL Server Error Logs
-#### [Back to calendar](#SQLSaturday-#140---Perth-2012)
+#### [Back to calendar](#SQLSaturday-#140-Perth-2012)
 Event Date: 28-04-2012 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Peter O'Gorman
 ## Title: X-ray Vision For SQL Server Error Logs

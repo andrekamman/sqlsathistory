@@ -47,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10038
 # Automate Your ETL Infrastructure with SSIS and PowerShell
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track:  Auditorium
 ## Speaker: Allen White
 ## Title: Automate Your ETL Infrastructure with SSIS and PowerShell
@@ -56,7 +56,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track:  Auditorium
 #  
 #### SessionID: 10246
 # Be Friendly to SQL Server with TSQL Best Practices
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track:  Auditorium
 ## Speaker: Ben Miller
 ## Title: Be Friendly to SQL Server with TSQL Best Practices
@@ -65,7 +65,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track:  Auditorium
 #  
 #### SessionID: 10668
 # Wrangling performance with Resource Governor
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 6
 ## Speaker: Brandon Leach
 ## Title: Wrangling performance with Resource Governor
@@ -74,7 +74,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 6
 #  
 #### SessionID: 11115
 # BIML--Step by Step
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 1
 ## Speaker: Julie Smith
 ## Title: BIML--Step by Step
@@ -83,7 +83,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 1
 #  
 #### SessionID: 11403
 # SQL Server Transaction Log Internals
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 1
 ## Speaker: Tim Chapman
 ## Title: SQL Server Transaction Log Internals
@@ -92,7 +92,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 1
 #  
 #### SessionID: 11766
 # SQL Audit - auditing doesn't have to be boring
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 2
 ## Speaker: Colleen Morrow
 ## Title: SQL Audit - auditing doesn't have to be boring
@@ -101,7 +101,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 2
 #  
 #### SessionID: 11876
 # SSIS Olympics
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 6
 ## Speaker: Cory Stevenson
 ## Title: SSIS Olympics
@@ -110,7 +110,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 6
 #  
 #### SessionID: 12008
 # Simplify your infrastructure with Managed Service Accounts
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 6
 ## Speaker: Craig Purnell
 ## Title: Simplify your infrastructure with Managed Service Accounts
@@ -119,7 +119,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 6
 #  
 #### SessionID: 13319
 # DBA 911 - Database Corruption
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 4
 ## Speaker: David Maxwell
 ## Title: DBA 911 - Database Corruption
@@ -129,7 +129,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 4
 #  
 #### SessionID: 13936
 # Making the Leap from Profiler to Extended Events
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 3
 ## Speaker: Erin Stellato
 ## Title: Making the Leap from Profiler to Extended Events
@@ -138,7 +138,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 3
 #  
 #### SessionID: 14739
 # Statistics and Query Optimization
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 1
 ## Speaker: Grant Fritchey
 ## Title: Statistics and Query Optimization
@@ -147,7 +147,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 1
 #  
 #### SessionID: 14998
 # Spatial Data: Cooler Than You'd Think!
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 4
 ## Speaker: Hope Foley
 ## Title: Spatial Data: Cooler Than You'd Think!
@@ -156,7 +156,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 4
 #  
 #### SessionID: 16043
 # Hierarchies... on Steroids the No RBAR Way
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 6
 ## Speaker: Jeff Moden
 ## Title: Hierarchies... on Steroids the No RBAR Way
@@ -165,7 +165,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 6
 #  
 #### SessionID: 16192
 # SQL 2012 -- All About HA and DR
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 3
 ## Speaker: Joseph D'Antoni
 ## Title: SQL 2012 -- All About HA and DR
@@ -174,7 +174,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 3
 #  
 #### SessionID: 16193
 # In-Memory Columnstore Indexes--Make Your Data Warehouse Fly 
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 3
 ## Speaker: Joseph D'Antoni
 ## Title: In-Memory Columnstore Indexes--Make Your Data Warehouse Fly 
@@ -183,7 +183,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 3
 #  
 #### SessionID: 16275
 # A Tour of Power BI: Pivot, View, Query, and Map
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 5
 ## Speaker: Jeff Mlakar
 ## Title: A Tour of Power BI: Pivot, View, Query, and Map
@@ -192,7 +192,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 5
 #  
 #### SessionID: 18064
 # Discover, Document,  Diagnose Your Servers on Your Coffee Break
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track:  Auditorium
 ## Speaker: Kendal Van Dyke
 ## Title: Discover, Document,  Diagnose Your Servers on Your Coffee Break
@@ -206,7 +206,7 @@ Attend this session and walk away with everything you need to generate documenta
 #  
 #### SessionID: 18065
 # Building Your Own SQL Server Virtual Playground
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 5
 ## Speaker: Kendal Van Dyke
 ## Title: Building Your Own SQL Server Virtual Playground
@@ -215,7 +215,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 5
 #  
 #### SessionID: 18406
 # Writing Better Queries with T-SQL Window Functions
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 3
 ## Speaker: Kathi Kellenberger
 ## Title: Writing Better Queries with T-SQL Window Functions
@@ -224,7 +224,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 3
 #  
 #### SessionID: 18548
 # Performance Tuning - Analyzing Execution Plans
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 2
 ## Speaker: Konstantin Melamud
 ## Title: Performance Tuning - Analyzing Execution Plans
@@ -235,7 +235,7 @@ In this presentation, we will identify what indexes are being used by the SQL Op
 #  
 #### SessionID: 19162
 # Code Management with SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 4
 ## Speaker: Lisa Gardner
 ## Title: Code Management with SQL Server Data Tools
@@ -244,7 +244,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 4
 #  
 #### SessionID: 19637
 # MDX Trek: First Contact
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 5
 ## Speaker: Mark Vaillancourt
 ## Title: MDX Trek: First Contact
@@ -253,7 +253,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 5
 #  
 #### SessionID: 19638
 # DANGER: The Art and Science of Presenting
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 5
 ## Speaker: Mark Vaillancourt
 ## Title: DANGER: The Art and Science of Presenting
@@ -262,7 +262,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 5
 #  
 #### SessionID: 20767
 # SQL Server Bingo – Install, Migration  Config
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 2
 ## Speaker: Mindy Curnutt
 ## Title: SQL Server Bingo – Install, Migration  Config
@@ -271,7 +271,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 2
 #  
 #### SessionID: 22102
 # The Evils of Cursors 
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 6
 ## Speaker: Paul Hiles
 ## Title: The Evils of Cursors 
@@ -280,7 +280,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 6
 #  
 #### SessionID: 22651
 # Getting Started with Hekaton (In-Memory OLTP)
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 2
 ## Speaker: Brian Davis
 ## Title: Getting Started with Hekaton (In-Memory OLTP)
@@ -289,7 +289,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 2
 #  
 #### SessionID: 23858
 # 14 New T-SQL Functions
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 4
 ## Speaker: Sam Nasr
 ## Title: 14 New T-SQL Functions
@@ -298,7 +298,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 4
 #  
 #### SessionID: 24509
 # The Encryption Primer
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 3
 ## Speaker: Steve Jones
 ## Title: The Encryption Primer
@@ -307,7 +307,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 3
 #  
 #### SessionID: 24510
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 3
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -316,7 +316,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 3
 #  
 #### SessionID: 24664
 # Reduce, Reuse, Recycle: Automating Your BI Framework
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track:  Auditorium
 ## Speaker: Stacia Varga
 ## Title: Reduce, Reuse, Recycle: Automating Your BI Framework
@@ -325,7 +325,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track:  Auditorium
 #  
 #### SessionID: 24665
 # A Big Data Primer
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 1
 ## Speaker: Stacia Varga
 ## Title: A Big Data Primer
@@ -334,7 +334,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 1
 #  
 #### SessionID: 25138
 # Query Performance Tuning: A 12 Step Program
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track:  Auditorium
 ## Speaker: Thomas LaRock
 ## Title: Query Performance Tuning: A 12 Step Program
@@ -343,7 +343,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track:  Auditorium
 #  
 #### SessionID: 25139
 # Database Design: Size DOES Matter
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 1
 ## Speaker: Thomas LaRock
 ## Title: Database Design: Size DOES Matter
@@ -352,7 +352,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 1
 #  
 #### SessionID: 25799
 # Monitoring and Baselines
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 4
 ## Speaker: Steve Hood
 ## Title: Monitoring and Baselines
@@ -363,7 +363,7 @@ This will give you a great starting point for finding root causes to incidents, 
 #  
 #### SessionID: 25999
 # 45 min to build your first SSRS report
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 5
 ## Speaker: Tamera Clark
 ## Title: 45 min to build your first SSRS report
@@ -372,7 +372,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 5
 #  
 #### SessionID: 26203
 # SQL Server 2014 New Features
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 4
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2014 New Features
@@ -381,7 +381,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 4
 #  
 #### SessionID: 26715
 # Know Backups and Know Recovery
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 2
 ## Speaker: Tim Radney
 ## Title: Know Backups and Know Recovery
@@ -390,7 +390,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 2
 #  
 #### SessionID: 26716
 # You Inherited a Database, Now What?
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track:  Auditorium
 ## Speaker: Tim Radney
 ## Title: You Inherited a Database, Now What?
@@ -399,7 +399,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track:  Auditorium
 #  
 #### SessionID: 27808
 # Navigating the Options for Data Redundancy
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 5
 ## Speaker: Wendy Pastrick
 ## Title: Navigating the Options for Data Redundancy
@@ -408,7 +408,7 @@ Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 5
 #  
 #### SessionID: 8975
 # XML Without Xanax: How to Handle XML in SQL Server
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 2
 ## Speaker: Adam Belebczuk
 ## Title: XML Without Xanax: How to Handle XML in SQL Server
@@ -421,7 +421,7 @@ If you survive this session, you'll have faced your fears about XML in SQL Serve
 #  
 #### SessionID: 9079
 # Manageable SSAS Deployment Strategies
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 6
 ## Speaker: Kerry Tyler
 ## Title: Manageable SSAS Deployment Strategies
@@ -432,7 +432,7 @@ If you've answered "yes" to any of these questions, and are in search of a bette
 #  
 #### SessionID: 9771
 # Code-Less Securing of SQL Server
-#### [Back to calendar](#SQLSaturday-#241---Cleveland-2014)
+#### [Back to calendar](#SQLSaturday-#241-Cleveland-2014)
 Event Date: 08-02-2014 - Session time: 00:00:00 - Track: Training 1
 ## Speaker: Argenis Fernandez
 ## Title: Code-Less Securing of SQL Server

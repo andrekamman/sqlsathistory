@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 46171
 # Word Up: Text Mining in SQL
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dave Mattingly
 ## Title: Word Up: Text Mining in SQL
@@ -49,7 +49,7 @@ Learn how to dig through your library of language to make your data better.
 #  
 #### SessionID: 46484
 # Navigating the Options for Data Redundancy
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration, Architecture  Deployment
 ## Speaker: Wendy Pastrick
 ## Title: Navigating the Options for Data Redundancy
@@ -58,7 +58,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48150
 # It's OK to Talk to Strangers
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Cassandra Faris
 ## Title: It's OK to Talk to Strangers
@@ -67,7 +67,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 50097
 # Inside the Black Box - Making Sense of Service Broker
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration, Architecture  Deployment
 ## Speaker: Colleen Morrow
 ## Title: Inside the Black Box - Making Sense of Service Broker
@@ -79,7 +79,7 @@ Service Broker is an asynchronous messaging technology built into SQL Server tha
 #  
 #### SessionID: 50702
 # Get Near Realtime ETL with Service Broker
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Allen White
 ## Title: Get Near Realtime ETL with Service Broker
@@ -88,7 +88,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 47015
 # Improving Your PowerPoint Skills
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Evelyn Maxwell
 ## Title: Improving Your PowerPoint Skills
@@ -97,7 +97,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 49406
 # Monster Text Manipulation: Regular Expressions for the DBA
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration, Architecture  Deployment
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
@@ -110,7 +110,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50112
 # An introduction to the magical world of BIML!
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
@@ -119,7 +119,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 50313
 # MICROSOFT: SQL Server 2016 Stretch Database 
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Anthony van Gemert
 ## Title: MICROSOFT: SQL Server 2016 Stretch Database 
@@ -132,7 +132,7 @@ Come find out how you can move your data securely and transparently, free up dis
 #  
 #### SessionID: 50515
 # Achieve More in Less Time by Using SQLPS
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Aaron Nelson
 ## Title: Achieve More in Less Time by Using SQLPS
@@ -144,7 +144,7 @@ There is a faster way to manage and even SQL Servers using PowerShell.  I will s
 #  
 #### SessionID: 47228
 # The PROCESS of Queries
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: The PROCESS of Queries
@@ -153,7 +153,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 48854
 # The Many Paths of Consulting
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: David Klee
 ## Title: The Many Paths of Consulting
@@ -165,7 +165,7 @@ This session will help you ask the right questions to better chose and prepare f
 #  
 #### SessionID: 50502
 # Disaster Recovery Options with Azure
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration, Architecture  Deployment
 ## Speaker: Carlos L Chacon
 ## Title: Disaster Recovery Options with Azure
@@ -174,7 +174,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50527
 # Microsoft Business Intelligence 2016 – More Love for Your Data
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Tamera Clark
 ## Title: Microsoft Business Intelligence 2016 – More Love for Your Data
@@ -183,7 +183,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 50680
 # Hacking SQL Server for Fun and Profit
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration, Architecture  Deployment
 ## Speaker: Argenis Fernandez
 ## Title: Hacking SQL Server for Fun and Profit
@@ -192,7 +192,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46101
 # XML Without Xanax: How to Handle XML in SQL Server
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Adam Belebczuk
 ## Title: XML Without Xanax: How to Handle XML in SQL Server
@@ -205,7 +205,7 @@ If you survive this session, you'll have faced your fears about XML in SQL Serve
 #  
 #### SessionID: 46310
 # Why PowerBI? Introducing Microsoft’s new BI tool
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Eugene Meidinger
 ## Title: Why PowerBI? Introducing Microsoft’s new BI tool
@@ -214,7 +214,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 50277
 # Intro to Azure SQL Databases
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Michael Fal
 ## Title: Intro to Azure SQL Databases
@@ -223,7 +223,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 50436
 # Using Powershell to Automate Your Restore Strategy
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration, Architecture  Deployment
 ## Speaker: Frank Gill
 ## Title: Using Powershell to Automate Your Restore Strategy
@@ -232,7 +232,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 52263
 # Data Architecture 101
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: Data Architecture 101
@@ -245,7 +245,7 @@ This presentation is a survey of Data Architecture for the Intermediate DBA, it 
 #  
 #### SessionID: 46356
 # The Lost Science of Set Theory
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Aaron Cutshall
 ## Title: The Lost Science of Set Theory
@@ -254,7 +254,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 49405
 # Designing Stored Procedure Solutions
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Designing Stored Procedure Solutions
@@ -273,7 +273,7 @@ This session is for data professionals who can write T-SQL, but haven't spent a 
 #  
 #### SessionID: 50483
 # (Way Too Much) Fun with Reporting Services 
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Stacia Varga
 ## Title: (Way Too Much) Fun with Reporting Services 
@@ -282,7 +282,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 50530
 # Connecting Power BI to On-Prem Data with SSAS
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Kerry Tyler
 ## Title: Connecting Power BI to On-Prem Data with SSAS
@@ -291,7 +291,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 51179
 # WIT: Identifying, Understanding and Combating Gender Bias
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: WIT: Identifying, Understanding and Combating Gender Bias
@@ -300,7 +300,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 46078
 # R For the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
@@ -309,7 +309,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 46266
 # Clusters! From the ground up, let's build one together
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration, Architecture  Deployment
 ## Speaker: Paul Popovich Jr
 ## Title: Clusters! From the ground up, let's build one together
@@ -319,7 +319,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 47002
 # What Makes SSIS Tick? A Look at Internals for Performance
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ravi Kumar
 ## Title: What Makes SSIS Tick? A Look at Internals for Performance
@@ -328,7 +328,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 50482
 # Reduce, Reuse, Recycle: Automating Your BI Framework
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stacia Varga
 ## Title: Reduce, Reuse, Recycle: Automating Your BI Framework
@@ -337,7 +337,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 50545
 # Join Us! Getting Started as a Technical Speaker
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Eddie Wuerch
 ## Title: Join Us! Getting Started as a Technical Speaker
@@ -346,7 +346,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 50546
 # Getting to know U-SQL
-#### [Back to calendar](#SQLSaturday-#527---Columbus-2016)
+#### [Back to calendar](#SQLSaturday-#527-Columbus-2016)
 Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Azhagappan Arunachalam
 ## Title: Getting to know U-SQL

@@ -22,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 66546
 # How to start working in the multiserver environment?
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: How to start working in the multiserver environment?
@@ -31,7 +31,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68527
 # Важливість статистики в MS SQL Server, як вона використовується.
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Andrii Zrobok
 ## Title: Важливість статистики в MS SQL Server, як вона використовується.
@@ -40,7 +40,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database D
 #  
 #### SessionID: 68560
 # SQL Server: Готуємося до гіршого
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Strategy and Architecture
 ## Speaker: Yevhen Nedashkivskyi
 ## Title: SQL Server: Готуємося до гіршого
@@ -49,7 +49,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 64601
 # What’s new in SQL Server 2017 RC for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Polonichko
 ## Title: What’s new in SQL Server 2017 RC for Business Intelligence
@@ -59,7 +59,7 @@ If you want to know about it come to my session and I'll tell you about it.
 #  
 #### SessionID: 67628
 # Создание data-driven serverless приложений используя Azure Functions
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: Создание data-driven serverless приложений используя Azure Functions
@@ -68,7 +68,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 67974
 # State-of-the-Art Machine Learning Algorithms in R from Microsoft
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: State-of-the-Art Machine Learning Algorithms in R from Microsoft
@@ -81,7 +81,7 @@ In the second part we will use almost the same ML algorithms for classification 
 #  
 #### SessionID: 64773
 # Enabling Citizen Data Science with Microsoft
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jan Mulkens
 ## Title: Enabling Citizen Data Science with Microsoft
@@ -97,7 +97,7 @@ Using a combination of theory and demo’s, we explore Microsoft’s solutions t
 #  
 #### SessionID: 66901
 # IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights
@@ -110,7 +110,7 @@ And we will see them clash, from real hardware, to the big Azure cloud, to mobil
 #  
 #### SessionID: 67457
 # Dealing with CosmosDB
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Dealing with CosmosDB
@@ -125,7 +125,7 @@ In this presentation, you will learn:
 #  
 #### SessionID: 65659
 # "The Time Machine". Change Tracking, Change Data Capture, Temporal Tables
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Andriy Pogorelov
 ## Title: "The Time Machine". Change Tracking, Change Data Capture, Temporal Tables
@@ -135,7 +135,7 @@ It will be few slides and many demos.
 #  
 #### SessionID: 67430
 # Using non-relational data inside SQL Server
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Taras Bobrovytskyi
 ## Title: Using non-relational data inside SQL Server
@@ -144,7 +144,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database D
 #  
 #### SessionID: 68135
 # SQL Server 2017 New Features (Not Linux support!)
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: David Williams
 ## Title: SQL Server 2017 New Features (Not Linux support!)
@@ -185,7 +185,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database D
 #  
 #### SessionID: 64707
 # IoT Duel - Cloud vs. on Premises Solutions
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: IoT Duel - Cloud vs. on Premises Solutions
@@ -194,7 +194,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 64944
 # SQL Server 2016: JSON vs XML
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
 ## Speaker: Sergey Syrovatchenko
 ## Title: SQL Server 2016: JSON vs XML
@@ -205,7 +205,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database D
 #  
 #### SessionID: 66618
 # SQL Server Performance Tuning Nowadays
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Denis Reznik
 ## Title: SQL Server Performance Tuning Nowadays
@@ -216,7 +216,7 @@ In this session, we will find answers to all these questions going from collecti
 #  
 #### SessionID: 68186
 # Introduction to SQL Server 2017 for Linux
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrzej Kukula
 ## Title: Introduction to SQL Server 2017 for Linux
@@ -227,7 +227,7 @@ In addition to slides you're going to see quite a bit of T-SQL and bash code, te
 #  
 #### SessionID: 68802
 # Як звучить Data Science у .mid
-#### [Back to calendar](#SQLSaturday-#660---Lviv-2017)
+#### [Back to calendar](#SQLSaturday-#660-Lviv-2017)
 Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dmytro Stolpakov
 ## Title: Як звучить Data Science у .mid

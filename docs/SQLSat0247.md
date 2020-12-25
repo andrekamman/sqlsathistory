@@ -16,7 +16,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13614
 # Modelando de datos Autoservicio con Excel 2013 y DAX
-#### [Back to calendar](#SQLSaturday-#247---Bogotá-2013)
+#### [Back to calendar](#SQLSaturday-#247-Bogotá-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2 - Self Service BI
 ## Speaker: Eduardo Castro
 ## Title: Modelando de datos Autoservicio con Excel 2013 y DAX
@@ -25,7 +25,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2 - Self Service 
 #  
 #### SessionID: 13621
 # HDInsight: [(Hadoop + SQL Server) * Excel] = Experimentando analíticamente Big Data
-#### [Back to calendar](#SQLSaturday-#247---Bogotá-2013)
+#### [Back to calendar](#SQLSaturday-#247-Bogotá-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1 - Big Data
 ## Speaker: Eduardo Castro
 ## Title: HDInsight: [(Hadoop + SQL Server) * Excel] = Experimentando analíticamente Big Data
@@ -34,7 +34,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1 - Big Data
 #  
 #### SessionID: 14335
 # Cloud + Self-Service BI: Combinación exitosa para análisis de datos
-#### [Back to calendar](#SQLSaturday-#247---Bogotá-2013)
+#### [Back to calendar](#SQLSaturday-#247-Bogotá-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2 - Self Service BI
 ## Speaker: Freddy Angarita
 ## Title: Cloud + Self-Service BI: Combinación exitosa para análisis de datos
@@ -43,7 +43,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2 - Self Service 
 #  
 #### SessionID: 14861
 # SQL Server Tabular Mode vs SQL Server Multidimensional Mode Pros y Cons
-#### [Back to calendar](#SQLSaturday-#247---Bogotá-2013)
+#### [Back to calendar](#SQLSaturday-#247-Bogotá-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2 - Self Service BI
 ## Speaker: Guillermo Taylor
 ## Title: SQL Server Tabular Mode vs SQL Server Multidimensional Mode Pros y Cons
@@ -52,7 +52,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2 - Self Service 
 #  
 #### SessionID: 16071
 # Comó construir una plataforma Big Data con MS SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#247---Bogotá-2013)
+#### [Back to calendar](#SQLSaturday-#247-Bogotá-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1 - Big Data
 ## Speaker: John Bocachica
 ## Title: Comó construir una plataforma Big Data con MS SQL Server 2012
@@ -61,7 +61,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1 - Big Data
 #  
 #### SessionID: 16692
 # Servicio de alertas con self services
-#### [Back to calendar](#SQLSaturday-#247---Bogotá-2013)
+#### [Back to calendar](#SQLSaturday-#247-Bogotá-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2 - Self Service BI
 ## Speaker: Jesus Gil Velasco
 ## Title: Servicio de alertas con self services
@@ -70,7 +70,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2 - Self Service 
 #  
 #### SessionID: 16693
 # Big Data y NoSQL para escenarios de datos y profesionales en Inteligencia de Negocio
-#### [Back to calendar](#SQLSaturday-#247---Bogotá-2013)
+#### [Back to calendar](#SQLSaturday-#247-Bogotá-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1 - Big Data
 ## Speaker: Jesus Gil Velasco
 ## Title: Big Data y NoSQL para escenarios de datos y profesionales en Inteligencia de Negocio
@@ -79,7 +79,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1 - Big Data
 #  
 #### SessionID: 17774
 # Integrando Big Data HDInsight con Data Explorer
-#### [Back to calendar](#SQLSaturday-#247---Bogotá-2013)
+#### [Back to calendar](#SQLSaturday-#247-Bogotá-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1 - Big Data
 ## Speaker: Julián Alberto Castiblanco Palacios
 ## Title: Integrando Big Data HDInsight con Data Explorer
@@ -88,7 +88,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1 - Big Data
 #  
 #### SessionID: 22969
 # Big Data ABC: Para que sirve y como se usa?
-#### [Back to calendar](#SQLSaturday-#247---Bogotá-2013)
+#### [Back to calendar](#SQLSaturday-#247-Bogotá-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1 - Big Data
 ## Speaker: Ricardo Gonzalez Vargas
 ## Title: Big Data ABC: Para que sirve y como se usa?
@@ -97,7 +97,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1 - Big Data
 #  
 #### SessionID: 9193
 # Usando Self-Service BI para democratizar la toma de decisiones
-#### [Back to calendar](#SQLSaturday-#247---Bogotá-2013)
+#### [Back to calendar](#SQLSaturday-#247-Bogotá-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2 - Self Service BI
 ## Speaker: Luis Alberto Rivera Tavera
 ## Title: Usando Self-Service BI para democratizar la toma de decisiones
@@ -106,7 +106,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2 - Self Service 
 #  
 #### SessionID: 9456
 # SQL Server 2014 - Revolución en el OLTP
-#### [Back to calendar](#SQLSaturday-#247---Bogotá-2013)
+#### [Back to calendar](#SQLSaturday-#247-Bogotá-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2 - Self Service BI
 ## Speaker: Andrei Garzon
 ## Title: SQL Server 2014 - Revolución en el OLTP

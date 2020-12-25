@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 75817
 # Harness the power of big data using Azure Data Lake
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Sergio Reginaldo Zenatti Filho
 ## Title: Harness the power of big data using Azure Data Lake
@@ -36,7 +36,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 80897
 # Data Privacy and the Data Professional.
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Martin Catherall
 ## Title: Data Privacy and the Data Professional.
@@ -50,7 +50,7 @@ Come along to this session and hear how you and your team can lessen your chance
 #  
 #### SessionID: 83035
 # Orchestration and data movement with Azure Data Factory v2
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Peck
 ## Title: Orchestration and data movement with Azure Data Factory v2
@@ -61,7 +61,7 @@ And of course, being automation experts with Biml, we’ll demonstrate how we ca
 #  
 #### SessionID: 84092
 # The Massively Parallel Processing Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Manjot Kaur
 ## Title: The Massively Parallel Processing Azure SQL Data Warehouse
@@ -70,7 +70,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 84290
 # Creating Custom Visualisations with Power BI
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Jim McLeod
 ## Title: Creating Custom Visualisations with Power BI
@@ -79,7 +79,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 74268
 # Advanced DAX : Tic Tac Toe in Power BI
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Seamark
 ## Title: Advanced DAX : Tic Tac Toe in Power BI
@@ -88,7 +88,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 82488
 # Introduction to Data Vault
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Bradley
 ## Title: Introduction to Data Vault
@@ -109,7 +109,7 @@ Where to go for more information.
 #  
 #### SessionID: 83057
 # Virtualisation and DevOps can help make your SQL Server perform!!
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamish Watson
 ## Title: Virtualisation and DevOps can help make your SQL Server perform!!
@@ -126,7 +126,7 @@ We'll also go over some of the things that you should be looking at within your 
 #  
 #### SessionID: 83967
 # Modern Data Warehouse using Lambda Architecture and Azure
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anupama Natarajan
 ## Title: Modern Data Warehouse using Lambda Architecture and Azure
@@ -142,7 +142,7 @@ In this session you will learn about
 #  
 #### SessionID: 84107
 # Dive into Graph Databases
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Mohammad Hafizullah
 ## Title: Dive into Graph Databases
@@ -151,7 +151,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 73892
 # Data Science for DBA - Get Started Now
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Manohar Punna
 ## Title: Data Science for DBA - Get Started Now
@@ -160,7 +160,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 83360
 # Building a Modern Analytics Solution in the Cloud
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergio Reginaldo Zenatti Filho
 ## Title: Building a Modern Analytics Solution in the Cloud
@@ -169,7 +169,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 84263
 # Machine Learning Revolution with Azure Databricks
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Leila Etaati
 ## Title: Machine Learning Revolution with Azure Databricks
@@ -178,7 +178,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 84266
 # DAX for Business Analytics - My Favourite Examples
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Owen Auger
 ## Title: DAX for Business Analytics - My Favourite Examples
@@ -192,7 +192,7 @@ This session is for anyone who loves problem-solving with Power BI in a business
 #  
 #### SessionID: 78811
 # Displaying Real Time Information with Power BI
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Alzamendi
 ## Title: Displaying Real Time Information with Power BI
@@ -203,7 +203,7 @@ Through this session, you will learn how to deliver Power BI solutions streaming
 #  
 #### SessionID: 80908
 # Back to Basics – An overview of the internals of SQL Server
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Dave Dustin
 ## Title: Back to Basics – An overview of the internals of SQL Server
@@ -214,7 +214,7 @@ We’ll look at the interpreter, optimizer, estimator, storage, memory, locking,
 #  
 #### SessionID: 80937
 # Google Forms meet Power BI via Reporting Services (SSRS)
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Indira Bandari
 ## Title: Google Forms meet Power BI via Reporting Services (SSRS)
@@ -229,7 +229,7 @@ In this session I will show you how to
 #  
 #### SessionID: 82755
 # Database on a diet (taming a large database)
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Greg Low
 ## Title: Database on a diet (taming a large database)
@@ -238,7 +238,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 83220
 # Bringing source control to BI world!
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Heidi Hasting
 ## Title: Bringing source control to BI world!
@@ -259,7 +259,7 @@ Let's bring order to your chaos!
 #  
 #### SessionID: 73934
 # Joining Solved Problems: Data Product Management
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: John Bowker
 ## Title: Joining Solved Problems: Data Product Management
@@ -275,7 +275,7 @@ This session will go through the real life challenges and successes of taking a 
 #  
 #### SessionID: 84262
 # Ultimate Guide to Sharing Architecture for Power BI
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: Ultimate Guide to Sharing Architecture for Power BI
@@ -284,7 +284,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 85260
 # Doing it Yourself: Creating and Publishing A Power BI Custom Visual to AppSource
-#### [Back to calendar](#SQLSaturday-#754---Auckland-2018)
+#### [Back to calendar](#SQLSaturday-#754-Auckland-2018)
 Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Daniel Marsh-Patrick
 ## Title: Doing it Yourself: Creating and Publishing A Power BI Custom Visual to AppSource

@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 67566
 # €20M+ fines and prison: General Data Protection Regulation (GDPR)
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV
 ## Speaker: Alex Yates
 ## Title: €20M+ fines and prison: General Data Protection Regulation (GDPR)
@@ -56,7 +56,7 @@ I will focus on technical problems that we need to address. You can (and should)
 #  
 #### SessionID: 67830
 # Datawarehouse Lightning Performance with Columnstore!
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI/DEV
 ## Speaker: Stijn Wynants
 ## Title: Datawarehouse Lightning Performance with Columnstore!
@@ -67,7 +67,7 @@ After this session things like segment elimination, auto adjust buffer size, Del
 #  
 #### SessionID: 68283
 # Data Modeling and Design for New Features in SQL Server and Cosmos DB
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV/DBA
 ## Speaker: Karen Lopez
 ## Title: Data Modeling and Design for New Features in SQL Server and Cosmos DB
@@ -79,7 +79,7 @@ Why these features still need data modelsHow to prepare data models, logical and
 #  
 #### SessionID: 68700
 # SQL Server Installation 101
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Janos Berke
 ## Title: SQL Server Installation 101
@@ -93,7 +93,7 @@ This session would be great for accidental as well as experienced DBA's to learn
 #  
 #### SessionID: 69700
 # Power Query - The Best thing that ever happened in Excel
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI
 ## Speaker: Gašper Kamenšek
 ## Title: Power Query - The Best thing that ever happened in Excel
@@ -102,7 +102,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI
 #  
 #### SessionID: 67544
 # Advanced insides into System Versioned Temporal Tables
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV
 ## Speaker: Uwe Ricken
 ## Title: Advanced insides into System Versioned Temporal Tables
@@ -122,7 +122,7 @@ You are interested in the answers to all the above questions (and more). This se
 #  
 #### SessionID: 67603
 # Azure Data Factory vs SSIS, the Ins and Outs.
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI/DEV
 ## Speaker: Regis Baccaro
 ## Title: Azure Data Factory vs SSIS, the Ins and Outs.
@@ -132,7 +132,7 @@ These are some of the questions that might arise, when reading about this new Pa
 #  
 #### SessionID: 67885
 # The All Flash DBA
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Christopher Adkin
 ## Title: The All Flash DBA
@@ -141,7 +141,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 68235
 # Hidden gems of SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV/DBA
 ## Speaker: Denis Reznik
 ## Title: Hidden gems of SQL Server 2016
@@ -152,7 +152,7 @@ In this session, we will learn a lot about these features and improvements. Whic
 #  
 #### SessionID: 68860
 # On-premises Power BI with Power BI premium and/or Power BI Report Server
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI
 ## Speaker: Prathy Kamasani
 ## Title: On-premises Power BI with Power BI premium and/or Power BI Report Server
@@ -163,7 +163,7 @@ In this session, Prathy will talk about what options are available for On-Premis
 #  
 #### SessionID: 67608
 # A Game of Hierarchies: Introduction to Graph Processing with SQL
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: A Game of Hierarchies: Introduction to Graph Processing with SQL
@@ -178,7 +178,7 @@ Join this session for a journey through best practices to transform your hierarc
 #  
 #### SessionID: 67650
 # Scale-Out your SSIS Package Executions
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI/DEV
 ## Speaker: Wolfgang Strasser
 ## Title: Scale-Out your SSIS Package Executions
@@ -188,7 +188,7 @@ After the definition of scalability-types, the SSIS scale-out architecture and t
 #  
 #### SessionID: 68215
 # Introducing dbatools 1.0
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV/DBA
 ## Speaker: Chrissy LeMaire
 ## Title: Introducing dbatools 1.0
@@ -197,7 +197,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV/DBA
 #  
 #### SessionID: 68845
 # Security Enhancements in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
 ## Speaker: LEONEL ABREU
 ## Title: Security Enhancements in SQL Server 2016
@@ -206,7 +206,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 70860
 # Dimensional Modeling Design Patterns: Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond the Basics
@@ -217,7 +217,7 @@ In this session, we will dive deeper into the art of dimensional modeling. We wi
 #  
 #### SessionID: 67795
 # State-of-the-Art Machine Learning Algorithms in R from Microsoft
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI
 ## Speaker: Marcin Szeliga
 ## Title: State-of-the-Art Machine Learning Algorithms in R from Microsoft
@@ -230,7 +230,7 @@ In the second part we will use almost the same ML algorithms for classification 
 #  
 #### SessionID: 68025
 # Understand better Transaction Isolation Levels
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV/DBA
 ## Speaker: Kamil Nowinski
 ## Title: Understand better Transaction Isolation Levels
@@ -240,7 +240,7 @@ Let's back to the basis then in order to better understand transaction isolation
 #  
 #### SessionID: 68115
 # Tools and Tips for Data Warehouse Developers
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI/DEV
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Tools and Tips for Data Warehouse Developers
@@ -251,7 +251,7 @@ In this session, I will show you some of what I have learned and discovered that
 #  
 #### SessionID: 69561
 # Tricky ways to optimize your T-SQL queries
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV
 ## Speaker: Sergey Olontsev
 ## Title: Tricky ways to optimize your T-SQL queries
@@ -260,7 +260,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV
 #  
 #### SessionID: 70597
 # Self-Healing Query Execution in SQL 2017
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Christina Leo
 ## Title: Self-Healing Query Execution in SQL 2017
@@ -269,7 +269,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 67626
 # Building an End to End IoT Solution Using Raspberry Pi Sensors  Azure
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI/DEV
 ## Speaker: Paul Andrew
 ## Title: Building an End to End IoT Solution Using Raspberry Pi Sensors  Azure
@@ -278,7 +278,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI/DEV
 #  
 #### SessionID: 68720
 # A Masters view on Locking and blocking
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV/DBA
 ## Speaker: Mikael Wedham
 ## Title: A Masters view on Locking and blocking
@@ -290,7 +290,7 @@ And finally a real-world quick list of suggestions on what you can do to solve s
 #  
 #### SessionID: 69075
 # Migrating your local database to Azure SQL DB
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Marcos Freccia
 ## Title: Migrating your local database to Azure SQL DB
@@ -299,7 +299,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 69235
 # Scoped assignments – Threat or salvation? Some real life experiences…
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI
 ## Speaker: Gabi Münster
 ## Title: Scoped assignments – Threat or salvation? Some real life experiences…
@@ -309,7 +309,7 @@ Sometimes your projects get that complex. You will need to choose between many o
 #  
 #### SessionID: 69666
 # Dynamic Search Conditions
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV
 ## Speaker: Erland Sommarskog
 ## Title: Dynamic Search Conditions
@@ -318,7 +318,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV
 #  
 #### SessionID: 68062
 # Crazy Data Science
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI/DEV
 ## Speaker: Enrico van de Laar
 ## Title: Crazy Data Science
@@ -328,7 +328,7 @@ Remember that algorithm that named paint colors? That's nothing compared to what
 #  
 #### SessionID: 68130
 # SQL Server on Linux - SQL Server 2017 goes cross platform!
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
 ## Speaker: David Williams
 ## Title: SQL Server on Linux - SQL Server 2017 goes cross platform!
@@ -367,7 +367,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 68515
 # Design Seamless Upgrades to SQL Server 2017 with Query Store
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV/DBA
 ## Speaker: Joseph D'Antoni
 ## Title: Design Seamless Upgrades to SQL Server 2017 with Query Store
@@ -378,7 +378,7 @@ In this session, you will learn about the data that the query store captures to 
 #  
 #### SessionID: 69604
 # T-SQL User-Defined Functions, or: How to kill performance in one, easy step
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV
 ## Speaker: Hugo Kornelis
 ## Title: T-SQL User-Defined Functions, or: How to kill performance in one, easy step
@@ -389,7 +389,7 @@ However, you will also see that there is a way to avoid the problems. With just 
 #  
 #### SessionID: 69694
 # SQL Server and R for real-time predictions
-#### [Back to calendar](#SQLSaturday-#687---Slovenia-2017)
+#### [Back to calendar](#SQLSaturday-#687-Slovenia-2017)
 Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI
 ## Speaker: Stephanie Locke
 ## Title: SQL Server and R for real-time predictions

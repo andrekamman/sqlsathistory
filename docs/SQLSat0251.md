@@ -15,7 +15,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11835
 # SQL2014, a new breath for SSAS ? 
-#### [Back to calendar](#SQLSaturday-#251---Paris-2013)
+#### [Back to calendar](#SQLSaturday-#251-Paris-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1 - Business Intelligence
 ## Speaker: Charles-Henri Sauget
 ## Title: SQL2014, a new breath for SSAS ? 
@@ -24,7 +24,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1 - Business Inte
 #  
 #### SessionID: 14289
 # Proposer une interface de saisie dans un projet décisionnel sous SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#251---Paris-2013)
+#### [Back to calendar](#SQLSaturday-#251-Paris-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1 - Business Intelligence
 ## Speaker: Florian Eiden
 ## Title: Proposer une interface de saisie dans un projet décisionnel sous SQL Server 2012
@@ -41,7 +41,7 @@ On parlera avantages et inconvénients, technique, licencing, et on évoquera é
 #  
 #### SessionID: 15082
 # Inside the Columnstore Index - Deep Dive
-#### [Back to calendar](#SQLSaturday-#251---Paris-2013)
+#### [Back to calendar](#SQLSaturday-#251-Paris-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2 - Database Engine
 ## Speaker: Hugo Kornelis
 ## Title: Inside the Columnstore Index - Deep Dive
@@ -51,7 +51,7 @@ But do you know how they work? Come to this session to find out. We will lift th
 #  
 #### SessionID: 16254
 # PowerBI
-#### [Back to calendar](#SQLSaturday-#251---Paris-2013)
+#### [Back to calendar](#SQLSaturday-#251-Paris-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1 - Business Intelligence
 ## Speaker: Jean-Pierre Riehl
 ## Title: PowerBI
@@ -61,7 +61,7 @@ Cette session pose le décor autour de cette offre et rentre dans les enjeux d'a
 #  
 #### SessionID: 16541
 # Data Visualisation with Hadoop Mashups, Power View and Excel 2013
-#### [Back to calendar](#SQLSaturday-#251---Paris-2013)
+#### [Back to calendar](#SQLSaturday-#251-Paris-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 1 - Business Intelligence
 ## Speaker: Jen Stirrup
 ## Title: Data Visualisation with Hadoop Mashups, Power View and Excel 2013
@@ -71,7 +71,7 @@ Join us at this session in order to see how your Big Data can empower your busin
 #  
 #### SessionID: 20683
 # SQL Traces vs Extended Events
-#### [Back to calendar](#SQLSaturday-#251---Paris-2013)
+#### [Back to calendar](#SQLSaturday-#251-Paris-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2 - Database Engine
 ## Speaker: David Barbarin
 ## Title: SQL Traces vs Extended Events
@@ -84,7 +84,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2 - Database Engi
 #  
 #### SessionID: 34605
 # Panorama de l'écosystème Microsoft Data Platform
-#### [Back to calendar](#SQLSaturday-#251---Paris-2013)
+#### [Back to calendar](#SQLSaturday-#251-Paris-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 3 - Spécial Etudiants
 ## Speaker: GUSS GUSS
 ## Title: Panorama de l'écosystème Microsoft Data Platform
@@ -94,7 +94,7 @@ Une bonne entrée en matière pour avoir une vision 360 du sujet.
 #  
 #### SessionID: 34606
 # Les métiers de la Business Intelligence
-#### [Back to calendar](#SQLSaturday-#251---Paris-2013)
+#### [Back to calendar](#SQLSaturday-#251-Paris-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 3 - Spécial Etudiants
 ## Speaker: GUSS GUSS
 ## Title: Les métiers de la Business Intelligence
@@ -105,7 +105,7 @@ Une session participative qui n'aura de limites que vos questions.
 #  
 #### SessionID: 34607
 # Le métier de DBA
-#### [Back to calendar](#SQLSaturday-#251---Paris-2013)
+#### [Back to calendar](#SQLSaturday-#251-Paris-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 3 - Spécial Etudiants
 ## Speaker: GUSS GUSS
 ## Title: Le métier de DBA
@@ -116,7 +116,7 @@ Une session participative qui n'aura de limites que vos questions.
 #  
 #### SessionID: 9301
 # Let's Jive with Hive
-#### [Back to calendar](#SQLSaturday-#251---Paris-2013)
+#### [Back to calendar](#SQLSaturday-#251-Paris-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Track 2 - Database Engine
 ## Speaker: Allan Mitchell
 ## Title: Let's Jive with Hive

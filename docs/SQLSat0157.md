@@ -48,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10345
 # Top Query Optimizer Topics for Better Performance
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Benjamin Nevarez
 ## Title: Top Query Optimizer Topics for Better Performance
@@ -57,7 +57,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 10346
 # Dive into the Query Optimizer-Undocumented Insight
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer-Undocumented Insight
@@ -66,7 +66,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 11469
 # Parallel Query Plans - Good and Bad
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Chris Dickey
 ## Title: Parallel Query Plans - Good and Bad
@@ -75,7 +75,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 12869
 # Agile Data Warehousing with WhereScape
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 3 
 ## Speaker: Doug Barrett
 ## Title: Agile Data Warehousing with WhereScape
@@ -84,7 +84,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 3
 #  
 #### SessionID: 12873
 # Data Warehouse Best Practices
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 1
 ## Speaker: Doug Barrett
 ## Title: Data Warehouse Best Practices
@@ -93,7 +93,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 1
 #  
 #### SessionID: 13420
 # Relational Database Design 101
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 1
 ## Speaker: Diana Dee
 ## Title: Relational Database Design 101
@@ -118,7 +118,7 @@ Content:
 #  
 #### SessionID: 14350
 # From T-SQL Turtle to T-SQL Rabbit: Macro Scripting
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 3 
 ## Speaker: Eric Freeman
 ## Title: From T-SQL Turtle to T-SQL Rabbit: Macro Scripting
@@ -127,7 +127,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 3
 #  
 #### SessionID: 15284
 # 11 Reasons Why You Want Developers Using Entity Fr
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 1
 ## Speaker: Ike Ellis
 ## Title: 11 Reasons Why You Want Developers Using Entity Fr
@@ -136,7 +136,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 1
 #  
 #### SessionID: 15938
 # Discovering the Plan Cache
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Jason Strate
 ## Title: Discovering the Plan Cache
@@ -145,7 +145,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 15940
 # Extended Events, Work Smarter Not Harder
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jason Strate
 ## Title: Extended Events, Work Smarter Not Harder
@@ -154,7 +154,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17545
 # Advancing Data Storage: How Flash-Optimized Storag
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Arvind Rayasam
 ## Title: Advancing Data Storage: How Flash-Optimized Storag
@@ -171,7 +171,7 @@ But SSDs by themselves are not the solution. The next decade will be dominated b
 #  
 #### SessionID: 17909
 # Database Design Throw Down
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 1
 ## Speaker: Karen Lopez
 ## Title: Database Design Throw Down
@@ -189,7 +189,7 @@ Bring your votes, your debates, and your opinions.  Help us figure out who's rig
 #  
 #### SessionID: 17910
 # Career Management for Data Professionals
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Career / Other
 ## Speaker: Karen Lopez
 ## Title: Career Management for Data Professionals
@@ -206,7 +206,7 @@ Bring your thoughts, ideas, and experiences.
 #  
 #### SessionID: 18043
 # SQL Server 2012 PowerView - What's missing?
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 3 
 ## Speaker: Ken Mears
 ## Title: SQL Server 2012 PowerView - What's missing?
@@ -219,7 +219,7 @@ development, Open XML 2.0. and a few other tools to remedy the problem.
 #  
 #### SessionID: 18044
 # Building Your Own SQL Server Virtual Playground
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 3 
 ## Speaker: Kendal Van Dyke
 ## Title: Building Your Own SQL Server Virtual Playground
@@ -228,7 +228,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 3
 #  
 #### SessionID: 18045
 # Working With XML In SQL Server 
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 3 
 ## Speaker: Kendal Van Dyke
 ## Title: Working With XML In SQL Server 
@@ -238,7 +238,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 3
 #  
 #### SessionID: 18380
 # Managing Your Technical Career
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Career / Other
 ## Speaker: Kim Smith-Rohlfs
 ## Title: Managing Your Technical Career
@@ -249,7 +249,7 @@ Bring your questions and be sure to sign up for the free resume critique.
 #  
 #### SessionID: 19326
 # NoSQL - for the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 2
 ## Speaker: Lynn Langit
 ## Title: NoSQL - for the SQL Server Developer
@@ -258,7 +258,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 2
 #  
 #### SessionID: 19327
 # Using Amazon's Cloud for the SQL Server Profession
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 2
 ## Speaker: Lynn Langit
 ## Title: Using Amazon's Cloud for the SQL Server Profession
@@ -267,7 +267,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 2
 #  
 #### SessionID: 19840
 # Dundas Dashboard - Visualize with Agility
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 1
 ## Speaker: Matthew  Warren
 ## Title: Dundas Dashboard - Visualize with Agility
@@ -276,7 +276,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 1
 #  
 #### SessionID: 21045
 # Table Indexing for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 1
 ## Speaker: Denny Cherry
 ## Title: Table Indexing for the .NET Developer
@@ -285,7 +285,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 1
 #  
 #### SessionID: 21046
 # SQL Server Table Partitioning from the ground up
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Denny Cherry
 ## Title: SQL Server Table Partitioning from the ground up
@@ -298,7 +298,7 @@ from one partition to another and from one table to another with minimal to no i
 #  
 #### SessionID: 22111
 # Up Your Game With OUTPUT
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 1
 ## Speaker: Phil Helmer
 ## Title: Up Your Game With OUTPUT
@@ -307,7 +307,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 1
 #  
 #### SessionID: 23055
 # Creating a Performance Baseline for SQL Server
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Ron Johnson
 ## Title: Creating a Performance Baseline for SQL Server
@@ -316,7 +316,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 23056
 # Introduction to SSIS with a Real-World Example
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 2
 ## Speaker: Ron Johnson
 ## Title: Introduction to SSIS with a Real-World Example
@@ -325,7 +325,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 2
 #  
 #### SessionID: 23098
 # SQL Server 2008 T-SQL For Your Daily Use Part 1
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 2
 ## Speaker: Rick Martinez
 ## Title: SQL Server 2008 T-SQL For Your Daily Use Part 1
@@ -334,7 +334,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 2
 #  
 #### SessionID: 23099
 # SQL Server 2008 T-SQL For Your Daily Use Part 2
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 2
 ## Speaker: Rick Martinez
 ## Title: SQL Server 2008 T-SQL For Your Daily Use Part 2
@@ -343,7 +343,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 2
 #  
 #### SessionID: 23100
 # SSIS 2012 Management Considerations and Best Pract
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 1
 ## Speaker: Rushabh Mehta
 ## Title: SSIS 2012 Management Considerations and Best Pract
@@ -352,7 +352,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 1
 #  
 #### SessionID: 23101
 # Introduction to Data Quality Services
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 1
 ## Speaker: Rushabh Mehta
 ## Title: Introduction to Data Quality Services
@@ -361,7 +361,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 1
 #  
 #### SessionID: 23972
 # Private Clouds with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 3 
 ## Speaker: Sarah Barela
 ## Title: Private Clouds with SQL Server 2012
@@ -370,7 +370,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 3
 #  
 #### SessionID: 23973
 # Bulletproof: Hardening your SQL Server from Attack
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Sarah Barela
 ## Title: Bulletproof: Hardening your SQL Server from Attack
@@ -379,7 +379,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 24126
 # SQL Azure - What is it and why do you need it?
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 2
 ## Speaker: Scott Klein
 ## Title: SQL Azure - What is it and why do you need it?
@@ -388,7 +388,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 2
 #  
 #### SessionID: 24127
 # Scalling your cloud database with SQL Federation
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 2
 ## Speaker: Scott Klein
 ## Title: Scalling your cloud database with SQL Federation
@@ -397,7 +397,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 2
 #  
 #### SessionID: 24845
 # Introduction to SSAS 2012
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 1
 ## Speaker: Christian Wade
 ## Title: Introduction to SSAS 2012
@@ -406,7 +406,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 1
 #  
 #### SessionID: 25116
 # Choose Your Own Adventure: Performance Tuning
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Thomas LaRock
 ## Title: Choose Your Own Adventure: Performance Tuning
@@ -415,7 +415,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 26016
 #  Proactive Administration with Ring Buffers.
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Tara Kizer
 ## Title:  Proactive Administration with Ring Buffers.
@@ -424,7 +424,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 27101
 # SQL Server Performance Baselining
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 2
 ## Speaker: Trent Mera
 ## Title: SQL Server Performance Baselining
@@ -437,7 +437,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 2
 #  
 #### SessionID: 28167
 # Exploring SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Wil Sisney
 ## Title: Exploring SQL Server Data Tools
@@ -446,7 +446,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 34627
 # Geeks Anonymous
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Career / Other
 ## Speaker: David McCarter
 ## Title: Geeks Anonymous
@@ -455,7 +455,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Career / Other
 #  
 #### SessionID: 34628
 # How To Survive The Technical Interview
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Career / Other
 ## Speaker: David McCarter
 ## Title: How To Survive The Technical Interview
@@ -464,7 +464,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Career / Other
 #  
 #### SessionID: 9650
 # Mobile BI with SSRS and SharePoint
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 2
 ## Speaker: Angel Abundez
 ## Title: Mobile BI with SSRS and SharePoint
@@ -473,7 +473,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 2
 #  
 #### SessionID: 9651
 # Chart Anatomy 101 
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 2
 ## Speaker: Angel Abundez
 ## Title: Chart Anatomy 101 
@@ -482,7 +482,7 @@ Event Date: 15-09-2012 - Session time: 00:00:00 - Track: Business Intelligence 2
 #  
 #### SessionID: 9837
 # Implementing Tabular Data Models and PowerView
-#### [Back to calendar](#SQLSaturday-#157---San-Diego-2012)
+#### [Back to calendar](#SQLSaturday-#157-San-Diego-2012)
 Event Date: 15-09-2012 - Session time: 00:00:00 - Track: SQL Dev 3 
 ## Speaker: Arman Saffarnia
 ## Title: Implementing Tabular Data Models and PowerView

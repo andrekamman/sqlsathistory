@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 72858
 # Persistence is Futile - Implementing Delayed Durability in SQL Server
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Broadbent
 ## Title: Persistence is Futile - Implementing Delayed Durability in SQL Server
@@ -43,7 +43,7 @@ Attend this session and you will be assimilated!
 #  
 #### SessionID: 74455
 # Azure SQL DWH: Tips and Tricks for developers
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Azure SQL DWH: Tips and Tricks for developers
@@ -52,7 +52,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 76984
 # Chronicles of Power BI
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Mary Fealty
 ## Title: Chronicles of Power BI
@@ -63,7 +63,7 @@ It's a fun session that demonstrates the pace at which the Power BI team at Micr
 #  
 #### SessionID: 72843
 # Where Should My Data Live (and Why)?
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Matt Gordon
 ## Title: Where Should My Data Live (and Why)?
@@ -72,7 +72,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 72914
 # T-SQL advanced: Grouping and Windowing
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Andrea Martorana Tusa
 ## Title: T-SQL advanced: Grouping and Windowing
@@ -85,7 +85,7 @@ The session is mainly based on a copious array of demos, to make explicit every 
 #  
 #### SessionID: 72967
 # SQL Server on your favourite operating system....Linux
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Pryce-Maher
 ## Title: SQL Server on your favourite operating system....Linux
@@ -96,7 +96,7 @@ In this session, I will talk about where and when SQL Server on Linux is a good 
 #  
 #### SessionID: 80892
 # End-to-End Troubleshooting for SQL Server
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Kline
 ## Title: End-to-End Troubleshooting for SQL Server
@@ -105,7 +105,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 73113
 # Administrating SQL Server with PowerShell dbatools
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Sewell
 ## Title: Administrating SQL Server with PowerShell dbatools
@@ -126,7 +126,7 @@ All this in a fast paced, fun session
 #  
 #### SessionID: 74301
 # Database version control  deployment: model or migration scripts
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Alex Yates
 ## Title: Database version control  deployment: model or migration scripts
@@ -141,7 +141,7 @@ I'll illustrate the limitations of each approach with a simple scenario. I'll de
 #  
 #### SessionID: 74626
 # Data Storytelling for Business Intelligence with SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Jen Stirrup
 ## Title: Data Storytelling for Business Intelligence with SQL Server 2017
@@ -158,7 +158,7 @@ Join this session to get the inside scoop on SQL Server 2017 from the Business I
 #  
 #### SessionID: 77829
 # Azure SQL Database - Lessons learned from the trenches
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Azure SQL Database - Lessons learned from the trenches
@@ -167,7 +167,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 74245
 # Planning and Deploying PowerBI Report Server – On Premise!
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bob Duffy
 ## Title: Planning and Deploying PowerBI Report Server – On Premise!
@@ -183,7 +183,7 @@ Topic covered are:
 #  
 #### SessionID: 74542
 # Blockchain - The data platform perspective
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Christoph Seck
 ## Title: Blockchain - The data platform perspective
@@ -195,7 +195,7 @@ In the second part we take a closer look at the Bitcoin Blockchain as a "databas
 #  
 #### SessionID: 77759
 # Realizing ROI for Data Projects
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Douglas McDowell
 ## Title: Realizing ROI for Data Projects
@@ -204,7 +204,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 82097
 # Azure SQL Data Warehouse: One Cog in the Cortana Intelligence Sui
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daire Cunningham
 ## Title: Azure SQL Data Warehouse: One Cog in the Cortana Intelligence Sui
@@ -213,7 +213,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 73055
 # When Things go Wrong - Error Handling in SQL Server
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: When Things go Wrong - Error Handling in SQL Server
@@ -224,7 +224,7 @@ This presentation starts with a horror show of the many different actions SQL Se
 #  
 #### SessionID: 74565
 # Data Science, easy until it's not
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jan Mulkens
 ## Title: Data Science, easy until it's not
@@ -240,7 +240,7 @@ That way you'll also have all the practical knowledge you need to do this yourse
 #  
 #### SessionID: 82393
 # Lightning Talks!
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Various Speakers
 ## Title: Lightning Talks!
@@ -249,7 +249,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 72820
 # PowerShell - Grow Your Script From Simple to Module
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Sander Stad
 ## Title: PowerShell - Grow Your Script From Simple to Module
@@ -264,7 +264,7 @@ Have you written a couple of scripts but want to get them to the next level. Tha
 #  
 #### SessionID: 73262
 # Query Folding in Power BI
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Callum Green
 ## Title: Query Folding in Power BI
@@ -277,7 +277,7 @@ The 1 hour session will explain Query Folding in more detail, give examples of w
 #  
 #### SessionID: 77935
 # Enterprise Data Warehousing - the Data Architectural perspective
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Dan Galavan
 ## Title: Enterprise Data Warehousing - the Data Architectural perspective
@@ -299,7 +299,7 @@ This session will cover:
 #  
 #### SessionID: 80608
 # R for Reporting
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Stephanie Locke
 ## Title: R for Reporting
@@ -310,7 +310,7 @@ We’ll look at building dashboards, from connecting to our database, wrangling 
 #  
 #### SessionID: 73217
 # Discover the new graph features of SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Rudi Bruchez
 ## Title: Discover the new graph features of SQL Server 2017
@@ -319,7 +319,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 74415
 # Azure Cosmos DB - What you need to know to build globally distributed apps?
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Satya Jayanty
 ## Title: Azure Cosmos DB - What you need to know to build globally distributed apps?
@@ -328,7 +328,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 77502
 # Partitioning 101
-#### [Back to calendar](#SQLSaturday-#742---Cork-2018)
+#### [Back to calendar](#SQLSaturday-#742-Cork-2018)
 Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Pruski
 ## Title: Partitioning 101

@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13383
 # Hailing Frequencies: SSAS Terms and Concepts
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Doug Lane
 ## Title: Hailing Frequencies: SSAS Terms and Concepts
@@ -36,7 +36,7 @@ You’ll learn the key differences between SSAS Multidimensional Model (Cubes) a
 #  
 #### SessionID: 13384
 # From Minutes to Milliseconds: High-Performance SSRS Tuning
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Doug Lane
 ## Title: From Minutes to Milliseconds: High-Performance SSRS Tuning
@@ -47,7 +47,7 @@ In this session, you'll learn how design and configuration choices put pressure 
 #  
 #### SessionID: 13457
 # How to Write a DML Trigger
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Louis Davidson
 ## Title: How to Write a DML Trigger
@@ -56,7 +56,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 13458
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
@@ -66,7 +66,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13665
 # Service Broker: The Queue Continuum
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ed Leighton-Dick
 ## Title: Service Broker: The Queue Continuum
@@ -75,7 +75,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 13888
 # Unit Testing Fundamentals 
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Eric Selje
 ## Title: Unit Testing Fundamentals 
@@ -86,7 +86,7 @@ In this session we'll walk through the basics of what unit testing is, how to se
 #  
 #### SessionID: 15961
 # Extended Events, Work Smarter Not Harder
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jason Strate
 ## Title: Extended Events, Work Smarter Not Harder
@@ -95,7 +95,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 15962
 # XQuery Basics for the DBA
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jason Strate
 ## Title: XQuery Basics for the DBA
@@ -104,7 +104,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18387
 # Break it up!  Implement Table Partitioning
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kirby Richter
 ## Title: Break it up!  Implement Table Partitioning
@@ -115,7 +115,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19574
 # Mission Critical Confidence – (SQL 2012 AlwaysOn) and Availability Groups
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Mark Skiles
 ## Title: Mission Critical Confidence – (SQL 2012 AlwaysOn) and Availability Groups
@@ -126,7 +126,7 @@ In this session, we’ll specifically explore high availability databases – Av
 #  
 #### SessionID: 19635
 # MDX Trek: First Contact
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Mark Vaillancourt
 ## Title: MDX Trek: First Contact
@@ -135,7 +135,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 20643
 # Troubleshooting your TCP/IP connections
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Mike Hays
 ## Title: Troubleshooting your TCP/IP connections
@@ -144,7 +144,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 22386
 # An Optimistic Approach: Snapshot Isolation in SQL 
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Paul Timmerman
 ## Title: An Optimistic Approach: Snapshot Isolation in SQL 
@@ -157,7 +157,7 @@ Come learn how to put one of the more powerful, but least understood, aspects of
 #  
 #### SessionID: 22991
 # SQLSaturday: Design Your  Game Plan to Maximize ROI
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Rick Krueger
 ## Title: SQLSaturday: Design Your  Game Plan to Maximize ROI
@@ -166,7 +166,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 24587
 # Interrogating the Transaction Log 
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Frank Gill
 ## Title: Interrogating the Transaction Log 
@@ -179,7 +179,7 @@ In this session, you will learn how SQL Server uses the transaction log to maint
 #  
 #### SessionID: 26602
 # SSIS Incremental Load Design Patterns
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Tim Mitchell
 ## Title: SSIS Incremental Load Design Patterns
@@ -188,7 +188,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 26603
 # Parent/Child Structures in SSIS
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Tim Mitchell
 ## Title: Parent/Child Structures in SSIS
@@ -197,7 +197,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 28108
 # Getting Started with Analysis Services 2012 Tabular
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: William E Pearson III
 ## Title: Getting Started with Analysis Services 2012 Tabular
@@ -206,7 +206,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28110
 # Prototyping with PowerPivot: Handling External Analysis Services 2012 Grouping
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: William E Pearson III
 ## Title: Prototyping with PowerPivot: Handling External Analysis Services 2012 Grouping
@@ -215,7 +215,7 @@ Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 9950
 # Moving Enterprise database to cloud
-#### [Back to calendar](#SQLSaturday-#239---East-Iowa-2013)
+#### [Back to calendar](#SQLSaturday-#239-East-Iowa-2013)
 Event Date: 27-07-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Andy Thiru
 ## Title: Moving Enterprise database to cloud

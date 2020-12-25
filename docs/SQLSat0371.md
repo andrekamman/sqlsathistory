@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10051
 # Manage Both On-Prem and Azure Databases with PowerShell
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Azure / Prof Dev
 ## Speaker: Allen White
 ## Title: Manage Both On-Prem and Azure Databases with PowerShell
@@ -56,7 +56,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Azure / Prof Dev
 #  
 #### SessionID: 10052
 # Maintain SQL Server Performance Baseline w/PowerShell
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Allen White
 ## Title: Maintain SQL Server Performance Baseline w/PowerShell
@@ -65,7 +65,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 11125
 # Friendlier Data Profiling with the SSIS Data Profiler Task
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Julie Smith
 ## Title: Friendlier Data Profiling with the SSIS Data Profiler Task
@@ -74,7 +74,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 11897
 # Introduction to Azure Machine Learning Experiments
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Christopher Price
 ## Title: Introduction to Azure Machine Learning Experiments
@@ -84,7 +84,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 11898
 # Master Data Service in Practice: An Integrated Approach
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Christopher Price
 ## Title: Master Data Service in Practice: An Integrated Approach
@@ -93,7 +93,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 13074
 # DevOps for the DBA - Bridging the Gap Between Infrastructure, Administration, and Development
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Denis McDowell
 ## Title: DevOps for the DBA - Bridging the Gap Between Infrastructure, Administration, and Development
@@ -102,7 +102,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 13258
 # SSIS performance Tuning
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Dan King
 ## Title: SSIS performance Tuning
@@ -111,7 +111,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 13292
 # Size does matter: 10 ways to reduce the database size and improve performance
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Dmitri Korotkevitch
 ## Title: Size does matter: 10 ways to reduce the database size and improve performance
@@ -122,7 +122,7 @@ In this session, Dmitri will show you the set of techniques that help to reduce 
 #  
 #### SessionID: 13989
 # Advance SSIS development using .NET framework --Real work Situations--
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Jorge Novo
 ## Title: Advance SSIS development using .NET framework --Real work Situations--
@@ -131,7 +131,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 13990
 # Reusable ssis development using Parent - Child methodology 
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Jorge Novo
 ## Title: Reusable ssis development using Parent - Child methodology 
@@ -144,7 +144,7 @@ Passing parameters from a parent  package to a child package
 #  
 #### SessionID: 14032
 # SQL 2014 In Memory OLTP and Natively Compiled Stored Procedures
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Eric Wisdahl
 ## Title: SQL 2014 In Memory OLTP and Natively Compiled Stored Procedures
@@ -153,7 +153,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 14200
 # APPLY Yourself
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
@@ -162,7 +162,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 14317
 # “A New Data Architecture: Business Intelligence (BI) and Big Data Management Systems (BDMS)”
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Frank Quintana
 ## Title: “A New Data Architecture: Business Intelligence (BI) and Big Data Management Systems (BDMS)”
@@ -173,7 +173,7 @@ In this presentation, I will describe advantages and disadvantages of OLTP, OLAP
 #  
 #### SessionID: 14434
 # Business Rules, Data Governance, and Workflow with MDS and Maestro 
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Gene Webb
 ## Title: Business Rules, Data Governance, and Workflow with MDS and Maestro 
@@ -182,7 +182,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 15739
 # Introduction to Wait Types and Response Time Analysis
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Janis Griffin
 ## Title: Introduction to Wait Types and Response Time Analysis
@@ -192,7 +192,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 15740
 # Query Tuning - Get it Right the First Time 
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Janis Griffin
 ## Title: Query Tuning - Get it Right the First Time 
@@ -203,7 +203,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 16285
 # Sliding Window Table Partition Intro
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Jeff Reinhard
 ## Title: Sliding Window Table Partition Intro
@@ -213,7 +213,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 16345
 # How to be a GREAT DBA
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Jeffrey Garbus
 ## Title: How to be a GREAT DBA
@@ -225,7 +225,7 @@ Great for beginner to intermediate DBAs, as well as Developers who think this is
 #  
 #### SessionID: 16348
 # Indexing for performance
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
@@ -234,7 +234,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 16577
 # Introducing the Reimagined Power BI Platform
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Jen Underwood
 ## Title: Introducing the Reimagined Power BI Platform
@@ -243,7 +243,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 16670
 # Analysis Services: Multidimensional vs Tabular
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Jessica Moss
 ## Title: Analysis Services: Multidimensional vs Tabular
@@ -252,7 +252,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Misc
 #  
 #### SessionID: 16789
 # Exploring Azure for Storage Options
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Azure / Prof Dev
 ## Speaker: Joe Healy
 ## Title: Exploring Azure for Storage Options
@@ -261,7 +261,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Azure / Prof Dev
 #  
 #### SessionID: 18085
 # Transactional Replication: Architecture, Setup, and Monitoring
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Kendal Van Dyke
 ## Title: Transactional Replication: Architecture, Setup, and Monitoring
@@ -274,7 +274,7 @@ Session Goals:
 #  
 #### SessionID: 18086
 # Transactional Replication: Tuning and Troubleshooting
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Kendal Van Dyke
 ## Title: Transactional Replication: Tuning and Troubleshooting
@@ -287,7 +287,7 @@ Session Goals:
 #  
 #### SessionID: 18571
 # Performance Tuning - Index Optimization
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Konstantin Melamud
 ## Title: Performance Tuning - Index Optimization
@@ -296,7 +296,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 19924
 # Powershell Working with Windows Azure SQL Database Server
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Azure / Prof Dev
 ## Speaker: Maximo Trinidad
 ## Title: Powershell Working with Windows Azure SQL Database Server
@@ -305,7 +305,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Azure / Prof Dev
 #  
 #### SessionID: 20036
 # A practical guide to Windows Azure SQL Database for the DBA
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Azure / Prof Dev
 ## Speaker: Gareth Swanepoel
 ## Title: A practical guide to Windows Azure SQL Database for the DBA
@@ -315,7 +315,7 @@ If you are a production DBA and have contemplated one or more of these questions
 #  
 #### SessionID: 20037
 # SQL Server 2014 for the DBA 
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: Gareth Swanepoel
 ## Title: SQL Server 2014 for the DBA 
@@ -325,7 +325,7 @@ The target of this session is SQL Server DBA’s, developers, architects or IT p
 #  
 #### SessionID: 20420
 # SQL Server 2014 In-Memory Programming
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 ## Speaker: miguel Cebollero
 ## Title: SQL Server 2014 In-Memory Programming
@@ -334,7 +334,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: SSIS
 #  
 #### SessionID: 20494
 # Introducing Cube World To Users From Flat Table Land
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Michael Antonovich
 ## Title: Introducing Cube World To Users From Flat Table Land
@@ -343,7 +343,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 21617
 # Sentiment Analysis with Big Data
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Paco Gonzalez
 ## Title: Sentiment Analysis with Big Data
@@ -352,7 +352,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 22069
 # Extend the Reach of Power BI with Easy Data Integration
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Peter Evans
 ## Title: Extend the Reach of Power BI with Easy Data Integration
@@ -361,7 +361,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 22119
 # Getting Started with Analysis Services Tabular mode
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Phillip Labry
 ## Title: Getting Started with Analysis Services Tabular mode
@@ -370,7 +370,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 23152
 # .NET for Data Professionals
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Robert Biddle
 ## Title: .NET for Data Professionals
@@ -381,7 +381,7 @@ No .NET experience is needed for this session. Basic understanding of programmin
 #  
 #### SessionID: 23442
 # Real World SQL Server Administration with just a bit of sysadmin
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Ronald Dameron
 ## Title: Real World SQL Server Administration with just a bit of sysadmin
@@ -393,7 +393,7 @@ This session will review the fundamentals needed  to define a configurable permi
 #  
 #### SessionID: 24633
 # Virtualize Clusters and AlwaysOn Availability Groups 
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Shawn Meyers
 ## Title: Virtualize Clusters and AlwaysOn Availability Groups 
@@ -402,7 +402,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 24810
 # Querying Active Directory From SSRS To Secure Reports And Enhance The User Experience
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Wes Springob
 ## Title: Querying Active Directory From SSRS To Secure Reports And Enhance The User Experience
@@ -412,7 +412,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 27350
 # DAX 101
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Damu Venkatesan
 ## Title: DAX 101
@@ -422,7 +422,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 9585
 # Turbocharge Your Career With a Learning Plan
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Azure / Prof Dev
 ## Speaker: Andy Warren
 ## Title: Turbocharge Your Career With a Learning Plan
@@ -435,7 +435,7 @@ Once you’ve picked a topic, how do you learn more about it? Do you read blogs,
 #  
 #### SessionID: 9587
 # Common SQL Server Security Mistakes (And The Fixes)
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Andy Warren
 ## Title: Common SQL Server Security Mistakes (And The Fixes)
@@ -444,7 +444,7 @@ Event Date: 28-02-2015 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 9881
 # Access as a fron-end ro SQL-Server
-#### [Back to calendar](#SQLSaturday-#371---Tampa-2015)
+#### [Back to calendar](#SQLSaturday-#371-Tampa-2015)
 Event Date: 28-02-2015 - Session time: 00:00:00 - Track: Misc
 ## Speaker: Arvin Meyer
 ## Title: Access as a fron-end ro SQL-Server

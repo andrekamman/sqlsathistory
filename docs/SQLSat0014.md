@@ -39,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 31252
 # Database Design Fundamentals
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2172
 ## Speaker: Keith Rowe
 ## Title: Database Design Fundamentals
@@ -48,7 +48,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2172
 #  
 #### SessionID: 32912
 # Creating dasboard applications with SSRS and .NET
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2172
 ## Speaker: Shawn McGehee
 ## Title: Creating dasboard applications with SSRS and .NET
@@ -57,7 +57,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2172
 #  
 #### SessionID: 33226
 # WPF - XAML an Introduction
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2169
 ## Speaker: Steven Lane
 ## Title: WPF - XAML an Introduction
@@ -66,7 +66,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2169
 #  
 #### SessionID: 33278
 # FILESTREAM In Depth
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2176
 ## Speaker: Sven Aelterman
 ## Title: FILESTREAM In Depth
@@ -75,7 +75,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2176
 #  
 #### SessionID: 33585
 # Unconventional ETL using SSIS Scripting
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2175
 ## Speaker: Tim Mitchell
 ## Title: Unconventional ETL using SSIS Scripting
@@ -84,7 +84,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2175
 #  
 #### SessionID: 34927
 # Introduction to SQL Server Statistics
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: 2142 Auditorium
 ## Speaker: Andy Warren
 ## Title: Introduction to SQL Server Statistics
@@ -93,7 +93,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: 2142 Auditorium
 #  
 #### SessionID: 34928
 # What is PASS?
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2176
 ## Speaker: Andy Warren
 ## Title: What is PASS?
@@ -102,7 +102,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2176
 #  
 #### SessionID: 34963
 # Streaming Applications using SQL Server 2008 Files
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2175
 ## Speaker: Arie Jones
 ## Title: Streaming Applications using SQL Server 2008 Files
@@ -111,7 +111,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2175
 #  
 #### SessionID: 34966
 # Consulting Outside the Box: Using Creativity and P
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2172
 ## Speaker: Arie Jones
 ## Title: Consulting Outside the Box: Using Creativity and P
@@ -122,7 +122,7 @@ This presentation will focus on some of the unique ways in which Perpetual Techn
 #  
 #### SessionID: 35008
 # Introduction to SQL Server Analysis Services(SSAS)
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: 2142 Auditorium
 ## Speaker: Brian Knight
 ## Title: Introduction to SQL Server Analysis Services(SSAS)
@@ -131,7 +131,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: 2142 Auditorium
 #  
 #### SessionID: 35009
 # MDX for SQL Programmers
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2176
 ## Speaker: Brian Knight
 ## Title: MDX for SQL Programmers
@@ -141,7 +141,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2176
 #  
 #### SessionID: 35011
 # Getting the Most Out of the SQL Server Profiler
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2176
 ## Speaker: Brad McGehee
 ## Title: Getting the Most Out of the SQL Server Profiler
@@ -150,7 +150,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2176
 #  
 #### SessionID: 35012
 # DBA 101: Best Practices Every DBA Should Know
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: 2142 Auditorium
 ## Speaker: Brad McGehee
 ## Title: DBA 101: Best Practices Every DBA Should Know
@@ -159,7 +159,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: 2142 Auditorium
 #  
 #### SessionID: 35037
 # Integrating Silverlight 2.0 Into Web Applications
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2169
 ## Speaker: Bryan Soltis
 ## Title: Integrating Silverlight 2.0 Into Web Applications
@@ -168,7 +168,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2169
 #  
 #### SessionID: 35061
 # Getting Start with SQL Server Profiler
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2176
 ## Speaker: Jack Corbett
 ## Title: Getting Start with SQL Server Profiler
@@ -177,7 +177,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2176
 #  
 #### SessionID: 35069
 # SQL Server Preproduction Tasks
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2172
 ## Speaker: Ken Simmons
 ## Title: SQL Server Preproduction Tasks
@@ -186,7 +186,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2172
 #  
 #### SessionID: 35073
 # Apply Here
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2176
 ## Speaker: Kent Waldrop
 ## Title: Apply Here
@@ -199,7 +199,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2176
 #  
 #### SessionID: 35088
 # Using Wait-Time Analysis for Database Performance
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2175
 ## Speaker: David Waugh
 ## Title: Using Wait-Time Analysis for Database Performance
@@ -217,7 +217,7 @@ solve the most difficult performance related issues.
 #  
 #### SessionID: 35102
 # BI (Business Intelligence) For the .Net Guy
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2169
 ## Speaker: Don Demsak
 ## Title: BI (Business Intelligence) For the .Net Guy
@@ -226,7 +226,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2169
 #  
 #### SessionID: 35117
 # SSIS Configurations, Expressions and Constraints
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2175
 ## Speaker: Eric Wisdahl
 ## Title: SSIS Configurations, Expressions and Constraints
@@ -235,7 +235,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2175
 #  
 #### SessionID: 35132
 # Introduction to Execution Plans
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2175
 ## Speaker: Nathan Heaivilin
 ## Title: Introduction to Execution Plans
@@ -244,7 +244,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2175
 #  
 #### SessionID: 35187
 # Creating Dashboards with PerformancePoint Server 2
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2169
 ## Speaker: Jessica Moss
 ## Title: Creating Dashboards with PerformancePoint Server 2
@@ -254,7 +254,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2169
 #  
 #### SessionID: 35277
 # A first look at Visual Studio 2010
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2169
 ## Speaker: Kevin Grohoske
 ## Title: A first look at Visual Studio 2010
@@ -263,7 +263,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2169
 #  
 #### SessionID: 35283
 # Best Practices and Performance Tuning SSIS
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2175
 ## Speaker: Devin Knight
 ## Title: Best Practices and Performance Tuning SSIS
@@ -272,7 +272,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2175
 #  
 #### SessionID: 35302
 # Building Scalable ASP.NET Applications
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2169
 ## Speaker: Vincent Mayfield
 ## Title: Building Scalable ASP.NET Applications
@@ -287,7 +287,7 @@ Most ASP.NET Developers are able to build ASP.NET Applications. However, few und
 #  
 #### SessionID: 35303
 # Introduction to Microsoft® Silverlight™
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2169
 ## Speaker: Vincent Mayfield
 ## Title: Introduction to Microsoft® Silverlight™
@@ -296,7 +296,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2169
 #  
 #### SessionID: 35350
 # Advanced SQL Querying Techniques
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2172
 ## Speaker: Plamen Ratchev
 ## Title: Advanced SQL Querying Techniques
@@ -305,7 +305,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2172
 #  
 #### SessionID: 35352
 # Performance Tuning and Query Optimization
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2176
 ## Speaker: Plamen Ratchev
 ## Title: Performance Tuning and Query Optimization
@@ -314,7 +314,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2176
 #  
 #### SessionID: 35365
 # Near Real-Time Data Warehouse-No Third Party Tools
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2175
 ## Speaker: Patrick LeBlanc
 ## Title: Near Real-Time Data Warehouse-No Third Party Tools
@@ -324,7 +324,7 @@ the app finds a message it processes it. The transformation and loading of the w
 #  
 #### SessionID: 35374
 # Tips  Tricks for dynamic Reporting Services Repor
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2172
 ## Speaker: Pam Shaw
 ## Title: Tips  Tricks for dynamic Reporting Services Repor
@@ -333,7 +333,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2172
 #  
 #### SessionID: 35382
 # Reporting Services 2008 - Report Authoring
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2172
 ## Speaker: Ryan Duclos
 ## Title: Reporting Services 2008 - Report Authoring
@@ -342,7 +342,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: Room 2172
 #  
 #### SessionID: 35386
 # * It's All About The Tools - TV Show Episode 3 
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: 2142 Auditorium
 ## Speaker: Russell Fustino
 ## Title: * It's All About The Tools - TV Show Episode 3 
@@ -351,7 +351,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: 2142 Auditorium
 #  
 #### SessionID: 35405
 # The DBA Script Thumb
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: 2142 Auditorium
 ## Speaker: Rodney Landrum
 ## Title: The DBA Script Thumb
@@ -360,7 +360,7 @@ Event Date: 06-06-2009 - Session time: 00:00:00 - Track: 2142 Auditorium
 #  
 #### SessionID: 35439
 # The Modern Resume: Building Your Brand
-#### [Back to calendar](#SQLSaturday-#14---Pensacola-2009)
+#### [Back to calendar](#SQLSaturday-#14-Pensacola-2009)
 Event Date: 06-06-2009 - Session time: 00:00:00 - Track: 2142 Auditorium
 ## Speaker: Steve Jones
 ## Title: The Modern Resume: Building Your Brand

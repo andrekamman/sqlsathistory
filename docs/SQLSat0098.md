@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28422
 # Database Development using Visual Studio
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Aaron Lowe
 ## Title: Database Development using Visual Studio
@@ -34,7 +34,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28423
 # Writing Professional Database Code
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Aaron Lowe
 ## Title: Writing Professional Database Code
@@ -43,7 +43,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29063
 # Database Restores - Lessons from the Real World
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Bill Preachuk
 ## Title: Database Restores - Lessons from the Real World
@@ -52,7 +52,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30538
 # XQuery Basics for the DBA
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jason Strate
 ## Title: XQuery Basics for the DBA
@@ -61,7 +61,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30541
 # Getting To Know Your Indexes
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jason Strate
 ## Title: Getting To Know Your Indexes
@@ -70,7 +70,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30543
 # Discovering the Plan Cache
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jason Strate
 ## Title: Discovering the Plan Cache
@@ -79,7 +79,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32032
 # What's new with SQL Server 'Denali' for HA/DR
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Michael Steineke
 ## Title: What's new with SQL Server 'Denali' for HA/DR
@@ -88,7 +88,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 32033
 # SQL 'Denali' AlwaysOn Configuration Deep Dive 
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Michael Steineke
 ## Title: SQL 'Denali' AlwaysOn Configuration Deep Dive 
@@ -97,7 +97,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32101
 # The Script Task, powerhouse of SSIS
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Norman Kelm
 ## Title: The Script Task, powerhouse of SSIS
@@ -106,7 +106,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 32659
 # Minimal Processing for Large Cubes
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Ross McNeely
 ## Title: Minimal Processing for Large Cubes
@@ -115,7 +115,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 32660
 # Dynamic Text File Creation Via Single SSIS Package
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ross McNeely
 ## Title: Dynamic Text File Creation Via Single SSIS Package
@@ -124,7 +124,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 32661
 # Using Spatial Data Types
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Ross McNeely
 ## Title: Using Spatial Data Types
@@ -133,7 +133,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33228
 # Scriptable UI with PowerShell
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Steven Murawski
 ## Title: Scriptable UI with PowerShell
@@ -142,7 +142,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33311
 # Check Out The New AAS!
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Brian Duhn
 ## Title: Check Out The New AAS!
@@ -151,7 +151,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33336
 # Query Tuning for Developers and DBAs
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ted Krueger
 ## Title: Query Tuning for Developers and DBAs
@@ -160,7 +160,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33337
 # SSIS: The DBA Multiplier
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ted Krueger
 ## Title: SSIS: The DBA Multiplier
@@ -169,7 +169,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 33580
 # High-Availability and DR Options for SQL Server
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Tim Plas
 ## Title: High-Availability and DR Options for SQL Server
@@ -181,7 +181,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33997
 # An Overview of PowerPivot
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: William E Pearson III
 ## Title: An Overview of PowerPivot
@@ -190,7 +190,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 34004
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
@@ -199,7 +199,7 @@ Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 34007
 # Serene Velocity: Reporting Services and SSAS Data
-#### [Back to calendar](#SQLSaturday-#98---East-Iowa-2011)
+#### [Back to calendar](#SQLSaturday-#98-East-Iowa-2011)
 Event Date: 01-10-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: William E Pearson III
 ## Title: Serene Velocity: Reporting Services and SSAS Data

@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 57449
 # PowerQuery Tips and Tricks for Power BI
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rushabh Mehta
 ## Title: PowerQuery Tips and Tricks for Power BI
@@ -34,7 +34,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 61396
 # Introduction to Microsoft Analytics – Turning Data into Intelligent Action
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melody Zacharias
 ## Title: Introduction to Microsoft Analytics – Turning Data into Intelligent Action
@@ -43,7 +43,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 62562
 # To Compress or Decompress—that is this Session
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Melissa Connors
 ## Title: To Compress or Decompress—that is this Session
@@ -52,7 +52,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 59528
 # Columnstore Index Primer
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sepand Gojgini
 ## Title: Columnstore Index Primer
@@ -61,7 +61,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 60992
 # Introduction to BI Architecture
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Warren Sifre
 ## Title: Introduction to BI Architecture
@@ -70,7 +70,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 62541
 # Tracking Data Changes with Temporal Tables and more
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Olivier Cann
 ## Title: Tracking Data Changes with Temporal Tables and more
@@ -84,7 +84,7 @@ and how they can help you keep track of what’s happening with your data over t
 #  
 #### SessionID: 59385
 # Database Corruption - Advanced Recovery Techniques
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: Database Corruption - Advanced Recovery Techniques
@@ -96,7 +96,7 @@ Warning: Hex Editors and DBCC Page dumps will be involved!
 #  
 #### SessionID: 61783
 # Power BI for the Faint of Heart - Building an Interactive Report Step-by-Step!
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Scott Stauffer
 ## Title: Power BI for the Faint of Heart - Building an Interactive Report Step-by-Step!
@@ -105,7 +105,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 62520
 # SQL Server Management Strategies
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ian Chamberland
 ## Title: SQL Server Management Strategies
@@ -114,7 +114,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61141
 # SQL Server In-Flight Recorder Deep-Dive
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohit Gupta
 ## Title: SQL Server In-Flight Recorder Deep-Dive
@@ -123,7 +123,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61255
 # Agile Analytics: Automated builds and deployments
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mike Diehl
 ## Title: Agile Analytics: Automated builds and deployments
@@ -132,7 +132,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 62981
 # Performance in 60 Seconds – SQL Tricks Everybody MUST Know
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Pinal Dave
 ## Title: Performance in 60 Seconds – SQL Tricks Everybody MUST Know
@@ -141,7 +141,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61723
 # Mobile, Paginated, KPIs, and Power BI, Oh My! SSRS 2016 Reporting
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Wake
 ## Title: Mobile, Paginated, KPIs, and Power BI, Oh My! SSRS 2016 Reporting
@@ -153,7 +153,7 @@ If you have been curious about what has changed with SSRS in SQL Server 2016 and
 #  
 #### SessionID: 63339
 # Building a Successful BI practice
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Camron Bute
 ## Title: Building a Successful BI practice
@@ -162,7 +162,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 63837
 # Locks, Blocks, and Deadlocks; Tame the Sibling Rivalry
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Locks, Blocks, and Deadlocks; Tame the Sibling Rivalry
@@ -175,7 +175,7 @@ By the end of this session you will walk away with the knowledge of how the lock
 #  
 #### SessionID: 56527
 # Creating Dynamic Packages
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Dye
 ## Title: Creating Dynamic Packages
@@ -194,7 +194,7 @@ Each attendee will leave with the knowledge and toolset necessary to:
 #  
 #### SessionID: 61082
 # Monitoring SQL 2016 on-premise for performance and stability
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Wood
 ## Title: Monitoring SQL 2016 on-premise for performance and stability
@@ -208,7 +208,7 @@ Do you have table/index hot-spots?
 #  
 #### SessionID: 61802
 # Reports on the Go: SSRS 2016 Mobile Reporting
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Wake
 ## Title: Reports on the Go: SSRS 2016 Mobile Reporting
@@ -217,7 +217,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 63323
 # Migrating to Azure SQL Database: Tips, Tricks, and Lessons Learned
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Randolph West
 ## Title: Migrating to Azure SQL Database: Tips, Tricks, and Lessons Learned
@@ -226,7 +226,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 63338
 # Optimizing Query Plans
-#### [Back to calendar](#SQLSaturday-#594---Edmonton-2017)
+#### [Back to calendar](#SQLSaturday-#594-Edmonton-2017)
 Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dwija Dholakia
 ## Title: Optimizing Query Plans

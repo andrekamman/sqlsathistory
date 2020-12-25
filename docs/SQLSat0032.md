@@ -50,7 +50,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28399
 # PowerShell for Data Professionals
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals
@@ -59,7 +59,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 28508
 # Zero to Cube in 60 Minutes
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Adam Jorgensen
 ## Title: Zero to Cube in 60 Minutes
@@ -68,7 +68,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 28727
 # Social and Not So Social Networking for the DBA
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Andy Warren
 ## Title: Social and Not So Social Networking for the DBA
@@ -77,7 +77,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29086
 # Introduction to SSIS
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brian Knight
 ## Title: Introduction to SSIS
@@ -86,7 +86,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29087
 # Iron Chef Competition: Loading a Data Warehouse
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brian Knight
 ## Title: Iron Chef Competition: Loading a Data Warehouse
@@ -95,7 +95,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29088
 # Rapid BI Development with Pragmatic Works
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brian Knight
 ## Title: Rapid BI Development with Pragmatic Works
@@ -104,7 +104,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29365
 # Getting Started with AppFabric Caching (Velocity)
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Bayer White
 ## Title: Getting Started with AppFabric Caching (Velocity)
@@ -113,7 +113,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29527
 # SSIS and Slowly Changing Dimensions
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Christian Loris
 ## Title: SSIS and Slowly Changing Dimensions
@@ -122,7 +122,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29573
 # PowerShell ETL
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Chad Miller
 ## Title: PowerShell ETL
@@ -131,7 +131,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 29597
 # Why Should I Use Stored Procedures?
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jack Corbett
 ## Title: Why Should I Use Stored Procedures?
@@ -140,7 +140,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29934
 # Getting familiar with SQL Server Storage Engine
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Dmitri Korotkevitch
 ## Title: Getting familiar with SQL Server Storage Engine
@@ -149,7 +149,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30030
 # Using SSRS with Trending Reports
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: David Taylor
 ## Title: Using SSRS with Trending Reports
@@ -158,7 +158,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 30125
 # SSIS - A Beginning Framework
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Eric Wisdahl
 ## Title: SSIS - A Beginning Framework
@@ -169,7 +169,7 @@ In response to previous comments, the majority of the material will be presented
 #  
 #### SessionID: 30301
 # Introduction to Execution Plans
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Nathan Heaivilin
 ## Title: Introduction to Execution Plans
@@ -178,7 +178,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 30335
 # SQL Azure
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Herve Roggero
 ## Title: SQL Azure
@@ -187,7 +187,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 30442
 # Tuna Helper for SQL Server DBA's
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Janis Griffin
 ## Title: Tuna Helper for SQL Server DBA's
@@ -196,7 +196,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 30443
 # Real-World Performance Tuning
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Janis Griffin
 ## Title: Real-World Performance Tuning
@@ -205,7 +205,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30667
 # Bad, less Bad, not Bad; rewriting bad SQL Code
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jeffrey Garbus
 ## Title: Bad, less Bad, not Bad; rewriting bad SQL Code
@@ -214,7 +214,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30668
 # Choosing Indexes for Performance
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jeffrey Garbus
 ## Title: Choosing Indexes for Performance
@@ -223,7 +223,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30877
 # Real Time Problem Identification with Event Notifi
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jonathan Kehayias
 ## Title: Real Time Problem Identification with Event Notifi
@@ -232,7 +232,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31013
 # Policy-Based Management 101
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jorge Segarra
 ## Title: Policy-Based Management 101
@@ -241,7 +241,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 31014
 # SQL University 101:Starting the SQL Journey
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jorge Segarra
 ## Title: SQL University 101:Starting the SQL Journey
@@ -250,7 +250,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 31158
 # Using XML to Query Execution Plans
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jason Strate
 ## Title: Using XML to Query Execution Plans
@@ -268,7 +268,7 @@ Goals:
 #  
 #### SessionID: 31160
 # ABCs of CTEs
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jason Strate
 ## Title: ABCs of CTEs
@@ -286,7 +286,7 @@ Demonstrate real-world examples detailing methods for using CTEs to solve coding
 #  
 #### SessionID: 31403
 # Access SQL Back-End Gets Better Option
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Kathy Malone
 ## Title: Access SQL Back-End Gets Better Option
@@ -296,7 +296,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 31671
 # Advanced Parameters in SSRS 2008
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mike Davis
 ## Title: Advanced Parameters in SSRS 2008
@@ -305,7 +305,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31773
 # SQLServer 2008 Spatial Data 
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Michael Stark
 ## Title: SQLServer 2008 Spatial Data 
@@ -314,7 +314,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 31799
 # XML 101 for the SQL Developer
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Michael Antonovich
 ## Title: XML 101 for the SQL Developer
@@ -323,7 +323,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 31951
 # Building a Near-Realtime Operational Dashboard
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Mark Landry
 ## Title: Building a Near-Realtime Operational Dashboard
@@ -332,7 +332,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 31962
 # Accurate MDX RoadTrip
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Michael Mollenhour
 ## Title: Accurate MDX RoadTrip
@@ -341,7 +341,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 32023
 # SSIS users:  Turbocharge your ETL with expressor
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Michael  Ruland
 ## Title: SSIS users:  Turbocharge your ETL with expressor
@@ -350,7 +350,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 32132
 # Introduction to Transactional Replication
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Troy Gallant
 ## Title: Introduction to Transactional Replication
@@ -359,7 +359,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 32147
 # 5 Resolutions to Build Your Professional "Brand"
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Patricia (Pat) Baxter
 ## Title: 5 Resolutions to Build Your Professional "Brand"
@@ -368,7 +368,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 32250
 # Common SQL Programming Mistakes
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Plamen Ratchev
 ## Title: Common SQL Programming Mistakes
@@ -377,7 +377,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32251
 # Refactoring SQL for Performance
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Plamen Ratchev
 ## Title: Refactoring SQL for Performance
@@ -386,7 +386,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32282
 # SQL Server Data Compression  101
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Patrick LeBlanc
 ## Title: SQL Server Data Compression  101
@@ -395,7 +395,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 32638
 # Database Hardening via PowerShell
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Ronald Dameron
 ## Title: Database Hardening via PowerShell
@@ -405,7 +405,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 32835
 # Developing with SQL Azure
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Scott Klein
 ## Title: Developing with SQL Azure
@@ -414,7 +414,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33031
 # Clustering for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Geoff Hiten
 ## Title: Clustering for Mere Mortals
@@ -423,7 +423,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33116
 # PGP encryption using SSIS
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Scott Gleason
 ## Title: PGP encryption using SSIS
@@ -432,7 +432,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 33364
 # SQL Server Beyond Relational
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Telmo Sampaio
 ## Title: SQL Server Beyond Relational
@@ -442,7 +442,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 33478
 # SQL Server Service Broker
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Kevin Boles
 ## Title: SQL Server Service Broker
@@ -451,7 +451,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 33479
 # Care and Feeding of TempDB
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kevin Boles
 ## Title: Care and Feeding of TempDB
@@ -460,7 +460,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33800
 # Database Table Partitioning, The Next Step
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Elijah Baker
 ## Title: Database Table Partitioning, The Next Step
@@ -469,7 +469,7 @@ Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33836
 # Data Mining and Predictive Analysis using SQL 2008
-#### [Back to calendar](#SQLSaturday-#32---Tampa-2010)
+#### [Back to calendar](#SQLSaturday-#32-Tampa-2010)
 Event Date: 23-01-2010 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Vikas Hawaldar
 ## Title: Data Mining and Predictive Analysis using SQL 2008

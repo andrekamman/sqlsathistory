@@ -33,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10406
 # Data-ing Advice: Profiles are Important
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Theoreau
 ## Speaker: Britton Gray
 ## Title: Data-ing Advice: Profiles are Important
@@ -42,7 +42,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Theoreau
 #  
 #### SessionID: 10873
 # Reporting Services for Mere DBAs
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Bunker Hill
 ## Speaker: Jason Brimhall
 ## Title: Reporting Services for Mere DBAs
@@ -51,7 +51,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Bunker Hill
 #  
 #### SessionID: 10875
 # Murder They Wrote
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Theoreau
 ## Speaker: Jason Brimhall
 ## Title: Murder They Wrote
@@ -62,7 +62,7 @@ This is the Solo version of the Joint version normally done as an all-day precon
 #  
 #### SessionID: 11031
 # Dimensional Modeling: The Heart of a Data Warehouse 
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Longfellow
 ## Speaker: Bryan Cafferky
 ## Title: Dimensional Modeling: The Heart of a Data Warehouse 
@@ -71,7 +71,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Longfellow
 #  
 #### SessionID: 11427
 # Using Change Data Capture (CDC) to build a Data Warehouse.
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Constitution
 ## Speaker: Charles Hyman
 ## Title: Using Change Data Capture (CDC) to build a Data Warehouse.
@@ -89,7 +89,7 @@ Integration with SSIS and Stored procs will be shown.  Generation of BI Reports 
 #  
 #### SessionID: 12055
 # Scratching the surface: An overview of SSRS and building your first BI Report
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Hawthorne
 ## Speaker: Chris Seferlis
 ## Title: Scratching the surface: An overview of SSRS and building your first BI Report
@@ -98,7 +98,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Hawthorne
 #  
 #### SessionID: 12891
 # SSIS-restart, scale up/out, load balance.
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Hawthorne
 ## Speaker: Daniel Bowlin
 ## Title: SSIS-restart, scale up/out, load balance.
@@ -107,7 +107,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Hawthorne
 #  
 #### SessionID: 14562
 # What is MDS and DQS (Master Data Services/Data Quality Services)
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Hawthorne
 ## Speaker: George Walters
 ## Title: What is MDS and DQS (Master Data Services/Data Quality Services)
@@ -117,7 +117,7 @@ Mostly a discussion of possible uses for these relatively recent additions to th
 #  
 #### SessionID: 15600
 # Building an Effective Data Warehouse Architecture
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Longfellow
 ## Speaker: James Serra
 ## Title: Building an Effective Data Warehouse Architecture
@@ -126,7 +126,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Longfellow
 #  
 #### SessionID: 15601
 # Best Practices to Deliver BI Solutions
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Concord
 ## Speaker: James Serra
 ## Title: Best Practices to Deliver BI Solutions
@@ -137,7 +137,7 @@ I have worked on dozens of end-to-end BI projects and have seen my share of succ
 #  
 #### SessionID: 16824
 # Advanced Power Query Techniques
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Bunker Hill
 ## Speaker: Jim Sinclair
 ## Title: Advanced Power Query Techniques
@@ -146,7 +146,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Bunker Hill
 #  
 #### SessionID: 17552
 # SSIS Performance Tuning Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Hawthorne
 ## Speaker: James Phillips
 ## Title: SSIS Performance Tuning Tips and Tricks
@@ -155,7 +155,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Hawthorne
 #  
 #### SessionID: 17583
 # Shade Tree Mechanic's Guide to SSAS
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Concord
 ## Speaker: Justin Randall
 ## Title: Shade Tree Mechanic's Guide to SSAS
@@ -164,7 +164,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Concord
 #  
 #### SessionID: 19666
 # MDX Trek: First Contact
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Theoreau
 ## Speaker: Mark Vaillancourt
 ## Title: MDX Trek: First Contact
@@ -173,7 +173,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Theoreau
 #  
 #### SessionID: 19962
 # See the Future with SQL Running Totals - Never Run Out of Anything Again
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Bunker Hill
 ## Speaker: Robert McCauley
 ## Title: See the Future with SQL Running Totals - Never Run Out of Anything Again
@@ -185,7 +185,7 @@ We will demonstrate algorithms for tracking running totals and check that they s
 #  
 #### SessionID: 21677
 # Setting up your BI Infrastructure
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Concord
 ## Speaker: Paresh Motiwala
 ## Title: Setting up your BI Infrastructure
@@ -196,7 +196,7 @@ What are the best practices involved in creating a BI infrastructure. We can dis
 #  
 #### SessionID: 22373
 # Exploiting Excel Cube Functions in your Reports and Dashboards
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Longfellow
 ## Speaker: Philip Taylor
 ## Title: Exploiting Excel Cube Functions in your Reports and Dashboards
@@ -206,7 +206,7 @@ This session introduces the seven cube functions, while focusing on those most u
 #  
 #### SessionID: 25565
 # Power to the people!!
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Constitution
 ## Speaker: Steve Simon
 ## Title: Power to the people!!
@@ -217,7 +217,7 @@ In this hands on presentation we shall be looking at practical ways and means of
 #  
 #### SessionID: 25567
 # SQL Server 2014 Data Access Layers
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Theoreau
 ## Speaker: Steve Simon
 ## Title: SQL Server 2014 Data Access Layers
@@ -226,7 +226,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Theoreau
 #  
 #### SessionID: 25570
 # A dive into Data Quality Services
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Constitution
 ## Speaker: Steve Simon
 ## Title: A dive into Data Quality Services
@@ -235,7 +235,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Constitution
 #  
 #### SessionID: 25821
 # Using Power BI to Deliver Self-Service BI
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Bunker Hill
 ## Speaker: Stevo Smocilac
 ## Title: Using Power BI to Deliver Self-Service BI
@@ -246,7 +246,7 @@ We will begin the session by using Power Query and the M language to import and 
 #  
 #### SessionID: 25882
 # Develop Impressive Dashboards using SSRS 2014
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Concord
 ## Speaker: Sunil Kadimdiwan
 ## Title: Develop Impressive Dashboards using SSRS 2014
@@ -255,7 +255,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Concord
 #  
 #### SessionID: 26138
 # Security for your BI data
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Longfellow
 ## Speaker: Thomas Grohser
 ## Title: Security for your BI data
@@ -265,7 +265,7 @@ Handling permissions on a read only copy (readable mirror or snapshot) or indivi
 #  
 #### SessionID: 9144
 # On-Demand Compute and Analytics with Powershell, Hadoop and Azure
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Longfellow
 ## Speaker: Adam Jorgensen
 ## Title: On-Demand Compute and Analytics with Powershell, Hadoop and Azure
@@ -274,7 +274,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Longfellow
 #  
 #### SessionID: 9368
 # Scaling Power Pivot Solutions
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Hawthorne
 ## Speaker: Anthony Martin
 ## Title: Scaling Power Pivot Solutions
@@ -283,7 +283,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Hawthorne
 #  
 #### SessionID: 9643
 # The Modern Data Warehouse
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Constitution
 ## Speaker: Andy Roberts
 ## Title: The Modern Data Warehouse
@@ -292,7 +292,7 @@ Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Constitution
 #  
 #### SessionID: 9644
 # Azure Machine Learning Studio
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Concord
 ## Speaker: Andy Roberts
 ## Title: Azure Machine Learning Studio
@@ -303,7 +303,7 @@ In this session we will introduce the Azure ML platform, discuss some of the cur
 #  
 #### SessionID: 9683
 # Securing Analysis Services Tabular
-#### [Back to calendar](#SQLSaturday-#334---Boston---BI-Edition-2014)
+#### [Back to calendar](#SQLSaturday-#334-Boston-BI-Edition-2014)
 Event Date: 27-09-2014 - Session time: 00:00:00 - Track: Constitution
 ## Speaker: Anthony Martin
 ## Title: Securing Analysis Services Tabular

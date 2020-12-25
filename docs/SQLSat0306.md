@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11457
 # DBA Code Reviews Done Dirt Cheap
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Queen Ann
 ## Speaker: Robert Davis
 ## Title: DBA Code Reviews Done Dirt Cheap
@@ -37,7 +37,7 @@ Whether you currently do code reviews or think it might be a good practice to st
 #  
 #### SessionID: 12419
 # Data Mining in the Microsoft Stack
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Montlake
 ## Speaker: David Lydston
 ## Title: Data Mining in the Microsoft Stack
@@ -46,7 +46,7 @@ Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Montlake
 #  
 #### SessionID: 12798
 # SRS Report Builder for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Montlake
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
@@ -55,7 +55,7 @@ Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Montlake
 #  
 #### SessionID: 14835
 # Alice’s SQL Server DBA Training Plan
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Capital Hill
 ## Speaker: Greg Larsen
 ## Title: Alice’s SQL Server DBA Training Plan
@@ -74,7 +74,7 @@ As Alice travels through SQL Server Land we will be watching Alice as she perfor
 #  
 #### SessionID: 16091
 # Automating Execution Plan Analysis
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Capital Hill
 ## Speaker: Joe Chang
 ## Title: Automating Execution Plan Analysis
@@ -83,7 +83,7 @@ Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Capital Hill
 #  
 #### SessionID: 16844
 # Columnstore Indexes in SQL Server 2014: Flipping the DW Faster Bit
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Capital Hill
 ## Speaker: Jimmy May
 ## Title: Columnstore Indexes in SQL Server 2014: Flipping the DW Faster Bit
@@ -92,7 +92,7 @@ Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Capital Hill
 #  
 #### SessionID: 17850
 # Unblock yourself -- Optimistic concurrency in Hekaton
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Capital Hill
 ## Speaker: Kalen Delaney
 ## Title: Unblock yourself -- Optimistic concurrency in Hekaton
@@ -101,7 +101,7 @@ Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Capital Hill
 #  
 #### SessionID: 22245
 # SSIS - manage concurrent processing using SQL Server Broker
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Montlake
 ## Speaker: Piotr Palka
 ## Title: SSIS - manage concurrent processing using SQL Server Broker
@@ -111,7 +111,7 @@ In this session we will cover how we can use WMI event watchers to monitor for i
 #  
 #### SessionID: 22629
 # T-SQL - Temporary Objects
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Pioneer Square
 ## Speaker: Rich Baumet
 ## Title: T-SQL - Temporary Objects
@@ -120,7 +120,7 @@ Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Pioneer Square
 #  
 #### SessionID: 23018
 # SQL Aggregation Queries Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Pioneer Square
 ## Speaker: Rick  Morelan
 ## Title: SQL Aggregation Queries Tips and Tricks
@@ -133,7 +133,7 @@ Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Pioneer Square
 #  
 #### SessionID: 23567
 # SQL Server Upgrade Strategies
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Queen Ann
 ## Speaker: Ron Talmage
 ## Title: SQL Server Upgrade Strategies
@@ -142,7 +142,7 @@ Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Queen Ann
 #  
 #### SessionID: 23681
 # SSIS project deployments with multiple developers
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Montlake
 ## Speaker: Russel Loski
 ## Title: SSIS project deployments with multiple developers
@@ -154,7 +154,7 @@ In this session I demonstrate common problems that arise in the package developm
 #  
 #### SessionID: 24063
 # "I've got the Power" with PowerBI and the PASS Community!
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Montlake
 ## Speaker: Scott Stauffer
 ## Title: "I've got the Power" with PowerBI and the PASS Community!
@@ -168,7 +168,7 @@ Let's use public SQL Server community data to highlight capabilities of the Late
 #  
 #### SessionID: 24990
 # Inside and out of Transactional Replication
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Queen Ann
 ## Speaker: Chuck Lathrope
 ## Title: Inside and out of Transactional Replication
@@ -177,7 +177,7 @@ Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Queen Ann
 #  
 #### SessionID: 26389
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Pioneer Square
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -186,7 +186,7 @@ Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Pioneer Square
 #  
 #### SessionID: 26887
 # Backup and Recovery Basics
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Queen Ann
 ## Speaker: Theresa Iserman
 ## Title: Backup and Recovery Basics
@@ -195,7 +195,7 @@ Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Queen Ann
 #  
 #### SessionID: 27103
 # Dell Software tools for SQL Server performance management
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Queen Ann
 ## Speaker: Trent Mera
 ## Title: Dell Software tools for SQL Server performance management
@@ -204,7 +204,7 @@ Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Queen Ann
 #  
 #### SessionID: 27104
 # SQL Server Waits reveal which of your statements most need tuning
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Pioneer Square
 ## Speaker: Trent Mera
 ## Title: SQL Server Waits reveal which of your statements most need tuning
@@ -213,7 +213,7 @@ Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Pioneer Square
 #  
 #### SessionID: 27382
 # Practical Fundamentals of Query Performance Tuning
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Pioneer Square
 ## Speaker: Vern Rabe
 ## Title: Practical Fundamentals of Query Performance Tuning
@@ -222,7 +222,7 @@ Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Pioneer Square
 #  
 #### SessionID: 34674
 # Master Data Management - Getting Started with SQL Server MDS
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Queen Ann
 ## Speaker: John McAllister
 ## Title: Master Data Management - Getting Started with SQL Server MDS
@@ -233,7 +233,7 @@ After we've set the stage for what, how and why you need MDM, we'll take a brief
 #  
 #### SessionID: 9763
 # Peace of Mind: Making DBCC CHECKDB Go Faster
-#### [Back to calendar](#SQLSaturday-#306---Redmond-2014)
+#### [Back to calendar](#SQLSaturday-#306-Redmond-2014)
 Event Date: 31-05-2014 - Session time: 00:00:00 - Track: Capital Hill
 ## Speaker: Argenis Fernandez
 ## Title: Peace of Mind: Making DBCC CHECKDB Go Faster

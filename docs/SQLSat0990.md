@@ -39,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 105706
 # Azure DevOps duet (60 minutes version)
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Kevin Chant
 ## Title: Azure DevOps duet (60 minutes version)
@@ -60,7 +60,7 @@ After this session you will have the tools and knowledge to get started with Dev
 #  
 #### SessionID: 105834
 # Keynote
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Juan Rafael
 ## Title: Keynote
@@ -69,7 +69,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 105454
 # SQL Curiosities: La curiosidad mató al gatito
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: André Melancia
 ## Title: SQL Curiosities: La curiosidad mató al gatito
@@ -79,7 +79,7 @@ Disclaimer: No feline was harmed in the making of this session. Please do not re
 #  
 #### SessionID: 105645
 # El verdadero poder de Power BI como herramienta de Business Intelligence
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Ana Maria Bisbé York
 ## Title: El verdadero poder de Power BI como herramienta de Business Intelligence
@@ -89,7 +89,7 @@ A través de ejemplos se muestra Power BI como herramienta Business Intelligence
 #  
 #### SessionID: 105652
 # DAX As Power BI Visualization Weapon. Virtual Relationships And Time Intelligence Analytics
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Ruslan Zolotukhin
 ## Title: DAX As Power BI Visualization Weapon. Virtual Relationships And Time Intelligence Analytics
@@ -98,7 +98,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 105793
 # Integration SCRUM + Microsoft Tools
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Bryan Medrano Ruiz
 ## Title: Integration SCRUM + Microsoft Tools
@@ -109,7 +109,7 @@ Entonces, esta es la sesión ideal para ti. Te mostraremos casos puntuales de la
 #  
 #### SessionID: 105165
 # T-SQL Performance Guidelines for the optimal DB stress powers
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for the optimal DB stress powers
@@ -118,7 +118,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 105579
 # Levantar Data Warehouse Moderno en Azure
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Walter Calcagno
 ## Title: Levantar Data Warehouse Moderno en Azure
@@ -127,7 +127,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 105671
 # T-SQL: Escribiendo código de alto desempeño
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Eduardo Pivaral
 ## Title: T-SQL: Escribiendo código de alto desempeño
@@ -138,7 +138,7 @@ En esta sesión, aprenderemos algunos consejos básicos para crear código de al
 #  
 #### SessionID: 105730
 # Gráficos animados en R
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Big Data  Analytics
 ## Speaker: Edison Lecca
 ## Title: Gráficos animados en R
@@ -147,7 +147,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 105395
 # Power BI dataflows : Going beyond the self-service
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Dennes Torres
 ## Title: Power BI dataflows : Going beyond the self-service
@@ -160,7 +160,7 @@ In this session you will understand better how the dataflows are an important fe
 #  
 #### SessionID: 105403
 # Getting Started with Apache Spark
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Big Data  Analytics
 ## Speaker: Kevin Feasel
 ## Title: Getting Started with Apache Spark
@@ -169,7 +169,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 105452
 # Hacking SQL Server Is Not Enough
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server Is Not Enough
@@ -180,7 +180,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #  
 #### SessionID: 105647
 # Escenarios de modelado en DAX, el súper lenguaje de Power BI.
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Ana Maria Bisbé York
 ## Title: Escenarios de modelado en DAX, el súper lenguaje de Power BI.
@@ -189,7 +189,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 105182
 # Lo nuevo en SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Javier Villegas
 ## Title: Lo nuevo en SQL Server 2019
@@ -198,7 +198,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Rela
 #  
 #### SessionID: 105419
 # Big Data Clusters for the Absolute Beginner
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Mohammad Darab
 ## Title: Big Data Clusters for the Absolute Beginner
@@ -214,7 +214,7 @@ Topics include:
 #  
 #### SessionID: 105447
 # Arquitectura de Datos con Azure Synapse Analytics
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Arquitectura de Datos con Azure Synapse Analytics
@@ -223,7 +223,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 105581
 # Azure Machine Learning en 60 minutos
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Ahias Portillo
 ## Title: Azure Machine Learning en 60 minutos
@@ -232,7 +232,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 105449
 # Machine Learning is full of stars: An Azure Story
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: André Melancia
 ## Title: Machine Learning is full of stars: An Azure Story
@@ -243,7 +243,7 @@ Disclaimer: All these worlds are yours except Cognitive Service, that's for a di
 #  
 #### SessionID: 105651
 # Mejorando la seguridad de datos sensibles con técnicas de enmascarado en Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Alberto De Rossi
 ## Title: Mejorando la seguridad de datos sensibles con técnicas de enmascarado en Azure SQL Database
@@ -252,7 +252,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Rela
 #  
 #### SessionID: 105726
 # Microsoft Genomic Analytics
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Nicolas Nakasone
 ## Title: Microsoft Genomic Analytics
@@ -261,7 +261,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 105775
 # Power BI con MS Dynamics 365 FO
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Big Data  Analytics
 ## Speaker: Juan Rafael
 ## Title: Power BI con MS Dynamics 365 FO
@@ -270,7 +270,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Big Data  Analytics
 #  
 #### SessionID: 105181
 # Introduccion a la Plataforma de Datos de Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Javier Villegas
 ## Title: Introduccion a la Plataforma de Datos de Microsoft Azure
@@ -280,7 +280,7 @@ Conoceremos todos estos servicios para así poder seleccionar el más convenient
 #  
 #### SessionID: 105420
 # Azure Vs. AWS: And the winner is!!!
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Paresh Motiwala
 ## Title: Azure Vs. AWS: And the winner is!!!
@@ -311,7 +311,7 @@ We will look into the following aspects and more:
 #  
 #### SessionID: 105580
 # Processing Tabular Models
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Gaston Cruz
 ## Title: Processing Tabular Models
@@ -320,7 +320,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 105681
 # Chatbots: La interacción entre tus clientes y tus datos
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Luis Beltran
 ## Title: Chatbots: La interacción entre tus clientes y tus datos
@@ -333,7 +333,7 @@ Esta sesión se enfocará en explicar a los actores involucrados al construir un
 #  
 #### SessionID: 105446
 # Machine Learning con Databricks
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Machine Learning con Databricks
@@ -342,7 +342,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 105643
 # Tips que todo amante de Power BI debe conocer ...
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Jorge Michael Muchaypiña Gutierrez
 ## Title: Tips que todo amante de Power BI debe conocer ...
@@ -351,7 +351,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 105663
 # Data virtualization with SQL Server 2019 PolyBase
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Itshak David
 ## Title: Data virtualization with SQL Server 2019 PolyBase
@@ -372,7 +372,7 @@ Monitor  PolyBase with  Dynamic Management Views .
 #  
 #### SessionID: 105717
 # Intelligent Query Processing in sql server 2019
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Mariano Irvin Lopez Jaramillo
 ## Title: Intelligent Query Processing in sql server 2019
@@ -381,7 +381,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Rela
 #  
 #### SessionID: 105399
 # Achieving Wonders with Query Store
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Dennes Torres
 ## Title: Achieving Wonders with Query Store
@@ -390,7 +390,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Rela
 #  
 #### SessionID: 105405
 # Developing Cosmos DB for the Enterprise
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Big Data  Analytics
 ## Speaker: Will Velida
 ## Title: Developing Cosmos DB for the Enterprise
@@ -403,7 +403,7 @@ By the end of this session, you should be able to take these learnings and apply
 #  
 #### SessionID: 105619
 # Consolidando históricos en Power BI
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Alfredo Diego Amez Mendes
 ## Title: Consolidando históricos en Power BI
@@ -412,7 +412,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 105729
 # IA  Data Sience con SQL Server
-#### [Back to calendar](#SQLSaturday-#990---Chimbote,-Perú-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#990-Chimbote,-Perú-–-Virtual-2020)
 Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Miguel Arturo Valle Pelaez
 ## Title: IA  Data Sience con SQL Server

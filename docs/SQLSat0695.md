@@ -41,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 70440
 # Power BI Report Server
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Information Delivery
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Power BI Report Server
@@ -51,7 +51,7 @@ Esta charla cubre temas como la instalación, creación de reportes, publicarlos
 #  
 #### SessionID: 70508
 # Introducción a Reporting Services 2017
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Yanitza Campos
 ## Title: Introducción a Reporting Services 2017
@@ -61,7 +61,7 @@ En esta sesión exploraremos sus nuevas características; así como sus ventajas
 #  
 #### SessionID: 70509
 # SQL Server on Linux
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: SQL Server on Linux
@@ -70,7 +70,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 71409
 # Working with Mobile Databases
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Keneth Murillo
 ## Title: Working with Mobile Databases
@@ -79,7 +79,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 72401
 # Dr Rudo SQL presenta: Administra SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Dr Rudo SQL presenta: Administra SQL Server 2017
@@ -88,7 +88,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 72951
 # Machine Learning para principiantes
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Victor Hugo Cardenas
 ## Title: Machine Learning para principiantes
@@ -97,7 +97,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 69571
 # Integracion y Entrega Continua con Docker para SQL Server
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christian Melendez
 ## Title: Integracion y Entrega Continua con Docker para SQL Server
@@ -108,7 +108,7 @@ En esta presentación veremos cómo los contenedores Docker para SQL Server nos 
 #  
 #### SessionID: 69573
 # Data Analytics con Python en SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: Data Analytics con Python en SQL Server 2017
@@ -117,7 +117,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 69834
 # SQL Server Health check
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carlos Robles
 ## Title: SQL Server Health check
@@ -132,7 +132,7 @@ What tools we can use to perform a SQL Server health check?
 #  
 #### SessionID: 71309
 # Introducción a SQL Graph Databases
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Ricardo Estrada
 ## Title: Introducción a SQL Graph Databases
@@ -141,7 +141,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 72571
 # Una luz dentro del mundo oculto de las estadísticas de SQL Server
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Javier Loria
 ## Title: Una luz dentro del mundo oculto de las estadísticas de SQL Server
@@ -150,7 +150,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 73739
 # Mas rápido y Mas Furioso: Windowing Functions  Columnstore Indexes
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Ahias Portillo
 ## Title: Mas rápido y Mas Furioso: Windowing Functions  Columnstore Indexes
@@ -159,7 +159,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database D
 #  
 #### SessionID: 68954
 # Como resolver problemas de rendimiento con SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adrian Miranda
 ## Title: Como resolver problemas de rendimiento con SQL Server 2016
@@ -168,7 +168,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 69640
 # Implementing Row Level security
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christian Araujo
 ## Title: Implementing Row Level security
@@ -177,7 +177,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 69967
 # Mejores practicas para instalación de motores SQL Server
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: José Villalta
 ## Title: Mejores practicas para instalación de motores SQL Server
@@ -186,7 +186,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 72378
 # Tips and tricks de Power BI
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Information Delivery
 ## Speaker: Juan Alvarado
 ## Title: Tips and tricks de Power BI
@@ -195,7 +195,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 72574
 # Trucos de T-SQL que deberias estar usando en tu Datawarehouse
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: Trucos de T-SQL que deberias estar usando en tu Datawarehouse
@@ -205,7 +205,7 @@ Más específicamente cubriremos temas variados que incluyen desde configuració
 #  
 #### SessionID: 72987
 # Advanced Performance Diagnostics in SQL Server
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alexander Ortiz
 ## Title: Advanced Performance Diagnostics in SQL Server
@@ -224,7 +224,7 @@ service levels.
 #  
 #### SessionID: 69177
 # SQL Server 2016 - Mejorando el desempeño de consultas de análisis sobre sistemas de misión crítica
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2016 - Mejorando el desempeño de consultas de análisis sobre sistemas de misión crítica
@@ -233,7 +233,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 69483
 # SQL Server 2017 Automatic Tuning
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alejandro Cordero
 ## Title: SQL Server 2017 Automatic Tuning
@@ -242,7 +242,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 69577
 # Introducción a Data Analysis Expressions (DAX)
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Information Delivery
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Introducción a Data Analysis Expressions (DAX)
@@ -261,7 +261,7 @@ Tablas relacionadas
 #  
 #### SessionID: 69920
 # New times, new business, new generations.  Training new (and old) members of your team.
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Esdras Salazar
 ## Title: New times, new business, new generations.  Training new (and old) members of your team.
@@ -270,7 +270,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 70452
 # Necesitamos BI, ¡utilicemos la nube! (Azure SQL Database - Azure Analysis Services - Power BI)
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Information Delivery
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: Necesitamos BI, ¡utilicemos la nube! (Azure SQL Database - Azure Analysis Services - Power BI)
@@ -280,7 +280,7 @@ En este espacio aprovecharemos las bondades de una solución 100% nube, creando 
 #  
 #### SessionID: 70596
 # La historia debe contarse como es......SQL Temporal Tables
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Vladimir Guzman
 ## Title: La historia debe contarse como es......SQL Temporal Tables
@@ -291,7 +291,7 @@ Veremos las formas de crear Temporal Tables así como su acceso, consulta y actu
 #  
 #### SessionID: 72402
 # Como hacer un  PowerBI DBA Dashboard
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Jesus Gil
 ## Title: Como hacer un  PowerBI DBA Dashboard
@@ -300,7 +300,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 68953
 # Troubleshooting SQL Server
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adrian Miranda
 ## Title: Troubleshooting SQL Server
@@ -309,7 +309,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 69175
 # SQL 2016 - Diseñando mi datawarehouse "Disaster recovery ready"
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kenneth Urena
 ## Title: SQL 2016 - Diseñando mi datawarehouse "Disaster recovery ready"
@@ -318,7 +318,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 69835
 # Advance SQL Server troubleshooting with DMVs
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Carlos Robles
 ## Title: Advance SQL Server troubleshooting with DMVs
@@ -329,7 +329,7 @@ In this session we will show how to use and the most important to understand the
 #  
 #### SessionID: 69971
 # Monitoreando el performance del motor SQL con el Performance Dashboard Reports de Microsoft.
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Strategy and Architecture
 ## Speaker: José Villalta
 ## Title: Monitoreando el performance del motor SQL con el Performance Dashboard Reports de Microsoft.
@@ -338,7 +338,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 70542
 # La era de los Reportes Móviles
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Yanitza Campos
 ## Title: La era de los Reportes Móviles
@@ -347,7 +347,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 70594
 # Big Bang SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Other
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: Big Bang SQL Server 2017
@@ -358,7 +358,7 @@ Transact SQL, BI y otros elementos que antes no se pensaba pudiera existir.
 #  
 #### SessionID: 69855
 # Introduccion al Machine Learning Server
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: Introduccion al Machine Learning Server
@@ -367,7 +367,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 70358
 # Delivering a Data Warehouse in the Cloud
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ahias Portillo
 ## Title: Delivering a Data Warehouse in the Cloud
@@ -382,7 +382,7 @@ Loading data from a variety of sources, querying using PolyBase, securing and re
 #  
 #### SessionID: 70405
 # Working with Text Analytics
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Keneth Murillo
 ## Title: Working with Text Analytics
@@ -391,7 +391,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 70511
 # Reporting Services Administration Tips
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Reporting Services Administration Tips
@@ -400,7 +400,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 72526
 # AWS RedShift vs MS Azure Data Warehouse
-#### [Back to calendar](#SQLSaturday-#695---Guatemala-2018)
+#### [Back to calendar](#SQLSaturday-#695-Guatemala-2018)
 Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alejandro Cordero
 ## Title: AWS RedShift vs MS Azure Data Warehouse

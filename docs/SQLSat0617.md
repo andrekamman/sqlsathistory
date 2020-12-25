@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 57823
 # Designing High Availability Database Systems using AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: Designing High Availability Database Systems using AlwaysOn Availability Groups
@@ -52,7 +52,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 58239
 # Keys to Successful SharePoint Administration for the DBA
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Other
 ## Speaker: Daniel Glenn
 ## Title: Keys to Successful SharePoint Administration for the DBA
@@ -61,7 +61,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Other
 #  
 #### SessionID: 59405
 # Increase Your Coding Speed in SQL Server Management Studio
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Samir Behara
 ## Title: Increase Your Coding Speed in SQL Server Management Studio
@@ -74,7 +74,7 @@ By the end of this session, you will learn some useful techniques to take back w
 #  
 #### SessionID: 63447
 # SQL Server Databaseology: A Deep Dive Into Database Internals
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology: A Deep Dive Into Database Internals
@@ -83,7 +83,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 63454
 # Managing Your Schema with Database Projects in Visual Studio
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Kerry Tyler
 ## Title: Managing Your Schema with Database Projects in Visual Studio
@@ -92,7 +92,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 59665
 # Does your performance tuning need a 12-step program?
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Does your performance tuning need a 12-step program?
@@ -106,7 +106,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61083
 # Intelligent Indexing
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Arvin Meyer
 ## Title: Intelligent Indexing
@@ -115,7 +115,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 61098
 # What is Power BI?
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Thomas LeBlanc
 ## Title: What is Power BI?
@@ -124,7 +124,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 62673
 # SQL Server R Services in SQL 2016
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
@@ -133,7 +133,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 63378
 # T-SQL Tips  Tricks to Make Your Life Easier!
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: T-SQL Tips  Tricks to Make Your Life Easier!
@@ -146,7 +146,7 @@ This session targets both developers and DBAs; the only prerequisites are the de
 #  
 #### SessionID: 57800
 # Let Her Finish: Supporting Women's Voices from meetings to the board room
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Let Her Finish: Supporting Women's Voices from meetings to the board room
@@ -156,7 +156,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 58131
 # You want me to Isolate what? An introduction into data integrity and Isolation Levels of SQL Server
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Robert Bishop
 ## Title: You want me to Isolate what? An introduction into data integrity and Isolation Levels of SQL Server
@@ -165,7 +165,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 59465
 # Testing SSIS Packages
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Testing SSIS Packages
@@ -183,7 +183,7 @@ This session walks through design patterns for testing SSIS packages during and 
 #  
 #### SessionID: 59711
 # Introduction to Execution Plans
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Lance Tidwell
 ## Title: Introduction to Execution Plans
@@ -192,7 +192,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 62438
 # I’m It – Survival Techniques for the Lone DBA
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I’m It – Survival Techniques for the Lone DBA
@@ -201,7 +201,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 63402
 # Azure SQL Database for the Production DBA
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Radney
 ## Title: Azure SQL Database for the Production DBA
@@ -210,7 +210,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65680
 # SQL and VMWare - More than just virtualization demos
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Rodney Landrum
 ## Title: SQL and VMWare - More than just virtualization demos
@@ -219,7 +219,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 65681
 # Root cause analysis with SentryOne
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Hall
 ## Title: Root cause analysis with SentryOne
@@ -228,7 +228,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66388
 # DPA – A Product Overview from SolarWinds
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: DPA – A Product Overview from SolarWinds
@@ -237,7 +237,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 57799
 # Mastering your Resume  Interview: Tips to Get Hired
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Mastering your Resume  Interview: Tips to Get Hired
@@ -246,7 +246,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 57802
 # SQL Server Permissions and Security Principals
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: William Assaf
 ## Title: SQL Server Permissions and Security Principals
@@ -255,7 +255,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 57907
 # Working Effectively With Legacy SQL
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Working Effectively With Legacy SQL
@@ -264,7 +264,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 58293
 # Seeking the Perfect Hybrid:  On-Prem Data with Reports and Dashboards in Power BI
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: William E Pearson III
 ## Title: Seeking the Perfect Hybrid:  On-Prem Data with Reports and Dashboards in Power BI
@@ -276,7 +276,7 @@ This session applies, in most respects, to Analysis Services 2012 and above.
 #  
 #### SessionID: 61534
 # T-SQL's Hidden Support Feature
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: T-SQL's Hidden Support Feature
@@ -287,7 +287,7 @@ In this session, Microsoft Certified Master Jennifer McCown will demonstrate the
 #  
 #### SessionID: 62554
 # Execution Plans for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
@@ -298,7 +298,7 @@ Reading execution plans becomes much less intimidating as we walk through the fl
 #  
 #### SessionID: 57813
 # Embedding Power BI In your Web Application
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Pritesh Ostwal
 ## Title: Embedding Power BI In your Web Application
@@ -311,7 +311,7 @@ This session goes through different ways you can embed Power BI (Portal Reports)
 #  
 #### SessionID: 58016
 # SSIS - Lightning fast processing using Parallel processing  Optimization
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Vishal Pawar
 ## Title: SSIS - Lightning fast processing using Parallel processing  Optimization
@@ -320,7 +320,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 60978
 # A Rocket Scientist View on Indexes
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: A Rocket Scientist View on Indexes
@@ -329,7 +329,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 61086
 # Fundamentals of Disaster Planning  Recovery
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Michael Viron
 ## Title: Fundamentals of Disaster Planning  Recovery
@@ -338,7 +338,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 61532
 # Monster Text Manipulation: Regular Expressions for the DBA
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
@@ -353,7 +353,7 @@ Here you’ll learn:
 #  
 #### SessionID: 62825
 # Lighten Up: Soft Skills for Hardcore Techies
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Mike Hillwig
 ## Title: Lighten Up: Soft Skills for Hardcore Techies
@@ -366,7 +366,7 @@ You will learn Mike's keys to good storytelling, making analogies, listening, wr
 #  
 #### SessionID: 57795
 # Code Like a Pirate ... Intro to R and Data Science Tools in MS
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Pirate ... Intro to R and Data Science Tools in MS
@@ -390,7 +390,7 @@ The focus of the session will be primarily on the introduction to the R language
 #  
 #### SessionID: 57837
 # Crash Course on Better SQL Development
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
@@ -399,7 +399,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 59749
 # Autonomous Transaction Logging in SQL Server
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Autonomous Transaction Logging in SQL Server
@@ -412,7 +412,7 @@ We'll review minimal techniques like RAISERROR and the new SESSION_CONTEXT() fea
 #  
 #### SessionID: 61526
 # Master Data Management with SQL Server 2016 MDS
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Neal Waterstreet
 ## Title: Master Data Management with SQL Server 2016 MDS
@@ -421,7 +421,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 61615
 # TempDB Parasites!
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Jason Hall
 ## Title: TempDB Parasites!
@@ -434,7 +434,7 @@ Learn about little known performance optimization techniques for tempdb
 #  
 #### SessionID: 62617
 # I like big data for $400  - Exploring quiz show questions using Angular, DocumentDB and Azure Search
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Christopher Sims
 ## Title: I like big data for $400  - Exploring quiz show questions using Angular, DocumentDB and Azure Search
@@ -443,7 +443,7 @@ Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 62679
 # Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
-#### [Back to calendar](#SQLSaturday-#617---Pensacola-2017)
+#### [Back to calendar](#SQLSaturday-#617-Pensacola-2017)
 Event Date: 03-06-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks

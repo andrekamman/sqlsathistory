@@ -38,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 54831
 # DW SuperHero-Columnstore Index
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Manjot Kaur
 ## Title: DW SuperHero-Columnstore Index
@@ -47,7 +47,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 61595
 # How to Use Parameters Like a Pro and Boost Performance
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Guy Glantser
 ## Title: How to Use Parameters Like a Pro and Boost Performance
@@ -58,7 +58,7 @@ In this session we will learn about plan caching and how the query optimizer han
 #  
 #### SessionID: 61596
 # The Power of Power Query  | Microsoft Dev Team
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Matt Masson
 ## Title: The Power of Power Query  | Microsoft Dev Team
@@ -67,7 +67,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 61597
 # Power BI – Finally I can make decisions based on facts
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Adam Cogan
 ## Title: Power BI – Finally I can make decisions based on facts
@@ -80,7 +80,7 @@ He will show in a live demo how Power BI allows even non-technical users to prod
 #  
 #### SessionID: 61806
 # Excel Tips and Tricks for the Data Professional
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Bernard Spence
 ## Title: Excel Tips and Tricks for the Data Professional
@@ -89,7 +89,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 54833
 # An Introduction to R and R Services
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Craig Bryden
 ## Title: An Introduction to R and R Services
@@ -99,7 +99,7 @@ In this session I will provide an introduction to the R language as well as disc
 #  
 #### SessionID: 57142
 # Hitting the SQL Server "Go Faster" Button
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Douglas
 ## Title: Hitting the SQL Server "Go Faster" Button
@@ -109,7 +109,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 57478
 # Handling Relationships in DAX
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Russo
 ## Title: Handling Relationships in DAX
@@ -118,7 +118,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 61594
 # Power BI for Enterprise, safely sharing your data | MS Dev Team
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Grant Paisley
 ## Title: Power BI for Enterprise, safely sharing your data | MS Dev Team
@@ -127,7 +127,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 61807
 # SQL Server 2016 - What module to use and why
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Other
 ## Speaker: Grant Paisley
 ## Title: SQL Server 2016 - What module to use and why
@@ -136,7 +136,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 54938
 # Plan, Design and Implement a HADR Solution - a Journey
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Manohar Punna
 ## Title: Plan, Design and Implement a HADR Solution - a Journey
@@ -148,7 +148,7 @@ I will start with the basic DR solution built using Log shipping, an alternate t
 #  
 #### SessionID: 56412
 # R for Database Administrators
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Nagaraj Venkatesan
 ## Title: R for Database Administrators
@@ -157,7 +157,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 57192
 # DevOPs and the DBA
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamish Watson
 ## Title: DevOPs and the DBA
@@ -175,7 +175,7 @@ Through the use of a comprehensive live demo to a running production database th
 #  
 #### SessionID: 57513
 # Reports on the Run: Mobile Reporting with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Peter Myers
 ## Title: Reports on the Run: Mobile Reporting with SQL Server 2016
@@ -188,7 +188,7 @@ This session will be of interest to a full range of professionals, including ana
 #  
 #### SessionID: 57763
 # What on earth are all the Azure* and Power* services and why would I want them?
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Greg Low
 ## Title: What on earth are all the Azure* and Power* services and why would I want them?
@@ -197,7 +197,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 62425
 # Data Analytics in the Cloud: Real-life Examples
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Other
 ## Speaker: Iman Eftekhari
 ## Title: Data Analytics in the Cloud: Real-life Examples
@@ -206,7 +206,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 62426
 # A three day Power BI strategic project - lessons learnt
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Other
 ## Speaker: Grant Paisley
 ## Title: A three day Power BI strategic project - lessons learnt
@@ -215,7 +215,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 62427
 # PANEL - "What's hot" for your  data career
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Other
 ## Speaker: Sunil Agarwal
 ## Title: PANEL - "What's hot" for your  data career
@@ -225,7 +225,7 @@ SPEAKERS - Your are all invited
 #  
 #### SessionID: 56253
 # A Rocket Scientist View on Indexes
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: A Rocket Scientist View on Indexes
@@ -234,7 +234,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 56693
 # Automate Data Warehouse build and deployment (db,SSIS  SSAS) with Visual Studio 2015 and TFS
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Adam Gilmore
 ## Title: Automate Data Warehouse build and deployment (db,SSIS  SSAS) with Visual Studio 2015 and TFS
@@ -256,7 +256,7 @@ Grab a free script at the end to get you started.
 #  
 #### SessionID: 56889
 # 10 Amazing Things About Power BI You Don't Know
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: 10 Amazing Things About Power BI You Don't Know
@@ -267,7 +267,7 @@ In this session you can expect many live demos and to be impressed by the extrao
 #  
 #### SessionID: 56978
 # Maintain SQL Server Performance Baseline w/PowerShell
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Maintain SQL Server Performance Baseline w/PowerShell
@@ -276,7 +276,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 59615
 # How SQL Server 2016 SP1 changes the game | Microsoft Dev Team
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sunil Agarwal
 ## Title: How SQL Server 2016 SP1 changes the game | Microsoft Dev Team
@@ -285,7 +285,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 56193
 # Query Store: A (R)evolution in Query Tuning
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Victor Isakov
 ## Title: Query Store: A (R)evolution in Query Tuning
@@ -294,7 +294,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 56216
 # Power Query is more than just a desktop BI ETL tool
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matt Allington
 ## Title: Power Query is more than just a desktop BI ETL tool
@@ -308,7 +308,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 56721
 # 2016 – The Rise and Fall of DBM
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: 2016 – The Rise and Fall of DBM
@@ -317,7 +317,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 56996
 # Treasure Map: Choosing the Right Algorithm in Azure ML
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Leila Etaati
 ## Title: Treasure Map: Choosing the Right Algorithm in Azure ML
@@ -326,7 +326,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 59912
 # Become a Troubleshooting Ninja with PowerBI  SQL Extended Events
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ajay Jagannathan
 ## Title: Become a Troubleshooting Ninja with PowerBI  SQL Extended Events
@@ -335,7 +335,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 55126
 # AD 2015. 2 AM. A Disaster just began...
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Tobias Koprowski
 ## Title: AD 2015. 2 AM. A Disaster just began...
@@ -344,7 +344,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 56657
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -353,7 +353,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 56964
 # Adding Power to the DBA toolkit!
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: Adding Power to the DBA toolkit!
@@ -366,7 +366,7 @@ By combining PowerShell and PowerBi with the more traditional DBA tools I will s
 #  
 #### SessionID: 57789
 # Power BI Governance and Enterprise-wide Deployment Options
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Iman Eftekhari
 ## Title: Power BI Governance and Enterprise-wide Deployment Options
@@ -377,7 +377,7 @@ In this presentation Iman will use his experience in implementing and rolling ou
 #  
 #### SessionID: 59340
 # In memory OLTP - what can it do for me?
-#### [Back to calendar](#SQLSaturday-#587---Sydney-2017)
+#### [Back to calendar](#SQLSaturday-#587-Sydney-2017)
 Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Martin Catherall
 ## Title: In memory OLTP - what can it do for me?

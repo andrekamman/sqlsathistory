@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11216
 # Introducción a SSIS, lo que necesitas saber para iniciar a trabajar con SSIS
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Urano
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Introducción a SSIS, lo que necesitas saber para iniciar a trabajar con SSIS
@@ -37,7 +37,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Urano
 #  
 #### SessionID: 13636
 # Minería de datos con SQL Server 2014 utilizando Excel y PowerPivot
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Crono
 ## Speaker: Eduardo Castro
 ## Title: Minería de datos con SQL Server 2014 utilizando Excel y PowerPivot
@@ -46,7 +46,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Crono
 #  
 #### SessionID: 13637
 # Conceptos de Big Data e Integración con SQL Server / PowerView
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Crono
 ## Speaker: Eduardo Castro
 ## Title: Conceptos de Big Data e Integración con SQL Server / PowerView
@@ -55,7 +55,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Crono
 #  
 #### SessionID: 13771
 #  Interactuando con MS SQL Server a través de SMO
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Urano
 ## Speaker: Erik Veliz
 ## Title:  Interactuando con MS SQL Server a través de SMO
@@ -64,7 +64,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Urano
 #  
 #### SessionID: 15992
 # DBaaS -  Microsoft SQL Azure Databases | Cloud Databases
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Rea
 ## Speaker: Javier Calderón
 ## Title: DBaaS -  Microsoft SQL Azure Databases | Cloud Databases
@@ -73,7 +73,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Rea
 #  
 #### SessionID: 16005
 # Divide y Vencerás, Experiencias en Particionamiento
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Crono
 ## Speaker: Javier Loria
 ## Title: Divide y Vencerás, Experiencias en Particionamiento
@@ -82,7 +82,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Crono
 #  
 #### SessionID: 16007
 # Inteligencia Geoespacial en SQL 
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Gea
 ## Speaker: Javier Loria
 ## Title: Inteligencia Geoespacial en SQL 
@@ -91,7 +91,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Gea
 #  
 #### SessionID: 17764
 # PowerBI 1.0 Vrs PowerBI 2.0
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Urano
 ## Speaker: Juan Alvarado
 ## Title: PowerBI 1.0 Vrs PowerBI 2.0
@@ -100,7 +100,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Urano
 #  
 #### SessionID: 20128
 # Mejorando el performance de cubos en SQL server Analysis Services
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Urano
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Mejorando el performance de cubos en SQL server Analysis Services
@@ -109,7 +109,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Urano
 #  
 #### SessionID: 20129
 # Primeros pasos en modelos Multidimensionales con Analysis Services
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Rea
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Primeros pasos en modelos Multidimensionales con Analysis Services
@@ -118,7 +118,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Rea
 #  
 #### SessionID: 22230
 # SSAS mejores prácticas.
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Crono
 ## Speaker: Ahias Portillo
 ## Title: SSAS mejores prácticas.
@@ -127,7 +127,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Crono
 #  
 #### SessionID: 22234
 # Técnicas avanzadas de consulta con T-Sql
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Gea
 ## Speaker: Ahias Portillo
 ## Title: Técnicas avanzadas de consulta con T-Sql
@@ -140,7 +140,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Gea
 #  
 #### SessionID: 22312
 # Interprete sus Planes de Ejecución
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Rea
 ## Speaker: Ricardo Estrada
 ## Title: Interprete sus Planes de Ejecución
@@ -149,7 +149,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Rea
 #  
 #### SessionID: 22313
 # Usos prácticos de Consultas Recursividad en SQL
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Urano
 ## Speaker: Ricardo Estrada
 ## Title: Usos prácticos de Consultas Recursividad en SQL
@@ -158,7 +158,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Urano
 #  
 #### SessionID: 22314
 # Instale SQL Server como un profesional
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Crono
 ## Speaker: Ricardo Estrada
 ## Title: Instale SQL Server como un profesional
@@ -167,7 +167,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Crono
 #  
 #### SessionID: 25253
 # Inteligencia de Negocios con PowerBI
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Rea
 ## Speaker: Stephan Torres
 ## Title: Inteligencia de Negocios con PowerBI
@@ -177,7 +177,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Rea
 #  
 #### SessionID: 25254
 # Tabular o Multidimensional, he ahi el dilema 
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Rea
 ## Speaker: Stephan Torres
 ## Title: Tabular o Multidimensional, he ahi el dilema 
@@ -186,7 +186,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Rea
 #  
 #### SessionID: 27213
 # SQL Server 2014 In-Memory tables desde cada ángulo
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Rea
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2014 In-Memory tables desde cada ángulo
@@ -197,7 +197,7 @@ Desde el punto de vista del Arquitecto, en que ocaciones me puede ser útil en l
 #  
 #### SessionID: 27214
 # Configurando transactional replication para reporteo de forma segura
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Gea
 ## Speaker: Kenneth Urena
 ## Title: Configurando transactional replication para reporteo de forma segura
@@ -206,7 +206,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Gea
 #  
 #### SessionID: 27215
 # Estrategias de indexación y buenos diseños físicos para mejoras del desempeño
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Urano
 ## Speaker: Kenneth Urena
 ## Title: Estrategias de indexación y buenos diseños físicos para mejoras del desempeño
@@ -220,7 +220,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Urano
 #  
 #### SessionID: 27615
 # Almacenamiento en Azure para desarrolladores
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Gea
 ## Speaker: Walter Montes
 ## Title: Almacenamiento en Azure para desarrolladores
@@ -229,7 +229,7 @@ Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Gea
 #  
 #### SessionID: 27617
 # Acceso a datos para soluciones altamente escalables usando SQL, noSQL y persistencia políglota
-#### [Back to calendar](#SQLSaturday-#346---El-Salvador-2015)
+#### [Back to calendar](#SQLSaturday-#346-El-Salvador-2015)
 Event Date: 24-01-2015 - Session time: 00:00:00 - Track: Gea
 ## Speaker: Walter Montes
 ## Title: Acceso a datos para soluciones altamente escalables usando SQL, noSQL y persistencia políglota

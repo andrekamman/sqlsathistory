@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 19172
 # Entendendo o Transaction Log
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
 ## Speaker: Luiz  Mercante
 ## Title: Entendendo o Transaction Log
@@ -44,7 +44,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
 #  
 #### SessionID: 21221
 # AlwaysOn - What's new on SQL Server 2016 ?
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Administração)
 ## Speaker: Murilo Miranda
 ## Title: AlwaysOn - What's new on SQL Server 2016 ?
@@ -55,7 +55,7 @@ SQL Server has some enhancements on those solutions and that's what we are going
 #  
 #### SessionID: 38145
 # Advanced SQL Server execution plans - level 500
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Fabiano Amorim
 ## Title: Advanced SQL Server execution plans - level 500
@@ -64,7 +64,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
 #  
 #### SessionID: 39510
 # Planejamento Estrat#233;gico com BI  BIG Data
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Viviane Ribeiro
 ## Title: Planejamento Estrat#233;gico com BI  BIG Data
@@ -73,7 +73,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 39559
 # Windows Server Failover Cluster - Best Practices
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
 ## Speaker: EDVALDO CASTRO
 ## Title: Windows Server Failover Cluster - Best Practices
@@ -82,7 +82,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
 #  
 #### SessionID: 14251
 # Entendendo o Clusterlog
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Administração)
 ## Speaker: Marcelo Fernandes
 ## Title: Entendendo o Clusterlog
@@ -93,7 +93,7 @@ Nesta  sess#227;o voc#234; conhecer#225; como "Debugar" o clusterlog, que #233; 
 #  
 #### SessionID: 35660
 # Apresentando, Configurando e Criando relat#243;rios Real-time com o Power BI Preview
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Demetrio Silva
 ## Title: Apresentando, Configurando e Criando relat#243;rios Real-time com o Power BI Preview
@@ -102,7 +102,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 36633
 # Assumi o cargo de DBA. O que devo aprender para ontem???
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
 ## Speaker: Fabrício Lima
 ## Title: Assumi o cargo de DBA. O que devo aprender para ontem???
@@ -111,7 +111,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
 #  
 #### SessionID: 38361
 # Columnstore internals
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Luciano Moreira
 ## Title: Columnstore internals
@@ -120,7 +120,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
 #  
 #### SessionID: 39475
 # Microsoft SQL SERVER Hekaton X Oracle - In Memory comparisson
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
 ## Speaker: Marcelo Adade
 ## Title: Microsoft SQL SERVER Hekaton X Oracle - In Memory comparisson
@@ -129,7 +129,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
 #  
 #### SessionID: 27498
 # Monitorando o AlwaysOn com Extended Events
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Administração)
 ## Speaker: Vitor Fava
 ## Title: Monitorando o AlwaysOn com Extended Events
@@ -138,7 +138,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Administração)
 #  
 #### SessionID: 36339
 # SQL Server 2014- Entendendo o Novo C#225;lculo de Estat#237;sticas
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Thiago Carlos de Alencar
 ## Title: SQL Server 2014- Entendendo o Novo C#225;lculo de Estat#237;sticas
@@ -147,7 +147,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
 #  
 #### SessionID: 38571
 # SQL Server Security Hardening
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
 ## Speaker: Diego Miranda
 ## Title: SQL Server Security Hardening
@@ -157,7 +157,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
 #  
 #### SessionID: 39081
 # Be more productive in the development and management of your SQL Server
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
 ## Speaker: Gustavo Carneiro
 ## Title: Be more productive in the development and management of your SQL Server
@@ -170,7 +170,7 @@ Migrations:  database comparison, schema comparison and data comparison
 #  
 #### SessionID: 39172
 # Datas: T#233;cnicas Para criar dimens#227;o de tempo em um cubo
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Dennes Torres
 ## Title: Datas: T#233;cnicas Para criar dimens#227;o de tempo em um cubo
@@ -181,7 +181,7 @@ Descubra os truques ocultos na montagem de uma dimens#227;o de tempo.
 #  
 #### SessionID: 23408
 # SQL Server, Windows e CPU
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
 ## Speaker: Rodrigo Ribeiro Gomes
 ## Title: SQL Server, Windows e CPU
@@ -194,7 +194,7 @@ Voc#234; pode verificar alguns trechos desta sess#227;o no v#237;deo de apresent
 #  
 #### SessionID: 35845
 # Vamos falar sobre TempDB
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Ricardo Leka
 ## Title: Vamos falar sobre TempDB
@@ -204,7 +204,7 @@ Vamos conversar sobre a estrutura de alocação, tunning, classes e bitmaps, Tro
 #  
 #### SessionID: 36494
 # Conceitos de Storage para SQL Server DBAs
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
 ## Speaker: Frederico Santos
 ## Title: Conceitos de Storage para SQL Server DBAs
@@ -213,7 +213,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
 #  
 #### SessionID: 37453
 # Saindo do B#225;sico: Implementando SQL Server 2014 Failover Cluster com CSV
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Administração)
 ## Speaker: Nilton Pinheiro
 ## Title: Saindo do B#225;sico: Implementando SQL Server 2014 Failover Cluster com CSV
@@ -223,7 +223,7 @@ Uma das mais valiosas features do SQL Server 2014 voltada para alta disponibilid
 #  
 #### SessionID: 37579
 # Reporting Services Internals - High Availability and Scale-Out
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Alexandre Soteras
 ## Title: Reporting Services Internals - High Availability and Scale-Out
@@ -233,7 +233,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 36696
 # Criando um baseline de seu ambiente completo utilizando SSIS e SSRS
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Marcos Freccia
 ## Title: Criando um baseline de seu ambiente completo utilizando SSIS e SSRS
@@ -246,7 +246,7 @@ As informa#231;#245;es coletados com esse baseline, podem te ajudar a ganhar aqu
 #  
 #### SessionID: 37264
 # DataZen - Do In#237;cio ao Fim
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
 ## Speaker: Arthur Luz
 ## Title: DataZen - Do In#237;cio ao Fim
@@ -255,7 +255,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
 #  
 #### SessionID: 37393
 # Storage - Melhores Pr#225;ticas com SQL Server
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Administração)
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Storage - Melhores Pr#225;ticas com SQL Server
@@ -274,7 +274,7 @@ Devemos entender que nem sempre o problema s#227;o queries mal desenvolvidas o p
 #  
 #### SessionID: 39318
 # HDInsight!? Hadoop?! Hive?! Uma introdu#231;#227;o do mundo Big Data para DBA's
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Bruno Feldman
 ## Title: HDInsight!? Hadoop?! Hive?! Uma introdu#231;#227;o do mundo Big Data para DBA's
@@ -283,7 +283,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 39554
 # Tudo o que voc#234; queria saber sobre licenciamento do SQL Server
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
 ## Speaker: Roberto Fonseca
 ## Title: Tudo o que voc#234; queria saber sobre licenciamento do SQL Server
@@ -292,7 +292,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
 #  
 #### SessionID: 23400
 # Estrat#233;gias de Backup e Recovery
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Administração)
 ## Speaker: Rodrigo Crespi
 ## Title: Estrat#233;gias de Backup e Recovery
@@ -302,7 +302,7 @@ Nesta sess#227;o irei falar sobre a estrutura do Backup no SQL Server e as forma
 #  
 #### SessionID: 36252
 # Analysis Services Internals
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
 ## Speaker: Thiago Zavaschi
 ## Title: Analysis Services Internals
@@ -311,7 +311,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 37195
 # Melhores Pr#225;ticas para Utilizar as Polices no SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
 ## Speaker: Sulamita Dantas
 ## Title: Melhores Pr#225;ticas para Utilizar as Polices no SQL Server 2014
@@ -320,7 +320,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
 #  
 #### SessionID: 37445
 # DBAs com a cabe#231;a nas nuvens e os p#233;s no ch#227;o
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
 ## Speaker: Silas Mendes
 ## Title: DBAs com a cabe#231;a nas nuvens e os p#233;s no ch#227;o
@@ -329,7 +329,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
 #  
 #### SessionID: 39562
 # Hekaton v.2 e ColumnStore Index v.3 - Nova Gera#231;#227;o de Banco de Dados
-#### [Back to calendar](#SQLSaturday-#424---São-Paulo--2015)
+#### [Back to calendar](#SQLSaturday-#424-São-Paulo--2015)
 Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Hekaton v.2 e ColumnStore Index v.3 - Nova Gera#231;#227;o de Banco de Dados

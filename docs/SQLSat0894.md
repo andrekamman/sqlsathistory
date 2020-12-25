@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 92227
 # Making the leap from Excel formulas to DAX
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Analytics and Big Data
 ## Speaker: Wyn Hopkins
 ## Title: Making the leap from Excel formulas to DAX
@@ -37,7 +37,7 @@ Tips, tricks and best practice ideas will set you up for more powerful Excel and
 #  
 #### SessionID: 93160
 # Smart Alerts for Azure SQL Database using Automation  Logic Apps
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Database Development
 ## Speaker: Martin Cairney
 ## Title: Smart Alerts for Azure SQL Database using Automation  Logic Apps
@@ -46,7 +46,7 @@ Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Da
 #  
 #### SessionID: 93688
 # How to Deploy SQL Server Containers on Kubernetes in Azure
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Database Development
 ## Speaker: Hamish Watson
 ## Title: How to Deploy SQL Server Containers on Kubernetes in Azure
@@ -61,7 +61,7 @@ This session will show you the exciting future of SQL Server and you will walk a
 #  
 #### SessionID: 94773
 # Bringing source control to BI world!
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Database Development
 ## Speaker: Heidi Hasting
 ## Title: Bringing source control to BI world!
@@ -82,7 +82,7 @@ Let's bring order to your chaos!
 #  
 #### SessionID: 92415
 # Looking at the Cosmos(DB)
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Database Development
 ## Speaker: Martin Catherall
 ## Title: Looking at the Cosmos(DB)
@@ -93,7 +93,7 @@ In this session we’ll take a look at this technology and learn how it might be
 #  
 #### SessionID: 92568
 # Creating and Managing a Power BI Enterprise Deployment
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Craig Bryden
 ## Title: Creating and Managing a Power BI Enterprise Deployment
@@ -109,7 +109,7 @@ Craig will bring his extensive real-world experience to this presentation, in wh
 #  
 #### SessionID: 94584
 # Best Practices for Running SQL Server on Azure
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Database Development
 ## Speaker: Nirmal Thewarathanthri
 ## Title: Best Practices for Running SQL Server on Azure
@@ -118,7 +118,7 @@ Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Da
 #  
 #### SessionID: 94730
 # A touch of AI with Cognitive Services
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Database Development
 ## Speaker: Scott Holden
 ## Title: A touch of AI with Cognitive Services
@@ -127,7 +127,7 @@ Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Da
 #  
 #### SessionID: 92858
 # High Availability and Disaster Recovery for SQL Server in Azure IaaS
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Database Development
 ## Speaker: Jason Aw
 ## Title: High Availability and Disaster Recovery for SQL Server in Azure IaaS
@@ -140,7 +140,7 @@ HA and DR professional Jason Aw with 20 years of experience explains all this an
 #  
 #### SessionID: 93509
 # Get Comfortable with Query tuning and Execution Plans
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Database Development
 ## Speaker: Patrick Flynn
 ## Title: Get Comfortable with Query tuning and Execution Plans
@@ -160,7 +160,7 @@ This session will assume a basic knowledge of T-SQL and execution plans.
 #  
 #### SessionID: 94540
 # Azure Data Studio – The New Frontier
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Database Development
 ## Speaker: Warwick Rudd
 ## Title: Azure Data Studio – The New Frontier
@@ -170,7 +170,7 @@ Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Da
 #  
 #### SessionID: 95826
 # PBI ❤ AI
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Analytics and Big Data
 ## Speaker: Lee Moran
 ## Title: PBI ❤ AI
@@ -183,7 +183,7 @@ In this demo-heavy session, Lee will cover everything from the Analytics pane on
 #  
 #### SessionID: 92569
 # Paginated Reporting with Power BI
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Craig Bryden
 ## Title: Paginated Reporting with Power BI
@@ -194,7 +194,7 @@ In this session, Craig will discuss the various options available for implementi
 #  
 #### SessionID: 93244
 # SQL Server Upgrades and Migrations - The Right Way
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Database Development
 ## Speaker: Martin Cairney
 ## Title: SQL Server Upgrades and Migrations - The Right Way
@@ -209,7 +209,7 @@ This session will walk through the upgrade process from end-to-end and show what
 #  
 #### SessionID: 94603
 # Governance in Azure
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Strategy, Governance and Professional Development
 ## Speaker: Deepak Maheshwari
 ## Title: Governance in Azure
@@ -218,7 +218,7 @@ Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Strategy, Governance an
 #  
 #### SessionID: 96298
 # Test Driven Development in SQL Server – how to deploy code safer
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Database Development
 ## Speaker: Hamish Watson
 ## Title: Test Driven Development in SQL Server – how to deploy code safer
@@ -234,7 +234,7 @@ A comprehensive DEMO will reveal how Test Driven Development can help you deploy
 #  
 #### SessionID: 92223
 # Power BI, Excel and Teams. Unlocking the Value of your Enterprise Data
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Analytics and Big Data
 ## Speaker: Wyn Hopkins
 ## Title: Power BI, Excel and Teams. Unlocking the Value of your Enterprise Data
@@ -245,7 +245,7 @@ To finish off we'll go from raw data to a voice generated Power BI mobile visual
 #  
 #### SessionID: 94731
 # Serverless and SQL, risk or reward?
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Database Development
 ## Speaker: Scott Holden
 ## Title: Serverless and SQL, risk or reward?
@@ -254,7 +254,7 @@ Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Application, DBA and Da
 #  
 #### SessionID: 94965
 # Get your data flowing with Data Flows! and...umm...dataflows
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Analytics and Big Data
 ## Speaker: Nicholas Schafer
 ## Title: Get your data flowing with Data Flows! and...umm...dataflows
@@ -263,7 +263,7 @@ Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Analytics and Big Data
 #  
 #### SessionID: 96645
 # Introduction to SQL Server 2019 Big Data Clusters
-#### [Back to calendar](#SQLSaturday-#894---Perth-2019)
+#### [Back to calendar](#SQLSaturday-#894-Perth-2019)
 Event Date: 07-09-2019 - Session time: 15:35:00 - Track: Analytics and Big Data
 ## Speaker: Neil Hambly
 ## Title: Introduction to SQL Server 2019 Big Data Clusters

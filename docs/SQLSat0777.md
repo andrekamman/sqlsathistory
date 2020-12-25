@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 80200
 # Azure Cognitive Services - AI for everyone
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Cloud
 ## Speaker: Alexander Klein
 ## Title: Azure Cognitive Services - AI for everyone
@@ -39,7 +39,7 @@ This is a large playground for young and old. Here you can try out to your heart
 #  
 #### SessionID: 84906
 # CI/CD with SQL Server 2017 and Docker
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: DevOps
 ## Speaker: Giancarlo Lelli
 ## Title: CI/CD with SQL Server 2017 and Docker
@@ -48,7 +48,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: DevOps
 #  
 #### SessionID: 85392
 # SQL Server 2017 su Linux e High Availability
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 ## Speaker: Danilo Dominici
 ## Title: SQL Server 2017 su Linux e High Availability
@@ -57,7 +57,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 #  
 #### SessionID: 85666
 # SQLChain - BlockChain Concepts using T-SQL and SQL Server
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: New technologies
 ## Speaker: Stefano Altamura
 ## Title: SQLChain - BlockChain Concepts using T-SQL and SQL Server
@@ -68,7 +68,7 @@ Trovarsi all'interno di un ambiente noto semplifica notevolmente il percorso, ut
 #  
 #### SessionID: 78907
 # What is hidden in the query plan ?
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Development
 ## Speaker: Rudi Bruchez
 ## Title: What is hidden in the query plan ?
@@ -77,7 +77,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Development
 #  
 #### SessionID: 79997
 # SQL Server Query Optimizer end-to-end
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 ## Speaker: Sergio Govoni
 ## Title: SQL Server Query Optimizer end-to-end
@@ -86,7 +86,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 #  
 #### SessionID: 83289
 # Most common mistakes data scientists make
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Data science
 ## Speaker: Tomaž Kaštrun
 ## Title: Most common mistakes data scientists make
@@ -102,7 +102,7 @@ Some statistical knowledge or background is a plus!
 #  
 #### SessionID: 84897
 # SQL Server Graph Database
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: New technologies
 ## Speaker: Salvatore Pellitteri
 ## Title: SQL Server Graph Database
@@ -112,7 +112,7 @@ Vedremo insieme i concetti di base, come si creano gli oggetti e come si possono
 #  
 #### SessionID: 78915
 # Writing queries in SQL Server 2016-2017
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Development
 ## Speaker: Andrea Martorana Tusa
 ## Title: Writing queries in SQL Server 2016-2017
@@ -125,7 +125,7 @@ For each of them we compare the same scripts before and after the new additions,
 #  
 #### SessionID: 78930
 # Market Basket Analysis in SQL Server Machine Learning Services
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Data science
 ## Speaker: Luca Zavarella
 ## Title: Market Basket Analysis in SQL Server Machine Learning Services
@@ -135,7 +135,7 @@ In questa sessione vedremo come i nuovi Machine Learning Services ci permettono 
 #  
 #### SessionID: 85527
 # Automatic Tuning in SQL Server 2017 and Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 ## Speaker: Pasquale Ceglie
 ## Title: Automatic Tuning in SQL Server 2017 and Azure SQL Database
@@ -144,7 +144,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 #  
 #### SessionID: 78895
 # Deep dive into Adaptive Query Processing
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 ## Speaker: Hugo Kornelis
 ## Title: Deep dive into Adaptive Query Processing
@@ -157,7 +157,7 @@ If you are more interested in how all this ACTUALLY works than in shiny marketin
 #  
 #### SessionID: 78929
 # Cosmos DB - La nuova frontiera del BigData e NoSql
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: New technologies
 ## Speaker: Riccardo Cappello
 ## Title: Cosmos DB - La nuova frontiera del BigData e NoSql
@@ -166,7 +166,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: New technologies
 #  
 #### SessionID: 83763
 # What is in reality a DAX filter context
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Data Visualization
 ## Speaker: Marco Pozzan
 ## Title: What is in reality a DAX filter context
@@ -175,7 +175,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Data Visualization
 #  
 #### SessionID: 83767
 # Transaction Log management in SQL Server
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 ## Speaker: Gilberto Zampatti
 ## Title: Transaction Log management in SQL Server
@@ -184,7 +184,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 #  
 #### SessionID: 83720
 # Dynamic Search Conditions
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Development
 ## Speaker: Erland Sommarskog
 ## Title: Dynamic Search Conditions
@@ -193,7 +193,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Development
 #  
 #### SessionID: 84715
 # ColumnStore Indexes: Come, quando e perchè usarli ?
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 ## Speaker: Luca Ferrari
 ## Title: ColumnStore Indexes: Come, quando e perchè usarli ?
@@ -202,7 +202,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 #  
 #### SessionID: 84984
 # Power BI integration with PowerAPPs for WriteBack
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Data Visualization
 ## Speaker: Giuseppe Piluso
 ## Title: Power BI integration with PowerAPPs for WriteBack
@@ -213,7 +213,7 @@ of PowerApps (custom Visual) and Flow. Join the session and we will walk your th
 #  
 #### SessionID: 85569
 # Benchmarking in the Cloud
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Cloud
 ## Speaker: Gianluca Sartori
 ## Title: Benchmarking in the Cloud
@@ -223,7 +223,7 @@ Join me in this session and learn how to capture a production workload, replay i
 #  
 #### SessionID: 84868
 # Automatizzare la creazione di ambienti SQL su Azure con Arm Templates e PowerShell
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Cloud
 ## Speaker: Marco Obinu
 ## Title: Automatizzare la creazione di ambienti SQL su Azure con Arm Templates e PowerShell
@@ -233,7 +233,7 @@ Tra gli strumenti disponibili per realizzare questi obbiettivi troviamo gli ARM 
 #  
 #### SessionID: 85391
 # Be careful! Unexpected behaviour with T-SQL
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Development
 ## Speaker: Alessandro Mortola
 ## Title: Be careful! Unexpected behaviour with T-SQL
@@ -244,7 +244,7 @@ This session will be useful in order to avoid some pitfalls in which we could fa
 #  
 #### SessionID: 85881
 # My 10 favorite PowerShell commands
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: DevOps
 ## Speaker: Marcos Freccia
 ## Title: My 10 favorite PowerShell commands
@@ -254,7 +254,7 @@ I promise that at least one new thing you will learn it
 #  
 #### SessionID: 86041
 # AlwaysOn in SQL Server 2017 (IT)
-#### [Back to calendar](#SQLSaturday-#777---Parma-2018)
+#### [Back to calendar](#SQLSaturday-#777-Parma-2018)
 Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 ## Speaker: Gianluca Hotz
 ## Title: AlwaysOn in SQL Server 2017 (IT)

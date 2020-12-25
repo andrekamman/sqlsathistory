@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 54540
 # Think  work like a Data Scientist with SQL 2016 R
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Data Science Track
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Think  work like a Data Scientist with SQL 2016 R
@@ -48,7 +48,7 @@ In this session, you will definitely take away a breakthrough concept of Advance
 #  
 #### SessionID: 54641
 # Advanced BIML - for the advanced ETL developer
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: BI Track
 ## Speaker: Regis Baccaro
 ## Title: Advanced BIML - for the advanced ETL developer
@@ -57,7 +57,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: BI Track
 #  
 #### SessionID: 56262
 # Top SQL Server Performance tips
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DEV Track
 ## Speaker: Peter ter Braake
 ## Title: Top SQL Server Performance tips
@@ -66,7 +66,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DEV Track
 #  
 #### SessionID: 56696
 # SQL Server Monitor and Maintenance with Azure Operations Management Suite
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure Track
 ## Speaker: Pedro Sousa
 ## Title: SQL Server Monitor and Maintenance with Azure Operations Management Suite
@@ -75,7 +75,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure T
 #  
 #### SessionID: 58175
 # Sneak Peak on SQL Server  Tools  for Linux
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DBA Track
 ## Speaker: Ivan Campos
 ## Title: Sneak Peak on SQL Server  Tools  for Linux
@@ -86,7 +86,7 @@ Join me in this session and see how to start working with SQL Server on Linux, w
 #  
 #### SessionID: 54502
 # A Game of Hierarchies: From GROUP BY to Recursive CTEs
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DEV Track
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: A Game of Hierarchies: From GROUP BY to Recursive CTEs
@@ -100,7 +100,7 @@ If these terms caught your attention, then join this session for a journey throu
 #  
 #### SessionID: 56263
 # Combining the Power of Machine Learning with the ease of PowerBI
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Data Science Track
 ## Speaker: Peter ter Braake
 ## Title: Combining the Power of Machine Learning with the ease of PowerBI
@@ -109,7 +109,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Data Science Track
 #  
 #### SessionID: 57099
 # Troubleshooting Blocking for Beginners
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DBA Track
 ## Speaker: Kendra Little
 ## Title: Troubleshooting Blocking for Beginners
@@ -118,7 +118,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DBA Track
 #  
 #### SessionID: 58194
 # SQL Server and Docker. What, How and Why
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure Track
 ## Speaker: André Kamman
 ## Title: SQL Server and Docker. What, How and Why
@@ -127,7 +127,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure T
 #  
 #### SessionID: 58206
 # RAD with MDS
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: BI Track
 ## Speaker: Tillmann Eitelberg
 ## Title: RAD with MDS
@@ -139,7 +139,7 @@ In this session, we will show different development approach
 #  
 #### SessionID: 56905
 # Delivering changes for databases and applications
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DEV Track
 ## Speaker: Eduardo Piairo
 ## Title: Delivering changes for databases and applications
@@ -150,7 +150,7 @@ The final purpose is to understand that applications and databases do not need t
 #  
 #### SessionID: 58008
 # SQL Server real-life bizarre things
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DBA Track
 ## Speaker: Etienne Lopes
 ## Title: SQL Server real-life bizarre things
@@ -162,7 +162,7 @@ Yep it’s not magic, there is an explanation for it! Come and get it
 #  
 #### SessionID: 58186
 # New Azure SQL DB with blades or scripts? Humm what should I use?
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure Track
 ## Speaker: Ricardo Cabral
 ## Title: New Azure SQL DB with blades or scripts? Humm what should I use?
@@ -173,7 +173,7 @@ Anyone of them has the desired result but what surprise effect has automation in
 #  
 #### SessionID: 58188
 # Power BI from the Trenches
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: BI Track
 ## Speaker: Rui Romano
 ## Title: Power BI from the Trenches
@@ -184,7 +184,7 @@ This session is targeted to whom is using or start using Power BI and want to ta
 #  
 #### SessionID: 58218
 # First steps with  R  RStudio for SQL Developers  DBAs
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Data Science Track
 ## Speaker: Rui Quintino
 ## Title: First steps with  R  RStudio for SQL Developers  DBAs
@@ -195,7 +195,7 @@ This is a beginner level session to guide you on why  when to use R, and help wi
 #  
 #### SessionID: 54504
 # My Favorite Pie (Chart): Simple Rules for Clear Visualizations
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: BI Track
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: My Favorite Pie (Chart): Simple Rules for Clear Visualizations
@@ -204,7 +204,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: BI Track
 #  
 #### SessionID: 54581
 # Data Science for beginners
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Data Science Track
 ## Speaker: Tomaž Kaštrun
 ## Title: Data Science for beginners
@@ -222,7 +222,7 @@ Session we will look into technologies that can be tackled using SQL Server 2016
 #  
 #### SessionID: 58150
 # Best practices validation with DBATools
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DBA Track
 ## Speaker: Cláudio Silva
 ## Title: Best practices validation with DBATools
@@ -238,7 +238,7 @@ If you do not know this tool or if you want to learn more this is a great oppo
 #  
 #### SessionID: 58190
 # BizTalk Server and SQL Server Together: For Developers  Admins
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DEV Track
 ## Speaker: Sandro Pereira
 ## Title: BizTalk Server and SQL Server Together: For Developers  Admins
@@ -251,7 +251,7 @@ But BizTalk Server also have a strong development component, so in the second pa
 #  
 #### SessionID: 58210
 # Introduction to Microsoft Azure Search
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure Track
 ## Speaker: Tiago Costa
 ## Title: Introduction to Microsoft Azure Search
@@ -260,7 +260,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure T
 #  
 #### SessionID: 54485
 # What is SQL Data Warehouse? Is it for me?
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure Track
 ## Speaker: Vitor Pombeiro
 ## Title: What is SQL Data Warehouse? Is it for me?
@@ -270,7 +270,7 @@ This and many more questions will not be answered in this session but you will l
 #  
 #### SessionID: 54539
 # Revolution R models in SQL 2016 Reporting Services
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Data Science Track
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Revolution R models in SQL 2016 Reporting Services
@@ -279,7 +279,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Data Science Track
 #  
 #### SessionID: 57100
 # Tuning Problem Queries in Table Partitioning
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DEV Track
 ## Speaker: Kendra Little
 ## Title: Tuning Problem Queries in Table Partitioning
@@ -288,7 +288,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DEV Track
 #  
 #### SessionID: 58163
 # Recovery Models Made SIMPLE
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DBA Track
 ## Speaker: Kalen Delaney
 ## Title: Recovery Models Made SIMPLE
@@ -297,7 +297,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DBA Track
 #  
 #### SessionID: 58202
 # Quo vadis SSAS – What's new with SQL Server 2016 SP1 and SQL Server vNext?
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: BI Track
 ## Speaker: Gabi Münster
 ## Title: Quo vadis SSAS – What's new with SQL Server 2016 SP1 and SQL Server vNext?
@@ -306,7 +306,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: BI Track
 #  
 #### SessionID: 54579
 # Microsoft Azure Machine Learning Algorithms
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Data Science Track
 ## Speaker: Tomaž Kaštrun
 ## Title: Microsoft Azure Machine Learning Algorithms
@@ -317,7 +317,7 @@ Focus on this session will be mathematical and graphical explanation of algorith
 #  
 #### SessionID: 58142
 # High Availability and Disaster Recovery patterns with SQL Server and Windows Server 2016
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure Track
 ## Speaker: Murilo Miranda
 ## Title: High Availability and Disaster Recovery patterns with SQL Server and Windows Server 2016
@@ -330,7 +330,7 @@ During this session we will explore those new possibilities, checking what is ne
 #  
 #### SessionID: 58164
 # A Look Inside SQL Server Distribution Statistics
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DBA Track
 ## Speaker: Kalen Delaney
 ## Title: A Look Inside SQL Server Distribution Statistics
@@ -345,7 +345,7 @@ Goals:
 #  
 #### SessionID: 58198
 # New features for devs in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DEV Track
 ## Speaker: António Lourenço
 ## Title: New features for devs in SQL Server 2016
@@ -354,7 +354,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DEV Track
 #  
 #### SessionID: 58204
 # Columnstore killed the OLAP-Star: Did it really?
-#### [Back to calendar](#SQLSaturday-#583---Lisbon-2017)
+#### [Back to calendar](#SQLSaturday-#583-Lisbon-2017)
 Event Date: 11-03-2017 - Session time: 17:10:00 - Track: BI Track
 ## Speaker: Gabi Münster
 ## Title: Columnstore killed the OLAP-Star: Did it really?

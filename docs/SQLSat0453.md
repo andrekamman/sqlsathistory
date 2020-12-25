@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 37635
 # Database Snapshots - Making Your Job Easier
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Timmerman
 ## Title: Database Snapshots - Making Your Job Easier
@@ -52,7 +52,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37692
 # What's new in Excel 2016 for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: BI Data Presentation  Visualization
 ## Speaker: Dan English
 ## Title: What's new in Excel 2016 for Business Intelligence
@@ -61,7 +61,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: BI Data Presentation  V
 #  
 #### SessionID: 39977
 # It’s Time for a Change: Temporal Table Support in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vern Rabe
 ## Title: It’s Time for a Change: Temporal Table Support in SQL Server 2016
@@ -73,7 +73,7 @@ In this session, we’ll discuss why you may need temporal support in your table
 #  
 #### SessionID: 40060
 # Building Stronger Relationships Between Us... "Data People" and Them... "End Users"
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Professional Development
 ## Speaker: Joshua Warne
 ## Title: Building Stronger Relationships Between Us... "Data People" and Them... "End Users"
@@ -82,7 +82,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Professional Developmen
 #  
 #### SessionID: 40064
 # SQL Server 2016 - New Feature Preview
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  Tuning
 ## Speaker: Riley Major
 ## Title: SQL Server 2016 - New Feature Preview
@@ -97,7 +97,7 @@ Maybe we'll even figure out how to bottle up that new version smell.
 #  
 #### SessionID: 40135
 # A Window into Your Data: Using SQL Window Functions
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  Tuning
 ## Speaker: Steve Hughes
 ## Title: A Window into Your Data: Using SQL Window Functions
@@ -106,7 +106,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  T
 #  
 #### SessionID: 40261
 # Hadoop for the SQL Server Developer/DBA
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Bill Preachuk
 ## Title: Hadoop for the SQL Server Developer/DBA
@@ -117,7 +117,7 @@ We will go into technical detail about what HDFS, MapReduce and YARN/Tez actuall
 #  
 #### SessionID: 37650
 # SQL calendar table
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  Tuning
 ## Speaker: Jim Horn
 ## Title: SQL calendar table
@@ -133,7 +133,7 @@ Sequel articles for how to build customized calendars such as federal fiscal yea
 #  
 #### SessionID: 37663
 # Mission Critical Confidence – (SQL 2012/2014 AlwaysOn) and Availability Groups
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Skiles
 ## Title: Mission Critical Confidence – (SQL 2012/2014 AlwaysOn) and Availability Groups
@@ -142,7 +142,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39384
 # How to use Execution Plans to find Performance Issues 
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  Tuning
 ## Speaker: Dave Bland
 ## Title: How to use Execution Plans to find Performance Issues 
@@ -151,7 +151,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  T
 #  
 #### SessionID: 39672
 # A Bigger Boat: Data Visualization Lessons From the Movie Theater
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: BI Data Presentation  Visualization
 ## Speaker: Mark Vaillancourt
 ## Title: A Bigger Boat: Data Visualization Lessons From the Movie Theater
@@ -165,7 +165,7 @@ In this session, we will discuss the fundamentals of human visual perception, in
 #  
 #### SessionID: 39918
 # Managing SQL Server Performance with Extended Events
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  Tuning
 ## Speaker: Jason Strate
 ## Title: Managing SQL Server Performance with Extended Events
@@ -174,7 +174,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  T
 #  
 #### SessionID: 39942
 # Right-Sizing Your SQL Server Virtual Machine
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Right-Sizing Your SQL Server Virtual Machine
@@ -185,7 +185,7 @@ The methods for understanding the performance of your mission-critical SQL Serve
 #  
 #### SessionID: 40027
 # Automated Restore Script Output for Ola Hallengren’s Maintenance Solution
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jared Zagelbaum
 ## Title: Automated Restore Script Output for Ola Hallengren’s Maintenance Solution
@@ -199,7 +199,7 @@ We will do an overview of the maintenance solution to start, then get down and d
 #  
 #### SessionID: 40035
 # Rise of the Machine (Learning) – Azure ML in BI, in Apps, and as a product in Azure Marketplace
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Greg Beaumont
 ## Title: Rise of the Machine (Learning) – Azure ML in BI, in Apps, and as a product in Azure Marketplace
@@ -208,7 +208,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: BI Architecture, Develo
 #  
 #### SessionID: 38041
 # Effective Reporting through SSRS Advanced Authoring Features 
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: BI Data Presentation  Visualization
 ## Speaker: Brian Larson
 ## Title: Effective Reporting through SSRS Advanced Authoring Features 
@@ -217,7 +217,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: BI Data Presentation  V
 #  
 #### SessionID: 38462
 # The future of the data professional
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Professional Development
 ## Speaker: Adam Jorgensen
 ## Title: The future of the data professional
@@ -226,7 +226,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Professional Developmen
 #  
 #### SessionID: 38649
 # TSQL Bullet-Dodging and Spoon-bending
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  Tuning
 ## Speaker: Michael DeFehr
 ## Title: TSQL Bullet-Dodging and Spoon-bending
@@ -236,7 +236,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  T
 #  
 #### SessionID: 38947
 # How I survived supporting a Java team
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  Tuning
 ## Speaker: Rick Lowe
 ## Title: How I survived supporting a Java team
@@ -245,7 +245,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  T
 #  
 #### SessionID: 39073
 # Why do I need Analysis Services?
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Phillip Labry
 ## Title: Why do I need Analysis Services?
@@ -254,7 +254,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: BI Architecture, Develo
 #  
 #### SessionID: 40000
 # SQL Server 2014, more than just in-memory
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Zierdt
 ## Title: SQL Server 2014, more than just in-memory
@@ -264,7 +264,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 40043
 # How to Hack a Database
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Selje
 ## Title: How to Hack a Database
@@ -275,7 +275,7 @@ In this presentation I will teach you how to hack a database so you can defend y
 #  
 #### SessionID: 40095
 # 7 Habits of Highly Effective Developers
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Professional Development
 ## Speaker: Devlin Liles
 ## Title: 7 Habits of Highly Effective Developers
@@ -284,7 +284,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Professional Developmen
 #  
 #### SessionID: 37765
 # Securing data in Microsoft SQL Server - Part-1
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Bielawski
 ## Title: Securing data in Microsoft SQL Server - Part-1
@@ -293,7 +293,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38072
 # How to archive your database data in “Stealth Mode”.
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Scott Swanberg
 ## Title: How to archive your database data in “Stealth Mode”.
@@ -304,7 +304,7 @@ Learn how to design and implement a “Database Archiving Strategy” in a grace
 #  
 #### SessionID: 39039
 # Protecting Your Data with Encryption
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  Tuning
 ## Speaker: Ed Leighton-Dick
 ## Title: Protecting Your Data with Encryption
@@ -313,7 +313,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  T
 #  
 #### SessionID: 39914
 # The Plan Cache Whisperer: Performance Tuning SQL Server
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  Tuning
 ## Speaker: Jason Strate
 ## Title: The Plan Cache Whisperer: Performance Tuning SQL Server
@@ -322,7 +322,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  T
 #  
 #### SessionID: 40063
 # SQL Server Databases in the Clouds
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tim Plas
 ## Title: SQL Server Databases in the Clouds
@@ -331,7 +331,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 40072
 # Dimensional Modeling Design Patterns: Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond the Basics
@@ -343,7 +343,7 @@ This session dives deeper into the art of dimensional modeling. We look at how a
 #  
 #### SessionID: 40601
 # Write DAX Queries using DAX Studio
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Alex Barbeau
 ## Title: Write DAX Queries using DAX Studio
@@ -352,7 +352,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: BI Architecture, Develo
 #  
 #### SessionID: 41088
 # Baseline your servers and still get a good night's sleep 
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Dorame
 ## Title: Baseline your servers and still get a good night's sleep 
@@ -361,7 +361,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38501
 # Tricks from the DBA Inbox: Real World Performance Tuning
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  Tuning
 ## Speaker: Jason Horner
 ## Title: Tricks from the DBA Inbox: Real World Performance Tuning
@@ -370,7 +370,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  T
 #  
 #### SessionID: 38646
 # Deadlocks: What to do about the dreaded 1205
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael DeFehr
 ## Title: Deadlocks: What to do about the dreaded 1205
@@ -380,7 +380,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39055
 # Running with Scissors - SQLCLR and You
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  Tuning
 ## Speaker: Ben Thul
 ## Title: Running with Scissors - SQLCLR and You
@@ -389,7 +389,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Database Development  T
 #  
 #### SessionID: 39425
 # PowerShell for the Reluctant Administrator
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Pat Phelan
 ## Title: PowerShell for the Reluctant Administrator
@@ -402,7 +402,7 @@ This session was designed for the non-PowerShell user and the new PowerShell use
 #  
 #### SessionID: 39941
 # My Brain Has Blue Screened - Let's Laugh
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Other
 ## Speaker: David Klee
 ## Title: My Brain Has Blue Screened - Let's Laugh
@@ -411,7 +411,7 @@ Event Date: 10-10-2015 - Session time: 15:25:00 - Track: Other
 #  
 #### SessionID: 39969
 # Cortana Analytics with Power BI
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: BI Data Presentation  Visualization
 ## Speaker: George Bryant
 ## Title: Cortana Analytics with Power BI
@@ -422,7 +422,7 @@ Power BI does not just have to be for the Corporate world. John and Jane should 
 #  
 #### SessionID: 40055
 # Test-Driven ETL? Join all the Things.
-#### [Back to calendar](#SQLSaturday-#453---Minnesota-2015)
+#### [Back to calendar](#SQLSaturday-#453-Minnesota-2015)
 Event Date: 10-10-2015 - Session time: 15:25:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Merrill Aldrich
 ## Title: Test-Driven ETL? Join all the Things.

@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 61184
 # Tune Like a Guru!
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Other
 ## Speaker: Kevin Boles
 ## Title: Tune Like a Guru!
@@ -66,7 +66,7 @@ We will look at all of these things and more from a variety of angles, while als
 #  
 #### SessionID: 61345
 # Power BI:  From the Desktop to the Enterprise
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Information Delivery
 ## Speaker: Patrick LeBlanc
 ## Title: Power BI:  From the Desktop to the Enterprise
@@ -83,7 +83,7 @@ Near real-time Dashboards
 #  
 #### SessionID: 57709
 # Whip Away Stress at Home  Work to Create a Better You
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Whip Away Stress at Home  Work to Create a Better You
@@ -92,7 +92,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 57838
 # Crash Course on Better SQL Development
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
@@ -101,7 +101,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 61191
 # The ABC's of Server Baselines
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carlos L Chacon
 ## Title: The ABC's of Server Baselines
@@ -110,7 +110,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61397
 # The Business Intelligence Side of SQL Server
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sayed Saeed
 ## Title: The Business Intelligence Side of SQL Server
@@ -119,7 +119,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 61576
 # "Full Text indexing!" or..."What is that service I never turn on?"
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Blinn
 ## Title: "Full Text indexing!" or..."What is that service I never turn on?"
@@ -130,7 +130,7 @@ We'll talk about installing, setting up, maintaining, and using full text indexe
 #  
 #### SessionID: 62453
 # Azure Analysis Services - An introduction
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Timothy McAliley
 ## Title: Azure Analysis Services - An introduction
@@ -139,7 +139,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 57730
 # Tech Writing for Techies: A Primer
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: Tech Writing for Techies: A Primer
@@ -148,7 +148,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 57752
 # Introduction to SQL Server Microsoft Mobile Reporting
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Information Delivery
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to SQL Server Microsoft Mobile Reporting
@@ -157,7 +157,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 57761
 # New Features in SSIS 2016
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paul Rizza
 ## Title: New Features in SSIS 2016
@@ -175,7 +175,7 @@ The session will include a limited number of slides followed but demo examples o
 #  
 #### SessionID: 58237
 # Data Visualization:  How to truly tell a great story!
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Information Delivery
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization:  How to truly tell a great story!
@@ -184,7 +184,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 59897
 # The Ins and Outs of SQL Indexes
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: The Ins and Outs of SQL Indexes
@@ -193,7 +193,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 60948
 # Public Preview of SQL Server on Linux
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: John Miner
 ## Title: Public Preview of SQL Server on Linux
@@ -237,7 +237,7 @@ Coverage:
 #  
 #### SessionID: 61171
 # Using Powershell to Document SQL Server
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Using Powershell to Document SQL Server
@@ -246,7 +246,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61713
 # Big Data 101
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paresh Motiwala
 ## Title: Big Data 101
@@ -262,7 +262,7 @@ We will also talk about HDInsight and take a look at Microsoft's items in play.
 #  
 #### SessionID: 57712
 # Microsoft and Big Data - An Overview of the Power Tools and more!
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Information Delivery
 ## Speaker: David Patrick
 ## Title: Microsoft and Big Data - An Overview of the Power Tools and more!
@@ -271,7 +271,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 57723
 # Drinking From the Firehose: a Guide to Keeping Up with Technology
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Eugene Meidinger
 ## Title: Drinking From the Firehose: a Guide to Keeping Up with Technology
@@ -280,7 +280,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 57792
 # Digging Deeper: BI Methodologies and Best Practices
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Seferlis
 ## Title: Digging Deeper: BI Methodologies and Best Practices
@@ -289,7 +289,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 59301
 # Efficient table design
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Strategy and Architecture
 ## Speaker: Alex Grinberg
 ## Title: Efficient table design
@@ -298,7 +298,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 59437
 # APPLY Yourself
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
@@ -307,7 +307,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 59656
 # Introduction to Azure Streaming Analytics
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Streaming Analytics
@@ -316,7 +316,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 62797
 # # vs @ - it's not about Social Media it's about temporary tables and data
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Thomas Grohser
 ## Title: # vs @ - it's not about Social Media it's about temporary tables and data
@@ -325,7 +325,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 63165
 # User Group
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Ravi Kumar
 ## Title: User Group
@@ -334,7 +334,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 57725
 # An (Advanced) Introduction to Power BI
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Meidinger
 ## Title: An (Advanced) Introduction to Power BI
@@ -343,7 +343,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 58101
 # Database Project Makes Deployment Consistent
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
@@ -352,7 +352,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 59660
 # SQL Server 2016: Data Masking and Encryption
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Sean Werick
 ## Title: SQL Server 2016: Data Masking and Encryption
@@ -361,7 +361,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 59662
 # Interrogating your data sources with Biml
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shannon Lowder
 ## Title: Interrogating your data sources with Biml
@@ -372,7 +372,7 @@ Now, you're looking at data sources other than SQL Server. How do you automate p
 #  
 #### SessionID: 61180
 # SQL Server Defaults SUCK!!
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Boles
 ## Title: SQL Server Defaults SUCK!!
@@ -381,7 +381,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61328
 # Monitoring Availability Groups
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Monitoring Availability Groups
@@ -390,7 +390,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 62794
 # Why candidates fail the job interview in the first minute
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Thomas Grohser
 ## Title: Why candidates fail the job interview in the first minute
@@ -401,7 +401,7 @@ Thomas will share what he misses in resumes and how to respond to questions bett
 #  
 #### SessionID: 63011
 # SSIS Incremental Loading:  The Tortoise and The Hare
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeremy Frye
 ## Title: SSIS Incremental Loading:  The Tortoise and The Hare
@@ -410,7 +410,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 57731
 # Disaster Documents: The role of documentation in disaster recovery
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Strategy and Architecture
 ## Speaker: Ray Kim
 ## Title: Disaster Documents: The role of documentation in disaster recovery
@@ -421,7 +421,7 @@ While other disaster recovery presentations talk about strategies, plans, and te
 #  
 #### SessionID: 58020
 # On the Doorsteps - Women in Technology
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Michelle Haarhues
 ## Title: On the Doorsteps - Women in Technology
@@ -432,7 +432,7 @@ In this session, we will discuss the effects of trends in industry such as colle
 #  
 #### SessionID: 59661
 # SSAS 2016 Tabular - Diving into the new features
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Beswick
 ## Title: SSAS 2016 Tabular - Diving into the new features
@@ -441,7 +441,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 59902
 # Excel with DAX
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Azhagappan Arunachalam
 ## Title: Excel with DAX
@@ -450,7 +450,7 @@ Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 61477
 # Statistics  Cardinality – How They Work to Find Data Efficiently
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Chris Bell
 ## Title: Statistics  Cardinality – How They Work to Find Data Efficiently
@@ -461,7 +461,7 @@ In this session we will go over why statistics matter, how they are generated, h
 #  
 #### SessionID: 63163
 # Deeper Into Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#615---Baltimore-2017)
+#### [Back to calendar](#SQLSaturday-#615-Baltimore-2017)
 Event Date: 06-05-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Mark Hudson
 ## Title: Deeper Into Azure Machine Learning

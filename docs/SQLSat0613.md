@@ -40,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 59785
 # Mastering Power BI Solutions - Basics and Beyond
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Information Delivery
 ## Speaker: Paul Turley
 ## Title: Mastering Power BI Solutions - Basics and Beyond
@@ -51,7 +51,7 @@ Topics  skills include: Power Query/M, modeling and calculations/DAX, standards 
 #  
 #### SessionID: 61700
 # PreCon: PowerShell for SQL Server
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Ben Miller
 ## Title: PreCon: PowerShell for SQL Server
@@ -60,7 +60,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 57687
 # When Database Corruption Strikes
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steve Stedman
 ## Title: When Database Corruption Strikes
@@ -71,7 +71,7 @@ We will walk through three corrupt databases exploring ways to go about finding 
 #  
 #### SessionID: 57811
 # Welcome To the 2016 Query Store!
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Welcome To the 2016 Query Store!
@@ -80,7 +80,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 57898
 # Hop, Skip and Jump! Exploring the new Graph capabilities in Azure
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Arvind Shyamsundar
 ## Title: Hop, Skip and Jump! Exploring the new Graph capabilities in Azure
@@ -89,7 +89,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 58045
 # SSIS Monitoring Deep Dive
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Davide Mauri
 ## Title: SSIS Monitoring Deep Dive
@@ -98,7 +98,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 61620
 # Give more power to the users!  - Decision Support Using Power BI SP  O365 data for a Small Business
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Information Delivery
 ## Speaker: Yana Berkovich
 ## Title: Give more power to the users!  - Decision Support Using Power BI SP  O365 data for a Small Business
@@ -107,7 +107,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Information Delivery
 #  
 #### SessionID: 64036
 # Azure SQL Database best practices in resiliency design
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kun Cheng
 ## Title: Azure SQL Database best practices in resiliency design
@@ -116,7 +116,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 57722
 # SharePoint and Azure - How to JumpStart SharePoint Development Fast and Easy with Cloud Power!
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: David Patrick
 ## Title: SharePoint and Azure - How to JumpStart SharePoint Development Fast and Easy with Cloud Power!
@@ -125,7 +125,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 58042
 # JSON  SQL Server: using it effectively
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Davide Mauri
 ## Title: JSON  SQL Server: using it effectively
@@ -137,7 +137,7 @@ In this session we'll see how powerful JSON can be, when used correctly and not 
 #  
 #### SessionID: 58058
 # ColumnStore Index in SQL Server 2016 and Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sunil Agarwal
 ## Title: ColumnStore Index in SQL Server 2016 and Azure SQL Database
@@ -146,7 +146,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 58217
 # Query Optimization Statistics : Driving Force Behind Performance
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vern Rabe
 ## Title: Query Optimization Statistics : Driving Force Behind Performance
@@ -155,7 +155,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61701
 # Intro to Azure Data Lake and U-SQL
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Julie Koesmarno
 ## Title: Intro to Azure Data Lake and U-SQL
@@ -164,7 +164,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 61777
 # Architecting for Active/Active Operations
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Other
 ## Speaker: Mike Oberlin
 ## Title: Architecting for Active/Active Operations
@@ -184,7 +184,7 @@ Attendees attending the session will:
 #  
 #### SessionID: 63789
 # What’s New in Analysis Services
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christian Wade
 ## Title: What’s New in Analysis Services
@@ -193,7 +193,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 58184
 # Modern Data Warehousing with Azure SQL DW
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Moss
 ## Title: Modern Data Warehousing with Azure SQL DW
@@ -205,7 +205,7 @@ This presentation will explore these questions about when the concepts of DW are
 #  
 #### SessionID: 59733
 # Fun with SQL Server Spatial Data
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: Fun with SQL Server Spatial Data
@@ -214,7 +214,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 61538
 # Monster Text Manipulation: Regular Expressions for the DBA
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
@@ -229,7 +229,7 @@ Here you’ll learn:
 #  
 #### SessionID: 61545
 # Availability Groups: What They’re Not Telling You
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Nicholas Cain
 ## Title: Availability Groups: What They’re Not Telling You
@@ -238,7 +238,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 61547
 # DBATools.io: A Better Way to Manage SQL With PowerShell
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Nicholas Cain
 ## Title: DBATools.io: A Better Way to Manage SQL With PowerShell
@@ -249,7 +249,7 @@ Download the DBATools.io module and play along as we go through a few of the gre
 #  
 #### SessionID: 61810
 # Data Science at Scale with R Services
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Rock Pereira
 ## Title: Data Science at Scale with R Services
@@ -258,7 +258,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 62468
 # SQL Server Encryption
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Strategy and Architecture
 ## Speaker: Ben Miller
 ## Title: SQL Server Encryption
@@ -267,7 +267,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 59334
 # High Availability and Disaster Recovery for SQL Server on Linux
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sanjay Mishra
 ## Title: High Availability and Disaster Recovery for SQL Server on Linux
@@ -276,7 +276,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 59687
 # Hacking SQL Server for Fun and Profit
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Argenis Fernandez
 ## Title: Hacking SQL Server for Fun and Profit
@@ -285,7 +285,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 59787
 # Reporting Services 2016: The Force Awakens
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Information Delivery
 ## Speaker: Paul Turley
 ## Title: Reporting Services 2016: The Force Awakens
@@ -294,7 +294,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 59911
 # How to Use Analytics (and Data Science) to Get a Promotion
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: David Brown
 ## Title: How to Use Analytics (and Data Science) to Get a Promotion
@@ -305,7 +305,7 @@ Welcome to my world. I've worked for years as a consultant, and I started in thi
 #  
 #### SessionID: 61542
 # Designing Stored Procedure Solutions
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Designing Stored Procedure Solutions
@@ -324,7 +324,7 @@ This session is for data professionals who can write T-SQL, but haven't spent a 
 #  
 #### SessionID: 62484
 # SQL Server 2016 Always On Availability Groups Perf  Internals
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Strategy and Architecture
 ## Speaker: J May
 ## Title: SQL Server 2016 Always On Availability Groups Perf  Internals
@@ -335,7 +335,7 @@ Our work shows enhancements of 7x – 10x, allowing over 1/2GB/s (4Gb/s) across 
 #  
 #### SessionID: 57862
 # Enhancements that will make your SQL database engine roar!
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Pedro Lopes
 ## Title: Enhancements that will make your SQL database engine roar!
@@ -345,7 +345,7 @@ In the last couple of years, SQL Tiger Team has worked closely with many custome
 #  
 #### SessionID: 58155
 # Insider Secrets to Securing the Budget You Need
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Maxwell Myrick
 ## Title: Insider Secrets to Securing the Budget You Need
@@ -354,7 +354,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 59786
 # Power BI for the Enterprise
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paul Turley
 ## Title: Power BI for the Enterprise
@@ -363,7 +363,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 61018
 # Building 1 million predictions per second using SQL-R
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Amit Banerjee
 ## Title: Building 1 million predictions per second using SQL-R
@@ -372,7 +372,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 61429
 # Myths and Truths about SQL Server Transaction
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Simon Cho
 ## Title: Myths and Truths about SQL Server Transaction
@@ -383,7 +383,7 @@ We demonstrate examples of incorrect development methodologies and analyze inter
 #  
 #### SessionID: 61465
 # Power BI for the Faint of Heart - Understanding On-Prem, Hybrid and Pure Cloud Scenarios
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Scott Stauffer
 ## Title: Power BI for the Faint of Heart - Understanding On-Prem, Hybrid and Pure Cloud Scenarios
@@ -392,7 +392,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 61537
 # Loading SQL Server Data with Powershell
-#### [Back to calendar](#SQLSaturday-#613---Redmond-2017)
+#### [Back to calendar](#SQLSaturday-#613-Redmond-2017)
 Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Loading SQL Server Data with Powershell

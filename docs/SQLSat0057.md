@@ -47,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28488
 # Understanding Storage Systems and SQL Server
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Wesley Brown
 ## Title: Understanding Storage Systems and SQL Server
@@ -56,7 +56,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 28771
 # Data Mining in Action: A case study 
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: ANDREW MINKIN
 ## Title: Data Mining in Action: A case study 
@@ -66,7 +66,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 29198
 # Keeping up with the JOINes
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brian Dudley
 ## Title: Keeping up with the JOINes
@@ -75,7 +75,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29199
 # Power up the Charts -- Adding code to SSRS
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Brian Dudley
 ## Title: Power up the Charts -- Adding code to SSRS
@@ -84,7 +84,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 29882
 # Best Practices for SQL Server on VMWare
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Dean Richards
 ## Title: Best Practices for SQL Server on VMWare
@@ -93,7 +93,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 29938
 # Ask Why My Query So Slow?
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jason Wong
 ## Title: Ask Why My Query So Slow?
@@ -127,7 +127,7 @@ Code:
 #  
 #### SessionID: 30057
 # So What Can I Do With PowerShell?
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Eric Humphrey
 ## Title: So What Can I Do With PowerShell?
@@ -136,7 +136,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 30087
 # Zero to cube in 1 hour
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Erin Welker
 ## Title: Zero to cube in 1 hour
@@ -145,7 +145,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 30229
 # Clustering for Mere Mortals.
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Geoff Hiten
 ## Title: Clustering for Mere Mortals.
@@ -154,7 +154,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 30230
 # Bad SQL
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Geoff Hiten
 ## Title: Bad SQL
@@ -163,7 +163,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30554
 # Putting the Development back in SharePoint Develop
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jeremy Beckham
 ## Title: Putting the Development back in SharePoint Develop
@@ -172,7 +172,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 30702
 # T-SQL Code Sins: The Worst Things We Do to Code
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jennifer McCown
 ## Title: T-SQL Code Sins: The Worst Things We Do to Code
@@ -181,7 +181,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 30703
 # Women in Tech:Why are we still talking about this?
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jennifer McCown
 ## Title: Women in Tech:Why are we still talking about this?
@@ -190,7 +190,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30997
 # SQL Server Tools, Tips, and Tricks
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: John Cook
 ## Title: SQL Server Tools, Tips, and Tricks
@@ -199,7 +199,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 31106
 # SQL Server 2008 for Developers
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: John Sterrett
 ## Title: SQL Server 2008 for Developers
@@ -208,7 +208,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 31107
 # Evaluate your daily checklist using CMS and PBM
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: John Sterrett
 ## Title: Evaluate your daily checklist using CMS and PBM
@@ -217,7 +217,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 32268
 # What's new in Reporting Services R2
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Patrick LeBlanc
 ## Title: What's new in Reporting Services R2
@@ -226,7 +226,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 32269
 # SSIS: Configuring, Deploying and a Little Tuning
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Patrick LeBlanc
 ## Title: SSIS: Configuring, Deploying and a Little Tuning
@@ -235,7 +235,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 32375
 # Visual Studio 2010 Database Projects 
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Randy Knight
 ## Title: Visual Studio 2010 Database Projects 
@@ -244,7 +244,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 32593
 # Microsoft Entity Framework 4.0 for DBAs
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Rob Vettor
 ## Title: Microsoft Entity Framework 4.0 for DBAs
@@ -263,7 +263,7 @@ Come and better understand the Entity Framework, as we …
 #  
 #### SessionID: 32620
 # DBA Repository Update 2010 Using SSIS and SSRS
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Rodney Landrum
 ## Title: DBA Repository Update 2010 Using SSIS and SSRS
@@ -272,7 +272,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 32709
 # Stored procedure tracing using the xml datatype 
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Russel Loski
 ## Title: Stored procedure tracing using the xml datatype 
@@ -282,7 +282,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32732
 # Mirroring: The Bear Necessities
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Ryan Adams
 ## Title: Mirroring: The Bear Necessities
@@ -291,7 +291,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 32733
 # Manage Your Shop with CMS and Policy Based Managem
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Ryan Adams
 ## Title: Manage Your Shop with CMS and Policy Based Managem
@@ -304,7 +304,7 @@ evaluating policies to receiving alerts on policy violations.
 #  
 #### SessionID: 32848
 # Beginning Powershell for DBAs 1.0
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Sean McCown
 ## Title: Beginning Powershell for DBAs 1.0
@@ -313,7 +313,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 32849
 # Beginning Powershell for DBAs 1.5
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Sean McCown
 ## Title: Beginning Powershell for DBAs 1.5
@@ -322,7 +322,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 32850
 # It’s not called Wussyshell
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Sean McCown
 ## Title: It’s not called Wussyshell
@@ -331,7 +331,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 32851
 # Deploying SSIS packages with Powershell
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Sean McCown
 ## Title: Deploying SSIS packages with Powershell
@@ -340,7 +340,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 33369
 # SQL Azure and Me!
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Anthony {Tex} Moreign
 ## Title: SQL Azure and Me!
@@ -352,7 +352,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33516
 # Parallel Query Execution Deep Dive
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kevin Boles
 ## Title: Parallel Query Execution Deep Dive
@@ -361,7 +361,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33519
 # Advanced TSQL Solutions
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Kevin Boles
 ## Title: Advanced TSQL Solutions
@@ -370,7 +370,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33561
 # Execution Plan Basics
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Thomas LeBlanc
 ## Title: Execution Plan Basics
@@ -380,7 +380,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33562
 # Transition from DBA to BI Architect 
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Thomas LeBlanc
 ## Title: Transition from DBA to BI Architect 
@@ -389,7 +389,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33593
 # Dynamic SSIS with Expressions and Configurations
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Tim Mitchell
 ## Title: Dynamic SSIS with Expressions and Configurations
@@ -398,7 +398,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 33640
 # Tableau: Delivering Self-Serve BI
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Tim Costello
 ## Title: Tableau: Delivering Self-Serve BI
@@ -414,7 +414,7 @@ dashboard design.
 #  
 #### SessionID: 33693
 # Compliance, Auditing and Encryption in Sql Server
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Thomas Norman
 ## Title: Compliance, Auditing and Encryption in Sql Server
@@ -423,7 +423,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 33737
 # A PowerShell Cookbook for DBAs
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Trevor Barkhouse
 ## Title: A PowerShell Cookbook for DBAs
@@ -432,7 +432,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 33739
 # Deadlock Detection, Troubleshooting,  Prevention
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Trevor Barkhouse
 ## Title: Deadlock Detection, Troubleshooting,  Prevention
@@ -441,7 +441,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 33934
 # Documenting Your Integrated Microsoft BI Solution
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: William E Pearson III
 ## Title: Documenting Your Integrated Microsoft BI Solution
@@ -450,7 +450,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 33936
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
@@ -459,7 +459,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 34495
 # SQL Server DMV Overview
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: William Assaf
 ## Title: SQL Server DMV Overview
@@ -468,7 +468,7 @@ Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 34534
 # Zen Coding
-#### [Back to calendar](#SQLSaturday-#57---Houston-2011)
+#### [Back to calendar](#SQLSaturday-#57-Houston-2011)
 Event Date: 29-01-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Brian Rigsby
 ## Title: Zen Coding

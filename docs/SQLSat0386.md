@@ -41,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 25505
 # Surviving parsing XML with T-SQL
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Database Development
 ## Speaker: Steve Simon
 ## Title: Surviving parsing XML with T-SQL
@@ -51,7 +51,7 @@ In this hands on presentation we shall be looking at varied techniques to materi
 #  
 #### SessionID: 28148
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Enterprise BI
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
@@ -60,7 +60,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Enterprise BI
 #  
 #### SessionID: 35800
 # 101 Stupid Things Your Colleagues Do When Setting Up A SQL Server
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 ## Speaker: Matt Slocum
 ## Title: 101 Stupid Things Your Colleagues Do When Setting Up A SQL Server
@@ -69,7 +69,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 #  
 #### SessionID: 37450
 # Scratching the surface: An overview of SSRS and building your first BI Report
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Self-Service BI
 ## Speaker: Chris Seferlis
 ## Title: Scratching the surface: An overview of SSRS and building your first BI Report
@@ -78,7 +78,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Self-Service BI
 #  
 #### SessionID: 37780
 # PowerShell for Absolute Beginnners
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: IT/Server Administration
 ## Speaker: Michael Wells
 ## Title: PowerShell for Absolute Beginnners
@@ -87,7 +87,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: IT/Server Administratio
 #  
 #### SessionID: 37786
 # An Introduction to Big Data, Hadoop and Microsoft Azure HDInsight.
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Big Data
 ## Speaker: Adriano da Silva
 ## Title: An Introduction to Big Data, Hadoop and Microsoft Azure HDInsight.
@@ -96,7 +96,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Big Data
 #  
 #### SessionID: 37936
 # Monitoring SQL Server using Extended Events
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 ## Speaker: Hilary Cotter
 ## Title: Monitoring SQL Server using Extended Events
@@ -105,7 +105,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 #  
 #### SessionID: 37942
 # All things non technical
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Professional/Personal Development
 ## Speaker: Susan Lundberg
 ## Title: All things non technical
@@ -122,7 +122,7 @@ Keeping up
 #  
 #### SessionID: 25493
 # DAX and the tabular model
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Enterprise BI
 ## Speaker: Steve Simon
 ## Title: DAX and the tabular model
@@ -132,7 +132,7 @@ We shall discuss many of the often used functions, discuss their 'overloads' (ut
 #  
 #### SessionID: 28146
 # Introducing Forensic Analytics with PowerPivot for Excel
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Self-Service BI
 ## Speaker: William E Pearson III
 ## Title: Introducing Forensic Analytics with PowerPivot for Excel
@@ -142,7 +142,7 @@ In this session, we explore Forensic Analytics: a set of techniques we can use t
 #  
 #### SessionID: 35799
 # What Every DBA Needs To Know About Storage For SQL Server
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 ## Speaker: Matt Slocum
 ## Title: What Every DBA Needs To Know About Storage For SQL Server
@@ -153,7 +153,7 @@ In this session we will discuss RAID types, Local/Direct Attached Storage vs SAN
 #  
 #### SessionID: 36282
 # Tracking Index Usage in SQL 2012 and SQL 2014
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 ## Speaker: Ken Schwartz
 ## Title: Tracking Index Usage in SQL 2012 and SQL 2014
@@ -166,7 +166,7 @@ In order to evaluate index usage, we need to have some way of gathering and stor
 #  
 #### SessionID: 36785
 # .NET for Data Professionals
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: .NET
 ## Speaker: Robert Biddle
 ## Title: .NET for Data Professionals
@@ -177,7 +177,7 @@ No .NET experience is needed for this session. Basic understanding of programmin
 #  
 #### SessionID: 37891
 # Architecting Availability Groups
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 ## Speaker: Derik Hammer
 ## Title: Architecting Availability Groups
@@ -186,7 +186,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 #  
 #### SessionID: 37927
 # So you think you know SSIS? What about Scripting? 
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Database Development
 ## Speaker: Bryan Cafferky
 ## Title: So you think you know SSIS? What about Scripting? 
@@ -195,7 +195,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Database Developm
 #  
 #### SessionID: 11035
 # Advanced Programming in PowerShell
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Database Development
 ## Speaker: Bryan Cafferky
 ## Title: Advanced Programming in PowerShell
@@ -204,7 +204,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Database Developm
 #  
 #### SessionID: 16752
 # Advanced Transactional Replication
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 ## Speaker: John Flannery
 ## Title: Advanced Transactional Replication
@@ -213,7 +213,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 #  
 #### SessionID: 20991
 # SQL Server Compression - Getting More Out of Less
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Optimization/Tuning
 ## Speaker: Michael Nowill
 ## Title: SQL Server Compression - Getting More Out of Less
@@ -222,7 +222,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Optimization/Tuni
 #  
 #### SessionID: 26119
 # Automated Installing and Configuration of SQL2014/SQL2012 AlwaysOn Across Multiple Datacenters
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 ## Speaker: Thomas Grohser
 ## Title: Automated Installing and Configuration of SQL2014/SQL2012 AlwaysOn Across Multiple Datacenters
@@ -233,7 +233,7 @@ The whole process is presented as a life demo
 #  
 #### SessionID: 37349
 # Whacha just say? Talking technology to non-technical people
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Professional/Personal Development
 ## Speaker: Ray Kim
 ## Title: Whacha just say? Talking technology to non-technical people
@@ -242,7 +242,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Professional/Personal D
 #  
 #### SessionID: 37714
 # Bulletproof SSIS - A new process control framework
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Enterprise BI
 ## Speaker: Daniel Bowlin
 ## Title: Bulletproof SSIS - A new process control framework
@@ -253,7 +253,7 @@ Some of the common challenges facing SSIS developers and DBAs are scaling up and
 #  
 #### SessionID: 37748
 # Software testing automation myths and CI
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: QA Automation
 ## Speaker: Vijaya Kokkili
 ## Title: Software testing automation myths and CI
@@ -263,7 +263,7 @@ We will also go through, how to incorporate Continuous Integration into testing 
 #  
 #### SessionID: 13876
 # Dynamic SQL: Writing Efficient Queries on the Fly
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Database Development
 ## Speaker: Edward Pollack
 ## Title: Dynamic SQL: Writing Efficient Queries on the Fly
@@ -274,7 +274,7 @@ Explore the many uses for dynamic SQL as well as best practices for writing, tes
 #  
 #### SessionID: 36588
 # Optimizing Protected Indexes
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 ## Speaker: Chris Bell
 ## Title: Optimizing Protected Indexes
@@ -283,7 +283,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 #  
 #### SessionID: 37705
 # Debugging For Fun and Profit
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: .NET
 ## Speaker: Michael Phipps
 ## Title: Debugging For Fun and Profit
@@ -295,7 +295,7 @@ This presentation is (mostly) not .Net and Visual Studio specific and would be a
 #  
 #### SessionID: 37715
 # Unleashing SSIS with expressions, configurable properties, and parameters
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Enterprise BI
 ## Speaker: Daniel Bowlin
 ## Title: Unleashing SSIS with expressions, configurable properties, and parameters
@@ -304,7 +304,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Enterprise BI
 #  
 #### SessionID: 37798
 # Location Location Location Preparing and Presenting Geographic Data 
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Database Development
 ## Speaker: David Dye
 ## Title: Location Location Location Preparing and Presenting Geographic Data 
@@ -317,7 +317,7 @@ Events that occurred at a specific address, zip code, and even block range and e
 #  
 #### SessionID: 37960
 # Stunning Dashboards using Datazen
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Enterprise BI
 ## Speaker: Sunil Kadimdiwan
 ## Title: Stunning Dashboards using Datazen
@@ -328,7 +328,7 @@ In this session I will demonstrate the power and ease of using this technology
 #  
 #### SessionID: 38023
 # Accounting Basics for Database Developers
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Professional/Personal Development
 ## Speaker: Mark Frawley
 ## Title: Accounting Basics for Database Developers
@@ -343,7 +343,7 @@ The session will conclude with a brief demo showing how SQL Server's Analysis Se
 #  
 #### SessionID: 38225
 # Big Data Analysis using Microsoft Data Mining Tools
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Big Data
 ## Speaker: Jonthan McKinney
 ## Title: Big Data Analysis using Microsoft Data Mining Tools
@@ -353,7 +353,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Big Data
 #  
 #### SessionID: 36586
 # Hacking Expos#233; - Using SSL to Secure SQL Server Connections
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 ## Speaker: Chris Bell
 ## Title: Hacking Expos#233; - Using SSL to Secure SQL Server Connections
@@ -367,7 +367,7 @@ Once secured, we will resume the role of the hacker and look inside the packets 
 #  
 #### SessionID: 37179
 # Introduction to SQL Server Automation with PowerShell
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 ## Speaker: Chris Sommer
 ## Title: Introduction to SQL Server Automation with PowerShell
@@ -380,7 +380,7 @@ The sooner you start to learn the better, because PowerShell is here to stay.
 #  
 #### SessionID: 37892
 # A Primer on the Basics of NoSQL Databases
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Database Development
 ## Speaker: Jason Cortes
 ## Title: A Primer on the Basics of NoSQL Databases
@@ -389,7 +389,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Database Developm
 #  
 #### SessionID: 37902
 # Advanced Troubleshooting Your SQL Connections
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 ## Speaker: Mike Hays
 ## Title: Advanced Troubleshooting Your SQL Connections
@@ -398,7 +398,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: DBA - Administration
 #  
 #### SessionID: 37962
 # How you can build an interactive visual explore screens in Excel
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Self-Service BI
 ## Speaker: Joe Rourke
 ## Title: How you can build an interactive visual explore screens in Excel
@@ -408,7 +408,7 @@ Event Date: 25-07-2015 - Session time: 15:30:00 - Track: Self-Service BI
 #  
 #### SessionID: 38832
 # Recovery and Backup for Beginners
-#### [Back to calendar](#SQLSaturday-#386---Albany-2015)
+#### [Back to calendar](#SQLSaturday-#386-Albany-2015)
 Event Date: 25-07-2015 - Session time: 15:30:00 - Track: IT/Server Administration
 ## Speaker: Mike Hillwig
 ## Title: Recovery and Backup for Beginners

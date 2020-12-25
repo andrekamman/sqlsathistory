@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11193
 # Juez, Jurado Y  Verdugo--Una Primera Observación de Planes de Ejecución
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola C
 ## Speaker: Carlos L Chacon
 ## Title: Juez, Jurado Y  Verdugo--Una Primera Observación de Planes de Ejecución
@@ -45,7 +45,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola C
 #  
 #### SessionID: 11886
 # HDInsight - Microsoft Big Data 
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola D
 ## Speaker: César Oviedo
 ## Title: HDInsight - Microsoft Big Data 
@@ -54,7 +54,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola D
 #  
 #### SessionID: 12051
 # Alta Disponibilidad en SQL-Server 2014
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola C
 ## Speaker: Carlos Rojas Vargas
 ## Title: Alta Disponibilidad en SQL-Server 2014
@@ -63,7 +63,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola C
 #  
 #### SessionID: 12850
 # BCS con SharePoint 2013
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola D
 ## Speaker: David Sánchez Aguilar
 ## Title: BCS con SharePoint 2013
@@ -72,7 +72,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola D
 #  
 #### SessionID: 13018
 # Implementing Auditing in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola B
 ## Speaker: David Dye
 ## Title: Implementing Auditing in SQL Server 2012
@@ -82,7 +82,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola B
 #  
 #### SessionID: 13627
 # Optimizar el desempeño de SQL Cloud Database
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola C
 ## Speaker: Eduardo Castro
 ## Title: Optimizar el desempeño de SQL Cloud Database
@@ -91,7 +91,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola C
 #  
 #### SessionID: 13629
 # Almuerzo
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola D
 ## Speaker: Eduardo Castro
 ## Title: Almuerzo
@@ -100,7 +100,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola D
 #  
 #### SessionID: 13630
 # Rifas y Cierre
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola D
 ## Speaker: Eduardo Castro
 ## Title: Rifas y Cierre
@@ -109,7 +109,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola D
 #  
 #### SessionID: 14339
 # BI en Sql Server 2014
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola A
 ## Speaker: Freddy Angarita
 ## Title: BI en Sql Server 2014
@@ -118,7 +118,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola A
 #  
 #### SessionID: 14340
 # Detección de cambios para el desarrollo de Warehouses
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola B
 ## Speaker: Freddy Angarita
 ## Title: Detección de cambios para el desarrollo de Warehouses
@@ -127,7 +127,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola B
 #  
 #### SessionID: 15127
 # Collecting and analyzing SQL Server performance data with DMOs
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola C
 ## Speaker: Ignacio Salom Rangel
 ## Title: Collecting and analyzing SQL Server performance data with DMOs
@@ -136,7 +136,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola C
 #  
 #### SessionID: 15529
 # Power Query y Powerpivot juntos poder a usuarios analiticos
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Mirador
 ## Speaker: Juan Alvarado
 ## Title: Power Query y Powerpivot juntos poder a usuarios analiticos
@@ -145,7 +145,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Mirador
 #  
 #### SessionID: 16001
 # Todo lo que siempre quiso saber sobre SSMSy MS no tuvo tiempo de enseñarte
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola A
 ## Speaker: Javier Loria
 ## Title: Todo lo que siempre quiso saber sobre SSMSy MS no tuvo tiempo de enseñarte
@@ -154,7 +154,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola A
 #  
 #### SessionID: 16108
 # Aprende todo sobre Business Intelligence con SQL Server 2012, SharePoint y Excel 2013
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Mirador
 ## Speaker: Jose Chinchilla
 ## Title: Aprende todo sobre Business Intelligence con SQL Server 2012, SharePoint y Excel 2013
@@ -163,7 +163,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Mirador
 #  
 #### SessionID: 16684
 # Rudo Vs Tecnico (DBA vs Developer)
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola A
 ## Speaker: Jesus Gil Velasco
 ## Title: Rudo Vs Tecnico (DBA vs Developer)
@@ -173,7 +173,7 @@ Unete a nosotros y descubre los puntos de vista de un Desarrollador y un DBA par
 #  
 #### SessionID: 16685
 # Antes de correr... primero migremos
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola B
 ## Speaker: Jesus Gil Velasco
 ## Title: Antes de correr... primero migremos
@@ -183,7 +183,7 @@ El destino nos ha alcanzado? o nosotros alcanzamos al destino?
 #  
 #### SessionID: 17275
 # SQL Server Data Tools la nueva generación de herramientas de desarrollo de bases de datos
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola A
 ## Speaker: John Alexander Bulla Torres
 ## Title: SQL Server Data Tools la nueva generación de herramientas de desarrollo de bases de datos
@@ -193,7 +193,7 @@ En esta sesión veremos a profundidad las herramientas que provee SQL Server Dat
 #  
 #### SessionID: 17468
 # Tablas Particionadas: De la A a la Z
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola A
 ## Speaker: Jose L. Rivera
 ## Title: Tablas Particionadas: De la A a la Z
@@ -202,7 +202,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola A
 #  
 #### SessionID: 17596
 # SQL Server 2014 - In memory OLTP - Introducción
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola C
 ## Speaker: Jose Gregorio Redondo Lopez
 ## Title: SQL Server 2014 - In memory OLTP - Introducción
@@ -211,7 +211,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola C
 #  
 #### SessionID: 17760
 # Power BI .. Inteligencia de negocios en la nube de Microsoft
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Mirador
 ## Speaker: Juan Alvarado
 ## Title: Power BI .. Inteligencia de negocios en la nube de Microsoft
@@ -220,7 +220,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Mirador
 #  
 #### SessionID: 22225
 # Modelos Tabulares (SSAS Tabular)
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola A
 ## Speaker: Ahias Portillo
 ## Title: Modelos Tabulares (SSAS Tabular)
@@ -229,7 +229,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola A
 #  
 #### SessionID: 22309
 # Buscando a Nemo (o patrones avanzados de búsqueda)
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola D
 ## Speaker: Ricardo Estrada
 ## Title: Buscando a Nemo (o patrones avanzados de búsqueda)
@@ -238,7 +238,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola D
 #  
 #### SessionID: 23389
 # Data Analytics and the DBA – Using PowerView to Uncover Interesting Facts About Your SQL Servers
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola B
 ## Speaker: Rodney Landrum
 ## Title: Data Analytics and the DBA – Using PowerView to Uncover Interesting Facts About Your SQL Servers
@@ -247,7 +247,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola B
 #  
 #### SessionID: 23803
 # SQL Azure... A close look to new features and opportunities for developers
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola D
 ## Speaker: Salomón Henríquez
 ## Title: SQL Azure... A close look to new features and opportunities for developers
@@ -258,7 +258,7 @@ This presentation is also oriented to show assistants how Sql Azure can be used 
 #  
 #### SessionID: 26668
 # Know Backups and Know Recovery
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola B
 ## Speaker: Tim Radney
 ## Title: Know Backups and Know Recovery
@@ -267,7 +267,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola B
 #  
 #### SessionID: 27196
 # Estrategias de Indexación para alto desempeño
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola D
 ## Speaker: Kenneth Urena
 ## Title: Estrategias de Indexación para alto desempeño
@@ -280,7 +280,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola D
 #  
 #### SessionID: 27199
 # SQL Server 2014 In-Memory - Avanzado - Tables desde cada ángulo
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola C
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2014 In-Memory - Avanzado - Tables desde cada ángulo
@@ -289,7 +289,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola C
 #  
 #### SessionID: 27505
 # Respaldo y recuperación de base de datos de SharePoint
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Mirador
 ## Speaker: Vielka Rojas
 ## Title: Respaldo y recuperación de base de datos de SharePoint
@@ -298,7 +298,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Mirador
 #  
 #### SessionID: 27612
 # Acceso a datos para soluciones altamente escalables usando SQL, noSQL y persistencia políglota
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Mirador
 ## Speaker: Walter Montes
 ## Title: Acceso a datos para soluciones altamente escalables usando SQL, noSQL y persistencia políglota
@@ -307,7 +307,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Mirador
 #  
 #### SessionID: 9045
 # SQL Server o SQL Database. Escenarios de la vida real.
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola D
 ## Speaker: Adrian Miranda
 ## Title: SQL Server o SQL Database. Escenarios de la vida real.
@@ -316,7 +316,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola D
 #  
 #### SessionID: 9536
 # Using BIML as an SSIS Design Patterns Engine 
-#### [Back to calendar](#SQLSaturday-#282---Costa-Rica-2014)
+#### [Back to calendar](#SQLSaturday-#282-Costa-Rica-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Aurola B
 ## Speaker: Andy Leonard
 ## Title: Using BIML as an SSIS Design Patterns Engine 

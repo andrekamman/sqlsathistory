@@ -59,7 +59,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 95146
 # SQL Server Performance Tuning and Optimization for the DBA
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: SQL Server Performance Tuning and Optimization for the DBA
@@ -68,7 +68,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 95338
 # AI with Power Platform: The realm of Impossible
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: Leila Etaati
 ## Title: AI with Power Platform: The realm of Impossible
@@ -78,7 +78,7 @@ Some parts of this workshop are hands-on.
 #  
 #### SessionID: 95527
 # Modern Data Warehouse
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matt Stenzel
 ## Title: Modern Data Warehouse
@@ -93,7 +93,7 @@ By the end of this pre-con you should have a thorough understanding of architect
 #  
 #### SessionID: 95538
 # Power BI from Rookie to Rock Star - All About DATA
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: Power BI from Rookie to Rock Star - All About DATA
@@ -111,7 +111,7 @@ This is a data modeling module of the world-famous Power BI training from Rookie
 #  
 #### SessionID: 94721
 # SQL DevOps Simplified with Production Databases
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Paul Stanton
 ## Title: SQL DevOps Simplified with Production Databases
@@ -120,7 +120,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 95337
 # Microsoft AutoML the Next Generation of Machine Learning
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: Leila Etaati
 ## Title: Microsoft AutoML the Next Generation of Machine Learning
@@ -129,7 +129,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 95390
 # I'm It - Survival Techniques for the Lone DBA
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
@@ -138,7 +138,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 95540
 # Architecture Blueprints for Power BI Implementation
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: Architecture Blueprints for Power BI Implementation
@@ -151,7 +151,7 @@ Come to this session to learn about important things you need to know about the 
 #  
 #### SessionID: 95712
 # Give me an "M"! Give me another "M"! Give me a... Ok you get the point.
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: George Bryant
 ## Title: Give me an "M"! Give me another "M"! Give me a... Ok you get the point.
@@ -162,7 +162,7 @@ Come along and learn how the language works and some proposed best practices. Wi
 #  
 #### SessionID: 95747
 # Azure Security, Cost, and Capabilities
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ross McNeely
 ## Title: Azure Security, Cost, and Capabilities
@@ -171,7 +171,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 96379
 # Deploying SQL Server 2019 Big Data Clusters on VMware
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Doug Bernhardt
 ## Title: Deploying SQL Server 2019 Big Data Clusters on VMware
@@ -180,7 +180,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 96591
 # MongoDB and SQL Server 2019: The Odd Couple
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Peter Kral
 ## Title: MongoDB and SQL Server 2019: The Odd Couple
@@ -189,7 +189,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 96622
 # Pseudo-Constants in SQL
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Riley Major
 ## Title: Pseudo-Constants in SQL
@@ -202,7 +202,7 @@ Other languages give us real constants and enums—with IntelliSense and compila
 #  
 #### SessionID: 98161
 # Building Your Brand in the Local Data Community
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Joshuha Owen
 ## Title: Building Your Brand in the Local Data Community
@@ -216,7 +216,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 94432
 # JSON for the Data Mortals
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Jim Dorame
 ## Title: JSON for the Data Mortals
@@ -225,7 +225,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 95324
 # Environment Setup using automation tools like Docker, Powershell and Chocolatey
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Adam Anderson
 ## Title: Environment Setup using automation tools like Docker, Powershell and Chocolatey
@@ -236,7 +236,7 @@ This three tiered environment setup can work with or without Docker. In this ses
 #  
 #### SessionID: 95443
 # Azure Databricks in action
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jared Zagelbaum
 ## Title: Azure Databricks in action
@@ -245,7 +245,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 95502
 # A Beginner's Guide to Seven Practices that Kill Performance
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Yun
 ## Title: A Beginner's Guide to Seven Practices that Kill Performance
@@ -258,7 +258,7 @@ When you leave, you'll be armed with knowledge and tools to tackle your current 
 #  
 #### SessionID: 96012
 # I deleted 1 billion records, what happened next will shock you!
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Eric Zierdt
 ## Title: I deleted 1 billion records, what happened next will shock you!
@@ -267,7 +267,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 96048
 # Zen and the Art of Baselines
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Zen and the Art of Baselines
@@ -276,7 +276,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 96618
 # DAX: Functions and Context - That's What It's All About!
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: Brian Larson
 ## Title: DAX: Functions and Context - That's What It's All About!
@@ -285,7 +285,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 96666
 # Power BI Dataflows - What do you mean it's about storing data?
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Hughes
 ## Title: Power BI Dataflows - What do you mean it's about storing data?
@@ -294,7 +294,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 96681
 # Azure SQL Database Managed Instance - Almost But Not Quite the Same
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Plas
 ## Title: Azure SQL Database Managed Instance - Almost But Not Quite the Same
@@ -305,7 +305,7 @@ Bottom line: Does Managed Instance make sense for me?
 #  
 #### SessionID: 96908
 # WIT Panel: Celebrating Women Computing Pioneers
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Kathi Kellenberger
 ## Title: WIT Panel: Celebrating Women Computing Pioneers
@@ -318,7 +318,7 @@ Panel will include: Gina Meronek, Theresa Heroff, Monica Rathbun, Ashley Day
 #  
 #### SessionID: 94884
 # Real-Time IoT Analytics at the Edge
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jordan Anderson
 ## Title: Real-Time IoT Analytics at the Edge
@@ -331,7 +331,7 @@ No prior Azure IoT or Azure Stream Analytics knowledge is required to benefit fr
 #  
 #### SessionID: 95139
 # Decoder ring not needed
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcus Hopfinger
 ## Title: Decoder ring not needed
@@ -340,7 +340,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 95377
 # Creating a Marketing Dashboard with Power BI and Dax
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: Craig Johnson
 ## Title: Creating a Marketing Dashboard with Power BI and Dax
@@ -349,7 +349,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 95504
 # Everyone Has a Story to Tell: Developing Your First Presentation
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Andy Yun
 ## Title: Everyone Has a Story to Tell: Developing Your First Presentation
@@ -362,7 +362,7 @@ You will leave armed with a wealth of resources (and hopefully some inspiration)
 #  
 #### SessionID: 95525
 # SQL Server Serverless Overview
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Matt Stenzel
 ## Title: SQL Server Serverless Overview
@@ -371,7 +371,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 95796
 # File Formats - A Deep Dive
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Bill Preachuk
 ## Title: File Formats - A Deep Dive
@@ -391,7 +391,7 @@ In the end, you will understand How, When, Where, and Why to optimally use each 
 #  
 #### SessionID: 96208
 # An Introduction to Partitioning
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Krenz
 ## Title: An Introduction to Partitioning
@@ -404,7 +404,7 @@ After this session, you will be able to configure partitioned tables, explain ho
 #  
 #### SessionID: 96424
 # Hands-On Query Tuning Workshop
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Andrew Brobston
 ## Title: Hands-On Query Tuning Workshop
@@ -419,7 +419,7 @@ When you leave the session, you’ll have more practical ways to fix slow T-SQL 
 #  
 #### SessionID: 96501
 # Control PHI and Sensitive Data Risk for Self-Service BI using Power BI DataFlows and Azure Data Lake
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Greg Beaumont
 ## Title: Control PHI and Sensitive Data Risk for Self-Service BI using Power BI DataFlows and Azure Data Lake
@@ -428,7 +428,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 99070
 # SQL Server 2019 and Big Data Clusters on Dell EMC Storage
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Doug Bernhardt
 ## Title: SQL Server 2019 and Big Data Clusters on Dell EMC Storage
@@ -437,7 +437,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 94973
 # Introduction to PowerApps and Flow
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kurt Hagedorn
 ## Title: Introduction to PowerApps and Flow
@@ -447,7 +447,7 @@ PowerApps and Flow are both useful tools for enabling end users with the ability
 #  
 #### SessionID: 95271
 # Leadership 101:  Guiding principals to success
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: James Phillips
 ## Title: Leadership 101:  Guiding principals to success
@@ -456,7 +456,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 95373
 # What is DevOps and Why Should DBAs Care?
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kathi Kellenberger
 ## Title: What is DevOps and Why Should DBAs Care?
@@ -466,7 +466,7 @@ Attend this session to learn how DevOps is changing the DBAs world for the bette
 #  
 #### SessionID: 95649
 # Modern Data Integration  Analytics in the Cloud – From Azure to Snowflake
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Frank Matteson
 ## Title: Modern Data Integration  Analytics in the Cloud – From Azure to Snowflake
@@ -475,7 +475,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 95653
 # SQL Server 2019 on Docker  Kubernetes
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Kramer
 ## Title: SQL Server 2019 on Docker  Kubernetes
@@ -484,7 +484,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 96252
 # Power BI for the Data Systems Administrator
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: Gina Meronek
 ## Title: Power BI for the Data Systems Administrator
@@ -493,7 +493,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 96430
 # Azure Data Studio Extension Development
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Drew Skwiers-Koballa
 ## Title: Azure Data Studio Extension Development
@@ -504,7 +504,7 @@ This session will take the audience through the fundamentals of extension develo
 #  
 #### SessionID: 96663
 # Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
@@ -513,7 +513,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 96678
 # Azure SQL DB Hyperscale for OLTP  HTAP
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Huy Ly
 ## Title: Azure SQL DB Hyperscale for OLTP  HTAP
@@ -522,7 +522,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 98831
 # Maximum SQL Server on VMware Performance
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Maximum SQL Server on VMware Performance
@@ -533,7 +533,7 @@ This session is packed with many tips and tricks gained from years of experience
 #  
 #### SessionID: 94364
 # Diagnosing and fixing deadlocks in SQL Server
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Jake Manske
 ## Title: Diagnosing and fixing deadlocks in SQL Server
@@ -546,7 +546,7 @@ Attendees will leave with the understanding they need to develop solutions to de
 #  
 #### SessionID: 94417
 # Getting Started with SQL Server Reporting Services (SSRS)
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: Ashley Day
 ## Title: Getting Started with SQL Server Reporting Services (SSRS)
@@ -557,7 +557,7 @@ This session is designed for users with little to no familiarity with SSRS who a
 #  
 #### SessionID: 94431
 # Cosmos DB Develop Locally Deploy Globally
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Jim Dorame
 ## Title: Cosmos DB Develop Locally Deploy Globally
@@ -568,7 +568,7 @@ Do you need to support JSON, Graph, et al?  Done.  Join me and see how easy it i
 #  
 #### SessionID: 94716
 # SSDT, Docker, and (Azure) DevOps: How to Make Your Database Builds a First Class CI/CD Citizen
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dan Mallott
 ## Title: SSDT, Docker, and (Azure) DevOps: How to Make Your Database Builds a First Class CI/CD Citizen
@@ -579,7 +579,7 @@ SSDT and Azure DevOps can solve some of these problems, and even give us a windo
 #  
 #### SessionID: 94902
 # Building your Microsoft Business Intelligence (MSBI) Career
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Ganesh Lohani
 ## Title: Building your Microsoft Business Intelligence (MSBI) Career
@@ -588,7 +588,7 @@ Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 95095
 # Get your Git on with Source Control
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Elizabeth Noble
 ## Title: Get your Git on with Source Control
@@ -603,7 +603,7 @@ Attendees should be familiar with general concepts about source control and be c
 #  
 #### SessionID: 96484
 # Bottling Up Your Data Lake with Delta Lake Tables
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: JD Braun
 ## Title: Bottling Up Your Data Lake with Delta Lake Tables
@@ -614,7 +614,7 @@ Using Delta Lake, in tandem with Azure Databricks, we'll walkthrough bottling yo
 #  
 #### SessionID: 96648
 # Managing ETL Change Using BIMLScript
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Russel Loski
 ## Title: Managing ETL Change Using BIMLScript
@@ -625,7 +625,7 @@ To demonstrate such an approach, I import some US census data. I create the SSIS
 #  
 #### SessionID: 96916
 # SQL Server 2019 - New Features and Enhancements
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: SQL Server 2019 - New Features and Enhancements
@@ -635,7 +635,7 @@ This is an introductory session to introduce you to these new features. There wi
 #  
 #### SessionID: 98125
 # Extended Events: What are they and How do I use them
-#### [Back to calendar](#SQLSaturday-#913---Minnesota-2019)
+#### [Back to calendar](#SQLSaturday-#913-Minnesota-2019)
 Event Date: 12-10-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them

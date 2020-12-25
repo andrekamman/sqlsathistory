@@ -11,7 +11,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 85538
 # SQL Server Management Studio Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#789---Tallinn-2018)
+#### [Back to calendar](#SQLSaturday-#789-Tallinn-2018)
 Event Date: 24-11-2018 - Session time: 16:15:00 - Track: SQL
 ## Speaker: David Postlethwaite
 ## Title: SQL Server Management Studio Tips and Tricks
@@ -23,7 +23,7 @@ At the end of this session you will have learnt many new tricks that you can use
 #  
 #### SessionID: 84172
 # Database corruption
-#### [Back to calendar](#SQLSaturday-#789---Tallinn-2018)
+#### [Back to calendar](#SQLSaturday-#789-Tallinn-2018)
 Event Date: 24-11-2018 - Session time: 16:15:00 - Track: SQL
 ## Speaker: Michal Sadowski
 ## Title: Database corruption
@@ -32,7 +32,7 @@ Event Date: 24-11-2018 - Session time: 16:15:00 - Track: SQL
 #  
 #### SessionID: 85228
 # Self Service BI Solutions with Analysis Services
-#### [Back to calendar](#SQLSaturday-#789---Tallinn-2018)
+#### [Back to calendar](#SQLSaturday-#789-Tallinn-2018)
 Event Date: 24-11-2018 - Session time: 16:15:00 - Track: SQL
 ## Speaker: LEONEL ABREU
 ## Title: Self Service BI Solutions with Analysis Services
@@ -41,7 +41,7 @@ Event Date: 24-11-2018 - Session time: 16:15:00 - Track: SQL
 #  
 #### SessionID: 84314
 # New capabilities of Azure Data Factory v2
-#### [Back to calendar](#SQLSaturday-#789---Tallinn-2018)
+#### [Back to calendar](#SQLSaturday-#789-Tallinn-2018)
 Event Date: 24-11-2018 - Session time: 16:15:00 - Track: SQL
 ## Speaker: Oskari Heikkinen
 ## Title: New capabilities of Azure Data Factory v2
@@ -50,7 +50,7 @@ Event Date: 24-11-2018 - Session time: 16:15:00 - Track: SQL
 #  
 #### SessionID: 86078
 # The Road to The Autonomous Databases
-#### [Back to calendar](#SQLSaturday-#789---Tallinn-2018)
+#### [Back to calendar](#SQLSaturday-#789-Tallinn-2018)
 Event Date: 24-11-2018 - Session time: 16:15:00 - Track: SQL
 ## Speaker: Janusz Rokicki
 ## Title: The Road to The Autonomous Databases
@@ -59,7 +59,7 @@ Event Date: 24-11-2018 - Session time: 16:15:00 - Track: SQL
 #  
 #### SessionID: 84237
 # Hitchhiker's Guide to the SSAS Tabular
-#### [Back to calendar](#SQLSaturday-#789---Tallinn-2018)
+#### [Back to calendar](#SQLSaturday-#789-Tallinn-2018)
 Event Date: 24-11-2018 - Session time: 16:15:00 - Track: SQL
 ## Speaker: Roman Lansky
 ## Title: Hitchhiker's Guide to the SSAS Tabular

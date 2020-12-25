@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 104317
 # Datacenter and/or Cloud - When to Use One, the Other, or Both
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Thomas Grohser
 ## Title: Datacenter and/or Cloud - When to Use One, the Other, or Both
@@ -39,7 +39,7 @@ This session will show the various types and sizes of workloads, show you how to
 #  
 #### SessionID: 104618
 # Is my Server having Memory Pressure and how do I find the source
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Is my Server having Memory Pressure and how do I find the source
@@ -48,7 +48,7 @@ Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 105325
 # Window Functions in SQL
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Brian Hansen
 ## Title: Window Functions in SQL
@@ -57,7 +57,7 @@ Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Database Development
 #  
 #### SessionID: 104118
 # Hardware Hints For The SQL DBA - Don't Let Your IT Department Hand You A Big Bag Of Hurt
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Slocum
 ## Title: Hardware Hints For The SQL DBA - Don't Let Your IT Department Hand You A Big Bag Of Hurt
@@ -67,7 +67,7 @@ This session will also cover some options that the DBA can investigate if they h
 #  
 #### SessionID: 105110
 # So you want to Present: Tips and Tricks of the trade
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Professional/Personal Development
 ## Speaker: Greg Moore
 ## Title: So you want to Present: Tips and Tricks of the trade
@@ -76,7 +76,7 @@ Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Professional/Personal D
 #  
 #### SessionID: 107100
 # Lightning Talks
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paresh Motiwala
 ## Title: Lightning Talks
@@ -91,7 +91,7 @@ Andy Yun: How to Utilize Index Tipping Point Data in Plan Explorer
 #  
 #### SessionID: 101179
 # Azure Vs. AWS: And the winner is!!!
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paresh Motiwala
 ## Title: Azure Vs. AWS: And the winner is!!!
@@ -122,7 +122,7 @@ We will look into the following aspects and more:
 #  
 #### SessionID: 101488
 # How to audit and prevent unwanted user actions.
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Data Architecture  Design
 ## Speaker: John Miner
 ## Title: How to audit and prevent unwanted user actions.
@@ -145,7 +145,7 @@ Coverage:
 #  
 #### SessionID: 105144
 # Power BI: Advanced development techniques
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Business Intelligence
 ## Speaker: Sunil Kadimdiwan
 ## Title: Power BI: Advanced development techniques
@@ -158,7 +158,7 @@ In this session, I will show you how you can database queries, custom theme file
 #  
 #### SessionID: 105190
 # New Features in SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Javier Villegas
 ## Title: New Features in SQL Server 2019
@@ -167,7 +167,7 @@ Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 107143
 # SQL Server: From the Edge to the Cloud
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Amit Banerjee
 ## Title: SQL Server: From the Edge to the Cloud
@@ -176,7 +176,7 @@ Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 100855
 # Data Lake Overview
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Business Intelligence
 ## Speaker: James Serra
 ## Title: Data Lake Overview
@@ -185,7 +185,7 @@ Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Business Intelligence
 #  
 #### SessionID: 101281
 # Need to Monitor Any Azure Resource? Must Learn Kusto Query Language
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taiob Ali
 ## Title: Need to Monitor Any Azure Resource? Must Learn Kusto Query Language
@@ -196,7 +196,7 @@ In this 95% demo session, I will show you some ‘getting started’ tips and a 
 #  
 #### SessionID: 101661
 # Graph Databases–How and Why
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Kevin Mackey
 ## Title: Graph Databases–How and Why
@@ -212,7 +212,7 @@ We'll look at the MATCH predicate in T-SQL and the MATCH statement in Cypher, th
 #  
 #### SessionID: 105219
 # A Practical Starter Guide to SQL Notebooks
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Deborah Melkin
 ## Title: A Practical Starter Guide to SQL Notebooks
@@ -225,7 +225,7 @@ When you leave, you will have the practical knowledge and comfort level to use S
 #  
 #### SessionID: 100782
 # Networking 101: Building professional relationships
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Professional/Personal Development
 ## Speaker: Ray Kim
 ## Title: Networking 101: Building professional relationships
@@ -236,7 +236,7 @@ In this interactive session, we will discuss networking — what it is, why it�
 #  
 #### SessionID: 100795
 # How Intelligent Query Processing improves T-SQL performance
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Andy Yun
 ## Title: How Intelligent Query Processing improves T-SQL performance
@@ -245,7 +245,7 @@ Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Database Development
 #  
 #### SessionID: 105002
 # Microsoft and Big Data - An Overview of the Power Tools and more!
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Data Science
 ## Speaker: David Patrick
 ## Title: Microsoft and Big Data - An Overview of the Power Tools and more!
@@ -254,7 +254,7 @@ Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Data Science
 #  
 #### SessionID: 105111
 # Modern SQL Server CPU Architectures for Performance
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Modern SQL Server CPU Architectures for Performance
@@ -263,7 +263,7 @@ Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 100792
 # Keys to a Healthy Relationship with SQL Server
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Andy Levy
 ## Title: Keys to a Healthy Relationship with SQL Server
@@ -274,7 +274,7 @@ In this talk designed for application and database developers, we’ll talk abou
 #  
 #### SessionID: 105149
 # 10 DBA Tasks for Azure SQL: Whats Different from On-Prem
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rie Irish
 ## Title: 10 DBA Tasks for Azure SQL: Whats Different from On-Prem
@@ -283,7 +283,7 @@ Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 105226
 # Case Study: How I used SharePoint, Power Automate, Power Apps, and Forms to build a Speaker Database
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sarah Patrick
 ## Title: Case Study: How I used SharePoint, Power Automate, Power Apps, and Forms to build a Speaker Database
@@ -292,7 +292,7 @@ Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 105312
 # Step by Step – Building (a Real Use Case for the) Power Platform Solution
-#### [Back to calendar](#SQLSaturday-#961---Albany-2020-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#961-Albany-2020-–-Virtual-2020)
 Event Date: 25-07-2020 - Session time: 15:30:00 - Track: Business Intelligence
 ## Speaker: Belinda Allen
 ## Title: Step by Step – Building (a Real Use Case for the) Power Platform Solution

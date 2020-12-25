@@ -14,7 +14,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13826
 # Inteligencia de Negocio.. Convirtiendo Datos en informacion.
-#### [Back to calendar](#SQLSaturday-#266---Lima-2013)
+#### [Back to calendar](#SQLSaturday-#266-Lima-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: ENRIQUE ALBAN
 ## Title: Inteligencia de Negocio.. Convirtiendo Datos en informacion.
@@ -24,7 +24,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14407
 # Hadoop On  Windows Azure
-#### [Back to calendar](#SQLSaturday-#266---Lima-2013)
+#### [Back to calendar](#SQLSaturday-#266-Lima-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: German Cayo Morales
 ## Title: Hadoop On  Windows Azure
@@ -33,7 +33,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15210
 # Performance dreams  wait for you at SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#266---Lima-2013)
+#### [Back to calendar](#SQLSaturday-#266-Lima-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Shehab El-Najjar
 ## Title: Performance dreams  wait for you at SQL Server 2014
@@ -42,7 +42,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15211
 # Performance dreams of SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#266---Lima-2013)
+#### [Back to calendar](#SQLSaturday-#266-Lima-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Shehab El-Najjar
 ## Title: Performance dreams of SQL Server 2014
@@ -51,7 +51,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17754
 # "Data Explorer" is now Microsoft Power Query for Excel
-#### [Back to calendar](#SQLSaturday-#266---Lima-2013)
+#### [Back to calendar](#SQLSaturday-#266-Lima-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Team  SQL PASS PERU
 ## Title: "Data Explorer" is now Microsoft Power Query for Excel
@@ -60,7 +60,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17755
 # KeyNote SQL PASS PERU
-#### [Back to calendar](#SQLSaturday-#266---Lima-2013)
+#### [Back to calendar](#SQLSaturday-#266-Lima-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Team  SQL PASS PERU
 ## Title: KeyNote SQL PASS PERU
@@ -69,7 +69,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21925
 # In-Memory OLTP Internals for SQL Server 2014 CTP2
-#### [Back to calendar](#SQLSaturday-#266---Lima-2013)
+#### [Back to calendar](#SQLSaturday-#266-Lima-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Percy Reyes
 ## Title: In-Memory OLTP Internals for SQL Server 2014 CTP2
@@ -82,7 +82,7 @@ WebSite: http://www.mssqlinternals.com | Twitter: @percyreyes
 #  
 #### SessionID: 22754
 # Implementando escenarios de reportes empresariales en Windows Azure con SQL Reporting
-#### [Back to calendar](#SQLSaturday-#266---Lima-2013)
+#### [Back to calendar](#SQLSaturday-#266-Lima-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jose  Redondo
 ## Title: Implementando escenarios de reportes empresariales en Windows Azure con SQL Reporting
@@ -91,7 +91,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 22755
 # Big Data, Almacenes de datos empresariales (EDW) y Windows Azure (SQL Database) como Plataforma BI
-#### [Back to calendar](#SQLSaturday-#266---Lima-2013)
+#### [Back to calendar](#SQLSaturday-#266-Lima-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jose  Redondo
 ## Title: Big Data, Almacenes de datos empresariales (EDW) y Windows Azure (SQL Database) como Plataforma BI

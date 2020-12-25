@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10200
 # Features Coming With Microsoft SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: SQL Server 2014
 ## Speaker: Belkis Ozhorasan
 ## Title: Features Coming With Microsoft SQL Server 2014
@@ -37,7 +37,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: SQL Server 2014
 #  
 #### SessionID: 11137
 # The Internals of SQL Server Wait Types
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Batuhan Yildiz
 ## Title: The Internals of SQL Server Wait Types
@@ -54,7 +54,7 @@ I will assume the audience has a basic working knowledge of SQL Server including
 #  
 #### SessionID: 12181
 # SQL Performance and Monitoring in Windows Azure at Scale
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Azure
 ## Speaker: Daniel Sol
 ## Title: SQL Performance and Monitoring in Windows Azure at Scale
@@ -66,7 +66,7 @@ This session focuses on lessons learnt from performance tuning one of the larges
 #  
 #### SessionID: 12182
 # Windows Azure for the DBA
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Azure
 ## Speaker: Daniel Sol
 ## Title: Windows Azure for the DBA
@@ -75,7 +75,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Azure
 #  
 #### SessionID: 13094
 # Deadlock detected! All is lost or it's too early to sound the alarm?
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Denis Reznik
 ## Title: Deadlock detected! All is lost or it's too early to sound the alarm?
@@ -84,7 +84,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 15357
 # Clustered Columnstore - Introduction
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: SQL Server 2014
 ## Speaker: Niko Neugebauer
 ## Title: Clustered Columnstore - Introduction
@@ -94,7 +94,7 @@ This new feature is targeted at the OLAP installations and it is already availab
 #  
 #### SessionID: 15358
 # Deep Dive into Clustered Columnstore
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: SQL Server 2014
 ## Speaker: Niko Neugebauer
 ## Title: Deep Dive into Clustered Columnstore
@@ -103,7 +103,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: SQL Server 2014
 #  
 #### SessionID: 15432
 # Performance Tuning with DMVs
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Işıl Efe
 ## Title: Performance Tuning with DMVs
@@ -112,7 +112,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17830
 # Leveraging Hadoop Cluster from SSIS
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Kagan Arca
 ## Title: Leveraging Hadoop Cluster from SSIS
@@ -123,7 +123,7 @@ In this session, We will explore how SQL Server Integration Services (SSIS), i.e
 #  
 #### SessionID: 18474
 # Fast your seatbelt - Troubleshooting the most difficult SQL Server problems
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Klaus Aschenbrenner
 ## Title: Fast your seatbelt - Troubleshooting the most difficult SQL Server problems
@@ -136,7 +136,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 18805
 # Data Mining using SQL Server
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Koray Kocabas
 ## Title: Data Mining using SQL Server
@@ -149,7 +149,7 @@ Data Mining Sampling using Microsoft SQL Server
 #  
 #### SessionID: 20297
 # Spatial Data and Windows Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Azure
 ## Speaker: Mihail Mateev
 ## Title: Spatial Data and Windows Azure SQL Database
@@ -160,7 +160,7 @@ from Windows Azure SQL Database Spatial, optimizing Windows Azure applications a
 #  
 #### SessionID: 20298
 # Power BI for Office 365 -  a Complete Self-Service BI in the Cloud
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Azure
 ## Speaker: Mihail Mateev
 ## Title: Power BI for Office 365 -  a Complete Self-Service BI in the Cloud
@@ -169,7 +169,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Azure
 #  
 #### SessionID: 21535
 # Power Query: The ETL bit of Microsoft Self-Service
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Oliver Engels
 ## Title: Power Query: The ETL bit of Microsoft Self-Service
@@ -178,7 +178,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 21597
 # Business Intelligence and Data Visualization Enhancements
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: SQL Server 2014
 ## Speaker: Osman Cokakoglu Emrah Uslu
 ## Title: Business Intelligence and Data Visualization Enhancements
@@ -187,7 +187,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: SQL Server 2014
 #  
 #### SessionID: 24350
 # Query Optimizer and Statsitics
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Sergey Olontsev
 ## Title: Query Optimizer and Statsitics
@@ -196,7 +196,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 24351
 # Query Plan Operators Deep Dive
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Sergey Olontsev
 ## Title: Query Plan Operators Deep Dive
@@ -205,7 +205,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 24426
 # Corrupt Database Adventures
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Sibel Nal
 ## Title: Corrupt Database Adventures
@@ -214,7 +214,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 25950
 # Data Quality rulez! Integration and Performance be
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Tillmann Eitelberg
 ## Title: Data Quality rulez! Integration and Performance be
@@ -223,7 +223,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 27136
 # Top 10 Performance Tips for SQL Server Developers
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Turgay Sahtiyan
 ## Title: Top 10 Performance Tips for SQL Server Developers
@@ -232,7 +232,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 27178
 # Overview, Best Practices and Lessons Learned on SQL Server in Windows Azure Virtual Machines
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Azure
 ## Speaker: Umit Sunar
 ## Title: Overview, Best Practices and Lessons Learned on SQL Server in Windows Azure Virtual Machines
@@ -241,7 +241,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: Azure
 #  
 #### SessionID: 28280
 # In-Memory OLTP Project (Hekaton) - A new Adventure
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: SQL Server 2014
 ## Speaker: Yigit Aktan
 ## Title: In-Memory OLTP Project (Hekaton) - A new Adventure
@@ -250,7 +250,7 @@ Event Date: 05-10-2013 - Session time: 00:00:00 - Track: SQL Server 2014
 #  
 #### SessionID: 8798
 # “SQL Attack…ed” – SQL Server under attack.
-#### [Back to calendar](#SQLSaturday-#258---Istanbul-2013)
+#### [Back to calendar](#SQLSaturday-#258-Istanbul-2013)
 Event Date: 05-10-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Andreas Wolter
 ## Title: “SQL Attack…ed” – SQL Server under attack.

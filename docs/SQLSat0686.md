@@ -44,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 67722
 # Python in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Analyze
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
@@ -55,7 +55,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 67735
 # JSON and the Astronauts
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 ## Speaker: Peter Kral
 ## Title: JSON and the Astronauts
@@ -67,7 +67,7 @@ You should have experience writing queries in T-SQL. No previous knowledge of JS
 #  
 #### SessionID: 67742
 # Introduction to Indexes and SARGability
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 ## Speaker: Jared Karney
 ## Title: Introduction to Indexes and SARGability
@@ -76,7 +76,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 #  
 #### SessionID: 67760
 # Boost your Analytics with Machine Learning for SQL Nerds
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Innovate
 ## Speaker: Julie Koesmarno
 ## Title: Boost your Analytics with Machine Learning for SQL Nerds
@@ -87,7 +87,7 @@ This session will provide a gentle and fun introduction to SQL Server R Services
 #  
 #### SessionID: 68680
 # Tame Your Unruly Data With Constraints
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Design
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data With Constraints
@@ -96,7 +96,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Design
 #  
 #### SessionID: 69080
 # Don’t Panic: Use the DBA Cheat Sheet for Administrative Tasks
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 ## Speaker: Elizabeth Block
 ## Title: Don’t Panic: Use the DBA Cheat Sheet for Administrative Tasks
@@ -105,7 +105,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 #  
 #### SessionID: 69164
 # Ultimate Security and Sharing in Power BI
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Scale
 ## Speaker: Reza Rad
 ## Title: Ultimate Security and Sharing in Power BI
@@ -114,7 +114,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Scale
 #  
 #### SessionID: 69188
 # Adopting Power BI - How to avoid "free puppy" scenario with a new Adoption Framework from Microsoft
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Evolve
 ## Speaker: Ron Ellis Gaut
 ## Title: Adopting Power BI - How to avoid "free puppy" scenario with a new Adoption Framework from Microsoft
@@ -140,7 +140,7 @@ Support (enablement)
 #  
 #### SessionID: 67730
 # Welcome To the 2016 Query Store!
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 ## Speaker: Janis Griffin
 ## Title: Welcome To the 2016 Query Store!
@@ -149,7 +149,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 #  
 #### SessionID: 67755
 # Using Always Encrypted in Real World
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 ## Speaker: Dan de Sousa
 ## Title: Using Always Encrypted in Real World
@@ -160,7 +160,7 @@ I will demonstrate the technology  and some scenarios presented to us (including
 #  
 #### SessionID: 67790
 # Self-Service ETL with Power Query
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Analyze
 ## Speaker: Dan Clark
 ## Title: Self-Service ETL with Power Query
@@ -169,7 +169,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Analyze
 #  
 #### SessionID: 67882
 # Upgrade your SQL Server like a Ninja
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 ## Speaker: Amit Banerjee
 ## Title: Upgrade your SQL Server like a Ninja
@@ -178,7 +178,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 #  
 #### SessionID: 68391
 # Whats new for Columnstore in SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 ## Speaker: Niko Neugebauer
 ## Title: Whats new for Columnstore in SQL Server 2017
@@ -191,7 +191,7 @@ Discover all the big and little Columnstore gems of the 2017 edition of the SQL 
 #  
 #### SessionID: 68686
 # Modern Data Modeling for Azure Data Lake and Azure SQL DW
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Design
 ## Speaker: Steve Moss
 ## Title: Modern Data Modeling for Azure Data Lake and Azure SQL DW
@@ -202,7 +202,7 @@ This presentation will explore when the concepts of dimensional modeling are sti
 #  
 #### SessionID: 69149
 # Why is my DBA So Grump? Real Reasons Why Some Code Practices Cause Issues.
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 ## Speaker: Rick Lowe
 ## Title: Why is my DBA So Grump? Real Reasons Why Some Code Practices Cause Issues.
@@ -211,7 +211,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 #  
 #### SessionID: 69186
 # SQL Server Take Over:  Establishing a Baseline
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Support
 ## Speaker: Lowry Kozlowski
 ## Title: SQL Server Take Over:  Establishing a Baseline
@@ -226,7 +226,7 @@ The server is running slowly... or is it? Slow compared to what?  Before you be
 #  
 #### SessionID: 67733
 # Make Power BI Your Own with the Power BI APIs
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 ## Speaker: Steve Wake
 ## Title: Make Power BI Your Own with the Power BI APIs
@@ -235,7 +235,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 #  
 #### SessionID: 67757
 # Will my workload run faster with In-Memory OLTP?
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 ## Speaker: Ned Otter
 ## Title: Will my workload run faster with In-Memory OLTP?
@@ -250,7 +250,7 @@ We will lift the veil of confusion that surrounds this blazingly fast feature. B
 #  
 #### SessionID: 67840
 # dbatools - PowerShell and SQL Server Working Together
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Support
 ## Speaker: Sander Stad
 ## Title: dbatools - PowerShell and SQL Server Working Together
@@ -260,7 +260,7 @@ In this session I'll show how dbatools can help you automate and simplify your d
 #  
 #### SessionID: 67843
 # Azure Machine Learning 101
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Analyze
 ## Speaker: Kathi Kellenberger
 ## Title: Azure Machine Learning 101
@@ -269,7 +269,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Analyze
 #  
 #### SessionID: 67915
 # Linux Administration for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 ## Speaker: David Klee
 ## Title: Linux Administration for the SQL Server DBA
@@ -280,7 +280,7 @@ This introductory session will help seasoned SQL Server DBAs understand the basi
 #  
 #### SessionID: 68384
 # Introduction to Cortana  – Turning Data into Intelligent Action
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Design
 ## Speaker: Melody Zacharias
 ## Title: Introduction to Cortana  – Turning Data into Intelligent Action
@@ -289,7 +289,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Design
 #  
 #### SessionID: 68762
 # Well, actually...  How to not be THAT guy in IT
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Evolve
 ## Speaker: Rie Irish
 ## Title: Well, actually...  How to not be THAT guy in IT
@@ -300,7 +300,7 @@ It doesn't have to be that way.  Most of the guys we work with are stand-up, res
 #  
 #### SessionID: 69198
 # Query Optimization Statistics : Driving Force Behind Performance
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 ## Speaker: Vern Rabe
 ## Title: Query Optimization Statistics : Driving Force Behind Performance
@@ -309,7 +309,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 #  
 #### SessionID: 67724
 # Why candidates fail the job interview in the first minute
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Evolve
 ## Speaker: Thomas Grohser
 ## Title: Why candidates fail the job interview in the first minute
@@ -320,7 +320,7 @@ Thomas will share what he misses in resumes and how to respond to questions bett
 #  
 #### SessionID: 67727
 # Hi, my name is Powershell, let's be friends! An Intro to PoSH
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Support
 ## Speaker: Amy Herold
 ## Title: Hi, my name is Powershell, let's be friends! An Intro to PoSH
@@ -329,7 +329,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Support
 #  
 #### SessionID: 68324
 # What is new for database developers in Visual Studio 2017
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 ## Speaker: Frank Geisler
 ## Title: What is new for database developers in Visual Studio 2017
@@ -338,7 +338,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 #  
 #### SessionID: 68329
 # On Transactions and Atomic Operations
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 ## Speaker: Gail Shaw
 ## Title: On Transactions and Atomic Operations
@@ -359,7 +359,7 @@ In this session, we’ll look at what transactions are and why we should use the
 #  
 #### SessionID: 68489
 # Locks, Blocks, and Snapshots: Maximizing Database Concurrency
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 ## Speaker: Bob Pusateri
 ## Title: Locks, Blocks, and Snapshots: Maximizing Database Concurrency
@@ -368,7 +368,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 #  
 #### SessionID: 68999
 # Data Wrangling for Reporting  Analytics
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Analyze
 ## Speaker: Phil Robinson
 ## Title: Data Wrangling for Reporting  Analytics
@@ -377,7 +377,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Analyze
 #  
 #### SessionID: 69182
 # Introduction to SQL Server Reporting Services
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 ## Speaker: Ted Stathakis
 ## Title: Introduction to SQL Server Reporting Services
@@ -391,7 +391,7 @@ You will leave this session able to return to the office and present meaningful 
 #  
 #### SessionID: 69215
 # Understanding SQL Database-as-a-Service in Microsoft Azure Stack
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Evolve
 ## Speaker: Michael Wells
 ## Title: Understanding SQL Database-as-a-Service in Microsoft Azure Stack
@@ -400,7 +400,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Evolve
 #  
 #### SessionID: 67743
 # SQL Server Containers and Clones
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Innovate
 ## Speaker: Paul Stanton
 ## Title: SQL Server Containers and Clones
@@ -413,7 +413,7 @@ Containers and Clones are particularly well suited for Public and Hybrid Cloud, 
 #  
 #### SessionID: 67909
 # Upcoming Improvements to SQL Server Always On Availability Groups
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 ## Speaker: Sourabh Agarwal
 ## Title: Upcoming Improvements to SQL Server Always On Availability Groups
@@ -422,7 +422,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 #  
 #### SessionID: 68249
 # SQL Server 2017: Intelligent Diagnostics Just Built-In
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Innovate
 ## Speaker: Parikshit Savjani
 ## Title: SQL Server 2017: Intelligent Diagnostics Just Built-In
@@ -431,7 +431,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Innovate
 #  
 #### SessionID: 68422
 # Designing an alternative to Replication - a Real World™ Example
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 ## Speaker: Ben Thul
 ## Title: Designing an alternative to Replication - a Real World™ Example
@@ -440,7 +440,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 #  
 #### SessionID: 68621
 # SQL Server Then and Now: Changing the State of Long-held Beliefs
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Support
 ## Speaker: Maxwell Myrick
 ## Title: SQL Server Then and Now: Changing the State of Long-held Beliefs
@@ -449,7 +449,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Support
 #  
 #### SessionID: 68642
 # TempDB: The forgotten pillar of performance tuning
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 ## Speaker: Hamish Watson
 ## Title: TempDB: The forgotten pillar of performance tuning
@@ -464,7 +464,7 @@ We will then use these best practices to optimize our instance and performance t
 #  
 #### SessionID: 69178
 # DAX Filters: A Quest for Clarity
-#### [Back to calendar](#SQLSaturday-#686---Oregon-2017)
+#### [Back to calendar](#SQLSaturday-#686-Oregon-2017)
 Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Design
 ## Speaker: Derek Rickard
 ## Title: DAX Filters: A Quest for Clarity

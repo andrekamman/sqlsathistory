@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28731
 # Free Tools to Expand Your SQL Knowledge
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Andy Galbraith
 ## Title: Free Tools to Expand Your SQL Knowledge
@@ -54,7 +54,7 @@ Let me show you how useful the various online knowledge and social networking to
 #  
 #### SessionID: 28859
 # User-Defined Aggregate Functions - Why and How
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Arlin Mast
 ## Title: User-Defined Aggregate Functions - Why and How
@@ -63,7 +63,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 29045
 # Kama Sutra of SSIS: A guide to loving ETL
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Bill Fellows
 ## Title: Kama Sutra of SSIS: A guide to loving ETL
@@ -73,7 +73,7 @@ After attending this session, you will come out with an understanding of how Con
 #  
 #### SessionID: 29060
 # Writing faster SQL
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Amazon Room
 ## Speaker: Bill Graziano
 ## Title: Writing faster SQL
@@ -82,7 +82,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Amazon Room
 #  
 #### SessionID: 29119
 # Backups  Recovery In Depth
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Amazon Room
 ## Speaker: Bob Pusateri
 ## Title: Backups  Recovery In Depth
@@ -91,7 +91,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Amazon Room
 #  
 #### SessionID: 29125
 # The Skinny on Data Compression
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Bob Pusateri
 ## Title: The Skinny on Data Compression
@@ -100,7 +100,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29418
 # Business Intelligence Power Hour
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Carlos Bossy
 ## Title: Business Intelligence Power Hour
@@ -114,7 +114,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 30211
 # Writing MDX in Reporting Services
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Frank Kearney
 ## Title: Writing MDX in Reporting Services
@@ -125,7 +125,7 @@ This session will walk the audience through writing MDX in Reporting Services ve
 #  
 #### SessionID: 30361
 # Lessons Learned - Enterprise Data Management
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Amazon Room
 ## Speaker: Ilona Shulman
 ## Title: Lessons Learned - Enterprise Data Management
@@ -134,7 +134,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Amazon Room
 #  
 #### SessionID: 30507
 # "SOA What??": Service Broker Basics
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jason Horner
 ## Title: "SOA What??": Service Broker Basics
@@ -143,7 +143,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 30854
 #  I can use Numbers for that?
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: John Dempsey
 ## Title:  I can use Numbers for that?
@@ -152,7 +152,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30855
 # I have been converted. Will you?
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: John Dempsey
 ## Title: I have been converted. Will you?
@@ -161,7 +161,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 31208
 # SQL Server on VMWare,what a DBA should know
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kathy  Gibbs
 ## Title: SQL Server on VMWare,what a DBA should know
@@ -170,7 +170,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 31558
 # Introduction to Analysis Services
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Marc Beacom
 ## Title: Introduction to Analysis Services
@@ -179,7 +179,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 31775
 # Making Powershell count
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Mike Lynn
 ## Title: Making Powershell count
@@ -188,7 +188,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 31820
 # Managing and Auditing SQL Server Permissions
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Michael Fal
 ## Title: Managing and Auditing SQL Server Permissions
@@ -197,7 +197,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 31821
 # The Fabulous Query Plan Primer
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Michael Fal
 ## Title: The Fabulous Query Plan Primer
@@ -206,7 +206,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 32394
 # But it worked great in Dev!  Performance for Devs
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Performance for Devs
@@ -215,7 +215,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 32395
 # Understanding SQL Server XML Features  
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Randy Knight
 ## Title: Understanding SQL Server XML Features  
@@ -224,7 +224,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 32555
 # SQL Injection and XSS: How to and How to prevent
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Rob Kraft
 ## Title: SQL Injection and XSS: How to and How to prevent
@@ -233,7 +233,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 32776
 # Asynchronous programming with Service Broker
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Sanil Mhatre
 ## Title: Asynchronous programming with Service Broker
@@ -242,7 +242,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 32976
 # Execution Plan Quick Dive
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Scott Shaw
 ## Title: Execution Plan Quick Dive
@@ -251,7 +251,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32977
 # The Enterprise SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Scott Shaw
 ## Title: The Enterprise SQL Server DBA
@@ -260,7 +260,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 33578
 # High-Availability and DR Options for SQL Server
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Tim Plas
 ## Title: High-Availability and DR Options for SQL Server
@@ -272,7 +272,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 33776
 # Statistics 101: The Cost of Poor Cost Estimation
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Travis Whitley
 ## Title: Statistics 101: The Cost of Poor Cost Estimation
@@ -281,7 +281,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33891
 # Visualizing Your Indexes - Science vs Art
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Amazon Room
 ## Speaker: Wendy Pastrick
 ## Title: Visualizing Your Indexes - Science vs Art
@@ -290,7 +290,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Amazon Room
 #  
 #### SessionID: 34486
 # Building a Data Warehouse with SQL Server 2008
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Wes Dumey
 ## Title: Building a Data Warehouse with SQL Server 2008
@@ -299,7 +299,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 34816
 # 10 Things That Every DBA Should Know!
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: John Morehouse
 ## Title: 10 Things That Every DBA Should Know!
@@ -308,7 +308,7 @@ Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 34817
 # Only You Can Prevent Database Fires!
-#### [Back to calendar](#SQLSaturday-#101---Kansas-City-2011)
+#### [Back to calendar](#SQLSaturday-#101-Kansas-City-2011)
 Event Date: 29-10-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: John Morehouse
 ## Title: Only You Can Prevent Database Fires!

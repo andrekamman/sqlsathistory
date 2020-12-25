@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 90222
 # Demystifying Encryption
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Rob Douglas
 ## Title: Demystifying Encryption
@@ -36,7 +36,7 @@ Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 91474
 # T-SQL Performance Guidelines for the optimal DB stress powers
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for the optimal DB stress powers
@@ -45,7 +45,7 @@ Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 92402
 # Looking at the Cosmos(DB)
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Martin Catherall
 ## Title: Looking at the Cosmos(DB)
@@ -56,7 +56,7 @@ In this session we’ll take a look at this technology and learn how it might be
 #  
 #### SessionID: 92560
 # Modern Enterprise BI in Azure
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Craig Bryden
 ## Title: Modern Enterprise BI in Azure
@@ -70,7 +70,7 @@ Event Date: 03-08-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 92874
 # SQL Server Deployment Options and When to Use Them (Full Instance vs Managed Instance vs PAAS)
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Pio Balistoy
 ## Title: SQL Server Deployment Options and When to Use Them (Full Instance vs Managed Instance vs PAAS)
@@ -79,7 +79,7 @@ Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90868
 # Power BI Infographic related on the Power BI Eco System
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Gilbert Quevauvilliers
 ## Title: Power BI Infographic related on the Power BI Eco System
@@ -98,7 +98,7 @@ The most popular blog posts are ones where it is easier concepts and details on 
 #  
 #### SessionID: 93242
 # SQL Server Upgrades and Migrations - The Right Way
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Martin Cairney
 ## Title: SQL Server Upgrades and Migrations - The Right Way
@@ -113,7 +113,7 @@ This session will walk through the upgrade process from end-to-end and show what
 #  
 #### SessionID: 93760
 # Introduction to Azure Analysis Services
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Geoff Black
 ## Title: Introduction to Azure Analysis Services
@@ -122,7 +122,7 @@ Event Date: 03-08-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 94879
 # Secure multiparty Machine Learning with SQL Server Always Encrypted with Secure Enclaves
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Stefano Tempesta
 ## Title: Secure multiparty Machine Learning with SQL Server Always Encrypted with Secure Enclaves
@@ -134,7 +134,7 @@ In this session, Stefano Tempesta, Microsoft Regional Director and MVP on AI and
 #  
 #### SessionID: 90683
 # Technologies to Watch: A Gaze into Greg's Crystal Ball
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Greg Low
 ## Title: Technologies to Watch: A Gaze into Greg's Crystal Ball
@@ -143,7 +143,7 @@ Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 93346
 # Gems of Power BI
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Manohar Punna
 ## Title: Gems of Power BI
@@ -152,7 +152,7 @@ Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 94383
 # Azure SQL Database Edge - Tiny but mighty
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Julie Koesmarno
 ## Title: Azure SQL Database Edge - Tiny but mighty
@@ -162,7 +162,7 @@ Running on Arm and x64 architecture with a reduced footprint, the proven perform
 #  
 #### SessionID: 95834
 # Automate your Machine Learning
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ajit Ananthram
 ## Title: Automate your Machine Learning
@@ -173,7 +173,7 @@ The machine learning lifecycle is iterative and often time-consuming. What if th
 #  
 #### SessionID: 91796
 # Data Wrangling for ETL enthusiasts
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mohamed Kabiruddin
 ## Title: Data Wrangling for ETL enthusiasts
@@ -182,7 +182,7 @@ Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 92724
 # Azure Data Studio – The New Frontier
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: Azure Data Studio – The New Frontier
@@ -192,7 +192,7 @@ Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93151
 # Never get lost again with SQL Server spatial technology
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Bernard Spence
 ## Title: Never get lost again with SQL Server spatial technology
@@ -201,7 +201,7 @@ Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 93866
 # Liberate Your Data with Visualisation  Conversation!
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Rolf Tesmer
 ## Title: Liberate Your Data with Visualisation  Conversation!
@@ -210,7 +210,7 @@ Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 92001
 # Build your first notebook using Azure Notebooks
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Anupama Natarajan
 ## Title: Build your first notebook using Azure Notebooks
@@ -226,7 +226,7 @@ By the end of the session you will get a good understanding about Azure Notebook
 #  
 #### SessionID: 92435
 # The Roadmap for SQL Server
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Victor Isakov
 ## Title: The Roadmap for SQL Server
@@ -235,7 +235,7 @@ Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 94658
 # Get Comfortable with Query tuning and Execution Plans
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Patrick Flynn
 ## Title: Get Comfortable with Query tuning and Execution Plans
@@ -255,7 +255,7 @@ This session will assume a basic knowledge of T-SQL and execution plans.
 #  
 #### SessionID: 94909
 # Top 10 Tech Tips for Power BI
-#### [Back to calendar](#SQLSaturday-#875---Sydney-2019)
+#### [Back to calendar](#SQLSaturday-#875-Sydney-2019)
 Event Date: 03-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Grant Paisley
 ## Title: Top 10 Tech Tips for Power BI

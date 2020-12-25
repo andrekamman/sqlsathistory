@@ -41,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10456
 # Type More, Click Less:  Programmatically build SSIS packages
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Bill Fellows
 ## Title: Type More, Click Less:  Programmatically build SSIS packages
@@ -50,7 +50,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 10889
 # Murder They Wrote
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Jason Brimhall
 ## Title: Murder They Wrote
@@ -61,7 +61,7 @@ This is the Solo version of the Joint version normally done as an all-day precon
 #  
 #### SessionID: 11753
 # Women In Tech Panel discussion
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Meredith Ryan-Smith
 ## Title: Women In Tech Panel discussion
@@ -70,7 +70,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 13250
 # Data transformation best practices
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: B. Diane Blackwood
 ## Title: Data transformation best practices
@@ -79,7 +79,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 14127
 # What’s this ‘Scaffolding a CRUD’ all about? Build a Website from your SQL Database
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Gabriel Villa
 ## Title: What’s this ‘Scaffolding a CRUD’ all about? Build a Website from your SQL Database
@@ -88,7 +88,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 14668
 # Top 10 SSIS Tuning Tricks
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Ginger Grant
 ## Title: Top 10 SSIS Tuning Tricks
@@ -97,7 +97,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 15874
 # Tricks from the DBA Inbox: Real World Performance Tuning
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Jason Horner
 ## Title: Tricks from the DBA Inbox: Real World Performance Tuning
@@ -106,7 +106,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 16500
 # Designing Stored Procedure Solutions
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Jennifer McCown
 ## Title: Designing Stored Procedure Solutions
@@ -115,7 +115,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 16897
 # Visual Studio Database Projects and Database Deployment
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Jason Kassay
 ## Title: Visual Studio Database Projects and Database Deployment
@@ -124,7 +124,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 17163
 # Master Data Management - Getting Started with SQL Server MDS 
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: John McAllister
 ## Title: Master Data Management - Getting Started with SQL Server MDS 
@@ -133,7 +133,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 17264
 # Social Networking Is Alive!!!
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: John Morehouse
 ## Title: Social Networking Is Alive!!!
@@ -142,7 +142,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 17606
 # Fast and Furious Dynamic SQL
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Jay Robinson
 ## Title: Fast and Furious Dynamic SQL
@@ -151,7 +151,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 17730
 # Introduction to High Availability with SQL Server
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: John Sterrett
 ## Title: Introduction to High Availability with SQL Server
@@ -160,7 +160,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 18947
 # Why Be Normal?
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Leslie Andrews
 ## Title: Why Be Normal?
@@ -169,7 +169,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 19143
 # Data Modeling 101
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Leslie Weed
 ## Title: Data Modeling 101
@@ -180,7 +180,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 19239
 # Let's Get It Started - SQL Server installation and configuration
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Lori Edwards
 ## Title: Let's Get It Started - SQL Server installation and configuration
@@ -189,7 +189,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 19432
 # Getting started with Dimensional Modeling
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Marc Beacom
 ## Title: Getting started with Dimensional Modeling
@@ -198,7 +198,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 22927
 # Dashboards - More Than One Way To Visualize Data
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Jeff Renz
 ## Title: Dashboards - More Than One Way To Visualize Data
@@ -207,7 +207,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 23436
 # SSIS ETL for Type1 and Type2 SCD
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Ron Beatty
 ## Title: SSIS ETL for Type1 and Type2 SCD
@@ -216,7 +216,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 23594
 # PaaF: Performance as a Feature in an ORM World
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Russ Thomas
 ## Title: PaaF: Performance as a Feature in an ORM World
@@ -225,7 +225,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 24287
 # DIY Performance Reporting
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Sean McCown
 ## Title: DIY Performance Reporting
@@ -234,7 +234,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 24431
 # Parameter Sniffing the Good and the Bad
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Lance Tidwell
 ## Title: Parameter Sniffing the Good and the Bad
@@ -243,7 +243,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 24746
 # Data wizardry with the next generation of Power BI!
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Matt Smith
 ## Title: Data wizardry with the next generation of Power BI!
@@ -252,7 +252,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 25067
 # How to Become a Backup Tuning Wizard
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Melody Zacharias
 ## Title: How to Become a Backup Tuning Wizard
@@ -261,7 +261,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 25715
 # Date Dimension: Past  Future in One Script
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Steve Wake
 ## Title: Date Dimension: Past  Future in One Script
@@ -270,7 +270,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 25939
 # Advanced Statistics Management: Setting Up SQL Server For Success
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Seth Washeck
 ## Title: Advanced Statistics Management: Setting Up SQL Server For Success
@@ -279,7 +279,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 26140
 # Intermediate set theory with demo
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Thane Schaffer
 ## Title: Intermediate set theory with demo
@@ -289,7 +289,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 26563
 # Fun with Availability Groups
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Christopher Wolff
 ## Title: Fun with Availability Groups
@@ -298,7 +298,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 26641
 # Incremental Load Design Patterns
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Tim Mitchell
 ## Title: Incremental Load Design Patterns
@@ -313,7 +313,7 @@ In this session, we will review the common decision points surrounding increment
 #  
 #### SessionID: 26920
 # Documentation – you know you love it
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: TJay Belt
 ## Title: Documentation – you know you love it
@@ -322,7 +322,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 26993
 # Life Lessons in Communication
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Tom Roush
 ## Title: Life Lessons in Communication
@@ -337,7 +337,7 @@ After attending, you’ll be on the road to better, more direct communication, w
 #  
 #### SessionID: 27110
 # An Oracle DBA's Survival Guide to SQL Server Database Administration
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Trent Sherman
 ## Title: An Oracle DBA's Survival Guide to SQL Server Database Administration
@@ -346,7 +346,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 34772
 # Powershell Tips and Tricks for SQL Server Administration
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Michael Fal
 ## Title: Powershell Tips and Tricks for SQL Server Administration
@@ -355,7 +355,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 9066
 # SSAS Design and Performance Best Practices
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Alan Faulkner
 ## Title: SSAS Design and Performance Best Practices
@@ -364,7 +364,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 9430
 # Making the Leap from Developer to DBA
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
@@ -373,7 +373,7 @@ Event Date: 07-02-2015 - Session time: 00:00:00 - Track:
 #  
 #### SessionID: 9788
 # Stored Procedures vs. Ad-Hoc SQL: Performance Showdown!
-#### [Back to calendar](#SQLSaturday-#358---Albuquerque-2015)
+#### [Back to calendar](#SQLSaturday-#358-Albuquerque-2015)
 Event Date: 07-02-2015 - Session time: 00:00:00 - Track: 
 ## Speaker: Argenis Fernandez
 ## Title: Stored Procedures vs. Ad-Hoc SQL: Performance Showdown!

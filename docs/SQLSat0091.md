@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 29035
 # Kama Sutra of SSIS: A guide to loving ETL
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence - RM117
 ## Speaker: Bill Fellows
 ## Title: Kama Sutra of SSIS: A guide to loving ETL
@@ -44,7 +44,7 @@ After attending this session, you will come out with an understanding of how Con
 #  
 #### SessionID: 29036
 # Getting started with CLR for fun and profit
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM120
 ## Speaker: Bill Fellows
 ## Title: Getting started with CLR for fun and profit
@@ -53,7 +53,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM120
 #  
 #### SessionID: 29188
 # Best Practices Every SQL Server DBA Must Know
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM118
 ## Speaker: Brad McGehee
 ## Title: Best Practices Every SQL Server DBA Must Know
@@ -62,7 +62,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM118
 #  
 #### SessionID: 29189
 # Introduction to SQL Trace
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM118
 ## Speaker: Brad McGehee
 ## Title: Introduction to SQL Trace
@@ -71,7 +71,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM118
 #  
 #### SessionID: 29908
 # Virtualizing SQL Server Deep Dive
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM118
 ## Speaker: David Klee
 ## Title: Virtualizing SQL Server Deep Dive
@@ -80,7 +80,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM118
 #  
 #### SessionID: 30025
 # Seven Benefits of Virtualization
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM118
 ## Speaker: David Welch
 ## Title: Seven Benefits of Virtualization
@@ -89,7 +89,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM118
 #  
 #### SessionID: 30919
 # Performance Monitoring with Perfmon
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM118
 ## Speaker: Joe Ferry
 ## Title: Performance Monitoring with Perfmon
@@ -98,7 +98,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM118
 #  
 #### SessionID: 31314
 # Top Ten DBA Mistakes 
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM119
 ## Speaker: Kevin Kline
 ## Title: Top Ten DBA Mistakes 
@@ -107,7 +107,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM119
 #  
 #### SessionID: 31315
 # End-to-End Troubleshooting
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM119
 ## Speaker: Kevin Kline
 ## Title: End-to-End Troubleshooting
@@ -116,7 +116,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM119
 #  
 #### SessionID: 31316
 # SQL Server Internals  Architecture
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM119
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals  Architecture
@@ -125,7 +125,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM119
 #  
 #### SessionID: 31756
 # A Survey of Common Performance Problems
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM122
 ## Speaker: Mark House
 ## Title: A Survey of Common Performance Problems
@@ -134,7 +134,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM122
 #  
 #### SessionID: 31757
 # Query Performance Analysis via Extended Events
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM119
 ## Speaker: Mark House
 ## Title: Query Performance Analysis via Extended Events
@@ -144,7 +144,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM119
 #  
 #### SessionID: 31895
 # Continuous Integration for Databases
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM122
 ## Speaker: Mike Douglas
 ## Title: Continuous Integration for Databases
@@ -153,7 +153,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM122
 #  
 #### SessionID: 32201
 # Data to Dashboards:Back to Basics 
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM121
 ## Speaker: Pete  Ceplecha
 ## Title: Data to Dashboards:Back to Basics 
@@ -164,7 +164,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM121
 #  
 #### SessionID: 32212
 # SSIS in Denali: What's new
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence - RM117
 ## Speaker: Phil Brammer
 ## Title: SSIS in Denali: What's new
@@ -173,7 +173,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence -
 #  
 #### SessionID: 32213
 # Database Monitoring with Event Notifications
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM120
 ## Speaker: Phil Brammer
 ## Title: Database Monitoring with Event Notifications
@@ -182,7 +182,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM120
 #  
 #### SessionID: 32385
 # But it worked great in Dev!  Performance for Devs
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM122
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Performance for Devs
@@ -191,7 +191,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM122
 #  
 #### SessionID: 32386
 # Don't push the turbo button!  Understanding Transa
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM121
 ## Speaker: Randy Knight
 ## Title: Don't push the turbo button!  Understanding Transa
@@ -200,7 +200,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM121
 #  
 #### SessionID: 33218
 # Report Lockdown: Implementing SSRS Security 
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence - RM117
 ## Speaker: Steve Hughes
 ## Title: Report Lockdown: Implementing SSRS Security 
@@ -209,7 +209,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence -
 #  
 #### SessionID: 33219
 # Performance Monitoring and Tuning in SSAS
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence - RM117
 ## Speaker: Steve Hughes
 ## Title: Performance Monitoring and Tuning in SSAS
@@ -218,7 +218,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence -
 #  
 #### SessionID: 33220
 # Using SQL Azure in Application Development
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM121
 ## Speaker: Steve Hughes
 ## Title: Using SQL Azure in Application Development
@@ -227,7 +227,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM121
 #  
 #### SessionID: 33261
 # What's new and exciting in SQL Server 'Denali'
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM121
 ## Speaker: Sudhir Gajre
 ## Title: What's new and exciting in SQL Server 'Denali'
@@ -236,7 +236,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM121
 #  
 #### SessionID: 33403
 # Parallel Query Execution Deep Dive
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM122
 ## Speaker: Kevin Boles
 ## Title: Parallel Query Execution Deep Dive
@@ -245,7 +245,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM122
 #  
 #### SessionID: 33404
 # SANs and SQL Server
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM119
 ## Speaker: Kevin Boles
 ## Title: SANs and SQL Server
@@ -254,7 +254,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM119
 #  
 #### SessionID: 33408
 # Fundamentals of Join Operations
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM122
 ## Speaker: Kevin Boles
 ## Title: Fundamentals of Join Operations
@@ -263,7 +263,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DB Development - RM122
 #  
 #### SessionID: 33409
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM120
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -272,7 +272,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM120
 #  
 #### SessionID: 33581
 # High-Availability and DR Options for SQL Server
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM120
 ## Speaker: Tim Plas
 ## Title: High-Availability and DR Options for SQL Server
@@ -281,7 +281,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM120
 #  
 #### SessionID: 34695
 # Denali and T-SQL
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM120
 ## Speaker: Kathi Kellenberger
 ## Title: Denali and T-SQL
@@ -290,7 +290,7 @@ Event Date: 27-08-2011 - Session time: 00:00:00 - Track: DBA - RM120
 #  
 #### SessionID: 34696
 # Women in Technology Panel Discussion
-#### [Back to calendar](#SQLSaturday-#91---Omaha-2011)
+#### [Back to calendar](#SQLSaturday-#91-Omaha-2011)
 Event Date: 27-08-2011 - Session time: 00:00:00 - Track: Business Intelligence - RM117
 ## Speaker: Kathi Kellenberger
 ## Title: Women in Technology Panel Discussion

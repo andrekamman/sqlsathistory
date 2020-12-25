@@ -6,7 +6,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 35808
 # Advantage of Using Excel BI Solution  in Small Business environem
-#### [Back to calendar](#SQLSaturday-#401---Yaounde-2015)
+#### [Back to calendar](#SQLSaturday-#401-Yaounde-2015)
 Event Date: 23-05-2015 - Session time: 09:00:00 - Track: Students
 ## Speaker: ACHILLE NGUELA NGUELA
 ## Title: Advantage of Using Excel BI Solution  in Small Business environem

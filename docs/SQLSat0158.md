@@ -52,7 +52,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10124
 # Implementing SQL Server 2012 on Windows Server Cor
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Edwin Sarmiento
 ## Title: Implementing SQL Server 2012 on Windows Server Cor
@@ -61,7 +61,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 10126
 # Deploying SQL Server 2012 Multi-site Clusters
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Edwin Sarmiento
 ## Title: Deploying SQL Server 2012 Multi-site Clusters
@@ -70,7 +70,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 10179
 # Surviving Your Peak Database Load
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Ben DeBow
 ## Title: Surviving Your Peak Database Load
@@ -79,7 +79,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 10500
 # Performance Tuning SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Brian Knight
 ## Title: Performance Tuning SQL Server Integration Services
@@ -88,7 +88,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 10503
 # Data Cleansing with SSIS 2012
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Brian Knight
 ## Title: Data Cleansing with SSIS 2012
@@ -97,7 +97,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 10734
 # Building Faster SQL Servers
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Brent Ozar
 ## Title: Building Faster SQL Servers
@@ -106,7 +106,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 10735
 # Real-Life SQL 2012 Availability Group Deployments
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Brent Ozar
 ## Title: Real-Life SQL 2012 Availability Group Deployments
@@ -115,7 +115,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 11588
 # What's Buried in the Plan Cache?
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Christina Leo
 ## Title: What's Buried in the Plan Cache?
@@ -127,7 +127,7 @@ In this session, we’ll look at how the plan cache is organized, what plans are
 #  
 #### SessionID: 12901
 # Mastering Date-Time Based Analysis in DAX
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Dan Clark
 ## Title: Mastering Date-Time Based Analysis in DAX
@@ -137,7 +137,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 14971
 # Replicaton Technologies
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Hilary Cotter
 ## Title: Replicaton Technologies
@@ -148,7 +148,7 @@ troubleshooting techniques.
 #  
 #### SessionID: 15498
 # (SQL,SSIS,MDS) Adv Fuzzy Matching Roll Your Own
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Ira Warren
 ## Title: (SQL,SSIS,MDS) Adv Fuzzy Matching Roll Your Own
@@ -157,7 +157,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 15900
 # Advanced Charting Techniques in SSRS
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Jason Thomas
 ## Title: Advanced Charting Techniques in SSRS
@@ -167,7 +167,7 @@ This session will talk about the basic functionalities of all the charts as well
 #  
 #### SessionID: 17026
 # Full Text Indexing Basics
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: John Miner
 ## Title: Full Text Indexing Basics
@@ -176,7 +176,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 18160
 # SQL Server Internals  Architecture
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals  Architecture
@@ -185,7 +185,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 18161
 # Team Management Fundamentals
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Kevin Kline
 ## Title: Team Management Fundamentals
@@ -202,7 +202,7 @@ top management.
 #  
 #### SessionID: 18313
 # What's new in SQL Server 2012 - from A to Z
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kevin Goff
 ## Title: What's new in SQL Server 2012 - from A to Z
@@ -211,7 +211,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18316
 # SQL Server 2012 Columnstore index
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kevin Goff
 ## Title: SQL Server 2012 Columnstore index
@@ -220,7 +220,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19016
 # Introducing SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Leonard Lobel
 ## Title: Introducing SQL Server Data Tools
@@ -229,7 +229,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19020
 # Programming T-SQL Enhancements in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Leonard Lobel
 ## Title: Programming T-SQL Enhancements in SQL Server 2012
@@ -238,7 +238,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 19158
 # Running SQL Server on Solid State Drives
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Linchi Shea
 ## Title: Running SQL Server on Solid State Drives
@@ -247,7 +247,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 19420
 # Introduction to Data Quality Services
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Marc Jellinek
 ## Title: Introduction to Data Quality Services
@@ -256,7 +256,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 19542
 # Moves like Jagger - Upgrading to SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Mark Broadbent
 ## Title: Moves like Jagger - Upgrading to SQL Server 2012
@@ -269,7 +269,7 @@ Attend this must see session and you too can have the “Moves like Jagger”.
 #  
 #### SessionID: 19543
 # READPAST  Furious-Transactions.Locking.Isolation.
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Mark Broadbent
 ## Title: READPAST  Furious-Transactions.Locking.Isolation.
@@ -285,7 +285,7 @@ I look forward to you joining me in this very revealing and thought provoking se
 #  
 #### SessionID: 19748
 # Temporal Fact Tables: The Road Less Traveled
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Martin Schoombee
 ## Title: Temporal Fact Tables: The Road Less Traveled
@@ -296,7 +296,7 @@ In this session we will walk through a practical example of when and how to impl
 #  
 #### SessionID: 20102
 # Slowly changing dimensions- an integrated approach
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Mark Stacey
 ## Title: Slowly changing dimensions- an integrated approach
@@ -306,7 +306,7 @@ In this session, Mark will review the types of slowly changing dimensions, descr
 #  
 #### SessionID: 20232
 # Virtualizing Tier-1 SQL Server Databases On VMware
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Michael Corey
 ## Title: Virtualizing Tier-1 SQL Server Databases On VMware
@@ -318,7 +318,7 @@ Key Takeaway 3 		Many resources available and where to find them
 #  
 #### SessionID: 20569
 # Seven SQL Agent Jobs You Should be Running
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Mike Hillwig
 ## Title: Seven SQL Agent Jobs You Should be Running
@@ -331,7 +331,7 @@ You'll learn how to implement seven simple scripts that perk their ears up and s
 #  
 #### SessionID: 20570
 # How Not to Be a Cranky DBA
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Mike Hillwig
 ## Title: How Not to Be a Cranky DBA
@@ -340,7 +340,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 22212
 # Self-Managed BI with PowerPivot
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Peter Myers
 ## Title: Self-Managed BI with PowerPivot
@@ -353,7 +353,7 @@ In this presentation learn about the fundamentals of PowerPivot data model creat
 #  
 #### SessionID: 22214
 # Enriching Applications with SSAS Data Mining
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Peter Myers
 ## Title: Enriching Applications with SSAS Data Mining
@@ -362,7 +362,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 22518
 # But it worked great in Dev!  Perfomance for Devs
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
@@ -372,7 +372,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 23010
 # SQL 2012 Error Handling. Pick your Destiny
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Rick  Morelan
 ## Title: SQL 2012 Error Handling. Pick your Destiny
@@ -381,7 +381,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 23046
 # Creating a Performance Baseline for SQL Server
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Ron Johnson
 ## Title: Creating a Performance Baseline for SQL Server
@@ -390,7 +390,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 8
 #  
 #### SessionID: 23543
 # Much Ado about Indexes - Tips, Tricks and Tuning..
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Robert Pearl
 ## Title: Much Ado about Indexes - Tips, Tricks and Tuning..
@@ -399,7 +399,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 24013
 # Get-PowerShell | Get-SQLServer
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: SB Chatterjee
 ## Title: Get-PowerShell | Get-SQLServer
@@ -410,7 +410,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24123
 # SQL Azure - What is it and why do I need it?
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Scott Klein
 ## Title: SQL Azure - What is it and why do I need it?
@@ -419,7 +419,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24124
 # SQL Azure Scalability with Federations
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Scott Klein
 ## Title: SQL Azure Scalability with Federations
@@ -428,7 +428,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 25198
 # Alright,WHY is the server REALLY running so slow!
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Steve Simon
 ## Title: Alright,WHY is the server REALLY running so slow!
@@ -437,7 +437,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 26697
 # Know Backups and Know Recovery
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 8
 ## Speaker: Tim Radney
 ## Title: Know Backups and Know Recovery
@@ -450,7 +450,7 @@ I will discuss industry best practices for backing up and recovering your data. 
 #  
 #### SessionID: 26943
 # Real World Integration Services: Excel Spreadsheet
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Todd McDermid
 ## Title: Real World Integration Services: Excel Spreadsheet
@@ -460,7 +460,7 @@ In this session we'll look at typical integration issues with Excel, explain why
 #  
 #### SessionID: 28050
 # SSAS 2012 Tabular vs. Multidimensional
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: William E Pearson III
 ## Title: SSAS 2012 Tabular vs. Multidimensional
@@ -469,7 +469,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 7
 #  
 #### SessionID: 9112
 # Without A SQLTrace - Getting To Know Extended Even
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: AJ Mendo
 ## Title: Without A SQLTrace - Getting To Know Extended Even
@@ -478,7 +478,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 9226
 # Shred SQL Server XML.
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 6
 ## Speaker: Alex Grinberg
 ## Title: Shred SQL Server XML.
@@ -487,7 +487,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 6
 #  
 #### SessionID: 9234
 # SQL Server Dos and Don'ts: Keys to DBA Nirvana
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Allan Hirt
 ## Title: SQL Server Dos and Don'ts: Keys to DBA Nirvana
@@ -496,7 +496,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9477
 # Microsoft's Big Play for Big Data
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andrew Brust
 ## Title: Microsoft's Big Play for Big Data
@@ -507,7 +507,7 @@ Come to this session to get an overview of Big Data, Hadoop and its integration 
 #  
 #### SessionID: 9478
 # Hadoop and its Ecosystem Components in Action
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Andrew Brust
 ## Title: Hadoop and its Ecosystem Components in Action
@@ -516,7 +516,7 @@ Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 9674
 # Writing Faster Stored Procedures and Functions
-#### [Back to calendar](#SQLSaturday-#158---New-York-City-2012)
+#### [Back to calendar](#SQLSaturday-#158-New-York-City-2012)
 Event Date: 04-08-2012 - Session time: 00:00:00 - Track: Track 7
 ## Speaker: Andrew Novick
 ## Title: Writing Faster Stored Procedures and Functions

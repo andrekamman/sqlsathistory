@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 72898
 # Diseñando e Implementando Almacenamientos en Azure
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julián Castiblanco
 ## Title: Diseñando e Implementando Almacenamientos en Azure
@@ -39,7 +39,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 74049
 # What is new with SQL 2017
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christian Araujo
 ## Title: What is new with SQL 2017
@@ -48,7 +48,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 74082
 # From problem to Power BI:  A journey in data visualization
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: From problem to Power BI:  A journey in data visualization
@@ -57,7 +57,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 74605
 # Como crear un dashboard para el DBA con Power BI
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Juan Alvarado
 ## Title: Como crear un dashboard para el DBA con Power BI
@@ -66,7 +66,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 74612
 # Definición y mejores prácticas de Particionamiento en SQL Server
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jose Arguello Hines
 ## Title: Definición y mejores prácticas de Particionamiento en SQL Server
@@ -75,7 +75,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 70192
 # Database Development and Automation with SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ken Stuber
 ## Title: Database Development and Automation with SQL Server Data Tools
@@ -84,7 +84,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 70441
 # Power BI Report Server
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Information Delivery
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Power BI Report Server
@@ -94,7 +94,7 @@ Esta charla cubre temas como la instalación, creación de reportes, publicarlos
 #  
 #### SessionID: 74241
 # SQL Server 2017 - Graph Databases
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: SQL Server 2017 - Graph Databases
@@ -105,7 +105,7 @@ Evoluciones, como trabajarlo correctamente, entre otros.
 #  
 #### SessionID: 74642
 # ¡Data Discovery con R y PBI! ¿Qué es? y ¿Por qué es importante?
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Ricardo Estrada
 ## Title: ¡Data Discovery con R y PBI! ¿Qué es? y ¿Por qué es importante?
@@ -118,7 +118,7 @@ Herramientas que utilzaremos:
 #  
 #### SessionID: 70878
 # Cosas que tienes que hacer antes de llamar a Microsoft Support
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Adrian Miranda
 ## Title: Cosas que tienes que hacer antes de llamar a Microsoft Support
@@ -127,7 +127,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 72546
 # Tips and tricks de Power BI
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Juan Alvarado
 ## Title: Tips and tricks de Power BI
@@ -136,7 +136,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 74508
 # Business Intelligence DevOps
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: César Oviedo
 ## Title: Business Intelligence DevOps
@@ -145,7 +145,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 74522
 # Dr Rudo SQL presenta: administra SQL Server en Linux como un master
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Dr Rudo SQL presenta: administra SQL Server en Linux como un master
@@ -155,7 +155,7 @@ Acompaña al Dr Rudo y ayudale a ganar esta lucha a 2 de 3 caidas!!!
 #  
 #### SessionID: 69822
 # Much Ado About Hadoop
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
@@ -164,7 +164,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 72813
 # Successfully Virtualizing SQL Server on vSphere - Straight from the Source
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
@@ -173,7 +173,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 74083
 # Performance Tuning for the BI Professional
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: Performance Tuning for the BI Professional
@@ -182,7 +182,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 74232
 # La Era de los Reportes Móviles
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Yanitza Campos
 ## Title: La Era de los Reportes Móviles
@@ -191,7 +191,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 69695
 # Aprovechando los AlwaysOn Basic Availability Groups en SQL-Server Standard Edition
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Carlos Rojas Vargas
 ## Title: Aprovechando los AlwaysOn Basic Availability Groups en SQL-Server Standard Edition
@@ -200,7 +200,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 70598
 # La historia debe contarse como es......SQL Temporal Tables
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Vladimir Guzman
 ## Title: La historia debe contarse como es......SQL Temporal Tables
@@ -211,7 +211,7 @@ Veremos las formas de crear Temporal Tables así como su acceso, consulta y actu
 #  
 #### SessionID: 72035
 # Necesitamos BI, ¡utilicemos la nube! (Azure SQL Database - Azure Analysis Services - Power BI)
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: Necesitamos BI, ¡utilicemos la nube! (Azure SQL Database - Azure Analysis Services - Power BI)
@@ -221,7 +221,7 @@ En este espacio aprovecharemos las bondades de una solución 100% nube, creando 
 #  
 #### SessionID: 74058
 # Flotando en un lago de datos? - Exploremos Azure Data Lake
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christian Araujo
 ## Title: Flotando en un lago de datos? - Exploremos Azure Data Lake
@@ -230,7 +230,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 73811
 # Dax Step By Step With Power BI
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Ahias Portillo
 ## Title: Dax Step By Step With Power BI
@@ -239,7 +239,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 74504
 # SQL Server 2017 SSIS Scale Out
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: SQL Server 2017 SSIS Scale Out
@@ -248,7 +248,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 74606
 # What is Containers as a Service?
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Keneth Murillo
 ## Title: What is Containers as a Service?
@@ -257,7 +257,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 76927
 # Azure SQL VM: Implementing Multi-subnet Basic AG in SQL2016 STD
-#### [Back to calendar](#SQLSaturday-#703---Costa-Rica-2018)
+#### [Back to calendar](#SQLSaturday-#703-Costa-Rica-2018)
 Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kenneth Urena
 ## Title: Azure SQL VM: Implementing Multi-subnet Basic AG in SQL2016 STD

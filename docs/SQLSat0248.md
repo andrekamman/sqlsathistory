@@ -40,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10757
 # Getting Started with HDInsight
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (4) Big Data
 ## Speaker: Brian Mitchell
 ## Title: Getting Started with HDInsight
@@ -49,7 +49,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (4) Big Data
 #  
 #### SessionID: 13006
 # Dealing With Errors in SSIS 2012
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (1) ETL
 ## Speaker: David Dye
 ## Title: Dealing With Errors in SSIS 2012
@@ -58,7 +58,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (1) ETL
 #  
 #### SessionID: 15791
 # 5 TSQL Commands I've been missing
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (5) DBA/Misc
 ## Speaker: Jason Carter
 ## Title: 5 TSQL Commands I've been missing
@@ -67,7 +67,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (5) DBA/Misc
 #  
 #### SessionID: 16041
 # Hadoop On-Premise
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (4) Big Data
 ## Speaker: Jon Bloom
 ## Title: Hadoop On-Premise
@@ -76,7 +76,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (4) Big Data
 #  
 #### SessionID: 16515
 # Best Practice Data Visualization
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (3) Presentation
 ## Speaker: Jen Underwood
 ## Title: Best Practice Data Visualization
@@ -86,7 +86,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (3) Presentation
 #  
 #### SessionID: 16971
 # Report With Power: New Data Tools, New Insights
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (3) Presentation
 ## Speaker: James McAuliffe
 ## Title: Report With Power: New Data Tools, New Insights
@@ -95,7 +95,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (3) Presentation
 #  
 #### SessionID: 17205
 # Moving Big Data - SSIS, Pig, and Sqoop
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (4) Big Data
 ## Speaker: John Welch
 ## Title: Moving Big Data - SSIS, Pig, and Sqoop
@@ -104,7 +104,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (4) Big Data
 #  
 #### SessionID: 17207
 # Tuning Analysis Services Processing Performance
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (2) Analysis
 ## Speaker: John Welch
 ## Title: Tuning Analysis Services Processing Performance
@@ -113,7 +113,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (2) Analysis
 #  
 #### SessionID: 17370
 #  ETL Frameworks using SSIS
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (1) ETL
 ## Speaker: Jorge Novo
 ## Title:  ETL Frameworks using SSIS
@@ -124,7 +124,7 @@ Finally we will create a single framework to track and deliver the File (s)  to 
 #  
 #### SessionID: 17371
 # ETL Data Warehouse loading.
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (1) ETL
 ## Speaker: Jorge Novo
 ## Title: ETL Data Warehouse loading.
@@ -133,7 +133,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (1) ETL
 #  
 #### SessionID: 17807
 # HDInsight: What’s all the Hadoopla about Big Data
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (4) Big Data
 ## Speaker: Jason Virtue
 ## Title: HDInsight: What’s all the Hadoopla about Big Data
@@ -142,7 +142,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (4) Big Data
 #  
 #### SessionID: 18416
 # SSIS 2012
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (1) ETL
 ## Speaker: Kathi Kellenberger
 ## Title: SSIS 2012
@@ -151,7 +151,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (1) ETL
 #  
 #### SessionID: 19676
 # Big Data  Microsoft SQL Server in the Real World
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (4) Big Data
 ## Speaker: Mark Kromer
 ## Title: Big Data  Microsoft SQL Server in the Real World
@@ -160,7 +160,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (4) Big Data
 #  
 #### SessionID: 19968
 # Introduction to Business Intelligence
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (2) Analysis
 ## Speaker: Mike Davis
 ## Title: Introduction to Business Intelligence
@@ -169,7 +169,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (2) Analysis
 #  
 #### SessionID: 20370
 # Intro to MDX
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (5) DBA/Misc
 ## Speaker: Michael Simon
 ## Title: Intro to MDX
@@ -178,7 +178,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (5) DBA/Misc
 #  
 #### SessionID: 20481
 # Introducing Cube World To Users From Flat Table Land
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (2) Analysis
 ## Speaker: Michael Antonovich
 ## Title: Introducing Cube World To Users From Flat Table Land
@@ -187,7 +187,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (2) Analysis
 #  
 #### SessionID: 20483
 # Using Excel 2010 as Your Analysis Services Client
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (3) Presentation
 ## Speaker: Michael Antonovich
 ## Title: Using Excel 2010 as Your Analysis Services Client
@@ -196,7 +196,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (3) Presentation
 #  
 #### SessionID: 21790
 # ETL not ELT!  Common mistakes and misconceptions about SSIS
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (1) ETL
 ## Speaker: Paul Rizza
 ## Title: ETL not ELT!  Common mistakes and misconceptions about SSIS
@@ -206,7 +206,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (1) ETL
 #  
 #### SessionID: 21943
 # Heterogeneous Data Environments
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (5) DBA/Misc
 ## Speaker: Peter Evans
 ## Title: Heterogeneous Data Environments
@@ -217,7 +217,7 @@ Not only is the size of data growing, but so are the number of data sources and 
 #  
 #### SessionID: 22327
 # When Reporting is More than Reporting
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (3) Presentation
 ## Speaker: Pam Shaw
 ## Title: When Reporting is More than Reporting
@@ -226,7 +226,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (3) Presentation
 #  
 #### SessionID: 23362
 # Virtualizing our Environment
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (5) DBA/Misc
 ## Speaker: Rob Mandeville
 ## Title: Virtualizing our Environment
@@ -235,7 +235,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (5) DBA/Misc
 #  
 #### SessionID: 25669
 # SQL Server Performance Tuning
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (5) DBA/Misc
 ## Speaker: Steve Abraham
 ## Title: SQL Server Performance Tuning
@@ -244,7 +244,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (5) DBA/Misc
 #  
 #### SessionID: 26014
 # Introduction to PowerBI with Office365
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (2) Analysis
 ## Speaker: Jon Bloom
 ## Title: Introduction to PowerBI with Office365
@@ -253,7 +253,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (2) Analysis
 #  
 #### SessionID: 26060
 # SELECT job FROM firm WHERE hired = 'Yes' 2.0
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (5) DBA/Misc
 ## Speaker: Todd Davis
 ## Title: SELECT job FROM firm WHERE hired = 'Yes' 2.0
@@ -262,7 +262,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (5) DBA/Misc
 #  
 #### SessionID: 26212
 # SQL Server 2012 Column Store Index
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (5) DBA/Misc
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2012 Column Store Index
@@ -271,7 +271,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (5) DBA/Misc
 #  
 #### SessionID: 26539
 # Forget "Big Data" ! How About "Smart Data" Instead?
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (4) Big Data
 ## Speaker: Thomas Spetnagel
 ## Title: Forget "Big Data" ! How About "Smart Data" Instead?
@@ -280,7 +280,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (4) Big Data
 #  
 #### SessionID: 26604
 # Make Your SSIS Packages Run Faster: 15 Quick Tips
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (1) ETL
 ## Speaker: Tim Mitchell
 ## Title: Make Your SSIS Packages Run Faster: 15 Quick Tips
@@ -290,7 +290,7 @@ In this session, we’ll focus on SSIS package performance, quickly reviewing 15
 #  
 #### SessionID: 26605
 # Handling Errors and Data Anomalies in SSIS
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (1) ETL
 ## Speaker: Tim Mitchell
 ## Title: Handling Errors and Data Anomalies in SSIS
@@ -299,7 +299,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (1) ETL
 #  
 #### SessionID: 28117
 # Design and Implement BI like Edison! 
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (2) Analysis
 ## Speaker: William E Pearson III
 ## Title: Design and Implement BI like Edison! 
@@ -308,7 +308,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (2) Analysis
 #  
 #### SessionID: 28272
 # Introduction To Reporting Services
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (3) Presentation
 ## Speaker: Wes Springob
 ## Title: Introduction To Reporting Services
@@ -317,7 +317,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (3) Presentation
 #  
 #### SessionID: 28273
 # Analytics and Big Data at USF
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (2) Analysis
 ## Speaker:  Balaji Padmanabhan
 ## Title: Analytics and Big Data at USF
@@ -326,7 +326,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (2) Analysis
 #  
 #### SessionID: 34548
 # A Matter of Time... In SSAS
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (2) Analysis
 ## Speaker: Alexander Nykolaiszyn
 ## Title: A Matter of Time... In SSAS
@@ -335,7 +335,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (2) Analysis
 #  
 #### SessionID: 34724
 # Secrets of Enterprise Data Mining
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (2) Analysis
 ## Speaker: Mark Tabladillo
 ## Title: Secrets of Enterprise Data Mining
@@ -344,7 +344,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (2) Analysis
 #  
 #### SessionID: 9575
 # PCI For The SQLDBA
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (5) DBA/Misc
 ## Speaker: Andy Warren
 ## Title: PCI For The SQLDBA
@@ -353,7 +353,7 @@ Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (5) DBA/Misc
 #  
 #### SessionID: 9883
 # SharePoint BI
-#### [Back to calendar](#SQLSaturday-#248---Tampa-BI-2013)
+#### [Back to calendar](#SQLSaturday-#248-Tampa-BI-2013)
 Event Date: 09-11-2013 - Session time: 00:00:00 - Track: (3) Presentation
 ## Speaker: Clinton Daniel
 ## Title: SharePoint BI

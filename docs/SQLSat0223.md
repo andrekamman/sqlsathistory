@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10254
 # SMO Internals for High Performance PowerShell
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Ben Miller
 ## Title: SMO Internals for High Performance PowerShell
@@ -37,7 +37,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 11044
 # Let's Hadoop!
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Bryan Smith
 ## Title: Let's Hadoop!
@@ -46,7 +46,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 12438
 # Data Warehouse Mistakes You Can’t Afford to Make
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: David Stein
 ## Title: Data Warehouse Mistakes You Can’t Afford to Make
@@ -57,7 +57,7 @@ Learn how to avoid many common mistakes, from someone who’s made them and then
 #  
 #### SessionID: 12439
 # Have You Got the Urge to (T-SQL) Merge?
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: David Stein
 ## Title: Have You Got the Urge to (T-SQL) Merge?
@@ -66,7 +66,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 14377
 # Scaling a SQL Data Warehouse to 100s of TBs
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Garrett Edmondson
 ## Title: Scaling a SQL Data Warehouse to 100s of TBs
@@ -75,7 +75,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 14378
 # Data Warehouse ETL
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Garrett Edmondson
 ## Title: Data Warehouse ETL
@@ -85,7 +85,7 @@ ETL architectures will be explored by analyzing their strengths and weaknesses w
 #  
 #### SessionID: 16470
 # Unraveling Tangled Code
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Jennifer McCown
 ## Title: Unraveling Tangled Code
@@ -94,7 +94,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 17710
 # Table Partitioning: the Secret Weapon for your Big Data Problems.
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: John Sterrett
 ## Title: Table Partitioning: the Secret Weapon for your Big Data Problems.
@@ -103,7 +103,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17711
 # Building Your First AlwaysOn Failover Cluster Instance
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: John Sterrett
 ## Title: Building Your First AlwaysOn Failover Cluster Instance
@@ -112,7 +112,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17986
 # Case Studies of Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kat Long
 ## Title: Case Studies of Disaster Recovery
@@ -121,7 +121,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17987
 # Database Design from User Requirements
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Kat Long
 ## Title: Database Design from User Requirements
@@ -130,7 +130,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 18846
 # 3D Geospatial Visualization Using Power Map
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Kristin Ferrier
 ## Title: 3D Geospatial Visualization Using Power Map
@@ -139,7 +139,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 19862
 # SQL Security Best Practices  Shrinking Your Attack Surface
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Matthew Brimer
 ## Title: SQL Security Best Practices  Shrinking Your Attack Surface
@@ -152,7 +152,7 @@ to shrink your attack surface.
 #  
 #### SessionID: 23644
 # Introduction to the XML Source
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Russel Loski
 ## Title: Introduction to the XML Source
@@ -161,7 +161,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 23645
 # Introduction to BIML and BIMLScript
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Russel Loski
 ## Title: Introduction to BIML and BIMLScript
@@ -170,7 +170,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 23732
 # How Active Directory affects SQL Server
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: Ryan Adams
 ## Title: How Active Directory affects SQL Server
@@ -179,7 +179,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 24275
 # Beginning Powershell for DBAs 1.0
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Sean McCown
 ## Title: Beginning Powershell for DBAs 1.0
@@ -188,7 +188,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 25869
 # SQL Server vs The World
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Rob Sullivan
 ## Title: SQL Server vs The World
@@ -197,7 +197,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 26598
 # Handling Errors and Data Anomalies in SSIS
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Tim Mitchell
 ## Title: Handling Errors and Data Anomalies in SSIS
@@ -206,7 +206,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 26786
 # Agile Data Warehouse Design
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Tim Costello
 ## Title: Agile Data Warehouse Design
@@ -215,7 +215,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 28091
 # Getting Started with Analysis Services 2012 Tabular
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: William E Pearson III
 ## Title: Getting Started with Analysis Services 2012 Tabular
@@ -224,7 +224,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 28093
 # Practical Self-Service BI with Excel 2010/2013
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Bonus
 ## Speaker: William E Pearson III
 ## Title: Practical Self-Service BI with Excel 2010/2013
@@ -233,7 +233,7 @@ Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Bonus
 #  
 #### SessionID: 9932
 # Sharing SQL Data in SharePoint
-#### [Back to calendar](#SQLSaturday-#223---Oklahoma-City-2013)
+#### [Back to calendar](#SQLSaturday-#223-Oklahoma-City-2013)
 Event Date: 24-08-2013 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Allen Smith
 ## Title: Sharing SQL Data in SharePoint

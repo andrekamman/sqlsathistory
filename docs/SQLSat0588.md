@@ -71,7 +71,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 54868
 # Whip Away Stress at Home  Work to Create a Better You
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Whip Away Stress at Home  Work to Create a Better You
@@ -80,7 +80,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 54969
 # Power BI:  Customer Stories from the Frontline
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Patrick LeBlanc
 ## Title: Power BI:  Customer Stories from the Frontline
@@ -89,7 +89,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 56250
 # Digging Deeper: BI Methodologies and Best Practices
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Seferlis
 ## Title: Digging Deeper: BI Methodologies and Best Practices
@@ -98,7 +98,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 56278
 # Advanced Security: Protecting Data from the DBA
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Thomas Grohser
 ## Title: Advanced Security: Protecting Data from the DBA
@@ -109,7 +109,7 @@ This session shows how to manage SQL Server without being a member of the sysadm
 #  
 #### SessionID: 56315
 # SQL Server Transactional Replication: A Deep Dive
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server Transactional Replication: A Deep Dive
@@ -118,7 +118,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 56536
 # Advanced SSIS Techniques
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Dye
 ## Title: Advanced SSIS Techniques
@@ -139,7 +139,7 @@ Upon completion of this workshop attendees will be able to:
 #  
 #### SessionID: 56940
 # Do Awesome Things with PowerShell in 5 minutes or Less
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Aaron Nelson
 ## Title: Do Awesome Things with PowerShell in 5 minutes or Less
@@ -152,7 +152,7 @@ Get Better, Faster, Stronger with PowerShell  SQL Server.
 #  
 #### SessionID: 57293
 # Crash Course on Better SQL Development
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
@@ -161,7 +161,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 57649
 # Real world SQL 2016 In-Memory OLTP
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ned Otter
 ## Title: Real world SQL 2016 In-Memory OLTP
@@ -174,7 +174,7 @@ All of these questions and more are answered as we discuss real-world usage of S
 #  
 #### SessionID: 57769
 # New Features in SSIS 2016
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paul Rizza
 ## Title: New Features in SSIS 2016
@@ -192,7 +192,7 @@ The session will include a limited number of slides followed but demo examples o
 #  
 #### SessionID: 58166
 # Power Query - Don't be afraid of the advanced editor
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Erik Svensen
 ## Title: Power Query - Don't be afraid of the advanced editor
@@ -207,7 +207,7 @@ The learnings can be used both in Power BI Desktop and Excel.
 #  
 #### SessionID: 61694
 # A Closer Look at Distributed Availability Groups
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allan Hirt
 ## Title: A Closer Look at Distributed Availability Groups
@@ -216,7 +216,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 65052
 # SQL Server Administration on Linux
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: SQL Server Administration on Linux
@@ -225,7 +225,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54851
 # Outsourcing database administration to your users.
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stephen Mokszycki
 ## Title: Outsourcing database administration to your users.
@@ -236,7 +236,7 @@ There will be a demo!
 #  
 #### SessionID: 54862
 # Connection to SQL Server. Problems. Troubleshooting. Solutions.
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Slava Murygin
 ## Title: Connection to SQL Server. Problems. Troubleshooting. Solutions.
@@ -246,7 +246,7 @@ This session demonstrates multiple different scenarios of SQL Server connectivit
 #  
 #### SessionID: 56224
 # R-ternatives in Power BI
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Ryan Wade
 ## Title: R-ternatives in Power BI
@@ -257,7 +257,7 @@ There are 3 ways you can leverage R in Power BI. You can use it as a data source
 #  
 #### SessionID: 57745
 # HOW TO TROUBLESHOOT DATABASE PERFORMANCE ISSUES
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jean Joseph
 ## Title: HOW TO TROUBLESHOOT DATABASE PERFORMANCE ISSUES
@@ -266,7 +266,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 57998
 # Using Biml as an SSIS Design Patterns Engine
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Using Biml as an SSIS Design Patterns Engine
@@ -280,7 +280,7 @@ In this session, you will learn:
 #  
 #### SessionID: 58088
 # SSAS Tabular in 60 mins: Developing Business-Driven Self-Service BI
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Wylie Blanchard
 ## Title: SSAS Tabular in 60 mins: Developing Business-Driven Self-Service BI
@@ -289,7 +289,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 61530
 # Welcome To the 2016 Query Store!
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Welcome To the 2016 Query Store!
@@ -298,7 +298,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 62455
 # Azure Analysis Services - An introduction
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Timothy McAliley
 ## Title: Azure Analysis Services - An introduction
@@ -307,7 +307,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 62481
 # Accelerating DevOps and TDM Using Data Virtualization
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Gorman
 ## Title: Accelerating DevOps and TDM Using Data Virtualization
@@ -324,7 +324,7 @@ Come learn why data virtualization is the solution to a problem everyone knows.
 #  
 #### SessionID: 62600
 # SQL Server Infrastructure – Cloud and On-Prem Options
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: David Klee
 ## Title: SQL Server Infrastructure – Cloud and On-Prem Options
@@ -335,7 +335,7 @@ Physical servers, enterprise virtualization, and cloud servers all provide solid
 #  
 #### SessionID: 62614
 # SQL Licensing  True-up
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Pearl
 ## Title: SQL Licensing  True-up
@@ -345,7 +345,7 @@ In addition, we will prepare you for the dreaded Microsoft True-up! Offering tip
 #  
 #### SessionID: 62760
 # Inside SQL Server In-Memory OLTP
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: Inside SQL Server In-Memory OLTP
@@ -354,7 +354,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 62804
 # Why candidates fail the job interview in the first minute
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Thomas Grohser
 ## Title: Why candidates fail the job interview in the first minute
@@ -365,7 +365,7 @@ Thomas will share what he misses in resumes and how to respond to questions bett
 #  
 #### SessionID: 64285
 # SANLess clustering for physical, virtual and cloud environments
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Bermingham
 ## Title: SANLess clustering for physical, virtual and cloud environments
@@ -374,7 +374,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64308
 # No inside, No outside, No box. DellEMC software defined storage s
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Charles Chiambalero
 ## Title: No inside, No outside, No box. DellEMC software defined storage s
@@ -385,7 +385,7 @@ In the past, islands of servers with local unevenly utilized and difficult to pr
 #  
 #### SessionID: 54853
 # SQL Server 2016: A dive into Data Quality Services
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server 2016: A dive into Data Quality Services
@@ -394,7 +394,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 54921
 # R For the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
@@ -403,7 +403,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 55000
 # Relational databases vs Non-relational databases
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: James Serra
 ## Title: Relational databases vs Non-relational databases
@@ -412,7 +412,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 55118
 # Query Tuning without Production Data
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Derik Hammer
 ## Title: Query Tuning without Production Data
@@ -421,7 +421,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 57285
 # Stop Ignoring the SQL Server Resource Governor
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Denis McDowell
 ## Title: Stop Ignoring the SQL Server Resource Governor
@@ -430,7 +430,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 59533
 # SQL Server 2016: It Just Runs Faster
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: SQL Server 2016: It Just Runs Faster
@@ -439,7 +439,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 59793
 # From problem to Power BI:  A journey in data visualization
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: From problem to Power BI:  A journey in data visualization
@@ -448,7 +448,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 63008
 # Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
@@ -457,7 +457,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63191
 # Writing T-SQL code like a boss
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Fabiano Amorim
 ## Title: Writing T-SQL code like a boss
@@ -466,7 +466,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 63307
 # Stop Doing That! 5 Common T-SQL Anti-Patterns
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Stop Doing That! 5 Common T-SQL Anti-Patterns
@@ -479,7 +479,7 @@ By the end of the session, you will be able to quickly identify these common ant
 #  
 #### SessionID: 63593
 # Creating Your First Azure Machine Learning Model
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Adan Ortiz-Cordova
 ## Title: Creating Your First Azure Machine Learning Model
@@ -490,7 +490,7 @@ This session will provide a fundamental introduction to the Azure Machine Learni
 #  
 #### SessionID: 63601
 # The Phenomenal IT Consultant
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Sebastian Meine
 ## Title: The Phenomenal IT Consultant
@@ -505,7 +505,7 @@ Join this session and get started on your way to becoming a Phenomenal IT Consul
 #  
 #### SessionID: 54867
 # Tips that have saved my bacon
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Greg Moore
 ## Title: Tips that have saved my bacon
@@ -518,7 +518,7 @@ Everyone knows log-shipping is great for DR recovery, but what about using it fo
 #  
 #### SessionID: 54950
 # Finding Islands, Gaps, and Clusters in Complex Data
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Edward Pollack
 ## Title: Finding Islands, Gaps, and Clusters in Complex Data
@@ -531,7 +531,7 @@ Discussion will include performance, CTEs, recursion, set-based vs. iterative an
 #  
 #### SessionID: 57351
 # Azure SQL Database Vs. Amazon RDS
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Azure SQL Database Vs. Amazon RDS
@@ -545,7 +545,7 @@ Ready to change the mindset of your company and concern only with the business v
 #  
 #### SessionID: 57472
 # SQL Server XML 101
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Alex Grinberg
 ## Title: SQL Server XML 101
@@ -554,7 +554,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 57609
 # Effective Data Warehouse Storage Patterns
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: John Miner
 ## Title: Effective Data Warehouse Storage Patterns
@@ -583,7 +583,7 @@ Coverage:
 #  
 #### SessionID: 59481
 # SharePoint 2016 Unbreakable with SQL Server Always On Availability Groups
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Isabelle Van Campenhoudt
 ## Title: SharePoint 2016 Unbreakable with SQL Server Always On Availability Groups
@@ -608,7 +608,7 @@ Learn about SharePoint 2013/2016 unbreakable
 #  
 #### SessionID: 59728
 # Extending DevOps To SQL Server
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Grant Fritchey
 ## Title: Extending DevOps To SQL Server
@@ -617,7 +617,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 61480
 # Would You Just Load Already?!  Maximizing Your SSIS Data Load
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Chris Bell
 ## Title: Would You Just Load Already?!  Maximizing Your SSIS Data Load
@@ -628,7 +628,7 @@ In this session you will learn a simple method to load data via SSIS and identif
 #  
 #### SessionID: 62486
 # An Introduction to Always Encrypted
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Justin Dearing
 ## Title: An Introduction to Always Encrypted
@@ -637,7 +637,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 63500
 # SQL Server R Services in SQL 2016
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
@@ -646,7 +646,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 63501
 # Monitoring SQL Server using Extended Events
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hilary Cotter
 ## Title: Monitoring SQL Server using Extended Events
@@ -655,7 +655,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63602
 # Network your Way to Success!
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Lisa Margerum
 ## Title: Network your Way to Success!
@@ -668,7 +668,7 @@ Join us for an interactive session to strategize the best actions to increase yo
 #  
 #### SessionID: 64076
 # SQL Server High Availability in Azure IaaS
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Bermingham
 ## Title: SQL Server High Availability in Azure IaaS
@@ -681,7 +681,7 @@ In this session attendees will learn how to leverage ARM to deploy SQL AlwaysOn 
 #  
 #### SessionID: 54856
 # SQL Server Reporting Services 2016 on Steroids!!
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services 2016 on Steroids!!
@@ -692,7 +692,7 @@ We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as
 #  
 #### SessionID: 54883
 # Top 5 Tips to Keep Always On Always Humming and Users Happy
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: Top 5 Tips to Keep Always On Always Humming and Users Happy
@@ -701,7 +701,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54968
 # Using a gateway to leverage on-premises data in Power BI
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Adam Saxton
 ## Title: Using a gateway to leverage on-premises data in Power BI
@@ -710,7 +710,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 54997
 # Choosing the right technologies for a big data solution
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: James Serra
 ## Title: Choosing the right technologies for a big data solution
@@ -719,7 +719,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 55028
 # Understanding U-SQL
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Azhagappan Arunachalam
 ## Title: Understanding U-SQL
@@ -728,7 +728,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 57350
 # DBaaS on Azure - SQL Database Best Practices
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: DBaaS on Azure - SQL Database Best Practices
@@ -739,7 +739,7 @@ This new technology is being adopted for a lot of customers around the world and
 #  
 #### SessionID: 57529
 # Demystifying Data Compression
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Andy Mallon
 ## Title: Demystifying Data Compression
@@ -752,7 +752,7 @@ By the end of this session, you'll have a better idea of how the different compr
 #  
 #### SessionID: 57816
 # Wish you could live the glamorous consulting life?
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Juan Soto
 ## Title: Wish you could live the glamorous consulting life?
@@ -764,7 +764,7 @@ In this session you will learn sales, marketing and management strategies to get
 #  
 #### SessionID: 61158
 # Execution Plans for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
@@ -775,7 +775,7 @@ Reading execution plans becomes much less intimidating as we walk through the fl
 #  
 #### SessionID: 61350
 # Azure Data Catalog 101
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Information Delivery
 ## Speaker: Jake Switzer
 ## Title: Azure Data Catalog 101
@@ -786,7 +786,7 @@ This session will provide a 101 introduction to Azure Data Catalog. Included in 
 #  
 #### SessionID: 62431
 # Building Secure Applications in Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Joseph D'Antoni
 ## Title: Building Secure Applications in Azure SQL Database
@@ -797,7 +797,7 @@ Azure provides extremely robust security protection at the physical, logical, an
 #  
 #### SessionID: 63620
 # Lockless in Seattle: Using In-Memory OLTP Transaction Processing
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Broadbent
 ## Title: Lockless in Seattle: Using In-Memory OLTP Transaction Processing
@@ -808,7 +808,7 @@ In this session, we will understand how In-Memory OLTP architecture is implement
 #  
 #### SessionID: 63627
 # Introduction to Microsoft Analytics – Turning Data into Intelligent Action
-#### [Back to calendar](#SQLSaturday-#588---New-York-City-2017)
+#### [Back to calendar](#SQLSaturday-#588-New-York-City-2017)
 Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melody Zacharias
 ## Title: Introduction to Microsoft Analytics – Turning Data into Intelligent Action

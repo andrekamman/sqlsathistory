@@ -7,7 +7,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 34930
 # DBA 101
-#### [Back to calendar](#SQLSaturday-#4-Tweener(Sun)---Orlando-2008)
+#### [Back to calendar](#SQLSaturday-#4-Tweener(Sun)-Orlando-2008)
 Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL University
 ## Speaker: Andy Warren
 ## Title: DBA 101
@@ -16,7 +16,7 @@ Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL University
 #  
 #### SessionID: 35001
 # BI 101
-#### [Back to calendar](#SQLSaturday-#4-Tweener(Sun)---Orlando-2008)
+#### [Back to calendar](#SQLSaturday-#4-Tweener(Sun)-Orlando-2008)
 Event Date: 07-06-2008 - Session time: 00:00:00 - Track: SQL University
 ## Speaker: Brian Knight
 ## Title: BI 101

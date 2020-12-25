@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 12849
 # Visualising and Generating SQL data with Microsoft Visio 2013
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Business of Business Intelligence
 ## Speaker: David Parker
 ## Title: Visualising and Generating SQL data with Microsoft Visio 2013
@@ -34,7 +34,7 @@ Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Business of Busines
 #  
 #### SessionID: 36848
 # Web Scraping with Python - scraping the web, without the sting
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Business Intelligence
 ## Speaker: Iain Elder
 ## Title: Web Scraping with Python - scraping the web, without the sting
@@ -53,7 +53,7 @@ In our demo we will study the anatomy of a spider, then use it pull data from a 
 #  
 #### SessionID: 37112
 # Business Analytics 101 Jumpstart using Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: Business Analytics Track
 ## Speaker: Jen Stirrup
 ## Title: Business Analytics 101 Jumpstart using Azure Machine Learning
@@ -63,7 +63,7 @@ How does this change in landscape affect businesses? Are you new to the world of
 #  
 #### SessionID: 37505
 # Best practices for collecting and  combining data with Power Query
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Business Intelligence
 ## Speaker: Chris Webb
 ## Title: Best practices for collecting and  combining data with Power Query
@@ -77,7 +77,7 @@ Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Busin
 #  
 #### SessionID: 10576
 # Creating Dashboards with DataZen
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: Business Analytics Track
 ## Speaker: Bob Duffy
 ## Title: Creating Dashboards with DataZen
@@ -87,7 +87,7 @@ We will be showing an end to end demo of creating and publishing dashboards for 
 #  
 #### SessionID: 15147
 # One BI Platform to Rule Them All
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Business Intelligence
 ## Speaker: Ian Macdonald
 ## Title: One BI Platform to Rule Them All
@@ -98,7 +98,7 @@ minutes, this session will show you how BI Office can make you a BI Superhero in
 #  
 #### SessionID: 8952
 # Better Data Visualisation for CRM and ERP
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Business of Business Intelligence
 ## Speaker: Adam Vero - Dynamics CRM MVP
 ## Title: Better Data Visualisation for CRM and ERP
@@ -109,7 +109,7 @@ Need to create charts and dashboards for people to get insight from their comple
 #  
 #### SessionID: 11709
 # The European Economic Crisis and the Euro-A Data Tale
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: Business Analytics Track
 ## Speaker: Carmel Gunn
 ## Title: The European Economic Crisis and the Euro-A Data Tale
@@ -122,7 +122,7 @@ See the Microsoft Power BI stack used to tell a real world story
 #  
 #### SessionID: 21910
 # Understanding SharePoint reporting options for SQL Server
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Business of Business Intelligence
 ## Speaker: Peter Baddeley
 ## Title: Understanding SharePoint reporting options for SQL Server
@@ -132,7 +132,7 @@ Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Business of Busines
 #  
 #### SessionID: 37432
 # Optimizing databases with server side flash, understanding what lies beneat
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Business Intelligence
 ## Speaker: peyman blumstengel
 ## Title: Optimizing databases with server side flash, understanding what lies beneat
@@ -143,7 +143,7 @@ Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Busin
 #  
 #### SessionID: 19584
 # Learning R through a typical BI task
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: Business Analytics Track
 ## Speaker: Mark Wilcock
 ## Title: Learning R through a typical BI task
@@ -154,7 +154,7 @@ The purpose of this session is to show R strengths and weaknesses to help you de
 #  
 #### SessionID: 26995
 # Blue Sky Thinking: SQL Azure Geospatial Mashup
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Business Intelligence
 ## Speaker: Thomas Sykes
 ## Title: Blue Sky Thinking: SQL Azure Geospatial Mashup
@@ -164,7 +164,7 @@ Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Busin
 #  
 #### SessionID: 37799
 # Microsoft SQL Server Data Warehouse Fast Track – Understanding the Program
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Business Intelligence
 ## Speaker: Niall MacLeod
 ## Title: Microsoft SQL Server Data Warehouse Fast Track – Understanding the Program
@@ -175,7 +175,7 @@ This presentation discusses the process undertaken to achieve the certification 
 #  
 #### SessionID: 10578
 # Customising the Excel Ribbon
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Business Intelligence
 ## Speaker: Bob Phillips
 ## Title: Customising the Excel Ribbon
@@ -186,7 +186,7 @@ This session will briefly show how to add items to the QAT and personalise the e
 #  
 #### SessionID: 26143
 # Troll Hunting on the Internet
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: Business Analytics Track
 ## Speaker: Gary Short - C# MVP
 ## Title: Troll Hunting on the Internet
@@ -198,7 +198,7 @@ By removing the anonymity of the Internet we can drive these trolls off of socia
 #  
 #### SessionID: 37883
 # Improve Data Quality, Drive BI Value through Master Data Management
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Business of Business Intelligence
 ## Speaker: Dave Lawrence
 ## Title: Improve Data Quality, Drive BI Value through Master Data Management
@@ -207,7 +207,7 @@ Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Business of Busines
 #  
 #### SessionID: 16270
 # Data Management Gateway Deep Dive
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Business Intelligence
 ## Speaker: Jean-Pierre Riehl
 ## Title: Data Management Gateway Deep Dive
@@ -218,7 +218,7 @@ How does it work ? Security, Firewall, Certificates,  Multiple gateways, Admin d
 #  
 #### SessionID: 25026
 # Power BI- best practices to deliver just-in-time insights
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: Business Analytics Track
 ## Speaker: Satya Jayanty
 ## Title: Power BI- best practices to deliver just-in-time insights
@@ -229,7 +229,7 @@ Having said that, cloud computing is another aspect of this technology made is p
 #  
 #### SessionID: 37108
 # Big Data's Missing V: Visualisation. How do you BigViz your Big Data? 
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Business of Business Intelligence
 ## Speaker: Jen Stirrup
 ## Title: Big Data's Missing V: Visualisation. How do you BigViz your Big Data? 
@@ -239,7 +239,7 @@ In this session, we will look at a mix of open source and Microsoft technologies
 #  
 #### SessionID: 37804
 # Advanced Analytics is where to place your bet
-#### [Back to calendar](#SQLSaturday-#388---Edinburgh---BI-Edition-2015)
+#### [Back to calendar](#SQLSaturday-#388-Edinburgh-BI-Edition-2015)
 Event Date: 13-06-2015 - Session time: 16:45:00 - Track: Business Analytics Track
 ## Speaker: Ric Howe
 ## Title: Advanced Analytics is where to place your bet

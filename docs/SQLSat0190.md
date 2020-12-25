@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10235
 # SQL Server TDE
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Ben Miller
 ## Title: SQL Server TDE
@@ -52,7 +52,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 10236
 # SMO Internals for High Performance PowerShell
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DEV/DBA
 ## Speaker: Ben Miller
 ## Title: SMO Internals for High Performance PowerShell
@@ -61,7 +61,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DEV/DBA
 #  
 #### SessionID: 10429
 # Type More, Click Less:  Programmatically build SSIS packages
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Bill Fellows
 ## Title: Type More, Click Less:  Programmatically build SSIS packages
@@ -70,7 +70,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 10990
 # Bringing Sexy Back...to the Database?
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Professional Dev
 ## Speaker: Bruce Adair
 ## Title: Bringing Sexy Back...to the Database?
@@ -79,7 +79,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Professional Dev
 #  
 #### SessionID: 11333
 # Getting started with Big Data and BI
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Power BI
 ## Speaker: Carlos Bossy
 ## Title: Getting started with Big Data and BI
@@ -88,7 +88,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Power BI
 #  
 #### SessionID: 11494
 # Interview Tips
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Professional Dev
 ## Speaker: Chris Shaw
 ## Title: Interview Tips
@@ -101,7 +101,7 @@ Have you been tasked with conducting an interview?  We will complete the session
 #  
 #### SessionID: 11505
 # Becoming Certified In Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Professional Dev
 ## Speaker: Chris Hyde
 ## Title: Becoming Certified In Microsoft SQL Server
@@ -110,7 +110,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Professional Dev
 #  
 #### SessionID: 11751
 # Backup Basics
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DEV/DBA
 ## Speaker: Meredith Ryan-Smith
 ## Title: Backup Basics
@@ -119,7 +119,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DEV/DBA
 #  
 #### SessionID: 11752
 # Women In Technology Roundtable
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Keynote/Lunch
 ## Speaker: Meredith Ryan-Smith
 ## Title: Women In Technology Roundtable
@@ -128,7 +128,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Keynote/Lunch
 #  
 #### SessionID: 12414
 # High Performance SANLess Clustering
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: More DBA
 ## Speaker: Sios Technology and Allan Hirt
 ## Title: High Performance SANLess Clustering
@@ -137,7 +137,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: More DBA
 #  
 #### SessionID: 12586
 # Virtualizing Critical SQL Servers
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: David Klee
 ## Title: Virtualizing Critical SQL Servers
@@ -146,7 +146,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13270
 # Implementing Data Partitioning and Tiered Storage
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Dmitri Korotkevitch
 ## Title: Implementing Data Partitioning and Tiered Storage
@@ -155,7 +155,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13388
 # SQL Server Murder Mystery Hour: Dead Reports Don't Talk
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Power BI
 ## Speaker: Doug Lane
 ## Title: SQL Server Murder Mystery Hour: Dead Reports Don't Talk
@@ -168,7 +168,7 @@ SQL Server Murder Mystery Hour is part technical presentation, part networking e
 #  
 #### SessionID: 14681
 # Hardware 201: Selecting Database Hardware
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: More DBA
 ## Speaker: Glenn Berry
 ## Title: Hardware 201: Selecting Database Hardware
@@ -178,7 +178,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: More DBA
 #  
 #### SessionID: 15850
 # Dimension Modeling Design Patterns: Beyond Basics
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jason Horner
 ## Title: Dimension Modeling Design Patterns: Beyond Basics
@@ -187,7 +187,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 16889
 # Getting Started with Execution Plans
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: More DBA
 ## Speaker: Jason Kassay
 ## Title: Getting Started with Execution Plans
@@ -196,7 +196,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: More DBA
 #  
 #### SessionID: 18857
 # The Curious Case of Isolation Levels
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: More DBA
 ## Speaker: Keith Tate
 ## Title: The Curious Case of Isolation Levels
@@ -205,7 +205,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: More DBA
 #  
 #### SessionID: 19198
 # Somebody got BIDS Helper in my Data Tools
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Meagan Longoria
 ## Title: Somebody got BIDS Helper in my Data Tools
@@ -214,7 +214,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 19399
 # Self Service BI using Office 2013 and SQL 2012
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Power BI
 ## Speaker: Akesh Gupta
 ## Title: Self Service BI using Office 2013 and SQL 2012
@@ -223,7 +223,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Power BI
 #  
 #### SessionID: 19427
 # Introduction to Tabular Models
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Power BI
 ## Speaker: Marc Beacom
 ## Title: Introduction to Tabular Models
@@ -232,7 +232,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Power BI
 #  
 #### SessionID: 20141
 # How flash storage modernizes databases and tips for tuning databases for all flash arrays
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Matt Henderson
 ## Title: How flash storage modernizes databases and tips for tuning databases for all flash arrays
@@ -241,7 +241,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 20971
 # The Accidental Report Designer: Data Visualization Best Practices in SSRS
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Power BI
 ## Speaker: Meagan Longoria
 ## Title: The Accidental Report Designer: Data Visualization Best Practices in SSRS
@@ -250,7 +250,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Power BI
 #  
 #### SessionID: 21162
 # What secrets does your database schema hold?
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Andre DuBois
 ## Title: What secrets does your database schema hold?
@@ -259,7 +259,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 22775
 # Get Into Evaluation Context with DAX, the Language of PowerPivot and Tabular
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Power BI
 ## Speaker: Reeves Smith
 ## Title: Get Into Evaluation Context with DAX, the Language of PowerPivot and Tabular
@@ -268,7 +268,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Power BI
 #  
 #### SessionID: 22888
 # Dashboards - Introducing Pyramid Analytics
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jeff Renz
 ## Title: Dashboards - Introducing Pyramid Analytics
@@ -277,7 +277,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 22889
 # Data Vault Data Warehouse Architecture
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jeff Renz
 ## Title: Data Vault Data Warehouse Architecture
@@ -286,7 +286,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 23723
 # Manage your shop with CMS and Policy Based Mgmt
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: More DBA
 ## Speaker: Ryan Adams
 ## Title: Manage your shop with CMS and Policy Based Mgmt
@@ -295,7 +295,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: More DBA
 #  
 #### SessionID: 24469
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Professional Dev
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -304,7 +304,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Professional Dev
 #  
 #### SessionID: 24614
 # Lessons Learned: Hurricane Sandy
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: More DBA
 ## Speaker: Brandon Tucker
 ## Title: Lessons Learned: Hurricane Sandy
@@ -313,7 +313,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: More DBA
 #  
 #### SessionID: 24950
 # SQL Server encryption 3 ways - in transit, at rest and in the database
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Dan Hess
 ## Title: SQL Server encryption 3 ways - in transit, at rest and in the database
@@ -326,7 +326,7 @@ This will be a high level, hands-on discussion that will enable any administrato
 #  
 #### SessionID: 25740
 # Common Table Expressions - Advanced
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DEV/DBA
 ## Speaker: Steve Stedman
 ## Title: Common Table Expressions - Advanced
@@ -335,7 +335,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DEV/DBA
 #  
 #### SessionID: 26614
 # Maximizing SSIS Package Performance
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Tim Mitchell
 ## Title: Maximizing SSIS Package Performance
@@ -346,7 +346,7 @@ In this demo-packed session, we'll work through some of the most common causes o
 #  
 #### SessionID: 26850
 # Periodic Table of DMVs: Part Two - The SQL
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: More DBA
 ## Speaker: Tim Ford
 ## Title: Periodic Table of DMVs: Part Two - The SQL
@@ -355,7 +355,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: More DBA
 #  
 #### SessionID: 26907
 # Documentation – you know you love it
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DEV/DBA
 ## Speaker: TJay Belt
 ## Title: Documentation – you know you love it
@@ -364,7 +364,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DEV/DBA
 #  
 #### SessionID: 27102
 # A Brief overview of SQL Server performance management using Spotlight on SQL Server and Performance 
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Power BI
 ## Speaker: Trent Mera
 ## Title: A Brief overview of SQL Server performance management using Spotlight on SQL Server and Performance 
@@ -373,7 +373,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: Power BI
 #  
 #### SessionID: 27804
 # Navigating the Options for Data Redundancy
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DEV/DBA
 ## Speaker: Wendy Pastrick
 ## Title: Navigating the Options for Data Redundancy
@@ -382,7 +382,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DEV/DBA
 #  
 #### SessionID: 8883
 # T-SQL Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DEV/DBA
 ## Speaker: Aaron Cutshall
 ## Title: T-SQL Tips  Tricks
@@ -391,7 +391,7 @@ Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DEV/DBA
 #  
 #### SessionID: 9114
 # DBA Survival Guide: Daily Checklist and Server Mon
-#### [Back to calendar](#SQLSaturday-#190---Denver-2013)
+#### [Back to calendar](#SQLSaturday-#190-Denver-2013)
 Event Date: 28-09-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: AJ Mendo
 ## Title: DBA Survival Guide: Daily Checklist and Server Mon

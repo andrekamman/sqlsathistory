@@ -45,7 +45,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 36517
 # A NoSQL Primer for the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Other
 ## Speaker: Andrew Karcher
 ## Title: A NoSQL Primer for the SQL Server Developer
@@ -58,7 +58,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Other
 #  
 #### SessionID: 36599
 # You Want Me To Do What? SQL Security Basics
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: You Want Me To Do What? SQL Security Basics
@@ -67,7 +67,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38171
 # The PROCESS of Queries
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: The PROCESS of Queries
@@ -76,7 +76,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 38221
 # First Look at SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Heiges
 ## Title: First Look at SQL Server 2016
@@ -85,7 +85,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38337
 # Turbo Boost Performance: In Memory Tables index optimizations
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Strategy and Architecture
 ## Speaker: Konstantin Melamud
 ## Title: Turbo Boost Performance: In Memory Tables index optimizations
@@ -94,7 +94,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 38530
 # DBA to Project Manager in 60 minutes flat
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Paresh Motiwala
 ## Title: DBA to Project Manager in 60 minutes flat
@@ -105,7 +105,7 @@ In this session we wil actually take an arbitrary application and its affiliated
 #  
 #### SessionID: 39052
 # Making the Leap from Developer to DBA
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
@@ -114,7 +114,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 36516
 # Physical Join Operators
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ami Levin
 ## Title: Physical Join Operators
@@ -123,7 +123,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 36531
 # AlwaysOn Availability Groups Kickoff
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Reinhard
 ## Title: AlwaysOn Availability Groups Kickoff
@@ -132,7 +132,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37044
 # Statistics and Query Optimization
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Statistics and Query Optimization
@@ -141,7 +141,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 37916
 # Why should I care about the plan cache?
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about the plan cache?
@@ -150,7 +150,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38344
 # Make Your SQL Server Queries Go Faster
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: Make Your SQL Server Queries Go Faster
@@ -159,7 +159,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38731
 # Tame the sibling rivalry of the Lock, Block and Deadlock sisters
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Tame the sibling rivalry of the Lock, Block and Deadlock sisters
@@ -170,7 +170,7 @@ We will review locking, blocking and deadlocking.  We will review isolation leve
 #  
 #### SessionID: 36511
 # When Database Corruption Strikes - Will you be ready?
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steve Stedman
 ## Title: When Database Corruption Strikes - Will you be ready?
@@ -179,7 +179,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37438
 # Collecting and Analyzing File  Wait Statistics
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Kelly
 ## Title: Collecting and Analyzing File  Wait Statistics
@@ -188,7 +188,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38500
 # Tricks from the DBA Inbox: Real World Performance Tuning
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Horner
 ## Title: Tricks from the DBA Inbox: Real World Performance Tuning
@@ -197,7 +197,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 38529
 # Setting up your BI Infrastructure
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paresh Motiwala
 ## Title: Setting up your BI Infrastructure
@@ -208,7 +208,7 @@ What are the best practices involved in creating a BI infrastructure. We can dis
 #  
 #### SessionID: 38574
 # The Lost Science of Set Theory
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Aaron Cutshall
 ## Title: The Lost Science of Set Theory
@@ -217,7 +217,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 39398
 # Understanding the SQL Server Transaction Log
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Randy Knight
 ## Title: Understanding the SQL Server Transaction Log
@@ -226,7 +226,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37381
 # Master Data Management - Getting Started with SQL Server MDS 
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Information Delivery
 ## Speaker: John McAllister
 ## Title: Master Data Management - Getting Started with SQL Server MDS 
@@ -235,7 +235,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Information Delivery
 #  
 #### SessionID: 40083
 # How to Light up your SQL Server Investment with Pyramid Analytics BI 
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Analytics and Visualization
 ## Speaker: Mike Teel
 ## Title: How to Light up your SQL Server Investment with Pyramid Analytics BI 
@@ -247,7 +247,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 38078
 # Picking the Right Fights with Your Server Team
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joseph D'Antoni
 ## Title: Picking the Right Fights with Your Server Team
@@ -264,7 +264,7 @@ After attending this session, you will have a good understanding of how to talk 
 #  
 #### SessionID: 38338
 # Optimizing your data warehouse for OLAP Processing
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Konstantin Melamud
 ## Title: Optimizing your data warehouse for OLAP Processing
@@ -273,7 +273,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 38737
 # Zero-Downtime Upgrades: Rockstar DBA
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Argenis Fernandez
 ## Title: Zero-Downtime Upgrades: Rockstar DBA
@@ -293,7 +293,7 @@ If you are considering upgrading to a major version of SQL Server, or just apply
 #  
 #### SessionID: 38892
 # A Masters Passport to Extended Events
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: A Masters Passport to Extended Events
@@ -306,7 +306,7 @@ This session on Extended Events will help prepare you to put this tool to immedi
 #  
 #### SessionID: 39054
 # Running with Scissors - SQLCLR and You
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Ben Thul
 ## Title: Running with Scissors - SQLCLR and You
@@ -315,7 +315,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 39160
 # R#246;ck Yo#252;r Technical Interview (Part 1)
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: David McCarter
 ## Title: R#246;ck Yo#252;r Technical Interview (Part 1)
@@ -324,7 +324,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 37546
 # CSI: DW -- Anatomy of a VLDW!
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dave Fackler
 ## Title: CSI: DW -- Anatomy of a VLDW!
@@ -333,7 +333,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 36602
 # Hacking Expos#233; - Using SSL to Secure SQL Server Connections
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: Hacking Expos#233; - Using SSL to Secure SQL Server Connections
@@ -347,7 +347,7 @@ Once secured, we will resume the role of the hacker and look inside the packets 
 #  
 #### SessionID: 37402
 # Data Pages, Allocation Units, IAM chains... Oh My!
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Leach
 ## Title: Data Pages, Allocation Units, IAM chains... Oh My!
@@ -357,7 +357,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 37549
 # T-SQL: Simple Changes That Go a Long Way
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: David Valentine
 ## Title: T-SQL: Simple Changes That Go a Long Way
@@ -366,7 +366,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 38964
 # Use Hive and Hadoop for High Performance Data Warehousing
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Carlos Bossy
 ## Title: Use Hive and Hadoop for High Performance Data Warehousing
@@ -375,7 +375,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 39011
 # What is a Latch, and Why Should I Care?
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eddie Wuerch
 ## Title: What is a Latch, and Why Should I Care?
@@ -384,7 +384,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39161
 # R#246;ck Yo#252;r Technical Interview (Part 2)
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: David McCarter
 ## Title: R#246;ck Yo#252;r Technical Interview (Part 2)
@@ -393,7 +393,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 36571
 # Graphs, Charts, Gauges, Sparklines Oh My!
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Ted Stathakis
 ## Title: Graphs, Charts, Gauges, Sparklines Oh My!
@@ -402,7 +402,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: BI Information Delivery
 #  
 #### SessionID: 38374
 # Dealing With Difficult People
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Professional Development
 ## Speaker: Gigi Bell
 ## Title: Dealing With Difficult People
@@ -411,7 +411,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Professional Developmen
 #  
 #### SessionID: 38820
 # Revenge: The SQL! - Director's Cut
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL! - Director's Cut
@@ -426,7 +426,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 39016
 # Building Your Way to Better Database Testing
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Phil Helmer
 ## Title: Building Your Way to Better Database Testing
@@ -436,7 +436,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database D
 #  
 #### SessionID: 39050
 # Beginning Automation with Powershell
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Beginning Automation with Powershell
@@ -445,7 +445,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 39422
 # SSMS Tips  Tricks: Using What You've Already Got
-#### [Back to calendar](#SQLSaturday-#436---Las-Vegas-2015)
+#### [Back to calendar](#SQLSaturday-#436-Las-Vegas-2015)
 Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Wayne Sheffield
 ## Title: SSMS Tips  Tricks: Using What You've Already Got

@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 49301
 # T-SQL: Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Nigel Sammy
 ## Title: T-SQL: Tips and Tricks
@@ -37,7 +37,7 @@ This session will share insight on how basic query structure and logic works so 
 #  
 #### SessionID: 49949
 # Preparing Data with Power BI: Scripts, Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Information Delivery
 ## Speaker: Rafael Salas
 ## Title: Preparing Data with Power BI: Scripts, Tips  Tricks
@@ -48,7 +48,7 @@ This session is loaded with practical examples that will help you getting a bett
 #  
 #### SessionID: 50099
 # SQL Server 2016 - Stretch Databases
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2016 - Stretch Databases
@@ -57,7 +57,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50116
 # SQL Server 2016 un vistazo a todo lo nuevo!
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eduardo Castro
 ## Title: SQL Server 2016 un vistazo a todo lo nuevo!
@@ -66,7 +66,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 49597
 # UFC #1433 In-Memory tables 2014 vs. 2016
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Alejandro Cordero
 ## Title: UFC #1433 In-Memory tables 2014 vs. 2016
@@ -75,7 +75,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Application  Database D
 #  
 #### SessionID: 49966
 # Copy Data Management and Virtualization
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paresh Motiwala
 ## Title: Copy Data Management and Virtualization
@@ -91,7 +91,7 @@ We will examine what technologies/products are available that help us mitigate s
 #  
 #### SessionID: 50155
 # Accurate and Faster DBA: Start Creating Your Own DBA Toolbox Using Scripts
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jorge Sanchez
 ## Title: Accurate and Faster DBA: Start Creating Your Own DBA Toolbox Using Scripts
@@ -100,7 +100,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50526
 # How I got my Scorecard - Measuring to Succeed (from MSFT Humacao, PR)
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Analytics and Visualization
 ## Speaker: Wilson Diaz
 ## Title: How I got my Scorecard - Measuring to Succeed (from MSFT Humacao, PR)
@@ -109,7 +109,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 52604
 # Unlock Productivity and Freedom with Windows Containers
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Strategy and Architecture
 ## Speaker: Juan Ortiz
 ## Title: Unlock Productivity and Freedom with Windows Containers
@@ -118,7 +118,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 52265
 # Real-time Operational Analytic with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose L. Rivera
 ## Title: Real-time Operational Analytic with SQL Server 2016
@@ -127,7 +127,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 52547
 # Xamarin.Forms – The rising hero!
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Juan Martí
 ## Title: Xamarin.Forms – The rising hero!
@@ -136,7 +136,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Application  Database D
 #  
 #### SessionID: 52548
 # SQL Server 2016 Hybrid Scenarios
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Strategy and Architecture
 ## Speaker: Ramon Ponte
 ## Title: SQL Server 2016 Hybrid Scenarios
@@ -148,7 +148,7 @@ As a result, it is now much easier to move databases to the cloud. Learn about t
 #  
 #### SessionID: 52590
 # Building a Modern Reporting Solution with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Information Delivery
 ## Speaker: Guillermo Caicedo Santiago
 ## Title: Building a Modern Reporting Solution with SQL Server 2016
@@ -157,7 +157,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 50130
 # Power BI Data Visualization Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Analytics and Visualization
 ## Speaker: Adolfo Socorro
 ## Title: Power BI Data Visualization Tips and Tricks
@@ -166,7 +166,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 52251
 # Everything you want to know about SQL Server 2016 Analysis Services
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alan Koo
 ## Title: Everything you want to know about SQL Server 2016 Analysis Services
@@ -175,7 +175,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 52252
 # Windows 2016 + SQL: Better Together
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Isaias Martinez
 ## Title: Windows 2016 + SQL: Better Together
@@ -184,7 +184,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 52264
 # Advance Analytics with SQL Server R Services
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jose L. Rivera
 ## Title: Advance Analytics with SQL Server R Services
@@ -193,7 +193,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 49304
 # SQL Server: Indexing Fundamentals
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Application  Database Development
 ## Speaker: Nigel Sammy
 ## Title: SQL Server: Indexing Fundamentals
@@ -202,7 +202,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Application  Database D
 #  
 #### SessionID: 49968
 # TempDB- More permanent impact than you think
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paresh Motiwala
 ## Title: TempDB- More permanent impact than you think
@@ -226,7 +226,7 @@ Hopefully at the end of the session your knowledge on Tempdb won't be Temp.
 #  
 #### SessionID: 50089
 # SQL Server Query Processor
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eduardo Castro
 ## Title: SQL Server Query Processor
@@ -235,7 +235,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50098
 # Hered#233; una base de datos, y ahora que hago?
-#### [Back to calendar](#SQLSaturday-#537---Puerto-Rico-2016)
+#### [Back to calendar](#SQLSaturday-#537-Puerto-Rico-2016)
 Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Urena
 ## Title: Hered#233; una base de datos, y ahora que hago?

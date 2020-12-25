@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 88042
 # Tame Your Unruly Data With Constraints
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data With Constraints
@@ -40,7 +40,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 91930
 # Enterprise Big Data Analytics using Azure Data Lake Storage Gen2
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Anupama Natarajan
 ## Title: Enterprise Big Data Analytics using Azure Data Lake Storage Gen2
@@ -54,7 +54,7 @@ At the end of the session you will learn how to implement end to end Analytics f
 #  
 #### SessionID: 92946
 # Power BI Basic: Introduction to DAX
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Reza Rad
 ## Title: Power BI Basic: Introduction to DAX
@@ -63,7 +63,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 93533
 # Bring vision to your Apps with PowerApps, Cognitive Services, Flow... and SQL Server
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Paul O'Flaherty
 ## Title: Bring vision to your Apps with PowerApps, Cognitive Services, Flow... and SQL Server
@@ -73,7 +73,7 @@ The session will give an overview of setting up the services and the code requir
 #  
 #### SessionID: 93598
 # Improved data models; what you need to increase the usability and speed of Power BI reports
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Kelly Broekstra
 ## Title: Improved data models; what you need to increase the usability and speed of Power BI reports
@@ -87,7 +87,7 @@ To ensure great usability, performance, adaptability and scalability, you need t
 #  
 #### SessionID: 87582
 # Always Encrypted in SQL Server
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Steve Jones
 ## Title: Always Encrypted in SQL Server
@@ -96,7 +96,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 90482
 # Top 10 tips every Power BI developer should know
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Indira Bandari
 ## Title: Top 10 tips every Power BI developer should know
@@ -105,7 +105,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 92720
 # Azure Data Studio – The New Frontier
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: Azure Data Studio – The New Frontier
@@ -115,7 +115,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93706
 # Azure Data Factory - An overview of modern data integration service in the cloud
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Yingying Myra Ma
 ## Title: Azure Data Factory - An overview of modern data integration service in the cloud
@@ -126,7 +126,7 @@ The session will walk you through an Azure Data Factory overview of WHY-WHAT-HOW
 #  
 #### SessionID: 94298
 # SQL Server 2019 - Modern Migration Tour Part 1
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamish Watson
 ## Title: SQL Server 2019 - Modern Migration Tour Part 1
@@ -143,7 +143,7 @@ https://www.eventbrite.ca/e/modern-migration-tour-2019-christchurch-new-zealand-
 #  
 #### SessionID: 91643
 # Provisioning Dev/Test environments efficiently (speed/storage) whilst protecting your data
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Anderson Rangel
 ## Title: Provisioning Dev/Test environments efficiently (speed/storage) whilst protecting your data
@@ -163,7 +163,7 @@ SQL Provision supports database DevOps while keeping compliance central to the p
 #  
 #### SessionID: 94944
 # Configuring your SQLServer optimally on VMWare
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: Configuring your SQLServer optimally on VMWare
@@ -172,7 +172,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88399
 # The Massively Parallel Processing Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Manjot Kaur
 ## Title: The Massively Parallel Processing Azure SQL Data Warehouse
@@ -181,7 +181,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 90852
 # Ten Query Tuning Techniques Every SQL Programmer Should Know
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Kline
 ## Title: Ten Query Tuning Techniques Every SQL Programmer Should Know
@@ -196,7 +196,7 @@ Attend this session to take your query writing and query tuning skills to the ne
 #  
 #### SessionID: 92393
 # Looking at the Cosmos(DB)
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Martin Catherall
 ## Title: Looking at the Cosmos(DB)
@@ -207,7 +207,7 @@ In this session we’ll take a look at this technology and learn how it might be
 #  
 #### SessionID: 93600
 # Survival Techniques for Lone DBA
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Tejaswi Datla
 ## Title: Survival Techniques for Lone DBA
@@ -216,7 +216,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 94299
 # SQL Server 2019 - Modern Migration Tour Part 2
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamish Watson
 ## Title: SQL Server 2019 - Modern Migration Tour Part 2
@@ -233,7 +233,7 @@ https://www.eventbrite.ca/e/modern-migration-tour-2019-christchurch-new-zealand-
 #  
 #### SessionID: 87432
 # It's a Trap! SQL Server Gotcha’s
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Craig Ryan
 ## Title: It's a Trap! SQL Server Gotcha’s
@@ -245,7 +245,7 @@ This session is for anyone who writes TSQL or has to troubleshoot SQL performanc
 #  
 #### SessionID: 89259
 # Smart Alerts in SQL DB using Automation and Logic Apps
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Martin Cairney
 ## Title: Smart Alerts in SQL DB using Automation and Logic Apps
@@ -262,7 +262,7 @@ Imagine capturing an Alert, performing remedial action, logging the issue  respo
 #  
 #### SessionID: 89629
 # Bridging the gap between SSRS and Power BI
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Manohar Punna
 ## Title: Bridging the gap between SSRS and Power BI
@@ -271,7 +271,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 90687
 # Technologies to Watch: A Gaze into Greg's Crystal Ball
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Greg Low
 ## Title: Technologies to Watch: A Gaze into Greg's Crystal Ball
@@ -280,7 +280,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 92375
 # Virtualizing SQL Server
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: Virtualizing SQL Server
@@ -289,7 +289,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 87955
 # dbatools 1.0  -  Updated, Cross Platform and ready for Production use.
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: dbatools 1.0  -  Updated, Cross Platform and ready for Production use.
@@ -306,7 +306,7 @@ No prior experience with Powershell required!
 #  
 #### SessionID: 90225
 # Demystifying Encryption
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Rob Douglas
 ## Title: Demystifying Encryption
@@ -316,7 +316,7 @@ Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 90547
 # Fundamentals of Blockchain  Azure Blockchain Workbench
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: David Alzamendi
 ## Title: Fundamentals of Blockchain  Azure Blockchain Workbench
@@ -327,7 +327,7 @@ This session will provide you with the answers for each one of these questions. 
 #  
 #### SessionID: 93173
 # MDS from the ground up - let your users maintain their data?
-#### [Back to calendar](#SQLSaturday-#831---South-Island-NZ-2019)
+#### [Back to calendar](#SQLSaturday-#831-South-Island-NZ-2019)
 Event Date: 08-06-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Heidi Hasting
 ## Title: MDS from the ground up - let your users maintain their data?

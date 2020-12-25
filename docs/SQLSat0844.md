@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 87996
 # SQL Server 2019 Big Data Clusters
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Luiz Henrique Garetti
 ## Title: SQL Server 2019 Big Data Clusters
@@ -43,7 +43,7 @@ Nesta sessão, vamos aprofundar um pouco mais nesse assunto, entendendo (na teor
 #  
 #### SessionID: 88006
 # Desenvolvimento de uma aplicação com banco de dados poliglota utilizando o CosmosDB
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Albert Tanure
 ## Title: Desenvolvimento de uma aplicação com banco de dados poliglota utilizando o CosmosDB
@@ -52,7 +52,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 90605
 # O nome dela é CALCULATE. A função mais importante do Power BI!
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: RUY LACERDA
 ## Title: O nome dela é CALCULATE. A função mais importante do Power BI!
@@ -61,7 +61,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 91192
 # Analysis Services em 2019, o que esperar?
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vitor Ferreira
 ## Title: Analysis Services em 2019, o que esperar?
@@ -70,7 +70,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 91216
 # Conectando o PowerBI com Common Data Service (CDS), SharePoint Online e Project Online
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Andre Xavier
 ## Title: Conectando o PowerBI com Common Data Service (CDS), SharePoint Online e Project Online
@@ -79,7 +79,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 91231
 # Joins deep dive: entenda cada variação e sua importância em ambientes SQL Server
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Caio Amante
 ## Title: Joins deep dive: entenda cada variação e sua importância em ambientes SQL Server
@@ -88,7 +88,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91274
 # Implementando soluções de IA utilizando os serviços cognitvos no Azure
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Vitor Fava
 ## Title: Implementando soluções de IA utilizando os serviços cognitvos no Azure
@@ -99,7 +99,7 @@ Nesta sessão discutiremos os conceitos básicos da IA e como podemos aplicá-la
 #  
 #### SessionID: 91320
 # NoSQL para desenvolvedores .NET
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Renato Groffe
 ## Title: NoSQL para desenvolvedores .NET
@@ -108,7 +108,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 87522
 # AlwaysOn com Kubernets no SQL Server 2019
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Rodrigo Crespi
 ## Title: AlwaysOn com Kubernets no SQL Server 2019
@@ -118,7 +118,7 @@ Veja como aproveitar a execução escalável com tarefas paralelizadas em contê
 #  
 #### SessionID: 87537
 # SSIS Integration Runtime - Migrando SSIS para o Azure com o Data Factory
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Wiluey Sousa
 ## Title: SSIS Integration Runtime - Migrando SSIS para o Azure com o Data Factory
@@ -128,7 +128,7 @@ Nesta palestra entenderemos como configurar seus pacotes SSIS com o Azure Data F
 #  
 #### SessionID: 89154
 # Power BI + Azure + Forms + Flow + Sharepoint - Dados em tempo real analisando sentimentos da platéia
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Fernando Garcia
 ## Title: Power BI + Azure + Forms + Flow + Sharepoint - Dados em tempo real analisando sentimentos da platéia
@@ -137,7 +137,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 91565
 # Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade.
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Diemerson Campos
 ## Title: Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade.
@@ -146,7 +146,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 88376
 # Power Bi Embedded - Insira os visuais interativos do Power BI na sua aplicação WEB
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rafael Mendonça
 ## Title: Power Bi Embedded - Insira os visuais interativos do Power BI na sua aplicação WEB
@@ -155,7 +155,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 88413
 # DEV abriu chamado reclamando que uma query está lenta. O que devo fazer?
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Felipe de Assis
 ## Title: DEV abriu chamado reclamando que uma query está lenta. O que devo fazer?
@@ -164,7 +164,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 90032
 # Hacking SQL Server 2
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Hacking SQL Server 2
@@ -176,7 +176,7 @@ Simularemos uma invasão ao SQL Server explorando alguns conceitos mal interpret
 #  
 #### SessionID: 91194
 # Advanced Analytics using SQL Server ML Services
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Thiago Zavaschi
 ## Title: Advanced Analytics using SQL Server ML Services
@@ -186,7 +186,7 @@ O foco será o SQL Server Machine Learning Services com Python e R. Venha assist
 #  
 #### SessionID: 88009
 # Managed Instance - Uma instância do SQL Server como serviço que você terá que conhecer
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Fabrício Lima
 ## Title: Managed Instance - Uma instância do SQL Server como serviço que você terá que conhecer
@@ -195,7 +195,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 88199
 # Big Data e Arquitetura Lambda
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Arthur Luz
 ## Title: Big Data e Arquitetura Lambda
@@ -204,7 +204,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 90504
 # Segurança no SQL Server - Você está deixando a chave sob o tapete?
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dirceu Resende
 ## Title: Segurança no SQL Server - Você está deixando a chave sob o tapete?
@@ -213,7 +213,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91322
 # Storytelling com Power BI
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Luis Gustavo Nascimento Serra
 ## Title: Storytelling com Power BI
@@ -222,7 +222,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 87485
 # Mind Map e Canvas: Elicitação e Indicadores implementando Estudo de Caso no SSIS, SSAS e Power BI
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Aislan Honorato
 ## Title: Mind Map e Canvas: Elicitação e Indicadores implementando Estudo de Caso no SSIS, SSAS e Power BI
@@ -231,7 +231,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 88717
 # Iniciando um trabalho de tuning.
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tiago Neves
 ## Title: Iniciando um trabalho de tuning.
@@ -240,7 +240,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91282
 # Será que você precisa de Alta Disponibilidade nos seus ambientes?
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Fabio Cotrim
 ## Title: Será que você precisa de Alta Disponibilidade nos seus ambientes?
@@ -251,7 +251,7 @@ Como sempre, minhas palestras devem ser encaradas com bom humor, mas não quer d
 #  
 #### SessionID: 92157
 # O Ecossistema de Big Data no Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: O Ecossistema de Big Data no Microsoft Azure
@@ -260,7 +260,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 91235
 # Cubos Multidimensional x Tabular - Facilidades e desafios da modelagem e utilização
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Victor Sales
 ## Title: Cubos Multidimensional x Tabular - Facilidades e desafios da modelagem e utilização
@@ -273,7 +273,7 @@ Vamos usar o Power BI para fazer alguns testes com um modelo multidimensional e 
 #  
 #### SessionID: 91238
 # Always Encrypted: A Forensic Analysis
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gustavo Moura Fé
 ## Title: Always Encrypted: A Forensic Analysis
@@ -286,7 +286,7 @@ Prerequisites: Understanding how SQL Server stores data and manages the buffer p
 #  
 #### SessionID: 91569
 # [Tableau] Compartilhando insights com sua organização com Tableau Server
-#### [Back to calendar](#SQLSaturday-#844---Belo-Horizonte-2019)
+#### [Back to calendar](#SQLSaturday-#844-Belo-Horizonte-2019)
 Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Nilton Kazuyuki Ueda
 ## Title: [Tableau] Compartilhando insights com sua organização com Tableau Server

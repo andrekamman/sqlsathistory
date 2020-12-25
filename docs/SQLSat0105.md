@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10537
 # SQL 2012 Always On-Deep Dive
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Bob Duffy
 ## Title: SQL 2012 Always On-Deep Dive
@@ -41,7 +41,7 @@ This session will be useful for anyone who is working in a high availability env
 #  
 #### SessionID: 21934
 # Get the right SQL Certifications for your business
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Pete Harris
 ## Title: Get the right SQL Certifications for your business
@@ -55,7 +55,7 @@ The Session will also identify and explore available learning channels (Microsof
 #  
 #### SessionID: 23110
 # SSIS 2012 Management Considerations and Best Pract
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 4
 ## Speaker: Rushabh Mehta
 ## Title: SSIS 2012 Management Considerations and Best Pract
@@ -64,7 +64,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 4
 #  
 #### SessionID: 23446
 # Drive Greater Application ROI
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 4
 ## Speaker: TBC TBC
 ## Title: Drive Greater Application ROI
@@ -79,7 +79,7 @@ Learn how SQL Server 2012 can help you Reduce Your Costs and Increase ROI on Mis
 #  
 #### SessionID: 28447
 # T-SQL : Bad Habits to Kick
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 3
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits to Kick
@@ -88,7 +88,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 3
 #  
 #### SessionID: 28629
 # Making Data Fit for Business using DQS
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Allan Mitchell
 ## Title: Making Data Fit for Business using DQS
@@ -102,7 +102,7 @@ Pretty much everyone suffers from these problems so come to this session to lear
 #  
 #### SessionID: 29114
 # Searching over data and files with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 3
 ## Speaker: Bob Beauchemin
 ## Title: Searching over data and files with SQL Server 2012
@@ -111,7 +111,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 3
 #  
 #### SessionID: 29477
 # Intro to Tabular Model in Analysis Services 2012
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 3
 ## Speaker: Chris Webb
 ## Title: Intro to Tabular Model in Analysis Services 2012
@@ -122,7 +122,7 @@ The Tabular model in Analysis Services 2012 is the new alternative to building c
 #  
 #### SessionID: 29540
 # SQL Server Internals:  It's What's for Dinner!
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Christina Leo
 ## Title: SQL Server Internals:  It's What's for Dinner!
@@ -131,7 +131,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 1
 #  
 #### SessionID: 29668
 # Session Details not available
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: n/a n/a
 ## Title: Session Details not available
@@ -140,7 +140,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 2
 #  
 #### SessionID: 30411
 # Storage Best Practices  Performance optimization
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: James Baldwin
 ## Title: Storage Best Practices  Performance optimization
@@ -152,7 +152,7 @@ This session will cover Storage Best Practices for both existing SQL Server edit
 #  
 #### SessionID: 30716
 # SQL Server 2012: Business Intelligence  Data Viz
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Jen Stirrup
 ## Title: SQL Server 2012: Business Intelligence  Data Viz
@@ -167,7 +167,7 @@ Come to this session in order to 'hit the ground running' with Business Intellig
 #  
 #### SessionID: 31183
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 3
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -176,7 +176,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 3
 #  
 #### SessionID: 31317
 # Top Ten Things Every Developer Should Know
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 3
 ## Speaker: Kevin Kline
 ## Title: Top Ten Things Every Developer Should Know
@@ -185,7 +185,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 3
 #  
 #### SessionID: 31393
 # Advanced SQL Server 2008 Troubleshooting
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 4
 ## Speaker: Klaus Aschenbrenner
 ## Title: Advanced SQL Server 2008 Troubleshooting
@@ -194,7 +194,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 4
 #  
 #### SessionID: 31573
 # Moves like Jagger-Upgrading to SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Mark Broadbent
 ## Title: Moves like Jagger-Upgrading to SQL Server 2012
@@ -207,7 +207,7 @@ Attend this must see session and you too can have the “Moves like Jagger”.
 #  
 #### SessionID: 31612
 # SSIS in SQL Server 2012: Development Enhancements
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 4
 ## Speaker: Matt Masson
 ## Title: SSIS in SQL Server 2012: Development Enhancements
@@ -216,7 +216,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 4
 #  
 #### SessionID: 31709
 # Analysis Services for the DBA
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 2
 ## Speaker: Mark Stacey
 ## Title: Analysis Services for the DBA
@@ -227,7 +227,7 @@ This session will be practical for SQL 2005 through 2008 R2, but he will also ta
 #  
 #### SessionID: 32052
 # Effective Data Management using Data Compression
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: Neil Hambly
 ## Title: Effective Data Management using Data Compression
@@ -236,7 +236,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 1
 #  
 #### SessionID: 34345
 # Getting Started with MDX:  The (Very) Basics
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 4
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX:  The (Very) Basics
@@ -246,7 +246,7 @@ Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 4
 #  
 #### SessionID: 34580
 # Build a monitoring system with Powershell Remoting
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 1
 ## Speaker: André Kamman
 ## Title: Build a monitoring system with Powershell Remoting
@@ -260,7 +260,7 @@ after which I'll build a monitoring system step by step in the second part of th
 #  
 #### SessionID: 9668
 # Social Media, BI,  Bridging the SSMS-VS Divide 
-#### [Back to calendar](#SQLSaturday-#105---Dublin-2012)
+#### [Back to calendar](#SQLSaturday-#105-Dublin-2012)
 Event Date: 24-03-2012 - Session time: 00:00:00 - Track: Room 3
 ## Speaker: Noemi Moreno   Tom Austin
 ## Title: Social Media, BI,  Bridging the SSMS-VS Divide 

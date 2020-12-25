@@ -22,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 98986
 # Infrastructure As Code + SQL Server
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: William Lino Oliveira
 ## Title: Infrastructure As Code + SQL Server
@@ -31,7 +31,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 99002
 # Problemas Mais Comuns Em Uma Query
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Marcio Junior
 ## Title: Problemas Mais Comuns Em Uma Query
@@ -40,7 +40,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 99089
 # O que virá após a Transformação Digital? Vem ai a Transformação Analítica
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Luiz Coelho
 ## Title: O que virá após a Transformação Digital? Vem ai a Transformação Analítica
@@ -50,7 +50,7 @@ Entenda nesta talk quais são os novos instrumentos da transformação digital q
 #  
 #### SessionID: 98985
 # Desenvolvimento e Administração em SQL Server com Python
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: William Lino Oliveira
 ## Title: Desenvolvimento e Administração em SQL Server com Python
@@ -59,7 +59,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 98998
 # Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Roberto Santos
 ## Title: Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade
@@ -74,7 +74,7 @@ Esta disciplina se faz muito relevante tanto no ambiente on-premise quanto em nu
 #  
 #### SessionID: 99036
 # AZURE DATA EXPLORER - ADX  101
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Wagner Crivelini
 ## Title: AZURE DATA EXPLORER - ADX  101
@@ -83,7 +83,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 99043
 # SQL 2019 Intelligent Query Processing - New features
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Guilherme Torres
 ## Title: SQL 2019 Intelligent Query Processing - New features
@@ -92,7 +92,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 99169
 # Hyper Scale - Perks and Pitfalls
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kézia Letícia Carvalho
 ## Title: Hyper Scale - Perks and Pitfalls
@@ -102,7 +102,7 @@ In this session, we'll go through the architecture of Hyper Scale and explain, b
 #  
 #### SessionID: 99049
 # Infraestrutura de TI para DBAs - O que devo conhecer para não ser enganado?
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Wiluey Sousa
 ## Title: Infraestrutura de TI para DBAs - O que devo conhecer para não ser enganado?
@@ -121,7 +121,7 @@ Fechamos com uma DEMO de Contadores de Performance (Perf Counters) para INFRA.
 #  
 #### SessionID: 99152
 # Data, o que?
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Fernanda ALVES
 ## Title: Data, o que?
@@ -130,7 +130,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 99170
 # Always Encrypted: A Forensic Analysis
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Gustavo Moura Fé
 ## Title: Always Encrypted: A Forensic Analysis
@@ -143,7 +143,7 @@ Prerequisites: Understanding how SQL Server stores data and manages the buffer p
 #  
 #### SessionID: 99033
 # Big Data, NoSQL e Analytics com MongoDB, Power BI e SQL Big Data Clusters - Parte 1
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leandro Domingues
 ## Title: Big Data, NoSQL e Analytics com MongoDB, Power BI e SQL Big Data Clusters - Parte 1
@@ -152,7 +152,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 99087
 # Event Hub + Stream Analytics Jobs + Power BI = Visualizando dados em tempo real
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Reginaldo Silva
 ## Title: Event Hub + Stream Analytics Jobs + Power BI = Visualizando dados em tempo real
@@ -161,7 +161,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 99117
 # Governança de dados: Primeiros Passos
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Mariane Borges
 ## Title: Governança de dados: Primeiros Passos
@@ -170,7 +170,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 98988
 # Performance Tuning: Melhorando Sua Query e Evitando Armadilhas
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Fabiano Lira
 ## Title: Performance Tuning: Melhorando Sua Query e Evitando Armadilhas
@@ -180,7 +180,7 @@ Abordarei temas como: query compilation, query optimizer, os planos de execuçã
 #  
 #### SessionID: 99064
 # Big Data, NoSQL e Analytics com MongoDB, Power BI e SQL Big Data Clusters - Parte 2
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leandro Domingues
 ## Title: Big Data, NoSQL e Analytics com MongoDB, Power BI e SQL Big Data Clusters - Parte 2
@@ -189,7 +189,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 99072
 # Azure ML - First steps to be a Data Scientist
-#### [Back to calendar](#SQLSaturday-#934---Rio-de-Janeiro-2019)
+#### [Back to calendar](#SQLSaturday-#934-Rio-de-Janeiro-2019)
 Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Thomás Vianna Pereira
 ## Title: Azure ML - First steps to be a Data Scientist

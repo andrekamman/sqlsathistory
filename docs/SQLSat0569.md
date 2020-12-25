@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 52355
 # Pro Techniques for the SSASMD Developer [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Development
 ## Speaker: Jens Vestergaard
 ## Title: Pro Techniques for the SSASMD Developer [EN]
@@ -44,7 +44,7 @@ and finally PowerShell to tie all the ends together.
 #  
 #### SessionID: 52788
 # SQL Server plan cache: The Phantom Menace [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Database
 ## Speaker: Ivan Donev
 ## Title: SQL Server plan cache: The Phantom Menace [EN]
@@ -53,7 +53,7 @@ Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Database
 #  
 #### SessionID: 53909
 # Power BI after more than 1 year in production [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Business Intelligence  Analytics
 ## Speaker: Jiří Neoral
 ## Title: Power BI after more than 1 year in production [EN]
@@ -62,7 +62,7 @@ Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Business Intelligence  
 #  
 #### SessionID: 52504
 # Advanced BIML - for the advanced ETL developer
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Development
 ## Speaker: Regis Baccaro
 ## Title: Advanced BIML - for the advanced ETL developer
@@ -71,7 +71,7 @@ Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Development
 #  
 #### SessionID: 53954
 # Creating Custom BI Solutions with Power BI Embedded [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Business Intelligence  Analytics
 ## Speaker: Mihail Mateev
 ## Title: Creating Custom BI Solutions with Power BI Embedded [EN]
@@ -82,7 +82,7 @@ This talk is a practical session on Microsoft Power BI Embedded concept with man
 #  
 #### SessionID: 53956
 # Performance Tuning for the Transaction Log [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Database
 ## Speaker: Miroslav Dimitrov
 ## Title: Performance Tuning for the Transaction Log [EN]
@@ -91,7 +91,7 @@ Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Database
 #  
 #### SessionID: 54836
 # Inside SQL Server Security [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Database
 ## Speaker: Marek Chmel
 ## Title: Inside SQL Server Security [EN]
@@ -100,7 +100,7 @@ Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Database
 #  
 #### SessionID: 52350
 # The (Consumer) Internet of Things on your arm - MS Band  PowerBI connected
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Development
 ## Speaker: Wolfgang Strasser
 ## Title: The (Consumer) Internet of Things on your arm - MS Band  PowerBI connected
@@ -111,7 +111,7 @@ The challenge: Let's prepare a real-time dashboard of Band2 data in Power BI in 
 #  
 #### SessionID: 52973
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Development
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -120,7 +120,7 @@ Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Development
 #  
 #### SessionID: 53665
 # Kerberos for BI [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Business Intelligence  Analytics
 ## Speaker: Regis Baccaro
 ## Title: Kerberos for BI [EN]
@@ -134,7 +134,7 @@ This session is based on many hours spent sweating in setting up Kerberos in BI 
 #  
 #### SessionID: 56429
 # Real life of the biggest Czech e-shop SQL Server backend [CZ]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Database
 ## Speaker: David Hlavacek
 ## Title: Real life of the biggest Czech e-shop SQL Server backend [CZ]
@@ -146,7 +146,7 @@ Bonus chapter… We found a bug in the nonclustered index whose fix will be comp
 #  
 #### SessionID: 52338
 # Continuous Integration and the Data Warehouse [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Development
 ## Speaker: John Tunnicliffe
 ## Title: Continuous Integration and the Data Warehouse [EN]
@@ -165,7 +165,7 @@ Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Development
 #  
 #### SessionID: 53217
 # Query Store: Taking control of your query performance [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Database
 ## Speaker: Dmitry Pilugin
 ## Title: Query Store: Taking control of your query performance [EN]
@@ -175,7 +175,7 @@ Query Store is a kind of “flight recorder” for your database, it provides fu
 #  
 #### SessionID: 53803
 # If a machine can learn, why can't YOU learn Azure Machine Learning? [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Business Intelligence  Analytics
 ## Speaker: André Melancia
 ## Title: If a machine can learn, why can't YOU learn Azure Machine Learning? [EN]
@@ -186,7 +186,7 @@ Disclaimer: Sadly, AzureML still can't predict what's on your girlfriend's mind.
 #  
 #### SessionID: 52927
 # Think  work like a Data Scientist with SQL 2016 R [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Business Intelligence  Analytics
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Think  work like a Data Scientist with SQL 2016 R [EN]
@@ -199,7 +199,7 @@ In this session, you will definitely take away a breakthrough concept of Advance
 #  
 #### SessionID: 52974
 # Know What Your Code is Doing to SQL Server! [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Development
 ## Speaker: Kevin Boles
 ## Title: Know What Your Code is Doing to SQL Server! [EN]
@@ -208,7 +208,7 @@ Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Development
 #  
 #### SessionID: 53282
 # Azure Data Lake Store / Analytics 101 [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Business Intelligence  Analytics
 ## Speaker: Kenneth Nielsen
 ## Title: Azure Data Lake Store / Analytics 101 [EN]
@@ -219,7 +219,7 @@ Azure Data Lake Store, our new repository for data of various origins – we can
 #  
 #### SessionID: 52509
 # Anomaly Detection [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Business Intelligence  Analytics
 ## Speaker: Dejan Sarka
 ## Title: Anomaly Detection [EN]
@@ -228,7 +228,7 @@ Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Business Intelligence  
 #  
 #### SessionID: 52661
 # Zombie Attack Against Clustered Indexes - Who really need them! [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Development
 ## Speaker: Uwe Ricken
 ## Title: Zombie Attack Against Clustered Indexes - Who really need them! [EN]
@@ -241,7 +241,7 @@ Watch the demos which show in an impressive way that clustered indexes are not a
 #  
 #### SessionID: 54009
 # SQL Server 2016 and Polybase: Bringing Relational and Non-relational Data Together
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Development
 ## Speaker: Scott Klein
 ## Title: SQL Server 2016 and Polybase: Bringing Relational and Non-relational Data Together
@@ -250,7 +250,7 @@ Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Development
 #  
 #### SessionID: 56456
 # CLR  T-SQL (in real "online gaming" life) [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Database
 ## Speaker: Jakub Müller
 ## Title: CLR  T-SQL (in real "online gaming" life) [EN]
@@ -260,7 +260,7 @@ The potential of CLR capabilites is huge.  I will show top patterns and tip  tri
 #  
 #### SessionID: 56494
 # Explore Dark Data with SQL Server 2016 and R [EN]
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Business Intelligence  Analytics
 ## Speaker: Oliver Frost
 ## Title: Explore Dark Data with SQL Server 2016 and R [EN]
@@ -273,7 +273,7 @@ This session is for anyone who is new to R and is interesting expanding their sk
 #  
 #### SessionID: 57186
 # Building a Performance Monitoring System Using XEvents
-#### [Back to calendar](#SQLSaturday-#569---Prague-2016)
+#### [Back to calendar](#SQLSaturday-#569-Prague-2016)
 Event Date: 03-12-2016 - Session time: 17:15:00 - Track: Database
 ## Speaker: Ola Hallengren
 ## Title: Building a Performance Monitoring System Using XEvents

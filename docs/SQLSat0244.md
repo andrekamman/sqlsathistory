@@ -19,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11615
 # T-SQL Fundamentals: Logical Processing Order
-#### [Back to calendar](#SQLSaturday-#244---Johannesburg-2013)
+#### [Back to calendar](#SQLSaturday-#244-Johannesburg-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Breakout room
 ## Speaker: Christina Leo
 ## Title: T-SQL Fundamentals: Logical Processing Order
@@ -31,7 +31,7 @@ This all-demo session will explain the logical processing hierarchy, giving you 
 #  
 #### SessionID: 13254
 # Off with his head!!!! - 10 SQL coding mistakes that can lead to death.
-#### [Back to calendar](#SQLSaturday-#244---Johannesburg-2013)
+#### [Back to calendar](#SQLSaturday-#244-Johannesburg-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 1
 ## Speaker: Jacques Mostert
 ## Title: Off with his head!!!! - 10 SQL coding mistakes that can lead to death.
@@ -40,7 +40,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 1
 #  
 #### SessionID: 14003
 # Introduction to the PDW: Gary Hope and Laura Kotlinksi
-#### [Back to calendar](#SQLSaturday-#244---Johannesburg-2013)
+#### [Back to calendar](#SQLSaturday-#244-Johannesburg-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 1
 ## Speaker: Gary Hope Laura Kotlinski
 ## Title: Introduction to the PDW: Gary Hope and Laura Kotlinksi
@@ -49,7 +49,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 1
 #  
 #### SessionID: 14363
 # Dos and don’ts of database corruption
-#### [Back to calendar](#SQLSaturday-#244---Johannesburg-2013)
+#### [Back to calendar](#SQLSaturday-#244-Johannesburg-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 3
 ## Speaker: Gail Shaw
 ## Title: Dos and don’ts of database corruption
@@ -64,7 +64,7 @@ In this session we’ll look at
 #  
 #### SessionID: 14392
 # The Microsoft "Big Data" and "In Memory" Data Management Story.
-#### [Back to calendar](#SQLSaturday-#244---Johannesburg-2013)
+#### [Back to calendar](#SQLSaturday-#244-Johannesburg-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 1
 ## Speaker: Gary Hope
 ## Title: The Microsoft "Big Data" and "In Memory" Data Management Story.
@@ -75,7 +75,7 @@ A 360' view of Microsoft's latest investments in scale out, unstructured and hig
 #  
 #### SessionID: 14816
 # Microsoft BI - Smart Analytics for a Smarter Future
-#### [Back to calendar](#SQLSaturday-#244---Johannesburg-2013)
+#### [Back to calendar](#SQLSaturday-#244-Johannesburg-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 2
 ## Speaker: Greg  Fibiger
 ## Title: Microsoft BI - Smart Analytics for a Smarter Future
@@ -86,7 +86,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 2
 #  
 #### SessionID: 14840
 # Introduction to PowerBI
-#### [Back to calendar](#SQLSaturday-#244---Johannesburg-2013)
+#### [Back to calendar](#SQLSaturday-#244-Johannesburg-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 2
 ## Speaker: Geoffrey Smith
 ## Title: Introduction to PowerBI
@@ -95,7 +95,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 2
 #  
 #### SessionID: 19343
 # Getting started with your first tabular cube
-#### [Back to calendar](#SQLSaturday-#244---Johannesburg-2013)
+#### [Back to calendar](#SQLSaturday-#244-Johannesburg-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 1
 ## Speaker: Michael Johnson
 ## Title: Getting started with your first tabular cube
@@ -104,7 +104,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 1
 #  
 #### SessionID: 19740
 # Divide and Conquer - Scale out using Federated Database in Azure 
-#### [Back to calendar](#SQLSaturday-#244---Johannesburg-2013)
+#### [Back to calendar](#SQLSaturday-#244-Johannesburg-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 2
 ## Speaker: Martin Phelps
 ## Title: Divide and Conquer - Scale out using Federated Database in Azure 
@@ -113,7 +113,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 2
 #  
 #### SessionID: 20149
 # I wish I knew that yesterday!
-#### [Back to calendar](#SQLSaturday-#244---Johannesburg-2013)
+#### [Back to calendar](#SQLSaturday-#244-Johannesburg-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Breakout room
 ## Speaker: Matt Horn
 ## Title: I wish I knew that yesterday!
@@ -123,7 +123,7 @@ In this session we will explore some interesting and useful tips,tricks, functio
 #  
 #### SessionID: 21432
 # Enhance SQL Performance by Messaging and Queuing Applications
-#### [Back to calendar](#SQLSaturday-#244---Johannesburg-2013)
+#### [Back to calendar](#SQLSaturday-#244-Johannesburg-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 3
 ## Speaker: Niels Berglund
 ## Title: Enhance SQL Performance by Messaging and Queuing Applications
@@ -132,7 +132,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 3
 #  
 #### SessionID: 23929
 # Master Data Services Role as Dimension Manager
-#### [Back to calendar](#SQLSaturday-#244---Johannesburg-2013)
+#### [Back to calendar](#SQLSaturday-#244-Johannesburg-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 2
 ## Speaker: Sandesh Nagaraj
 ## Title: Master Data Services Role as Dimension Manager
@@ -145,7 +145,7 @@ Session Highlights:
 #  
 #### SessionID: 24090
 # Windows Azure SQL Database Troubleshooting and Query Tuning 
-#### [Back to calendar](#SQLSaturday-#244---Johannesburg-2013)
+#### [Back to calendar](#SQLSaturday-#244-Johannesburg-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 3
 ## Speaker: Scott Klein
 ## Title: Windows Azure SQL Database Troubleshooting and Query Tuning 
@@ -154,7 +154,7 @@ Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 3
 #  
 #### SessionID: 24295
 # An Introduction to Indexes and How to Use Them for Maximum Performance
-#### [Back to calendar](#SQLSaturday-#244---Johannesburg-2013)
+#### [Back to calendar](#SQLSaturday-#244-Johannesburg-2013)
 Event Date: 14-09-2013 - Session time: 00:00:00 - Track: Auditorium 3
 ## Speaker: Sean Pearce
 ## Title: An Introduction to Indexes and How to Use Them for Maximum Performance

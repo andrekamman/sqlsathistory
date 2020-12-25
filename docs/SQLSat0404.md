@@ -10,7 +10,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 14210
 # Working Effectively With Legacy SQL
-#### [Back to calendar](#SQLSaturday-#404---Nova-Scotia-2015)
+#### [Back to calendar](#SQLSaturday-#404-Nova-Scotia-2015)
 Event Date: 13-06-2015 - Session time: 14:10:00 - Track: Other
 ## Speaker: Kevin Feasel
 ## Title: Working Effectively With Legacy SQL
@@ -19,7 +19,7 @@ Event Date: 13-06-2015 - Session time: 14:10:00 - Track: Other
 #  
 #### SessionID: 23617
 # Divide and Conquer - Creating and Managing Partitioned Tables and
-#### [Back to calendar](#SQLSaturday-#404---Nova-Scotia-2015)
+#### [Back to calendar](#SQLSaturday-#404-Nova-Scotia-2015)
 Event Date: 13-06-2015 - Session time: 14:10:00 - Track: Other
 ## Speaker: Russ Allen
 ## Title: Divide and Conquer - Creating and Managing Partitioned Tables and
@@ -37,7 +37,7 @@ The presentation will include a live demonstration of partitioning using fact ta
 #  
 #### SessionID: 36460
 # Overcoming Chartaphobia  Moving Toward Enlightening Data Viz
-#### [Back to calendar](#SQLSaturday-#404---Nova-Scotia-2015)
+#### [Back to calendar](#SQLSaturday-#404-Nova-Scotia-2015)
 Event Date: 13-06-2015 - Session time: 14:10:00 - Track: Track 1
 ## Speaker: Meagan Longoria
 ## Title: Overcoming Chartaphobia  Moving Toward Enlightening Data Viz
@@ -46,7 +46,7 @@ Event Date: 13-06-2015 - Session time: 14:10:00 - Track: Track 1
 #  
 #### SessionID: 28344
 # Version control with GIT for the DBA
-#### [Back to calendar](#SQLSaturday-#404---Nova-Scotia-2015)
+#### [Back to calendar](#SQLSaturday-#404-Nova-Scotia-2015)
 Event Date: 13-06-2015 - Session time: 14:10:00 - Track: Other
 ## Speaker: Justin Dearing
 ## Title: Version control with GIT for the DBA
@@ -68,7 +68,7 @@ We will be covering using git from both the command line and Vis
 #  
 #### SessionID: 19988
 # Query Plans and Indexes in SQL Server
-#### [Back to calendar](#SQLSaturday-#404---Nova-Scotia-2015)
+#### [Back to calendar](#SQLSaturday-#404-Nova-Scotia-2015)
 Event Date: 13-06-2015 - Session time: 14:10:00 - Track: Other
 ## Speaker: Michael DeFehr
 ## Title: Query Plans and Indexes in SQL Server

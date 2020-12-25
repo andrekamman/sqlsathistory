@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 38316
 # SQL Server 2014 In-Memory tables desde cada #225;ngulo
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2014 In-Memory tables desde cada #225;ngulo
@@ -43,7 +43,7 @@ Desde el punto de vista del Arquitecto, en que ocaciones me puede ser #250;til e
 #  
 #### SessionID: 39737
 # Los 10 mandamientos de Jesus
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Jesus Gil
 ## Title: Los 10 mandamientos de Jesus
@@ -53,7 +53,7 @@ Esta charla te hablara de los 10 mandamientos que todo buen DBA debe de conocer 
 #  
 #### SessionID: 39742
 # Programando la maquina y desarrollando en Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
 ## Speaker: Roberto Alvarado
 ## Title: Programando la maquina y desarrollando en Azure Machine Learning
@@ -62,7 +62,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
 #  
 #### SessionID: 39743
 # DocumentDB la potencia de NoSQL en Azure
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Miguel Quintero
 ## Title: DocumentDB la potencia de NoSQL en Azure
@@ -71,7 +71,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
 #  
 #### SessionID: 40147
 # #191;C#243;mo funciona y c#243;mo aplicar DAX?
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Developer
 ## Speaker: Freddy Angarita
 ## Title: #191;C#243;mo funciona y c#243;mo aplicar DAX?
@@ -80,7 +80,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Developer
 #  
 #### SessionID: 38053
 # Mejores Pr#225;cticas en Microsoft Azure IaaS para Microsoft SQL Serv
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Daniel Rodrigo Vargas Imbachi
 ## Title: Mejores Pr#225;cticas en Microsoft Azure IaaS para Microsoft SQL Serv
@@ -89,7 +89,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
 #  
 #### SessionID: 38761
 # Microsoft Big Data Stack
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
 ## Speaker: Eduardo Castro
 ## Title: Microsoft Big Data Stack
@@ -98,7 +98,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
 #  
 #### SessionID: 39063
 # SQL Server R#225;pido y Furioso
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Developer
 ## Speaker: Alejandro Cordero
 ## Title: SQL Server R#225;pido y Furioso
@@ -107,7 +107,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Developer
 #  
 #### SessionID: 39222
 # Administre, Diagnostique y Resuelva problemas sobre su SQL Server
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
 ## Speaker: German Ordonez
 ## Title: Administre, Diagnostique y Resuelva problemas sobre su SQL Server
@@ -124,7 +124,7 @@ Bloqueos
 #  
 #### SessionID: 39413
 # Corruption and what to do with it?
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Ignacio Salom Rangel
 ## Title: Corruption and what to do with it?
@@ -133,7 +133,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 38055
 # Escovando BIT com AlwaysOn no SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Luiz Henrique Garetti
 ## Title: Escovando BIT com AlwaysOn no SQL Server 2014
@@ -142,7 +142,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 38223
 # TSQL Window Functions - sorprender tus amigos con lo que puedes hacer
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Developer
 ## Speaker: Ernest Ostrander
 ## Title: TSQL Window Functions - sorprender tus amigos con lo que puedes hacer
@@ -157,7 +157,7 @@ Vamos a tocar lo que es possible con SQL2008, y lo que hay de nuevo en SQL2012/2
 #  
 #### SessionID: 39420
 # Alta Disponibilidad con Always On Availability Groups en SQL 2016
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
 ## Speaker: Daniel Valero
 ## Title: Alta Disponibilidad con Always On Availability Groups en SQL 2016
@@ -166,7 +166,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
 #  
 #### SessionID: 39739
 # Alta disponibilidad de SQL en Azure con Load Balancing de Kemp Technologies
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Jesus Gil
 ## Title: Alta disponibilidad de SQL en Azure con Load Balancing de Kemp Technologies
@@ -175,7 +175,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
 #  
 #### SessionID: 39741
 # Data Visualization Deep Dive
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
 ## Speaker: Jose L. Rivera
 ## Title: Data Visualization Deep Dive
@@ -184,7 +184,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
 #  
 #### SessionID: 37803
 # SQL Server 2016 un vistazo a todo lo nuevo!
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
 ## Speaker: Eduardo Castro
 ## Title: SQL Server 2016 un vistazo a todo lo nuevo!
@@ -193,7 +193,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
 #  
 #### SessionID: 38277
 # Tips certifiquese como SQL Developer
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Developer
 ## Speaker: Henry Troncoso Valencia
 ## Title: Tips certifiquese como SQL Developer
@@ -203,7 +203,7 @@ Trucos recomendados a tener en cuenta para certificarse como SQL Developer para 
 #  
 #### SessionID: 38315
 # Particionamiento y BD Parciales HA para VLDB
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Kenneth Urena
 ## Title: Particionamiento y BD Parciales HA para VLDB
@@ -212,7 +212,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 38534
 # Miner#237;a de datos / Machine Learning
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
 ## Speaker: Andrei Garzon
 ## Title: Miner#237;a de datos / Machine Learning
@@ -221,7 +221,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
 #  
 #### SessionID: 37339
 # SQL Server 2014 Transacciones Diferidas - el AS bajo la manga
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Developer
 ## Speaker: Alejandro Cordero
 ## Title: SQL Server 2014 Transacciones Diferidas - el AS bajo la manga
@@ -230,7 +230,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Developer
 #  
 #### SessionID: 38244
 # Migraci#243;n de Bases de datos SQL Server hacia Azure SQLDB
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Julián Castiblanco
 ## Title: Migraci#243;n de Bases de datos SQL Server hacia Azure SQLDB
@@ -239,7 +239,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
 #  
 #### SessionID: 38248
 # Administrando y operando m#250;ltiples versiones desplegadas de SQL Server
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Guillermo Taylor
 ## Title: Administrando y operando m#250;ltiples versiones desplegadas de SQL Server
@@ -248,7 +248,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
 #  
 #### SessionID: 39111
 # Who's bad!...
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
 ## Speaker: John Bocachica
 ## Title: Who's bad!...
@@ -257,7 +257,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
 #  
 #### SessionID: 39735
 # Introducci#243;n a Data Science
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
 ## Speaker: Jose L. Rivera
 ## Title: Introducci#243;n a Data Science
@@ -266,7 +266,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
 #  
 #### SessionID: 39736
 # BI en SQL Server y Sharepoint 2013, una gran combinaci#243;n
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
 ## Speaker: Enrique Rhenals Bárcenas
 ## Title: BI en SQL Server y Sharepoint 2013, una gran combinaci#243;n
@@ -276,7 +276,7 @@ Se dar#225;n ejemplos pr#225;cticos en maquinas virtuales enfocados a SharePoint
 #  
 #### SessionID: 39738
 # Migrando a SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Jesus Gil
 ## Title: Migrando a SQL Server 2016
@@ -286,7 +286,7 @@ Acomp#225;#241;ame a esta sesi#243;n para decirte, el porque?, el c#243;mo? y el
 #  
 #### SessionID: 40158
 # Control de versiones en artefactos de base de datos
-#### [Back to calendar](#SQLSaturday-#448---Bogota-2015)
+#### [Back to calendar](#SQLSaturday-#448-Bogota-2015)
 Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
 ## Speaker: Miguel Mendoza
 ## Title: Control de versiones en artefactos de base de datos

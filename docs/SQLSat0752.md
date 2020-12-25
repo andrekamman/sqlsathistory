@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 74074
 # Intro to Machine Learning
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Analytics and Visualization
 ## Speaker: Jared Zagelbaum
 ## Title: Intro to Machine Learning
@@ -39,7 +39,7 @@ Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 74667
 # Processing Big Data with Azure Data Lake Analytics
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sean Forgatch
 ## Title: Processing Big Data with Azure Data Lake Analytics
@@ -48,7 +48,7 @@ Event Date: 23-06-2018 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 77842
 # Plan Cache performance tuning
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Arthur Daniels III
 ## Title: Plan Cache performance tuning
@@ -59,7 +59,7 @@ Just like gardening, keeping a database healthy requires pruning.  Techniques to
 #  
 #### SessionID: 80723
 # Extended Events: What are they and How do I use them
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
@@ -68,7 +68,7 @@ Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82424
 # Why Should I Care About ... Partitioned Views?
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
@@ -77,7 +77,7 @@ Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 74079
 # Mastering queries into XML data.
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Rick Bielawski
 ## Title: Mastering queries into XML data.
@@ -86,7 +86,7 @@ Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 74240
 # Power BI Bookmarks: Four Business Use Cases
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Analytics and Visualization
 ## Speaker: Eric Fait
 ## Title: Power BI Bookmarks: Four Business Use Cases
@@ -106,7 +106,7 @@ Bring your own dataset and build out these scenarios with me as I demonstrate ea
 #  
 #### SessionID: 77381
 # Zen and the Art of Perfmon 2018
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Zen and the Art of Perfmon 2018
@@ -115,7 +115,7 @@ Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 78332
 # Intro to Powershell for the SQL Server DBA
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Galbraith
 ## Title: Intro to Powershell for the SQL Server DBA
@@ -124,7 +124,7 @@ Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82039
 # The Amazing Utility of ROW_NUMBER()
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Brian Hansen
 ## Title: The Amazing Utility of ROW_NUMBER()
@@ -133,7 +133,7 @@ Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 74078
 # Implementing security inside SQL Server
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Strategy and Architecture
 ## Speaker: Rick Bielawski
 ## Title: Implementing security inside SQL Server
@@ -142,7 +142,7 @@ Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 74137
 # Azure Analysis Services: Purpose, Migration, Benefits, and Tools
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Turner Kunkel
 ## Title: Azure Analysis Services: Purpose, Migration, Benefits, and Tools
@@ -154,7 +154,7 @@ Demos are included during several parts of the presentation.
 #  
 #### SessionID: 77382
 # Ping! (no reply)
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Ping! (no reply)
@@ -167,7 +167,7 @@ By the end of this interactive session, you will be able to check your own netwo
 #  
 #### SessionID: 77946
 # The Fruit Goes Enterprise: Full Stack .NET Development Using Only Mac-Native Tools
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Dan Mallott
 ## Title: The Fruit Goes Enterprise: Full Stack .NET Development Using Only Mac-Native Tools
@@ -178,7 +178,7 @@ The good news is that thanks to Microsoft's efforts, we can now do full stack .N
 #  
 #### SessionID: 78899
 # Decoding the Cardinality Estimator to Speed Up Queries
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Joe Obbish
 ## Title: Decoding the Cardinality Estimator to Speed Up Queries
@@ -187,7 +187,7 @@ Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 74258
 # Statistics - Why are they there and what do I do with them
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Statistics - Why are they there and what do I do with them
@@ -196,7 +196,7 @@ Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 77041
 # Upgrade to SQL Server 2017: Unleashing the Power of SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Sourav Mukherjee
 ## Title: Upgrade to SQL Server 2017: Unleashing the Power of SQL Server 2017
@@ -205,7 +205,7 @@ Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 78583
 # Introducing dbachecks : Unit testing for your database infrastructure
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Frank Henninger
 ## Title: Introducing dbachecks : Unit testing for your database infrastructure
@@ -216,7 +216,7 @@ In this session we’ll be learning about an exciting new powershell module call
 #  
 #### SessionID: 82025
 # Let's build a data app with Azure Functions!
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Joshuha Owen
 ## Title: Let's build a data app with Azure Functions!
@@ -227,7 +227,7 @@ In this session, we will walk through the architecture and components of creatin
 #  
 #### SessionID: 82211
 # Availability Group Troubleshooting Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: Availability Group Troubleshooting Beyond the Basics
@@ -238,7 +238,7 @@ As a consultant, I've been able to troubleshoot a number of less-common scenario
 #  
 #### SessionID: 74073
 # Custom Activities in Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jared Zagelbaum
 ## Title: Custom Activities in Azure Data Factory
@@ -247,7 +247,7 @@ Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 74705
 # SQL Unit Testing with T-SQLt
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Kevin Trojanowski
 ## Title: SQL Unit Testing with T-SQLt
@@ -256,7 +256,7 @@ Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 78900
 # Four Rules For Columnstore Query Performance
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Joe Obbish
 ## Title: Four Rules For Columnstore Query Performance
@@ -265,7 +265,7 @@ Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 82185
 # In memory database... Let's rethink that request!
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Strategy and Architecture
 ## Speaker: Pat Phelan
 ## Title: In memory database... Let's rethink that request!
@@ -276,7 +276,7 @@ This session looks at what you can do to put a database in memory, at what probl
 #  
 #### SessionID: 82193
 # Locking and its effects on queries and maintenance tasks
-#### [Back to calendar](#SQLSaturday-#752---Iowa-City-2018)
+#### [Back to calendar](#SQLSaturday-#752-Iowa-City-2018)
 Event Date: 23-06-2018 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Jake Manske
 ## Title: Locking and its effects on queries and maintenance tasks

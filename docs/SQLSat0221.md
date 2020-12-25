@@ -21,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 15070
 # Nieuwe T-SQL opties om queries te vereenvoudigen
-#### [Back to calendar](#SQLSaturday-#221---Holland-2013)
+#### [Back to calendar](#SQLSaturday-#221-Holland-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Hugo Kornelis
 ## Title: Nieuwe T-SQL opties om queries te vereenvoudigen
@@ -32,7 +32,7 @@ En dat is precies wat deze sessie biedt: een uitgebreide beschrijving van de syn
 #  
 #### SessionID: 17339
 # LogParser-quicker than SSIS, easier than BCP
-#### [Back to calendar](#SQLSaturday-#221---Holland-2013)
+#### [Back to calendar](#SQLSaturday-#221-Holland-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jonathan Allen
 ## Title: LogParser-quicker than SSIS, easier than BCP
@@ -41,7 +41,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 17803
 # Performance Tuning SSIS packages
-#### [Back to calendar](#SQLSaturday-#221---Holland-2013)
+#### [Back to calendar](#SQLSaturday-#221-Holland-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Joost van Rossum
 ## Title: Performance Tuning SSIS packages
@@ -50,7 +50,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18476
 # Troubleshooting the most difficult SQL Server Prob
-#### [Back to calendar](#SQLSaturday-#221---Holland-2013)
+#### [Back to calendar](#SQLSaturday-#221-Holland-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Klaus Aschenbrenner
 ## Title: Troubleshooting the most difficult SQL Server Prob
@@ -65,7 +65,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19036
 # Native File Streaming with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#221---Holland-2013)
+#### [Back to calendar](#SQLSaturday-#221-Holland-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Leonard Lobel
 ## Title: Native File Streaming with SQL Server 2012
@@ -74,7 +74,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 20055
 # -	SQL Server Internals Series: On Disk Structures
-#### [Back to calendar](#SQLSaturday-#221---Holland-2013)
+#### [Back to calendar](#SQLSaturday-#221-Holland-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Menzo Steinhorst
 ## Title: -	SQL Server Internals Series: On Disk Structures
@@ -83,7 +83,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 20087
 # Slowly changing dimensions- an integrated approach
-#### [Back to calendar](#SQLSaturday-#221---Holland-2013)
+#### [Back to calendar](#SQLSaturday-#221-Holland-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mark Stacey
 ## Title: Slowly changing dimensions- an integrated approach
@@ -92,7 +92,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 22828
 # Database development with SSDT
-#### [Back to calendar](#SQLSaturday-#221---Holland-2013)
+#### [Back to calendar](#SQLSaturday-#221-Holland-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Regis Baccaro
 ## Title: Database development with SSDT
@@ -101,7 +101,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 23351
 # Creëer inzicht met OpsMgr 2012
-#### [Back to calendar](#SQLSaturday-#221---Holland-2013)
+#### [Back to calendar](#SQLSaturday-#221-Holland-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Robert Hartskeerl
 ## Title: Creëer inzicht met OpsMgr 2012
@@ -110,7 +110,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 23353
 # Mobile Business Intelligence - Apprentice Style!
-#### [Back to calendar](#SQLSaturday-#221---Holland-2013)
+#### [Back to calendar](#SQLSaturday-#221-Holland-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Robert Hartskeerl
 ## Title: Mobile Business Intelligence - Apprentice Style!
@@ -119,7 +119,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 23354
 # Running SQL Server in a Windows Azure Virtual Machine – Deep Dive
-#### [Back to calendar](#SQLSaturday-#221---Holland-2013)
+#### [Back to calendar](#SQLSaturday-#221-Holland-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Robert Hartskeerl
 ## Title: Running SQL Server in a Windows Azure Virtual Machine – Deep Dive
@@ -128,7 +128,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 23447
 # Process Intelligence met SQL : Case Gasunie
-#### [Back to calendar](#SQLSaturday-#221---Holland-2013)
+#### [Back to calendar](#SQLSaturday-#221-Holland-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Rik Opdam
 ## Title: Process Intelligence met SQL : Case Gasunie
@@ -137,7 +137,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 24579
 # Data Vault generatie in SQL Server 2012 omgeving
-#### [Back to calendar](#SQLSaturday-#221---Holland-2013)
+#### [Back to calendar](#SQLSaturday-#221-Holland-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Steven Koppenol
 ## Title: Data Vault generatie in SQL Server 2012 omgeving
@@ -146,7 +146,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 27078
 # MDX, zo moeilijk niet!
-#### [Back to calendar](#SQLSaturday-#221---Holland-2013)
+#### [Back to calendar](#SQLSaturday-#221-Holland-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Peter ter Braake
 ## Title: MDX, zo moeilijk niet!
@@ -155,7 +155,7 @@ Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 8789
 #  Tracing with Extended Events. - Adios Profiler
-#### [Back to calendar](#SQLSaturday-#221---Holland-2013)
+#### [Back to calendar](#SQLSaturday-#221-Holland-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Andreas Wolter
 ## Title:  Tracing with Extended Events. - Adios Profiler
@@ -168,7 +168,7 @@ In this introductory to advanced session we will also especially have a look at 
 #  
 #### SessionID: 9357
 # Powershell: The DBA as a consumer
-#### [Back to calendar](#SQLSaturday-#221---Holland-2013)
+#### [Back to calendar](#SQLSaturday-#221-Holland-2013)
 Event Date: 06-04-2013 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Johan Bijnens
 ## Title: Powershell: The DBA as a consumer

@@ -19,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10903
 # Replay your workload as it's your actual one!
-#### [Back to calendar](#SQLSaturday-#274---Slovenia-2013)
+#### [Back to calendar](#SQLSaturday-#274-Slovenia-2013)
 Event Date: 21-12-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Boris Hristov
 ## Title: Replay your workload as it's your actual one!
@@ -28,7 +28,7 @@ Event Date: 21-12-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 13515
 # Optimizing Temporal Queries
-#### [Back to calendar](#SQLSaturday-#274---Slovenia-2013)
+#### [Back to calendar](#SQLSaturday-#274-Slovenia-2013)
 Event Date: 21-12-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Dejan Sarka
 ## Title: Optimizing Temporal Queries
@@ -37,7 +37,7 @@ Event Date: 21-12-2013 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 18106
 # Autogenerating a process data warehouse
-#### [Back to calendar](#SQLSaturday-#274---Slovenia-2013)
+#### [Back to calendar](#SQLSaturday-#274-Slovenia-2013)
 Event Date: 21-12-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Kennie Pontoppidan
 ## Title: Autogenerating a process data warehouse
@@ -48,7 +48,7 @@ In this talk I will show you how Rehfeld has overcome this difficult problem usi
 #  
 #### SessionID: 19450
 # Indexing for denormalization
-#### [Back to calendar](#SQLSaturday-#274---Slovenia-2013)
+#### [Back to calendar](#SQLSaturday-#274-Slovenia-2013)
 Event Date: 21-12-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Marcin Szeliga
 ## Title: Indexing for denormalization
@@ -59,7 +59,7 @@ A third normal form is great, but sometime a database really should be denormali
 #  
 #### SessionID: 20085
 # Analysis Services for the DBA
-#### [Back to calendar](#SQLSaturday-#274---Slovenia-2013)
+#### [Back to calendar](#SQLSaturday-#274-Slovenia-2013)
 Event Date: 21-12-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Mark Stacey
 ## Title: Analysis Services for the DBA
@@ -68,7 +68,7 @@ Event Date: 21-12-2013 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 20737
 # TSQL Performance Tips
-#### [Back to calendar](#SQLSaturday-#274---Slovenia-2013)
+#### [Back to calendar](#SQLSaturday-#274-Slovenia-2013)
 Event Date: 21-12-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Miloš Radivojević
 ## Title: TSQL Performance Tips
@@ -79,7 +79,7 @@ In this session we will advice how to avoid common developer mistakes and show h
 #  
 #### SessionID: 20738
 # SQL Server 2014 - New Cardinality Estimator
-#### [Back to calendar](#SQLSaturday-#274---Slovenia-2013)
+#### [Back to calendar](#SQLSaturday-#274-Slovenia-2013)
 Event Date: 21-12-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Miloš Radivojević
 ## Title: SQL Server 2014 - New Cardinality Estimator
@@ -90,7 +90,7 @@ This session will answers all these questions and will demonstrate new query pro
 #  
 #### SessionID: 22141
 # Harder, Better, Stronger and more secure
-#### [Back to calendar](#SQLSaturday-#274---Slovenia-2013)
+#### [Back to calendar](#SQLSaturday-#274-Slovenia-2013)
 Event Date: 21-12-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Pieter Vanhove
 ## Title: Harder, Better, Stronger and more secure
@@ -101,7 +101,7 @@ How about your HA/DR solution? Did your management decide the DR site is still t
 #  
 #### SessionID: 23500
 # Optimizing BI with SQL2014 In-Memory tables
-#### [Back to calendar](#SQLSaturday-#274---Slovenia-2013)
+#### [Back to calendar](#SQLSaturday-#274-Slovenia-2013)
 Event Date: 21-12-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Rasmus Reinholdt
 ## Title: Optimizing BI with SQL2014 In-Memory tables
@@ -112,7 +112,7 @@ The session will use the latest CTP release and is constantly updated to include
 #  
 #### SessionID: 24786
 # From SQL Traces to Extended Events. The next big switch.
-#### [Back to calendar](#SQLSaturday-#274---Slovenia-2013)
+#### [Back to calendar](#SQLSaturday-#274-Slovenia-2013)
 Event Date: 21-12-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mladen Prajdić
 ## Title: From SQL Traces to Extended Events. The next big switch.
@@ -125,7 +125,7 @@ We'll look at how the Extended Events work with only a brief overview of old SQL
 #  
 #### SessionID: 26999
 # Using Data Quality services on Customer related data
-#### [Back to calendar](#SQLSaturday-#274---Slovenia-2013)
+#### [Back to calendar](#SQLSaturday-#274-Slovenia-2013)
 Event Date: 21-12-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: Tomaž Kaštrun
 ## Title: Using Data Quality services on Customer related data
@@ -135,7 +135,7 @@ Main focus of this session will be usage of data quality services with practical
 #  
 #### SessionID: 28199
 # SQL Server Consolidation - Resistance is Futile
-#### [Back to calendar](#SQLSaturday-#274---Slovenia-2013)
+#### [Back to calendar](#SQLSaturday-#274-Slovenia-2013)
 Event Date: 21-12-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: William Durkin
 ## Title: SQL Server Consolidation - Resistance is Futile
@@ -146,7 +146,7 @@ In this session we will discuss how consolidating SQL Server can reduce overall 
 #  
 #### SessionID: 34558
 # Automate your SSIS development with BIML
-#### [Back to calendar](#SQLSaturday-#274---Slovenia-2013)
+#### [Back to calendar](#SQLSaturday-#274-Slovenia-2013)
 Event Date: 21-12-2013 - Session time: 00:00:00 - Track: BI
 ## Speaker: André Kamman
 ## Title: Automate your SSIS development with BIML
@@ -163,7 +163,7 @@ This is not just for BI developers, DBA's or SQL dev's who need to import or exp
 #  
 #### SessionID: 34751
 # .NET Development for the SQL Server Developer
-#### [Back to calendar](#SQLSaturday-#274---Slovenia-2013)
+#### [Back to calendar](#SQLSaturday-#274-Slovenia-2013)
 Event Date: 21-12-2013 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Marco Parenzan
 ## Title: .NET Development for the SQL Server Developer

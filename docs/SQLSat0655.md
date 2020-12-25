@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 64689
 # Empowering your Business with Measure (Power BI), Act (Powerapps) and Automate (Flow) Tools
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Anupama Natarajan
 ## Title: Empowering your Business with Measure (Power BI), Act (Powerapps) and Automate (Flow) Tools
@@ -39,7 +39,7 @@ d) How to create an business application using Flow, Powerapps and Power BI?
 #  
 #### SessionID: 65883
 # A Beginners Guide to HA/DR
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: A Beginners Guide to HA/DR
@@ -48,7 +48,7 @@ Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 66942
 # An Introduction to SQL Server 2017
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: An Introduction to SQL Server 2017
@@ -59,7 +59,7 @@ From Analytics, Availability, Configuration and Performance there is something f
 #  
 #### SessionID: 68552
 # Patterns For Building Hybrid Scenarios With SQL Server And Azure
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Murilo Miranda
 ## Title: Patterns For Building Hybrid Scenarios With SQL Server And Azure
@@ -79,7 +79,7 @@ Demos: The demo will demonstrate some of the
 #  
 #### SessionID: 64663
 # Azure SQL Data Warehouse for beginners
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Alzamendi
 ## Title: Azure SQL Data Warehouse for beginners
@@ -92,7 +92,7 @@ I will explain how to deploy this service in only a few minutes by using some of
 #  
 #### SessionID: 67286
 # Get Asynchronous - Build your first Service Broker application
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Martin Catherall
 ## Title: Get Asynchronous - Build your first Service Broker application
@@ -105,7 +105,7 @@ This session is aimed at people with little to no Service Broker knowledge and a
 #  
 #### SessionID: 67340
 # Endless Possibilities: R and Power BI
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Leila Etaati
 ## Title: Endless Possibilities: R and Power BI
@@ -114,7 +114,7 @@ Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 64658
 # Stretch Database - Historical data storage in SQL Server
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vitor Fava
 ## Title: Stretch Database - Historical data storage in SQL Server
@@ -123,7 +123,7 @@ Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67130
 # SQL server Operational Validation with Powershell
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Manjot Kaur
 ## Title: SQL server Operational Validation with Powershell
@@ -132,7 +132,7 @@ Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68424
 # The Tricky Part of Doing Tricky Things in your Database
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Karen Lopez
 ## Title: The Tricky Part of Doing Tricky Things in your Database
@@ -143,7 +143,7 @@ We'll demo tricks that we've seen in our database design reviews and show you ho
 #  
 #### SessionID: 64660
 # Advanced DAX for the SQL Professional
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Seamark
 ## Title: Advanced DAX for the SQL Professional
@@ -152,7 +152,7 @@ Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67304
 # Graph Databases on SQL Server
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Dave Dustin
 ## Title: Graph Databases on SQL Server
@@ -165,7 +165,7 @@ In this session we're going to be looking at the key differences between a stand
 #  
 #### SessionID: 67315
 # Dip your toe into analytics and data warhousing
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Martin Catherall
 ## Title: Dip your toe into analytics and data warhousing
@@ -178,7 +178,7 @@ Come along to this session and find out some of the things that you might want t
 #  
 #### SessionID: 67664
 # 10 Amazing Things About Power BI You Don't Know
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: 10 Amazing Things About Power BI You Don't Know
@@ -189,7 +189,7 @@ In this session you can expect many live demos and to be impressed by the extrao
 #  
 #### SessionID: 64653
 # DevOPs and the DBA
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamish Watson
 ## Title: DevOPs and the DBA
@@ -208,7 +208,7 @@ Through the use of a comprehensive live demo to a running database hosted in Azu
 #  
 #### SessionID: 64881
 # Visual Studio SQL Server Database Projects and integrating into VSTS
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Craig Bryden
 ## Title: Visual Studio SQL Server Database Projects and integrating into VSTS
@@ -219,7 +219,7 @@ In this session, I will demonstrate how to use SQL Server Database Projects, dis
 #  
 #### SessionID: 66826
 # Managing VLDB’s in SQL Server. Challenges and tips for managing multi-Terabyte databases.
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael van Halderen
 ## Title: Managing VLDB’s in SQL Server. Challenges and tips for managing multi-Terabyte databases.
@@ -228,7 +228,7 @@ Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 67289
 # Predictive Analysis using R in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Indira Bandari
 ## Title: Predictive Analysis using R in SQL Server 2016
@@ -237,7 +237,7 @@ Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 68491
 # DBA and DEV Panel Discussion
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Karen Lopez
 ## Title: DBA and DEV Panel Discussion
@@ -246,7 +246,7 @@ Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 68492
 # BI and Analytics Panel Discussion
-#### [Back to calendar](#SQLSaturday-#655---Auckland-2017)
+#### [Back to calendar](#SQLSaturday-#655-Auckland-2017)
 Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Reza Rad
 ## Title: BI and Analytics Panel Discussion

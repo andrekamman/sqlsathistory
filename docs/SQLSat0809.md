@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 85217
 # Embrace and Extend: First-Class Activity and 3rd Party Ecosystem for SSIS in ADF
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Information Delivery, Analytics and Visualization
 ## Speaker: Sandy Winarko
 ## Title: Embrace and Extend: First-Class Activity and 3rd Party Ecosystem for SSIS in ADF
@@ -37,7 +37,7 @@ Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Information Delivery, A
 #  
 #### SessionID: 85705
 # SQLOpsStudio Vs SSMS - There can be only one
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Database Development, Administration  DevOps
 ## Speaker: Warwick Rudd
 ## Title: SQLOpsStudio Vs SSMS - There can be only one
@@ -47,7 +47,7 @@ In this session we will take you on a journey of comparing SSMS and SQLOpsStudio
 #  
 #### SessionID: 87444
 # Business Intelligence On-Premises or in the Cloud?
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Data Architecture  Design
 ## Speaker: David Alzamendi
 ## Title: Business Intelligence On-Premises or in the Cloud?
@@ -60,7 +60,7 @@ In this presentation, I will explain how to get the best from both worlds.
 #  
 #### SessionID: 88370
 # A look at Microsoft Data Flows with Charles Sterling
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Data Science and Artificial Intelligence
 ## Speaker: Charles Sterling
 ## Title: A look at Microsoft Data Flows with Charles Sterling
@@ -69,7 +69,7 @@ Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Data Science and Artifi
 #  
 #### SessionID: 86118
 # Let's do the DbaOps: Creating automated,  testable installations of SQL Server
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Database Development, Administration  DevOps
 ## Speaker: Craig McGregor
 ## Title: Let's do the DbaOps: Creating automated,  testable installations of SQL Server
@@ -82,7 +82,7 @@ In this presentation we'll walk through a live demo using reusable community res
 #  
 #### SessionID: 86578
 # DAX as a Query Language
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Information Delivery, Analytics and Visualization
 ## Speaker: Matt Allington
 ## Title: DAX as a Query Language
@@ -93,7 +93,7 @@ In this session, Matt will introduce the topic and show how you can use DAX Stud
 #  
 #### SessionID: 87588
 # Lets graph it!!!
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Data Architecture  Design
 ## Speaker: Mohammad Hafizullah
 ## Title: Lets graph it!!!
@@ -102,7 +102,7 @@ Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Data Architecture  Desi
 #  
 #### SessionID: 87977
 # AI in Power BI Service: Data Flow and Machine Learning
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Data Science and Artificial Intelligence
 ## Speaker: Leila Etaati
 ## Title: AI in Power BI Service: Data Flow and Machine Learning
@@ -111,7 +111,7 @@ Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Data Science and Artifi
 #  
 #### SessionID: 88222
 # Unleash Row Level Security Patterns in Power BI
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Information Delivery, Analytics and Visualization
 ## Speaker: Reza Rad
 ## Title: Unleash Row Level Security Patterns in Power BI
@@ -120,7 +120,7 @@ Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Information Delivery, A
 #  
 #### SessionID: 90483
 # Real-World Query Tuning Examples
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Database Development, Administration  DevOps
 ## Speaker: Amit R S Bansal
 ## Title: Real-World Query Tuning Examples
@@ -129,7 +129,7 @@ Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Database Development, A
 #  
 #### SessionID: 84442
 # Test Driven Development in SQL Server – how to deploy code safer
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Database Development, Administration  DevOps
 ## Speaker: Hamish Watson
 ## Title: Test Driven Development in SQL Server – how to deploy code safer
@@ -143,7 +143,7 @@ A comprehensive DEMO will reveal how Test Driven Development can help you deploy
 #  
 #### SessionID: 87167
 # Top 10 tips every Power BI developer should know
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Information Delivery, Analytics and Visualization
 ## Speaker: Indira Bandari
 ## Title: Top 10 tips every Power BI developer should know
@@ -152,7 +152,7 @@ Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Information Delivery, A
 #  
 #### SessionID: 88206
 # BI in Modern Excel: The value is in the Refresh
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Information Delivery, Analytics and Visualization
 ## Speaker: Ken Puls
 ## Title: BI in Modern Excel: The value is in the Refresh
@@ -162,7 +162,7 @@ Come and see how Excel 2016 gives us the ability to not only rapidly create busi
 #  
 #### SessionID: 88219
 # SQL Developer Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Database Development, Administration  DevOps
 ## Speaker: Martin Catherall
 ## Title: SQL Developer Tips and Tricks
@@ -171,7 +171,7 @@ Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Database Development, A
 #  
 #### SessionID: 85056
 # SSRS and Power BI Report Server - What's New
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Information Delivery, Analytics and Visualization
 ## Speaker: Craig Bryden
 ## Title: SSRS and Power BI Report Server - What's New
@@ -180,7 +180,7 @@ Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Information Delivery, A
 #  
 #### SessionID: 87555
 # Can really Naming Convention and standards save your environment
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Data Architecture  Design
 ## Speaker: Ondrej Aubrecht
 ## Title: Can really Naming Convention and standards save your environment
@@ -193,7 +193,7 @@ This session will be focusing on the Naming convention and standards in the infr
 #  
 #### SessionID: 88268
 # Bridging the gap between SSRS and Power BI
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Information Delivery, Analytics and Visualization
 ## Speaker: Manohar Punna
 ## Title: Bridging the gap between SSRS and Power BI
@@ -202,7 +202,7 @@ Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Information Delivery, A
 #  
 #### SessionID: 88372
 # A wild SQL server appears - Real world SQL server triage.
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Database Development, Administration  DevOps
 ## Speaker: Adrian Sullivan
 ## Title: A wild SQL server appears - Real world SQL server triage.
@@ -214,7 +214,7 @@ In this session we will look at Triage – where is it hurting, and how much is 
 #  
 #### SessionID: 90484
 # Introduction to Azure Cognitive Services
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Data Science and Artificial Intelligence
 ## Speaker: Anupama Natarajan
 ## Title: Introduction to Azure Cognitive Services
@@ -223,7 +223,7 @@ Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Data Science and Artifi
 #  
 #### SessionID: 85081
 # Back to School: SQL Server Security Unknown, Unplugged
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Database Development, Administration  DevOps
 ## Speaker: Vinod Kumar M
 ## Title: Back to School: SQL Server Security Unknown, Unplugged
@@ -232,7 +232,7 @@ Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Database Development, A
 #  
 #### SessionID: 86834
 # Creative DAX
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Information Delivery, Analytics and Visualization
 ## Speaker: Phillip Seamark
 ## Title: Creative DAX
@@ -245,7 +245,7 @@ The session will hopefully inspire you to add some creative and exciting techniq
 #  
 #### SessionID: 87303
 # GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Database Development, Administration  DevOps
 ## Speaker: Patrick Flynn
 ## Title: GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects
@@ -260,7 +260,7 @@ Based around personal experience of learning not to hate Source control, this se
 #  
 #### SessionID: 88350
 # Beyond Devops - Introducing Data Reliability Engineering
-#### [Back to calendar](#SQLSaturday-#809---Wellington-2019)
+#### [Back to calendar](#SQLSaturday-#809-Wellington-2019)
 Event Date: 23-02-2019 - Session time: 14:45:00 - Track: Database Development, Administration  DevOps
 ## Speaker: Dave Dustin
 ## Title: Beyond Devops - Introducing Data Reliability Engineering

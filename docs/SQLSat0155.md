@@ -10,7 +10,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13825
 # Generando valor a la Información
-#### [Back to calendar](#SQLSaturday-#155---Lima-2012)
+#### [Back to calendar](#SQLSaturday-#155-Lima-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: ENRIQUE ALBAN
 ## Title: Generando valor a la Información
@@ -19,7 +19,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16937
 # KEYNOTE - Productividad Empresarial con SQL Server
-#### [Back to calendar](#SQLSaturday-#155---Lima-2012)
+#### [Back to calendar](#SQLSaturday-#155-Lima-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Juan Rafael
 ## Title: KEYNOTE - Productividad Empresarial con SQL Server
@@ -28,7 +28,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 17832
 # Microsoft SQL Server 2012 Power Pivot
-#### [Back to calendar](#SQLSaturday-#155---Lima-2012)
+#### [Back to calendar](#SQLSaturday-#155-Lima-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kai Clemente
 ## Title: Microsoft SQL Server 2012 Power Pivot
@@ -37,7 +37,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 19789
 # Encajando novedades SQLServer en la plataforma BI
-#### [Back to calendar](#SQLSaturday-#155---Lima-2012)
+#### [Back to calendar](#SQLSaturday-#155-Lima-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mary Arcia
 ## Title: Encajando novedades SQLServer en la plataforma BI
@@ -46,7 +46,7 @@ Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 21933
 # ColumnStore index in SQL Server 2012: How it works
-#### [Back to calendar](#SQLSaturday-#155---Lima-2012)
+#### [Back to calendar](#SQLSaturday-#155-Lima-2012)
 Event Date: 22-09-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Percy Reyes
 ## Title: ColumnStore index in SQL Server 2012: How it works

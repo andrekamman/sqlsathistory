@@ -44,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28379
 # Quickly Gather Performance Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Aaron Nelson
 ## Title: Quickly Gather Performance Data with PowerShell
@@ -53,7 +53,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 28380
 # Loading Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: MISC
 ## Speaker: Aaron Nelson
 ## Title: Loading Data with PowerShell
@@ -62,7 +62,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: MISC
 #  
 #### SessionID: 28888
 # T-SQL Awesomeness: 3 Ways to Write Cool SQL
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA and TSQL
 ## Speaker: Audrey Hammonds
 ## Title: T-SQL Awesomeness: 3 Ways to Write Cool SQL
@@ -75,7 +75,7 @@ We will look at data models and scenarios you might encounter that lend themselv
 #  
 #### SessionID: 28967
 # PowerPivot, Idea to Solution in 60 Minutes
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: MISC
 ## Speaker: Barry Ralston
 ## Title: PowerPivot, Idea to Solution in 60 Minutes
@@ -84,7 +84,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: MISC
 #  
 #### SessionID: 29303
 # Deploying Kentico CMS Applcaition to Windows Azure
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Bryan Soltis
 ## Title: Deploying Kentico CMS Applcaition to Windows Azure
@@ -93,7 +93,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 29324
 # Dynamic SSIS:  Configurations, Expression and Vari
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: SSIS and BI
 ## Speaker: Bradley Schacht
 ## Title: Dynamic SSIS:  Configurations, Expression and Vari
@@ -102,7 +102,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: SSIS and BI
 #  
 #### SessionID: 29360
 # Up and Running with SSIS in 5,4,3,2, (Datachix)1 !
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: SSIS and BI
 ## Speaker: Julie Smith
 ## Title: Up and Running with SSIS in 5,4,3,2, (Datachix)1 !
@@ -111,7 +111,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: SSIS and BI
 #  
 #### SessionID: 30141
 # Performance Tuning With Execution Plans
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Eric Wisdahl
 ## Title: Performance Tuning With Execution Plans
@@ -120,7 +120,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 30832
 # Windows Phone Garage
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Windows Phone Garage
 ## Speaker: Joe Healy
 ## Title: Windows Phone Garage
@@ -129,7 +129,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Windows Phone Garage
 #  
 #### SessionID: 31032
 # Pulp SQL
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jorge Segarra
 ## Title: Pulp SQL
@@ -138,7 +138,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 31202
 # Windows Phone Garage (Continued)
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Windows Phone Garage
 ## Speaker: Karla Landrum
 ## Title: Windows Phone Garage (Continued)
@@ -147,7 +147,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Windows Phone Garage
 #  
 #### SessionID: 31203
 # RedGate Tools Demonstration
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Karla Landrum
 ## Title: RedGate Tools Demonstration
@@ -156,7 +156,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 31330
 # Building Occasionally Connected Apps Using SQL Azu
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Kevin Grohoske
 ## Title: Building Occasionally Connected Apps Using SQL Azu
@@ -165,7 +165,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 31435
 # Introduction to Data Warehousing
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Devin Knight
 ## Title: Introduction to Data Warehousing
@@ -174,7 +174,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 31436
 # Performance Tuning Analysis Services
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Devin Knight
 ## Title: Performance Tuning Analysis Services
@@ -183,7 +183,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 31651
 # Windows Azure Overview
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Vincent Mayfield
 ## Title: Windows Azure Overview
@@ -192,7 +192,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 31776
 # Using PowerShell to Rapidly Deploy SQL Server
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: MISC
 ## Speaker: Michael Wells
 ## Title: Using PowerShell to Rapidly Deploy SQL Server
@@ -201,7 +201,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: MISC
 #  
 #### SessionID: 31905
 # The Power of ASP.NET 4.0 Dynamic Data
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Mike Huguet
 ## Title: The Power of ASP.NET 4.0 Dynamic Data
@@ -210,7 +210,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 31906
 # Leveraging Open XML to Create More Dynamic Docs
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Mike Huguet
 ## Title: Leveraging Open XML to Create More Dynamic Docs
@@ -219,7 +219,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 32469
 # Introduction to SQL Azure
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA and TSQL
 ## Speaker: Ryan Duclos
 ## Title: Introduction to SQL Azure
@@ -228,7 +228,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA and TSQL
 #  
 #### SessionID: 32589
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -239,7 +239,7 @@ This session is a light-hearted exploration of some delightfully mischievous SQL
 #  
 #### SessionID: 32627
 # T-SQL Alphabet Soup
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA and TSQL
 ## Speaker: Rodney Landrum
 ## Title: T-SQL Alphabet Soup
@@ -248,7 +248,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA and TSQL
 #  
 #### SessionID: 32682
 # How to Make (more) Money with WP7
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Windows Phone Garage
 ## Speaker: Russ Fustino
 ## Title: How to Make (more) Money with WP7
@@ -257,7 +257,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Windows Phone Garage
 #  
 #### SessionID: 32742
 # Entity Framework v4.1: What's New in 2011
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: MISC
 ## Speaker: Sven Aelterman
 ## Title: Entity Framework v4.1: What's New in 2011
@@ -266,7 +266,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: MISC
 #  
 #### SessionID: 32743
 # Entity Framework Quick Introduction
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Sven Aelterman
 ## Title: Entity Framework Quick Introduction
@@ -275,7 +275,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 32914
 # Building SMO Apps for the Non-Programmer DBA
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Shawn McGehee
 ## Title: Building SMO Apps for the Non-Programmer DBA
@@ -284,7 +284,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 32931
 # Branding Yourself for a Dream Job - The Modern Res
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: MISC
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job - The Modern Res
@@ -293,7 +293,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: MISC
 #  
 #### SessionID: 32932
 # Preparation for Disaster
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Steve Jones
 ## Title: Preparation for Disaster
@@ -302,7 +302,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 33339
 # SSIS: The DBA multiplier 
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: SSIS and BI
 ## Speaker: Ted Krueger
 ## Title: SSIS: The DBA multiplier 
@@ -312,7 +312,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: SSIS and BI
 #  
 #### SessionID: 33447
 # SQL Server Partitioning from A to Z
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Kevin Boles
 ## Title: SQL Server Partitioning from A to Z
@@ -321,7 +321,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 33448
 # SQL Server Memory Deep Dive
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Kevin Boles
 ## Title: SQL Server Memory Deep Dive
@@ -330,7 +330,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 33565
 # Execution Plan Basics - Beginners
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Performance
 ## Speaker: Thomas LeBlanc
 ## Title: Execution Plan Basics - Beginners
@@ -342,7 +342,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Performance
 #  
 #### SessionID: 33608
 # You inherited a database, now what?
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA and TSQL
 ## Speaker: Tim Radney
 ## Title: You inherited a database, now what?
@@ -351,7 +351,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA and TSQL
 #  
 #### SessionID: 33713
 # Transition from DBA to BI Architect 
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: SSIS and BI
 ## Speaker: Thomas LeBlanc
 ## Title: Transition from DBA to BI Architect 
@@ -361,7 +361,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: SSIS and BI
 #  
 #### SessionID: 33794
 # Predictive Analytics - You Can, Too!
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA and TSQL
 ## Speaker: Troy Ketsdever
 ## Title: Predictive Analytics - You Can, Too!
@@ -370,7 +370,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA and TSQL
 #  
 #### SessionID: 33866
 # Table Vars and Temp Tables: What you NEED to know!
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA and TSQL
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars and Temp Tables: What you NEED to know!
@@ -379,7 +379,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: DBA and TSQL
 #  
 #### SessionID: 34144
 # Attribute Discretization in Analysis Services (BI)
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: SSIS and BI
 ## Speaker: William E Pearson III
 ## Title: Attribute Discretization in Analysis Services (BI)
@@ -388,7 +388,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: SSIS and BI
 #  
 #### SessionID: 34147
 # Design and Implement BI Like Edison! 
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: SSIS and BI
 ## Speaker: William E Pearson III
 ## Title: Design and Implement BI Like Edison! 
@@ -398,7 +398,7 @@ Event Date: 04-06-2011 - Session time: 00:00:00 - Track: SSIS and BI
 #  
 #### SessionID: 34497
 # SQL Server DMV Overview
-#### [Back to calendar](#SQLSaturday-#77---Pensacola-2011)
+#### [Back to calendar](#SQLSaturday-#77-Pensacola-2011)
 Event Date: 04-06-2011 - Session time: 00:00:00 - Track: Performance
 ## Speaker: William Assaf
 ## Title: SQL Server DMV Overview

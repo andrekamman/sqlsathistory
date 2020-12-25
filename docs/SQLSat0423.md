@@ -70,7 +70,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 16509
 # Beginning T-SQL
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 ## Speaker: Jennifer McCown
 ## Title: Beginning T-SQL
@@ -79,7 +79,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 #  
 #### SessionID: 21254
 # Fundamentals of Disaster Planning  Recovery
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: IT Manager
 ## Speaker: Michael Viron
 ## Title: Fundamentals of Disaster Planning  Recovery
@@ -88,7 +88,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: IT Manager
 #  
 #### SessionID: 35635
 # Locking, Blocking, Latching. OH MY!
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: DBA Advanced
 ## Speaker: Daniel Janik
 ## Title: Locking, Blocking, Latching. OH MY!
@@ -97,7 +97,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: DBA Advanced
 #  
 #### SessionID: 35789
 # PS C:\gt; Get-Started -With 'PowerShell for SQL Server'
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Mike Robbins
 ## Title: PS C:\gt; Get-Started -With 'PowerShell for SQL Server'
@@ -106,7 +106,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 36195
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Career Foundations
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -115,7 +115,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Career Foundations
 #  
 #### SessionID: 36335
 # 60 Reporting Tips in 60 Minutes
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Ike Ellis
 ## Title: 60 Reporting Tips in 60 Minutes
@@ -124,7 +124,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 36438
 # So You Want a Job in Big Data?
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Career Foundations
 ## Speaker: Scott Shaw
 ## Title: So You Want a Job in Big Data?
@@ -133,7 +133,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Career Foundations
 #  
 #### SessionID: 36803
 # Currying in a Hurry (Functional Programming with F#)
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
 ## Speaker: Jeremy Abbott
 ## Title: Currying in a Hurry (Functional Programming with F#)
@@ -142,7 +142,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET
 #  
 #### SessionID: 37347
 # Internet of Things
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
 ## Speaker: Andrew Petersen
 ## Title: Internet of Things
@@ -153,7 +153,7 @@ In this talk, we will cover statics of what is coming, how to stay secure, along
 #  
 #### SessionID: 37618
 # Essentials of Modern Web Application Development
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
 ## Speaker: Case Ahr
 ## Title: Essentials of Modern Web Application Development
@@ -162,7 +162,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET
 #  
 #### SessionID: 37837
 # What is the right SharePoint Cloud Strategy for my Business?
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SharePoint
 ## Speaker: Cody Gros
 ## Title: What is the right SharePoint Cloud Strategy for my Business?
@@ -171,7 +171,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SharePoint
 #  
 #### SessionID: 39040
 # The Changing Role of IT: Cloud Strategy Panel
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Executive
 ## Speaker: Dave Baxter
 ## Title: The Changing Role of IT: Cloud Strategy Panel
@@ -181,7 +181,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Executive
 #  
 #### SessionID: 10177
 # Building Cross Platform Mobile Apps with Xamarin
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 ## Speaker: Brandon Cornett
 ## Title: Building Cross Platform Mobile Apps with Xamarin
@@ -190,7 +190,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 #  
 #### SessionID: 11639
 # Interview Tips for Hiring Managers
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: IT Manager
 ## Speaker: Christine Assaf
 ## Title: Interview Tips for Hiring Managers
@@ -199,7 +199,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: IT Manager
 #  
 #### SessionID: 25816
 # Managing your mobile workforce with ConfigMgr and Intune
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Windows Server/Virtualization
 ## Speaker: Steven Rachui
 ## Title: Managing your mobile workforce with ConfigMgr and Intune
@@ -208,7 +208,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Windows Server/Virtuali
 #  
 #### SessionID: 35636
 # Analyze your query plan like a Microsoft Engineer!
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 ## Speaker: Daniel Janik
 ## Title: Analyze your query plan like a Microsoft Engineer!
@@ -217,7 +217,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 #  
 #### SessionID: 36314
 # Intro to AngularJS:  Creating a Simple Single Page Application
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 ## Speaker: Ryan Richard
 ## Title: Intro to AngularJS:  Creating a Simple Single Page Application
@@ -226,7 +226,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 #  
 #### SessionID: 36439
 # Navigating the Hadoop Stack
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 ## Speaker: Scott Shaw
 ## Title: Navigating the Hadoop Stack
@@ -235,7 +235,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 #  
 #### SessionID: 36725
 # Database Design: Size DOES Matter
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 ## Speaker: Thomas LaRock
 ## Title: Database Design: Size DOES Matter
@@ -244,7 +244,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 #  
 #### SessionID: 36888
 # Write Scripts with C# and scriptcs
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
 ## Speaker: Ryan Rousseau
 ## Title: Write Scripts with C# and scriptcs
@@ -253,7 +253,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET
 #  
 #### SessionID: 37596
 # Programming with Patterns
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
 ## Speaker: Jeremy Cronan
 ## Title: Programming with Patterns
@@ -262,7 +262,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET
 #  
 #### SessionID: 37838
 # Leveraging SharePoint Search and Client Side Rendering
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SharePoint
 ## Speaker: Jameson Bozeman
 ## Title: Leveraging SharePoint Search and Client Side Rendering
@@ -271,7 +271,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SharePoint
 #  
 #### SessionID: 37856
 # Business Analytics for Cadence Management
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Executive
 ## Speaker: Patrick Thompson
 ## Title: Business Analytics for Cadence Management
@@ -282,7 +282,7 @@ Join Patrick Thompson, Sparkhound General Manager  Partner and former CIO for se
 #  
 #### SessionID: 37889
 # Improving your communication and leadership through Toastmasters
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Career Foundations
 ## Speaker: Stacy Vicknair
 ## Title: Improving your communication and leadership through Toastmasters
@@ -300,7 +300,7 @@ In this session we will demonstrate how a Toastmasters meeting operates, answer 
 #  
 #### SessionID: 38642
 # Mission Possible: Interactive Performance Troubleshooting - T-SQL
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 ## Speaker: Jim Murphy
 ## Title: Mission Possible: Interactive Performance Troubleshooting - T-SQL
@@ -309,7 +309,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 #  
 #### SessionID: 11637
 # Mastering your Resume  Interview: Tips to Get Hired
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Career Foundations
 ## Speaker: Christine Assaf
 ## Title: Mastering your Resume  Interview: Tips to Get Hired
@@ -318,7 +318,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Career Foundations
 #  
 #### SessionID: 35865
 # Back to Basics - What is BI?
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Stacey Hopkins
 ## Title: Back to Basics - What is BI?
@@ -327,7 +327,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 35968
 # SQL Server Optimization for SharePoint
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 ## Speaker: Sven Aelterman
 ## Title: SQL Server Optimization for SharePoint
@@ -336,7 +336,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 #  
 #### SessionID: 36122
 # JS Approaches for the .NET Developer
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
 ## Speaker: Matthew Borel
 ## Title: JS Approaches for the .NET Developer
@@ -345,7 +345,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET
 #  
 #### SessionID: 36735
 # $#*! Your Database Says About Me
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 ## Speaker: Karen Lopez
 ## Title: $#*! Your Database Says About Me
@@ -354,7 +354,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 #  
 #### SessionID: 37591
 # Ensuring Quality Mobile Apps with Testing and Crash Reporting
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 ## Speaker: Seth Valdetero
 ## Title: Ensuring Quality Mobile Apps with Testing and Crash Reporting
@@ -363,7 +363,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 #  
 #### SessionID: 37601
 # Managing SQL Server in the Enterprise with TLAs
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL DBA Foundations
 ## Speaker: Nancy Hidy Wilson
 ## Title: Managing SQL Server in the Enterprise with TLAs
@@ -372,7 +372,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL DBA Foundations
 #  
 #### SessionID: 37669
 # Exploring Your SQL Server Databases with T-SQL
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL DBA Foundations
 ## Speaker: Scott Swanberg
 ## Title: Exploring Your SQL Server Databases with T-SQL
@@ -385,7 +385,7 @@ In this present, I share a set of basic scripts that I've developed, over the ye
 #  
 #### SessionID: 37679
 # Date and Time concepts, gotchas, and best practices in .NET
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
 ## Speaker: Travis Overmier
 ## Title: Date and Time concepts, gotchas, and best practices in .NET
@@ -394,7 +394,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET
 #  
 #### SessionID: 37700
 # What to expect from QA
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 ## Speaker: Lyle Hutson
 ## Title: What to expect from QA
@@ -403,7 +403,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 #  
 #### SessionID: 37850
 # Beginning Automation with Powershell
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Amy Herold
 ## Title: Beginning Automation with Powershell
@@ -412,7 +412,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 37855
 # Dashboards for Everyone with Microsoft Power BI and Excel
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Executive
 ## Speaker: Rusty Frioux
 ## Title: Dashboards for Everyone with Microsoft Power BI and Excel
@@ -421,7 +421,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Executive
 #  
 #### SessionID: 39098
 # Virtualize all the things!
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Windows Server/Virtualization
 ## Speaker: David Pechon
 ## Title: Virtualize all the things!
@@ -430,7 +430,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Windows Server/Virtuali
 #  
 #### SessionID: 10790
 # The Binary Language of Music
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 ## Speaker: Brian Rigsby
 ## Title: The Binary Language of Music
@@ -439,7 +439,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 #  
 #### SessionID: 14459
 # Introduction to Master Data Management (MDM) with SQL Server Master Data Services (MDS) for Beginner
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Gene Webb
 ## Title: Introduction to Master Data Management (MDM) with SQL Server Master Data Services (MDS) for Beginner
@@ -455,7 +455,7 @@ How to use MDS with a data warehouse to improve data quality
 #  
 #### SessionID: 21253
 # Startup 101: Lessons Learned
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 ## Speaker: Michael Viron
 ## Title: Startup 101: Lessons Learned
@@ -464,7 +464,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 #  
 #### SessionID: 25817
 # Configuration Manager and the SQL Broker Service - DRS
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: DBA Advanced
 ## Speaker: Steven Rachui
 ## Title: Configuration Manager and the SQL Broker Service - DRS
@@ -473,7 +473,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: DBA Advanced
 #  
 #### SessionID: 28153
 # Possible Musics:  SSAS Multidimensional vs Tabular
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: William E Pearson III
 ## Title: Possible Musics:  SSAS Multidimensional vs Tabular
@@ -482,7 +482,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 35790
 # PS C:\gt; Get-Started -With 'PowerShell Desired State Configuration'
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Mike Robbins
 ## Title: PS C:\gt; Get-Started -With 'PowerShell Desired State Configuration'
@@ -491,7 +491,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 36194
 # Continuous Integration for Databases
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 ## Speaker: Steve Jones
 ## Title: Continuous Integration for Databases
@@ -500,7 +500,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 #  
 #### SessionID: 36920
 # Row Level Security in Azure and SQL 2016 Databases using Hierarchies
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: DBA Advanced
 ## Speaker: Jamey Johnston
 ## Title: Row Level Security in Azure and SQL 2016 Databases using Hierarchies
@@ -512,7 +512,7 @@ Attendees will leave with a complete working demo they can take to their work an
 #  
 #### SessionID: 36973
 # SQL Server Reporting Services (SSRS) 101
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL DBA Foundations
 ## Speaker: William Assaf
 ## Title: SQL Server Reporting Services (SSRS) 101
@@ -521,7 +521,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL DBA Foundations
 #  
 #### SessionID: 37125
 # Building rest and websocket APIs with Sails.js
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 ## Speaker: Alex Clavelle
 ## Title: Building rest and websocket APIs with Sails.js
@@ -530,7 +530,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 #  
 #### SessionID: 37586
 # The future of C#
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
 ## Speaker: Ross Murray
 ## Title: The future of C#
@@ -539,7 +539,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET
 #  
 #### SessionID: 37711
 # Staying Afloat in the .NET Asynchronous Ocean
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
 ## Speaker: Mike Huguet
 ## Title: Staying Afloat in the .NET Asynchronous Ocean
@@ -548,7 +548,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET
 #  
 #### SessionID: 37858
 # Aligning IT and the Business
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Executive
 ## Speaker: Tim Goedeke
 ## Title: Aligning IT and the Business
@@ -557,7 +557,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Executive
 #  
 #### SessionID: 24820
 # Querying Active Directory From SSRS To Secure Reports And Enhance The User Experience
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Wes Springob
 ## Title: Querying Active Directory From SSRS To Secure Reports And Enhance The User Experience
@@ -567,7 +567,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 35967
 # Gentle Introduction to T-SQL Window Functions
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 ## Speaker: Sven Aelterman
 ## Title: Gentle Introduction to T-SQL Window Functions
@@ -576,7 +576,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 #  
 #### SessionID: 36028
 # Demystifying The Transaction Log
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: DBA Advanced
 ## Speaker: Robert Canzonire
 ## Title: Demystifying The Transaction Log
@@ -585,7 +585,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: DBA Advanced
 #  
 #### SessionID: 36495
 # Spinning Brown Donuts: Why Storage Still Counts.
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Windows Server/Virtualization
 ## Speaker: David Pechon
 ## Title: Spinning Brown Donuts: Why Storage Still Counts.
@@ -594,7 +594,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Windows Server/Virtuali
 #  
 #### SessionID: 36734
 # The Ticking Timebombs in Your Databases
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 ## Speaker: Karen Lopez
 ## Title: The Ticking Timebombs in Your Databases
@@ -608,7 +608,7 @@ Join us: you'll keep your job, have happier users and get more rest.
 #  
 #### SessionID: 36949
 # Excel 2013 Tips and Tricks for Displaying a Multidimensional Cube
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Thomas LeBlanc
 ## Title: Excel 2013 Tips and Tricks for Displaying a Multidimensional Cube
@@ -619,7 +619,7 @@ You will leave this session with your brain firing on all cylinders to create co
 #  
 #### SessionID: 37086
 # Beauty and the Bits:  Why both Left and Right Brain MUST be Engaged
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Career Foundations
 ## Speaker: Calvin Fabre
 ## Title: Beauty and the Bits:  Why both Left and Right Brain MUST be Engaged
@@ -628,7 +628,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Career Foundations
 #  
 #### SessionID: 37107
 # Wearables: Android Wear and Apple Watch in C#
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 ## Speaker: James Alt
 ## Title: Wearables: Android Wear and Apple Watch in C#
@@ -637,7 +637,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 #  
 #### SessionID: 37706
 # Prefer Composition over Inheritance - What exactly does that mean?
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 ## Speaker: Raghu Dodda
 ## Title: Prefer Composition over Inheritance - What exactly does that mean?
@@ -646,7 +646,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 #  
 #### SessionID: 37854
 # Managing Customer Expectations - Are you winning or losing?
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Executive
 ## Speaker: Shannon Duplessis
 ## Title: Managing Customer Expectations - Are you winning or losing?
@@ -656,7 +656,7 @@ Pulling from her industry experience in Government, Legal, Education and Healthc
 #  
 #### SessionID: 37859
 # Teaching programming
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 ## Speaker: George Mauer
 ## Title: Teaching programming
@@ -665,7 +665,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 #  
 #### SessionID: 38766
 # Introduction to DataZen
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to DataZen
@@ -674,7 +674,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 39211
 # Sharing and Reuse with PowerShell Advanced Functions and Modules
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Mike Huguet
 ## Title: Sharing and Reuse with PowerShell Advanced Functions and Modules
@@ -683,7 +683,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 8954
 # jQuery Animation Techniques for Beginners
-#### [Back to calendar](#SQLSaturday-#423---Baton-Rouge-2015)
+#### [Back to calendar](#SQLSaturday-#423-Baton-Rouge-2015)
 Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 ## Speaker: Adam Culpepper
 ## Title: jQuery Animation Techniques for Beginners

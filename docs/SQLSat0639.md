@@ -21,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 65565
 # Let's make a complex dataset simple using Azure Cosmos DB
-#### [Back to calendar](#SQLSaturday-#639---Sri-Lanka-2017)
+#### [Back to calendar](#SQLSaturday-#639-Sri-Lanka-2017)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Cloud  Mobile
 ## Speaker: Hansamali Gamage
 ## Title: Let's make a complex dataset simple using Azure Cosmos DB
@@ -33,7 +33,7 @@ Let's see in action with a demo, how you can transfer your complex data into a s
 #  
 #### SessionID: 67330
 # 10 Amazing Things About Power BI You Don't Know
-#### [Back to calendar](#SQLSaturday-#639---Sri-Lanka-2017)
+#### [Back to calendar](#SQLSaturday-#639-Sri-Lanka-2017)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Business Intelligence  Data Analytics
 ## Speaker: Reza Rad
 ## Title: 10 Amazing Things About Power BI You Don't Know
@@ -44,7 +44,7 @@ In this session you can expect many live demos and to be impressed by the extrao
 #  
 #### SessionID: 67696
 # Columnstore Indexes with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#639---Sri-Lanka-2017)
+#### [Back to calendar](#SQLSaturday-#639-Sri-Lanka-2017)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Database Development  Administration
 ## Speaker: Rushabh Mehta
 ## Title: Columnstore Indexes with SQL Server 2016
@@ -55,7 +55,7 @@ In this session, you will learn all about columnstore indexes and how to start t
 #  
 #### SessionID: 63534
 # Database Corruption - Advanced Recovery Techniques
-#### [Back to calendar](#SQLSaturday-#639---Sri-Lanka-2017)
+#### [Back to calendar](#SQLSaturday-#639-Sri-Lanka-2017)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Database Development  Administration
 ## Speaker: Patrick Flynn
 ## Title: Database Corruption - Advanced Recovery Techniques
@@ -67,7 +67,7 @@ Warning: Hex Editors and DBCC Page dumps will be involved!
 #  
 #### SessionID: 67198
 # Cloud Data Warehousing: Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#639---Sri-Lanka-2017)
+#### [Back to calendar](#SQLSaturday-#639-Sri-Lanka-2017)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Business Intelligence  Data Analytics
 ## Speaker: Dinesh Priyankara
 ## Title: Cloud Data Warehousing: Azure SQL Data Warehouse
@@ -76,7 +76,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Business Intelligence  
 #  
 #### SessionID: 67337
 # On-premises Machine Learning: SQL Server 2016 with R
-#### [Back to calendar](#SQLSaturday-#639---Sri-Lanka-2017)
+#### [Back to calendar](#SQLSaturday-#639-Sri-Lanka-2017)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Business Intelligence  Data Analytics
 ## Speaker: Leila Etaati
 ## Title: On-premises Machine Learning: SQL Server 2016 with R
@@ -85,7 +85,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Business Intelligence  
 #  
 #### SessionID: 62411
 # SQL Server 2016 Query Store
-#### [Back to calendar](#SQLSaturday-#639---Sri-Lanka-2017)
+#### [Back to calendar](#SQLSaturday-#639-Sri-Lanka-2017)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Database Development  Administration
 ## Speaker: Dharmendra Keshari
 ## Title: SQL Server 2016 Query Store
@@ -95,7 +95,7 @@ During this session we will take a thorough look at the Query Store, its archite
 #  
 #### SessionID: 63792
 # Build data driven IoT analytics with Azure
-#### [Back to calendar](#SQLSaturday-#639---Sri-Lanka-2017)
+#### [Back to calendar](#SQLSaturday-#639-Sri-Lanka-2017)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Business Intelligence  Data Analytics
 ## Speaker: Vijayakumar Thurupathan
 ## Title: Build data driven IoT analytics with Azure
@@ -104,7 +104,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Business Intelligence  
 #  
 #### SessionID: 67297
 # Using Neural Network for Prediction with Microsoft Technologies
-#### [Back to calendar](#SQLSaturday-#639---Sri-Lanka-2017)
+#### [Back to calendar](#SQLSaturday-#639-Sri-Lanka-2017)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Business Intelligence  Data Analytics
 ## Speaker: Dinesh Asanka
 ## Title: Using Neural Network for Prediction with Microsoft Technologies
@@ -113,7 +113,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Business Intelligence  
 #  
 #### SessionID: 62951
 # Big Data with Azure: Where to begin? Concepts and Best Practices
-#### [Back to calendar](#SQLSaturday-#639---Sri-Lanka-2017)
+#### [Back to calendar](#SQLSaturday-#639-Sri-Lanka-2017)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Cloud  Mobile
 ## Speaker: Satya Jayanty
 ## Title: Big Data with Azure: Where to begin? Concepts and Best Practices
@@ -124,7 +124,7 @@ Microsoft Azure has the ability to move, store and analyze data within the cloud
 #  
 #### SessionID: 62994
 # Kick Start! SQL Server 2014/2016 Performance Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#639---Sri-Lanka-2017)
+#### [Back to calendar](#SQLSaturday-#639-Sri-Lanka-2017)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Database Development  Administration
 ## Speaker: Pinal Dave
 ## Title: Kick Start! SQL Server 2014/2016 Performance Tips and Tricks
@@ -144,7 +144,7 @@ This 75 minutes will be the most productive time for any DBA and Developer who w
 #  
 #### SessionID: 67570
 # A Journey of a Data Point through Cortana Intelligence Suite
-#### [Back to calendar](#SQLSaturday-#639---Sri-Lanka-2017)
+#### [Back to calendar](#SQLSaturday-#639-Sri-Lanka-2017)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Business Intelligence  Data Analytics
 ## Speaker: Haritha Thilakarathne
 ## Title: A Journey of a Data Point through Cortana Intelligence Suite
@@ -153,7 +153,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Business Intelligence  
 #  
 #### SessionID: 67334
 # Data Preparation is the Keystone; Power Query is Building Block
-#### [Back to calendar](#SQLSaturday-#639---Sri-Lanka-2017)
+#### [Back to calendar](#SQLSaturday-#639-Sri-Lanka-2017)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Business Intelligence  Data Analytics
 ## Speaker: Reza Rad
 ## Title: Data Preparation is the Keystone; Power Query is Building Block
@@ -164,7 +164,7 @@ We will use customer case studies to go through scenarios of preparing data for 
 #  
 #### SessionID: 67440
 # A JSON's Journey through SQL Server
-#### [Back to calendar](#SQLSaturday-#639---Sri-Lanka-2017)
+#### [Back to calendar](#SQLSaturday-#639-Sri-Lanka-2017)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Database Development  Administration
 ## Speaker: Shamil Sadique
 ## Title: A JSON's Journey through SQL Server
@@ -173,7 +173,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Database Development  A
 #  
 #### SessionID: 67695
 # Getting started with SQL Server in Azure
-#### [Back to calendar](#SQLSaturday-#639---Sri-Lanka-2017)
+#### [Back to calendar](#SQLSaturday-#639-Sri-Lanka-2017)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Cloud  Mobile
 ## Speaker: Rushabh Mehta
 ## Title: Getting started with SQL Server in Azure
@@ -182,7 +182,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Cloud  Mobile
 #  
 #### SessionID: 67714
 # The Great Data Panel Discussion
-#### [Back to calendar](#SQLSaturday-#639---Sri-Lanka-2017)
+#### [Back to calendar](#SQLSaturday-#639-Sri-Lanka-2017)
 Event Date: 12-08-2017 - Session time: 16:30:00 - Track: General  Other
 ## Speaker: Dinesh Priyankara
 ## Title: The Great Data Panel Discussion

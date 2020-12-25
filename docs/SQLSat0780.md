@@ -20,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 80817
 # Database corruption
-#### [Back to calendar](#SQLSaturday-#780---Kharkiv-2018)
+#### [Back to calendar](#SQLSaturday-#780-Kharkiv-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: Database corruption
@@ -29,7 +29,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84832
 # Back to the future - Migrating our SQL Server OnPremise Database to Azure
-#### [Back to calendar](#SQLSaturday-#780---Kharkiv-2018)
+#### [Back to calendar](#SQLSaturday-#780-Kharkiv-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Back to the future - Migrating our SQL Server OnPremise Database to Azure
@@ -45,7 +45,7 @@ This session consists of:
 #  
 #### SessionID: 84860
 # Azure IoT Solution Architecture Best Practices
-#### [Back to calendar](#SQLSaturday-#780---Kharkiv-2018)
+#### [Back to calendar](#SQLSaturday-#780-Kharkiv-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Mihail Mateev
 ## Title: Azure IoT Solution Architecture Best Practices
@@ -56,7 +56,7 @@ This presentation provides a deeper architecture implementation overview of the 
 #  
 #### SessionID: 85230
 # The Road to The Autonomous Databases
-#### [Back to calendar](#SQLSaturday-#780---Kharkiv-2018)
+#### [Back to calendar](#SQLSaturday-#780-Kharkiv-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Janusz Rokicki
 ## Title: The Road to The Autonomous Databases
@@ -65,7 +65,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 85351
 # ДБА поневоле – что делать? (ru)
-#### [Back to calendar](#SQLSaturday-#780---Kharkiv-2018)
+#### [Back to calendar](#SQLSaturday-#780-Kharkiv-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Yevhen Nedashkivskyi
 ## Title: ДБА поневоле – что делать? (ru)
@@ -90,7 +90,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 85430
 # SQL Server Transaction Log: internals
-#### [Back to calendar](#SQLSaturday-#780---Kharkiv-2018)
+#### [Back to calendar](#SQLSaturday-#780-Kharkiv-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andriy Pogorelov
 ## Title: SQL Server Transaction Log: internals
@@ -99,7 +99,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 82276
 # MS SQL 2016/2017 – New in query processing
-#### [Back to calendar](#SQLSaturday-#780---Kharkiv-2018)
+#### [Back to calendar](#SQLSaturday-#780-Kharkiv-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Andrii Zrobok
 ## Title: MS SQL 2016/2017 – New in query processing
@@ -108,7 +108,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 82329
 # Azure Data Catalog: Your enterprise information repository
-#### [Back to calendar](#SQLSaturday-#780---Kharkiv-2018)
+#### [Back to calendar](#SQLSaturday-#780-Kharkiv-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Eugene Polonichko
 ## Title: Azure Data Catalog: Your enterprise information repository
@@ -117,7 +117,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 85353
 # Сбой? Не страшен! (ru)
-#### [Back to calendar](#SQLSaturday-#780---Kharkiv-2018)
+#### [Back to calendar](#SQLSaturday-#780-Kharkiv-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Yevhen Nedashkivskyi
 ## Title: Сбой? Не страшен! (ru)
@@ -140,7 +140,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 83149
 # Analyzing 100 billion rows in 30 seconds with Google BigQuery
-#### [Back to calendar](#SQLSaturday-#780---Kharkiv-2018)
+#### [Back to calendar](#SQLSaturday-#780-Kharkiv-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Taras Kloba
 ## Title: Analyzing 100 billion rows in 30 seconds with Google BigQuery
@@ -152,7 +152,7 @@ Google BigQuery is a very unique analytics data warehousing service. BigQuery is
 #  
 #### SessionID: 84862
 # Dealing with CosmosDB
-#### [Back to calendar](#SQLSaturday-#780---Kharkiv-2018)
+#### [Back to calendar](#SQLSaturday-#780-Kharkiv-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Dealing with CosmosDB
@@ -167,7 +167,7 @@ In this presentation, you will learn:
 #  
 #### SessionID: 85742
 # MS SQL Server: XML, XQuery and Performance Issues
-#### [Back to calendar](#SQLSaturday-#780---Kharkiv-2018)
+#### [Back to calendar](#SQLSaturday-#780-Kharkiv-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Sergey Syrovatchenko
 ## Title: MS SQL Server: XML, XQuery and Performance Issues
@@ -176,7 +176,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 80816
 # Encryption in SQL Server
-#### [Back to calendar](#SQLSaturday-#780---Kharkiv-2018)
+#### [Back to calendar](#SQLSaturday-#780-Kharkiv-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: Encryption in SQL Server
@@ -185,7 +185,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 84981
 # Azure Data Factory v2: What's new?
-#### [Back to calendar](#SQLSaturday-#780---Kharkiv-2018)
+#### [Back to calendar](#SQLSaturday-#780-Kharkiv-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Polonichko
 ## Title: Azure Data Factory v2: What's new?
@@ -194,7 +194,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 85743
 # MS SQL Server: JSON
-#### [Back to calendar](#SQLSaturday-#780---Kharkiv-2018)
+#### [Back to calendar](#SQLSaturday-#780-Kharkiv-2018)
 Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Sergey Syrovatchenko
 ## Title: MS SQL Server: JSON

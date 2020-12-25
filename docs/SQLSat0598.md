@@ -29,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 57092
 # FULL DEMO - Primeros Pasos con Power BI Desktop
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Alejandro Cordero
 ## Title: FULL DEMO - Primeros Pasos con Power BI Desktop
@@ -38,7 +38,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 58144
 # Las controversias alrededor de las mejores practicas - "Best Practices" - de SQL Server en Windows
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michelle Gutzait
 ## Title: Las controversias alrededor de las mejores practicas - "Best Practices" - de SQL Server en Windows
@@ -53,7 +53,7 @@ Tambien hablaremos de como elejir la mejor configuracion para tu Windows y SQL S
 #  
 #### SessionID: 62547
 # Comparando algunas herramientas ETLs
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julián Castiblanco
 ## Title: Comparando algunas herramientas ETLs
@@ -62,7 +62,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 62779
 # De Linux a tu BI - No Slides Full Demos
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jesus Gil
 ## Title: De Linux a tu BI - No Slides Full Demos
@@ -73,7 +73,7 @@ Sin slides, solo demos, demos y más demos...
 #  
 #### SessionID: 57022
 # Como ser victima de un cyberataque y poder contar la historia
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Stephan Torres
 ## Title: Como ser victima de un cyberataque y poder contar la historia
@@ -84,7 +84,7 @@ Además, hablaremos un poco de estructuras de datos inmutables o persistentes, e
 #  
 #### SessionID: 61165
 # Let’s Get Meta: an Overview of ETL Frameworks using Biml
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kate Grass
 ## Title: Let’s Get Meta: an Overview of ETL Frameworks using Biml
@@ -97,7 +97,7 @@ To start you off on your framework building journey, we’ll introduce Biml and 
 #  
 #### SessionID: 61517
 # Creación de un Modelo Predictivo de Healthcare en Azure Machine Learning
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Patricio Cofre
 ## Title: Creación de un Modelo Predictivo de Healthcare en Azure Machine Learning
@@ -106,7 +106,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 62629
 # Cubos tabulares en SSAS 2016
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Víctor Zúñiga
 ## Title: Cubos tabulares en SSAS 2016
@@ -122,7 +122,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 56789
 # Always Encrypted y Row Level Security en SQL-Server 2016
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carlos Rojas Vargas
 ## Title: Always Encrypted y Row Level Security en SQL-Server 2016
@@ -133,7 +133,7 @@ Row-Level Security permite controlar el acceso a los registros en una tabla en b
 #  
 #### SessionID: 57144
 # Lo nuevo de power BI !!
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Juan Alvarado
 ## Title: Lo nuevo de power BI !!
@@ -142,7 +142,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 62519
 # Trucos de T-SQL que deberias estar usando en tu Datawarehouse
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: Trucos de T-SQL que deberias estar usando en tu Datawarehouse
@@ -152,7 +152,7 @@ Más específicamente cubriremos temas variados que incluyen desde configuració
 #  
 #### SessionID: 62521
 # MSSQL 2016 con Docker para agilizar el desarrollo de software
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christian Melendez
 ## Title: MSSQL 2016 con Docker para agilizar el desarrollo de software
@@ -161,7 +161,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 57586
 # Introducción a Mobile Reports
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Introducción a Mobile Reports
@@ -170,7 +170,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 62566
 # Business Intelligence 100% Cloud
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: César Oviedo
 ## Title: Business Intelligence 100% Cloud
@@ -181,7 +181,7 @@ En esta sessión discutiremos desafios, adelantos y pendientes de lo que implica
 #  
 #### SessionID: 62584
 # SQL Server 2016 SSIS Catalog
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eduardo Castro
 ## Title: SQL Server 2016 SSIS Catalog
@@ -192,7 +192,7 @@ En esta presentación demo-pesada, nos sumergiremos en los detalles del catálog
 #  
 #### SessionID: 62585
 # Mejoras en desempeño de SQL Server con SQL Sentinel
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Urena
 ## Title: Mejoras en desempeño de SQL Server con SQL Sentinel
@@ -201,7 +201,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 57188
 # Disaster Recovery Solution utlizando Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Adrian Miranda
 ## Title: Disaster Recovery Solution utlizando Microsoft Azure
@@ -210,7 +210,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 57849
 # Novedades en SQL Server 2016 Integration Services
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Novedades en SQL Server 2016 Integration Services
@@ -219,7 +219,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 62583
 # Transformando datos con R y dplyr
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose L. Rivera
 ## Title: Transformando datos con R y dplyr
@@ -228,7 +228,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 63362
 # Introduccion a SQL Power Shell
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Yanitza Campos
 ## Title: Introduccion a SQL Power Shell
@@ -237,7 +237,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 57132
 # Design an Evolutionary Database
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Keneth Murillo
 ## Title: Design an Evolutionary Database
@@ -246,7 +246,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 57613
 # DevOps y SQL Server (Visual Studio y Redgate)
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Sánchez Aguilar
 ## Title: DevOps y SQL Server (Visual Studio y Redgate)
@@ -255,7 +255,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 62766
 # Optimize your Datawarehouse with Column Store Index
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ahias Portillo
 ## Title: Optimize your Datawarehouse with Column Store Index
@@ -264,7 +264,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 63102
 # Ahora me ves... Ahora no me ves... Seguridad dinámica SSAS
-#### [Back to calendar](#SQLSaturday-#598---Costa-Rica-2017)
+#### [Back to calendar](#SQLSaturday-#598-Costa-Rica-2017)
 Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jorge García
 ## Title: Ahora me ves... Ahora no me ves... Seguridad dinámica SSAS

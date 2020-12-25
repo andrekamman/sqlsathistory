@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 48903
 # Azure SQL Database: Deployment and Development of Your First DB
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Cloud Anything
 ## Speaker: Sven Aelterman
 ## Title: Azure SQL Database: Deployment and Development of Your First DB
@@ -35,7 +35,7 @@ Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Cloud Anything
 #  
 #### SessionID: 48905
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -50,7 +50,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 48947
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: BI Platform Architecture, Development, Delivery,  Administration
 ## Speaker: Ed Watson
 ## Title: Introduction to SQL Server Integration Services
@@ -59,7 +59,7 @@ Event Date: 27-08-2016 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 48964
 # Introducing Hadoop to SQL Server Pros
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: BI Platform Architecture, Development, Delivery,  Administration
 ## Speaker: Jon Boulineau
 ## Title: Introducing Hadoop to SQL Server Pros
@@ -68,7 +68,7 @@ Event Date: 27-08-2016 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 48904
 # Azure, PowerShell, and SQL Server Virtual Machines
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Azure, PowerShell, and SQL Server Virtual Machines
@@ -77,7 +77,7 @@ Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48986
 # Microsoft Technologies for Data Science
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Mark Tabladillo
 ## Title: Microsoft Technologies for Data Science
@@ -86,7 +86,7 @@ Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 49070
 # Cloud Cloud. Cloud cloud cloud cloud cloud.....also Azure.
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Cloud Anything
 ## Speaker: Julie Smith
 ## Title: Cloud Cloud. Cloud cloud cloud cloud cloud.....also Azure.
@@ -95,7 +95,7 @@ Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Cloud Anything
 #  
 #### SessionID: 50517
 # Do Awesome Things with PowerShell in 5 minutes or Less
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Aaron Nelson
 ## Title: Do Awesome Things with PowerShell in 5 minutes or Less
@@ -108,7 +108,7 @@ Get Better, Faster, Stronger with PowerShell  SQL Server.
 #  
 #### SessionID: 48902
 # Azure SQL Database: 12 Things To Know
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Cloud Anything
 ## Speaker: Sven Aelterman
 ## Title: Azure SQL Database: 12 Things To Know
@@ -117,7 +117,7 @@ Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Cloud Anything
 #  
 #### SessionID: 48965
 # How Queries Work
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Jon Boulineau
 ## Title: How Queries Work
@@ -126,7 +126,7 @@ Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 49520
 # Pragmatic Power BI:  Working with Data Sources
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: William E Pearson III
 ## Title: Pragmatic Power BI:  Working with Data Sources
@@ -137,7 +137,7 @@ In this session, BI Architect, SQL Server MVP and Analysis Services Maestro Bill
 #  
 #### SessionID: 49707
 # Zero to Hero with PowerShell and SQL Server
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Cain
 ## Title: Zero to Hero with PowerShell and SQL Server
@@ -149,7 +149,7 @@ You'll also see how to perform developer tasks such as creating tables, insertin
 #  
 #### SessionID: 48945
 # Performance Tuning for Mere Mortals Part I
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Watson
 ## Title: Performance Tuning for Mere Mortals Part I
@@ -158,7 +158,7 @@ Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48980
 # A Quick Peek into the 4th Dimension with T-SQL
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Rodney Landrum
 ## Title: A Quick Peek into the 4th Dimension with T-SQL
@@ -167,7 +167,7 @@ Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 48990
 # Enhancing Data and Predictive Analytics with Azure HDInsight
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Cornell Emile
 ## Title: Enhancing Data and Predictive Analytics with Azure HDInsight
@@ -176,7 +176,7 @@ Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 49119
 # Using SQL to Avoid the SharePoint List Threshold
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Theresa Eller
 ## Title: Using SQL to Avoid the SharePoint List Threshold
@@ -185,7 +185,7 @@ Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 53987
 # I See What You Did There– Automating Auditing in SQL Server
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rodney Landrum
 ## Title: I See What You Did There– Automating Auditing in SQL Server
@@ -194,7 +194,7 @@ Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 48914
 # Self-Service ETL with Microsoft Power Query
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: BI Platform Architecture, Development, Delivery,  Administration
 ## Speaker: Damu Venkatesan
 ## Title: Self-Service ETL with Microsoft Power Query
@@ -203,7 +203,7 @@ Event Date: 27-08-2016 - Session time: 14:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 48927
 # Execution Plans for Mere Mortals
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
@@ -214,7 +214,7 @@ Reading execution plans becomes much less intimidating as we walk through the fl
 #  
 #### SessionID: 49046
 # APPLY Yourself
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
@@ -223,7 +223,7 @@ Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Application  Database D
 #  
 #### SessionID: 53915
 # Enterprise Machine Learning with R and SQL Server
-#### [Back to calendar](#SQLSaturday-#547---Columbus,-GA-2016)
+#### [Back to calendar](#SQLSaturday-#547-Columbus,-GA-2016)
 Event Date: 27-08-2016 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Paco Gonzalez
 ## Title: Enterprise Machine Learning with R and SQL Server

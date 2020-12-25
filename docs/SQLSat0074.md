@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28534
 # Introduction to Analysis Services
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: BI (Auditorium 1) -1102
 ## Speaker: Adam Jorgensen
 ## Title: Introduction to Analysis Services
@@ -52,7 +52,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: BI (Auditorium 1) -1102
 #  
 #### SessionID: 28711
 # Building a Professional Development Plan
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1404
 ## Speaker: Andy Warren
 ## Title: Building a Professional Development Plan
@@ -61,7 +61,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1404
 #  
 #### SessionID: 29029
 # .Net for the DBA
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1202 (Auditorium 2)
 ## Speaker: Benjamin Evans
 ## Title: .Net for the DBA
@@ -70,7 +70,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1202 (Auditorium 2)
 #  
 #### SessionID: 29072
 # Iron Chef Jacksonville BI Edition
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: BI (Auditorium 1) -1102
 ## Speaker: Brian Knight
 ## Title: Iron Chef Jacksonville BI Edition
@@ -79,7 +79,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: BI (Auditorium 1) -1102
 #  
 #### SessionID: 29073
 # Data Mining 101
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1400
 ## Speaker: Brian Knight
 ## Title: Data Mining 101
@@ -88,7 +88,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1400
 #  
 #### SessionID: 29097
 # Reporting Services Deep Dive
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1202 (Auditorium 2)
 ## Speaker: Brian K McDonald
 ## Title: Reporting Services Deep Dive
@@ -101,7 +101,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1202 (Auditorium 2)
 #  
 #### SessionID: 29139
 # Page and Row Compression How, Why, and When
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1406
 ## Speaker: Bradley Ball
 ## Title: Page and Row Compression How, Why, and When
@@ -110,7 +110,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1406
 #  
 #### SessionID: 29327
 # Introduction To SSIS
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: BI (Auditorium 1) -1102
 ## Speaker: Bradley Schacht
 ## Title: Introduction To SSIS
@@ -119,7 +119,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: BI (Auditorium 1) -1102
 #  
 #### SessionID: 29347
 # Designing a Data Recovery (and Backup) Solution
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1402
 ## Speaker: Brandie Tarvin
 ## Title: Designing a Data Recovery (and Backup) Solution
@@ -128,7 +128,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1402
 #  
 #### SessionID: 29372
 # Business Intelligence: Around the Horn
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1402
 ## Speaker: Chris Albrektson
 ## Title: Business Intelligence: Around the Horn
@@ -137,7 +137,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1402
 #  
 #### SessionID: 29723
 # Multisite Clusters for HA and Disaster Recovery
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1402
 ## Speaker: David Bermingham
 ## Title: Multisite Clusters for HA and Disaster Recovery
@@ -146,7 +146,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1402
 #  
 #### SessionID: 29805
 # SQL CE 4.0 for Prototyping
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1406
 ## Speaker: David Fekke
 ## Title: SQL CE 4.0 for Prototyping
@@ -155,7 +155,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1406
 #  
 #### SessionID: 29818
 # What is this Cache and why is it so big?
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1402
 ## Speaker: Douglas Brendle
 ## Title: What is this Cache and why is it so big?
@@ -167,7 +167,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1402
 #  
 #### SessionID: 29858
 # Implementing auditing in SQL Server
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1404
 ## Speaker: David Dye
 ## Title: Implementing auditing in SQL Server
@@ -177,7 +177,7 @@ SQL Audit provides the ability to track and log activities and changes at the in
 #  
 #### SessionID: 29907
 # Accelerating BI Development with BIxPress
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: BI (Auditorium 1) -1102
 ## Speaker: Donny Johns
 ## Title: Accelerating BI Development with BIxPress
@@ -186,7 +186,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: BI (Auditorium 1) -1102
 #  
 #### SessionID: 29918
 # Adopt, Discover and Improve
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1404
 ## Speaker: Dmitri Korotkevitch
 ## Title: Adopt, Discover and Improve
@@ -200,7 +200,7 @@ The session is targeted to both DBAs and Developers who want to become familiar 
 #  
 #### SessionID: 29950
 # The Fundamentals of DBA-ism
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1202 (Auditorium 2)
 ## Speaker: Don Stevic
 ## Title: The Fundamentals of DBA-ism
@@ -209,7 +209,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1202 (Auditorium 2)
 #  
 #### SessionID: 30146
 # SSIS - Data Flow Buffer Breakdown
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1400
 ## Speaker: Eric Wisdahl
 ## Title: SSIS - Data Flow Buffer Breakdown
@@ -218,7 +218,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1400
 #  
 #### SessionID: 30624
 # What's new in Denali for SSIS, SSAS and SSRS 
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: BI (Auditorium 1) -1102
 ## Speaker: Jose Chinchilla
 ## Title: What's new in Denali for SSIS, SSAS and SSRS 
@@ -227,7 +227,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: BI (Auditorium 1) -1102
 #  
 #### SessionID: 30870
 # SSIS: Lookup Between the Lines
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1400
 ## Speaker: James McAuliffe
 ## Title: SSIS: Lookup Between the Lines
@@ -239,7 +239,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1400
 #  
 #### SessionID: 30976
 # Tuning Analysis Services Processing Performance
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1404
 ## Speaker: John Welch
 ## Title: Tuning Analysis Services Processing Performance
@@ -248,7 +248,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1404
 #  
 #### SessionID: 31011
 # SSIS Programmatically 
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1404
 ## Speaker: Jorge Novo
 ## Title: SSIS Programmatically 
@@ -259,7 +259,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1404
 #  
 #### SessionID: 31273
 # DR Availability,You're Wanted in the Recovery Room
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1406
 ## Speaker: Kendal Van Dyke
 ## Title: DR Availability,You're Wanted in the Recovery Room
@@ -268,7 +268,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1406
 #  
 #### SessionID: 31439
 # Introduction to MDX
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1202 (Auditorium 2)
 ## Speaker: Devin Knight
 ## Title: Introduction to MDX
@@ -277,7 +277,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1202 (Auditorium 2)
 #  
 #### SessionID: 31481
 # Taking SSIS to the Next Level
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: BI (Auditorium 1) -1102
 ## Speaker: Kyle Walker
 ## Title: Taking SSIS to the Next Level
@@ -286,7 +286,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: BI (Auditorium 1) -1102
 #  
 #### SessionID: 31661
 # Introduction to Business Intelligence
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: BI (Auditorium 1) -1102
 ## Speaker: Mike Davis
 ## Title: Introduction to Business Intelligence
@@ -295,7 +295,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: BI (Auditorium 1) -1102
 #  
 #### SessionID: 31815
 # Introduction to PowerPivot for Excel 
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1400
 ## Speaker: Michael Antonovich
 ## Title: Introduction to PowerPivot for Excel 
@@ -308,7 +308,7 @@ This session focuses on the basics of how to use PowerPivot with Excel to create
 #  
 #### SessionID: 31967
 # Sql trivia
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1402
 ## Speaker: Michael Mollenhour
 ## Title: Sql trivia
@@ -320,7 +320,7 @@ BS. Don't miss the chance to be crowned the sql trivia geek.
 #  
 #### SessionID: 32239
 # T-SQL Enhancements in Denali
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1202 (Auditorium 2)
 ## Speaker: Plamen Ratchev
 ## Title: T-SQL Enhancements in Denali
@@ -329,7 +329,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1202 (Auditorium 2)
 #  
 #### SessionID: 32650
 # BI dashboards with OLAP formulas, and Share Point
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1400
 ## Speaker: Phillip E Rosen
 ## Title: BI dashboards with OLAP formulas, and Share Point
@@ -343,7 +343,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1400
 #  
 #### SessionID: 32907
 # Creating Your First Dashboard in SSRS
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1402
 ## Speaker: Shawn Harrison
 ## Title: Creating Your First Dashboard in SSRS
@@ -352,7 +352,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1402
 #  
 #### SessionID: 33121
 # SQL Server 2008 Installation Best Practices
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1406
 ## Speaker: Scott Gleason
 ## Title: SQL Server 2008 Installation Best Practices
@@ -361,7 +361,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1406
 #  
 #### SessionID: 33318
 # How to build your brand
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1202 (Auditorium 2)
 ## Speaker: Tom  Brenneman
 ## Title: How to build your brand
@@ -371,7 +371,7 @@ This session will provide tips to help build up your existing brand or land the 
 #  
 #### SessionID: 33371
 # Introduction to Transactional Replication
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1404
 ## Speaker: Troy Gallant
 ## Title: Introduction to Transactional Replication
@@ -380,7 +380,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1404
 #  
 #### SessionID: 33442
 # SQL Injection
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1202 (Auditorium 2)
 ## Speaker: Kevin Boles
 ## Title: SQL Injection
@@ -389,7 +389,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1202 (Auditorium 2)
 #  
 #### SessionID: 33445
 # Advanced TSQL Solutions
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1406
 ## Speaker: Kevin Boles
 ## Title: Advanced TSQL Solutions
@@ -398,7 +398,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1406
 #  
 #### SessionID: 33605
 # You inherited a database, now what?
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1406
 ## Speaker: Tim Radney
 ## Title: You inherited a database, now what?
@@ -407,7 +407,7 @@ Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1406
 #  
 #### SessionID: 33811
 # Data Mining Addin in Excel
-#### [Back to calendar](#SQLSaturday-#74---Jacksonville-2011)
+#### [Back to calendar](#SQLSaturday-#74-Jacksonville-2011)
 Event Date: 30-04-2011 - Session time: 00:00:00 - Track: 1400
 ## Speaker: VIKAS HAWALDAR HAWALDAR
 ## Title: Data Mining Addin in Excel

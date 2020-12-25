@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11140
 # Data Visualization with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Chaitanya Khaladkar
 ## Title: Data Visualization with SQL Server 2012
@@ -37,7 +37,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 12508
 # How to Argue with Your Infrastructure Admins – and Win
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: David Klee
 ## Title: How to Argue with Your Infrastructure Admins – and Win
@@ -46,7 +46,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 12509
 # SQL Server Virtualization 101
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: David Klee
 ## Title: SQL Server Virtualization 101
@@ -55,7 +55,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 13244
 # Reporting for SQL Health
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Dennis  Graham
 ## Title: Reporting for SQL Health
@@ -64,7 +64,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 13590
 # That's Not in My Job Description: The Accidental Developer
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Dave Tigges
 ## Title: That's Not in My Job Description: The Accidental Developer
@@ -73,7 +73,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 13675
 # SQL Server Features That Will Blow Your Mind!
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Ed Leighton-Dick
 ## Title: SQL Server Features That Will Blow Your Mind!
@@ -82,7 +82,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 15556
 # PowerShell and SQLPSX the Dynamic Duo for the DBA
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Jim Dorame
 ## Title: PowerShell and SQLPSX the Dynamic Duo for the DBA
@@ -91,7 +91,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 15978
 # Managing SQL Server Performance with Extended Events
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Jason Strate
 ## Title: Managing SQL Server Performance with Extended Events
@@ -100,7 +100,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 16830
 # Add SSIS to the developer tool belt without adding to the DBA’s work load Part 1 (for the DBA)
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: James Borland
 ## Title: Add SSIS to the developer tool belt without adding to the DBA’s work load Part 1 (for the DBA)
@@ -109,7 +109,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 16831
 # Add SSIS to the developer tool belt without adding to the DBA’s work load Part 2 (for the developer)
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: James Borland
 ## Title: Add SSIS to the developer tool belt without adding to the DBA’s work load Part 2 (for the developer)
@@ -118,7 +118,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 17252
 # 10 Things Every DBA Should Know!
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: John Morehouse
 ## Title: 10 Things Every DBA Should Know!
@@ -127,7 +127,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 18388
 # Implement a Dynamic Table Partitioning Solution
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kirby Richter
 ## Title: Implement a Dynamic Table Partitioning Solution
@@ -136,7 +136,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 18855
 # The Curious Case of Isolation Levels
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Keith Tate
 ## Title: The Curious Case of Isolation Levels
@@ -145,7 +145,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 18964
 # Yesterday I Couldn’t Even Spell ‘DBA’.
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Larry Toothman
 ## Title: Yesterday I Couldn’t Even Spell ‘DBA’.
@@ -154,7 +154,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 20653
 # Recovery that May or May Not have a Wizard
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Mike Hays
 ## Title: Recovery that May or May Not have a Wizard
@@ -163,7 +163,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 21137
 # Mission Critical Confidence – (SQL 2012/2014 AlwaysOn) and Availability Groups
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Mark Skiles
 ## Title: Mission Critical Confidence – (SQL 2012/2014 AlwaysOn) and Availability Groups
@@ -172,7 +172,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 22396
 # Scary Things A Database Owner Can Do
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Paul Timmerman
 ## Title: Scary Things A Database Owner Can Do
@@ -181,7 +181,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 24592
 # Designing a Restore Strategy
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Frank Gill
 ## Title: Designing a Restore Strategy
@@ -190,7 +190,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 24962
 # Microsoft Azure SQL Database for the DBA
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: MIKE DONNELLY
 ## Title: Microsoft Azure SQL Database for the DBA
@@ -199,7 +199,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 26383
 # Indexing Deep Dive
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Kevin Boles
 ## Title: Indexing Deep Dive
@@ -208,7 +208,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 26384
 # SQL Server 2014 New Features
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2014 New Features
@@ -217,7 +217,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 28120
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
@@ -226,7 +226,7 @@ Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 9607
 # Are You Maintaining Your SQL Servers?
-#### [Back to calendar](#SQLSaturday-#307---Iowa-City-2014)
+#### [Back to calendar](#SQLSaturday-#307-Iowa-City-2014)
 Event Date: 07-06-2014 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Andy Galbraith
 ## Title: Are You Maintaining Your SQL Servers?

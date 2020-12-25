@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 100891
 # Azure Data Factory 101
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Anandi Subramanian
 ## Title: Azure Data Factory 101
@@ -45,7 +45,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 102148
 # Data Visualization Tools For Entrepreneurs
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Sekou Tyler
 ## Title: Data Visualization Tools For Entrepreneurs
@@ -54,7 +54,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 98049
 # Everything I Needed to Know About Dashboarding I Learned From World of Warcraft
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Adrian Owen
 ## Title: Everything I Needed to Know About Dashboarding I Learned From World of Warcraft
@@ -63,7 +63,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 98503
 # Data Science 101: An Introduction to Data Science Using Python
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Ganesh Lohani
 ## Title: Data Science 101: An Introduction to Data Science Using Python
@@ -72,7 +72,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 99756
 # Power BI dataflows and How to Leverage for Data Science
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Jamey Johnston
 ## Title: Power BI dataflows and How to Leverage for Data Science
@@ -85,7 +85,7 @@ This session will use real data and analytics to demonstrate Power BI dataflows,
 #  
 #### SessionID: 100625
 # Creating Data Tools and Products at the LDH Office of Public Health
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Lee Mendoza
 ## Title: Creating Data Tools and Products at the LDH Office of Public Health
@@ -94,7 +94,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 100636
 # Taking Your Dashboard From Good To Great
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Ed Witherington
 ## Title: Taking Your Dashboard From Good To Great
@@ -105,7 +105,7 @@ This talk will look at best practices for which types of visuals to use, as well
 #  
 #### SessionID: 100733
 # Snowflake: Design Patterns  Data Integration for a Modern Cloud Warehouse
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael Treadwell
 ## Title: Snowflake: Design Patterns  Data Integration for a Modern Cloud Warehouse
@@ -114,7 +114,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 99459
 # A Perfect Ten: The Data Model
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: A Perfect Ten: The Data Model
@@ -123,7 +123,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 99850
 # Data Engineering Brick-by-Brick: An Introduction To Azure Databricks
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: Data Engineering Brick-by-Brick: An Introduction To Azure Databricks
@@ -134,7 +134,7 @@ Azure Databricks provides a cloud-based Apache Spark environment that can be sca
 #  
 #### SessionID: 99851
 # Python in SQL Server 2017 and 2019
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017 and 2019
@@ -145,7 +145,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #  
 #### SessionID: 103770
 # Pure Storage (Sponsor)
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Other
 ## Speaker: Thomas LeBlanc
 ## Title: Pure Storage (Sponsor)
@@ -154,7 +154,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Other
 #  
 #### SessionID: 103775
 # Safety Alliance Council (Sponsor)
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Other
 ## Speaker: Balaji Nedurumalli
 ## Title: Safety Alliance Council (Sponsor)
@@ -163,7 +163,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Other
 #  
 #### SessionID: 104069
 # A Data Journey for an Analytics Company
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Other
 ## Speaker: Jennifer Gartner
 ## Title: A Data Journey for an Analytics Company
@@ -172,7 +172,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Other
 #  
 #### SessionID: 104125
 # 2020 Regional Trends in Business Intelligence  Analytics
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Other
 ## Speaker: Rusty Frioux
 ## Title: 2020 Regional Trends in Business Intelligence  Analytics
@@ -181,7 +181,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Other
 #  
 #### SessionID: 104134
 # SQL and Pure Storage - Like Peanut Butter and Chocolate (With Prizes!)
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Eric Nail
 ## Title: SQL and Pure Storage - Like Peanut Butter and Chocolate (With Prizes!)
@@ -190,7 +190,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 100318
 # Enabling Real Time Analytics through Azure
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Pearson
 ## Title: Enabling Real Time Analytics through Azure
@@ -203,7 +203,7 @@ My presentation will walk through an end-to-end solution – from data acquisiti
 #  
 #### SessionID: 100719
 # Tableau eye for the PowerBI guy
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Tim Costello
 ## Title: Tableau eye for the PowerBI guy
@@ -212,7 +212,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 101346
 # Power BI Time Intelligence - Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bill Anton
 ## Title: Power BI Time Intelligence - Beyond the Basics
@@ -221,7 +221,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 99460
 # Building a Strong Foundation for Data Analysis
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: Building a Strong Foundation for Data Analysis
@@ -230,7 +230,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 99486
 # Classification With Naive Bayes
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Artificial Intelligence
 ## Speaker: Kevin Feasel
 ## Title: Classification With Naive Bayes
@@ -239,7 +239,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Artificial Intelligence
 #  
 #### SessionID: 104110
 # Five Key Trends in Business Intelligence
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Treb Gatte
 ## Title: Five Key Trends in Business Intelligence
@@ -248,7 +248,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 104136
 # How to build an analytics team
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Business Analytic Cases
 ## Speaker: Tim Costello
 ## Title: How to build an analytics team
@@ -257,7 +257,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Business Analytic Cases
 #  
 #### SessionID: 98109
 # Careers in Business Intelligence Panel
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: William Assaf
 ## Title: Careers in Business Intelligence Panel
@@ -266,7 +266,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 98797
 # Troubleshooting PowerBI Performance Problems
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan Szepesi
 ## Title: Troubleshooting PowerBI Performance Problems
@@ -277,7 +277,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 99489
 # Launching a Data Science Project:  Cleaning is Half the Battle
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Launching a Data Science Project:  Cleaning is Half the Battle
@@ -286,7 +286,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 100687
 # Ethics in Data
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Business Analytic Cases
 ## Speaker: William Assaf
 ## Title: Ethics in Data
@@ -295,7 +295,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Business Analytic Cases
 #  
 #### SessionID: 101047
 # Enterprise PowerBI for large organizations
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Rusty Frioux
 ## Title: Enterprise PowerBI for large organizations
@@ -304,7 +304,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 101076
 # Best Practices in Dashboard Design: Designing with your end user in mind.
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Michelle Gaudette
 ## Title: Best Practices in Dashboard Design: Designing with your end user in mind.
@@ -313,7 +313,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 101761
 # How to mine data in SharePoint easily, using Power BI
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Treb Gatte
 ## Title: How to mine data in SharePoint easily, using Power BI
@@ -322,7 +322,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 99753
 # Code Like a Snake Charmer – Advanced Data Modeling in Python!
-#### [Back to calendar](#SQLSaturday-#929---Baton-Rouge---BI-Edition-2020)
+#### [Back to calendar](#SQLSaturday-#929-Baton-Rouge-BI-Edition-2020)
 Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Machine Learning
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Snake Charmer – Advanced Data Modeling in Python!

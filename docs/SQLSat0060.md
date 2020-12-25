@@ -41,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28441
 # T-SQL : Bad Habits to Kick
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 314
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits to Kick
@@ -50,7 +50,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 314
 #  
 #### SessionID: 28443
 # What's new in SQL Server 2011 ("Denali")?
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 330
 ## Speaker: Aaron Bertrand
 ## Title: What's new in SQL Server 2011 ("Denali")?
@@ -59,7 +59,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 330
 #  
 #### SessionID: 28461
 # Introduction to SQL Server Spatial Data
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 325
 ## Speaker: Michael Coles
 ## Title: Introduction to SQL Server Spatial Data
@@ -68,7 +68,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 325
 #  
 #### SessionID: 28462
 # Build Your Own Search Engine With SQL Server
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 314
 ## Speaker: Michael Coles
 ## Title: Build Your Own Search Engine With SQL Server
@@ -78,7 +78,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 314
 #  
 #### SessionID: 28908
 # Gather SQL Server Performance Data with PowerShell
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 313
 ## Speaker: Allen White
 ## Title: Gather SQL Server Performance Data with PowerShell
@@ -87,7 +87,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 313
 #  
 #### SessionID: 29452
 # Writing faster queries
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 314
 ## Speaker: Tim Chapman
 ## Title: Writing faster queries
@@ -96,7 +96,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 314
 #  
 #### SessionID: 29486
 # Part 1 - Introduction to Change Data Capture
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 315
 ## Speaker: Chris Skorlinski
 ## Title: Part 1 - Introduction to Change Data Capture
@@ -106,7 +106,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 315
 #  
 #### SessionID: 29487
 # Part 2- Integrating CDC with SSIS
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 315
 ## Speaker: Chris Skorlinski
 ## Title: Part 2- Integrating CDC with SSIS
@@ -116,7 +116,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 315
 #  
 #### SessionID: 29654
 # Database Mirroring in the Real World
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 330
 ## Speaker: Craig Purnell
 ## Title: Database Mirroring in the Real World
@@ -126,7 +126,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 330
 #  
 #### SessionID: 29677
 # Excel 2010: everyman's OLAP client just got better
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 329
 ## Speaker: Deepak Puri
 ## Title: Excel 2010: everyman's OLAP client just got better
@@ -136,7 +136,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 329
 #  
 #### SessionID: 30084
 # Who's responsible? The vendor or the DBA?
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 313
 ## Speaker: Erin Stellato
 ## Title: Who's responsible? The vendor or the DBA?
@@ -145,7 +145,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 313
 #  
 #### SessionID: 30085
 # Baselines first, troubleshooting second
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 313
 ## Speaker: Erin Stellato
 ## Title: Baselines first, troubleshooting second
@@ -154,7 +154,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 313
 #  
 #### SessionID: 30094
 # Troubleshooting SSRS Performance Issues 
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 315
 ## Speaker: Evan Basalik
 ## Title: Troubleshooting SSRS Performance Issues 
@@ -163,7 +163,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 315
 #  
 #### SessionID: 30165
 # Drive SQL Server Performance: I/O For Developers
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 325
 ## Speaker: Eddie Wuerch
 ## Title: Drive SQL Server Performance: I/O For Developers
@@ -173,7 +173,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 325
 #  
 #### SessionID: 30264
 # Gathering and Interpreting Performance Metrics
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 330
 ## Speaker: Grant Fritchey
 ## Title: Gathering and Interpreting Performance Metrics
@@ -182,7 +182,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 330
 #  
 #### SessionID: 30397
 # (SSIS, TSQL and MDS) - Record Linkage(Fuzzy Match)
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 315
 ## Speaker: Ira Warren
 ## Title: (SSIS, TSQL and MDS) - Record Linkage(Fuzzy Match)
@@ -191,7 +191,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 315
 #  
 #### SessionID: 30556
 # The "Tally" Table  High Speed "Pseudo Cursors"
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 314
 ## Speaker: Jeff Moden
 ## Title: The "Tally" Table  High Speed "Pseudo Cursors"
@@ -200,7 +200,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 314
 #  
 #### SessionID: 30655
 # Using SQL Azure in an SSMS Addin
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 314
 ## Speaker: Jeff Mlakar
 ## Title: Using SQL Azure in an SSMS Addin
@@ -209,7 +209,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 314
 #  
 #### SessionID: 30738
 # Fundamentals of SQL Server Internals
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 313
 ## Speaker: Jeremiah Peschka
 ## Title: Fundamentals of SQL Server Internals
@@ -218,7 +218,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 313
 #  
 #### SessionID: 30740
 # Modeling Muddy Data
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 325
 ## Speaker: Jeremiah Peschka
 ## Title: Modeling Muddy Data
@@ -227,7 +227,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 325
 #  
 #### SessionID: 30807
 # Analysis Services Troubleshooting and Optimization
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 329
 ## Speaker: Joe  Fedak
 ## Title: Analysis Services Troubleshooting and Optimization
@@ -236,7 +236,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 329
 #  
 #### SessionID: 30896
 # Encryption in SQL Server
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 314
 ## Speaker: Joe Kuemerle
 ## Title: Encryption in SQL Server
@@ -246,7 +246,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 314
 #  
 #### SessionID: 30898
 # Technical Professionals….Are We Just a Commodity?
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 313
 ## Speaker: Joe Kuemerle
 ## Title: Technical Professionals….Are We Just a Commodity?
@@ -256,7 +256,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 313
 #  
 #### SessionID: 31188
 # Database Design Contentious Issues
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 325
 ## Speaker: Karen Lopez
 ## Title: Database Design Contentious Issues
@@ -265,7 +265,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 325
 #  
 #### SessionID: 31504
 # Table Partitioning: Evaluation, Planning, Options
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 330
 ## Speaker: Kendra Little
 ## Title: Table Partitioning: Evaluation, Planning, Options
@@ -274,7 +274,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 330
 #  
 #### SessionID: 31505
 # (NOLOCK) FOR YESFUN: Games with Isolation Levels
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 325
 ## Speaker: Kendra Little
 ## Title: (NOLOCK) FOR YESFUN: Games with Isolation Levels
@@ -283,7 +283,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 325
 #  
 #### SessionID: 32040
 # As a DBA, Where Do I Start?!
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 330
 ## Speaker: Mike Walsh
 ## Title: As a DBA, Where Do I Start?!
@@ -292,7 +292,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 330
 #  
 #### SessionID: 32226
 # Take Your Automation Script to the Next Level
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 313
 ## Speaker: Paul Hiles
 ## Title: Take Your Automation Script to the Next Level
@@ -302,7 +302,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 313
 #  
 #### SessionID: 32452
 # Service Broker...What's That  How Do I Use It?
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 325
 ## Speaker: Brian Davis
 ## Title: Service Broker...What's That  How Do I Use It?
@@ -311,7 +311,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 325
 #  
 #### SessionID: 32553
 # PowerPivot:  BI  Massive Data Analysis for Humans
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 329
 ## Speaker: Rob Collie
 ## Title: PowerPivot:  BI  Massive Data Analysis for Humans
@@ -324,7 +324,7 @@ I will explain how PowerPivot impacts  benefits you depending on role (analyst, 
 #  
 #### SessionID: 32751
 # Programming with FileStreams
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 329
 ## Speaker: Sam Nasr
 ## Title: Programming with FileStreams
@@ -334,7 +334,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 329
 #  
 #### SessionID: 32752
 # BI Development
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 329
 ## Speaker: Sam Nasr
 ## Title: BI Development
@@ -343,7 +343,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 329
 #  
 #### SessionID: 32757
 # Developing Date and Role-Playing Dimensions 
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 329
 ## Speaker: Sandra Mueller
 ## Title: Developing Date and Role-Playing Dimensions 
@@ -353,7 +353,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 329
 #  
 #### SessionID: 32945
 # The Modern Resume - Building Your Brand
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 315
 ## Speaker: Steve Jones
 ## Title: The Modern Resume - Building Your Brand
@@ -362,7 +362,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 315
 #  
 #### SessionID: 33069
 # Waits and Queues and YOU!
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 330
 ## Speaker: Thomas LaRock
 ## Title: Waits and Queues and YOU!
@@ -371,7 +371,7 @@ Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 330
 #  
 #### SessionID: 33947
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#60---Cleveland-2011)
+#### [Back to calendar](#SQLSaturday-#60-Cleveland-2011)
 Event Date: 05-02-2011 - Session time: 00:00:00 - Track: Room 315
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX

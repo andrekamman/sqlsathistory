@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 103017
 # Automation for the DBA: Embrace your inner sloth
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
 ## Speaker: William Durkin
 ## Title: Automation for the DBA: Embrace your inner sloth
@@ -43,7 +43,7 @@ Along the way we will see that we can benefit from the wide world of automation 
 #  
 #### SessionID: 98717
 # Introducing SQL Server 2019 Big Data Clusters
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture, Application  Database Development
 ## Speaker: Ben Weissman
 ## Title: Introducing SQL Server 2019 Big Data Clusters
@@ -56,7 +56,7 @@ In this session, you'll get an overview of the architecture as well as the capab
 #  
 #### SessionID: 98941
 # How to use DAX  SQL in PowerBI?
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
 ## Speaker: Yana Berkovich
 ## Title: How to use DAX  SQL in PowerBI?
@@ -66,7 +66,7 @@ PowerBI world. Detailed explanation for what goes where, how to connect, what is
 #  
 #### SessionID: 99073
 # Data Privacy, Security, Ethics and Compliance in a Data-Driven World
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture, Application  Database Development
 ## Speaker: Martin Catherall
 ## Title: Data Privacy, Security, Ethics and Compliance in a Data-Driven World
@@ -78,7 +78,7 @@ This session will take a close look at some of these challenges and the tools th
 #  
 #### SessionID: 99190
 # Revealing the many Azure ML development and release processes
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: AI, Data Science, Machine Learning  IoT
 ## Speaker: Ginger Grant
 ## Title: Revealing the many Azure ML development and release processes
@@ -88,7 +88,7 @@ AML Studio, Workspace and Pipelines are different products which you can use to 
 #  
 #### SessionID: 99902
 # Azure Data Studio - The New Frontier
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
 ## Speaker: Warwick Rudd
 ## Title: Azure Data Studio - The New Frontier
@@ -99,7 +99,7 @@ In this demo heavy, introductory session we will introduce you to ADS, discuss i
 #  
 #### SessionID: 103018
 # Azure Cognitive Services using containers
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: AI, Data Science, Machine Learning  IoT
 ## Speaker: Raju RH
 ## Title: Azure Cognitive Services using containers
@@ -112,7 +112,7 @@ In this talk, we’ll explore what it takes to configure and use containers supp
 #  
 #### SessionID: 96471
 # Analyze and solve common wait stats scenarios
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
 ## Speaker: Uwe Ricken
 ## Title: Analyze and solve common wait stats scenarios
@@ -126,7 +126,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administr
 #  
 #### SessionID: 98519
 # Indexes: Under the Hood
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
 ## Speaker: Shane Welgama
 ## Title: Indexes: Under the Hood
@@ -135,7 +135,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administr
 #  
 #### SessionID: 99081
 # Empower your Business Apps with Artificial Intelligence (Azure Cognitive Services)
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: AI, Data Science, Machine Learning  IoT
 ## Speaker: Indira Bandari
 ## Title: Empower your Business Apps with Artificial Intelligence (Azure Cognitive Services)
@@ -151,7 +151,7 @@ How to use Cognitive Services APIs ?
 #  
 #### SessionID: 99222
 # PowerApps and Flow Best Practices – Working with Data
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture, Application  Database Development
 ## Speaker: Manohar Punna
 ## Title: PowerApps and Flow Best Practices – Working with Data
@@ -165,7 +165,7 @@ Demos:
 #  
 #### SessionID: 99978
 # From AI to BI, how to do it all in Azure Synapse Analytics
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, Analytics  Visualization
 ## Speaker: Akanksha Malik
 ## Title: From AI to BI, how to do it all in Azure Synapse Analytics
@@ -176,7 +176,7 @@ Join me in a session to walk through what an end to end solution might look like
 #  
 #### SessionID: 98407
 # Back to the Future: Accelerating the Cloud Migration of Legacy SSIS with Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, Analytics  Visualization
 ## Speaker: Sandy Winarko
 ## Title: Back to the Future: Accelerating the Cloud Migration of Legacy SSIS with Azure Data Factory
@@ -185,7 +185,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, 
 #  
 #### SessionID: 98495
 # Azure SQL Database Serveless  Hyperscale
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
 ## Speaker: Pio Balistoy
 ## Title: Azure SQL Database Serveless  Hyperscale
@@ -194,7 +194,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administr
 #  
 #### SessionID: 99066
 # How to Deploy SQL Server Containers on Kubernetes in Azure
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: DevOps, PowerShell, Containers, Infrastructure, Security  Deployment
 ## Speaker: Hamish Watson
 ## Title: How to Deploy SQL Server Containers on Kubernetes in Azure
@@ -209,7 +209,7 @@ This session will show you the exciting future of SQL Server and you will walk a
 #  
 #### SessionID: 99631
 # Introduction to Dimensional Modeling for the Excel/Power BI Pro
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, Analytics  Visualization
 ## Speaker: Ken Puls
 ## Title: Introduction to Dimensional Modeling for the Excel/Power BI Pro
@@ -219,7 +219,7 @@ In this session we will look at understanding the benefits of dimensional modeli
 #  
 #### SessionID: 103594
 # Troubleshooting DAX
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, Analytics  Visualization
 ## Speaker: Phillip Seamark
 ## Title: Troubleshooting DAX
@@ -228,7 +228,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, 
 #  
 #### SessionID: 96613
 # Manage data to the ledger using Azure Blockchain as Service
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture, Application  Database Development
 ## Speaker: Mohammad Asif Waquar
 ## Title: Manage data to the ledger using Azure Blockchain as Service
@@ -237,7 +237,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture,
 #  
 #### SessionID: 98277
 # Survival Techniques for Lone DBA
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture, Application  Database Development
 ## Speaker: Tejaswi Datla
 ## Title: Survival Techniques for Lone DBA
@@ -246,7 +246,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture,
 #  
 #### SessionID: 98560
 # ETL best practices on Azure using Data Factory
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture, Application  Database Development
 ## Speaker: Abhishek Narain
 ## Title: ETL best practices on Azure using Data Factory
@@ -256,7 +256,7 @@ In this session, we will talk about design patterns for building scalable data p
 #  
 #### SessionID: 98877
 # Composites models and Aggregations in Power BI. What, When and How?
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, Analytics  Visualization
 ## Speaker: Asanka Padmakumara
 ## Title: Composites models and Aggregations in Power BI. What, When and How?
@@ -265,7 +265,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, 
 #  
 #### SessionID: 99206
 # Modern Enterprise BI in Azure
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, Analytics  Visualization
 ## Speaker: Craig Bryden
 ## Title: Modern Enterprise BI in Azure
@@ -279,7 +279,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, 
 #  
 #### SessionID: 96746
 # Developing Cosmos DB for the Enterprise
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture, Application  Database Development
 ## Speaker: Will Velida
 ## Title: Developing Cosmos DB for the Enterprise
@@ -292,7 +292,7 @@ By the end of this session, you should be able to take these learnings and apply
 #  
 #### SessionID: 99203
 # Can you trust the intelligence of Application tracking systems with your CV?
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: AI, Data Science, Machine Learning  IoT
 ## Speaker: Ondrej Aubrecht
 ## Title: Can you trust the intelligence of Application tracking systems with your CV?
@@ -308,7 +308,7 @@ Come along to this session and find out more about REAL DATA analysis and scanni
 #  
 #### SessionID: 99285
 # Security considerations for Azure SQL
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture, Application  Database Development
 ## Speaker: Mian Zahid Yaqub
 ## Title: Security considerations for Azure SQL
@@ -322,7 +322,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture,
 #  
 #### SessionID: 99557
 # Get Comfortable with Query tuning and Execution Plans
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
 ## Speaker: Patrick Flynn
 ## Title: Get Comfortable with Query tuning and Execution Plans
@@ -342,7 +342,7 @@ This session will assume a basic knowledge of T-SQL and execution plans.
 #  
 #### SessionID: 99910
 # Visualising Complex Customer Journeys
-#### [Back to calendar](#SQLSaturday-#922---Wellington-2020)
+#### [Back to calendar](#SQLSaturday-#922-Wellington-2020)
 Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, Analytics  Visualization
 ## Speaker: Emily Dinsdale
 ## Title: Visualising Complex Customer Journeys

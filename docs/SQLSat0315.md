@@ -38,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10065
 # Manage SQLServer Efficiently w/PowerShell Remoting
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 501
 ## Speaker: Allen White
 ## Title: Manage SQLServer Efficiently w/PowerShell Remoting
@@ -47,7 +47,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 501
 #  
 #### SessionID: 10188
 # Basics of SQL querying
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Wanna Be A DBA?
 ## Speaker: Brandi Dollar
 ## Title: Basics of SQL querying
@@ -56,7 +56,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Wanna Be A DBA?
 #  
 #### SessionID: 11210
 # "I Know What You Did Last Query" --SQL Server
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 508
 ## Speaker: Carlos L Chacon
 ## Title: "I Know What You Did Last Query" --SQL Server
@@ -65,7 +65,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 508
 #  
 #### SessionID: 11276
 # Optimizing Protected Indexes
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 512
 ## Speaker: Chris Bell
 ## Title: Optimizing Protected Indexes
@@ -74,7 +74,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 512
 #  
 #### SessionID: 12452
 # Using Non-Traditional Data Stores in Your Applications
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 501
 ## Speaker: David Hoerster
 ## Title: Using Non-Traditional Data Stores in Your Applications
@@ -83,7 +83,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 501
 #  
 #### SessionID: 16061
 # Hierarchies on Steroids... the No RBAR Way
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 508
 ## Speaker: Jeff Moden
 ## Title: Hierarchies on Steroids... the No RBAR Way
@@ -92,7 +92,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 508
 #  
 #### SessionID: 16063
 # The Tally Table and Pseudo-Cursors - High Performance Replacements for Loops
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 501
 ## Speaker: Jeff Moden
 ## Title: The Tally Table and Pseudo-Cursors - High Performance Replacements for Loops
@@ -101,7 +101,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 501
 #  
 #### SessionID: 17312
 # Introduction to Windows Azure HDInsight
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 508
 ## Speaker: Jon Tupitza
 ## Title: Introduction to Windows Azure HDInsight
@@ -110,7 +110,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 508
 #  
 #### SessionID: 18133
 # Basics of Administrating SQL Server
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Wanna Be A DBA?
 ## Speaker: Jeremy Christy
 ## Title: Basics of Administrating SQL Server
@@ -120,7 +120,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Wanna Be A DBA?
 #  
 #### SessionID: 18374
 # SQL Server 2012/2014 Columnstore index
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 507
 ## Speaker: Kevin Goff
 ## Title: SQL Server 2012/2014 Columnstore index
@@ -129,7 +129,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 507
 #  
 #### SessionID: 18376
 # Implementing Data Warehouse Patterns with the Microsoft BI Tools
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 507
 ## Speaker: Kevin Goff
 ## Title: Implementing Data Warehouse Patterns with the Microsoft BI Tools
@@ -138,7 +138,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 507
 #  
 #### SessionID: 18883
 # Reporting Services 101
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Wanna Be A DBA?
 ## Speaker: Katie Vetter
 ## Title: Reporting Services 101
@@ -148,7 +148,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Wanna Be A DBA?
 #  
 #### SessionID: 19351
 # DBA Prerequisites
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Wanna Be A DBA?
 ## Speaker: Madhu Kudaravalli
 ## Title: DBA Prerequisites
@@ -158,7 +158,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Wanna Be A DBA?
 #  
 #### SessionID: 19352
 # Relational Database Design 101
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Wanna Be A DBA?
 ## Speaker: Madhu Kudaravalli
 ## Title: Relational Database Design 101
@@ -168,7 +168,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Wanna Be A DBA?
 #  
 #### SessionID: 19353
 # Resources, careers, and training
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Wanna Be A DBA?
 ## Speaker: Madhu Kudaravalli
 ## Title: Resources, careers, and training
@@ -178,7 +178,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Wanna Be A DBA?
 #  
 #### SessionID: 20590
 # Transaction Log Internals: Virtual Log Files
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 506
 ## Speaker: Mike Hillwig
 ## Title: Transaction Log Internals: Virtual Log Files
@@ -192,7 +192,7 @@ In this more advanced session, veteran DBA Mike Hillwig will show you what VLFs 
 #  
 #### SessionID: 20591
 # Recovery and Backup for Beginners
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 506
 ## Speaker: Mike Hillwig
 ## Title: Recovery and Backup for Beginners
@@ -203,7 +203,7 @@ In this session, veteran DBA Mike Hillwig will start with understanding the reco
 #  
 #### SessionID: 21134
 # Extending SQL Server with Advanced Analytics and R
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 507
 ## Speaker: Michael Schulte
 ## Title: Extending SQL Server with Advanced Analytics and R
@@ -212,7 +212,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 507
 #  
 #### SessionID: 21144
 # 101 Stupid Things Your Colleagues Do When Setting Up A SQL Server
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 512
 ## Speaker: Matt Slocum
 ## Title: 101 Stupid Things Your Colleagues Do When Setting Up A SQL Server
@@ -221,7 +221,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 512
 #  
 #### SessionID: 21628
 # The Quest for the Golden Record: MDM Best Practices
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 507
 ## Speaker: Pam Matthews
 ## Title: The Quest for the Golden Record: MDM Best Practices
@@ -232,7 +232,7 @@ single version of the truth, aka the Golden Record. While these techniques can a
 #  
 #### SessionID: 21723
 # Permission Management: 12 Pitfalls  Misconceptions
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 508
 ## Speaker: Sebastian Meine
 ## Title: Permission Management: 12 Pitfalls  Misconceptions
@@ -243,7 +243,7 @@ This is a two-part session. During the first part, we will go through a review o
 #  
 #### SessionID: 21814
 # ETL not ELT!  Common mistakes and misconceptions about SSIS
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 507
 ## Speaker: Paul Rizza
 ## Title: ETL not ELT!  Common mistakes and misconceptions about SSIS
@@ -253,7 +253,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 507
 #  
 #### SessionID: 22076
 # Common Coding Mistakes and how to Mitigate them
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 512
 ## Speaker: William Wolf
 ## Title: Common Coding Mistakes and how to Mitigate them
@@ -262,7 +262,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 512
 #  
 #### SessionID: 22244
 # Surviving a Technical SQL Interview
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 506
 ## Speaker: Reed Powell
 ## Title: Surviving a Technical SQL Interview
@@ -272,7 +272,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 506
 #  
 #### SessionID: 22588
 # Understanding Transaction Isolation Levels
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 506
 ## Speaker: Randy Knight
 ## Title: Understanding Transaction Isolation Levels
@@ -282,7 +282,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 506
 #  
 #### SessionID: 22590
 # Locks, Blocks, and Deadlocks Oh My!
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 506
 ## Speaker: Randy Knight
 ## Title: Locks, Blocks, and Deadlocks Oh My!
@@ -291,7 +291,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 506
 #  
 #### SessionID: 22673
 # Getting Started with Hekaton (In-Memory OLTP)
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 501
 ## Speaker: Brian Davis
 ## Title: Getting Started with Hekaton (In-Memory OLTP)
@@ -300,7 +300,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 501
 #  
 #### SessionID: 22980
 # Database code is application code, so test it!
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 508
 ## Speaker: Rich Dudley
 ## Title: Database code is application code, so test it!
@@ -309,7 +309,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 508
 #  
 #### SessionID: 24422
 # Fixing Page Life Expectancy
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 506
 ## Speaker: Steve Hood
 ## Title: Fixing Page Life Expectancy
@@ -318,7 +318,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 506
 #  
 #### SessionID: 26837
 # Floating on a Hybrid Cloud: SQL Server 2014  Windows Azure 
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 501
 ## Speaker: Timothy McAliley
 ## Title: Floating on a Hybrid Cloud: SQL Server 2014  Windows Azure 
@@ -327,7 +327,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 501
 #  
 #### SessionID: 27531
 # Inside of Indexes
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 512
 ## Speaker: Slava Murygin
 ## Title: Inside of Indexes
@@ -336,7 +336,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 512
 #  
 #### SessionID: 27573
 # DBA Monitoring and Maintenance Fundamentals
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 508
 ## Speaker: Warren Sifre
 ## Title: DBA Monitoring and Maintenance Fundamentals
@@ -345,7 +345,7 @@ Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 508
 #  
 #### SessionID: 9229
 # SQL Server XML 101
-#### [Back to calendar](#SQLSaturday-#315---Pittsburgh-2014)
+#### [Back to calendar](#SQLSaturday-#315-Pittsburgh-2014)
 Event Date: 04-10-2014 - Session time: 00:00:00 - Track: Room 512
 ## Speaker: Alex Grinberg
 ## Title: SQL Server XML 101

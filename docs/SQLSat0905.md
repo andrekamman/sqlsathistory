@@ -19,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 96808
 # Pre Conference Power BI in a Day
-#### [Back to calendar](#SQLSaturday-#905---Lima---BI-Edition-2019)
+#### [Back to calendar](#SQLSaturday-#905-Lima-BI-Edition-2019)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Pre Conference Power BI in a Day
@@ -35,7 +35,7 @@ Power BI Service
 #  
 #### SessionID: 95735
 # ETLs with Dataflows in Power BI
-#### [Back to calendar](#SQLSaturday-#905---Lima---BI-Edition-2019)
+#### [Back to calendar](#SQLSaturday-#905-Lima-BI-Edition-2019)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Data Integration
 ## Speaker: Alejandro Humberto Sánchez Núñez
 ## Title: ETLs with Dataflows in Power BI
@@ -44,7 +44,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Data Integration
 #  
 #### SessionID: 96797
 # Arquitectura Datawarehousing en PaaS de Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#905---Lima---BI-Edition-2019)
+#### [Back to calendar](#SQLSaturday-#905-Lima-BI-Edition-2019)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform Architecture
 ## Speaker: German Cayo
 ## Title: Arquitectura Datawarehousing en PaaS de Microsoft Azure
@@ -53,7 +53,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 94686
 # Predictive Modeling with Azure Machine Learning Services
-#### [Back to calendar](#SQLSaturday-#905---Lima---BI-Edition-2019)
+#### [Back to calendar](#SQLSaturday-#905-Lima-BI-Edition-2019)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Predictive Modeling with Azure Machine Learning Services
@@ -62,7 +62,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 95737
 # Creating Enterprise BI Models with Azure Analysis Services
-#### [Back to calendar](#SQLSaturday-#905---Lima---BI-Edition-2019)
+#### [Back to calendar](#SQLSaturday-#905-Lima-BI-Edition-2019)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform Architecture
 ## Speaker: Grecia Perez Malave
 ## Title: Creating Enterprise BI Models with Azure Analysis Services
@@ -71,7 +71,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 96789
 # ETLs with SQL Server Integration Services 2017
-#### [Back to calendar](#SQLSaturday-#905---Lima---BI-Edition-2019)
+#### [Back to calendar](#SQLSaturday-#905-Lima-BI-Edition-2019)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Data Integration
 ## Speaker: Alfredo Diego Amez Mendes
 ## Title: ETLs with SQL Server Integration Services 2017
@@ -80,7 +80,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Data Integration
 #  
 #### SessionID: 96807
 # Azure Data Factory: SSIS in the Cloud
-#### [Back to calendar](#SQLSaturday-#905---Lima---BI-Edition-2019)
+#### [Back to calendar](#SQLSaturday-#905-Lima-BI-Edition-2019)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Data Integration
 ## Speaker: Martha Chávez
 ## Title: Azure Data Factory: SSIS in the Cloud
@@ -92,7 +92,7 @@ Configuración
 #  
 #### SessionID: 96801
 # Working with Azure Data Lake
-#### [Back to calendar](#SQLSaturday-#905---Lima---BI-Edition-2019)
+#### [Back to calendar](#SQLSaturday-#905-Lima-BI-Edition-2019)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform Architecture
 ## Speaker: Martha Chávez
 ## Title: Working with Azure Data Lake
@@ -104,7 +104,7 @@ Integración Data Lake con otros servicios de Azure
 #  
 #### SessionID: 98165
 # Lleva tu Warehouse a otro nivel con Azure DW
-#### [Back to calendar](#SQLSaturday-#905---Lima---BI-Edition-2019)
+#### [Back to calendar](#SQLSaturday-#905-Lima-BI-Edition-2019)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Data Integration
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Lleva tu Warehouse a otro nivel con Azure DW
@@ -113,7 +113,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Data Integration
 #  
 #### SessionID: 98166
 # Ciencia de Datos con R y Power BI
-#### [Back to calendar](#SQLSaturday-#905---Lima---BI-Edition-2019)
+#### [Back to calendar](#SQLSaturday-#905-Lima-BI-Edition-2019)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Deployment
 ## Speaker: Alejandro Humberto Sánchez Núñez
 ## Title: Ciencia de Datos con R y Power BI
@@ -122,7 +122,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Deployment
 #  
 #### SessionID: 95582
 # Composite Models - Power BI and Snowflake DW Integration
-#### [Back to calendar](#SQLSaturday-#905---Lima---BI-Edition-2019)
+#### [Back to calendar](#SQLSaturday-#905-Lima-BI-Edition-2019)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Gaston Cruz
 ## Title: Composite Models - Power BI and Snowflake DW Integration
@@ -131,7 +131,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 95734
 # Power BI Optimization: M, DAX  Visualization
-#### [Back to calendar](#SQLSaturday-#905---Lima---BI-Edition-2019)
+#### [Back to calendar](#SQLSaturday-#905-Lima-BI-Edition-2019)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform Architecture
 ## Speaker: Alejandro Humberto Sánchez Núñez
 ## Title: Power BI Optimization: M, DAX  Visualization
@@ -142,7 +142,7 @@ Transformación, Modelo, Indicadores y Reportería.
 #  
 #### SessionID: 95745
 # Momento de Power Platform, PowerApps y PowerUsers
-#### [Back to calendar](#SQLSaturday-#905---Lima---BI-Edition-2019)
+#### [Back to calendar](#SQLSaturday-#905-Lima-BI-Edition-2019)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Juan Rafael
 ## Title: Momento de Power Platform, PowerApps y PowerUsers
@@ -151,7 +151,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 96765
 # ETLs with Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#905---Lima---BI-Edition-2019)
+#### [Back to calendar](#SQLSaturday-#905-Lima-BI-Edition-2019)
 Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Data Integration
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: ETLs with Azure Data Factory

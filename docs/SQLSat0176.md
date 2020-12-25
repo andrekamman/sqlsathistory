@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11810
 # NOLOCK is gonna save your lives (or maybe not)
-#### [Back to calendar](#SQLSaturday-#176---Pordenone,-Italy-2012)
+#### [Back to calendar](#SQLSaturday-#176-Pordenone,-Italy-2012)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: OLTP
 ## Speaker: Francesco Milano
 ## Title: NOLOCK is gonna save your lives (or maybe not)
@@ -28,7 +28,7 @@ NOLOCK e READ UNCOMMITED sono molto diffusi in viste e SP ma raramente vengono u
 #  
 #### SessionID: 13512
 # Market Basket Analysis
-#### [Back to calendar](#SQLSaturday-#176---Pordenone,-Italy-2012)
+#### [Back to calendar](#SQLSaturday-#176-Pordenone,-Italy-2012)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: OLAP
 ## Speaker: Dejan Sarka
 ## Title: Market Basket Analysis
@@ -37,7 +37,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: OLAP
 #  
 #### SessionID: 14128
 # SQL Server 2012 come motore di ricerca semantico
-#### [Back to calendar](#SQLSaturday-#176---Pordenone,-Italy-2012)
+#### [Back to calendar](#SQLSaturday-#176-Pordenone,-Italy-2012)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: OLTP
 ## Speaker: Emanuele Zanchettin
 ## Title: SQL Server 2012 come motore di ricerca semantico
@@ -46,7 +46,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: OLTP
 #  
 #### SessionID: 14191
 # OLAP  MDX in action
-#### [Back to calendar](#SQLSaturday-#176---Pordenone,-Italy-2012)
+#### [Back to calendar](#SQLSaturday-#176-Pordenone,-Italy-2012)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: OLAP
 ## Speaker: Francesco De Chirico
 ## Title: OLAP  MDX in action
@@ -58,7 +58,7 @@ A seguire, iniziando da query molto semplici sulla base dati appena creata, illu
 #  
 #### SessionID: 14591
 # SQL Server 2012 AlwaysOn
-#### [Back to calendar](#SQLSaturday-#176---Pordenone,-Italy-2012)
+#### [Back to calendar](#SQLSaturday-#176-Pordenone,-Italy-2012)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: OLTP
 ## Speaker: Gianluca Hotz
 ## Title: SQL Server 2012 AlwaysOn
@@ -67,7 +67,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: OLTP
 #  
 #### SessionID: 14593
 # ORMs: the good, the bad and the ugly
-#### [Back to calendar](#SQLSaturday-#176---Pordenone,-Italy-2012)
+#### [Back to calendar](#SQLSaturday-#176-Pordenone,-Italy-2012)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: OLTP
 ## Speaker: Gianluca Sartori
 ## Title: ORMs: the good, the bad and the ugly
@@ -79,7 +79,7 @@ In this session we will walk through some common performance issues in ORM techn
 #  
 #### SessionID: 15299
 # Dynamic code for efficient searching 
-#### [Back to calendar](#SQLSaturday-#176---Pordenone,-Italy-2012)
+#### [Back to calendar](#SQLSaturday-#176-Pordenone,-Italy-2012)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: OLTP
 ## Speaker: Ian Meade
 ## Title: Dynamic code for efficient searching 
@@ -95,7 +95,7 @@ Touching on:
 #  
 #### SessionID: 15310
 # Data Warehousing Basics 
-#### [Back to calendar](#SQLSaturday-#176---Pordenone,-Italy-2012)
+#### [Back to calendar](#SQLSaturday-#176-Pordenone,-Italy-2012)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: OLAP
 ## Speaker: Davide Mauri
 ## Title: Data Warehousing Basics 
@@ -105,7 +105,7 @@ Dopo aver definito il ruolo del DWH e le sue motivazioni di base, durante la ses
 #  
 #### SessionID: 15340
 # Using Integration Services to load the DWH
-#### [Back to calendar](#SQLSaturday-#176---Pordenone,-Italy-2012)
+#### [Back to calendar](#SQLSaturday-#176-Pordenone,-Italy-2012)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: OLAP
 ## Speaker: Marco Pozzan
 ## Title: Using Integration Services to load the DWH
@@ -114,7 +114,7 @@ Event Date: 17-11-2012 - Session time: 00:00:00 - Track: OLAP
 #  
 #### SessionID: 19491
 # Tabular  DAX
-#### [Back to calendar](#SQLSaturday-#176---Pordenone,-Italy-2012)
+#### [Back to calendar](#SQLSaturday-#176-Pordenone,-Italy-2012)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: OLAP
 ## Speaker: Marco Russo
 ## Title: Tabular  DAX
@@ -124,7 +124,7 @@ In this introduction to the Tabular models in Analysis Services you will underst
 #  
 #### SessionID: 24390
 # Rewrite your Queries with SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#176---Pordenone,-Italy-2012)
+#### [Back to calendar](#SQLSaturday-#176-Pordenone,-Italy-2012)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: OLTP
 ## Speaker: Sergio Govoni
 ## Title: Rewrite your Queries with SQL Server 2012
@@ -137,7 +137,7 @@ In questa sessione vedremo come migliorare la scrittura del codice T-SQL sfrutta
 #  
 #### SessionID: 34750
 # SQL Server Data Tools
-#### [Back to calendar](#SQLSaturday-#176---Pordenone,-Italy-2012)
+#### [Back to calendar](#SQLSaturday-#176-Pordenone,-Italy-2012)
 Event Date: 17-11-2012 - Session time: 00:00:00 - Track: OLTP
 ## Speaker: Marco Parenzan
 ## Title: SQL Server Data Tools

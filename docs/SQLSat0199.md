@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10611
 # Data Mining 2012 with Microsoft Excel 2013 and PowerPivot
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DV  Windows Azure
 ## Speaker: Boriana Petrova
 ## Title: Data Mining 2012 with Microsoft Excel 2013 and PowerPivot
@@ -44,7 +44,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DV  Windows Azure
 #  
 #### SessionID: 10917
 # Replay your workload as it's your actual one!
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Boris Hristov
 ## Title: Replay your workload as it's your actual one!
@@ -53,7 +53,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 10998
 # SQL Internal Storage
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development 2
 ## Speaker: Bruno Basto
 ## Title: SQL Internal Storage
@@ -62,7 +62,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development 2
 #  
 #### SessionID: 12429
 # Data-driven Subscription using SSIS and SharePoint
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DV  Windows Azure
 ## Speaker: David Smeets
 ## Title: Data-driven Subscription using SSIS and SharePoint
@@ -71,7 +71,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DV  Windows Azure
 #  
 #### SessionID: 13098
 # ColumnStore Indexes - In-Memory feature
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: Denis Reznik
 ## Title: ColumnStore Indexes - In-Memory feature
@@ -80,7 +80,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 13099
 # Deadlock detected! All is lost or it's too early to sound the alarm? 
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Denis Reznik
 ## Title: Deadlock detected! All is lost or it's too early to sound the alarm? 
@@ -89,7 +89,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 15134
 # Collecting and analyzing SQL Server performance data with DMOs
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Ignacio Salom Rangel
 ## Title: Collecting and analyzing SQL Server performance data with DMOs
@@ -98,7 +98,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 15265
 # All you need to know about Reporting Services in Sharepoint mode
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: BI Platform
 ## Speaker: Ivan Donev
 ## Title: All you need to know about Reporting Services in Sharepoint mode
@@ -107,7 +107,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: BI Platform
 #  
 #### SessionID: 15267
 # Performance troubleshooting - tools you can use
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development 2
 ## Speaker: Ivan Donev
 ## Title: Performance troubleshooting - tools you can use
@@ -116,7 +116,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development 2
 #  
 #### SessionID: 15377
 # Clustered Columnstore - Introduction
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development 2
 ## Speaker: Niko Neugebauer
 ## Title: Clustered Columnstore - Introduction
@@ -126,7 +126,7 @@ This new feature is targeted at the OLAP installations and it is already availab
 #  
 #### SessionID: 15378
 # Deep Dive into Clustered Columnstore
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development 2
 ## Speaker: Niko Neugebauer
 ## Title: Deep Dive into Clustered Columnstore
@@ -135,7 +135,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development 2
 #  
 #### SessionID: 15459
 # The Two Faces of SQL Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: Ivelin Andreev
 ## Title: The Two Faces of SQL Parameter Sniffing
@@ -147,7 +147,7 @@ This may sound as a sci-fi scenario but is rather a real life use case which any
 #  
 #### SessionID: 16546
 # Data Visualisation with Hadoop Mashups, Power View and Excel 2013
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DV  Windows Azure
 ## Speaker: Jen Stirrup
 ## Title: Data Visualisation with Hadoop Mashups, Power View and Excel 2013
@@ -157,7 +157,7 @@ Join us at this session in order to see how your Big Data can empower your busin
 #  
 #### SessionID: 18813
 # SQL Injection – are you ready for defense?
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: BI Platform
 ## Speaker: Andrey Korshikov
 ## Title: SQL Injection – are you ready for defense?
@@ -166,7 +166,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: BI Platform
 #  
 #### SessionID: 19181
 # Include or not include? A fairy tale about indexes
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development 2
 ## Speaker: Oleksii Kovalov
 ## Title: Include or not include? A fairy tale about indexes
@@ -176,7 +176,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development 2
 #  
 #### SessionID: 19368
 # A deep dive into query optimizer
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: Margarita Naumova
 ## Title: A deep dive into query optimizer
@@ -185,7 +185,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 19369
 # Hekaton, In-Memory OLTP, or where is the magic of SQL Server 2014?
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: BI Platform
 ## Speaker: Margarita Naumova
 ## Title: Hekaton, In-Memory OLTP, or where is the magic of SQL Server 2014?
@@ -194,7 +194,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: BI Platform
 #  
 #### SessionID: 19448
 # Stored procedures — facts and myths
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development 2
 ## Speaker: Marcin Szeliga
 ## Title: Stored procedures — facts and myths
@@ -208,7 +208,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development 2
 #  
 #### SessionID: 19449
 # Data in Data Mining
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: BI Platform
 ## Speaker: Marcin Szeliga
 ## Title: Data in Data Mining
@@ -217,7 +217,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: BI Platform
 #  
 #### SessionID: 20279
 # Power BI for Office 365 -  a Complete Self-Service BI in the Cloud
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: BI Platform
 ## Speaker: Mihail Mateev
 ## Title: Power BI for Office 365 -  a Complete Self-Service BI in the Cloud
@@ -226,7 +226,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: BI Platform
 #  
 #### SessionID: 20281
 # Windows Azure SQL Reporting for App developers
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DV  Windows Azure
 ## Speaker: Mihail Mateev
 ## Title: Windows Azure SQL Reporting for App developers
@@ -235,7 +235,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DV  Windows Azure
 #  
 #### SessionID: 20812
 # Extended events in action
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Miroslav Dimitrov
 ## Title: Extended events in action
@@ -244,7 +244,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 20949
 # Cloud Stakeholders - Top 10 Cloud Jobs 
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DV  Windows Azure
 ## Speaker: Miroslav Lessev
 ## Title: Cloud Stakeholders - Top 10 Cloud Jobs 
@@ -253,7 +253,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DV  Windows Azure
 #  
 #### SessionID: 21445
 # SSIS Package Logging
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: BI Platform
 ## Speaker: Nikolay Nyagolov
 ## Title: SSIS Package Logging
@@ -264,7 +264,7 @@ In this lecture we will go over the different approaches and best practices for 
 #  
 #### SessionID: 24361
 # Query Plan Operators Deep Dive
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: Sergey Olontsev
 ## Title: Query Plan Operators Deep Dive
@@ -273,7 +273,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 24362
 # Performance problems caused by Statistics
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Sergey Olontsev
 ## Title: Performance problems caused by Statistics
@@ -282,7 +282,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 26166
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -291,7 +291,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 26167
 # SQL Server 2012 TSQL Enhancements and Additions
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2012 TSQL Enhancements and Additions
@@ -300,7 +300,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 27165
 # HA  DR with SQL Server 2014 AlwaysOn Availability Group
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Turgay Sahtiyan
 ## Title: HA  DR with SQL Server 2014 AlwaysOn Availability Group
@@ -309,7 +309,7 @@ Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 8788
 # Windows Azure Storage: Overview and Internals
-#### [Back to calendar](#SQLSaturday-#199---Bulgaria-2013)
+#### [Back to calendar](#SQLSaturday-#199-Bulgaria-2013)
 Event Date: 26-10-2013 - Session time: 00:00:00 - Track: DV  Windows Azure
 ## Speaker: Anton Vidishchev
 ## Title: Windows Azure Storage: Overview and Internals

@@ -41,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 91226
 # Indexing Like a Rocket Scientist
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: Indexing Like a Rocket Scientist
@@ -64,7 +64,7 @@ Some knowledge of T-SQL and Management Studio is recommended.
 #  
 #### SessionID: 91369
 # Dynamic Hierarchical Row Level Security for Power BI using SSAS Tabular and Active Directory
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Pat Byrne
 ## Title: Dynamic Hierarchical Row Level Security for Power BI using SSAS Tabular and Active Directory
@@ -73,7 +73,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 91471
 # Performance Dreams started at SQL Server 2014 and came true now at SQL Server 2016,2017
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shehab El-Najjar
 ## Title: Performance Dreams started at SQL Server 2014 and came true now at SQL Server 2016,2017
@@ -82,7 +82,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91896
 # Encrypting Data within Sql Server
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within Sql Server
@@ -95,7 +95,7 @@ You will leave the session with a deeper understanding about SQL Server encrypti
 #  
 #### SessionID: 93010
 # Careers in IT - Pensacola 2019
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Michael Viron
 ## Title: Careers in IT - Pensacola 2019
@@ -104,7 +104,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 93575
 # Future Database Development with Containers
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Steve Jones
 ## Title: Future Database Development with Containers
@@ -113,7 +113,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 90910
 # Performance Tuning, Getting the Biggest Bang for Your Buck
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: Performance Tuning, Getting the Biggest Bang for Your Buck
@@ -122,7 +122,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 91237
 # Microsoft Azure Modern Data Warehouse
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jamey Johnston
 ## Title: Microsoft Azure Modern Data Warehouse
@@ -133,7 +133,7 @@ This session will  give an overview of each of the pieces of this modern data wa
 #  
 #### SessionID: 91799
 # Why You Should Consider Implementing Indexed Views
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Alexander Fleming
 ## Title: Why You Should Consider Implementing Indexed Views
@@ -142,7 +142,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 92996
 # Giving Feedback: How to Effectively Communicate to your Employees
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Giving Feedback: How to Effectively Communicate to your Employees
@@ -151,7 +151,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 93340
 # How to Build Your Disaster Recovery Plan
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rie Irish
 ## Title: How to Build Your Disaster Recovery Plan
@@ -160,7 +160,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93631
 # Exploring the latest T-SQL enhancements
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Dustin Dorsey
 ## Title: Exploring the latest T-SQL enhancements
@@ -171,7 +171,7 @@ In this demo heavy session, we will go over several of the new features, provide
 #  
 #### SessionID: 93817
 # A Beginner's Guide to Power BI
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Watson
 ## Title: A Beginner's Guide to Power BI
@@ -180,7 +180,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 91223
 # A Primer on SQL Server Clustered Index Architecture
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: A Primer on SQL Server Clustered Index Architecture
@@ -189,7 +189,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 92023
 # Azure Basics for the DBA
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Morehouse
 ## Title: Azure Basics for the DBA
@@ -198,7 +198,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 93003
 # SQL Admin Best Practices with DMVs
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: William Assaf
 ## Title: SQL Admin Best Practices with DMVs
@@ -207,7 +207,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 93379
 # SSMS to Azure Data Studio: The Big Switch
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Jason Hall
 ## Title: SSMS to Azure Data Studio: The Big Switch
@@ -218,7 +218,7 @@ I'm starting to use Azure Data Studio over SSMS where possible, and this talk is
 #  
 #### SessionID: 93574
 # Adopting a Compliant Database DevOps Process
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Steve Jones
 ## Title: Adopting a Compliant Database DevOps Process
@@ -229,7 +229,7 @@ DevOps is transforming software development, with many organizations and individ
 #  
 #### SessionID: 93583
 # Fundamentals That Will Improve Your Query Performance!
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: John Wells
 ## Title: Fundamentals That Will Improve Your Query Performance!
@@ -238,7 +238,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 93711
 # Managing Packages in Integration Services (SSIS)
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Thomas LeBlanc
 ## Title: Managing Packages in Integration Services (SSIS)
@@ -248,7 +248,7 @@ This session will start with the installation and configuration of the catalog. 
 #  
 #### SessionID: 93342
 # Women in Tech: Thriving Not Just Surviving
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Women in Tech: Thriving Not Just Surviving
@@ -259,7 +259,7 @@ Let's talk tech,  Where we've been  Where it's going.  How we keep our skills sh
 #  
 #### SessionID: 95201
 # SentryOne Success Stories
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Jason Hall
 ## Title: SentryOne Success Stories
@@ -268,7 +268,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 90836
 # What's new in Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sven Aelterman
 ## Title: What's new in Azure SQL Database
@@ -277,7 +277,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 92892
 # Azure Databricks (ADB) and the Traditional DBA
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rodney Landrum
 ## Title: Azure Databricks (ADB) and the Traditional DBA
@@ -286,7 +286,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 92917
 # Performance Tuning for the BI Professional
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: Performance Tuning for the BI Professional
@@ -295,7 +295,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 93035
 # Migrate Your Database(s) with Distributed AGs
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Elizabeth Noble
 ## Title: Migrate Your Database(s) with Distributed AGs
@@ -308,7 +308,7 @@ NOTE: This session expects that attendees are already familiar with Availability
 #  
 #### SessionID: 93078
 # Understanding Deadlock Printouts in the Error Log
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Mike Burek
 ## Title: Understanding Deadlock Printouts in the Error Log
@@ -321,7 +321,7 @@ Come walk with me through the error log to find all the details we need. There a
 #  
 #### SessionID: 93437
 # Data Types Do Matter
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Angela Henry
 ## Title: Data Types Do Matter
@@ -330,7 +330,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 93493
 # Do I need to know about BIML? Of course you do!
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paul LaGrone
 ## Title: Do I need to know about BIML? Of course you do!
@@ -341,7 +341,7 @@ If you have data to move, BIML could be your new friend!
 #  
 #### SessionID: 90793
 # Look, over there, your permissions are showing!
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Travis Page
 ## Title: Look, over there, your permissions are showing!
@@ -350,7 +350,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 90814
 # My IT career is an accident.
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Johnathan Sluder
 ## Title: My IT career is an accident.
@@ -359,7 +359,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 91188
 # Temporal Tables:  Creation, Use, and Optimizing
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Dale Sullenberger
 ## Title: Temporal Tables:  Creation, Use, and Optimizing
@@ -368,7 +368,7 @@ Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 91537
 # Designing Data Intensive Cloud Native Applications
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Samir Behara
 ## Title: Designing Data Intensive Cloud Native Applications
@@ -381,7 +381,7 @@ If you are a Data professional, Software Engineer or Architect, come join me in 
 #  
 #### SessionID: 92009
 # Level Up: Data Modeling for the Power BI Rockstar
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bill Anton
 ## Title: Level Up: Data Modeling for the Power BI Rockstar
@@ -396,7 +396,7 @@ If your Power BI solutions typically contain a single table, if you're frequentl
 #  
 #### SessionID: 92702
 # How to perform a health check
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carl Roepe
 ## Title: How to perform a health check
@@ -409,7 +409,7 @@ At the end of the session you will be able to: (1) Perform a Health Check on a s
 #  
 #### SessionID: 93535
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#884---Pensacola-2019)
+#### [Back to calendar](#SQLSaturday-#884-Pensacola-2019)
 Event Date: 29-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!

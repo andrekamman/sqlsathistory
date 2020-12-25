@@ -20,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13930
 # SQL Server 2014, fique por dentro das novidades !
-#### [Back to calendar](#SQLSaturday-#284---Porto-Alegre-2014)
+#### [Back to calendar](#SQLSaturday-#284-Porto-Alegre-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Erika Madeira
 ## Title: SQL Server 2014, fique por dentro das novidades !
@@ -29,7 +29,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 14149
 # Tuning do inicio ao fim!
-#### [Back to calendar](#SQLSaturday-#284---Porto-Alegre-2014)
+#### [Back to calendar](#SQLSaturday-#284-Porto-Alegre-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Fabiano Amorim
 ## Title: Tuning do inicio ao fim!
@@ -41,7 +41,7 @@ Se você é um DBA ou desenvolvedor que quer ir além do dia a dia sendo proativ
 #  
 #### SessionID: 14233
 # PowerBI - A nova geração de BI da Microsoft
-#### [Back to calendar](#SQLSaturday-#284---Porto-Alegre-2014)
+#### [Back to calendar](#SQLSaturday-#284-Porto-Alegre-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Felipe Ferreira
 ## Title: PowerBI - A nova geração de BI da Microsoft
@@ -50,7 +50,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 14244
 # Dividir e conquistar - Particionando de tabelas no SQL Server
-#### [Back to calendar](#SQLSaturday-#284---Porto-Alegre-2014)
+#### [Back to calendar](#SQLSaturday-#284-Porto-Alegre-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Marcelo Fernandes
 ## Title: Dividir e conquistar - Particionando de tabelas no SQL Server
@@ -59,7 +59,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 14714
 # Estratégias de backup para ambientes analíticos e heterogêneos
-#### [Back to calendar](#SQLSaturday-#284---Porto-Alegre-2014)
+#### [Back to calendar](#SQLSaturday-#284-Porto-Alegre-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Gustavo Maia Aguiar
 ## Title: Estratégias de backup para ambientes analíticos e heterogêneos
@@ -68,7 +68,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 17555
 # Entendendo "Managed Lock Priority"
-#### [Back to calendar](#SQLSaturday-#284---Porto-Alegre-2014)
+#### [Back to calendar](#SQLSaturday-#284-Porto-Alegre-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: João Polisel
 ## Title: Entendendo "Managed Lock Priority"
@@ -77,7 +77,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 19262
 # In-Memory OLTP a.k.a Hekaton
-#### [Back to calendar](#SQLSaturday-#284---Porto-Alegre-2014)
+#### [Back to calendar](#SQLSaturday-#284-Porto-Alegre-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: In-Memory OLTP a.k.a Hekaton
@@ -86,7 +86,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 19306
 # Entendendo o paralelismo no SQL Server
-#### [Back to calendar](#SQLSaturday-#284---Porto-Alegre-2014)
+#### [Back to calendar](#SQLSaturday-#284-Porto-Alegre-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Development
 ## Speaker: Luciano Moreira
 ## Title: Entendendo o paralelismo no SQL Server
@@ -95,7 +95,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Development
 #  
 #### SessionID: 21236
 # DBA SQL Server por Acidente
-#### [Back to calendar](#SQLSaturday-#284---Porto-Alegre-2014)
+#### [Back to calendar](#SQLSaturday-#284-Porto-Alegre-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: DBA SQL Server por Acidente
@@ -108,7 +108,7 @@ Vamos ver o que você precisará conhecer em seu ambiente e entender melhor como
 #  
 #### SessionID: 21452
 # Provendo Alta Disponibilidade para suas Apps em Pequenos, Médios e Grandes Ambientes com SQL2012
-#### [Back to calendar](#SQLSaturday-#284---Porto-Alegre-2014)
+#### [Back to calendar](#SQLSaturday-#284-Porto-Alegre-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Nilton Pinheiro
 ## Title: Provendo Alta Disponibilidade para suas Apps em Pequenos, Médios e Grandes Ambientes com SQL2012
@@ -117,7 +117,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 21494
 # Conhece o potencial do SQL Server Analysis Services Tabular Mode?
-#### [Back to calendar](#SQLSaturday-#284---Porto-Alegre-2014)
+#### [Back to calendar](#SQLSaturday-#284-Porto-Alegre-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Diego Nogare
 ## Title: Conhece o potencial do SQL Server Analysis Services Tabular Mode?
@@ -126,7 +126,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 21625
 # BI Microsoft com MS Excel 2013
-#### [Back to calendar](#SQLSaturday-#284---Porto-Alegre-2014)
+#### [Back to calendar](#SQLSaturday-#284-Porto-Alegre-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Carlos Fernando Paleo da Rocha
 ## Title: BI Microsoft com MS Excel 2013
@@ -135,7 +135,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 22978
 # Encriptar é preciso
-#### [Back to calendar](#SQLSaturday-#284---Porto-Alegre-2014)
+#### [Back to calendar](#SQLSaturday-#284-Porto-Alegre-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Ricardo Leka
 ## Title: Encriptar é preciso
@@ -144,7 +144,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Administration
 #  
 #### SessionID: 23398
 # Estratégias de Backup e Recovery
-#### [Back to calendar](#SQLSaturday-#284---Porto-Alegre-2014)
+#### [Back to calendar](#SQLSaturday-#284-Porto-Alegre-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Database Administration
 ## Speaker: Rodrigo Crespi
 ## Title: Estratégias de Backup e Recovery
@@ -154,7 +154,7 @@ Nesta sessão irei falar sobre as formas de se criar uma estratégia de backup e
 #  
 #### SessionID: 28329
 # Desmistificando o MDX
-#### [Back to calendar](#SQLSaturday-#284---Porto-Alegre-2014)
+#### [Back to calendar](#SQLSaturday-#284-Porto-Alegre-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Business Intelligence
 ## Speaker: Thiago Zavaschi
 ## Title: Desmistificando o MDX

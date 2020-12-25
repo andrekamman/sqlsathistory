@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11720
 # Big Data Trends with the Microsoft Parallel Data Warehouse
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Christopher Campbell
 ## Title: Big Data Trends with the Microsoft Parallel Data Warehouse
@@ -37,7 +37,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 11777
 # SQL Audit - auditing doesn't have to be boring
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Colleen Morrow
 ## Title: SQL Audit - auditing doesn't have to be boring
@@ -46,7 +46,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 11997
 # Achieving Compliance with SQL Server
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 2
 ## Speaker: Craig Purnell
 ## Title: Achieving Compliance with SQL Server
@@ -55,7 +55,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 2
 #  
 #### SessionID: 12522
 # How to Argue with Your Infrastructure Admins – and Win
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 1
 ## Speaker: David Klee
 ## Title: How to Argue with Your Infrastructure Admins – and Win
@@ -64,7 +64,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 1
 #  
 #### SessionID: 14297
 # DIY Geocoding
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 2
 ## Speaker: Frank Murphy
 ## Title: DIY Geocoding
@@ -73,7 +73,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 2
 #  
 #### SessionID: 14647
 # You're the DBA.  Now What?
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 1
 ## Speaker: Gill Rowley
 ## Title: You're the DBA.  Now What?
@@ -82,7 +82,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 1
 #  
 #### SessionID: 14648
 # Dynamic Connections in SSIS
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Gill Rowley
 ## Title: Dynamic Connections in SSIS
@@ -91,7 +91,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 14658
 # The Sqoop on Big Data from it’s humble beginnings to rise to notoriety
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Ginger Grant
 ## Title: The Sqoop on Big Data from it’s humble beginnings to rise to notoriety
@@ -100,7 +100,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 14659
 # Power BI –  Cloud Self-Service BI
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 2
 ## Speaker: Ginger Grant
 ## Title: Power BI –  Cloud Self-Service BI
@@ -109,7 +109,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 2
 #  
 #### SessionID: 14770
 # Building a Database Deployment Pipeline
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Grant Fritchey
 ## Title: Building a Database Deployment Pipeline
@@ -118,7 +118,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 14771
 # Getting Started Reading Execution Plans
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Grant Fritchey
 ## Title: Getting Started Reading Execution Plans
@@ -127,7 +127,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 16057
 # Partitioning System for "WORM" Tables
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Jeff Moden
 ## Title: Partitioning System for "WORM" Tables
@@ -136,7 +136,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 16758
 # SQL Server 2014 Managed Backup to Windows Azure
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 1
 ## Speaker: John  Gayer
 ## Title: SQL Server 2014 Managed Backup to Windows Azure
@@ -147,7 +147,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 1
 #  
 #### SessionID: 20657
 # Troubleshooting Your Network Connections
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 1
 ## Speaker: Mike Hays
 ## Title: Troubleshooting Your Network Connections
@@ -156,7 +156,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 1
 #  
 #### SessionID: 21131
 # Extending SQL Server with Advanced Analytics and R
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Michael Schulte
 ## Title: Extending SQL Server with Advanced Analytics and R
@@ -165,7 +165,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 22296
 # Hacking SQL Server - A Peek into the Dark Side
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Dustin Prescott
 ## Title: Hacking SQL Server - A Peek into the Dark Side
@@ -174,7 +174,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 22637
 # SSIS Templates Can Make Your Life Easier
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: Brian Davis
 ## Title: SSIS Templates Can Make Your Life Easier
@@ -183,7 +183,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 22638
 # Getting Started with Hekaton (In-Memory OLTP)
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 2
 ## Speaker: Brian Davis
 ## Title: Getting Started with Hekaton (In-Memory OLTP)
@@ -192,7 +192,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 2
 #  
 #### SessionID: 22684
 # SQL Server 2014 - In-Memory OLTP
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Rick Brewis
 ## Title: SQL Server 2014 - In-Memory OLTP
@@ -201,7 +201,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 25089
 # All About the SSIS Catalog (SSISDB)
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: BI
 ## Speaker: George Squillace
 ## Title: All About the SSIS Catalog (SSISDB)
@@ -210,7 +210,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 26872
 # The Most Important Dynamic Management Objects for New DBAs
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 1
 ## Speaker: Tim Ford
 ## Title: The Most Important Dynamic Management Objects for New DBAs
@@ -219,7 +219,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Wildcard 1
 #  
 #### SessionID: 26985
 # T-SQL For Beginning Developers
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Tom Groszko
 ## Title: T-SQL For Beginning Developers
@@ -228,7 +228,7 @@ Event Date: 17-05-2014 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 9983
 # Automate Your ETL Infrastructure with SSIS and PowerShell
-#### [Back to calendar](#SQLSaturday-#292---Detroit-2014)
+#### [Back to calendar](#SQLSaturday-#292-Detroit-2014)
 Event Date: 17-05-2014 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Allen White
 ## Title: Automate Your ETL Infrastructure with SSIS and PowerShell

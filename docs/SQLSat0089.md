@@ -49,7 +49,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28384
 # ETL Smackdown with Julie Smith
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Aaron Nelson
 ## Title: ETL Smackdown with Julie Smith
@@ -58,7 +58,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Powershell
 #  
 #### SessionID: 28452
 # Zero to Cube
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 1
 ## Speaker: Adam Jorgensen
 ## Title: Zero to Cube
@@ -67,7 +67,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 1
 #  
 #### SessionID: 28583
 # Log Your Database Objects Execution
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 3
 ## Speaker: Alex Tocitu
 ## Title: Log Your Database Objects Execution
@@ -77,7 +77,7 @@ This talk will discuss a generic framework for testing/logging results from data
 #  
 #### SessionID: 28635
 # 15 Powerful SQL Server Dynamic Management Objects
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 1
 ## Speaker: Adam Machanic
 ## Title: 15 Powerful SQL Server Dynamic Management Objects
@@ -86,7 +86,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 1
 #  
 #### SessionID: 28636
 # SQL Server Parallelism and Performance
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 1
 ## Speaker: Adam Machanic
 ## Title: SQL Server Parallelism and Performance
@@ -95,7 +95,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 1
 #  
 #### SessionID: 28890
 # Database Makeover: Renovate Your Data Model
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 2
 ## Speaker: Audrey Hammonds
 ## Title: Database Makeover: Renovate Your Data Model
@@ -104,7 +104,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 2
 #  
 #### SessionID: 29115
 # Breaking out of your shell: Cube Dweller to Leader
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Professional Dev
 ## Speaker: Bobby Dimmick
 ## Title: Breaking out of your shell: Cube Dweller to Leader
@@ -113,7 +113,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Professional Dev
 #  
 #### SessionID: 29128
 # Inside SQL Server Wait Types
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 2
 ## Speaker: Bob Ward
 ## Title: Inside SQL Server Wait Types
@@ -122,7 +122,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 2
 #  
 #### SessionID: 29129
 # Inside SQL Server Latches
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 2
 ## Speaker: Bob Ward
 ## Title: Inside SQL Server Latches
@@ -131,7 +131,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 2
 #  
 #### SessionID: 29130
 # More of Bob Ward
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 2
 ## Speaker: Bob Ward
 ## Title: More of Bob Ward
@@ -140,7 +140,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 2
 #  
 #### SessionID: 29269
 # Are you a Linchpin? Career management lessons...
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Professional Dev
 ## Speaker: Brian Moran
 ## Title: Are you a Linchpin? Career management lessons...
@@ -151,7 +151,7 @@ Are consultants better that people who work for ‘regular’ companies? Perhaps
 #  
 #### SessionID: 29270
 # Leadership Coaching: A repeatable methodology...
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Professional Dev
 ## Speaker: Brian Moran
 ## Title: Leadership Coaching: A repeatable methodology...
@@ -162,7 +162,7 @@ Leadership coaching is the practice of using relational influence, the people ki
 #  
 #### SessionID: 29380
 # EMC Strategy with Microsoft Technology
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 3
 ## Speaker: Dilip Tailor
 ## Title: EMC Strategy with Microsoft Technology
@@ -171,7 +171,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 3
 #  
 #### SessionID: 29866
 # Light the Fire on Database Performance
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 1
 ## Speaker: Dean Richards
 ## Title: Light the Fire on Database Performance
@@ -182,7 +182,7 @@ Ignite doesn't just show health metrics, it correlates the most important perfor
 #  
 #### SessionID: 29867
 # Monitoring SQL Server in a VMware Environment
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 3
 ## Speaker: Dean Richards
 ## Title: Monitoring SQL Server in a VMware Environment
@@ -191,7 +191,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 3
 #  
 #### SessionID: 30018
 # Characteristics of a Great Relational Database
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 ## Speaker: Louis Davidson
 ## Title: Characteristics of a Great Relational Database
@@ -200,7 +200,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 30061
 # Master Data Management with Master Data Services
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 1
 ## Speaker: Eric Melcher
 ## Title: Master Data Management with Master Data Services
@@ -209,7 +209,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 1
 #  
 #### SessionID: 30112
 # Diagnosing connectivity issues with SQL Server
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 3
 ## Speaker: Evan Basalik
 ## Title: Diagnosing connectivity issues with SQL Server
@@ -220,7 +220,7 @@ easily identify the problem, plus provide tips that often solve the problem in s
 #  
 #### SessionID: 30137
 # SSIS Data Flow Buffer Breakdown
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 1
 ## Speaker: Eric Wisdahl
 ## Title: SSIS Data Flow Buffer Breakdown
@@ -229,7 +229,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 1
 #  
 #### SessionID: 30236
 # SQL “Denali” AlwaysOn High Availability Solutions
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 2
 ## Speaker: Geoff Hiten
 ## Title: SQL “Denali” AlwaysOn High Availability Solutions
@@ -238,7 +238,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 2
 #  
 #### SessionID: 30261
 # 7 Different Solutions for Bad Parameter Sniffing
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 2
 ## Speaker: Grant Fritchey
 ## Title: 7 Different Solutions for Bad Parameter Sniffing
@@ -247,7 +247,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 2
 #  
 #### SessionID: 30564
 # Getting Started with Powershell
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Jon Boulineau
 ## Title: Getting Started with Powershell
@@ -256,7 +256,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Powershell
 #  
 #### SessionID: 30720
 # What's New for Business Intelligence in SQL Server
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 1
 ## Speaker: Jen Underwood
 ## Title: What's New for Business Intelligence in SQL Server
@@ -265,7 +265,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 1
 #  
 #### SessionID: 30721
 # PowerPivot Basics and Creative Implementations
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 1
 ## Speaker: Jen Underwood
 ## Title: PowerPivot Basics and Creative Implementations
@@ -274,7 +274,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 1
 #  
 #### SessionID: 30850
 # Using StudioShell to Automate Visual Studio
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Jim Christopher
 ## Title: Using StudioShell to Automate Visual Studio
@@ -283,7 +283,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Powershell
 #  
 #### SessionID: 30851
 # Stupid PowerShell Tricks
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Jim Christopher
 ## Title: Stupid PowerShell Tricks
@@ -294,7 +294,7 @@ Some spend an hour hearing and sharing practical, time-saving PowerShell hacks y
 #  
 #### SessionID: 30982
 # Do More (ETL) with Less (Effort) - Automating SSIS
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 2
 ## Speaker: John Welch
 ## Title: Do More (ETL) with Less (Effort) - Automating SSIS
@@ -303,7 +303,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 2
 #  
 #### SessionID: 31311
 # Top 10 Admin Mistakes on SQL Server
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 3
 ## Speaker: Kevin Kline
 ## Title: Top 10 Admin Mistakes on SQL Server
@@ -319,7 +319,7 @@ fact, wouldn’t you like to learn about those mistakes before they ever happen?
 #  
 #### SessionID: 31599
 # Does your Query and Reporting tool 'work'?
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 1
 ## Speaker: Mary Ledbetter
 ## Title: Does your Query and Reporting tool 'work'?
@@ -332,7 +332,7 @@ WhereScape RED is an IDE for managing data warehouses, marts, stores and vaults.
 #  
 #### SessionID: 31879
 # Iceberg, Dead Ahead!
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 3
 ## Speaker: Mike Walsh
 ## Title: Iceberg, Dead Ahead!
@@ -341,7 +341,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 3
 #  
 #### SessionID: 31932
 # Dashboards...How to Choose Which MSBI Tool?
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 2
 ## Speaker: Melissa Coates
 ## Title: Dashboards...How to Choose Which MSBI Tool?
@@ -357,7 +357,7 @@ This session will be a fun one!  We will compare and contrast options available 
 #  
 #### SessionID: 32069
 # PowerShell: Are you checking out my profile?
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Nicholas Cain
 ## Title: PowerShell: Are you checking out my profile?
@@ -368,7 +368,7 @@ I'll show you my PowerShell profile if you show me yours.
 #  
 #### SessionID: 32070
 # Centralized auditing of permissions with SQL Serve
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Powershell
 ## Speaker: Nicholas Cain
 ## Title: Centralized auditing of permissions with SQL Serve
@@ -377,7 +377,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Powershell
 #  
 #### SessionID: 32088
 # SQL Developer's Intro to SSAS
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 ## Speaker: Nathan Mourfield
 ## Title: SQL Developer's Intro to SSAS
@@ -386,7 +386,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 32588
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -395,7 +395,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 32792
 # The 4-hour DBA: Automate, Audit and Relax
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 1
 ## Speaker: Sarah Barela
 ## Title: The 4-hour DBA: Automate, Audit and Relax
@@ -404,7 +404,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 1
 #  
 #### SessionID: 33106
 # Social Marketing 2011 for Microsoft Professionals
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Professional Dev
 ## Speaker: Mark Tabladillo
 ## Title: Social Marketing 2011 for Microsoft Professionals
@@ -413,7 +413,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Professional Dev
 #  
 #### SessionID: 33251
 # SQL Server XML 201
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 ## Speaker: Stuart Ainsworth
 ## Title: SQL Server XML 201
@@ -422,7 +422,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 33292
 # Storing BLOBs in SQL Server using FILESTREAM
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 ## Speaker: Sven Aelterman
 ## Title: Storing BLOBs in SQL Server using FILESTREAM
@@ -431,7 +431,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Development
 #  
 #### SessionID: 33310
 # Active Directory Content in a SQL Server Database
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 1
 ## Speaker: Scott Russell
 ## Title: Active Directory Content in a SQL Server Database
@@ -440,7 +440,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 1
 #  
 #### SessionID: 33410
 # Transaction Log Deep Dive
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 1
 ## Speaker: Kevin Boles
 ## Title: Transaction Log Deep Dive
@@ -449,7 +449,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: DBA Track 1
 #  
 #### SessionID: 33602
 # It's TEMPDB Why Should You Care
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Professional Dev
 ## Speaker: Tim Radney
 ## Title: It's TEMPDB Why Should You Care
@@ -458,7 +458,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Professional Dev
 #  
 #### SessionID: 33711
 # Introducing Business Intelligence Semantic Model
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 2
 ## Speaker: Teo Lachev
 ## Title: Introducing Business Intelligence Semantic Model
@@ -467,7 +467,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 2
 #  
 #### SessionID: 34100
 # Many-to-Many: Multiple Calendars in a Single Cube
-#### [Back to calendar](#SQLSaturday-#89---Atlanta-2011)
+#### [Back to calendar](#SQLSaturday-#89-Atlanta-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: BI Track 2
 ## Speaker: William E Pearson III
 ## Title: Many-to-Many: Multiple Calendars in a Single Cube

@@ -38,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 42165
 # Modern Architectures in Cloud
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Keneth Murillo
 ## Title: Modern Architectures in Cloud
@@ -47,7 +47,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 42353
 # Reporting Services 2016: Evolucion o revolucion?
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Juan Alvarado
 ## Title: Reporting Services 2016: Evolucion o revolucion?
@@ -58,7 +58,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 42497
 # UFC #1433 tablas In-Memory 2014 vrs 2016
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Alejandro Cordero
 ## Title: UFC #1433 tablas In-Memory 2014 vrs 2016
@@ -67,7 +67,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 46586
 # Expandiendo las fronteras de SSIS (Cargando datos desde Web Servi
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mario Guzman
 ## Title: Expandiendo las fronteras de SSIS (Cargando datos desde Web Servi
@@ -76,7 +76,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 47071
 # Creando una soluci#243;n Business Intelligence en 60 minutos
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mario Rodriguez
 ## Title: Creando una soluci#243;n Business Intelligence en 60 minutos
@@ -85,7 +85,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 42341
 # Improve query performance with the new SQL Server 2016 query store!!
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michelle Gutzait
 ## Title: Improve query performance with the new SQL Server 2016 query store!!
@@ -98,7 +98,7 @@ Esto facilita identificar r#225;pidamente consultas que recientemente se han vue
 #  
 #### SessionID: 44997
 # Visual Studio  SQL Server Better Together
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: David Sánchez Aguilar
 ## Title: Visual Studio  SQL Server Better Together
@@ -107,7 +107,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 46587
 # T#233;cnicas en patrones de b#250;squedas (SSIS), Quien gana la carrera?
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jorge García
 ## Title: T#233;cnicas en patrones de b#250;squedas (SSIS), Quien gana la carrera?
@@ -116,7 +116,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 47057
 # BI en tus t#233;rminos
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mary Arcia
 ## Title: BI en tus t#233;rminos
@@ -132,7 +132,7 @@ En esta charla daremos una visi#243;n general de las nuevas caracter#237;sticas 
 #  
 #### SessionID: 47177
 # #191;Y c#243;mo visualizo mi informaci#243;n?
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Andrei Garzon
 ## Title: #191;Y c#243;mo visualizo mi informaci#243;n?
@@ -141,7 +141,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 42495
 # It’s Time for a Change : Temporal Table Support in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vern Rabe
 ## Title: It’s Time for a Change : Temporal Table Support in SQL Server 2016
@@ -152,7 +152,7 @@ In this session we’ll discuss how you can benefit from temporal support in you
 #  
 #### SessionID: 42657
 # Analysis Services Multidimensional vs Tabular
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Analysis Services Multidimensional vs Tabular
@@ -161,7 +161,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 42744
 # Planeando e Implementando Servicios de Datos con Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Adrian Miranda
 ## Title: Planeando e Implementando Servicios de Datos con Microsoft Azure
@@ -170,7 +170,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 45002
 # Introducci#243;n a U-SQL lenguaje que hace f#225;cil el procesamiento de Big Data
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: John Alexander Bulla Torres
 ## Title: Introducci#243;n a U-SQL lenguaje que hace f#225;cil el procesamiento de Big Data
@@ -179,7 +179,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 46706
 # Calling the doctor to the number "DMV"
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ahias Portillo
 ## Title: Calling the doctor to the number "DMV"
@@ -188,7 +188,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 42352
 # Power BI deep dive
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Juan Alvarado
 ## Title: Power BI deep dive
@@ -197,7 +197,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #  
 #### SessionID: 42664
 # Intro to Azure Data Warehouse
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: César Oviedo
 ## Title: Intro to Azure Data Warehouse
@@ -206,7 +206,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 42804
 # Capa de Datos Elastica con Azure SQL Elastic Scale
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warner Chaves
 ## Title: Capa de Datos Elastica con Azure SQL Elastic Scale
@@ -219,7 +219,7 @@ En esta sesion mostraremos la Elastic Scale .NET API, pools de bases de datos, e
 #  
 #### SessionID: 45171
 # La Seguridad de la Informaci#243;n en el D#237;a a D#237;a
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Other
 ## Speaker: Mario Alberto Posadas Rivera
 ## Title: La Seguridad de la Informaci#243;n en el D#237;a a D#237;a
@@ -228,7 +228,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Other
 #  
 #### SessionID: 46708
 # Fast and Furious: Discovering Windowing Function
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ahias Portillo
 ## Title: Fast and Furious: Discovering Windowing Function
@@ -237,7 +237,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 47286
 # 7 things you need to know about TempDB
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ignacio Salom Rangel
 ## Title: 7 things you need to know about TempDB
@@ -246,7 +246,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42466
 # SQL Server 2016: Row Level Security
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: SQL Server 2016: Row Level Security
@@ -255,7 +255,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 42849
 # Lecciones Aprendidas de 4000 SQL Servers
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warner Chaves
 ## Title: Lecciones Aprendidas de 4000 SQL Servers
@@ -267,7 +267,7 @@ En esta sesiOn cubriremos los errores mas comunes que hemos visto, las mejores p
 #  
 #### SessionID: 44311
 # SQL Server 2016 - Stretch Databases
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2016 - Stretch Databases
@@ -276,7 +276,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 44993
 # Always On en Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Alexander Bulla Torres
 ## Title: Always On en Microsoft Azure
@@ -285,7 +285,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 45795
 # Creaci#243;n y Explotaci#243;n de un Modelo de An#225;lisis Predictivo en la Nube
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Patricio Cofre
 ## Title: Creaci#243;n y Explotaci#243;n de un Modelo de An#225;lisis Predictivo en la Nube
@@ -296,7 +296,7 @@ En esta sesi#243;n aprenderemos  a generar un modelo predictivo en la nube, opti
 #  
 #### SessionID: 47038
 # Introducci#243;n a R: Primeros pasos en R
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Carlos Loria
 ## Title: Introducci#243;n a R: Primeros pasos en R
@@ -316,7 +316,7 @@ Cerraremos la sesi#243;n con una demostraci#243;n de ejemplo.
 #  
 #### SessionID: 42226
 # Nuevas Opciones de Cluster en Windows Server 2016 y SQL-Server 2016
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carlos Rojas Vargas
 ## Title: Nuevas Opciones de Cluster en Windows Server 2016 y SQL-Server 2016
@@ -325,7 +325,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 42354
 # Ventajas que da el soporte de JSON de SQL Server 2016 para desarrolladores
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Christian Sanabria Jiménez
 ## Title: Ventajas que da el soporte de JSON de SQL Server 2016 para desarrolladores
@@ -334,7 +334,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 44312
 # Configuring AlwaysON availability groups with Readable Secundaries
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Urena
 ## Title: Configuring AlwaysON availability groups with Readable Secundaries
@@ -343,7 +343,7 @@ Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 46096
 # Introducci#243;n al Microsoft R Server
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: Introducci#243;n al Microsoft R Server
@@ -354,7 +354,7 @@ En esta sesi#243;n, veremos los componentes del Microsoft R Server y c#243;mo lo
 #  
 #### SessionID: 46143
 # Power BI  Google Analytics una gran conversaci#243;n
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Gerzo Gallardo Morales
 ## Title: Power BI  Google Analytics una gran conversaci#243;n
@@ -365,7 +365,7 @@ Google Analytics (GA) nos entrega una informaci#243;n del tr#225;fico e interacc
 #  
 #### SessionID: 47272
 # Creando arquitecturas para HA+DRPs y #191;C#243;mo evitar caer en el intento?
-#### [Back to calendar](#SQLSaturday-#490---Costa-Rica-2016)
+#### [Back to calendar](#SQLSaturday-#490-Costa-Rica-2016)
 Event Date: 23-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jesus Gil
 ## Title: Creando arquitecturas para HA+DRPs y #191;C#243;mo evitar caer en el intento?

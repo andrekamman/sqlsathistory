@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 61745
 # SQL Server 2016: Master Data Services and Rapid Application Development
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Steve Simon
 ## Title: SQL Server 2016: Master Data Services and Rapid Application Development
@@ -40,7 +40,7 @@ Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 64764
 # Introduction to Database Design
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Sean Cremer
 ## Title: Introduction to Database Design
@@ -51,7 +51,7 @@ This session will go through the fundamentals of database design.  Topics such a
 #  
 #### SessionID: 67922
 # SQL Server Database Administration for the non-DBA
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: DBA
 ## Speaker: Denny Cherry
 ## Title: SQL Server Database Administration for the non-DBA
@@ -62,7 +62,7 @@ While this session won't teach you everything you need to know, it will give you
 #  
 #### SessionID: 68330
 # Getting started with PowerBI
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Michael Johnson
 ## Title: Getting started with PowerBI
@@ -73,7 +73,7 @@ In this session, you will see how easily great looking reports can be created us
 #  
 #### SessionID: 68409
 # SQL Server and Application Security for Developers
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Mladen Prajdić
 ## Title: SQL Server and Application Security for Developers
@@ -83,7 +83,7 @@ In this session we'll look at a few attack vectors that can be used against your
 #  
 #### SessionID: 63767
 # T-SQL Anti-Patterns
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Desmond Norton
 ## Title: T-SQL Anti-Patterns
@@ -93,7 +93,7 @@ This session will cover a few T-SQL anti-patterns, explaining the problem being 
 #  
 #### SessionID: 64383
 # Exploring Twitter Campaigns, Facebook and Google Analytics data in PowerBI
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Jeanne Combrinck
 ## Title: Exploring Twitter Campaigns, Facebook and Google Analytics data in PowerBI
@@ -102,7 +102,7 @@ Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 65210
 # An introduction to the magical world of BIML!
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
@@ -111,7 +111,7 @@ Event Date: 09-09-2017 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67927
 # PowerShell for SQL Server DBA - From Zero to Hero
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: DBA
 ## Speaker: Laerte Junior
 ## Title: PowerShell for SQL Server DBA - From Zero to Hero
@@ -121,7 +121,7 @@ How would you improve a PowerShell script in order to make it more versatile? Ho
 #  
 #### SessionID: 68448
 # Get started with R
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Luis de Sousa
 ## Title: Get started with R
@@ -131,7 +131,7 @@ We'll cover reading data into R, accessing R packages, writing R functions, and 
 #  
 #### SessionID: 61742
 # Efficient and Effective coding of Stored Procedures
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Simon
 ## Title: Efficient and Effective coding of Stored Procedures
@@ -141,7 +141,7 @@ In this hands-on presentation, we shall be looking at best practices with regard
 #  
 #### SessionID: 63883
 # Docker => Containers => Service Fabric => SQL
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Clinton van Blommestein
 ## Title: Docker => Containers => Service Fabric => SQL
@@ -152,7 +152,7 @@ In this session we will look at what these various pieces of software are, what 
 #  
 #### SessionID: 64939
 # Normalization Beyond Third Normal Form
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: Normalization Beyond Third Normal Form
@@ -164,7 +164,7 @@ If you take database design seriously, you cannot afford to miss this session. Y
 #  
 #### SessionID: 67008
 # Real-time analytics with Azure Stream Analytics
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Michael Johnson
 ## Title: Real-time analytics with Azure Stream Analytics
@@ -173,7 +173,7 @@ Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 67145
 # Why are there pirates and snakes in my SQL Server?
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Gail Shaw
 ## Title: Why are there pirates and snakes in my SQL Server?
@@ -184,7 +184,7 @@ In this session, we’ll look at why these languages are now available in SQL Se
 #  
 #### SessionID: 66538
 # Real World Example of Using R in SQL Server
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Niels Berglund
 ## Title: Real World Example of Using R in SQL Server
@@ -193,7 +193,7 @@ Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 67148
 # Adaptive Query Plans? What’s up with that?
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Gail Shaw
 ## Title: Adaptive Query Plans? What’s up with that?
@@ -204,7 +204,7 @@ This session will show why this is a radical departure from the way that things 
 #  
 #### SessionID: 67363
 # Who Needs Numbers? Patterns for Non-Numeric Measures in DAX
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: James McGillivray
 ## Title: Who Needs Numbers? Patterns for Non-Numeric Measures in DAX
@@ -215,7 +215,7 @@ We'll start the session by understanding what a Non-Numeric Measure is, and iden
 #  
 #### SessionID: 67813
 # Extended events – say goodbye SQL Profiler
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: DBA
 ## Speaker: Nolan Schoonraad
 ## Title: Extended events – say goodbye SQL Profiler
@@ -224,7 +224,7 @@ Event Date: 09-09-2017 - Session time: 15:00:00 - Track: DBA
 #  
 #### SessionID: 68475
 # Running and interacting with SQL Server 2017 in Windows and Linux Containers
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: DBA
 ## Speaker: Heinrich Smit
 ## Title: Running and interacting with SQL Server 2017 in Windows and Linux Containers
@@ -233,7 +233,7 @@ Event Date: 09-09-2017 - Session time: 15:00:00 - Track: DBA
 #  
 #### SessionID: 67804
 # Zero to Pi to 10 on Cloud,Intro to Windows 10 IoT Core on a Raspberry Pi and BI using Azure IoT Hub
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Arohan Naidoo
 ## Title: Zero to Pi to 10 on Cloud,Intro to Windows 10 IoT Core on a Raspberry Pi and BI using Azure IoT Hub
@@ -242,7 +242,7 @@ Event Date: 09-09-2017 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67923
 # How to Maintain the Same Level of utilities in Cloud Deployments
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Denny Cherry
 ## Title: How to Maintain the Same Level of utilities in Cloud Deployments
@@ -259,7 +259,7 @@ Join us for this fun session and learn how to improve the security, reliability 
 #  
 #### SessionID: 68411
 # Optimizing Database Access And Diving Into .Net SqlClient
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Mladen Prajdić
 ## Title: Optimizing Database Access And Diving Into .Net SqlClient
@@ -268,7 +268,7 @@ Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 68822
 # Successfully Virtualizing SQL Server on vSphere - Straight from the Source
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Cloud Services
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
@@ -277,7 +277,7 @@ Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Cloud Services
 #  
 #### SessionID: 69347
 # Data Platform - Azure Data Warehouse, Fast Track Reference Architecture  Analytics Platform System
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cornelus Dannhauser
 ## Title: Data Platform - Azure Data Warehouse, Fast Track Reference Architecture  Analytics Platform System
@@ -286,7 +286,7 @@ Event Date: 09-09-2017 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 69359
 # Working with Azure Data, Services and Azure SQL for your Applications
-#### [Back to calendar](#SQLSaturday-#637---Cape-Town-2017)
+#### [Back to calendar](#SQLSaturday-#637-Cape-Town-2017)
 Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Cloud Services
 ## Speaker: Adnan Hendricks
 ## Title: Working with Azure Data, Services and Azure SQL for your Applications

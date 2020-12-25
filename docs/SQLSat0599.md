@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 56694
 # Azure SQL Database - the cloud awakens
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alexander Arvidsson
 ## Title: Azure SQL Database - the cloud awakens
@@ -40,7 +40,7 @@ Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 56951
 # Problem Solving With The In-Memory Engine
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christopher Adkin
 ## Title: Problem Solving With The In-Memory Engine
@@ -55,7 +55,7 @@ Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 56960
 # Continuous Integration and the Data Warehouse [EN]
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: John Tunnicliffe
 ## Title: Continuous Integration and the Data Warehouse [EN]
@@ -74,7 +74,7 @@ Event Date: 27-05-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 59430
 # A Game of Hierarchies: Mastering Recursive Queries
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: A Game of Hierarchies: Mastering Recursive Queries
@@ -88,7 +88,7 @@ Join this session for a journey through best practices to transform your hierarc
 #  
 #### SessionID: 63838
 # From the start to the end of a Performance battle (a story from real life)
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Margarita Naumova
 ## Title: From the start to the end of a Performance battle (a story from real life)
@@ -97,7 +97,7 @@ Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 56772
 # SQL Server Myths and Misconceptions
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Miroslav Dimitrov
 ## Title: SQL Server Myths and Misconceptions
@@ -106,7 +106,7 @@ Event Date: 27-05-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 57058
 # Are your SQL Server indexes effective?
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Ivan Donev
 ## Title: Are your SQL Server indexes effective?
@@ -115,7 +115,7 @@ Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Application  Database D
 #  
 #### SessionID: 61506
 # Why TSQL was the language of the year!
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Terry McCann
 ## Title: Why TSQL was the language of the year!
@@ -124,7 +124,7 @@ Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Application  Database D
 #  
 #### SessionID: 61625
 # SSIS Common Design Patterns, Tips  Tricks
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathon Eve-O'Connor
 ## Title: SSIS Common Design Patterns, Tips  Tricks
@@ -144,7 +144,7 @@ The talk will focus on the following patterns:
 #  
 #### SessionID: 57183
 # Creating Custom BI Solutions with Power BI Embedded
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Creating Custom BI Solutions with Power BI Embedded
@@ -155,7 +155,7 @@ This talk is a practical session on Microsoft Power BI Embedded concept with man
 #  
 #### SessionID: 59496
 # Enabling Citizen Data Science with Microsoft
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jan Mulkens
 ## Title: Enabling Citizen Data Science with Microsoft
@@ -171,7 +171,7 @@ Using a combination of theory and demo’s, we explore Microsoft’s solutions t
 #  
 #### SessionID: 63800
 # I am a DBA! "What is the next"?
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rozalina Zaharieva
 ## Title: I am a DBA! "What is the next"?
@@ -180,7 +180,7 @@ Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 64551
 # Integrating schema-free data into the relational world
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Strategy and Architecture
 ## Speaker: Ezra Levi
 ## Title: Integrating schema-free data into the relational world
@@ -190,7 +190,7 @@ We do so by collaborating the technologies of all worlds together, using SQL Ser
 #  
 #### SessionID: 58093
 # Meta-Data Driven Tabular Modeling with TOM in SSAS
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Meta-Data Driven Tabular Modeling with TOM in SSAS
@@ -200,7 +200,7 @@ For example, you need to generate set of new measures every year or end users wa
 #  
 #### SessionID: 61514
 # Exploring Dark Data with SQL Server 2016 and R
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Oliver Frost
 ## Title: Exploring Dark Data with SQL Server 2016 and R
@@ -213,7 +213,7 @@ This session is for anyone who is new to R and is interested in expanding their 
 #  
 #### SessionID: 62734
 # Hacking SQL Server
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server
@@ -226,7 +226,7 @@ This is a demo-driven session, suited for DBAs, developers and security consulta
 #  
 #### SessionID: 63731
 # SQL Server Collation: A small leak will sink a great ship
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Iva Velkova
 ## Title: SQL Server Collation: A small leak will sink a great ship
@@ -237,7 +237,7 @@ What are the good practices and how to cope with different collations? What kind
 #  
 #### SessionID: 66201
 # SQL 2 Go
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Valio Bonev
 ## Title: SQL 2 Go
@@ -246,7 +246,7 @@ Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 56776
 # SQL Server 2016: New and improved features in SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gilberto Zampatti
 ## Title: SQL Server 2016: New and improved features in SQL Server Integration Services
@@ -255,7 +255,7 @@ Event Date: 27-05-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 61511
 # Azure SQL Datawarehouse: 0-100 DWUs
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Whiteley
 ## Title: Azure SQL Datawarehouse: 0-100 DWUs
@@ -277,7 +277,7 @@ We will then dive into HOW to use it, looking at some real-life design patterns,
 #  
 #### SessionID: 62399
 # Running MSSQL on Mac OS - Mission Possible
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Miroslav Lessev
 ## Title: Running MSSQL on Mac OS - Mission Possible
@@ -289,7 +289,7 @@ The session will include a live demo, so you will be able to see step by step th
 #  
 #### SessionID: 62927
 # Geocoding with SQL Server, Bing and Google Maps API
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Analytics and Visualization
 ## Speaker: Andrea Martorana Tusa
 ## Title: Geocoding with SQL Server, Bing and Google Maps API
@@ -306,7 +306,7 @@ In this session we will learn:
 #  
 #### SessionID: 56774
 # SQL Server 2016: Improvements to In-Memory OLTP
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Gilberto Zampatti
 ## Title: SQL Server 2016: Improvements to In-Memory OLTP
@@ -315,7 +315,7 @@ Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Application  Database D
 #  
 #### SessionID: 56997
 # Embrace the future: Running SQL Server in containers
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kaloyan Kosev
 ## Title: Embrace the future: Running SQL Server in containers
@@ -324,7 +324,7 @@ Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 57029
 # CSI: Database
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Application  Database Development
 ## Speaker: Andrey Nikolov
 ## Title: CSI: Database
@@ -333,7 +333,7 @@ Event Date: 27-05-2017 - Session time: 17:00:00 - Track: Application  Database D
 #  
 #### SessionID: 63788
 # Azure Data Factory. Ingest,prepare, transform and publish your data
-#### [Back to calendar](#SQLSaturday-#599---Plovdiv-2017)
+#### [Back to calendar](#SQLSaturday-#599-Plovdiv-2017)
 Event Date: 27-05-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Polonichko
 ## Title: Azure Data Factory. Ingest,prepare, transform and publish your data

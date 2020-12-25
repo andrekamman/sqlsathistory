@@ -22,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 37836
 # Real World Error Handling in SQL Server
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Niels Berglund
 ## Title: Real World Error Handling in SQL Server
@@ -32,7 +32,7 @@ However, in the "real world" it may not be so straight forward as just using thi
 #  
 #### SessionID: 39309
 # Dynamic Management Views and Functions - a Practical Overview
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Sean Cremer
 ## Title: Dynamic Management Views and Functions - a Practical Overview
@@ -44,7 +44,7 @@ This session will cover the more commonly used Dynamic Management Views and intr
 #  
 #### SessionID: 40069
 # Designing and Building SQL Database Apps for IoT Scenarios
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Peter Willmot
 ## Title: Designing and Building SQL Database Apps for IoT Scenarios
@@ -53,7 +53,7 @@ Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 37944
 # Microsoft Steam Analytics and Real-Time Data Visualisation
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Gary Hope
 ## Title: Microsoft Steam Analytics and Real-Time Data Visualisation
@@ -62,7 +62,7 @@ Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 38099
 # RC, SI, and RCSI, Oh My! –We're off to see the Wizard -to understand how it all works.
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Arnie Rowland
 ## Title: RC, SI, and RCSI, Oh My! –We're off to see the Wizard -to understand how it all works.
@@ -71,7 +71,7 @@ Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 38158
 # All about Execution Plans
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gail Shaw
 ## Title: All about Execution Plans
@@ -86,7 +86,7 @@ We'll look at where to find useful information in execution plans, what the comm
 #  
 #### SessionID: 37846
 # Business Analytics with SQL Server  Power Map:Everything you want to know but were afraid to ask 
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Steve Simon
 ## Title: Business Analytics with SQL Server  Power Map:Everything you want to know but were afraid to ask 
@@ -96,7 +96,7 @@ In the hands-on presentation we shall be constructing a few simple analytic repo
 #  
 #### SessionID: 39722
 # tSQLt - Database Unit Testing
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Clinton van Blommestein
 ## Title: tSQLt - Database Unit Testing
@@ -116,7 +116,7 @@ We will go through setting up the framework, how to write tests and run them - e
 #  
 #### SessionID: 37842
 # Efficient and Effective coding of Stored Procedures
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Steve Simon
 ## Title: Efficient and Effective coding of Stored Procedures
@@ -126,7 +126,7 @@ In this hands-on presentation, we shall be looking at best practices with regard
 #  
 #### SessionID: 38130
 # Backups? What backups?
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gail Shaw
 ## Title: Backups? What backups?
@@ -141,7 +141,7 @@ We’ll look at transaction log backups, at why they are an essential part of th
 #  
 #### SessionID: 40450
 # Automating your data-warehouse development with BIML
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael Johnson
 ## Title: Automating your data-warehouse development with BIML
@@ -150,7 +150,7 @@ Event Date: 19-09-2015 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 37945
 # Microsoft Machine Learning Overview
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Gary Hope
 ## Title: Microsoft Machine Learning Overview
@@ -159,7 +159,7 @@ Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 38131
 # Lies, Damned Lies And Statistics
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gail Shaw
 ## Title: Lies, Damned Lies And Statistics
@@ -172,7 +172,7 @@ Finally we'll cover some suggestions and options around maintenance of statistic
 #  
 #### SessionID: 38961
 # What's New for SQL Developers in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Niels Berglund
 ## Title: What's New for SQL Developers in SQL Server 2016
@@ -183,7 +183,7 @@ Things we will look at is:  improvements to In-Memory OLTP (the "artist" formerl
 #  
 #### SessionID: 37844
 # SQL Server Reporting Services 2014 on Steroids!!
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services 2014 on Steroids!!
@@ -196,7 +196,7 @@ We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as
 #  
 #### SessionID: 40482
 # Dynamic SQL, not so scary?
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Trevor Makoni
 ## Title: Dynamic SQL, not so scary?
@@ -209,7 +209,7 @@ I will also look at how to store the result of a SQL select into a .NET Data Tab
 #  
 #### SessionID: 40797
 # Query Performance QA
-#### [Back to calendar](#SQLSaturday-#455---Durban-2015)
+#### [Back to calendar](#SQLSaturday-#455-Durban-2015)
 Event Date: 19-09-2015 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Arnie Rowland
 ## Title: Query Performance QA

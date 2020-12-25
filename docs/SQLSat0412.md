@@ -7,7 +7,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 14406
 # Microsoft Azure y MS SQL Server 2014 como Plataforma Hibrida
-#### [Back to calendar](#SQLSaturday-#412---Ica-2015)
+#### [Back to calendar](#SQLSaturday-#412-Ica-2015)
 Event Date: 04-07-2015 - Session time: 00:00:00 - Track: Other
 ## Speaker: German Cayo
 ## Title: Microsoft Azure y MS SQL Server 2014 como Plataforma Hibrida
@@ -16,7 +16,7 @@ Event Date: 04-07-2015 - Session time: 00:00:00 - Track: Other
 #  
 #### SessionID: 21932
 # Cardinality Estimator en SQL Server 2014. #191;Qu#233; es? Y c#243;mo nos ben
-#### [Back to calendar](#SQLSaturday-#412---Ica-2015)
+#### [Back to calendar](#SQLSaturday-#412-Ica-2015)
 Event Date: 04-07-2015 - Session time: 00:00:00 - Track: Other
 ## Speaker: Percy Reyes
 ## Title: Cardinality Estimator en SQL Server 2014. #191;Qu#233; es? Y c#243;mo nos ben

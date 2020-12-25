@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 86740
 # Test Driven Development in SQL Server – how to deploy code safer
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Hamish Watson
 ## Title: Test Driven Development in SQL Server – how to deploy code safer
@@ -40,7 +40,7 @@ A comprehensive DEMO will reveal how Test Driven Development can help you deploy
 #  
 #### SessionID: 87192
 # Taming of the Shrew - Optimizing Power BI
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Business Intelligence/Machine Learning
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Taming of the Shrew - Optimizing Power BI
@@ -56,7 +56,7 @@ Understand when a problem is really a problem.
 #  
 #### SessionID: 87795
 # SQL 101: A Very Good Place To Start
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: SQL 101
 ## Speaker: josh smith
 ## Title: SQL 101: A Very Good Place To Start
@@ -65,7 +65,7 @@ Event Date: 23-03-2019 - Session time: 15:30:00 - Track: SQL 101
 #  
 #### SessionID: 87918
 # Introduction to Azure AI - The Art of the possible
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Business Intelligence/Machine Learning
 ## Speaker: Melody Zacharias
 ## Title: Introduction to Azure AI - The Art of the possible
@@ -74,7 +74,7 @@ Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Business Intelligence/M
 #  
 #### SessionID: 86396
 # 2,4,8  16 - Visualise your data platform upgrade journey with SQL Server
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Satya Jayanty
 ## Title: 2,4,8  16 - Visualise your data platform upgrade journey with SQL Server
@@ -93,7 +93,7 @@ We will cover the an end-to-end upgrade cycle, including the preparation tasks, 
 #  
 #### SessionID: 86535
 # Data Cleansing With SQL And R
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Kevin Feasel
 ## Title: Data Cleansing With SQL And R
@@ -102,7 +102,7 @@ Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
 #  
 #### SessionID: 87093
 # DevOps 101 for Data People
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: DevOps/DataOps
 ## Speaker: Alex Yates
 ## Title: DevOps 101 for Data People
@@ -117,7 +117,7 @@ In this interactive talk I'll explain what DevOps is, where it came from, and it
 #  
 #### SessionID: 88514
 # SQL Server  Containers
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Andrew Pruski
 ## Title: SQL Server  Containers
@@ -137,7 +137,7 @@ A real world implementation of containers
 #  
 #### SessionID: 86970
 # CosmosDB - Understanding the main factors for successfull deployment
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Armando Lacerda
 ## Title: CosmosDB - Understanding the main factors for successfull deployment
@@ -147,7 +147,7 @@ In this session packed with demos you will see how to cross the bridge between S
 #  
 #### SessionID: 88061
 # Administrating SQL Server with PowerShell dbatools
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Rob Sewell
 ## Title: Administrating SQL Server with PowerShell dbatools
@@ -168,7 +168,7 @@ All this in a fast paced, fun session
 #  
 #### SessionID: 88476
 # Be Friendly to SQL Server with TSQL Best Practices
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Ben Miller
 ## Title: Be Friendly to SQL Server with TSQL Best Practices
@@ -177,7 +177,7 @@ Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
 #  
 #### SessionID: 89121
 # Why Solidity is Solid – Basics of Ethereum, Smart Contracts, and Blockchain.
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Business Intelligence/Machine Learning
 ## Speaker: Swagatika Sarangi
 ## Title: Why Solidity is Solid – Basics of Ethereum, Smart Contracts, and Blockchain.
@@ -192,7 +192,7 @@ Topics that I will cover in this session –
 #  
 #### SessionID: 86688
 # Demystifying Chart Types and Report Design Principles in Power BI
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Business Intelligence/Machine Learning
 ## Speaker: Reid Havens
 ## Title: Demystifying Chart Types and Report Design Principles in Power BI
@@ -201,7 +201,7 @@ Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Business Intelligence/M
 #  
 #### SessionID: 87210
 # Don't Use Cursors or Why You Maybe Should Use a Cursor After All
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Don't Use Cursors or Why You Maybe Should Use a Cursor After All
@@ -210,7 +210,7 @@ Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
 #  
 #### SessionID: 89692
 # Antipattern Assumptions in Data
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: DevOps/DataOps
 ## Speaker: Rebecca Long
 ## Title: Antipattern Assumptions in Data
@@ -219,7 +219,7 @@ Event Date: 23-03-2019 - Session time: 15:30:00 - Track: DevOps/DataOps
 #  
 #### SessionID: 90611
 # Continuously Deploy Azure Analytics Solutions using Azure DevOps
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: DevOps/DataOps
 ## Speaker: Philip Spokas
 ## Title: Continuously Deploy Azure Analytics Solutions using Azure DevOps
@@ -236,7 +236,7 @@ We'll cover practices required including configuration and testing to insure suc
 #  
 #### SessionID: 87110
 # TSQL User Defined Functions – Taboo or not?
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Steve Stedman
 ## Title: TSQL User Defined Functions – Taboo or not?
@@ -247,7 +247,7 @@ We will explore how in-lining improves performance, along with what you can do a
 #  
 #### SessionID: 86889
 # Predictive Analytics with R in Power BI
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Business Intelligence/Machine Learning
 ## Speaker: Joseph Yeates
 ## Title: Predictive Analytics with R in Power BI
@@ -256,7 +256,7 @@ Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Business Intelligence/M
 #  
 #### SessionID: 88750
 # On Transactions and Atomic Operations
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Gail Shaw
 ## Title: On Transactions and Atomic Operations
@@ -277,7 +277,7 @@ In this session, we’ll look at what transactions are and why we should use the
 #  
 #### SessionID: 89331
 # PoSh on SSRS - Essential Skills to manage your RS with PowerShell
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Administration
 ## Speaker: Michael Wall
 ## Title: PoSh on SSRS - Essential Skills to manage your RS with PowerShell
@@ -286,7 +286,7 @@ Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Administration
 #  
 #### SessionID: 89701
 # Using Columnstore indexes in Azure DevOps Services. Lessons learned
-#### [Back to calendar](#SQLSaturday-#822---Spokane-2019)
+#### [Back to calendar](#SQLSaturday-#822-Spokane-2019)
 Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
 ## Speaker: Konstantin Kosinsky
 ## Title: Using Columnstore indexes in Azure DevOps Services. Lessons learned

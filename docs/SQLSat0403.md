@@ -45,7 +45,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 12355
 # CSI: DW -- Anatomy of a VLDW!
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI
 ## Speaker: Dave Fackler
 ## Title: CSI: DW -- Anatomy of a VLDW!
@@ -54,7 +54,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI
 #  
 #### SessionID: 13489
 # How In-Memory Database Objects Affect Database Design
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 ## Speaker: Louis Davidson
 ## Title: How In-Memory Database Objects Affect Database Design
@@ -63,7 +63,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 #  
 #### SessionID: 24600
 # How to Determine What Data Is Corrupt
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 ## Speaker: Frank Gill
 ## Title: How to Determine What Data Is Corrupt
@@ -72,7 +72,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 #  
 #### SessionID: 37105
 # Availability Groups 101: An Introduction
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Adam Belebczuk
 ## Title: Availability Groups 101: An Introduction
@@ -81,7 +81,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 #  
 #### SessionID: 37250
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -90,7 +90,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 38265
 # 14 Features in SQL Server 2014 You Haven't Considered
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Tony Milne
 ## Title: 14 Features in SQL Server 2014 You Haven't Considered
@@ -99,7 +99,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 #  
 #### SessionID: 28134
 # Getting Started with MDX
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
@@ -108,7 +108,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI
 #  
 #### SessionID: 36585
 # Introduction to Wait Types and Response Time Analysis
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Janis Griffin
 ## Title: Introduction to Wait Types and Response Time Analysis
@@ -118,7 +118,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 #  
 #### SessionID: 37604
 # SQL Server In-Memory OLTP Index Internals
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 ## Speaker: Tim Chapman
 ## Title: SQL Server In-Memory OLTP Index Internals
@@ -128,7 +128,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 #  
 #### SessionID: 37994
 # SQL Server and PowerShell: Let's Get Serious
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Powershell
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
@@ -137,7 +137,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Powershell
 #  
 #### SessionID: 38286
 # How are your SSAS cubes and Tabular Models Performing
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI
 ## Speaker: Kenney Snell
 ## Title: How are your SSAS cubes and Tabular Models Performing
@@ -151,7 +151,7 @@ Both SSAS multidimensional cubes and Tabular models consume system resources dif
 #  
 #### SessionID: 38322
 # A Day in the Life of a Row: Internals Deep Dive
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 ## Speaker: Eddie Wuerch
 ## Title: A Day in the Life of a Row: Internals Deep Dive
@@ -162,7 +162,7 @@ Attend this advanced session and you will be able to: * View and interpret raw d
 #  
 #### SessionID: 10863
 # Using Extended Events in SQL Server
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 ## Speaker: Jason Brimhall
 ## Title: Using Extended Events in SQL Server
@@ -171,7 +171,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 #  
 #### SessionID: 13706
 # Introduction to SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI
 ## Speaker: Ed Watson
 ## Title: Introduction to SQL Server Integration Services
@@ -180,7 +180,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI
 #  
 #### SessionID: 17227
 # What's your Character Type?
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: John Deardurff
 ## Title: What's your Character Type?
@@ -189,7 +189,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 #  
 #### SessionID: 37252
 # Continuous Integration for Databases
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Developer
 ## Speaker: Steve Jones
 ## Title: Continuous Integration for Databases
@@ -198,7 +198,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Developer
 #  
 #### SessionID: 38239
 # Powershell and the Art of SQL Server Deployment
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Powershell
 ## Speaker: Michael Fal
 ## Title: Powershell and the Art of SQL Server Deployment
@@ -207,7 +207,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Powershell
 #  
 #### SessionID: 38308
 # Table Vars and Temp Tables – What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars and Temp Tables – What you NEED to Know!
@@ -216,7 +216,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 #  
 #### SessionID: 37996
 # Microsoft Analytics - Any Data and Anywhere
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Big Data/Cloud
 ## Speaker: Madhu Desarapu
 ## Title: Microsoft Analytics - Any Data and Anywhere
@@ -229,7 +229,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Big Data/Cloud
 #  
 #### SessionID: 39944
 # How All-Flash Arrays Transform Database Operations and Engineering
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Argenis Fernandez
 ## Title: How All-Flash Arrays Transform Database Operations and Engineering
@@ -239,7 +239,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 #  
 #### SessionID: 40142
 # The Infrastructure Admin/DBA Relationship
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Brent Earls
 ## Title: The Infrastructure Admin/DBA Relationship
@@ -281,7 +281,7 @@ High level overview
 #  
 #### SessionID: 12259
 # Database: The Motion Picture
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Big Data/Cloud
 ## Speaker: Dave Mattingly
 ## Title: Database: The Motion Picture
@@ -290,7 +290,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Big Data/Cloud
 #  
 #### SessionID: 27835
 # Read Dirty to Me - Isolation Levels/User Impact
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Wendy Pastrick
 ## Title: Read Dirty to Me - Isolation Levels/User Impact
@@ -299,7 +299,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 #  
 #### SessionID: 36279
 # Who needs SSAS when you've got SQL?
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI
 ## Speaker: Meagan Longoria
 ## Title: Who needs SSAS when you've got SQL?
@@ -308,7 +308,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI
 #  
 #### SessionID: 37018
 # Spatial Data - Looking Outside the Map
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 ## Speaker: Hope Foley
 ## Title: Spatial Data - Looking Outside the Map
@@ -317,7 +317,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 #  
 #### SessionID: 38224
 # Data Analysis With SQL Window Functions
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Developer
 ## Speaker: Adam McDonald
 ## Title: Data Analysis With SQL Window Functions
@@ -326,7 +326,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Developer
 #  
 #### SessionID: 38238
 # Powershell Tips and Tricks for SQL Server Administration
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Powershell
 ## Speaker: Michael Fal
 ## Title: Powershell Tips and Tricks for SQL Server Administration
@@ -335,7 +335,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Powershell
 #  
 #### SessionID: 38296
 # SSIS Project Deployment Model: Deployment and maintenance
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Developer
 ## Speaker: Bill Fellows
 ## Title: SSIS Project Deployment Model: Deployment and maintenance
@@ -344,7 +344,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Developer
 #  
 #### SessionID: 24572
 # SQL Server 2014 Cardinality Estimator changes  
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Sreeni Julakanti
 ## Title: SQL Server 2014 Cardinality Estimator changes  
@@ -359,7 +359,7 @@ Note : Presentation based on recent white paper released from Microsoft.
 #  
 #### SessionID: 27580
 # Leveraging CDC and SSIS for ODS/DM/DW Loads
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI
 ## Speaker: Warren Sifre
 ## Title: Leveraging CDC and SSIS for ODS/DM/DW Loads
@@ -368,7 +368,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI
 #  
 #### SessionID: 36116
 # Silent Performance Killers Lurking in Your Code
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Developer
 ## Speaker: Mickey Stuewe
 ## Title: Silent Performance Killers Lurking in Your Code
@@ -377,7 +377,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Developer
 #  
 #### SessionID: 37289
 # Advanced Troubleshooting Your SQL Connections
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Mike Hays
 ## Title: Advanced Troubleshooting Your SQL Connections
@@ -386,7 +386,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 #  
 #### SessionID: 37376
 # Getting Started With SQL Server Replication
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Robert Verell
 ## Title: Getting Started With SQL Server Replication
@@ -395,7 +395,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 #  
 #### SessionID: 37405
 # Treating Tables Like Legos, Partitioning Basics
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 ## Speaker: Brandon Leach
 ## Title: Treating Tables Like Legos, Partitioning Basics
@@ -404,7 +404,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 #  
 #### SessionID: 13329
 # Turbo-Charged Transaction Logs
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 ## Speaker: David Maxwell
 ## Title: Turbo-Charged Transaction Logs
@@ -417,7 +417,7 @@ for maximum throughput, and what to do when things get out of control.
 #  
 #### SessionID: 37341
 # Beginners SQL Server Security the Low Hanging Fruit
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Lindsay Clark
 ## Title: Beginners SQL Server Security the Low Hanging Fruit
@@ -426,7 +426,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 #  
 #### SessionID: 37756
 # Keys to Successful SharePoint Administration for the DBA
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 ## Speaker: Daniel Glenn
 ## Title: Keys to Successful SharePoint Administration for the DBA
@@ -436,7 +436,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: DBA
 #  
 #### SessionID: 38190
 # Putting the Squeeze on Large Tables: Improve Performance and Save Space with Data Compression
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 ## Speaker: Justin Randall
 ## Title: Putting the Squeeze on Large Tables: Improve Performance and Save Space with Data Compression
@@ -445,7 +445,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 #  
 #### SessionID: 38268
 # Revenge: The SQL! - Director's Cut
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced DBA
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL! - Director's Cut
@@ -460,7 +460,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 38297
 # What is Biml and why are SSIS people talking about it?
-#### [Back to calendar](#SQLSaturday-#403---Louisville-2015)
+#### [Back to calendar](#SQLSaturday-#403-Louisville-2015)
 Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI
 ## Speaker: Bill Fellows
 ## Title: What is Biml and why are SSIS people talking about it?

@@ -21,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 40786
 # Reporting Services with Geospatial Visualization
-#### [Back to calendar](#SQLSaturday-#481---Israel-2016)
+#### [Back to calendar](#SQLSaturday-#481-Israel-2016)
 Event Date: 04-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Alexander Karl
 ## Title: Reporting Services with Geospatial Visualization
@@ -31,7 +31,7 @@ specifically: „from address data to data-presentation in SSRS Mapcontrol in 3 
 #  
 #### SessionID: 42647
 # TDE - Encrypting your DB with PKI
-#### [Back to calendar](#SQLSaturday-#481---Israel-2016)
+#### [Back to calendar](#SQLSaturday-#481-Israel-2016)
 Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alon Spiegel
 ## Title: TDE - Encrypting your DB with PKI
@@ -42,7 +42,7 @@ After this one session you will understand the most common encryption/decryption
 #  
 #### SessionID: 46747
 # Revolutionizing Microsoft Analytics
-#### [Back to calendar](#SQLSaturday-#481---Israel-2016)
+#### [Back to calendar](#SQLSaturday-#481-Israel-2016)
 Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Roei Basha
 ## Title: Revolutionizing Microsoft Analytics
@@ -52,7 +52,7 @@ Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 40854
 # Practical SQL 2014\2016 Data Mining and introduction to R
-#### [Back to calendar](#SQLSaturday-#481---Israel-2016)
+#### [Back to calendar](#SQLSaturday-#481-Israel-2016)
 Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Itshak David
 ## Title: Practical SQL 2014\2016 Data Mining and introduction to R
@@ -72,7 +72,7 @@ Microsoft have acquired Revolution Analytics in order to help customers to find 
 #  
 #### SessionID: 40866
 # SQL Server execution plans – hidden and tricky optimizations
-#### [Back to calendar](#SQLSaturday-#481---Israel-2016)
+#### [Back to calendar](#SQLSaturday-#481-Israel-2016)
 Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Fabiano Amorim
 ## Title: SQL Server execution plans – hidden and tricky optimizations
@@ -81,7 +81,7 @@ Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 42476
 # Understanding latches
-#### [Back to calendar](#SQLSaturday-#481---Israel-2016)
+#### [Back to calendar](#SQLSaturday-#481-Israel-2016)
 Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Adi Cohn
 ## Title: Understanding latches
@@ -90,7 +90,7 @@ Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 42628
 # T-SQL User-Defined Functions, or: Bad Performance Made Easy
-#### [Back to calendar](#SQLSaturday-#481---Israel-2016)
+#### [Back to calendar](#SQLSaturday-#481-Israel-2016)
 Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: T-SQL User-Defined Functions, or: Bad Performance Made Easy
@@ -101,7 +101,7 @@ However, you will also see that there is a way to avoid the problems. With just 
 #  
 #### SessionID: 42852
 # Inside Columnar Indexes in SQL Server 14  16
-#### [Back to calendar](#SQLSaturday-#481---Israel-2016)
+#### [Back to calendar](#SQLSaturday-#481-Israel-2016)
 Event Date: 04-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Assaf Fraenkel
 ## Title: Inside Columnar Indexes in SQL Server 14  16
@@ -110,7 +110,7 @@ Event Date: 04-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 46731
 # Azure SQL DWH - is it just a big table? closer look into MSFT DWH solution
-#### [Back to calendar](#SQLSaturday-#481---Israel-2016)
+#### [Back to calendar](#SQLSaturday-#481-Israel-2016)
 Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Shy Engelberg
 ## Title: Azure SQL DWH - is it just a big table? closer look into MSFT DWH solution
@@ -121,7 +121,7 @@ What are the scenarios it fits and what should we expect when using it.
 #  
 #### SessionID: 48984
 # One BI Platform to Rule Them All!
-#### [Back to calendar](#SQLSaturday-#481---Israel-2016)
+#### [Back to calendar](#SQLSaturday-#481-Israel-2016)
 Event Date: 04-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Niv Feldman
 ## Title: One BI Platform to Rule Them All!
@@ -130,7 +130,7 @@ Event Date: 04-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 40912
 # No Schema, No Problem! – Introduction to Azure DocumentDB
-#### [Back to calendar](#SQLSaturday-#481---Israel-2016)
+#### [Back to calendar](#SQLSaturday-#481-Israel-2016)
 Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Leonard Lobel
 ## Title: No Schema, No Problem! – Introduction to Azure DocumentDB
@@ -141,7 +141,7 @@ We begin by explaining NoSQL and document databases, and how they compare with t
 #  
 #### SessionID: 41491
 # Understanding the Azure Data Stack
-#### [Back to calendar](#SQLSaturday-#481---Israel-2016)
+#### [Back to calendar](#SQLSaturday-#481-Israel-2016)
 Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Matan Yungman
 ## Title: Understanding the Azure Data Stack
@@ -158,7 +158,7 @@ Join this session to know how the DBA's role might be affected, get an understan
 #  
 #### SessionID: 42782
 # TempDB how its works?
-#### [Back to calendar](#SQLSaturday-#481---Israel-2016)
+#### [Back to calendar](#SQLSaturday-#481-Israel-2016)
 Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dubi Lebel
 ## Title: TempDB how its works?
@@ -169,7 +169,7 @@ In this lecture  we will light up a number of dark corners, explain how really T
 #  
 #### SessionID: 40761
 # Watch Brent Tune Queries
-#### [Back to calendar](#SQLSaturday-#481---Israel-2016)
+#### [Back to calendar](#SQLSaturday-#481-Israel-2016)
 Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Brent Ozar
 ## Title: Watch Brent Tune Queries
@@ -178,7 +178,7 @@ Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 45364
 # Built-in JSON support in SQL Server 2016 and tips to improve performance
-#### [Back to calendar](#SQLSaturday-#481---Israel-2016)
+#### [Back to calendar](#SQLSaturday-#481-Israel-2016)
 Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Ronen Ariely
 ## Title: Built-in JSON support in SQL Server 2016 and tips to improve performance
@@ -191,7 +191,7 @@ In this session we will demonstrate several built-in JSON support functions in S
 #  
 #### SessionID: 48767
 # Datacenter modernization
-#### [Back to calendar](#SQLSaturday-#481---Israel-2016)
+#### [Back to calendar](#SQLSaturday-#481-Israel-2016)
 Event Date: 04-04-2016 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Sharon Oliar
 ## Title: Datacenter modernization

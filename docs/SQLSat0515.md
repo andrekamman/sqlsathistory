@@ -69,7 +69,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 44743
 # SharePoint 101 for Beginners
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SharePoint
 ## Speaker: Theresa Eller
 ## Title: SharePoint 101 for Beginners
@@ -78,7 +78,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SharePoint
 #  
 #### SessionID: 48696
 # Hiding Data from Prying Eyes:  Using SQL Server 2016 Always Encrypted
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Beginner
 ## Speaker: Mel Lusk
 ## Title: Hiding Data from Prying Eyes:  Using SQL Server 2016 Always Encrypted
@@ -87,7 +87,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Beginner
 #  
 #### SessionID: 49299
 # SQL Anti-Patterns and when it's Okay to be Bad
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Ken Clement
 ## Title: SQL Anti-Patterns and when it's Okay to be Bad
@@ -96,7 +96,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Development
 #  
 #### SessionID: 49652
 # Get addicted to MEF and use it in your architecture.
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Andie Saizan
 ## Title: Get addicted to MEF and use it in your architecture.
@@ -105,7 +105,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: .NET Dev
 #  
 #### SessionID: 50038
 # PowerShell Fundamentals for the Absolute Beginner
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Mike Robbins
 ## Title: PowerShell Fundamentals for the Absolute Beginner
@@ -114,7 +114,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 50370
 # Optimizing Backup and Restore Performance in Sql Server
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Robert Canzonire
 ## Title: Optimizing Backup and Restore Performance in Sql Server
@@ -126,7 +126,7 @@ I will discuss and demonstrate way I took a backup that ran in 279 minutes down 
 #  
 #### SessionID: 50452
 # Creating Cross-Platform Mobile Applications with Xamarin
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Mobile App Dev
 ## Speaker: James Alt
 ## Title: Creating Cross-Platform Mobile Applications with Xamarin
@@ -135,7 +135,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Mobile App Dev
 #  
 #### SessionID: 50584
 # Continuous Integration and Delivery
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Brandon Cornett
 ## Title: Continuous Integration and Delivery
@@ -144,7 +144,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: .NET Dev
 #  
 #### SessionID: 50856
 # Should you care about Leadership Skills? A System Engineer's view
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Career
 ## Speaker: Niraj Kumar
 ## Title: Should you care about Leadership Skills? A System Engineer's view
@@ -153,7 +153,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Career
 #  
 #### SessionID: 50862
 # SQL Server R Services in SQL 2016
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
@@ -162,7 +162,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 51054
 # Simple Steps for Starting Your Business
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Career
 ## Speaker: Stacy Vicknair
 ## Title: Simple Steps for Starting Your Business
@@ -177,7 +177,7 @@ In this session Bob Breaux from the Baton Rouge SCORE chapter will introduce you
 #  
 #### SessionID: 51080
 # Building an Awesome UI with React and Redux
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Web Dev
 ## Speaker: Alex Clavelle
 ## Title: Building an Awesome UI with React and Redux
@@ -186,7 +186,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Web Dev
 #  
 #### SessionID: 51091
 # CIO Strategy Panel
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: IT Executive
 ## Speaker: Patrick Thompson
 ## Title: CIO Strategy Panel
@@ -195,7 +195,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: IT Executive
 #  
 #### SessionID: 44779
 # Testing SSIS Packages
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Tim Mitchell
 ## Title: Testing SSIS Packages
@@ -213,7 +213,7 @@ This session walks through design patterns for testing SSIS packages during and 
 #  
 #### SessionID: 46913
 # Organizing the Chaos.... Utilizing JIRA  Confluence for your project teams
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: IT Executive
 ## Speaker: Josh Dicharry
 ## Title: Organizing the Chaos.... Utilizing JIRA  Confluence for your project teams
@@ -226,7 +226,7 @@ We will show you how we have used JIRA and Confluence to organize and increase t
 #  
 #### SessionID: 48306
 # Hostile Takeover
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Beginner
 ## Speaker: Robert Bishop
 ## Title: Hostile Takeover
@@ -235,7 +235,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Beginner
 #  
 #### SessionID: 48417
 # User Experience: Empathy for our users (and teammates)
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Design
 ## Speaker: Lynsey Gwin
 ## Title: User Experience: Empathy for our users (and teammates)
@@ -244,7 +244,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Design
 #  
 #### SessionID: 48481
 # The Binary Language of Music
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Brian Rigsby
 ## Title: The Binary Language of Music
@@ -253,7 +253,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: .NET Dev
 #  
 #### SessionID: 49189
 # The Dirtiest Word in SharePoint - Governance
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SharePoint
 ## Speaker: Trace Armstrong
 ## Title: The Dirtiest Word in SharePoint - Governance
@@ -262,7 +262,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SharePoint
 #  
 #### SessionID: 50400
 # Cardinality Estimates in Microsoft SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Thomas LaRock
 ## Title: Cardinality Estimates in Microsoft SQL Server 2014
@@ -271,7 +271,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Development
 #  
 #### SessionID: 50603
 # Effective Software Application Logging
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Design
 ## Speaker: Jason Rowlen
 ## Title: Effective Software Application Logging
@@ -280,7 +280,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Design
 #  
 #### SessionID: 50672
 # Hi, my name is Powershell, let's be friends! An Intro to PoSH
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Amy Herold
 ## Title: Hi, my name is Powershell, let's be friends! An Intro to PoSH
@@ -289,7 +289,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 51062
 # Connecting Mobile Apps with an ASP.NET Web API
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Mobile App Dev
 ## Speaker: Brandon Cornett
 ## Title: Connecting Mobile Apps with an ASP.NET Web API
@@ -298,7 +298,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Mobile App Dev
 #  
 #### SessionID: 51085
 # Building a Simple SQL Server Partitioning Solution
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Stephen Fulcher
 ## Title: Building a Simple SQL Server Partitioning Solution
@@ -307,7 +307,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Development
 #  
 #### SessionID: 51141
 # Meet JSON in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Russel Loski
 ## Title: Meet JSON in SQL Server 2016
@@ -316,7 +316,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Development
 #  
 #### SessionID: 53044
 # Stand and Deliver: Elements of Effective Presentations
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Career
 ## Speaker: Nicole Payne-Jack
 ## Title: Stand and Deliver: Elements of Effective Presentations
@@ -325,7 +325,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Career
 #  
 #### SessionID: 46340
 # Strategic Decision Making and Problem Solving
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: IT Executive
 ## Speaker: Mechelle Roberthon
 ## Title: Strategic Decision Making and Problem Solving
@@ -335,7 +335,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: IT Executive
 #  
 #### SessionID: 46565
 # Giving Feedback: How to Effectively Communicate to your Employees
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: IT Executive
 ## Speaker: Christine Assaf
 ## Title: Giving Feedback: How to Effectively Communicate to your Employees
@@ -344,7 +344,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: IT Executive
 #  
 #### SessionID: 49306
 # Secrets for a Better SharePoint Experience
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SharePoint
 ## Speaker: Theresa Eller
 ## Title: Secrets for a Better SharePoint Experience
@@ -353,7 +353,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SharePoint
 #  
 #### SessionID: 50041
 # PowerShell Desired State Configuration from the Trenches
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Mike Robbins
 ## Title: PowerShell Desired State Configuration from the Trenches
@@ -362,7 +362,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 50444
 # SS2014/2016 In-Memory Tables --Formula One Performance Unleashed???
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Mike Byrd
 ## Title: SS2014/2016 In-Memory Tables --Formula One Performance Unleashed???
@@ -377,7 +377,7 @@ After this session you will
 #  
 #### SessionID: 50620
 # Actively Proactive – Straightforward Ways to Manage and Diagnose SQL
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Lori Brown
 ## Title: Actively Proactive – Straightforward Ways to Manage and Diagnose SQL
@@ -386,7 +386,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 50709
 # Ad Hoc Quality Assurance: A Practical Guide
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Lizzie Broussard
 ## Title: Ad Hoc Quality Assurance: A Practical Guide
@@ -395,7 +395,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: .NET Dev
 #  
 #### SessionID: 51024
 # Use SVG to Bring the Web to Life
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Design
 ## Speaker: Quinton Jason Jr
 ## Title: Use SVG to Bring the Web to Life
@@ -404,7 +404,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Design
 #  
 #### SessionID: 51089
 # Agile Myths and Lessons Learned
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: IT Executive
 ## Speaker: Steven McGee
 ## Title: Agile Myths and Lessons Learned
@@ -413,7 +413,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: IT Executive
 #  
 #### SessionID: 51095
 # Simplify ETL with BIML
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Tim Costello
 ## Title: Simplify ETL with BIML
@@ -422,7 +422,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Business Intelligence
 #  
 #### SessionID: 51103
 # From Dev to Deployment: DevOps for Your Mobile App
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Mobile App Dev
 ## Speaker: Seth Valdetero
 ## Title: From Dev to Deployment: DevOps for Your Mobile App
@@ -431,7 +431,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Mobile App Dev
 #  
 #### SessionID: 51104
 # Everything you ever wanted to know about query tuning in SQL 2016!
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Daniel Janik
 ## Title: Everything you ever wanted to know about query tuning in SQL 2016!
@@ -440,7 +440,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 51151
 # Toastmasters and what it can do for you
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Career
 ## Speaker: Jim Brown
 ## Title: Toastmasters and what it can do for you
@@ -449,7 +449,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Career
 #  
 #### SessionID: 45368
 # Careers in IT
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Career
 ## Speaker: Michael Viron
 ## Title: Careers in IT
@@ -458,7 +458,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Career
 #  
 #### SessionID: 45923
 # Advanced Topics in F#
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Jeremy Abbott
 ## Title: Advanced Topics in F#
@@ -468,7 +468,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: .NET Dev
 #  
 #### SessionID: 46594
 # Overview of Security Investments in SQL Server 2016 and Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Jamey Johnston
 ## Title: Overview of Security Investments in SQL Server 2016 and Azure SQL Database
@@ -478,7 +478,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Development
 #  
 #### SessionID: 48540
 # Azure SQL Database: 12 Things To Know
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Sven Aelterman
 ## Title: Azure SQL Database: 12 Things To Know
@@ -487,7 +487,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 50110
 # Planning Your SharePoint Online Migration Strategy
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SharePoint
 ## Speaker: Cody Gros
 ## Title: Planning Your SharePoint Online Migration Strategy
@@ -496,7 +496,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SharePoint
 #  
 #### SessionID: 50281
 # Beauty and the Bits:  Why both Left and Right Brain MUST be Engaged
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Career
 ## Speaker: Calvin Fabre
 ## Title: Beauty and the Bits:  Why both Left and Right Brain MUST be Engaged
@@ -505,7 +505,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Career
 #  
 #### SessionID: 50513
 # Digging Into ASP.NET Core 1
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Eric Trivette
 ## Title: Digging Into ASP.NET Core 1
@@ -514,7 +514,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: .NET Dev
 #  
 #### SessionID: 50671
 # Beginning Automation with Powershell
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Amy Herold
 ## Title: Beginning Automation with Powershell
@@ -523,7 +523,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: PowerShell
 #  
 #### SessionID: 50675
 # Business Analytics with Microsoft Business Intelligence
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Thomas LeBlanc
 ## Title: Business Analytics with Microsoft Business Intelligence
@@ -536,7 +536,7 @@ PowerBI and Excel can be used by analysts to view this data and produced fixed d
 #  
 #### SessionID: 51060
 # DIY Performance Reporting
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Sean McCown
 ## Title: DIY Performance Reporting
@@ -545,7 +545,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 51092
 # Business Analytics for Cadence Management
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: IT Executive
 ## Speaker: Patrick Thompson
 ## Title: Business Analytics for Cadence Management
@@ -556,7 +556,7 @@ Join Patrick Thompson, Sparkhound General Manager  Partner and former CIO for se
 #  
 #### SessionID: 51150
 # Unit Testing in a Team - A Kick Starter
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: Steve Schaneville
 ## Title: Unit Testing in a Team - A Kick Starter
@@ -567,7 +567,7 @@ Unlike most of my sessions in the past, we won't be writing any code or doing de
 #  
 #### SessionID: 52899
 # A Database Designer's Favorite Features in 2016: Security, Privac
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Karen Lopez
 ## Title: A Database Designer's Favorite Features in 2016: Security, Privac
@@ -578,7 +578,7 @@ We'll look at the new features, why you should consider them, where they work, w
 #  
 #### SessionID: 44712
 # The Data Warehouse of the Future
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: IT Executive
 ## Speaker: Stan Geiger
 ## Title: The Data Warehouse of the Future
@@ -587,7 +587,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: IT Executive
 #  
 #### SessionID: 45607
 # Fun Facts about Availability Groups
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Joe Hellsten
 ## Title: Fun Facts about Availability Groups
@@ -598,7 +598,7 @@ For Example  "max worker threads" minus 40 or Cross database ownership chaining 
 #  
 #### SessionID: 46139
 # Unraveling Tangled Code:A Spellbinding Tale of Victory Over Chaos
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Development
 ## Speaker: Jennifer McCown
 ## Title: Unraveling Tangled Code:A Spellbinding Tale of Victory Over Chaos
@@ -607,7 +607,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Development
 #  
 #### SessionID: 46842
 # Ways SQL Server Lies and the Performance Tuning Headaches It Can Cause.
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Lance Tidwell
 ## Title: Ways SQL Server Lies and the Performance Tuning Headaches It Can Cause.
@@ -616,7 +616,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 48267
 # Performance Monitoring AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Anthony Nocentino
 ## Title: Performance Monitoring AlwaysOn Availability Groups
@@ -625,7 +625,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 49485
 # History of the web and why even Javascript
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: .NET Dev
 ## Speaker: George Mauer
 ## Title: History of the web and why even Javascript
@@ -634,7 +634,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: .NET Dev
 #  
 #### SessionID: 49700
 # Pester the Tester: PowerShell Bugs Beware!
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Robert Cain
 ## Title: Pester the Tester: PowerShell Bugs Beware!
@@ -645,7 +645,7 @@ Pester is a friendly testing framework designed for testing your PowerShells scr
 #  
 #### SessionID: 49904
 # SQLSaturday Jeopardy!
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Career
 ## Speaker: William Assaf
 ## Title: SQLSaturday Jeopardy!
@@ -655,7 +655,7 @@ The first ever SQLSaturday Baton Rouge game show, where we will need 3 volunteer
 #  
 #### SessionID: 50016
 # Advanced SharePoint App Development
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SharePoint
 ## Speaker: Keyur Vadhvana
 ## Title: Advanced SharePoint App Development
@@ -664,7 +664,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SharePoint
 #  
 #### SessionID: 50037
 # Scrum: The Brazilian Jiu-Jitsu of agile application development
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: IT Executive
 ## Speaker: James Davis
 ## Title: Scrum: The Brazilian Jiu-Jitsu of agile application development
@@ -673,7 +673,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: IT Executive
 #  
 #### SessionID: 50621
 # Rx for Demystifying Index Tuning Decisions
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administration
 ## Speaker: Jeffry Schwartz
 ## Title: Rx for Demystifying Index Tuning Decisions
@@ -682,7 +682,7 @@ Event Date: 06-08-2016 - Session time: 14:45:00 - Track: SQL Server Administrati
 #  
 #### SessionID: 51102
 # Rapid Prototyping with Google Spreadsheets and using your DBA budget for bacon
-#### [Back to calendar](#SQLSaturday-#515---Baton-Rouge-2016)
+#### [Back to calendar](#SQLSaturday-#515-Baton-Rouge-2016)
 Event Date: 06-08-2016 - Session time: 14:45:00 - Track: Web Dev
 ## Speaker: Adam Culpepper
 ## Title: Rapid Prototyping with Google Spreadsheets and using your DBA budget for bacon

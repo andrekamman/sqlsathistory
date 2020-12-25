@@ -15,7 +15,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 49399
 # Самые интересный  и новый функционал в SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#503---Krasnodar-2016)
+#### [Back to calendar](#SQLSaturday-#503-Krasnodar-2016)
 Event Date: 04-06-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alexandra Chizhova
 ## Title: Самые интересный  и новый функционал в SQL Server 2016
@@ -24,7 +24,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 44595
 # SQL Server Backup in the Era of the Clouds
-#### [Back to calendar](#SQLSaturday-#503---Krasnodar-2016)
+#### [Back to calendar](#SQLSaturday-#503-Krasnodar-2016)
 Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tobias Koprowski
 ## Title: SQL Server Backup in the Era of the Clouds
@@ -33,7 +33,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45643
 # Использование языка R в SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#503---Krasnodar-2016)
+#### [Back to calendar](#SQLSaturday-#503-Krasnodar-2016)
 Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Sergey Olontsev
 ## Title: Использование языка R в SQL Server 2016
@@ -42,7 +42,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 49457
 # DML операции и оптимизация хранения данных
-#### [Back to calendar](#SQLSaturday-#503---Krasnodar-2016)
+#### [Back to calendar](#SQLSaturday-#503-Krasnodar-2016)
 Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Andrey Zavadskiy
 ## Title: DML операции и оптимизация хранения данных
@@ -51,7 +51,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 49388
 # Внутри оптимизатора запросов: Spool
-#### [Back to calendar](#SQLSaturday-#503---Krasnodar-2016)
+#### [Back to calendar](#SQLSaturday-#503-Krasnodar-2016)
 Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Dmitry Pilugin
 ## Title: Внутри оптимизатора запросов: Spool
@@ -62,7 +62,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 49400
 # Power BI: визуализация данных на раз-два-три.
-#### [Back to calendar](#SQLSaturday-#503---Krasnodar-2016)
+#### [Back to calendar](#SQLSaturday-#503-Krasnodar-2016)
 Event Date: 04-06-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alexandra Chizhova
 ## Title: Power BI: визуализация данных на раз-два-три.
@@ -73,7 +73,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 50063
 # Hardcore мониторинг запросов в SQL Server
-#### [Back to calendar](#SQLSaturday-#503---Krasnodar-2016)
+#### [Back to calendar](#SQLSaturday-#503-Krasnodar-2016)
 Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dmitriy Kostylev
 ## Title: Hardcore мониторинг запросов в SQL Server
@@ -82,7 +82,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 45638
 # Нетрадиционные и провокационные методы оптимизации запросов
-#### [Back to calendar](#SQLSaturday-#503---Krasnodar-2016)
+#### [Back to calendar](#SQLSaturday-#503-Krasnodar-2016)
 Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Sergey Olontsev
 ## Title: Нетрадиционные и провокационные методы оптимизации запросов
@@ -91,7 +91,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 49417
 # SQL Server 2016 Reporting Services. Быстрый старт.
-#### [Back to calendar](#SQLSaturday-#503---Krasnodar-2016)
+#### [Back to calendar](#SQLSaturday-#503-Krasnodar-2016)
 Event Date: 04-06-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andrey Korshikov
 ## Title: SQL Server 2016 Reporting Services. Быстрый старт.
@@ -101,7 +101,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 49476
 # Анализ производительности Windows приложений на примере SQL Serve
-#### [Back to calendar](#SQLSaturday-#503---Krasnodar-2016)
+#### [Back to calendar](#SQLSaturday-#503-Krasnodar-2016)
 Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mikhail Komarov
 ## Title: Анализ производительности Windows приложений на примере SQL Serve

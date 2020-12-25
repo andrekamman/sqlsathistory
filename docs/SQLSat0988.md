@@ -20,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 103103
 # Best Practices for building a Data Lake with Azure Databricks
-#### [Back to calendar](#SQLSaturday-#988---Gothenburg-2020)
+#### [Back to calendar](#SQLSaturday-#988-Gothenburg-2020)
 Event Date: 05-09-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Oskari Heikkinen
 ## Title: Best Practices for building a Data Lake with Azure Databricks
@@ -29,7 +29,7 @@ Event Date: 05-09-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 104147
 # Monitoring SQL Server: from on-premises to Azure
-#### [Back to calendar](#SQLSaturday-#988---Gothenburg-2020)
+#### [Back to calendar](#SQLSaturday-#988-Gothenburg-2020)
 Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Database Administration  Deployment
 ## Speaker: Juan E. Moreno Romo
 ## Title: Monitoring SQL Server: from on-premises to Azure
@@ -41,7 +41,7 @@ We want to share with you what we have learnt from support cases and how we, Mic
 #  
 #### SessionID: 104491
 # Checking in with Power Apps, Flow and Power BI
-#### [Back to calendar](#SQLSaturday-#988---Gothenburg-2020)
+#### [Back to calendar](#SQLSaturday-#988-Gothenburg-2020)
 Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Other
 ## Speaker: Asgeir Gunnarsson
 ## Title: Checking in with Power Apps, Flow and Power BI
@@ -54,7 +54,7 @@ The audience will take away useful information about Power Apps, Flow and Power 
 #  
 #### SessionID: 103019
 # My romantic relation with Powershell generally and  DBATools especially
-#### [Back to calendar](#SQLSaturday-#988---Gothenburg-2020)
+#### [Back to calendar](#SQLSaturday-#988-Gothenburg-2020)
 Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Database Administration  Deployment
 ## Speaker: Magnus Ahlkvist
 ## Title: My romantic relation with Powershell generally and  DBATools especially
@@ -68,7 +68,7 @@ I will cover a brief overview of DBATools and then jump into some scenarios wher
 #  
 #### SessionID: 103036
 # Power BI Dataflows? Why you need to implement it!
-#### [Back to calendar](#SQLSaturday-#988---Gothenburg-2020)
+#### [Back to calendar](#SQLSaturday-#988-Gothenburg-2020)
 Event Date: 05-09-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Benni De Jagere
 ## Title: Power BI Dataflows? Why you need to implement it!
@@ -83,7 +83,7 @@ Expect to walk out of this session with a decent grasp on the underlying archite
 #  
 #### SessionID: 105218
 # MS SQL New functions, syntaxes, tips  tricks
-#### [Back to calendar](#SQLSaturday-#988---Gothenburg-2020)
+#### [Back to calendar](#SQLSaturday-#988-Gothenburg-2020)
 Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Damir Matesic
 ## Title: MS SQL New functions, syntaxes, tips  tricks
@@ -93,7 +93,7 @@ Accompanied with multiple examples, this session will show you many interesting 
 #  
 #### SessionID: 103129
 # Power BI Live Data sets, Monitoring your key metrics
-#### [Back to calendar](#SQLSaturday-#988---Gothenburg-2020)
+#### [Back to calendar](#SQLSaturday-#988-Gothenburg-2020)
 Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jens Vestergaard
 ## Title: Power BI Live Data sets, Monitoring your key metrics
@@ -105,7 +105,7 @@ The session will be covering basic entry to best practices.
 #  
 #### SessionID: 103432
 # Dynamic Search Conditions
-#### [Back to calendar](#SQLSaturday-#988---Gothenburg-2020)
+#### [Back to calendar](#SQLSaturday-#988-Gothenburg-2020)
 Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Dynamic Search Conditions
@@ -114,7 +114,7 @@ Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 105083
 # Detect Plan Regression with Query Store
-#### [Back to calendar](#SQLSaturday-#988---Gothenburg-2020)
+#### [Back to calendar](#SQLSaturday-#988-Gothenburg-2020)
 Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Database Administration  Deployment
 ## Speaker: Torsten Strauss
 ## Title: Detect Plan Regression with Query Store
@@ -124,7 +124,7 @@ In this session, you will learn how Query Store works internally and to interpre
 #  
 #### SessionID: 103015
 # Creating Scalable Data Pipelines with Azure Data Factory and Data Flows
-#### [Back to calendar](#SQLSaturday-#988---Gothenburg-2020)
+#### [Back to calendar](#SQLSaturday-#988-Gothenburg-2020)
 Event Date: 05-09-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ted Malone
 ## Title: Creating Scalable Data Pipelines with Azure Data Factory and Data Flows
@@ -135,7 +135,7 @@ This session will be a mix of discussion and demo, and attendees will come away 
 #  
 #### SessionID: 103560
 # Azure DevOps duet (60 minutes version)
-#### [Back to calendar](#SQLSaturday-#988---Gothenburg-2020)
+#### [Back to calendar](#SQLSaturday-#988-Gothenburg-2020)
 Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Chant
 ## Title: Azure DevOps duet (60 minutes version)
@@ -156,7 +156,7 @@ After this session you will have the tools and knowledge to get started with Dev
 #  
 #### SessionID: 104935
 # Why Synapse Analytics is beyond Azure SQL Datawarehouse
-#### [Back to calendar](#SQLSaturday-#988---Gothenburg-2020)
+#### [Back to calendar](#SQLSaturday-#988-Gothenburg-2020)
 Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dennes Torres
 ## Title: Why Synapse Analytics is beyond Azure SQL Datawarehouse
@@ -165,7 +165,7 @@ Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 103012
 # What's New in SQL Server 2019: 100% Demos
-#### [Back to calendar](#SQLSaturday-#988---Gothenburg-2020)
+#### [Back to calendar](#SQLSaturday-#988-Gothenburg-2020)
 Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Database Administration  Deployment
 ## Speaker: Brent Ozar
 ## Title: What's New in SQL Server 2019: 100% Demos
@@ -178,7 +178,7 @@ No slides here - not even an about-me slide. Let's dive into some queries!
 #  
 #### SessionID: 103207
 # Introduction into Power BI Embedded
-#### [Back to calendar](#SQLSaturday-#988---Gothenburg-2020)
+#### [Back to calendar](#SQLSaturday-#988-Gothenburg-2020)
 Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Philipp Lenz
 ## Title: Introduction into Power BI Embedded
@@ -187,7 +187,7 @@ Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Application  Database D
 #  
 #### SessionID: 104199
 # BI in Azure two years live
-#### [Back to calendar](#SQLSaturday-#988---Gothenburg-2020)
+#### [Back to calendar](#SQLSaturday-#988-Gothenburg-2020)
 Event Date: 05-09-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alexander Klein
 ## Title: BI in Azure two years live

@@ -49,7 +49,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 49205
 # I Created an AG and T log is growing but I have a T Log backup What gives?
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joe Hellsten
 ## Title: I Created an AG and T log is growing but I have a T Log backup What gives?
@@ -58,7 +58,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49668
 # Tips for SQL Server Performance and Resiliency
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Shaw
 ## Title: Tips for SQL Server Performance and Resiliency
@@ -70,7 +70,7 @@ These patterns are so clear in fact that I many SQL Servers will benefit from th
 #  
 #### SessionID: 49875
 # SQL Server R Services in SQL 2016
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
@@ -79,7 +79,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 50664
 # Service Broker - Put Me In Coach
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Service Broker - Put Me In Coach
@@ -92,7 +92,7 @@ At the end of this session, you will have the knowledge to use Service Broker fo
 #  
 #### SessionID: 52290
 # Reporting Services 2016: New Features  Smart Migration Strategy
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services 2016: New Features  Smart Migration Strategy
@@ -105,7 +105,7 @@ The session will conclude with a look at my “Ultimate Footer”, which you can
 #  
 #### SessionID: 52333
 # Be a DBA Army of One
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Spotlight
 ## Speaker: Sean McCown
 ## Title: Be a DBA Army of One
@@ -118,7 +118,7 @@ Our flagship product, Minion Enterprise (or as we call it, "ME"), is the SQL Ser
 #  
 #### SessionID: 50072
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -127,7 +127,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 50342
 # Mission Possible: Interactive Performance Troubleshooting - Index
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Murphy
 ## Title: Mission Possible: Interactive Performance Troubleshooting - Index
@@ -136,7 +136,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50535
 # Why Did My Execution Plan Change? Introduction to Query Store
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: Why Did My Execution Plan Change? Introduction to Query Store
@@ -145,7 +145,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 51109
 # Translating SANanese to English: How to manipulate your storage admin!
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Janik
 ## Title: Translating SANanese to English: How to manipulate your storage admin!
@@ -154,7 +154,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 52321
 # Recovery Models Made SIMPLE
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kalen Delaney
 ## Title: Recovery Models Made SIMPLE
@@ -163,7 +163,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 52420
 # Log SQL Server Activity on a Budget
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Rudy Rodarte
 ## Title: Log SQL Server Activity on a Budget
@@ -172,7 +172,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 52905
 # Real world In-Memory OLTP
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ned Otter
 ## Title: Real world In-Memory OLTP
@@ -185,7 +185,7 @@ All of these questions and more are answered as we discuss real-world usage of I
 #  
 #### SessionID: 49202
 # Imposter Syndrome: Are You Faking It  Will they Find Out?
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Mindy Curnutt
 ## Title: Imposter Syndrome: Are You Faking It  Will they Find Out?
@@ -194,7 +194,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 49328
 # Table Vars and Temp Tables – What you NEED to Know!
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars and Temp Tables – What you NEED to Know!
@@ -203,7 +203,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 50206
 # Polybase and Time Travel (Temporal Tables)
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stan Geiger
 ## Title: Polybase and Time Travel (Temporal Tables)
@@ -212,7 +212,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 50723
 # Cluster@#$%!  SQL Server Failover Clusters. What Could Go Wrong?
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Harp
 ## Title: Cluster@#$%!  SQL Server Failover Clusters. What Could Go Wrong?
@@ -223,7 +223,7 @@ Whether you're having to design your first SQL Server failover cluster implement
 #  
 #### SessionID: 52557
 # Designing for Performance – Smokin’ Fast Queries – Query optimiza
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jennifer Smith
 ## Title: Designing for Performance – Smokin’ Fast Queries – Query optimiza
@@ -232,7 +232,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 52706
 # Why Should I Care About … The Plan Cache
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About … The Plan Cache
@@ -241,7 +241,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53408
 # EMC Presents: Maximizing Microsoft SQL Server Storage Investments
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Spotlight
 ## Speaker: Naomi Williams
 ## Title: EMC Presents: Maximizing Microsoft SQL Server Storage Investments
@@ -253,7 +253,7 @@ Beyond just production database performance, EMC provides robust database repurp
 #  
 #### SessionID: 53410
 # Birds of a Feather -- SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
 ## Speaker: Naomi Williams
 ## Title: Birds of a Feather -- SQL Server 2016
@@ -262,7 +262,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
 #  
 #### SessionID: 53411
 # Birds of a Feather -- Performance Tuning
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
 ## Speaker: Naomi Williams
 ## Title: Birds of a Feather -- Performance Tuning
@@ -271,7 +271,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
 #  
 #### SessionID: 53412
 # Birds of a Feather -- Data Analytics, Reporting and ETL
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
 ## Speaker: Naomi Williams
 ## Title: Birds of a Feather -- Data Analytics, Reporting and ETL
@@ -280,7 +280,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
 #  
 #### SessionID: 53413
 # Birds of a Feather -- High Availability
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
 ## Speaker: Naomi Williams
 ## Title: Birds of a Feather -- High Availability
@@ -289,7 +289,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
 #  
 #### SessionID: 53414
 # Birds of a Feather -- Azure
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
 ## Speaker: Naomi Williams
 ## Title: Birds of a Feather -- Azure
@@ -298,7 +298,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
 #  
 #### SessionID: 49200
 # Enterprise Row Level Security in SQL Server 2016 and Azure SQL DB
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jamey Johnston
 ## Title: Enterprise Row Level Security in SQL Server 2016 and Azure SQL DB
@@ -313,7 +313,7 @@ Attendees will leave with a complete working demo they can take to their work an
 #  
 #### SessionID: 49617
 # SQL Server Agent: The life preserver for the drowning DBA
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lance Tidwell
 ## Title: SQL Server Agent: The life preserver for the drowning DBA
@@ -322,7 +322,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50445
 # SS2014/2016 In-Memory Tables --Formula One Performance Unleashed???
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SS2014/2016 In-Memory Tables --Formula One Performance Unleashed???
@@ -337,7 +337,7 @@ After this session you will
 #  
 #### SessionID: 50533
 # Azure SQL Database for DBA's
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Sterrett
 ## Title: Azure SQL Database for DBA's
@@ -347,7 +347,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 51096
 # Design a data warehouse dimension the Agile way!
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Costello
 ## Title: Design a data warehouse dimension the Agile way!
@@ -356,7 +356,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 52303
 # Scaling for best performance: Partitioned views.
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Konstantin Melamud
 ## Title: Scaling for best performance: Partitioned views.
@@ -368,7 +368,7 @@ In this session we will go through the steps needed to configure and use the par
 #  
 #### SessionID: 52994
 # SQL running on Linux
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Moore
 ## Title: SQL running on Linux
@@ -377,7 +377,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49427
 # Overlord - tracking changes real-time, in your environment
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Bourgon
 ## Title: Overlord - tracking changes real-time, in your environment
@@ -386,7 +386,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49854
 # Introduction to Biml
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Introduction to Biml
@@ -397,7 +397,7 @@ In this session, we'll cover the essentials of Biml. I'll discuss what it is and
 #  
 #### SessionID: 50034
 # Unraveling Tangled Code:A Spellbinding Tale of Victory Over Chaos
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Unraveling Tangled Code:A Spellbinding Tale of Victory Over Chaos
@@ -406,7 +406,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #  
 #### SessionID: 50809
 # IaaS vs IaaS - Navigating the Decision Tree: Azure SQL DB vs SQL on a VM
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Azure
 ## Speaker: Shawn Weisfeld
 ## Title: IaaS vs IaaS - Navigating the Decision Tree: Azure SQL DB vs SQL on a VM
@@ -415,7 +415,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Azure
 #  
 #### SessionID: 51214
 # SQL Server Statistics – What Are The Chances?
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lori Edwards
 ## Title: SQL Server Statistics – What Are The Chances?
@@ -424,7 +424,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53065
 # Understanding Storage Systems and SQL Server
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Wesley Brown
 ## Title: Understanding Storage Systems and SQL Server
@@ -433,7 +433,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49220
 # Create a Data Loading Strategy
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Casey
 ## Title: Create a Data Loading Strategy
@@ -451,7 +451,7 @@ This session uses a Virtual Sandbox to demonstrate “real” data loads using t
 #  
 #### SessionID: 50136
 # Profiler is Dead! Long Live Extended Events!
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Keith Tate
 ## Title: Profiler is Dead! Long Live Extended Events!
@@ -463,7 +463,7 @@ Profiler was a friend of mine, but it is time to embrace the new king!
 #  
 #### SessionID: 50485
 # Beginning Automation with Powershell
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Beginning Automation with Powershell
@@ -472,7 +472,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50534
 # Successfully Migrate Existing Databases to Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Sterrett
 ## Title: Successfully Migrate Existing Databases to Azure SQL Database
@@ -484,7 +484,7 @@ In this session, you will learn how to test migrations for compatibility issues 
 #  
 #### SessionID: 51053
 # SQL Security Best Practices  Shrinking Your Attack Surface
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matthew Brimer
 ## Title: SQL Security Best Practices  Shrinking Your Attack Surface
@@ -493,7 +493,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 51200
 # Meet JSON in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#550---San-Antonio-2016)
+#### [Back to calendar](#SQLSaturday-#550-San-Antonio-2016)
 Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Russel Loski
 ## Title: Meet JSON in SQL Server 2016

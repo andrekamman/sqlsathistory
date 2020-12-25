@@ -53,7 +53,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 49946
 # What#39;s new in SQL Server 2016 for Business Intelligence
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Dan English
 ## Title: What#39;s new in SQL Server 2016 for Business Intelligence
@@ -62,7 +62,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 49976
 # Does it Hurt When I Do This? Performing a SQL Server Health Check
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Andy Galbraith
 ## Title: Does it Hurt When I Do This? Performing a SQL Server Health Check
@@ -73,7 +73,7 @@ Come learn how to use freely available tools from multiple layers of the SQL Ser
 #  
 #### SessionID: 50086
 # Availability Groups:  Monitoring and Alerting
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Phil Ekins
 ## Title: Availability Groups:  Monitoring and Alerting
@@ -84,7 +84,7 @@ We will look at the DMVs, extended event sessions, perfmon counters, SQL agent j
 #  
 #### SessionID: 50493
 # Building Metadata Driven ETL Solutions with BIML
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Dave DuVarney
 ## Title: Building Metadata Driven ETL Solutions with BIML
@@ -93,7 +93,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 53588
 # Life on the Road: the Mobile Report Publisher
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Brian Larson
 ## Title: Life on the Road: the Mobile Report Publisher
@@ -102,7 +102,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 53602
 # SQL Server Hybrid Cloud Strategy: Best Of Both Worlds With On-Prem + Cloud
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Paul Timmerman
 ## Title: SQL Server Hybrid Cloud Strategy: Best Of Both Worlds With On-Prem + Cloud
@@ -113,7 +113,7 @@ Come spend the hour with me and you’ll learn how to leverage the power of the 
 #  
 #### SessionID: 53624
 # Indexing Fundamentals for Microsoft SQL Server
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Development
 ## Speaker: Jason Strate
 ## Title: Indexing Fundamentals for Microsoft SQL Server
@@ -122,7 +122,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Development
 #  
 #### SessionID: 54137
 # Makin’ Data with Azure Data Factory
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: 
 ## Speaker: Mike Fulkerson
 ## Title: Makin’ Data with Azure Data Factory
@@ -131,7 +131,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track:
 #  
 #### SessionID: 49931
 # Let's Build a Tabular Solution
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Phillip Labry
 ## Title: Let's Build a Tabular Solution
@@ -140,7 +140,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 49983
 # SSAS:  What is it and How do I get started using it
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Dave Bland
 ## Title: SSAS:  What is it and How do I get started using it
@@ -149,7 +149,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 49995
 # How I deleted 1 billion records without anyone noticing.
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Development
 ## Speaker: Eric Zierdt
 ## Title: How I deleted 1 billion records without anyone noticing.
@@ -158,7 +158,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Development
 #  
 #### SessionID: 50012
 # The Lost Science of Set Theory
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Development
 ## Speaker: Aaron Cutshall
 ## Title: The Lost Science of Set Theory
@@ -167,7 +167,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Development
 #  
 #### SessionID: 53333
 # The future data professional - Hacking your growth!
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Adam Jorgensen
 ## Title: The future data professional - Hacking your growth!
@@ -176,7 +176,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 53584
 # It#39;s Elastic! Boogie Woogie Woogie!
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mark Vaillancourt
 ## Title: It#39;s Elastic! Boogie Woogie Woogie!
@@ -185,7 +185,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 53589
 # Calculate, Aggregate amp; Filter: Truly Understanding DAX
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Brian Larson
 ## Title: Calculate, Aggregate amp; Filter: Truly Understanding DAX
@@ -194,7 +194,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 53606
 # Understanding SQL Server 2016 Always Encrypted
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: SQL Server
 ## Speaker: Ed Leighton-Dick
 ## Title: Understanding SQL Server 2016 Always Encrypted
@@ -203,7 +203,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: SQL Server
 #  
 #### SessionID: 49942
 # Hierarchical Queries
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Development
 ## Speaker: Ben Thul
 ## Title: Hierarchical Queries
@@ -212,7 +212,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Development
 #  
 #### SessionID: 49975
 # Information Management Framework
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: SQL Server
 ## Speaker: Ross McNeely
 ## Title: Information Management Framework
@@ -221,7 +221,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: SQL Server
 #  
 #### SessionID: 50141
 # So this is Power BI. What now?
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: George Bryant
 ## Title: So this is Power BI. What now?
@@ -230,7 +230,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 53466
 # SQL Server Tips and Tricks from a lazy DBA
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Chuck Hieber
 ## Title: SQL Server Tips and Tricks from a lazy DBA
@@ -240,7 +240,7 @@ In this session, I will show you several of the tips and tricks I have picked up
 #  
 #### SessionID: 53546
 # Consumption Based Architecture and MSBI
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Steve Hughes
 ## Title: Consumption Based Architecture and MSBI
@@ -249,7 +249,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 53828
 # Advanced SQL Server on VMware Features
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: David Klee
 ## Title: Advanced SQL Server on VMware Features
@@ -258,7 +258,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 53887
 # Level Up Your Biml: Best Practices and Coding Techniques
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Level Up Your Biml: Best Practices and Coding Techniques
@@ -271,7 +271,7 @@ Start improving your code today and level up your Biml in no time!
 #  
 #### SessionID: 54080
 # Architecture, Components and Goals of Data warehouse solution
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Development
 ## Speaker: Anton Rozenson
 ## Title: Architecture, Components and Goals of Data warehouse solution
@@ -283,7 +283,7 @@ We will answer What? How? and Why? questions about capturing data, designing ODS
 #  
 #### SessionID: 54730
 # DELL EMC Sponsor - Maximizing Microsoft SQL Server Storage Investments
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: SQL Server
 ## Speaker: Sean Barry
 ## Title: DELL EMC Sponsor - Maximizing Microsoft SQL Server Storage Investments
@@ -294,7 +294,7 @@ Beyond just production database performance, DELL EMC provides robust database r
 #  
 #### SessionID: 50000
 # SSAS 2016 Tabular - Diving into the new features
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Brian Beswick
 ## Title: SSAS 2016 Tabular - Diving into the new features
@@ -303,7 +303,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 50003
 # Accelerating DevOps Using Data Virtualization
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: SQL Server
 ## Speaker: Todd Blatti
 ## Title: Accelerating DevOps Using Data Virtualization
@@ -316,7 +316,7 @@ Data virtualization is the solution. Virtual databases and file-systems only con
 #  
 #### SessionID: 50014
 # Battle Scars: Porting a SQL Server app to an MPP system
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Aaron Cutshall
 ## Title: Battle Scars: Porting a SQL Server app to an MPP system
@@ -326,7 +326,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 52742
 # HDInsight - Hadoop for the Commoner
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Big Data
 ## Speaker: Matt Stenzel
 ## Title: HDInsight - Hadoop for the Commoner
@@ -335,7 +335,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Big Data
 #  
 #### SessionID: 53052
 # SQL Server in Azure: Essentials for the Database Administrator
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jes Schultz
 ## Title: SQL Server in Azure: Essentials for the Database Administrator
@@ -344,7 +344,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 53615
 # SQL Server 2016 - New Feature Preview
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: SQL Server
 ## Speaker: Riley Major
 ## Title: SQL Server 2016 - New Feature Preview
@@ -359,7 +359,7 @@ Maybe we#39;ll even figure out how to bottle up that new version smell.
 #  
 #### SessionID: 53622
 # Managing SQL Server Performance with Extended Events
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Jason Strate
 ## Title: Managing SQL Server Performance with Extended Events
@@ -368,7 +368,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 50307
 # Automated Restore Script Output for Ola Hallengren’s Maintenance Solution
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Jared Zagelbaum
 ## Title: Automated Restore Script Output for Ola Hallengren’s Maintenance Solution
@@ -383,7 +383,7 @@ If you don't know what I just described in that last paragraph, you should come 
 #  
 #### SessionID: 50357
 # SQL Server Quiz Show
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: SQL Server
 ## Speaker: Eric Zierdt
 ## Title: SQL Server Quiz Show
@@ -394,7 +394,7 @@ This session promises to be fast paced and fun and hopefully you will even learn
 #  
 #### SessionID: 50806
 # Cardinality estimation and how it affects your execution plan
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Development
 ## Speaker: Zane Brunette
 ## Title: Cardinality estimation and how it affects your execution plan
@@ -403,7 +403,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Development
 #  
 #### SessionID: 53468
 # Power BI Performance Tips
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Rachael Martino
 ## Title: Power BI Performance Tips
@@ -413,7 +413,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #  
 #### SessionID: 53556
 # Get Your Optimizer to Give up All Its Secrets
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
@@ -422,7 +422,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 53592
 # Getting Started Making Technical Videos
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Professional Development
 ## Speaker: Doug Lane
 ## Title: Getting Started Making Technical Videos
@@ -435,7 +435,7 @@ You#39;ll hear my insider tips and lessons I#39;ve learned from years of creatin
 #  
 #### SessionID: 53600
 # Dimensional Modeling Design Patterns: Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond the Basics
@@ -446,7 +446,7 @@ In this session, we will dive deeper into the art of dimensional modeling. We wi
 #  
 #### SessionID: 53668
 # JSON for the DBA
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Jim Dorame
 ## Title: JSON for the DBA
@@ -455,7 +455,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 50061
 # Insider Secrets to Securing the Budget You Need
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: Maxwell Myrick
 ## Title: Insider Secrets to Securing the Budget You Need
@@ -464,7 +464,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Administration
 #  
 #### SessionID: 50549
 # Free SQL Server Tools
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: SQL Server
 ## Speaker: Cecil Spivey
 ## Title: Free SQL Server Tools
@@ -473,7 +473,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: SQL Server
 #  
 #### SessionID: 50759
 # Virtual SQL Servers. Actual Performance.
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Administration
 ## Speaker: David Klee
 ## Title: Virtual SQL Servers. Actual Performance.
@@ -483,7 +483,7 @@ This session is packed with many tips and tricks gained from years of experience
 #  
 #### SessionID: 53171
 # Introducing the R Language to the Data Professional
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Ginger Grant
 ## Title: Introducing the R Language to the Data Professional
@@ -502,7 +502,7 @@ Session Agenda
 #  
 #### SessionID: 53357
 # Query Plans and Indexes in SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Development
 ## Speaker: Michael DeFehr
 ## Title: Query Plans and Indexes in SQL Server 2016
@@ -511,7 +511,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Database Development
 #  
 #### SessionID: 53506
 # Apache Spark and SQL Server: Perfect Together!
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Big Data
 ## Speaker: Rowland Gosling
 ## Title: Apache Spark and SQL Server: Perfect Together!
@@ -520,7 +520,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Big Data
 #  
 #### SessionID: 53654
 # Ask the Experts Panel
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: SQL Server
 ## Speaker: Jim Horn
 ## Title: Ask the Experts Panel
@@ -529,7 +529,7 @@ Event Date: 01-10-2016 - Session time: 16:00:00 - Track: SQL Server
 #  
 #### SessionID: 54081
 # Shape It: Shaping and Modelling Data With Power BI Desktop
-#### [Back to calendar](#SQLSaturday-#557---Minnesota-2016)
+#### [Back to calendar](#SQLSaturday-#557-Minnesota-2016)
 Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Mark Vaillancourt
 ## Title: Shape It: Shaping and Modelling Data With Power BI Desktop

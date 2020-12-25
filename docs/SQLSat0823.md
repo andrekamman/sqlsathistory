@@ -33,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 86591
 # What's New in SQL Server 2019: 100% Demos
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brent Ozar
 ## Title: What's New in SQL Server 2019: 100% Demos
@@ -46,7 +46,7 @@ No slides here - not even an about-me slide. Let's dive into some queries!
 #  
 #### SessionID: 88145
 # integration between Sql Server and big data
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Yuval Klein
 ## Title: integration between Sql Server and big data
@@ -55,7 +55,7 @@ Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 88484
 # Be a dynamic SQL dynamo!
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Joanna Wolthuis
 ## Title: Be a dynamic SQL dynamo!
@@ -64,7 +64,7 @@ Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 88615
 # From Data to actionable business insights
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Ronat Omer
 ## Title: From Data to actionable business insights
@@ -83,7 +83,7 @@ How to turn data into actionable insights:
 #  
 #### SessionID: 88997
 # Lost in the wealth of database products? We will help you to make sense of them.
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Michael Zilberstein
 ## Title: Lost in the wealth of database products? We will help you to make sense of them.
@@ -94,7 +94,7 @@ We will make sense of those buzzwords, review the most popular database technolo
 #  
 #### SessionID: 89153
 # Monitoring Azure SQL Database with Log Analytics and PowerBI
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Pini Krisher
 ## Title: Monitoring Azure SQL Database with Log Analytics and PowerBI
@@ -106,7 +106,7 @@ In this session, i will go over those solutions and show some examples.
 #  
 #### SessionID: 86598
 # SQL Server Query Performance Tuning
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Guy Glantser
 ## Title: SQL Server Query Performance Tuning
@@ -117,7 +117,7 @@ The topics in this session are relevant for SQL Server versions 2005 through 201
 #  
 #### SessionID: 86945
 # Move your database to the Cloud: Understand, Design and Migrate AzureSQLDat
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Move your database to the Cloud: Understand, Design and Migrate AzureSQLDat
@@ -133,7 +133,7 @@ Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 87630
 # Choosing the Right Database for Microservices Solutions
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Mihail Mateev
 ## Title: Choosing the Right Database for Microservices Solutions
@@ -143,7 +143,7 @@ This talk is mostly focused on real life examples and best practices, related to
 #  
 #### SessionID: 88331
 # Extended Events: Successful Troubleshooting recipes
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dennes Torres
 ## Title: Extended Events: Successful Troubleshooting recipes
@@ -154,7 +154,7 @@ In this session you will see some very cool recipes for troubleshooting, such as
 #  
 #### SessionID: 88436
 # Become a Power BI superstar under 1 hour!
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Ronen Chenn
 ## Title: Become a Power BI superstar under 1 hour!
@@ -163,7 +163,7 @@ Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 87030
 # What is CI/CD for databases or how to automate DB changes
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taras Kloba
 ## Title: What is CI/CD for databases or how to automate DB changes
@@ -174,7 +174,7 @@ The main goal is to understand that applications and databases can and should sh
 #  
 #### SessionID: 87655
 # Implementing a Hybrid Data Warehouse
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Johan Ludvig Brattås
 ## Title: Implementing a Hybrid Data Warehouse
@@ -183,7 +183,7 @@ Event Date: 11-04-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 87767
 # The fact that I am an old Database Server does not mean I have no memory problems
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dubi Lebel
 ## Title: The fact that I am an old Database Server does not mean I have no memory problems
@@ -203,7 +203,7 @@ What can I do with Out Of Memory error?
 #  
 #### SessionID: 88182
 # What’s new in Query Store 2017
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Anat Dror
 ## Title: What’s new in Query Store 2017
@@ -214,7 +214,7 @@ In this session we look at the good, the bad and the ugly of query store: list i
 #  
 #### SessionID: 89022
 # UTF-8 in SQL Server 2019: Theory, implementation for Hebrew, and internals level behind the scene.
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Ronen Ariely
 ## Title: UTF-8 in SQL Server 2019: Theory, implementation for Hebrew, and internals level behind the scene.
@@ -227,7 +227,7 @@ In this presentation we will cover different string data types and Collations, s
 #  
 #### SessionID: 90148
 # Make sense of real-time data using Elasticsearch
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Arthur Gimpel
 ## Title: Make sense of real-time data using Elasticsearch
@@ -236,7 +236,7 @@ Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 90165
 # Get To The Point - learn to plan and deliver a concise and engaging message
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Other
 ## Speaker: Daniela Liberman
 ## Title: Get To The Point - learn to plan and deliver a concise and engaging message
@@ -247,7 +247,7 @@ Join this lecture and learn practical tools to design and deliver a shorter more
 #  
 #### SessionID: 90183
 # Cloud Powered SQL Server Performance Tuning Unleashed
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Anat Dror
 ## Title: Cloud Powered SQL Server Performance Tuning Unleashed
@@ -260,7 +260,7 @@ Join this session to learn how Quest used the Cloud power to build Spotlight Clo
 #  
 #### SessionID: 90243
 # The Couchbase data platform - perform at any scale, manage with ease
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Lior King
 ## Title: The Couchbase data platform - perform at any scale, manage with ease
@@ -271,7 +271,7 @@ Couchbase also offers a full fledge SQL-like language (N1QL) supporting inner/ou
 #  
 #### SessionID: 90880
 # The algorithm for building the perfect multi-columned index
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ray Maor
 ## Title: The algorithm for building the perfect multi-columned index
@@ -281,7 +281,7 @@ We will learn how to analyze and chose the best ORDER of the columns within a mu
 #  
 #### SessionID: 88012
 # Data Visualization: How to truly tell a great story!
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization: How to truly tell a great story!
@@ -290,7 +290,7 @@ Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 88521
 # Explanatory analysis  with Jupyter Notebooks
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Maria Zakourdaev
 ## Title: Explanatory analysis  with Jupyter Notebooks
@@ -299,7 +299,7 @@ Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 89218
 # Top errors in DB design and code that hurt our performance
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Adi Cohn
 ## Title: Top errors in DB design and code that hurt our performance
@@ -308,7 +308,7 @@ Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 89254
 # Azure Data Explorer - it is not your ordinary database
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Yoav Dobrin
 ## Title: Azure Data Explorer - it is not your ordinary database
@@ -319,7 +319,7 @@ Through out the entire session we will have demos for data ingestion, manipulati
 #  
 #### SessionID: 86939
 # Inside SQL Server Containers and Kubernetes SQL 2017/2019 - Lessons from the fields‏
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Itshak David
 ## Title: Inside SQL Server Containers and Kubernetes SQL 2017/2019 - Lessons from the fields‏
@@ -339,7 +339,7 @@ Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Application  Database D
 #  
 #### SessionID: 89255
 # Azure Analysis Services - Why-When-How
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Yossi Elkayam
 ## Title: Azure Analysis Services - Why-When-How
@@ -350,7 +350,7 @@ The Session will discover usage , patterns and more...
 #  
 #### SessionID: 89866
 # TDE And Encryption with Azure Key Vault from Zero to Hero
-#### [Back to calendar](#SQLSaturday-#823---Israel-2019)
+#### [Back to calendar](#SQLSaturday-#823-Israel-2019)
 Event Date: 11-04-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Danny Ravid
 ## Title: TDE And Encryption with Azure Key Vault from Zero to Hero

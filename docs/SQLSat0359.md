@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10206
 # Easy Way of Data Consumption  Visualization with SSRS, PowerPivot and Power View
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Adara
 ## Speaker: Belkis Ozhorasan
 ## Title: Easy Way of Data Consumption  Visualization with SSRS, PowerPivot and Power View
@@ -39,7 +39,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Adara
 #  
 #### SessionID: 10386
 # Query Processing in In-Memory OLTP (Hekaton)
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 2
 ## Speaker: Benjamin Nevarez
 ## Title: Query Processing in In-Memory OLTP (Hekaton)
@@ -48,7 +48,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 2
 #  
 #### SessionID: 10945
 # The nightmare of locking, blocking and isolation levels!
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Adara
 ## Speaker: Boris Hristov
 ## Title: The nightmare of locking, blocking and isolation levels!
@@ -57,7 +57,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Adara
 #  
 #### SessionID: 11133
 # See the POWER of PowerBI
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Adara
 ## Speaker: Burak Tufanoglu
 ## Title: See the POWER of PowerBI
@@ -66,7 +66,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Adara
 #  
 #### SessionID: 11138
 # Monitoring and Assessing SQL Server with extended events
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 2
 ## Speaker: Batuhan Yildiz
 ## Title: Monitoring and Assessing SQL Server with extended events
@@ -78,7 +78,7 @@ If extended events is still heavy to run in production environment, discussion o
 #  
 #### SessionID: 13148
 # Effective T-SQL. To be effective or not to be.
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 1
 ## Speaker: Denis Reznik
 ## Title: Effective T-SQL. To be effective or not to be.
@@ -87,7 +87,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 1
 #  
 #### SessionID: 14184
 # How to tune your applications before moving your database to Microsoft Azure SQL Database (PaaS)
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Mira
 ## Speaker: Faruk Celik
 ## Title: How to tune your applications before moving your database to Microsoft Azure SQL Database (PaaS)
@@ -101,7 +101,7 @@ If you are answering this as "B", plase come join us to learn what you could hav
 #  
 #### SessionID: 15436
 # SQL 2014 Column Store Index Enhancements
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Adara
 ## Speaker: Işıl Efe
 ## Title: SQL 2014 Column Store Index Enhancements
@@ -110,7 +110,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Adara
 #  
 #### SessionID: 15443
 # Write Quick, Readable and High Performance Queries Using Window Functions with SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 1
 ## Speaker: Ismail Adar
 ## Title: Write Quick, Readable and High Performance Queries Using Window Functions with SQL Server 2014
@@ -119,7 +119,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 1
 #  
 #### SessionID: 17935
 # DQS step-by-step  with Domain Management, Knowledge Discovery and Matching Policies
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Vega
 ## Speaker: Alexander Karl
 ## Title: DQS step-by-step  with Domain Management, Knowledge Discovery and Matching Policies
@@ -131,7 +131,7 @@ The improvement of the DataQuality can be seen as the result.
 #  
 #### SessionID: 18808
 # Predictive Modelling with SQL Server and Azure ML
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Vega
 ## Speaker: Koray Kocabas
 ## Title: Predictive Modelling with SQL Server and Azure ML
@@ -140,7 +140,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Vega
 #  
 #### SessionID: 19145
 # SQL Server 2014: High Availability and Disaster Recovery Solutions
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 2
 ## Speaker: Levent Oktar
 ## Title: SQL Server 2014: High Availability and Disaster Recovery Solutions
@@ -149,7 +149,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 2
 #  
 #### SessionID: 20338
 # Scaling Out Microsoft Azure SQL Databases
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Mira
 ## Speaker: Mihail Mateev
 ## Title: Scaling Out Microsoft Azure SQL Databases
@@ -160,7 +160,7 @@ This talk is a comparison and overview of these approaches, to be possible to ch
 #  
 #### SessionID: 20797
 # Relational Data Management on Microsoft Azure
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Mira
 ## Speaker: Mine Tokus
 ## Title: Relational Data Management on Microsoft Azure
@@ -169,7 +169,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Mira
 #  
 #### SessionID: 21227
 # One Small Step for Power BI, Four Giant Tools for Power Users
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Adara
 ## Speaker: Mustafa Acungil
 ## Title: One Small Step for Power BI, Four Giant Tools for Power Users
@@ -181,7 +181,7 @@ Share your reports, create Collaborative BI sites, ask Qs and get As with Power 
 #  
 #### SessionID: 21602
 # Deep dive to SQL Server configuration for SharePoint Server
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Vega
 ## Speaker: Gokan Ozcifci
 ## Title: Deep dive to SQL Server configuration for SharePoint Server
@@ -192,7 +192,7 @@ After this session you will serve admirably the database back end to your ShareP
 #  
 #### SessionID: 23814
 # Why "Big Data" Is a Big Deal? Converting Big Data into Value
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Vega
 ## Speaker: Serdar Altug
 ## Title: Why "Big Data" Is a Big Deal? Converting Big Data into Value
@@ -201,7 +201,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Vega
 #  
 #### SessionID: 24004
 # How to improve SQL query performances by analyzing the cached code in buffer pool
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 1
 ## Speaker: Saverio  Lorenzini
 ## Title: How to improve SQL query performances by analyzing the cached code in buffer pool
@@ -212,7 +212,7 @@ More in general, how to identify the most resource consuming pieces of code in o
 #  
 #### SessionID: 24039
 # Backups for Azure SQL Databases and SQL Server instances running on Azure Virtual Machines
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Mira
 ## Speaker: Chandra Mohan Situmalli
 ## Title: Backups for Azure SQL Databases and SQL Server instances running on Azure Virtual Machines
@@ -221,7 +221,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Mira
 #  
 #### SessionID: 25031
 # Let's cook  'best SQL Server DBA practices'
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 2
 ## Speaker: Satya Jayanty
 ## Title: Let's cook  'best SQL Server DBA practices'
@@ -230,7 +230,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 2
 #  
 #### SessionID: 26438
 # Common TSQL Mistakes
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 1
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
@@ -239,7 +239,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 1
 #  
 #### SessionID: 27011
 # Making customer segmentation using SQL Server SSAS
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Vega
 ## Speaker: Tomaž Kaštrun
 ## Title: Making customer segmentation using SQL Server SSAS
@@ -250,7 +250,7 @@ Goal of this session is to show how to deploy customer segmentation using data m
 #  
 #### SessionID: 27169
 # How Latch Contention Affects the Performance? Common Scenarios and Workarounds from the Field
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 1
 ## Speaker: Turgay Sahtiyan
 ## Title: How Latch Contention Affects the Performance? Common Scenarios and Workarounds from the Field
@@ -259,7 +259,7 @@ Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 1
 #  
 #### SessionID: 27179
 # Introduction to Document DB and Azure Search
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Mira
 ## Speaker: Umit Sunar
 ## Title: Introduction to Document DB and Azure Search
@@ -271,7 +271,7 @@ This session will focus on the recently announced Azure Document DB service, a p
 #  
 #### SessionID: 28288
 # Troubleshooting: How to understand if the storage is a problem on the database server?
-#### [Back to calendar](#SQLSaturday-#359---Istanbul-2014)
+#### [Back to calendar](#SQLSaturday-#359-Istanbul-2014)
 Event Date: 06-12-2014 - Session time: 00:00:00 - Track: Jupiter 2
 ## Speaker: Yigit Aktan
 ## Title: Troubleshooting: How to understand if the storage is a problem on the database server?

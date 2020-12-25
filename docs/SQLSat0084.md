@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 20973
 # BlueGranite Lunch Session
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Theatre
 ## Speaker: Matthew Mace
 ## Title: BlueGranite Lunch Session
@@ -46,7 +46,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Theatre
 #  
 #### SessionID: 28374
 # What's New in SQL Server "Denali"?
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Theatre
 ## Speaker: Aaron Bertrand
 ## Title: What's New in SQL Server "Denali"?
@@ -55,7 +55,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Theatre
 #  
 #### SessionID: 28375
 # T-SQL : Bad Habits to Kick
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits to Kick
@@ -64,7 +64,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 28691
 # “I See a Control Flow Tab. Now What?” 
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Andy Leonard
 ## Title: “I See a Control Flow Tab. Now What?” 
@@ -73,7 +73,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 28692
 # Designing an SSIS Framework 
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Forum Room
 ## Speaker: Andy Leonard
 ## Title: Designing an SSIS Framework 
@@ -82,7 +82,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Forum Room
 #  
 #### SessionID: 28930
 # Automate Policy-Based Management using PowerShell
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Theatre
 ## Speaker: Allen White
 ## Title: Automate Policy-Based Management using PowerShell
@@ -91,7 +91,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Theatre
 #  
 #### SessionID: 29230
 # SAN Basics for DBAs
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Theatre
 ## Speaker: Brent Ozar
 ## Title: SAN Basics for DBAs
@@ -100,7 +100,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Theatre
 #  
 #### SessionID: 29232
 # How to Defuse Problems Like a Consultant
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Forum Room
 ## Speaker: Brent Ozar
 ## Title: How to Defuse Problems Like a Consultant
@@ -109,7 +109,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Forum Room
 #  
 #### SessionID: 29453
 # Understanding MS SQL Server Indexes
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Charles Otten
 ## Title: Understanding MS SQL Server Indexes
@@ -118,7 +118,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29454
 # SQL Server Best Practices
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Charles Otten
 ## Title: SQL Server Best Practices
@@ -127,7 +127,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29630
 # NoSQL-What is it and why do I care? 
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Craig Purnell
 ## Title: NoSQL-What is it and why do I care? 
@@ -136,7 +136,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 29912
 # Getting Out from Behind the Curtain – The New DBA
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: David Levy
 ## Title: Getting Out from Behind the Curtain – The New DBA
@@ -145,7 +145,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 29970
 # Devs are from Mars, Report Servers are from Venus
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Doug Lane
 ## Title: Devs are from Mars, Report Servers are from Venus
@@ -158,7 +158,7 @@ In this session, Doug will re-ignite your passion for RS by showing you how to d
 #  
 #### SessionID: 30078
 # You’re My Density: Making Sense of Statistics
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Erin Stellato
 ## Title: You’re My Density: Making Sense of Statistics
@@ -167,7 +167,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30153
 # TempDB Performance Troubleshooting and Optimizing 
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Eddie Wuerch
 ## Title: TempDB Performance Troubleshooting and Optimizing 
@@ -176,7 +176,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 30534
 # Extended Events, Work Smarter Not Harder 
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Forum Room
 ## Speaker: Jason Strate
 ## Title: Extended Events, Work Smarter Not Harder 
@@ -186,7 +186,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Forum Room
 #  
 #### SessionID: 30537
 # The Creepy DBA, How to Stalk Your Users
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Theatre
 ## Speaker: Jason Strate
 ## Title: The Creepy DBA, How to Stalk Your Users
@@ -195,7 +195,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Theatre
 #  
 #### SessionID: 30559
 # The Tally Table: What it is/how it replaces loops
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Forum Room
 ## Speaker: Jeff Moden
 ## Title: The Tally Table: What it is/how it replaces loops
@@ -204,7 +204,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Forum Room
 #  
 #### SessionID: 30560
 # Cross Tabs  Pivots: Converting Rows into Columns
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Jeff Moden
 ## Title: Cross Tabs  Pivots: Converting Rows into Columns
@@ -213,7 +213,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 30767
 # Refactoring SQL
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Theatre
 ## Speaker: Jeremiah Peschka
 ## Title: Refactoring SQL
@@ -222,7 +222,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Theatre
 #  
 #### SessionID: 30769
 # Leaving the Windows Open
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Jeremiah Peschka
 ## Title: Leaving the Windows Open
@@ -231,7 +231,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 31509
 # Seven Strategic Discussions About Scale
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Kendra Little
 ## Title: Seven Strategic Discussions About Scale
@@ -240,7 +240,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 32524
 # Delivering BI Solutions with SQL and SharePoint
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Rob Kerr
 ## Title: Delivering BI Solutions with SQL and SharePoint
@@ -249,7 +249,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 32837
 # PowerPivot - A cool reporting tool! (
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Scott Schommer
 ## Title: PowerPivot - A cool reporting tool! (
@@ -260,7 +260,7 @@ In this session you will learn how to use PowerPivot (within the familiar interf
 #  
 #### SessionID: 32915
 # How to Thrive (and Survive) as a Woman in IT
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Forum Room
 ## Speaker: Shelly Noll
 ## Title: How to Thrive (and Survive) as a Woman in IT
@@ -269,7 +269,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Forum Room
 #  
 #### SessionID: 33057
 # Monitoring Databases in a Virtual Environment
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Theatre
 ## Speaker: Thomas LaRock
 ## Title: Monitoring Databases in a Virtual Environment
@@ -278,7 +278,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Theatre
 #  
 #### SessionID: 33059
 # Waits and Queues and You
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Forum Room
 ## Speaker: Thomas LaRock
 ## Title: Waits and Queues and You
@@ -287,7 +287,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Forum Room
 #  
 #### SessionID: 33626
 # Pro Tips: Tuning the data flow in ssis
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Tim Costello
 ## Title: Pro Tips: Tuning the data flow in ssis
@@ -296,7 +296,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33667
 # The Periodic Table of Dynamic Management Objects
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Forum Room
 ## Speaker: Tim Ford
 ## Title: The Periodic Table of Dynamic Management Objects
@@ -307,7 +307,7 @@ In navigating the table we will examine key DMVs and DMFs of interest: requests,
 #  
 #### SessionID: 33764
 # Change Tracking
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Tom Groszko
 ## Title: Change Tracking
@@ -316,7 +316,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 4
 #  
 #### SessionID: 33887
 # Visualizing Your Indexes - Science behind the Art 
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 5
 ## Speaker: Wendy Pastrick
 ## Title: Visualizing Your Indexes - Science behind the Art 
@@ -325,7 +325,7 @@ Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 5
 #  
 #### SessionID: 33888
 # Read Dirty to Me - Understanding Isolation
-#### [Back to calendar](#SQLSaturday-#84---Kalamazoo-2011)
+#### [Back to calendar](#SQLSaturday-#84-Kalamazoo-2011)
 Event Date: 17-09-2011 - Session time: 00:00:00 - Track: Track 4
 ## Speaker: Wendy Pastrick
 ## Title: Read Dirty to Me - Understanding Isolation

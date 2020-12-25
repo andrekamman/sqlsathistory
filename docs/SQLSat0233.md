@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10079
 # SQL Server Backup and Recovery Fundamentals
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Ayman El-Ghazali
 ## Title: SQL Server Backup and Recovery Fundamentals
@@ -43,7 +43,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 10828
 # SQL 2012 Extended Events
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Jason Brimhall
 ## Title: SQL 2012 Extended Events
@@ -52,7 +52,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 11180
 # Judge, Jury,  and Executioner--A First Look At Execution Plans
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Carlos L Chacon
 ## Title: Judge, Jury,  and Executioner--A First Look At Execution Plans
@@ -61,7 +61,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 12552
 # Squeezing Performance from VMware-Based SQL Server
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: David Klee
 ## Title: Squeezing Performance from VMware-Based SQL Server
@@ -70,7 +70,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 12962
 # Dealing With Errors in SSIS 2012
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: David Dye
 ## Title: Dealing With Errors in SSIS 2012
@@ -79,7 +79,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 14745
 # Tune Queries By Fixing Bad Parameter Sniffing 
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Grant Fritchey
 ## Title: Tune Queries By Fixing Bad Parameter Sniffing 
@@ -88,7 +88,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 16209
 # Using Compression to Improve Database Performance
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Joseph D'Antoni
 ## Title: Using Compression to Improve Database Performance
@@ -97,7 +97,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 16667
 # Data Warehouse ETL Rollback with SSIS 2012
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Jessica Moss
 ## Title: Data Warehouse ETL Rollback with SSIS 2012
@@ -106,7 +106,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 18015
 # Being the Swiss Army Knife of DB Pros
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Prof. Dev
 ## Speaker: Brian Kelley
 ## Title: Being the Swiss Army Knife of DB Pros
@@ -115,7 +115,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Prof. Dev
 #  
 #### SessionID: 18284
 # SQL Server 2012 Columnstore index
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Kevin Goff
 ## Title: SQL Server 2012 Columnstore index
@@ -124,7 +124,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 18540
 # Performance Tuning - Index Optimization
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Konstantin Melamud
 ## Title: Performance Tuning - Index Optimization
@@ -133,7 +133,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 20202
 # Making Predictions with Microsoft Data Mining Tools
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Mark Hudson
 ## Title: Making Predictions with Microsoft Data Mining Tools
@@ -142,7 +142,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 20440
 # Never Have to Say "Mayday!!!" Again
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Prof. Dev
 ## Speaker: Mike Walsh
 ## Title: Never Have to Say "Mayday!!!" Again
@@ -153,7 +153,7 @@ In this session, we'll look at case studies of real-life aviation disasters and 
 #  
 #### SessionID: 21801
 # ETL not ELT!  Common mistakes and misconceptions about SSIS
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Paul Rizza
 ## Title: ETL not ELT!  Common mistakes and misconceptions about SSIS
@@ -163,7 +163,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 23547
 # HealthySQL 
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Robert Pearl
 ## Title: HealthySQL 
@@ -174,7 +174,7 @@ What is a HealthCheck, and how do we perform one? If you are a DBA, then you oug
 #  
 #### SessionID: 23895
 # Merge Dimensions Ahead
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Samuel Vanga
 ## Title: Merge Dimensions Ahead
@@ -187,7 +187,7 @@ An overview of slowly changing dimensions, Comparison between different patterns
 #  
 #### SessionID: 24483
 # Branding Yourself for a Dream Job
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Prof. Dev
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
@@ -196,7 +196,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Prof. Dev
 #  
 #### SessionID: 24697
 # (Way Too Much) Fun with Reporting Services 
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Stacia Varga
 ## Title: (Way Too Much) Fun with Reporting Services 
@@ -205,7 +205,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 26151
 # Indexing Deep Dive
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Kevin Boles
 ## Title: Indexing Deep Dive
@@ -214,7 +214,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 26724
 # It is TEMPDB, Why Should You Care?
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Tim Radney
 ## Title: It is TEMPDB, Why Should You Care?
@@ -223,7 +223,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 1
 #  
 #### SessionID: 26825
 # A Walk Around the SQL Server 2014 Audit Feature
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Timothy McAliley
 ## Title: A Walk Around the SQL Server 2014 Audit Feature
@@ -232,7 +232,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 27511
 # Best SQL Server Programming practices
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Slava Murygin
 ## Title: Best SQL Server Programming practices
@@ -243,7 +243,7 @@ We will talk about how to write good SQL code, how to collaborate in a team and 
 #  
 #### SessionID: 27688
 # Crazy Things That Developers Do, Part I
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Dev
 ## Speaker: Wayne Sheffield
 ## Title: Crazy Things That Developers Do, Part I
@@ -252,7 +252,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Dev
 #  
 #### SessionID: 28235
 # Change Data Capture  Change Tracking Deep Dive
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Kevin Hazzard
 ## Title: Change Data Capture  Change Tracking Deep Dive
@@ -261,7 +261,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 2
 #  
 #### SessionID: 35784
 # Data Career Paths and Decision Making Strategies
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Prof. Dev
 ## Speaker: Melissa Demsak
 ## Title: Data Career Paths and Decision Making Strategies
@@ -270,7 +270,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: Prof. Dev
 #  
 #### SessionID: 8965
 # Introduction to SQL Server 2012 AlwaysOn Availability Groups
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Adam Belebczuk
 ## Title: Introduction to SQL Server 2012 AlwaysOn Availability Groups
@@ -279,7 +279,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 9153
 # Policy-Based Management and Central Management Server 
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 2
 ## Speaker: Andrew Kelly
 ## Title: Policy-Based Management and Central Management Server 
@@ -288,7 +288,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 2
 #  
 #### SessionID: 9245
 # SQL Server Dos and Don'ts: Keys to DBA Nirvana
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 1
 ## Speaker: Allan Hirt
 ## Title: SQL Server Dos and Don'ts: Keys to DBA Nirvana
@@ -297,7 +297,7 @@ Event Date: 07-12-2013 - Session time: 00:00:00 - Track: DBA 1
 #  
 #### SessionID: 9497
 # Using BIML as an SSIS Design Patterns Engine 
-#### [Back to calendar](#SQLSaturday-#233---Washington-DC-2013)
+#### [Back to calendar](#SQLSaturday-#233-Washington-DC-2013)
 Event Date: 07-12-2013 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Andy Leonard
 ## Title: Using BIML as an SSIS Design Patterns Engine 

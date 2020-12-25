@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 105378
 # SQL Server 2019 - Intelligent Query Performance features
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: SQL Server 2019 - Intelligent Query Performance features
@@ -39,7 +39,7 @@ You will leave this session with a solid understanding of some of the best new f
 #  
 #### SessionID: 105827
 # The Curated Data Platform
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Strategy and Architecture
 ## Speaker: Kevin Feasel
 ## Title: The Curated Data Platform
@@ -48,7 +48,7 @@ Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 105916
 # Azure DevOps duet (75 minutes version)
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Kevin Chant
 ## Title: Azure DevOps duet (75 minutes version)
@@ -71,7 +71,7 @@ If you want to see a session about using Azure DevOps with SQL Server, co-presen
 #  
 #### SessionID: 105918
 # Infrastructure for the Data Professional: An Introduction
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: Infrastructure for the Data Professional: An Introduction
@@ -80,7 +80,7 @@ Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 105009
 # Don't just code it—Generate It
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Kevin Mackey
 ## Title: Don't just code it—Generate It
@@ -95,7 +95,7 @@ Generated code has systematic errors. Fix the errors at the generator. All the c
 #  
 #### SessionID: 105256
 # Gathering Operational Data for Trending with PowerShell
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: Gathering Operational Data for Trending with PowerShell
@@ -104,7 +104,7 @@ Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 105909
 # Intro to Query Store
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Intro to Query Store
@@ -117,7 +117,7 @@ In this session, we will walk through the features of the Query Store, so you ca
 #  
 #### SessionID: 105929
 # Hacking SQL Server Is Not Enough
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server Is Not Enough
@@ -128,7 +128,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #  
 #### SessionID: 104034
 # How to do a Complete SQL Server Assessment
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: How to do a Complete SQL Server Assessment
@@ -137,7 +137,7 @@ Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 104312
 # Azure Data Studio, SQL Server Containers, and You
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Frank Gill
 ## Title: Azure Data Studio, SQL Server Containers, and You
@@ -146,7 +146,7 @@ Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 105816
 # Introduction to Extended Events
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kathi Kellenberger
 ## Title: Introduction to Extended Events
@@ -156,7 +156,7 @@ During this session, you will learn how to make the transition to Extended Event
 #  
 #### SessionID: 105858
 # Azure Synapse back to back
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Armando Lacerda
 ## Title: Azure Synapse back to back
@@ -165,7 +165,7 @@ Event Date: 01-08-2020 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 104559
 # Window Functions in SQL
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Brian Hansen
 ## Title: Window Functions in SQL
@@ -174,7 +174,7 @@ Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 105054
 # 10 Cloudy Questions to Ask Before Migrating Your SQL Server
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: 10 Cloudy Questions to Ask Before Migrating Your SQL Server
@@ -183,7 +183,7 @@ Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 105913
 # Sarah the Explorer: Navigating and Customizing the SharePoint Interface
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Sarah Patrick
 ## Title: Sarah the Explorer: Navigating and Customizing the SharePoint Interface
@@ -192,7 +192,7 @@ Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 105951
 # Elevating Your Career into IT Leadership
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Mark Runyon
 ## Title: Elevating Your Career into IT Leadership
@@ -201,7 +201,7 @@ Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Professional Developmen
 #  
 #### SessionID: 104117
 # SQL Server Policies -  Underused Method for Configuring Your Database Server and Enforcing Standards
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: H. Ross Reed
 ## Title: SQL Server Policies -  Underused Method for Configuring Your Database Server and Enforcing Standards
@@ -211,7 +211,7 @@ make sure our database instances are configured to standards. When configuring a
 #  
 #### SessionID: 105300
 # Intro to Power BI
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Patrick
 ## Title: Intro to Power BI
@@ -220,7 +220,7 @@ Event Date: 01-08-2020 - Session time: 15:40:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 105910
 # Mental Health and Wellness in IT: Safeguarding our most precious resource
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Professional Development
 ## Speaker: Tracy Boggiano
 ## Title: Mental Health and Wellness in IT: Safeguarding our most precious resource
@@ -229,7 +229,7 @@ Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Professional Developmen
 #  
 #### SessionID: 105947
 # Breaking Bad Habits: Solutions for Common Query Antipatterns
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Jeff Iannucci
 ## Title: Breaking Bad Habits: Solutions for Common Query Antipatterns
@@ -238,7 +238,7 @@ Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 104043
 # Navigating Row Level Security
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Erin Dempster
 ## Title: Navigating Row Level Security
@@ -247,7 +247,7 @@ Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Application  Database D
 #  
 #### SessionID: 104062
 # Managing SQL Server on Windows Server Core
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Frank Henninger
 ## Title: Managing SQL Server on Windows Server Core
@@ -258,7 +258,7 @@ We'll cover what versions and features are supported, how to install sql server 
 #  
 #### SessionID: 105242
 # Think like the Cardinality Estimator
-#### [Back to calendar](#SQLSaturday-#991---Iowa-City-–-Virtual-2020)
+#### [Back to calendar](#SQLSaturday-#991-Iowa-City-–-Virtual-2020)
 Event Date: 01-08-2020 - Session time: 15:40:00 - Track: Application  Database Development
 ## Speaker: Taiob Ali
 ## Title: Think like the Cardinality Estimator

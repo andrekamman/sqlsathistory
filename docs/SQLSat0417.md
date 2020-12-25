@@ -16,7 +16,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 21415
 # NoSQL on Azure: An Introduction to DocumentDB
-#### [Back to calendar](#SQLSaturday-#417---Sri-Lanka-2015)
+#### [Back to calendar](#SQLSaturday-#417-Sri-Lanka-2015)
 Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
 ## Speaker: Nilabja Ball
 ## Title: NoSQL on Azure: An Introduction to DocumentDB
@@ -25,7 +25,7 @@ Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
 #  
 #### SessionID: 36173
 # Performance in 60 Seconds - SQL Tricks Everybody MUST Know
-#### [Back to calendar](#SQLSaturday-#417---Sri-Lanka-2015)
+#### [Back to calendar](#SQLSaturday-#417-Sri-Lanka-2015)
 Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Database Engine
 ## Speaker: Pinal Dave
 ## Title: Performance in 60 Seconds - SQL Tricks Everybody MUST Know
@@ -34,7 +34,7 @@ Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Database Engine
 #  
 #### SessionID: 10492
 # Inside Transactional Replication
-#### [Back to calendar](#SQLSaturday-#417---Sri-Lanka-2015)
+#### [Back to calendar](#SQLSaturday-#417-Sri-Lanka-2015)
 Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Database Engine
 ## Speaker: Prabhakaran Bhaskaran
 ## Title: Inside Transactional Replication
@@ -45,7 +45,7 @@ This session will answers questions like; How does the log reader know where to 
 #  
 #### SessionID: 36538
 # Big Data Analytics: The Microsoft Way
-#### [Back to calendar](#SQLSaturday-#417---Sri-Lanka-2015)
+#### [Back to calendar](#SQLSaturday-#417-Sri-Lanka-2015)
 Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
 ## Speaker: Dinesh Priyankara
 ## Title: Big Data Analytics: The Microsoft Way
@@ -54,7 +54,7 @@ Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
 #  
 #### SessionID: 21416
 # SQL Server 2014 In-Memory Overview 
-#### [Back to calendar](#SQLSaturday-#417---Sri-Lanka-2015)
+#### [Back to calendar](#SQLSaturday-#417-Sri-Lanka-2015)
 Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Database Engine
 ## Speaker: Nilabja Ball
 ## Title: SQL Server 2014 In-Memory Overview 
@@ -63,7 +63,7 @@ Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Database Engine
 #  
 #### SessionID: 36650
 # Setting your first foot in the world of Business Intelligence
-#### [Back to calendar](#SQLSaturday-#417---Sri-Lanka-2015)
+#### [Back to calendar](#SQLSaturday-#417-Sri-Lanka-2015)
 Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
 ## Speaker: Vijayakumar Thurupathan
 ## Title: Setting your first foot in the world of Business Intelligence
@@ -72,7 +72,7 @@ Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
 #  
 #### SessionID: 36000
 # Telling Stories with Data
-#### [Back to calendar](#SQLSaturday-#417---Sri-Lanka-2015)
+#### [Back to calendar](#SQLSaturday-#417-Sri-Lanka-2015)
 Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
 ## Speaker: Gogula Aryalingam
 ## Title: Telling Stories with Data
@@ -83,7 +83,7 @@ This session looks at how you could collect data from the various sources in you
 #  
 #### SessionID: 36174
 # Indexes – The Unsung Hero
-#### [Back to calendar](#SQLSaturday-#417---Sri-Lanka-2015)
+#### [Back to calendar](#SQLSaturday-#417-Sri-Lanka-2015)
 Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Database Engine
 ## Speaker: Pinal Dave
 ## Title: Indexes – The Unsung Hero
@@ -92,7 +92,7 @@ Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Database Engine
 #  
 #### SessionID: 36522
 # My Data in the Cloud: Microsoft Azure SQL Database
-#### [Back to calendar](#SQLSaturday-#417---Sri-Lanka-2015)
+#### [Back to calendar](#SQLSaturday-#417-Sri-Lanka-2015)
 Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Database Engine
 ## Speaker: Sammani Palansuriya
 ## Title: My Data in the Cloud: Microsoft Azure SQL Database
@@ -103,7 +103,7 @@ This discussion will give you an understanding about Azure SQL Database; what th
 #  
 #### SessionID: 36654
 # Enterprise MS BI for everyone, The Journey So Far
-#### [Back to calendar](#SQLSaturday-#417---Sri-Lanka-2015)
+#### [Back to calendar](#SQLSaturday-#417-Sri-Lanka-2015)
 Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
 ## Speaker: Indika Ariyasinghe
 ## Title: Enterprise MS BI for everyone, The Journey So Far
@@ -112,7 +112,7 @@ Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
 #  
 #### SessionID: 37115
 # The Great SQL Panel Discussion
-#### [Back to calendar](#SQLSaturday-#417---Sri-Lanka-2015)
+#### [Back to calendar](#SQLSaturday-#417-Sri-Lanka-2015)
 Event Date: 06-06-2015 - Session time: 16:30:00 - Track: General
 ## Speaker: Pinal Dave
 ## Title: The Great SQL Panel Discussion

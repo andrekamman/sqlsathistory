@@ -33,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 57751
 # Data Science that’s scale
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: Data Science that’s scale
@@ -45,7 +45,7 @@ Secondly, MRS 9 allows R models to be exposed as Web services. Furthermore with 
 #  
 #### SessionID: 59650
 # Introduction to the Stream Analytics query language
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
 ## Speaker: Johan Ludvig Brattås
 ## Title: Introduction to the Stream Analytics query language
@@ -57,7 +57,7 @@ We will look at inputs and outputs - and see some working samples.
 #  
 #### SessionID: 61138
 # Важливість статистики в MS SQL Server, як вона використовується.
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Andrii Zrobok
 ## Title: Важливість статистики в MS SQL Server, як вона використовується.
@@ -66,7 +66,7 @@ Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 61230
 # BI Application Lifecycle Management with TFS
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Information Delivery
 ## Speaker: Dmytro Andriychenko
 ## Title: BI Application Lifecycle Management with TFS
@@ -75,7 +75,7 @@ Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 63047
 # When Things go Wrong - Error Handling in SQL Server
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: When Things go Wrong - Error Handling in SQL Server
@@ -86,7 +86,7 @@ This presentation will start with a horror show of the many different actions SQ
 #  
 #### SessionID: 58085
 # Meta-Data Driven Tabular Modeling with TOM in SSAS
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Meta-Data Driven Tabular Modeling with TOM in SSAS
@@ -96,7 +96,7 @@ For example, you need to generate set of new measures every year or end users wa
 #  
 #### SessionID: 59492
 # Enabling Citizen Data Science with Microsoft
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jan Mulkens
 ## Title: Enabling Citizen Data Science with Microsoft
@@ -112,7 +112,7 @@ Using a combination of theory and demo’s, we explore Microsoft’s solutions t
 #  
 #### SessionID: 61360
 # Azure real-time analytics and kappa architecture with Kafka and Cassandra clusters.
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Vitalii Bondarenko
 ## Title: Azure real-time analytics and kappa architecture with Kafka and Cassandra clusters.
@@ -122,7 +122,7 @@ During the session we will dive into different aspects of building real-time str
 #  
 #### SessionID: 62690
 # Mastering DML Operations like a master
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Uwe Ricken
 ## Title: Mastering DML Operations like a master
@@ -139,7 +139,7 @@ What performance drawbacks have Page Splits and Forwarded Records for my applica
 #  
 #### SessionID: 62708
 # Anchor Modelling: Sixth normal form databases!
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Stephanie Locke
 ## Title: Anchor Modelling: Sixth normal form databases!
@@ -150,7 +150,7 @@ This session deep dives into all the concepts behind Anchor Modelling (and indee
 #  
 #### SessionID: 62954
 # Stretch your HA/DR capabilities with Azure and SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: Stretch your HA/DR capabilities with Azure and SQL Server 2016
@@ -164,7 +164,7 @@ This session will overview features such as Always On AG, Failover cluster, Azur
 #  
 #### SessionID: 58023
 # T-SQL Performance Guidelines for better DB stress powers
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for better DB stress powers
@@ -173,7 +173,7 @@ Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database D
 #  
 #### SessionID: 58084
 # Azure SQL DWH: Tips and Tricks for developers
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Azure SQL DWH: Tips and Tricks for developers
@@ -182,7 +182,7 @@ Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 58241
 # NSA Secrets - Hacking SQL Server
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: NSA Secrets - Hacking SQL Server
@@ -196,7 +196,7 @@ Disclaimer: No actual state secrets will be revealed. Please do not send agents 
 #  
 #### SessionID: 60970
 # Creating Custom BI Solutions with Power BI Embedded
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mihail Mateev
 ## Title: Creating Custom BI Solutions with Power BI Embedded
@@ -207,7 +207,7 @@ This talk is a practical session on Microsoft Power BI Embedded concept with man
 #  
 #### SessionID: 62727
 # Supercharge your PostgreSQL with extensions
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Strategy and Architecture
 ## Speaker: Alexey Vasiliev
 ## Title: Supercharge your PostgreSQL with extensions
@@ -216,7 +216,7 @@ Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 63419
 # Azure Data Factory. Ingest,prepare, transform and publish your data
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Polonichko
 ## Title: Azure Data Factory. Ingest,prepare, transform and publish your data
@@ -225,7 +225,7 @@ Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 65183
 # Optimization SQL Server for SharePoint Farm
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Strategy and Architecture
 ## Speaker: Sergii Bielskyi
 ## Title: Optimization SQL Server for SharePoint Farm
@@ -234,7 +234,7 @@ Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 57737
 # SQL SERVER - Next station Azure
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: SQL SERVER - Next station Azure
@@ -250,7 +250,7 @@ We will cover:
 #  
 #### SessionID: 63046
 # Giving Permissions through Stored Procedures
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Giving Permissions through Stored Procedures
@@ -263,7 +263,7 @@ The session should be of interest both to DBAs and application developers that n
 #  
 #### SessionID: 63583
 # Development Methodology for BI teams
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Maryna Popova
 ## Title: Development Methodology for BI teams
@@ -274,7 +274,7 @@ In my talk I would like to share my experience choosing and adjusting one.
 #  
 #### SessionID: 63631
 # SQL database on IoT devices, could you? should you? would you?
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: SQL database on IoT devices, could you? should you? would you?
@@ -285,7 +285,7 @@ How does all fit with the field gateway concept?  During the presentation, we wi
 #  
 #### SessionID: 65148
 # Создание data-driven serverless приложений используя Azure Functions
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: Создание data-driven serverless приложений используя Azure Functions
@@ -294,7 +294,7 @@ Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Cloud Application Devel
 #  
 #### SessionID: 61159
 # Understand better Transaction Isolation Levels
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Kamil Nowinski
 ## Title: Understand better Transaction Isolation Levels
@@ -304,7 +304,7 @@ Let's back to the basis then in order to better understand transaction isolation
 #  
 #### SessionID: 61168
 # SQL Server and PowerShell. Expand your capabilities
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
 ## Speaker: Andriy Pogorelov
 ## Title: SQL Server and PowerShell. Expand your capabilities
@@ -314,7 +314,7 @@ Tag cloud: connection, multi-threading, cmdlets, scenarios and tasks, demo, Azur
 #  
 #### SessionID: 61663
 # Introduction to SQL Server v.Next for Linux
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrzej Kukula
 ## Title: Introduction to SQL Server v.Next for Linux
@@ -325,7 +325,7 @@ In addition to slides you're going to see lots of terminal windows, tools that a
 #  
 #### SessionID: 62688
 # Investigate, analyze and solve common wait stats scenarios
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Uwe Ricken
 ## Title: Investigate, analyze and solve common wait stats scenarios
@@ -339,7 +339,7 @@ Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 63527
 # Encryption in SQL Server
-#### [Back to calendar](#SQLSaturday-#616---Kyiv-2017)
+#### [Back to calendar](#SQLSaturday-#616-Kyiv-2017)
 Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: Encryption in SQL Server

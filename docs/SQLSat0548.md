@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 49102
 # Top 10 Wait Types Everyone Should Know
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Top 10 Wait Types Everyone Should Know
@@ -55,7 +55,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 49229
 # Does it Hurt When I Do This? Performing a SQL Server Health Check
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Galbraith
 ## Title: Does it Hurt When I Do This? Performing a SQL Server Health Check
@@ -66,7 +66,7 @@ Come learn how to use freely available tools from multiple layers of the SQL Ser
 #  
 #### SessionID: 49655
 # SQL Server R Services in SQL 2016
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
@@ -75,7 +75,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #  
 #### SessionID: 50076
 # Mobile, Paginated, KPIs and Power BI, Oh My! SSRS 2016 Reporting
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Steve Wake
 ## Title: Mobile, Paginated, KPIs and Power BI, Oh My! SSRS 2016 Reporting
@@ -91,7 +91,7 @@ If you have been curious about what has changed with SSRS in SQL Server 2016 and
 #  
 #### SessionID: 53116
 # Biml: Your 3D Printer for SSIS
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Biml
 ## Speaker: Ben Weissman
 ## Title: Biml: Your 3D Printer for SSIS
@@ -105,7 +105,7 @@ Have you ever spent hours fixing your SSIS due to a schema change on the source?
 #  
 #### SessionID: 53123
 # So this is Power BI. What now?
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: George Bryant
 ## Title: So this is Power BI. What now?
@@ -114,7 +114,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 53232
 # Disaster Recovery  From On Premises to Azure
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carlos L Chacon
 ## Title: Disaster Recovery  From On Premises to Azure
@@ -123,7 +123,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53308
 # Near real time analytics with Azure Stream Analytics
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Frank Kearney
 ## Title: Near real time analytics with Azure Stream Analytics
@@ -133,7 +133,7 @@ In this session we will review the architecture of Azure Stream Analytics, a wal
 #  
 #### SessionID: 49029
 # Shaping Your Process to Hire Top Talent
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Erica Woods
 ## Title: Shaping Your Process to Hire Top Talent
@@ -142,7 +142,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 52499
 # What is new in SQL Server 2016 for DBAs?
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: What is new in SQL Server 2016 for DBAs?
@@ -154,7 +154,7 @@ in your Dev environment.
 #  
 #### SessionID: 52676
 # Pragmatic Power BI:  Transforming Data
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: William E Pearson III
 ## Title: Pragmatic Power BI:  Transforming Data
@@ -163,7 +163,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 52727
 # Test Automation: Agile Enablement for DW and BI Teams
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Other
 ## Speaker: Cher Fox
 ## Title: Test Automation: Agile Enablement for DW and BI Teams
@@ -172,7 +172,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Other
 #  
 #### SessionID: 52936
 # Introduction to Microsoft Analytics – Turning Data into Intelligent Action
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Melody Zacharias
 ## Title: Introduction to Microsoft Analytics – Turning Data into Intelligent Action
@@ -181,7 +181,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #  
 #### SessionID: 53117
 # Biml: I got the basics - what's next?
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Biml
 ## Speaker: Ben Weissman
 ## Title: Biml: I got the basics - what's next?
@@ -197,7 +197,7 @@ You'll leave with sample code and hopefully a couple of ideas on how to bring yo
 #  
 #### SessionID: 53165
 # SQL Server Databaseology: A Deep Dive Into Database Internals
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology: A Deep Dive Into Database Internals
@@ -207,7 +207,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54387
 # Analyze  Visualize SQL Server Data w/ PowerPivot, PowerView  Excel
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
 ## Speaker: Wylie Blanchard
 ## Title: Analyze  Visualize SQL Server Data w/ PowerPivot, PowerView  Excel
@@ -216,7 +216,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 49038
 # Data Migration Using BIML
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Biml
 ## Speaker: Kevin Feasel
 ## Title: Data Migration Using BIML
@@ -225,7 +225,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Biml
 #  
 #### SessionID: 50279
 # Microdata For Microservices
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Chase Aucoin
 ## Title: Microdata For Microservices
@@ -236,7 +236,7 @@ The missing piece of the puzzle for most companies when it comes to micro servic
 #  
 #### SessionID: 51212
 # WIT: Identifying, Understanding and Combating Gender Bias
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: WIT: Identifying, Understanding and Combating Gender Bias
@@ -245,7 +245,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 52597
 # Building a Modern Transaction System on SQL Server
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Strategy and Architecture
 ## Speaker: Bill Graziano
 ## Title: Building a Modern Transaction System on SQL Server
@@ -254,7 +254,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 52883
 # Isolation Levels – Understanding Transaction Temper Tantrums
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adam Koehler
 ## Title: Isolation Levels – Understanding Transaction Temper Tantrums
@@ -263,7 +263,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53000
 # Introduction to BIML and BimlScript
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeremy Marx
 ## Title: Introduction to BIML and BimlScript
@@ -278,7 +278,7 @@ Jeremy will demonstrate how to build a simple, single-table SSIS package using B
 #  
 #### SessionID: 53167
 # An Architect's Strategy for Consistent SSIS with SQL Server 2016
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Biml
 ## Speaker: Bill Fellows
 ## Title: An Architect's Strategy for Consistent SSIS with SQL Server 2016
@@ -287,7 +287,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Biml
 #  
 #### SessionID: 53314
 # SQL Server Tips and Tricks from a lazy DBA
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Other
 ## Speaker: Chuck Hieber
 ## Title: SQL Server Tips and Tricks from a lazy DBA
@@ -297,7 +297,7 @@ In this session, I will show you several of the tips and tricks I have picked up
 #  
 #### SessionID: 49099
 # I’m It – Survival Techniques for the Lone DBA
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I’m It – Survival Techniques for the Lone DBA
@@ -306,7 +306,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 49145
 # Kerberos Delegation Made Simple
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kathi Kellenberger
 ## Title: Kerberos Delegation Made Simple
@@ -319,7 +319,7 @@ Attend this session to learn why Kerberos is necessary and how to configure and 
 #  
 #### SessionID: 49408
 # Turbo Charged Transaction Logs - Internals and Performance
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Turbo Charged Transaction Logs - Internals and Performance
@@ -328,7 +328,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50001
 # SSAS 2016 Tabular - Diving into the new features
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Beswick
 ## Title: SSAS 2016 Tabular - Diving into the new features
@@ -337,7 +337,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 52670
 # Lock, Block, and Two Smoking CPUs
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Daniel Maenle
 ## Title: Lock, Block, and Two Smoking CPUs
@@ -347,7 +347,7 @@ Also to talk about how this can be a great streamline and better performing appr
 #  
 #### SessionID: 53269
 # Get Your Optimizer to Give up All Its Secrets
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
@@ -356,7 +356,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 53303
 # Understanding Azure SQL Data Warehouse
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Pierre LaFromboise
 ## Title: Understanding Azure SQL Data Warehouse
@@ -365,7 +365,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 53339
 # Incrementally Moving to the Cloud Using Biml
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Biml
 ## Speaker: Scott Currie
 ## Title: Incrementally Moving to the Cloud Using Biml
@@ -384,7 +384,7 @@ All code will be shared with attendees.
 #  
 #### SessionID: 49026
 # Using SQL Nexus for system health
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Wendy Pastrick
 ## Title: Using SQL Nexus for system health
@@ -393,7 +393,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 50697
 # Troubleshooting Skills for the DBA
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
 ## Speaker: Ben DeBow
 ## Title: Troubleshooting Skills for the DBA
@@ -402,7 +402,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #  
 #### SessionID: 52513
 # Powershell Jumpstart for SQL Server DBAs
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Powershell Jumpstart for SQL Server DBAs
@@ -411,7 +411,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 52995
 # Revenge: The SQL!
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
@@ -426,7 +426,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #  
 #### SessionID: 53017
 # Understanding SQL Server 2016 Always Encrypted
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Ed Leighton-Dick
 ## Title: Understanding SQL Server 2016 Always Encrypted
@@ -435,7 +435,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database D
 #  
 #### SessionID: 53268
 # Your Data, in the Cloud
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Walden
 ## Title: Your Data, in the Cloud
@@ -445,7 +445,7 @@ This session will include introductions to technologies such as Azure AlwaysOn A
 #  
 #### SessionID: 53316
 # A New Approach to Unit and Integration Testing in SSIS
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reeves Smith
 ## Title: A New Approach to Unit and Integration Testing in SSIS
@@ -457,7 +457,7 @@ In this session, a new approach to unit testing (focusing on verifying the corre
 #  
 #### SessionID: 53360
 # Essential steps to ensure survivability of your SQL Server database
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andre DuBois
 ## Title: Essential steps to ensure survivability of your SQL Server database
@@ -466,7 +466,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #  
 #### SessionID: 54546
 # Dimensional Modeling Design Patterns: Beyond the Basics
-#### [Back to calendar](#SQLSaturday-#548---Kansas-City-2016)
+#### [Back to calendar](#SQLSaturday-#548-Kansas-City-2016)
 Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond the Basics

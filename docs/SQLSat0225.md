@@ -10,7 +10,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13514
 # A Deep Dive in SQL Server 2012 Data Warehousing
-#### [Back to calendar](#SQLSaturday-#225---Kosovo-2013)
+#### [Back to calendar](#SQLSaturday-#225-Kosovo-2013)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Ligjerimet
 ## Speaker: Dejan Sarka
 ## Title: A Deep Dive in SQL Server 2012 Data Warehousing
@@ -19,7 +19,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Ligjerimet
 #  
 #### SessionID: 13593
 # 10 Things to survive as DBA 
-#### [Back to calendar](#SQLSaturday-#225---Kosovo-2013)
+#### [Back to calendar](#SQLSaturday-#225-Kosovo-2013)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Ligjerimet
 ## Speaker: Dukagjin Maloku
 ## Title: 10 Things to survive as DBA 
@@ -28,7 +28,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Ligjerimet
 #  
 #### SessionID: 15365
 # Inheriting a database for Developers, version 2
-#### [Back to calendar](#SQLSaturday-#225---Kosovo-2013)
+#### [Back to calendar](#SQLSaturday-#225-Kosovo-2013)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Ligjerimet
 ## Speaker: Niko Neugebauer
 ## Title: Inheriting a database for Developers, version 2
@@ -37,7 +37,7 @@ Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Ligjerimet
 #  
 #### SessionID: 24771
 # SQL Injection: From Website to SQL Server
-#### [Back to calendar](#SQLSaturday-#225---Kosovo-2013)
+#### [Back to calendar](#SQLSaturday-#225-Kosovo-2013)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Ligjerimet
 ## Speaker: Mladen Prajdić
 ## Title: SQL Injection: From Website to SQL Server
@@ -48,7 +48,7 @@ Prerequisites: .Net, C#, T-SQL
 #  
 #### SessionID: 27120
 # HA  DR with SQL Server 2012 AlwaysOn Availability Group
-#### [Back to calendar](#SQLSaturday-#225---Kosovo-2013)
+#### [Back to calendar](#SQLSaturday-#225-Kosovo-2013)
 Event Date: 18-05-2013 - Session time: 00:00:00 - Track: Ligjerimet
 ## Speaker: Turgay Sahtiyan
 ## Title: HA  DR with SQL Server 2012 AlwaysOn Availability Group

@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 13052
 # Оптимизация запросов в примерах
-#### [Back to calendar](#SQLSaturday-#270---Krasnodar-2014)
+#### [Back to calendar](#SQLSaturday-#270-Krasnodar-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dmitriy Kostylev
 ## Title: Оптимизация запросов в примерах
@@ -26,7 +26,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 13753
 # Конкуренция за ресурсы в многоядерных системах.
-#### [Back to calendar](#SQLSaturday-#270---Krasnodar-2014)
+#### [Back to calendar](#SQLSaturday-#270-Krasnodar-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Evgeny Khabarov
 ## Title: Конкуренция за ресурсы в многоядерных системах.
@@ -35,7 +35,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 18666
 # Windows Server 2012/R2: новые возможности для SQL Server и виртуализация на его платформе
-#### [Back to calendar](#SQLSaturday-#270---Krasnodar-2014)
+#### [Back to calendar](#SQLSaturday-#270-Krasnodar-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Mikhail Komarov
 ## Title: Windows Server 2012/R2: новые возможности для SQL Server и виртуализация на его платформе
@@ -44,7 +44,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 18746
 # 2 AM. A Disaster just began...
-#### [Back to calendar](#SQLSaturday-#270---Krasnodar-2014)
+#### [Back to calendar](#SQLSaturday-#270-Krasnodar-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Tobias Koprowski
 ## Title: 2 AM. A Disaster just began...
@@ -53,7 +53,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18747
 # SQL Server Source Control
-#### [Back to calendar](#SQLSaturday-#270---Krasnodar-2014)
+#### [Back to calendar](#SQLSaturday-#270-Krasnodar-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Tobias Koprowski
 ## Title: SQL Server Source Control
@@ -62,7 +62,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 18812
 # Советы разработчику отчетов
-#### [Back to calendar](#SQLSaturday-#270---Krasnodar-2014)
+#### [Back to calendar](#SQLSaturday-#270-Krasnodar-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Andrey Korshikov
 ## Title: Советы разработчику отчетов
@@ -71,7 +71,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 #  
 #### SessionID: 22161
 # Оптимизатор запросов и оценки кардинальности в SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#270---Krasnodar-2014)
+#### [Back to calendar](#SQLSaturday-#270-Krasnodar-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Dmitry Pilugin
 ## Title: Оптимизатор запросов и оценки кардинальности в SQL Server 2014
@@ -80,7 +80,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24336
 # In-Memory OLTP (Hekaton) в SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#270---Krasnodar-2014)
+#### [Back to calendar](#SQLSaturday-#270-Krasnodar-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Sergey Olontsev
 ## Title: In-Memory OLTP (Hekaton) в SQL Server 2014
@@ -89,7 +89,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 24338
 # Все о журнале транзакций в SQL Server
-#### [Back to calendar](#SQLSaturday-#270---Krasnodar-2014)
+#### [Back to calendar](#SQLSaturday-#270-Krasnodar-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Sergey Olontsev
 ## Title: Все о журнале транзакций в SQL Server
@@ -98,7 +98,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 25009
 # SQL Server HA 2008 R2, 2012  2014: Overview  Solutions
-#### [Back to calendar](#SQLSaturday-#270---Krasnodar-2014)
+#### [Back to calendar](#SQLSaturday-#270-Krasnodar-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Satya Jayanty
 ## Title: SQL Server HA 2008 R2, 2012  2014: Overview  Solutions
@@ -107,7 +107,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 28306
 # Backup и recovery для начинающих
-#### [Back to calendar](#SQLSaturday-#270---Krasnodar-2014)
+#### [Back to calendar](#SQLSaturday-#270-Krasnodar-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andrey Zavadskiy
 ## Title: Backup и recovery для начинающих
@@ -116,7 +116,7 @@ Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 28334
 # Лицензирование SQL Server 2014
-#### [Back to calendar](#SQLSaturday-#270---Krasnodar-2014)
+#### [Back to calendar](#SQLSaturday-#270-Krasnodar-2014)
 Event Date: 26-04-2014 - Session time: 00:00:00 - Track: Track 3
 ## Speaker: Жанна Кривозубова
 ## Title: Лицензирование SQL Server 2014

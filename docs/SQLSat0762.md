@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 74594
 # SQL Server  Docker : les premiers pas
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Red Room - Docker  DBA
 ## Speaker: Christophe Laporte
 ## Title: SQL Server  Docker : les premiers pas
@@ -37,7 +37,7 @@ A la fin de cette heure d'initiation didactique et progressive, vous aurez toute
 #  
 #### SessionID: 77811
 # BI in Azure one year live
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Blue Room - Cloud
 ## Speaker: Alexander Klein
 ## Title: BI in Azure one year live
@@ -48,7 +48,7 @@ Now, after more than a year in live operation, a short summary and evaluation on
 #  
 #### SessionID: 78960
 # The Road to The Autonomous Databases
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Orange Room - Deep SQL
 ## Speaker: Janusz Rokicki
 ## Title: The Road to The Autonomous Databases
@@ -57,7 +57,7 @@ Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Orange Room - Deep SQL
 #  
 #### SessionID: 83923
 # Le streaming, avenir de la B.I. ?
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Yellow Room - BI  Analytics
 ## Speaker: Olivier Marguillard
 ## Title: Le streaming, avenir de la B.I. ?
@@ -68,7 +68,7 @@ Venez découvrir une architecture Kafka, Event Hub, Stream Analytics, DataBricks
 #  
 #### SessionID: 74587
 # What is hidden in the query plan ?
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Orange Room - Deep SQL
 ## Speaker: Rudi Bruchez
 ## Title: What is hidden in the query plan ?
@@ -77,7 +77,7 @@ Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Orange Room - Deep SQL
 #  
 #### SessionID: 74717
 # Automation and best practices for ADFv2
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Blue Room - Cloud
 ## Speaker: Bent Pedersen
 ## Title: Automation and best practices for ADFv2
@@ -90,7 +90,7 @@ We will as well look into how this fits perfectly with Azure Logic apps for auto
 #  
 #### SessionID: 75732
 # SQL Server et Docker, du développement à la production
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Red Room - Docker  DBA
 ## Speaker: David Barbarin
 ## Title: SQL Server et Docker, du développement à la production
@@ -103,7 +103,7 @@ Dans cette session, je vous propose un retour d'expérience sur la mise en place
 #  
 #### SessionID: 82473
 # Power BI server and Office Online server, modernize your on-prem
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Yellow Room - BI  Analytics
 ## Speaker: Isabelle Van Campenhoudt
 ## Title: Power BI server and Office Online server, modernize your on-prem
@@ -113,7 +113,7 @@ Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Yellow Room - BI  Analy
 #  
 #### SessionID: 84085
 # Query performance monitoring and graphical analysis
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Blue Room - Cloud
 ## Speaker: Michael Roedeske
 ## Title: Query performance monitoring and graphical analysis
@@ -122,7 +122,7 @@ Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Blue Room - Cloud
 #  
 #### SessionID: 74555
 # J'ai migré un publisher sans réinitialiser la réplication
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Orange Room - Deep SQL
 ## Speaker: Gregory Boge
 ## Title: J'ai migré un publisher sans réinitialiser la réplication
@@ -132,7 +132,7 @@ Dans cette session, je vais expliquer comment j'ai réalisé cette migration. Si
 #  
 #### SessionID: 76858
 # Getting onboard with Azure Data Warehouse (ADW)
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Blue Room - Cloud
 ## Speaker: Paul Bertucci
 ## Title: Getting onboard with Azure Data Warehouse (ADW)
@@ -141,7 +141,7 @@ Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Blue Room - Cloud
 #  
 #### SessionID: 77196
 # Continuous Integration Pipelines With Jenkins, Docker and SQL Server
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Red Room - Docker  DBA
 ## Speaker: Christopher Adkin
 ## Title: Continuous Integration Pipelines With Jenkins, Docker and SQL Server
@@ -150,7 +150,7 @@ Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Red Room - Docker  DBA
 #  
 #### SessionID: 80693
 # Les règles d'or du Data Modeling avec Power BI
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Yellow Room - BI  Analytics
 ## Speaker: Joël Crest
 ## Title: Les règles d'or du Data Modeling avec Power BI
@@ -159,7 +159,7 @@ Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Yellow Room - BI  Analy
 #  
 #### SessionID: 77089
 # Next first steps - selected applications of R
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Yellow Room - BI  Analytics
 ## Speaker: Thomas Hütter
 ## Title: Next first steps - selected applications of R
@@ -177,7 +177,7 @@ Here are the three subjects that this slightly code-heavy session will cover:
 #  
 #### SessionID: 77539
 # Industrialisation : Powershell pour SQL Server
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Orange Room - Deep SQL
 ## Speaker: Sarah Bessard
 ## Title: Industrialisation : Powershell pour SQL Server
@@ -186,7 +186,7 @@ Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Orange Room - Deep SQL
 #  
 #### SessionID: 80689
 # Tooling autour de SQL
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Red Room - Docker  DBA
 ## Speaker: Philippe Geiger
 ## Title: Tooling autour de SQL
@@ -196,7 +196,7 @@ SSMS, SSDT, VSCode, SQLOps, etc.
 #  
 #### SessionID: 83894
 # Azure Data Lake : SELECT People FROM DataLake WHERE HappyFace = 1
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Blue Room - Cloud
 ## Speaker: Jean-Pierre Riehl
 ## Title: Azure Data Lake : SELECT People FROM DataLake WHERE HappyFace = 1
@@ -208,7 +208,7 @@ Bien que cette session soit orientée démo, les concepts et les fonctionnalité
 #  
 #### SessionID: 74570
 # Practical SQL Server Machine Learning Services
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Yellow Room - BI  Analytics
 ## Speaker: Jan Mulkens
 ## Title: Practical SQL Server Machine Learning Services
@@ -219,7 +219,7 @@ Learn how you can easily roll out your own Data Science projects or support the 
 #  
 #### SessionID: 77297
 # Improve query performance with the new SQL Server 2016 query store!!
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Red Room - Docker  DBA
 ## Speaker: Michelle Gutzait
 ## Title: Improve query performance with the new SQL Server 2016 query store!!
@@ -229,7 +229,7 @@ This session will discuss the query store and what you can do on an ad-hoc basis
 #  
 #### SessionID: 80484
 # Azure Cosmos DB, un univers multimodèle et multi-API
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Blue Room - Cloud
 ## Speaker: Cédric Charlier
 ## Title: Azure Cosmos DB, un univers multimodèle et multi-API
@@ -238,7 +238,7 @@ Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Blue Room - Cloud
 #  
 #### SessionID: 80533
 # Simplifying XEvents Management with dbatools
-#### [Back to calendar](#SQLSaturday-#762---Paris-2018)
+#### [Back to calendar](#SQLSaturday-#762-Paris-2018)
 Event Date: 07-07-2018 - Session time: 16:30:00 - Track: Orange Room - Deep SQL
 ## Speaker: Chrissy LeMaire
 ## Title: Simplifying XEvents Management with dbatools

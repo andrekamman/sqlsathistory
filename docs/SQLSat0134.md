@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 11607
 # SQL Server Internals:  It's What's for Dinner!
-#### [Back to calendar](#SQLSaturday-#134---Johannesburg-2012)
+#### [Back to calendar](#SQLSaturday-#134-Johannesburg-2012)
 Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Virtual/remote
 ## Speaker: Christina Leo
 ## Title: SQL Server Internals:  It's What's for Dinner!
@@ -26,7 +26,7 @@ Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Virtual/remote
 #  
 #### SessionID: 12424
 # Layered partitioning in a Data Warehouse
-#### [Back to calendar](#SQLSaturday-#134---Johannesburg-2012)
+#### [Back to calendar](#SQLSaturday-#134-Johannesburg-2012)
 Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: David Peter Hansen
 ## Title: Layered partitioning in a Data Warehouse
@@ -35,7 +35,7 @@ Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 14365
 # Bad plan! Sit!
-#### [Back to calendar](#SQLSaturday-#134---Johannesburg-2012)
+#### [Back to calendar](#SQLSaturday-#134-Johannesburg-2012)
 Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Gail Shaw
 ## Title: Bad plan! Sit!
@@ -46,7 +46,7 @@ In this session we’ll look at some things that make a plan ‘bad’, how you 
 #  
 #### SessionID: 15525
 # Data has "R" value
-#### [Back to calendar](#SQLSaturday-#134---Johannesburg-2012)
+#### [Back to calendar](#SQLSaturday-#134-Johannesburg-2012)
 Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jacques Mostert
 ## Title: Data has "R" value
@@ -55,7 +55,7 @@ Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 17604
 # Powershell for the DBA 
-#### [Back to calendar](#SQLSaturday-#134---Johannesburg-2012)
+#### [Back to calendar](#SQLSaturday-#134-Johannesburg-2012)
 Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Jody Roberts
 ## Title: Powershell for the DBA 
@@ -64,7 +64,7 @@ Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Track 2
 #  
 #### SessionID: 19300
 # Building and Implementing SQL 2012 Data Warehouse
-#### [Back to calendar](#SQLSaturday-#134---Johannesburg-2012)
+#### [Back to calendar](#SQLSaturday-#134-Johannesburg-2012)
 Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Luis de Sousa
 ## Title: Building and Implementing SQL 2012 Data Warehouse
@@ -73,7 +73,7 @@ Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 19342
 # The new package deployment model in SQL Server 201
-#### [Back to calendar](#SQLSaturday-#134---Johannesburg-2012)
+#### [Back to calendar](#SQLSaturday-#134-Johannesburg-2012)
 Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Michael Johnson
 ## Title: The new package deployment model in SQL Server 201
@@ -82,7 +82,7 @@ Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Track 1
 #  
 #### SessionID: 20113
 # PowerPivot with NASA data
-#### [Back to calendar](#SQLSaturday-#134---Johannesburg-2012)
+#### [Back to calendar](#SQLSaturday-#134-Johannesburg-2012)
 Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Track 1
 ## Speaker: Mark Stacey
 ## Title: PowerPivot with NASA data
@@ -93,7 +93,7 @@ As an added bonus, you will see how to pull the model into Visual Studio, decora
 #  
 #### SessionID: 21326
 # Extended Events – New Age of Profiling
-#### [Back to calendar](#SQLSaturday-#134---Johannesburg-2012)
+#### [Back to calendar](#SQLSaturday-#134-Johannesburg-2012)
 Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Virtual/remote
 ## Speaker: Neil Hambly
 ## Title: Extended Events – New Age of Profiling
@@ -102,7 +102,7 @@ Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Virtual/remote
 #  
 #### SessionID: 25156
 # SSIS Enhanced Threading Framework
-#### [Back to calendar](#SQLSaturday-#134---Johannesburg-2012)
+#### [Back to calendar](#SQLSaturday-#134-Johannesburg-2012)
 Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Virtual/remote
 ## Speaker: Josef Richberg
 ## Title: SSIS Enhanced Threading Framework
@@ -112,7 +112,7 @@ Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Virtual/remote
 #  
 #### SessionID: 27713
 # Windowing Functions in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#134---Johannesburg-2012)
+#### [Back to calendar](#SQLSaturday-#134-Johannesburg-2012)
 Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Virtual/remote
 ## Speaker: Wayne Sheffield
 ## Title: Windowing Functions in SQL Server 2012
@@ -121,7 +121,7 @@ Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Virtual/remote
 #  
 #### SessionID: 9486
 # SQL Considerations for SharePoint 2010 Farms
-#### [Back to calendar](#SQLSaturday-#134---Johannesburg-2012)
+#### [Back to calendar](#SQLSaturday-#134-Johannesburg-2012)
 Event Date: 05-05-2012 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: Andrew Thornton-Smith
 ## Title: SQL Considerations for SharePoint 2010 Farms

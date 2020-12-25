@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 65216
 # From problem to Power BI:  A journey in data visualization
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: From problem to Power BI:  A journey in data visualization
@@ -35,7 +35,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #  
 #### SessionID: 66956
 # Tips for Getting Started with the Azure Data Platform
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melissa Coates
 ## Title: Tips for Getting Started with the Azure Data Platform
@@ -44,7 +44,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 67436
 # Master Data Services and Rapid Application Development
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Simon
 ## Title: Master Data Services and Rapid Application Development
@@ -53,7 +53,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68483
 # Build Your First SSAS Cube!
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: George Walters
 ## Title: Build Your First SSAS Cube!
@@ -63,7 +63,7 @@ We will discuss how SSAS Tabular can create a data model, and easily be surfaced
 #  
 #### SessionID: 62955
 # SQL Server Reporting Services 2016 on Steroids!!
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services 2016 on Steroids!!
@@ -74,7 +74,7 @@ We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as
 #  
 #### SessionID: 63033
 # Microsoft and Big Data - An Overview of the Power Tools and more!
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: David Patrick
 ## Title: Microsoft and Big Data - An Overview of the Power Tools and more!
@@ -83,7 +83,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 64301
 # Finding Islands, Gaps, and Clusters in Complex Data
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Edward Pollack
 ## Title: Finding Islands, Gaps, and Clusters in Complex Data
@@ -96,7 +96,7 @@ Discussion will include performance, CTEs, recursion, set-based vs. iterative an
 #  
 #### SessionID: 65496
 # What's new with Power BI
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Adam Saxton
 ## Title: What's new with Power BI
@@ -105,7 +105,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 68456
 # Architecting for performance
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Sponsor Session
 ## Speaker: Matt Henderson
 ## Title: Architecting for performance
@@ -114,7 +114,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Sponsor Session
 #  
 #### SessionID: 62937
 # Power BI-Create a Dashboard from Zero to Hero
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
 ## Speaker: Vishal Pawar
 ## Title: Power BI-Create a Dashboard from Zero to Hero
@@ -124,7 +124,7 @@ Learn how to create Power BI Dashboard from scratch.
 #  
 #### SessionID: 63049
 # Learning to present and becoming good at it
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: James Serra
 ## Title: Learning to present and becoming good at it
@@ -133,7 +133,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Professional Developmen
 #  
 #### SessionID: 64607
 # Relationship Modeling Patterns in SSAS and Power BI
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Brett Powell
 ## Title: Relationship Modeling Patterns in SSAS and Power BI
@@ -144,7 +144,7 @@ Example models will be shared using single and bidirectional relationships as we
 #  
 #### SessionID: 68379
 # Azure Data Catalog – Turning Unused Assets into Usable Knowledge
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Melody Zacharias
 ## Title: Azure Data Catalog – Turning Unused Assets into Usable Knowledge
@@ -154,7 +154,7 @@ ADC is an indispensable tool that helps companies organize and make sense of the
 #  
 #### SessionID: 62922
 # Build ETL efficiently (10x) with Minimal Logging
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Cho
 ## Title: Build ETL efficiently (10x) with Minimal Logging
@@ -165,7 +165,7 @@ We will first analyze how data gets accessed from the source and how data gets u
 #  
 #### SessionID: 63002
 # Why candidates fail the job interview in the first minute
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Thomas Grohser
 ## Title: Why candidates fail the job interview in the first minute
@@ -176,7 +176,7 @@ Thomas will share what he misses in resumes and how to respond to questions bett
 #  
 #### SessionID: 64413
 # DAX 101
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Belinda Allen
 ## Title: DAX 101
@@ -185,7 +185,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #  
 #### SessionID: 64493
 # Power up SSRS with Power BI and other new enhancements
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Sunil Kadimdiwan
 ## Title: Power up SSRS with Power BI and other new enhancements
@@ -198,7 +198,7 @@ Then also review and demonstrate the new Mobile Reports, KPIs and Paginated repo
 #  
 #### SessionID: 63436
 # Much Ado About Hadoop
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
@@ -207,7 +207,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Strategy and Architectu
 #  
 #### SessionID: 63835
 # Take Me to your Data - why Data Stewardship is needed NOW!
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Beth Wolfset
 ## Title: Take Me to your Data - why Data Stewardship is needed NOW!
@@ -216,7 +216,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Information Delivery
 #  
 #### SessionID: 64003
 # Give more power to the users!  - Decision Support Using Power BI SP  O365 data for a Small Business
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Information Delivery
 ## Speaker: Yana Berkovich
 ## Title: Give more power to the users!  - Decision Support Using Power BI SP  O365 data for a Small Business
@@ -225,7 +225,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Information Delivery
 #  
 #### SessionID: 66443
 # It's All about the Rules: A Dynamic ETL Architecture
-#### [Back to calendar](#SQLSaturday-#647---Boston---BI-Edition-2017)
+#### [Back to calendar](#SQLSaturday-#647-Boston-BI-Edition-2017)
 Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jack Corbett
 ## Title: It's All about the Rules: A Dynamic ETL Architecture

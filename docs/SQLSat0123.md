@@ -13,7 +13,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 10506
 # What’s in SQL Server 2012 for the DBA?
-#### [Back to calendar](#SQLSaturday-#123---Western-Cape-2012)
+#### [Back to calendar](#SQLSaturday-#123-Western-Cape-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Brian Knight
 ## Title: What’s in SQL Server 2012 for the DBA?
@@ -22,7 +22,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 10507
 # What’s New in BI in SQL Server 2012
-#### [Back to calendar](#SQLSaturday-#123---Western-Cape-2012)
+#### [Back to calendar](#SQLSaturday-#123-Western-Cape-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Brian Knight
 ## Title: What’s New in BI in SQL Server 2012
@@ -31,7 +31,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 10508
 # Performance Tuning SQL Server Integration Services
-#### [Back to calendar](#SQLSaturday-#123---Western-Cape-2012)
+#### [Back to calendar](#SQLSaturday-#123-Western-Cape-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Brian Knight
 ## Title: Performance Tuning SQL Server Integration Services
@@ -40,7 +40,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: DEV
 #  
 #### SessionID: 11398
 # TBA - Presented by Torque-IT
-#### [Back to calendar](#SQLSaturday-#123---Western-Cape-2012)
+#### [Back to calendar](#SQLSaturday-#123-Western-Cape-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Torque-IT Torque-IT
 ## Title: TBA - Presented by Torque-IT
@@ -49,7 +49,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 14393
 # SQL 2012 High Availabilty
-#### [Back to calendar](#SQLSaturday-#123---Western-Cape-2012)
+#### [Back to calendar](#SQLSaturday-#123-Western-Cape-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Gary Hope
 ## Title: SQL 2012 High Availabilty
@@ -58,7 +58,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: DBA
 #  
 #### SessionID: 17772
 # BI LifeCycle
-#### [Back to calendar](#SQLSaturday-#123---Western-Cape-2012)
+#### [Back to calendar](#SQLSaturday-#123-Western-Cape-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: BI
 ## Speaker: Saratoga  Software
 ## Title: BI LifeCycle
@@ -67,7 +67,7 @@ Event Date: 03-03-2012 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 31720
 # BI for the DBA - DeepDive
-#### [Back to calendar](#SQLSaturday-#123---Western-Cape-2012)
+#### [Back to calendar](#SQLSaturday-#123-Western-Cape-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Mark Stacey
 ## Title: BI for the DBA - DeepDive
@@ -78,7 +78,7 @@ As BI adoption grows, DBAs are going to be expected to maintain and enhance both
 #  
 #### SessionID: 9176
 # Agile for Developers
-#### [Back to calendar](#SQLSaturday-#123---Western-Cape-2012)
+#### [Back to calendar](#SQLSaturday-#123-Western-Cape-2012)
 Event Date: 03-03-2012 - Session time: 00:00:00 - Track: DEV
 ## Speaker: Alain King
 ## Title: Agile for Developers

@@ -41,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #  
 #### SessionID: 28487
 # Solid State Storage Deep Dive
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Administrator
 ## Speaker: Wesley Brown
 ## Title: Solid State Storage Deep Dive
@@ -50,7 +50,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Administrator
 #  
 #### SessionID: 28648
 # Self-Service BI with PowerPivot
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Anand Pandya
 ## Title: Self-Service BI with PowerPivot
@@ -59,7 +59,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 28721
 # Building a Professional Development Plan
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Andy Warren
 ## Title: Building a Professional Development Plan
@@ -69,7 +69,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 28744
 # Work past the SQL Connectivity Issues
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Administrator
 ## Speaker: Aparna Vishwamitra
 ## Title: Work past the SQL Connectivity Issues
@@ -78,7 +78,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Administrator
 #  
 #### SessionID: 28767
 # Data Mining in Action: A case study
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: ANDREW MINKIN
 ## Title: Data Mining in Action: A case study
@@ -87,7 +87,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 28876
 # Getting started with Reporting Services
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Beginner
 ## Speaker: Adam Saxton
 ## Title: Getting started with Reporting Services
@@ -96,7 +96,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Beginner
 #  
 #### SessionID: 29313
 # Analysis Services Security
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Advanced
 ## Speaker: Bryan Smith
 ## Title: Analysis Services Security
@@ -105,7 +105,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Advanced
 #  
 #### SessionID: 29762
 # T-SQL Programming to Survive a Zombie Database    
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: David Stein
 ## Title: T-SQL Programming to Survive a Zombie Database    
@@ -116,7 +116,7 @@ Fear not fellow survivor for in this session, I’ll show you how to fortify you
 #  
 #### SessionID: 29817
 # What is this cache and why is it so big?
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Advanced
 ## Speaker: Douglas Brendle
 ## Title: What is this cache and why is it so big?
@@ -125,7 +125,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Advanced
 #  
 #### SessionID: 29821
 # SQL Server FastTrack Data Warehouse
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Futures
 ## Speaker: David Browne
 ## Title: SQL Server FastTrack Data Warehouse
@@ -134,7 +134,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Futures
 #  
 #### SessionID: 30058
 # So What Can I Do With PowerShell?
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Beginner
 ## Speaker: Eric Humphrey
 ## Title: So What Can I Do With PowerShell?
@@ -143,7 +143,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Beginner
 #  
 #### SessionID: 30086
 # Zero to cube in 1 hour
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Erin Welker
 ## Title: Zero to cube in 1 hour
@@ -152,7 +152,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 30698
 # Orientation: What is SQL Server,and what's it for?
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Beginner
 ## Speaker: Jennifer McCown
 ## Title: Orientation: What is SQL Server,and what's it for?
@@ -161,7 +161,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Beginner
 #  
 #### SessionID: 30794
 # Introducing Microsoft's EDIM Products
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Futures
 ## Speaker: Jessica Moss
 ## Title: Introducing Microsoft's EDIM Products
@@ -170,7 +170,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Futures
 #  
 #### SessionID: 30795
 # Adding SSRS Report Bells and Whistles
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Jessica Moss
 ## Title: Adding SSRS Report Bells and Whistles
@@ -179,7 +179,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 30999
 # SQL Server Tips and Tricks
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Beginner
 ## Speaker: John Cook
 ## Title: SQL Server Tips and Tricks
@@ -188,7 +188,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Beginner
 #  
 #### SessionID: 31008
 # An Intro to Replication Meta-Data
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Advanced
 ## Speaker: Jonathan Clark
 ## Title: An Intro to Replication Meta-Data
@@ -197,7 +197,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Advanced
 #  
 #### SessionID: 32078
 # Introduction to SQL CLR
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Paul Hunter
 ## Title: Introduction to SQL CLR
@@ -206,7 +206,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 32329
 # SQL Server Denali High Availability
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Futures
 ## Speaker: Prem Mehra
 ## Title: SQL Server Denali High Availability
@@ -216,7 +216,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Futures
 #  
 #### SessionID: 32473
 # The BI DBA
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Advanced
 ## Speaker: Randy Dyess
 ## Title: The BI DBA
@@ -225,7 +225,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Advanced
 #  
 #### SessionID: 32547
 # ORM's and the ugly truth
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Rob Sullivan
 ## Title: ORM's and the ugly truth
@@ -237,7 +237,7 @@ I ranked this session as beginner with regards to the topic of ORM's. My session
 #  
 #### SessionID: 32713
 # Stored procedure tracing using the xml datatype
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Russel Loski
 ## Title: Stored procedure tracing using the xml datatype
@@ -246,7 +246,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 32716
 # SSRS data driven subscription using SSIS
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 ## Speaker: Russel Loski
 ## Title: SSRS data driven subscription using SSIS
@@ -255,7 +255,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: BI
 #  
 #### SessionID: 32735
 # Mirroring: The Bear Necessities
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Administrator
 ## Speaker: Ryan Adams
 ## Title: Mirroring: The Bear Necessities
@@ -264,7 +264,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Administrator
 #  
 #### SessionID: 32804
 # How to Master SQL Joins
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Scott Whigham
 ## Title: How to Master SQL Joins
@@ -273,7 +273,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 32944
 # The Modern Resume - Building Your Brand
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: The Modern Resume - Building Your Brand
@@ -282,7 +282,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 33133
 # HELP! I need somebody, HELP me Please!
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: David Smithey
 ## Title: HELP! I need somebody, HELP me Please!
@@ -291,7 +291,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 33141
 # Whats new in SQL Server Denali
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Futures
 ## Speaker: Sriram Ganapathy
 ## Title: Whats new in SQL Server Denali
@@ -302,7 +302,7 @@ SQL Server AlwaysOn,  Column-based Query Accelerator, Unified developer experien
 #  
 #### SessionID: 33187
 # Turbo charge your DBA career
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Professional Development
 ## Speaker: Sri Sridharan
 ## Title: Turbo charge your DBA career
@@ -311,7 +311,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Professional Developmen
 #  
 #### SessionID: 33268
 # Troubleshooting Database availability and recovery
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Advanced
 ## Speaker: Suresh Kandoth
 ## Title: Troubleshooting Database availability and recovery
@@ -320,7 +320,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Advanced
 #  
 #### SessionID: 33330
 # Parallel Data Warehouse - Architecture Overview
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Futures
 ## Speaker: Ted Tasker
 ## Title: Parallel Data Warehouse - Architecture Overview
@@ -330,7 +330,7 @@ This session will overview both the HW and SW architecture of the PDW appliance.
 #  
 #### SessionID: 33529
 # Parallel Query Execution
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Developer
 ## Speaker: Kevin Boles
 ## Title: Parallel Query Execution
@@ -339,7 +339,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Developer
 #  
 #### SessionID: 33530
 # SANs and SQL Server
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Administrator
 ## Speaker: Kevin Boles
 ## Title: SANs and SQL Server
@@ -348,7 +348,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Administrator
 #  
 #### SessionID: 33637
 # Tableau: Delivering Self-Serve BI
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Advanced
 ## Speaker: Tim Costello
 ## Title: Tableau: Delivering Self-Serve BI
@@ -357,7 +357,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Advanced
 #  
 #### SessionID: 33638
 # Dimensional design 101
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Beginner
 ## Speaker: Tim Costello
 ## Title: Dimensional design 101
@@ -366,7 +366,7 @@ Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Beginner
 #  
 #### SessionID: 33741
 # An Introduction to Profiler and SQL Trace
-#### [Back to calendar](#SQLSaturday-#63---Dallas-2011)
+#### [Back to calendar](#SQLSaturday-#63-Dallas-2011)
 Event Date: 02-04-2011 - Session time: 00:00:00 - Track: Beginner
 ## Speaker: Trevor Barkhouse
 ## Title: An Introduction to Profiler and SQL Trace
