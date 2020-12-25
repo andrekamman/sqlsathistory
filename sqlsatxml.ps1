@@ -16,9 +16,11 @@ foreach ($file in Get-ChildItem "$xmldir\*.xml" | Sort-Object name -Descending){
         $startdate = ""
     }
     if ($startdate -ne "") {
+        $nr = ($xml.GuidebookXML.guide.name).split(" ")[1].Replace("#","")
         $name = $xml.GuidebookXML.guide.name.Replace("`n", "")
         $mainfile.WriteLine("$startdate|[$name]($($file.BaseName).md)| $($xml.GuidebookXML.guide.venue.city)")
         $calendar = [IO.StreamWriter]::New("$markdowndir\$($file.BaseName).md", $false, $encoding)
+        $calendar.WriteLine("#### Nr: " + ($xml.GuidebookXML.guide.name).split(" ")[1].Replace("#",""))
         $calendar.WriteLine("#### [Back to Main list](index.md)")
         $calendar.WriteLine("# $($xml.GuidebookXML.guide.name)")
         $calendar.WriteLine("Start Time (24h)|Speaker|Track|Title")
@@ -27,7 +29,7 @@ foreach ($file in Get-ChildItem "$xmldir\*.xml" | Sort-Object name -Descending){
         foreach ($id in $orderedEvents.importID){               
             $session = $xml.GuidebookXML.events.event | Where-Object ImportID -eq $id
             $starttime = ([datetime]$session.startTime).ToString("HH:mm:ss")
-            $title = "[$($session.title)](#sessionid:-$id)"
+            $title = "[$($session.title)](#sessionid-$id)"
             $calendar.WriteLine("$starttime|$(($session.speakers.speaker).name)|$($session.track)|$title")   
         }
         foreach ($id in $orderedEvents.importID){               
@@ -35,7 +37,7 @@ foreach ($file in Get-ChildItem "$xmldir\*.xml" | Sort-Object name -Descending){
             $calendar.WriteLine("#  ")
             $calendar.WriteLine("#### SessionID: $id")
             $calendar.WriteLine("# $($session.title)")
-            $calendar.WriteLine("#### [Back to calendar](#$(($xml.GuidebookXML.guide.name).Replace(" ", "-")))")
+            $calendar.WriteLine("#### [Back to calendar](#nr-$nr)")
             $calendar.WriteLine("Event Date: $startDate - Session time: $starttime - Track: $($session.track)")
             $calendar.WriteLine("## Speaker: $(($session.speakers.speaker).name)")
             $calendar.WriteLine("## Title: $($session.title)")
