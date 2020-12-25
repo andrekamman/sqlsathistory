@@ -2,19 +2,19 @@
 # SQLSaturday #535 - Sri Lanka 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:30:00|Dinesh Asanka|Business Intelligence  Data Analytics|[Machine Learning  with SQL Server 2016 R Services](#sessionid:-49056)
-09:30:00|Janaka Rangama|Cloud|[SQL in Azure IaaS | Business Continuity Planning](#sessionid:-49987)
-09:30:00|Pinal Dave|Database Engine  Database Development|[Secrets of SQL Server: Database Worst Practices](#sessionid:-50262)
-10:45:00|Chamila Mihiripenna|Business Intelligence  Data Analytics|[Data Visualization with SSRS Mobile Reports](#sessionid:-49598)
-10:45:00|Satya Prakash|Database Engine  Database Development|[How SQL Server  works on a Windows Cluster](#sessionid:-50209)
-10:45:00|Nilabja Ball|Database Engine  Database Development|[Real-Time Operational Analytics in SQL Server 2016](#sessionid:-50275)
-12:00:00|Vijayakumar Thurupathan|Cloud|[A Glimpse of Polyglot Persistence with Azure Data Services offerings](#sessionid:-48398)
-12:00:00|Pinal Dave|General  Other|[Blogging – How to Build and Sustain Top Ranking Blog](#sessionid:-50265)
-14:00:00|G.R. Kulasingham|Database Engine  Database Development|[Securing data with SQL Server 2016](#sessionid:-50304)
-14:00:00|Dinesh Priyankara|Cloud|[On-premise database. Files in the cloud.](#sessionid:-50555)
-15:15:00|Nilabja Ball|Cloud|[Azure SQL Data Warehouse – Cloud Solution for Data Warehousing](#sessionid:-50270)
-15:15:00|Satya Prakash|Database Engine  Database Development|[SQL Server 2016 New Features](#sessionid:-50299)
-16:30:00|Dinesh Priyankara|General  Other|[The Great SQL Panel Discussion](#sessionid:-50552)
+09:30:00|Dinesh Asanka|Business Intelligence  Data Analytics|[Machine Learning  with SQL Server 2016 R Services](#sessionid-49056)
+09:30:00|Janaka Rangama|Cloud|[SQL in Azure IaaS | Business Continuity Planning](#sessionid-49987)
+09:30:00|Pinal Dave|Database Engine  Database Development|[Secrets of SQL Server: Database Worst Practices](#sessionid-50262)
+10:45:00|Chamila Mihiripenna|Business Intelligence  Data Analytics|[Data Visualization with SSRS Mobile Reports](#sessionid-49598)
+10:45:00|Satya Prakash|Database Engine  Database Development|[How SQL Server  works on a Windows Cluster](#sessionid-50209)
+10:45:00|Nilabja Ball|Database Engine  Database Development|[Real-Time Operational Analytics in SQL Server 2016](#sessionid-50275)
+12:00:00|Vijayakumar Thurupathan|Cloud|[A Glimpse of Polyglot Persistence with Azure Data Services offerings](#sessionid-48398)
+12:00:00|Pinal Dave|General  Other|[Blogging – How to Build and Sustain Top Ranking Blog](#sessionid-50265)
+14:00:00|G.R. Kulasingham|Database Engine  Database Development|[Securing data with SQL Server 2016](#sessionid-50304)
+14:00:00|Dinesh Priyankara|Cloud|[On-premise database. Files in the cloud.](#sessionid-50555)
+15:15:00|Nilabja Ball|Cloud|[Azure SQL Data Warehouse – Cloud Solution for Data Warehousing](#sessionid-50270)
+15:15:00|Satya Prakash|Database Engine  Database Development|[SQL Server 2016 New Features](#sessionid-50299)
+16:30:00|Dinesh Priyankara|General  Other|[The Great SQL Panel Discussion](#sessionid-50552)
 #  
 #### SessionID: 49056
 # Machine Learning  with SQL Server 2016 R Services

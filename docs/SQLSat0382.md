@@ -2,21 +2,21 @@
 # SQLSaturday #382 - Brisbane 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Craig Bryden|Track 2|[Introduction to Biml  BimlScript](#sessionid:-11991)
-00:00:00|Iman Eftekhari|Track 3|[Power BI - Beyond the Basics](#sessionid:-15145)
-00:00:00|Julie Koesmarno|Track 2|[Interactive  Actionable Data Visualisation With Power View](#sessionid:-16920)
-00:00:00|Martin Cairney|Track 1|[The DBA with his head in the clouds](#sessionid:-19734)
-00:00:00|Martin Cairney|Track 3|[Thinking Out of the Box: Manage SQL Server Using Built-in Tools](#sessionid:-19735)
-00:00:00|Martin Catherall|Track 4|[Getting Started with the Azure V12 Portal and it'sNew Features](#sessionid:-19766)
-00:00:00|Nicholas Loghides|Track 1|[TOPGUN SQL SERVER: Unlocking the Fighter Pilot in Every DBA](#sessionid:-21473)
-00:00:00|Peter Avenant|Track 4|[Continuously Integrated Data Vault](#sessionid:-21939)
-00:00:00|Peter Myers|Track 3|[An Introduction to Azure Machine Learning](#sessionid:-22012)
-00:00:00|Peter Ward|Track 2|[Apart from In-Memory OLTP what's new in the 2014 Data Platform?](#sessionid:-22068)
-00:00:00|Rob Risetto|Track 1|[Powershell Gems for the DBA](#sessionid:-23171)
-00:00:00|Rod Colledge|Track 3|[Building Hybrid BI Solutions with Power BI](#sessionid:-23385)
-00:00:00|Warwick Rudd|Track 1|[Help me Availability Groups, You're the only 1 who can save me](#sessionid:-27668)
-00:00:00|Heidi Wilson|Track 4|[Stayin' Alive](#sessionid:-34654)
-00:00:00|Adam Gilmore|Track 2|[Data Warehouse Automation - Improving your productivity](#sessionid:-9072)
+00:00:00|Craig Bryden|Track 2|[Introduction to Biml  BimlScript](#sessionid-11991)
+00:00:00|Iman Eftekhari|Track 3|[Power BI - Beyond the Basics](#sessionid-15145)
+00:00:00|Julie Koesmarno|Track 2|[Interactive  Actionable Data Visualisation With Power View](#sessionid-16920)
+00:00:00|Martin Cairney|Track 1|[The DBA with his head in the clouds](#sessionid-19734)
+00:00:00|Martin Cairney|Track 3|[Thinking Out of the Box: Manage SQL Server Using Built-in Tools](#sessionid-19735)
+00:00:00|Martin Catherall|Track 4|[Getting Started with the Azure V12 Portal and it'sNew Features](#sessionid-19766)
+00:00:00|Nicholas Loghides|Track 1|[TOPGUN SQL SERVER: Unlocking the Fighter Pilot in Every DBA](#sessionid-21473)
+00:00:00|Peter Avenant|Track 4|[Continuously Integrated Data Vault](#sessionid-21939)
+00:00:00|Peter Myers|Track 3|[An Introduction to Azure Machine Learning](#sessionid-22012)
+00:00:00|Peter Ward|Track 2|[Apart from In-Memory OLTP what's new in the 2014 Data Platform?](#sessionid-22068)
+00:00:00|Rob Risetto|Track 1|[Powershell Gems for the DBA](#sessionid-23171)
+00:00:00|Rod Colledge|Track 3|[Building Hybrid BI Solutions with Power BI](#sessionid-23385)
+00:00:00|Warwick Rudd|Track 1|[Help me Availability Groups, You're the only 1 who can save me](#sessionid-27668)
+00:00:00|Heidi Wilson|Track 4|[Stayin' Alive](#sessionid-34654)
+00:00:00|Adam Gilmore|Track 2|[Data Warehouse Automation - Improving your productivity](#sessionid-9072)
 #  
 #### SessionID: 11991
 # Introduction to Biml  BimlScript

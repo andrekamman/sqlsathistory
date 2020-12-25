@@ -2,14 +2,14 @@
 # SQLSaturday #691 - Montevideo 2017
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Patrick LeBlanc|BI Information Delivery|[Guy in a Cube unplugged](#sessionid:-70506)
-11:00:00|Eduardo Castro|Cloud Application Development  Deployment|[Cognitive Computing con Microsoft](#sessionid:-67921)
-12:00:00|Javier Villegas|Enterprise Database Administration  Deployment|[SQL Server 2017 - Community-driven enhancements](#sessionid:-67898)
-14:30:00|Patricio Cofre|Advanced Analysis Techniques|[Usando R y Python desde SQL Server](#sessionid:-67913)
-15:30:00|Javier Villegas|Enterprise Database Administration  Deployment|[Tecnicas Avanzadas de Monitoreo](#sessionid:-67900)
-16:40:00|Patrick LeBlanc|BI Platform Architecture, Development  Administration|[Introduction to Azure Analysis Services](#sessionid:-70505)
-17:40:00|Eduardo Castro|BI Information Delivery|[Data Analytics: Clustering, Regression and Machine Learning con  Power BI](#sessionid:-67919)
-18:40:00|Patricio Cofre|Advanced Analysis Techniques|[Creación de un Sistema Recomendador basado en Grafos](#sessionid:-67914)
+10:00:00|Patrick LeBlanc|BI Information Delivery|[Guy in a Cube unplugged](#sessionid-70506)
+11:00:00|Eduardo Castro|Cloud Application Development  Deployment|[Cognitive Computing con Microsoft](#sessionid-67921)
+12:00:00|Javier Villegas|Enterprise Database Administration  Deployment|[SQL Server 2017 - Community-driven enhancements](#sessionid-67898)
+14:30:00|Patricio Cofre|Advanced Analysis Techniques|[Usando R y Python desde SQL Server](#sessionid-67913)
+15:30:00|Javier Villegas|Enterprise Database Administration  Deployment|[Tecnicas Avanzadas de Monitoreo](#sessionid-67900)
+16:40:00|Patrick LeBlanc|BI Platform Architecture, Development  Administration|[Introduction to Azure Analysis Services](#sessionid-70505)
+17:40:00|Eduardo Castro|BI Information Delivery|[Data Analytics: Clustering, Regression and Machine Learning con  Power BI](#sessionid-67919)
+18:40:00|Patricio Cofre|Advanced Analysis Techniques|[Creación de un Sistema Recomendador basado en Grafos](#sessionid-67914)
 #  
 #### SessionID: 70506
 # Guy in a Cube unplugged

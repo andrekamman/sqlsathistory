@@ -2,21 +2,21 @@
 # SQLSaturday #561 - Durban 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Desmond Norton|Room 3|[Windows on Data](#sessionid:-52890)
-09:00:00|Niels Berglund|Room 1|[What R You Analyzing](#sessionid:-53688)
-09:00:00|Michael Johnson|Room 2|[Simple tips for better data warehouse design](#sessionid:-54291)
-10:15:00|Steve Simon|Room 1|[SQL Server 2016: A dive into Data Quality Services](#sessionid:-53193)
-10:15:00|Gail Shaw|Room 2|[Go, go, QueryStore!](#sessionid:-53798)
-10:15:00|Sean Cremer|Room 3|[Introduction to Database Design](#sessionid:-54074)
-11:30:00|Niels Berglund|Room 3|[Beyond Relational with SQL 2016](#sessionid:-53689)
-11:30:00|André Pelser|Room 2|[SQL Always On  - Overcoming some administration nightmares](#sessionid:-54174)
-11:30:00|Gary Hope|Room 1|[Building a Lambda Architecture using Azure Warehouse and Stream A](#sessionid:-54270)
-13:30:00|Steve Simon|Room 1|[SQL Server 2016: Master Data Services and Rapid Application Development](#sessionid:-53194)
-13:30:00|Gail Shaw|Room 3|[On Transactions and Atomic Operations](#sessionid:-53799)
-13:30:00|Marius Erasmus|Room 2|[SSIS Tips, Tricks and Design Patterns](#sessionid:-54031)
-14:45:00|Clinton van Blommestein|Room 3|[So, when you say database what do you mean?](#sessionid:-50227)
-14:45:00|Chris Olivier|Room 1|[Basics of Azure Machine Learning](#sessionid:-53185)
-14:45:00|Rory Bolle|Room 2|[Top Tips for C# developers deploying Database code](#sessionid:-53788)
+09:00:00|Desmond Norton|Room 3|[Windows on Data](#sessionid-52890)
+09:00:00|Niels Berglund|Room 1|[What R You Analyzing](#sessionid-53688)
+09:00:00|Michael Johnson|Room 2|[Simple tips for better data warehouse design](#sessionid-54291)
+10:15:00|Steve Simon|Room 1|[SQL Server 2016: A dive into Data Quality Services](#sessionid-53193)
+10:15:00|Gail Shaw|Room 2|[Go, go, QueryStore!](#sessionid-53798)
+10:15:00|Sean Cremer|Room 3|[Introduction to Database Design](#sessionid-54074)
+11:30:00|Niels Berglund|Room 3|[Beyond Relational with SQL 2016](#sessionid-53689)
+11:30:00|André Pelser|Room 2|[SQL Always On  - Overcoming some administration nightmares](#sessionid-54174)
+11:30:00|Gary Hope|Room 1|[Building a Lambda Architecture using Azure Warehouse and Stream A](#sessionid-54270)
+13:30:00|Steve Simon|Room 1|[SQL Server 2016: Master Data Services and Rapid Application Development](#sessionid-53194)
+13:30:00|Gail Shaw|Room 3|[On Transactions and Atomic Operations](#sessionid-53799)
+13:30:00|Marius Erasmus|Room 2|[SSIS Tips, Tricks and Design Patterns](#sessionid-54031)
+14:45:00|Clinton van Blommestein|Room 3|[So, when you say database what do you mean?](#sessionid-50227)
+14:45:00|Chris Olivier|Room 1|[Basics of Azure Machine Learning](#sessionid-53185)
+14:45:00|Rory Bolle|Room 2|[Top Tips for C# developers deploying Database code](#sessionid-53788)
 #  
 #### SessionID: 52890
 # Windows on Data

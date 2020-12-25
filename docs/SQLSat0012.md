@@ -2,18 +2,18 @@
 # SQLSaturday #12 - Portland 2009
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Buck Woody|Track 1|[Performance Tuning with SQL Server 200](#sessionid:-35048)
-00:00:00|Eric  Wilson|Track 1|[XML and Relational Databases](#sessionid:-35110)
-00:00:00|Greg Larsen|Track 2|[T-SQL Best Practices](#sessionid:-35128)
-00:00:00|Joshua Jin|Track 2|[SQL Indexes Implementation in Practice](#sessionid:-35236)
-00:00:00|Paul Turley|Track 1|[Developing and Designing Super Reports](#sessionid:-35344)
-00:00:00|Paul Turley|Track 1|[Implementing a Self-Service Reporting Strategy wit](#sessionid:-35345)
-00:00:00|Paul Bertucci|Track 1|[High Availability on SQL Server](#sessionid:-35346)
-00:00:00|Rachel Dyer|Track 2|[Bridging the BI Chasm ](#sessionid:-35385)
-00:00:00|Rob Garrison|Track 2|[Perf Testing 2008’s Transparent Data Encryption](#sessionid:-35396)
-00:00:00|Rob Garrison|Track 2|[Understanding SQL Injection (DB Devs and Admins)](#sessionid:-35397)
-00:00:00|Ryan Lence|Track 1|[Sql Server 2008 Compression](#sessionid:-35414)
-00:00:00|Steve Moss|Track 2|[Tips, Tricks and Code on Table/Index Partitioning](#sessionid:-35443)
+00:00:00|Buck Woody|Track 1|[Performance Tuning with SQL Server 200](#sessionid-35048)
+00:00:00|Eric  Wilson|Track 1|[XML and Relational Databases](#sessionid-35110)
+00:00:00|Greg Larsen|Track 2|[T-SQL Best Practices](#sessionid-35128)
+00:00:00|Joshua Jin|Track 2|[SQL Indexes Implementation in Practice](#sessionid-35236)
+00:00:00|Paul Turley|Track 1|[Developing and Designing Super Reports](#sessionid-35344)
+00:00:00|Paul Turley|Track 1|[Implementing a Self-Service Reporting Strategy wit](#sessionid-35345)
+00:00:00|Paul Bertucci|Track 1|[High Availability on SQL Server](#sessionid-35346)
+00:00:00|Rachel Dyer|Track 2|[Bridging the BI Chasm ](#sessionid-35385)
+00:00:00|Rob Garrison|Track 2|[Perf Testing 2008’s Transparent Data Encryption](#sessionid-35396)
+00:00:00|Rob Garrison|Track 2|[Understanding SQL Injection (DB Devs and Admins)](#sessionid-35397)
+00:00:00|Ryan Lence|Track 1|[Sql Server 2008 Compression](#sessionid-35414)
+00:00:00|Steve Moss|Track 2|[Tips, Tricks and Code on Table/Index Partitioning](#sessionid-35443)
 #  
 #### SessionID: 35048
 # Performance Tuning with SQL Server 200

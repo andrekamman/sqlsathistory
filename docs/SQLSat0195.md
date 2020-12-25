@@ -2,12 +2,12 @@
 # SQLSaturday #195 - Mexico 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Eduardo Castro|Nuevas Características|[Metodos de Alta Disponiblidad en SQL Server](#sessionid:-13613)
-00:00:00|Hector Eugenio Jiménez|Nuevas Características|[Normatividad: Seguridad y Protección de informació](#sessionid:-14954)
-00:00:00|Ismael Medina Muñoz|Nuevas Características|[Modelo relacional y performance](#sessionid:-15309)
-00:00:00|Jesus Gil Velasco|Nuevas Características|[Mil maneras de morir](#sessionid:-16698)
-00:00:00|John Alexander Bulla Torres|Nuevas Características|[Descubriendo los datos espaciales en SQL 2012 ](#sessionid:-17270)
-00:00:00|Anwar Avila|Nuevas Características|[Myths and Truths about Resource Governor](#sessionid:-9691)
+00:00:00|Eduardo Castro|Nuevas Características|[Metodos de Alta Disponiblidad en SQL Server](#sessionid-13613)
+00:00:00|Hector Eugenio Jiménez|Nuevas Características|[Normatividad: Seguridad y Protección de informació](#sessionid-14954)
+00:00:00|Ismael Medina Muñoz|Nuevas Características|[Modelo relacional y performance](#sessionid-15309)
+00:00:00|Jesus Gil Velasco|Nuevas Características|[Mil maneras de morir](#sessionid-16698)
+00:00:00|John Alexander Bulla Torres|Nuevas Características|[Descubriendo los datos espaciales en SQL 2012 ](#sessionid-17270)
+00:00:00|Anwar Avila|Nuevas Características|[Myths and Truths about Resource Governor](#sessionid-9691)
 #  
 #### SessionID: 13613
 # Metodos de Alta Disponiblidad en SQL Server

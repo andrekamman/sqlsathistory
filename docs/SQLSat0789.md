@@ -2,12 +2,12 @@
 # SQLSaturday #789 - Tallinn 2018
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:30:00|David Postlethwaite|SQL|[SQL Server Management Studio Tips and Tricks](#sessionid:-85538)
-11:30:00|Michal Sadowski|SQL|[Database corruption](#sessionid:-84172)
-12:30:00|LEONEL ABREU|SQL|[Self Service BI Solutions with Analysis Services](#sessionid:-85228)
-14:15:00|Oskari Heikkinen|SQL|[New capabilities of Azure Data Factory v2](#sessionid:-84314)
-15:15:00|Janusz Rokicki|SQL|[The Road to The Autonomous Databases](#sessionid:-86078)
-16:15:00|Roman Lansky|SQL|[Hitchhiker's Guide to the SSAS Tabular](#sessionid:-84237)
+10:30:00|David Postlethwaite|SQL|[SQL Server Management Studio Tips and Tricks](#sessionid-85538)
+11:30:00|Michal Sadowski|SQL|[Database corruption](#sessionid-84172)
+12:30:00|LEONEL ABREU|SQL|[Self Service BI Solutions with Analysis Services](#sessionid-85228)
+14:15:00|Oskari Heikkinen|SQL|[New capabilities of Azure Data Factory v2](#sessionid-84314)
+15:15:00|Janusz Rokicki|SQL|[The Road to The Autonomous Databases](#sessionid-86078)
+16:15:00|Roman Lansky|SQL|[Hitchhiker's Guide to the SSAS Tabular](#sessionid-84237)
 #  
 #### SessionID: 85538
 # SQL Server Management Studio Tips and Tricks

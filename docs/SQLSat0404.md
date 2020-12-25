@@ -2,11 +2,11 @@
 # SQLSaturday #404 - Nova Scotia 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-08:30:00|Kevin Feasel|Other|[Working Effectively With Legacy SQL](#sessionid:-14210)
-09:40:00|Russ Allen|Other|[Divide and Conquer - Creating and Managing Partitioned Tables and](#sessionid:-23617)
-10:50:00|Meagan Longoria|Track 1|[Overcoming Chartaphobia  Moving Toward Enlightening Data Viz](#sessionid:-36460)
-13:00:00|Justin Dearing|Other|[Version control with GIT for the DBA](#sessionid:-28344)
-14:10:00|Michael DeFehr|Other|[Query Plans and Indexes in SQL Server](#sessionid:-19988)
+08:30:00|Kevin Feasel|Other|[Working Effectively With Legacy SQL](#sessionid-14210)
+09:40:00|Russ Allen|Other|[Divide and Conquer - Creating and Managing Partitioned Tables and](#sessionid-23617)
+10:50:00|Meagan Longoria|Track 1|[Overcoming Chartaphobia  Moving Toward Enlightening Data Viz](#sessionid-36460)
+13:00:00|Justin Dearing|Other|[Version control with GIT for the DBA](#sessionid-28344)
+14:10:00|Michael DeFehr|Other|[Query Plans and Indexes in SQL Server](#sessionid-19988)
 #  
 #### SessionID: 14210
 # Working Effectively With Legacy SQL

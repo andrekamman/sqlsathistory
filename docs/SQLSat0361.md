@@ -2,22 +2,22 @@
 # SQLSaturday #361 - Joinville 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:15:00|Luan Moreno Medeiros Maciel|DEV|[Troubleshooting SQL Server com Waits, Latches e Spinlocks](#sessionid:-19271)
-09:15:00|Marcelo Adade|DBA|[SQL SERVER para DBAs ORACLE - quick glance!](#sessionid:-19446)
-09:15:00|Diego Nogare|BI|[Primeiros passos com BI corporativo dentro do SQL Server 2014](#sessionid:-21495)
-11:00:00|Rodrigo Crespi|DBA|[Estratégias de Backup e Recovery](#sessionid:-23402)
-11:00:00|Rodrigo Dornel|BI|[PowerBI no Office 365](#sessionid:-23404)
-11:00:00|Luiz Mercante|DEV|[Entendendo o Transaction Log](#sessionid:-24954)
-13:15:00|Nilton Pinheiro|DBA|[Provendo Alta Disponibilidade para suas Apps em Pequenos, Médios e Grandes Ambientes com SQL2014](#sessionid:-21459)
-13:15:00|Alexandre Soteras|BI|[Project Deployment Model - Gerenciando e manipulando seus pacotes através do catálogo.](#sessionid:-27324)
-13:15:00|Thiago Carlos de Alencar|DEV|[Bloqueio SQL Server - Quem? Quando? Recurso?](#sessionid:-9207)
-14:30:00|Fabiano Amorim|DEV|[7 maneiras diferentes para matar um DBA do coração](#sessionid:-14173)
-14:30:00|Sulamita Dantas|DBA|[Dicas e melhores práticas sobre Protheus com SQL Server 2014](#sessionid:-19443)
-14:30:00|Marcos Freccia|BI|[Criando um baseline de seu ambiente completo utilizando SSIS e SSRS](#sessionid:-19506)
-16:15:00|Marcelo Fernandes|BI|[Conhecendo o SQL Server Express - A edi#231;#227;o gratuita do SQL Server](#sessionid:-14248)
-16:15:00|Ivan Lima|BI|[Introdução à Mineração de Dados com SQL Server 2014 e além](#sessionid:-15450)
-16:15:00|Tiago Balabuch|DBA|[Como realizar um Troubleshoot](#sessionid:-26556)
-16:15:00|Vitor Fava|DEV|[Encontrando problemas de performance com Extended Events](#sessionid:-27492)
+09:15:00|Luan Moreno Medeiros Maciel|DEV|[Troubleshooting SQL Server com Waits, Latches e Spinlocks](#sessionid-19271)
+09:15:00|Marcelo Adade|DBA|[SQL SERVER para DBAs ORACLE - quick glance!](#sessionid-19446)
+09:15:00|Diego Nogare|BI|[Primeiros passos com BI corporativo dentro do SQL Server 2014](#sessionid-21495)
+11:00:00|Rodrigo Crespi|DBA|[Estratégias de Backup e Recovery](#sessionid-23402)
+11:00:00|Rodrigo Dornel|BI|[PowerBI no Office 365](#sessionid-23404)
+11:00:00|Luiz Mercante|DEV|[Entendendo o Transaction Log](#sessionid-24954)
+13:15:00|Nilton Pinheiro|DBA|[Provendo Alta Disponibilidade para suas Apps em Pequenos, Médios e Grandes Ambientes com SQL2014](#sessionid-21459)
+13:15:00|Alexandre Soteras|BI|[Project Deployment Model - Gerenciando e manipulando seus pacotes através do catálogo.](#sessionid-27324)
+13:15:00|Thiago Carlos de Alencar|DEV|[Bloqueio SQL Server - Quem? Quando? Recurso?](#sessionid-9207)
+14:30:00|Fabiano Amorim|DEV|[7 maneiras diferentes para matar um DBA do coração](#sessionid-14173)
+14:30:00|Sulamita Dantas|DBA|[Dicas e melhores práticas sobre Protheus com SQL Server 2014](#sessionid-19443)
+14:30:00|Marcos Freccia|BI|[Criando um baseline de seu ambiente completo utilizando SSIS e SSRS](#sessionid-19506)
+16:15:00|Marcelo Fernandes|BI|[Conhecendo o SQL Server Express - A edi#231;#227;o gratuita do SQL Server](#sessionid-14248)
+16:15:00|Ivan Lima|BI|[Introdução à Mineração de Dados com SQL Server 2014 e além](#sessionid-15450)
+16:15:00|Tiago Balabuch|DBA|[Como realizar um Troubleshoot](#sessionid-26556)
+16:15:00|Vitor Fava|DEV|[Encontrando problemas de performance com Extended Events](#sessionid-27492)
 #  
 #### SessionID: 19271
 # Troubleshooting SQL Server com Waits, Latches e Spinlocks

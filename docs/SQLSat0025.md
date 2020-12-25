@@ -2,21 +2,21 @@
 # SQLSaturday #25 (Sat) - Gainesville 2009
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|More College Students|GIS/BI/Special|[Student Showcase Session 1](#sessionid:-28368)
-00:00:00|Robert Cain|Development|[Introduction to SQL Server Integration Services	](#sessionid:-28756)
-00:00:00|Robert Cain|Development|[SQL Server Full Text Searching - An Introduction. ](#sessionid:-28757)
-00:00:00|Julie Smith|Development|[Cool Tricks to Pull from your SSIS Hat—](#sessionid:-29361)
-00:00:00|Cliff Jacobson|GIS/BI/Special|[DBA vs ORM: Strategies for Data in a Code Focused ](#sessionid:-29557)
-00:00:00|Chris Semerjian  Allison Ainsworth |DBA|[GIS Certificate Program at IESA](#sessionid:-29665)
-00:00:00|Dan Murray|GIS/BI/Special|[Data Visualization and High Value Low Cost BI](#sessionid:-29693)
-00:00:00|Audrey Hammonds|Development|[The T-SQL Trifecta:  Enhancements for Everyone](#sessionid:-30293)
-00:00:00|Jeff Ammons|DBA|[Data Persistence in a Web Hosted World](#sessionid:-30672)
-00:00:00|Neal Waterstreet|DBA|[SQL Server Backups](#sessionid:-32118)
-00:00:00|Sergey Barskiy|Development|[CLR integration](#sessionid:-32883)
-00:00:00|Sudhanshu Panda|GIS/BI/Special|[SQL Application in Geographic Information Systems](#sessionid:-32975)
-00:00:00|Trevor Barkhouse|DBA|[Deadlock Detection, Troubleshooting,  Prevention](#sessionid:-33728)
-00:00:00|Trevor Barkhouse|DBA|[Leveraging SQLDiag for Efficient Troubleshooting](#sessionid:-33729)
-00:00:00|Stuart Ainsworth|DBA|[The Social DBA: Resources for Career Building](#sessionid:-35452)
+00:00:00|More College Students|GIS/BI/Special|[Student Showcase Session 1](#sessionid-28368)
+00:00:00|Robert Cain|Development|[Introduction to SQL Server Integration Services	](#sessionid-28756)
+00:00:00|Robert Cain|Development|[SQL Server Full Text Searching - An Introduction. ](#sessionid-28757)
+00:00:00|Julie Smith|Development|[Cool Tricks to Pull from your SSIS Hat—](#sessionid-29361)
+00:00:00|Cliff Jacobson|GIS/BI/Special|[DBA vs ORM: Strategies for Data in a Code Focused ](#sessionid-29557)
+00:00:00|Chris Semerjian  Allison Ainsworth |DBA|[GIS Certificate Program at IESA](#sessionid-29665)
+00:00:00|Dan Murray|GIS/BI/Special|[Data Visualization and High Value Low Cost BI](#sessionid-29693)
+00:00:00|Audrey Hammonds|Development|[The T-SQL Trifecta:  Enhancements for Everyone](#sessionid-30293)
+00:00:00|Jeff Ammons|DBA|[Data Persistence in a Web Hosted World](#sessionid-30672)
+00:00:00|Neal Waterstreet|DBA|[SQL Server Backups](#sessionid-32118)
+00:00:00|Sergey Barskiy|Development|[CLR integration](#sessionid-32883)
+00:00:00|Sudhanshu Panda|GIS/BI/Special|[SQL Application in Geographic Information Systems](#sessionid-32975)
+00:00:00|Trevor Barkhouse|DBA|[Deadlock Detection, Troubleshooting,  Prevention](#sessionid-33728)
+00:00:00|Trevor Barkhouse|DBA|[Leveraging SQLDiag for Efficient Troubleshooting](#sessionid-33729)
+00:00:00|Stuart Ainsworth|DBA|[The Social DBA: Resources for Career Building](#sessionid-35452)
 #  
 #### SessionID: 28368
 # Student Showcase Session 1

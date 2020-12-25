@@ -2,16 +2,16 @@
 # SQLSaturday #850 - Budapest 2019
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:30:00|Gergely Csom|BI Platform Architecture, Development  Administration|[Building a modern data warehouse and BI solution in Microsoft cloud](#sessionid:-90395)
-09:30:00|Zoltán Horváth|BI Platform Architecture, Development  Administration|[Top 10 SSAS Design Best Practice (vagy talán több is)](#sessionid:-91066)
-10:45:00|Marcin Szeliga|Advanced Analysis Techniques|[How to win Kaggle competition and get familiar with machine learning ?](#sessionid:-88711)
-10:45:00|Satya Jayanty|Cloud Application Development  Deployment|[Modernise your data migration with Azure Data Migration Service](#sessionid:-90007)
-10:45:00|Zoltán Hangyál|Application  Database Development|[A baglyok nem azok amiknek látszanak, avagy mi is az a scan?](#sessionid:-90695)
-13:00:00|Mihail Mateev|Cloud Application Development  Deployment|[Dealing with CosmosDB](#sessionid:-88880)
-13:00:00|Tobias Koprowski|Enterprise Database Administration  Deployment|[SQL Server Security and Vulnerability Assessment in One Hour](#sessionid:-91612)
-14:15:00|Tomaž Kaštrun|Advanced Analysis Techniques|[SQL Server In-database machine learning with R and Python](#sessionid:-89073)
-14:15:00|Catalin Gheorghiu|Cloud Application Development  Deployment|[IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights](#sessionid:-90404)
-15:30:00|Liviu Ieran|Enterprise Database Administration  Deployment|[SQL Server - A Developers vs Admins story](#sessionid:-90245)
+09:30:00|Gergely Csom|BI Platform Architecture, Development  Administration|[Building a modern data warehouse and BI solution in Microsoft cloud](#sessionid-90395)
+09:30:00|Zoltán Horváth|BI Platform Architecture, Development  Administration|[Top 10 SSAS Design Best Practice (vagy talán több is)](#sessionid-91066)
+10:45:00|Marcin Szeliga|Advanced Analysis Techniques|[How to win Kaggle competition and get familiar with machine learning ?](#sessionid-88711)
+10:45:00|Satya Jayanty|Cloud Application Development  Deployment|[Modernise your data migration with Azure Data Migration Service](#sessionid-90007)
+10:45:00|Zoltán Hangyál|Application  Database Development|[A baglyok nem azok amiknek látszanak, avagy mi is az a scan?](#sessionid-90695)
+13:00:00|Mihail Mateev|Cloud Application Development  Deployment|[Dealing with CosmosDB](#sessionid-88880)
+13:00:00|Tobias Koprowski|Enterprise Database Administration  Deployment|[SQL Server Security and Vulnerability Assessment in One Hour](#sessionid-91612)
+14:15:00|Tomaž Kaštrun|Advanced Analysis Techniques|[SQL Server In-database machine learning with R and Python](#sessionid-89073)
+14:15:00|Catalin Gheorghiu|Cloud Application Development  Deployment|[IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights](#sessionid-90404)
+15:30:00|Liviu Ieran|Enterprise Database Administration  Deployment|[SQL Server - A Developers vs Admins story](#sessionid-90245)
 #  
 #### SessionID: 90395
 # Building a modern data warehouse and BI solution in Microsoft cloud

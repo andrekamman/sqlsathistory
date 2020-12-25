@@ -2,21 +2,21 @@
 # SQLSaturday #1003 – Memphis - Virtual 2020
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-08:30:00|Mark Runyon|Professional Development|[Getting Started as a Conference Speaker](#sessionid:-105784)
-08:30:00|Ed Watson|BI Information Delivery|[The Psychology of Better Power BI Reporting](#sessionid:-105824)
-08:30:00|David Klee|Enterprise Database Administration  Deployment|[Modern SQL Server CPU Architectures for Performance](#sessionid:-107448)
-09:40:00|Joshua Higginbotham|Application  Database Development|[Introduction to GitHub for Data Professionals](#sessionid:-107425)
-09:40:00|William Assaf|Professional Development|[Certification Exams Inside Out](#sessionid:-107637)
-09:40:00|DeNisha Malone|Analytics and Visualization|[Become a Power BI Magician using Bookmarks and Drill Through Page](#sessionid:-107972)
-10:50:00|Matt Gordon|Enterprise Database Administration  Deployment|[Turn Runbooks into Notebooks: Handling Maintenance and Emergencies with Azure Data Studio](#sessionid:-105830)
-10:50:00|Dustin Dorsey|Cloud Application Development  Deployment|[How to Budget for a Azure Migration](#sessionid:-107243)
-10:50:00|Christine Assaf|Professional Development|[Organizational Trauma: Supporting Mental Health During a Crisis](#sessionid:-107657)
-12:50:00|Kevin Wilkie|BI Platform Architecture, Development  Administration|[Checking in on Tabular Models: Making Them Work Better](#sessionid:-105812)
-12:50:00|Andy Yun|Application  Database Development|[Advanced Plan Explorer Usage for Tuning Execution Plans](#sessionid:-107422)
-12:50:00|Ray Kim|Professional Development|[I lost my job!  Now what?!?  A survival guide for the unemployed](#sessionid:-107470)
-14:00:00|Dan Evans|BI Information Delivery|[Intelligent Insights with Power BI](#sessionid:-105617)
-14:00:00|Andrea Mascher|Professional Development|[SELECT Questions FROM Diversity.Inclusion WHERE AfraidToAsk = 1](#sessionid:-107355)
-14:00:00|Hugo Kornelis|Application  Database Development|[From adaptive to intelligent: query processing in SQL 2019](#sessionid:-107434)
+08:30:00|Mark Runyon|Professional Development|[Getting Started as a Conference Speaker](#sessionid-105784)
+08:30:00|Ed Watson|BI Information Delivery|[The Psychology of Better Power BI Reporting](#sessionid-105824)
+08:30:00|David Klee|Enterprise Database Administration  Deployment|[Modern SQL Server CPU Architectures for Performance](#sessionid-107448)
+09:40:00|Joshua Higginbotham|Application  Database Development|[Introduction to GitHub for Data Professionals](#sessionid-107425)
+09:40:00|William Assaf|Professional Development|[Certification Exams Inside Out](#sessionid-107637)
+09:40:00|DeNisha Malone|Analytics and Visualization|[Become a Power BI Magician using Bookmarks and Drill Through Page](#sessionid-107972)
+10:50:00|Matt Gordon|Enterprise Database Administration  Deployment|[Turn Runbooks into Notebooks: Handling Maintenance and Emergencies with Azure Data Studio](#sessionid-105830)
+10:50:00|Dustin Dorsey|Cloud Application Development  Deployment|[How to Budget for a Azure Migration](#sessionid-107243)
+10:50:00|Christine Assaf|Professional Development|[Organizational Trauma: Supporting Mental Health During a Crisis](#sessionid-107657)
+12:50:00|Kevin Wilkie|BI Platform Architecture, Development  Administration|[Checking in on Tabular Models: Making Them Work Better](#sessionid-105812)
+12:50:00|Andy Yun|Application  Database Development|[Advanced Plan Explorer Usage for Tuning Execution Plans](#sessionid-107422)
+12:50:00|Ray Kim|Professional Development|[I lost my job!  Now what?!?  A survival guide for the unemployed](#sessionid-107470)
+14:00:00|Dan Evans|BI Information Delivery|[Intelligent Insights with Power BI](#sessionid-105617)
+14:00:00|Andrea Mascher|Professional Development|[SELECT Questions FROM Diversity.Inclusion WHERE AfraidToAsk = 1](#sessionid-107355)
+14:00:00|Hugo Kornelis|Application  Database Development|[From adaptive to intelligent: query processing in SQL 2019](#sessionid-107434)
 #  
 #### SessionID: 105784
 # Getting Started as a Conference Speaker

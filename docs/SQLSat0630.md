@@ -2,22 +2,22 @@
 # SQLSaturday #630 - Brisbane 2017
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Peter Myers|BI Information Delivery|[Zero to Microsoft Power BI](#sessionid:-62565)
-09:30:00|Peter Myers|BI Platform Architecture, Development  Administration|[Power BI for the Developer](#sessionid:-61718)
-09:30:00|Patrick Flynn|Enterprise Database Administration  Deployment|[Schroedinger’s Backup – will your recovery work?](#sessionid:-63325)
-09:30:00|Martin Catherall|Application  Database Development|[Build your first Service Broker application](#sessionid:-63484)
-11:00:00|Hamish Watson|Enterprise Database Administration  Deployment|[DevOPs and the DBA](#sessionid:-61185)
-11:00:00|Peter Myers|BI Information Delivery|[Reports on the Run: Mobile Reporting with SQL Server 2016](#sessionid:-61717)
-11:00:00|Reza Rad|BI Platform Architecture, Development  Administration|[Security in Power BI; Everything You Need to Know](#sessionid:-63399)
-13:30:00|Matt Allington|BI Platform Architecture, Development  Administration|[Power Query is more than just a desktop BI ETL tool](#sessionid:-61280)
-13:30:00|Leila Etaati|Advanced Analysis Techniques|[On-premises Machine Learning : SQL Server 2016 with R](#sessionid:-63374)
-13:30:00|Manohar Punna|Cloud Application Development  Deployment|[Azure Database Migration – Choosing the Right Tier](#sessionid:-63457)
-14:50:00|Victor Isakov|Enterprise Database Administration  Deployment|[SQL Server 2016: It Just Runs FASTER!](#sessionid:-61267)
-14:50:00|Craig Bryden|Application  Database Development|[Visual Studio SQL Server Database Projects and integrating into VSTS](#sessionid:-63113)
-14:50:00|Reza Rad|BI Platform Architecture, Development  Administration|[Data Preparation is the Keystone; Power Query is Building Block](#sessionid:-63401)
-16:00:00|Gilbert Quevauvilliers|Analytics and Visualization|[Power BI real world tips and tricks](#sessionid:-61660)
-16:00:00|Martin Cairney|Cloud Application Development  Deployment|[Database Administration for Azure SQL DB](#sessionid:-62471)
-16:00:00|Peter O'Gorman|BI Information Delivery|[Drone or Die - Defenders of the Universe](#sessionid:-64299)
+09:00:00|Peter Myers|BI Information Delivery|[Zero to Microsoft Power BI](#sessionid-62565)
+09:30:00|Peter Myers|BI Platform Architecture, Development  Administration|[Power BI for the Developer](#sessionid-61718)
+09:30:00|Patrick Flynn|Enterprise Database Administration  Deployment|[Schroedinger’s Backup – will your recovery work?](#sessionid-63325)
+09:30:00|Martin Catherall|Application  Database Development|[Build your first Service Broker application](#sessionid-63484)
+11:00:00|Hamish Watson|Enterprise Database Administration  Deployment|[DevOPs and the DBA](#sessionid-61185)
+11:00:00|Peter Myers|BI Information Delivery|[Reports on the Run: Mobile Reporting with SQL Server 2016](#sessionid-61717)
+11:00:00|Reza Rad|BI Platform Architecture, Development  Administration|[Security in Power BI; Everything You Need to Know](#sessionid-63399)
+13:30:00|Matt Allington|BI Platform Architecture, Development  Administration|[Power Query is more than just a desktop BI ETL tool](#sessionid-61280)
+13:30:00|Leila Etaati|Advanced Analysis Techniques|[On-premises Machine Learning : SQL Server 2016 with R](#sessionid-63374)
+13:30:00|Manohar Punna|Cloud Application Development  Deployment|[Azure Database Migration – Choosing the Right Tier](#sessionid-63457)
+14:50:00|Victor Isakov|Enterprise Database Administration  Deployment|[SQL Server 2016: It Just Runs FASTER!](#sessionid-61267)
+14:50:00|Craig Bryden|Application  Database Development|[Visual Studio SQL Server Database Projects and integrating into VSTS](#sessionid-63113)
+14:50:00|Reza Rad|BI Platform Architecture, Development  Administration|[Data Preparation is the Keystone; Power Query is Building Block](#sessionid-63401)
+16:00:00|Gilbert Quevauvilliers|Analytics and Visualization|[Power BI real world tips and tricks](#sessionid-61660)
+16:00:00|Martin Cairney|Cloud Application Development  Deployment|[Database Administration for Azure SQL DB](#sessionid-62471)
+16:00:00|Peter O'Gorman|BI Information Delivery|[Drone or Die - Defenders of the Universe](#sessionid-64299)
 #  
 #### SessionID: 62565
 # Zero to Microsoft Power BI

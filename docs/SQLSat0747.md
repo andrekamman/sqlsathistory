@@ -2,16 +2,16 @@
 # SQLSaturday #747 - Timisoara 2018
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Liviu Ieran|Application  Database Development|[SQL Server 2017 - Understanding Statistics](#sessionid:-77051)
-09:00:00|Laurentiu Codorean-Onea|Application  Database Development|[How powerful is Power BI?](#sessionid:-78628)
-10:00:00|André Melancia|Application  Database Development|[If a machine can learn, why can't YOU learn Azure Machine Learning?](#sessionid:-73761)
-10:00:00|Cristian Lefter|Application  Database Development|[SQL Code Smells](#sessionid:-75795)
-11:00:00|Mihail Mateev|Application  Database Development|[Dealing with CosmosDB](#sessionid:-73865)
-11:00:00|Dragos-Cristian Furdui|Enterprise Database Administration  Deployment|[SQL SERVER - Next station Azure](#sessionid:-83291)
-13:00:00|Ozana Buse|Application  Database Development|[S (tudent) QL - SQL Server guide for students](#sessionid:-82186)
-13:00:00|Mihail Mateev|Application  Database Development|[IoT Duel - Cloud vs. on Premises Solutions](#sessionid:-83775)
-14:00:00|Tobias Koprowski|Enterprise Database Administration  Deployment|[AD 2018. 2 AM. A Disaster just Began...](#sessionid:-80597)
-14:00:00|Alexandra Ciortea|Enterprise Database Administration  Deployment|[SQL in GDPR Context](#sessionid:-82174)
+09:00:00|Liviu Ieran|Application  Database Development|[SQL Server 2017 - Understanding Statistics](#sessionid-77051)
+09:00:00|Laurentiu Codorean-Onea|Application  Database Development|[How powerful is Power BI?](#sessionid-78628)
+10:00:00|André Melancia|Application  Database Development|[If a machine can learn, why can't YOU learn Azure Machine Learning?](#sessionid-73761)
+10:00:00|Cristian Lefter|Application  Database Development|[SQL Code Smells](#sessionid-75795)
+11:00:00|Mihail Mateev|Application  Database Development|[Dealing with CosmosDB](#sessionid-73865)
+11:00:00|Dragos-Cristian Furdui|Enterprise Database Administration  Deployment|[SQL SERVER - Next station Azure](#sessionid-83291)
+13:00:00|Ozana Buse|Application  Database Development|[S (tudent) QL - SQL Server guide for students](#sessionid-82186)
+13:00:00|Mihail Mateev|Application  Database Development|[IoT Duel - Cloud vs. on Premises Solutions](#sessionid-83775)
+14:00:00|Tobias Koprowski|Enterprise Database Administration  Deployment|[AD 2018. 2 AM. A Disaster just Began...](#sessionid-80597)
+14:00:00|Alexandra Ciortea|Enterprise Database Administration  Deployment|[SQL in GDPR Context](#sessionid-82174)
 #  
 #### SessionID: 77051
 # SQL Server 2017 - Understanding Statistics

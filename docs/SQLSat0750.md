@@ -2,18 +2,18 @@
 # SQLSaturday #750 - Sri Lanka 2018
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:30:00|Dharmendra Keshari|Database Development  Administration|[Trend Analysis of SQL Server Logs using Powershell!](#sessionid:-84392)
-09:30:00|Dinesh Asanka|Business Intelligence  Analytics|[Text Analytics Solutions with Azure Machine Learning](#sessionid:-84622)
-10:50:00|Patrick Flynn|Database Development  Administration|[GITHUB 101 - An introduction to using Github and Git for Source Control and Open Source Projects](#sessionid:-80529)
-10:50:00|Asanka Padmakumara|Business Intelligence  Analytics|[Moving your on-prem data warehouse to cloud. What are your options?](#sessionid:-82099)
-12:00:00|Hamish Watson|Database Development  Administration|[DevOPs and the Data Professional](#sessionid:-83040)
-12:00:00|Anupama Natarajan|Business Intelligence  Analytics|[Creating and Exploring Power BI Report and Dashboard in one hour](#sessionid:-84484)
-14:00:00|Patrick Flynn|Database Development  Administration|[Graph Databases with Azure Cosmos DB](#sessionid:-82269)
-14:00:00|Nisal Mihiranga|Business Intelligence  Analytics|[Real-time Data Analytics using Microsoft Azure Stream Analytics and Power BI](#sessionid:-83357)
-15:10:00|Anupama Natarajan|Business Intelligence  Analytics|[Modern Data Warehouse using Lambda Architecture and Azure](#sessionid:-84438)
-15:10:00|Indika Dalugama|Database Development  Administration|[Azure SQL Database Services: What You Need to Know](#sessionid:-84851)
-16:30:00|Anupama Natarajan|Business Intelligence  Analytics|[Chalk Talk: Business Intelligence  Analytics](#sessionid:-85060)
-16:30:00|Hamish Watson|Database Development  Administration|[Chalk Talk: Database Development  Administration](#sessionid:-85061)
+09:30:00|Dharmendra Keshari|Database Development  Administration|[Trend Analysis of SQL Server Logs using Powershell!](#sessionid-84392)
+09:30:00|Dinesh Asanka|Business Intelligence  Analytics|[Text Analytics Solutions with Azure Machine Learning](#sessionid-84622)
+10:50:00|Patrick Flynn|Database Development  Administration|[GITHUB 101 - An introduction to using Github and Git for Source Control and Open Source Projects](#sessionid-80529)
+10:50:00|Asanka Padmakumara|Business Intelligence  Analytics|[Moving your on-prem data warehouse to cloud. What are your options?](#sessionid-82099)
+12:00:00|Hamish Watson|Database Development  Administration|[DevOPs and the Data Professional](#sessionid-83040)
+12:00:00|Anupama Natarajan|Business Intelligence  Analytics|[Creating and Exploring Power BI Report and Dashboard in one hour](#sessionid-84484)
+14:00:00|Patrick Flynn|Database Development  Administration|[Graph Databases with Azure Cosmos DB](#sessionid-82269)
+14:00:00|Nisal Mihiranga|Business Intelligence  Analytics|[Real-time Data Analytics using Microsoft Azure Stream Analytics and Power BI](#sessionid-83357)
+15:10:00|Anupama Natarajan|Business Intelligence  Analytics|[Modern Data Warehouse using Lambda Architecture and Azure](#sessionid-84438)
+15:10:00|Indika Dalugama|Database Development  Administration|[Azure SQL Database Services: What You Need to Know](#sessionid-84851)
+16:30:00|Anupama Natarajan|Business Intelligence  Analytics|[Chalk Talk: Business Intelligence  Analytics](#sessionid-85060)
+16:30:00|Hamish Watson|Database Development  Administration|[Chalk Talk: Database Development  Administration](#sessionid-85061)
 #  
 #### SessionID: 84392
 # Trend Analysis of SQL Server Logs using Powershell!

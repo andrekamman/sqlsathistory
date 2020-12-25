@@ -2,21 +2,21 @@
 # SQLSaturday #354 - Charleston 2014
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Carlos L Chacon|Track 1|["I Know What You Did Last Query" --SQL Server](#sessionid:-11201)
-00:00:00|Chris Hyde|Track 2|[Becoming Certified In Microsoft SQL Server](#sessionid:-11525)
-00:00:00|Donald Wert|Track 2|[SQL Window functions in SQL Server 2008 and later](#sessionid:-13257)
-00:00:00|Jorge Novo|Track 3|[ETL Frameworks Using SSIS Programming](#sessionid:-13995)
-00:00:00|Gene Webb|Track 1|[Learn How To Build A Golden Record for Any Subject Over Lunch!](#sessionid:-14443)
-00:00:00|Janis Griffin|Track 3|[Don't Panic, DBAs!  Databases on VMware made easy.](#sessionid:-15746)
-00:00:00|Jeff Reinhard|Track 2|[Sliding Window Table Partition Intro](#sessionid:-16281)
-00:00:00|Brian Kelley|Track 1|[What You Absolutely Must Know about SQL Server Security](#sessionid:-18030)
-00:00:00|Kevin Kline|Track 3|[Top 10 Admininistrator Mistakes on SQL Server](#sessionid:-18224)
-00:00:00|Michael Wharton|Track 1|[PowerShell Basics for SQLServer](#sessionid:-21262)
-00:00:00|Rob Volk|Track 3|[Revenge: The SQL! - Director's Cut](#sessionid:-23339)
-00:00:00|Melissa Coates|Track 2|[Administering  Managing the Power BI Environment](#sessionid:-24942)
-00:00:00|Tony Scotto di Carlo|Track 2|[Data center migrations  – a focus on the ‘Data’](#sessionid:-27044)
-00:00:00|Wayne Sheffield|Track 1|[SSMS Tips  Tricks](#sessionid:-27744)
-00:00:00|Kevin Klein, Melissa Coates, Chris Hyde, Ryan McKnight|Track 3|[Push your career to new heights: A Panel Discussion on Career Planning and Professional Development](#sessionid:-34770)
+00:00:00|Carlos L Chacon|Track 1|["I Know What You Did Last Query" --SQL Server](#sessionid-11201)
+00:00:00|Chris Hyde|Track 2|[Becoming Certified In Microsoft SQL Server](#sessionid-11525)
+00:00:00|Donald Wert|Track 2|[SQL Window functions in SQL Server 2008 and later](#sessionid-13257)
+00:00:00|Jorge Novo|Track 3|[ETL Frameworks Using SSIS Programming](#sessionid-13995)
+00:00:00|Gene Webb|Track 1|[Learn How To Build A Golden Record for Any Subject Over Lunch!](#sessionid-14443)
+00:00:00|Janis Griffin|Track 3|[Don't Panic, DBAs!  Databases on VMware made easy.](#sessionid-15746)
+00:00:00|Jeff Reinhard|Track 2|[Sliding Window Table Partition Intro](#sessionid-16281)
+00:00:00|Brian Kelley|Track 1|[What You Absolutely Must Know about SQL Server Security](#sessionid-18030)
+00:00:00|Kevin Kline|Track 3|[Top 10 Admininistrator Mistakes on SQL Server](#sessionid-18224)
+00:00:00|Michael Wharton|Track 1|[PowerShell Basics for SQLServer](#sessionid-21262)
+00:00:00|Rob Volk|Track 3|[Revenge: The SQL! - Director's Cut](#sessionid-23339)
+00:00:00|Melissa Coates|Track 2|[Administering  Managing the Power BI Environment](#sessionid-24942)
+00:00:00|Tony Scotto di Carlo|Track 2|[Data center migrations  – a focus on the ‘Data’](#sessionid-27044)
+00:00:00|Wayne Sheffield|Track 1|[SSMS Tips  Tricks](#sessionid-27744)
+00:00:00|Kevin Klein, Melissa Coates, Chris Hyde, Ryan McKnight|Track 3|[Push your career to new heights: A Panel Discussion on Career Planning and Professional Development](#sessionid-34770)
 #  
 #### SessionID: 11201
 # "I Know What You Did Last Query" --SQL Server

@@ -2,15 +2,15 @@
 # SQLSaturday #124 - Colombia 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Emerson Perdomo|SQL Server 2012 - DEV|[PowerShell para SQL Server 2012](#sessionid:-13774)
-00:00:00|Francisco Suavita|SQL Server 2012 - DBA|[Master Data Services en SQL Server 2012](#sessionid:-14330)
-00:00:00|Freddy Angarita|SQL Server 2012 - DEV|[Lo nuevo en inteligencia de Negocios de Sql Server](#sessionid:-14334)
-00:00:00|Guillermo Taylor|SQL Server 2012 - DBA|[Troubleshooting Essentials en SQL Server 2012](#sessionid:-14860)
-00:00:00|John Bocachica|SQL Server 2012 - DBA|[Estrategias de indexación y análisis de índices](#sessionid:-16069)
-00:00:00|John Alexander Bulla Torres|SQL Server 2012 - DEV|[Integración de datos con Data Explorer](#sessionid:-17271)
-00:00:00|Julián Alberto Castiblanco Palacios|SQL Server 2012 - DBA|[Características de Seguridad en SQL Server 2012](#sessionid:-17773)
-00:00:00|Roberto Alvarado|SQL Server 2012 - DEV|[Novedades en T-SQL de SQL 2012](#sessionid:-22441)
-00:00:00|Alberto Rivera|SQL Server 2012 - DBA|[PowerView, el camino a información interactiva](#sessionid:-9192)
+00:00:00|Emerson Perdomo|SQL Server 2012 - DEV|[PowerShell para SQL Server 2012](#sessionid-13774)
+00:00:00|Francisco Suavita|SQL Server 2012 - DBA|[Master Data Services en SQL Server 2012](#sessionid-14330)
+00:00:00|Freddy Angarita|SQL Server 2012 - DEV|[Lo nuevo en inteligencia de Negocios de Sql Server](#sessionid-14334)
+00:00:00|Guillermo Taylor|SQL Server 2012 - DBA|[Troubleshooting Essentials en SQL Server 2012](#sessionid-14860)
+00:00:00|John Bocachica|SQL Server 2012 - DBA|[Estrategias de indexación y análisis de índices](#sessionid-16069)
+00:00:00|John Alexander Bulla Torres|SQL Server 2012 - DEV|[Integración de datos con Data Explorer](#sessionid-17271)
+00:00:00|Julián Alberto Castiblanco Palacios|SQL Server 2012 - DBA|[Características de Seguridad en SQL Server 2012](#sessionid-17773)
+00:00:00|Roberto Alvarado|SQL Server 2012 - DEV|[Novedades en T-SQL de SQL 2012](#sessionid-22441)
+00:00:00|Alberto Rivera|SQL Server 2012 - DBA|[PowerView, el camino a información interactiva](#sessionid-9192)
 #  
 #### SessionID: 13774
 # PowerShell para SQL Server 2012

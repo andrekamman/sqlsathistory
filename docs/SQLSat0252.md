@@ -2,13 +2,13 @@
 # SQLSaturday #252 - Christchurch, NZ 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Brent McCracken|Track 1|[Using Event Notifications with SQL Server](#sessionid:-10717)
-00:00:00|Dave Dustin|Track 1|[Microsoft SQL Server – Project Hekaton](#sessionid:-12234)
-00:00:00|David Curlewis|Track 1|[Building to scale: Overcoming Performance Hurdles](#sessionid:-12911)
-00:00:00|Martin Catherall|Track 1|[SQL Saturday #252 - Keynote and Introduction](#sessionid:-19761)
-00:00:00|Ray Bachert|Track 1|[10 easy ways to improve data quality](#sessionid:-22625)
-00:00:00|Rob Douglas|Track 1|[Are you High?  Can you Recovery?](#sessionid:-23237)
-00:00:00|Argenis Fernandez|Track 1|[Code-Less Securing of SQL Server](#sessionid:-9777)
+00:00:00|Brent McCracken|Track 1|[Using Event Notifications with SQL Server](#sessionid-10717)
+00:00:00|Dave Dustin|Track 1|[Microsoft SQL Server – Project Hekaton](#sessionid-12234)
+00:00:00|David Curlewis|Track 1|[Building to scale: Overcoming Performance Hurdles](#sessionid-12911)
+00:00:00|Martin Catherall|Track 1|[SQL Saturday #252 - Keynote and Introduction](#sessionid-19761)
+00:00:00|Ray Bachert|Track 1|[10 easy ways to improve data quality](#sessionid-22625)
+00:00:00|Rob Douglas|Track 1|[Are you High?  Can you Recovery?](#sessionid-23237)
+00:00:00|Argenis Fernandez|Track 1|[Code-Less Securing of SQL Server](#sessionid-9777)
 #  
 #### SessionID: 10717
 # Using Event Notifications with SQL Server

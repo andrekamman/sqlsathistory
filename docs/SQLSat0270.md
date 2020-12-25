@@ -2,18 +2,18 @@
 # SQLSaturday #270 - Krasnodar 2014
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Dmitriy Kostylev|Track 1|[Оптимизация запросов в примерах](#sessionid:-13052)
-00:00:00|Evgeny Khabarov|Track 3|[Конкуренция за ресурсы в многоядерных системах.](#sessionid:-13753)
-00:00:00|Mikhail Komarov|Track 3|[Windows Server 2012/R2: новые возможности для SQL Server и виртуализация на его платформе](#sessionid:-18666)
-00:00:00|Tobias Koprowski|Track 2|[2 AM. A Disaster just began...](#sessionid:-18746)
-00:00:00|Tobias Koprowski|Track 2|[SQL Server Source Control](#sessionid:-18747)
-00:00:00|Andrey Korshikov|Track 3|[Советы разработчику отчетов](#sessionid:-18812)
-00:00:00|Dmitry Pilugin|Track 1|[Оптимизатор запросов и оценки кардинальности в SQL Server 2014](#sessionid:-22161)
-00:00:00|Sergey Olontsev|Track 1|[In-Memory OLTP (Hekaton) в SQL Server 2014](#sessionid:-24336)
-00:00:00|Sergey Olontsev|Track 1|[Все о журнале транзакций в SQL Server](#sessionid:-24338)
-00:00:00|Satya Jayanty|Track 2|[SQL Server HA 2008 R2, 2012  2014: Overview  Solutions](#sessionid:-25009)
-00:00:00|Andrey Zavadskiy|Track 2|[Backup и recovery для начинающих](#sessionid:-28306)
-00:00:00|Жанна Кривозубова|Track 3|[Лицензирование SQL Server 2014](#sessionid:-28334)
+00:00:00|Dmitriy Kostylev|Track 1|[Оптимизация запросов в примерах](#sessionid-13052)
+00:00:00|Evgeny Khabarov|Track 3|[Конкуренция за ресурсы в многоядерных системах.](#sessionid-13753)
+00:00:00|Mikhail Komarov|Track 3|[Windows Server 2012/R2: новые возможности для SQL Server и виртуализация на его платформе](#sessionid-18666)
+00:00:00|Tobias Koprowski|Track 2|[2 AM. A Disaster just began...](#sessionid-18746)
+00:00:00|Tobias Koprowski|Track 2|[SQL Server Source Control](#sessionid-18747)
+00:00:00|Andrey Korshikov|Track 3|[Советы разработчику отчетов](#sessionid-18812)
+00:00:00|Dmitry Pilugin|Track 1|[Оптимизатор запросов и оценки кардинальности в SQL Server 2014](#sessionid-22161)
+00:00:00|Sergey Olontsev|Track 1|[In-Memory OLTP (Hekaton) в SQL Server 2014](#sessionid-24336)
+00:00:00|Sergey Olontsev|Track 1|[Все о журнале транзакций в SQL Server](#sessionid-24338)
+00:00:00|Satya Jayanty|Track 2|[SQL Server HA 2008 R2, 2012  2014: Overview  Solutions](#sessionid-25009)
+00:00:00|Andrey Zavadskiy|Track 2|[Backup и recovery для начинающих](#sessionid-28306)
+00:00:00|Жанна Кривозубова|Track 3|[Лицензирование SQL Server 2014](#sessionid-28334)
 #  
 #### SessionID: 13052
 # Оптимизация запросов в примерах

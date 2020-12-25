@@ -2,19 +2,19 @@
 # SQLSaturday #427 - Sioux Falls 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-08:30:00|Jim Dorame|DBA|[How to collect a baseline on all your servers and still get a good night's sleep.](#sessionid:-35704)
-08:30:00|Paul Timmerman|ETL/DB Dev|[Database Snapshots - Making Your Job Easier](#sessionid:-35823)
-08:30:00|Matt Wigdahl|BI/Other|["But It Sounded So Simple!":  Building a Messaging System in Service Broker](#sessionid:-37043)
-10:00:00|Alan Faulkner|BI/Other|[SSAS Multidimensional vs. SSAS Tabular – Which one do I use?](#sessionid:-35591)
-10:00:00|Rick Heiges|ETL/DB Dev|[A First Look at SQL Server 2016](#sessionid:-35687)
-10:00:00|Nem Schlecht|DBA|[Automated Enterprise-wide SQL Server Auditing](#sessionid:-35999)
-11:30:00|Erin Dempster|DBA|[Tegile - Lunch Session](#sessionid:-38215)
-12:30:00|Brian Larson|BI/Other|[Effective Reporting through SSRS Advanced Authoring Features ](#sessionid:-35618)
-12:30:00|Steve Jones|ETL/DB Dev|[Continuous Integration for Databases](#sessionid:-37247)
-14:00:00|Bill Preachuk|ETL/DB Dev|[Hadoop for the SQL Server Developer/DBA](#sessionid:-35622)
-14:00:00|Mike Hays|DBA|[Advanced Troubleshooting Your SQL Connections](#sessionid:-37287)
-14:00:00|William Wolf|BI/Other|[Common T-SQL Coding Mistakes and how to Mitigate them](#sessionid:-37929)
-15:30:00|Erin Dempster|DBA|[Panel Discussion - Developing SQL Skills](#sessionid:-38214)
+08:30:00|Jim Dorame|DBA|[How to collect a baseline on all your servers and still get a good night's sleep.](#sessionid-35704)
+08:30:00|Paul Timmerman|ETL/DB Dev|[Database Snapshots - Making Your Job Easier](#sessionid-35823)
+08:30:00|Matt Wigdahl|BI/Other|["But It Sounded So Simple!":  Building a Messaging System in Service Broker](#sessionid-37043)
+10:00:00|Alan Faulkner|BI/Other|[SSAS Multidimensional vs. SSAS Tabular – Which one do I use?](#sessionid-35591)
+10:00:00|Rick Heiges|ETL/DB Dev|[A First Look at SQL Server 2016](#sessionid-35687)
+10:00:00|Nem Schlecht|DBA|[Automated Enterprise-wide SQL Server Auditing](#sessionid-35999)
+11:30:00|Erin Dempster|DBA|[Tegile - Lunch Session](#sessionid-38215)
+12:30:00|Brian Larson|BI/Other|[Effective Reporting through SSRS Advanced Authoring Features ](#sessionid-35618)
+12:30:00|Steve Jones|ETL/DB Dev|[Continuous Integration for Databases](#sessionid-37247)
+14:00:00|Bill Preachuk|ETL/DB Dev|[Hadoop for the SQL Server Developer/DBA](#sessionid-35622)
+14:00:00|Mike Hays|DBA|[Advanced Troubleshooting Your SQL Connections](#sessionid-37287)
+14:00:00|William Wolf|BI/Other|[Common T-SQL Coding Mistakes and how to Mitigate them](#sessionid-37929)
+15:30:00|Erin Dempster|DBA|[Panel Discussion - Developing SQL Skills](#sessionid-38214)
 #  
 #### SessionID: 35704
 # How to collect a baseline on all your servers and still get a good night's sleep.

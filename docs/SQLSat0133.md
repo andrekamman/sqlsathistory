@@ -2,22 +2,22 @@
 # SQLSaturday #133 - Costa Rica 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Carlos Rojas Vargas|Track 1|[PowerPivot in SQL-Server 2012](#sessionid:-12050)
-00:00:00|Eduardo Castro|Track 3|[Indices Columnares en SQL Server 2012](#sessionid:-13617)
-00:00:00|Jesus Gil Velasco|Track 2|[“No soy una base de datos más – UBICATE!”](#sessionid:-16694)
-00:00:00|Jesus Gil Velasco|Track 2|[Y el rendimiento... ¿Dónde ha quedado?](#sessionid:-16696)
-00:00:00|Joe Healy|Track 4|[Intro to Windows Phone Dev [en ingles]](#sessionid:-16786)
-00:00:00|Joe Healy|Track 4|[Windows Phone Dev Internationalization [en ingles]](#sessionid:-16787)
-00:00:00|Joe Healy|Track 4|[Introduction to Kinect SDK - [en ingles]](#sessionid:-16788)
-00:00:00|Javier Loria|Track 2|[Patrones de Arquitectura en BI](#sessionid:-16942)
-00:00:00|Juan Alvarado|Track 1|[Base de Datos Tabulares](#sessionid:-17758)
-00:00:00|Juan Alvarado|Track 1|[Data Quality Services: calidad de datos de SQL](#sessionid:-17759)
-00:00:00|Keith Kabza|Track 4|[Microsoft Lync Voice, IM and Video Dev [en ingles]](#sessionid:-18393)
-00:00:00|Ricardo Estrada|Track 2|[¡Contravía!  Alimente el DW con SSRS usando SSIS](#sessionid:-22306)
-00:00:00|Raul Oviedo|Track 1|[Nuevas Características de Reporting Services ](#sessionid:-22623)
-00:00:00|Kenneth Urena|Track 3|[Partitioning and Partial Databases for HA for VLDB](#sessionid:-27189)
-00:00:00|Yuri Porras|Track 3|[SQL Azure](#sessionid:-28289)
-00:00:00|Eduardo Castro|Track 3|[SQL Server AlwaysOn](#sessionid:-34629)
+00:00:00|Carlos Rojas Vargas|Track 1|[PowerPivot in SQL-Server 2012](#sessionid-12050)
+00:00:00|Eduardo Castro|Track 3|[Indices Columnares en SQL Server 2012](#sessionid-13617)
+00:00:00|Jesus Gil Velasco|Track 2|[“No soy una base de datos más – UBICATE!”](#sessionid-16694)
+00:00:00|Jesus Gil Velasco|Track 2|[Y el rendimiento... ¿Dónde ha quedado?](#sessionid-16696)
+00:00:00|Joe Healy|Track 4|[Intro to Windows Phone Dev [en ingles]](#sessionid-16786)
+00:00:00|Joe Healy|Track 4|[Windows Phone Dev Internationalization [en ingles]](#sessionid-16787)
+00:00:00|Joe Healy|Track 4|[Introduction to Kinect SDK - [en ingles]](#sessionid-16788)
+00:00:00|Javier Loria|Track 2|[Patrones de Arquitectura en BI](#sessionid-16942)
+00:00:00|Juan Alvarado|Track 1|[Base de Datos Tabulares](#sessionid-17758)
+00:00:00|Juan Alvarado|Track 1|[Data Quality Services: calidad de datos de SQL](#sessionid-17759)
+00:00:00|Keith Kabza|Track 4|[Microsoft Lync Voice, IM and Video Dev [en ingles]](#sessionid-18393)
+00:00:00|Ricardo Estrada|Track 2|[¡Contravía!  Alimente el DW con SSRS usando SSIS](#sessionid-22306)
+00:00:00|Raul Oviedo|Track 1|[Nuevas Características de Reporting Services ](#sessionid-22623)
+00:00:00|Kenneth Urena|Track 3|[Partitioning and Partial Databases for HA for VLDB](#sessionid-27189)
+00:00:00|Yuri Porras|Track 3|[SQL Azure](#sessionid-28289)
+00:00:00|Eduardo Castro|Track 3|[SQL Server AlwaysOn](#sessionid-34629)
 #  
 #### SessionID: 12050
 # PowerPivot in SQL-Server 2012

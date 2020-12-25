@@ -2,22 +2,22 @@
 # SQLSaturday #761 - Perth 2018
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:30:00|Reza Rad|Business Intelligence|[M and Power Query Beyond Limits](#sessionid:-78550)
-10:30:00|Sergio Reginaldo Zenatti Filho|Analytics  Big Data|[Building a Modern Analytics Solution in the Cloud](#sessionid:-82403)
-10:30:00|Kevin Boles|DBA/DevOps|[Common TSQL Mistakes](#sessionid:-82405)
-10:30:00|Rob Farley|DBA/DevOps|[Advanced Indexing for Beginners](#sessionid:-85442)
-11:35:00|Manohar Punna|Analytics  Big Data|[Real-Time Analytics with Power BI](#sessionid:-77034)
-11:35:00|Leila Etaati|Analytics  Big Data|[Machine Learning Revolution with Azure Databricks](#sessionid:-80345)
-11:35:00|Martin Catherall|Strategy and Architecture|[Data Privacy and the Data Professional.](#sessionid:-80894)
-13:15:00|Gilbert Quevauvilliers|Business Intelligence|[Power BI Writeback with Power Apps](#sessionid:-77452)
-13:15:00|Hamish Watson|DBA/DevOps|[Building a Database DevOps Pipeline in the Cloud under 49 minutes](#sessionid:-78488)
-13:15:00|Jim McLeod|Business Intelligence|[Creating Custom Visualisations with Power BI](#sessionid:-82443)
-14:20:00|Warwick Rudd|DBA/DevOps|[SQLOpsStudio Vs SSMS - There can be only one](#sessionid:-78188)
-14:20:00|Martin Cairney|DBA/DevOps|[Azure PaaS Databases - The Choice is Yours](#sessionid:-78652)
-14:20:00|Wyn Hopkins|Business Intelligence|[Power BI and Excel. Better Together.](#sessionid:-80874)
-15:45:00|Patrick Flynn|DBA/DevOps|[GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects](#sessionid:-75754)
-15:45:00|Kelly Broekstra|Business Intelligence|[Tell me a story with Power BI](#sessionid:-82316)
-15:45:00|Ram Katepally|Analytics  Big Data|[Azure Machine Learning  Power BI - Perfect Combo for Predictive Analytics](#sessionid:-82438)
+10:30:00|Reza Rad|Business Intelligence|[M and Power Query Beyond Limits](#sessionid-78550)
+10:30:00|Sergio Reginaldo Zenatti Filho|Analytics  Big Data|[Building a Modern Analytics Solution in the Cloud](#sessionid-82403)
+10:30:00|Kevin Boles|DBA/DevOps|[Common TSQL Mistakes](#sessionid-82405)
+10:30:00|Rob Farley|DBA/DevOps|[Advanced Indexing for Beginners](#sessionid-85442)
+11:35:00|Manohar Punna|Analytics  Big Data|[Real-Time Analytics with Power BI](#sessionid-77034)
+11:35:00|Leila Etaati|Analytics  Big Data|[Machine Learning Revolution with Azure Databricks](#sessionid-80345)
+11:35:00|Martin Catherall|Strategy and Architecture|[Data Privacy and the Data Professional.](#sessionid-80894)
+13:15:00|Gilbert Quevauvilliers|Business Intelligence|[Power BI Writeback with Power Apps](#sessionid-77452)
+13:15:00|Hamish Watson|DBA/DevOps|[Building a Database DevOps Pipeline in the Cloud under 49 minutes](#sessionid-78488)
+13:15:00|Jim McLeod|Business Intelligence|[Creating Custom Visualisations with Power BI](#sessionid-82443)
+14:20:00|Warwick Rudd|DBA/DevOps|[SQLOpsStudio Vs SSMS - There can be only one](#sessionid-78188)
+14:20:00|Martin Cairney|DBA/DevOps|[Azure PaaS Databases - The Choice is Yours](#sessionid-78652)
+14:20:00|Wyn Hopkins|Business Intelligence|[Power BI and Excel. Better Together.](#sessionid-80874)
+15:45:00|Patrick Flynn|DBA/DevOps|[GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects](#sessionid-75754)
+15:45:00|Kelly Broekstra|Business Intelligence|[Tell me a story with Power BI](#sessionid-82316)
+15:45:00|Ram Katepally|Analytics  Big Data|[Azure Machine Learning  Power BI - Perfect Combo for Predictive Analytics](#sessionid-82438)
 #  
 #### SessionID: 78550
 # M and Power Query Beyond Limits

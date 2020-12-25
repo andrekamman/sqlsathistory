@@ -2,17 +2,17 @@
 # SQLSaturday #529 - Bratislava 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Marek Chmel|Enterprise Database Administration  Deployment|[SQL Server 2016 Security Enhancements](#sessionid:-47104)
-09:00:00|LEONEL ABREU|BI Information Delivery|[Reporting Services 2016, a reborn product](#sessionid:-49130)
-10:15:00|Miloš Radivojević|Application  Database Development|[What Application Developers Should Know About SQL Server?](#sessionid:-47081)
-10:15:00|Peter Myers|BI Platform Architecture, Development  Administration|[Azure Machine Learning: From Design to Integration](#sessionid:-49369)
-12:45:00|Zoltán Horváth|BI Platform Architecture, Development  Administration|[Top 10 SSAS Solution Design Best Practices](#sessionid:-46896)
-12:45:00|Volodymyr Usarskyy|Application  Database Development|[To NHibernate or not to NHibernate](#sessionid:-49160)
-14:00:00|Andrzej Kukula|BI Platform Architecture, Development  Administration|[Easy ETL with Biml](#sessionid:-48715)
-14:00:00|Sam Lester|BI Information Delivery|[Power BI – “5 Minutes to WOW”, but HOW?](#sessionid:-49962)
-15:15:00|Marcin Szeliga|Advanced Analysis Techniques|[Revolutionary R integration in SQL Server 2016](#sessionid:-47243)
-16:30:00|Filip Vitek|Advanced Analysis Techniques|[Using offline shopping data to boost e-shop sales](#sessionid:-49760)
-16:30:00|Sam Lester|BI Information Delivery|[Power BI Desktop – Leveraging the magic of Power BI - ON-PREM](#sessionid:-49961)
+09:00:00|Marek Chmel|Enterprise Database Administration  Deployment|[SQL Server 2016 Security Enhancements](#sessionid-47104)
+09:00:00|LEONEL ABREU|BI Information Delivery|[Reporting Services 2016, a reborn product](#sessionid-49130)
+10:15:00|Miloš Radivojević|Application  Database Development|[What Application Developers Should Know About SQL Server?](#sessionid-47081)
+10:15:00|Peter Myers|BI Platform Architecture, Development  Administration|[Azure Machine Learning: From Design to Integration](#sessionid-49369)
+12:45:00|Zoltán Horváth|BI Platform Architecture, Development  Administration|[Top 10 SSAS Solution Design Best Practices](#sessionid-46896)
+12:45:00|Volodymyr Usarskyy|Application  Database Development|[To NHibernate or not to NHibernate](#sessionid-49160)
+14:00:00|Andrzej Kukula|BI Platform Architecture, Development  Administration|[Easy ETL with Biml](#sessionid-48715)
+14:00:00|Sam Lester|BI Information Delivery|[Power BI – “5 Minutes to WOW”, but HOW?](#sessionid-49962)
+15:15:00|Marcin Szeliga|Advanced Analysis Techniques|[Revolutionary R integration in SQL Server 2016](#sessionid-47243)
+16:30:00|Filip Vitek|Advanced Analysis Techniques|[Using offline shopping data to boost e-shop sales](#sessionid-49760)
+16:30:00|Sam Lester|BI Information Delivery|[Power BI Desktop – Leveraging the magic of Power BI - ON-PREM](#sessionid-49961)
 #  
 #### SessionID: 47104
 # SQL Server 2016 Security Enhancements

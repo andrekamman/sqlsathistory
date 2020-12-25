@@ -2,16 +2,16 @@
 # SQLSaturday #251 - Paris 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Charles-Henri Sauget|Track 1 - Business Intelligence|[SQL2014, a new breath for SSAS ? ](#sessionid:-11835)
-00:00:00|Florian Eiden|Track 1 - Business Intelligence|[Proposer une interface de saisie dans un projet décisionnel sous SQL Server 2012](#sessionid:-14289)
-00:00:00|Hugo Kornelis|Track 2 - Database Engine|[Inside the Columnstore Index - Deep Dive](#sessionid:-15082)
-00:00:00|Jean-Pierre Riehl|Track 1 - Business Intelligence|[PowerBI](#sessionid:-16254)
-00:00:00|Jen Stirrup|Track 1 - Business Intelligence|[Data Visualisation with Hadoop Mashups, Power View and Excel 2013](#sessionid:-16541)
-00:00:00|David Barbarin|Track 2 - Database Engine|[SQL Traces vs Extended Events](#sessionid:-20683)
-00:00:00|GUSS GUSS|Track 3 - Spécial Etudiants|[Panorama de l'écosystème Microsoft Data Platform](#sessionid:-34605)
-00:00:00|GUSS GUSS|Track 3 - Spécial Etudiants|[Les métiers de la Business Intelligence](#sessionid:-34606)
-00:00:00|GUSS GUSS|Track 3 - Spécial Etudiants|[Le métier de DBA](#sessionid:-34607)
-00:00:00|Allan Mitchell|Track 2 - Database Engine|[Let's Jive with Hive](#sessionid:-9301)
+00:00:00|Charles-Henri Sauget|Track 1 - Business Intelligence|[SQL2014, a new breath for SSAS ? ](#sessionid-11835)
+00:00:00|Florian Eiden|Track 1 - Business Intelligence|[Proposer une interface de saisie dans un projet décisionnel sous SQL Server 2012](#sessionid-14289)
+00:00:00|Hugo Kornelis|Track 2 - Database Engine|[Inside the Columnstore Index - Deep Dive](#sessionid-15082)
+00:00:00|Jean-Pierre Riehl|Track 1 - Business Intelligence|[PowerBI](#sessionid-16254)
+00:00:00|Jen Stirrup|Track 1 - Business Intelligence|[Data Visualisation with Hadoop Mashups, Power View and Excel 2013](#sessionid-16541)
+00:00:00|David Barbarin|Track 2 - Database Engine|[SQL Traces vs Extended Events](#sessionid-20683)
+00:00:00|GUSS GUSS|Track 3 - Spécial Etudiants|[Panorama de l'écosystème Microsoft Data Platform](#sessionid-34605)
+00:00:00|GUSS GUSS|Track 3 - Spécial Etudiants|[Les métiers de la Business Intelligence](#sessionid-34606)
+00:00:00|GUSS GUSS|Track 3 - Spécial Etudiants|[Le métier de DBA](#sessionid-34607)
+00:00:00|Allan Mitchell|Track 2 - Database Engine|[Let's Jive with Hive](#sessionid-9301)
 #  
 #### SessionID: 11835
 # SQL2014, a new breath for SSAS ? 

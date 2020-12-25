@@ -2,20 +2,20 @@
 # SQLSaturday #135 - Brisbane 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Greg Low|SQL Server|[Better Together: Merge, Partitioning, ColumnStore ](#sessionid:-14826)
-00:00:00|Peter Ward|Mixed|[If you had $10K what would you spend it on?](#sessionid:-22056)
-00:00:00|Peter Ward|SQL Server|[The Dark Art of Performance Tuning](#sessionid:-22057)
-00:00:00|Paul te Braak|Business Intelligence |[Tabular Modelling and Design Concepts](#sessionid:-22376)
-00:00:00|Rob Farley|Mixed|[Query Tuning Using Lessons Learned from SSIS](#sessionid:-23208)
-00:00:00|Rob Farley|SQL Server|[Analytic T-SQL Functions in 2012](#sessionid:-23209)
-00:00:00|Rob Farley|Business Intelligence |[The MERGE Statement - T-SQL's Swiss Army Knife](#sessionid:-23210)
-00:00:00|Rob Risetto|SQL Server|[Troubleshooting SQL Issues using Ring Buffers](#sessionid:-23236)
-00:00:00|Rod Colledge|Business Intelligence |[A Lap Around SQL Azure](#sessionid:-23382)
-00:00:00|Rod Colledge|Business Intelligence |[ BI Architecture with SQL 2012  SharePoint 2010](#sessionid:-23383)
-00:00:00|Roger Noble|Business Intelligence |[Visualising  your data with PivotViewer](#sessionid:-23413)
-00:00:00|Warwick Rudd|SQL Server|[Keeping the light's on with SQL 2012 Always On](#sessionid:-27660)
-00:00:00|Heidi Wilson|Mixed|[Introducing Contained Databases in SQL Server 2012](#sessionid:-34649)
-00:00:00|Peter O'Gorman|Mixed|[3D Glasses for SQL Server Error Logs](#sessionid:-9061)
+00:00:00|Greg Low|SQL Server|[Better Together: Merge, Partitioning, ColumnStore ](#sessionid-14826)
+00:00:00|Peter Ward|Mixed|[If you had $10K what would you spend it on?](#sessionid-22056)
+00:00:00|Peter Ward|SQL Server|[The Dark Art of Performance Tuning](#sessionid-22057)
+00:00:00|Paul te Braak|Business Intelligence |[Tabular Modelling and Design Concepts](#sessionid-22376)
+00:00:00|Rob Farley|Mixed|[Query Tuning Using Lessons Learned from SSIS](#sessionid-23208)
+00:00:00|Rob Farley|SQL Server|[Analytic T-SQL Functions in 2012](#sessionid-23209)
+00:00:00|Rob Farley|Business Intelligence |[The MERGE Statement - T-SQL's Swiss Army Knife](#sessionid-23210)
+00:00:00|Rob Risetto|SQL Server|[Troubleshooting SQL Issues using Ring Buffers](#sessionid-23236)
+00:00:00|Rod Colledge|Business Intelligence |[A Lap Around SQL Azure](#sessionid-23382)
+00:00:00|Rod Colledge|Business Intelligence |[ BI Architecture with SQL 2012  SharePoint 2010](#sessionid-23383)
+00:00:00|Roger Noble|Business Intelligence |[Visualising  your data with PivotViewer](#sessionid-23413)
+00:00:00|Warwick Rudd|SQL Server|[Keeping the light's on with SQL 2012 Always On](#sessionid-27660)
+00:00:00|Heidi Wilson|Mixed|[Introducing Contained Databases in SQL Server 2012](#sessionid-34649)
+00:00:00|Peter O'Gorman|Mixed|[3D Glasses for SQL Server Error Logs](#sessionid-9061)
 #  
 #### SessionID: 14826
 # Better Together: Merge, Partitioning, ColumnStore 

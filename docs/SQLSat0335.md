@@ -2,12 +2,12 @@
 # SQLSaturday #335 - Athens 2014
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Mihail Mateev|Track 1|[Node.js and Open Source Software Development on Microsoft Azure](#sessionid:-20355)
-00:00:00|Satya Jayanty|Track 1|[SQL Server Data platform upgrade Techniques, best practices  notes from the field](#sessionid:-25055)
-00:00:00|Stelios Tzavaras|Track 1|[AlwaysOn Availability Groups: Offloading reporting workloads to secondary replicas](#sessionid:-25251)
-00:00:00|Kevin Boles|Track 1|[Common TSQL Mistakes](#sessionid:-26471)
-00:00:00|Kevin Boles|Track 1|[File IO Stalls and Wait Stats: Tune Like a Guru!](#sessionid:-26472)
-00:00:00|Antonios Chatzipavlis|Track 1|[Configuring SQL Server](#sessionid:-9689)
+00:00:00|Mihail Mateev|Track 1|[Node.js and Open Source Software Development on Microsoft Azure](#sessionid-20355)
+00:00:00|Satya Jayanty|Track 1|[SQL Server Data platform upgrade Techniques, best practices  notes from the field](#sessionid-25055)
+00:00:00|Stelios Tzavaras|Track 1|[AlwaysOn Availability Groups: Offloading reporting workloads to secondary replicas](#sessionid-25251)
+00:00:00|Kevin Boles|Track 1|[Common TSQL Mistakes](#sessionid-26471)
+00:00:00|Kevin Boles|Track 1|[File IO Stalls and Wait Stats: Tune Like a Guru!](#sessionid-26472)
+00:00:00|Antonios Chatzipavlis|Track 1|[Configuring SQL Server](#sessionid-9689)
 #  
 #### SessionID: 20355
 # Node.js and Open Source Software Development on Microsoft Azure

@@ -2,14 +2,14 @@
 # SQLSaturday #709 - Belgium 2018
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Cédric Charlier|BI DEV|[Graphs ... graphs everywhere!](#sessionid:-70296)
-10:00:00|Christopher Adkin|BI DEV|[Continuous Integration Pipelines With Jenkins, Docker and SQL Server](#sessionid:-71859)
-11:20:00|Andrew Pruski|Application  Database Development|[Partitioning 101](#sessionid:-70305)
-11:20:00|Sander Stad|BI DEV|[PowerShell - Grow Your Script From Simple to Module](#sessionid:-72086)
-13:20:00|Sander van der hoeff|DBA|[SQL Server under Pressure: Can I Fix it?](#sessionid:-70421)
-13:20:00|Callum Green|BI DEV|[Embedding PowerApps into a Power BI Dashboard](#sessionid:-73187)
-14:40:00|Simon Whiteley|BI DEV|[Modern Data Warehousing - The Lambda Approach to Azure BI](#sessionid:-70313)
-14:40:00|Nico Jacobs|BI DEV|[When the ‘bug’ turns out to be a feature](#sessionid:-70336)
+10:00:00|Cédric Charlier|BI DEV|[Graphs ... graphs everywhere!](#sessionid-70296)
+10:00:00|Christopher Adkin|BI DEV|[Continuous Integration Pipelines With Jenkins, Docker and SQL Server](#sessionid-71859)
+11:20:00|Andrew Pruski|Application  Database Development|[Partitioning 101](#sessionid-70305)
+11:20:00|Sander Stad|BI DEV|[PowerShell - Grow Your Script From Simple to Module](#sessionid-72086)
+13:20:00|Sander van der hoeff|DBA|[SQL Server under Pressure: Can I Fix it?](#sessionid-70421)
+13:20:00|Callum Green|BI DEV|[Embedding PowerApps into a Power BI Dashboard](#sessionid-73187)
+14:40:00|Simon Whiteley|BI DEV|[Modern Data Warehousing - The Lambda Approach to Azure BI](#sessionid-70313)
+14:40:00|Nico Jacobs|BI DEV|[When the ‘bug’ turns out to be a feature](#sessionid-70336)
 #  
 #### SessionID: 70296
 # Graphs ... graphs everywhere!

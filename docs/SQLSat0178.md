@@ -2,18 +2,18 @@
 # SQLSaturday #178 - Moscow 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Dmitriy Kostylev|DBA|[Администрирование SQL Server для начинающих (1/2)](#sessionid:-13049)
-00:00:00|Dmitriy Kostylev|DBA|[Администрирование SQL Server для начинающих (2/2)](#sessionid:-13050)
-00:00:00|Dmitri Korotkevitch|DBD|["Это Моё" или вечная сага о блокировках и дедлоках](#sessionid:-13266)
-00:00:00|Dmitri Korotkevitch|DBD|[Дизайн для Производительности](#sessionid:-13267)
-00:00:00|Вячеслав Гилев|DBA|[Методика поиска проблем в 1С через SQL Server](#sessionid:-14636)
-00:00:00|Ivan Kosyakov|BI|[Бизнес-аналитикав SharePoint 2013](#sessionid:-15453)
-00:00:00|Mikhail Komarov|DBA|[Private cloud and SQL 2012](#sessionid:-18665)
-00:00:00|Andrey Korshikov|BI|[Reporting Services - от простого к сложному](#sessionid:-18814)
-00:00:00|Mihail Mateev|DBD|[Spatial Data and Windows Azure SQL Database](#sessionid:-20270)
-00:00:00|Mihail Mateev|BI|[Windows Azure SQL Reporting for App developers](#sessionid:-20271)
-00:00:00|Dmitry Pilugin|DBD|[Внутри оптимизатора запросов](#sessionid:-22164)
-00:00:00|Sergey Olontsev|BI|[Change Data Capture, Change Tracking и SSIS 2012](#sessionid:-24364)
+00:00:00|Dmitriy Kostylev|DBA|[Администрирование SQL Server для начинающих (1/2)](#sessionid-13049)
+00:00:00|Dmitriy Kostylev|DBA|[Администрирование SQL Server для начинающих (2/2)](#sessionid-13050)
+00:00:00|Dmitri Korotkevitch|DBD|["Это Моё" или вечная сага о блокировках и дедлоках](#sessionid-13266)
+00:00:00|Dmitri Korotkevitch|DBD|[Дизайн для Производительности](#sessionid-13267)
+00:00:00|Вячеслав Гилев|DBA|[Методика поиска проблем в 1С через SQL Server](#sessionid-14636)
+00:00:00|Ivan Kosyakov|BI|[Бизнес-аналитикав SharePoint 2013](#sessionid-15453)
+00:00:00|Mikhail Komarov|DBA|[Private cloud and SQL 2012](#sessionid-18665)
+00:00:00|Andrey Korshikov|BI|[Reporting Services - от простого к сложному](#sessionid-18814)
+00:00:00|Mihail Mateev|DBD|[Spatial Data and Windows Azure SQL Database](#sessionid-20270)
+00:00:00|Mihail Mateev|BI|[Windows Azure SQL Reporting for App developers](#sessionid-20271)
+00:00:00|Dmitry Pilugin|DBD|[Внутри оптимизатора запросов](#sessionid-22164)
+00:00:00|Sergey Olontsev|BI|[Change Data Capture, Change Tracking и SSIS 2012](#sessionid-24364)
 #  
 #### SessionID: 13049
 # Администрирование SQL Server для начинающих (1/2)

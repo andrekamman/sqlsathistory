@@ -2,12 +2,12 @@
 # SQLSaturday #456 - Auckland 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Leila Etaati|SQL Saturday Main Track|[Being Smarter with Azure Machine Learning](#sessionid:-39807)
-11:00:00|Warwick Rudd|SQL Saturday Main Track|[Mission Critical SQL Server and You](#sessionid:-38049)
-13:00:00|Aben Samuel|SQL Saturday Main Track|[Deep dive into Running SQL Platform on Azure IAAS](#sessionid:-37918)
-13:00:00|Martin Catherall|SQL Saturday Main Track|[SQL Developer Tips and Tricks](#sessionid:-40295)
-14:00:00|Dave Dustin|SQL Saturday Main Track|[Myths and misconceptions](#sessionid:-40163)
-15:30:00|Reza Rad|SQL Saturday Main Track|[Power BI; Amazing Things You Can Do](#sessionid:-39797)
+10:00:00|Leila Etaati|SQL Saturday Main Track|[Being Smarter with Azure Machine Learning](#sessionid-39807)
+11:00:00|Warwick Rudd|SQL Saturday Main Track|[Mission Critical SQL Server and You](#sessionid-38049)
+13:00:00|Aben Samuel|SQL Saturday Main Track|[Deep dive into Running SQL Platform on Azure IAAS](#sessionid-37918)
+13:00:00|Martin Catherall|SQL Saturday Main Track|[SQL Developer Tips and Tricks](#sessionid-40295)
+14:00:00|Dave Dustin|SQL Saturday Main Track|[Myths and misconceptions](#sessionid-40163)
+15:30:00|Reza Rad|SQL Saturday Main Track|[Power BI; Amazing Things You Can Do](#sessionid-39797)
 #  
 #### SessionID: 39807
 # Being Smarter with Azure Machine Learning

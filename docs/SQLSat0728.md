@@ -2,18 +2,18 @@
 # SQLSaturday #728 - Catania 2018
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:05:00|Danilo Dominici|Advanced|[SQL Server on Linux](#sessionid:-71482)
-10:05:00|Gianluca Sartori|Begineer|[SQL Server Infernals - A Beginner’s Guide to Worst Practices](#sessionid:-72004)
-11:25:00|Dr. Subramani Paramasivam|Begineer|[Cert Prep:70-778: Analysing  Visualizing Data with Power BI](#sessionid:-71466)
-11:25:00|Arnie Rowland|Advanced|[Magical Memory Moments](#sessionid:-77164)
-12:30:00|Gilberto Zampatti|Advanced|[Il Transaction Log: cos'è realmente e come si gestisce](#sessionid:-73185)
-12:30:00|Gianluca Hotz|Begineer|[SQL Server  GDPR](#sessionid:-73527)
-14:30:00|Luca Zavarella|Advanced|[Decision Trees: the Machine Learning "Magic" Unveiled](#sessionid:-71501)
-14:30:00|Marcelo Fernandes|Begineer|[Thinking our of the Box! - SMB 3.0](#sessionid:-71703)
-15:35:00|Marco Obinu|Advanced|[SQL Server performance tuning on Azure IaaS](#sessionid:-71515)
-15:35:00|Pasquale Ceglie|Begineer|[SQL Server Temporal tables: Viaggiare nel tempo con SQL Server](#sessionid:-72384)
-16:55:00|Rudi Bruchez|Begineer|[From relational to Multimodel : Azure Cosmos DB](#sessionid:-71470)
-16:55:00|Sergio Govoni|Advanced|[SQL Server 2017 Graph Database](#sessionid:-73510)
+10:05:00|Danilo Dominici|Advanced|[SQL Server on Linux](#sessionid-71482)
+10:05:00|Gianluca Sartori|Begineer|[SQL Server Infernals - A Beginner’s Guide to Worst Practices](#sessionid-72004)
+11:25:00|Dr. Subramani Paramasivam|Begineer|[Cert Prep:70-778: Analysing  Visualizing Data with Power BI](#sessionid-71466)
+11:25:00|Arnie Rowland|Advanced|[Magical Memory Moments](#sessionid-77164)
+12:30:00|Gilberto Zampatti|Advanced|[Il Transaction Log: cos'è realmente e come si gestisce](#sessionid-73185)
+12:30:00|Gianluca Hotz|Begineer|[SQL Server  GDPR](#sessionid-73527)
+14:30:00|Luca Zavarella|Advanced|[Decision Trees: the Machine Learning "Magic" Unveiled](#sessionid-71501)
+14:30:00|Marcelo Fernandes|Begineer|[Thinking our of the Box! - SMB 3.0](#sessionid-71703)
+15:35:00|Marco Obinu|Advanced|[SQL Server performance tuning on Azure IaaS](#sessionid-71515)
+15:35:00|Pasquale Ceglie|Begineer|[SQL Server Temporal tables: Viaggiare nel tempo con SQL Server](#sessionid-72384)
+16:55:00|Rudi Bruchez|Begineer|[From relational to Multimodel : Azure Cosmos DB](#sessionid-71470)
+16:55:00|Sergio Govoni|Advanced|[SQL Server 2017 Graph Database](#sessionid-73510)
 #  
 #### SessionID: 71482
 # SQL Server on Linux

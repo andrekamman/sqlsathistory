@@ -2,12 +2,12 @@
 # SQLSaturday #533 - Bangladesh 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|MJ Ferdous|Enterprise Database Administration  Deployment|[Everything built-in SQL Server 2016](#sessionid:-56449)
-11:00:00|Md. Sultan-E-Alam Khan|Enterprise Database Administration  Deployment|[Securing your data with SQL Server 2016](#sessionid:-52474)
-12:00:00|Ahsan Kabir|Cloud Application Development  Deployment|[Deep Drive on Big data using HDInsight](#sessionid:-49387)
-14:00:00|Mohammad Morshed Sayem|Application  Database Development|[Performance Gain Through Columnstore Index](#sessionid:-52543)
-14:50:00|Zularbine Kamal|Cloud Application Development  Deployment|[Cloud Data Platform](#sessionid:-56428)
-15:50:00|Saifullah Al Azad|Application  Database Development|[Reporting Service with Power BI](#sessionid:-47187)
+10:00:00|MJ Ferdous|Enterprise Database Administration  Deployment|[Everything built-in SQL Server 2016](#sessionid-56449)
+11:00:00|Md. Sultan-E-Alam Khan|Enterprise Database Administration  Deployment|[Securing your data with SQL Server 2016](#sessionid-52474)
+12:00:00|Ahsan Kabir|Cloud Application Development  Deployment|[Deep Drive on Big data using HDInsight](#sessionid-49387)
+14:00:00|Mohammad Morshed Sayem|Application  Database Development|[Performance Gain Through Columnstore Index](#sessionid-52543)
+14:50:00|Zularbine Kamal|Cloud Application Development  Deployment|[Cloud Data Platform](#sessionid-56428)
+15:50:00|Saifullah Al Azad|Application  Database Development|[Reporting Service with Power BI](#sessionid-47187)
 #  
 #### SessionID: 56449
 # Everything built-in SQL Server 2016

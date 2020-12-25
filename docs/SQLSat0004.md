@@ -2,18 +2,18 @@
 # SQLSaturday #4 Tweener(Sat) - Orlando 2008
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Andy Warren|SQL for DBA's|[Statistics in SQL Server](#sessionid:-34940)
-00:00:00|Michael Antonovich|SQL for Developers|[Using CASE in TSQL](#sessionid:-34946)
-00:00:00|Robert Cain|SQL for DBA's|[Introduction to SQL Server Full Text Searching](#sessionid:-34949)
-00:00:00|Brian Knight|SQL for DBA's|[SQL Server 2008 New Feature Overview](#sessionid:-34979)
-00:00:00|Barry Ralston|Business Intelligence|[Home Runs and DMX, Intro to Microsoft Data Mining](#sessionid:-35021)
-00:00:00|Chris Rock|SQL for DBA's|[Using DDL Triggers](#sessionid:-35066)
-00:00:00|Judy Pipia|SQL for Developers|[SOA Using SQL Server 2005 Service Broker](#sessionid:-35240)
-00:00:00|Jon Winer|SQL for Developers|[CLR User Defined Functions - Real World Examples](#sessionid:-35246)
-00:00:00|Kendal Van Dyke|SQL for Developers|[XML Features in SQL 2005](#sessionid:-35269)
-00:00:00|Rushabh Mehta|Business Intelligence|[Introduction to Master Data Management (MDM)](#sessionid:-35391)
-00:00:00|Robert Skoglund|Business Intelligence|[Analysis Services 2005 – Tips  Tricks](#sessionid:-35398)
-00:00:00|Wes Dumey|Business Intelligence|[Using SSIS to Solve Common Business Problems](#sessionid:-35505)
+00:00:00|Andy Warren|SQL for DBA's|[Statistics in SQL Server](#sessionid-34940)
+00:00:00|Michael Antonovich|SQL for Developers|[Using CASE in TSQL](#sessionid-34946)
+00:00:00|Robert Cain|SQL for DBA's|[Introduction to SQL Server Full Text Searching](#sessionid-34949)
+00:00:00|Brian Knight|SQL for DBA's|[SQL Server 2008 New Feature Overview](#sessionid-34979)
+00:00:00|Barry Ralston|Business Intelligence|[Home Runs and DMX, Intro to Microsoft Data Mining](#sessionid-35021)
+00:00:00|Chris Rock|SQL for DBA's|[Using DDL Triggers](#sessionid-35066)
+00:00:00|Judy Pipia|SQL for Developers|[SOA Using SQL Server 2005 Service Broker](#sessionid-35240)
+00:00:00|Jon Winer|SQL for Developers|[CLR User Defined Functions - Real World Examples](#sessionid-35246)
+00:00:00|Kendal Van Dyke|SQL for Developers|[XML Features in SQL 2005](#sessionid-35269)
+00:00:00|Rushabh Mehta|Business Intelligence|[Introduction to Master Data Management (MDM)](#sessionid-35391)
+00:00:00|Robert Skoglund|Business Intelligence|[Analysis Services 2005 – Tips  Tricks](#sessionid-35398)
+00:00:00|Wes Dumey|Business Intelligence|[Using SSIS to Solve Common Business Problems](#sessionid-35505)
 #  
 #### SessionID: 34940
 # Statistics in SQL Server

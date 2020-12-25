@@ -2,18 +2,18 @@
 # SQLSaturday #843 - Québec 2019
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-08:45:00|Steve Simon|BI  Infonuagique|[An introduction to Data Mining  with SQL Server 2017](#sessionid:-88294)
-08:45:00|Manuel Pineda|Développement|[Migration de base données (fin de support 2008r2)](#sessionid:-89228)
-10:15:00|Steve Simon|Développement|[Efficient and Effective coding of Stored Procedures](#sessionid:-88296)
-10:15:00|Clay Jackson|Développement|[DevOps 101 for DBAs and Database Developers](#sessionid:-88338)
-10:15:00|Clay Jackson|BI  Infonuagique|[Using Database Replication to Make Your Oracle Data Available in SQLServer](#sessionid:-88340)
-10:15:00|Michelle Gutzait|BI  Infonuagique|[Azure Database, Azure Machine or Azure Managed Instance? Why, whe](#sessionid:-91366)
-11:30:00|Franck Mercier|BI  Infonuagique|[Azure Cosmos DB](#sessionid:-89040)
-11:30:00|Michelle Gutzait|Développement|[Running Microsoft Database Migration Assistant (DMA) on many inst](#sessionid:-91365)
-13:30:00|John Miner|Développement|[Staging data for Azure SQL services](#sessionid:-88905)
-13:30:00|Franck Mercier|BI  Infonuagique|[Déployer une solution complète et sécurisée d’analyses de données dans Azur](#sessionid:-89039)
-14:45:00|Christian Cote|BI  Infonuagique|[Power BI Report Server dans  votre entreprise](#sessionid:-88172)
-14:45:00|John Miner|Développement|[Continuous Deployment  Continuous Integration with Azure DevOps  Visual Studio](#sessionid:-88906)
+08:45:00|Steve Simon|BI  Infonuagique|[An introduction to Data Mining  with SQL Server 2017](#sessionid-88294)
+08:45:00|Manuel Pineda|Développement|[Migration de base données (fin de support 2008r2)](#sessionid-89228)
+10:15:00|Steve Simon|Développement|[Efficient and Effective coding of Stored Procedures](#sessionid-88296)
+10:15:00|Clay Jackson|Développement|[DevOps 101 for DBAs and Database Developers](#sessionid-88338)
+10:15:00|Clay Jackson|BI  Infonuagique|[Using Database Replication to Make Your Oracle Data Available in SQLServer](#sessionid-88340)
+10:15:00|Michelle Gutzait|BI  Infonuagique|[Azure Database, Azure Machine or Azure Managed Instance? Why, whe](#sessionid-91366)
+11:30:00|Franck Mercier|BI  Infonuagique|[Azure Cosmos DB](#sessionid-89040)
+11:30:00|Michelle Gutzait|Développement|[Running Microsoft Database Migration Assistant (DMA) on many inst](#sessionid-91365)
+13:30:00|John Miner|Développement|[Staging data for Azure SQL services](#sessionid-88905)
+13:30:00|Franck Mercier|BI  Infonuagique|[Déployer une solution complète et sécurisée d’analyses de données dans Azur](#sessionid-89039)
+14:45:00|Christian Cote|BI  Infonuagique|[Power BI Report Server dans  votre entreprise](#sessionid-88172)
+14:45:00|John Miner|Développement|[Continuous Deployment  Continuous Integration with Azure DevOps  Visual Studio](#sessionid-88906)
 #  
 #### SessionID: 88294
 # An introduction to Data Mining  with SQL Server 2017

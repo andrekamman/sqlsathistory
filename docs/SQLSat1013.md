@@ -2,15 +2,15 @@
 # SQLSaturday #1013 – Malaysia – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Patrick Gallucci|Cloud Application Development  Deployment|[Build a Complete Azure Data Platform in 1 Hour](#sessionid:-107210)
-10:00:00|Mohammad Darab|Enterprise Database Administration  Deployment|[Big Data Clusters for the Absolute Beginner](#sessionid:-107606)
-10:00:00|Jasmin Azemović|Application  Database Development|[Handle Data with Care](#sessionid:-107831)
-11:00:00|Pio Balistoy|Enterprise Database Administration  Deployment|[Azure SQL - What to Use When](#sessionid:-107213)
-11:00:00|Rui Romano|BI Platform Architecture, Development  Administration|[Power BI Tips, Tricks  Hacks from the Trenches](#sessionid:-107594)
-11:00:00|Hamid J. Fard|Enterprise Database Administration  Deployment|[Optimum Environment for SQL Server](#sessionid:-107661)
-12:00:00|Amit R S Bansal|Enterprise Database Administration  Deployment|[Real-World Query Tuning Examples](#sessionid:-107704)
-12:00:00|André Melancia|Advanced Analysis Techniques|[Machine Learning is full of stars: An Azure Story](#sessionid:-107752)
-12:00:00|Tiago Balabuch|Cloud Application Development  Deployment|[Azure SQL Database Hyperscale: Bigger, Bigger and Bigger!](#sessionid:-107862)
+10:00:00|Patrick Gallucci|Cloud Application Development  Deployment|[Build a Complete Azure Data Platform in 1 Hour](#sessionid-107210)
+10:00:00|Mohammad Darab|Enterprise Database Administration  Deployment|[Big Data Clusters for the Absolute Beginner](#sessionid-107606)
+10:00:00|Jasmin Azemović|Application  Database Development|[Handle Data with Care](#sessionid-107831)
+11:00:00|Pio Balistoy|Enterprise Database Administration  Deployment|[Azure SQL - What to Use When](#sessionid-107213)
+11:00:00|Rui Romano|BI Platform Architecture, Development  Administration|[Power BI Tips, Tricks  Hacks from the Trenches](#sessionid-107594)
+11:00:00|Hamid J. Fard|Enterprise Database Administration  Deployment|[Optimum Environment for SQL Server](#sessionid-107661)
+12:00:00|Amit R S Bansal|Enterprise Database Administration  Deployment|[Real-World Query Tuning Examples](#sessionid-107704)
+12:00:00|André Melancia|Advanced Analysis Techniques|[Machine Learning is full of stars: An Azure Story](#sessionid-107752)
+12:00:00|Tiago Balabuch|Cloud Application Development  Deployment|[Azure SQL Database Hyperscale: Bigger, Bigger and Bigger!](#sessionid-107862)
 #  
 #### SessionID: 107210
 # Build a Complete Azure Data Platform in 1 Hour

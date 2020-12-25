@@ -2,7 +2,7 @@
 # SQLSaturday #458 - Moscow 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-11:15:00|Tobias Koprowski|DBA|[AD 2015. 2 AM. A Disaster just began...](#sessionid:-38785)
+11:15:00|Tobias Koprowski|DBA|[AD 2015. 2 AM. A Disaster just began...](#sessionid-38785)
 #  
 #### SessionID: 38785
 # AD 2015. 2 AM. A Disaster just began...

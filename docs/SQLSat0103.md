@@ -2,18 +2,18 @@
 # SQLSaturday #103 - Curacao 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Roy Ernest|DBA Tracks|[What, When and Who - Auditing 101](#sessionid:-23482)
-00:00:00|Tim Radney|DBA Tracks|[Getting involved and Getting ahead](#sessionid:-26676)
-00:00:00|William E Pearson III|BI and T-SQL tracks|[Serene Velocity:  Reporting Services and SSAS 2008](#sessionid:-27843)
-00:00:00|Rohan Joackhim|DBA Tracks|[SQL Server 2008 Policy-Based Management (PBM)](#sessionid:-32522)
-00:00:00|Rob Volk|BI and T-SQL tracks|[Revenge: The SQL Part 2: The Sequel!](#sessionid:-32564)
-00:00:00|Rob Volk|BI and T-SQL tracks|[Revenge: The SQL!](#sessionid:-32565)
-00:00:00|Rob Volk|BI and T-SQL tracks|[Tame Your Unruly Data...With Constraints!](#sessionid:-32567)
-00:00:00|Roy Ernest|DBA Tracks|[What when and why - Resource Governor](#sessionid:-32668)
-00:00:00|Tim Radney|DBA Tracks|[You Inherited a Database, Now What?](#sessionid:-33614)
-00:00:00|Tim Radney|DBA Tracks|[It is TEMPDB, Why Should You Care?](#sessionid:-33615)
-00:00:00|William E Pearson III|BI and T-SQL tracks|[Getting Started with MDX](#sessionid:-34368)
-00:00:00|William E Pearson III|BI and T-SQL tracks|[PowerPivot for Excel 2010](#sessionid:-34370)
+00:00:00|Roy Ernest|DBA Tracks|[What, When and Who - Auditing 101](#sessionid-23482)
+00:00:00|Tim Radney|DBA Tracks|[Getting involved and Getting ahead](#sessionid-26676)
+00:00:00|William E Pearson III|BI and T-SQL tracks|[Serene Velocity:  Reporting Services and SSAS 2008](#sessionid-27843)
+00:00:00|Rohan Joackhim|DBA Tracks|[SQL Server 2008 Policy-Based Management (PBM)](#sessionid-32522)
+00:00:00|Rob Volk|BI and T-SQL tracks|[Revenge: The SQL Part 2: The Sequel!](#sessionid-32564)
+00:00:00|Rob Volk|BI and T-SQL tracks|[Revenge: The SQL!](#sessionid-32565)
+00:00:00|Rob Volk|BI and T-SQL tracks|[Tame Your Unruly Data...With Constraints!](#sessionid-32567)
+00:00:00|Roy Ernest|DBA Tracks|[What when and why - Resource Governor](#sessionid-32668)
+00:00:00|Tim Radney|DBA Tracks|[You Inherited a Database, Now What?](#sessionid-33614)
+00:00:00|Tim Radney|DBA Tracks|[It is TEMPDB, Why Should You Care?](#sessionid-33615)
+00:00:00|William E Pearson III|BI and T-SQL tracks|[Getting Started with MDX](#sessionid-34368)
+00:00:00|William E Pearson III|BI and T-SQL tracks|[PowerPivot for Excel 2010](#sessionid-34370)
 #  
 #### SessionID: 23482
 # What, When and Who - Auditing 101

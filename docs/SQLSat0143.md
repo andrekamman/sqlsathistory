@@ -2,15 +2,15 @@
 # SQLSaturday #143 - Honolulu 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Matt Hollingsworth|Track 2|[Building a BI Semantic Model for Power View](#sessionid:-11729)
-00:00:00|Matt Hollingsworth|Track 2|[SQL Server 2012 AlwaysOn Enhancements](#sessionid:-11730)
-00:00:00|Matt Hollingsworth|Track 1|[SQL Server 2012 EIM (SSIS, DQS, and MDS)](#sessionid:-11731)
-00:00:00|David Cressman|Track 2|[Advancing Data Storage: How Flash-Optimized Storag](#sessionid:-12910)
-00:00:00|Wen He|Track 1|[SQL 2012 and SharePoint 2010: Reporting Nirvana](#sessionid:-14968)
-00:00:00|Wen He|Track 1|[Self-Service BI with SharePoint - Today  Tomorrow](#sessionid:-14969)
-00:00:00|Rushabh Mehta|Track 2|[SSIS 2012 Management Considerations and Best Pract](#sessionid:-23102)
-00:00:00|Rushabh Mehta|Track 1|[Introduction to Master Data Management (MDM)](#sessionid:-23103)
-00:00:00|Rushabh Mehta|Track 2|[Introduction to Data Quality Services](#sessionid:-23104)
+00:00:00|Matt Hollingsworth|Track 2|[Building a BI Semantic Model for Power View](#sessionid-11729)
+00:00:00|Matt Hollingsworth|Track 2|[SQL Server 2012 AlwaysOn Enhancements](#sessionid-11730)
+00:00:00|Matt Hollingsworth|Track 1|[SQL Server 2012 EIM (SSIS, DQS, and MDS)](#sessionid-11731)
+00:00:00|David Cressman|Track 2|[Advancing Data Storage: How Flash-Optimized Storag](#sessionid-12910)
+00:00:00|Wen He|Track 1|[SQL 2012 and SharePoint 2010: Reporting Nirvana](#sessionid-14968)
+00:00:00|Wen He|Track 1|[Self-Service BI with SharePoint - Today  Tomorrow](#sessionid-14969)
+00:00:00|Rushabh Mehta|Track 2|[SSIS 2012 Management Considerations and Best Pract](#sessionid-23102)
+00:00:00|Rushabh Mehta|Track 1|[Introduction to Master Data Management (MDM)](#sessionid-23103)
+00:00:00|Rushabh Mehta|Track 2|[Introduction to Data Quality Services](#sessionid-23104)
 #  
 #### SessionID: 11729
 # Building a BI Semantic Model for Power View

@@ -2,18 +2,18 @@
 # SQLSaturday #360 - Israel 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Eitan Lipovetskey|1.Enterprise Database Administration  Development|[Spatial data type and its implementation](#sessionid:-13751)
-00:00:00|Guy Glantser|1.Enterprise Database Administration  Development|[Advanced Query Tuning Techniques](#sessionid:-14876)
-00:00:00|Ido Friedman|1.Enterprise Database Administration  Development|[Delayed Durability - SQL Server goes wild](#sessionid:-15264)
-00:00:00|Leonard Lobel|1.Enterprise Database Administration  Development|[Native File Streaming with SQL Server](#sessionid:-19110)
-00:00:00|Lior Cohen Amikam|2.BI Platform Architecture|[Managing a BI Project Successfuly](#sessionid:-19159)
-00:00:00|Matan Yungman|2.BI Platform Architecture|[The Data Loading Performance Presentation](#sessionid:-19801)
-00:00:00|Niv Feldman|2.BI Platform Architecture|[How to use MS SQL 2014  Pyramid Analytics to Deliver the best Governed Self-service solution](#sessionid:-21467)
-00:00:00|Peter Larsson|1.Enterprise Database Administration  Development|[Rethink Your Data Model and Make It Super Fast](#sessionid:-22187)
-00:00:00|Saggi Neumann|2.BI Platform Architecture|[Big Data: Become a data engineer or kick the bucket!](#sessionid:-23793)
-00:00:00|Steve Simon|2.BI Platform Architecture|[SQL Server Reporting Services Best Practices](#sessionid:-25617)
-00:00:00|amihay gonen|2.BI Platform Architecture|[harnessing the GPU power for Big Data Analytic ](#sessionid:-9074)
-00:00:00|Ronen Ariely|1.Enterprise Database Administration  Development|[SQL CLR from 2005 to 20015, Not how, but why and when](#sessionid:-9834)
+00:00:00|Eitan Lipovetskey|1.Enterprise Database Administration  Development|[Spatial data type and its implementation](#sessionid-13751)
+00:00:00|Guy Glantser|1.Enterprise Database Administration  Development|[Advanced Query Tuning Techniques](#sessionid-14876)
+00:00:00|Ido Friedman|1.Enterprise Database Administration  Development|[Delayed Durability - SQL Server goes wild](#sessionid-15264)
+00:00:00|Leonard Lobel|1.Enterprise Database Administration  Development|[Native File Streaming with SQL Server](#sessionid-19110)
+00:00:00|Lior Cohen Amikam|2.BI Platform Architecture|[Managing a BI Project Successfuly](#sessionid-19159)
+00:00:00|Matan Yungman|2.BI Platform Architecture|[The Data Loading Performance Presentation](#sessionid-19801)
+00:00:00|Niv Feldman|2.BI Platform Architecture|[How to use MS SQL 2014  Pyramid Analytics to Deliver the best Governed Self-service solution](#sessionid-21467)
+00:00:00|Peter Larsson|1.Enterprise Database Administration  Development|[Rethink Your Data Model and Make It Super Fast](#sessionid-22187)
+00:00:00|Saggi Neumann|2.BI Platform Architecture|[Big Data: Become a data engineer or kick the bucket!](#sessionid-23793)
+00:00:00|Steve Simon|2.BI Platform Architecture|[SQL Server Reporting Services Best Practices](#sessionid-25617)
+00:00:00|amihay gonen|2.BI Platform Architecture|[harnessing the GPU power for Big Data Analytic ](#sessionid-9074)
+00:00:00|Ronen Ariely|1.Enterprise Database Administration  Development|[SQL CLR from 2005 to 20015, Not how, but why and when](#sessionid-9834)
 #  
 #### SessionID: 13751
 # Spatial data type and its implementation

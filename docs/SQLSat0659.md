@@ -2,22 +2,22 @@
 # SQLSaturday #659 - Durban 2017
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Steve Simon|BI Information Delivery|[An introduction to Data Mining  with SQL Server 2016](#sessionid:-64630)
-09:00:00|Rory Bolle|Application  Database Development|[What is a Database?](#sessionid:-66583)
-09:00:00|Michael Johnson|Advanced Analysis Techniques|[Getting started with Power BI](#sessionid:-67009)
-10:15:00|Jeanne Combrinck|Analytics and Visualization|[Exploring Twitter Campaigns, Facebook and Google Analytics data in PowerBI](#sessionid:-64896)
-10:15:00|Niels Berglund|Application  Database Development|[A Lap Around New Developer Features in SQL Server 2017](#sessionid:-66543)
-10:15:00|Ruben Meyer|Application  Database Development|[Jump Start Into SQL Development](#sessionid:-67841)
-11:30:00|Gail Shaw|Application  Database Development|[Adaptive Query Plans? What’s up with that?](#sessionid:-67152)
-11:30:00|Jonathan Pillay|Application  Database Development|[Transactions...because ACID can save you](#sessionid:-67777)
-11:30:00|Luis de Sousa|Advanced Analysis Techniques|[Get started with R](#sessionid:-69406)
-13:30:00|Sean Cremer|Application  Database Development|[Introduction to Database Design](#sessionid:-64766)
-13:30:00|Niels Berglund|Advanced Analysis Techniques|[Real World Example of Using R in SQL Server](#sessionid:-66542)
-13:30:00|James McGillivray|Information Delivery|[Shedding some light on Windowing Functions](#sessionid:-67358)
-14:45:00|Steve Simon|Information Delivery|[Efficient and Effective coding of Stored Procedures](#sessionid:-64627)
-14:45:00|Clinton van Blommestein|Application  Database Development|[Docker => Containers => Service Fabric => SQL](#sessionid:-64991)
-14:45:00|Gail Shaw|Application  Database Development|[Parameter sniffing and other cases of the confused optimiser](#sessionid:-67150)
-14:45:00|Jody Roberts|Application  Database Development|[Data without technology](#sessionid:-68447)
+09:00:00|Steve Simon|BI Information Delivery|[An introduction to Data Mining  with SQL Server 2016](#sessionid-64630)
+09:00:00|Rory Bolle|Application  Database Development|[What is a Database?](#sessionid-66583)
+09:00:00|Michael Johnson|Advanced Analysis Techniques|[Getting started with Power BI](#sessionid-67009)
+10:15:00|Jeanne Combrinck|Analytics and Visualization|[Exploring Twitter Campaigns, Facebook and Google Analytics data in PowerBI](#sessionid-64896)
+10:15:00|Niels Berglund|Application  Database Development|[A Lap Around New Developer Features in SQL Server 2017](#sessionid-66543)
+10:15:00|Ruben Meyer|Application  Database Development|[Jump Start Into SQL Development](#sessionid-67841)
+11:30:00|Gail Shaw|Application  Database Development|[Adaptive Query Plans? What’s up with that?](#sessionid-67152)
+11:30:00|Jonathan Pillay|Application  Database Development|[Transactions...because ACID can save you](#sessionid-67777)
+11:30:00|Luis de Sousa|Advanced Analysis Techniques|[Get started with R](#sessionid-69406)
+13:30:00|Sean Cremer|Application  Database Development|[Introduction to Database Design](#sessionid-64766)
+13:30:00|Niels Berglund|Advanced Analysis Techniques|[Real World Example of Using R in SQL Server](#sessionid-66542)
+13:30:00|James McGillivray|Information Delivery|[Shedding some light on Windowing Functions](#sessionid-67358)
+14:45:00|Steve Simon|Information Delivery|[Efficient and Effective coding of Stored Procedures](#sessionid-64627)
+14:45:00|Clinton van Blommestein|Application  Database Development|[Docker => Containers => Service Fabric => SQL](#sessionid-64991)
+14:45:00|Gail Shaw|Application  Database Development|[Parameter sniffing and other cases of the confused optimiser](#sessionid-67150)
+14:45:00|Jody Roberts|Application  Database Development|[Data without technology](#sessionid-68447)
 #  
 #### SessionID: 64630
 # An introduction to Data Mining  with SQL Server 2016

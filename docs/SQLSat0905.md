@@ -2,20 +2,20 @@
 # SQLSaturday #905 - Lima - BI Edition 2019
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Raul Martin Sarachaga Diaz|Analytics and Visualization|[Pre Conference Power BI in a Day](#sessionid:-96808)
-09:00:00|Alejandro Humberto Sánchez Núñez|Data Integration|[ETLs with Dataflows in Power BI](#sessionid:-95735)
-09:00:00|German Cayo|BI Platform Architecture|[Arquitectura Datawarehousing en PaaS de Microsoft Azure](#sessionid:-96797)
-10:00:00|Raul Martin Sarachaga Diaz|Advanced Analysis Techniques|[Predictive Modeling with Azure Machine Learning Services](#sessionid:-94686)
-10:00:00|Grecia Perez Malave|BI Platform Architecture|[Creating Enterprise BI Models with Azure Analysis Services](#sessionid:-95737)
-11:00:00|Alfredo Diego Amez Mendes|Data Integration|[ETLs with SQL Server Integration Services 2017](#sessionid:-96789)
-11:00:00|Martha Chávez|Data Integration|[Azure Data Factory: SSIS in the Cloud](#sessionid:-96807)
-13:00:00|Martha Chávez|BI Platform Architecture|[Working with Azure Data Lake](#sessionid:-96801)
-13:00:00|Raul Martin Sarachaga Diaz|Data Integration|[Lleva tu Warehouse a otro nivel con Azure DW](#sessionid:-98165)
-13:00:00|Alejandro Humberto Sánchez Núñez|BI Deployment|[Ciencia de Datos con R y Power BI](#sessionid:-98166)
-14:00:00|Gaston Cruz|Analytics and Visualization|[Composite Models - Power BI and Snowflake DW Integration](#sessionid:-95582)
-14:00:00|Alejandro Humberto Sánchez Núñez|BI Platform Architecture|[Power BI Optimization: M, DAX  Visualization](#sessionid:-95734)
-15:00:00|Juan Rafael|Analytics and Visualization|[Momento de Power Platform, PowerApps y PowerUsers](#sessionid:-95745)
-15:00:00|Raul Martin Sarachaga Diaz|Data Integration|[ETLs with Azure Data Factory](#sessionid:-96765)
+09:00:00|Raul Martin Sarachaga Diaz|Analytics and Visualization|[Pre Conference Power BI in a Day](#sessionid-96808)
+09:00:00|Alejandro Humberto Sánchez Núñez|Data Integration|[ETLs with Dataflows in Power BI](#sessionid-95735)
+09:00:00|German Cayo|BI Platform Architecture|[Arquitectura Datawarehousing en PaaS de Microsoft Azure](#sessionid-96797)
+10:00:00|Raul Martin Sarachaga Diaz|Advanced Analysis Techniques|[Predictive Modeling with Azure Machine Learning Services](#sessionid-94686)
+10:00:00|Grecia Perez Malave|BI Platform Architecture|[Creating Enterprise BI Models with Azure Analysis Services](#sessionid-95737)
+11:00:00|Alfredo Diego Amez Mendes|Data Integration|[ETLs with SQL Server Integration Services 2017](#sessionid-96789)
+11:00:00|Martha Chávez|Data Integration|[Azure Data Factory: SSIS in the Cloud](#sessionid-96807)
+13:00:00|Martha Chávez|BI Platform Architecture|[Working with Azure Data Lake](#sessionid-96801)
+13:00:00|Raul Martin Sarachaga Diaz|Data Integration|[Lleva tu Warehouse a otro nivel con Azure DW](#sessionid-98165)
+13:00:00|Alejandro Humberto Sánchez Núñez|BI Deployment|[Ciencia de Datos con R y Power BI](#sessionid-98166)
+14:00:00|Gaston Cruz|Analytics and Visualization|[Composite Models - Power BI and Snowflake DW Integration](#sessionid-95582)
+14:00:00|Alejandro Humberto Sánchez Núñez|BI Platform Architecture|[Power BI Optimization: M, DAX  Visualization](#sessionid-95734)
+15:00:00|Juan Rafael|Analytics and Visualization|[Momento de Power Platform, PowerApps y PowerUsers](#sessionid-95745)
+15:00:00|Raul Martin Sarachaga Diaz|Data Integration|[ETLs with Azure Data Factory](#sessionid-96765)
 #  
 #### SessionID: 96808
 # Pre Conference Power BI in a Day

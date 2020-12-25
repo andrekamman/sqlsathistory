@@ -2,15 +2,15 @@
 # SQLSaturday #138 - Sydney 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Bhavik Merchant|Smaller room|[Accelerated BI Growth with Power View  PowerPivot](#sessionid:-10417)
-00:00:00|Daniel Nolan|Smaller room|[Database Development  Agile: Strange Bedfellows?](#sessionid:-12148)
-00:00:00|Grant Paisley|Larger room|[Killer Real-World PowerPivot Examples II](#sessionid:-14721)
-00:00:00|Greg Low|Larger room|[Better Together: Merge, Partitioning, ColumnStore ](#sessionid:-14823)
-00:00:00|Julie Koesmarno|Smaller room|[DirectQuery vs Vertipaq mode in SSAS Tabular Model](#sessionid:-16901)
-00:00:00|Peter Ward|Larger room|[The Dark Art of Performance Tuning](#sessionid:-22063)
-00:00:00|Rob Farley|Larger room|[Analytic T-SQL Functions in 2012](#sessionid:-23202)
-00:00:00|Rod Colledge|Larger room|[ BI Architecture with SQL 2012  SharePoint 2010](#sessionid:-23384)
-00:00:00|Warwick Rudd|Smaller room|[Keeping the light's on with SQL 2012 Always On](#sessionid:-27662)
+00:00:00|Bhavik Merchant|Smaller room|[Accelerated BI Growth with Power View  PowerPivot](#sessionid-10417)
+00:00:00|Daniel Nolan|Smaller room|[Database Development  Agile: Strange Bedfellows?](#sessionid-12148)
+00:00:00|Grant Paisley|Larger room|[Killer Real-World PowerPivot Examples II](#sessionid-14721)
+00:00:00|Greg Low|Larger room|[Better Together: Merge, Partitioning, ColumnStore ](#sessionid-14823)
+00:00:00|Julie Koesmarno|Smaller room|[DirectQuery vs Vertipaq mode in SSAS Tabular Model](#sessionid-16901)
+00:00:00|Peter Ward|Larger room|[The Dark Art of Performance Tuning](#sessionid-22063)
+00:00:00|Rob Farley|Larger room|[Analytic T-SQL Functions in 2012](#sessionid-23202)
+00:00:00|Rod Colledge|Larger room|[ BI Architecture with SQL 2012  SharePoint 2010](#sessionid-23384)
+00:00:00|Warwick Rudd|Smaller room|[Keeping the light's on with SQL 2012 Always On](#sessionid-27662)
 #  
 #### SessionID: 10417
 # Accelerated BI Growth with Power View  PowerPivot

@@ -2,18 +2,18 @@
 # SQLSaturday #405 - Buenos Aires 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Maximiliano Damian Accotto|Administración  Deployment|[SQL en ambientes virtuales](#sessionid:-19885)
-10:00:00|Adrian Fernandez|Plataforma de Desarrollo y BI|[Big Data and Microsoft Azure](#sessionid:-36739)
-11:10:00|Javier Villegas|Administración  Deployment|[SQL Monitoring](#sessionid:-15999)
-11:10:00|Alejandro Cabanchik|Plataforma de Desarrollo y BI|[Power Query](#sessionid:-36925)
-12:20:00|Maximiliano Damian Accotto|Administración  Deployment|[Tuning avanzado para DBa#180;s](#sessionid:-19884)
-12:20:00|Carlos L Chacon|Plataforma de Desarrollo y BI|[Juez, Jurado Y  Verdugo--Una Primera Observaci#243;n de Planes de Eje](#sessionid:-35627)
-14:30:00|Carlos L Chacon|Administración  Deployment|["I Know What You Did Last Query" --SQL Server](#sessionid:-35626)
-14:30:00|Alejandro Cabanchik|Plataforma de Desarrollo y BI|[Mobile BI with Datazen](#sessionid:-36926)
-15:40:00|Adrian Fernandez|Plataforma de Desarrollo y BI|[Microsoft Azure and Internet of Things (IoT)](#sessionid:-36740)
-15:40:00|Gustavo Boismoreau|Administración  Deployment|[Administre, Diagnostique y Resuelva problemas sobre su SQL Server](#sessionid:-37114)
-16:50:00|Maximiliano Damian Accotto|Administración  Deployment|[SQL Server 2014 Cardinaly Estimator](#sessionid:-19886)
-16:50:00|Alejandro Cabanchik|Plataforma de Desarrollo y BI|[DAX in Action](#sessionid:-9201)
+10:00:00|Maximiliano Damian Accotto|Administración  Deployment|[SQL en ambientes virtuales](#sessionid-19885)
+10:00:00|Adrian Fernandez|Plataforma de Desarrollo y BI|[Big Data and Microsoft Azure](#sessionid-36739)
+11:10:00|Javier Villegas|Administración  Deployment|[SQL Monitoring](#sessionid-15999)
+11:10:00|Alejandro Cabanchik|Plataforma de Desarrollo y BI|[Power Query](#sessionid-36925)
+12:20:00|Maximiliano Damian Accotto|Administración  Deployment|[Tuning avanzado para DBa#180;s](#sessionid-19884)
+12:20:00|Carlos L Chacon|Plataforma de Desarrollo y BI|[Juez, Jurado Y  Verdugo--Una Primera Observaci#243;n de Planes de Eje](#sessionid-35627)
+14:30:00|Carlos L Chacon|Administración  Deployment|["I Know What You Did Last Query" --SQL Server](#sessionid-35626)
+14:30:00|Alejandro Cabanchik|Plataforma de Desarrollo y BI|[Mobile BI with Datazen](#sessionid-36926)
+15:40:00|Adrian Fernandez|Plataforma de Desarrollo y BI|[Microsoft Azure and Internet of Things (IoT)](#sessionid-36740)
+15:40:00|Gustavo Boismoreau|Administración  Deployment|[Administre, Diagnostique y Resuelva problemas sobre su SQL Server](#sessionid-37114)
+16:50:00|Maximiliano Damian Accotto|Administración  Deployment|[SQL Server 2014 Cardinaly Estimator](#sessionid-19886)
+16:50:00|Alejandro Cabanchik|Plataforma de Desarrollo y BI|[DAX in Action](#sessionid-9201)
 #  
 #### SessionID: 19885
 # SQL en ambientes virtuales

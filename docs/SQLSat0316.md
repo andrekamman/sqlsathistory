@@ -2,16 +2,16 @@
 # SQLSaturday #316 - Christchurch 2014
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Brent McCracken|Enterprise DBA|[SQL Server 2014](#sessionid:-10718)
-00:00:00|Martin Catherall|Business Intelligence|[Meet The Masters / Ask The Experts(Rob Farley, Brent McCraken , Warwick Rudd, Dave Dustin, Reza Rad)](#sessionid:-19780)
-00:00:00|Peter Avenant|BIML|[Metadata Driven SSIS With Biml](#sessionid:-19783)
-00:00:00|Peter Avenant|BIML|[Real-World Biml Framework (Yours For The Taking)](#sessionid:-19784)
-00:00:00|Peter Avenant|BIML|[Fast Track Your BI Projects With Biml](#sessionid:-19785)
-00:00:00|Rob Farley|Business Intelligence|[SARGability](#sessionid:-23231)
-00:00:00|Simon Peck|Business Intelligence|[(Unusual) Problem solving with SSIS scripts](#sessionid:-24446)
-00:00:00|Warwick Rudd|Enterprise DBA|[Performance Eye for the SQL Guy](#sessionid:-27657)
-00:00:00|Warwick Rudd|Enterprise DBA|[Hitch Hikers Guide to High Availability](#sessionid:-27658)
-00:00:00|Reza Rad|Business Intelligence|[ETL Architecture for Solving Data Warehouse Challenges](#sessionid:-8774)
+00:00:00|Brent McCracken|Enterprise DBA|[SQL Server 2014](#sessionid-10718)
+00:00:00|Martin Catherall|Business Intelligence|[Meet The Masters / Ask The Experts(Rob Farley, Brent McCraken , Warwick Rudd, Dave Dustin, Reza Rad)](#sessionid-19780)
+00:00:00|Peter Avenant|BIML|[Metadata Driven SSIS With Biml](#sessionid-19783)
+00:00:00|Peter Avenant|BIML|[Real-World Biml Framework (Yours For The Taking)](#sessionid-19784)
+00:00:00|Peter Avenant|BIML|[Fast Track Your BI Projects With Biml](#sessionid-19785)
+00:00:00|Rob Farley|Business Intelligence|[SARGability](#sessionid-23231)
+00:00:00|Simon Peck|Business Intelligence|[(Unusual) Problem solving with SSIS scripts](#sessionid-24446)
+00:00:00|Warwick Rudd|Enterprise DBA|[Performance Eye for the SQL Guy](#sessionid-27657)
+00:00:00|Warwick Rudd|Enterprise DBA|[Hitch Hikers Guide to High Availability](#sessionid-27658)
+00:00:00|Reza Rad|Business Intelligence|[ETL Architecture for Solving Data Warehouse Challenges](#sessionid-8774)
 #  
 #### SessionID: 10718
 # SQL Server 2014

@@ -2,15 +2,15 @@
 # SQLSaturday #378 - Curacao 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Rodney Landrum|Track 1|[Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure](#sessionid:-23391)
-09:00:00|Roy Ernest|Track 2|[In Memory OLTP ](#sessionid:-23484)
-10:15:00|Murilo Miranda|Track 2|[Buffer Pool Extension (BPE) - How it works?](#sessionid:-21196)
-10:15:00|Rohan Joackhim|Track 2|[SQL Server 2012 AlwaysON (HADR) for dummies](#sessionid:-21281)
-11:15:00|Luan Moreno Medeiros Maciel|Track 2|[Troubleshooting SQL ServerBasics](#sessionid:-19275)
-11:15:00|Joseph D'Antoni|Track 1|[Power BI in the Fast Lane--Visualizing Formula 1](#sessionid:-36508)
-13:30:00|Luan Moreno Medeiros Maciel|Track 2|[Protecting SQL Server against Hackers [Best Practices] ](#sessionid:-19277)
-14:45:00|Joseph D'Antoni|Track 2|[5 Steps to Being a Top DBA--Learning Automation in SQL Server](#sessionid:-36507)
-15:45:00|Murilo Miranda|Track 2|[Super Hybrid 2014](#sessionid:-21197)
+09:00:00|Rodney Landrum|Track 1|[Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure](#sessionid-23391)
+09:00:00|Roy Ernest|Track 2|[In Memory OLTP ](#sessionid-23484)
+10:15:00|Murilo Miranda|Track 2|[Buffer Pool Extension (BPE) - How it works?](#sessionid-21196)
+10:15:00|Rohan Joackhim|Track 2|[SQL Server 2012 AlwaysON (HADR) for dummies](#sessionid-21281)
+11:15:00|Luan Moreno Medeiros Maciel|Track 2|[Troubleshooting SQL ServerBasics](#sessionid-19275)
+11:15:00|Joseph D'Antoni|Track 1|[Power BI in the Fast Lane--Visualizing Formula 1](#sessionid-36508)
+13:30:00|Luan Moreno Medeiros Maciel|Track 2|[Protecting SQL Server against Hackers [Best Practices] ](#sessionid-19277)
+14:45:00|Joseph D'Antoni|Track 2|[5 Steps to Being a Top DBA--Learning Automation in SQL Server](#sessionid-36507)
+15:45:00|Murilo Miranda|Track 2|[Super Hybrid 2014](#sessionid-21197)
 #  
 #### SessionID: 23391
 # Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure

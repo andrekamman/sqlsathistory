@@ -2,20 +2,20 @@
 # SQLSaturday #784 - Singapore 2018
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Jason Aw|Track 3|[SQL Server on Linux High Availability Features and Considerations](#sessionid:-82342)
-10:00:00|Amit R S Bansal|Track 1|[SQL Server Developer Tricks](#sessionid:-84241)
-10:00:00|Senthamil V|Track 2|[Fundamentals of Block chain  Development](#sessionid:-85284)
-11:00:00|Kevin Boles|Track 2|[Tune Like a Guru - The Big Three!](#sessionid:-82414)
-11:00:00|David Alzamendi|Track 1|[Business Intelligence Solutions in Azure](#sessionid:-82492)
-11:00:00|Karen Lopez|Track 3|[A Database Designer's Favorite Features: Security,Privacy  More](#sessionid:-84433)
-13:00:00|Manohar Punna|Track 2|[Real-Time Analytics with Power BI](#sessionid:-82347)
-13:00:00|Denny Cherry|Track 3|[How to Maintain the Same Level of utilities in Cloud Deployments](#sessionid:-82454)
-13:00:00|Dinesh Priyankara|Track 1|[Accelerating and modernizing data integration with Azure Data Factory](#sessionid:-83792)
-14:00:00|Patrick Flynn|Track 3|[Graph Databases with Azure Cosmos DB](#sessionid:-82944)
-14:00:00|Asanka Padmakumara|Track 1|[Want to move your data to Cloud ? what are your options?](#sessionid:-83820)
-14:00:00|Sarbjit Singh|Track 2|[Don’t be naive, Learn machine learning algorithms](#sessionid:-84243)
-15:30:00|Sanjiv Venkatram|Track 2|[MS BI + AI experiences: Using PBI, Azure  AML across industries](#sessionid:-84432)
-15:30:00|Dharmendra Keshari|Track 3|[Trend Analysis of SQL Server Logs using Powershell!](#sessionid:-85285)
+10:00:00|Jason Aw|Track 3|[SQL Server on Linux High Availability Features and Considerations](#sessionid-82342)
+10:00:00|Amit R S Bansal|Track 1|[SQL Server Developer Tricks](#sessionid-84241)
+10:00:00|Senthamil V|Track 2|[Fundamentals of Block chain  Development](#sessionid-85284)
+11:00:00|Kevin Boles|Track 2|[Tune Like a Guru - The Big Three!](#sessionid-82414)
+11:00:00|David Alzamendi|Track 1|[Business Intelligence Solutions in Azure](#sessionid-82492)
+11:00:00|Karen Lopez|Track 3|[A Database Designer's Favorite Features: Security,Privacy  More](#sessionid-84433)
+13:00:00|Manohar Punna|Track 2|[Real-Time Analytics with Power BI](#sessionid-82347)
+13:00:00|Denny Cherry|Track 3|[How to Maintain the Same Level of utilities in Cloud Deployments](#sessionid-82454)
+13:00:00|Dinesh Priyankara|Track 1|[Accelerating and modernizing data integration with Azure Data Factory](#sessionid-83792)
+14:00:00|Patrick Flynn|Track 3|[Graph Databases with Azure Cosmos DB](#sessionid-82944)
+14:00:00|Asanka Padmakumara|Track 1|[Want to move your data to Cloud ? what are your options?](#sessionid-83820)
+14:00:00|Sarbjit Singh|Track 2|[Don’t be naive, Learn machine learning algorithms](#sessionid-84243)
+15:30:00|Sanjiv Venkatram|Track 2|[MS BI + AI experiences: Using PBI, Azure  AML across industries](#sessionid-84432)
+15:30:00|Dharmendra Keshari|Track 3|[Trend Analysis of SQL Server Logs using Powershell!](#sessionid-85285)
 #  
 #### SessionID: 82342
 # SQL Server on Linux High Availability Features and Considerations

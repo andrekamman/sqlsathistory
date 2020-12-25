@@ -2,17 +2,17 @@
 # SQLSaturday #786 - Puerto Rico 2018
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Jose L. Rivera|BI Information Delivery|[End to End Power BI Workshop - Part1](#sessionid:-85739)
-13:30:00|Jose L. Rivera|BI Information Delivery|[End to End Power BI Workshop - Part2](#sessionid:-85740)
-09:45:00|Gilda Alvarez|Enterprise Database Administration  Deployment|[Migrations 101](#sessionid:-82684)
-09:45:00|Isaias Martinez|Advanced Analysis Techniques|[Converting images into information with Artificial Intelligence](#sessionid:-86144)
-11:00:00|Jose L. Rivera|Advanced Analysis Techniques|[Getting Started with Azure DataBricks](#sessionid:-85738)
-11:00:00|Joan Manuel Pérez|BI Platform Architecture, Development  Administration|[Power BI Dataset monitoring tool](#sessionid:-85832)
-13:30:00|Juan Martí|Cloud Application Development  Deployment|[Azure CosmoDB Globalizing Your Data](#sessionid:-85900)
-13:30:00|Orlando Mezquita|Analytics and Visualization|[Data Visualization Best Practices](#sessionid:-85989)
-14:45:00|Jose L. Rivera|BI Platform Architecture, Development  Administration|[SQL Server 2017: SSIS Scale Out](#sessionid:-85737)
-14:45:00|Edwin Torres|BI Platform Architecture, Development  Administration|[Building a data warehouse in the cloud and its new challenges](#sessionid:-85828)
-16:00:00|Juan Martí|Application  Database Development|[Smart ways to consume your data with LUIS.AI](#sessionid:-85899)
+09:00:00|Jose L. Rivera|BI Information Delivery|[End to End Power BI Workshop - Part1](#sessionid-85739)
+13:30:00|Jose L. Rivera|BI Information Delivery|[End to End Power BI Workshop - Part2](#sessionid-85740)
+09:45:00|Gilda Alvarez|Enterprise Database Administration  Deployment|[Migrations 101](#sessionid-82684)
+09:45:00|Isaias Martinez|Advanced Analysis Techniques|[Converting images into information with Artificial Intelligence](#sessionid-86144)
+11:00:00|Jose L. Rivera|Advanced Analysis Techniques|[Getting Started with Azure DataBricks](#sessionid-85738)
+11:00:00|Joan Manuel Pérez|BI Platform Architecture, Development  Administration|[Power BI Dataset monitoring tool](#sessionid-85832)
+13:30:00|Juan Martí|Cloud Application Development  Deployment|[Azure CosmoDB Globalizing Your Data](#sessionid-85900)
+13:30:00|Orlando Mezquita|Analytics and Visualization|[Data Visualization Best Practices](#sessionid-85989)
+14:45:00|Jose L. Rivera|BI Platform Architecture, Development  Administration|[SQL Server 2017: SSIS Scale Out](#sessionid-85737)
+14:45:00|Edwin Torres|BI Platform Architecture, Development  Administration|[Building a data warehouse in the cloud and its new challenges](#sessionid-85828)
+16:00:00|Juan Martí|Application  Database Development|[Smart ways to consume your data with LUIS.AI](#sessionid-85899)
 #  
 #### SessionID: 85739
 # End to End Power BI Workshop - Part1

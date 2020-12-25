@@ -2,20 +2,20 @@
 # SQLSaturday #562 - Malaysia 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:30:00|Dinesh Asanka|BI Platform Architecture, Development  Administration|[Machine Learning  with SQL Server 2016 R Services](#sessionid:-52339)
-10:30:00|Virendra Kumar Yaduvanshi|Enterprise Database Administration  Deployment|[Innovative Strategies for SQL Server Disaster Recovery](#sessionid:-52486)
-10:30:00|Chiu Kiang Phua|Enterprise Database Administration  Deployment|[Top New Features in SQL Server 2016](#sessionid:-53253)
-11:30:00|Manjot Kaur|Application  Database Development|[Performance Based Indexing](#sessionid:-50320)
-11:30:00|Ian Choy|BI Platform Architecture, Development  Administration|[instant Business Insight with Azure SQL and Power BI](#sessionid:-53240)
-11:30:00|Dr. J. Joshua Thomas|Analytics and Visualization|[Data Analytics: Drill, Hit, Predict and Visualize](#sessionid:-53245)
-13:30:00|Hamid J. Fard|Enterprise Database Administration  Deployment|[SQL Server Database Backup Internals](#sessionid:-50440)
-13:30:00|Dinesh Priyankara|BI Platform Architecture, Development  Administration|[Processing unstructured data](#sessionid:-52606)
-13:30:00|Juv Chan|Analytics and Visualization|[Building Multiclass Prediction Model  API with Azure Machine Learning](#sessionid:-53248)
-14:30:00|Dr. Subramani Paramasivam|Cloud Application Development  Deployment|[Hyperscale technology lets a DBA sleep, +30 minutes a day!](#sessionid:-51070)
-14:30:00|Jason Aw|Strategy and Architecture|[Practical Strategies For High Performance SQL Server High Availability](#sessionid:-52605)
-14:30:00|Nagaraj Venkatesan|Application  Database Development|[SQL Server Query Store - The Real "Deal"](#sessionid:-52629)
-15:45:00|Gogula Aryalingam|BI Information Delivery|[Power BI: The shift to business-led self-service analytics](#sessionid:-53058)
-15:45:00|Dharmendra Keshari|Enterprise Database Administration  Deployment|[Troubleshooting Issues with Extended Events in real time](#sessionid:-53169)
+10:30:00|Dinesh Asanka|BI Platform Architecture, Development  Administration|[Machine Learning  with SQL Server 2016 R Services](#sessionid-52339)
+10:30:00|Virendra Kumar Yaduvanshi|Enterprise Database Administration  Deployment|[Innovative Strategies for SQL Server Disaster Recovery](#sessionid-52486)
+10:30:00|Chiu Kiang Phua|Enterprise Database Administration  Deployment|[Top New Features in SQL Server 2016](#sessionid-53253)
+11:30:00|Manjot Kaur|Application  Database Development|[Performance Based Indexing](#sessionid-50320)
+11:30:00|Ian Choy|BI Platform Architecture, Development  Administration|[instant Business Insight with Azure SQL and Power BI](#sessionid-53240)
+11:30:00|Dr. J. Joshua Thomas|Analytics and Visualization|[Data Analytics: Drill, Hit, Predict and Visualize](#sessionid-53245)
+13:30:00|Hamid J. Fard|Enterprise Database Administration  Deployment|[SQL Server Database Backup Internals](#sessionid-50440)
+13:30:00|Dinesh Priyankara|BI Platform Architecture, Development  Administration|[Processing unstructured data](#sessionid-52606)
+13:30:00|Juv Chan|Analytics and Visualization|[Building Multiclass Prediction Model  API with Azure Machine Learning](#sessionid-53248)
+14:30:00|Dr. Subramani Paramasivam|Cloud Application Development  Deployment|[Hyperscale technology lets a DBA sleep, +30 minutes a day!](#sessionid-51070)
+14:30:00|Jason Aw|Strategy and Architecture|[Practical Strategies For High Performance SQL Server High Availability](#sessionid-52605)
+14:30:00|Nagaraj Venkatesan|Application  Database Development|[SQL Server Query Store - The Real "Deal"](#sessionid-52629)
+15:45:00|Gogula Aryalingam|BI Information Delivery|[Power BI: The shift to business-led self-service analytics](#sessionid-53058)
+15:45:00|Dharmendra Keshari|Enterprise Database Administration  Deployment|[Troubleshooting Issues with Extended Events in real time](#sessionid-53169)
 #  
 #### SessionID: 52339
 # Machine Learning  with SQL Server 2016 R Services

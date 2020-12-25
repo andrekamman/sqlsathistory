@@ -2,22 +2,22 @@
 # SQLSaturday #519 - Plovdiv 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Dr. Subramani Paramasivam|Advanced Analysis Techniques|[Think  work like a Data Scientist with SQL 2016 R.](#sessionid:-45240)
-10:00:00|Miroslav Dimitrov|Enterprise Database Administration  Deployment|[Performance Tuning for the Transaction Log](#sessionid:-46383)
-10:00:00|Ivan Donev|Strategy and Architecture|[Why SQL server 2016 rocks](#sessionid:-50274)
-11:15:00|Sergiy Lunyakin|BI Information Delivery|[Real-Time Dashboards on PowerBI](#sessionid:-45234)
-11:15:00|Dr. Subramani Paramasivam|Enterprise Database Administration  Deployment|[SQL Server 2016 has Gold plated  bullet proof Database Engine](#sessionid:-45241)
-11:15:00|Margarita Naumova|Enterprise Database Administration  Deployment|[A deep dive into SQL Server Plan Cache Management ](#sessionid:-49161)
-13:00:00|Luan Moreno Medeiros Maciel|Cloud Application Development  Deployment|[DBA Vs. Hacker: Protecting SQL Server](#sessionid:-45598)
-13:00:00|Kaloyan Kosev|Application  Database Development|[AlwaysOn Availability Groups for Developers](#sessionid:-46183)
-13:00:00|Margarita Naumova|Enterprise Database Administration  Deployment|[SQL Server 2016 Query Store – a flight recorder of your database](#sessionid:-49162)
-13:00:00|Branimir Giurov|Application  Database Development|[SQL Server 2016 and JSON Support](#sessionid:-50710)
-14:15:00|Andrey Nikolov|Application  Database Development|[T-SQL gotchas and powerups](#sessionid:-45349)
-14:15:00|Boriana Petrova|BI Information Delivery|[Funky reports with Power BI for Excel and Office 365](#sessionid:-45430)
-14:15:00|Andrea Martorana Tusa|BI Information Delivery|[New life for Reporting Services: what's up in 2016](#sessionid:-45614)
-15:45:00|Ivan Donev|Application  Database Development|[SQL Server 2016 - Always Encrypted deep dive](#sessionid:-45218)
-15:45:00|Andrea Martorana Tusa|BI Information Delivery|[Mobile BI with Microsoft tools](#sessionid:-45613)
-15:45:00|Mihail Mateev|Cloud Application Development  Deployment|[Azure Data and Storage in a Nutshell](#sessionid:-50254)
+10:00:00|Dr. Subramani Paramasivam|Advanced Analysis Techniques|[Think  work like a Data Scientist with SQL 2016 R.](#sessionid-45240)
+10:00:00|Miroslav Dimitrov|Enterprise Database Administration  Deployment|[Performance Tuning for the Transaction Log](#sessionid-46383)
+10:00:00|Ivan Donev|Strategy and Architecture|[Why SQL server 2016 rocks](#sessionid-50274)
+11:15:00|Sergiy Lunyakin|BI Information Delivery|[Real-Time Dashboards on PowerBI](#sessionid-45234)
+11:15:00|Dr. Subramani Paramasivam|Enterprise Database Administration  Deployment|[SQL Server 2016 has Gold plated  bullet proof Database Engine](#sessionid-45241)
+11:15:00|Margarita Naumova|Enterprise Database Administration  Deployment|[A deep dive into SQL Server Plan Cache Management ](#sessionid-49161)
+13:00:00|Luan Moreno Medeiros Maciel|Cloud Application Development  Deployment|[DBA Vs. Hacker: Protecting SQL Server](#sessionid-45598)
+13:00:00|Kaloyan Kosev|Application  Database Development|[AlwaysOn Availability Groups for Developers](#sessionid-46183)
+13:00:00|Margarita Naumova|Enterprise Database Administration  Deployment|[SQL Server 2016 Query Store – a flight recorder of your database](#sessionid-49162)
+13:00:00|Branimir Giurov|Application  Database Development|[SQL Server 2016 and JSON Support](#sessionid-50710)
+14:15:00|Andrey Nikolov|Application  Database Development|[T-SQL gotchas and powerups](#sessionid-45349)
+14:15:00|Boriana Petrova|BI Information Delivery|[Funky reports with Power BI for Excel and Office 365](#sessionid-45430)
+14:15:00|Andrea Martorana Tusa|BI Information Delivery|[New life for Reporting Services: what's up in 2016](#sessionid-45614)
+15:45:00|Ivan Donev|Application  Database Development|[SQL Server 2016 - Always Encrypted deep dive](#sessionid-45218)
+15:45:00|Andrea Martorana Tusa|BI Information Delivery|[Mobile BI with Microsoft tools](#sessionid-45613)
+15:45:00|Mihail Mateev|Cloud Application Development  Deployment|[Azure Data and Storage in a Nutshell](#sessionid-50254)
 #  
 #### SessionID: 45240
 # Think  work like a Data Scientist with SQL 2016 R.

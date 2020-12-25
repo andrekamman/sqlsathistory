@@ -2,12 +2,12 @@
 # SQLSaturday #902 - Nepal 2019
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Dinesh Priyankara|Application  Database Development|[Ways of securing your data - SQL Server Security Features (On-Prem and Azure)](#sessionid:-100137)
-10:00:00|Hemantgiri Goswami|Enterprise Database Administration  Deployment|[Battle Tested Monitoring for Always On Availability Groups](#sessionid:-95535)
-11:10:00|Patrick Flynn|Enterprise Database Administration  Deployment|[Time to Solve your VLDB problems - Managed Instance Hyperscale Edition](#sessionid:-94563)
-13:30:00|Sandeep Arora|Advanced Analysis Techniques|[Bigdata: Into the multi-cloud-verse](#sessionid:-95978)
-14:30:00|Anil Maharjan|Analytics and Visualization|[Microsoft Power BI, Python to visualize and predict connected car.](#sessionid:-99104)
-15:45:00|Shree Khanal|Enterprise Database Administration  Deployment|[What's New: Modernizing on SQL Server 2019](#sessionid:-100161)
+09:00:00|Dinesh Priyankara|Application  Database Development|[Ways of securing your data - SQL Server Security Features (On-Prem and Azure)](#sessionid-100137)
+10:00:00|Hemantgiri Goswami|Enterprise Database Administration  Deployment|[Battle Tested Monitoring for Always On Availability Groups](#sessionid-95535)
+11:10:00|Patrick Flynn|Enterprise Database Administration  Deployment|[Time to Solve your VLDB problems - Managed Instance Hyperscale Edition](#sessionid-94563)
+13:30:00|Sandeep Arora|Advanced Analysis Techniques|[Bigdata: Into the multi-cloud-verse](#sessionid-95978)
+14:30:00|Anil Maharjan|Analytics and Visualization|[Microsoft Power BI, Python to visualize and predict connected car.](#sessionid-99104)
+15:45:00|Shree Khanal|Enterprise Database Administration  Deployment|[What's New: Modernizing on SQL Server 2019](#sessionid-100161)
 #  
 #### SessionID: 100137
 # Ways of securing your data - SQL Server Security Features (On-Prem and Azure)

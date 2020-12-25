@@ -2,22 +2,22 @@
 # SQLSaturday #373 - Puerto Rico 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Paresh Motiwala|Cloud|[Setting up your BI Infrastructure](#sessionid:-21680)
-00:00:00|Ryan Adams|DBA|[Enforce Best Practices with CMS and Policy Based Management](#sessionid:-23748)
-09:45:00|César Oviedo|BI|[Business Intelligence for Beginners](#sessionid:-11878)
-09:45:00|Jorge Sanchez|DBA|[Introduction to AlwaysOn Availability Groups](#sessionid:-17632)
-09:45:00|Reeves Smith|BI|[Dynamically Increase your Data Awareness](#sessionid:-22788)
-11:15:00|Jason Horner|Dev|[Hecka Fun with Hekaton](#sessionid:-15863)
-11:15:00|Mike Hillwig|DBA|[Recovery and Backup for Beginners](#sessionid:-20585)
-11:15:00|Ryan Adams|DBA|[How Active Directory Affects SQL Server](#sessionid:-23749)
-13:45:00|Edwin Blancovitch|Dev|[MS-ACCESS and SQL Integration](#sessionid:-13611)
-13:45:00|Mike Hillwig|DBA|[Transaction Log Internals: Virtual Log Files](#sessionid:-20587)
-13:45:00|Jose L. Rivera|Dev|[Dealing with Errors and Exceptions in SSIS](#sessionid:-36695)
-15:15:00|Jason Horner|DBA|[Tricks from the DBA Inbox: Real World Performance Tuning](#sessionid:-15864)
-15:15:00|Reeves Smith|BI|[Increase your SSIS productivity with Biml](#sessionid:-22786)
-15:15:00|Aaron Nelson|Dev|[PowerShell for Data Professionals](#sessionid:-8876)
-16:45:00|César Oviedo|Cloud|[Cloud/On-Premise BI Solutions with Office365](#sessionid:-11887)
-16:45:00|Ryan Adams|DBA|[Windows Clustering for the DBA](#sessionid:-23751)
+00:00:00|Paresh Motiwala|Cloud|[Setting up your BI Infrastructure](#sessionid-21680)
+00:00:00|Ryan Adams|DBA|[Enforce Best Practices with CMS and Policy Based Management](#sessionid-23748)
+09:45:00|César Oviedo|BI|[Business Intelligence for Beginners](#sessionid-11878)
+09:45:00|Jorge Sanchez|DBA|[Introduction to AlwaysOn Availability Groups](#sessionid-17632)
+09:45:00|Reeves Smith|BI|[Dynamically Increase your Data Awareness](#sessionid-22788)
+11:15:00|Jason Horner|Dev|[Hecka Fun with Hekaton](#sessionid-15863)
+11:15:00|Mike Hillwig|DBA|[Recovery and Backup for Beginners](#sessionid-20585)
+11:15:00|Ryan Adams|DBA|[How Active Directory Affects SQL Server](#sessionid-23749)
+13:45:00|Edwin Blancovitch|Dev|[MS-ACCESS and SQL Integration](#sessionid-13611)
+13:45:00|Mike Hillwig|DBA|[Transaction Log Internals: Virtual Log Files](#sessionid-20587)
+13:45:00|Jose L. Rivera|Dev|[Dealing with Errors and Exceptions in SSIS](#sessionid-36695)
+15:15:00|Jason Horner|DBA|[Tricks from the DBA Inbox: Real World Performance Tuning](#sessionid-15864)
+15:15:00|Reeves Smith|BI|[Increase your SSIS productivity with Biml](#sessionid-22786)
+15:15:00|Aaron Nelson|Dev|[PowerShell for Data Professionals](#sessionid-8876)
+16:45:00|César Oviedo|Cloud|[Cloud/On-Premise BI Solutions with Office365](#sessionid-11887)
+16:45:00|Ryan Adams|DBA|[Windows Clustering for the DBA](#sessionid-23751)
 #  
 #### SessionID: 21680
 # Setting up your BI Infrastructure

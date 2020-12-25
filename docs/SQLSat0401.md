@@ -2,7 +2,7 @@
 # SQLSaturday #401 - Yaounde 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|ACHILLE NGUELA NGUELA|Students|[Advantage of Using Excel BI Solution  in Small Business environem](#sessionid:-35808)
+09:00:00|ACHILLE NGUELA NGUELA|Students|[Advantage of Using Excel BI Solution  in Small Business environem](#sessionid-35808)
 #  
 #### SessionID: 35808
 # Advantage of Using Excel BI Solution  in Small Business environem

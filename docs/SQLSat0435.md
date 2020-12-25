@@ -2,22 +2,22 @@
 # SQLSaturday #435 - El Paso 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:15:00|Chris Hyde|Professional Development|[Becoming Certified In Microsoft SQL Server](#sessionid:-36355)
-09:15:00|Gabriel Villa|Application  Database Development|[What’s this ‘Scaffolding a CRUD’ all about? Build a Website from your SQL Database](#sessionid:-36668)
-09:15:00|Rick Lowe|Enterprise Database Administration  Deployment|[Why should I care about the plan cache?](#sessionid:-38916)
-10:25:00|Chris Hyde|BI Platform Architecture, Development  Administration|[Row-Based Security in SSRS and SSAS](#sessionid:-36353)
-10:25:00|Kevin Boles|Application  Database Development|[Common TSQL Mistakes](#sessionid:-38232)
-10:25:00|Russ Burns|Strategy and Architecture|[Build Android and iOS Apps with C# and Xamarin](#sessionid:-38710)
-12:40:00|Mindy Curnutt|Application  Database Development|[The Ins and Outs of SQL Indexes](#sessionid:-36399)
-12:40:00|Hasani X|Professional Development|[Relational Databases to Relational Leadership -  how to be a great leader](#sessionid:-38182)
-12:40:00|Russ Burns|Analytics and Visualization|[Reporting with Spatial Data](#sessionid:-38324)
-12:40:00|Swan Webb|Advanced Analysis Techniques|[Solving Business Problems Using SQL Window Functions](#sessionid:-40516)
-13:50:00|Gabriel Villa|Application  Database Development|[Don’t fall victim to Little Bobby Tables: Guide to Developing a Secure Database Application](#sessionid:-36666)
-13:50:00|Colleen Barnitz|BI Platform Architecture, Development  Administration|[Data Warehouse Design Decisions](#sessionid:-38165)
-13:50:00|Kevin Boles|Enterprise Database Administration  Deployment|[SQL Server Defaults SUCK!!](#sessionid:-38233)
-15:00:00|Mindy Curnutt|Enterprise Database Administration  Deployment|[SQL Server Bingo – Install, Migration  Config](#sessionid:-36401)
-15:00:00|Kevin Boles|Other|[SQL Server 2014 New Features](#sessionid:-38235)
-15:00:00|Adrian Chacon|BI Platform Architecture, Development  Administration|[Breaking Productivity Boundaries with BIML](#sessionid:-40148)
+09:15:00|Chris Hyde|Professional Development|[Becoming Certified In Microsoft SQL Server](#sessionid-36355)
+09:15:00|Gabriel Villa|Application  Database Development|[What’s this ‘Scaffolding a CRUD’ all about? Build a Website from your SQL Database](#sessionid-36668)
+09:15:00|Rick Lowe|Enterprise Database Administration  Deployment|[Why should I care about the plan cache?](#sessionid-38916)
+10:25:00|Chris Hyde|BI Platform Architecture, Development  Administration|[Row-Based Security in SSRS and SSAS](#sessionid-36353)
+10:25:00|Kevin Boles|Application  Database Development|[Common TSQL Mistakes](#sessionid-38232)
+10:25:00|Russ Burns|Strategy and Architecture|[Build Android and iOS Apps with C# and Xamarin](#sessionid-38710)
+12:40:00|Mindy Curnutt|Application  Database Development|[The Ins and Outs of SQL Indexes](#sessionid-36399)
+12:40:00|Hasani X|Professional Development|[Relational Databases to Relational Leadership -  how to be a great leader](#sessionid-38182)
+12:40:00|Russ Burns|Analytics and Visualization|[Reporting with Spatial Data](#sessionid-38324)
+12:40:00|Swan Webb|Advanced Analysis Techniques|[Solving Business Problems Using SQL Window Functions](#sessionid-40516)
+13:50:00|Gabriel Villa|Application  Database Development|[Don’t fall victim to Little Bobby Tables: Guide to Developing a Secure Database Application](#sessionid-36666)
+13:50:00|Colleen Barnitz|BI Platform Architecture, Development  Administration|[Data Warehouse Design Decisions](#sessionid-38165)
+13:50:00|Kevin Boles|Enterprise Database Administration  Deployment|[SQL Server Defaults SUCK!!](#sessionid-38233)
+15:00:00|Mindy Curnutt|Enterprise Database Administration  Deployment|[SQL Server Bingo – Install, Migration  Config](#sessionid-36401)
+15:00:00|Kevin Boles|Other|[SQL Server 2014 New Features](#sessionid-38235)
+15:00:00|Adrian Chacon|BI Platform Architecture, Development  Administration|[Breaking Productivity Boundaries with BIML](#sessionid-40148)
 #  
 #### SessionID: 36355
 # Becoming Certified In Microsoft SQL Server

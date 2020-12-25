@@ -2,21 +2,21 @@
 # SQLSaturday #106 - Puerto Rico 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Maritza Córdova|(03) - AppDev|[A Lap Around SQL Server Integration Services 2012 ](#sessionid:-13769)
-00:00:00|Eduardo Sobrino|(03) - AppDev|[Managing Blobs and Geo-Location Data](#sessionid:-13967)
-00:00:00|Gualberto Huerta|(01) - DBA|[HP Data Management Solutions.](#sessionid:-14842)
-00:00:00|Guillermo Caicedo|(02) - BI|[Power View  Reporting Enhancements in SQL Server ](#sessionid:-14844)
-00:00:00|Jose L. Rivera|(03) - AppDev|[You got XML !!!](#sessionid:-17464)
-00:00:00|Maximo Trinidad|(03) - AppDev|[PowerShell Query for the T-SQL Developer.](#sessionid:-19900)
-00:00:00|Maximo Trinidad|(01) - DBA|[Basic Intro to PowerShell for the DBA](#sessionid:-19901)
-00:00:00|Pam Shaw|(02) - BI|[Tips  Tricks for dynamic SSRS Reports](#sessionid:-22344)
-00:00:00|Janis Griffin|(03) - AppDev|[Looney Tuner?  No, there IS a method to my madness](#sessionid:-30478)
-00:00:00|Joseph D'Antoni|(01) - DBA|[SQL 2012 -- All About HA and DR](#sessionid:-30651)
-00:00:00|Joseph D'Antoni|(01) - DBA|[SAN Basics for DBAs](#sessionid:-30652)
-00:00:00|Jorge Sanchez|(01) - DBA|[SQL Server Performance Troubleshooting for the DBA](#sessionid:-31072)
-00:00:00|Ramon Ponte|(02) - BI|[Cleansing Your Data with Data Quality Services. ](#sessionid:-32368)
-00:00:00|William E Pearson III|(02) - BI|[PowerPivot for Excel: For Those Unacquainted ... ](#sessionid:-34335)
-00:00:00|Alan Koo|(02) - BI|[Tasting the Flavors of Analysis Services 2012](#sessionid:-9178)
+00:00:00|Maritza Córdova|(03) - AppDev|[A Lap Around SQL Server Integration Services 2012 ](#sessionid-13769)
+00:00:00|Eduardo Sobrino|(03) - AppDev|[Managing Blobs and Geo-Location Data](#sessionid-13967)
+00:00:00|Gualberto Huerta|(01) - DBA|[HP Data Management Solutions.](#sessionid-14842)
+00:00:00|Guillermo Caicedo|(02) - BI|[Power View  Reporting Enhancements in SQL Server ](#sessionid-14844)
+00:00:00|Jose L. Rivera|(03) - AppDev|[You got XML !!!](#sessionid-17464)
+00:00:00|Maximo Trinidad|(03) - AppDev|[PowerShell Query for the T-SQL Developer.](#sessionid-19900)
+00:00:00|Maximo Trinidad|(01) - DBA|[Basic Intro to PowerShell for the DBA](#sessionid-19901)
+00:00:00|Pam Shaw|(02) - BI|[Tips  Tricks for dynamic SSRS Reports](#sessionid-22344)
+00:00:00|Janis Griffin|(03) - AppDev|[Looney Tuner?  No, there IS a method to my madness](#sessionid-30478)
+00:00:00|Joseph D'Antoni|(01) - DBA|[SQL 2012 -- All About HA and DR](#sessionid-30651)
+00:00:00|Joseph D'Antoni|(01) - DBA|[SAN Basics for DBAs](#sessionid-30652)
+00:00:00|Jorge Sanchez|(01) - DBA|[SQL Server Performance Troubleshooting for the DBA](#sessionid-31072)
+00:00:00|Ramon Ponte|(02) - BI|[Cleansing Your Data with Data Quality Services. ](#sessionid-32368)
+00:00:00|William E Pearson III|(02) - BI|[PowerPivot for Excel: For Those Unacquainted ... ](#sessionid-34335)
+00:00:00|Alan Koo|(02) - BI|[Tasting the Flavors of Analysis Services 2012](#sessionid-9178)
 #  
 #### SessionID: 13769
 # A Lap Around SQL Server Integration Services 2012 

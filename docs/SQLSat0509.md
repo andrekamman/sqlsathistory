@@ -2,21 +2,21 @@
 # SQLSaturday #509 - Brisbane 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:45:00|Rob Douglas|Enterprise Database Administration  Deployment|[Hitting the SQL Server "Go Faster" Button](#sessionid:-48424)
-09:45:00|Peter Myers|BI Platform Architecture, Development  Administration|[Azure Machine Learning: From Design to Integration](#sessionid:-49247)
-09:45:00|Nagaraj Venkatesan|Application  Database Development|[SQL Server 2016 -  Real Time Operational Analytics - "Real" Game changer](#sessionid:-49254)
-11:00:00|Hamish Watson|Enterprise Database Administration  Deployment|[TempDB: The forgotten pillar of performance tuning](#sessionid:-48364)
-11:00:00|Craig Bryden|Analytics and Visualization|[An Introduction to R and R Services](#sessionid:-48573)
-11:00:00|Dandy Weyn|Enterprise Database Administration  Deployment|[Building HA/DR Solutions with SQL Server and Azure SQL Database](#sessionid:-49244)
-13:15:00|Manohar Punna|Enterprise Database Administration  Deployment|[Boost your SQL Server performance with Delayed Durability and BPE](#sessionid:-44929)
-13:15:00|Patrick Flynn|Enterprise Database Administration  Deployment|[Database Corruption - Advanced Recovery Techniques](#sessionid:-48867)
-13:15:00|Dandy Weyn|BI Information Delivery|[Power BI - Getting It Right - A Full Walkthrough](#sessionid:-49243)
-14:30:00|Amit Arora|Enterprise Database Administration  Deployment|[Temporal Databases in Microsoft SQL server 2016](#sessionid:-44334)
-14:30:00|Reza Rad|Analytics and Visualization|[Cortana Intelligence Suite; Where the Magic Happens](#sessionid:-46936)
-14:30:00|Victor Isakov|Enterprise Database Administration  Deployment|[Query Store Overview and Architecture](#sessionid:-46961)
-15:45:00|Dan de Sousa|BI Platform Architecture, Development  Administration|[Automated Data Validation with SQL Server using nUnit](#sessionid:-48360)
-15:45:00|Martin Catherall|Enterprise Database Administration  Deployment|[Moving from Profiler to Extended Events.](#sessionid:-48704)
-15:45:00|Stefan Riedel|Application  Database Development|[Automated and Repeatable Test Cases for SQL Server Development.](#sessionid:-49157)
+09:45:00|Rob Douglas|Enterprise Database Administration  Deployment|[Hitting the SQL Server "Go Faster" Button](#sessionid-48424)
+09:45:00|Peter Myers|BI Platform Architecture, Development  Administration|[Azure Machine Learning: From Design to Integration](#sessionid-49247)
+09:45:00|Nagaraj Venkatesan|Application  Database Development|[SQL Server 2016 -  Real Time Operational Analytics - "Real" Game changer](#sessionid-49254)
+11:00:00|Hamish Watson|Enterprise Database Administration  Deployment|[TempDB: The forgotten pillar of performance tuning](#sessionid-48364)
+11:00:00|Craig Bryden|Analytics and Visualization|[An Introduction to R and R Services](#sessionid-48573)
+11:00:00|Dandy Weyn|Enterprise Database Administration  Deployment|[Building HA/DR Solutions with SQL Server and Azure SQL Database](#sessionid-49244)
+13:15:00|Manohar Punna|Enterprise Database Administration  Deployment|[Boost your SQL Server performance with Delayed Durability and BPE](#sessionid-44929)
+13:15:00|Patrick Flynn|Enterprise Database Administration  Deployment|[Database Corruption - Advanced Recovery Techniques](#sessionid-48867)
+13:15:00|Dandy Weyn|BI Information Delivery|[Power BI - Getting It Right - A Full Walkthrough](#sessionid-49243)
+14:30:00|Amit Arora|Enterprise Database Administration  Deployment|[Temporal Databases in Microsoft SQL server 2016](#sessionid-44334)
+14:30:00|Reza Rad|Analytics and Visualization|[Cortana Intelligence Suite; Where the Magic Happens](#sessionid-46936)
+14:30:00|Victor Isakov|Enterprise Database Administration  Deployment|[Query Store Overview and Architecture](#sessionid-46961)
+15:45:00|Dan de Sousa|BI Platform Architecture, Development  Administration|[Automated Data Validation with SQL Server using nUnit](#sessionid-48360)
+15:45:00|Martin Catherall|Enterprise Database Administration  Deployment|[Moving from Profiler to Extended Events.](#sessionid-48704)
+15:45:00|Stefan Riedel|Application  Database Development|[Automated and Repeatable Test Cases for SQL Server Development.](#sessionid-49157)
 #  
 #### SessionID: 48424
 # Hitting the SQL Server "Go Faster" Button

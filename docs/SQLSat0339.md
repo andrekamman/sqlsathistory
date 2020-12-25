@@ -2,8 +2,8 @@
 # SQLSaturday #339 - Shanghai 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Janos Berke|Track 1|[Practical Management Data Warehouse](#sessionid:-15766)
-00:00:00|Leonard Lobel|Other|[Programming T-SQL Enhancements in SQL Server 2012](#sessionid:-19090)
+00:00:00|Janos Berke|Track 1|[Practical Management Data Warehouse](#sessionid-15766)
+00:00:00|Leonard Lobel|Other|[Programming T-SQL Enhancements in SQL Server 2012](#sessionid-19090)
 #  
 #### SessionID: 15766
 # Practical Management Data Warehouse

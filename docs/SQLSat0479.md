@@ -2,22 +2,22 @@
 # SQLSaturday #479 - South Island NZ 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Dave Dustin|Enterprise Database Administration  Deployment|[Managing and Monitoring SQL Server for $0 without sacrificing functionality, performance or data…](#sessionid:-40559)
-10:00:00|Simon Peck|BI Platform Architecture, Development  Administration|[Benefits of SSIS ETL automation with BIML](#sessionid:-45229)
-10:00:00|Martin Catherall|Enterprise Database Administration  Deployment|[Moving from Profiler to Extended Events.](#sessionid:-46844)
-10:00:00|Chris Campbell|Application  Database Development|[Embracing Database Theft](#sessionid:-48188)
-11:15:00|Dave Dustin|Application  Database Development|[SQL Server Window functions – reducing the need for cursors and other horrible stuff](#sessionid:-40558)
-11:15:00|John Martin|Enterprise Database Administration  Deployment|[High Availability for SQL Server Standard Edition](#sessionid:-44767)
-11:15:00|Martin Catherall|Enterprise Database Administration  Deployment|[A Lap Around Columnstore.](#sessionid:-46843)
-13:15:00|Warwick Rudd|Enterprise Database Administration  Deployment|[How Available is SQL Server 2016](#sessionid:-42224)
-13:15:00|Hamish Watson|Application  Database Development|[Implementing DevOps methodologies to improve application deployment](#sessionid:-42486)
-13:15:00|Leila Etaati|BI Platform Architecture, Development  Administration|[A Journey into Azure Machine Learning](#sessionid:-42823)
-14:30:00|Vijayakumar Thurupathan|Application  Database Development|[Protecting your data in the Cloud](#sessionid:-42333)
-14:30:00|Reza Rad|BI Platform Architecture, Development  Administration|[Incremental Load using CDC and Integration Service](#sessionid:-46471)
-14:30:00|Rob Douglas|Enterprise Database Administration  Deployment|[Hitting the SQL Server "Go Faster" Button](#sessionid:-48163)
-15:35:00|Manohar Punna|Enterprise Database Administration  Deployment|[DBA life made easier with SQL Server 2016 - Query Store and LQS](#sessionid:-42357)
-15:35:00|Manjot Kaur|Application  Database Development|[Performance Based Indexing](#sessionid:-48152)
-15:35:00|Steve Knutson|BI Platform Architecture, Development  Administration|[Business Intelligence for all with Power BI](#sessionid:-48224)
+10:00:00|Dave Dustin|Enterprise Database Administration  Deployment|[Managing and Monitoring SQL Server for $0 without sacrificing functionality, performance or data…](#sessionid-40559)
+10:00:00|Simon Peck|BI Platform Architecture, Development  Administration|[Benefits of SSIS ETL automation with BIML](#sessionid-45229)
+10:00:00|Martin Catherall|Enterprise Database Administration  Deployment|[Moving from Profiler to Extended Events.](#sessionid-46844)
+10:00:00|Chris Campbell|Application  Database Development|[Embracing Database Theft](#sessionid-48188)
+11:15:00|Dave Dustin|Application  Database Development|[SQL Server Window functions – reducing the need for cursors and other horrible stuff](#sessionid-40558)
+11:15:00|John Martin|Enterprise Database Administration  Deployment|[High Availability for SQL Server Standard Edition](#sessionid-44767)
+11:15:00|Martin Catherall|Enterprise Database Administration  Deployment|[A Lap Around Columnstore.](#sessionid-46843)
+13:15:00|Warwick Rudd|Enterprise Database Administration  Deployment|[How Available is SQL Server 2016](#sessionid-42224)
+13:15:00|Hamish Watson|Application  Database Development|[Implementing DevOps methodologies to improve application deployment](#sessionid-42486)
+13:15:00|Leila Etaati|BI Platform Architecture, Development  Administration|[A Journey into Azure Machine Learning](#sessionid-42823)
+14:30:00|Vijayakumar Thurupathan|Application  Database Development|[Protecting your data in the Cloud](#sessionid-42333)
+14:30:00|Reza Rad|BI Platform Architecture, Development  Administration|[Incremental Load using CDC and Integration Service](#sessionid-46471)
+14:30:00|Rob Douglas|Enterprise Database Administration  Deployment|[Hitting the SQL Server "Go Faster" Button](#sessionid-48163)
+15:35:00|Manohar Punna|Enterprise Database Administration  Deployment|[DBA life made easier with SQL Server 2016 - Query Store and LQS](#sessionid-42357)
+15:35:00|Manjot Kaur|Application  Database Development|[Performance Based Indexing](#sessionid-48152)
+15:35:00|Steve Knutson|BI Platform Architecture, Development  Administration|[Business Intelligence for all with Power BI](#sessionid-48224)
 #  
 #### SessionID: 40559
 # Managing and Monitoring SQL Server for $0 without sacrificing functionality, performance or data…

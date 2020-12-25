@@ -2,21 +2,21 @@
 # SQLSaturday #352 - Sydney 2014
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Craig Bryden|Track 024|[Automate your Data Profiling insights using Power BI](#sessionid:-11994)
-00:00:00|Geoff Black|Track 104|[Mash it up with Power Query](#sessionid:-14469)
-00:00:00|Grant Paisley|Track 104|[Kick-ass Ad-hoc Cube Browser build in SSRS 2014](#sessionid:-14725)
-00:00:00|Shehab El-Najjar|Track 106|[Performance dreams  wait for you at SQL Server 2014](#sessionid:-15257)
-00:00:00|Iman Eftekhari|Track 104|[365 days with Power BI  ](#sessionid:-15290)
-00:00:00|Julie Koesmarno|Track 104|[Interactive  Actionable Data Visualisation With Power View](#sessionid:-16930)
-00:00:00|Konstantin Khomyakov|Track 104|[Everything you would like to know about Power BI - QA](#sessionid:-18671)
-00:00:00|Leila Etaati|Track 024|[“Show Me Potential Customers “ : Data Mining Approach](#sessionid:-19011)
-00:00:00|Martin Cairney|Track 106|[Thinking Out of the Box: Manage SQL Server Using Built-in Tools](#sessionid:-19731)
-00:00:00|Mohamed Kabiruddin|Track 024|[Crack open the AMO for SSAS Tabular](#sessionid:-20017)
-00:00:00|Peter Avenant|Track 024|[A New Approach to Unit Testing and Integration Testing in SSIS ](#sessionid:-21937)
-00:00:00|Stanley Roos|Track 106|[Indexing for performance ](#sessionid:-25245)
-00:00:00|Victor Isakov|Track 106|[Understanding the High-Availability Options in SQL Server 2014](#sessionid:-27439)
-00:00:00|Warwick Rudd|Track 106|[Performance Eye for the SQL Guy](#sessionid:-27667)
-00:00:00|Reza Rad|Track 024|[ETL Architecture for Solving Data Warehouse Challenges](#sessionid:-8782)
+00:00:00|Craig Bryden|Track 024|[Automate your Data Profiling insights using Power BI](#sessionid-11994)
+00:00:00|Geoff Black|Track 104|[Mash it up with Power Query](#sessionid-14469)
+00:00:00|Grant Paisley|Track 104|[Kick-ass Ad-hoc Cube Browser build in SSRS 2014](#sessionid-14725)
+00:00:00|Shehab El-Najjar|Track 106|[Performance dreams  wait for you at SQL Server 2014](#sessionid-15257)
+00:00:00|Iman Eftekhari|Track 104|[365 days with Power BI  ](#sessionid-15290)
+00:00:00|Julie Koesmarno|Track 104|[Interactive  Actionable Data Visualisation With Power View](#sessionid-16930)
+00:00:00|Konstantin Khomyakov|Track 104|[Everything you would like to know about Power BI - QA](#sessionid-18671)
+00:00:00|Leila Etaati|Track 024|[“Show Me Potential Customers “ : Data Mining Approach](#sessionid-19011)
+00:00:00|Martin Cairney|Track 106|[Thinking Out of the Box: Manage SQL Server Using Built-in Tools](#sessionid-19731)
+00:00:00|Mohamed Kabiruddin|Track 024|[Crack open the AMO for SSAS Tabular](#sessionid-20017)
+00:00:00|Peter Avenant|Track 024|[A New Approach to Unit Testing and Integration Testing in SSIS ](#sessionid-21937)
+00:00:00|Stanley Roos|Track 106|[Indexing for performance ](#sessionid-25245)
+00:00:00|Victor Isakov|Track 106|[Understanding the High-Availability Options in SQL Server 2014](#sessionid-27439)
+00:00:00|Warwick Rudd|Track 106|[Performance Eye for the SQL Guy](#sessionid-27667)
+00:00:00|Reza Rad|Track 024|[ETL Architecture for Solving Data Warehouse Challenges](#sessionid-8782)
 #  
 #### SessionID: 11994
 # Automate your Data Profiling insights using Power BI

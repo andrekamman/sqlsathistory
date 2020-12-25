@@ -2,21 +2,21 @@
 # SQLSaturday #7 - Birmingham 2009
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Brad Marshall|Business Intelligence|[Getting the warm "Fuzzies" with SSIS](#sessionid:-29132)
-00:00:00|Chris Eargle|SQL Development|[RESTful Data](#sessionid:-31457)
-00:00:00|Andy Warren|Database Administration|[Introduction to SQL Server Statistics](#sessionid:-34943)
-00:00:00|Robert Cain|Business Intelligence|[Introduction to Data Warehousing with SQL Server](#sessionid:-34953)
-00:00:00|Ken Simmons|Database Administration|[SQL Server Preproduction Tasks](#sessionid:-35071)
-00:00:00|Derek Comingore|Business Intelligence|[BI for a Tough Economy, Data Mining](#sessionid:-35090)
-00:00:00|Dean Richards|SQL Development|[Tuna Helper- A Proven Process for Tuning SQL](#sessionid:-35093)
-00:00:00|Stuart Ainsworth|SQL Development|[Confessions of a Data Integrator](#sessionid:-35451)
-00:00:00|Tejas Patel|Business Intelligence|[Data Mining ASP.Net Controls Library](#sessionid:-35459)
-00:00:00|Kevin Boles|SQL Development|[SQL Injection](#sessionid:-35465)
-00:00:00|Kevin Boles|Database Administration|[Disk Partition Alignment/Care and Feeding TempDB](#sessionid:-35467)
-00:00:00|Kevin Boles|Database Administration|[SANs and SQL Server](#sessionid:-35468)
-00:00:00|Tim  Roper|Database Administration|[Revitalizing a neglected SQL Server](#sessionid:-35491)
-00:00:00|Terry Webster|SQL Development|[ASP.NET Databinding 101](#sessionid:-35494)
-00:00:00|Terry Webster|Business Intelligence|[Using Multi-dimensional Data in SSAS in ASP.NET](#sessionid:-35495)
+00:00:00|Brad Marshall|Business Intelligence|[Getting the warm "Fuzzies" with SSIS](#sessionid-29132)
+00:00:00|Chris Eargle|SQL Development|[RESTful Data](#sessionid-31457)
+00:00:00|Andy Warren|Database Administration|[Introduction to SQL Server Statistics](#sessionid-34943)
+00:00:00|Robert Cain|Business Intelligence|[Introduction to Data Warehousing with SQL Server](#sessionid-34953)
+00:00:00|Ken Simmons|Database Administration|[SQL Server Preproduction Tasks](#sessionid-35071)
+00:00:00|Derek Comingore|Business Intelligence|[BI for a Tough Economy, Data Mining](#sessionid-35090)
+00:00:00|Dean Richards|SQL Development|[Tuna Helper- A Proven Process for Tuning SQL](#sessionid-35093)
+00:00:00|Stuart Ainsworth|SQL Development|[Confessions of a Data Integrator](#sessionid-35451)
+00:00:00|Tejas Patel|Business Intelligence|[Data Mining ASP.Net Controls Library](#sessionid-35459)
+00:00:00|Kevin Boles|SQL Development|[SQL Injection](#sessionid-35465)
+00:00:00|Kevin Boles|Database Administration|[Disk Partition Alignment/Care and Feeding TempDB](#sessionid-35467)
+00:00:00|Kevin Boles|Database Administration|[SANs and SQL Server](#sessionid-35468)
+00:00:00|Tim  Roper|Database Administration|[Revitalizing a neglected SQL Server](#sessionid-35491)
+00:00:00|Terry Webster|SQL Development|[ASP.NET Databinding 101](#sessionid-35494)
+00:00:00|Terry Webster|Business Intelligence|[Using Multi-dimensional Data in SSAS in ASP.NET](#sessionid-35495)
 #  
 #### SessionID: 29132
 # Getting the warm "Fuzzies" with SSIS

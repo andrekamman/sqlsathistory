@@ -2,21 +2,21 @@
 # SQLSaturday #812 - Lima 2018
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:40:00|ALAN FERRANDIZ LANGLEY|Artificial Intelligence|[Herramientas de Data Science: Analítica e Storytelling](#sessionid:-86367)
-09:40:00|Daniel Enrique Espinoza Solórzano|BI Platform Architecture, Development  Administration|[El sorprendente mundo de la ciencia de datos](#sessionid:-87313)
-09:40:00|Alejandro Humberto Sánchez Núñez|BI Platform Architecture, Development  Administration|[Time Intelligence with SSAS  Power BI](#sessionid:-87393)
-10:50:00|Raul Martin Sarachaga Diaz|BI Platform Architecture, Development  Administration|[Best practices using Azure Data Warehouse](#sessionid:-86010)
-10:50:00|Fernando Cobo Enriquez|Enterprise Database Administration  Deployment|[Azure SQL Database - Lessons learned from the trenches](#sessionid:-87407)
-12:15:00|Fernando Cobo Enriquez|Enterprise Database Administration  Deployment|[Back to the future - Migrating our SQL Server On-premises database to Azure SQL Database](#sessionid:-87408)
-12:15:00|Alejandro Humberto Sánchez Núñez|BI Platform Architecture, Development  Administration|[Dynamic Row Level Security with SSAS  Power BI](#sessionid:-87595)
-13:25:00|Raul Martin Sarachaga Diaz|Artificial Intelligence|[Modelos Predictivos con Azure Machine Learning](#sessionid:-86009)
-13:25:00|Juan Rafael|Enterprise Database Administration  Deployment|[The roadmap for SQL Server](#sessionid:-87319)
-13:25:00|Marlon Leandro|BI Platform Architecture, Development  Administration|[Enviando datos a Power BI desde Arduino](#sessionid:-87417)
-15:40:00|Juan Rafael|Cloud Application Development  Deployment|[Microsoft PowerApps, Power BI, and Flow: Power platform vision and roadmap](#sessionid:-87320)
-15:40:00|Raul Martin Sarachaga Diaz|BI Platform Architecture, Development  Administration|[Data Modeling with Power BI](#sessionid:-87352)
-15:40:00|Jorge Michael Muchaypiña Gutierrez|Enterprise Database Administration  Deployment|[Que necesito saber de los Indices en SQL Server?](#sessionid:-87388)
-16:50:00|Juan Rafael|BI Platform Architecture, Development  Administration|[Microsoft Dynamics 365 for Finance  Operations and Power BI: Intro to building great analytics](#sessionid:-87321)
-16:50:00|Jorge Michael Muchaypiña Gutierrez|BI Platform Architecture, Development  Administration|[Power BI en Ambientes Empresariales](#sessionid:-87389)
+09:40:00|ALAN FERRANDIZ LANGLEY|Artificial Intelligence|[Herramientas de Data Science: Analítica e Storytelling](#sessionid-86367)
+09:40:00|Daniel Enrique Espinoza Solórzano|BI Platform Architecture, Development  Administration|[El sorprendente mundo de la ciencia de datos](#sessionid-87313)
+09:40:00|Alejandro Humberto Sánchez Núñez|BI Platform Architecture, Development  Administration|[Time Intelligence with SSAS  Power BI](#sessionid-87393)
+10:50:00|Raul Martin Sarachaga Diaz|BI Platform Architecture, Development  Administration|[Best practices using Azure Data Warehouse](#sessionid-86010)
+10:50:00|Fernando Cobo Enriquez|Enterprise Database Administration  Deployment|[Azure SQL Database - Lessons learned from the trenches](#sessionid-87407)
+12:15:00|Fernando Cobo Enriquez|Enterprise Database Administration  Deployment|[Back to the future - Migrating our SQL Server On-premises database to Azure SQL Database](#sessionid-87408)
+12:15:00|Alejandro Humberto Sánchez Núñez|BI Platform Architecture, Development  Administration|[Dynamic Row Level Security with SSAS  Power BI](#sessionid-87595)
+13:25:00|Raul Martin Sarachaga Diaz|Artificial Intelligence|[Modelos Predictivos con Azure Machine Learning](#sessionid-86009)
+13:25:00|Juan Rafael|Enterprise Database Administration  Deployment|[The roadmap for SQL Server](#sessionid-87319)
+13:25:00|Marlon Leandro|BI Platform Architecture, Development  Administration|[Enviando datos a Power BI desde Arduino](#sessionid-87417)
+15:40:00|Juan Rafael|Cloud Application Development  Deployment|[Microsoft PowerApps, Power BI, and Flow: Power platform vision and roadmap](#sessionid-87320)
+15:40:00|Raul Martin Sarachaga Diaz|BI Platform Architecture, Development  Administration|[Data Modeling with Power BI](#sessionid-87352)
+15:40:00|Jorge Michael Muchaypiña Gutierrez|Enterprise Database Administration  Deployment|[Que necesito saber de los Indices en SQL Server?](#sessionid-87388)
+16:50:00|Juan Rafael|BI Platform Architecture, Development  Administration|[Microsoft Dynamics 365 for Finance  Operations and Power BI: Intro to building great analytics](#sessionid-87321)
+16:50:00|Jorge Michael Muchaypiña Gutierrez|BI Platform Architecture, Development  Administration|[Power BI en Ambientes Empresariales](#sessionid-87389)
 #  
 #### SessionID: 86367
 # Herramientas de Data Science: Analítica e Storytelling

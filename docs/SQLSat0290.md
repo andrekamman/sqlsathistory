@@ -2,22 +2,22 @@
 # SQLSaturday #290 - Kiev 2014
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Denis Reznik|1. Kyiv|[ SQL Server Deep Dive](#sessionid:-13100)
-00:00:00|Eugene Polonichko|4. Amsterdam|[Создание надежного перезапускаемого пакета SSIS. Аудит и логирование](#sessionid:-14011)
-00:00:00|Konstantin Proskurdin|3. Barcelona|[Database version control](#sessionid:-17826)
-00:00:00|Tobias Koprowski|3. Barcelona|[Azure SQL Database Tips and Tricks for Beginners](#sessionid:-18677)
-00:00:00|Tobias Koprowski|2. New York|[Maintenance Plans ad Hoc](#sessionid:-18679)
-00:00:00|Oleksii Kovalov|3. Barcelona|[Я построю свой профайлер, с гридами и кнопками!](#sessionid:-19184)
-00:00:00|Oleksii Kovalov|2. New York|[Включать иль не включать? Сказочка об индексах](#sessionid:-19185)
-00:00:00|Maksim Garnets|4. Amsterdam|[SSIS - Повышение производительности обработки потоков данных](#sessionid:-19406)
-00:00:00|Mihail Mateev|1. Kyiv|[Dealing with Entity Framework 6.1](#sessionid:-20306)
-00:00:00|Mihail Mateev|4. Amsterdam|[Power BI for Office 365 -  a Complete Self-Service](#sessionid:-20309)
-00:00:00|Eugene Polonichko|3. Barcelona|[Проектирование хранилищ данных для бизнес-аналитики](#sessionid:-21274)
-00:00:00|Olena Smoliak|4. Amsterdam|[Query and Plan Fingerprints](#sessionid:-21579)
-00:00:00|Sergey Olontsev|1. Kyiv|[In-Memory OLTP (Hekaton) в SQL Server 2014 (introduction)](#sessionid:-24329)
-00:00:00|Sergey Olontsev|1. Kyiv|[In-Memory OLTP (Hekaton) в SQL Server 2014 (deep dive)](#sessionid:-24330)
-00:00:00|Vitaliy Popovych|2. New York|[Key-Range Locking — Все тайное становится явным](#sessionid:-27470)
-00:00:00|Andrii Zrobok|2. New York|[MS SQL data types:  features of  conversion](#sessionid:-9492)
+00:00:00|Denis Reznik|1. Kyiv|[ SQL Server Deep Dive](#sessionid-13100)
+00:00:00|Eugene Polonichko|4. Amsterdam|[Создание надежного перезапускаемого пакета SSIS. Аудит и логирование](#sessionid-14011)
+00:00:00|Konstantin Proskurdin|3. Barcelona|[Database version control](#sessionid-17826)
+00:00:00|Tobias Koprowski|3. Barcelona|[Azure SQL Database Tips and Tricks for Beginners](#sessionid-18677)
+00:00:00|Tobias Koprowski|2. New York|[Maintenance Plans ad Hoc](#sessionid-18679)
+00:00:00|Oleksii Kovalov|3. Barcelona|[Я построю свой профайлер, с гридами и кнопками!](#sessionid-19184)
+00:00:00|Oleksii Kovalov|2. New York|[Включать иль не включать? Сказочка об индексах](#sessionid-19185)
+00:00:00|Maksim Garnets|4. Amsterdam|[SSIS - Повышение производительности обработки потоков данных](#sessionid-19406)
+00:00:00|Mihail Mateev|1. Kyiv|[Dealing with Entity Framework 6.1](#sessionid-20306)
+00:00:00|Mihail Mateev|4. Amsterdam|[Power BI for Office 365 -  a Complete Self-Service](#sessionid-20309)
+00:00:00|Eugene Polonichko|3. Barcelona|[Проектирование хранилищ данных для бизнес-аналитики](#sessionid-21274)
+00:00:00|Olena Smoliak|4. Amsterdam|[Query and Plan Fingerprints](#sessionid-21579)
+00:00:00|Sergey Olontsev|1. Kyiv|[In-Memory OLTP (Hekaton) в SQL Server 2014 (introduction)](#sessionid-24329)
+00:00:00|Sergey Olontsev|1. Kyiv|[In-Memory OLTP (Hekaton) в SQL Server 2014 (deep dive)](#sessionid-24330)
+00:00:00|Vitaliy Popovych|2. New York|[Key-Range Locking — Все тайное становится явным](#sessionid-27470)
+00:00:00|Andrii Zrobok|2. New York|[MS SQL data types:  features of  conversion](#sessionid-9492)
 #  
 #### SessionID: 13100
 #  SQL Server Deep Dive

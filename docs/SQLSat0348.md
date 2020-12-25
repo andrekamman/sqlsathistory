@@ -2,15 +2,15 @@
 # SQLSaturday #348 - Ica, Peru 2014
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Jesus Enrique Azcarate|Track 1|[SQ. Server 2014 en Windows Server 2012](#sessionid:-12123)
-00:00:00|Deyvi Leonidas Pacheco Carrasco|Track 1|[Overview SQL Server 2014](#sessionid:-13235)
-00:00:00|German Cayo|Track 1|[Backup y Restore SQL Server 2014](#sessionid:-14403)
-00:00:00|Jesus Angulo Gasco|Track 1|[SQL Server Data Tools 2014 en BI](#sessionid:-16682)
-00:00:00|Jorge Castañeda Cano|Track 1|[PowerBI para Office365](#sessionid:-17353)
-00:00:00|Percy Reyes|Track 1|[SQL Server 2014 AlwaysOn Availability Groups](#sessionid:-21928)
-00:00:00|raul Balbuena|Track 1|[Tabuleando 2014](#sessionid:-22626)
-00:00:00|Alberto De Rossi|Track 1|[High Availability and Disaster Recovery with SQL Server 2014 hybrid cloud](#sessionid:-34545)
-00:00:00|PEDRO ALEX TAYA YACTAYO|Track 1|[XML con SQL SEVER](#sessionid:-9230)
+00:00:00|Jesus Enrique Azcarate|Track 1|[SQ. Server 2014 en Windows Server 2012](#sessionid-12123)
+00:00:00|Deyvi Leonidas Pacheco Carrasco|Track 1|[Overview SQL Server 2014](#sessionid-13235)
+00:00:00|German Cayo|Track 1|[Backup y Restore SQL Server 2014](#sessionid-14403)
+00:00:00|Jesus Angulo Gasco|Track 1|[SQL Server Data Tools 2014 en BI](#sessionid-16682)
+00:00:00|Jorge Castañeda Cano|Track 1|[PowerBI para Office365](#sessionid-17353)
+00:00:00|Percy Reyes|Track 1|[SQL Server 2014 AlwaysOn Availability Groups](#sessionid-21928)
+00:00:00|raul Balbuena|Track 1|[Tabuleando 2014](#sessionid-22626)
+00:00:00|Alberto De Rossi|Track 1|[High Availability and Disaster Recovery with SQL Server 2014 hybrid cloud](#sessionid-34545)
+00:00:00|PEDRO ALEX TAYA YACTAYO|Track 1|[XML con SQL SEVER](#sessionid-9230)
 #  
 #### SessionID: 12123
 # SQ. Server 2014 en Windows Server 2012

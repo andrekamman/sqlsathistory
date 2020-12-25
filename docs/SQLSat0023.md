@@ -2,21 +2,21 @@
 # SQLSaturday #23 - Louisville 2009
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Alexander Prusakov|Track 1|[Comparing Clustering Methods ](#sessionid:-28363)
-00:00:00|Brian Prince|Track 1|[Cloud Computing](#sessionid:-29272)
-00:00:00|Derek Comingore|Track 2|[Project Gemini](#sessionid:-29591)
-00:00:00|Dave Fackler|Track 2|[ETL from the Trenches: SSIS in the Real World](#sessionid:-29711)
-00:00:00|Dave Fackler|Track 2|[SSIS Power hour](#sessionid:-29713)
-00:00:00|Dean Richards|Track 1|[Tuna Helper - Proven Process for Tuning SQL ](#sessionid:-29870)
-00:00:00|Craig Utley|Track 2|[Why Data Warehousing Projects Fail](#sessionid:-33112)
-00:00:00|Craig Utley|Track 2|[Do It Right: Best Practices for Analysis Services](#sessionid:-33113)
-00:00:00|Craig Utley|Track 2|[Analysis Services 2008 End-to-End](#sessionid:-33114)
-00:00:00|Arie Jones|Track 1|[SQL Server 2008: Extended Events](#sessionid:-34969)
-00:00:00|Arie Jones|Track 1|[Powershell in SQL Server 2008](#sessionid:-34970)
-00:00:00|Derek Comingore|Track 2|[Attunity CDC: Enabling the Real-Time SSIS Story](#sessionid:-35089)
-00:00:00|Jason Follas|Track 1|[the XML Capabilities of SQL Server 2008](#sessionid:-35192)
-00:00:00|Jason Follas|Track 1|[Demystifying Transact-SQL ](#sessionid:-35194)
-00:00:00|Sarah Barela|Track 1|[Scalable SQL Server Virtualization](#sessionid:-35421)
+00:00:00|Alexander Prusakov|Track 1|[Comparing Clustering Methods ](#sessionid-28363)
+00:00:00|Brian Prince|Track 1|[Cloud Computing](#sessionid-29272)
+00:00:00|Derek Comingore|Track 2|[Project Gemini](#sessionid-29591)
+00:00:00|Dave Fackler|Track 2|[ETL from the Trenches: SSIS in the Real World](#sessionid-29711)
+00:00:00|Dave Fackler|Track 2|[SSIS Power hour](#sessionid-29713)
+00:00:00|Dean Richards|Track 1|[Tuna Helper - Proven Process for Tuning SQL ](#sessionid-29870)
+00:00:00|Craig Utley|Track 2|[Why Data Warehousing Projects Fail](#sessionid-33112)
+00:00:00|Craig Utley|Track 2|[Do It Right: Best Practices for Analysis Services](#sessionid-33113)
+00:00:00|Craig Utley|Track 2|[Analysis Services 2008 End-to-End](#sessionid-33114)
+00:00:00|Arie Jones|Track 1|[SQL Server 2008: Extended Events](#sessionid-34969)
+00:00:00|Arie Jones|Track 1|[Powershell in SQL Server 2008](#sessionid-34970)
+00:00:00|Derek Comingore|Track 2|[Attunity CDC: Enabling the Real-Time SSIS Story](#sessionid-35089)
+00:00:00|Jason Follas|Track 1|[the XML Capabilities of SQL Server 2008](#sessionid-35192)
+00:00:00|Jason Follas|Track 1|[Demystifying Transact-SQL ](#sessionid-35194)
+00:00:00|Sarah Barela|Track 1|[Scalable SQL Server Virtualization](#sessionid-35421)
 #  
 #### SessionID: 28363
 # Comparing Clustering Methods 

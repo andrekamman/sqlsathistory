@@ -2,17 +2,17 @@
 # SQLSaturday #202 - Edinburgh 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Bob Duffy|Track 2|[Microsoft Access Power Hour](#sessionid:-10560)
-00:00:00|n/a n/a|Track 2|[Session Details not available](#sessionid:-12077)
-00:00:00|Niko Neugebauer|Track 2|[Analyzing Twitter Data](#sessionid:-15384)
-00:00:00|Jonathan Kehayias|Track 1|[Solving Complex Problems with Extended Events](#sessionid:-17056)
-00:00:00|Joe Sack|Track 1|[Troubleshooting Query Plan Quality Issues](#sessionid:-17124)
-00:00:00|James Rowland-Jones|Track 1|[Thinking Big  Understanding PDW](#sessionid:-17602)
-00:00:00|Tobias Koprowski|Track 1|[SQL Azure from Plan, to Backup, to Cloud ](#sessionid:-18713)
-00:00:00|Mark Broadbent|Track 1|[SQL Server AlwaysOn for Dummies](#sessionid:-19537)
-00:00:00|Oliver Engels|Track 2|[Data Explorer - The future of selfservice ETL](#sessionid:-21543)
-00:00:00|Sanjaya Padhi|Track 2|[SQL Server 2012 Integration with MDS  DQS](#sessionid:-23966)
-00:00:00|Allan Mitchell|Track 2|[Hadoop for the Business Intelligence Professional](#sessionid:-9287)
+00:00:00|Bob Duffy|Track 2|[Microsoft Access Power Hour](#sessionid-10560)
+00:00:00|n/a n/a|Track 2|[Session Details not available](#sessionid-12077)
+00:00:00|Niko Neugebauer|Track 2|[Analyzing Twitter Data](#sessionid-15384)
+00:00:00|Jonathan Kehayias|Track 1|[Solving Complex Problems with Extended Events](#sessionid-17056)
+00:00:00|Joe Sack|Track 1|[Troubleshooting Query Plan Quality Issues](#sessionid-17124)
+00:00:00|James Rowland-Jones|Track 1|[Thinking Big  Understanding PDW](#sessionid-17602)
+00:00:00|Tobias Koprowski|Track 1|[SQL Azure from Plan, to Backup, to Cloud ](#sessionid-18713)
+00:00:00|Mark Broadbent|Track 1|[SQL Server AlwaysOn for Dummies](#sessionid-19537)
+00:00:00|Oliver Engels|Track 2|[Data Explorer - The future of selfservice ETL](#sessionid-21543)
+00:00:00|Sanjaya Padhi|Track 2|[SQL Server 2012 Integration with MDS  DQS](#sessionid-23966)
+00:00:00|Allan Mitchell|Track 2|[Hadoop for the Business Intelligence Professional](#sessionid-9287)
 #  
 #### SessionID: 10560
 # Microsoft Access Power Hour

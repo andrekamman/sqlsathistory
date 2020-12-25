@@ -2,17 +2,17 @@
 # SQLSaturday #485 - Lisbon 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Ivan Campos|CORE Track                                Room Azure B|[Introdu#231;#227;o ao In-Memory OLTP (hekaton) com SQL Server 2016](#sessionid:-44618)
-09:00:00|Quilson Antunes|BI Track                                 Room Azure A|[What's new in SSIS2016](#sessionid:-44624)
-10:15:00|Etienne Lopes|CORE Track                                Room Azure B|[Security enhancements in SQL Server 2016](#sessionid:-42961)
-10:15:00|Artur Santos|BI Track                                 Room Azure A|[What's New in Reporting Services 2016](#sessionid:-44629)
-12:15:00|Niko Neugebauer|CORE Track                                Room Azure B|[Getting Started with U-SQL  Azure Data Lake Analytics](#sessionid:-44614)
-12:15:00|Pedro Perfeito|BI Track                                 Room Azure A|[Power BI For Real World Business Scenarios](#sessionid:-44679)
-14:00:00|Rui Romano|BI Track                                 Room Azure A|[Power BI for Developers](#sessionid:-43019)
-14:00:00|Pedro Simoes|CORE Track                                Room Azure B|[Azure VM's with SQL Server -  Notes from the field](#sessionid:-43117)
-15:45:00|Murilo Miranda|CORE Track                                Room Azure B|[Availability Groups 2016: Quais s#227;o as novidades?](#sessionid:-44129)
-17:15:00|Andre Batista|CORE Track                                Room Azure B|[Query Store no SQL Server 2016](#sessionid:-44535)
-17:15:00|Bruno Ferreira|BI Track                                 Room Azure A|[How to use R in SQL Server 2016](#sessionid:-44662)
+09:00:00|Ivan Campos|CORE Track                                Room Azure B|[Introdu#231;#227;o ao In-Memory OLTP (hekaton) com SQL Server 2016](#sessionid-44618)
+09:00:00|Quilson Antunes|BI Track                                 Room Azure A|[What's new in SSIS2016](#sessionid-44624)
+10:15:00|Etienne Lopes|CORE Track                                Room Azure B|[Security enhancements in SQL Server 2016](#sessionid-42961)
+10:15:00|Artur Santos|BI Track                                 Room Azure A|[What's New in Reporting Services 2016](#sessionid-44629)
+12:15:00|Niko Neugebauer|CORE Track                                Room Azure B|[Getting Started with U-SQL  Azure Data Lake Analytics](#sessionid-44614)
+12:15:00|Pedro Perfeito|BI Track                                 Room Azure A|[Power BI For Real World Business Scenarios](#sessionid-44679)
+14:00:00|Rui Romano|BI Track                                 Room Azure A|[Power BI for Developers](#sessionid-43019)
+14:00:00|Pedro Simoes|CORE Track                                Room Azure B|[Azure VM's with SQL Server -  Notes from the field](#sessionid-43117)
+15:45:00|Murilo Miranda|CORE Track                                Room Azure B|[Availability Groups 2016: Quais s#227;o as novidades?](#sessionid-44129)
+17:15:00|Andre Batista|CORE Track                                Room Azure B|[Query Store no SQL Server 2016](#sessionid-44535)
+17:15:00|Bruno Ferreira|BI Track                                 Room Azure A|[How to use R in SQL Server 2016](#sessionid-44662)
 #  
 #### SessionID: 44618
 # Introdu#231;#227;o ao In-Memory OLTP (hekaton) com SQL Server 2016

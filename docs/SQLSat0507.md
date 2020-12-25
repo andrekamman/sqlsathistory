@@ -2,17 +2,17 @@
 # SQLSaturday #507 - Edmonton 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-08:30:00|Mohit Gupta|Other|[Key Note](#sessionid:-49596)
-09:45:00|Konstantin Melamud|BI Platform Architecture, Development  Administration|[Optimizing your data warehouse for OLAP Processing](#sessionid:-46448)
-09:45:00|Scott Stauffer|BI Information Delivery|[Visualization  Reporting Options on Microsoft’s Data Platform](#sessionid:-48365)
-11:00:00|William Wolf|Application  Database Development|[Common Coding Mistakes and how to Mitigate them](#sessionid:-45007)
-11:00:00|Melody Zacharias|BI Platform Architecture, Development  Administration|[Getting Started with Azure Machine Learning (AML)](#sessionid:-48121)
-11:00:00|Craig Millang|Application  Database Development|[T-SQL from Basics to ](#sessionid:-48570)
-13:45:00|mirza baig|Enterprise Database Administration  Deployment|[backup and restore features in SQL 2012](#sessionid:-44324)
-13:45:00|Konstantin Melamud|Enterprise Database Administration  Deployment|[Performance Tuning - Analyzing Execution Plans](#sessionid:-46449)
-15:00:00|Randolph West|Information Delivery|[SQL Server Performance Tuning Starter Kit](#sessionid:-44782)
-15:00:00|Ian Chamberland|Enterprise Database Administration  Deployment|[Migrating SQL Server Quickly and Effectively](#sessionid:-46120)
-16:15:00|Terry Bunio|Application  Database Development|[How do I create an automated ETL test suite ??](#sessionid:-43104)
+08:30:00|Mohit Gupta|Other|[Key Note](#sessionid-49596)
+09:45:00|Konstantin Melamud|BI Platform Architecture, Development  Administration|[Optimizing your data warehouse for OLAP Processing](#sessionid-46448)
+09:45:00|Scott Stauffer|BI Information Delivery|[Visualization  Reporting Options on Microsoft’s Data Platform](#sessionid-48365)
+11:00:00|William Wolf|Application  Database Development|[Common Coding Mistakes and how to Mitigate them](#sessionid-45007)
+11:00:00|Melody Zacharias|BI Platform Architecture, Development  Administration|[Getting Started with Azure Machine Learning (AML)](#sessionid-48121)
+11:00:00|Craig Millang|Application  Database Development|[T-SQL from Basics to ](#sessionid-48570)
+13:45:00|mirza baig|Enterprise Database Administration  Deployment|[backup and restore features in SQL 2012](#sessionid-44324)
+13:45:00|Konstantin Melamud|Enterprise Database Administration  Deployment|[Performance Tuning - Analyzing Execution Plans](#sessionid-46449)
+15:00:00|Randolph West|Information Delivery|[SQL Server Performance Tuning Starter Kit](#sessionid-44782)
+15:00:00|Ian Chamberland|Enterprise Database Administration  Deployment|[Migrating SQL Server Quickly and Effectively](#sessionid-46120)
+16:15:00|Terry Bunio|Application  Database Development|[How do I create an automated ETL test suite ??](#sessionid-43104)
 #  
 #### SessionID: 49596
 # Key Note

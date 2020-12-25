@@ -2,16 +2,16 @@
 # SQLSaturday #208 - Riyadh 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Shehab El-Najjar|Track 2|[T-SQL Performance Guidelines for better DB stress ](#sessionid:-15200)
-00:00:00|Niko Neugebauer|Track 1|[Analyzing Twitter Data](#sessionid:-15385)
-00:00:00|Niko Neugebauer|Track 1|[Inheriting a database for Developers, version 2](#sessionid:-15386)
-00:00:00|Joe Chang|Track 1|[SQL Performance on Powerful Hardware](#sessionid:-16089)
-00:00:00|Joe Chang|Track 2|[Elements of Storage Performance](#sessionid:-16090)
-00:00:00|Mohamad Halabi|Track 2|[.NET and WCF Transactions for SQL Resource Manager](#sessionid:-20998)
-00:00:00|Nabeel Derhem|Track 1|[NoSQL, an Introduction](#sessionid:-21288)
-00:00:00|Hossam Alfraih|Track 1|[A Tour in The Indexing World!](#sessionid:-23997)
-00:00:00|Satya Jayanty|Track 2|[SQL Server Data platform upgrade Techniques, best practices  notes from the field](#sessionid:-24994)
-00:00:00|Umit Tiric|Track 2|[SQL Server 2012 Parallel Data Warehouse Appliance](#sessionid:-27174)
+00:00:00|Shehab El-Najjar|Track 2|[T-SQL Performance Guidelines for better DB stress ](#sessionid-15200)
+00:00:00|Niko Neugebauer|Track 1|[Analyzing Twitter Data](#sessionid-15385)
+00:00:00|Niko Neugebauer|Track 1|[Inheriting a database for Developers, version 2](#sessionid-15386)
+00:00:00|Joe Chang|Track 1|[SQL Performance on Powerful Hardware](#sessionid-16089)
+00:00:00|Joe Chang|Track 2|[Elements of Storage Performance](#sessionid-16090)
+00:00:00|Mohamad Halabi|Track 2|[.NET and WCF Transactions for SQL Resource Manager](#sessionid-20998)
+00:00:00|Nabeel Derhem|Track 1|[NoSQL, an Introduction](#sessionid-21288)
+00:00:00|Hossam Alfraih|Track 1|[A Tour in The Indexing World!](#sessionid-23997)
+00:00:00|Satya Jayanty|Track 2|[SQL Server Data platform upgrade Techniques, best practices  notes from the field](#sessionid-24994)
+00:00:00|Umit Tiric|Track 2|[SQL Server 2012 Parallel Data Warehouse Appliance](#sessionid-27174)
 #  
 #### SessionID: 15200
 # T-SQL Performance Guidelines for better DB stress 

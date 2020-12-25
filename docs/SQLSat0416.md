@@ -2,18 +2,18 @@
 # SQLSaturday #416 - Odessa 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Denis Reznik|Other|[Тарас Бобровицкий - Columnstore Indexes](#sessionid:-13119)
-10:00:00|Andrii Zrobok|Other|[“Magic numbers”, local variable and performance](#sessionid:-10109)
-10:00:00|Evgeny Khabarov|Track 1|[Поговорим об ожиданиях и очередях](#sessionid:-37489)
-11:05:00|Konstantin Proskurdin|Track 1|[Continuous integration and delivery of databases in web development](#sessionid:-37373)
-11:05:00|Viktoriia Mala|Track 1|[NoSQL - MongoDB. Agility, scalability, performance (Part 1)](#sessionid:-37521)
-12:35:00|Denis Reznik|Other|[Hidden gems of SQL Server 2014](#sessionid:-13121)
-12:35:00|Viktoriia Mala|Track 1|[NoSQL - MongoDB. Agility, scalability, performance (Part 2)](#sessionid:-37522)
-14:35:00|Denis Reznik|Other|[Effective T-SQL. To be effective or not to be.](#sessionid:-13120)
-14:35:00|Evgeny Khabarov|Track 1|[Транзакционная репликация - это не страшно. ](#sessionid:-37490)
-15:40:00|Konstantin Proskurdin|Other|[Database version control](#sessionid:-37969)
-15:40:00|Michal Sadowski|Track 1|[Upgrading to SQL Server 2014](#sessionid:-38143)
-17:05:00|Andrii Zrobok|Other|[MS SQL data types: features of conversion](#sessionid:-10108)
+00:00:00|Denis Reznik|Other|[Тарас Бобровицкий - Columnstore Indexes](#sessionid-13119)
+10:00:00|Andrii Zrobok|Other|[“Magic numbers”, local variable and performance](#sessionid-10109)
+10:00:00|Evgeny Khabarov|Track 1|[Поговорим об ожиданиях и очередях](#sessionid-37489)
+11:05:00|Konstantin Proskurdin|Track 1|[Continuous integration and delivery of databases in web development](#sessionid-37373)
+11:05:00|Viktoriia Mala|Track 1|[NoSQL - MongoDB. Agility, scalability, performance (Part 1)](#sessionid-37521)
+12:35:00|Denis Reznik|Other|[Hidden gems of SQL Server 2014](#sessionid-13121)
+12:35:00|Viktoriia Mala|Track 1|[NoSQL - MongoDB. Agility, scalability, performance (Part 2)](#sessionid-37522)
+14:35:00|Denis Reznik|Other|[Effective T-SQL. To be effective or not to be.](#sessionid-13120)
+14:35:00|Evgeny Khabarov|Track 1|[Транзакционная репликация - это не страшно. ](#sessionid-37490)
+15:40:00|Konstantin Proskurdin|Other|[Database version control](#sessionid-37969)
+15:40:00|Michal Sadowski|Track 1|[Upgrading to SQL Server 2014](#sessionid-38143)
+17:05:00|Andrii Zrobok|Other|[MS SQL data types: features of conversion](#sessionid-10108)
 #  
 #### SessionID: 13119
 # Тарас Бобровицкий - Columnstore Indexes

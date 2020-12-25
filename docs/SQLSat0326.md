@@ -2,20 +2,20 @@
 # SQLSaturday #326 - Tampa - BA Edition 2014
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|David Dye|Track 3|[Location Location Location Preparing and Presenting Geographic Data ](#sessionid:-13204)
-00:00:00|Dmitri Korotkevitch|Track 2|[Clustered Columnstore Indexes: Internals and Design Considerations](#sessionid:-13298)
-00:00:00|Frank Quintana|Track 1|[An introduction to Business Intelligence and Big Data](#sessionid:-14315)
-00:00:00|Jen Underwood|Track 2|[Advanced Analytics with Excel and Power BI](#sessionid:-16455)
-00:00:00|Joe Rossi|Track 1|[Hadoop - Past, Present and Future](#sessionid:-17610)
-00:00:00|Andrey Korshikov|Track 2|[Dozen tips and tricks you should know when working with SSRS](#sessionid:-18823)
-00:00:00|Leigh Freijo|Track 3|[Why I won't hire you and what you can do about it!](#sessionid:-19008)
-00:00:00|Maximo Trinidad|Track 1|[SSIS - Integrating PowerShell in a ScriptTask comp](#sessionid:-19917)
-00:00:00|Mike Davis|Track 3|[Mastering the Technology Interview](#sessionid:-19977)
-00:00:00|Mikey Nelson|Track 3|[Affecting Change with Automation](#sessionid:-20636)
-00:00:00|Mitchell Pearson|Track 2|[Introduction to PowerPivot](#sessionid:-21011)
-00:00:00|Michael Reed|Track 1|[Big Data- Part 1 of 3- Let’s Get Started](#sessionid:-21104)
-00:00:00|Michael Reed|Track 1|[Big Data- Part 2 of 3- Beyond the Basics](#sessionid:-21105)
-00:00:00|Pam Shaw|Track 3|[Tips  Tricks for dynamic SSRS Reports](#sessionid:-22366)
+00:00:00|David Dye|Track 3|[Location Location Location Preparing and Presenting Geographic Data ](#sessionid-13204)
+00:00:00|Dmitri Korotkevitch|Track 2|[Clustered Columnstore Indexes: Internals and Design Considerations](#sessionid-13298)
+00:00:00|Frank Quintana|Track 1|[An introduction to Business Intelligence and Big Data](#sessionid-14315)
+00:00:00|Jen Underwood|Track 2|[Advanced Analytics with Excel and Power BI](#sessionid-16455)
+00:00:00|Joe Rossi|Track 1|[Hadoop - Past, Present and Future](#sessionid-17610)
+00:00:00|Andrey Korshikov|Track 2|[Dozen tips and tricks you should know when working with SSRS](#sessionid-18823)
+00:00:00|Leigh Freijo|Track 3|[Why I won't hire you and what you can do about it!](#sessionid-19008)
+00:00:00|Maximo Trinidad|Track 1|[SSIS - Integrating PowerShell in a ScriptTask comp](#sessionid-19917)
+00:00:00|Mike Davis|Track 3|[Mastering the Technology Interview](#sessionid-19977)
+00:00:00|Mikey Nelson|Track 3|[Affecting Change with Automation](#sessionid-20636)
+00:00:00|Mitchell Pearson|Track 2|[Introduction to PowerPivot](#sessionid-21011)
+00:00:00|Michael Reed|Track 1|[Big Data- Part 1 of 3- Let’s Get Started](#sessionid-21104)
+00:00:00|Michael Reed|Track 1|[Big Data- Part 2 of 3- Beyond the Basics](#sessionid-21105)
+00:00:00|Pam Shaw|Track 3|[Tips  Tricks for dynamic SSRS Reports](#sessionid-22366)
 #  
 #### SessionID: 13204
 # Location Location Location Preparing and Presenting Geographic Data 

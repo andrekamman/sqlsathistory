@@ -2,17 +2,17 @@
 # SQLSaturday #1004 – Bangladesh – Virtual 2020
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:10:00|Javier Villegas|Enterprise Database Administration  Deployment|[Monitoring SQL Server using Community solutions (Free)](#sessionid:-105905)
-10:05:00|Taiob Ali|Enterprise Database Administration  Deployment|[Azure SQL Database-Business Continuity During Disaster](#sessionid:-108007)
-11:05:00|Sam Nasr|Application  Database Development|[SQL Server Security Features](#sessionid:-108221)
-12:05:00|John Miner|Application  Database Development|[How to audit and prevent unwanted user actions.](#sessionid:-108930)
-13:05:00|André Melancia|Enterprise Database Administration  Deployment|[Hacking SQL Server Is Not Enough](#sessionid:-108361)
-14:05:00|M A Nakib|Cloud Application Development  Deployment|[Azure SQL Replication](#sessionid:-109042)
-15:05:00|Mohammad Asif Waquar|Cloud Application Development  Deployment|[Integrate existing apps and publish blockchain ledger data to SQL using Azure Blockchain as Service](#sessionid:-105098)
-16:05:00|Deepthi Goguri|Enterprise Database Administration  Deployment|[Life Cycle of a Query in SQL Server](#sessionid:-107625)
-17:05:00|Mikey Bronowski|Enterprise Database Administration  Deployment|[Multi-server agent jobs administration with happy faces and pigeons](#sessionid:-108972)
-18:05:00|Ahsan Kabir|Enterprise Database Administration  Deployment|[SQL Server Internals and Tuning](#sessionid:-109106)
-19:05:00|Pio Balistoy|Enterprise Database Administration  Deployment|[Intelligent Query Processing Feature Family](#sessionid:-108386)
+09:10:00|Javier Villegas|Enterprise Database Administration  Deployment|[Monitoring SQL Server using Community solutions (Free)](#sessionid-105905)
+10:05:00|Taiob Ali|Enterprise Database Administration  Deployment|[Azure SQL Database-Business Continuity During Disaster](#sessionid-108007)
+11:05:00|Sam Nasr|Application  Database Development|[SQL Server Security Features](#sessionid-108221)
+12:05:00|John Miner|Application  Database Development|[How to audit and prevent unwanted user actions.](#sessionid-108930)
+13:05:00|André Melancia|Enterprise Database Administration  Deployment|[Hacking SQL Server Is Not Enough](#sessionid-108361)
+14:05:00|M A Nakib|Cloud Application Development  Deployment|[Azure SQL Replication](#sessionid-109042)
+15:05:00|Mohammad Asif Waquar|Cloud Application Development  Deployment|[Integrate existing apps and publish blockchain ledger data to SQL using Azure Blockchain as Service](#sessionid-105098)
+16:05:00|Deepthi Goguri|Enterprise Database Administration  Deployment|[Life Cycle of a Query in SQL Server](#sessionid-107625)
+17:05:00|Mikey Bronowski|Enterprise Database Administration  Deployment|[Multi-server agent jobs administration with happy faces and pigeons](#sessionid-108972)
+18:05:00|Ahsan Kabir|Enterprise Database Administration  Deployment|[SQL Server Internals and Tuning](#sessionid-109106)
+19:05:00|Pio Balistoy|Enterprise Database Administration  Deployment|[Intelligent Query Processing Feature Family](#sessionid-108386)
 #  
 #### SessionID: 105905
 # Monitoring SQL Server using Community solutions (Free)

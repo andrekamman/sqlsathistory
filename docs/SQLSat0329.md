@@ -2,22 +2,22 @@
 # SQLSaturday #329 - Rio de Janeiro 2014
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Pedro Correia|Track 1|[Durability 101](#sessionid:-11834)
-00:00:00|Erika Madeira|Track 3|[Tudo que você precisa para um BI de ponta!](#sessionid:-13932)
-00:00:00|Fabiano Amorim|Track 3|[Carreira - Dicas para fazer um milhão com MSSQL](#sessionid:-14168)
-00:00:00|Marcelo Fernandes|Track 2|[Entendendo o Clusterlog](#sessionid:-14245)
-00:00:00|Ignacio Salom Rangel|Track 1|[Collecting and analyzing SQL Server performance da](#sessionid:-15136)
-00:00:00|Luan Moreno Medeiros Maciel|Track 2|[In-Memory OLAP a.k.a ColumnStore Index](#sessionid:-19266)
-00:00:00|Lucas Souza|Track 2|[Best Practices TempDB](#sessionid:-19294)
-00:00:00|Luiz Mercante|Track 3|[Transaction Log - Entendendo as melhores práticas](#sessionid:-19303)
-00:00:00|Mauro Pichiliani|Track 4|[Melhorias na interface do Management Studio](#sessionid:-19883)
-00:00:00|Murilo Miranda|Track 1|[Database Administration Strategies](#sessionid:-21182)
-00:00:00|Murilo Miranda|Track 1|[Buffer Pool Extension (BPE) - How it works?](#sessionid:-21185)
-00:00:00|Nilton Pinheiro|Track 3|[Minimizando o downtime de Migrações com o Database Mirroring](#sessionid:-21457)
-00:00:00|Ozimar Souza|Track 3|[Computação em Nuvem e SQL Azure](#sessionid:-21611)
-00:00:00|Sulamita Dantas|Track 4|[Melhores Práticas para Utilizar as Polices no SQL Server 2014](#sessionid:-24241)
-00:00:00|Vitor Fava|Track 4|[Otimizando seus planos de execução com o SQL Server 2014 Cardinality Estimator](#sessionid:-27496)
-00:00:00|Dennes Torres|Track 2|[Trocando o Profiler pelos Extended Events](#sessionid:-34619)
+00:00:00|Pedro Correia|Track 1|[Durability 101](#sessionid-11834)
+00:00:00|Erika Madeira|Track 3|[Tudo que você precisa para um BI de ponta!](#sessionid-13932)
+00:00:00|Fabiano Amorim|Track 3|[Carreira - Dicas para fazer um milhão com MSSQL](#sessionid-14168)
+00:00:00|Marcelo Fernandes|Track 2|[Entendendo o Clusterlog](#sessionid-14245)
+00:00:00|Ignacio Salom Rangel|Track 1|[Collecting and analyzing SQL Server performance da](#sessionid-15136)
+00:00:00|Luan Moreno Medeiros Maciel|Track 2|[In-Memory OLAP a.k.a ColumnStore Index](#sessionid-19266)
+00:00:00|Lucas Souza|Track 2|[Best Practices TempDB](#sessionid-19294)
+00:00:00|Luiz Mercante|Track 3|[Transaction Log - Entendendo as melhores práticas](#sessionid-19303)
+00:00:00|Mauro Pichiliani|Track 4|[Melhorias na interface do Management Studio](#sessionid-19883)
+00:00:00|Murilo Miranda|Track 1|[Database Administration Strategies](#sessionid-21182)
+00:00:00|Murilo Miranda|Track 1|[Buffer Pool Extension (BPE) - How it works?](#sessionid-21185)
+00:00:00|Nilton Pinheiro|Track 3|[Minimizando o downtime de Migrações com o Database Mirroring](#sessionid-21457)
+00:00:00|Ozimar Souza|Track 3|[Computação em Nuvem e SQL Azure](#sessionid-21611)
+00:00:00|Sulamita Dantas|Track 4|[Melhores Práticas para Utilizar as Polices no SQL Server 2014](#sessionid-24241)
+00:00:00|Vitor Fava|Track 4|[Otimizando seus planos de execução com o SQL Server 2014 Cardinality Estimator](#sessionid-27496)
+00:00:00|Dennes Torres|Track 2|[Trocando o Profiler pelos Extended Events](#sessionid-34619)
 #  
 #### SessionID: 11834
 # Durability 101

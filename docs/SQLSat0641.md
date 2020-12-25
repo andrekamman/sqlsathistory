@@ -2,18 +2,18 @@
 # SQLSaturday #641 - Puerto Rico 2017
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:45:00|German Ordonez|Enterprise Database Administration  Deployment|[Gestión de Backups y recuperación en bases de datos SQL Server](#sessionid:-66504)
-09:45:00|Ramon Ponte|Data Science|[Better Together: Power BI, Office 365 and Azure](#sessionid:-66569)
-09:45:00|Jorge Sanchez|Other|[Creating a Server Antivirus/Antimalware Definitions Update  Scanning Status Report](#sessionid:-66595)
-11:15:00|German Ordonez|Enterprise Database Administration  Deployment|[Monitoreo y diagnostico de bases de datos SQL Server](#sessionid:-64902)
-11:15:00|Jose L. Rivera|Advanced Analytics|[SQL Server Machine Learning Services in a nutshell](#sessionid:-65511)
-11:15:00|Nestor Figueroa|Data Science|["The Statistical Sommelier", A Practical Intro to R!](#sessionid:-66847)
-13:45:00|Isaias Martinez|Strategy and Architecture|[Disaster Recovery, de dificil a muy facil.](#sessionid:-62724)
-13:45:00|Juan Martí|Software Development|[Using Azure Machine Learning Power In Xamarin](#sessionid:-66497)
-13:45:00|Guillermo Caicedo Santiago|BI Platform Architecture, Development  Administration|[Azure SQL Data Warehouse Loading Strategies](#sessionid:-66570)
-15:15:00|Jose L. Rivera|Enterprise Database Administration  Deployment|[SQL Server on Linux](#sessionid:-65512)
-15:15:00|Orlando Mezquita|Data Science|[Introduction to Data Visualization with R: ggplot2  more](#sessionid:-66601)
-15:15:00|Kahlil Mendez|Other|[Microsoft SQL Server Certification and Career Roadmap](#sessionid:-66745)
+09:45:00|German Ordonez|Enterprise Database Administration  Deployment|[Gestión de Backups y recuperación en bases de datos SQL Server](#sessionid-66504)
+09:45:00|Ramon Ponte|Data Science|[Better Together: Power BI, Office 365 and Azure](#sessionid-66569)
+09:45:00|Jorge Sanchez|Other|[Creating a Server Antivirus/Antimalware Definitions Update  Scanning Status Report](#sessionid-66595)
+11:15:00|German Ordonez|Enterprise Database Administration  Deployment|[Monitoreo y diagnostico de bases de datos SQL Server](#sessionid-64902)
+11:15:00|Jose L. Rivera|Advanced Analytics|[SQL Server Machine Learning Services in a nutshell](#sessionid-65511)
+11:15:00|Nestor Figueroa|Data Science|["The Statistical Sommelier", A Practical Intro to R!](#sessionid-66847)
+13:45:00|Isaias Martinez|Strategy and Architecture|[Disaster Recovery, de dificil a muy facil.](#sessionid-62724)
+13:45:00|Juan Martí|Software Development|[Using Azure Machine Learning Power In Xamarin](#sessionid-66497)
+13:45:00|Guillermo Caicedo Santiago|BI Platform Architecture, Development  Administration|[Azure SQL Data Warehouse Loading Strategies](#sessionid-66570)
+15:15:00|Jose L. Rivera|Enterprise Database Administration  Deployment|[SQL Server on Linux](#sessionid-65512)
+15:15:00|Orlando Mezquita|Data Science|[Introduction to Data Visualization with R: ggplot2  more](#sessionid-66601)
+15:15:00|Kahlil Mendez|Other|[Microsoft SQL Server Certification and Career Roadmap](#sessionid-66745)
 #  
 #### SessionID: 66504
 # Gestión de Backups y recuperación en bases de datos SQL Server

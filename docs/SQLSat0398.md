@@ -2,16 +2,16 @@
 # SQLSaturday #398 - Krasnodar 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Evgeny Khabarov|Other|[Транзакционная репликация - это не страшно. ](#sessionid:-13766)
-00:00:00|Andrey Zavadskiy|Other|[Visual Studio для разработчиков баз данных](#sessionid:-28308)
-10:15:00|Evgeny Khabarov|Track 1|[Поговорим об ожиданиях и очередях](#sessionid:-13767)
-10:15:00|Mikhail Komarov|Track 3|[Windows Server 2012/R2: новые возможности для SQL Server и виртуализация на его платформе](#sessionid:-18667)
-10:15:00|Andrey Zavadskiy|Track 2|[Модульное тестирование в помощью SQL Server Data Tools](#sessionid:-28307)
-11:45:00|Sergey Olontsev|Track 1|[Почему мой SQL Server "тормозит"?](#sessionid:-24365)
-11:45:00|Alesya Zhuk|Track 3|[Использование динамического sql в MS SQL Server ](#sessionid:-35947)
-13:30:00|Denis Reznik|Track 2|[Скрытые сокровища SQL Server 2014](#sessionid:-13111)
-13:30:00|Dmitry Pilugin|Track 1|[Внутри Оптимизатора Запросов: Сортировка](#sessionid:-22165)
-13:30:00|Andrey Korshikov|Track 3|[BIML – ускоряем разработку в SSIS](#sessionid:-35772)
+00:00:00|Evgeny Khabarov|Other|[Транзакционная репликация - это не страшно. ](#sessionid-13766)
+00:00:00|Andrey Zavadskiy|Other|[Visual Studio для разработчиков баз данных](#sessionid-28308)
+10:15:00|Evgeny Khabarov|Track 1|[Поговорим об ожиданиях и очередях](#sessionid-13767)
+10:15:00|Mikhail Komarov|Track 3|[Windows Server 2012/R2: новые возможности для SQL Server и виртуализация на его платформе](#sessionid-18667)
+10:15:00|Andrey Zavadskiy|Track 2|[Модульное тестирование в помощью SQL Server Data Tools](#sessionid-28307)
+11:45:00|Sergey Olontsev|Track 1|[Почему мой SQL Server "тормозит"?](#sessionid-24365)
+11:45:00|Alesya Zhuk|Track 3|[Использование динамического sql в MS SQL Server ](#sessionid-35947)
+13:30:00|Denis Reznik|Track 2|[Скрытые сокровища SQL Server 2014](#sessionid-13111)
+13:30:00|Dmitry Pilugin|Track 1|[Внутри Оптимизатора Запросов: Сортировка](#sessionid-22165)
+13:30:00|Andrey Korshikov|Track 3|[BIML – ускоряем разработку в SSIS](#sessionid-35772)
 #  
 #### SessionID: 13766
 # Транзакционная репликация - это не страшно. 

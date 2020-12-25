@@ -2,16 +2,16 @@
 # SQLSaturday #139 - Adelaide 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Andrew Butenko|Track 2|[LightSwitch 2011 application development](#sessionid:-11135)
-00:00:00|Raja N|Track 1|[DBCA - Database Consolidation Appliance](#sessionid:-21518)
-00:00:00|Paul White|Track 1|[Query Optimizer Deep Dive Pt2](#sessionid:-21881)
-00:00:00|Paul White|Track 1|[Query Optimizer Deep Dive Pt1](#sessionid:-21882)
-00:00:00|Peter Ward|Track 2|[If you had $10K what would you spend it on?](#sessionid:-22058)
-00:00:00|Peter Ward|Track 2|[The Dark Art of Performance Tuning](#sessionid:-22059)
-00:00:00|Paul te Braak|Track 2|[Tabular Modelling and Design Concepts](#sessionid:-22382)
-00:00:00|Rob Farley|Track 1|[The MERGE Statement - T-SQL's Swiss Army Knife](#sessionid:-23181)
-00:00:00|Rob Farley|Track 1|[Analytic T-SQL Functions in 2012](#sessionid:-23183)
-00:00:00|Roger Noble|Track 2|[Visualising  your data with PivotViewer](#sessionid:-23412)
+00:00:00|Andrew Butenko|Track 2|[LightSwitch 2011 application development](#sessionid-11135)
+00:00:00|Raja N|Track 1|[DBCA - Database Consolidation Appliance](#sessionid-21518)
+00:00:00|Paul White|Track 1|[Query Optimizer Deep Dive Pt2](#sessionid-21881)
+00:00:00|Paul White|Track 1|[Query Optimizer Deep Dive Pt1](#sessionid-21882)
+00:00:00|Peter Ward|Track 2|[If you had $10K what would you spend it on?](#sessionid-22058)
+00:00:00|Peter Ward|Track 2|[The Dark Art of Performance Tuning](#sessionid-22059)
+00:00:00|Paul te Braak|Track 2|[Tabular Modelling and Design Concepts](#sessionid-22382)
+00:00:00|Rob Farley|Track 1|[The MERGE Statement - T-SQL's Swiss Army Knife](#sessionid-23181)
+00:00:00|Rob Farley|Track 1|[Analytic T-SQL Functions in 2012](#sessionid-23183)
+00:00:00|Roger Noble|Track 2|[Visualising  your data with PivotViewer](#sessionid-23412)
 #  
 #### SessionID: 11135
 # LightSwitch 2011 application development

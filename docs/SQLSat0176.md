@@ -2,18 +2,18 @@
 # SQLSaturday #176 - Pordenone, Italy 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Francesco Milano|OLTP|[NOLOCK is gonna save your lives (or maybe not)](#sessionid:-11810)
-00:00:00|Dejan Sarka|OLAP|[Market Basket Analysis](#sessionid:-13512)
-00:00:00|Emanuele Zanchettin|OLTP|[SQL Server 2012 come motore di ricerca semantico](#sessionid:-14128)
-00:00:00|Francesco De Chirico|OLAP|[OLAP  MDX in action](#sessionid:-14191)
-00:00:00|Gianluca Hotz|OLTP|[SQL Server 2012 AlwaysOn](#sessionid:-14591)
-00:00:00|Gianluca Sartori|OLTP|[ORMs: the good, the bad and the ugly](#sessionid:-14593)
-00:00:00|Ian Meade|OLTP|[Dynamic code for efficient searching ](#sessionid:-15299)
-00:00:00|Davide Mauri|OLAP|[Data Warehousing Basics ](#sessionid:-15310)
-00:00:00|Marco Pozzan|OLAP|[Using Integration Services to load the DWH](#sessionid:-15340)
-00:00:00|Marco Russo|OLAP|[Tabular  DAX](#sessionid:-19491)
-00:00:00|Sergio Govoni|OLTP|[Rewrite your Queries with SQL Server 2012](#sessionid:-24390)
-00:00:00|Marco Parenzan|OLTP|[SQL Server Data Tools](#sessionid:-34750)
+00:00:00|Francesco Milano|OLTP|[NOLOCK is gonna save your lives (or maybe not)](#sessionid-11810)
+00:00:00|Dejan Sarka|OLAP|[Market Basket Analysis](#sessionid-13512)
+00:00:00|Emanuele Zanchettin|OLTP|[SQL Server 2012 come motore di ricerca semantico](#sessionid-14128)
+00:00:00|Francesco De Chirico|OLAP|[OLAP  MDX in action](#sessionid-14191)
+00:00:00|Gianluca Hotz|OLTP|[SQL Server 2012 AlwaysOn](#sessionid-14591)
+00:00:00|Gianluca Sartori|OLTP|[ORMs: the good, the bad and the ugly](#sessionid-14593)
+00:00:00|Ian Meade|OLTP|[Dynamic code for efficient searching ](#sessionid-15299)
+00:00:00|Davide Mauri|OLAP|[Data Warehousing Basics ](#sessionid-15310)
+00:00:00|Marco Pozzan|OLAP|[Using Integration Services to load the DWH](#sessionid-15340)
+00:00:00|Marco Russo|OLAP|[Tabular  DAX](#sessionid-19491)
+00:00:00|Sergio Govoni|OLTP|[Rewrite your Queries with SQL Server 2012](#sessionid-24390)
+00:00:00|Marco Parenzan|OLTP|[SQL Server Data Tools](#sessionid-34750)
 #  
 #### SessionID: 11810
 # NOLOCK is gonna save your lives (or maybe not)

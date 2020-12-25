@@ -2,15 +2,15 @@
 # SQLSaturday #9 - Greenville 2008
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|David Darden|SQL DBA|[Resource Governor in SQL Server 2008](#sessionid:-35091)
-00:00:00|Jason Burton|SQL Development|[Getting Started with SQL Express](#sessionid:-35147)
-00:00:00|John Welch|Business Intelligence|[Patterns for SSIS Configurations](#sessionid:-35213)
-00:00:00|John Welch|Business Intelligence|[Using Data Profiling to Improve ETL](#sessionid:-35216)
-00:00:00|Lee Johnson|SQL Development|[SQL Server 2005 Auditing Using the CLR](#sessionid:-35294)
-00:00:00|Rob Schoenborn|SQL DBA|[Scaling SQL Server for Large Datamarts](#sessionid:-35399)
-00:00:00|Rob Schoenborn|Business Intelligence|[Performance Point 2007 Server Data Integration](#sessionid:-35400)
-00:00:00|Tejas Patel|Business Intelligence|[Implementing Smart Reports with MS BI Platform](#sessionid:-35457)
-00:00:00|Whitney Weaver|SQL DBA|[Dynamic Management Views Will Save Your Life](#sessionid:-35514)
+00:00:00|David Darden|SQL DBA|[Resource Governor in SQL Server 2008](#sessionid-35091)
+00:00:00|Jason Burton|SQL Development|[Getting Started with SQL Express](#sessionid-35147)
+00:00:00|John Welch|Business Intelligence|[Patterns for SSIS Configurations](#sessionid-35213)
+00:00:00|John Welch|Business Intelligence|[Using Data Profiling to Improve ETL](#sessionid-35216)
+00:00:00|Lee Johnson|SQL Development|[SQL Server 2005 Auditing Using the CLR](#sessionid-35294)
+00:00:00|Rob Schoenborn|SQL DBA|[Scaling SQL Server for Large Datamarts](#sessionid-35399)
+00:00:00|Rob Schoenborn|Business Intelligence|[Performance Point 2007 Server Data Integration](#sessionid-35400)
+00:00:00|Tejas Patel|Business Intelligence|[Implementing Smart Reports with MS BI Platform](#sessionid-35457)
+00:00:00|Whitney Weaver|SQL DBA|[Dynamic Management Views Will Save Your Life](#sessionid-35514)
 #  
 #### SessionID: 35091
 # Resource Governor in SQL Server 2008

@@ -2,21 +2,21 @@
 # SQLSaturday #780 - Kharkiv 2018
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Michal Sadowski|Enterprise Database Administration  Deployment|[Database corruption](#sessionid:-80817)
-10:00:00|Jose Manuel Jurado Diaz|Cloud Application Development  Deployment|[Back to the future - Migrating our SQL Server OnPremise Database to Azure](#sessionid:-84832)
-10:00:00|Mihail Mateev|Strategy and Architecture|[Azure IoT Solution Architecture Best Practices](#sessionid:-84860)
-11:10:00|Janusz Rokicki|Strategy and Architecture|[The Road to The Autonomous Databases](#sessionid:-85230)
-11:10:00|Yevhen Nedashkivskyi|Enterprise Database Administration  Deployment|[ДБА поневоле – что делать? (ru)](#sessionid:-85351)
-11:10:00|Andriy Pogorelov|Enterprise Database Administration  Deployment|[SQL Server Transaction Log: internals](#sessionid:-85430)
-13:30:00|Andrii Zrobok|Application  Database Development|[MS SQL 2016/2017 – New in query processing](#sessionid:-82276)
-13:30:00|Eugene Polonichko|Cloud Application Development  Deployment|[Azure Data Catalog: Your enterprise information repository](#sessionid:-82329)
-13:30:00|Yevhen Nedashkivskyi|Enterprise Database Administration  Deployment|[Сбой? Не страшен! (ru)](#sessionid:-85353)
-14:40:00|Taras Kloba|BI Platform Architecture, Development  Administration|[Analyzing 100 billion rows in 30 seconds with Google BigQuery](#sessionid:-83149)
-14:40:00|Mihail Mateev|Cloud Application Development  Deployment|[Dealing with CosmosDB](#sessionid:-84862)
-14:40:00|Sergey Syrovatchenko|Application  Database Development|[MS SQL Server: XML, XQuery and Performance Issues](#sessionid:-85742)
-16:00:00|Michal Sadowski|Enterprise Database Administration  Deployment|[Encryption in SQL Server](#sessionid:-80816)
-16:00:00|Eugene Polonichko|BI Platform Architecture, Development  Administration|[Azure Data Factory v2: What's new?](#sessionid:-84981)
-16:00:00|Sergey Syrovatchenko|Application  Database Development|[MS SQL Server: JSON](#sessionid:-85743)
+10:00:00|Michal Sadowski|Enterprise Database Administration  Deployment|[Database corruption](#sessionid-80817)
+10:00:00|Jose Manuel Jurado Diaz|Cloud Application Development  Deployment|[Back to the future - Migrating our SQL Server OnPremise Database to Azure](#sessionid-84832)
+10:00:00|Mihail Mateev|Strategy and Architecture|[Azure IoT Solution Architecture Best Practices](#sessionid-84860)
+11:10:00|Janusz Rokicki|Strategy and Architecture|[The Road to The Autonomous Databases](#sessionid-85230)
+11:10:00|Yevhen Nedashkivskyi|Enterprise Database Administration  Deployment|[ДБА поневоле – что делать? (ru)](#sessionid-85351)
+11:10:00|Andriy Pogorelov|Enterprise Database Administration  Deployment|[SQL Server Transaction Log: internals](#sessionid-85430)
+13:30:00|Andrii Zrobok|Application  Database Development|[MS SQL 2016/2017 – New in query processing](#sessionid-82276)
+13:30:00|Eugene Polonichko|Cloud Application Development  Deployment|[Azure Data Catalog: Your enterprise information repository](#sessionid-82329)
+13:30:00|Yevhen Nedashkivskyi|Enterprise Database Administration  Deployment|[Сбой? Не страшен! (ru)](#sessionid-85353)
+14:40:00|Taras Kloba|BI Platform Architecture, Development  Administration|[Analyzing 100 billion rows in 30 seconds with Google BigQuery](#sessionid-83149)
+14:40:00|Mihail Mateev|Cloud Application Development  Deployment|[Dealing with CosmosDB](#sessionid-84862)
+14:40:00|Sergey Syrovatchenko|Application  Database Development|[MS SQL Server: XML, XQuery and Performance Issues](#sessionid-85742)
+16:00:00|Michal Sadowski|Enterprise Database Administration  Deployment|[Encryption in SQL Server](#sessionid-80816)
+16:00:00|Eugene Polonichko|BI Platform Architecture, Development  Administration|[Azure Data Factory v2: What's new?](#sessionid-84981)
+16:00:00|Sergey Syrovatchenko|Application  Database Development|[MS SQL Server: JSON](#sessionid-85743)
 #  
 #### SessionID: 80817
 # Database corruption

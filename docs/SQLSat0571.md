@@ -2,17 +2,17 @@
 # SQLSaturday #571 - Auckland 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:30:00|Rob Douglas|Database Administration|[Are You High?  Can You Recover? - HA and DR in SQL Server.](#sessionid:-52937)
-09:30:00|Jonathan Stewart|BI Platform Architecture, Development  Administration|[Data Visualization:  How to truly tell a great story!](#sessionid:-53298)
-10:45:00|Dave Dustin|Database Development|[Introduction to the Query Store](#sessionid:-53613)
-10:45:00|Andrew Worsley|BI Platform Architecture, Development  Administration|[Package Management in Microsoft R Open with Checkpoint](#sessionid:-54936)
-11:15:00|kokila kondasamy|Database Development|[Restoring SQL Server Database to Old Version](#sessionid:-54933)
-12:45:00|Amit Arora|Database Development|[Temporal Databases in Microsoft SQL server 2016](#sessionid:-52652)
-12:45:00|Kevin Alcock|Database Administration|[Protecting your data from SQL Injection attacks](#sessionid:-53836)
-14:00:00|Patrick Flynn|Database Administration|[Adding Power to the DBA toolkit!](#sessionid:-52811)
-14:00:00|Reza Rad|BI Platform Architecture, Development  Administration|[Security in Power BI](#sessionid:-53881)
-15:30:00|Manjot Kaur|Database Development|[DW SuperHero-Columnstore Index](#sessionid:-52824)
-15:30:00|Leila Etaati|BI Platform Architecture, Development  Administration|[R; One Ring to Rule Them All](#sessionid:-54772)
+09:30:00|Rob Douglas|Database Administration|[Are You High?  Can You Recover? - HA and DR in SQL Server.](#sessionid-52937)
+09:30:00|Jonathan Stewart|BI Platform Architecture, Development  Administration|[Data Visualization:  How to truly tell a great story!](#sessionid-53298)
+10:45:00|Dave Dustin|Database Development|[Introduction to the Query Store](#sessionid-53613)
+10:45:00|Andrew Worsley|BI Platform Architecture, Development  Administration|[Package Management in Microsoft R Open with Checkpoint](#sessionid-54936)
+11:15:00|kokila kondasamy|Database Development|[Restoring SQL Server Database to Old Version](#sessionid-54933)
+12:45:00|Amit Arora|Database Development|[Temporal Databases in Microsoft SQL server 2016](#sessionid-52652)
+12:45:00|Kevin Alcock|Database Administration|[Protecting your data from SQL Injection attacks](#sessionid-53836)
+14:00:00|Patrick Flynn|Database Administration|[Adding Power to the DBA toolkit!](#sessionid-52811)
+14:00:00|Reza Rad|BI Platform Architecture, Development  Administration|[Security in Power BI](#sessionid-53881)
+15:30:00|Manjot Kaur|Database Development|[DW SuperHero-Columnstore Index](#sessionid-52824)
+15:30:00|Leila Etaati|BI Platform Architecture, Development  Administration|[R; One Ring to Rule Them All](#sessionid-54772)
 #  
 #### SessionID: 52937
 # Are You High?  Can You Recover? - HA and DR in SQL Server.

@@ -2,21 +2,21 @@
 # SQLSaturday #868 - Kharkiv 2019
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Denis Reznik|Application  Database Development|[Hidden gems of SQL Server 2017](#sessionid:-90494)
-10:00:00|Mihail Mateev|Application  Database Development|[Build Modern Cloud Applications with Net Core 3.0, entity framework and CosmosDB.](#sessionid:-94876)
-10:00:00|Ruslan Zolotukhin|Advanced Analysis Techniques|[Hidden force of the PowerQuery. Powerful ETL  AI integration](#sessionid:-96811)
-11:10:00|Sergey Syrovatchenko|Professional Development|[SQL Server Columnstore Indexes: Practical recipes](#sessionid:-91833)
-11:10:00|Artur Konstantynov|Analytics and Visualization|[Power BI. Benefits and Pitfalls of DAX.](#sessionid:-95710)
-11:10:00|Yevhen Nedashkivskyi|Application  Database Development|[Узгодженість, паралелізм та блокування в сучасних базах даних](#sessionid:-98016)
-13:30:00|Taras Kloba|Enterprise Database Administration  Deployment|[What is CI/CD for databases or how to automate DB changes](#sessionid:-91305)
-13:30:00|Erland Sommarskog|Application  Database Development|[Don't Use Cursors or Why You Maybe Should Use a Cursor After All](#sessionid:-94814)
-13:30:00|Eugene Polonichko|BI Platform Architecture, Development  Administration|[Architecture of modern data warehouse](#sessionid:-96229)
-14:40:00|André Melancia|Enterprise Database Administration  Deployment|[Hacking SQL Server Is Not Enough](#sessionid:-94276)
-14:40:00|Erland Sommarskog|Application  Database Development|[Don't Bite Off More Than You Can Chew - Take It in Chunks](#sessionid:-94813)
-14:40:00|Dmytro Polishchuk|BI Platform Architecture, Development  Administration|[Slowly Changing Dimensions types 0 through 7 and their ETL implementation (SSIS exmples)](#sessionid:-95707)
-16:00:00|André Melancia|Enterprise Database Administration  Deployment|[SQL Curiosities: Цікавість згубила кішку](#sessionid:-94279)
-16:00:00|Andrii Zrobok|Application  Database Development|[MS SQLServer 2019 Intelligent Query Processing](#sessionid:-94300)
-16:00:00|Catalin Gheorghiu|Application  Database Development|[SQL database on IoT devices, could you? should you? would you?](#sessionid:-98362)
+10:00:00|Denis Reznik|Application  Database Development|[Hidden gems of SQL Server 2017](#sessionid-90494)
+10:00:00|Mihail Mateev|Application  Database Development|[Build Modern Cloud Applications with Net Core 3.0, entity framework and CosmosDB.](#sessionid-94876)
+10:00:00|Ruslan Zolotukhin|Advanced Analysis Techniques|[Hidden force of the PowerQuery. Powerful ETL  AI integration](#sessionid-96811)
+11:10:00|Sergey Syrovatchenko|Professional Development|[SQL Server Columnstore Indexes: Practical recipes](#sessionid-91833)
+11:10:00|Artur Konstantynov|Analytics and Visualization|[Power BI. Benefits and Pitfalls of DAX.](#sessionid-95710)
+11:10:00|Yevhen Nedashkivskyi|Application  Database Development|[Узгодженість, паралелізм та блокування в сучасних базах даних](#sessionid-98016)
+13:30:00|Taras Kloba|Enterprise Database Administration  Deployment|[What is CI/CD for databases or how to automate DB changes](#sessionid-91305)
+13:30:00|Erland Sommarskog|Application  Database Development|[Don't Use Cursors or Why You Maybe Should Use a Cursor After All](#sessionid-94814)
+13:30:00|Eugene Polonichko|BI Platform Architecture, Development  Administration|[Architecture of modern data warehouse](#sessionid-96229)
+14:40:00|André Melancia|Enterprise Database Administration  Deployment|[Hacking SQL Server Is Not Enough](#sessionid-94276)
+14:40:00|Erland Sommarskog|Application  Database Development|[Don't Bite Off More Than You Can Chew - Take It in Chunks](#sessionid-94813)
+14:40:00|Dmytro Polishchuk|BI Platform Architecture, Development  Administration|[Slowly Changing Dimensions types 0 through 7 and their ETL implementation (SSIS exmples)](#sessionid-95707)
+16:00:00|André Melancia|Enterprise Database Administration  Deployment|[SQL Curiosities: Цікавість згубила кішку](#sessionid-94279)
+16:00:00|Andrii Zrobok|Application  Database Development|[MS SQLServer 2019 Intelligent Query Processing](#sessionid-94300)
+16:00:00|Catalin Gheorghiu|Application  Database Development|[SQL database on IoT devices, could you? should you? would you?](#sessionid-98362)
 #  
 #### SessionID: 90494
 # Hidden gems of SQL Server 2017

@@ -2,16 +2,16 @@
 # SQLSaturday #879 - Cuiabá 2019
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Sidney Cirqueira|Application  Database Development|[DevOps for Azure SQL Databases](#sessionid:-93026)
-09:00:00|Nilton Kazuyuki Ueda|BI Platform Architecture, Development  Administration|[[Tableau] Compartilhando insights com sua organização com Tableau Server](#sessionid:-94293)
-10:30:00|Leandro Domingues|Strategy and Architecture|[Modelando em Document Model - Além do NoJoin!](#sessionid:-93836)
-10:30:00|Paulo Ricardo Santos|Advanced Analysis Techniques|[Power BI + linguagem R: mais poder em suas mãos](#sessionid:-95051)
-13:00:00|Vitor Fava|Cloud Application Development  Deployment|[Azure SQL Database - Scaling In e Scaling Out através do elastic pool](#sessionid:-92144)
-13:00:00|Roberto Santos|Enterprise Database Administration  Deployment|[Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade](#sessionid:-94349)
-14:00:00|Fernando Avelãs|Enterprise Database Administration  Deployment|[Dicas e Truques para Aumentar sua Produtividade com o SSMS](#sessionid:-93924)
-14:00:00|William Amorim|BI Platform Architecture, Development  Administration|[Preparando uma base de teste com docker](#sessionid:-95953)
-15:30:00|Igor Santos de Paula|Professional Development|[NoSQL Principios e Conceitos com Cosmos DB](#sessionid:-95805)
-15:30:00|Rafael Moura|Application  Database Development|[O que há de novo para os desenvolvedores no Visual Studio 2019](#sessionid:-95922)
+09:00:00|Sidney Cirqueira|Application  Database Development|[DevOps for Azure SQL Databases](#sessionid-93026)
+09:00:00|Nilton Kazuyuki Ueda|BI Platform Architecture, Development  Administration|[[Tableau] Compartilhando insights com sua organização com Tableau Server](#sessionid-94293)
+10:30:00|Leandro Domingues|Strategy and Architecture|[Modelando em Document Model - Além do NoJoin!](#sessionid-93836)
+10:30:00|Paulo Ricardo Santos|Advanced Analysis Techniques|[Power BI + linguagem R: mais poder em suas mãos](#sessionid-95051)
+13:00:00|Vitor Fava|Cloud Application Development  Deployment|[Azure SQL Database - Scaling In e Scaling Out através do elastic pool](#sessionid-92144)
+13:00:00|Roberto Santos|Enterprise Database Administration  Deployment|[Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade](#sessionid-94349)
+14:00:00|Fernando Avelãs|Enterprise Database Administration  Deployment|[Dicas e Truques para Aumentar sua Produtividade com o SSMS](#sessionid-93924)
+14:00:00|William Amorim|BI Platform Architecture, Development  Administration|[Preparando uma base de teste com docker](#sessionid-95953)
+15:30:00|Igor Santos de Paula|Professional Development|[NoSQL Principios e Conceitos com Cosmos DB](#sessionid-95805)
+15:30:00|Rafael Moura|Application  Database Development|[O que há de novo para os desenvolvedores no Visual Studio 2019](#sessionid-95922)
 #  
 #### SessionID: 93026
 # DevOps for Azure SQL Databases

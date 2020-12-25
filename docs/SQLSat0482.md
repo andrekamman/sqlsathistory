@@ -2,17 +2,17 @@
 # SQLSaturday #482 - Nepal 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:15:00|Dinesh Priyankara|Business Intelligence |[Processing unstructured data](#sessionid:-42610)
-09:15:00|Dmitri Korotkevitch|Database Administration |[5 Ways to Reduce Database Size and Improve Performance](#sessionid:-45889)
-10:30:00|Gogula Aryalingam|Business Intelligence |[Power BI: The shift to business-led self-service analytics](#sessionid:-45731)
-10:30:00|Nagaraj Venkatesan|Database Administration |[Cardinality Estimator - Before 2014 and After](#sessionid:-46369)
-11:30:00|Dmitri Korotkevitch|Strategy and Architecture|[Data Partitioning for Database Architects and Mere Mortals](#sessionid:-45888)
-13:00:00|Gurvesh Singh|Pre-Conference|[Take your IT to the next level](#sessionid:-45935)
-13:45:00|Dmitri Korotkevitch|Application  Database Development|[Thinking Outside the In-Memory Box](#sessionid:-45890)
-13:45:00|Anil Maharjan|Business Intelligence |[Using power query to tell your story form your Facebook data.](#sessionid:-45926)
-14:45:00|Gogula Aryalingam|Business Intelligence |[Building a Power BI solution](#sessionid:-44431)
-14:45:00|Satya Prakash|Database Administration |[SQL Server On Windows Cluster](#sessionid:-48525)
-16:15:00|Shree Khanal|Database Administration |[Advanced SQL Server HA and DR Architectures](#sessionid:-46597)
+09:15:00|Dinesh Priyankara|Business Intelligence |[Processing unstructured data](#sessionid-42610)
+09:15:00|Dmitri Korotkevitch|Database Administration |[5 Ways to Reduce Database Size and Improve Performance](#sessionid-45889)
+10:30:00|Gogula Aryalingam|Business Intelligence |[Power BI: The shift to business-led self-service analytics](#sessionid-45731)
+10:30:00|Nagaraj Venkatesan|Database Administration |[Cardinality Estimator - Before 2014 and After](#sessionid-46369)
+11:30:00|Dmitri Korotkevitch|Strategy and Architecture|[Data Partitioning for Database Architects and Mere Mortals](#sessionid-45888)
+13:00:00|Gurvesh Singh|Pre-Conference|[Take your IT to the next level](#sessionid-45935)
+13:45:00|Dmitri Korotkevitch|Application  Database Development|[Thinking Outside the In-Memory Box](#sessionid-45890)
+13:45:00|Anil Maharjan|Business Intelligence |[Using power query to tell your story form your Facebook data.](#sessionid-45926)
+14:45:00|Gogula Aryalingam|Business Intelligence |[Building a Power BI solution](#sessionid-44431)
+14:45:00|Satya Prakash|Database Administration |[SQL Server On Windows Cluster](#sessionid-48525)
+16:15:00|Shree Khanal|Database Administration |[Advanced SQL Server HA and DR Architectures](#sessionid-46597)
 #  
 #### SessionID: 42610
 # Processing unstructured data

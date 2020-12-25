@@ -2,21 +2,21 @@
 # SQLSaturday #871 - Sardegna 2019
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Davide Luzzu|Artificial Intelligence|[How AI will help us to work better](#sessionid:-92519)
-10:00:00|Marco Dal Pino|Internet of Things|[Create IoT devices connected or on the Edge using AI and ML](#sessionid:-92742)
-10:00:00|Sergio Govoni|Database Development|[Set-based vs Iterative programming (IT)](#sessionid:-94179)
-11:15:00|Francesco De Chirico|Advanced Analytics|[Il mio grosso grasso modello di Power BI](#sessionid:-90649)
-11:15:00|Francesco Diaz|Artificial Intelligence|[From 0 to Conversational AI using Microsoft Azure platform: how to get started](#sessionid:-92420)
-11:15:00|Gianluca Hotz|Database Admin|[SQL Server 2019 CTP 2.4 (IT)](#sessionid:-92986)
-13:15:00|Marco Obinu|Database Admin|[SQL Server ed Azure: Disaster Recovery per tutti](#sessionid:-90344)
-13:15:00|Giancarlo Lelli|Internet of Things|[Lap around the Azure Cognitive Services for the .NET Developer](#sessionid:-92921)
-13:15:00|Lucrezia Noli|Machine Learning|[Applied ML: from theoretical to actionable Deep Learning Structures (IT)](#sessionid:-92975)
-14:30:00|Dennes Torres|Advanced Analytics|[Self-Service ETL: The PowerBI Data Flows](#sessionid:-90445)
-14:30:00|Sergio Govoni|Database Development|[SQL Server Execution Plans: From Zero to Hero (IT)](#sessionid:-91267)
-14:30:00|Sebastiano Galazzo|Machine Learning|[Machine Learning - Best Practices](#sessionid:-92179)
-15:45:00|Luca Zavarella|Machine Learning|[Market Basket Analysis in SQL Server Machine Learning Services](#sessionid:-90359)
-15:45:00|Francesco Sparacio|Internet of Things|[Stranger IoThing: behind remote monitoring](#sessionid:-91716)
-15:45:00|Franco Perduca|Database Development|[Practical Data Virtualization](#sessionid:-93157)
+10:00:00|Davide Luzzu|Artificial Intelligence|[How AI will help us to work better](#sessionid-92519)
+10:00:00|Marco Dal Pino|Internet of Things|[Create IoT devices connected or on the Edge using AI and ML](#sessionid-92742)
+10:00:00|Sergio Govoni|Database Development|[Set-based vs Iterative programming (IT)](#sessionid-94179)
+11:15:00|Francesco De Chirico|Advanced Analytics|[Il mio grosso grasso modello di Power BI](#sessionid-90649)
+11:15:00|Francesco Diaz|Artificial Intelligence|[From 0 to Conversational AI using Microsoft Azure platform: how to get started](#sessionid-92420)
+11:15:00|Gianluca Hotz|Database Admin|[SQL Server 2019 CTP 2.4 (IT)](#sessionid-92986)
+13:15:00|Marco Obinu|Database Admin|[SQL Server ed Azure: Disaster Recovery per tutti](#sessionid-90344)
+13:15:00|Giancarlo Lelli|Internet of Things|[Lap around the Azure Cognitive Services for the .NET Developer](#sessionid-92921)
+13:15:00|Lucrezia Noli|Machine Learning|[Applied ML: from theoretical to actionable Deep Learning Structures (IT)](#sessionid-92975)
+14:30:00|Dennes Torres|Advanced Analytics|[Self-Service ETL: The PowerBI Data Flows](#sessionid-90445)
+14:30:00|Sergio Govoni|Database Development|[SQL Server Execution Plans: From Zero to Hero (IT)](#sessionid-91267)
+14:30:00|Sebastiano Galazzo|Machine Learning|[Machine Learning - Best Practices](#sessionid-92179)
+15:45:00|Luca Zavarella|Machine Learning|[Market Basket Analysis in SQL Server Machine Learning Services](#sessionid-90359)
+15:45:00|Francesco Sparacio|Internet of Things|[Stranger IoThing: behind remote monitoring](#sessionid-91716)
+15:45:00|Franco Perduca|Database Development|[Practical Data Virtualization](#sessionid-93157)
 #  
 #### SessionID: 92519
 # How AI will help us to work better

@@ -2,17 +2,17 @@
 # SQLSaturday #607 - Calgary 2017
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:30:00|Rushabh Mehta|Other|[PowerQuery Tips and Tricks for Power BI](#sessionid:-57446)
-09:30:00|Pinal Dave|Application  Database Development|[Secrets of SQL Server - Database Worst Practices](#sessionid:-62989)
-10:45:00|Patrick Flynn|Enterprise Database Administration  Deployment|[SQL Server on Linux - The How, the What and the Why?](#sessionid:-57436)
-10:45:00|Mohit Gupta|Enterprise Database Administration  Deployment|[SQL Server Security Enhancements](#sessionid:-61057)
-12:00:00|Ron Huizenga|Strategy and Architecture|[Using Models as the Blueprints for Enterprise Data Governance](#sessionid:-63403)
-13:00:00|Patrick Flynn|Enterprise Database Administration  Deployment|[Adding Power to the DBA toolkit!](#sessionid:-57702)
-13:00:00|Pinal Dave|Application  Database Development|[Performance in 60 Seconds - SQL Tricks Everybody MUST Know](#sessionid:-62990)
-14:15:00|Chris Wood|Enterprise Database Administration  Deployment|[Monitoring SQL 2016 on-premise for performance and stability](#sessionid:-57634)
-14:15:00|Mohit Gupta|Enterprise Database Administration  Deployment|[SQL Server In-Flight Recorder Deep-Dive](#sessionid:-61143)
-15:30:00|Scott Stauffer|Analytics and Visualization|[Power BI for the Faint of Heart - Building an Interactive Report Step-by-Step!](#sessionid:-61785)
-15:30:00|Sebastian Meine|Application  Database Development|[Introduction to Unit-Testing in SQL Server](#sessionid:-63365)
+09:30:00|Rushabh Mehta|Other|[PowerQuery Tips and Tricks for Power BI](#sessionid-57446)
+09:30:00|Pinal Dave|Application  Database Development|[Secrets of SQL Server - Database Worst Practices](#sessionid-62989)
+10:45:00|Patrick Flynn|Enterprise Database Administration  Deployment|[SQL Server on Linux - The How, the What and the Why?](#sessionid-57436)
+10:45:00|Mohit Gupta|Enterprise Database Administration  Deployment|[SQL Server Security Enhancements](#sessionid-61057)
+12:00:00|Ron Huizenga|Strategy and Architecture|[Using Models as the Blueprints for Enterprise Data Governance](#sessionid-63403)
+13:00:00|Patrick Flynn|Enterprise Database Administration  Deployment|[Adding Power to the DBA toolkit!](#sessionid-57702)
+13:00:00|Pinal Dave|Application  Database Development|[Performance in 60 Seconds - SQL Tricks Everybody MUST Know](#sessionid-62990)
+14:15:00|Chris Wood|Enterprise Database Administration  Deployment|[Monitoring SQL 2016 on-premise for performance and stability](#sessionid-57634)
+14:15:00|Mohit Gupta|Enterprise Database Administration  Deployment|[SQL Server In-Flight Recorder Deep-Dive](#sessionid-61143)
+15:30:00|Scott Stauffer|Analytics and Visualization|[Power BI for the Faint of Heart - Building an Interactive Report Step-by-Step!](#sessionid-61785)
+15:30:00|Sebastian Meine|Application  Database Development|[Introduction to Unit-Testing in SQL Server](#sessionid-63365)
 #  
 #### SessionID: 57446
 # PowerQuery Tips and Tricks for Power BI

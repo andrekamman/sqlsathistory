@@ -2,18 +2,18 @@
 # SQLSaturday #134 - Johannesburg 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Christina Leo|Virtual/remote|[SQL Server Internals:  It's What's for Dinner!](#sessionid:-11607)
-00:00:00|David Peter Hansen|Track 1|[Layered partitioning in a Data Warehouse](#sessionid:-12424)
-00:00:00|Gail Shaw|Track 2|[Bad plan! Sit!](#sessionid:-14365)
-00:00:00|Jacques Mostert|Track 2|[Data has "R" value](#sessionid:-15525)
-00:00:00|Jody Roberts|Track 2|[Powershell for the DBA ](#sessionid:-17604)
-00:00:00|Luis de Sousa|Track 1|[Building and Implementing SQL 2012 Data Warehouse](#sessionid:-19300)
-00:00:00|Michael Johnson|Track 1|[The new package deployment model in SQL Server 201](#sessionid:-19342)
-00:00:00|Mark Stacey|Track 1|[PowerPivot with NASA data](#sessionid:-20113)
-00:00:00|Neil Hambly|Virtual/remote|[Extended Events – New Age of Profiling](#sessionid:-21326)
-00:00:00|Josef Richberg|Virtual/remote|[SSIS Enhanced Threading Framework](#sessionid:-25156)
-00:00:00|Wayne Sheffield|Virtual/remote|[Windowing Functions in SQL Server 2012](#sessionid:-27713)
-00:00:00|Andrew Thornton-Smith|Track 2|[SQL Considerations for SharePoint 2010 Farms](#sessionid:-9486)
+00:00:00|Christina Leo|Virtual/remote|[SQL Server Internals:  It's What's for Dinner!](#sessionid-11607)
+00:00:00|David Peter Hansen|Track 1|[Layered partitioning in a Data Warehouse](#sessionid-12424)
+00:00:00|Gail Shaw|Track 2|[Bad plan! Sit!](#sessionid-14365)
+00:00:00|Jacques Mostert|Track 2|[Data has "R" value](#sessionid-15525)
+00:00:00|Jody Roberts|Track 2|[Powershell for the DBA ](#sessionid-17604)
+00:00:00|Luis de Sousa|Track 1|[Building and Implementing SQL 2012 Data Warehouse](#sessionid-19300)
+00:00:00|Michael Johnson|Track 1|[The new package deployment model in SQL Server 201](#sessionid-19342)
+00:00:00|Mark Stacey|Track 1|[PowerPivot with NASA data](#sessionid-20113)
+00:00:00|Neil Hambly|Virtual/remote|[Extended Events – New Age of Profiling](#sessionid-21326)
+00:00:00|Josef Richberg|Virtual/remote|[SSIS Enhanced Threading Framework](#sessionid-25156)
+00:00:00|Wayne Sheffield|Virtual/remote|[Windowing Functions in SQL Server 2012](#sessionid-27713)
+00:00:00|Andrew Thornton-Smith|Track 2|[SQL Considerations for SharePoint 2010 Farms](#sessionid-9486)
 #  
 #### SessionID: 11607
 # SQL Server Internals:  It's What's for Dinner!

@@ -2,15 +2,15 @@
 # SQLSaturday #873 - Bratislava 2019
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:15:00|Mikael Wedham|Enterprise Database Administration  Deployment|[A Masters view on Locking and blocking](#sessionid:-90572)
-09:15:00|Michal Chmelár|Analytics and Visualization|[Power BI as a universal analytic tool 1/2](#sessionid:-94210)
-10:30:00|Damir Matesic|Application  Database Development|[Advanced data types – JSON](#sessionid:-92006)
-10:30:00|Michal Chmelár|Analytics and Visualization|[Power BI as a universal analytic tool 2/2](#sessionid:-94211)
-11:45:00|Gergely Csom|Advanced Analysis Techniques|[Power BI loves AI and Azure AI Services](#sessionid:-92774)
-11:45:00|Aleksandar Talev|Enterprise Database Administration  Deployment|[How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?](#sessionid:-93352)
-13:45:00|Marek Chmel|Enterprise Database Administration  Deployment|[SQL Server Big Data Clusters](#sessionid:-90567)
-15:00:00|Oskari Heikkinen|BI Platform Architecture, Development  Administration|[Introduction to Azure Data Lake](#sessionid:-90532)
-15:00:00|Damir Matesic|Application  Database Development|[MS SQL New functions, syntaxes, tips  tricks](#sessionid:-93629)
+09:15:00|Mikael Wedham|Enterprise Database Administration  Deployment|[A Masters view on Locking and blocking](#sessionid-90572)
+09:15:00|Michal Chmelár|Analytics and Visualization|[Power BI as a universal analytic tool 1/2](#sessionid-94210)
+10:30:00|Damir Matesic|Application  Database Development|[Advanced data types – JSON](#sessionid-92006)
+10:30:00|Michal Chmelár|Analytics and Visualization|[Power BI as a universal analytic tool 2/2](#sessionid-94211)
+11:45:00|Gergely Csom|Advanced Analysis Techniques|[Power BI loves AI and Azure AI Services](#sessionid-92774)
+11:45:00|Aleksandar Talev|Enterprise Database Administration  Deployment|[How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?](#sessionid-93352)
+13:45:00|Marek Chmel|Enterprise Database Administration  Deployment|[SQL Server Big Data Clusters](#sessionid-90567)
+15:00:00|Oskari Heikkinen|BI Platform Architecture, Development  Administration|[Introduction to Azure Data Lake](#sessionid-90532)
+15:00:00|Damir Matesic|Application  Database Development|[MS SQL New functions, syntaxes, tips  tricks](#sessionid-93629)
 #  
 #### SessionID: 90572
 # A Masters view on Locking and blocking

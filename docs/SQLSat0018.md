@@ -2,8 +2,8 @@
 # SQLSaturday #4 Tweener(Sun) - Orlando 2008
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Andy Warren|SQL University|[DBA 101](#sessionid:-34930)
-00:00:00|Brian Knight|SQL University|[BI 101](#sessionid:-35001)
+00:00:00|Andy Warren|SQL University|[DBA 101](#sessionid-34930)
+00:00:00|Brian Knight|SQL University|[BI 101](#sessionid-35001)
 #  
 #### SessionID: 34930
 # DBA 101

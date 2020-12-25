@@ -2,18 +2,18 @@
 # SQLSaturday #915 - Bucuresti 2019
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Dragos Madarasan|Cloud Application Development  Deployment|[Running Microsoft SQL Server on Amazon Web Services](#sessionid:-96869)
-10:00:00|Cristian Lefter|Strategy and Architecture|[Dataism](#sessionid:-98967)
-11:00:00|Liviu Ieran|Cloud Application Development  Deployment|[Azure Data Explorer - Fast and highly scalable interactive analytics](#sessionid:-95167)
-11:00:00|Alexandra Ciortea|Enterprise Database Administration  Deployment|[SQL Managed Instance - From the ground to the cloud](#sessionid:-96886)
-12:00:00|Catalin Gheorghiu|BI Platform Architecture, Development  Administration|[ML on the Edge](#sessionid:-96741)
-12:00:00|Rudi Bruchez|Application  Database Development|[What I have seen so far in my performance tuning audits](#sessionid:-96752)
-14:00:00|Shehab El-Najjar|Application  Database Development|[T-SQL Performance Guidelines for the optimal DB stress powers](#sessionid:-94550)
-14:00:00|Sorin Peste|Application  Database Development|[Big Data Clusters: SQL Server 2019 Meets Big Data](#sessionid:-96748)
-15:00:00|Gabriel Petrescu|Professional Development|[SQL Server 2019 on Linux - What's new?](#sessionid:-96773)
-15:00:00|André Melancia|Analytics and Visualization|[BI Powers - The A.I. Who Tagged Me](#sessionid:-96816)
-16:00:00|Andrey Nikolov|Application  Database Development|[Embedding Power BI in your application](#sessionid:-94561)
-16:00:00|ILIE Mugurel|Application  Database Development|[Handling JSONs in SQL Server](#sessionid:-95109)
+10:00:00|Dragos Madarasan|Cloud Application Development  Deployment|[Running Microsoft SQL Server on Amazon Web Services](#sessionid-96869)
+10:00:00|Cristian Lefter|Strategy and Architecture|[Dataism](#sessionid-98967)
+11:00:00|Liviu Ieran|Cloud Application Development  Deployment|[Azure Data Explorer - Fast and highly scalable interactive analytics](#sessionid-95167)
+11:00:00|Alexandra Ciortea|Enterprise Database Administration  Deployment|[SQL Managed Instance - From the ground to the cloud](#sessionid-96886)
+12:00:00|Catalin Gheorghiu|BI Platform Architecture, Development  Administration|[ML on the Edge](#sessionid-96741)
+12:00:00|Rudi Bruchez|Application  Database Development|[What I have seen so far in my performance tuning audits](#sessionid-96752)
+14:00:00|Shehab El-Najjar|Application  Database Development|[T-SQL Performance Guidelines for the optimal DB stress powers](#sessionid-94550)
+14:00:00|Sorin Peste|Application  Database Development|[Big Data Clusters: SQL Server 2019 Meets Big Data](#sessionid-96748)
+15:00:00|Gabriel Petrescu|Professional Development|[SQL Server 2019 on Linux - What's new?](#sessionid-96773)
+15:00:00|André Melancia|Analytics and Visualization|[BI Powers - The A.I. Who Tagged Me](#sessionid-96816)
+16:00:00|Andrey Nikolov|Application  Database Development|[Embedding Power BI in your application](#sessionid-94561)
+16:00:00|ILIE Mugurel|Application  Database Development|[Handling JSONs in SQL Server](#sessionid-95109)
 #  
 #### SessionID: 96869
 # Running Microsoft SQL Server on Amazon Web Services

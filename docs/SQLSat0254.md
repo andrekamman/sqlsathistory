@@ -2,21 +2,21 @@
 # SQLSaturday #254 - El Salvador 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Carlos L Chacon|Database Administrator|[SQL Server--En juego or Fuera de juego?](#sessionid:-11183)
-00:00:00|Carlos L Chacon|Database Developer|[Variables de Tipo Tabla y Tablas Temporales; ¿iguales o no?](#sessionid:-11184)
-00:00:00|César Oviedo|Business Intelligence|[Inteligencia de Negocios - Step by Step](#sessionid:-11879)
-00:00:00|Eduardo Castro|Database Administrator|[Mecanismos de Alta Disponibilidad en SQL Server 2012](#sessionid:-13623)
-00:00:00|Eduardo Castro|Business Intelligence|[Minería de datos con SQL Server 2012 utilizando Excel y PowerPivot](#sessionid:-13625)
-00:00:00|Juan Alvarado|Database Administrator|[Mejores practicas de DBA con SQL SERVER](#sessionid:-15531)
-00:00:00|Jose Gregorio Redondo Lopez|Business Intelligence|[Inteligencia de Negocio en la nube, una realidad palpable!!!](#sessionid:-17592)
-00:00:00|Jose Gregorio Redondo Lopez|Database Administrator|[Entendiendo el Sistema de Almacenamiento de Datos y SQL Server](#sessionid:-17594)
-00:00:00|Juan Alvarado|Database Developer|[Overview de tecnologias en memoria de Microsoft SQL SERVER](#sessionid:-17756)
-00:00:00|Ahias Portillo|Business Intelligence|[Modelos Tabulares (SSAS Tabular)](#sessionid:-22226)
-00:00:00|Ahias Portillo|Business Intelligence|[Todo Inicia con la Integración de datos (SSIS).](#sessionid:-22227)
-00:00:00|Kevin Boles|Database Developer|[Common TSQL Mistakes](#sessionid:-26221)
-00:00:00|Kevin Boles|Database Developer|[Indexing Deep Dive](#sessionid:-26223)
-00:00:00|Adrian Miranda|Database Administrator|[Continuidad Operativa con SQL Server 2012](#sessionid:-9046)
-00:00:00|Adrian Miranda|Database Developer|[10 Cosas que debes de dejar de hacer en una base de datos](#sessionid:-9048)
+00:00:00|Carlos L Chacon|Database Administrator|[SQL Server--En juego or Fuera de juego?](#sessionid-11183)
+00:00:00|Carlos L Chacon|Database Developer|[Variables de Tipo Tabla y Tablas Temporales; ¿iguales o no?](#sessionid-11184)
+00:00:00|César Oviedo|Business Intelligence|[Inteligencia de Negocios - Step by Step](#sessionid-11879)
+00:00:00|Eduardo Castro|Database Administrator|[Mecanismos de Alta Disponibilidad en SQL Server 2012](#sessionid-13623)
+00:00:00|Eduardo Castro|Business Intelligence|[Minería de datos con SQL Server 2012 utilizando Excel y PowerPivot](#sessionid-13625)
+00:00:00|Juan Alvarado|Database Administrator|[Mejores practicas de DBA con SQL SERVER](#sessionid-15531)
+00:00:00|Jose Gregorio Redondo Lopez|Business Intelligence|[Inteligencia de Negocio en la nube, una realidad palpable!!!](#sessionid-17592)
+00:00:00|Jose Gregorio Redondo Lopez|Database Administrator|[Entendiendo el Sistema de Almacenamiento de Datos y SQL Server](#sessionid-17594)
+00:00:00|Juan Alvarado|Database Developer|[Overview de tecnologias en memoria de Microsoft SQL SERVER](#sessionid-17756)
+00:00:00|Ahias Portillo|Business Intelligence|[Modelos Tabulares (SSAS Tabular)](#sessionid-22226)
+00:00:00|Ahias Portillo|Business Intelligence|[Todo Inicia con la Integración de datos (SSIS).](#sessionid-22227)
+00:00:00|Kevin Boles|Database Developer|[Common TSQL Mistakes](#sessionid-26221)
+00:00:00|Kevin Boles|Database Developer|[Indexing Deep Dive](#sessionid-26223)
+00:00:00|Adrian Miranda|Database Administrator|[Continuidad Operativa con SQL Server 2012](#sessionid-9046)
+00:00:00|Adrian Miranda|Database Developer|[10 Cosas que debes de dejar de hacer en una base de datos](#sessionid-9048)
 #  
 #### SessionID: 11183
 # SQL Server--En juego or Fuera de juego?

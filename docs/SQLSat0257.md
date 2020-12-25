@@ -2,22 +2,22 @@
 # SQLSaturday #257 - Verona 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Boris Hristov|Administration|[The nightmare of locking, blocking and isolation levels!](#sessionid:-10908)
-00:00:00|Francesco Milano|Development|[Useful everyday tips and tricks for Reporting Services](#sessionid:-11816)
-00:00:00|Dejan Sarka|Development|[Temporal Data in SQL Server](#sessionid:-13522)
-00:00:00|Emanuele DelBono|Development|[Node.js on SqlServer](#sessionid:-13772)
-00:00:00|Francesco De Chirico|Business Intelligence|[Monitoring MDX Queries in Analysis Services](#sessionid:-14189)
-00:00:00|Francesco Diaz|Administration|[SQL Server workloads and Windows Azure platform: better together](#sessionid:-14308)
-00:00:00|Gianluca Sartori|Administration|[SQL Server Security in an Insecure World](#sessionid:-14599)
-00:00:00|Gilberto Zampatti|Development|[xVelocity Columnstore Indexes in SQL Server 2012 and SQL 2014](#sessionid:-14617)
-00:00:00|Gilberto Zampatti|Administration|[Exploring In-memory OLTP Engine (Hekaton) in SQL Server 2014 CTP1](#sessionid:-14619)
-00:00:00|Davide Mauri|Administration|[Hardware Planning  Sizing for SQL Server](#sessionid:-15316)
-00:00:00|Marco Pozzan|Business Intelligence|[DAX Introduction](#sessionid:-15338)
-00:00:00|Luca Ferrari|Development|[Gestione degli errori nel codice T-SQL ](#sessionid:-19287)
-00:00:00|Luca Zavarella|Business Intelligence|[Agile SSIS with Biml](#sessionid:-19330)
-00:00:00|Marco Russo|Business Intelligence|[Power BI in Action (IT)](#sessionid:-19467)
-00:00:00|Alessandro Alpi|Administration|[Put database under source control](#sessionid:-25891)
-00:00:00|Marco Parenzan|Development|[.NET Development for the SQL Server Developer](#sessionid:-34752)
+00:00:00|Boris Hristov|Administration|[The nightmare of locking, blocking and isolation levels!](#sessionid-10908)
+00:00:00|Francesco Milano|Development|[Useful everyday tips and tricks for Reporting Services](#sessionid-11816)
+00:00:00|Dejan Sarka|Development|[Temporal Data in SQL Server](#sessionid-13522)
+00:00:00|Emanuele DelBono|Development|[Node.js on SqlServer](#sessionid-13772)
+00:00:00|Francesco De Chirico|Business Intelligence|[Monitoring MDX Queries in Analysis Services](#sessionid-14189)
+00:00:00|Francesco Diaz|Administration|[SQL Server workloads and Windows Azure platform: better together](#sessionid-14308)
+00:00:00|Gianluca Sartori|Administration|[SQL Server Security in an Insecure World](#sessionid-14599)
+00:00:00|Gilberto Zampatti|Development|[xVelocity Columnstore Indexes in SQL Server 2012 and SQL 2014](#sessionid-14617)
+00:00:00|Gilberto Zampatti|Administration|[Exploring In-memory OLTP Engine (Hekaton) in SQL Server 2014 CTP1](#sessionid-14619)
+00:00:00|Davide Mauri|Administration|[Hardware Planning  Sizing for SQL Server](#sessionid-15316)
+00:00:00|Marco Pozzan|Business Intelligence|[DAX Introduction](#sessionid-15338)
+00:00:00|Luca Ferrari|Development|[Gestione degli errori nel codice T-SQL ](#sessionid-19287)
+00:00:00|Luca Zavarella|Business Intelligence|[Agile SSIS with Biml](#sessionid-19330)
+00:00:00|Marco Russo|Business Intelligence|[Power BI in Action (IT)](#sessionid-19467)
+00:00:00|Alessandro Alpi|Administration|[Put database under source control](#sessionid-25891)
+00:00:00|Marco Parenzan|Development|[.NET Development for the SQL Server Developer](#sessionid-34752)
 #  
 #### SessionID: 10908
 # The nightmare of locking, blocking and isolation levels!

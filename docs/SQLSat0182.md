@@ -2,9 +2,9 @@
 # SQLSaturday #182 - Istanbul 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Hakan M. SUBASI|SQLSaturday #182|[SQL Server 2008 R2 Parallel Data Warehouse](#sessionid:-14927)
-00:00:00|Turgay Sahtiyan|SQLSaturday #182|[HA  DR with SQL Server 2012 AlwaysOn](#sessionid:-27118)
-00:00:00|Yigit Aktan|SQLSaturday #182|[Extended Events in SQL Server 2012](#sessionid:-28279)
+00:00:00|Hakan M. SUBASI|SQLSaturday #182|[SQL Server 2008 R2 Parallel Data Warehouse](#sessionid-14927)
+00:00:00|Turgay Sahtiyan|SQLSaturday #182|[HA  DR with SQL Server 2012 AlwaysOn](#sessionid-27118)
+00:00:00|Yigit Aktan|SQLSaturday #182|[Extended Events in SQL Server 2012](#sessionid-28279)
 #  
 #### SessionID: 14927
 # SQL Server 2008 R2 Parallel Data Warehouse

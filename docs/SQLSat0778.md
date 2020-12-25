@@ -2,22 +2,22 @@
 # SQLSaturday #778 - Memphis 2018
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-08:45:00|Kevin Boles|Application  Database Development|[Know What Your Code is Doing to SQL Server!](#sessionid:-80240)
-08:45:00|Jandee Richards|Cloud Application Development  Deployment|[Azure Databricks 101](#sessionid:-84499)
-08:45:00|Louis Davidson|Application  Database Development|[Database Design Fundamentals](#sessionid:-85121)
-10:00:00|Ed Watson|BI Platform Architecture, Development  Administration|[A Beginner's Guide to Power BI](#sessionid:-80136)
-10:00:00|Amie Mason|Advanced Analysis Techniques|[Azure Intelligent Services](#sessionid:-84482)
-10:00:00|Brian Hansen|Enterprise Database Administration  Deployment|[Let's Explore SQL Internals](#sessionid:-84849)
-11:15:00|Chris Hyde|Analytics and Visualization|[Python in SQL Server 2017](#sessionid:-84049)
-11:15:00|DeNisha Malone|BI Platform Architecture, Development  Administration|[Best Practices for Power BI Desktop](#sessionid:-84220)
-11:15:00|Amy Herold|Enterprise Database Administration  Deployment|[The Case for Change: Identifying and Remedying Bad Code](#sessionid:-84660)
-13:30:00|Dan Evans|BI Platform Architecture, Development  Administration|[Power BI administration made easy(ier)](#sessionid:-80369)
-13:30:00|Peter Shore|Cloud Application Development  Deployment|[Hello My Friends, Welcome to CosmosDB](#sessionid:-80793)
-13:30:00|Pete Brown|Application  Database Development|[Intro to PowerShell for DBAs](#sessionid:-85267)
-14:45:00|Daniel Glenn|Cloud Application Development  Deployment|[Using Your On-prem Data in a Cloud World](#sessionid:-80137)
-14:45:00|Paul Popovich Jr|Enterprise Database Administration  Deployment|[SQL on Linux and Docker 101](#sessionid:-80366)
-14:45:00|Warren Sifre|BI Platform Architecture, Development  Administration|[Introduction to BI Architecture](#sessionid:-82481)
-14:45:00|Enrique Bañuls|Application  Database Development|[Columnstore in Real Life](#sessionid:-86359)
+08:45:00|Kevin Boles|Application  Database Development|[Know What Your Code is Doing to SQL Server!](#sessionid-80240)
+08:45:00|Jandee Richards|Cloud Application Development  Deployment|[Azure Databricks 101](#sessionid-84499)
+08:45:00|Louis Davidson|Application  Database Development|[Database Design Fundamentals](#sessionid-85121)
+10:00:00|Ed Watson|BI Platform Architecture, Development  Administration|[A Beginner's Guide to Power BI](#sessionid-80136)
+10:00:00|Amie Mason|Advanced Analysis Techniques|[Azure Intelligent Services](#sessionid-84482)
+10:00:00|Brian Hansen|Enterprise Database Administration  Deployment|[Let's Explore SQL Internals](#sessionid-84849)
+11:15:00|Chris Hyde|Analytics and Visualization|[Python in SQL Server 2017](#sessionid-84049)
+11:15:00|DeNisha Malone|BI Platform Architecture, Development  Administration|[Best Practices for Power BI Desktop](#sessionid-84220)
+11:15:00|Amy Herold|Enterprise Database Administration  Deployment|[The Case for Change: Identifying and Remedying Bad Code](#sessionid-84660)
+13:30:00|Dan Evans|BI Platform Architecture, Development  Administration|[Power BI administration made easy(ier)](#sessionid-80369)
+13:30:00|Peter Shore|Cloud Application Development  Deployment|[Hello My Friends, Welcome to CosmosDB](#sessionid-80793)
+13:30:00|Pete Brown|Application  Database Development|[Intro to PowerShell for DBAs](#sessionid-85267)
+14:45:00|Daniel Glenn|Cloud Application Development  Deployment|[Using Your On-prem Data in a Cloud World](#sessionid-80137)
+14:45:00|Paul Popovich Jr|Enterprise Database Administration  Deployment|[SQL on Linux and Docker 101](#sessionid-80366)
+14:45:00|Warren Sifre|BI Platform Architecture, Development  Administration|[Introduction to BI Architecture](#sessionid-82481)
+14:45:00|Enrique Bañuls|Application  Database Development|[Columnstore in Real Life](#sessionid-86359)
 #  
 #### SessionID: 80240
 # Know What Your Code is Doing to SQL Server!

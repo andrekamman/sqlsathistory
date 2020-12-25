@@ -2,20 +2,20 @@
 # SQLSaturday #244 - Johannesburg 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Christina Leo|Breakout room|[T-SQL Fundamentals: Logical Processing Order](#sessionid:-11615)
-00:00:00|Jacques Mostert|Auditorium 1|[Off with his head!!!! - 10 SQL coding mistakes that can lead to death.](#sessionid:-13254)
-00:00:00|Gary Hope Laura Kotlinski|Auditorium 1|[Introduction to the PDW: Gary Hope and Laura Kotlinksi](#sessionid:-14003)
-00:00:00|Gail Shaw|Auditorium 3|[Dos and don’ts of database corruption](#sessionid:-14363)
-00:00:00|Gary Hope|Auditorium 1|[The Microsoft "Big Data" and "In Memory" Data Management Story.](#sessionid:-14392)
-00:00:00|Greg  Fibiger|Auditorium 2|[Microsoft BI - Smart Analytics for a Smarter Future](#sessionid:-14816)
-00:00:00|Geoffrey Smith|Auditorium 2|[Introduction to PowerBI](#sessionid:-14840)
-00:00:00|Michael Johnson|Auditorium 1|[Getting started with your first tabular cube](#sessionid:-19343)
-00:00:00|Martin Phelps|Auditorium 2|[Divide and Conquer - Scale out using Federated Database in Azure ](#sessionid:-19740)
-00:00:00|Matt Horn|Breakout room|[I wish I knew that yesterday!](#sessionid:-20149)
-00:00:00|Niels Berglund|Auditorium 3|[Enhance SQL Performance by Messaging and Queuing Applications](#sessionid:-21432)
-00:00:00|Sandesh Nagaraj|Auditorium 2|[Master Data Services Role as Dimension Manager](#sessionid:-23929)
-00:00:00|Scott Klein|Auditorium 3|[Windows Azure SQL Database Troubleshooting and Query Tuning ](#sessionid:-24090)
-00:00:00|Sean Pearce|Auditorium 3|[An Introduction to Indexes and How to Use Them for Maximum Performance](#sessionid:-24295)
+00:00:00|Christina Leo|Breakout room|[T-SQL Fundamentals: Logical Processing Order](#sessionid-11615)
+00:00:00|Jacques Mostert|Auditorium 1|[Off with his head!!!! - 10 SQL coding mistakes that can lead to death.](#sessionid-13254)
+00:00:00|Gary Hope Laura Kotlinski|Auditorium 1|[Introduction to the PDW: Gary Hope and Laura Kotlinksi](#sessionid-14003)
+00:00:00|Gail Shaw|Auditorium 3|[Dos and don’ts of database corruption](#sessionid-14363)
+00:00:00|Gary Hope|Auditorium 1|[The Microsoft "Big Data" and "In Memory" Data Management Story.](#sessionid-14392)
+00:00:00|Greg  Fibiger|Auditorium 2|[Microsoft BI - Smart Analytics for a Smarter Future](#sessionid-14816)
+00:00:00|Geoffrey Smith|Auditorium 2|[Introduction to PowerBI](#sessionid-14840)
+00:00:00|Michael Johnson|Auditorium 1|[Getting started with your first tabular cube](#sessionid-19343)
+00:00:00|Martin Phelps|Auditorium 2|[Divide and Conquer - Scale out using Federated Database in Azure ](#sessionid-19740)
+00:00:00|Matt Horn|Breakout room|[I wish I knew that yesterday!](#sessionid-20149)
+00:00:00|Niels Berglund|Auditorium 3|[Enhance SQL Performance by Messaging and Queuing Applications](#sessionid-21432)
+00:00:00|Sandesh Nagaraj|Auditorium 2|[Master Data Services Role as Dimension Manager](#sessionid-23929)
+00:00:00|Scott Klein|Auditorium 3|[Windows Azure SQL Database Troubleshooting and Query Tuning ](#sessionid-24090)
+00:00:00|Sean Pearce|Auditorium 3|[An Introduction to Indexes and How to Use Them for Maximum Performance](#sessionid-24295)
 #  
 #### SessionID: 11615
 # T-SQL Fundamentals: Logical Processing Order

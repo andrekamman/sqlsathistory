@@ -2,16 +2,16 @@
 # SQLSaturday #503 - Krasnodar 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Alexandra Chizhova|BI Platform Architecture, Development  Administration|[Самые интересный  и новый функционал в SQL Server 2016](#sessionid:-49399)
-11:45:00|Tobias Koprowski|Enterprise Database Administration  Deployment|[SQL Server Backup in the Era of the Clouds](#sessionid:-44595)
-11:45:00|Sergey Olontsev|Analytics and Visualization|[Использование языка R в SQL Server 2016](#sessionid:-45643)
-11:45:00|Andrey Zavadskiy|Application  Database Development|[DML операции и оптимизация хранения данных](#sessionid:-49457)
-13:30:00|Dmitry Pilugin|Application  Database Development|[Внутри оптимизатора запросов: Spool](#sessionid:-49388)
-13:30:00|Alexandra Chizhova|BI Platform Architecture, Development  Administration|[Power BI: визуализация данных на раз-два-три.](#sessionid:-49400)
-13:30:00|Dmitriy Kostylev|Enterprise Database Administration  Deployment|[Hardcore мониторинг запросов в SQL Server](#sessionid:-50063)
-15:00:00|Sergey Olontsev|Professional Development|[Нетрадиционные и провокационные методы оптимизации запросов](#sessionid:-45638)
-15:00:00|Andrey Korshikov|BI Platform Architecture, Development  Administration|[SQL Server 2016 Reporting Services. Быстрый старт.](#sessionid:-49417)
-15:00:00|Mikhail Komarov|Enterprise Database Administration  Deployment|[Анализ производительности Windows приложений на примере SQL Serve](#sessionid:-49476)
+10:00:00|Alexandra Chizhova|BI Platform Architecture, Development  Administration|[Самые интересный  и новый функционал в SQL Server 2016](#sessionid-49399)
+11:45:00|Tobias Koprowski|Enterprise Database Administration  Deployment|[SQL Server Backup in the Era of the Clouds](#sessionid-44595)
+11:45:00|Sergey Olontsev|Analytics and Visualization|[Использование языка R в SQL Server 2016](#sessionid-45643)
+11:45:00|Andrey Zavadskiy|Application  Database Development|[DML операции и оптимизация хранения данных](#sessionid-49457)
+13:30:00|Dmitry Pilugin|Application  Database Development|[Внутри оптимизатора запросов: Spool](#sessionid-49388)
+13:30:00|Alexandra Chizhova|BI Platform Architecture, Development  Administration|[Power BI: визуализация данных на раз-два-три.](#sessionid-49400)
+13:30:00|Dmitriy Kostylev|Enterprise Database Administration  Deployment|[Hardcore мониторинг запросов в SQL Server](#sessionid-50063)
+15:00:00|Sergey Olontsev|Professional Development|[Нетрадиционные и провокационные методы оптимизации запросов](#sessionid-45638)
+15:00:00|Andrey Korshikov|BI Platform Architecture, Development  Administration|[SQL Server 2016 Reporting Services. Быстрый старт.](#sessionid-49417)
+15:00:00|Mikhail Komarov|Enterprise Database Administration  Deployment|[Анализ производительности Windows приложений на примере SQL Serve](#sessionid-49476)
 #  
 #### SessionID: 49399
 # Самые интересный  и новый функционал в SQL Server 2016

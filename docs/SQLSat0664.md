@@ -2,14 +2,14 @@
 # SQLSaturday #664 - Katowice 2017
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:30:00|Denis Reznik|Enterprise Database Administration  Deployment|[SQL Server Performance Tuning Nowadays](#sessionid:-66614)
-09:30:00|Hubert Kobierzewski|BI Platform Architecture, Development  Administration|[SSIS – Transform Your Data in Parallel](#sessionid:-67377)
-10:45:00|Grzegorz Łyp|Enterprise Database Administration  Deployment|[Tuning large queries](#sessionid:-65508)
-10:45:00|Pawel Potasinski|Analytics and Visualization|[R'em All. Use R in Power BI to Deal with Data](#sessionid:-66351)
-12:00:00|Satya Jayanty|Enterprise Database Administration  Deployment|[2,4,8  16 - Upgrade your journey with SQL Server](#sessionid:-65599)
-12:00:00|Tomasz Libera|Analytics and Visualization|[Reporting Services  Power BI Server](#sessionid:-67384)
-14:00:00|Mikael Wedham|Enterprise Database Administration  Deployment|[A Masters view on Locking and blocking](#sessionid:-67249)
-15:15:00|Stephanie Locke|Information Delivery|[Build your first bot – no code required!](#sessionid:-66949)
+09:30:00|Denis Reznik|Enterprise Database Administration  Deployment|[SQL Server Performance Tuning Nowadays](#sessionid-66614)
+09:30:00|Hubert Kobierzewski|BI Platform Architecture, Development  Administration|[SSIS – Transform Your Data in Parallel](#sessionid-67377)
+10:45:00|Grzegorz Łyp|Enterprise Database Administration  Deployment|[Tuning large queries](#sessionid-65508)
+10:45:00|Pawel Potasinski|Analytics and Visualization|[R'em All. Use R in Power BI to Deal with Data](#sessionid-66351)
+12:00:00|Satya Jayanty|Enterprise Database Administration  Deployment|[2,4,8  16 - Upgrade your journey with SQL Server](#sessionid-65599)
+12:00:00|Tomasz Libera|Analytics and Visualization|[Reporting Services  Power BI Server](#sessionid-67384)
+14:00:00|Mikael Wedham|Enterprise Database Administration  Deployment|[A Masters view on Locking and blocking](#sessionid-67249)
+15:15:00|Stephanie Locke|Information Delivery|[Build your first bot – no code required!](#sessionid-66949)
 #  
 #### SessionID: 66614
 # SQL Server Performance Tuning Nowadays

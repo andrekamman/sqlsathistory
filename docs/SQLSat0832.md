@@ -2,17 +2,17 @@
 # SQLSaturday #832 - Croatia 2019
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Tomaž Kaštrun|Analytics and Visualization|[Common Data Science Mistakes](#sessionid:-87837)
-09:00:00|Slaven Šola|Enterprise Database Administration  Deployment|[SQL Server - automatska optimizacija upita](#sessionid:-89836)
-10:15:00|Mladen Prajdić|Enterprise Database Administration  Deployment|[Getting To Know SQL Server Encryption Capabilities](#sessionid:-88337)
-11:30:00|Uwe Ricken|Application  Database Development|[Mastering DML Operations like a master](#sessionid:-87682)
-11:30:00|Kevin Boles|Other|[Common TSQL Mistakes](#sessionid:-88454)
-13:30:00|Hugo Kornelis|Application  Database Development|[Execution plans ... where do I start?](#sessionid:-88274)
-13:30:00|Marcelo Fernandes|Strategy and Architecture|[Architecting SQL Server environments for Mission Critical and High Performance](#sessionid:-89778)
-14:45:00|Dejan Sarka|Application  Database Development|[Temporal Data in SQL Server](#sessionid:-87683)
-14:45:00|Gianluca Sartori|Application  Database Development|[SQL Server Infernals - A Beginner’s Guide to Worst Practices](#sessionid:-88420)
-16:00:00|Miloš Radivojević|Enterprise Database Administration  Deployment|[Cardinality Estimation Issues with Large Tables](#sessionid:-87662)
-16:00:00|Aleksandar Talev|Application  Database Development|[How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?](#sessionid:-87666)
+09:00:00|Tomaž Kaštrun|Analytics and Visualization|[Common Data Science Mistakes](#sessionid-87837)
+09:00:00|Slaven Šola|Enterprise Database Administration  Deployment|[SQL Server - automatska optimizacija upita](#sessionid-89836)
+10:15:00|Mladen Prajdić|Enterprise Database Administration  Deployment|[Getting To Know SQL Server Encryption Capabilities](#sessionid-88337)
+11:30:00|Uwe Ricken|Application  Database Development|[Mastering DML Operations like a master](#sessionid-87682)
+11:30:00|Kevin Boles|Other|[Common TSQL Mistakes](#sessionid-88454)
+13:30:00|Hugo Kornelis|Application  Database Development|[Execution plans ... where do I start?](#sessionid-88274)
+13:30:00|Marcelo Fernandes|Strategy and Architecture|[Architecting SQL Server environments for Mission Critical and High Performance](#sessionid-89778)
+14:45:00|Dejan Sarka|Application  Database Development|[Temporal Data in SQL Server](#sessionid-87683)
+14:45:00|Gianluca Sartori|Application  Database Development|[SQL Server Infernals - A Beginner’s Guide to Worst Practices](#sessionid-88420)
+16:00:00|Miloš Radivojević|Enterprise Database Administration  Deployment|[Cardinality Estimation Issues with Large Tables](#sessionid-87662)
+16:00:00|Aleksandar Talev|Application  Database Development|[How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?](#sessionid-87666)
 #  
 #### SessionID: 87837
 # Common Data Science Mistakes

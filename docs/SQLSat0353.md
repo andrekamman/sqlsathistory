@@ -2,21 +2,21 @@
 # SQLSaturday #353 - London - BA Edition 2014
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Bob Phillips|Track 1|[VBA: More than Macros](#sessionid:-10536)
-00:00:00|Chris Webb|Track 1|[Power Query: Beyond The Basics](#sessionid:-11477)
-00:00:00|Dave Lawrence|Track 1|[Improve Data Quality, Drive BI Value through Master Data Management ](#sessionid:-12227)
-00:00:00|Jen Stirrup|Track 1|[Migration to the All Silicon Data Center](#sessionid:-16430)
-00:00:00|Jen Stirrup|Track 2|[Introduction to Power BI](#sessionid:-16431)
-00:00:00|Jen Stirrup|Track 1|[Microsoft Finance - Delivering Business Impact](#sessionid:-16433)
-00:00:00|Jonas Holmgren|Track 1|[Analytics and Big Data at the speed of light.](#sessionid:-17325)
-00:00:00|Jon Woodward|Track 2|[Keynote: Data Culture : From BI  Analytics to Big Data and Data Science](#sessionid:-17332)
-00:00:00|Lee Hawthorn|Track 1|[Predictive Analytics- it's not just for scientists](#sessionid:-18984)
-00:00:00|Mark Wilcock|Track 2|[Using R, Cubes And Data Visualisation To Answer “What If” Questions](#sessionid:-19582)
-00:00:00|Avi Perez|Track 1|[One BI Platform to Rule Them All](#sessionid:-22624)
-00:00:00|Robert Mundigl|Track 1|[Charts beyond Excel’s Chart Wizard](#sessionid:-23239)
-00:00:00|Roger Govier|Track 2|[Using Slicers in Excel 2013](#sessionid:-23417)
-00:00:00|Henk Vlootman|Track 2|[Hurdles between modeling Excel power pivot models towards SQL Power pivot models](#sessionid:-34657)
-00:00:00|Allan Mitchell|Track 2|[Azure Data Services Half Day - Ticketed delegates only](#sessionid:-9280)
+00:00:00|Bob Phillips|Track 1|[VBA: More than Macros](#sessionid-10536)
+00:00:00|Chris Webb|Track 1|[Power Query: Beyond The Basics](#sessionid-11477)
+00:00:00|Dave Lawrence|Track 1|[Improve Data Quality, Drive BI Value through Master Data Management ](#sessionid-12227)
+00:00:00|Jen Stirrup|Track 1|[Migration to the All Silicon Data Center](#sessionid-16430)
+00:00:00|Jen Stirrup|Track 2|[Introduction to Power BI](#sessionid-16431)
+00:00:00|Jen Stirrup|Track 1|[Microsoft Finance - Delivering Business Impact](#sessionid-16433)
+00:00:00|Jonas Holmgren|Track 1|[Analytics and Big Data at the speed of light.](#sessionid-17325)
+00:00:00|Jon Woodward|Track 2|[Keynote: Data Culture : From BI  Analytics to Big Data and Data Science](#sessionid-17332)
+00:00:00|Lee Hawthorn|Track 1|[Predictive Analytics- it's not just for scientists](#sessionid-18984)
+00:00:00|Mark Wilcock|Track 2|[Using R, Cubes And Data Visualisation To Answer “What If” Questions](#sessionid-19582)
+00:00:00|Avi Perez|Track 1|[One BI Platform to Rule Them All](#sessionid-22624)
+00:00:00|Robert Mundigl|Track 1|[Charts beyond Excel’s Chart Wizard](#sessionid-23239)
+00:00:00|Roger Govier|Track 2|[Using Slicers in Excel 2013](#sessionid-23417)
+00:00:00|Henk Vlootman|Track 2|[Hurdles between modeling Excel power pivot models towards SQL Power pivot models](#sessionid-34657)
+00:00:00|Allan Mitchell|Track 2|[Azure Data Services Half Day - Ticketed delegates only](#sessionid-9280)
 #  
 #### SessionID: 10536
 # VBA: More than Macros

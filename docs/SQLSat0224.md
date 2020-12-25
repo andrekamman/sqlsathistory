@@ -2,14 +2,14 @@
 # SQLSaturday #224 - Sydney 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Craig Bryden|Track 1|[Introducing Microsoft Data Explorer for Excel](#sessionid:-11987)
-00:00:00|Geoff Orr|Track 2|[Integration Services (SSIS) back to basics](#sessionid:-14470)
-00:00:00|Grant Paisley|Track 1|[he godlike power of Excel 2013 with its disciples PowerPivot, PowerView and Geoflow](#sessionid:-14723)
-00:00:00|Mohamed Kabiruddin|Track 2|[Agile BI with SQL Server 2012 and TFS 2012](#sessionid:-20014)
-00:00:00|Peter Myers|Track 1|[Big Data Analytics with PowerPivot and Power View](#sessionid:-21954)
-00:00:00|Peter Myers|Track 1|[Mastering the CUBE functions in Excel 2013](#sessionid:-21956)
-00:00:00|Victor Isakov|Track 2|[Maximizing SQL Server Performance: Tuning the Processor, RAM, Disk and Network Subsystems](#sessionid:-27414)
-00:00:00|Warwick Rudd|Track 2|[Pimp my Availability Groups](#sessionid:-27665)
+00:00:00|Craig Bryden|Track 1|[Introducing Microsoft Data Explorer for Excel](#sessionid-11987)
+00:00:00|Geoff Orr|Track 2|[Integration Services (SSIS) back to basics](#sessionid-14470)
+00:00:00|Grant Paisley|Track 1|[he godlike power of Excel 2013 with its disciples PowerPivot, PowerView and Geoflow](#sessionid-14723)
+00:00:00|Mohamed Kabiruddin|Track 2|[Agile BI with SQL Server 2012 and TFS 2012](#sessionid-20014)
+00:00:00|Peter Myers|Track 1|[Big Data Analytics with PowerPivot and Power View](#sessionid-21954)
+00:00:00|Peter Myers|Track 1|[Mastering the CUBE functions in Excel 2013](#sessionid-21956)
+00:00:00|Victor Isakov|Track 2|[Maximizing SQL Server Performance: Tuning the Processor, RAM, Disk and Network Subsystems](#sessionid-27414)
+00:00:00|Warwick Rudd|Track 2|[Pimp my Availability Groups](#sessionid-27665)
 #  
 #### SessionID: 11987
 # Introducing Microsoft Data Explorer for Excel

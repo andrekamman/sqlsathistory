@@ -2,16 +2,16 @@
 # SQLSaturday #140 - Perth 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Bhavik Merchant|Business Intelligence|[Accelerated BI Growth with Power View  PowerPivot](#sessionid:-10411)
-00:00:00|Bhavik Merchant|Business Intelligence|[Migrating Config and Deployment to SSIS 2012](#sessionid:-10412)
-00:00:00|Greg Low|SQL Server|[Better Together: Merge, Partitioning, ColumnStore ](#sessionid:-14828)
-00:00:00|Raja N|SQL Server|[DBCA - Database Consolidation Appliance](#sessionid:-21519)
-00:00:00|Peter Ward|SQL Server|[If you had $10K what would you spend it on?](#sessionid:-22060)
-00:00:00|Paul te Braak|Business Intelligence|[Tabular Modelling and Design Concepts](#sessionid:-22380)
-00:00:00|Paul te Braak|Business Intelligence|[Golden Nuggets ](#sessionid:-22381)
-00:00:00|Rob Farley|SQL Server|[Analytic T-SQL Functions in 2012](#sessionid:-23189)
-00:00:00|Rob Farley|SQL Server|[The MERGE Statement - T-SQL's Swiss Army Knife](#sessionid:-23192)
-00:00:00|Peter O'Gorman|Business Intelligence|[X-ray Vision For SQL Server Error Logs](#sessionid:-9062)
+00:00:00|Bhavik Merchant|Business Intelligence|[Accelerated BI Growth with Power View  PowerPivot](#sessionid-10411)
+00:00:00|Bhavik Merchant|Business Intelligence|[Migrating Config and Deployment to SSIS 2012](#sessionid-10412)
+00:00:00|Greg Low|SQL Server|[Better Together: Merge, Partitioning, ColumnStore ](#sessionid-14828)
+00:00:00|Raja N|SQL Server|[DBCA - Database Consolidation Appliance](#sessionid-21519)
+00:00:00|Peter Ward|SQL Server|[If you had $10K what would you spend it on?](#sessionid-22060)
+00:00:00|Paul te Braak|Business Intelligence|[Tabular Modelling and Design Concepts](#sessionid-22380)
+00:00:00|Paul te Braak|Business Intelligence|[Golden Nuggets ](#sessionid-22381)
+00:00:00|Rob Farley|SQL Server|[Analytic T-SQL Functions in 2012](#sessionid-23189)
+00:00:00|Rob Farley|SQL Server|[The MERGE Statement - T-SQL's Swiss Army Knife](#sessionid-23192)
+00:00:00|Peter O'Gorman|Business Intelligence|[X-ray Vision For SQL Server Error Logs](#sessionid-9062)
 #  
 #### SessionID: 10411
 # Accelerated BI Growth with Power View  PowerPivot

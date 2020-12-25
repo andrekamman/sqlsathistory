@@ -2,18 +2,18 @@
 # SQLSaturday #210 - Brisbane 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Craig Bryden|Business Intelligence|[Introducing Microsoft Data Explorer for Excel](#sessionid:-11986)
-00:00:00|Greg Low|SQL Server  Administration|[Windows Azure SQL Databases - Lessons Learned](#sessionid:-14818)
-00:00:00|Greg Low|SQL Server  Administration|[Understanding SQL Server Indexing](#sessionid:-14819)
-00:00:00|Mohamed Kabiruddin|Business Intelligence|[Agile BI with SQL Server 2012](#sessionid:-20011)
-00:00:00|Peter Myers|Business Intelligence|[Big Data Analytics with PowerPivot and Power View](#sessionid:-21970)
-00:00:00|Peter Myers|Business Intelligence|[Introduction to SQL Server 2012 MDS and DQS](#sessionid:-21971)
-00:00:00|Peter Ward|SQL Server  Administration|[Finding the SQL Server Go-Faster Switch](#sessionid:-22064)
-00:00:00|Peter Ward|Business Intelligence|[Achieving Infinite Scale with HDInsight](#sessionid:-22065)
-00:00:00|Rod Colledge|Business Intelligence|[Self-Service Business Analytics in 2013](#sessionid:-23379)
-00:00:00|Victor Isakov|SQL Server  Administration|[Windows Server 2012: How It Changes the "SQL Server Game"](#sessionid:-27415)
-00:00:00|Victor Isakov|SQL Server  Administration|[SQL Server Optimization: Tuning the Processor, RAM, Disk and Network Subsystems](#sessionid:-27417)
-00:00:00|Warwick Rudd|SQL Server  Administration|[Pimp my Availability Groups](#sessionid:-27664)
+00:00:00|Craig Bryden|Business Intelligence|[Introducing Microsoft Data Explorer for Excel](#sessionid-11986)
+00:00:00|Greg Low|SQL Server  Administration|[Windows Azure SQL Databases - Lessons Learned](#sessionid-14818)
+00:00:00|Greg Low|SQL Server  Administration|[Understanding SQL Server Indexing](#sessionid-14819)
+00:00:00|Mohamed Kabiruddin|Business Intelligence|[Agile BI with SQL Server 2012](#sessionid-20011)
+00:00:00|Peter Myers|Business Intelligence|[Big Data Analytics with PowerPivot and Power View](#sessionid-21970)
+00:00:00|Peter Myers|Business Intelligence|[Introduction to SQL Server 2012 MDS and DQS](#sessionid-21971)
+00:00:00|Peter Ward|SQL Server  Administration|[Finding the SQL Server Go-Faster Switch](#sessionid-22064)
+00:00:00|Peter Ward|Business Intelligence|[Achieving Infinite Scale with HDInsight](#sessionid-22065)
+00:00:00|Rod Colledge|Business Intelligence|[Self-Service Business Analytics in 2013](#sessionid-23379)
+00:00:00|Victor Isakov|SQL Server  Administration|[Windows Server 2012: How It Changes the "SQL Server Game"](#sessionid-27415)
+00:00:00|Victor Isakov|SQL Server  Administration|[SQL Server Optimization: Tuning the Processor, RAM, Disk and Network Subsystems](#sessionid-27417)
+00:00:00|Warwick Rudd|SQL Server  Administration|[Pimp my Availability Groups](#sessionid-27664)
 #  
 #### SessionID: 11986
 # Introducing Microsoft Data Explorer for Excel

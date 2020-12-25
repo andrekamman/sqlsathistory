@@ -2,18 +2,18 @@
 # SQLSaturday #837 - Winnipeg 2019
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-08:45:00|Karen Lopez|Application  Database Development|[The Tricky Part of Doing Tricky Things in your Database](#sessionid:-87366)
-08:45:00|Kirill Kravtsov|Enterprise Database Administration  Deployment|[The wonders of modern SQL Server administration](#sessionid:-88385)
-08:45:00|Mike Diehl|BI Platform Architecture, Development  Administration|[Introduction to Power BI](#sessionid:-90432)
-10:15:00|Karen Lopez|Cloud Application Development  Deployment|[Who's Pissing in Your Data Lake?](#sessionid:-87365)
-10:15:00|Patrick Flynn|Enterprise Database Administration  Deployment|[Database Corruption - Advanced Recovery Techniques](#sessionid:-87949)
-10:15:00|Mike Diehl|BI Platform Architecture, Development  Administration|[Building measures in Power BI (and SQL Server Analysis Services tabular models)](#sessionid:-90433)
-12:45:00|Karen Lopez|Application  Database Development|[A Database Designer's Favorite Features in SQL Server: Security, Privacy, and More](#sessionid:-87364)
-12:45:00|Brian Hansen|Enterprise Database Administration  Deployment|[Get Your Optimizer to Give up All Its Secrets](#sessionid:-88411)
-12:45:00|Phillip Labry|BI Platform Architecture, Development  Administration|[Why do I need Analysis Services?](#sessionid:-89007)
-14:15:00|Patrick Flynn|Application  Database Development|[GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects](#sessionid:-87392)
-14:15:00|Nem Schlecht|Application  Database Development|[Maximizing SQL Server Management Studio for Developers and DBAs](#sessionid:-87652)
-14:15:00|Melody Zacharias|Cloud Application Development  Deployment|[Introduction to Azure AI - The Art of the possible](#sessionid:-87915)
+08:45:00|Karen Lopez|Application  Database Development|[The Tricky Part of Doing Tricky Things in your Database](#sessionid-87366)
+08:45:00|Kirill Kravtsov|Enterprise Database Administration  Deployment|[The wonders of modern SQL Server administration](#sessionid-88385)
+08:45:00|Mike Diehl|BI Platform Architecture, Development  Administration|[Introduction to Power BI](#sessionid-90432)
+10:15:00|Karen Lopez|Cloud Application Development  Deployment|[Who's Pissing in Your Data Lake?](#sessionid-87365)
+10:15:00|Patrick Flynn|Enterprise Database Administration  Deployment|[Database Corruption - Advanced Recovery Techniques](#sessionid-87949)
+10:15:00|Mike Diehl|BI Platform Architecture, Development  Administration|[Building measures in Power BI (and SQL Server Analysis Services tabular models)](#sessionid-90433)
+12:45:00|Karen Lopez|Application  Database Development|[A Database Designer's Favorite Features in SQL Server: Security, Privacy, and More](#sessionid-87364)
+12:45:00|Brian Hansen|Enterprise Database Administration  Deployment|[Get Your Optimizer to Give up All Its Secrets](#sessionid-88411)
+12:45:00|Phillip Labry|BI Platform Architecture, Development  Administration|[Why do I need Analysis Services?](#sessionid-89007)
+14:15:00|Patrick Flynn|Application  Database Development|[GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects](#sessionid-87392)
+14:15:00|Nem Schlecht|Application  Database Development|[Maximizing SQL Server Management Studio for Developers and DBAs](#sessionid-87652)
+14:15:00|Melody Zacharias|Cloud Application Development  Deployment|[Introduction to Azure AI - The Art of the possible](#sessionid-87915)
 #  
 #### SessionID: 87366
 # The Tricky Part of Doing Tricky Things in your Database

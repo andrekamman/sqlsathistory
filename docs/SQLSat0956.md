@@ -2,20 +2,20 @@
 # SQLSaturday #956 - Belgium 2020
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:45:00|Benni De Jagere|Analytics|[Troubleshooting Power BI Report Performance](#sessionid:-100444)
-09:45:00|Andriy Pogorelov|Administration|[SQL Server Transaction Log: internals](#sessionid:-101038)
-09:45:00|Kamil Nowinski|Developer|[The databases in SSDT - a work with project and best practices](#sessionid:-101350)
-11:00:00|Chris Taylor|Administration|[Database CI/CD with Containers and Azure DevOps](#sessionid:-100450)
-11:00:00|Philipp Lenz|Developer|[Introduction into Power BI Embedded](#sessionid:-100494)
-11:00:00|Cédric Charlier|Analytics|[Azure databricks: brick by brick for the data engineer](#sessionid:-100565)
-13:00:00|Marcelo Fernandes|Administration|[Effectively Troubleshooting Latency and Failover of Always On Availability Group](#sessionid:-100503)
-13:00:00|Joanna Wolthuis|Developer|[Be a dynamic SQL dynamo!](#sessionid:-100627)
-14:15:00|Nico Jacobs|Analytics|[Azure Data Factory, your data pipeline in the cloud](#sessionid:-100456)
-14:15:00|Tiago Balabuch|Developer|[Intelligent Query Processing in SQL databases](#sessionid:-100605)
-14:15:00|Martin Croft|Administration|[Azure Data Studio – The 30-day challenge](#sessionid:-100827)
-15:30:00|Paul Andrew|Developer|[An Architects Guide to Delivering Data Insights on the Microsoft Azure Data Platform](#sessionid:-100819)
-15:30:00|Gethyn Ellis|Administration|[Pay less, get more, a guide to SQL Server Licensing](#sessionid:-101020)
-15:30:00|Nicky van Vroenhoven|Analytics|[Tips  Tricks of a Power BI Implementation at a Financial Institute](#sessionid:-101150)
+09:45:00|Benni De Jagere|Analytics|[Troubleshooting Power BI Report Performance](#sessionid-100444)
+09:45:00|Andriy Pogorelov|Administration|[SQL Server Transaction Log: internals](#sessionid-101038)
+09:45:00|Kamil Nowinski|Developer|[The databases in SSDT - a work with project and best practices](#sessionid-101350)
+11:00:00|Chris Taylor|Administration|[Database CI/CD with Containers and Azure DevOps](#sessionid-100450)
+11:00:00|Philipp Lenz|Developer|[Introduction into Power BI Embedded](#sessionid-100494)
+11:00:00|Cédric Charlier|Analytics|[Azure databricks: brick by brick for the data engineer](#sessionid-100565)
+13:00:00|Marcelo Fernandes|Administration|[Effectively Troubleshooting Latency and Failover of Always On Availability Group](#sessionid-100503)
+13:00:00|Joanna Wolthuis|Developer|[Be a dynamic SQL dynamo!](#sessionid-100627)
+14:15:00|Nico Jacobs|Analytics|[Azure Data Factory, your data pipeline in the cloud](#sessionid-100456)
+14:15:00|Tiago Balabuch|Developer|[Intelligent Query Processing in SQL databases](#sessionid-100605)
+14:15:00|Martin Croft|Administration|[Azure Data Studio – The 30-day challenge](#sessionid-100827)
+15:30:00|Paul Andrew|Developer|[An Architects Guide to Delivering Data Insights on the Microsoft Azure Data Platform](#sessionid-100819)
+15:30:00|Gethyn Ellis|Administration|[Pay less, get more, a guide to SQL Server Licensing](#sessionid-101020)
+15:30:00|Nicky van Vroenhoven|Analytics|[Tips  Tricks of a Power BI Implementation at a Financial Institute](#sessionid-101150)
 #  
 #### SessionID: 100444
 # Troubleshooting Power BI Report Performance

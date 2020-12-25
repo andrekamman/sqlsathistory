@@ -2,15 +2,15 @@
 # SQLSaturday #83 - Johannesburg 2011
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Benjamin Nevarez|Track 3|[Query Optimizer Topics for Better Performance](#sessionid:-28453)
-00:00:00|Jason Brimhall|Track 3|[Tools for a DB TakeOver](#sessionid:-29290)
-00:00:00|Gail Shaw|Track 2|[12 ways to write badly performing T-SQL](#sessionid:-30215)
-00:00:00|Luis de Sousa|Track 2|[Database Design Methodologies](#sessionid:-31525)
-00:00:00|Mark Stacey|Track 2|[ "GIS in SQL and SSRS using Statistics SA data"](#sessionid:-32027)
-00:00:00|Phlippie Smit|Track 1|[Get your Oracle data into SQL Server faster!](#sessionid:-32968)
-00:00:00|Steve Simon|Track 3|[Recursive Queries: Beautiful Events Always Recur ](#sessionid:-33150)
-00:00:00|Stephan Lawson|Track 1|[The Transaction Log and VLF performance.](#sessionid:-33200)
-00:00:00|Theo Potgieter|Track 1|[Baseline my Database](#sessionid:-33377)
+00:00:00|Benjamin Nevarez|Track 3|[Query Optimizer Topics for Better Performance](#sessionid-28453)
+00:00:00|Jason Brimhall|Track 3|[Tools for a DB TakeOver](#sessionid-29290)
+00:00:00|Gail Shaw|Track 2|[12 ways to write badly performing T-SQL](#sessionid-30215)
+00:00:00|Luis de Sousa|Track 2|[Database Design Methodologies](#sessionid-31525)
+00:00:00|Mark Stacey|Track 2|[ "GIS in SQL and SSRS using Statistics SA data"](#sessionid-32027)
+00:00:00|Phlippie Smit|Track 1|[Get your Oracle data into SQL Server faster!](#sessionid-32968)
+00:00:00|Steve Simon|Track 3|[Recursive Queries: Beautiful Events Always Recur ](#sessionid-33150)
+00:00:00|Stephan Lawson|Track 1|[The Transaction Log and VLF performance.](#sessionid-33200)
+00:00:00|Theo Potgieter|Track 1|[Baseline my Database](#sessionid-33377)
 #  
 #### SessionID: 28453
 # Query Optimizer Topics for Better Performance

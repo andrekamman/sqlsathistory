@@ -2,14 +2,14 @@
 # SQLSaturday #321 - Cairo 2014
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Hisham Mortada|BI|[New Hybrid Cloud Scenarios with SQL Server 2014](#sessionid:-14993)
-00:00:00|Shehab El-Najjar|SQL 2014|[T-SQL Performance Guidelines for better DB stress powers](#sessionid:-15262)
-00:00:00|Shehab El-Najjar|SQL 2014|[Performance dreams  wait for you at SQL Server 2014](#sessionid:-15263)
-00:00:00|Islam Elshafie|BI|[BI on the cloud: Office 365 Power BI](#sessionid:-15439)
-00:00:00|Mohamad Tantawy, MBA, PMP, MCT|BI|[Develop your data Standards with SQL Data Quality Services](#sessionid:-21158)
-00:00:00|Sherif Talaat|SQL 2014|[Automating SQL Server with Windows PowerShell](#sessionid:-24414)
-00:00:00|Wagdy Ishac|BI|[From 0 to 100 Big data Solution End-To-End](#sessionid:-27610)
-00:00:00|Ahmed ElSangary|SQL 2014|[A Promise of better performance for your database](#sessionid:-9912)
+00:00:00|Hisham Mortada|BI|[New Hybrid Cloud Scenarios with SQL Server 2014](#sessionid-14993)
+00:00:00|Shehab El-Najjar|SQL 2014|[T-SQL Performance Guidelines for better DB stress powers](#sessionid-15262)
+00:00:00|Shehab El-Najjar|SQL 2014|[Performance dreams  wait for you at SQL Server 2014](#sessionid-15263)
+00:00:00|Islam Elshafie|BI|[BI on the cloud: Office 365 Power BI](#sessionid-15439)
+00:00:00|Mohamad Tantawy, MBA, PMP, MCT|BI|[Develop your data Standards with SQL Data Quality Services](#sessionid-21158)
+00:00:00|Sherif Talaat|SQL 2014|[Automating SQL Server with Windows PowerShell](#sessionid-24414)
+00:00:00|Wagdy Ishac|BI|[From 0 to 100 Big data Solution End-To-End](#sessionid-27610)
+00:00:00|Ahmed ElSangary|SQL 2014|[A Promise of better performance for your database](#sessionid-9912)
 #  
 #### SessionID: 14993
 # New Hybrid Cloud Scenarios with SQL Server 2014

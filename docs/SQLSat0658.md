@@ -2,20 +2,20 @@
 # SQLSaturday #658 - Toulouse 2017
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Paul Bertucci|1 - DBA  Cloud-DBA|[High Availability and Disaster Recovery on SQL Server, Azure and beyond](#sessionid:-64737)
-10:00:00|Patrice Lamarche|3 - Dev  Data|[L'ALM pour les bases de données SQL Server grâce à Visual Studio, ReadyRoll et VSTS](#sessionid:-67524)
-10:00:00|Jean-Pierre Riehl|2 - BI  Analytics|[Azure Data Lake : SELECT People FROM DataLake WHERE Happy = TRUE](#sessionid:-67600)
-11:30:00|Christophe Laporte|1 - DBA  Cloud-DBA|[Les bases du dépannage SQL Server](#sessionid:-66750)
-11:30:00|Charles-Henri Sauget|2 - BI  Analytics|[SSAS Tabulaire - Optimisation](#sessionid:-67352)
-11:30:00|Cédric Charlier|3 - Dev  Data|[Des graphs partout! Microsoft se prendrait-il pour Banksy?](#sessionid:-67712)
-13:30:00|Christian Cote|2 - BI  Analytics|[Reporting Services 2016 and beyond](#sessionid:-64703)
-13:30:00|David Barbarin|1 - DBA  Cloud-DBA|[Introducing SQL Server on Linux for DBAs](#sessionid:-66886)
-13:30:00|Wolfgang Strasser|3 - Dev  Data|[Scale-Out your SSIS Package Executions](#sessionid:-67653)
-15:00:00|Joël Crest|2 - BI  Analytics|[POWER BI PREMIUM : POUR QUELS USAGES ?](#sessionid:-67354)
-15:00:00|Gregory Boge|1 - DBA  Cloud-DBA|[Scale out dans la vraie vie](#sessionid:-67357)
-16:30:00|Stijn Wynants|1 - DBA  Cloud-DBA|[Real-Time Analytics: OLAP  OLTP in the mix!](#sessionid:-64560)
-16:30:00|Isabelle Van Campenhoudt|2 - BI  Analytics|[Turn insight into action using Microsoft Flow and Power BI](#sessionid:-64742)
-16:30:00|Sébastien Pertus|3 - Dev  Data|[Les nouveautés SAAS de la plateforme AZURE : Cosmos DB, MySQL et PostgreSQL as a service !](#sessionid:-69118)
+10:00:00|Paul Bertucci|1 - DBA  Cloud-DBA|[High Availability and Disaster Recovery on SQL Server, Azure and beyond](#sessionid-64737)
+10:00:00|Patrice Lamarche|3 - Dev  Data|[L'ALM pour les bases de données SQL Server grâce à Visual Studio, ReadyRoll et VSTS](#sessionid-67524)
+10:00:00|Jean-Pierre Riehl|2 - BI  Analytics|[Azure Data Lake : SELECT People FROM DataLake WHERE Happy = TRUE](#sessionid-67600)
+11:30:00|Christophe Laporte|1 - DBA  Cloud-DBA|[Les bases du dépannage SQL Server](#sessionid-66750)
+11:30:00|Charles-Henri Sauget|2 - BI  Analytics|[SSAS Tabulaire - Optimisation](#sessionid-67352)
+11:30:00|Cédric Charlier|3 - Dev  Data|[Des graphs partout! Microsoft se prendrait-il pour Banksy?](#sessionid-67712)
+13:30:00|Christian Cote|2 - BI  Analytics|[Reporting Services 2016 and beyond](#sessionid-64703)
+13:30:00|David Barbarin|1 - DBA  Cloud-DBA|[Introducing SQL Server on Linux for DBAs](#sessionid-66886)
+13:30:00|Wolfgang Strasser|3 - Dev  Data|[Scale-Out your SSIS Package Executions](#sessionid-67653)
+15:00:00|Joël Crest|2 - BI  Analytics|[POWER BI PREMIUM : POUR QUELS USAGES ?](#sessionid-67354)
+15:00:00|Gregory Boge|1 - DBA  Cloud-DBA|[Scale out dans la vraie vie](#sessionid-67357)
+16:30:00|Stijn Wynants|1 - DBA  Cloud-DBA|[Real-Time Analytics: OLAP  OLTP in the mix!](#sessionid-64560)
+16:30:00|Isabelle Van Campenhoudt|2 - BI  Analytics|[Turn insight into action using Microsoft Flow and Power BI](#sessionid-64742)
+16:30:00|Sébastien Pertus|3 - Dev  Data|[Les nouveautés SAAS de la plateforme AZURE : Cosmos DB, MySQL et PostgreSQL as a service !](#sessionid-69118)
 #  
 #### SessionID: 64737
 # High Availability and Disaster Recovery on SQL Server, Azure and beyond

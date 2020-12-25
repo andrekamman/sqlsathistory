@@ -2,12 +2,12 @@
 # SQLSaturday #207 - Cameroon 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Jason Brimhall|Track 1|[Reporting Services for Mere DBAs](#sessionid:-10824)
-00:00:00|Jody Roberts|Track 1|[Rocking with SQL 2012 Extended Events](#sessionid:-17095)
-00:00:00|Jody Roberts|Track 1|[The big difference](#sessionid:-17096)
-00:00:00|ACHILLE NGUELA NGUELA|Track 1|[SQL Server 2012 - Cloud on Your Terms: Scale On De](#sessionid:-21414)
-00:00:00|Steve Simon|Track 1|[Get your Mining Model Predictions out to all. Presentation en Francais](#sessionid:-25356)
-00:00:00|Steve Simon|Track 1|[I 'wanna' learn SQL Server. Presentation en Francais](#sessionid:-25357)
+00:00:00|Jason Brimhall|Track 1|[Reporting Services for Mere DBAs](#sessionid-10824)
+00:00:00|Jody Roberts|Track 1|[Rocking with SQL 2012 Extended Events](#sessionid-17095)
+00:00:00|Jody Roberts|Track 1|[The big difference](#sessionid-17096)
+00:00:00|ACHILLE NGUELA NGUELA|Track 1|[SQL Server 2012 - Cloud on Your Terms: Scale On De](#sessionid-21414)
+00:00:00|Steve Simon|Track 1|[Get your Mining Model Predictions out to all. Presentation en Francais](#sessionid-25356)
+00:00:00|Steve Simon|Track 1|[I 'wanna' learn SQL Server. Presentation en Francais](#sessionid-25357)
 #  
 #### SessionID: 10824
 # Reporting Services for Mere DBAs

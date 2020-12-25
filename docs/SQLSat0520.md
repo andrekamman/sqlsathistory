@@ -2,7 +2,7 @@
 # SQLSaturday #520 - Cambridge 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Dejan Sarka|BI|[Introducing R and Using R in MS BI Suite](#sessionid:-45338)
+09:00:00|Dejan Sarka|BI|[Introducing R and Using R in MS BI Suite](#sessionid-45338)
 #  
 #### SessionID: 45338
 # Introducing R and Using R in MS BI Suite

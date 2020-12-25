@@ -2,12 +2,12 @@
 # SQLSaturday #102 - Trinidad 2011
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Hasani Holder|Track 1|[Microsoft Data Mining Fundamentals](#sessionid:-30298)
-00:00:00|Jason Deyalsingh|Track 1|[Database Integrity](#sessionid:-30493)
-00:00:00|Joe Chang|Track 1|[Performance for SMB Developers - 2011](#sessionid:-30591)
-00:00:00|Nigel Sammy|Track 1|[What's new in SQL Server 2012](#sessionid:-32077)
-00:00:00|Rushabh Mehta|Track 1|[Zero to BI in 10 Minutes](#sessionid:-32536)
-00:00:00|Rushabh Mehta|Track 1|[Journey into Business Intelligence](#sessionid:-32537)
+00:00:00|Hasani Holder|Track 1|[Microsoft Data Mining Fundamentals](#sessionid-30298)
+00:00:00|Jason Deyalsingh|Track 1|[Database Integrity](#sessionid-30493)
+00:00:00|Joe Chang|Track 1|[Performance for SMB Developers - 2011](#sessionid-30591)
+00:00:00|Nigel Sammy|Track 1|[What's new in SQL Server 2012](#sessionid-32077)
+00:00:00|Rushabh Mehta|Track 1|[Zero to BI in 10 Minutes](#sessionid-32536)
+00:00:00|Rushabh Mehta|Track 1|[Journey into Business Intelligence](#sessionid-32537)
 #  
 #### SessionID: 30298
 # Microsoft Data Mining Fundamentals

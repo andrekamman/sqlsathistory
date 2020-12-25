@@ -2,17 +2,17 @@
 # SQLSaturday #731 - Athens 2018
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:40:00|Cláudio Silva|Enterprise Database Administration  Deployment|[Administrate SSRS/PBIRS with PowerShell](#sessionid:-71728)
-09:40:00|Sergio Govoni|Professional Development|[SQL Server 2017 Graph Database](#sessionid:-72318)
-10:50:00|Mikael Wedham|Application  Database Development|[A Masters view on Query plans and indexing](#sessionid:-73734)
-10:50:00|Mihail Mateev|Strategy and Architecture|[Choosing the Right Database for Microservices Solutions](#sessionid:-73868)
-12:00:00|André Melancia|Enterprise Database Administration  Deployment|[SQL Curiosities: η περιέργεια σκότωσε τη γάτα](#sessionid:-71476)
-12:00:00|Christian Cote|BI Platform Architecture, Development  Administration|[The modern data warehouse](#sessionid:-82434)
-13:45:00|Bent Pedersen|BI Platform Architecture, Development  Administration|[Boost your Tabular Productivity](#sessionid:-74711)
-13:45:00|Arnie Rowland|Application  Database Development|[Magical Memory Moments](#sessionid:-77166)
-14:55:00|Rudi Bruchez|Enterprise Database Administration  Deployment|[What can you do with SQL Server on Linux?](#sessionid:-71412)
-14:55:00|Christian Cote|BI Platform Architecture, Development  Administration|[Azure Data Factory V2 /SSIS in Azure](#sessionid:-73559)
-16:05:00|Kevin Boles|Application  Database Development|[Know What Your Code is Doing to SQL Server!](#sessionid:-72325)
+09:40:00|Cláudio Silva|Enterprise Database Administration  Deployment|[Administrate SSRS/PBIRS with PowerShell](#sessionid-71728)
+09:40:00|Sergio Govoni|Professional Development|[SQL Server 2017 Graph Database](#sessionid-72318)
+10:50:00|Mikael Wedham|Application  Database Development|[A Masters view on Query plans and indexing](#sessionid-73734)
+10:50:00|Mihail Mateev|Strategy and Architecture|[Choosing the Right Database for Microservices Solutions](#sessionid-73868)
+12:00:00|André Melancia|Enterprise Database Administration  Deployment|[SQL Curiosities: η περιέργεια σκότωσε τη γάτα](#sessionid-71476)
+12:00:00|Christian Cote|BI Platform Architecture, Development  Administration|[The modern data warehouse](#sessionid-82434)
+13:45:00|Bent Pedersen|BI Platform Architecture, Development  Administration|[Boost your Tabular Productivity](#sessionid-74711)
+13:45:00|Arnie Rowland|Application  Database Development|[Magical Memory Moments](#sessionid-77166)
+14:55:00|Rudi Bruchez|Enterprise Database Administration  Deployment|[What can you do with SQL Server on Linux?](#sessionid-71412)
+14:55:00|Christian Cote|BI Platform Architecture, Development  Administration|[Azure Data Factory V2 /SSIS in Azure](#sessionid-73559)
+16:05:00|Kevin Boles|Application  Database Development|[Know What Your Code is Doing to SQL Server!](#sessionid-72325)
 #  
 #### SessionID: 71728
 # Administrate SSRS/PBIRS with PowerShell

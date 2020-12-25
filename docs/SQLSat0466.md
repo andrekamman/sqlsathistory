@@ -2,12 +2,12 @@
 # SQLSaturday #466 - Montreal 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:45:00|Michael DeFehr|Application  Database Development and Administration|[Query Plans and Indexes in SQL Server](#sessionid:-39605)
-09:45:00|Charles Verdon|Azure ML|[Analyse Pr#233;dictive - Partie 1](#sessionid:-40372)
-11:00:00|Charles Verdon|Azure ML|[Analyse Pr#233;dictive - Partie 2](#sessionid:-40603)
-13:00:00|Jean Rene Roy|Application  Database Development and Administration|[The SQL Server Modern DBA](#sessionid:-39998)
-13:00:00|Sophie Marchand|BI Information Delivery|[Visualisation de donn#233;es en mode libre-service](#sessionid:-40584)
-14:30:00|Michelle Gutzait|Enterprise Database Administration  Deployment|[Improve query performance with the new SQL Server 2016 query store!!](#sessionid:-39168)
+09:45:00|Michael DeFehr|Application  Database Development and Administration|[Query Plans and Indexes in SQL Server](#sessionid-39605)
+09:45:00|Charles Verdon|Azure ML|[Analyse Pr#233;dictive - Partie 1](#sessionid-40372)
+11:00:00|Charles Verdon|Azure ML|[Analyse Pr#233;dictive - Partie 2](#sessionid-40603)
+13:00:00|Jean Rene Roy|Application  Database Development and Administration|[The SQL Server Modern DBA](#sessionid-39998)
+13:00:00|Sophie Marchand|BI Information Delivery|[Visualisation de donn#233;es en mode libre-service](#sessionid-40584)
+14:30:00|Michelle Gutzait|Enterprise Database Administration  Deployment|[Improve query performance with the new SQL Server 2016 query store!!](#sessionid-39168)
 #  
 #### SessionID: 39605
 # Query Plans and Indexes in SQL Server

@@ -2,17 +2,17 @@
 # SQLSaturday #872 - Paris 2019
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Jean-Pierre Riehl|Keynote|[Big Intelligent Power Data Platform, tour d'horizon de la Data et](#sessionid:-93248)
-10:15:00|David Barbarin|Cloud, Hybrid or On prem Data Platforms|[Running statefulset applications like SQL Server in K8s](#sessionid:-91838)
-10:15:00|Arnaud Voisin|Business Intelligence, Artificial Intelligence|[Interactive query avec Azure SQL DataWarehouse, retour d'expérien](#sessionid:-93602)
-11:30:00|Sarah Bessard|Cloud, Hybrid or On prem Data Platforms|[SQL Server dans Azure](#sessionid:-91670)
-11:30:00|Charles-Henri Sauget|Business Intelligence, Artificial Intelligence|[Azure Data Factory - Deep Dive](#sessionid:-93427)
-13:45:00|Rudi Bruchez|Cloud, Hybrid or On prem Data Platforms|[From relational to Multimodel : Azure Cosmos DB](#sessionid:-90692)
-13:45:00|Cédric Charlier|Business Intelligence, Artificial Intelligence|[Azure Databricks brique par brique pour les data engineers](#sessionid:-92347)
-15:00:00|Philippe Geiger|Business Intelligence, Artificial Intelligence|[Azure Machine Learning par l'exemple](#sessionid:-91206)
-15:00:00|Guillaume ROUCHON|Cloud, Hybrid or On prem Data Platforms|[Mise en place d'un architecture data dans Azure, retour d'expérie](#sessionid:-92833)
-16:15:00|Christophe Laporte|Cloud, Hybrid or On prem Data Platforms|[SQL Server installation and configuration cookbook](#sessionid:-91678)
-16:15:00|Julien Pierre|Cloud, Hybrid or On prem Data Platforms|[SQL 2019 et le big data](#sessionid:-91770)
+09:00:00|Jean-Pierre Riehl|Keynote|[Big Intelligent Power Data Platform, tour d'horizon de la Data et](#sessionid-93248)
+10:15:00|David Barbarin|Cloud, Hybrid or On prem Data Platforms|[Running statefulset applications like SQL Server in K8s](#sessionid-91838)
+10:15:00|Arnaud Voisin|Business Intelligence, Artificial Intelligence|[Interactive query avec Azure SQL DataWarehouse, retour d'expérien](#sessionid-93602)
+11:30:00|Sarah Bessard|Cloud, Hybrid or On prem Data Platforms|[SQL Server dans Azure](#sessionid-91670)
+11:30:00|Charles-Henri Sauget|Business Intelligence, Artificial Intelligence|[Azure Data Factory - Deep Dive](#sessionid-93427)
+13:45:00|Rudi Bruchez|Cloud, Hybrid or On prem Data Platforms|[From relational to Multimodel : Azure Cosmos DB](#sessionid-90692)
+13:45:00|Cédric Charlier|Business Intelligence, Artificial Intelligence|[Azure Databricks brique par brique pour les data engineers](#sessionid-92347)
+15:00:00|Philippe Geiger|Business Intelligence, Artificial Intelligence|[Azure Machine Learning par l'exemple](#sessionid-91206)
+15:00:00|Guillaume ROUCHON|Cloud, Hybrid or On prem Data Platforms|[Mise en place d'un architecture data dans Azure, retour d'expérie](#sessionid-92833)
+16:15:00|Christophe Laporte|Cloud, Hybrid or On prem Data Platforms|[SQL Server installation and configuration cookbook](#sessionid-91678)
+16:15:00|Julien Pierre|Cloud, Hybrid or On prem Data Platforms|[SQL 2019 et le big data](#sessionid-91770)
 #  
 #### SessionID: 93248
 # Big Intelligent Power Data Platform, tour d'horizon de la Data et

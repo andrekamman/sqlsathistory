@@ -2,20 +2,20 @@
 # SQLSaturday #805 - Bucuresti 2018
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:30:00|Peter Willmot|Application  Database Development|[Working with SQL Managed Data Types](#sessionid:-84159)
-09:30:00|Sorin Peste|Application  Database Development|[Azure SQL Database Managed Instance - Finally, SQL Server with None of the Headaches](#sessionid:-84490)
-09:30:00|Liviu Ieran|Enterprise Database Administration  Deployment|[SQL Server - Performance Basics](#sessionid:-84672)
-10:45:00|Peter Willmot|Application  Database Development|[Building low-cost back-end app services with SQL Express and .Net Core on Linux](#sessionid:-84157)
-10:45:00|Marcelo Fernandes|Strategy and Architecture|[How to build solution for High Availability/Disaster Recovery](#sessionid:-84909)
-10:45:00|Janusz Rokicki|Strategy and Architecture|[The Road to The Autonomous Databases](#sessionid:-85231)
-12:00:00|Dennes Torres|BI Information Delivery|[PowerBI: From Zero to Hero](#sessionid:-84621)
-12:00:00|Marcelo Fernandes|Strategy and Architecture|[Thinking out of the Box! - SMB 3.0](#sessionid:-84910)
-12:00:00|Catalin Gheorghiu|Application  Database Development|[“SQL-like” or query languages in Azure IoT](#sessionid:-85111)
-14:00:00|Andrey Nikolov|Application  Database Development|[The hidden power of Power BI or what we can do using Power BI REST API](#sessionid:-84140)
-14:00:00|Alexandru Dinica|Enterprise Database Administration  Deployment|[Upgrading to a newer SQL Server version: Tip, Tricks, Issues](#sessionid:-85048)
-14:00:00|Alexandra Ciortea|Strategy and Architecture|[SQL vNext: What’s next?](#sessionid:-85223)
-15:15:00|Cristian Lefter|Analytics and Visualization|[Data Storytelling](#sessionid:-85266)
-15:15:00|Ozana Buse|Application  Database Development|[S (tudent) QL - SQL Server guide for students](#sessionid:-85708)
+09:30:00|Peter Willmot|Application  Database Development|[Working with SQL Managed Data Types](#sessionid-84159)
+09:30:00|Sorin Peste|Application  Database Development|[Azure SQL Database Managed Instance - Finally, SQL Server with None of the Headaches](#sessionid-84490)
+09:30:00|Liviu Ieran|Enterprise Database Administration  Deployment|[SQL Server - Performance Basics](#sessionid-84672)
+10:45:00|Peter Willmot|Application  Database Development|[Building low-cost back-end app services with SQL Express and .Net Core on Linux](#sessionid-84157)
+10:45:00|Marcelo Fernandes|Strategy and Architecture|[How to build solution for High Availability/Disaster Recovery](#sessionid-84909)
+10:45:00|Janusz Rokicki|Strategy and Architecture|[The Road to The Autonomous Databases](#sessionid-85231)
+12:00:00|Dennes Torres|BI Information Delivery|[PowerBI: From Zero to Hero](#sessionid-84621)
+12:00:00|Marcelo Fernandes|Strategy and Architecture|[Thinking out of the Box! - SMB 3.0](#sessionid-84910)
+12:00:00|Catalin Gheorghiu|Application  Database Development|[“SQL-like” or query languages in Azure IoT](#sessionid-85111)
+14:00:00|Andrey Nikolov|Application  Database Development|[The hidden power of Power BI or what we can do using Power BI REST API](#sessionid-84140)
+14:00:00|Alexandru Dinica|Enterprise Database Administration  Deployment|[Upgrading to a newer SQL Server version: Tip, Tricks, Issues](#sessionid-85048)
+14:00:00|Alexandra Ciortea|Strategy and Architecture|[SQL vNext: What’s next?](#sessionid-85223)
+15:15:00|Cristian Lefter|Analytics and Visualization|[Data Storytelling](#sessionid-85266)
+15:15:00|Ozana Buse|Application  Database Development|[S (tudent) QL - SQL Server guide for students](#sessionid-85708)
 #  
 #### SessionID: 84159
 # Working with SQL Managed Data Types

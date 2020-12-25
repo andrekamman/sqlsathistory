@@ -2,21 +2,21 @@
 # SQLSaturday #147 - Recife 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Cesar Blumm|Auditorium|[Replicação Hands On](#sessionid:-11382)
-00:00:00|Demetrio Silva|Auditorium|[Uma introdução ao Powershell](#sessionid:-13058)
-00:00:00|Diego Nogare|Auditorium|[Integração completa do pacote de BI do SQL 2012](#sessionid:-13252)
-00:00:00|Fabiano Amorim|Auditorium|[7 maneiras diferentes para matar um DBA do coração](#sessionid:-14152)
-00:00:00|Laerte Junior|Lab 2|[Troubleshooting SQL Server com PowerShell](#sessionid:-18917)
-00:00:00|Marcondes Alexandre|Lab 2|[Desenvolvendo para Windows Azure](#sessionid:-19493)
-00:00:00|Marcondes Alexandre|Auditorium|[Administrando sua base de dados no SQL Azure](#sessionid:-19494)
-00:00:00|Denny Cherry|Auditorium|[Reading the SQL Server Execution Plan](#sessionid:-21049)
-00:00:00|Denny Cherry|Lab 2|[Table Indexing for the .NET Developer](#sessionid:-21050)
-00:00:00|Denny Cherry|Lab 2|[Where should I be encrypting my data](#sessionid:-21051)
-00:00:00|Marcus Vinícius Bittencourt|Lab 2|[Problemas de fragmentação no Transaction Log](#sessionid:-21235)
-00:00:00|Roberval Ranches|Lab 2|[Usando DQS e SSIS para automatizar carga de dados](#sessionid:-23374)
-00:00:00|Vladimir Magalhães|Lab 2|[Trabalhando com dados geográficos no SSRS 2012](#sessionid:-27508)
-00:00:00|Oduvaldo Zeferino|Auditorium|[Confio Ignite V8 – Otimização de Desempenho de SQL](#sessionid:-34853)
-00:00:00|Fábio Ávila|Auditorium|[Closing Session and Raffle](#sessionid:-9971)
+00:00:00|Cesar Blumm|Auditorium|[Replicação Hands On](#sessionid-11382)
+00:00:00|Demetrio Silva|Auditorium|[Uma introdução ao Powershell](#sessionid-13058)
+00:00:00|Diego Nogare|Auditorium|[Integração completa do pacote de BI do SQL 2012](#sessionid-13252)
+00:00:00|Fabiano Amorim|Auditorium|[7 maneiras diferentes para matar um DBA do coração](#sessionid-14152)
+00:00:00|Laerte Junior|Lab 2|[Troubleshooting SQL Server com PowerShell](#sessionid-18917)
+00:00:00|Marcondes Alexandre|Lab 2|[Desenvolvendo para Windows Azure](#sessionid-19493)
+00:00:00|Marcondes Alexandre|Auditorium|[Administrando sua base de dados no SQL Azure](#sessionid-19494)
+00:00:00|Denny Cherry|Auditorium|[Reading the SQL Server Execution Plan](#sessionid-21049)
+00:00:00|Denny Cherry|Lab 2|[Table Indexing for the .NET Developer](#sessionid-21050)
+00:00:00|Denny Cherry|Lab 2|[Where should I be encrypting my data](#sessionid-21051)
+00:00:00|Marcus Vinícius Bittencourt|Lab 2|[Problemas de fragmentação no Transaction Log](#sessionid-21235)
+00:00:00|Roberval Ranches|Lab 2|[Usando DQS e SSIS para automatizar carga de dados](#sessionid-23374)
+00:00:00|Vladimir Magalhães|Lab 2|[Trabalhando com dados geográficos no SSRS 2012](#sessionid-27508)
+00:00:00|Oduvaldo Zeferino|Auditorium|[Confio Ignite V8 – Otimização de Desempenho de SQL](#sessionid-34853)
+00:00:00|Fábio Ávila|Auditorium|[Closing Session and Raffle](#sessionid-9971)
 #  
 #### SessionID: 11382
 # Replicação Hands On

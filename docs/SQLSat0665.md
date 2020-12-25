@@ -2,18 +2,18 @@
 # SQLSaturday #665 - Bucuresti 2017
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Kaloyan Kosev|Enterprise Database Administration  Deployment|[Embrace the future: Running SQL Server in containers](#sessionid:-65058)
-10:00:00|Sorin Peste|Cloud Application Development  Deployment|[Azure SQL Database - It's Just SQL Server Without the Headaches, Right?!](#sessionid:-67713)
-10:00:00|Alice-Lavinia Pasare|Enterprise Database Administration  Deployment|[SQL XML unleashed](#sessionid:-69429)
-11:00:00|Mike Byrd|Application  Database Development|[In-Memory Tables --Formula One Performance Unleashed, Part 1](#sessionid:-64920)
-11:00:00|Catalin Gheorghiu|Application  Database Development|[IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights](#sessionid:-66907)
-11:00:00|Octavian Cretu|Enterprise Database Administration  Deployment|[Distributed Availability Groups](#sessionid:-69081)
-13:00:00|Razvan Socol|Application  Database Development|[Graph tables in SQL Server 2017](#sessionid:-67300)
-13:00:00|Cristian Lefter|Application  Database Development|[Third Party Tools for SQL Server](#sessionid:-67308)
-13:00:00|Andrada Nastasie|Enterprise Database Administration  Deployment|[SQL Server migration](#sessionid:-69292)
-14:00:00|Dr. Subramani Paramasivam|Analytics and Visualization|[PowerBI On-Premises Vs Cloud](#sessionid:-64780)
-14:00:00|Gheorghe-Bogdan SAHLEAN|Analytics and Visualization|[Custom Visuals in PowerBI](#sessionid:-67307)
-14:00:00|Liviu Ieran|Application  Database Development|[SQL Server 2016 - Understanding Statistics](#sessionid:-69232)
+10:00:00|Kaloyan Kosev|Enterprise Database Administration  Deployment|[Embrace the future: Running SQL Server in containers](#sessionid-65058)
+10:00:00|Sorin Peste|Cloud Application Development  Deployment|[Azure SQL Database - It's Just SQL Server Without the Headaches, Right?!](#sessionid-67713)
+10:00:00|Alice-Lavinia Pasare|Enterprise Database Administration  Deployment|[SQL XML unleashed](#sessionid-69429)
+11:00:00|Mike Byrd|Application  Database Development|[In-Memory Tables --Formula One Performance Unleashed, Part 1](#sessionid-64920)
+11:00:00|Catalin Gheorghiu|Application  Database Development|[IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights](#sessionid-66907)
+11:00:00|Octavian Cretu|Enterprise Database Administration  Deployment|[Distributed Availability Groups](#sessionid-69081)
+13:00:00|Razvan Socol|Application  Database Development|[Graph tables in SQL Server 2017](#sessionid-67300)
+13:00:00|Cristian Lefter|Application  Database Development|[Third Party Tools for SQL Server](#sessionid-67308)
+13:00:00|Andrada Nastasie|Enterprise Database Administration  Deployment|[SQL Server migration](#sessionid-69292)
+14:00:00|Dr. Subramani Paramasivam|Analytics and Visualization|[PowerBI On-Premises Vs Cloud](#sessionid-64780)
+14:00:00|Gheorghe-Bogdan SAHLEAN|Analytics and Visualization|[Custom Visuals in PowerBI](#sessionid-67307)
+14:00:00|Liviu Ieran|Application  Database Development|[SQL Server 2016 - Understanding Statistics](#sessionid-69232)
 #  
 #### SessionID: 65058
 # Embrace the future: Running SQL Server in containers

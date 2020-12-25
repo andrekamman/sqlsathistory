@@ -2,22 +2,22 @@
 # SQLSaturday #803 - Durban 2018
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:50:00|Sean Cremer|Application  Database Development|[SQL Server Temporal Tables](#sessionid:-83411)
-09:50:00|Jeanne Combrinck|Application  Database Development|[Master Data Services From Start To Finish](#sessionid:-83415)
-09:50:00|Luis de Sousa|Analytics and Visualization|[Machine Learning with R in Power BI](#sessionid:-85091)
-11:00:00|Steve Simon|Information Delivery|[All you wanted to know about CTE's but were afraid to ask](#sessionid:-83427)
-11:00:00|Andrew Collier|Analytics and Visualization|[Wading into Stream Analytics](#sessionid:-83734)
-11:00:00|Gail Shaw|Application  Database Development|[An introduction to SQLDatawarehouse](#sessionid:-85093)
-11:00:00|Niels Berglund|Analytics and Visualization|[SQL Server Extensibility Framework](#sessionid:-85098)
-13:00:00|Steve Simon|BI Information Delivery|[SQL Server Reporting Services 2017 on Steroids!!](#sessionid:-83426)
-13:00:00|Jodi Craig|Application  Database Development|[Deadlocks: What they are and how to resolve them](#sessionid:-85099)
-13:00:00|Michael Johnson|BI Information Delivery|[Power BI data preparation with Dataflows](#sessionid:-85332)
-14:10:00|Arohan Naidoo|BI Platform Architecture, Development  Administration|[Zero to Pi to 10 on Cloud,Intro to Windows 10 IoT Core on a Raspberry Pi and BI using Azure IoT Hub](#sessionid:-84324)
-14:10:00|Gail Shaw|Application  Database Development|[Graphs in SQL Server and Cosmos DB](#sessionid:-85094)
-14:10:00|Niels Berglund|Analytics and Visualization|[The Ins and Outs of sp_execute_external_script](#sessionid:-85097)
-15:30:00|James McGillivray|BI Information Delivery|[Power BI Report Design for the Aesthetically Challenged](#sessionid:-83423)
-15:30:00|Rory Bolle|Application  Database Development|[Does everyone hate replication?](#sessionid:-84372)
-15:30:00|Warren Rocchi|Professional Development|[Top tips on cracking a new database (and improving your new emplo](#sessionid:-85120)
+09:50:00|Sean Cremer|Application  Database Development|[SQL Server Temporal Tables](#sessionid-83411)
+09:50:00|Jeanne Combrinck|Application  Database Development|[Master Data Services From Start To Finish](#sessionid-83415)
+09:50:00|Luis de Sousa|Analytics and Visualization|[Machine Learning with R in Power BI](#sessionid-85091)
+11:00:00|Steve Simon|Information Delivery|[All you wanted to know about CTE's but were afraid to ask](#sessionid-83427)
+11:00:00|Andrew Collier|Analytics and Visualization|[Wading into Stream Analytics](#sessionid-83734)
+11:00:00|Gail Shaw|Application  Database Development|[An introduction to SQLDatawarehouse](#sessionid-85093)
+11:00:00|Niels Berglund|Analytics and Visualization|[SQL Server Extensibility Framework](#sessionid-85098)
+13:00:00|Steve Simon|BI Information Delivery|[SQL Server Reporting Services 2017 on Steroids!!](#sessionid-83426)
+13:00:00|Jodi Craig|Application  Database Development|[Deadlocks: What they are and how to resolve them](#sessionid-85099)
+13:00:00|Michael Johnson|BI Information Delivery|[Power BI data preparation with Dataflows](#sessionid-85332)
+14:10:00|Arohan Naidoo|BI Platform Architecture, Development  Administration|[Zero to Pi to 10 on Cloud,Intro to Windows 10 IoT Core on a Raspberry Pi and BI using Azure IoT Hub](#sessionid-84324)
+14:10:00|Gail Shaw|Application  Database Development|[Graphs in SQL Server and Cosmos DB](#sessionid-85094)
+14:10:00|Niels Berglund|Analytics and Visualization|[The Ins and Outs of sp_execute_external_script](#sessionid-85097)
+15:30:00|James McGillivray|BI Information Delivery|[Power BI Report Design for the Aesthetically Challenged](#sessionid-83423)
+15:30:00|Rory Bolle|Application  Database Development|[Does everyone hate replication?](#sessionid-84372)
+15:30:00|Warren Rocchi|Professional Development|[Top tips on cracking a new database (and improving your new emplo](#sessionid-85120)
 #  
 #### SessionID: 83411
 # SQL Server Temporal Tables

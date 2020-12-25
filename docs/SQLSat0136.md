@@ -2,20 +2,20 @@
 # SQLSaturday #136 - Wellington 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Clive Trott|Track 2|[Data Visualisation](#sessionid:-11735)
-00:00:00|Dave Dustin|Track 1|[What’s available with SQL Server 2012](#sessionid:-12231)
-00:00:00|Dave Dustin|Track 1|[Myths and misconceptions](#sessionid:-12233)
-00:00:00|Jannie Muller|Track 1|[Interpreting DMV's  practical uses](#sessionid:-15751)
-00:00:00|Kent Chenery|Track 2|[PowerShell for Beginners](#sessionid:-18132)
-00:00:00|Martin Catherall|Track 1|[Extended Events - A whirlwind tour!](#sessionid:-19765)
-00:00:00|Paul White|Track 1|[Query Optimizer Deep Dive](#sessionid:-21883)
-00:00:00|Peter Ward|Track 1|[If you had $10K what would you spend it on?](#sessionid:-22054)
-00:00:00|Peter Ward|Track 1|[The Dark Art of Performance Tuning](#sessionid:-22055)
-00:00:00|Paul te Braak|Track 2|[Tabular Modelling and Design Concepts](#sessionid:-22377)
-00:00:00|Rob Farley|Track 2|[Query Tuning Using Lessons Learned from SSIS](#sessionid:-23214)
-00:00:00|Rob Farley|Track 2|[Analytic T-SQL Functions in 2012](#sessionid:-23217)
-00:00:00|Roger Noble|Track 2|[Visualising  your data with PivotViewer](#sessionid:-23414)
-00:00:00|Reza Rad|Track 2|[New Features of SSIS 2012](#sessionid:-8765)
+00:00:00|Clive Trott|Track 2|[Data Visualisation](#sessionid-11735)
+00:00:00|Dave Dustin|Track 1|[What’s available with SQL Server 2012](#sessionid-12231)
+00:00:00|Dave Dustin|Track 1|[Myths and misconceptions](#sessionid-12233)
+00:00:00|Jannie Muller|Track 1|[Interpreting DMV's  practical uses](#sessionid-15751)
+00:00:00|Kent Chenery|Track 2|[PowerShell for Beginners](#sessionid-18132)
+00:00:00|Martin Catherall|Track 1|[Extended Events - A whirlwind tour!](#sessionid-19765)
+00:00:00|Paul White|Track 1|[Query Optimizer Deep Dive](#sessionid-21883)
+00:00:00|Peter Ward|Track 1|[If you had $10K what would you spend it on?](#sessionid-22054)
+00:00:00|Peter Ward|Track 1|[The Dark Art of Performance Tuning](#sessionid-22055)
+00:00:00|Paul te Braak|Track 2|[Tabular Modelling and Design Concepts](#sessionid-22377)
+00:00:00|Rob Farley|Track 2|[Query Tuning Using Lessons Learned from SSIS](#sessionid-23214)
+00:00:00|Rob Farley|Track 2|[Analytic T-SQL Functions in 2012](#sessionid-23217)
+00:00:00|Roger Noble|Track 2|[Visualising  your data with PivotViewer](#sessionid-23414)
+00:00:00|Reza Rad|Track 2|[New Features of SSIS 2012](#sessionid-8765)
 #  
 #### SessionID: 11735
 # Data Visualisation

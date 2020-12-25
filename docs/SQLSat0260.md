@@ -2,14 +2,14 @@
 # SQLSaturday #260 - Milan 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Francesco Milano|Track 2|[Useful everyday tips and tricks for Reporting Services (IT)](#sessionid:-11813)
-00:00:00|Davide Mauri|Track 1|[Hardware Planning  Sizing for SQL Server (IT)](#sessionid:-15318)
-00:00:00|Klaus Aschenbrenner|Track 1|[Let's learn Greek - Hekaton (EN)](#sessionid:-18464)
-00:00:00|Luca Ferrari|Track 1|[SQL Server Profiling with Extended Events (IT)](#sessionid:-19283)
-00:00:00|Marco Russo|Track 2|[Power BI in Action (IT)](#sessionid:-19466)
-00:00:00|Fabian Pascal|Track 2|[Denormalization for Performance: A Costly Illusion (EN)](#sessionid:-21572)
-00:00:00|Silvano Coriani|Track 1|[CAT: Azure SQL DB Premium – Deep Dive and Mythbuster (IT)](#sessionid:-24439)
-00:00:00|Andrea Uggetti|Track 2|[Introduzione a Power BI (IT)](#sessionid:-9454)
+00:00:00|Francesco Milano|Track 2|[Useful everyday tips and tricks for Reporting Services (IT)](#sessionid-11813)
+00:00:00|Davide Mauri|Track 1|[Hardware Planning  Sizing for SQL Server (IT)](#sessionid-15318)
+00:00:00|Klaus Aschenbrenner|Track 1|[Let's learn Greek - Hekaton (EN)](#sessionid-18464)
+00:00:00|Luca Ferrari|Track 1|[SQL Server Profiling with Extended Events (IT)](#sessionid-19283)
+00:00:00|Marco Russo|Track 2|[Power BI in Action (IT)](#sessionid-19466)
+00:00:00|Fabian Pascal|Track 2|[Denormalization for Performance: A Costly Illusion (EN)](#sessionid-21572)
+00:00:00|Silvano Coriani|Track 1|[CAT: Azure SQL DB Premium – Deep Dive and Mythbuster (IT)](#sessionid-24439)
+00:00:00|Andrea Uggetti|Track 2|[Introduzione a Power BI (IT)](#sessionid-9454)
 #  
 #### SessionID: 11813
 # Useful everyday tips and tricks for Reporting Services (IT)

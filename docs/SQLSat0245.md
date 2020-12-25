@@ -2,19 +2,19 @@
 # SQLSaturday #245 - Rio de Janeiro 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Erika Madeira|Track 1|[SQL Server 2014, fique por dentro!](#sessionid:-13929)
-00:00:00|Fabiano Amorim|Track 1|[SQL Server 2014 - Novidades no Query Optimizer](#sessionid:-14150)
-00:00:00|Marcelo Fernandes|Track 3|[Implementando soluções de alta disponibilidade para seu ambiente](#sessionid:-14239)
-00:00:00|Gustavo Maia Aguiar|Track 2|[Concorrência Otimista, Read Committed Snapshot (RCSI) e Snapshot Isolation Level](#sessionid:-14700)
-00:00:00|Leandro Ribeiro|Track 3|[Resolvendo problemas de Fragmentação do Transaction Log](#sessionid:-19121)
-00:00:00|Luan Moreno Medeiros Maciel|Track 1|[Hekaton - Um novo paradigma!](#sessionid:-19255)
-00:00:00|Marcos Freccia|Track 2|[Introdução a Queues e Wait Types ](#sessionid:-19499)
-00:00:00|Marcus Vinícius Bittencourt|Track 2|[SQL Performance Countes com Powershell](#sessionid:-21232)
-00:00:00|Nilton Pinheiro|Track 3|[Troubleshooting for Microsoft SQL Server 2005/2008/2012](#sessionid:-21449)
-00:00:00|Diego Nogare|Track 1|[Por onde começar no BigData??](#sessionid:-21490)
-00:00:00|Vanessa Porto|Track 3|[Uso do SSIS Catalog na publicação de pacotes no Integration Services 2012](#sessionid:-27550)
-00:00:00|Dennes Torres|Track 2|[Gerenciando muitos servidores com uso de EPM](#sessionid:-34620)
-00:00:00|Oduvaldo Zeferino|Track 1|[Estamos preparados para melhorar o desempenho dos bancos de dados?](#sessionid:-34852)
+00:00:00|Erika Madeira|Track 1|[SQL Server 2014, fique por dentro!](#sessionid-13929)
+00:00:00|Fabiano Amorim|Track 1|[SQL Server 2014 - Novidades no Query Optimizer](#sessionid-14150)
+00:00:00|Marcelo Fernandes|Track 3|[Implementando soluções de alta disponibilidade para seu ambiente](#sessionid-14239)
+00:00:00|Gustavo Maia Aguiar|Track 2|[Concorrência Otimista, Read Committed Snapshot (RCSI) e Snapshot Isolation Level](#sessionid-14700)
+00:00:00|Leandro Ribeiro|Track 3|[Resolvendo problemas de Fragmentação do Transaction Log](#sessionid-19121)
+00:00:00|Luan Moreno Medeiros Maciel|Track 1|[Hekaton - Um novo paradigma!](#sessionid-19255)
+00:00:00|Marcos Freccia|Track 2|[Introdução a Queues e Wait Types ](#sessionid-19499)
+00:00:00|Marcus Vinícius Bittencourt|Track 2|[SQL Performance Countes com Powershell](#sessionid-21232)
+00:00:00|Nilton Pinheiro|Track 3|[Troubleshooting for Microsoft SQL Server 2005/2008/2012](#sessionid-21449)
+00:00:00|Diego Nogare|Track 1|[Por onde começar no BigData??](#sessionid-21490)
+00:00:00|Vanessa Porto|Track 3|[Uso do SSIS Catalog na publicação de pacotes no Integration Services 2012](#sessionid-27550)
+00:00:00|Dennes Torres|Track 2|[Gerenciando muitos servidores com uso de EPM](#sessionid-34620)
+00:00:00|Oduvaldo Zeferino|Track 1|[Estamos preparados para melhorar o desempenho dos bancos de dados?](#sessionid-34852)
 #  
 #### SessionID: 13929
 # SQL Server 2014, fique por dentro!

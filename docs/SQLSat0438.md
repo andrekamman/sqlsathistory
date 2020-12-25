@@ -2,16 +2,16 @@
 # SQLSaturday #438 - Malaysia 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:30:00|Ian Choy|Business Intelligence|[Big Data Technology Matrix on Microsoft](#sessionid:-38254)
-10:30:00|Andreas Wolter|Cloud Application Development  Deployment|[In-Memory OLTP Vol1 – XTP Fundamentals  Future Development](#sessionid:-38307)
-11:30:00|Dr. Subramani Paramasivam|BI Platform Architecture, Development  Administration|[Advanced Reporting Techniques  Managing Reports](#sessionid:-37667)
-11:30:00|Hamid J. Fard|Enterprise Database Administration  Deployment|[Unleash SQL Server 2016 Database Engine](#sessionid:-37755)
-13:30:00|Andreas Wolter|Enterprise Database Administration  Deployment|[“SQL Attack…ed” – SQL Server under attack via SQL Injection](#sessionid:-38306)
-13:30:00|Dr. J. Joshua Thomas|Analytics and Visualization|[Visual Analytics and Data Science](#sessionid:-39029)
-14:30:00|Prabhakaran Bhaskaran|Enterprise Database Administration  Deployment|[Inside Transactional Replication](#sessionid:-37342)
-14:30:00|Danaraj Ram Kumar|Analytics and Visualization|[Predictive Analytics with Microsoft Azure Machine Learning](#sessionid:-38270)
-15:45:00|Renganathan Palanisamy|Strategy and Architecture|[Migration and Consolidation from non Microsoft DBMS to SQL Server 2014](#sessionid:-38253)
-15:45:00|Chiu Kiang Phua|Analytics and Visualization|[Data Insights with Power BI](#sessionid:-40157)
+10:30:00|Ian Choy|Business Intelligence|[Big Data Technology Matrix on Microsoft](#sessionid-38254)
+10:30:00|Andreas Wolter|Cloud Application Development  Deployment|[In-Memory OLTP Vol1 – XTP Fundamentals  Future Development](#sessionid-38307)
+11:30:00|Dr. Subramani Paramasivam|BI Platform Architecture, Development  Administration|[Advanced Reporting Techniques  Managing Reports](#sessionid-37667)
+11:30:00|Hamid J. Fard|Enterprise Database Administration  Deployment|[Unleash SQL Server 2016 Database Engine](#sessionid-37755)
+13:30:00|Andreas Wolter|Enterprise Database Administration  Deployment|[“SQL Attack…ed” – SQL Server under attack via SQL Injection](#sessionid-38306)
+13:30:00|Dr. J. Joshua Thomas|Analytics and Visualization|[Visual Analytics and Data Science](#sessionid-39029)
+14:30:00|Prabhakaran Bhaskaran|Enterprise Database Administration  Deployment|[Inside Transactional Replication](#sessionid-37342)
+14:30:00|Danaraj Ram Kumar|Analytics and Visualization|[Predictive Analytics with Microsoft Azure Machine Learning](#sessionid-38270)
+15:45:00|Renganathan Palanisamy|Strategy and Architecture|[Migration and Consolidation from non Microsoft DBMS to SQL Server 2014](#sessionid-38253)
+15:45:00|Chiu Kiang Phua|Analytics and Visualization|[Data Insights with Power BI](#sessionid-40157)
 #  
 #### SessionID: 38254
 # Big Data Technology Matrix on Microsoft

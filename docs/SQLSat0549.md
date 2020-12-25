@@ -2,21 +2,21 @@
 # SQLSaturday #549 - Singapore 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:40:00|Pinal Dave|Database Administration|[Secrets of SQL Server - Database Worst Practices](#sessionid:-49069)
-09:40:00|Glenn Morris|Analytics, Azure and Big Data|[Data Storage and Analytics with Azure Data Lake](#sessionid:-50102)
-09:40:00|Kevin Boles|Database Development|[Know What Your Code is Doing to SQL Server!](#sessionid:-50717)
-11:00:00|Dr. Subramani Paramasivam|Analytics, Azure and Big Data|[Think  work like a Data Scientist with SQL 2016 R](#sessionid:-49066)
-11:00:00|Andreas Wolter|Database Development|[SQL Server 2016 – The Evolution of In-Memory Technologies](#sessionid:-49270)
-11:00:00|Joe Yong|Database Administration|[SQL Server 2016 Stretch Database: top to bottom](#sessionid:-50191)
-13:30:00|James Beresford|Analytics, Azure and Big Data|[Creating High Performance Tabular Models](#sessionid:-49645)
-13:30:00|Krishna Deepak Chamana|Database Administration|[Bleed Blue for the clouds – SQL Azure](#sessionid:-50109)
-13:30:00|Denny Cherry|Database Development|[Index Internals](#sessionid:-53155)
-15:20:00|Vinod Kumar M|Database Administration|[Security with SQL Server - Things you never knew](#sessionid:-49058)
-15:20:00|Stefan Riedel|Database Development|[Automated and Repeatable Test Cases for SQL Server Development.](#sessionid:-50855)
-15:20:00|Harminder Sethi|Analytics, Azure and Big Data|[Power BI - Bring your data to life](#sessionid:-53892)
-16:55:00|Kevin Boles|Database Development|[Common TSQL Mistakes](#sessionid:-50716)
-16:55:00|Khilitchandra Prajapati|Analytics, Azure and Big Data|[Rock Your Reports with SSRS 2016](#sessionid:-53224)
-16:55:00|Dharmendra Keshari|Database Administration|[SQL Server Performance Tuning - Parallelism ](#sessionid:-53325)
+09:40:00|Pinal Dave|Database Administration|[Secrets of SQL Server - Database Worst Practices](#sessionid-49069)
+09:40:00|Glenn Morris|Analytics, Azure and Big Data|[Data Storage and Analytics with Azure Data Lake](#sessionid-50102)
+09:40:00|Kevin Boles|Database Development|[Know What Your Code is Doing to SQL Server!](#sessionid-50717)
+11:00:00|Dr. Subramani Paramasivam|Analytics, Azure and Big Data|[Think  work like a Data Scientist with SQL 2016 R](#sessionid-49066)
+11:00:00|Andreas Wolter|Database Development|[SQL Server 2016 – The Evolution of In-Memory Technologies](#sessionid-49270)
+11:00:00|Joe Yong|Database Administration|[SQL Server 2016 Stretch Database: top to bottom](#sessionid-50191)
+13:30:00|James Beresford|Analytics, Azure and Big Data|[Creating High Performance Tabular Models](#sessionid-49645)
+13:30:00|Krishna Deepak Chamana|Database Administration|[Bleed Blue for the clouds – SQL Azure](#sessionid-50109)
+13:30:00|Denny Cherry|Database Development|[Index Internals](#sessionid-53155)
+15:20:00|Vinod Kumar M|Database Administration|[Security with SQL Server - Things you never knew](#sessionid-49058)
+15:20:00|Stefan Riedel|Database Development|[Automated and Repeatable Test Cases for SQL Server Development.](#sessionid-50855)
+15:20:00|Harminder Sethi|Analytics, Azure and Big Data|[Power BI - Bring your data to life](#sessionid-53892)
+16:55:00|Kevin Boles|Database Development|[Common TSQL Mistakes](#sessionid-50716)
+16:55:00|Khilitchandra Prajapati|Analytics, Azure and Big Data|[Rock Your Reports with SSRS 2016](#sessionid-53224)
+16:55:00|Dharmendra Keshari|Database Administration|[SQL Server Performance Tuning - Parallelism ](#sessionid-53325)
 #  
 #### SessionID: 49069
 # Secrets of SQL Server - Database Worst Practices

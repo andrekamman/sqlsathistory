@@ -2,15 +2,15 @@
 # SQLSaturday #596 - Denver - BI Edition 2017
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Steve Wake|BI Platform Architecture, Development  Administration|[Date Dimension: One Script for All](#sessionid:-56568)
-09:00:00|Carlos Bossy|Thoughtful Track|[Business Intelligence Overview - Architecture and Management](#sessionid:-58256)
-10:30:00|Jonathan Stewart|BI Information Delivery|[Data Visualization:  How to truly tell a great story!](#sessionid:-56543)
-10:30:00|Peter Myers|Technical Track|[Power BI for the Developer](#sessionid:-58254)
-11:45:00|Steve Jones|Technical Track|[Lunch](#sessionid:-58262)
-11:45:00|Steve Jones|Thoughtful Track|[Lunch](#sessionid:-58263)
-13:30:00|Cher Fox|Other|[Test Automation: Agile Enablement for DW and BI Teams](#sessionid:-56605)
-13:30:00|Carlos Bossy|Thoughtful Track|[Practical Data Science using R and SQL](#sessionid:-58255)
-15:00:00|Peter Myers|Advanced Analysis Techniques|[Azure Machine Learning: From Design to Integration](#sessionid:-57515)
+09:00:00|Steve Wake|BI Platform Architecture, Development  Administration|[Date Dimension: One Script for All](#sessionid-56568)
+09:00:00|Carlos Bossy|Thoughtful Track|[Business Intelligence Overview - Architecture and Management](#sessionid-58256)
+10:30:00|Jonathan Stewart|BI Information Delivery|[Data Visualization:  How to truly tell a great story!](#sessionid-56543)
+10:30:00|Peter Myers|Technical Track|[Power BI for the Developer](#sessionid-58254)
+11:45:00|Steve Jones|Technical Track|[Lunch](#sessionid-58262)
+11:45:00|Steve Jones|Thoughtful Track|[Lunch](#sessionid-58263)
+13:30:00|Cher Fox|Other|[Test Automation: Agile Enablement for DW and BI Teams](#sessionid-56605)
+13:30:00|Carlos Bossy|Thoughtful Track|[Practical Data Science using R and SQL](#sessionid-58255)
+15:00:00|Peter Myers|Advanced Analysis Techniques|[Azure Machine Learning: From Design to Integration](#sessionid-57515)
 #  
 #### SessionID: 56568
 # Date Dimension: One Script for All

@@ -2,11 +2,11 @@
 # SQLSaturday #185 - Trinidad 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Paras Doshi|Track 1|[Why Big Data Matters?](#sessionid:-11823)
-00:00:00|Niko Neugebauer|Track 1|[Inheriting a database for Developers, version 2](#sessionid:-15396)
-00:00:00|Rob Volk|Track 1|[Revenge: The SQL!](#sessionid:-23303)
-00:00:00|Rob Volk|Track 1|[Tame Your Unruly Data...With Constraints!](#sessionid:-23305)
-00:00:00|Aaron Nelson|Track 1|[PowerShell for Data Professionals](#sessionid:-8856)
+00:00:00|Paras Doshi|Track 1|[Why Big Data Matters?](#sessionid-11823)
+00:00:00|Niko Neugebauer|Track 1|[Inheriting a database for Developers, version 2](#sessionid-15396)
+00:00:00|Rob Volk|Track 1|[Revenge: The SQL!](#sessionid-23303)
+00:00:00|Rob Volk|Track 1|[Tame Your Unruly Data...With Constraints!](#sessionid-23305)
+00:00:00|Aaron Nelson|Track 1|[PowerShell for Data Professionals](#sessionid-8856)
 #  
 #### SessionID: 11823
 # Why Big Data Matters?

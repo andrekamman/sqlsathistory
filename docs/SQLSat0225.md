@@ -2,11 +2,11 @@
 # SQLSaturday #225 - Kosovo 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Dejan Sarka|Ligjerimet|[A Deep Dive in SQL Server 2012 Data Warehousing](#sessionid:-13514)
-00:00:00|Dukagjin Maloku|Ligjerimet|[10 Things to survive as DBA ](#sessionid:-13593)
-00:00:00|Niko Neugebauer|Ligjerimet|[Inheriting a database for Developers, version 2](#sessionid:-15365)
-00:00:00|Mladen Prajdić|Ligjerimet|[SQL Injection: From Website to SQL Server](#sessionid:-24771)
-00:00:00|Turgay Sahtiyan|Ligjerimet|[HA  DR with SQL Server 2012 AlwaysOn Availability Group](#sessionid:-27120)
+00:00:00|Dejan Sarka|Ligjerimet|[A Deep Dive in SQL Server 2012 Data Warehousing](#sessionid-13514)
+00:00:00|Dukagjin Maloku|Ligjerimet|[10 Things to survive as DBA ](#sessionid-13593)
+00:00:00|Niko Neugebauer|Ligjerimet|[Inheriting a database for Developers, version 2](#sessionid-15365)
+00:00:00|Mladen Prajdić|Ligjerimet|[SQL Injection: From Website to SQL Server](#sessionid-24771)
+00:00:00|Turgay Sahtiyan|Ligjerimet|[HA  DR with SQL Server 2012 AlwaysOn Availability Group](#sessionid-27120)
 #  
 #### SessionID: 13514
 # A Deep Dive in SQL Server 2012 Data Warehousing

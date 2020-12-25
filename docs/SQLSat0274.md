@@ -2,20 +2,20 @@
 # SQLSaturday #274 - Slovenia 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Boris Hristov|DBA|[Replay your workload as it's your actual one!](#sessionid:-10903)
-00:00:00|Dejan Sarka|DEV|[Optimizing Temporal Queries](#sessionid:-13515)
-00:00:00|Kennie Pontoppidan|BI|[Autogenerating a process data warehouse](#sessionid:-18106)
-00:00:00|Marcin Szeliga|DEV|[Indexing for denormalization](#sessionid:-19450)
-00:00:00|Mark Stacey|BI|[Analysis Services for the DBA](#sessionid:-20085)
-00:00:00|Miloš Radivojević|DEV|[TSQL Performance Tips](#sessionid:-20737)
-00:00:00|Miloš Radivojević|DEV|[SQL Server 2014 - New Cardinality Estimator](#sessionid:-20738)
-00:00:00|Pieter Vanhove|DBA|[Harder, Better, Stronger and more secure](#sessionid:-22141)
-00:00:00|Rasmus Reinholdt|BI|[Optimizing BI with SQL2014 In-Memory tables](#sessionid:-23500)
-00:00:00|Mladen Prajdić|DBA|[From SQL Traces to Extended Events. The next big switch.](#sessionid:-24786)
-00:00:00|Tomaž Kaštrun|BI|[Using Data Quality services on Customer related data](#sessionid:-26999)
-00:00:00|William Durkin|DBA|[SQL Server Consolidation - Resistance is Futile](#sessionid:-28199)
-00:00:00|André Kamman|BI|[Automate your SSIS development with BIML](#sessionid:-34558)
-00:00:00|Marco Parenzan|DEV|[.NET Development for the SQL Server Developer](#sessionid:-34751)
+00:00:00|Boris Hristov|DBA|[Replay your workload as it's your actual one!](#sessionid-10903)
+00:00:00|Dejan Sarka|DEV|[Optimizing Temporal Queries](#sessionid-13515)
+00:00:00|Kennie Pontoppidan|BI|[Autogenerating a process data warehouse](#sessionid-18106)
+00:00:00|Marcin Szeliga|DEV|[Indexing for denormalization](#sessionid-19450)
+00:00:00|Mark Stacey|BI|[Analysis Services for the DBA](#sessionid-20085)
+00:00:00|Miloš Radivojević|DEV|[TSQL Performance Tips](#sessionid-20737)
+00:00:00|Miloš Radivojević|DEV|[SQL Server 2014 - New Cardinality Estimator](#sessionid-20738)
+00:00:00|Pieter Vanhove|DBA|[Harder, Better, Stronger and more secure](#sessionid-22141)
+00:00:00|Rasmus Reinholdt|BI|[Optimizing BI with SQL2014 In-Memory tables](#sessionid-23500)
+00:00:00|Mladen Prajdić|DBA|[From SQL Traces to Extended Events. The next big switch.](#sessionid-24786)
+00:00:00|Tomaž Kaštrun|BI|[Using Data Quality services on Customer related data](#sessionid-26999)
+00:00:00|William Durkin|DBA|[SQL Server Consolidation - Resistance is Futile](#sessionid-28199)
+00:00:00|André Kamman|BI|[Automate your SSIS development with BIML](#sessionid-34558)
+00:00:00|Marco Parenzan|DEV|[.NET Development for the SQL Server Developer](#sessionid-34751)
 #  
 #### SessionID: 10903
 # Replay your workload as it's your actual one!

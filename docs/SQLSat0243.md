@@ -2,21 +2,21 @@
 # SQLSaturday #243 - Cape Town 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Christina Leo|SQL Dev|[The Secret Life of APPLY: Helping Developers Work Smarter, Not Harder](#sessionid:-11617)
-00:00:00|Christina Leo|SQL Dev|[Building Your T-SQL Tool Kit: Window Function Fundamentals](#sessionid:-11618)
-00:00:00|Dudley Drummond-Hay|BI|[Closing the data loop with Master Data Services](#sessionid:-13592)
-00:00:00|Gail Shaw|DBA|[Dos and don’ts of database corruption](#sessionid:-14364)
-00:00:00|Niko Neugebauer|DBA|[Clustered Columnstore - Introduction](#sessionid:-15349)
-00:00:00|Niko Neugebauer|DBA|[Deep Dive into Clustered Columnstore](#sessionid:-15350)
-00:00:00|Juan Thomas|BI|[Introduction to SQL Server 2012 PDW - The POC](#sessionid:-17770)
-00:00:00|Martin Phelps|DBA|[Divide and Conquer - Scale out using Federated Database in Azure ](#sessionid:-19741)
-00:00:00|Mark Stacey|BI|[Slowly changing dimensions- an integrated approach](#sessionid:-20080)
-00:00:00|Matt Horn|BI|[Role based security from SharePoint through to the cube](#sessionid:-20150)
-00:00:00|Niels Berglund|SQL Dev|[Enhance SQL Performance by Messaging and Queuing Applications](#sessionid:-21435)
-00:00:00|Niels Berglund|SQL Dev|[Real World Error Handling in SQL Server](#sessionid:-21436)
-00:00:00|Satya Jayanty|DBA|[SQL Server Data platform upgrade Techniques, best practices  notes from the field](#sessionid:-25004)
-00:00:00|Turgay Sahtiyan|SQL Dev|[Top 10 Performance Tips for SQL Server Developers](#sessionid:-27121)
-00:00:00|Toufiq Abrahams|BI|[How to Model for Power View](#sessionid:-34886)
+00:00:00|Christina Leo|SQL Dev|[The Secret Life of APPLY: Helping Developers Work Smarter, Not Harder](#sessionid-11617)
+00:00:00|Christina Leo|SQL Dev|[Building Your T-SQL Tool Kit: Window Function Fundamentals](#sessionid-11618)
+00:00:00|Dudley Drummond-Hay|BI|[Closing the data loop with Master Data Services](#sessionid-13592)
+00:00:00|Gail Shaw|DBA|[Dos and don’ts of database corruption](#sessionid-14364)
+00:00:00|Niko Neugebauer|DBA|[Clustered Columnstore - Introduction](#sessionid-15349)
+00:00:00|Niko Neugebauer|DBA|[Deep Dive into Clustered Columnstore](#sessionid-15350)
+00:00:00|Juan Thomas|BI|[Introduction to SQL Server 2012 PDW - The POC](#sessionid-17770)
+00:00:00|Martin Phelps|DBA|[Divide and Conquer - Scale out using Federated Database in Azure ](#sessionid-19741)
+00:00:00|Mark Stacey|BI|[Slowly changing dimensions- an integrated approach](#sessionid-20080)
+00:00:00|Matt Horn|BI|[Role based security from SharePoint through to the cube](#sessionid-20150)
+00:00:00|Niels Berglund|SQL Dev|[Enhance SQL Performance by Messaging and Queuing Applications](#sessionid-21435)
+00:00:00|Niels Berglund|SQL Dev|[Real World Error Handling in SQL Server](#sessionid-21436)
+00:00:00|Satya Jayanty|DBA|[SQL Server Data platform upgrade Techniques, best practices  notes from the field](#sessionid-25004)
+00:00:00|Turgay Sahtiyan|SQL Dev|[Top 10 Performance Tips for SQL Server Developers](#sessionid-27121)
+00:00:00|Toufiq Abrahams|BI|[How to Model for Power View](#sessionid-34886)
 #  
 #### SessionID: 11617
 # The Secret Life of APPLY: Helping Developers Work Smarter, Not Harder

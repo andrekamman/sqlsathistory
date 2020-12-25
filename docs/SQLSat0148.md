@@ -2,14 +2,14 @@
 # SQLSaturday #148 - Shanghai 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Bill Graziano|Track 1|[Writing Faster SQL](#sessionid:-10464)
-00:00:00|Han Wong|Track 1|[Introduction to SQL Data Sync](#sessionid:-14948)
-00:00:00|Niko Neugebauer|Track 1|[T-SQL Enhancements in SQL Server 2012](#sessionid:-15405)
-00:00:00|Miguel Angel Granados|Track 1|[Data Quality Fundamentals](#sessionid:-19387)
-00:00:00|Mark Stacey|Track 1|[PowerPivot](#sessionid:-20109)
-00:00:00|Matt Horn|Track 1|[Cube Management with stored procs and agent jobs](#sessionid:-20155)
-00:00:00|Hui Wang|Track 1|[SQL Server 2012 ??????? /SSAS 2012 new features](#sessionid:-27621)
-00:00:00|Wee Hyong Tok|Track 1|[What’s New in SQL Server Integration Services 2012](#sessionid:-27786)
+00:00:00|Bill Graziano|Track 1|[Writing Faster SQL](#sessionid-10464)
+00:00:00|Han Wong|Track 1|[Introduction to SQL Data Sync](#sessionid-14948)
+00:00:00|Niko Neugebauer|Track 1|[T-SQL Enhancements in SQL Server 2012](#sessionid-15405)
+00:00:00|Miguel Angel Granados|Track 1|[Data Quality Fundamentals](#sessionid-19387)
+00:00:00|Mark Stacey|Track 1|[PowerPivot](#sessionid-20109)
+00:00:00|Matt Horn|Track 1|[Cube Management with stored procs and agent jobs](#sessionid-20155)
+00:00:00|Hui Wang|Track 1|[SQL Server 2012 ??????? /SSAS 2012 new features](#sessionid-27621)
+00:00:00|Wee Hyong Tok|Track 1|[What’s New in SQL Server Integration Services 2012](#sessionid-27786)
 #  
 #### SessionID: 10464
 # Writing Faster SQL

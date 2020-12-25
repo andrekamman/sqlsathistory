@@ -2,13 +2,13 @@
 # SQLSaturday #218 - Philippines 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Edwin Sarmiento|Developer|[SQL Server Index Internals](#sessionid:-10119)
-00:00:00|Edwin Sarmiento|Database Administration|[Windows PowerShell for the SQL Server DBA](#sessionid:-10122)
-00:00:00|Edwin Sarmiento|Database Administration|[The Transaction Log and How It Affects HA/DR](#sessionid:-10123)
-00:00:00|Henry Hutalle|Developer|[SQL Tools for Maintaining Data Integrity](#sessionid:-14962)
-00:00:00|Jennifer Osorio|Database Administration|[Different ways of SQL Server Backup and Restoring](#sessionid:-16522)
-00:00:00|Jon Limjap|Developer|[SQL vs. NoSQL - Data in the world of social media ](#sessionid:-17349)
-00:00:00|Mark Nathaniel Ortigas|Developer|[Using SQL Window Functions](#sessionid:-19678)
+00:00:00|Edwin Sarmiento|Developer|[SQL Server Index Internals](#sessionid-10119)
+00:00:00|Edwin Sarmiento|Database Administration|[Windows PowerShell for the SQL Server DBA](#sessionid-10122)
+00:00:00|Edwin Sarmiento|Database Administration|[The Transaction Log and How It Affects HA/DR](#sessionid-10123)
+00:00:00|Henry Hutalle|Developer|[SQL Tools for Maintaining Data Integrity](#sessionid-14962)
+00:00:00|Jennifer Osorio|Database Administration|[Different ways of SQL Server Backup and Restoring](#sessionid-16522)
+00:00:00|Jon Limjap|Developer|[SQL vs. NoSQL - Data in the world of social media ](#sessionid-17349)
+00:00:00|Mark Nathaniel Ortigas|Developer|[Using SQL Window Functions](#sessionid-19678)
 #  
 #### SessionID: 10119
 # SQL Server Index Internals

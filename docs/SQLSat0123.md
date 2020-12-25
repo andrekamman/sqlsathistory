@@ -2,14 +2,14 @@
 # SQLSaturday #123 - Western Cape 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Brian Knight|DBA|[What’s in SQL Server 2012 for the DBA?](#sessionid:-10506)
-00:00:00|Brian Knight|BI|[What’s New in BI in SQL Server 2012](#sessionid:-10507)
-00:00:00|Brian Knight|DEV|[Performance Tuning SQL Server Integration Services](#sessionid:-10508)
-00:00:00|Torque-IT Torque-IT|BI|[TBA - Presented by Torque-IT](#sessionid:-11398)
-00:00:00|Gary Hope|DBA|[SQL 2012 High Availabilty](#sessionid:-14393)
-00:00:00|Saratoga  Software|BI|[BI LifeCycle](#sessionid:-17772)
-00:00:00|Mark Stacey|DBA|[BI for the DBA - DeepDive](#sessionid:-31720)
-00:00:00|Alain King|DEV|[Agile for Developers](#sessionid:-9176)
+00:00:00|Brian Knight|DBA|[What’s in SQL Server 2012 for the DBA?](#sessionid-10506)
+00:00:00|Brian Knight|BI|[What’s New in BI in SQL Server 2012](#sessionid-10507)
+00:00:00|Brian Knight|DEV|[Performance Tuning SQL Server Integration Services](#sessionid-10508)
+00:00:00|Torque-IT Torque-IT|BI|[TBA - Presented by Torque-IT](#sessionid-11398)
+00:00:00|Gary Hope|DBA|[SQL 2012 High Availabilty](#sessionid-14393)
+00:00:00|Saratoga  Software|BI|[BI LifeCycle](#sessionid-17772)
+00:00:00|Mark Stacey|DBA|[BI for the DBA - DeepDive](#sessionid-31720)
+00:00:00|Alain King|DEV|[Agile for Developers](#sessionid-9176)
 #  
 #### SessionID: 10506
 # What’s in SQL Server 2012 for the DBA?

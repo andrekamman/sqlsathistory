@@ -2,17 +2,17 @@
 # SQLSaturday #417 - Sri Lanka 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:30:00|Nilabja Ball|Data Analytics|[NoSQL on Azure: An Introduction to DocumentDB](#sessionid:-21415)
-09:30:00|Pinal Dave|Database Engine|[Performance in 60 Seconds - SQL Tricks Everybody MUST Know](#sessionid:-36173)
-10:45:00|Prabhakaran Bhaskaran|Database Engine|[Inside Transactional Replication](#sessionid:-10492)
-10:45:00|Dinesh Priyankara|Data Analytics|[Big Data Analytics: The Microsoft Way](#sessionid:-36538)
-12:00:00|Nilabja Ball|Database Engine|[SQL Server 2014 In-Memory Overview ](#sessionid:-21416)
-12:00:00|Vijayakumar Thurupathan|Data Analytics|[Setting your first foot in the world of Business Intelligence](#sessionid:-36650)
-14:00:00|Gogula Aryalingam|Data Analytics|[Telling Stories with Data](#sessionid:-36000)
-14:00:00|Pinal Dave|Database Engine|[Indexes – The Unsung Hero](#sessionid:-36174)
-15:15:00|Sammani Palansuriya|Database Engine|[My Data in the Cloud: Microsoft Azure SQL Database](#sessionid:-36522)
-15:15:00|Indika Ariyasinghe|Data Analytics|[Enterprise MS BI for everyone, The Journey So Far](#sessionid:-36654)
-16:30:00|Pinal Dave|General|[The Great SQL Panel Discussion](#sessionid:-37115)
+09:30:00|Nilabja Ball|Data Analytics|[NoSQL on Azure: An Introduction to DocumentDB](#sessionid-21415)
+09:30:00|Pinal Dave|Database Engine|[Performance in 60 Seconds - SQL Tricks Everybody MUST Know](#sessionid-36173)
+10:45:00|Prabhakaran Bhaskaran|Database Engine|[Inside Transactional Replication](#sessionid-10492)
+10:45:00|Dinesh Priyankara|Data Analytics|[Big Data Analytics: The Microsoft Way](#sessionid-36538)
+12:00:00|Nilabja Ball|Database Engine|[SQL Server 2014 In-Memory Overview ](#sessionid-21416)
+12:00:00|Vijayakumar Thurupathan|Data Analytics|[Setting your first foot in the world of Business Intelligence](#sessionid-36650)
+14:00:00|Gogula Aryalingam|Data Analytics|[Telling Stories with Data](#sessionid-36000)
+14:00:00|Pinal Dave|Database Engine|[Indexes – The Unsung Hero](#sessionid-36174)
+15:15:00|Sammani Palansuriya|Database Engine|[My Data in the Cloud: Microsoft Azure SQL Database](#sessionid-36522)
+15:15:00|Indika Ariyasinghe|Data Analytics|[Enterprise MS BI for everyone, The Journey So Far](#sessionid-36654)
+16:30:00|Pinal Dave|General|[The Great SQL Panel Discussion](#sessionid-37115)
 #  
 #### SessionID: 21415
 # NoSQL on Azure: An Introduction to DocumentDB

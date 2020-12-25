@@ -2,22 +2,22 @@
 # SQLSaturday #481 - Israel 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:50:00|Alexander Karl|BI Information Delivery|[Reporting Services with Geospatial Visualization](#sessionid:-40786)
-09:50:00|Alon Spiegel|Enterprise Database Administration  Deployment|[TDE - Encrypting your DB with PKI](#sessionid:-42647)
-09:50:00|Roei Basha|Analytics and Visualization|[Revolutionizing Microsoft Analytics](#sessionid:-46747)
-11:00:00|Itshak David|Advanced Analysis Techniques|[Practical SQL 2014\2016 Data Mining and introduction to R](#sessionid:-40854)
-11:00:00|Fabiano Amorim|Advanced Analysis Techniques|[SQL Server execution plans – hidden and tricky optimizations](#sessionid:-40866)
-11:00:00|Adi Cohn|Application  Database Development|[Understanding latches](#sessionid:-42476)
-12:10:00|Hugo Kornelis|Application  Database Development|[T-SQL User-Defined Functions, or: Bad Performance Made Easy](#sessionid:-42628)
-12:10:00|Assaf Fraenkel|BI Platform Architecture, Development  Administration|[Inside Columnar Indexes in SQL Server 14  16](#sessionid:-42852)
-12:10:00|Shy Engelberg|Cloud Application Development  Deployment|[Azure SQL DWH - is it just a big table? closer look into MSFT DWH solution](#sessionid:-46731)
-13:20:00|Niv Feldman|BI Platform Architecture, Development  Administration|[One BI Platform to Rule Them All!](#sessionid:-48984)
-14:50:00|Leonard Lobel|Cloud Application Development  Deployment|[No Schema, No Problem! – Introduction to Azure DocumentDB](#sessionid:-40912)
-14:50:00|Matan Yungman|Cloud Application Development  Deployment|[Understanding the Azure Data Stack](#sessionid:-41491)
-14:50:00|Dubi Lebel|Enterprise Database Administration  Deployment|[TempDB how its works?](#sessionid:-42782)
-16:00:00|Brent Ozar|Application  Database Development|[Watch Brent Tune Queries](#sessionid:-40761)
-16:00:00|Ronen Ariely|Strategy and Architecture|[Built-in JSON support in SQL Server 2016 and tips to improve performance](#sessionid:-45364)
-16:00:00|Sharon Oliar|Strategy and Architecture|[Datacenter modernization](#sessionid:-48767)
+09:50:00|Alexander Karl|BI Information Delivery|[Reporting Services with Geospatial Visualization](#sessionid-40786)
+09:50:00|Alon Spiegel|Enterprise Database Administration  Deployment|[TDE - Encrypting your DB with PKI](#sessionid-42647)
+09:50:00|Roei Basha|Analytics and Visualization|[Revolutionizing Microsoft Analytics](#sessionid-46747)
+11:00:00|Itshak David|Advanced Analysis Techniques|[Practical SQL 2014\2016 Data Mining and introduction to R](#sessionid-40854)
+11:00:00|Fabiano Amorim|Advanced Analysis Techniques|[SQL Server execution plans – hidden and tricky optimizations](#sessionid-40866)
+11:00:00|Adi Cohn|Application  Database Development|[Understanding latches](#sessionid-42476)
+12:10:00|Hugo Kornelis|Application  Database Development|[T-SQL User-Defined Functions, or: Bad Performance Made Easy](#sessionid-42628)
+12:10:00|Assaf Fraenkel|BI Platform Architecture, Development  Administration|[Inside Columnar Indexes in SQL Server 14  16](#sessionid-42852)
+12:10:00|Shy Engelberg|Cloud Application Development  Deployment|[Azure SQL DWH - is it just a big table? closer look into MSFT DWH solution](#sessionid-46731)
+13:20:00|Niv Feldman|BI Platform Architecture, Development  Administration|[One BI Platform to Rule Them All!](#sessionid-48984)
+14:50:00|Leonard Lobel|Cloud Application Development  Deployment|[No Schema, No Problem! – Introduction to Azure DocumentDB](#sessionid-40912)
+14:50:00|Matan Yungman|Cloud Application Development  Deployment|[Understanding the Azure Data Stack](#sessionid-41491)
+14:50:00|Dubi Lebel|Enterprise Database Administration  Deployment|[TempDB how its works?](#sessionid-42782)
+16:00:00|Brent Ozar|Application  Database Development|[Watch Brent Tune Queries](#sessionid-40761)
+16:00:00|Ronen Ariely|Strategy and Architecture|[Built-in JSON support in SQL Server 2016 and tips to improve performance](#sessionid-45364)
+16:00:00|Sharon Oliar|Strategy and Architecture|[Datacenter modernization](#sessionid-48767)
 #  
 #### SessionID: 40786
 # Reporting Services with Geospatial Visualization

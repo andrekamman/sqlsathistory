@@ -2,15 +2,15 @@
 # SQLSaturday #266 - Lima 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|ENRIQUE ALBAN|Track 1|[Inteligencia de Negocio.. Convirtiendo Datos en informacion.](#sessionid:-13826)
-00:00:00|German Cayo Morales|Track 1|[Hadoop On  Windows Azure](#sessionid:-14407)
-00:00:00|Shehab El-Najjar|Track 1|[Performance dreams  wait for you at SQL Server 2014](#sessionid:-15210)
-00:00:00|Shehab El-Najjar|Track 1|[Performance dreams of SQL Server 2014](#sessionid:-15211)
-00:00:00|Team  SQL PASS PERU|Track 1|["Data Explorer" is now Microsoft Power Query for Excel](#sessionid:-17754)
-00:00:00|Team  SQL PASS PERU|Track 1|[KeyNote SQL PASS PERU](#sessionid:-17755)
-00:00:00|Percy Reyes|Track 1|[In-Memory OLTP Internals for SQL Server 2014 CTP2](#sessionid:-21925)
-00:00:00|Jose  Redondo|Track 1|[Implementando escenarios de reportes empresariales en Windows Azure con SQL Reporting](#sessionid:-22754)
-00:00:00|Jose  Redondo|Track 1|[Big Data, Almacenes de datos empresariales (EDW) y Windows Azure (SQL Database) como Plataforma BI](#sessionid:-22755)
+00:00:00|ENRIQUE ALBAN|Track 1|[Inteligencia de Negocio.. Convirtiendo Datos en informacion.](#sessionid-13826)
+00:00:00|German Cayo Morales|Track 1|[Hadoop On  Windows Azure](#sessionid-14407)
+00:00:00|Shehab El-Najjar|Track 1|[Performance dreams  wait for you at SQL Server 2014](#sessionid-15210)
+00:00:00|Shehab El-Najjar|Track 1|[Performance dreams of SQL Server 2014](#sessionid-15211)
+00:00:00|Team  SQL PASS PERU|Track 1|["Data Explorer" is now Microsoft Power Query for Excel](#sessionid-17754)
+00:00:00|Team  SQL PASS PERU|Track 1|[KeyNote SQL PASS PERU](#sessionid-17755)
+00:00:00|Percy Reyes|Track 1|[In-Memory OLTP Internals for SQL Server 2014 CTP2](#sessionid-21925)
+00:00:00|Jose  Redondo|Track 1|[Implementando escenarios de reportes empresariales en Windows Azure con SQL Reporting](#sessionid-22754)
+00:00:00|Jose  Redondo|Track 1|[Big Data, Almacenes de datos empresariales (EDW) y Windows Azure (SQL Database) como Plataforma BI](#sessionid-22755)
 #  
 #### SessionID: 13826
 # Inteligencia de Negocio.. Convirtiendo Datos en informacion.

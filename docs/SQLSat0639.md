@@ -2,22 +2,22 @@
 # SQLSaturday #639 - Sri Lanka 2017
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:30:00|Hansamali Gamage|Cloud  Mobile|[Let's make a complex dataset simple using Azure Cosmos DB](#sessionid:-65565)
-09:30:00|Reza Rad|Business Intelligence  Data Analytics|[10 Amazing Things About Power BI You Don't Know](#sessionid:-67330)
-09:30:00|Rushabh Mehta|Database Development  Administration|[Columnstore Indexes with SQL Server 2016](#sessionid:-67696)
-10:45:00|Patrick Flynn|Database Development  Administration|[Database Corruption - Advanced Recovery Techniques](#sessionid:-63534)
-10:45:00|Dinesh Priyankara|Business Intelligence  Data Analytics|[Cloud Data Warehousing: Azure SQL Data Warehouse](#sessionid:-67198)
-10:45:00|Leila Etaati|Business Intelligence  Data Analytics|[On-premises Machine Learning: SQL Server 2016 with R](#sessionid:-67337)
-12:00:00|Dharmendra Keshari|Database Development  Administration|[SQL Server 2016 Query Store](#sessionid:-62411)
-12:00:00|Vijayakumar Thurupathan|Business Intelligence  Data Analytics|[Build data driven IoT analytics with Azure](#sessionid:-63792)
-12:00:00|Dinesh Asanka|Business Intelligence  Data Analytics|[Using Neural Network for Prediction with Microsoft Technologies](#sessionid:-67297)
-14:00:00|Satya Jayanty|Cloud  Mobile|[Big Data with Azure: Where to begin? Concepts and Best Practices](#sessionid:-62951)
-14:00:00|Pinal Dave|Database Development  Administration|[Kick Start! SQL Server 2014/2016 Performance Tips and Tricks](#sessionid:-62994)
-14:00:00|Haritha Thilakarathne|Business Intelligence  Data Analytics|[A Journey of a Data Point through Cortana Intelligence Suite](#sessionid:-67570)
-15:15:00|Reza Rad|Business Intelligence  Data Analytics|[Data Preparation is the Keystone; Power Query is Building Block](#sessionid:-67334)
-15:15:00|Shamil Sadique|Database Development  Administration|[A JSON's Journey through SQL Server](#sessionid:-67440)
-15:15:00|Rushabh Mehta|Cloud  Mobile|[Getting started with SQL Server in Azure](#sessionid:-67695)
-16:30:00|Dinesh Priyankara|General  Other|[The Great Data Panel Discussion](#sessionid:-67714)
+09:30:00|Hansamali Gamage|Cloud  Mobile|[Let's make a complex dataset simple using Azure Cosmos DB](#sessionid-65565)
+09:30:00|Reza Rad|Business Intelligence  Data Analytics|[10 Amazing Things About Power BI You Don't Know](#sessionid-67330)
+09:30:00|Rushabh Mehta|Database Development  Administration|[Columnstore Indexes with SQL Server 2016](#sessionid-67696)
+10:45:00|Patrick Flynn|Database Development  Administration|[Database Corruption - Advanced Recovery Techniques](#sessionid-63534)
+10:45:00|Dinesh Priyankara|Business Intelligence  Data Analytics|[Cloud Data Warehousing: Azure SQL Data Warehouse](#sessionid-67198)
+10:45:00|Leila Etaati|Business Intelligence  Data Analytics|[On-premises Machine Learning: SQL Server 2016 with R](#sessionid-67337)
+12:00:00|Dharmendra Keshari|Database Development  Administration|[SQL Server 2016 Query Store](#sessionid-62411)
+12:00:00|Vijayakumar Thurupathan|Business Intelligence  Data Analytics|[Build data driven IoT analytics with Azure](#sessionid-63792)
+12:00:00|Dinesh Asanka|Business Intelligence  Data Analytics|[Using Neural Network for Prediction with Microsoft Technologies](#sessionid-67297)
+14:00:00|Satya Jayanty|Cloud  Mobile|[Big Data with Azure: Where to begin? Concepts and Best Practices](#sessionid-62951)
+14:00:00|Pinal Dave|Database Development  Administration|[Kick Start! SQL Server 2014/2016 Performance Tips and Tricks](#sessionid-62994)
+14:00:00|Haritha Thilakarathne|Business Intelligence  Data Analytics|[A Journey of a Data Point through Cortana Intelligence Suite](#sessionid-67570)
+15:15:00|Reza Rad|Business Intelligence  Data Analytics|[Data Preparation is the Keystone; Power Query is Building Block](#sessionid-67334)
+15:15:00|Shamil Sadique|Database Development  Administration|[A JSON's Journey through SQL Server](#sessionid-67440)
+15:15:00|Rushabh Mehta|Cloud  Mobile|[Getting started with SQL Server in Azure](#sessionid-67695)
+16:30:00|Dinesh Priyankara|General  Other|[The Great Data Panel Discussion](#sessionid-67714)
 #  
 #### SessionID: 65565
 # Let's make a complex dataset simple using Azure Cosmos DB

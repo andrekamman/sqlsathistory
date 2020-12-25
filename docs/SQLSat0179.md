@@ -2,18 +2,18 @@
 # SQLSaturday #179 - Kharkov, Ukraine 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Dmitriy Kostylev|Administration|[Администрирование SQL Server для начинающих](#sessionid:-13051)
-00:00:00|Niko Neugebauer|Business Intelligence|[ETL Frameworks with Dynamic SSIS Packages](#sessionid:-15390)
-00:00:00|Mikhail Komarov|Administration|[Private cloud and SQL 2012](#sessionid:-18664)
-00:00:00|Konstantin Khomyakov|Business Intelligence|[DQS - первые шаги использования Data Mining](#sessionid:-18669)
-00:00:00|Andrey Korshikov|Business Intelligence|[Reporting Services - от простого к сложному](#sessionid:-18815)
-00:00:00|Oleksii Kovalov|Development|[Типовые ошибки при написании T-SQL кода](#sessionid:-19182)
-00:00:00|Mihail Mateev|Development|[Spatial Data and Windows Azure SQL Database](#sessionid:-20267)
-00:00:00|Mihail Mateev|Business Intelligence|[Windows Azure SQL Reporting for App developers](#sessionid:-20269)
-00:00:00|Sergey Olontsev|Administration|[AlwaysOn - HA\DR технология №2012 на практике](#sessionid:-24363)
-00:00:00|Sergey Mikhalev|Development|[Подход доктора Хауса в оптимизации запросов](#sessionid:-25230)
-00:00:00|Vladimir Leshchinsky|Business Intelligence|[Keynote. Ukrainian Comunity History.](#sessionid:-27506)
-00:00:00|Anatoliy Kolesnick|Development|[No Guts, NoSQL, No Glory](#sessionid:-9435)
+00:00:00|Dmitriy Kostylev|Administration|[Администрирование SQL Server для начинающих](#sessionid-13051)
+00:00:00|Niko Neugebauer|Business Intelligence|[ETL Frameworks with Dynamic SSIS Packages](#sessionid-15390)
+00:00:00|Mikhail Komarov|Administration|[Private cloud and SQL 2012](#sessionid-18664)
+00:00:00|Konstantin Khomyakov|Business Intelligence|[DQS - первые шаги использования Data Mining](#sessionid-18669)
+00:00:00|Andrey Korshikov|Business Intelligence|[Reporting Services - от простого к сложному](#sessionid-18815)
+00:00:00|Oleksii Kovalov|Development|[Типовые ошибки при написании T-SQL кода](#sessionid-19182)
+00:00:00|Mihail Mateev|Development|[Spatial Data and Windows Azure SQL Database](#sessionid-20267)
+00:00:00|Mihail Mateev|Business Intelligence|[Windows Azure SQL Reporting for App developers](#sessionid-20269)
+00:00:00|Sergey Olontsev|Administration|[AlwaysOn - HA\DR технология №2012 на практике](#sessionid-24363)
+00:00:00|Sergey Mikhalev|Development|[Подход доктора Хауса в оптимизации запросов](#sessionid-25230)
+00:00:00|Vladimir Leshchinsky|Business Intelligence|[Keynote. Ukrainian Comunity History.](#sessionid-27506)
+00:00:00|Anatoliy Kolesnick|Development|[No Guts, NoSQL, No Glory](#sessionid-9435)
 #  
 #### SessionID: 13051
 # Администрирование SQL Server для начинающих

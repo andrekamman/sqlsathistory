@@ -2,20 +2,20 @@
 # SQLSaturday #603 - Dallas - BI Edition 2017
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Ryan Casey|BI Platform Architecture, Development  Administration|[Create a Data Loading Strategy](#sessionid:-57098)
-09:00:00|Shawn Weisfeld|Cloud Application Development  Deployment|[Intro to Azure SQL Data Warehouse](#sessionid:-57162)
-09:00:00|Kevin Feasel|Analytics and Visualization|[R For the SQL Server Developer](#sessionid:-57273)
-10:30:00|Chris Hyde|Advanced Analysis Techniques|[SQL Server R Services in SQL 2016](#sessionid:-57095)
-10:30:00|Peter Myers|Advanced Analysis Techniques|[Azure Machine Learning: From Design to Integration](#sessionid:-57517)
-10:30:00|Mike Walsh|Cloud Application Development  Deployment|[Azure SQL Databases - There's room for Azure in your BI solutions](#sessionid:-61233)
-10:30:00|David Stein|BI Platform Architecture, Development  Administration|[Agile Data Warehouse and ETL Design with Biml](#sessionid:-62914)
-12:15:00|Diane Schuster|BI Platform Architecture, Development  Administration|[Dynamic Data Flows in SSIS without Programming](#sessionid:-62746)
-13:45:00|Russel Loski|Cloud Application Development  Deployment|[Querying Semistructured Data in Azure Data Lake with USQL](#sessionid:-58290)
-13:45:00|Greg Galloway|BI Platform Architecture, Development  Administration|[Rent-a-Cube: Azure Analysis Services](#sessionid:-61088)
-13:45:00|Tim Mitchell|BI Platform Architecture, Development  Administration|[Deep Dive into the SSIS Catalog](#sessionid:-61826)
-15:15:00|Roberto Cavalcanti|Cloud Application Development  Deployment|[Azure SQL Database - Lessons learned from the trenches](#sessionid:-57101)
-15:15:00|Jonathan Stewart|BI Information Delivery|[From problem to Power BI:  A journey in data visualization](#sessionid:-61123)
-15:15:00|Adam Saxton|BI Platform Architecture, Development  Administration|[Using a gateway to leverage on-premises data in Power BI](#sessionid:-61812)
+09:00:00|Ryan Casey|BI Platform Architecture, Development  Administration|[Create a Data Loading Strategy](#sessionid-57098)
+09:00:00|Shawn Weisfeld|Cloud Application Development  Deployment|[Intro to Azure SQL Data Warehouse](#sessionid-57162)
+09:00:00|Kevin Feasel|Analytics and Visualization|[R For the SQL Server Developer](#sessionid-57273)
+10:30:00|Chris Hyde|Advanced Analysis Techniques|[SQL Server R Services in SQL 2016](#sessionid-57095)
+10:30:00|Peter Myers|Advanced Analysis Techniques|[Azure Machine Learning: From Design to Integration](#sessionid-57517)
+10:30:00|Mike Walsh|Cloud Application Development  Deployment|[Azure SQL Databases - There's room for Azure in your BI solutions](#sessionid-61233)
+10:30:00|David Stein|BI Platform Architecture, Development  Administration|[Agile Data Warehouse and ETL Design with Biml](#sessionid-62914)
+12:15:00|Diane Schuster|BI Platform Architecture, Development  Administration|[Dynamic Data Flows in SSIS without Programming](#sessionid-62746)
+13:45:00|Russel Loski|Cloud Application Development  Deployment|[Querying Semistructured Data in Azure Data Lake with USQL](#sessionid-58290)
+13:45:00|Greg Galloway|BI Platform Architecture, Development  Administration|[Rent-a-Cube: Azure Analysis Services](#sessionid-61088)
+13:45:00|Tim Mitchell|BI Platform Architecture, Development  Administration|[Deep Dive into the SSIS Catalog](#sessionid-61826)
+15:15:00|Roberto Cavalcanti|Cloud Application Development  Deployment|[Azure SQL Database - Lessons learned from the trenches](#sessionid-57101)
+15:15:00|Jonathan Stewart|BI Information Delivery|[From problem to Power BI:  A journey in data visualization](#sessionid-61123)
+15:15:00|Adam Saxton|BI Platform Architecture, Development  Administration|[Using a gateway to leverage on-premises data in Power BI](#sessionid-61812)
 #  
 #### SessionID: 57098
 # Create a Data Loading Strategy

@@ -2,21 +2,21 @@
 # SQLSaturday #284 - Porto Alegre 2014
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Erika Madeira|Business Intelligence|[SQL Server 2014, fique por dentro das novidades !](#sessionid:-13930)
-00:00:00|Fabiano Amorim|Database Development|[Tuning do inicio ao fim!](#sessionid:-14149)
-00:00:00|Felipe Ferreira|Business Intelligence|[PowerBI - A nova geração de BI da Microsoft](#sessionid:-14233)
-00:00:00|Marcelo Fernandes|Database Development|[Dividir e conquistar - Particionando de tabelas no SQL Server](#sessionid:-14244)
-00:00:00|Gustavo Maia Aguiar|Database Administration|[Estratégias de backup para ambientes analíticos e heterogêneos](#sessionid:-14714)
-00:00:00|João Polisel|Database Development|[Entendendo "Managed Lock Priority"](#sessionid:-17555)
-00:00:00|Luan Moreno Medeiros Maciel|Database Development|[In-Memory OLTP a.k.a Hekaton](#sessionid:-19262)
-00:00:00|Luciano Moreira|Database Development|[Entendendo o paralelismo no SQL Server](#sessionid:-19306)
-00:00:00|Marcus Vinícius Bittencourt|Database Administration|[DBA SQL Server por Acidente](#sessionid:-21236)
-00:00:00|Nilton Pinheiro|Database Administration|[Provendo Alta Disponibilidade para suas Apps em Pequenos, Médios e Grandes Ambientes com SQL2012](#sessionid:-21452)
-00:00:00|Diego Nogare|Business Intelligence|[Conhece o potencial do SQL Server Analysis Services Tabular Mode?](#sessionid:-21494)
-00:00:00|Carlos Fernando Paleo da Rocha|Business Intelligence|[BI Microsoft com MS Excel 2013](#sessionid:-21625)
-00:00:00|Ricardo Leka|Database Administration|[Encriptar é preciso](#sessionid:-22978)
-00:00:00|Rodrigo Crespi|Database Administration|[Estratégias de Backup e Recovery](#sessionid:-23398)
-00:00:00|Thiago Zavaschi|Business Intelligence|[Desmistificando o MDX](#sessionid:-28329)
+00:00:00|Erika Madeira|Business Intelligence|[SQL Server 2014, fique por dentro das novidades !](#sessionid-13930)
+00:00:00|Fabiano Amorim|Database Development|[Tuning do inicio ao fim!](#sessionid-14149)
+00:00:00|Felipe Ferreira|Business Intelligence|[PowerBI - A nova geração de BI da Microsoft](#sessionid-14233)
+00:00:00|Marcelo Fernandes|Database Development|[Dividir e conquistar - Particionando de tabelas no SQL Server](#sessionid-14244)
+00:00:00|Gustavo Maia Aguiar|Database Administration|[Estratégias de backup para ambientes analíticos e heterogêneos](#sessionid-14714)
+00:00:00|João Polisel|Database Development|[Entendendo "Managed Lock Priority"](#sessionid-17555)
+00:00:00|Luan Moreno Medeiros Maciel|Database Development|[In-Memory OLTP a.k.a Hekaton](#sessionid-19262)
+00:00:00|Luciano Moreira|Database Development|[Entendendo o paralelismo no SQL Server](#sessionid-19306)
+00:00:00|Marcus Vinícius Bittencourt|Database Administration|[DBA SQL Server por Acidente](#sessionid-21236)
+00:00:00|Nilton Pinheiro|Database Administration|[Provendo Alta Disponibilidade para suas Apps em Pequenos, Médios e Grandes Ambientes com SQL2012](#sessionid-21452)
+00:00:00|Diego Nogare|Business Intelligence|[Conhece o potencial do SQL Server Analysis Services Tabular Mode?](#sessionid-21494)
+00:00:00|Carlos Fernando Paleo da Rocha|Business Intelligence|[BI Microsoft com MS Excel 2013](#sessionid-21625)
+00:00:00|Ricardo Leka|Database Administration|[Encriptar é preciso](#sessionid-22978)
+00:00:00|Rodrigo Crespi|Database Administration|[Estratégias de Backup e Recovery](#sessionid-23398)
+00:00:00|Thiago Zavaschi|Business Intelligence|[Desmistificando o MDX](#sessionid-28329)
 #  
 #### SessionID: 13930
 # SQL Server 2014, fique por dentro das novidades !

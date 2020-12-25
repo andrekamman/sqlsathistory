@@ -2,12 +2,12 @@
 # SQLSaturday #181 - Tokyo 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|武田 正樹|Track 1|[BI を始めてみよう！](#sessionid:-18829)
-00:00:00|武田 正樹|Track 1|[次期SQL Server の新機能「Hekaton」とは？](#sessionid:-18830)
-00:00:00|武田 正樹|Track 1|[ここからはじめる SQL Server の状態取得](#sessionid:-18831)
-00:00:00|武田 正樹|Track 1|[T-SQL 振り返り](#sessionid:-18832)
-00:00:00|武田 正樹|Track 2|[今さら聞けない!? SQL データベース（旧称：SQL Azure）超入門](#sessionid:-18833)
-00:00:00|武田 正樹|Track 2|[SQL Database (Windows Azure) ハンズオン　その２](#sessionid:-18834)
+00:00:00|武田 正樹|Track 1|[BI を始めてみよう！](#sessionid-18829)
+00:00:00|武田 正樹|Track 1|[次期SQL Server の新機能「Hekaton」とは？](#sessionid-18830)
+00:00:00|武田 正樹|Track 1|[ここからはじめる SQL Server の状態取得](#sessionid-18831)
+00:00:00|武田 正樹|Track 1|[T-SQL 振り返り](#sessionid-18832)
+00:00:00|武田 正樹|Track 2|[今さら聞けない!? SQL データベース（旧称：SQL Azure）超入門](#sessionid-18833)
+00:00:00|武田 正樹|Track 2|[SQL Database (Windows Azure) ハンズオン　その２](#sessionid-18834)
 #  
 #### SessionID: 18829
 # BI を始めてみよう！

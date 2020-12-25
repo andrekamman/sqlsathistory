@@ -2,16 +2,16 @@
 # SQLSaturday #925 - Porto, Portugal 2019
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:30:00|Cláudio Silva|Enterprise Database Administration  Deployment|[dbatools and Power BI walked into a bar](#sessionid:-98264)
-10:30:00|Pedro Reis|Advanced Analysis Techniques|["DAX" the way to do it](#sessionid:-99012)
-11:45:00|Niko Neugebauer|Enterprise Database Administration  Deployment|[Batch Execution Mode on Rowstore Indexes](#sessionid:-98061)
-11:45:00|Dennes Torres|Analytics and Visualization|[PowerBI: From Zero to Hero](#sessionid:-98104)
-14:00:00|Andrew Pruski|Cloud Application Development  Deployment  DevOps|[SQL Server  Kubernetes](#sessionid:-98142)
-14:00:00|Gabi Münster|BI Platform Architecture, Development, Administration, Information Delivery|[Analysis Services - And the journey goes on...](#sessionid:-98762)
-15:15:00|Ivan Campos|Enterprise Database Administration  Deployment|[SQL Server 2019 what's new for the DBA's](#sessionid:-98039)
-15:15:00|Rui Romano|BI Platform Architecture, Development, Administration, Information Delivery|[Feel at Home in Power BI Online](#sessionid:-99852)
-16:30:00|Pedro Sousa|Enterprise Database Administration  Deployment|[Azure Database Migration Service](#sessionid:-98252)
-16:30:00|Gabi Münster|BI Platform Architecture, Development, Administration, Information Delivery|[Continuous Intelligence... What's This All About?](#sessionid:-98763)
+10:30:00|Cláudio Silva|Enterprise Database Administration  Deployment|[dbatools and Power BI walked into a bar](#sessionid-98264)
+10:30:00|Pedro Reis|Advanced Analysis Techniques|["DAX" the way to do it](#sessionid-99012)
+11:45:00|Niko Neugebauer|Enterprise Database Administration  Deployment|[Batch Execution Mode on Rowstore Indexes](#sessionid-98061)
+11:45:00|Dennes Torres|Analytics and Visualization|[PowerBI: From Zero to Hero](#sessionid-98104)
+14:00:00|Andrew Pruski|Cloud Application Development  Deployment  DevOps|[SQL Server  Kubernetes](#sessionid-98142)
+14:00:00|Gabi Münster|BI Platform Architecture, Development, Administration, Information Delivery|[Analysis Services - And the journey goes on...](#sessionid-98762)
+15:15:00|Ivan Campos|Enterprise Database Administration  Deployment|[SQL Server 2019 what's new for the DBA's](#sessionid-98039)
+15:15:00|Rui Romano|BI Platform Architecture, Development, Administration, Information Delivery|[Feel at Home in Power BI Online](#sessionid-99852)
+16:30:00|Pedro Sousa|Enterprise Database Administration  Deployment|[Azure Database Migration Service](#sessionid-98252)
+16:30:00|Gabi Münster|BI Platform Architecture, Development, Administration, Information Delivery|[Continuous Intelligence... What's This All About?](#sessionid-98763)
 #  
 #### SessionID: 98264
 # dbatools and Power BI walked into a bar

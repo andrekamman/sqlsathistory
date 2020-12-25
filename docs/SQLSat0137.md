@@ -2,12 +2,12 @@
 # SQLSaturday #137 - Canberra 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Grant Paisley|Everything SQL|[Killer Real-World PowerPivot Examples](#sessionid:-14722)
-00:00:00|Greg Low|Everything SQL|[Better Together: Merge, Partitioning, ColumnStore ](#sessionid:-14827)
-00:00:00|Martin Cairney|Everything SQL|[SQL to the Core](#sessionid:-19725)
-00:00:00|Raja N|Everything SQL|[Database Consolidation with HP’s DBCA](#sessionid:-21517)
-00:00:00|Roger Noble|Everything SQL|[Visualising  your data with PivotViewer](#sessionid:-23415)
-00:00:00|Warwick Rudd|Everything SQL|[Keeping the light's on with SQL 2012 Always On](#sessionid:-27661)
+00:00:00|Grant Paisley|Everything SQL|[Killer Real-World PowerPivot Examples](#sessionid-14722)
+00:00:00|Greg Low|Everything SQL|[Better Together: Merge, Partitioning, ColumnStore ](#sessionid-14827)
+00:00:00|Martin Cairney|Everything SQL|[SQL to the Core](#sessionid-19725)
+00:00:00|Raja N|Everything SQL|[Database Consolidation with HP’s DBCA](#sessionid-21517)
+00:00:00|Roger Noble|Everything SQL|[Visualising  your data with PivotViewer](#sessionid-23415)
+00:00:00|Warwick Rudd|Everything SQL|[Keeping the light's on with SQL 2012 Always On](#sessionid-27661)
 #  
 #### SessionID: 14722
 # Killer Real-World PowerPivot Examples

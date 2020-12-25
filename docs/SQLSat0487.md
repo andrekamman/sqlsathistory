@@ -2,16 +2,16 @@
 # SQLSaturday #487 - Ottawa 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:15:00|Christian Cote|Application  Database Development|[SQL Server Integration Services 2016 (SSIS) novelties and Azure Integration](#sessionid:-41441)
-09:15:00|Chris Sommer|Enterprise Database Administration  Deployment|[SQL Server 2016 Automation with PowerShell](#sessionid:-46185)
-10:45:00|Warner Chaves|Enterprise Database Administration  Deployment|[SQL Server as a Cloud Service](#sessionid:-42249)
-10:45:00|Michael DeFehr|Application  Database Development|[TSQL Bullet-Dodging and Spoon-bending](#sessionid:-44731)
-13:15:00|Paresh Motiwala|Professional Development|[DBA to Project Manager in 60 minutes flat](#sessionid:-41419)
-13:15:00|Warner Chaves|Enterprise Database Administration  Deployment|[Time to Stretch: Scaling out and in with Azure DB Elastic Scale](#sessionid:-42252)
-14:30:00|Rayis Imayev|Analytics and Visualization|[Excel Power Map vs. Power BI Globe Map visualization](#sessionid:-46476)
-14:30:00|Edwin M Sarmiento|Advanced Analysis Techniques|[SQL Server 2016 New Features](#sessionid:-47205)
-16:00:00|Alejandro Cordero|Application  Database Development|[UFC #1433 In-Memory tables 2014 vs. 2016](#sessionid:-42508)
-16:00:00|Phillip Labry|BI Platform Architecture, Development  Administration|[Analysis Services 2016 - Tabular Jumpstart](#sessionid:-44265)
+09:15:00|Christian Cote|Application  Database Development|[SQL Server Integration Services 2016 (SSIS) novelties and Azure Integration](#sessionid-41441)
+09:15:00|Chris Sommer|Enterprise Database Administration  Deployment|[SQL Server 2016 Automation with PowerShell](#sessionid-46185)
+10:45:00|Warner Chaves|Enterprise Database Administration  Deployment|[SQL Server as a Cloud Service](#sessionid-42249)
+10:45:00|Michael DeFehr|Application  Database Development|[TSQL Bullet-Dodging and Spoon-bending](#sessionid-44731)
+13:15:00|Paresh Motiwala|Professional Development|[DBA to Project Manager in 60 minutes flat](#sessionid-41419)
+13:15:00|Warner Chaves|Enterprise Database Administration  Deployment|[Time to Stretch: Scaling out and in with Azure DB Elastic Scale](#sessionid-42252)
+14:30:00|Rayis Imayev|Analytics and Visualization|[Excel Power Map vs. Power BI Globe Map visualization](#sessionid-46476)
+14:30:00|Edwin M Sarmiento|Advanced Analysis Techniques|[SQL Server 2016 New Features](#sessionid-47205)
+16:00:00|Alejandro Cordero|Application  Database Development|[UFC #1433 In-Memory tables 2014 vs. 2016](#sessionid-42508)
+16:00:00|Phillip Labry|BI Platform Architecture, Development  Administration|[Analysis Services 2016 - Tabular Jumpstart](#sessionid-44265)
 #  
 #### SessionID: 41441
 # SQL Server Integration Services 2016 (SSIS) novelties and Azure Integration

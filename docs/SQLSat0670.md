@@ -2,18 +2,18 @@
 # SQLSaturday #670 - Banja Luka 2017
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-08:30:00|Christopher Adkin|Enterprise Database Administration  Deployment|[The All Flash DBA](#sessionid:-65534)
-08:30:00|Dejan Pervulov|Cloud Application Development  Deployment|[Introduction to Azure SQL Data Warehouse](#sessionid:-66367)
-09:45:00|Christopher Adkin|Application  Database Development|[Problem Solving With The In-Memory Engine](#sessionid:-65533)
-09:45:00|Tomaž Kaštrun|BI Platform Architecture, Development  Administration|[SQL Server 2016 and R Engine-powerful duo](#sessionid:-68831)
-11:00:00|Miloš Radivojević|Application  Database Development|[Parameter Sniffing Problem with Stored Procedures](#sessionid:-66241)
-11:00:00|Jasmin Azemović|BI Platform Architecture, Development  Administration|[SQL Server on Linux](#sessionid:-68849)
-13:00:00|Dean Savović|Enterprise Database Administration  Deployment|[Query Store and Query Optimization](#sessionid:-66292)
-13:00:00|Dejan Pervulov|BI Platform Architecture, Development  Administration|[Get your data and your model ready for the Cloud using Power BI Desktop](#sessionid:-66365)
-14:15:00|Catalin Gheorghiu|Application  Database Development|[Power Bi for beginner IoT developer](#sessionid:-66906)
-14:15:00|Tomaž Kaštrun|Cloud Application Development  Deployment|[Azure Data Lake Analytics](#sessionid:-68833)
-15:30:00|Miloš Radivojević|Application  Database Development|[Transact SQL Performance Tips](#sessionid:-66243)
-15:30:00|Dean Savović|Enterprise Database Administration  Deployment|[Cardinality Estimator with SQL Server 2014 and 2016](#sessionid:-66291)
+08:30:00|Christopher Adkin|Enterprise Database Administration  Deployment|[The All Flash DBA](#sessionid-65534)
+08:30:00|Dejan Pervulov|Cloud Application Development  Deployment|[Introduction to Azure SQL Data Warehouse](#sessionid-66367)
+09:45:00|Christopher Adkin|Application  Database Development|[Problem Solving With The In-Memory Engine](#sessionid-65533)
+09:45:00|Tomaž Kaštrun|BI Platform Architecture, Development  Administration|[SQL Server 2016 and R Engine-powerful duo](#sessionid-68831)
+11:00:00|Miloš Radivojević|Application  Database Development|[Parameter Sniffing Problem with Stored Procedures](#sessionid-66241)
+11:00:00|Jasmin Azemović|BI Platform Architecture, Development  Administration|[SQL Server on Linux](#sessionid-68849)
+13:00:00|Dean Savović|Enterprise Database Administration  Deployment|[Query Store and Query Optimization](#sessionid-66292)
+13:00:00|Dejan Pervulov|BI Platform Architecture, Development  Administration|[Get your data and your model ready for the Cloud using Power BI Desktop](#sessionid-66365)
+14:15:00|Catalin Gheorghiu|Application  Database Development|[Power Bi for beginner IoT developer](#sessionid-66906)
+14:15:00|Tomaž Kaštrun|Cloud Application Development  Deployment|[Azure Data Lake Analytics](#sessionid-68833)
+15:30:00|Miloš Radivojević|Application  Database Development|[Transact SQL Performance Tips](#sessionid-66243)
+15:30:00|Dean Savović|Enterprise Database Administration  Deployment|[Cardinality Estimator with SQL Server 2014 and 2016](#sessionid-66291)
 #  
 #### SessionID: 65534
 # The All Flash DBA

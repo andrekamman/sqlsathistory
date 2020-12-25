@@ -2,14 +2,14 @@
 # SQLSaturday #505 - Belgium 2016
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Fabiano Amorim|DBA|[Advanced SQL Server execution plans - level 400](#sessionid:-44884)
-10:00:00|Nico Jacobs|BI|[Polybase in SQL Server 2016](#sessionid:-44939)
-11:20:00|Enrico van de Laar|DBA|[No more waiting – an introduction to SQL Server wait statistics](#sessionid:-42953)
-11:20:00|Peter ter Braake|BI|[DAX unraveled](#sessionid:-44545)
-13:20:00|Uwe Ricken|DBA|[Mastering indexing maintenance with DMO like a PRO](#sessionid:-42915)
-13:20:00|Koen Verbeeck|BI|[What's New in Integration Services 2016](#sessionid:-45172)
-14:40:00|Cédric Charlier|BI|[It's time to refresh your data in Power BI!](#sessionid:-44213)
-14:40:00|Pieter Vanhove|DBA|[Run Your DBA Morning Checklist with Policy-Based Management](#sessionid:-45214)
+10:00:00|Fabiano Amorim|DBA|[Advanced SQL Server execution plans - level 400](#sessionid-44884)
+10:00:00|Nico Jacobs|BI|[Polybase in SQL Server 2016](#sessionid-44939)
+11:20:00|Enrico van de Laar|DBA|[No more waiting – an introduction to SQL Server wait statistics](#sessionid-42953)
+11:20:00|Peter ter Braake|BI|[DAX unraveled](#sessionid-44545)
+13:20:00|Uwe Ricken|DBA|[Mastering indexing maintenance with DMO like a PRO](#sessionid-42915)
+13:20:00|Koen Verbeeck|BI|[What's New in Integration Services 2016](#sessionid-45172)
+14:40:00|Cédric Charlier|BI|[It's time to refresh your data in Power BI!](#sessionid-44213)
+14:40:00|Pieter Vanhove|DBA|[Run Your DBA Morning Checklist with Policy-Based Management](#sessionid-45214)
 #  
 #### SessionID: 44884
 # Advanced SQL Server execution plans - level 400

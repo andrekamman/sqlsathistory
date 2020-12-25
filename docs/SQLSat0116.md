@@ -2,17 +2,17 @@
 # SQLSaturday #116 - Bangalore 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Amit Banerjee|Practical Track|[Demsytifying SQL Server Memory Dumps](#sessionid:-28966)
-00:00:00|Balmukund Lakhani|Main Track|[Want Databases Always Available?AlwaysOn Unplugged](#sessionid:-29089)
-00:00:00|Karan Gulati|Practical Track|[BI in Denali](#sessionid:-31173)
-00:00:00|Karan Gulati|Practical Track|[Keynote](#sessionid:-31175)
-00:00:00|Lohith GN|Main Track|[SQL Sever Dev Tools - Code Name Juneau](#sessionid:-31206)
-00:00:00|Pinal Dave|Main Track|[SQL Server Performance Tips and Tricks](#sessionid:-32232)
-00:00:00|Pranab Mazumdar|Practical Track|[A Whirlwind Tour of Contained Databases and TSQL e](#sessionid:-32328)
-00:00:00|Rick  Morelan|Main Track|[Basic Performance Tips and Gotchas](#sessionid:-32507)
-00:00:00|Rick  Morelan|Main Track|[Avoid Errors on Errors](#sessionid:-32508)
-00:00:00|Tejas Shah|Practical Track|[SQL Server Clinic](#sessionid:-33352)
-00:00:00|Vinod Kumar M|Main Track|[Security with SQL Server - Discovering Pitfalls](#sessionid:-33841)
+00:00:00|Amit Banerjee|Practical Track|[Demsytifying SQL Server Memory Dumps](#sessionid-28966)
+00:00:00|Balmukund Lakhani|Main Track|[Want Databases Always Available?AlwaysOn Unplugged](#sessionid-29089)
+00:00:00|Karan Gulati|Practical Track|[BI in Denali](#sessionid-31173)
+00:00:00|Karan Gulati|Practical Track|[Keynote](#sessionid-31175)
+00:00:00|Lohith GN|Main Track|[SQL Sever Dev Tools - Code Name Juneau](#sessionid-31206)
+00:00:00|Pinal Dave|Main Track|[SQL Server Performance Tips and Tricks](#sessionid-32232)
+00:00:00|Pranab Mazumdar|Practical Track|[A Whirlwind Tour of Contained Databases and TSQL e](#sessionid-32328)
+00:00:00|Rick  Morelan|Main Track|[Basic Performance Tips and Gotchas](#sessionid-32507)
+00:00:00|Rick  Morelan|Main Track|[Avoid Errors on Errors](#sessionid-32508)
+00:00:00|Tejas Shah|Practical Track|[SQL Server Clinic](#sessionid-33352)
+00:00:00|Vinod Kumar M|Main Track|[Security with SQL Server - Discovering Pitfalls](#sessionid-33841)
 #  
 #### SessionID: 28966
 # Demsytifying SQL Server Memory Dumps

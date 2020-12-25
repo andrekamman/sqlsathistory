@@ -2,12 +2,12 @@
 # SQLSaturday #692 - Nepal 2017
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:00:00|Gogula Aryalingam|BI Platform Architecture, Development  Administration|[BI for Everyone: Why, What and How of Power BI](#sessionid:-69840)
-10:00:00|Virendra Yaduvanshi|Database Administration|[Understanding SQL Server's transaction log and how to manage it.](#sessionid:-70376)
-11:15:00|Jonathan Stewart|BI Platform Architecture, Development  Administration|[Performance Tuning for the BI Professional](#sessionid:-71121)
-13:30:00|Guy Glantser|Application  Database Development|[How to Use Parameters Like a Pro and Boost Performance](#sessionid:-69753)
-14:30:00|Anil Maharjan|BI Platform Architecture, Development  Administration|[PowerBI : Data Visualization SQL Saturday with R](#sessionid:-69982)
-15:45:00|Shree Khanal|Database Administration|[SQL Server 2016 Advanced Security](#sessionid:-71990)
+09:00:00|Gogula Aryalingam|BI Platform Architecture, Development  Administration|[BI for Everyone: Why, What and How of Power BI](#sessionid-69840)
+10:00:00|Virendra Yaduvanshi|Database Administration|[Understanding SQL Server's transaction log and how to manage it.](#sessionid-70376)
+11:15:00|Jonathan Stewart|BI Platform Architecture, Development  Administration|[Performance Tuning for the BI Professional](#sessionid-71121)
+13:30:00|Guy Glantser|Application  Database Development|[How to Use Parameters Like a Pro and Boost Performance](#sessionid-69753)
+14:30:00|Anil Maharjan|BI Platform Architecture, Development  Administration|[PowerBI : Data Visualization SQL Saturday with R](#sessionid-69982)
+15:45:00|Shree Khanal|Database Administration|[SQL Server 2016 Advanced Security](#sessionid-71990)
 #  
 #### SessionID: 69840
 # BI for Everyone: Why, What and How of Power BI

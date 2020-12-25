@@ -2,21 +2,21 @@
 # SQLSaturday #988 - Gothenburg 2020
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:10:00|Oskari Heikkinen|BI Platform Architecture, Development  Administration|[Best Practices for building a Data Lake with Azure Databricks](#sessionid:-103103)
-09:10:00|Juan E. Moreno Romo|Database Administration  Deployment|[Monitoring SQL Server: from on-premises to Azure](#sessionid:-104147)
-09:10:00|Asgeir Gunnarsson|Other|[Checking in with Power Apps, Flow and Power BI](#sessionid:-104491)
-10:30:00|Magnus Ahlkvist|Database Administration  Deployment|[My romantic relation with Powershell generally and  DBATools especially](#sessionid:-103019)
-10:30:00|Benni De Jagere|BI Platform Architecture, Development  Administration|[Power BI Dataflows? Why you need to implement it!](#sessionid:-103036)
-10:30:00|Damir Matesic|Application  Database Development|[MS SQL New functions, syntaxes, tips  tricks](#sessionid:-105218)
-11:45:00|Jens Vestergaard|Advanced Analysis Techniques|[Power BI Live Data sets, Monitoring your key metrics](#sessionid:-103129)
-11:45:00|Erland Sommarskog|Application  Database Development|[Dynamic Search Conditions](#sessionid:-103432)
-11:45:00|Torsten Strauss|Database Administration  Deployment|[Detect Plan Regression with Query Store](#sessionid:-105083)
-13:45:00|Ted Malone|BI Platform Architecture, Development  Administration|[Creating Scalable Data Pipelines with Azure Data Factory and Data Flows](#sessionid:-103015)
-13:45:00|Kevin Chant|Application  Database Development|[Azure DevOps duet (60 minutes version)](#sessionid:-103560)
-13:45:00|Dennes Torres|Advanced Analysis Techniques|[Why Synapse Analytics is beyond Azure SQL Datawarehouse](#sessionid:-104935)
-15:00:00|Brent Ozar|Database Administration  Deployment|[What's New in SQL Server 2019: 100% Demos](#sessionid:-103012)
-15:00:00|Philipp Lenz|Application  Database Development|[Introduction into Power BI Embedded](#sessionid:-103207)
-15:00:00|Alexander Klein|BI Platform Architecture, Development  Administration|[BI in Azure two years live](#sessionid:-104199)
+09:10:00|Oskari Heikkinen|BI Platform Architecture, Development  Administration|[Best Practices for building a Data Lake with Azure Databricks](#sessionid-103103)
+09:10:00|Juan E. Moreno Romo|Database Administration  Deployment|[Monitoring SQL Server: from on-premises to Azure](#sessionid-104147)
+09:10:00|Asgeir Gunnarsson|Other|[Checking in with Power Apps, Flow and Power BI](#sessionid-104491)
+10:30:00|Magnus Ahlkvist|Database Administration  Deployment|[My romantic relation with Powershell generally and  DBATools especially](#sessionid-103019)
+10:30:00|Benni De Jagere|BI Platform Architecture, Development  Administration|[Power BI Dataflows? Why you need to implement it!](#sessionid-103036)
+10:30:00|Damir Matesic|Application  Database Development|[MS SQL New functions, syntaxes, tips  tricks](#sessionid-105218)
+11:45:00|Jens Vestergaard|Advanced Analysis Techniques|[Power BI Live Data sets, Monitoring your key metrics](#sessionid-103129)
+11:45:00|Erland Sommarskog|Application  Database Development|[Dynamic Search Conditions](#sessionid-103432)
+11:45:00|Torsten Strauss|Database Administration  Deployment|[Detect Plan Regression with Query Store](#sessionid-105083)
+13:45:00|Ted Malone|BI Platform Architecture, Development  Administration|[Creating Scalable Data Pipelines with Azure Data Factory and Data Flows](#sessionid-103015)
+13:45:00|Kevin Chant|Application  Database Development|[Azure DevOps duet (60 minutes version)](#sessionid-103560)
+13:45:00|Dennes Torres|Advanced Analysis Techniques|[Why Synapse Analytics is beyond Azure SQL Datawarehouse](#sessionid-104935)
+15:00:00|Brent Ozar|Database Administration  Deployment|[What's New in SQL Server 2019: 100% Demos](#sessionid-103012)
+15:00:00|Philipp Lenz|Application  Database Development|[Introduction into Power BI Embedded](#sessionid-103207)
+15:00:00|Alexander Klein|BI Platform Architecture, Development  Administration|[BI in Azure two years live](#sessionid-104199)
 #  
 #### SessionID: 103103
 # Best Practices for building a Data Lake with Azure Databricks

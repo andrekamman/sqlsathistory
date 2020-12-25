@@ -2,12 +2,12 @@
 # SQLSaturday #240 - Curacao 2013
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|Jason Brimhall|Track 1|[SQL 2012 Extended Events](#sessionid:-10836)
-00:00:00|Jason Brimhall|Track 1|[SQL 2012 Table Compression](#sessionid:-10837)
-00:00:00|Ignacio Salom Rangel|Track 1|[SQL Server Page verification option, why it is important for every DBA?](#sessionid:-15131)
-00:00:00|Rohan Joackhim|Track 1|[ Basics of  SQL Server Parallel Query Processing](#sessionid:-21279)
-00:00:00|Roy Ernest|Track 1|[Execution Plans](#sessionid:-23483)
-00:00:00|William E Pearson III|Track 1|[Possible Musics:  Choosing between Analysis Services 2012 Multidimensional and Tabular](#sessionid:-28113)
+00:00:00|Jason Brimhall|Track 1|[SQL 2012 Extended Events](#sessionid-10836)
+00:00:00|Jason Brimhall|Track 1|[SQL 2012 Table Compression](#sessionid-10837)
+00:00:00|Ignacio Salom Rangel|Track 1|[SQL Server Page verification option, why it is important for every DBA?](#sessionid-15131)
+00:00:00|Rohan Joackhim|Track 1|[ Basics of  SQL Server Parallel Query Processing](#sessionid-21279)
+00:00:00|Roy Ernest|Track 1|[Execution Plans](#sessionid-23483)
+00:00:00|William E Pearson III|Track 1|[Possible Musics:  Choosing between Analysis Services 2012 Multidimensional and Tabular](#sessionid-28113)
 #  
 #### SessionID: 10836
 # SQL 2012 Extended Events

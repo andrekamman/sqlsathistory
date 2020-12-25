@@ -2,11 +2,11 @@
 # SQLSaturday #155 - Lima 2012
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|ENRIQUE ALBAN|Track 1|[Generando valor a la Información](#sessionid:-13825)
-00:00:00|Juan Rafael|Track 1|[KEYNOTE - Productividad Empresarial con SQL Server](#sessionid:-16937)
-00:00:00|Kai Clemente|Track 1|[Microsoft SQL Server 2012 Power Pivot](#sessionid:-17832)
-00:00:00|Mary Arcia|Track 1|[Encajando novedades SQLServer en la plataforma BI](#sessionid:-19789)
-00:00:00|Percy Reyes|Track 1|[ColumnStore index in SQL Server 2012: How it works](#sessionid:-21933)
+00:00:00|ENRIQUE ALBAN|Track 1|[Generando valor a la Información](#sessionid-13825)
+00:00:00|Juan Rafael|Track 1|[KEYNOTE - Productividad Empresarial con SQL Server](#sessionid-16937)
+00:00:00|Kai Clemente|Track 1|[Microsoft SQL Server 2012 Power Pivot](#sessionid-17832)
+00:00:00|Mary Arcia|Track 1|[Encajando novedades SQLServer en la plataforma BI](#sessionid-19789)
+00:00:00|Percy Reyes|Track 1|[ColumnStore index in SQL Server 2012: How it works](#sessionid-21933)
 #  
 #### SessionID: 13825
 # Generando valor a la Información

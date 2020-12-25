@@ -2,18 +2,18 @@
 # SQLSaturday #400 - Torino 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:30:00|Danilo Dominici|DBA\DEV|[Build a SQL Server Machine - the right way](#sessionid:-12912)
-09:30:00|Nicola Pressi|BI\OPT|[SSRS Reports  HCI - How to build the perfect dashboard](#sessionid:-34851)
-10:45:00|Gilberto Zampatti|DBA\DEV|[Analisi prestazionale (Performance Tuning) in Microsoft SQL Serve](#sessionid:-14629)
-10:45:00|Marco Russo|BI\OPT|[Power BI Architecture](#sessionid:-19489)
-12:00:00|Sergio Govoni|DBA\DEV|[Execution Plans in SQL Server and SQL Azure (IT)](#sessionid:-24398)
-12:00:00|Alberto Ferrari|BI\OPT|[Tabular vs. Multidimensional in SQL Server Analysis Services ](#sessionid:-9186)
-14:00:00|Gianluca Hotz|DBA\DEV|[SQL Server AlwaysOn](#sessionid:-35675)
-14:00:00|Davide Mauri|BI\OPT|[AzureML - Creating and Using Machine Learning Solutions (IT)](#sessionid:-36402)
-15:15:00|Michael Denny|BI\OPT|[Entity Framework 7, Back To The Future!](#sessionid:-20228)
-15:15:00|Alessandro Alpi|DBA\DEV|[Database under source control](#sessionid:-25898)
-16:30:00|Luca Zavarella|DBA\DEV|[SSDT Database Projects Deep Dives (IT)](#sessionid:-19331)
-16:30:00|Andrea Martorana Tusa|BI\OPT|[Geocoding with SQL Server, Bing and Google Maps API](#sessionid:-9447)
+09:30:00|Danilo Dominici|DBA\DEV|[Build a SQL Server Machine - the right way](#sessionid-12912)
+09:30:00|Nicola Pressi|BI\OPT|[SSRS Reports  HCI - How to build the perfect dashboard](#sessionid-34851)
+10:45:00|Gilberto Zampatti|DBA\DEV|[Analisi prestazionale (Performance Tuning) in Microsoft SQL Serve](#sessionid-14629)
+10:45:00|Marco Russo|BI\OPT|[Power BI Architecture](#sessionid-19489)
+12:00:00|Sergio Govoni|DBA\DEV|[Execution Plans in SQL Server and SQL Azure (IT)](#sessionid-24398)
+12:00:00|Alberto Ferrari|BI\OPT|[Tabular vs. Multidimensional in SQL Server Analysis Services ](#sessionid-9186)
+14:00:00|Gianluca Hotz|DBA\DEV|[SQL Server AlwaysOn](#sessionid-35675)
+14:00:00|Davide Mauri|BI\OPT|[AzureML - Creating and Using Machine Learning Solutions (IT)](#sessionid-36402)
+15:15:00|Michael Denny|BI\OPT|[Entity Framework 7, Back To The Future!](#sessionid-20228)
+15:15:00|Alessandro Alpi|DBA\DEV|[Database under source control](#sessionid-25898)
+16:30:00|Luca Zavarella|DBA\DEV|[SSDT Database Projects Deep Dives (IT)](#sessionid-19331)
+16:30:00|Andrea Martorana Tusa|BI\OPT|[Geocoding with SQL Server, Bing and Google Maps API](#sessionid-9447)
 #  
 #### SessionID: 12912
 # Build a SQL Server Machine - the right way

@@ -2,8 +2,8 @@
 # SQLSaturday #412 - Ica 2015
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-00:00:00|German Cayo|Other|[Microsoft Azure y MS SQL Server 2014 como Plataforma Hibrida](#sessionid:-14406)
-00:00:00|Percy Reyes|Other|[Cardinality Estimator en SQL Server 2014. #191;Qu#233; es? Y c#243;mo nos ben](#sessionid:-21932)
+00:00:00|German Cayo|Other|[Microsoft Azure y MS SQL Server 2014 como Plataforma Hibrida](#sessionid-14406)
+00:00:00|Percy Reyes|Other|[Cardinality Estimator en SQL Server 2014. #191;Qu#233; es? Y c#243;mo nos ben](#sessionid-21932)
 #  
 #### SessionID: 14406
 # Microsoft Azure y MS SQL Server 2014 como Plataforma Hibrida
