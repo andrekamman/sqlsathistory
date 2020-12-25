@@ -1,25 +1,324 @@
+#### [Back to Main list](index.md)
 # SQLSaturday #704 - Iceland 2018
-Start Time|Speaker(s)|Track|Title
+Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-08:30:00|Alexander Klein|BI|[ETL meets Azure](69618.md)
-08:30:00|Uwe Ricken|DBA|[Investigate, analyze and solve common wait stats scenarios](69645.md)
-08:30:00|Alex Yates|Dev|[Database version control  deployment: model or migration scripts](69709.md)
-09:40:00|Stijn Wynants|Dev|[Index Tuning for the developer](70228.md)
-09:40:00|Prathy Kamasani|BI|[Power BI deployment strategy for publishing and maintenance](70588.md)
-09:40:00|Angela Henry|DBA|[Data Types Do Matter](70899.md)
-10:50:00|Andrew Pruski|DBA|[Partitioning 101](70307.md)
-10:50:00|Regis Baccaro|Dev|[Hybrid BI DevOps](70557.md)
-10:50:00|Bent Pedersen|BI|[Mindset for doing DWH in the cloud](71955.md)
-12:00:00|Jacob Ross Andersen|BI|[Automate DWH  BI development using TimeXtender Discovery Hub®](76863.md)
-12:50:00|Paul Andrew|BI|[ADFv2 - Data Integration in Azure Just Got a lot Better](69792.md)
-12:50:00|Vedran Kesegic|DBA|[Tuning optional filters](69817.md)
-12:50:00|David Postlethwaite|Dev|[SQL 2017 New feature - Graph Data](70051.md)
-14:00:00|Stephane Haby|DBA|[Security via policies](69663.md)
-14:00:00|Simon Whiteley|BI|[Modern Data Warehousing - The Lambda Approach to Azure BI](69851.md)
-14:00:00|Jan Mulkens|Dev|[Rub DevOps on all the things!](71085.md)
-15:10:00|Thomas Hütter|BI|[From SQL to R and beyond](69635.md)
-15:10:00|Kevin Chant|DBA|[Migrating to the cloud options for SQL Server Professionals](69648.md)
-15:10:00|André Melancia|DBA|[Never Say Hacking SQL Server Again](70281.md)
-16:20:00|Alexander Arvidsson|DBA|[Boring is stable, stable is good - best practices in practice](69653.md)
-16:20:00|Dejan Sarka|BI|[Temporal Data in SQL Server](69660.md)
-16:20:00|Chrissy LeMaire|Dev|[PowerShell Simplified: dbatools   dbachecks](71302.md)
+08:30:00|Alexander Klein|BI|[ETL meets Azure](#sessionid:-69618)
+08:30:00|Uwe Ricken|DBA|[Investigate, analyze and solve common wait stats scenarios](#sessionid:-69645)
+08:30:00|Alex Yates|Dev|[Database version control  deployment: model or migration scripts](#sessionid:-69709)
+09:40:00|Stijn Wynants|Dev|[Index Tuning for the developer](#sessionid:-70228)
+09:40:00|Prathy Kamasani|BI|[Power BI deployment strategy for publishing and maintenance](#sessionid:-70588)
+09:40:00|Angela Henry|DBA|[Data Types Do Matter](#sessionid:-70899)
+10:50:00|Andrew Pruski|DBA|[Partitioning 101](#sessionid:-70307)
+10:50:00|Regis Baccaro|Dev|[Hybrid BI DevOps](#sessionid:-70557)
+10:50:00|Bent Pedersen|BI|[Mindset for doing DWH in the cloud](#sessionid:-71955)
+12:00:00|Jacob Ross Andersen|BI|[Automate DWH  BI development using TimeXtender Discovery Hub®](#sessionid:-76863)
+12:50:00|Paul Andrew|BI|[ADFv2 - Data Integration in Azure Just Got a lot Better](#sessionid:-69792)
+12:50:00|Vedran Kesegic|DBA|[Tuning optional filters](#sessionid:-69817)
+12:50:00|David Postlethwaite|Dev|[SQL 2017 New feature - Graph Data](#sessionid:-70051)
+14:00:00|Stephane Haby|DBA|[Security via policies](#sessionid:-69663)
+14:00:00|Simon Whiteley|BI|[Modern Data Warehousing - The Lambda Approach to Azure BI](#sessionid:-69851)
+14:00:00|Jan Mulkens|Dev|[Rub DevOps on all the things!](#sessionid:-71085)
+15:10:00|Thomas Hütter|BI|[From SQL to R and beyond](#sessionid:-69635)
+15:10:00|Kevin Chant|DBA|[Migrating to the cloud options for SQL Server Professionals](#sessionid:-69648)
+15:10:00|André Melancia|DBA|[Never Say Hacking SQL Server Again](#sessionid:-70281)
+16:20:00|Alexander Arvidsson|DBA|[Boring is stable, stable is good - best practices in practice](#sessionid:-69653)
+16:20:00|Dejan Sarka|BI|[Temporal Data in SQL Server](#sessionid:-69660)
+16:20:00|Chrissy LeMaire|Dev|[PowerShell Simplified: dbatools   dbachecks](#sessionid:-71302)
+#  
+#### SessionID: 69618
+# ETL meets Azure
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
+## Speaker: Alexander Klein
+## Title: ETL meets Azure
+## Abstract:
+### How to move the classic SSIS packages to the cloud for the ETL process? Azure offers Data Factory, Runbooks, Logic App, or Functions. What is hidden behind the individual services and what can I do with them? The examples here show how these components can be assembled to manage a DWH's management in the cloud.
+#  
+#### SessionID: 69645
+# Investigate, analyze and solve common wait stats scenarios
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
+## Speaker: Uwe Ricken
+## Title: Investigate, analyze and solve common wait stats scenarios
+## Abstract:
+### SQL Server is a high frequently used piece of software which need to serve single requests and/or hundreds of thousands of requests in a minute. Within these different kinds of workloads Microsoft SQL Server has to handle the concurrency of tasks in a fashion manner. This demo driven session shows different scenarios where Microsoft SQL Server has to wait and manage hundreds of tasks. See, analyze and solve different wait stats due to their performance impact:
+- CXPACKET: when a query goes parallel
+- ASYNC_IO_COMPLETION: speed up IO operations (Growth / Backup / Restore)
+- ASYNC_NETWORK_IO: What happens if your application refuses data?
+- THREADPOOL starvation: crush of requests for Microsoft SQL Server
+- PAGELATCH_xx: How does Microsoft SQL Server protects data?
+#  
+#### SessionID: 69709
+# Database version control  deployment: model or migration scripts
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: Dev
+## Speaker: Alex Yates
+## Title: Database version control  deployment: model or migration scripts
+## Abstract:
+### For the last few years MS have been promoting declarative, model-based database development with tools like SSDT. For many this is the way forward – gone are the days of managing endless upgrade scripts and manual deployments.
+ 
+At the same time, leaders and shakers of our industry including ThoughtWorks, Pramod Sadalge and Paul Stovell promote an iterative, migration script driven approach asserting that deployment scripts should be tested early and not generated by a tool.
+ 
+I'm irritated whenever I go to a "how to do database continuous delivery" session and the speaker presents one way as good and the other as bad. Like most things, it depends.
+ 
+I'll illustrate the limitations of each approach with a simple scenario. I'll describe which projects are better suited to a model or a migrations approach, and whether it's possible to get the best of both worlds
+#  
+#### SessionID: 70228
+# Index Tuning for the developer
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: Dev
+## Speaker: Stijn Wynants
+## Title: Index Tuning for the developer
+## Abstract:
+### During our time I will be explaining the impact of indexes and why you should use them. After the session Clustered/Nonclustered/Columnstore/Filtered will no longer be a mystery for you. You will also know what the impact of indexes are on your system thus allowing you to develop a good indexing strategy in your own environment!
+#  
+#### SessionID: 70588
+# Power BI deployment strategy for publishing and maintenance
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
+## Speaker: Prathy Kamasani
+## Title: Power BI deployment strategy for publishing and maintenance
+## Abstract:
+### Power BI: Minutes to create and seconds to impress. 
+
+Yes, it takes minutes to create and share Power BI reports. Which means every user who has relevant Power BI access can create Workspaces, Apps, reports, dashboards and schedules. With no deployment strategy, maintaining Power BI service could become a terrible job. 
+In this session, I will cover how having a having deployment strategy can make a terrible maintenance job seamless.
+
+This session will include:
+What happens when a user creates a Power BI app workspace
+How to control user access
+Working with different environments
+Creating and sharing reports using Power BI Apps 
+How to monitor dataset schedules and failure notifications
+How to use Power BI API to document your organisation Power BI Service
+#  
+#### SessionID: 70899
+# Data Types Do Matter
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
+## Speaker: Angela Henry
+## Title: Data Types Do Matter
+## Abstract:
+### They're just numbers, right?  A date's a date.  It's just string data, who cares?  I can't tell you how many times I've heard these phrases.  This session will help you understand why choosing the correct data type for your data is so important.  It affects data quality, storage and performance.  It can even produce incorrect query results.
+#  
+#### SessionID: 70307
+# Partitioning 101
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
+## Speaker: Andrew Pruski
+## Title: Partitioning 101
+## Abstract:
+### Partitioning has been available in SQL Server since 2005 but there can be a lot of misconceptions around it.
+This session will give attendees a refresher through partitioning concepts and the implementation of those concepts through live demos.
+
+Topics covered will be: -
+Paritioning definition
+Potential benefits and pitfalls
+Overview of partitioning functions and schemes
+Table design considerations
+Splitting and merging partitions
+Switching data
+Implementing sliding windows
+#  
+#### SessionID: 70557
+# Hybrid BI DevOps
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: Dev
+## Speaker: Regis Baccaro
+## Title: Hybrid BI DevOps
+## Abstract:
+### In this session we are going to build a DevOps framework for Azure Data Factory, SSIS, SSAS, SSRS, Power BI Report Server and for the databases used within the entire ETL/DW process. 
+We use Visual Studio Online for source control, development and integration. Development changes are automatically deployed to on-premises or the Cloud using SQL Server, Azure SQL Databases, Azure VMs and Azure Data Factory v2. We will show how we can build a continuous integration and deployment pipeline between environments, pushing the schema changes and upgrading the version numbers in a seamless manner upon successful build of the solutions. Furthermore we'll come with a list of best practices to follow and pitfalls to avoid when going down the DevOps road.
+#  
+#### SessionID: 71955
+# Mindset for doing DWH in the cloud
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
+## Speaker: Bent Pedersen
+## Title: Mindset for doing DWH in the cloud
+## Abstract:
+### Moving your data warehouse to the cloud? In this session we will go through the consideration and components for data warehousing in the cloud and how these are used and integrated - and when to use which services when looking at:
+- Data movement/migration
+- Data storage
+- Transformation
+- Scheduling
+- Deployment approach and methods
+ 
+Second part of the session will focus on the differences and benefits of different approaches ( On-premises, IaaS, PaaS) the following perspectives to undertand and consider the right approach:
+- Pricing
+- Scalability
+- Flexibility
+- Strategic considerations
+#  
+#### SessionID: 76863
+# Automate DWH  BI development using TimeXtender Discovery Hub®
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
+## Speaker: Jacob Ross Andersen
+## Title: Automate DWH  BI development using TimeXtender Discovery Hub®
+## Abstract:
+### Lunch and Data Warehouse Automation are perfect together, so join us and eat your lunch whilst viewing a complete end-to-end solution be built, in just 30 mins.
+ 
+
+In this session, we will demonstrate the power of Discovery Hub® by building an end-to-end solution from scratch in just 30min. We automate the majority of the tedious tasks related to a DWH project with high quality auto-generated scripts, documentation, data lineage tracing managed deployment/execution and many other value-adding features. We accelerate BI projects dramatically and allows BI developers to focus their efforts on the tricky modelling tasks, rather than the majority of standard technical steps.
+
+The session will include steps like:
+
+Connect to a data source
+Build an Operational Data Exchange
+Stage data with examples of common ETL tasks
+Create a Data Warehouse
+Define a Semantic Model
+Visualize data with visualization tool”
+#  
+#### SessionID: 69792
+# ADFv2 - Data Integration in Azure Just Got a lot Better
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
+## Speaker: Paul Andrew
+## Title: ADFv2 - Data Integration in Azure Just Got a lot Better
+## Abstract:
+### Azure Data Factory version 2 (ADFv2) arrived in Sept17 with a bunch of new concepts and features to support our Azure data integration pipelines. In this session, we’ll update your ADFv1 knowledge and start to understand the true nature of scale out control flows and data flows. What’s the integration runtime? Can we easily lift and shift our beloved SSIS packages into the cloud? How do we embed expressions to achieve dynamic activity executions? Do we still need SSIS with the ADF platform as a service? The answers to all these questions and more in this demo packed session. An awareness of Azure Data Factory v1 is recommended before attending this session.
+#  
+#### SessionID: 69817
+# Tuning optional filters
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
+## Speaker: Vedran Kesegic
+## Title: Tuning optional filters
+## Abstract:
+### "Catch-all" queries are very common, found in nearly every database. You know those "give me a row with this @ID or give me all rows if @ID is -1"? That is an optional filter, and probably you have a combination of multiple. Tuning them is a nightmare that sometimes even professionals fail to solve completely. Such queries are sometimes fast and suddenly get slow without apparent reason, bringing server to its knees if often executed. You will see the secret mastery and wizardry of achieving the best possible performance for those queries, and understand internals of SQL Server deeper than before. Bringing your company huge benefits in smooth databases performance and increase your customers' satisfaction.
+#  
+#### SessionID: 70051
+# SQL 2017 New feature - Graph Data
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: Dev
+## Speaker: David Postlethwaite
+## Title: SQL 2017 New feature - Graph Data
+## Abstract:
+### When I read that Microsoft have added graph data to SQL Server 2017 I was intrigued as to what graph data is so I started doing some research.
+This presentation is the culmination of my investigations. 
+If you design complex OLTP relational databases or have data that doesn't fit the rigid hierarchy of a relational database then this talk is for you. 
+You may be in for a surprise!
+
+Some of the questions we will look at:
+What is Graph Data?
+Who uses it?
+What is it used for?
+How does it compare to traditional relational database design?
+What other companies support graph databases?
+How does it work in SQL 2017?
+Is there a new language to learn?
+What is the so-called Kevin Bacon problem?
+
+And finally.
+Will it replace traditional relational database design within the next 10 years?
+#  
+#### SessionID: 69663
+# Security via policies
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
+## Speaker: Stephane Haby
+## Title: Security via policies
+## Abstract:
+### Based on my experience in Swiss banks, I propose a simple way to control security through policies.
+Which types of control should be set up at instance and database levels?
+How to manage multiple servers?
+And finally, generate beautiful reports and send feedback emails.
+We will try to answer all these questions we have during security audits...
+#  
+#### SessionID: 69851
+# Modern Data Warehousing - The Lambda Approach to Azure BI
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
+## Speaker: Simon Whiteley
+## Title: Modern Data Warehousing - The Lambda Approach to Azure BI
+## Abstract:
+### Technology changes quickly - patterns and approaches less so. As people move towards the cloud, there are clear benefits of adopting a polyglot cloud architecture employing a range of distributed components.
+
+This session will take you through the pattern known as the Lambda architecture, a reference pattern for building data analytics systems that can handle any combination of data velocity, variety and volume. The session will outline the set of tools and integration points that can underpin the approach. Do you design real-time reporting systems? Or crunch petabytes of data? Perhaps you are adopting a cloud architecture and just want to handle anything the future throws at you? This session is for you.
+
+We will follow the movement of data through batch and speed layers via Azure Data Lake Store  Analytics and Streaming Analytics before considering the serving layer with Azure SQL DataWarehouse and downstream reporting tools.
+#  
+#### SessionID: 71085
+# Rub DevOps on all the things!
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: Dev
+## Speaker: Jan Mulkens
+## Title: Rub DevOps on all the things!
+## Abstract:
+### What is DevOps and why should  you rub it on anything?
+In this session we'll explore, through demo's, how a DevOps mindset changed my personal way of working and development of database and BI solutions.
+In the demo's we'll automate the deployment of databases, SSIS, SSRS and SSAS and you'll experience the simple patterns to start automating the deployment of just about anything.
+#  
+#### SessionID: 69635
+# From SQL to R and beyond
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
+## Speaker: Thomas Hütter
+## Title: From SQL to R and beyond
+## Abstract:
+### You heard about the “R” language and it’s growing popularity for data analysis. Now you need a walk-through on what is possible analyzing your data? Then this session is for you:
+
+You’ll get a short introduction how R came to be, and what the R ecosystem looks like today. Then we will extract sales data from different companies off a Navision ERP database on SQL Server.
+
+Our data will be cleaned, aggregated and enriched in the RStudio environment. We’ll generate different diagrams on-the-fly to gain first insights.
+
+Finally we’ll see how to use the Shiny framework to display our data on a map, interactively changing our criteria, and showing us where the white spots really are.
+#  
+#### SessionID: 69648
+# Migrating to the cloud options for SQL Server Professionals
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
+## Speaker: Kevin Chant
+## Title: Migrating to the cloud options for SQL Server Professionals
+## Abstract:
+### In this session, I'll provide an overview of your options when looking to migrate your SQL Server environments to the cloud from either on-site or from another cloud provider. We'll then go through potential cloud infrastructure options such as cloud implementations, compute offerings, and security.
+
+After that we’ll dive into in to an overview of the main cloud providers and providing some examples where they might be a good fit for various SQL Server environments; as well as what you might want to take into consideration during for your migration like your HADR strategy and if your SQL Server data would be better suited in another solution that your chosen cloud provider offers.
+#  
+#### SessionID: 70281
+# Never Say Hacking SQL Server Again
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
+## Speaker: André Melancia
+## Title: Never Say Hacking SQL Server Again
+## Abstract:
+### Everything in life can be hacked… Even SQL Server… Don't believe me? See for yourself…
+This is a demo-driven session, suited for DBAs, developers and security consultants. Both exploits and security recommendations to avoid them will be covered.
+Disclaimer: No actual crimes will be committed. Please do not send agents to my house again.
+#  
+#### SessionID: 69653
+# Boring is stable, stable is good - best practices in practice
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: DBA
+## Speaker: Alexander Arvidsson
+## Title: Boring is stable, stable is good - best practices in practice
+## Abstract:
+### Everybody is talking about best practices, and like standards, most everybody has them. But why do they look like they do, and why would you use a specific set of "best practices" that someone has put together? This session goes through my set of best practices that I've accumulated over 20 years of DBA work, disassembles each and every one of them to see how they came about and discusses why I still use them - or don't. There is no such thing as the ultimate best practices, but I aim to provide the attendee with as much food for thought as possible in order to let each and everyone decide on their own path forward for their own set of best practices.
+The session covers primarily SQL Server 2012 to 2016, with SQL Server 2017 thrown in for good measure.
+#  
+#### SessionID: 69660
+# Temporal Data in SQL Server
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: BI
+## Speaker: Dejan Sarka
+## Title: Temporal Data in SQL Server
+## Abstract:
+### Databases that serve business applications should often support temporal data. For example, suppose a contract with a supplier is valid for a limited time only. It can be valid from a specific point in time onward, or it can be valid for a specific time interval—from a starting time point to an ending time point. In addition, many times you need to audit all changes in one or more tables. You might also need to be able to show the state in a specific point in time, or all changes made to a table in a specific period of time. From the data integrity perspective, you might need to implement many additional temporal specific constraints.
+This session introduces the temporal problems, deals with solutions that go beyond SQL Server 2016 and 2017 support, and shows out-of-the-box solution in SQL Server 2016 and 2017, including:
+•	Defining temporal data
+•	Application versioned tables
+•	System versioned tables
+•	What kind of temporal support is still missing
+#  
+#### SessionID: 71302
+# PowerShell Simplified: dbatools   dbachecks
+#### [Back to calendar](#SQLSaturday-#704---Iceland-2018)
+Event Date: 10-03-2018 - Session time: 16:20:00 - Track: Dev
+## Speaker: Chrissy LeMaire
+## Title: PowerShell Simplified: dbatools   dbachecks
+## Abstract:
+### Join PowerShell MVPs Chrissy LeMaire and Rob Sewell as they discuss the newest releases of the SQL PowerShell community modules, dbatools and dbachecks. 
+
+In this session, you'll learn how these open source tools can simplify your life and even help you sleep better at night. Join us to learn how you can easily integrate PowerShell into your daily toolset, no matter if you are Dev or Ops.

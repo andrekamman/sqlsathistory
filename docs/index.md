@@ -1,3 +1,4 @@
+#### [Disclaimer](disclaimer.md)
 # SQL Saturday History Catalog
 Date (dd-MM-yyyy) | Name | Location 
 ---|---|---

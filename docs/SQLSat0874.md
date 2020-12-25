@@ -1,22 +1,214 @@
+#### [Back to Main list](index.md)
 # SQLSaturday #874 - Timisoara 2019
-Start Time|Speaker(s)|Track|Title
+Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-09:40:00|Liviu Ieran|Cloud Application Development  Deployment|[Azure Data Explorer - Fast and highly scalable interactive analytics](90418.md)
-09:40:00|ILIE Mugurel|Application  Database Development|[Handling JSONs in SQL Server 2016](91830.md)
-09:40:00|André Melancia|AIML Architecture, Development  Administration|[BI Powers - The A.I. Who Tagged Me](93021.md)
-10:40:00|Dennes Torres|AIML Architecture, Development  Administration|[PowerBI: From Zero to Hero](89928.md)
-10:40:00|Dragos Madarasan|Cloud Application Development  Deployment|[Running Microsoft SQL Server on Amazon Web Services](90515.md)
-10:40:00|Miroslav Popovic|Application  Database Development|[Visual Studio productivity](92334.md)
-11:20:00|Shehab El-Najjar|Application  Database Development|[T-SQL Performance Guidelines for the optimal DB stress powers](89939.md)
-11:50:00|Dejan Sarka|AIML Architecture, Development  Administration|[Data Overview and Manipulation – T-SQL, R, Python](90120.md)
-11:50:00|André Melancia|AIML Architecture, Development  Administration|[If a computer can understand, why can't YOU understand Azure Cognitive Services?](93006.md)
-11:50:00|Alexandra Ciortea|Cloud Application Development  Deployment|[SQL Managed Instance - From the ground to the cloud](93816.md)
-13:20:00|Erland Sommarskog|Application  Database Development|[When Things go Wrong - Error Handling in SQL Server](90476.md)
-13:20:00|Cristian Lefter|AIML Architecture, Development  Administration|[AI in Power BI](91769.md)
-13:20:00|Ivan Čuljak|Cloud Application Development  Deployment|[How to be polite with databases when going serverless](92922.md)
-14:30:00|Dejan Sarka|AIML Architecture, Development  Administration|[SQL Server Data Science: Python or R?](90119.md)
-14:30:00|Michal Sadowski|Application  Database Development|[Encryption in SQL Server](91433.md)
-14:30:00|Mihail Mateev|Cloud Application Development  Deployment|[Connecting IoT data with artificial intelligence at scale](93420.md)
-15:40:00|Alexandru Craciun|Application  Database Development|[SQL Server full optimization](92591.md)
-15:40:00|Deji Akomolafe|Cloud Application Development  Deployment|[Successfully Virtualizing SQL Server on vSphere - Straight from the Source](94292.md)
-15:40:00|Damir Bulic|Cloud Application Development  Deployment|[Lightning-fast management of cloud and legacy databases, breaking vendor lock-in](94878.md)
+09:40:00|Liviu Ieran|Cloud Application Development  Deployment|[Azure Data Explorer - Fast and highly scalable interactive analytics](#sessionid:-90418)
+09:40:00|ILIE Mugurel|Application  Database Development|[Handling JSONs in SQL Server 2016](#sessionid:-91830)
+09:40:00|André Melancia|AIML Architecture, Development  Administration|[BI Powers - The A.I. Who Tagged Me](#sessionid:-93021)
+10:40:00|Dennes Torres|AIML Architecture, Development  Administration|[PowerBI: From Zero to Hero](#sessionid:-89928)
+10:40:00|Dragos Madarasan|Cloud Application Development  Deployment|[Running Microsoft SQL Server on Amazon Web Services](#sessionid:-90515)
+10:40:00|Miroslav Popovic|Application  Database Development|[Visual Studio productivity](#sessionid:-92334)
+11:20:00|Shehab El-Najjar|Application  Database Development|[T-SQL Performance Guidelines for the optimal DB stress powers](#sessionid:-89939)
+11:50:00|Dejan Sarka|AIML Architecture, Development  Administration|[Data Overview and Manipulation – T-SQL, R, Python](#sessionid:-90120)
+11:50:00|André Melancia|AIML Architecture, Development  Administration|[If a computer can understand, why can't YOU understand Azure Cognitive Services?](#sessionid:-93006)
+11:50:00|Alexandra Ciortea|Cloud Application Development  Deployment|[SQL Managed Instance - From the ground to the cloud](#sessionid:-93816)
+13:20:00|Erland Sommarskog|Application  Database Development|[When Things go Wrong - Error Handling in SQL Server](#sessionid:-90476)
+13:20:00|Cristian Lefter|AIML Architecture, Development  Administration|[AI in Power BI](#sessionid:-91769)
+13:20:00|Ivan Čuljak|Cloud Application Development  Deployment|[How to be polite with databases when going serverless](#sessionid:-92922)
+14:30:00|Dejan Sarka|AIML Architecture, Development  Administration|[SQL Server Data Science: Python or R?](#sessionid:-90119)
+14:30:00|Michal Sadowski|Application  Database Development|[Encryption in SQL Server](#sessionid:-91433)
+14:30:00|Mihail Mateev|Cloud Application Development  Deployment|[Connecting IoT data with artificial intelligence at scale](#sessionid:-93420)
+15:40:00|Alexandru Craciun|Application  Database Development|[SQL Server full optimization](#sessionid:-92591)
+15:40:00|Deji Akomolafe|Cloud Application Development  Deployment|[Successfully Virtualizing SQL Server on vSphere - Straight from the Source](#sessionid:-94292)
+15:40:00|Damir Bulic|Cloud Application Development  Deployment|[Lightning-fast management of cloud and legacy databases, breaking vendor lock-in](#sessionid:-94878)
+#  
+#### SessionID: 90418
+# Azure Data Explorer - Fast and highly scalable interactive analytics
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
+## Speaker: Liviu Ieran
+## Title: Azure Data Explorer - Fast and highly scalable interactive analytics
+## Abstract:
+### Azure Data Explorer is one of the newest offerings from Microsoft which went GA on the 7th of February. 
+I am going to provide an overview of Azure Data Explorer, an interactive analytics service that will enable you to ask the questions on real time data. You can find answers in rapidly changing data generated by systems such as applications, websites, and IoT devices – anything really that generates volumes of streaming data that has potential to uncover a number of unknowns.
+#  
+#### SessionID: 91830
+# Handling JSONs in SQL Server 2016
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
+## Speaker: ILIE Mugurel
+## Title: Handling JSONs in SQL Server 2016
+## Abstract:
+### Consuming data from JSON is now much easier with the new built-in support introduced in SQL Server 2016!
+During this session will talk about JSON representation and will explore the new functions used for handling the content from a JSON file. Based on some examples we'll transform a JSON text to relational table and then will export some data from SQL Server as JSON.
+#  
+#### SessionID: 93021
+# BI Powers - The A.I. Who Tagged Me
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: AIML Architecture, Development  Administration
+## Speaker: André Melancia
+## Title: BI Powers - The A.I. Who Tagged Me
+## Abstract:
+### So everyone knows how to make some nice graphs in Power BI from Excel or SQL Server... But what about getting "intelligent" results from unusual data sources?
+Disclaimer: A.I. will eventually take over the world. Unlike Doctor Evil, it won't ask for a ransom.
+#  
+#### SessionID: 89928
+# PowerBI: From Zero to Hero
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: AIML Architecture, Development  Administration
+## Speaker: Dennes Torres
+## Title: PowerBI: From Zero to Hero
+## Abstract:
+### Starting from the very beginning, in this session we will cross together the main features Power BI has to offer, starting with the powerful self-service ETL using M language when needed,  modeling our tables and finally using powerful features to create a great data visualization, allowing you to better understand all the power and flexibility of this tool and how it will fit into your solution
+#  
+#### SessionID: 90515
+# Running Microsoft SQL Server on Amazon Web Services
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
+## Speaker: Dragos Madarasan
+## Title: Running Microsoft SQL Server on Amazon Web Services
+## Abstract:
+### Amazon Web Services (AWS) has multiple ways to host and support Microsoft SQL Server.  This session will review the Relational Database Service (RDS) offering of Microsoft SQL Server as well as using our virtual machine service (Elastic Compute Cloud, or EC2) to host SQL Server database services.  We will review options for security, availability, and reliability operations in both offerings and how to choose the optimal solution for your existing and new SQL Server workloads.
+#  
+#### SessionID: 92334
+# Visual Studio productivity
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
+## Speaker: Miroslav Popovic
+## Title: Visual Studio productivity
+## Abstract:
+### Visual Studio is an excellent tool, praised by many as the best IDE there is. One of the important things that Visual Studio provides is productivity. Besides a plethora of built-in features, even more functionality can be added through extensions. This presentation is a short overview of some integrated features as well as a look into some extensions that improve productivity.
+#  
+#### SessionID: 89939
+# T-SQL Performance Guidelines for the optimal DB stress powers
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
+## Speaker: Shehab El-Najjar
+## Title: T-SQL Performance Guidelines for the optimal DB stress powers
+## Abstract:
+### To reach your desired business functionalities, it can be easy using some common T-SQL practices like MTVF , scalar functions , Temp tables, Union…etc and they might perform pretty well on development server coz neither adequate stress of users nor adequate volume of data exist there but actually they seem totally strange once going to live where they become performing badly ending up eventually with and sharp skew of performance and standstill cases sometimes , this is due to the lack of stress powers of T-SQL codes which should be considered largely for critical mission DBs in particular more therefore I am going to talk to you about How to capture expensive queries using different techniques ..?and How to optimize them in the shortest time using scientific ways ..? (10 different T-SQL Practices will be explained within this session)
+#  
+#### SessionID: 90120
+# Data Overview and Manipulation – T-SQL, R, Python
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: AIML Architecture, Development  Administration
+## Speaker: Dejan Sarka
+## Title: Data Overview and Manipulation – T-SQL, R, Python
+## Abstract:
+### In a real data mining or machine learning project, you spend more than half of the time on data preparation and data understanding. The R language is extremely powerful in this area. The Python language is a match. Of course, you do work with data by using T-SQL. You will learn in this session how to get data understanding with really quickly prepared basic graphs and descriptive statistics analysis. You can do advanced data preparation with many data manipulation methods available out of the box and in additional packages from R and Python. After this session, you will understand what tasks data preparation involves, and what tools you have in SQL Server suite for these tasks.
+#  
+#### SessionID: 93006
+# If a computer can understand, why can't YOU understand Azure Cognitive Services?
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: AIML Architecture, Development  Administration
+## Speaker: André Melancia
+## Title: If a computer can understand, why can't YOU understand Azure Cognitive Services?
+## Abstract:
+### Cognitive services can recognise objects, faces, describe images, understand speech, perform advanced searches and so much more.
+If you are a developer and know nothing about Azure Cognitive Services for free, this is a good place to start.
+Disclaimer: Cognitive services will never guess a doctor's handwriting. That's just impossible.
+#  
+#### SessionID: 93816
+# SQL Managed Instance - From the ground to the cloud
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
+## Speaker: Alexandra Ciortea
+## Title: SQL Managed Instance - From the ground to the cloud
+## Abstract:
+### The session presents SQL MI features and different tiers. We will also focus on lift and shift SQL onprem databases and objects hosted outside the database context to SQL MI . This also covers common issues, solutions and workarounds from various migration projects.
+#  
+#### SessionID: 90476
+# When Things go Wrong - Error Handling in SQL Server
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
+## Speaker: Erland Sommarskog
+## Title: When Things go Wrong - Error Handling in SQL Server
+## Abstract:
+### In an ideal world, we would not need any error handling, because there would be no errors. But in the real world we need to have error handling in our stored procedures. Error handling in SQL Server is a most confusing topic, because there are such great inconsistencies. But that does not mean that we as database developers can hide our head in the sand.
+
+This presentation starts with a horror show of the many different actions SQL Server can take in case of an error. We will then learn how should deal with this - what we should do and what we should not and that with SET XACT_ABORT we get better consistency. We will learn how TRY-CATCH works in SQL Server, and we will get a recipe for how to write CATCH blocks. More generally, we will learn why it pays off to be simple-minded to survive in this maze. The session mainly looks at traditional T-SQL code, but the session ends with a quick look at natively compiled stored procedures, where everything is different.
+#  
+#### SessionID: 91769
+# AI in Power BI
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: AIML Architecture, Development  Administration
+## Speaker: Cristian Lefter
+## Title: AI in Power BI
+## Abstract:
+### AI and Power BI? Yes! 
+Azure Cognitive Service comes with a set of powerful, pretrained models for intelligent applications. At this point, four of them are exposed in Power BI: language detection, sentiment scoring, key phrase extraction, and image tagging. These models can be used on textual data or images.
+During the 60 minutes of the sessions we will find out together the answer to the questions WHAT, HOW and the most important one, WHY.
+Fun is guaranteed :)
+#  
+#### SessionID: 92922
+# How to be polite with databases when going serverless
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
+## Speaker: Ivan Čuljak
+## Title: How to be polite with databases when going serverless
+## Abstract:
+### Like it wasn't enough that just anyone could use an ORM and start molesting a database, nowadays just anyone can use serverless and communicate with a database... and use ORM...
+First of all, we're gonna focus on how to communicate with a database from your serverless system presuming that there aren't any parallel requests to the database. In that way, we'll first polish cold starts, memory/CPU consumption, and basically everything we need to worry about now when we're not running our code on servers with 10+ cores, and tens of GB of RAM.
+Once we're done with the first task, we'll end up with something that can quickly and effortlessly communicate with our database. Which is perfect, except in cases where we handle thousands or more of parallel requests to the database which isn't scalable as serverless is.
+That brings us to our second task- making sure our serverless system won't DDoS our databases :)
+Come and find out how to approach this problems ;)
+#  
+#### SessionID: 90119
+# SQL Server Data Science: Python or R?
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: AIML Architecture, Development  Administration
+## Speaker: Dejan Sarka
+## Title: SQL Server Data Science: Python or R?
+## Abstract:
+### SQL Server 2016 brought support or the R language. SQL Server 2017 added a new language to the list, the Python language. Both languages target advanced analytics scenarios, popularly known as data science. For a SQL Server professional who wants to move in the data science area, the first question is which language to choose. In this presentation, you will learn basics about both languages. We will try to solve the same problem with both languages. This way, through demos with a lot of explanation, you will realize the most important differences between the two competing languages. You will understand which one is more appropriate for you to start with.
+#  
+#### SessionID: 91433
+# Encryption in SQL Server
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
+## Speaker: Michal Sadowski
+## Title: Encryption in SQL Server
+## Abstract:
+### An application that you administer stores sensitive data in the database and you would like to keep them safe in Microsoft SQL Server - how to approach this issue? What type of encryption should you use in your environment? On the session I will walk through available options in Microsoft SQL Server and show when to use encryption, how to identify threats, and countermeasure them by using options like Transparent Data Encryption, SSL certificates, Always Encrypted, etc. After this session, you will know a set of best practices that you can apply in your environment.
+#  
+#### SessionID: 93420
+# Connecting IoT data with artificial intelligence at scale
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
+## Speaker: Mihail Mateev
+## Title: Connecting IoT data with artificial intelligence at scale
+## Abstract:
+### This talk is about intersection of IoT and artificial intelligence.
+IoT solutions to generate more data than traditional systems and users can analyse.
+Nowadays, AI enabled software solutions that optimize equipment and process performance for large industrial customers. These solutions use large volumes of real-time, batch data from equipment and processes in real time, and apply AI/ML algorithms to predict failures and anomalies as well as optimize performance.
+The concept is explained in the context of Azure IoT and Azure AI platforms.
+#  
+#### SessionID: 92591
+# SQL Server full optimization
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Application  Database Development
+## Speaker: Alexandru Craciun
+## Title: SQL Server full optimization
+## Abstract:
+### Automation and optimization for all related components to SQL Server: storage, memory, cpu, sql low level design, query plan etc
+#  
+#### SessionID: 94292
+# Successfully Virtualizing SQL Server on vSphere - Straight from the Source
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
+## Speaker: Deji Akomolafe
+## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
+## Abstract:
+### Over the years, virtualization has matured from the exotic black magic realm to become a mainstream standard IT practice. quot;Virtualize Firstquot; is now a well-accepted default practice in most enterprises and any deviation is now considered an anomaly. In spite of this trend, many IT administrators and architects still have some reservations about virtualizing SQL Server workloads. They consider SQL too quot;criticalquot; to be virtualized; they wonder and worry about scale about performance; they are looking for guidance and reassurance. If this is where you (or your clients) are today, be sure to attend this session. You will gain valuable insights from what others have done to successfully undertake similar tasks in their environments. We will talk about configuration pitfalls to avoid and also review the configuration and current performance data for some of the most demanding applications in customers environments. Got an SQL virtualization or performance question? Bring i
+#  
+#### SessionID: 94878
+# Lightning-fast management of cloud and legacy databases, breaking vendor lock-in
+#### [Back to calendar](#SQLSaturday-#874---Timisoara-2019)
+Event Date: 08-06-2019 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
+## Speaker: Damir Bulic
+## Title: Lightning-fast management of cloud and legacy databases, breaking vendor lock-in
+## Abstract:
+### With the infrastructure increasingly moving to the cloud, developers are stuck with legacy tools, suboptimal for the new workflows. Current reality is slow and unreliable web applications bundled using Electron - or native applications that look like they are made 20 years ago.
+We have started from scratch, imagining the ideal database manager for modern times. UI responds to your actions in less than 0.1 seconds and your data stays in the cloud. Connection switching is instant and the workspace is preserved between devices and application restarts.
+A sneak peek - state of the art SQL code translation solution - removing vendor lock-in.
+This is a work-in-progress report, detailing why it's so hard to get right and why does it take so long to make something seemingly simple - not a sales talk, not a self-congratulatory talk.

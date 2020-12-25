@@ -1,15 +1,130 @@
+#### [Back to Main list](index.md)
 # SQLSaturday #915 - Bucuresti 2019
-Start Time|Speaker(s)|Track|Title
+Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
-10:00:00|Dragos Madarasan|Cloud Application Development  Deployment|[Running Microsoft SQL Server on Amazon Web Services](96869.md)
-10:00:00|Cristian Lefter|Strategy and Architecture|[Dataism](98967.md)
-11:00:00|Liviu Ieran|Cloud Application Development  Deployment|[Azure Data Explorer - Fast and highly scalable interactive analytics](95167.md)
-11:00:00|Alexandra Ciortea|Enterprise Database Administration  Deployment|[SQL Managed Instance - From the ground to the cloud](96886.md)
-12:00:00|Catalin Gheorghiu|BI Platform Architecture, Development  Administration|[ML on the Edge](96741.md)
-12:00:00|Rudi Bruchez|Application  Database Development|[What I have seen so far in my performance tuning audits](96752.md)
-14:00:00|Shehab El-Najjar|Application  Database Development|[T-SQL Performance Guidelines for the optimal DB stress powers](94550.md)
-14:00:00|Sorin Peste|Application  Database Development|[Big Data Clusters: SQL Server 2019 Meets Big Data](96748.md)
-15:00:00|Gabriel Petrescu|Professional Development|[SQL Server 2019 on Linux - What's new?](96773.md)
-15:00:00|André Melancia|Analytics and Visualization|[BI Powers - The A.I. Who Tagged Me](96816.md)
-16:00:00|Andrey Nikolov|Application  Database Development|[Embedding Power BI in your application](94561.md)
-16:00:00|ILIE Mugurel|Application  Database Development|[Handling JSONs in SQL Server](95109.md)
+10:00:00|Dragos Madarasan|Cloud Application Development  Deployment|[Running Microsoft SQL Server on Amazon Web Services](#sessionid:-96869)
+10:00:00|Cristian Lefter|Strategy and Architecture|[Dataism](#sessionid:-98967)
+11:00:00|Liviu Ieran|Cloud Application Development  Deployment|[Azure Data Explorer - Fast and highly scalable interactive analytics](#sessionid:-95167)
+11:00:00|Alexandra Ciortea|Enterprise Database Administration  Deployment|[SQL Managed Instance - From the ground to the cloud](#sessionid:-96886)
+12:00:00|Catalin Gheorghiu|BI Platform Architecture, Development  Administration|[ML on the Edge](#sessionid:-96741)
+12:00:00|Rudi Bruchez|Application  Database Development|[What I have seen so far in my performance tuning audits](#sessionid:-96752)
+14:00:00|Shehab El-Najjar|Application  Database Development|[T-SQL Performance Guidelines for the optimal DB stress powers](#sessionid:-94550)
+14:00:00|Sorin Peste|Application  Database Development|[Big Data Clusters: SQL Server 2019 Meets Big Data](#sessionid:-96748)
+15:00:00|Gabriel Petrescu|Professional Development|[SQL Server 2019 on Linux - What's new?](#sessionid:-96773)
+15:00:00|André Melancia|Analytics and Visualization|[BI Powers - The A.I. Who Tagged Me](#sessionid:-96816)
+16:00:00|Andrey Nikolov|Application  Database Development|[Embedding Power BI in your application](#sessionid:-94561)
+16:00:00|ILIE Mugurel|Application  Database Development|[Handling JSONs in SQL Server](#sessionid:-95109)
+#  
+#### SessionID: 96869
+# Running Microsoft SQL Server on Amazon Web Services
+#### [Back to calendar](#SQLSaturday-#915---Bucuresti-2019)
+Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+## Speaker: Dragos Madarasan
+## Title: Running Microsoft SQL Server on Amazon Web Services
+## Abstract:
+### Amazon Web Services (AWS) has multiple ways to host and support Microsoft SQL Server.  This session will review the Relational Database Service (RDS) offering of Microsoft SQL Server as well as using our virtual machine service (Elastic Compute Cloud, or EC2) to host SQL Server database services.  We will review options for security, availability, and reliability operations in both offerings and how to choose the optimal solution for your existing and new SQL Server workloads.
+#  
+#### SessionID: 98967
+# Dataism
+#### [Back to calendar](#SQLSaturday-#915---Bucuresti-2019)
+Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
+## Speaker: Cristian Lefter
+## Title: Dataism
+## Abstract:
+### The story of Dataism begins with David Brooks that used in the New York Times in 2013. Dataism is a term that has been used to describe the mindset or philosophy created by the emerging significance of Big Data. More recently, the term has been expanded to describe what social scientist Yuval Noah Harari has called an emerging ideology or even a new form of religion, in which 'information flow' is the 'supreme value'.
+What is the impact of Dataism in our life? Let's discover that together!
+#  
+#### SessionID: 95167
+# Azure Data Explorer - Fast and highly scalable interactive analytics
+#### [Back to calendar](#SQLSaturday-#915---Bucuresti-2019)
+Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+## Speaker: Liviu Ieran
+## Title: Azure Data Explorer - Fast and highly scalable interactive analytics
+## Abstract:
+### Azure Data Explorer is one of the newest offerings from Microsoft which went GA on the 7th of February. 
+I am going to provide an overview of Azure Data Explorer, an interactive analytics service that will enable you to ask the questions on real time data. You can find answers in rapidly changing data generated by systems such as applications, websites, and IoT devices – anything really that generates volumes of streaming data that has potential to uncover a number of unknowns.
+#  
+#### SessionID: 96886
+# SQL Managed Instance - From the ground to the cloud
+#### [Back to calendar](#SQLSaturday-#915---Bucuresti-2019)
+Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+## Speaker: Alexandra Ciortea
+## Title: SQL Managed Instance - From the ground to the cloud
+## Abstract:
+### The session focuses on migrating SQL onprem databases and objects hosted outside the database context to SQL MI . We will take a look at the migration life cycle and modernization best practices.  We’ll share stories and learnings from the field including our most common scenarios in the context of SQL 2008 end of support.
+#  
+#### SessionID: 96741
+# ML on the Edge
+#### [Back to calendar](#SQLSaturday-#915---Bucuresti-2019)
+Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+## Speaker: Catalin Gheorghiu
+## Title: ML on the Edge
+## Abstract:
+### Or options in running TensorFlow on Pi or similar class devices. My idea was (a bit born from need), to run TensorFlow on Pi class device. And this presentation is born from my adventures, showing pro and cons of each approach. From running directly on Pi to Azure IoT Edge on to Intel Neural Stick, and the list most probably is in “works” you will see the challenges and results of implementing TensorFlow using these technologies. Remark: Kinder chocolates have nothing to do with ML but will be present.
+#  
+#### SessionID: 96752
+# What I have seen so far in my performance tuning audits
+#### [Back to calendar](#SQLSaturday-#915---Bucuresti-2019)
+Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
+## Speaker: Rudi Bruchez
+## Title: What I have seen so far in my performance tuning audits
+## Abstract:
+### In the last ten years, I have audited many SQL Server databases, for performance tuning. And I have encountered the same problems again and again. Let's call them SQL Server antipatterns. This session is designed to show you what those antipatterns are, and how to avoid them once and for all.
+#  
+#### SessionID: 94550
+# T-SQL Performance Guidelines for the optimal DB stress powers
+#### [Back to calendar](#SQLSaturday-#915---Bucuresti-2019)
+Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
+## Speaker: Shehab El-Najjar
+## Title: T-SQL Performance Guidelines for the optimal DB stress powers
+## Abstract:
+### To reach your desired business functionalities, it can be easy using some common T-SQL practices like MTVF , scalar functions , Temp tables, Union…etc and they might perform pretty well on development server coz neither adequate stress of users nor adequate volume of data exist there but actually they seem totally strange once going to live where they become performing badly ending up eventually with and sharp skew of performance and standstill cases sometimes , this is due to the lack of stress powers of T-SQL codes which should be considered largely for critical mission DBs in particular more therefore I am going to talk to you about How to capture expensive queries using different techniques ..?and How to optimize them in the shortest time using scientific ways ..? (10 different T-SQL Practices will be explained within this session)
+#  
+#### SessionID: 96748
+# Big Data Clusters: SQL Server 2019 Meets Big Data
+#### [Back to calendar](#SQLSaturday-#915---Bucuresti-2019)
+Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
+## Speaker: Sorin Peste
+## Title: Big Data Clusters: SQL Server 2019 Meets Big Data
+## Abstract:
+### With the new Big Data Clusters feature in SQL Server 2019, you can store and reason over mountains of data, structured and unstructured, using both Transact-SQL and Apache Spark, a proven Open Source big data processing engine. You can dynamically scale-out your compute power by adding nodes, independently from the distributed storage (HDFS), to support your analytic workloads. You can also bring the power of Spark's Machine Learning library to build predictive models and operationalize them right inside SQL Server. And everything is running in containers and being orchestrated by Kubernetes. Come to this session to see what the Big Data future looks like for SQL Server.
+#  
+#### SessionID: 96773
+# SQL Server 2019 on Linux - What's new?
+#### [Back to calendar](#SQLSaturday-#915---Bucuresti-2019)
+Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
+## Speaker: Gabriel Petrescu
+## Title: SQL Server 2019 on Linux - What's new?
+## Abstract:
+### OS supported by SQL Server 2019
+Presenting SQL Server on Linux 2019 and it is new features, things to have in mind when installing, running.
+Advanced security features, Big data clusters, Data virtualization - the opening to open source source databases
+#  
+#### SessionID: 96816
+# BI Powers - The A.I. Who Tagged Me
+#### [Back to calendar](#SQLSaturday-#915---Bucuresti-2019)
+Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
+## Speaker: André Melancia
+## Title: BI Powers - The A.I. Who Tagged Me
+## Abstract:
+### So everyone knows how to make some nice graphs in Power BI from Excel or SQL Server... But what about getting "intelligent" results from unusual data sources?
+Disclaimer: A.I. will eventually take over the world. Unlike Doctor Evil, it won't ask for a ransom.
+#  
+#### SessionID: 94561
+# Embedding Power BI in your application
+#### [Back to calendar](#SQLSaturday-#915---Bucuresti-2019)
+Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
+## Speaker: Andrey Nikolov
+## Title: Embedding Power BI in your application
+## Abstract:
+### Power BI is great tool and reports we made are always beautiful and catchy, right? But sometimes forcing users to open their browser to go to Power BI Service web site isn't so nice. In this session we will explore the various ways to embed Power BI reports, dashboards and tiles. We will learn what is needed to do this, what it will costs us (can we do it for free?) and what architecture decisions must be taken to build an embedded solution.
+#  
+#### SessionID: 95109
+# Handling JSONs in SQL Server
+#### [Back to calendar](#SQLSaturday-#915---Bucuresti-2019)
+Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
+## Speaker: ILIE Mugurel
+## Title: Handling JSONs in SQL Server
+## Abstract:
+### Consuming data from JSON is now much easier with the new built-in support introduced in SQL Server 2016.
+During this session will talk about JSON representation and will explore the new functions used for handling the content from a JSON file. Based on some examples we'll transform a JSON text to relational table and then will export some data from SQL Server as JSON.
