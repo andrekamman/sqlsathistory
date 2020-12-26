@@ -2,7 +2,7 @@
 
 I'm writing this on December 26th, 2020. The source of the data on this site is a readable representation of the publicly available so-called "Guidebook" downloads in Markdown format of the SQLSaturday.com website. Right now, they are still online, but the PASS organisation is currently "pursuing dissolution" as their email to their members stated. And apparently on January 15th 2021, the SQLSaturday.com website will no longer function. 
 
-Since the information about the schedules of the various SQL Saturdays is useful to me and I think also to others I created this and I'm sharing it publicly. I'm also sharing the Guidebook XML files, thank you Rob Sewell ([t](https://twitter.com/sqldbawithbeard)|[w](https://blog.robsewell.com/)) for using your awesome Powershell skills for good and grabbing those xml's from the site! 
+Since the information about the schedules of the various SQL Saturdays is useful to me and I think also to others I created this and I'm sharing it publicly. I'm also sharing the Guidebook XML files, thank you Rob Sewell ([t](https://twitter.com/sqldbawithbeard)|[b](https://blog.robsewell.com/)) for using your awesome Powershell skills for good and grabbing those xml's from the site! 
 
 The site itself can be found at https://sqlsathistory.com (Which is probably how you got here) and the source data is on [Github](https://github.com/andrekamman/sqlsathistory)
 
