@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 67566
 # €20M+ fines and prison: General Data Protection Regulation (GDPR)
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV
+Event Date: 09-12-2017 - Session time: 09:00:00 - Track: DEV
 ## Speaker: Alex Yates
 ## Title: €20M+ fines and prison: General Data Protection Regulation (GDPR)
 ## Abstract:
@@ -58,7 +58,7 @@ I will focus on technical problems that we need to address. You can (and should)
 #### SessionID: 67830
 # Datawarehouse Lightning Performance with Columnstore!
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI/DEV
+Event Date: 09-12-2017 - Session time: 09:00:00 - Track: BI/DEV
 ## Speaker: Stijn Wynants
 ## Title: Datawarehouse Lightning Performance with Columnstore!
 ## Abstract:
@@ -69,7 +69,7 @@ After this session things like segment elimination, auto adjust buffer size, Del
 #### SessionID: 68283
 # Data Modeling and Design for New Features in SQL Server and Cosmos DB
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV/DBA
+Event Date: 09-12-2017 - Session time: 09:00:00 - Track: DEV/DBA
 ## Speaker: Karen Lopez
 ## Title: Data Modeling and Design for New Features in SQL Server and Cosmos DB
 ## Abstract:
@@ -81,7 +81,7 @@ Why these features still need data modelsHow to prepare data models, logical and
 #### SessionID: 68700
 # SQL Server Installation 101
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
+Event Date: 09-12-2017 - Session time: 09:00:00 - Track: DBA
 ## Speaker: Janos Berke
 ## Title: SQL Server Installation 101
 ## Abstract:
@@ -95,7 +95,7 @@ This session would be great for accidental as well as experienced DBA's to learn
 #### SessionID: 69700
 # Power Query - The Best thing that ever happened in Excel
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI
+Event Date: 09-12-2017 - Session time: 09:00:00 - Track: BI
 ## Speaker: Gašper Kamenšek
 ## Title: Power Query - The Best thing that ever happened in Excel
 ## Abstract:
@@ -104,7 +104,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI
 #### SessionID: 67544
 # Advanced insides into System Versioned Temporal Tables
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV
+Event Date: 09-12-2017 - Session time: 10:15:00 - Track: DEV
 ## Speaker: Uwe Ricken
 ## Title: Advanced insides into System Versioned Temporal Tables
 ## Abstract:
@@ -124,7 +124,7 @@ You are interested in the answers to all the above questions (and more). This se
 #### SessionID: 67603
 # Azure Data Factory vs SSIS, the Ins and Outs.
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI/DEV
+Event Date: 09-12-2017 - Session time: 10:15:00 - Track: BI/DEV
 ## Speaker: Regis Baccaro
 ## Title: Azure Data Factory vs SSIS, the Ins and Outs.
 ## Abstract:
@@ -134,7 +134,7 @@ These are some of the questions that might arise, when reading about this new Pa
 #### SessionID: 67885
 # The All Flash DBA
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
+Event Date: 09-12-2017 - Session time: 10:15:00 - Track: DBA
 ## Speaker: Christopher Adkin
 ## Title: The All Flash DBA
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 68235
 # Hidden gems of SQL Server 2016
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV/DBA
+Event Date: 09-12-2017 - Session time: 10:15:00 - Track: DEV/DBA
 ## Speaker: Denis Reznik
 ## Title: Hidden gems of SQL Server 2016
 ## Abstract:
@@ -154,7 +154,7 @@ In this session, we will learn a lot about these features and improvements. Whic
 #### SessionID: 68860
 # On-premises Power BI with Power BI premium and/or Power BI Report Server
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI
+Event Date: 09-12-2017 - Session time: 10:15:00 - Track: BI
 ## Speaker: Prathy Kamasani
 ## Title: On-premises Power BI with Power BI premium and/or Power BI Report Server
 ## Abstract:
@@ -165,7 +165,7 @@ In this session, Prathy will talk about what options are available for On-Premis
 #### SessionID: 67608
 # A Game of Hierarchies: Introduction to Graph Processing with SQL
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV
+Event Date: 09-12-2017 - Session time: 11:30:00 - Track: DEV
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: A Game of Hierarchies: Introduction to Graph Processing with SQL
 ## Abstract:
@@ -180,7 +180,7 @@ Join this session for a journey through best practices to transform your hierarc
 #### SessionID: 67650
 # Scale-Out your SSIS Package Executions
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI/DEV
+Event Date: 09-12-2017 - Session time: 11:30:00 - Track: BI/DEV
 ## Speaker: Wolfgang Strasser
 ## Title: Scale-Out your SSIS Package Executions
 ## Abstract:
@@ -190,7 +190,7 @@ After the definition of scalability-types, the SSIS scale-out architecture and t
 #### SessionID: 68215
 # Introducing dbatools 1.0
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV/DBA
+Event Date: 09-12-2017 - Session time: 11:30:00 - Track: DEV/DBA
 ## Speaker: Chrissy LeMaire
 ## Title: Introducing dbatools 1.0
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV/DBA
 #### SessionID: 68845
 # Security Enhancements in SQL Server 2016
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
+Event Date: 09-12-2017 - Session time: 11:30:00 - Track: DBA
 ## Speaker: LEONEL ABREU
 ## Title: Security Enhancements in SQL Server 2016
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 70860
 # Dimensional Modeling Design Patterns: Beyond the Basics
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI
+Event Date: 09-12-2017 - Session time: 11:30:00 - Track: BI
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond the Basics
 ## Abstract:
@@ -219,7 +219,7 @@ In this session, we will dive deeper into the art of dimensional modeling. We wi
 #### SessionID: 67795
 # State-of-the-Art Machine Learning Algorithms in R from Microsoft
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI
+Event Date: 09-12-2017 - Session time: 13:30:00 - Track: BI
 ## Speaker: Marcin Szeliga
 ## Title: State-of-the-Art Machine Learning Algorithms in R from Microsoft
 ## Abstract:
@@ -232,7 +232,7 @@ In the second part we will use almost the same ML algorithms for classification 
 #### SessionID: 68025
 # Understand better Transaction Isolation Levels
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV/DBA
+Event Date: 09-12-2017 - Session time: 13:30:00 - Track: DEV/DBA
 ## Speaker: Kamil Nowinski
 ## Title: Understand better Transaction Isolation Levels
 ## Abstract:
@@ -242,7 +242,7 @@ Let's back to the basis then in order to better understand transaction isolation
 #### SessionID: 68115
 # Tools and Tips for Data Warehouse Developers
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI/DEV
+Event Date: 09-12-2017 - Session time: 13:30:00 - Track: BI/DEV
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Tools and Tips for Data Warehouse Developers
 ## Abstract:
@@ -253,7 +253,7 @@ In this session, I will show you some of what I have learned and discovered that
 #### SessionID: 69561
 # Tricky ways to optimize your T-SQL queries
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV
+Event Date: 09-12-2017 - Session time: 13:30:00 - Track: DEV
 ## Speaker: Sergey Olontsev
 ## Title: Tricky ways to optimize your T-SQL queries
 ## Abstract:
@@ -262,7 +262,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV
 #### SessionID: 70597
 # Self-Healing Query Execution in SQL 2017
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
+Event Date: 09-12-2017 - Session time: 13:30:00 - Track: DBA
 ## Speaker: Christina Leo
 ## Title: Self-Healing Query Execution in SQL 2017
 ## Abstract:
@@ -271,7 +271,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 67626
 # Building an End to End IoT Solution Using Raspberry Pi Sensors  Azure
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI/DEV
+Event Date: 09-12-2017 - Session time: 14:45:00 - Track: BI/DEV
 ## Speaker: Paul Andrew
 ## Title: Building an End to End IoT Solution Using Raspberry Pi Sensors  Azure
 ## Abstract:
@@ -280,7 +280,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI/DEV
 #### SessionID: 68720
 # A Masters view on Locking and blocking
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV/DBA
+Event Date: 09-12-2017 - Session time: 14:45:00 - Track: DEV/DBA
 ## Speaker: Mikael Wedham
 ## Title: A Masters view on Locking and blocking
 ## Abstract:
@@ -292,7 +292,7 @@ And finally a real-world quick list of suggestions on what you can do to solve s
 #### SessionID: 69075
 # Migrating your local database to Azure SQL DB
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
+Event Date: 09-12-2017 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Marcos Freccia
 ## Title: Migrating your local database to Azure SQL DB
 ## Abstract:
@@ -301,7 +301,7 @@ Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 69235
 # Scoped assignments – Threat or salvation? Some real life experiences…
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: BI
+Event Date: 09-12-2017 - Session time: 14:45:00 - Track: BI
 ## Speaker: Gabi Münster
 ## Title: Scoped assignments – Threat or salvation? Some real life experiences…
 ## Abstract:
@@ -311,7 +311,7 @@ Sometimes your projects get that complex. You will need to choose between many o
 #### SessionID: 69666
 # Dynamic Search Conditions
 #### [Back to calendar](#nr-687)
-Event Date: 09-12-2017 - Session time: 16:00:00 - Track: DEV
+Event Date: 09-12-2017 - Session time: 14:45:00 - Track: DEV
 ## Speaker: Erland Sommarskog
 ## Title: Dynamic Search Conditions
 ## Abstract:

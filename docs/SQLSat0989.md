@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 104167
 # I'm not sorry, Dave... ML.Net can do that!
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techniques
+Event Date: 10-10-2020 - Session time: 10:10:00 - Track: Advanced Analysis Techniques
 ## Speaker: André Melancia
 ## Title: I'm not sorry, Dave... ML.Net can do that!
 ## Abstract:
@@ -44,7 +44,7 @@ Disclaimer: No monoliths were harmed in the making of this session.
 #### SessionID: 105564
 # Real-World Query Tuning Examples
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-10-2020 - Session time: 10:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amit R S Bansal
 ## Title: Real-World Query Tuning Examples
 ## Abstract:
@@ -53,7 +53,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Enterprise Database Adm
 #### SessionID: 105611
 # Understanding SQL Server Views - The Right Way
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 10-10-2020 - Session time: 10:10:00 - Track: Application  Database Development
 ## Speaker: Ramesh Satya
 ## Title: Understanding SQL Server Views - The Right Way
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Application  Database D
 #### SessionID: 107258
 # Double Power - Managing Power BI with PowerShell
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-10-2020 - Session time: 10:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andrey Nikolov
 ## Title: Double Power - Managing Power BI with PowerShell
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: BI Platform Architectur
 #### SessionID: 108204
 # What’s in the Cloud for my Datawarehouse
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Strategy and Architecture
+Event Date: 10-10-2020 - Session time: 10:10:00 - Track: Strategy and Architecture
 ## Speaker: Margarita Naumova
 ## Title: What’s in the Cloud for my Datawarehouse
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Strategy and Architectu
 #### SessionID: 102997
 # Notebooks and other wonders in Azure Data Studio
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 10-10-2020 - Session time: 11:20:00 - Track: Application  Database Development
 ## Speaker: Dennes Torres
 ## Title: Notebooks and other wonders in Azure Data Studio
 ## Abstract:
@@ -92,7 +92,7 @@ Let's dig these features in details and see what they can provide to us
 #### SessionID: 103009
 # Azure SQL Database EDGE, put your SQL wherever you want!
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Cloud Application Development  Deployment
+Event Date: 10-10-2020 - Session time: 11:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Marco Dal Pino
 ## Title: Azure SQL Database EDGE, put your SQL wherever you want!
 ## Abstract:
@@ -103,7 +103,7 @@ Expand device architecture coverage to include ARM-based devices on top of x64-b
 #### SessionID: 107081
 # Don't Bite Off More Than You Can Chew - Take It in Chunks
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 10-10-2020 - Session time: 11:20:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Don't Bite Off More Than You Can Chew - Take It in Chunks
 ## Abstract:
@@ -116,7 +116,7 @@ I will also look at how you can use chunking for error handling: You want proces
 #### SessionID: 107273
 # Azure Data Factory - how to implement incremental loads for PARQUET
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Cloud Application Development  Deployment
+Event Date: 10-10-2020 - Session time: 11:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ivan Donev
 ## Title: Azure Data Factory - how to implement incremental loads for PARQUET
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Cloud Application Devel
 #### SessionID: 108519
 # Working with parameters in Power Query
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techniques
+Event Date: 10-10-2020 - Session time: 11:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Boriana Petrova
 ## Title: Working with parameters in Power Query
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techn
 #### SessionID: 105093
 # Performance Tuning with Optimistic Concurrency
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 10-10-2020 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Torsten Strauss
 ## Title: Performance Tuning with Optimistic Concurrency
 ## Abstract:
@@ -145,7 +145,7 @@ In this session (level 300), you will learn how to increase the reading performa
 #### SessionID: 107539
 # The NextGen in Time Series Landscape
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Analytics and Visualization
+Event Date: 10-10-2020 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Ivelin Andreev
 ## Title: The NextGen in Time Series Landscape
 ## Abstract:
@@ -156,7 +156,7 @@ Already Top 1 by popularity, InfluxDB introduces v.2.0 as a revolutionary change
 #### SessionID: 108205
 # A database that takes it all
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-10-2020 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Margarita Naumova
 ## Title: A database that takes it all
 ## Abstract:
@@ -165,7 +165,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Enterprise Database Adm
 #### SessionID: 108520
 # Monitoring SSAS processing performance in Power BI
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techniques
+Event Date: 10-10-2020 - Session time: 13:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Georgi Petkov
 ## Title: Monitoring SSAS processing performance in Power BI
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techn
 #### SessionID: 108563
 # Designing GDPR compliant Identity management
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techniques
+Event Date: 10-10-2020 - Session time: 13:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dimo Roussinov
 ## Title: Designing GDPR compliant Identity management
 ## Abstract:
@@ -183,7 +183,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techn
 #### SessionID: 103057
 # Machine Learning - Best Practices and Vulnerabilities
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 10-10-2020 - Session time: 14:10:00 - Track: Application  Database Development
 ## Speaker: Sebastiano Galazzo
 ## Title: Machine Learning - Best Practices and Vulnerabilities
 ## Abstract:
@@ -195,7 +195,7 @@ The second part will cover vulnerabilities of ML discovering how easy could be t
 #### SessionID: 107439
 # From Gen1 To Gen2. Recipes for a successful Data Lake migration
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Strategy and Architecture
+Event Date: 10-10-2020 - Session time: 14:10:00 - Track: Strategy and Architecture
 ## Speaker: Regis Baccaro
 ## Title: From Gen1 To Gen2. Recipes for a successful Data Lake migration
 ## Abstract:
@@ -213,7 +213,7 @@ Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Strategy and Architectu
 #### SessionID: 107671
 # From XL to S - Reduce your Power BI model size by 90%!
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Analytics and Visualization
+Event Date: 10-10-2020 - Session time: 14:10:00 - Track: Analytics and Visualization
 ## Speaker: Nikola Ilic
 ## Title: From XL to S - Reduce your Power BI model size by 90%!
 ## Abstract:
@@ -226,7 +226,7 @@ Finally, you will see a real use-case demo showing how the Power BI data model w
 #### SessionID: 108408
 # End to end, migrating a database to Azure
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-10-2020 - Session time: 14:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kaloyan Kosev
 ## Title: End to end, migrating a database to Azure
 ## Abstract:
@@ -236,7 +236,7 @@ What tools should we use? How do we choose the best approach? How do we analyse 
 #### SessionID: 108621
 # Q  A with partners
 #### [Back to calendar](#nr-989)
-Event Date: 10-10-2020 - Session time: 15:20:00 - Track: Advanced Analysis Techniques
+Event Date: 10-10-2020 - Session time: 14:10:00 - Track: Advanced Analysis Techniques
 ## Speaker: Mihail Mateev
 ## Title: Q  A with partners
 ## Abstract:

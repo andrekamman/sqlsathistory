@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 87579
 # Branding Yourself for a Dream Job
 #### [Back to calendar](#nr-838)
-Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 01-06-2019 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
 ## Abstract:
@@ -34,7 +34,7 @@ Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 89258
 # Smart Alerts in SQL DB using Automation and Logic Apps
 #### [Back to calendar](#nr-838)
-Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-06-2019 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Martin Cairney
 ## Title: Smart Alerts in SQL DB using Automation and Logic Apps
 ## Abstract:
@@ -51,7 +51,7 @@ Imagine capturing an Alert, performing remedial action, logging the issue  respo
 #### SessionID: 91561
 # Your Modern Data Warehouse Journey with Azure
 #### [Back to calendar](#nr-838)
-Event Date: 01-06-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-06-2019 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Alzamendi
 ## Title: Your Modern Data Warehouse Journey with Azure
 ## Abstract:
@@ -64,7 +64,7 @@ I am also going to show you how easy it is to start developing and delivering wi
 #### SessionID: 90686
 # Technologies to Watch: A Gaze into Greg's Crystal Ball
 #### [Back to calendar](#nr-838)
-Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 01-06-2019 - Session time: 10:20:00 - Track: Professional Development
 ## Speaker: Greg Low
 ## Title: Technologies to Watch: A Gaze into Greg's Crystal Ball
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 90842
 # Power BI Infographic related on the Power BI Eco System
 #### [Back to calendar](#nr-838)
-Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 01-06-2019 - Session time: 10:20:00 - Track: Analytics and Visualization
 ## Speaker: Gilbert Quevauvilliers
 ## Title: Power BI Infographic related on the Power BI Eco System
 ## Abstract:
@@ -92,7 +92,7 @@ The most popular blog posts are ones where it is easier concepts and details on 
 #### SessionID: 92708
 # Looking at the Cosmos(DB)
 #### [Back to calendar](#nr-838)
-Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 01-06-2019 - Session time: 10:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Martin Catherall
 ## Title: Looking at the Cosmos(DB)
 ## Abstract:
@@ -103,7 +103,7 @@ In this session we’ll take a look at this technology and learn how it might be
 #### SessionID: 89628
 # Bridging the gap between SSRS and Power BI
 #### [Back to calendar](#nr-838)
-Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 01-06-2019 - Session time: 11:30:00 - Track: Strategy and Architecture
 ## Speaker: Manohar Punna
 ## Title: Bridging the gap between SSRS and Power BI
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 90859
 # Performance Baselining and Alerting
 #### [Back to calendar](#nr-838)
-Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-06-2019 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Kline
 ## Title: Performance Baselining and Alerting
 ## Abstract:
@@ -123,7 +123,7 @@ This session describes techniques and procedures to monitor important performanc
 #### SessionID: 92423
 # Understanding Big Data Clusters
 #### [Back to calendar](#nr-838)
-Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-06-2019 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Victor Isakov
 ## Title: Understanding Big Data Clusters
 ## Abstract:
@@ -133,7 +133,7 @@ In this session we will explore the technology and business/use cases for using 
 #### SessionID: 88039
 # Revenge: The SQL!
 #### [Back to calendar](#nr-838)
-Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-06-2019 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
 ## Abstract:
@@ -145,7 +145,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #### SessionID: 88181
 # (Humble) Azure Cloud Shell CLI : Demo
 #### [Back to calendar](#nr-838)
-Event Date: 01-06-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-06-2019 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vikas Rajput
 ## Title: (Humble) Azure Cloud Shell CLI : Demo
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 01-06-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 91337
 # Introduction to SQL Server Managed Instances
 #### [Back to calendar](#nr-838)
-Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-06-2019 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: Introduction to SQL Server Managed Instances
 ## Abstract:
@@ -176,7 +176,7 @@ We will also discuss some of the future directions, in particular the new Hypers
 #### SessionID: 87580
 # Always Encrypted in SQL Server
 #### [Back to calendar](#nr-838)
-Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 01-06-2019 - Session time: 14:50:00 - Track: Application  Database Development
 ## Speaker: Steve Jones
 ## Title: Always Encrypted in SQL Server
 ## Abstract:
@@ -185,7 +185,7 @@ Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 90854
 # 5 Critical Considerations When Moving to the Cloud
 #### [Back to calendar](#nr-838)
-Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 01-06-2019 - Session time: 14:50:00 - Track: Application  Database Development
 ## Speaker: Kevin Kline
 ## Title: 5 Critical Considerations When Moving to the Cloud
 ## Abstract:
@@ -203,7 +203,7 @@ You also see demos and overviews of native features within SQL Server that enabl
 #### SessionID: 91933
 # Enterprise Big Data Analytics using Azure Data Lake Storage Gen2
 #### [Back to calendar](#nr-838)
-Event Date: 01-06-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 01-06-2019 - Session time: 14:50:00 - Track: Analytics and Visualization
 ## Speaker: Anupama Natarajan
 ## Title: Enterprise Big Data Analytics using Azure Data Lake Storage Gen2
 ## Abstract:

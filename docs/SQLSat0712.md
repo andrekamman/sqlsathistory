@@ -24,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 71626
 # Back to Basics – An overview of the internals of SQL Server
 #### [Back to calendar](#nr-712)
-Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 26-05-2018 - Session time: 10:00:00 - Track: Strategy and Architecture
 ## Speaker: Dave Dustin
 ## Title: Back to Basics – An overview of the internals of SQL Server
 ## Abstract:
@@ -35,7 +35,7 @@ We’ll look at the interpreter, optimizer, estimator, storage, memory, locking,
 #### SessionID: 72429
 # Azure Data Lake Analytics: Leveraging the Modern Data Warehouse
 #### [Back to calendar](#nr-712)
-Event Date: 26-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 26-05-2018 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gogula Aryalingam
 ## Title: Azure Data Lake Analytics: Leveraging the Modern Data Warehouse
 ## Abstract:
@@ -45,7 +45,7 @@ Fear not, all you need to do is look to the heavens; with Azure Data Lake and Az
 #### SessionID: 77446
 # Deciphering the Black Box - Why productivity projects crash and burn
 #### [Back to calendar](#nr-712)
-Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Other
+Event Date: 26-05-2018 - Session time: 10:00:00 - Track: Other
 ## Speaker: Vanessa Larsen
 ## Title: Deciphering the Black Box - Why productivity projects crash and burn
 ## Abstract:
@@ -56,7 +56,7 @@ In this session, we will share our stories from our time in the field experienci
 #### SessionID: 78712
 # Create Custom Visual using JSON and R
 #### [Back to calendar](#nr-712)
-Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 26-05-2018 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Leila Etaati
 ## Title: Create Custom Visual using JSON and R
 ## Abstract:
@@ -65,7 +65,7 @@ Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 70334
 # Advanced DAX for the SQL Professional
 #### [Back to calendar](#nr-712)
-Event Date: 26-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 26-05-2018 - Session time: 11:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Seamark
 ## Title: Advanced DAX for the SQL Professional
 ## Abstract:
@@ -76,7 +76,7 @@ We will create data from thin air and show how you can shape your data model usi
 #### SessionID: 78623
 # Implementing Python in SQL Server 2017
 #### [Back to calendar](#nr-712)
-Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 26-05-2018 - Session time: 11:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ginger Grant
 ## Title: Implementing Python in SQL Server 2017
 ## Abstract:
@@ -85,7 +85,7 @@ Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 78720
 # Cloning the human brain - Cognitive Services
 #### [Back to calendar](#nr-712)
-Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Other
+Event Date: 26-05-2018 - Session time: 11:15:00 - Track: Other
 ## Speaker: Sudeep Ghatak
 ## Title: Cloning the human brain - Cognitive Services
 ## Abstract:
@@ -94,7 +94,7 @@ Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Other
 #### SessionID: 80111
 # Troubleshooting SQL Server Memory Issues
 #### [Back to calendar](#nr-712)
-Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-05-2018 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amit R S Bansal
 ## Title: Troubleshooting SQL Server Memory Issues
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 75787
 # SSRS and Power BI Report Server - What's New
 #### [Back to calendar](#nr-712)
-Event Date: 26-05-2018 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 26-05-2018 - Session time: 13:15:00 - Track: BI Information Delivery
 ## Speaker: Craig Bryden
 ## Title: SSRS and Power BI Report Server - What's New
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 26-05-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 78176
 # SQLOpsStudio Vs SSMS - There can be only one
 #### [Back to calendar](#nr-712)
-Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 26-05-2018 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Warwick Rudd
 ## Title: SQLOpsStudio Vs SSMS - There can be only one
 ## Abstract:
@@ -122,7 +122,7 @@ In this session we will take you on a journey of comparing SSMS and SQLOpsStudio
 #### SessionID: 78534
 # Take Power BI Visualization to the Next Level
 #### [Back to calendar](#nr-712)
-Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 26-05-2018 - Session time: 13:15:00 - Track: Analytics and Visualization
 ## Speaker: Reza Rad
 ## Title: Take Power BI Visualization to the Next Level
 ## Abstract:
@@ -131,7 +131,7 @@ Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 71107
 # DBATools! The reason to finally start learning and using Powershell
 #### [Back to calendar](#nr-712)
-Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-05-2018 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: DBATools! The reason to finally start learning and using Powershell
 ## Abstract:
@@ -147,7 +147,7 @@ No prior experience with Powershell required!
 #### SessionID: 77366
 # Modern Data Warehouse using Lambda Architecture and Azure
 #### [Back to calendar](#nr-712)
-Event Date: 26-05-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 26-05-2018 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anupama Natarajan
 ## Title: Modern Data Warehouse using Lambda Architecture and Azure
 ## Abstract:
@@ -164,7 +164,7 @@ In this session you will learn about
 #### SessionID: 80494
 # Orchestration and data movement with Azure Data Factory v2
 #### [Back to calendar](#nr-712)
-Event Date: 26-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 26-05-2018 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Peck
 ## Title: Orchestration and data movement with Azure Data Factory v2
 ## Abstract:

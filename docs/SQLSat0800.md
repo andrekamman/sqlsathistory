@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 83536
 # Using Your On-prem Data in a Cloud World
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 22-09-2018 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Daniel Glenn
 ## Title: Using Your On-prem Data in a Cloud World
 ## Abstract:
@@ -53,7 +53,7 @@ In this session, we will discover the benefits of using the cloud tools, how tho
 #### SessionID: 83671
 # Bridge Analytics and Developer Worlds with Power BI and PowerApps
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 22-09-2018 - Session time: 09:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Teo Lachev
 ## Title: Bridge Analytics and Developer Worlds with Power BI and PowerApps
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 83764
 # My Power BI report is slow: what should I do?
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-09-2018 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Russo
 ## Title: My Power BI report is slow: what should I do?
 ## Abstract:
@@ -73,7 +73,7 @@ At the end of this session, you will understand how to locate a performance bott
 #### SessionID: 84618
 # Mentoring Women in Tech:  A Guide for Men  Women Who Want to Help
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 22-09-2018 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Mentoring Women in Tech:  A Guide for Men  Women Who Want to Help
 ## Abstract:
@@ -84,7 +84,7 @@ What do you do for a living, what level are you at in your career and are you in
 #### SessionID: 84718
 # The function of Windowing Functions
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 22-09-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Wilkie
 ## Title: The function of Windowing Functions
 ## Abstract:
@@ -102,7 +102,7 @@ Learn more about the class of functions that are known as "windowing functions" 
 #### SessionID: 84726
 # Best Practices for Delivering  Sharing Content in Power BI
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-09-2018 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melissa Coates
 ## Title: Best Practices for Delivering  Sharing Content in Power BI
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 84886
 # Little and Large - Cubes to Scale
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-09-2018 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: George Bryant
 ## Title: Little and Large - Cubes to Scale
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 83011
 # The Power of Data: The Complete Beginners Data Warehouse Kit
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-09-2018 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data: The Complete Beginners Data Warehouse Kit
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 83030
 # Create IaaS SQL Server Test Premise Environment in Azure Cloud
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 22-09-2018 - Session time: 10:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Michael Wharton
 ## Title: Create IaaS SQL Server Test Premise Environment in Azure Cloud
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Cloud Application Devel
 #### SessionID: 83225
 # Getting started with Tabular Analysis Services
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-09-2018 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Thomas LeBlanc
 ## Title: Getting started with Tabular Analysis Services
 ## Abstract:
@@ -147,7 +147,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 83605
 # Whipping Away Stress
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 22-09-2018 - Session time: 10:15:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Whipping Away Stress
 ## Abstract:
@@ -156,7 +156,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Professional Developmen
 #### SessionID: 84608
 # Introduction to Azure AI - The Art of the possible
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 22-09-2018 - Session time: 10:15:00 - Track: Strategy and Architecture
 ## Speaker: Melody Zacharias
 ## Title: Introduction to Azure AI - The Art of the possible
 ## Abstract:
@@ -165,7 +165,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Strategy and Architectu
 #### SessionID: 84796
 # Introduction to Azure Search
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 22-09-2018 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Julie Smith
 ## Title: Introduction to Azure Search
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 84875
 # Taming of the Shrew - Optimizing Power BI
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 22-09-2018 - Session time: 10:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Taming of the Shrew - Optimizing Power BI
 ## Abstract:
@@ -190,7 +190,7 @@ Understand when a problem is really a problem.
 #### SessionID: 83182
 # Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Data Integration
+Event Date: 22-09-2018 - Session time: 12:30:00 - Track: Data Integration
 ## Speaker: Jose Chinchilla
 ## Title: Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Data Integration
 #### SessionID: 83557
 # Applying Data Warehousing Principles
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-09-2018 - Session time: 12:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Spencer Swindell
 ## Title: Applying Data Warehousing Principles
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 83776
 # All (Data) Things Considered: The Lean Coffee Workshop
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 22-09-2018 - Session time: 12:30:00 - Track: Professional Development
 ## Speaker: Stuart Ainsworth
 ## Title: All (Data) Things Considered: The Lean Coffee Workshop
 ## Abstract:
@@ -217,7 +217,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Professional Developmen
 #### SessionID: 84427
 # Power BI Deployment Strategies:  The Business versus I.T.
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-09-2018 - Session time: 12:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeremy Frye
 ## Title: Power BI Deployment Strategies:  The Business versus I.T.
 ## Abstract:
@@ -228,7 +228,7 @@ In this session, we will look at potential data management concerns that include
 #### SessionID: 84689
 # Performance Monitoring Analysis Services Tabular
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-09-2018 - Session time: 12:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shabnam Watson
 ## Title: Performance Monitoring Analysis Services Tabular
 ## Abstract:
@@ -243,7 +243,7 @@ While this session focuses on SSAS Tabular servers many of the concepts apply to
 #### SessionID: 84724
 # Creating Near Real Time ETLs Using Serverless Architecture
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 22-09-2018 - Session time: 12:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Samara Soucy
 ## Title: Creating Near Real Time ETLs Using Serverless Architecture
 ## Abstract:
@@ -256,7 +256,7 @@ The focus will be on Azure’s serverless offerings, but other PaaS services wil
 #### SessionID: 84105
 # Create Amazing Custom Visualizations in Power BI using ggplot2
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 22-09-2018 - Session time: 13:45:00 - Track: Analytics and Visualization
 ## Speaker: Ryan Wade
 ## Title: Create Amazing Custom Visualizations in Power BI using ggplot2
 ## Abstract:
@@ -265,7 +265,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 84686
 # Should This Be Normalized? When Database Normalization Seems Abnormal
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-09-2018 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Voss
 ## Title: Should This Be Normalized? When Database Normalization Seems Abnormal
 ## Abstract:
@@ -274,7 +274,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 84876
 # How to win Dev and influence QA
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 22-09-2018 - Session time: 13:45:00 - Track: Professional Development
 ## Speaker: Elizabeth Noble
 ## Title: How to win Dev and influence QA
 ## Abstract:
@@ -285,7 +285,7 @@ In this session, I will go over steps I took to improve relationships with other
 #### SessionID: 85002
 # Data Quality - Plain  Simple
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 22-09-2018 - Session time: 13:45:00 - Track: Strategy and Architecture
 ## Speaker: Neal Waterstreet
 ## Title: Data Quality - Plain  Simple
 ## Abstract:
@@ -294,7 +294,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Strategy and Architectu
 #### SessionID: 85197
 # Power BI Next Gen
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-09-2018 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan Evans
 ## Title: Power BI Next Gen
 ## Abstract:
@@ -303,7 +303,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 85204
 # Debugging common DAX and Model performance issues
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Reporting
+Event Date: 22-09-2018 - Session time: 13:45:00 - Track: BI Reporting
 ## Speaker: Adam Saxton
 ## Title: Debugging common DAX and Model performance issues
 ## Abstract:
@@ -312,7 +312,7 @@ Event Date: 22-09-2018 - Session time: 15:00:00 - Track: BI Reporting
 #### SessionID: 85997
 # Artificial Intelligence, Cognitive Services, and Power BI
 #### [Back to calendar](#nr-800)
-Event Date: 22-09-2018 - Session time: 15:00:00 - Track: Data Science
+Event Date: 22-09-2018 - Session time: 13:45:00 - Track: Data Science
 ## Speaker: Paco Gonzalez
 ## Title: Artificial Intelligence, Cognitive Services, and Power BI
 ## Abstract:

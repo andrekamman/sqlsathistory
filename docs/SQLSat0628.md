@@ -62,7 +62,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 64851
 # Power BI:  From the Desktop to the Enterprise
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 29-07-2017 - Session time: 08:00:00 - Track: Business Intelligence
 ## Speaker: Patrick LeBlanc
 ## Title: Power BI:  From the Desktop to the Enterprise
 ## Abstract:
@@ -81,7 +81,7 @@ Con
 #### SessionID: 61176
 # Women in Technology: Identifying and Understanding Gender Bias  Inequality
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 29-07-2017 - Session time: 09:15:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Women in Technology: Identifying and Understanding Gender Bias  Inequality
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 63441
 # Hostile Takeover
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administration
+Event Date: 29-07-2017 - Session time: 09:15:00 - Track: SQL Server Administration
 ## Speaker: Robert Bishop
 ## Title: Hostile Takeover
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administrati
 #### SessionID: 63994
 # Branding Yourself for a Dream Job
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 29-07-2017 - Session time: 09:15:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 64513
 # T-SQL's Hidden Support Feature
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
+Event Date: 29-07-2017 - Session time: 09:15:00 - Track: SQL Server Development
 ## Speaker: Jennifer McCown
 ## Title: T-SQL's Hidden Support Feature
 ## Abstract:
@@ -119,7 +119,7 @@ In this session, Microsoft Certified Master Jennifer McCown will demonstrate the
 #### SessionID: 64729
 # PowerShell 101: The No-Nonsense Beginner’s Guide to PowerShell
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
+Event Date: 29-07-2017 - Session time: 09:15:00 - Track: PowerShell
 ## Speaker: Mike Robbins
 ## Title: PowerShell 101: The No-Nonsense Beginner’s Guide to PowerShell
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
 #### SessionID: 65094
 # Xamarin Forms App with Azure Mobile Services for Authentication and Offline Sync
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Mobile App Dev
+Event Date: 29-07-2017 - Session time: 09:15:00 - Track: Mobile App Dev
 ## Speaker: David Silver
 ## Title: Xamarin Forms App with Azure Mobile Services for Authentication and Offline Sync
 ## Abstract:
@@ -137,7 +137,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Mobile App Dev
 #### SessionID: 65377
 # Introduction to Azure Analysis Services
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 29-07-2017 - Session time: 09:15:00 - Track: Business Intelligence
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to Azure Analysis Services
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 #### SessionID: 65495
 # What's new with Power BI
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 29-07-2017 - Session time: 09:15:00 - Track: Business Intelligence
 ## Speaker: Adam Saxton
 ## Title: What's new with Power BI
 ## Abstract:
@@ -155,7 +155,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 #### SessionID: 66310
 # Managing SSRS Reports using PowerShell and SSRS Web Services
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
+Event Date: 29-07-2017 - Session time: 09:15:00 - Track: PowerShell
 ## Speaker: Russel Loski
 ## Title: Managing SSRS Reports using PowerShell and SSRS Web Services
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
 #### SessionID: 66343
 # Should your spreadsheet be a database?
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Beginner
+Event Date: 29-07-2017 - Session time: 09:15:00 - Track: SQL Server Beginner
 ## Speaker: Jonathan Jefferson
 ## Title: Should your spreadsheet be a database?
 ## Abstract:
@@ -173,7 +173,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Beginner
 #### SessionID: 61352
 # Careers in IT - Baton Rouge 2017
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Career
+Event Date: 29-07-2017 - Session time: 10:30:00 - Track: Career
 ## Speaker: Michael Viron
 ## Title: Careers in IT - Baton Rouge 2017
 ## Abstract:
@@ -182,7 +182,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Career
 #### SessionID: 61505
 # Dynamic SQL: Tables, Pivots
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
+Event Date: 29-07-2017 - Session time: 10:30:00 - Track: SQL Server Development
 ## Speaker: Steven Tidwell
 ## Title: Dynamic SQL: Tables, Pivots
 ## Abstract:
@@ -191,7 +191,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
 #### SessionID: 61668
 # Giving Feedback: How to Effectively Communicate to your Employees
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 29-07-2017 - Session time: 10:30:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Giving Feedback: How to Effectively Communicate to your Employees
 ## Abstract:
@@ -200,7 +200,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 61721
 # In-Memory Indexes:  Part 2 -- The rest of the story!
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Windows Server/Virtualization
+Event Date: 29-07-2017 - Session time: 10:30:00 - Track: Windows Server/Virtualization
 ## Speaker: Mike Byrd
 ## Title: In-Memory Indexes:  Part 2 -- The rest of the story!
 ## Abstract:
@@ -213,7 +213,7 @@ After this session you will
 #### SessionID: 63710
 # Getting Started with .NET Core
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: .NET Dev
+Event Date: 29-07-2017 - Session time: 10:30:00 - Track: .NET Dev
 ## Speaker: Brandon Cornett
 ## Title: Getting Started with .NET Core
 ## Abstract:
@@ -222,7 +222,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: .NET Dev
 #### SessionID: 64854
 # Power BI:  Customer Stories from the Frontline
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 29-07-2017 - Session time: 10:30:00 - Track: Business Intelligence
 ## Speaker: Patrick LeBlanc
 ## Title: Power BI:  Customer Stories from the Frontline
 ## Abstract:
@@ -231,7 +231,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 #### SessionID: 64869
 # React Native - So real you can taste it
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Mobile App Dev
+Event Date: 29-07-2017 - Session time: 10:30:00 - Track: Mobile App Dev
 ## Speaker: Justin Obney
 ## Title: React Native - So real you can taste it
 ## Abstract:
@@ -240,7 +240,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Mobile App Dev
 #### SessionID: 64994
 # Monster VM's (Database Virtualization)
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administration
+Event Date: 29-07-2017 - Session time: 10:30:00 - Track: SQL Server Administration
 ## Speaker: Michael Corey
 ## Title: Monster VM's (Database Virtualization)
 ## Abstract:
@@ -249,7 +249,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administrati
 #### SessionID: 65106
 # Python in SQL Server 2017
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 29-07-2017 - Session time: 10:30:00 - Track: Business Intelligence
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
 ## Abstract:
@@ -260,7 +260,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #### SessionID: 65811
 # What’s new for SQL Server Analysis Services?
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 29-07-2017 - Session time: 10:30:00 - Track: Business Intelligence
 ## Speaker: Thomas LeBlanc
 ## Title: What’s new for SQL Server Analysis Services?
 ## Abstract:
@@ -270,7 +270,7 @@ When an Analysis Service database gets created in an enterprise, and users start
 #### SessionID: 66281
 # Advanced PowerShell Database Reporting Tools (for Beginners)
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
+Event Date: 29-07-2017 - Session time: 10:30:00 - Track: PowerShell
 ## Speaker: Rohn Edwards
 ## Title: Advanced PowerShell Database Reporting Tools (for Beginners)
 ## Abstract:
@@ -279,7 +279,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
 #### SessionID: 61080
 # Polybase, Didn't that go out with the 70's?
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
+Event Date: 29-07-2017 - Session time: 12:15:00 - Track: SQL Server Development
 ## Speaker: Stan Geiger
 ## Title: Polybase, Didn't that go out with the 70's?
 ## Abstract:
@@ -288,7 +288,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
 #### SessionID: 63960
 # Improving Your Management Skills
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 29-07-2017 - Session time: 12:15:00 - Track: Professional Development
 ## Speaker: David Reid
 ## Title: Improving Your Management Skills
 ## Abstract:
@@ -297,7 +297,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 63993
 # Bringing DevOps to the Database
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
+Event Date: 29-07-2017 - Session time: 12:15:00 - Track: SQL Server Development
 ## Speaker: Steve Jones
 ## Title: Bringing DevOps to the Database
 ## Abstract:
@@ -306,7 +306,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
 #### SessionID: 63997
 # Gimgen - Going Deep With Javascript Generators
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Mobile App Dev
+Event Date: 29-07-2017 - Session time: 12:15:00 - Track: Mobile App Dev
 ## Speaker: George Mauer
 ## Title: Gimgen - Going Deep With Javascript Generators
 ## Abstract:
@@ -315,7 +315,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Mobile App Dev
 #### SessionID: 64225
 # Programming in Power Query: An Introduction to M
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 29-07-2017 - Session time: 12:15:00 - Track: Business Intelligence
 ## Speaker: Andy Parkerson
 ## Title: Programming in Power Query: An Introduction to M
 ## Abstract:
@@ -328,7 +328,7 @@ Our examination will conclude with a discussion of best practices, centering on 
 #### SessionID: 64319
 # Taking Time for You
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 29-07-2017 - Session time: 12:15:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Taking Time for You
 ## Abstract:
@@ -337,7 +337,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 64463
 # Pester the Tester: PowerShell Bugs Beware!
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
+Event Date: 29-07-2017 - Session time: 12:15:00 - Track: PowerShell
 ## Speaker: Robert Cain
 ## Title: Pester the Tester: PowerShell Bugs Beware!
 ## Abstract:
@@ -348,7 +348,7 @@ Pester is a friendly testing framework designed for testing your PowerShells scr
 #### SessionID: 64620
 # Code Like a Pirate ... Intro to R and Data Science Tools in MS
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 29-07-2017 - Session time: 12:15:00 - Track: Business Intelligence
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Pirate ... Intro to R and Data Science Tools in MS
 ## Abstract:
@@ -372,7 +372,7 @@ The focus of the session will be primarily on the introduction to the R language
 #### SessionID: 64852
 # Introduction to the Power BI Desktop
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerBI
+Event Date: 29-07-2017 - Session time: 12:15:00 - Track: PowerBI
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to the Power BI Desktop
 ## Abstract:
@@ -381,7 +381,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerBI
 #### SessionID: 65382
 # Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administration
+Event Date: 29-07-2017 - Session time: 12:15:00 - Track: SQL Server Administration
 ## Speaker: Amy Herold
 ## Title: Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
 ## Abstract:
@@ -390,7 +390,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administrati
 #### SessionID: 68484
 # How to talk to your Storage Admin
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administration
+Event Date: 29-07-2017 - Session time: 12:15:00 - Track: SQL Server Administration
 ## Speaker: Marsha Pierce
 ## Title: How to talk to your Storage Admin
 ## Abstract:
@@ -399,7 +399,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administrati
 #### SessionID: 61114
 # SQL Server Statistics – What Are The Chances?
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administration
+Event Date: 29-07-2017 - Session time: 13:30:00 - Track: SQL Server Administration
 ## Speaker: Lori Edwards
 ## Title: SQL Server Statistics – What Are The Chances?
 ## Abstract:
@@ -408,7 +408,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administrati
 #### SessionID: 61174
 # How to Build Your Disaster Recovery Plan
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administration
+Event Date: 29-07-2017 - Session time: 13:30:00 - Track: SQL Server Administration
 ## Speaker: Rie Irish
 ## Title: How to Build Your Disaster Recovery Plan
 ## Abstract:
@@ -417,7 +417,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Administrati
 #### SessionID: 62623
 # Navigating an Internship: Tips for beginning a career as a software developer.
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Career
+Event Date: 29-07-2017 - Session time: 13:30:00 - Track: Career
 ## Speaker: Jay Tulk
 ## Title: Navigating an Internship: Tips for beginning a career as a software developer.
 ## Abstract:
@@ -426,7 +426,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Career
 #### SessionID: 64621
 # Code Like a Pirate ... Intermediate R and Data Science in MS
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 29-07-2017 - Session time: 13:30:00 - Track: Business Intelligence
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Pirate ... Intermediate R and Data Science in MS
 ## Abstract:
@@ -439,7 +439,7 @@ In this session, we will use Microsoft R Server, R Tools for Visual Studio and P
 #### SessionID: 64866
 # Parallel Programming, an Introduction
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: .NET Dev
+Event Date: 29-07-2017 - Session time: 13:30:00 - Track: .NET Dev
 ## Speaker: Matthew Puneky
 ## Title: Parallel Programming, an Introduction
 ## Abstract:
@@ -451,7 +451,7 @@ The language specific examples will be given in C#.
 #### SessionID: 64968
 # Trends in the Cloud
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: IT Executive
+Event Date: 29-07-2017 - Session time: 13:30:00 - Track: IT Executive
 ## Speaker: Michael Corey
 ## Title: Trends in the Cloud
 ## Abstract:
@@ -460,7 +460,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: IT Executive
 #### SessionID: 65140
 # Twilight TimeZone: Handling Time in Your App Architecture
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: .NET Dev
+Event Date: 29-07-2017 - Session time: 13:30:00 - Track: .NET Dev
 ## Speaker: William Assaf
 ## Title: Twilight TimeZone: Handling Time in Your App Architecture
 ## Abstract:
@@ -469,7 +469,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: .NET Dev
 #### SessionID: 65203
 # Exploring the All-New SSRS 2016
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 29-07-2017 - Session time: 13:30:00 - Track: Business Intelligence
 ## Speaker: Tim Mitchell
 ## Title: Exploring the All-New SSRS 2016
 ## Abstract:
@@ -478,7 +478,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 #### SessionID: 65384
 # Beginning Automation with Powershell
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
+Event Date: 29-07-2017 - Session time: 13:30:00 - Track: PowerShell
 ## Speaker: Amy Herold
 ## Title: Beginning Automation with Powershell
 ## Abstract:
@@ -487,7 +487,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: PowerShell
 #### SessionID: 65494
 # Using a gateway to leverage on-premises data in Power BI
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 29-07-2017 - Session time: 13:30:00 - Track: Business Intelligence
 ## Speaker: Adam Saxton
 ## Title: Using a gateway to leverage on-premises data in Power BI
 ## Abstract:
@@ -496,7 +496,7 @@ Event Date: 29-07-2017 - Session time: 14:45:00 - Track: Business Intelligence
 #### SessionID: 65553
 # Set Me Up: How to Think in Sets
 #### [Back to calendar](#nr-628)
-Event Date: 29-07-2017 - Session time: 14:45:00 - Track: SQL Server Development
+Event Date: 29-07-2017 - Session time: 13:30:00 - Track: SQL Server Development
 ## Speaker: Brian Hansen
 ## Title: Set Me Up: How to Think in Sets
 ## Abstract:

@@ -19,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 84392
 # Trend Analysis of SQL Server Logs using Powershell!
 #### [Back to calendar](#nr-750)
-Event Date: 04-08-2018 - Session time: 16:30:00 - Track: Database Development  Administration
+Event Date: 04-08-2018 - Session time: 09:30:00 - Track: Database Development  Administration
 ## Speaker: Dharmendra Keshari
 ## Title: Trend Analysis of SQL Server Logs using Powershell!
 ## Abstract:
@@ -28,7 +28,7 @@ Event Date: 04-08-2018 - Session time: 16:30:00 - Track: Database Development  A
 #### SessionID: 84622
 # Text Analytics Solutions with Azure Machine Learning
 #### [Back to calendar](#nr-750)
-Event Date: 04-08-2018 - Session time: 16:30:00 - Track: Business Intelligence  Analytics
+Event Date: 04-08-2018 - Session time: 09:30:00 - Track: Business Intelligence  Analytics
 ## Speaker: Dinesh Asanka
 ## Title: Text Analytics Solutions with Azure Machine Learning
 ## Abstract:
@@ -37,7 +37,7 @@ Event Date: 04-08-2018 - Session time: 16:30:00 - Track: Business Intelligence  
 #### SessionID: 80529
 # GITHUB 101 - An introduction to using Github and Git for Source Control and Open Source Projects
 #### [Back to calendar](#nr-750)
-Event Date: 04-08-2018 - Session time: 16:30:00 - Track: Database Development  Administration
+Event Date: 04-08-2018 - Session time: 10:50:00 - Track: Database Development  Administration
 ## Speaker: Patrick Flynn
 ## Title: GITHUB 101 - An introduction to using Github and Git for Source Control and Open Source Projects
 ## Abstract:
@@ -52,7 +52,7 @@ Based around personal experience of learning not to hate Source control, this se
 #### SessionID: 82099
 # Moving your on-prem data warehouse to cloud. What are your options?
 #### [Back to calendar](#nr-750)
-Event Date: 04-08-2018 - Session time: 16:30:00 - Track: Business Intelligence  Analytics
+Event Date: 04-08-2018 - Session time: 10:50:00 - Track: Business Intelligence  Analytics
 ## Speaker: Asanka Padmakumara
 ## Title: Moving your on-prem data warehouse to cloud. What are your options?
 ## Abstract:
@@ -61,7 +61,7 @@ Event Date: 04-08-2018 - Session time: 16:30:00 - Track: Business Intelligence  
 #### SessionID: 83040
 # DevOPs and the Data Professional
 #### [Back to calendar](#nr-750)
-Event Date: 04-08-2018 - Session time: 16:30:00 - Track: Database Development  Administration
+Event Date: 04-08-2018 - Session time: 12:00:00 - Track: Database Development  Administration
 ## Speaker: Hamish Watson
 ## Title: DevOPs and the Data Professional
 ## Abstract:
@@ -80,7 +80,7 @@ Through the use of a comprehensive live demo to running databases hosted in Azur
 #### SessionID: 84484
 # Creating and Exploring Power BI Report and Dashboard in one hour
 #### [Back to calendar](#nr-750)
-Event Date: 04-08-2018 - Session time: 16:30:00 - Track: Business Intelligence  Analytics
+Event Date: 04-08-2018 - Session time: 12:00:00 - Track: Business Intelligence  Analytics
 ## Speaker: Anupama Natarajan
 ## Title: Creating and Exploring Power BI Report and Dashboard in one hour
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 04-08-2018 - Session time: 16:30:00 - Track: Business Intelligence  
 #### SessionID: 82269
 # Graph Databases with Azure Cosmos DB
 #### [Back to calendar](#nr-750)
-Event Date: 04-08-2018 - Session time: 16:30:00 - Track: Database Development  Administration
+Event Date: 04-08-2018 - Session time: 14:00:00 - Track: Database Development  Administration
 ## Speaker: Patrick Flynn
 ## Title: Graph Databases with Azure Cosmos DB
 ## Abstract:
@@ -108,7 +108,7 @@ This session is aimed at any developer/architect/DBA that is looking to understa
 #### SessionID: 83357
 # Real-time Data Analytics using Microsoft Azure Stream Analytics and Power BI
 #### [Back to calendar](#nr-750)
-Event Date: 04-08-2018 - Session time: 16:30:00 - Track: Business Intelligence  Analytics
+Event Date: 04-08-2018 - Session time: 14:00:00 - Track: Business Intelligence  Analytics
 ## Speaker: Nisal Mihiranga
 ## Title: Real-time Data Analytics using Microsoft Azure Stream Analytics and Power BI
 ## Abstract:
@@ -117,7 +117,7 @@ Event Date: 04-08-2018 - Session time: 16:30:00 - Track: Business Intelligence  
 #### SessionID: 84438
 # Modern Data Warehouse using Lambda Architecture and Azure
 #### [Back to calendar](#nr-750)
-Event Date: 04-08-2018 - Session time: 16:30:00 - Track: Business Intelligence  Analytics
+Event Date: 04-08-2018 - Session time: 15:10:00 - Track: Business Intelligence  Analytics
 ## Speaker: Anupama Natarajan
 ## Title: Modern Data Warehouse using Lambda Architecture and Azure
 ## Abstract:
@@ -132,7 +132,7 @@ In this session you will learn about
 #### SessionID: 84851
 # Azure SQL Database Services: What You Need to Know
 #### [Back to calendar](#nr-750)
-Event Date: 04-08-2018 - Session time: 16:30:00 - Track: Database Development  Administration
+Event Date: 04-08-2018 - Session time: 15:10:00 - Track: Database Development  Administration
 ## Speaker: Indika Dalugama
 ## Title: Azure SQL Database Services: What You Need to Know
 ## Abstract:

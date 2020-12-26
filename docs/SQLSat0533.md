@@ -13,7 +13,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 56449
 # Everything built-in SQL Server 2016
 #### [Back to calendar](#nr-533)
-Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-11-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: MJ Ferdous
 ## Title: Everything built-in SQL Server 2016
 ## Abstract:
@@ -24,7 +24,7 @@ Join us to hear how companies like yours are embracing data to take the lead in 
 #### SessionID: 52474
 # Securing your data with SQL Server 2016
 #### [Back to calendar](#nr-533)
-Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-11-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Md. Sultan-E-Alam Khan
 ## Title: Securing your data with SQL Server 2016
 ## Abstract:
@@ -33,7 +33,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 49387
 # Deep Drive on Big data using HDInsight
 #### [Back to calendar](#nr-533)
-Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
+Event Date: 19-11-2016 - Session time: 12:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ahsan Kabir
 ## Title: Deep Drive on Big data using HDInsight
 ## Abstract:
@@ -42,7 +42,7 @@ Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Cloud Application Devel
 #### SessionID: 52543
 # Performance Gain Through Columnstore Index
 #### [Back to calendar](#nr-533)
-Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 19-11-2016 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Mohammad Morshed Sayem
 ## Title: Performance Gain Through Columnstore Index
 ## Abstract:
@@ -52,7 +52,7 @@ Starting with SQL Server 2016, you can use columnstore indexes for real-time ana
 #### SessionID: 56428
 # Cloud Data Platform
 #### [Back to calendar](#nr-533)
-Event Date: 19-11-2016 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
+Event Date: 19-11-2016 - Session time: 14:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Zularbine Kamal
 ## Title: Cloud Data Platform
 ## Abstract:

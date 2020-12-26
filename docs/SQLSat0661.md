@@ -49,7 +49,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 64957
 # SQL Injections and How to Stop Them
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: Strategy and Architecture
 ## Speaker: Jeff Prom
 ## Title: SQL Injections and How to Stop Them
 ## Abstract:
@@ -62,7 +62,7 @@ Attend this session to learn how SQL injections work, identify if you are being 
 #### SessionID: 65246
 # JSON and the Astronauts
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: Application  Database Development
 ## Speaker: Peter Kral
 ## Title: JSON and the Astronauts
 ## Abstract:
@@ -74,7 +74,7 @@ You should have experience writing queries in T-SQL. No previous knowledge of JS
 #### SessionID: 66580
 # The Ins and Outs of SQL Indexes
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: The Ins and Outs of SQL Indexes
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 67365
 # Processing Big Data with Azure Data Lake Analytics
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sean Forgatch
 ## Title: Processing Big Data with Azure Data Lake Analytics
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 68430
 # Why should I care about ... the plan cache?
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
 ## Abstract:
@@ -103,7 +103,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #### SessionID: 68743
 # How to Maintain the Same Level of Utilities in Cloud Deployments - Securability, Reliability and Sca
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Denny Cherry
 ## Title: How to Maintain the Same Level of Utilities in Cloud Deployments - Securability, Reliability and Sca
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 69242
 # Cloud 9 on AWS
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kim Schmidt
 ## Title: Cloud 9 on AWS
 ## Abstract:
@@ -130,7 +130,7 @@ Learn how to benefit!
 #### SessionID: 69296
 # AlwaysOn from the Front Lines
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sitotpal Sarkar
 ## Title: AlwaysOn from the Front Lines
 ## Abstract:
@@ -141,7 +141,7 @@ Beginners as well as experts will learn from my experience with AlwaysOn. Don't 
 #### SessionID: 64880
 # The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 65247
 # SSIS Project Deployment: The T-SQL Way
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Kral
 ## Title: SSIS Project Deployment: The T-SQL Way
 ## Abstract:
@@ -167,7 +167,7 @@ You should have previous experience with SQL Server Integration Services (SSIS) 
 #### SessionID: 66216
 # A Masters Passport to Extended Events
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: A Masters Passport to Extended Events
 ## Abstract:
@@ -181,7 +181,7 @@ You will be exposed to advanced troubleshooting techniques as we work through co
 #### SessionID: 66576
 # Fun with SQL Server Spatial Data
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: Fun with SQL Server Spatial Data
 ## Abstract:
@@ -190,7 +190,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 66637
 # SQL Server Containers and Clones
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Stanton
 ## Title: SQL Server Containers and Clones
 ## Abstract:
@@ -201,7 +201,7 @@ Microsoft is emphasizing the use of containers for development and test on SQL S
 #### SessionID: 68826
 # Tuning SQL Server Transactional Replication
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Ou Yang
 ## Title: Tuning SQL Server Transactional Replication
 ## Abstract:
@@ -210,7 +210,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 68956
 # 45 Minutes to Your First SSAS Tabular Model
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-09-2017 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kerry Tyler
 ## Title: 45 Minutes to Your First SSAS Tabular Model
 ## Abstract:
@@ -220,7 +220,7 @@ SSAS Tabular is a new-ish form of business intelligence model released with SQL 
 #### SessionID: 68973
 # But it worked great in Dev!  Perfomance for Devs
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
 ## Abstract:
@@ -229,7 +229,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 69243
 # Self-driving Solutions on AWS
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 23-09-2017 - Session time: 12:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kim Schmidt
 ## Title: Self-driving Solutions on AWS
 ## Abstract:
@@ -241,7 +241,7 @@ Botmetric is an intelligent cloud management solution for AWS to simplify the wo
 #### SessionID: 64648
 # From Zero to Hero:  The New Powershell DBA
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Nakamura
 ## Title: From Zero to Hero:  The New Powershell DBA
 ## Abstract:
@@ -254,7 +254,7 @@ Come and join me for a momentous session of PowerShell and SQL, full of demos an
 #### SessionID: 64975
 # Do More Than Just Talk
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 23-09-2017 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Lori Edwards
 ## Title: Do More Than Just Talk
 ## Abstract:
@@ -263,7 +263,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 65288
 # Outsourcing database administration to your users.
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stephen Mokszycki
 ## Title: Outsourcing database administration to your users.
 ## Abstract:
@@ -274,7 +274,7 @@ There will be a demo!
 #### SessionID: 66217
 # Bare Naked Skinny on SQL Server
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Bare Naked Skinny on SQL Server
 ## Abstract:
@@ -287,7 +287,7 @@ In this session I will disrobe misunderstandings related to the aforementioned t
 #### SessionID: 67265
 # Dive into the Query Optimizer - Undocumented Insight
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer - Undocumented Insight
 ## Abstract:
@@ -296,7 +296,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 68433
 # Weird stuff I saw ... while supporting a Java team
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Weird stuff I saw ... while supporting a Java team
 ## Abstract:
@@ -305,7 +305,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 68957
 # Managing Your Schema with Database Projects in Visual Studio
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Kerry Tyler
 ## Title: Managing Your Schema with Database Projects in Visual Studio
 ## Abstract:
@@ -314,7 +314,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 69533
 # Diagnosing SQL Amnesia: Where is Your Memory Going?
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jonathan Kehayias
 ## Title: Diagnosing SQL Amnesia: Where is Your Memory Going?
 ## Abstract:
@@ -330,7 +330,7 @@ tackle even the most challenging memory problems.
 #### SessionID: 64973
 # DBA 101 – Let’s Get It Started
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lori Edwards
 ## Title: DBA 101 – Let’s Get It Started
 ## Abstract:
@@ -339,7 +339,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 65016
 # End-to-End Troubleshooting Checklist for SQL Server
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Kline
 ## Title: End-to-End Troubleshooting Checklist for SQL Server
 ## Abstract:
@@ -357,7 +357,7 @@ Every DBA needs to know how to keep their SQL Server in tip-top condition, and y
 #### SessionID: 66476
 # SQL server on containers – Part 1
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prakash Heda
 ## Title: SQL server on containers – Part 1
 ## Abstract:
@@ -370,7 +370,7 @@ This introductory session will help seasoned SQL Server DBA/Developers understan
 #### SessionID: 67267
 # Understanding Parameter Sniffing
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
 ## Abstract:
@@ -379,7 +379,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 68655
 # More than introduction to SQL Server Reporting Services aka SSRS
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-09-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Rezhener
 ## Title: More than introduction to SQL Server Reporting Services aka SSRS
 ## Abstract:
@@ -388,7 +388,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 68692
 # Changing Your Habits to Improve the Performance of Your T-SQL
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Mickey Stuewe
 ## Title: Changing Your Habits to Improve the Performance of Your T-SQL
 ## Abstract:
@@ -397,7 +397,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 68976
 # Understanding the SQL Server Transaction Log
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Randy Knight
 ## Title: Understanding the SQL Server Transaction Log
 ## Abstract:
@@ -406,7 +406,7 @@ Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 69294
 # SQL Server 2016 and R Service introduction
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 23-09-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Peixin Wang
 ## Title: SQL Server 2016 and R Service introduction
 ## Abstract:
@@ -416,7 +416,7 @@ One of the biggest changes in SQL Server 2016 on the analytics front is the incl
 #### SessionID: 69495
 # Building Your Way to Better Database Testing
 #### [Back to calendar](#nr-661)
-Event Date: 23-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Phil Helmer
 ## Title: Building Your Way to Better Database Testing
 ## Abstract:

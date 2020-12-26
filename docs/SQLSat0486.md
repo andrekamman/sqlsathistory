@@ -53,7 +53,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 41439
 # I'm It - Survival Techniques for the Lone DBA
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 19-03-2016 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 41686
 # Disaster Recovery Where to Begin
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Other
+Event Date: 19-03-2016 - Session time: 08:30:00 - Track: Other
 ## Speaker: Tracy Boggiano
 ## Title: Disaster Recovery Where to Begin
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Other
 #### SessionID: 42452
 # A functional review of Visual Studio 2013 Database Projects
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 19-03-2016 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Cameron Snapp
 ## Title: A functional review of Visual Studio 2013 Database Projects
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 44381
 # First Look at SQL Server 2016
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Administration, Deployment, Monitoring
+Event Date: 19-03-2016 - Session time: 08:30:00 - Track: Database Administration, Deployment, Monitoring
 ## Speaker: Rick Heiges
 ## Title: First Look at SQL Server 2016
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 45163
 # Managing Very Large Databases with SQL Server
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Administration, Deployment, Monitoring
+Event Date: 19-03-2016 - Session time: 08:30:00 - Track: Database Administration, Deployment, Monitoring
 ## Speaker: Brian Carrig
 ## Title: Managing Very Large Databases with SQL Server
 ## Abstract:
@@ -100,7 +100,7 @@ In this session, I will provide some practical advice on managing VLDBs with SQL
 #### SessionID: 45449
 # Introduction to the Power BI Desktop
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 19-03-2016 - Session time: 08:30:00 - Track: Business Intelligence
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to the Power BI Desktop
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 45498
 # SQL Server Databaseology: A Deep Dive Into Database Internals
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Design and Architecture
+Event Date: 19-03-2016 - Session time: 08:30:00 - Track: Database Design and Architecture
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology: A Deep Dive Into Database Internals
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Design and Arc
 #### SessionID: 46010
 # Community Zone
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Other
+Event Date: 19-03-2016 - Session time: 08:30:00 - Track: Other
 ## Speaker: Wayne Sheffield
 ## Title: Community Zone
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Other
 #### SessionID: 41549
 # Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Azure / Cloud / Big Data
+Event Date: 19-03-2016 - Session time: 09:40:00 - Track: Azure / Cloud / Big Data
 ## Speaker: Kevin Feasel
 ## Title: Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
 ## Abstract:
@@ -137,7 +137,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Azure / Cloud / Big Dat
 #### SessionID: 41682
 # PowerShell Basics for SQL Server
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Other
+Event Date: 19-03-2016 - Session time: 09:40:00 - Track: Other
 ## Speaker: Michael Wharton
 ## Title: PowerShell Basics for SQL Server
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Other
 #### SessionID: 42230
 # Let Me Finish... Isolating Write Operations
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Design and Architecture
+Event Date: 19-03-2016 - Session time: 09:40:00 - Track: Database Design and Architecture
 ## Speaker: Louis Davidson
 ## Title: Let Me Finish... Isolating Write Operations
 ## Abstract:
@@ -155,7 +155,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Design and Arc
 #### SessionID: 45080
 # Solving the Data Integration Problem for Non-Developers with Power Query
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 19-03-2016 - Session time: 09:40:00 - Track: Business Intelligence
 ## Speaker: Rafael Salas
 ## Title: Solving the Data Integration Problem for Non-Developers with Power Query
 ## Abstract:
@@ -166,7 +166,7 @@ In this session, learn how  businesses and IT can use Power Query--a free data i
 #### SessionID: 45494
 # If You Build It, They Will Come--Creating Your Own Opportunities!
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 19-03-2016 - Session time: 09:40:00 - Track: Professional Development
 ## Speaker: Carlos L Chacon
 ## Title: If You Build It, They Will Come--Creating Your Own Opportunities!
 ## Abstract:
@@ -175,7 +175,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 45513
 # Does your performance tuning need a 12-step program?
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Performance
+Event Date: 19-03-2016 - Session time: 09:40:00 - Track: Performance
 ## Speaker: Janis Griffin
 ## Title: Does your performance tuning need a 12-step program?
 ## Abstract:
@@ -190,7 +190,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Performance
 #### SessionID: 47774
 # Administring SSIS 2012 and 2014 for DBA
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 19-03-2016 - Session time: 09:40:00 - Track: Business Intelligence
 ## Speaker: Ravi Kumar
 ## Title: Administring SSIS 2012 and 2014 for DBA
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 41394
 # Scripting out SQL Server for Documentation and Disaster Recovery
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Administration, Deployment, Monitoring
+Event Date: 19-03-2016 - Session time: 10:50:00 - Track: Database Administration, Deployment, Monitoring
 ## Speaker: George Walkey
 ## Title: Scripting out SQL Server for Documentation and Disaster Recovery
 ## Abstract:
@@ -210,7 +210,7 @@ Objects exported include: SQL Agent Jobs/Alerts/Schedules, NT Service Creds, SSI
 #### SessionID: 41423
 # SSIS 2014 Data Flow Tuning Tips and Tricks
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 19-03-2016 - Session time: 10:50:00 - Track: Business Intelligence
 ## Speaker: Andy Leonard
 ## Title: SSIS 2014 Data Flow Tuning Tips and Tricks
 ## Abstract:
@@ -219,7 +219,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 42014
 # New SQL Server 2016 Feature: "Query Store"
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Administration, Deployment, Monitoring
+Event Date: 19-03-2016 - Session time: 10:50:00 - Track: Database Administration, Deployment, Monitoring
 ## Speaker: Slava Murygin
 ## Title: New SQL Server 2016 Feature: "Query Store"
 ## Abstract:
@@ -236,7 +236,7 @@ You will learn about that new SQL Server feature and maybe you find how it would
 #### SessionID: 42698
 # Dealing With Difficult Coworkers
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 19-03-2016 - Session time: 10:50:00 - Track: Professional Development
 ## Speaker: Gigi Bell
 ## Title: Dealing With Difficult Coworkers
 ## Abstract:
@@ -245,7 +245,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 45039
 # Are Availability Groups a good fit for your database?
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Administration, Deployment, Monitoring
+Event Date: 19-03-2016 - Session time: 10:50:00 - Track: Database Administration, Deployment, Monitoring
 ## Speaker: Doug Purnell
 ## Title: Are Availability Groups a good fit for your database?
 ## Abstract:
@@ -254,7 +254,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 45456
 # Extended Events - Better than Profiler
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Administration, Deployment, Monitoring
+Event Date: 19-03-2016 - Session time: 10:50:00 - Track: Database Administration, Deployment, Monitoring
 ## Speaker: Jason Brimhall
 ## Title: Extended Events - Better than Profiler
 ## Abstract:
@@ -263,7 +263,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 45467
 # SQL Server Internals Party: Storage, Memory and the Query Life-cycle
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Internals
+Event Date: 19-03-2016 - Session time: 10:50:00 - Track: Internals
 ## Speaker: Ayman El-Ghazali
 ## Title: SQL Server Internals Party: Storage, Memory and the Query Life-cycle
 ## Abstract:
@@ -272,7 +272,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Internals
 #### SessionID: 44862
 # SQL Games
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Other
+Event Date: 19-03-2016 - Session time: 12:45:00 - Track: Other
 ## Speaker: Rick Heiges
 ## Title: SQL Games
 ## Abstract:
@@ -281,7 +281,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Other
 #### SessionID: 48755
 # Learn about Pyramid Analytics’ BI Office Version 6 Platform Relea
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Sponsor Session
+Event Date: 19-03-2016 - Session time: 12:45:00 - Track: Sponsor Session
 ## Speaker: Jamie Wick
 ## Title: Learn about Pyramid Analytics’ BI Office Version 6 Platform Relea
 ## Abstract:
@@ -290,7 +290,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Sponsor Session
 #### SessionID: 48756
 # CIO Panel Discussion
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Sponsor Session
+Event Date: 19-03-2016 - Session time: 12:45:00 - Track: Sponsor Session
 ## Speaker: Greg Samuels
 ## Title: CIO Panel Discussion
 ## Abstract:
@@ -299,7 +299,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Sponsor Session
 #### SessionID: 41671
 # Small Scale Data Collection Using PowerShell -  Going NSA Style!
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Other
+Event Date: 19-03-2016 - Session time: 13:40:00 - Track: Other
 ## Speaker: Jana Sattainathan
 ## Title: Small Scale Data Collection Using PowerShell -  Going NSA Style!
 ## Abstract:
@@ -308,7 +308,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Other
 #### SessionID: 42697
 # Dealing With Difficult Managers
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 19-03-2016 - Session time: 13:40:00 - Track: Professional Development
 ## Speaker: Gigi Bell
 ## Title: Dealing With Difficult Managers
 ## Abstract:
@@ -317,7 +317,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 42699
 # SQL Backups: Choosing the right solution for your environment
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Administration, Deployment, Monitoring
+Event Date: 19-03-2016 - Session time: 13:40:00 - Track: Database Administration, Deployment, Monitoring
 ## Speaker: Jamie Wick
 ## Title: SQL Backups: Choosing the right solution for your environment
 ## Abstract:
@@ -326,7 +326,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 45475
 # Introducing Azure Machine Learning
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 19-03-2016 - Session time: 13:40:00 - Track: Business Intelligence
 ## Speaker: Mark Hudson
 ## Title: Introducing Azure Machine Learning
 ## Abstract:
@@ -335,7 +335,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 45550
 # Getting to know U-SQL
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Azure / Cloud / Big Data
+Event Date: 19-03-2016 - Session time: 13:40:00 - Track: Azure / Cloud / Big Data
 ## Speaker: Azhagappan Arunachalam
 ## Title: Getting to know U-SQL
 ## Abstract:
@@ -344,7 +344,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Azure / Cloud / Big Dat
 #### SessionID: 46486
 # Turbo Boost Performance: In Memory Tables index optimizations
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Administration, Deployment, Monitoring
+Event Date: 19-03-2016 - Session time: 13:40:00 - Track: Database Administration, Deployment, Monitoring
 ## Speaker: Konstantin Melamud
 ## Title: Turbo Boost Performance: In Memory Tables index optimizations
 ## Abstract:
@@ -353,7 +353,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 41444
 # Introduction To R For Sql Developers
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 19-03-2016 - Session time: 14:50:00 - Track: Business Intelligence
 ## Speaker: Kiran Math
 ## Title: Introduction To R For Sql Developers
 ## Abstract:
@@ -369,7 +369,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 41923
 # Service Broker: Coach your processes asynchronously
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 19-03-2016 - Session time: 14:50:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Service Broker: Coach your processes asynchronously
 ## Abstract:
@@ -379,7 +379,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 42692
 # Optimizing Protected Indexes
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Performance
+Event Date: 19-03-2016 - Session time: 14:50:00 - Track: Performance
 ## Speaker: Chris Bell
 ## Title: Optimizing Protected Indexes
 ## Abstract:
@@ -388,7 +388,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Performance
 #### SessionID: 44893
 # Beginning Azure
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Azure / Cloud / Big Data
+Event Date: 19-03-2016 - Session time: 14:50:00 - Track: Azure / Cloud / Big Data
 ## Speaker: Thomas Norman
 ## Title: Beginning Azure
 ## Abstract:
@@ -397,7 +397,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Azure / Cloud / Big Dat
 #### SessionID: 45372
 # Building Your Yellow Brick Road: Directing Your Path to a Successful Career
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 19-03-2016 - Session time: 14:50:00 - Track: Professional Development
 ## Speaker: Justin Randall
 ## Title: Building Your Yellow Brick Road: Directing Your Path to a Successful Career
 ## Abstract:
@@ -406,7 +406,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 45488
 # Introduction to Partitioning
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Design and Architecture
+Event Date: 19-03-2016 - Session time: 14:50:00 - Track: Database Design and Architecture
 ## Speaker: Tom Staab
 ## Title: Introduction to Partitioning
 ## Abstract:
@@ -415,7 +415,7 @@ Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Design and Arc
 #### SessionID: 45547
 # SQL Auditing - Getting A View Of Yesterday's Activity Today
 #### [Back to calendar](#nr-486)
-Event Date: 19-03-2016 - Session time: 16:00:00 - Track: Database Administration, Deployment, Monitoring
+Event Date: 19-03-2016 - Session time: 14:50:00 - Track: Database Administration, Deployment, Monitoring
 ## Speaker: Brad McKuhen
 ## Title: SQL Auditing - Getting A View Of Yesterday's Activity Today
 ## Abstract:

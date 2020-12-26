@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 63770
 # Polybase In Action
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 22-07-2017 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Polybase In Action
 ## Abstract:
@@ -45,7 +45,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 64051
 # Crash Course on Better SQL Development
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 22-07-2017 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
 ## Abstract:
@@ -54,7 +54,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 64452
 # Emergency! Are You Ready for Disaster to Strike?
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-07-2017 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Emergency! Are You Ready for Disaster to Strike?
 ## Abstract:
@@ -68,7 +68,7 @@ Learning objectives:
 #### SessionID: 65614
 # Health: The Most Important Tech Tool
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 22-07-2017 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: Cassandra Faris
 ## Title: Health: The Most Important Tech Tool
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 64168
 # How To Give a Technical Presentation
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 22-07-2017 - Session time: 09:45:00 - Track: Professional Development
 ## Speaker: Aaron Cutshall
 ## Title: How To Give a Technical Presentation
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 65273
 # Data Visualization:  How to truly tell a great story!
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Development  Analytics
+Event Date: 22-07-2017 - Session time: 09:45:00 - Track: BI Administration, Development  Analytics
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization:  How to truly tell a great story!
 ## Abstract:
@@ -95,7 +95,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Deve
 #### SessionID: 65365
 # Collecting Baseline Metrics
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-07-2017 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Collecting Baseline Metrics
 ## Abstract:
@@ -104,7 +104,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 65391
 # The DBA's Role With N-tier Applications
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 22-07-2017 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Dan Andrews
 ## Title: The DBA's Role With N-tier Applications
 ## Abstract:
@@ -113,7 +113,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 65775
 # SQL Server Databaseology: A Deep Dive Into Database Internals
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 22-07-2017 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology: A Deep Dive Into Database Internals
 ## Abstract:
@@ -122,7 +122,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 63814
 # Power BI and Azure ML - Better Together!
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Development  Analytics
+Event Date: 22-07-2017 - Session time: 11:00:00 - Track: BI Administration, Development  Analytics
 ## Speaker: Greg Deckler
 ## Title: Power BI and Azure ML - Better Together!
 ## Abstract:
@@ -131,7 +131,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Deve
 #### SessionID: 64069
 # Distributed Replay 101
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-07-2017 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Popovich Jr
 ## Title: Distributed Replay 101
 ## Abstract:
@@ -140,7 +140,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 64666
 # Introduction to Azure Streaming Analytics
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 22-07-2017 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Streaming Analytics
 ## Abstract:
@@ -149,7 +149,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 65754
 # 45 Minutes to Your First SSAS Tabular Model
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Development  Analytics
+Event Date: 22-07-2017 - Session time: 11:00:00 - Track: BI Administration, Development  Analytics
 ## Speaker: Kerry Tyler
 ## Title: 45 Minutes to Your First SSAS Tabular Model
 ## Abstract:
@@ -159,7 +159,7 @@ SSAS Tabular is a new-ish form of business intelligence model released with SQL 
 #### SessionID: 66529
 # Why NULL is not a value (and other SQL gotchas)
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 22-07-2017 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Wendy Pastrick
 ## Title: Why NULL is not a value (and other SQL gotchas)
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 63754
 # SQL Server - R Services
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Development  Analytics
+Event Date: 22-07-2017 - Session time: 13:00:00 - Track: BI Administration, Development  Analytics
 ## Speaker: Azhagappan Arunachalam
 ## Title: SQL Server - R Services
 ## Abstract:
@@ -177,7 +177,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Deve
 #### SessionID: 64138
 # Securing SQL Server Processes with Certificates
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 22-07-2017 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Robert Davis
 ## Title: Securing SQL Server Processes with Certificates
 ## Abstract:
@@ -194,7 +194,7 @@ Note: this session does not cover securing SQL Server connections with SSL or se
 #### SessionID: 64437
 # I’m It – Survival Techniques for the Lone DBA
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 22-07-2017 - Session time: 13:00:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I’m It – Survival Techniques for the Lone DBA
 ## Abstract:
@@ -203,7 +203,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 65424
 # Revenge: The SQL!
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-07-2017 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
 ## Abstract:
@@ -218,7 +218,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #### SessionID: 65719
 # Ethics, Morals, and Laws for the DBA 101
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 22-07-2017 - Session time: 13:00:00 - Track: Professional Development
 ## Speaker: Pat Phelan
 ## Title: Ethics, Morals, and Laws for the DBA 101
 ## Abstract:
@@ -231,7 +231,7 @@ This session presents basic definitions, ideas, and discussion points. It is int
 #### SessionID: 63758
 # Power BI Internals: a Deep Dive
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Development  Analytics
+Event Date: 22-07-2017 - Session time: 14:15:00 - Track: BI Administration, Development  Analytics
 ## Speaker: Eugene Meidinger
 ## Title: Power BI Internals: a Deep Dive
 ## Abstract:
@@ -240,7 +240,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: BI Administration, Deve
 #### SessionID: 64009
 # SQL Server Transactional Replication: A Deep Dive
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-07-2017 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server Transactional Replication: A Deep Dive
 ## Abstract:
@@ -249,7 +249,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 65707
 # Introduction to Temporal Tables
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 22-07-2017 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: Introduction to Temporal Tables
 ## Abstract:
@@ -258,7 +258,7 @@ Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 65746
 # Are You There, DBA? It’s Me, The App Developer
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 22-07-2017 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Jacquelyn Keeper
 ## Title: Are You There, DBA? It’s Me, The App Developer
 ## Abstract:
@@ -269,7 +269,7 @@ Beginner/Intermediate software developers and DBAs will learn: when you need the
 #### SessionID: 66553
 # Answering the question, "What happened?" with Query Store
 #### [Back to calendar](#nr-653)
-Event Date: 22-07-2017 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 22-07-2017 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Erin Stellato
 ## Title: Answering the question, "What happened?" with Query Store
 ## Abstract:

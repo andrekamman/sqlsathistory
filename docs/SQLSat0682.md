@@ -53,7 +53,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 67028
 # DBA Fundamentals - give yourself a solid SQL foundation!
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
+Event Date: 07-10-2017 - Session time: 08:00:00 - Track: Administration
 ## Speaker: Kevin Hill
 ## Title: DBA Fundamentals - give yourself a solid SQL foundation!
 ## Abstract:
@@ -80,7 +80,7 @@ Join me for the day and you will walk out with a strong grasp of SQL Admin basic
 #### SessionID: 67137
 # The Complete Primer to SQL Server Infrastructure and Cloud
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
+Event Date: 07-10-2017 - Session time: 08:00:00 - Track: Administration
 ## Speaker: David Klee
 ## Title: The Complete Primer to SQL Server Infrastructure and Cloud
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
 #### SessionID: 67325
 # Azure Data Services Hands On Lab
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Cloud
+Event Date: 07-10-2017 - Session time: 08:00:00 - Track: Cloud
 ## Speaker: Matt Stenzel
 ## Title: Azure Data Services Hands On Lab
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Cloud
 #### SessionID: 68206
 # Powering Up with Power BI
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
+Event Date: 07-10-2017 - Session time: 08:00:00 - Track: Business Intelligence
 ## Speaker: Brian Larson
 ## Title: Powering Up with Power BI
 ## Abstract:
@@ -116,7 +116,7 @@ Participants will leave with an understanding of the full range of capabilities 
 #### SessionID: 68891
 # Welcome to SQLSaturday #682
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Other
+Event Date: 07-10-2017 - Session time: 08:15:00 - Track: Other
 ## Speaker: Riley Major
 ## Title: Welcome to SQLSaturday #682
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Other
 #### SessionID: 67144
 # DevOps and the Agile DBA
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
+Event Date: 07-10-2017 - Session time: 09:00:00 - Track: Administration
 ## Speaker: Todd Blatti
 ## Title: DevOps and the Agile DBA
 ## Abstract:
@@ -141,7 +141,7 @@ Discover the power of virtualization and powerful agile development practices pr
 #### SessionID: 67278
 # Reading Execution Plans Successfully
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Development
+Event Date: 07-10-2017 - Session time: 09:00:00 - Track: Development
 ## Speaker: Arthur Daniels III
 ## Title: Reading Execution Plans Successfully
 ## Abstract:
@@ -154,7 +154,7 @@ Learning to read an execution plan is a great way to begin troubleshooting perfo
 #### SessionID: 67793
 # Advanced Analytics in Power BI
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
+Event Date: 07-10-2017 - Session time: 09:00:00 - Track: Business Intelligence
 ## Speaker: Lily Vergara
 ## Title: Advanced Analytics in Power BI
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
 #### SessionID: 67988
 # Dashboard-In-An-Hour
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
+Event Date: 07-10-2017 - Session time: 09:00:00 - Track: Business Intelligence
 ## Speaker: Teal Derheim
 ## Title: Dashboard-In-An-Hour
 ## Abstract:
@@ -172,7 +172,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
 #### SessionID: 68032
 # SSIS: Beyond the Basics
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
+Event Date: 07-10-2017 - Session time: 09:00:00 - Track: Business Intelligence
 ## Speaker: John Thompson
 ## Title: SSIS: Beyond the Basics
 ## Abstract:
@@ -181,7 +181,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
 #### SessionID: 68068
 # Purging data in SQL 2016 using Dynamic Partitioning
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
+Event Date: 07-10-2017 - Session time: 09:00:00 - Track: Administration
 ## Speaker: Kirby Richter
 ## Title: Purging data in SQL 2016 using Dynamic Partitioning
 ## Abstract:
@@ -190,7 +190,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
 #### SessionID: 68172
 # SQL Server Then and Now: Changing the State of Long-held Beliefs
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
+Event Date: 07-10-2017 - Session time: 09:00:00 - Track: Administration
 ## Speaker: Maxwell Myrick
 ## Title: SQL Server Then and Now: Changing the State of Long-held Beliefs
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
 #### SessionID: 68964
 # DB Options on Azure – Which One Should I Use?
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Cloud
+Event Date: 07-10-2017 - Session time: 09:00:00 - Track: Cloud
 ## Speaker: Tim Plas
 ## Title: DB Options on Azure – Which One Should I Use?
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Cloud
 #### SessionID: 67245
 # Query Optimization Statistics : Driving Force Behind Performance
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
+Event Date: 07-10-2017 - Session time: 10:15:00 - Track: Administration
 ## Speaker: Vern Rabe
 ## Title: Query Optimization Statistics : Driving Force Behind Performance
 ## Abstract:
@@ -217,7 +217,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
 #### SessionID: 67259
 # Getting Started with Extended Events
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
+Event Date: 07-10-2017 - Session time: 10:15:00 - Track: Administration
 ## Speaker: Andy Galbraith
 ## Title: Getting Started with Extended Events
 ## Abstract:
@@ -230,7 +230,7 @@ Come learn how to get started - the basics of sessions, events, actions, targets
 #### SessionID: 68245
 # A Blueprint for Success with Enterprise Power BI Solutions
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
+Event Date: 07-10-2017 - Session time: 10:15:00 - Track: Business Intelligence
 ## Speaker: Greg Beaumont
 ## Title: A Blueprint for Success with Enterprise Power BI Solutions
 ## Abstract:
@@ -239,7 +239,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
 #### SessionID: 68246
 # SQL in HDInsight/Hadoop
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: NoSQL / Big Data
+Event Date: 07-10-2017 - Session time: 10:15:00 - Track: NoSQL / Big Data
 ## Speaker: Bill Preachuk
 ## Title: SQL in HDInsight/Hadoop
 ## Abstract:
@@ -250,7 +250,7 @@ in this session you will learn all about the the big 3 SQL data access applicati
 #### SessionID: 68281
 # Backups for new/non-DBAs...the Why, not the How
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
+Event Date: 07-10-2017 - Session time: 10:15:00 - Track: Administration
 ## Speaker: Kevin Hill
 ## Title: Backups for new/non-DBAs...the Why, not the How
 ## Abstract:
@@ -263,7 +263,7 @@ Everyone involved in a technical role needs to at least know that the things the
 #### SessionID: 68996
 # Advanced SQL Server on VMware Features (Sponsor Session)
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
+Event Date: 07-10-2017 - Session time: 10:15:00 - Track: Administration
 ## Speaker: David Klee
 ## Title: Advanced SQL Server on VMware Features (Sponsor Session)
 ## Abstract:
@@ -272,7 +272,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
 #### SessionID: 69564
 # Getting the most out of SQL Server Data Tools
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Development
+Event Date: 07-10-2017 - Session time: 10:15:00 - Track: Development
 ## Speaker: Eric Strom
 ## Title: Getting the most out of SQL Server Data Tools
 ## Abstract:
@@ -281,7 +281,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Development
 #### SessionID: 69848
 # Bridging the Data Science and SQL Divide for Practitioners
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
+Event Date: 07-10-2017 - Session time: 10:15:00 - Track: Business Intelligence
 ## Speaker: Matthew Simonson
 ## Title: Bridging the Data Science and SQL Divide for Practitioners
 ## Abstract:
@@ -290,7 +290,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
 #### SessionID: 67036
 # SSAS:  What is it and How do I get started using it
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
+Event Date: 07-10-2017 - Session time: 13:00:00 - Track: Business Intelligence
 ## Speaker: Dave Bland
 ## Title: SSAS:  What is it and How do I get started using it
 ## Abstract:
@@ -299,7 +299,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
 #### SessionID: 67318
 # Data Lake Architecture
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: NoSQL / Big Data
+Event Date: 07-10-2017 - Session time: 13:00:00 - Track: NoSQL / Big Data
 ## Speaker: Matt Stenzel
 ## Title: Data Lake Architecture
 ## Abstract:
@@ -308,7 +308,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: NoSQL / Big Data
 #### SessionID: 67844
 # Business Intelligence achieved
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
+Event Date: 07-10-2017 - Session time: 13:00:00 - Track: Business Intelligence
 ## Speaker: Anton Rozenson
 ## Title: Business Intelligence achieved
 ## Abstract:
@@ -317,7 +317,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
 #### SessionID: 67954
 # Designing an alternative to Replication - a Real World™ Example
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Development
+Event Date: 07-10-2017 - Session time: 13:00:00 - Track: Development
 ## Speaker: Ben Thul
 ## Title: Designing an alternative to Replication - a Real World™ Example
 ## Abstract:
@@ -326,7 +326,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Development
 #### SessionID: 68044
 # Index 360 - Looking at Indexes from Multiple Perspectives
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Development
+Event Date: 07-10-2017 - Session time: 13:00:00 - Track: Development
 ## Speaker: John Eisbrener
 ## Title: Index 360 - Looking at Indexes from Multiple Perspectives
 ## Abstract:
@@ -335,7 +335,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Development
 #### SessionID: 68310
 # SQL Server Databases in the Clouds
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Cloud
+Event Date: 07-10-2017 - Session time: 13:00:00 - Track: Cloud
 ## Speaker: Tim Plas
 ## Title: SQL Server Databases in the Clouds
 ## Abstract:
@@ -344,7 +344,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Cloud
 #### SessionID: 68889
 # Lightning Talks (Round 1)
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
+Event Date: 07-10-2017 - Session time: 13:00:00 - Track: Administration
 ## Speaker: Jim Horn
 ## Title: Lightning Talks (Round 1)
 ## Abstract:
@@ -360,7 +360,7 @@ http://www.sqlsaturday.com/682/Sessions/Details.aspx?sid=68267
 #### SessionID: 68966
 # Understanding Your SQL Server Ecosystem
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
+Event Date: 07-10-2017 - Session time: 13:00:00 - Track: Administration
 ## Speaker: Amanda Crisp
 ## Title: Understanding Your SQL Server Ecosystem
 ## Abstract:
@@ -369,7 +369,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
 #### SessionID: 66891
 # Analyzing Healthcare Open Data with Power BI
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
+Event Date: 07-10-2017 - Session time: 14:15:00 - Track: Business Intelligence
 ## Speaker: Dan English
 ## Title: Analyzing Healthcare Open Data with Power BI
 ## Abstract:
@@ -378,7 +378,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
 #### SessionID: 66895
 # Difficult Queries
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Development
+Event Date: 07-10-2017 - Session time: 14:15:00 - Track: Development
 ## Speaker: Rick Bielawski
 ## Title: Difficult Queries
 ## Abstract:
@@ -387,7 +387,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Development
 #### SessionID: 66975
 # I deleted 1 billion records, what happened next will shock you!
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
+Event Date: 07-10-2017 - Session time: 14:15:00 - Track: Administration
 ## Speaker: Eric Zierdt
 ## Title: I deleted 1 billion records, what happened next will shock you!
 ## Abstract:
@@ -396,7 +396,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
 #### SessionID: 67134
 # Linux for the SQL Server Administrator
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
+Event Date: 07-10-2017 - Session time: 14:15:00 - Track: Administration
 ## Speaker: David Klee
 ## Title: Linux for the SQL Server Administrator
 ## Abstract:
@@ -405,7 +405,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
 #### SessionID: 68272
 # Automated Enterprise-wide SQL Server Auditing
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
+Event Date: 07-10-2017 - Session time: 14:15:00 - Track: Administration
 ## Speaker: Nem Schlecht
 ## Title: Automated Enterprise-wide SQL Server Auditing
 ## Abstract:
@@ -414,7 +414,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
 #### SessionID: 68307
 # SQL Server Hybrid Cloud Strategy: Best Of Both Worlds With On-Prem  Cloud
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Cloud
+Event Date: 07-10-2017 - Session time: 14:15:00 - Track: Cloud
 ## Speaker: Paul Timmerman
 ## Title: SQL Server Hybrid Cloud Strategy: Best Of Both Worlds With On-Prem  Cloud
 ## Abstract:
@@ -425,7 +425,7 @@ Come spend the hour with me and you’ll learn how to leverage the power of the 
 #### SessionID: 68890
 # Lightning Talks (Round 2) and Panel
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
+Event Date: 07-10-2017 - Session time: 14:15:00 - Track: Administration
 ## Speaker: Jim Horn
 ## Title: Lightning Talks (Round 2) and Panel
 ## Abstract:
@@ -436,7 +436,7 @@ Panel Discussion with PASSMN Board Members Jim Dorame, Jim Horn, Cecil Spivey, C
 #### SessionID: 69493
 # Navigating Modern BI - Infrastructure in 2017
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
+Event Date: 07-10-2017 - Session time: 14:15:00 - Track: Business Intelligence
 ## Speaker: George Bryant
 ## Title: Navigating Modern BI - Infrastructure in 2017
 ## Abstract:
@@ -445,7 +445,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
 #### SessionID: 69342
 # Nutanix Sponsor Session
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Other
+Event Date: 07-10-2017 - Session time: 15:25:00 - Track: Other
 ## Speaker: Mike Matthews
 ## Title: Nutanix Sponsor Session
 ## Abstract:
@@ -454,7 +454,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Other
 #### SessionID: 67372
 # Free SQL Server Tools
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Professional Development
+Event Date: 07-10-2017 - Session time: 15:55:00 - Track: Professional Development
 ## Speaker: Cecil Spivey
 ## Title: Free SQL Server Tools
 ## Abstract:
@@ -463,7 +463,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Professional Developmen
 #### SessionID: 67705
 # Intro to Machine Learning
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
+Event Date: 07-10-2017 - Session time: 15:55:00 - Track: Business Intelligence
 ## Speaker: Jared Zagelbaum
 ## Title: Intro to Machine Learning
 ## Abstract:
@@ -472,7 +472,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Business Intelligence
 #### SessionID: 68173
 # The Consulting Dilemma:  Is Inside or Outside of the Corporation the Right Fit for You?
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Professional Development
+Event Date: 07-10-2017 - Session time: 15:55:00 - Track: Professional Development
 ## Speaker: Maxwell Myrick
 ## Title: The Consulting Dilemma:  Is Inside or Outside of the Corporation the Right Fit for You?
 ## Abstract:
@@ -481,7 +481,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Professional Developmen
 #### SessionID: 68210
 # Keys to a Successful Business Intelligence/Analytics Project
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Professional Development
+Event Date: 07-10-2017 - Session time: 15:55:00 - Track: Professional Development
 ## Speaker: Brian Larson
 ## Title: Keys to a Successful Business Intelligence/Analytics Project
 ## Abstract:
@@ -490,7 +490,7 @@ Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Professional Developmen
 #### SessionID: 68280
 # Requirements Document Templates for Reporting and ETL Projects
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Development
+Event Date: 07-10-2017 - Session time: 15:55:00 - Track: Development
 ## Speaker: Jim Horn
 ## Title: Requirements Document Templates for Reporting and ETL Projects
 ## Abstract:
@@ -505,7 +505,7 @@ https://www.experts-exchange.com/articles/26539/Requirements-Document-Template-f
 #### SessionID: 68967
 # SQL Server 2017 on Containers
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Administration
+Event Date: 07-10-2017 - Session time: 15:55:00 - Track: Administration
 ## Speaker: Chris Kramer
 ## Title: SQL Server 2017 on Containers
 ## Abstract:
@@ -516,7 +516,7 @@ In this session, we take a look at the current state of container technology, ho
 #### SessionID: 69238
 # Building Stronger (Human) Relationships
 #### [Back to calendar](#nr-682)
-Event Date: 07-10-2017 - Session time: 17:05:00 - Track: Professional Development
+Event Date: 07-10-2017 - Session time: 15:55:00 - Track: Professional Development
 ## Speaker: Joshua Warne
 ## Title: Building Stronger (Human) Relationships
 ## Abstract:

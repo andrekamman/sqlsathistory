@@ -38,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 74628
 # From relational to Multimodel : Azure Cosmos DB
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 13-10-2018 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Rudi Bruchez
 ## Title: From relational to Multimodel : Azure Cosmos DB
 ## Abstract:
@@ -47,7 +47,7 @@ Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Cloud Application Devel
 #### SessionID: 80299
 # Chatbots for Dummies
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 13-10-2018 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Mendes
 ## Title: Chatbots for Dummies
 ## Abstract:
@@ -58,7 +58,7 @@ Will it pass the Turing test, no, but we can extend the bot service using Machin
 #### SessionID: 84560
 # Azure Data Factory v2
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 13-10-2018 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tomasz Libera
 ## Title: Azure Data Factory v2
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Cloud Application Devel
 #### SessionID: 85380
 # “SQL-like” or query languages in Azure IoT
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 13-10-2018 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: “SQL-like” or query languages in Azure IoT
 ## Abstract:
@@ -79,7 +79,7 @@ So, we will leave no SQL query unturned  in Azure IoT Hub, Stream Analytics, Pow
 #### SessionID: 85818
 # Query tuning when indexes cannot help
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 13-10-2018 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Margarita Naumova
 ## Title: Query tuning when indexes cannot help
 ## Abstract:
@@ -88,7 +88,7 @@ Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 82773
 # Image classification with Microsoft Cognitive Toolkit
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 11:15:00 - Track: Analytics and Visualization
 ## Speaker: Marcin Szeliga
 ## Title: Image classification with Microsoft Cognitive Toolkit
 ## Abstract:
@@ -99,7 +99,7 @@ During this session we will learn the principle of deep learning models for visu
 #### SessionID: 85693
 # Power BI Tips and Tricks
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 11:15:00 - Track: Analytics and Visualization
 ## Speaker: Boriana Petrova
 ## Title: Power BI Tips and Tricks
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Analytics and Visualiza
 #### SessionID: 85706
 # Data Preparation for Machine Learning
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Advanced Analysis Techniques
+Event Date: 13-10-2018 - Session time: 11:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ivelin Andreev
 ## Title: Data Preparation for Machine Learning
 ## Abstract:
@@ -118,7 +118,7 @@ ML is trendy and Microsoft already have more than 10 services to support ML. So 
 #### SessionID: 85817
 # Introduction to Azure SQL Data Warehouse for DBAs
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 13-10-2018 - Session time: 11:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Miroslav Dimitrov
 ## Title: Introduction to Azure SQL Data Warehouse for DBAs
 ## Abstract:
@@ -127,7 +127,7 @@ Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Cloud Application Devel
 #### SessionID: 85918
 # Mission: Reactive Cloud - Azure Event Grid
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 13-10-2018 - Session time: 11:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Radoslav Gatev
 ## Title: Mission: Reactive Cloud - Azure Event Grid
 ## Abstract:
@@ -138,7 +138,7 @@ Join me in this session to see how we can build a reactive cloud using Azure Eve
 #### SessionID: 77270
 # Embrace the future: Running SQL Server in containers
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-10-2018 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kaloyan Kosev
 ## Title: Embrace the future: Running SQL Server in containers
 ## Abstract:
@@ -147,7 +147,7 @@ Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #### SessionID: 80842
 # How to start working in the multiserver environment?
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-10-2018 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: How to start working in the multiserver environment?
 ## Abstract:
@@ -156,7 +156,7 @@ Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #### SessionID: 84614
 # Achieving wonders with Query store
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-10-2018 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dennes Torres
 ## Title: Achieving wonders with Query store
 ## Abstract:
@@ -165,7 +165,7 @@ Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #### SessionID: 85263
 # Deadlocks. Everything you ever wanted to ask but were too shy.
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-10-2018 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Denis Reznik
 ## Title: Deadlocks. Everything you ever wanted to ask but were too shy.
 ## Abstract:
@@ -182,7 +182,7 @@ In this session, we will look at ten various deadlocks scenarios and find the ro
 #### SessionID: 85348
 # The Maths behind Machine Learning
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Matt Willis
 ## Title: The Maths behind Machine Learning
 ## Abstract:
@@ -195,7 +195,7 @@ If you would like an introduction to the world of Machine Learning and to acquir
 #### SessionID: 85499
 # Step by step to weekly or daily releases. Automating database upgrades.
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 13-10-2018 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Todor Matev
 ## Title: Step by step to weekly or daily releases. Automating database upgrades.
 ## Abstract:
@@ -207,7 +207,7 @@ Language: Bulgarian
 #### SessionID: 83777
 # Beyond image classification - object detection  with multi-task deep models
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Advanced Analysis Techniques
+Event Date: 13-10-2018 - Session time: 14:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: Beyond image classification - object detection  with multi-task deep models
 ## Abstract:
@@ -219,7 +219,7 @@ Finally, we will move to multiple objects detection, discus latest architectures
 #### SessionID: 84893
 # Designing your tabular/PowerBI model for performance and scalability
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-10-2018 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ivan Donev
 ## Title: Designing your tabular/PowerBI model for performance and scalability
 ## Abstract:
@@ -228,7 +228,7 @@ Event Date: 13-10-2018 - Session time: 16:45:00 - Track: BI Platform Architectur
 #### SessionID: 85495
 # Processing Real-Time Racing Telemetry with Azure Stream Analytics
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 14:15:00 - Track: Analytics and Visualization
 ## Speaker: Murilo Miranda
 ## Title: Processing Real-Time Racing Telemetry with Azure Stream Analytics
 ## Abstract:
@@ -237,7 +237,7 @@ Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Analytics and Visualiza
 #### SessionID: 85730
 # Power Query for Better Reporting - 7 scenarios to learn
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 14:15:00 - Track: Analytics and Visualization
 ## Speaker: Vitali Burla
 ## Title: Power Query for Better Reporting - 7 scenarios to learn
 ## Abstract:
@@ -246,7 +246,7 @@ Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Analytics and Visualiza
 #### SessionID: 86119
 # IoT and streaming data or how cheating becomes a challenge
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-10-2018 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Emil Lechev
 ## Title: IoT and streaming data or how cheating becomes a challenge
 ## Abstract:
@@ -255,7 +255,7 @@ Event Date: 13-10-2018 - Session time: 16:45:00 - Track: BI Platform Architectur
 #### SessionID: 83969
 # The hidden power of Power BI – now with Power BI Embedded
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 13-10-2018 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Andrey Nikolov
 ## Title: The hidden power of Power BI – now with Power BI Embedded
 ## Abstract:
@@ -264,7 +264,7 @@ Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 85290
 # The Road to The Autonomous Databases
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Strategy and Architecture
+Event Date: 13-10-2018 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Janusz Rokicki
 ## Title: The Road to The Autonomous Databases
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Strategy and Architectu
 #### SessionID: 85511
 # If a machine can learn, why can't YOU learn Azure Machine Learning?
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Advanced Analysis Techniques
+Event Date: 13-10-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: André Melancia
 ## Title: If a machine can learn, why can't YOU learn Azure Machine Learning?
 ## Abstract:
@@ -284,7 +284,7 @@ Disclaimer: Sadly, AzureML still can't predict what's on your girlfriend's mind.
 #### SessionID: 85983
 # The power of Microsoft AI Platform combined with Big Data
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 13-10-2018 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Marek Matuszewski
 ## Title: The power of Microsoft AI Platform combined with Big Data
 ## Abstract:
@@ -295,7 +295,7 @@ We will destroy a car model LIVE on the scene just to showcase the way how the p
 #### SessionID: 86409
 # Tenant Data Isolation with Azure SQL DB
 #### [Back to calendar](#nr-763)
-Event Date: 13-10-2018 - Session time: 16:45:00 - Track: Strategy and Architecture
+Event Date: 13-10-2018 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Valentin Bonev
 ## Title: Tenant Data Isolation with Azure SQL DB
 ## Abstract:

@@ -21,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 100444
 # Troubleshooting Power BI Report Performance
 #### [Back to calendar](#nr-956)
-Event Date: 07-03-2020 - Session time: 15:30:00 - Track: Analytics
+Event Date: 07-03-2020 - Session time: 09:45:00 - Track: Analytics
 ## Speaker: Benni De Jagere
 ## Title: Troubleshooting Power BI Report Performance
 ## Abstract:
@@ -39,7 +39,7 @@ Every report can be tuned to handle like a dream, and you can do it too!
 #### SessionID: 101038
 # SQL Server Transaction Log: internals
 #### [Back to calendar](#nr-956)
-Event Date: 07-03-2020 - Session time: 15:30:00 - Track: Administration
+Event Date: 07-03-2020 - Session time: 09:45:00 - Track: Administration
 ## Speaker: Andriy Pogorelov
 ## Title: SQL Server Transaction Log: internals
 ## Abstract:
@@ -49,7 +49,7 @@ Topics to discuss: Backup, Recovery, Shrink, VLF, Replication, AlwaysOn, Best Pr
 #### SessionID: 101350
 # The databases in SSDT - a work with project and best practices
 #### [Back to calendar](#nr-956)
-Event Date: 07-03-2020 - Session time: 15:30:00 - Track: Developer
+Event Date: 07-03-2020 - Session time: 09:45:00 - Track: Developer
 ## Speaker: Kamil Nowinski
 ## Title: The databases in SSDT - a work with project and best practices
 ## Abstract:
@@ -59,7 +59,7 @@ All these topics I will explain in the session focused on practical aspects of w
 #### SessionID: 100450
 # Database CI/CD with Containers and Azure DevOps
 #### [Back to calendar](#nr-956)
-Event Date: 07-03-2020 - Session time: 15:30:00 - Track: Administration
+Event Date: 07-03-2020 - Session time: 11:00:00 - Track: Administration
 ## Speaker: Chris Taylor
 ## Title: Database CI/CD with Containers and Azure DevOps
 ## Abstract:
@@ -75,7 +75,7 @@ To get the most out of this session a basic understanding of what Docker/Contain
 #### SessionID: 100494
 # Introduction into Power BI Embedded
 #### [Back to calendar](#nr-956)
-Event Date: 07-03-2020 - Session time: 15:30:00 - Track: Developer
+Event Date: 07-03-2020 - Session time: 11:00:00 - Track: Developer
 ## Speaker: Philipp Lenz
 ## Title: Introduction into Power BI Embedded
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 07-03-2020 - Session time: 15:30:00 - Track: Developer
 #### SessionID: 100565
 # Azure databricks: brick by brick for the data engineer
 #### [Back to calendar](#nr-956)
-Event Date: 07-03-2020 - Session time: 15:30:00 - Track: Analytics
+Event Date: 07-03-2020 - Session time: 11:00:00 - Track: Analytics
 ## Speaker: Cédric Charlier
 ## Title: Azure databricks: brick by brick for the data engineer
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 07-03-2020 - Session time: 15:30:00 - Track: Analytics
 #### SessionID: 100503
 # Effectively Troubleshooting Latency and Failover of Always On Availability Group
 #### [Back to calendar](#nr-956)
-Event Date: 07-03-2020 - Session time: 15:30:00 - Track: Administration
+Event Date: 07-03-2020 - Session time: 13:00:00 - Track: Administration
 ## Speaker: Marcelo Fernandes
 ## Title: Effectively Troubleshooting Latency and Failover of Always On Availability Group
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 07-03-2020 - Session time: 15:30:00 - Track: Administration
 #### SessionID: 100627
 # Be a dynamic SQL dynamo!
 #### [Back to calendar](#nr-956)
-Event Date: 07-03-2020 - Session time: 15:30:00 - Track: Developer
+Event Date: 07-03-2020 - Session time: 13:00:00 - Track: Developer
 ## Speaker: Joanna Wolthuis
 ## Title: Be a dynamic SQL dynamo!
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 07-03-2020 - Session time: 15:30:00 - Track: Developer
 #### SessionID: 100456
 # Azure Data Factory, your data pipeline in the cloud
 #### [Back to calendar](#nr-956)
-Event Date: 07-03-2020 - Session time: 15:30:00 - Track: Analytics
+Event Date: 07-03-2020 - Session time: 14:15:00 - Track: Analytics
 ## Speaker: Nico Jacobs
 ## Title: Azure Data Factory, your data pipeline in the cloud
 ## Abstract:
@@ -122,7 +122,7 @@ In this session you will see the product in action and learn how to get started 
 #### SessionID: 100605
 # Intelligent Query Processing in SQL databases
 #### [Back to calendar](#nr-956)
-Event Date: 07-03-2020 - Session time: 15:30:00 - Track: Developer
+Event Date: 07-03-2020 - Session time: 14:15:00 - Track: Developer
 ## Speaker: Tiago Balabuch
 ## Title: Intelligent Query Processing in SQL databases
 ## Abstract:
@@ -132,7 +132,7 @@ Come to this session and figure out how Intelligent Query Processing (IQP) works
 #### SessionID: 100827
 # Azure Data Studio – The 30-day challenge
 #### [Back to calendar](#nr-956)
-Event Date: 07-03-2020 - Session time: 15:30:00 - Track: Administration
+Event Date: 07-03-2020 - Session time: 14:15:00 - Track: Administration
 ## Speaker: Martin Croft
 ## Title: Azure Data Studio – The 30-day challenge
 ## Abstract:

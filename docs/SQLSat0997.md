@@ -39,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 105031
 # Climbing the SQL Server B-Tree
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 29-08-2020 - Session time: 08:00:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: Climbing the SQL Server B-Tree
 ## Abstract:
@@ -58,7 +58,7 @@ Attend this demo-heavy session to learn how the SQL Server optimizer uses indexe
 #### SessionID: 105512
 # How to Troubleshoot a Slow Running Query in SQL Server
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-08-2020 - Session time: 08:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amit R S Bansal
 ## Title: How to Troubleshoot a Slow Running Query in SQL Server
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 105842
 # How I Cut My Maintenance Window by 80%
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-08-2020 - Session time: 08:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paresh Motiwala
 ## Title: How I Cut My Maintenance Window by 80%
 ## Abstract:
@@ -79,7 +79,7 @@ We'll also some of the best practices to help you cut down the maintenance windo
 #### SessionID: 105869
 # "DAX" the way to do it
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 29-08-2020 - Session time: 08:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Pedro Reis
 ## Title: "DAX" the way to do it
 ## Abstract:
@@ -90,7 +90,7 @@ I'll show you real-world applications of DAX and lots of tips and tricks that yo
 #### SessionID: 105080
 # Interviewing for a DBA job and how to Wow your new company.
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 29-08-2020 - Session time: 09:10:00 - Track: Professional Development
 ## Speaker: Steve Peterson
 ## Title: Interviewing for a DBA job and how to Wow your new company.
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Professional Developmen
 #### SessionID: 105101
 # Building a Strong Foundation for Data Analysis
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-08-2020 - Session time: 09:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: Building a Strong Foundation for Data Analysis
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 29-08-2020 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 105116
 # SQL Server Configuration with dbatools and dbachecks
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-08-2020 - Session time: 09:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: SQL Server Configuration with dbatools and dbachecks
 ## Abstract:
@@ -121,7 +121,7 @@ Attendees will see how easy it is to use PowerShell via dbatools to configure th
 #### SessionID: 105640
 # A Deep Dive into Execution Plans  How to Use Them!
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 29-08-2020 - Session time: 09:10:00 - Track: Application  Database Development
 ## Speaker: Janis Griffin
 ## Title: A Deep Dive into Execution Plans  How to Use Them!
 ## Abstract:
@@ -132,7 +132,7 @@ This presentation will show how to read and fine tune the query plan for better 
 #### SessionID: 105024
 # Azure Data Studio – Way Cool for Azure and On-Prem SQL
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 29-08-2020 - Session time: 10:20:00 - Track: Application  Database Development
 ## Speaker: Jim Miller
 ## Title: Azure Data Studio – Way Cool for Azure and On-Prem SQL
 ## Abstract:
@@ -148,7 +148,7 @@ And demonstrate why Azure Data Studio is in fact Way Cool.
 #### SessionID: 105041
 # Tracking Logins with an Extended-Events-Driven Data Warehouse
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-08-2020 - Session time: 10:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Tracking Logins with an Extended-Events-Driven Data Warehouse
 ## Abstract:
@@ -159,7 +159,7 @@ This session touches on multiple advanced topics that you can use individually, 
 #### SessionID: 105764
 # The Countless Benefits of Mentoring
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 29-08-2020 - Session time: 10:20:00 - Track: Professional Development
 ## Speaker: Mark Runyon
 ## Title: The Countless Benefits of Mentoring
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Professional Developmen
 #### SessionID: 105845
 # Basic Data Modeling for BI Reporting
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-08-2020 - Session time: 10:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael McKinley
 ## Title: Basic Data Modeling for BI Reporting
 ## Abstract:
@@ -181,7 +181,7 @@ In this session, we will review how tools like Power BI work under the covers an
 #### SessionID: 105156
 # Database DevOps with Containers
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-08-2020 - Session time: 11:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Rob Richardson
 ## Title: Database DevOps with Containers
 ## Abstract:
@@ -190,7 +190,7 @@ Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Cloud Application Devel
 #### SessionID: 105295
 # Intro to Power BI
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-08-2020 - Session time: 11:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Patrick
 ## Title: Intro to Power BI
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 29-08-2020 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 105950
 # AWS vs. Azure: What's The Difference For A DBA?
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-08-2020 - Session time: 11:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Corey Hambrick
 ## Title: AWS vs. Azure: What's The Difference For A DBA?
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 107087
 # Isolation Levels: Improving Performance Through Concurrency
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-08-2020 - Session time: 11:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Pusateri
 ## Title: Isolation Levels: Improving Performance Through Concurrency
 ## Abstract:
@@ -217,7 +217,7 @@ Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 105547
 # Understanding NULLs in SQL Server
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 29-08-2020 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Ramesh Satya
 ## Title: Understanding NULLs in SQL Server
 ## Abstract:
@@ -226,7 +226,7 @@ Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 105776
 # 14 T-SQL Functions You May Not Know
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 29-08-2020 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: 14 T-SQL Functions You May Not Know
 ## Abstract:
@@ -235,7 +235,7 @@ Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 105940
 # Code Smells - How to Keep Your Code From Stinking!
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-08-2020 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Pamela Mooney
 ## Title: Code Smells - How to Keep Your Code From Stinking!
 ## Abstract:
@@ -246,7 +246,7 @@ Bad SQL coding practices are known in the SQL community as “code smells”.  S
 #### SessionID: 106023
 # Let's take PowerBI on an adventure
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 29-08-2020 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: TJay Belt
 ## Title: Let's take PowerBI on an adventure
 ## Abstract:
@@ -256,7 +256,7 @@ Let's collect all this data and present it in a way to compare between years and
 #### SessionID: 105723
 # Notebooks 101 for SQL People
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-08-2020 - Session time: 14:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Julie Koesmarno
 ## Title: Notebooks 101 for SQL People
 ## Abstract:
@@ -269,7 +269,7 @@ Azure Data Studio Notebooks support SQL and KQL natively with intellisense; with
 #### SessionID: 105923
 # Power BI: Advanced development techniques
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-08-2020 - Session time: 14:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sunil Kadimdiwan
 ## Title: Power BI: Advanced development techniques
 ## Abstract:
@@ -282,7 +282,7 @@ In this session, I will show you how you can use database queries, custom theme 
 #### SessionID: 105984
 # All About Temporary Objects
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 29-08-2020 - Session time: 14:10:00 - Track: Application  Database Development
 ## Speaker: Edward Pollack
 ## Title: All About Temporary Objects
 ## Abstract:
@@ -293,7 +293,7 @@ In this session, we will delve into temporary tables, table variables, and memor
 #### SessionID: 107094
 # Remember Back When?  Temporal Tables in SQL Server 2016 and 2017
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 29-08-2020 - Session time: 14:10:00 - Track: Application  Database Development
 ## Speaker: Brian Hansen
 ## Title: Remember Back When?  Temporal Tables in SQL Server 2016 and 2017
 ## Abstract:
@@ -302,7 +302,7 @@ Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 105074
 # SSAS 101
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-08-2020 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matt Horton
 ## Title: SSAS 101
 ## Abstract:
@@ -311,7 +311,7 @@ Event Date: 29-08-2020 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 105819
 # Advanced Plan Explorer Usage for Tuning Execution Plans
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 29-08-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: Advanced Plan Explorer Usage for Tuning Execution Plans
 ## Abstract:
@@ -322,7 +322,7 @@ Join me to learn how you can go beyond the basics. This demo-heavy (and marketin
 #### SessionID: 105853
 # A Tour of Azure DevOps
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 29-08-2020 - Session time: 15:20:00 - Track: Application  Database Development
 ## Speaker: Steve Jones
 ## Title: A Tour of Azure DevOps
 ## Abstract:
@@ -331,7 +331,7 @@ Event Date: 29-08-2020 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 107101
 # Data Warehousing Top 10 Tips
 #### [Back to calendar](#nr-997)
-Event Date: 29-08-2020 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-08-2020 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Scott Cameron
 ## Title: Data Warehousing Top 10 Tips
 ## Abstract:

@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 13766
 # Транзакционная репликация - это не страшно. 
 #### [Back to calendar](#nr-398)
-Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Other
+Event Date: 06-06-2015 - Session time: 00:00:00 - Track: Other
 ## Speaker: Evgeny Khabarov
 ## Title: Транзакционная репликация - это не страшно. 
 ## Abstract:
@@ -28,7 +28,7 @@ Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Other
 #### SessionID: 28308
 # Visual Studio для разработчиков баз данных
 #### [Back to calendar](#nr-398)
-Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Other
+Event Date: 06-06-2015 - Session time: 00:00:00 - Track: Other
 ## Speaker: Andrey Zavadskiy
 ## Title: Visual Studio для разработчиков баз данных
 ## Abstract:
@@ -37,7 +37,7 @@ Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Other
 #### SessionID: 13767
 # Поговорим об ожиданиях и очередях
 #### [Back to calendar](#nr-398)
-Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 1
+Event Date: 06-06-2015 - Session time: 10:15:00 - Track: Track 1
 ## Speaker: Evgeny Khabarov
 ## Title: Поговорим об ожиданиях и очередях
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 1
 #### SessionID: 18667
 # Windows Server 2012/R2: новые возможности для SQL Server и виртуализация на его платформе
 #### [Back to calendar](#nr-398)
-Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 3
+Event Date: 06-06-2015 - Session time: 10:15:00 - Track: Track 3
 ## Speaker: Mikhail Komarov
 ## Title: Windows Server 2012/R2: новые возможности для SQL Server и виртуализация на его платформе
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 3
 #### SessionID: 28307
 # Модульное тестирование в помощью SQL Server Data Tools
 #### [Back to calendar](#nr-398)
-Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 2
+Event Date: 06-06-2015 - Session time: 10:15:00 - Track: Track 2
 ## Speaker: Andrey Zavadskiy
 ## Title: Модульное тестирование в помощью SQL Server Data Tools
 ## Abstract:
@@ -65,7 +65,7 @@ Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 2
 #### SessionID: 24365
 # Почему мой SQL Server "тормозит"?
 #### [Back to calendar](#nr-398)
-Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 1
+Event Date: 06-06-2015 - Session time: 11:45:00 - Track: Track 1
 ## Speaker: Sergey Olontsev
 ## Title: Почему мой SQL Server "тормозит"?
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 1
 #### SessionID: 35947
 # Использование динамического sql в MS SQL Server 
 #### [Back to calendar](#nr-398)
-Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Track 3
+Event Date: 06-06-2015 - Session time: 11:45:00 - Track: Track 3
 ## Speaker: Alesya Zhuk
 ## Title: Использование динамического sql в MS SQL Server 
 ## Abstract:

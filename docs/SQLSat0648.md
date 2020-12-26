@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 63226
 # SQL Server 2016 Efficient and Effective coding of Stored Procedures
 #### [Back to calendar](#nr-648)
-Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 02-09-2017 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Steve Simon
 ## Title: SQL Server 2016 Efficient and Effective coding of Stored Procedures
 ## Abstract:
@@ -37,7 +37,7 @@ In this hands-on presentation, we shall be looking at best practices with regard
 #### SessionID: 63263
 # How to become the most sought after SQL Server professionals in SA
 #### [Back to calendar](#nr-648)
-Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Professional Development
+Event Date: 02-09-2017 - Session time: 10:00:00 - Track: Professional Development
 ## Speaker: Vanessa Raath
 ## Title: How to become the most sought after SQL Server professionals in SA
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Professional Developmen
 #### SessionID: 63888
 # The NoSQL DBA
 #### [Back to calendar](#nr-648)
-Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 02-09-2017 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Clinton van Blommestein
 ## Title: The NoSQL DBA
 ## Abstract:
@@ -60,7 +60,7 @@ In this quick session we will look at N1QL (pronounced Nickel) which is the Couc
 #### SessionID: 64763
 # Introduction to Database Design
 #### [Back to calendar](#nr-648)
-Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 02-09-2017 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Sean Cremer
 ## Title: Introduction to Database Design
 ## Abstract:
@@ -71,7 +71,7 @@ This session will go through the fundamentals of database design.  Topics such a
 #### SessionID: 67481
 # Data without technology
 #### [Back to calendar](#nr-648)
-Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Strategy and Architecture
+Event Date: 02-09-2017 - Session time: 10:00:00 - Track: Strategy and Architecture
 ## Speaker: Jody Roberts
 ## Title: Data without technology
 ## Abstract:
@@ -83,7 +83,7 @@ Jody is a Principal Consultant at Northern Data. He is a Microsoft Data Platform
 #### SessionID: 63240
 # Now Where Did THAT Estimate Come From? - Part 1
 #### [Back to calendar](#nr-648)
-Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 02-09-2017 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: Now Where Did THAT Estimate Come From? - Part 1
 ## Abstract:
@@ -96,7 +96,7 @@ Though the focus of this session is on understanding the cause of bad estimates,
 #### SessionID: 64217
 # Running and interacting with SQL Server in Docker
 #### [Back to calendar](#nr-648)
-Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-09-2017 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Heinrich Smit
 ## Title: Running and interacting with SQL Server in Docker
 ## Abstract:
@@ -105,7 +105,7 @@ Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Enterprise Database Adm
 #### SessionID: 66531
 # A Drill Down into R and Python in SQL Server 2017
 #### [Back to calendar](#nr-648)
-Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Advanced Analysis Techniques
+Event Date: 02-09-2017 - Session time: 11:10:00 - Track: Advanced Analysis Techniques
 ## Speaker: Niels Berglund
 ## Title: A Drill Down into R and Python in SQL Server 2017
 ## Abstract:
@@ -114,7 +114,7 @@ Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Advanced Analysis Techn
 #### SessionID: 67360
 # Shedding some light on Windowing Functions
 #### [Back to calendar](#nr-648)
-Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Information Delivery
+Event Date: 02-09-2017 - Session time: 11:10:00 - Track: Information Delivery
 ## Speaker: James McGillivray
 ## Title: Shedding some light on Windowing Functions
 ## Abstract:
@@ -127,7 +127,7 @@ In this session, we'll combine these unlikely bedfellows, by using The Beatles' 
 #### SessionID: 64384
 # The Power of Social Media with PowerBI using Twitter, Facebook and Google Analytics
 #### [Back to calendar](#nr-648)
-Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Analytics and Visualization
+Event Date: 02-09-2017 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Jeanne Combrinck
 ## Title: The Power of Social Media with PowerBI using Twitter, Facebook and Google Analytics
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Analytics and Visualiza
 #### SessionID: 66498
 # Go, Go, QueryStore!
 #### [Back to calendar](#nr-648)
-Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-09-2017 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gail Shaw
 ## Title: Go, Go, QueryStore!
 ## Abstract:
@@ -147,7 +147,7 @@ In this session we’ll take a look at what the QueryStore is and how it works, 
 #### SessionID: 68277
 # Now Where Did THAT Estimate Come From? - Part 2
 #### [Back to calendar](#nr-648)
-Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 02-09-2017 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: Now Where Did THAT Estimate Come From? - Part 2
 ## Abstract:
@@ -160,7 +160,7 @@ Though the focus of this session is on understanding the cause of bad estimates,
 #### SessionID: 63766
 # T-SQL Anti-Patterns
 #### [Back to calendar](#nr-648)
-Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Professional Development
+Event Date: 02-09-2017 - Session time: 14:10:00 - Track: Professional Development
 ## Speaker: Desmond Norton
 ## Title: T-SQL Anti-Patterns
 ## Abstract:
@@ -170,7 +170,7 @@ This session will cover a few T-SQL anti-patterns, explaining the problem being 
 #### SessionID: 66440
 # Zero to Pi to 10 on Cloud,Intro to Windows 10 IoT Core on a Raspberry Pi and BI using Azure IoT Hub
 #### [Back to calendar](#nr-648)
-Event Date: 02-09-2017 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-09-2017 - Session time: 14:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Arohan Naidoo
 ## Title: Zero to Pi to 10 on Cloud,Intro to Windows 10 IoT Core on a Raspberry Pi and BI using Azure IoT Hub
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 02-09-2017 - Session time: 15:20:00 - Track: BI Platform Architectur
 #### SessionID: 67273
 # Creating an adaptive party domain model in SQL Master Data Services
 #### [Back to calendar](#nr-648)
-Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Information Delivery
+Event Date: 02-09-2017 - Session time: 14:10:00 - Track: Information Delivery
 ## Speaker: Erwin Bisschops
 ## Title: Creating an adaptive party domain model in SQL Master Data Services
 ## Abstract:
@@ -190,7 +190,7 @@ In this session I will take you through the approach and the various modelling s
 #### SessionID: 68203
 # SQL Server 2016 Database Administration for the non-DBA
 #### [Back to calendar](#nr-648)
-Event Date: 02-09-2017 - Session time: 15:20:00 - Track: Database Administration 
+Event Date: 02-09-2017 - Session time: 14:10:00 - Track: Database Administration 
 ## Speaker: Denny Cherry
 ## Title: SQL Server 2016 Database Administration for the non-DBA
 ## Abstract:

@@ -29,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 59638
 # Analyzing Execution Plans Like a Pro
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 27-04-2017 - Session time: 09:55:00 - Track: Application  Database Development
 ## Speaker: Guy Glantser
 ## Title: Analyzing Execution Plans Like a Pro
 ## Abstract:
@@ -39,7 +39,7 @@ But there are common pitfalls that you should be aware of when analyzing an exec
 #### SessionID: 61285
 # Make predictions using Azure Machine Learning Studio
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 27-04-2017 - Session time: 09:55:00 - Track: Advanced Analysis Techniques
 ## Speaker: Amit Rappel
 ## Title: Make predictions using Azure Machine Learning Studio
 ## Abstract:
@@ -48,7 +48,7 @@ Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 62573
 # MSSQL on Linux and OPEN source full orchestra from 0 to hero!
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-04-2017 - Session time: 09:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Itshak David
 ## Title: MSSQL on Linux and OPEN source full orchestra from 0 to hero!
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 63655
 # Azure SQL DWH, from ingesting the data to providing analysis
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-04-2017 - Session time: 09:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leonid Ore
 ## Title: Azure SQL DWH, from ingesting the data to providing analysis
 ## Abstract:
@@ -78,7 +78,7 @@ All these and other related questions we’ll try to explore together… See you
 #### SessionID: 59719
 # Near/Real Time Analytics with Power BI
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 27-04-2017 - Session time: 11:10:00 - Track: Analytics and Visualization
 ## Speaker: Yossi Elkayam
 ## Title: Near/Real Time Analytics with Power BI
 ## Abstract:
@@ -87,7 +87,7 @@ Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 62561
 # Elegant T-SQL Solutions for Real World Problems
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 27-04-2017 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Matan Yungman
 ## Title: Elegant T-SQL Solutions for Real World Problems
 ## Abstract:
@@ -98,7 +98,7 @@ In this session, we will look at real world problems and solve them using T-SQL.
 #### SessionID: 62762
 # TempDB  behind the scenes
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 27-04-2017 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Adi Cohn
 ## Title: TempDB  behind the scenes
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 63207
 # Azure SQL Database: The Intelligent Cloud Database for App Developers
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 27-04-2017 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Gilad Mittelman
 ## Title: Azure SQL Database: The Intelligent Cloud Database for App Developers
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 59883
 # SQL Server engine under the hood
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-04-2017 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dubi Lebel
 ## Title: SQL Server engine under the hood
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 61450
 # MSSQL To Run On Linux Systems, Can It Be? Well, Are you ready for the vNext step in evolution?
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Other
+Event Date: 27-04-2017 - Session time: 13:15:00 - Track: Other
 ## Speaker: Nimrod Keinan
 ## Title: MSSQL To Run On Linux Systems, Can It Be? Well, Are you ready for the vNext step in evolution?
 ## Abstract:
@@ -137,7 +137,7 @@ o    String functions: TRIM, CONCAT_WS, TRANSLATE and STRING_AGG with support fo
 #### SessionID: 62504
 # Hybrid SQL business continuity - Backup , DR and Monitoring
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Strategy and Architecture
+Event Date: 27-04-2017 - Session time: 13:15:00 - Track: Strategy and Architecture
 ## Speaker: Sharon Oliar
 ## Title: Hybrid SQL business continuity - Backup , DR and Monitoring
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Strategy and Architectu
 #### SessionID: 63290
 # SQL Server Internals - Binary (Stored) format of the data
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Strategy and Architecture
+Event Date: 27-04-2017 - Session time: 13:15:00 - Track: Strategy and Architecture
 ## Speaker: Ronen Ariely
 ## Title: SQL Server Internals - Binary (Stored) format of the data
 ## Abstract:
@@ -159,7 +159,7 @@ We will read SQL Server data file directly using simple binary editor (notepad++
 #### SessionID: 61732
 # How to Setup and Manage a Corporate Self-Service Analytics Environment
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-04-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Niv Feldman
 ## Title: How to Setup and Manage a Corporate Self-Service Analytics Environment
 ## Abstract:
@@ -170,7 +170,7 @@ Adopting a data-driven approach through a corporate self-service analytics (SSA)
 #### SessionID: 62998
 # Next generation Saas solution for extreme database performance monitoring
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-04-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: yehuda lasri
 ## Title: Next generation Saas solution for extreme database performance monitoring
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 63594
 # Your Database at the speed of Flash
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-04-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Danny Ravid
 ## Title: Your Database at the speed of Flash
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 63679
 # SQL Server migration with Powershell and dbatools
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 27-04-2017 - Session time: 14:30:00 - Track: Professional Development
 ## Speaker: Erez David
 ## Title: SQL Server migration with Powershell and dbatools
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Professional Developmen
 #### SessionID: 59652
 # migrating from Sybase ASE data server to Sql Server 2016 VNext on Red Hat Linux
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-04-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Yuval Klein
 ## Title: migrating from Sybase ASE data server to Sql Server 2016 VNext on Red Hat Linux
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 61727
 # Big Data with Azure: where to begin? Concepts and best practices
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 27-04-2017 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Satya Jayanty
 ## Title: Big Data with Azure: where to begin? Concepts and best practices
 ## Abstract:
@@ -217,7 +217,7 @@ Microsoft Azure has the ability to move, store and analyze data within the cloud
 #### SessionID: 62463
 # Secuiring Azure SQL
 #### [Back to calendar](#nr-623)
-Event Date: 27-04-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 27-04-2017 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: shay shahak
 ## Title: Secuiring Azure SQL
 ## Abstract:

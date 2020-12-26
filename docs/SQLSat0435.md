@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 36355
 # Becoming Certified In Microsoft SQL Server
 #### [Back to calendar](#nr-435)
-Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 29-08-2015 - Session time: 09:15:00 - Track: Professional Development
 ## Speaker: Chris Hyde
 ## Title: Becoming Certified In Microsoft SQL Server
 ## Abstract:
@@ -32,7 +32,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Professional Developmen
 #### SessionID: 36668
 # What’s this ‘Scaffolding a CRUD’ all about? Build a Website from your SQL Database
 #### [Back to calendar](#nr-435)
-Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 29-08-2015 - Session time: 09:15:00 - Track: Application  Database Development
 ## Speaker: Gabriel Villa
 ## Title: What’s this ‘Scaffolding a CRUD’ all about? Build a Website from your SQL Database
 ## Abstract:
@@ -41,7 +41,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 38916
 # Why should I care about the plan cache?
 #### [Back to calendar](#nr-435)
-Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-08-2015 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about the plan cache?
 ## Abstract:
@@ -50,7 +50,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 36353
 # Row-Based Security in SSRS and SSAS
 #### [Back to calendar](#nr-435)
-Event Date: 29-08-2015 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-08-2015 - Session time: 10:25:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Hyde
 ## Title: Row-Based Security in SSRS and SSAS
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 38232
 # Common TSQL Mistakes
 #### [Back to calendar](#nr-435)
-Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 29-08-2015 - Session time: 10:25:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 38710
 # Build Android and iOS Apps with C# and Xamarin
 #### [Back to calendar](#nr-435)
-Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 29-08-2015 - Session time: 10:25:00 - Track: Strategy and Architecture
 ## Speaker: Russ Burns
 ## Title: Build Android and iOS Apps with C# and Xamarin
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Strategy and Architectu
 #### SessionID: 36399
 # The Ins and Outs of SQL Indexes
 #### [Back to calendar](#nr-435)
-Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 29-08-2015 - Session time: 12:40:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: The Ins and Outs of SQL Indexes
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 38182
 # Relational Databases to Relational Leadership -  how to be a great leader
 #### [Back to calendar](#nr-435)
-Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 29-08-2015 - Session time: 12:40:00 - Track: Professional Development
 ## Speaker: Hasani X
 ## Title: Relational Databases to Relational Leadership -  how to be a great leader
 ## Abstract:
@@ -102,7 +102,7 @@ How to Maximize Leadership Performance
 #### SessionID: 38324
 # Reporting with Spatial Data
 #### [Back to calendar](#nr-435)
-Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 29-08-2015 - Session time: 12:40:00 - Track: Analytics and Visualization
 ## Speaker: Russ Burns
 ## Title: Reporting with Spatial Data
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 40516
 # Solving Business Problems Using SQL Window Functions
 #### [Back to calendar](#nr-435)
-Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 29-08-2015 - Session time: 12:40:00 - Track: Advanced Analysis Techniques
 ## Speaker: Swan Webb
 ## Title: Solving Business Problems Using SQL Window Functions
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 36666
 # Don’t fall victim to Little Bobby Tables: Guide to Developing a Secure Database Application
 #### [Back to calendar](#nr-435)
-Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 29-08-2015 - Session time: 13:50:00 - Track: Application  Database Development
 ## Speaker: Gabriel Villa
 ## Title: Don’t fall victim to Little Bobby Tables: Guide to Developing a Secure Database Application
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 38165
 # Data Warehouse Design Decisions
 #### [Back to calendar](#nr-435)
-Event Date: 29-08-2015 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-08-2015 - Session time: 13:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Colleen Barnitz
 ## Title: Data Warehouse Design Decisions
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 29-08-2015 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 38233
 # SQL Server Defaults SUCK!!
 #### [Back to calendar](#nr-435)
-Event Date: 29-08-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-08-2015 - Session time: 13:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Boles
 ## Title: SQL Server Defaults SUCK!!
 ## Abstract:

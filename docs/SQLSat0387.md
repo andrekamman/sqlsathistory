@@ -47,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 10304
 # PoShDBA: Practical PowerShell for the DBA
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
+Event Date: 11-04-2015 - Session time: 09:00:00 - Track: Track 7
 ## Speaker: Ben Miller
 ## Title: PoShDBA: Practical PowerShell for the DBA
 ## Abstract:
@@ -56,7 +56,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
 #### SessionID: 10608
 # What's New in SQL Server 2014 OTHER THAN Hekaton?
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
+Event Date: 11-04-2015 - Session time: 09:00:00 - Track: Track 6
 ## Speaker: Bob Pusateri
 ## Title: What's New in SQL Server 2014 OTHER THAN Hekaton?
 ## Abstract:
@@ -65,7 +65,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
 #### SessionID: 13326
 # Turbo-Charged Transaction Logs
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
+Event Date: 11-04-2015 - Session time: 09:00:00 - Track: Track 1
 ## Speaker: David Maxwell
 ## Title: Turbo-Charged Transaction Logs
 ## Abstract:
@@ -78,7 +78,7 @@ for maximum throughput, and what to do when things get out of control.
 #### SessionID: 18983
 # Automate and Manage your Clouds and Datacenters using your SQL Toolbox
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
+Event Date: 11-04-2015 - Session time: 09:00:00 - Track: Track 3
 ## Speaker: Lee Berg
 ## Title: Automate and Manage your Clouds and Datacenters using your SQL Toolbox
 ## Abstract:
@@ -94,7 +94,7 @@ Topics include:
 #### SessionID: 20575
 # Do More With Less: SQL Central Management Server and SQL Agent Multi-Server Administration
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 8
+Event Date: 11-04-2015 - Session time: 09:00:00 - Track: Track 8
 ## Speaker: Mike Hillwig
 ## Title: Do More With Less: SQL Central Management Server and SQL Agent Multi-Server Administration
 ## Abstract:
@@ -107,7 +107,7 @@ SQL Server MVP Mike Hillwig will show you how to to deploy these two powerful fe
 #### SessionID: 22129
 # Getting Started with Analysis Services Tabular mode
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
+Event Date: 11-04-2015 - Session time: 09:00:00 - Track: Track 5
 ## Speaker: Phillip Labry
 ## Title: Getting Started with Analysis Services Tabular mode
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
 #### SessionID: 22681
 # Mastering queries into XML data.
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
+Event Date: 11-04-2015 - Session time: 09:00:00 - Track: Track 2
 ## Speaker: Rick Bielawski
 ## Title: Mastering queries into XML data.
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
 #### SessionID: 8994
 # SSIS Grab Bag of Best Practices
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
+Event Date: 11-04-2015 - Session time: 09:00:00 - Track: Track 4
 ## Speaker: Adam Belebczuk
 ## Title: SSIS Grab Bag of Best Practices
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
 #### SessionID: 13068
 # The "New" Power BI Self-Service Walkthrough
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
+Event Date: 11-04-2015 - Session time: 10:30:00 - Track: Track 5
 ## Speaker: Dan English
 ## Title: The "New" Power BI Self-Service Walkthrough
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
 #### SessionID: 21769
 # Contained Database - Huh - What's a Contained Database?
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
+Event Date: 11-04-2015 - Session time: 10:30:00 - Track: Track 3
 ## Speaker: Patrick Brewer
 ## Title: Contained Database - Huh - What's a Contained Database?
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
 #### SessionID: 22402
 # An Introduction To Resource Governor in SQL Server
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
+Event Date: 11-04-2015 - Session time: 10:30:00 - Track: Track 1
 ## Speaker: Paul Timmerman
 ## Title: An Introduction To Resource Governor in SQL Server
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
 #### SessionID: 23600
 # SSMS Showdown
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
+Event Date: 11-04-2015 - Session time: 10:30:00 - Track: Track 7
 ## Speaker: Russ Thomas
 ## Title: SSMS Showdown
 ## Abstract:
@@ -170,7 +170,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
 #### SessionID: 23769
 # Is SQL Server AlwaysOn the Right High Availability and Disaster Recovery Plan for me?
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
+Event Date: 11-04-2015 - Session time: 10:30:00 - Track: Track 6
 ## Speaker: Ryan Adams
 ## Title: Is SQL Server AlwaysOn the Right High Availability and Disaster Recovery Plan for me?
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
 #### SessionID: 24988
 # Twice in a Lifetime: T-SQL Refactoring 101
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
+Event Date: 11-04-2015 - Session time: 10:30:00 - Track: Track 2
 ## Speaker: MIKE DONNELLY
 ## Title: Twice in a Lifetime: T-SQL Refactoring 101
 ## Abstract:
@@ -190,7 +190,7 @@ This session will cover ways to quickly find old T-SQL antipatterns, tools that 
 #### SessionID: 26057
 # Dimensional Data Modeling Primer
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
+Event Date: 11-04-2015 - Session time: 10:30:00 - Track: Track 4
 ## Speaker: Terry Bunio
 ## Title: Dimensional Data Modeling Primer
 ## Abstract:
@@ -200,7 +200,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
 #### SessionID: 27832
 # Read Dirty to Me - Isolation Levels/User Impact
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 8
+Event Date: 11-04-2015 - Session time: 10:30:00 - Track: Track 8
 ## Speaker: Wendy Pastrick
 ## Title: Read Dirty to Me - Isolation Levels/User Impact
 ## Abstract:
@@ -209,7 +209,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 8
 #### SessionID: 10462
 # What is Biml and why are SSIS people talking about it?
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
+Event Date: 11-04-2015 - Session time: 13:00:00 - Track: Track 1
 ## Speaker: Bill Fellows
 ## Title: What is Biml and why are SSIS people talking about it?
 ## Abstract:
@@ -218,7 +218,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
 #### SessionID: 12595
 # Right-Sizing Your SQL Server Virtual Machine
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
+Event Date: 11-04-2015 - Session time: 13:00:00 - Track: Track 6
 ## Speaker: David Klee
 ## Title: Right-Sizing Your SQL Server Virtual Machine
 ## Abstract:
@@ -229,7 +229,7 @@ The methods for understanding the performance of your mission-critical SQL Serve
 #### SessionID: 15559
 # How to collect a baseline on all your servers and still get a good night's sleep.
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
+Event Date: 11-04-2015 - Session time: 13:00:00 - Track: Track 7
 ## Speaker: Jim Dorame
 ## Title: How to collect a baseline on all your servers and still get a good night's sleep.
 ## Abstract:
@@ -238,7 +238,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
 #### SessionID: 19667
 # Keeping the "Business" in Business Intelligence
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
+Event Date: 11-04-2015 - Session time: 13:00:00 - Track: Track 5
 ## Speaker: Mark Vaillancourt
 ## Title: Keeping the "Business" in Business Intelligence
 ## Abstract:
@@ -255,7 +255,7 @@ So much of the success for BI happens before the requirements are even gathered.
 #### SessionID: 24417
 # Introduction to Azure Machine Learning
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
+Event Date: 11-04-2015 - Session time: 13:00:00 - Track: Track 2
 ## Speaker: Scott Hietpas
 ## Title: Introduction to Azure Machine Learning
 ## Abstract:
@@ -264,7 +264,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
 #### SessionID: 24605
 # How to Determine What Data Is Corrupt
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
+Event Date: 11-04-2015 - Session time: 13:00:00 - Track: Track 3
 ## Speaker: Frank Gill
 ## Title: How to Determine What Data Is Corrupt
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
 #### SessionID: 24892
 # Every Byte Counts: Why Your Data Type Choices Matter
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 8
+Event Date: 11-04-2015 - Session time: 13:00:00 - Track: Track 8
 ## Speaker: Andy Yun
 ## Title: Every Byte Counts: Why Your Data Type Choices Matter
 ## Abstract:
@@ -286,7 +286,7 @@ When you leave, you will be able to explain to your colleagues why data type cho
 #### SessionID: 28298
 # Build ETL in 30 minutes or less with SSIS 
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
+Event Date: 11-04-2015 - Session time: 13:00:00 - Track: Track 4
 ## Speaker: Zane Brunette
 ## Title: Build ETL in 30 minutes or less with SSIS 
 ## Abstract:
@@ -295,7 +295,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
 #### SessionID: 13685
 # Protecting Your Data with Encryption
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
+Event Date: 11-04-2015 - Session time: 14:30:00 - Track: Track 3
 ## Speaker: Ed Leighton-Dick
 ## Title: Protecting Your Data with Encryption
 ## Abstract:
@@ -304,7 +304,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 3
 #### SessionID: 19216
 # Somebody got BIDS Helper in my Data Tools
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
+Event Date: 11-04-2015 - Session time: 14:30:00 - Track: Track 2
 ## Speaker: Meagan Longoria
 ## Title: Somebody got BIDS Helper in my Data Tools
 ## Abstract:
@@ -313,7 +313,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 2
 #### SessionID: 19669
 # Power Query: Data Chemistry for the Masses
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 5
+Event Date: 11-04-2015 - Session time: 14:30:00 - Track: Track 5
 ## Speaker: Mark Vaillancourt
 ## Title: Power Query: Data Chemistry for the Masses
 ## Abstract:
@@ -334,7 +334,7 @@ Come learn about what may well be the most exciting member of the Power BI famil
 #### SessionID: 19983
 # Index-fu - getting the most out of your indexes
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
+Event Date: 11-04-2015 - Session time: 14:30:00 - Track: Track 1
 ## Speaker: Michael DeFehr
 ## Title: Index-fu - getting the most out of your indexes
 ## Abstract:
@@ -344,7 +344,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 1
 #### SessionID: 21152
 # Deep Dive into Windows and AlwaysOn Capabilities for DR
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
+Event Date: 11-04-2015 - Session time: 14:30:00 - Track: Track 6
 ## Speaker: Michael Steineke
 ## Title: Deep Dive into Windows and AlwaysOn Capabilities for DR
 ## Abstract:
@@ -353,7 +353,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 6
 #### SessionID: 23159
 # Building an Enterprise Data Repository with BIML
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 8
+Event Date: 11-04-2015 - Session time: 14:30:00 - Track: Track 8
 ## Speaker: Rob Long
 ## Title: Building an Enterprise Data Repository with BIML
 ## Abstract:
@@ -362,7 +362,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 8
 #### SessionID: 27042
 # Administering SQL Servers for Development Teams
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
+Event Date: 11-04-2015 - Session time: 14:30:00 - Track: Track 7
 ## Speaker: Omni Resources Speaker Panel
 ## Title: Administering SQL Servers for Development Teams
 ## Abstract:
@@ -371,7 +371,7 @@ Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 7
 #### SessionID: 28295
 # Multi-Tenant Data Warehousing and ETL in Azure
 #### [Back to calendar](#nr-387)
-Event Date: 11-04-2015 - Session time: 16:00:00 - Track: Track 4
+Event Date: 11-04-2015 - Session time: 14:30:00 - Track: Track 4
 ## Speaker: Zach Mattson
 ## Title: Multi-Tenant Data Warehousing and ETL in Azure
 ## Abstract:

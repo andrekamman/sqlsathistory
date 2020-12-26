@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 74460
 # Cosmos DB - NoSQL strikes back (Introduction to the dark side of data)
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Cloud
+Event Date: 09-06-2018 - Session time: 09:15:00 - Track: Cloud
 ## Speaker: Andre Essing
 ## Title: Cosmos DB - NoSQL strikes back (Introduction to the dark side of data)
 ## Abstract:
@@ -57,7 +57,7 @@ Besuchen Sie meinen Vortrag und finden Sie richtige Lösung für Ihre Applikatio
 #### SessionID: 74473
 # TFS for Continous Integration for SSIS and database projects in a Data Warehouse environment
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: BI
+Event Date: 09-06-2018 - Session time: 09:15:00 - Track: BI
 ## Speaker: Felix Möller
 ## Title: TFS for Continous Integration for SSIS and database projects in a Data Warehouse environment
 ## Abstract:
@@ -76,7 +76,7 @@ For any violation of the above, you will get a mail right after the checkin to f
 #### SessionID: 77607
 # Graph Databases and Solutions
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: DEV
+Event Date: 09-06-2018 - Session time: 09:15:00 - Track: DEV
 ## Speaker: Niko Neugebauer
 ## Title: Graph Databases and Solutions
 ## Abstract:
@@ -90,7 +90,7 @@ Let's dive into this diverse world of graph databases and discover the new kid o
 #### SessionID: 78950
 # Sneak Peak on the SQL Server Tools for Linux  Windows
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: DBA
+Event Date: 09-06-2018 - Session time: 09:15:00 - Track: DBA
 ## Speaker: Ivan Campos
 ## Title: Sneak Peak on the SQL Server Tools for Linux  Windows
 ## Abstract:
@@ -101,7 +101,7 @@ Join me in this session and see the tools that we have available for the moment 
 #### SessionID: 82880
 # Power Moving
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Mixed
+Event Date: 09-06-2018 - Session time: 09:15:00 - Track: Mixed
 ## Speaker: Christian Storms
 ## Title: Power Moving
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Mixed
 #### SessionID: 82988
 # How to simplify a scientists life – PowerBI, R and an applied statistics
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Analytics
+Event Date: 09-06-2018 - Session time: 09:15:00 - Track: Analytics
 ## Speaker: Ameli Kirse
 ## Title: How to simplify a scientists life – PowerBI, R and an applied statistics
 ## Abstract:
@@ -124,7 +124,7 @@ Every project has its own hypotheses and it is the overreaching goal of every ex
 #### SessionID: 74448
 # Das SSIS Paket das sich selbst optimiert
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: BI
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: BI
 ## Speaker: Ben Weissman
 ## Title: Das SSIS Paket das sich selbst optimiert
 ## Abstract:
@@ -139,7 +139,7 @@ Wir sehen uns für beide Fälle an, wie wir diese mit Biml weitgehend automatisi
 #### SessionID: 74451
 # Next first steps - selected applications of R
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Analytics
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: Analytics
 ## Speaker: Thomas Hütter
 ## Title: Next first steps - selected applications of R
 ## Abstract:
@@ -152,7 +152,7 @@ Die drei Themen dieser leicht Code-lastigen Session sind:
 #### SessionID: 74527
 # Einstieg in Azure SQL Databases und Powershell Automation
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: DBA
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: DBA
 ## Speaker: Björn Peters
 ## Title: Einstieg in Azure SQL Databases und Powershell Automation
 ## Abstract:
@@ -164,7 +164,7 @@ Wir werden uns verschiedene Deployments anschauen, auf das Thema Backup und auf 
 #### SessionID: 78575
 # In Sekunden die Stecknadel im Heuhaufen finden – Data Quality auf Knopfdruck
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: DEV
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: DEV
 ## Speaker: Markus Christ
 ## Title: In Sekunden die Stecknadel im Heuhaufen finden – Data Quality auf Knopfdruck
 ## Abstract:
@@ -173,7 +173,7 @@ Event Date: 09-06-2018 - Session time: 17:00:00 - Track: DEV
 #### SessionID: 82727
 # Das Modell und der Freak – Intelligente Bots zum Selbermachen
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Cloud
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: Cloud
 ## Speaker: Constantin Klein
 ## Title: Das Modell und der Freak – Intelligente Bots zum Selbermachen
 ## Abstract:
@@ -182,7 +182,7 @@ Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Cloud
 #### SessionID: 82878
 # Arbeiten mit Azure Notebooks
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Mixed
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: Mixed
 ## Speaker: Tillmann Eitelberg
 ## Title: Arbeiten mit Azure Notebooks
 ## Abstract:
@@ -192,7 +192,7 @@ In dieser Session erkläre ich die technischen Grundlagen der Azure Notebooks un
 #### SessionID: 77388
 # Deep-Dive into Polybase
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Analytics
+Event Date: 09-06-2018 - Session time: 12:00:00 - Track: Analytics
 ## Speaker: Gerhard Brueckl
 ## Title: Deep-Dive into Polybase
 ## Abstract:
@@ -201,7 +201,7 @@ Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Analytics
 #### SessionID: 78577
 # Künstliche Intelligenz im SQL Server 2017
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: DEV
+Event Date: 09-06-2018 - Session time: 12:00:00 - Track: DEV
 ## Speaker: Sascha Dittmann
 ## Title: Künstliche Intelligenz im SQL Server 2017
 ## Abstract:
@@ -213,7 +213,7 @@ Anhand von Codebeispielen in Python, R und den neuen T-SQL Syntaxerweiterungen, 
 #### SessionID: 78592
 # Parallele Paket-Verarbeitung mit SSIS Scale Out
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: BI
+Event Date: 09-06-2018 - Session time: 12:00:00 - Track: BI
 ## Speaker: Stefan Grigat
 ## Title: Parallele Paket-Verarbeitung mit SSIS Scale Out
 ## Abstract:
@@ -222,7 +222,7 @@ Event Date: 09-06-2018 - Session time: 17:00:00 - Track: BI
 #### SessionID: 78944
 # On-premises, Hybrid and Cloud: Databases Can Live Anywhere Now!
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: DBA
+Event Date: 09-06-2018 - Session time: 12:00:00 - Track: DBA
 ## Speaker: William Durkin
 ## Title: On-premises, Hybrid and Cloud: Databases Can Live Anywhere Now!
 ## Abstract:
@@ -241,7 +241,7 @@ At the end of the session you will have an understanding of what options are ava
 #### SessionID: 80061
 # Be ready for GDPR – from zero to hero in 60 minutes!
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Mixed
+Event Date: 09-06-2018 - Session time: 12:00:00 - Track: Mixed
 ## Speaker: Raphael Köllner
 ## Title: Be ready for GDPR – from zero to hero in 60 minutes!
 ## Abstract:
@@ -250,7 +250,7 @@ Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Mixed
 #### SessionID: 82716
 # The joy of analytics - wir malen ein Data Warehouse in die Cloud
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Cloud
+Event Date: 09-06-2018 - Session time: 12:00:00 - Track: Cloud
 ## Speaker: Andre Essing
 ## Title: The joy of analytics - wir malen ein Data Warehouse in die Cloud
 ## Abstract:
@@ -263,7 +263,7 @@ Besuchen Sie meinen Vortrag und zeichnen Sie mit mir zusammen ein modernes Data 
 #### SessionID: 74472
 # Mastering DML Operations like a master
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: DBA
+Event Date: 09-06-2018 - Session time: 14:20:00 - Track: DBA
 ## Speaker: Uwe Ricken
 ## Title: Mastering DML Operations like a master
 ## Abstract:
@@ -280,7 +280,7 @@ What performance drawbacks have Page Splits and Forwarded Records for my applica
 #### SessionID: 77193
 # Continuous Integration Pipelines With Jenkins, Docker and SQL Server
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: DEV
+Event Date: 09-06-2018 - Session time: 14:20:00 - Track: DEV
 ## Speaker: Christopher Adkin
 ## Title: Continuous Integration Pipelines With Jenkins, Docker and SQL Server
 ## Abstract:
@@ -289,7 +289,7 @@ Event Date: 09-06-2018 - Session time: 17:00:00 - Track: DEV
 #### SessionID: 77494
 # WIT - Wie kann ich euch erreichen?
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Mixed
+Event Date: 09-06-2018 - Session time: 14:20:00 - Track: Mixed
 ## Speaker: Gabi Münster
 ## Title: WIT - Wie kann ich euch erreichen?
 ## Abstract:
@@ -305,7 +305,7 @@ Ich habe meine Meinung zu diesen Fragen und werde diese gerne mit euch teilen. V
 #### SessionID: 78578
 # TensorFlow as a Service
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Analytics
+Event Date: 09-06-2018 - Session time: 14:20:00 - Track: Analytics
 ## Speaker: Sascha Dittmann
 ## Title: TensorFlow as a Service
 ## Abstract:
@@ -316,7 +316,7 @@ In dieser Session zeigt Sascha Dittmann wie man mit der Azure Machine Learning W
 #### SessionID: 78701
 # Azure Architecturen. Interaktive Whiteboard session
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Cloud
+Event Date: 09-06-2018 - Session time: 14:20:00 - Track: Cloud
 ## Speaker: Benjamin Kettner
 ## Title: Azure Architecturen. Interaktive Whiteboard session
 ## Abstract:
@@ -327,7 +327,7 @@ Bei dieser Session gibt es kein "Richtig" oder "Falsch", das Ziel ist, dass ihr 
 #### SessionID: 80022
 # Azure SQL Datawarehouse - The complete introduction
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: BI
+Event Date: 09-06-2018 - Session time: 14:20:00 - Track: BI
 ## Speaker: André Kamman
 ## Title: Azure SQL Datawarehouse - The complete introduction
 ## Abstract:
@@ -338,7 +338,7 @@ In this session I will explain what is happening behind the scenes and how it is
 #### SessionID: 77301
 # Choose your own Database Adventure
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Mixed
+Event Date: 09-06-2018 - Session time: 15:40:00 - Track: Mixed
 ## Speaker: Kevin Chant
 ## Title: Choose your own Database Adventure
 ## Abstract:
@@ -349,7 +349,7 @@ Each selection will have a different outcome, and along the way you will probabl
 #### SessionID: 77672
 # BI in Azure ein Jahr live
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: BI
+Event Date: 09-06-2018 - Session time: 15:40:00 - Track: BI
 ## Speaker: Alexander Klein
 ## Title: BI in Azure ein Jahr live
 ## Abstract:
@@ -360,7 +360,7 @@ Jetzt nach mehr als einem Jahr im live Betrieb eine kurze Zusammenfassung und Be
 #### SessionID: 77897
 # 10 Alerts that you should have it running in your SQL Server!
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: DBA
+Event Date: 09-06-2018 - Session time: 15:40:00 - Track: DBA
 ## Speaker: Marcos Freccia
 ## Title: 10 Alerts that you should have it running in your SQL Server!
 ## Abstract:
@@ -371,7 +371,7 @@ By the end of this session, your life as a DBA will be much easier with those al
 #### SessionID: 78515
 # Fallen in M - und wie man sie umgeht
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Analytics
+Event Date: 09-06-2018 - Session time: 15:40:00 - Track: Analytics
 ## Speaker: Dominik Petri
 ## Title: Fallen in M - und wie man sie umgeht
 ## Abstract:
@@ -380,7 +380,7 @@ Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Analytics
 #### SessionID: 82715
 # Azure SQL Database überwachen, analysieren und optimieren mit OMS
 #### [Back to calendar](#nr-760)
-Event Date: 09-06-2018 - Session time: 17:00:00 - Track: Cloud
+Event Date: 09-06-2018 - Session time: 15:40:00 - Track: Cloud
 ## Speaker: Björn Peters
 ## Title: Azure SQL Database überwachen, analysieren und optimieren mit OMS
 ## Abstract:

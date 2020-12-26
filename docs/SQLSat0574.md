@@ -47,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 53371
 # Automated SQL Server installation and configuration using PowerShell
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-12-2016 - Session time: 08:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jamie Wick
 ## Title: Automated SQL Server installation and configuration using PowerShell
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 53449
 # Location Location Location Preparing and Presenting Geographic Data 
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: BI Information Delivery
+Event Date: 03-12-2016 - Session time: 08:20:00 - Track: BI Information Delivery
 ## Speaker: David Dye
 ## Title: Location Location Location Preparing and Presenting Geographic Data 
 ## Abstract:
@@ -70,7 +70,7 @@ Events that occurred at a specific address, zip code, and even block range and e
 #### SessionID: 53753
 # The Many Paths of Consulting
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 03-12-2016 - Session time: 08:20:00 - Track: Professional Development
 ## Speaker: David Klee
 ## Title: The Many Paths of Consulting
 ## Abstract:
@@ -81,7 +81,7 @@ This session will help you ask the right questions to better chose and prepare f
 #### SessionID: 53797
 # A Discussion on Azure SQL Database Security Features for the Cloud Objectionist
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-12-2016 - Session time: 08:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Timothy McAliley
 ## Title: A Discussion on Azure SQL Database Security Features for the Cloud Objectionist
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 54784
 # PowerBI Internals
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: BI Information Delivery
+Event Date: 03-12-2016 - Session time: 08:20:00 - Track: BI Information Delivery
 ## Speaker: Eugene Meidinger
 ## Title: PowerBI Internals
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: BI Information Delivery
 #### SessionID: 54901
 # Demystifying Data Compression
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-12-2016 - Session time: 08:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Mallon
 ## Title: Demystifying Data Compression
 ## Abstract:
@@ -110,7 +110,7 @@ No--unfortunately, it's not that easy. We'll talk about how data compression act
 #### SessionID: 55151
 # Don't Let History Be a Mystery! Temporal Data in SQL Server 2016
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Intermediate Dev
+Event Date: 03-12-2016 - Session time: 08:20:00 - Track: Intermediate Dev
 ## Speaker: Adam Machanic
 ## Title: Don't Let History Be a Mystery! Temporal Data in SQL Server 2016
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Intermediate Dev
 #### SessionID: 55169
 # Why Should I Care About ... Partitioned Views?
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-12-2016 - Session time: 08:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 53345
 # Using Excel Web Services to Create Dashboards in SharePoint
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Analytics and Visualization
+Event Date: 03-12-2016 - Session time: 09:45:00 - Track: Analytics and Visualization
 ## Speaker: David Patrick
 ## Title: Using Excel Web Services to Create Dashboards in SharePoint
 ## Abstract:
@@ -137,7 +137,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Analytics and Visualiza
 #### SessionID: 53424
 # R For the SQL Server Developer
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Analytics and Visualization
+Event Date: 03-12-2016 - Session time: 09:45:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Analytics and Visualiza
 #### SessionID: 53784
 # Enhancing your career: Building your personal brand
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 03-12-2016 - Session time: 09:45:00 - Track: Professional Development
 ## Speaker: James Serra
 ## Title: Enhancing your career: Building your personal brand
 ## Abstract:
@@ -155,7 +155,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Professional Developmen
 #### SessionID: 54020
 # Getting to 99.99% Uptime Delivering Operational Excellence
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 03-12-2016 - Session time: 09:45:00 - Track: Professional Development
 ## Speaker: George Govantes
 ## Title: Getting to 99.99% Uptime Delivering Operational Excellence
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Professional Developmen
 #### SessionID: 54148
 # Top 10 Dos and Don’ts for Clustered SQL Server Implementations
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-12-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allan Hirt
 ## Title: Top 10 Dos and Don’ts for Clustered SQL Server Implementations
 ## Abstract:
@@ -173,7 +173,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 54314
 # SQL Server on Windows Core. Installation and Configuration.
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Intermediate DBA
+Event Date: 03-12-2016 - Session time: 09:45:00 - Track: Intermediate DBA
 ## Speaker: Slava Murygin
 ## Title: SQL Server on Windows Core. Installation and Configuration.
 ## Abstract:
@@ -184,7 +184,7 @@ In this session we will go step by step  through an installation, remote configu
 #### SessionID: 55138
 # Troubleshooting Blocking for Beginners
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Intro DBA
+Event Date: 03-12-2016 - Session time: 09:45:00 - Track: Intro DBA
 ## Speaker: Kendra Little
 ## Title: Troubleshooting Blocking for Beginners
 ## Abstract:
@@ -193,7 +193,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Intro DBA
 #### SessionID: 55156
 # Understanding SQL Server 2016 Always Encrypted
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 03-12-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Ed Leighton-Dick
 ## Title: Understanding SQL Server 2016 Always Encrypted
 ## Abstract:
@@ -202,7 +202,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 53447
 # Creating Dynamic Packages
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-12-2016 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Dye
 ## Title: Creating Dynamic Packages
 ## Abstract:
@@ -221,7 +221,7 @@ Each attendee will leave with the knowledge and toolset necessary to:
 #### SessionID: 53943
 # The Art of War with Bad Code
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Intermediate DBA
+Event Date: 03-12-2016 - Session time: 11:10:00 - Track: Intermediate DBA
 ## Speaker: Andrew Kelly
 ## Title: The Art of War with Bad Code
 ## Abstract:
@@ -230,7 +230,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Intermediate DBA
 #### SessionID: 54689
 # Introduction to SQL Server Reporting Services 2016
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: BI Information Delivery
+Event Date: 03-12-2016 - Session time: 11:10:00 - Track: BI Information Delivery
 ## Speaker: Jessica Moss
 ## Title: Introduction to SQL Server Reporting Services 2016
 ## Abstract:
@@ -239,7 +239,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: BI Information Delivery
 #### SessionID: 54829
 # I’m It – Survival Techniques for the Lone DBA
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 03-12-2016 - Session time: 11:10:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I’m It – Survival Techniques for the Lone DBA
 ## Abstract:
@@ -248,7 +248,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Professional Developmen
 #### SessionID: 54909
 # Blue Collar SQL Tricks - Make Standard Edition Work for you.
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 03-12-2016 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Blue Collar SQL Tricks - Make Standard Edition Work for you.
 ## Abstract:
@@ -261,7 +261,7 @@ Let’s dig in and learn to make use of all we have until we beg our bosses enou
 #### SessionID: 54956
 # WIT: Identifying, Understanding and Combating Gender Bias
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 03-12-2016 - Session time: 11:10:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: WIT: Identifying, Understanding and Combating Gender Bias
 ## Abstract:
@@ -270,7 +270,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Professional Developmen
 #### SessionID: 55002
 # SQL Server Databaseology: A Deep Dive Into Database Internals
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-12-2016 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology: A Deep Dive Into Database Internals
 ## Abstract:
@@ -279,7 +279,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 55167
 # Why should I care about ... the plan cache?
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-12-2016 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
 ## Abstract:
@@ -290,7 +290,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #### SessionID: 53551
 # CONVERT_IMPLICIT is a hidden danger
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Intermediate DBA
+Event Date: 03-12-2016 - Session time: 13:40:00 - Track: Intermediate DBA
 ## Speaker: Alex Grinberg
 ## Title: CONVERT_IMPLICIT is a hidden danger
 ## Abstract:
@@ -299,7 +299,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Intermediate DBA
 #### SessionID: 53669
 # PolyBase: I now pronounce you SQL and Hadoop
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Other
+Event Date: 03-12-2016 - Session time: 13:40:00 - Track: Other
 ## Speaker: Ayman El-Ghazali
 ## Title: PolyBase: I now pronounce you SQL and Hadoop
 ## Abstract:
@@ -308,7 +308,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Other
 #### SessionID: 54299
 # Imposter Syndrome: Are You Faking It  Will they Find Out?
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 03-12-2016 - Session time: 13:40:00 - Track: Professional Development
 ## Speaker: Mindy Curnutt
 ## Title: Imposter Syndrome: Are You Faking It  Will they Find Out?
 ## Abstract:
@@ -317,7 +317,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Professional Developmen
 #### SessionID: 54519
 # SQL and VMware - more than just virtualization demos
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-12-2016 - Session time: 13:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Niran Even-Chen
 ## Title: SQL and VMware - more than just virtualization demos
 ## Abstract:
@@ -326,7 +326,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 54568
 # SQL Server 2016: Temporal Tables and Dynamic Data Masking
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-12-2016 - Session time: 13:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Wayne Sheffield
 ## Title: SQL Server 2016: Temporal Tables and Dynamic Data Masking
 ## Abstract:
@@ -335,7 +335,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 54598
 # Rewriting Your Checklist for SQL 2016
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-12-2016 - Session time: 13:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Hillwig
 ## Title: Rewriting Your Checklist for SQL 2016
 ## Abstract:
@@ -348,7 +348,7 @@ Join veteran DBA Mike Hillwig and his list of server administration best practic
 #### SessionID: 54688
 # Introduction to SQL Server Integration Services 2016
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-12-2016 - Session time: 13:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jessica Moss
 ## Title: Introduction to SQL Server Integration Services 2016
 ## Abstract:
@@ -357,7 +357,7 @@ Event Date: 03-12-2016 - Session time: 15:05:00 - Track: BI Platform Architectur
 #### SessionID: 55161
 # Unit-Testing in SQL Server - An Introduction
 #### [Back to calendar](#nr-574)
-Event Date: 03-12-2016 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 03-12-2016 - Session time: 13:40:00 - Track: Application  Database Development
 ## Speaker: Sebastian Meine
 ## Title: Unit-Testing in SQL Server - An Introduction
 ## Abstract:

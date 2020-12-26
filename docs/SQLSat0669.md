@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 65462
 # Fundamentos de Data Warehouse - Analytics - Business Intelligence
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-10-2017 - Session time: 09:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: César Oviedo
 ## Title: Fundamentos de Data Warehouse - Analytics - Business Intelligence
 ## Abstract:
@@ -39,7 +39,7 @@ Event Date: 28-10-2017 - Session time: 16:40:00 - Track: BI Platform Architectur
 #### SessionID: 69806
 # Introduction to SQL Server 2017
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Application  Database Development
+Event Date: 28-10-2017 - Session time: 09:20:00 - Track: Application  Database Development
 ## Speaker: Jayaprakash Jothiraman
 ## Title: Introduction to SQL Server 2017
 ## Abstract:
@@ -48,7 +48,7 @@ Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Application  Database D
 #### SessionID: 69820
 # Construyendo un BI cuándo eres un DBA #WTF
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Strategy and Architecture
+Event Date: 28-10-2017 - Session time: 09:20:00 - Track: Strategy and Architecture
 ## Speaker: Jesus Gil
 ## Title: Construyendo un BI cuándo eres un DBA #WTF
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Strategy and Architectu
 #### SessionID: 65421
 # Power BI Embedded en nuestras aplicaciones MVC
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Analytics and Visualization
+Event Date: 28-10-2017 - Session time: 10:10:00 - Track: Analytics and Visualization
 ## Speaker: Alex Siles Loaiza
 ## Title: Power BI Embedded en nuestras aplicaciones MVC
 ## Abstract:
@@ -67,7 +67,7 @@ Si deseas aprender como realizar este unión entre Power BI Embedded y una aplic
 #### SessionID: 65738
 # Data Analytics: Clustering, Regression and Machine Learning con  Power BI
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: BI Information Delivery
+Event Date: 28-10-2017 - Session time: 10:10:00 - Track: BI Information Delivery
 ## Speaker: Eduardo Castro
 ## Title: Data Analytics: Clustering, Regression and Machine Learning con  Power BI
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 28-10-2017 - Session time: 16:40:00 - Track: BI Information Delivery
 #### SessionID: 66457
 # Analisys Services Tabular
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-10-2017 - Session time: 10:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: Analisys Services Tabular
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 28-10-2017 - Session time: 16:40:00 - Track: BI Platform Architectur
 #### SessionID: 67293
 # Internet of Things (IoT) - Mis primeros pasos.
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-10-2017 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Adrian Miranda
 ## Title: Internet of Things (IoT) - Mis primeros pasos.
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Cloud Application Devel
 #### SessionID: 69166
 # Introducción a Data Analysis Expressions (DAX)
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: BI Information Delivery
+Event Date: 28-10-2017 - Session time: 11:00:00 - Track: BI Information Delivery
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Introducción a Data Analysis Expressions (DAX)
 ## Abstract:
@@ -116,7 +116,7 @@ Time Intelligence
 #### SessionID: 69170
 # SQL Server 2016 - Mejorando el desempeño de consultas de análisis sobre sistemas de misión crítica
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Strategy and Architecture
+Event Date: 28-10-2017 - Session time: 11:00:00 - Track: Strategy and Architecture
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2016 - Mejorando el desempeño de consultas de análisis sobre sistemas de misión crítica
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Strategy and Architectu
 #### SessionID: 65457
 # Procesos de Análisis en tiempo real con Real-Time Operational Analytics y AlwaysON Readable Replicas
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Advanced Analysis Techniques
+Event Date: 28-10-2017 - Session time: 13:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Carlos Rojas Vargas
 ## Title: Procesos de Análisis en tiempo real con Real-Time Operational Analytics y AlwaysON Readable Replicas
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Advanced Analysis Techn
 #### SessionID: 68906
 # Text Mining con R en PowerBI
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Analytics and Visualization
+Event Date: 28-10-2017 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Jorge Michael Muchaypiña Gutierrez
 ## Title: Text Mining con R en PowerBI
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Analytics and Visualiza
 #### SessionID: 69804
 # Mantenga su Data Warehouse seguro, YA!
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-10-2017 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: Mantenga su Data Warehouse seguro, YA!
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 28-10-2017 - Session time: 16:40:00 - Track: BI Platform Architectur
 #### SessionID: 65459
 # Dashboards con Mobile Reports
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Analytics and Visualization
+Event Date: 28-10-2017 - Session time: 13:50:00 - Track: Analytics and Visualization
 ## Speaker: Víctor Zúñiga
 ## Title: Dashboards con Mobile Reports
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Analytics and Visualiza
 #### SessionID: 65460
 # De la Tierra al Cielo con Power BI
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Analytics and Visualization
+Event Date: 28-10-2017 - Session time: 13:50:00 - Track: Analytics and Visualization
 ## Speaker: Vladimir Guzman
 ## Title: De la Tierra al Cielo con Power BI
 ## Abstract:
@@ -172,7 +172,7 @@ Configuración de Gateways y DataSources en la nube
 #### SessionID: 67754
 # Introducción a Reporting Services 2016
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Analytics and Visualization
+Event Date: 28-10-2017 - Session time: 13:50:00 - Track: Analytics and Visualization
 ## Speaker: Yanitza Campos
 ## Title: Introducción a Reporting Services 2016
 ## Abstract:
@@ -183,7 +183,7 @@ En esta sesión veremos sus novedades ya que ha tenido un gran cambio en su ulti
 #### SessionID: 66668
 # Cortana Intelligence Suite for Developers
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Analytics and Visualization
+Event Date: 28-10-2017 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Keneth Murillo
 ## Title: Cortana Intelligence Suite for Developers
 ## Abstract:
@@ -192,7 +192,7 @@ Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Analytics and Visualiza
 #### SessionID: 67191
 # Introducción a SQL Graph Databases
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Analytics and Visualization
+Event Date: 28-10-2017 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Ricardo Estrada
 ## Title: Introducción a SQL Graph Databases
 ## Abstract:
@@ -201,7 +201,7 @@ Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Analytics and Visualiza
 #### SessionID: 69504
 # Introducción a Data Analysis Expressions (DAX) II Parte
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: BI Information Delivery
+Event Date: 28-10-2017 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Introducción a Data Analysis Expressions (DAX) II Parte
 ## Abstract:
@@ -215,7 +215,7 @@ etc.
 #### SessionID: 69363
 # Visual Analytics with Tableau
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Analytics and Visualization
+Event Date: 28-10-2017 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Rafael Garita Molina
 ## Title: Visual Analytics with Tableau
 ## Abstract:
@@ -229,7 +229,7 @@ Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Analytics and Visualiza
 #### SessionID: 69482
 # SQL Server 2017 Automatic Tuning
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-10-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alejandro Cordero
 ## Title: SQL Server 2017 Automatic Tuning
 ## Abstract:
@@ -238,7 +238,7 @@ Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Enterprise Database Adm
 #### SessionID: 69819
 # R-evolucionando el #DataScience sin morir en el intento
 #### [Back to calendar](#nr-669)
-Event Date: 28-10-2017 - Session time: 16:40:00 - Track: Analytics and Visualization
+Event Date: 28-10-2017 - Session time: 15:50:00 - Track: Analytics and Visualization
 ## Speaker: Jesus Gil
 ## Title: R-evolucionando el #DataScience sin morir en el intento
 ## Abstract:

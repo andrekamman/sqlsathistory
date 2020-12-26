@@ -22,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 41443
 # Welcome Note - Room 1
 #### [Back to calendar](#nr-475)
-Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Other
+Event Date: 28-11-2015 - Session time: 09:00:00 - Track: Other
 ## Speaker: Dejan Pervulov
 ## Title: Welcome Note - Room 1
 ## Abstract:
@@ -31,7 +31,7 @@ Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Other
 #### SessionID: 41449
 # Welcome Note - Room 2
 #### [Back to calendar](#nr-475)
-Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Other
+Event Date: 28-11-2015 - Session time: 09:00:00 - Track: Other
 ## Speaker: Goran Milanov
 ## Title: Welcome Note - Room 2
 ## Abstract:
@@ -40,7 +40,7 @@ Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Other
 #### SessionID: 39926
 # Tired of connecting on-prem  cloud data? Take a DB stretch
 #### [Back to calendar](#nr-475)
-Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-11-2015 - Session time: 09:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Tired of connecting on-prem  cloud data? Take a DB stretch
 ## Abstract:
@@ -49,7 +49,7 @@ Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Cloud Application Devel
 #### SessionID: 40896
 # Top 10 SSAS Solution Design Best Practices
 #### [Back to calendar](#nr-475)
-Event Date: 28-11-2015 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-11-2015 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Zoltán Horváth
 ## Title: Top 10 SSAS Solution Design Best Practices
 ## Abstract:
@@ -60,7 +60,7 @@ I've collected a number of best practices during the years I've spent on buildin
 #### SessionID: 40995
 # High Availability - Partial Database Availabilty
 #### [Back to calendar](#nr-475)
-Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-11-2015 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janos Berke
 ## Title: High Availability - Partial Database Availabilty
 ## Abstract:
@@ -83,7 +83,7 @@ Session agenda is the follwoing:
 #### SessionID: 41178
 # SQL Server 2016: Operational Analytics
 #### [Back to calendar](#nr-475)
-Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Application  Database Development
+Event Date: 28-11-2015 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Dragoslav Ogar
 ## Title: SQL Server 2016: Operational Analytics
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Application  Database D
 #### SessionID: 40711
 # When good pages go bad / The rise and fall of db corruption.
 #### [Back to calendar](#nr-475)
-Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-11-2015 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mikael Wedham
 ## Title: When good pages go bad / The rise and fall of db corruption.
 ## Abstract:
@@ -105,7 +105,7 @@ Finally you'll learn to estimate how much data loss you can expect. We'll even g
 #### SessionID: 42572
 # Optimizacija DWH rešenja u praksi
 #### [Back to calendar](#nr-475)
-Event Date: 28-11-2015 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-11-2015 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vladimir Markovic
 ## Title: Optimizacija DWH rešenja u praksi
 ## Abstract:
@@ -114,7 +114,7 @@ Event Date: 28-11-2015 - Session time: 17:30:00 - Track: BI Platform Architectur
 #### SessionID: 39928
 # Temporal Tables in SQL Server 2016
 #### [Back to calendar](#nr-475)
-Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Application  Database Development
+Event Date: 28-11-2015 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Miloš Radivojević
 ## Title: Temporal Tables in SQL Server 2016
 ## Abstract:
@@ -126,7 +126,7 @@ In this session we'll explain why we need them, how system-time tables work and 
 #### SessionID: 39910
 # SQL Server Advanced indexing techniques
 #### [Back to calendar](#nr-475)
-Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Application  Database Development
+Event Date: 28-11-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Ivan Donev
 ## Title: SQL Server Advanced indexing techniques
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Application  Database D
 #### SessionID: 40017
 # Performance Tuning for the Transaction Log
 #### [Back to calendar](#nr-475)
-Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-11-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Miroslav Dimitrov
 ## Title: Performance Tuning for the Transaction Log
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Enterprise Database Adm
 #### SessionID: 40335
 # Analyzing Text with SQL Server, R, and Azure ML
 #### [Back to calendar](#nr-475)
-Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Advanced Analysis Techniques
+Event Date: 28-11-2015 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dejan Sarka
 ## Title: Analyzing Text with SQL Server, R, and Azure ML
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 28-11-2015 - Session time: 17:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 40814
 # Visualizing streaming data in real time
 #### [Back to calendar](#nr-475)
-Event Date: 28-11-2015 - Session time: 17:30:00 - Track: BI Information Delivery
+Event Date: 28-11-2015 - Session time: 16:15:00 - Track: BI Information Delivery
 ## Speaker: Mladen Prajdić
 ## Title: Visualizing streaming data in real time
 ## Abstract:

@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 82126
 # SQL Server Reporting Services 2017 on Steroids!!
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: BI Information Delivery
+Event Date: 01-09-2018 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services 2017 on Steroids!!
 ## Abstract:
@@ -43,7 +43,7 @@ We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as
 #### SessionID: 82151
 # Azure Managed Instance
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Cloud Application Development  Deployment
+Event Date: 01-09-2018 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jody Roberts
 ## Title: Azure Managed Instance
 ## Abstract:
@@ -58,7 +58,7 @@ Differences Between AMI and SQL Server on=prem
 #### SessionID: 82349
 # How to become the most sought after SQL Server professionals in SA
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Professional Development
+Event Date: 01-09-2018 - Session time: 10:00:00 - Track: Professional Development
 ## Speaker: Vanessa Raath
 ## Title: How to become the most sought after SQL Server professionals in SA
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Professional Developmen
 #### SessionID: 82903
 # Wading into Stream Analytics
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Analytics and Visualization
+Event Date: 01-09-2018 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Andrew Collier
 ## Title: Wading into Stream Analytics
 ## Abstract:
@@ -94,7 +94,7 @@ To illustrate these concepts we'll build a real time sentiment analysis system f
 #### SessionID: 84196
 # Azure Database Migrations: The secret sauce to successful database migrations
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Cloud Application Development  Deployment
+Event Date: 01-09-2018 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kathryn Varrall
 ## Title: Azure Database Migrations: The secret sauce to successful database migrations
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Cloud Application Devel
 #### SessionID: 82147
 # Master Data Services From Start To Finish
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 01-09-2018 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Jeanne Combrinck
 ## Title: Master Data Services From Start To Finish
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Application  Database D
 #### SessionID: 82275
 # DevOps 101 for Data People
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 01-09-2018 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Alex Yates
 ## Title: DevOps 101 for Data People
 ## Abstract:
@@ -127,7 +127,7 @@ In this interactive talk I'll explain what DevOps is, where it came from, and it
 #### SessionID: 82957
 # SQL Server Temporal Tables
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 01-09-2018 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Sean Cremer
 ## Title: SQL Server Temporal Tables
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Application  Database D
 #### SessionID: 83417
 # Power BI Report Design for the aesthetically challenged
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: BI Information Delivery
+Event Date: 01-09-2018 - Session time: 11:10:00 - Track: BI Information Delivery
 ## Speaker: James McGillivray
 ## Title: Power BI Report Design for the aesthetically challenged
 ## Abstract:
@@ -155,7 +155,7 @@ Join me in this session to learn:
 #### SessionID: 84287
 # Re-engineering legacy SQL Server Radius Accounting processor archiving solution
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 01-09-2018 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Ridewaan Hanslo
 ## Title: Re-engineering legacy SQL Server Radius Accounting processor archiving solution
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Application  Database D
 #### SessionID: 84327
 # Top tips on cracking a new database (and impressing your new employer)
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Professional Development
+Event Date: 01-09-2018 - Session time: 11:10:00 - Track: Professional Development
 ## Speaker: Warren Rocchi
 ## Title: Top tips on cracking a new database (and impressing your new employer)
 ## Abstract:
@@ -173,7 +173,7 @@ Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Professional Developmen
 #### SessionID: 82119
 # Daily indexing problems and its - possible - solution
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 01-09-2018 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Uwe Ricken
 ## Title: Daily indexing problems and its - possible - solution
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Application  Database D
 #### SessionID: 82707
 # Data Science in Power BI
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Advanced Analysis Techniques
+Event Date: 01-09-2018 - Session time: 13:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ryan Jamieson
 ## Title: Data Science in Power BI
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Advanced Analysis Techn
 #### SessionID: 84309
 # Zero to Pi to 10 on Cloud,Intro to Windows 10 IoT Core on a Raspberry Pi and BI using Azure IoT Hub
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Cloud Application Development  Deployment
+Event Date: 01-09-2018 - Session time: 13:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Arohan Naidoo
 ## Title: Zero to Pi to 10 on Cloud,Intro to Windows 10 IoT Core on a Raspberry Pi and BI using Azure IoT Hub
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Cloud Application Devel
 #### SessionID: 84362
 # Deploying Power BI for the Enterprise
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Analytics and Visualization
+Event Date: 01-09-2018 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Minette Steynberg
 ## Title: Deploying Power BI for the Enterprise
 ## Abstract:
@@ -226,7 +226,7 @@ The following topics may be included:
 #### SessionID: 84924
 # Tips  Tricks To Bridge The Gap Between IT and Your BI Report Users
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: BI Information Delivery
+Event Date: 01-09-2018 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: Sven Vosse
 ## Title: Tips  Tricks To Bridge The Gap Between IT and Your BI Report Users
 ## Abstract:
@@ -239,7 +239,7 @@ Learn how to address the needs of your end-users (user-friendly semantic model, 
 #### SessionID: 83230
 # Design considerations and patterns for creating a supportable Data Warehouse
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-09-2018 - Session time: 14:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tinus Visagie
 ## Title: Design considerations and patterns for creating a supportable Data Warehouse
 ## Abstract:
@@ -255,7 +255,7 @@ The tools discussed and used in the examples will be SSIS and SQL server but man
 #### SessionID: 84965
 # Taking the data to Isengard
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Analytics and Visualization
+Event Date: 01-09-2018 - Session time: 14:10:00 - Track: Analytics and Visualization
 ## Speaker: Mercia Malan
 ## Title: Taking the data to Isengard
 ## Abstract:
@@ -268,7 +268,7 @@ We'll look at setting up a spark cluster in Azure HDInsight as well as visualisi
 #### SessionID: 84967
 # Overview SQL Server Machine Learning Services
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Advanced Analysis Techniques
+Event Date: 01-09-2018 - Session time: 14:10:00 - Track: Advanced Analysis Techniques
 ## Speaker: Niels Berglund
 ## Title: Overview SQL Server Machine Learning Services
 ## Abstract:
@@ -277,7 +277,7 @@ Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Advanced Analysis Techn
 #### SessionID: 85078
 # Demystifying Azure Information Protection
 #### [Back to calendar](#nr-785)
-Event Date: 01-09-2018 - Session time: 15:20:00 - Track: Strategy and Architecture
+Event Date: 01-09-2018 - Session time: 14:10:00 - Track: Strategy and Architecture
 ## Speaker: Alistair Pugin
 ## Title: Demystifying Azure Information Protection
 ## Abstract:

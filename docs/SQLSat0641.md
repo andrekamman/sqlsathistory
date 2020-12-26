@@ -19,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 66504
 # Gestión de Backups y recuperación en bases de datos SQL Server
 #### [Back to calendar](#nr-641)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-06-2017 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: German Ordonez
 ## Title: Gestión de Backups y recuperación en bases de datos SQL Server
 ## Abstract:
@@ -31,7 +31,7 @@ Durante esta sesión veremos cómo recuperar un objeto de la base de datos sin t
 #### SessionID: 66569
 # Better Together: Power BI, Office 365 and Azure
 #### [Back to calendar](#nr-641)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Data Science
+Event Date: 17-06-2017 - Session time: 09:45:00 - Track: Data Science
 ## Speaker: Ramon Ponte
 ## Title: Better Together: Power BI, Office 365 and Azure
 ## Abstract:
@@ -40,7 +40,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Data Science
 #### SessionID: 66595
 # Creating a Server Antivirus/Antimalware Definitions Update  Scanning Status Report
 #### [Back to calendar](#nr-641)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Other
+Event Date: 17-06-2017 - Session time: 09:45:00 - Track: Other
 ## Speaker: Jorge Sanchez
 ## Title: Creating a Server Antivirus/Antimalware Definitions Update  Scanning Status Report
 ## Abstract:
@@ -49,7 +49,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Other
 #### SessionID: 64902
 # Monitoreo y diagnostico de bases de datos SQL Server
 #### [Back to calendar](#nr-641)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-06-2017 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: German Ordonez
 ## Title: Monitoreo y diagnostico de bases de datos SQL Server
 ## Abstract:
@@ -58,7 +58,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 65511
 # SQL Server Machine Learning Services in a nutshell
 #### [Back to calendar](#nr-641)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Advanced Analytics
+Event Date: 17-06-2017 - Session time: 11:15:00 - Track: Advanced Analytics
 ## Speaker: Jose L. Rivera
 ## Title: SQL Server Machine Learning Services in a nutshell
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Advanced Analytics
 #### SessionID: 66847
 # "The Statistical Sommelier", A Practical Intro to R!
 #### [Back to calendar](#nr-641)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Data Science
+Event Date: 17-06-2017 - Session time: 11:15:00 - Track: Data Science
 ## Speaker: Nestor Figueroa
 ## Title: "The Statistical Sommelier", A Practical Intro to R!
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Data Science
 #### SessionID: 62724
 # Disaster Recovery, de dificil a muy facil.
 #### [Back to calendar](#nr-641)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Strategy and Architecture
+Event Date: 17-06-2017 - Session time: 13:45:00 - Track: Strategy and Architecture
 ## Speaker: Isaias Martinez
 ## Title: Disaster Recovery, de dificil a muy facil.
 ## Abstract:
@@ -86,7 +86,7 @@ En esta sesión cubriremos las bases de “Site Recovery”, un muy poderoso ser
 #### SessionID: 66497
 # Using Azure Machine Learning Power In Xamarin
 #### [Back to calendar](#nr-641)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Software Development
+Event Date: 17-06-2017 - Session time: 13:45:00 - Track: Software Development
 ## Speaker: Juan Martí
 ## Title: Using Azure Machine Learning Power In Xamarin
 ## Abstract:
@@ -95,7 +95,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Software Development
 #### SessionID: 66570
 # Azure SQL Data Warehouse Loading Strategies
 #### [Back to calendar](#nr-641)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-06-2017 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Guillermo Caicedo Santiago
 ## Title: Azure SQL Data Warehouse Loading Strategies
 ## Abstract:

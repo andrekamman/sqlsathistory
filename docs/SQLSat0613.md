@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 59785
 # Mastering Power BI Solutions - Basics and Beyond
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Information Delivery
+Event Date: 15-04-2017 - Session time: 08:30:00 - Track: BI Information Delivery
 ## Speaker: Paul Turley
 ## Title: Mastering Power BI Solutions - Basics and Beyond
 ## Abstract:
@@ -53,7 +53,7 @@ Topics  skills include: Power Query/M, modeling and calculations/DAX, standards 
 #### SessionID: 61700
 # PreCon: PowerShell for SQL Server
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 15-04-2017 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Ben Miller
 ## Title: PreCon: PowerShell for SQL Server
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 57687
 # When Database Corruption Strikes
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-04-2017 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steve Stedman
 ## Title: When Database Corruption Strikes
 ## Abstract:
@@ -73,7 +73,7 @@ We will walk through three corrupt databases exploring ways to go about finding 
 #### SessionID: 57811
 # Welcome To the 2016 Query Store!
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-04-2017 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Welcome To the 2016 Query Store!
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 57898
 # Hop, Skip and Jump! Exploring the new Graph capabilities in Azure
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 15-04-2017 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Arvind Shyamsundar
 ## Title: Hop, Skip and Jump! Exploring the new Graph capabilities in Azure
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 58045
 # SSIS Monitoring Deep Dive
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-04-2017 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Davide Mauri
 ## Title: SSIS Monitoring Deep Dive
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #### SessionID: 61620
 # Give more power to the users!  - Decision Support Using Power BI SP  O365 data for a Small Business
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Information Delivery
+Event Date: 15-04-2017 - Session time: 08:30:00 - Track: Information Delivery
 ## Speaker: Yana Berkovich
 ## Title: Give more power to the users!  - Decision Support Using Power BI SP  O365 data for a Small Business
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Information Delivery
 #### SessionID: 64036
 # Azure SQL Database best practices in resiliency design
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 15-04-2017 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kun Cheng
 ## Title: Azure SQL Database best practices in resiliency design
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Cloud Application Devel
 #### SessionID: 57722
 # SharePoint and Azure - How to JumpStart SharePoint Development Fast and Easy with Cloud Power!
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 15-04-2017 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: David Patrick
 ## Title: SharePoint and Azure - How to JumpStart SharePoint Development Fast and Easy with Cloud Power!
 ## Abstract:
@@ -127,7 +127,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 58042
 # JSON  SQL Server: using it effectively
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 15-04-2017 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Davide Mauri
 ## Title: JSON  SQL Server: using it effectively
 ## Abstract:
@@ -139,7 +139,7 @@ In this session we'll see how powerful JSON can be, when used correctly and not 
 #### SessionID: 58058
 # ColumnStore Index in SQL Server 2016 and Azure SQL Database
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-04-2017 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sunil Agarwal
 ## Title: ColumnStore Index in SQL Server 2016 and Azure SQL Database
 ## Abstract:
@@ -148,7 +148,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 58217
 # Query Optimization Statistics : Driving Force Behind Performance
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-04-2017 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vern Rabe
 ## Title: Query Optimization Statistics : Driving Force Behind Performance
 ## Abstract:
@@ -157,7 +157,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 61701
 # Intro to Azure Data Lake and U-SQL
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Analytics and Visualization
+Event Date: 15-04-2017 - Session time: 09:45:00 - Track: Analytics and Visualization
 ## Speaker: Julie Koesmarno
 ## Title: Intro to Azure Data Lake and U-SQL
 ## Abstract:
@@ -166,7 +166,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Analytics and Visualiza
 #### SessionID: 61777
 # Architecting for Active/Active Operations
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Other
+Event Date: 15-04-2017 - Session time: 09:45:00 - Track: Other
 ## Speaker: Mike Oberlin
 ## Title: Architecting for Active/Active Operations
 ## Abstract:
@@ -186,7 +186,7 @@ Attendees attending the session will:
 #### SessionID: 63789
 # What’s New in Analysis Services
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-04-2017 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christian Wade
 ## Title: What’s New in Analysis Services
 ## Abstract:
@@ -195,7 +195,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #### SessionID: 58184
 # Modern Data Warehousing with Azure SQL DW
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-04-2017 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Moss
 ## Title: Modern Data Warehousing with Azure SQL DW
 ## Abstract:
@@ -207,7 +207,7 @@ This presentation will explore these questions about when the concepts of DW are
 #### SessionID: 59733
 # Fun with SQL Server Spatial Data
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 15-04-2017 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: Fun with SQL Server Spatial Data
 ## Abstract:
@@ -216,7 +216,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 61538
 # Monster Text Manipulation: Regular Expressions for the DBA
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-04-2017 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
 ## Abstract:
@@ -231,7 +231,7 @@ Here you’ll learn:
 #### SessionID: 61545
 # Availability Groups: What They’re Not Telling You
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-04-2017 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Nicholas Cain
 ## Title: Availability Groups: What They’re Not Telling You
 ## Abstract:
@@ -240,7 +240,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 61547
 # DBATools.io: A Better Way to Manage SQL With PowerShell
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-04-2017 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Nicholas Cain
 ## Title: DBATools.io: A Better Way to Manage SQL With PowerShell
 ## Abstract:
@@ -251,7 +251,7 @@ Download the DBATools.io module and play along as we go through a few of the gre
 #### SessionID: 61810
 # Data Science at Scale with R Services
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
+Event Date: 15-04-2017 - Session time: 11:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Rock Pereira
 ## Title: Data Science at Scale with R Services
 ## Abstract:
@@ -260,7 +260,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 62468
 # SQL Server Encryption
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Strategy and Architecture
+Event Date: 15-04-2017 - Session time: 11:00:00 - Track: Strategy and Architecture
 ## Speaker: Ben Miller
 ## Title: SQL Server Encryption
 ## Abstract:
@@ -269,7 +269,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Strategy and Architectu
 #### SessionID: 59334
 # High Availability and Disaster Recovery for SQL Server on Linux
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-04-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sanjay Mishra
 ## Title: High Availability and Disaster Recovery for SQL Server on Linux
 ## Abstract:
@@ -278,7 +278,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 59687
 # Hacking SQL Server for Fun and Profit
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-04-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Argenis Fernandez
 ## Title: Hacking SQL Server for Fun and Profit
 ## Abstract:
@@ -287,7 +287,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 59787
 # Reporting Services 2016: The Force Awakens
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Information Delivery
+Event Date: 15-04-2017 - Session time: 13:30:00 - Track: BI Information Delivery
 ## Speaker: Paul Turley
 ## Title: Reporting Services 2016: The Force Awakens
 ## Abstract:
@@ -296,7 +296,7 @@ Event Date: 15-04-2017 - Session time: 14:45:00 - Track: BI Information Delivery
 #### SessionID: 59911
 # How to Use Analytics (and Data Science) to Get a Promotion
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
+Event Date: 15-04-2017 - Session time: 13:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: David Brown
 ## Title: How to Use Analytics (and Data Science) to Get a Promotion
 ## Abstract:
@@ -307,7 +307,7 @@ Welcome to my world. I've worked for years as a consultant, and I started in thi
 #### SessionID: 61542
 # Designing Stored Procedure Solutions
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 15-04-2017 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Designing Stored Procedure Solutions
 ## Abstract:
@@ -326,7 +326,7 @@ This session is for data professionals who can write T-SQL, but haven't spent a 
 #### SessionID: 62484
 # SQL Server 2016 Always On Availability Groups Perf  Internals
 #### [Back to calendar](#nr-613)
-Event Date: 15-04-2017 - Session time: 14:45:00 - Track: Strategy and Architecture
+Event Date: 15-04-2017 - Session time: 13:30:00 - Track: Strategy and Architecture
 ## Speaker: J May
 ## Title: SQL Server 2016 Always On Availability Groups Perf  Internals
 ## Abstract:

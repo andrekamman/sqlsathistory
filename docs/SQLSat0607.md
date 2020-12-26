@@ -18,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 57446
 # PowerQuery Tips and Tricks for Power BI
 #### [Back to calendar](#nr-607)
-Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Other
+Event Date: 29-04-2017 - Session time: 09:30:00 - Track: Other
 ## Speaker: Rushabh Mehta
 ## Title: PowerQuery Tips and Tricks for Power BI
 ## Abstract:
@@ -27,7 +27,7 @@ Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Other
 #### SessionID: 62989
 # Secrets of SQL Server - Database Worst Practices
 #### [Back to calendar](#nr-607)
-Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 29-04-2017 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Pinal Dave
 ## Title: Secrets of SQL Server - Database Worst Practices
 ## Abstract:
@@ -36,7 +36,7 @@ Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 57436
 # SQL Server on Linux - The How, the What and the Why?
 #### [Back to calendar](#nr-607)
-Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-04-2017 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: SQL Server on Linux - The How, the What and the Why?
 ## Abstract:
@@ -54,7 +54,7 @@ The presentation will be based around experience gained in evaluating the Public
 #### SessionID: 61057
 # SQL Server Security Enhancements
 #### [Back to calendar](#nr-607)
-Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-04-2017 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohit Gupta
 ## Title: SQL Server Security Enhancements
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 63403
 # Using Models as the Blueprints for Enterprise Data Governance
 #### [Back to calendar](#nr-607)
-Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 29-04-2017 - Session time: 12:00:00 - Track: Strategy and Architecture
 ## Speaker: Ron Huizenga
 ## Title: Using Models as the Blueprints for Enterprise Data Governance
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Strategy and Architectu
 #### SessionID: 57702
 # Adding Power to the DBA toolkit!
 #### [Back to calendar](#nr-607)
-Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-04-2017 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: Adding Power to the DBA toolkit!
 ## Abstract:
@@ -87,7 +87,7 @@ This is a constantly evolving Presentation based around latest features in Power
 #### SessionID: 62990
 # Performance in 60 Seconds - SQL Tricks Everybody MUST Know
 #### [Back to calendar](#nr-607)
-Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 29-04-2017 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Pinal Dave
 ## Title: Performance in 60 Seconds - SQL Tricks Everybody MUST Know
 ## Abstract:
@@ -96,7 +96,7 @@ Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 57634
 # Monitoring SQL 2016 on-premise for performance and stability
 #### [Back to calendar](#nr-607)
-Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-04-2017 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Wood
 ## Title: Monitoring SQL 2016 on-premise for performance and stability
 ## Abstract:
@@ -110,7 +110,7 @@ Do you have table/index hot-spots?
 #### SessionID: 61143
 # SQL Server In-Flight Recorder Deep-Dive
 #### [Back to calendar](#nr-607)
-Event Date: 29-04-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-04-2017 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohit Gupta
 ## Title: SQL Server In-Flight Recorder Deep-Dive
 ## Abstract:

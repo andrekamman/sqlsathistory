@@ -47,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 70195
 # PowerBI, from a DBA
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-03-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: TJay Belt
 ## Title: PowerBI, from a DBA
 ## Abstract:
@@ -58,7 +58,7 @@ As a DBA, we often need to collect and display data in a friendly and interactiv
 #### SessionID: 70204
 # Tame Your Unruly Data With Constraints
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Application  Database Development
+Event Date: 24-03-2018 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data With Constraints
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Application  Database D
 #### SessionID: 70591
 # Why do I need Analysis Services?
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: BI Information Delivery
+Event Date: 24-03-2018 - Session time: 08:30:00 - Track: BI Information Delivery
 ## Speaker: Phillip Labry
 ## Title: Why do I need Analysis Services?
 ## Abstract:
@@ -78,7 +78,7 @@ In this session we will go over use cases for Analysis Services and highlight th
 #### SessionID: 70798
 # The Life Cycle of a Query in Virtual Reality
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Strategy and Architecture
+Event Date: 24-03-2018 - Session time: 08:30:00 - Track: Strategy and Architecture
 ## Speaker: Todd Kleinhans
 ## Title: The Life Cycle of a Query in Virtual Reality
 ## Abstract:
@@ -89,7 +89,7 @@ The Life Cycle of a Query in Virtual Reality is built using Epic Games video gam
 #### SessionID: 71166
 # Killing Cursors
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Application  Database Development
+Event Date: 24-03-2018 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Cyndi Johnson
 ## Title: Killing Cursors
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Application  Database D
 #### SessionID: 72556
 # High Availability/Disaster Recovery 101
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Strategy and Architecture
+Event Date: 24-03-2018 - Session time: 08:30:00 - Track: Strategy and Architecture
 ## Speaker: Glenn Berry
 ## Title: High Availability/Disaster Recovery 101
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Strategy and Architectu
 #### SessionID: 73585
 # ETL Best Practices and Techniques
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-03-2018 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marc Beacom
 ## Title: ETL Best Practices and Techniques
 ## Abstract:
@@ -118,7 +118,7 @@ Gain helpful insights from decades of lessons learned and walk away with best pr
 #### SessionID: 75798
 # Data Positioning: Self-Defense or a Brilliant New Architecture
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Cloud Architecture, Development  Deployment
+Event Date: 24-03-2018 - Session time: 08:30:00 - Track: Cloud Architecture, Development  Deployment
 ## Speaker: Scot Reagin
 ## Title: Data Positioning: Self-Defense or a Brilliant New Architecture
 ## Abstract:
@@ -127,7 +127,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Cloud Architecture, Dev
 #### SessionID: 69576
 # Dynamic SQL: Tables, Pivots, Parameters
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Application  Database Development
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: Application  Database Development
 ## Speaker: Steven Tidwell
 ## Title: Dynamic SQL: Tables, Pivots, Parameters
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Application  Database D
 #### SessionID: 70098
 # Biml 101: Automation and Patterns
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Yuliya Quintela
 ## Title: Biml 101: Automation and Patterns
 ## Abstract:
@@ -145,7 +145,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: BI Platform Architectur
 #### SessionID: 70424
 # Microsoft and Big Data - An Overview of the Power Tools and more!
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Analytics and Visualization
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: Analytics and Visualization
 ## Speaker: David Patrick
 ## Title: Microsoft and Big Data - An Overview of the Power Tools and more!
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Analytics and Visualiza
 #### SessionID: 70862
 # Source Control and Database Projects - Just Do It
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Application  Database Development
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: Application  Database Development
 ## Speaker: Leslie Weed
 ## Title: Source Control and Database Projects - Just Do It
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Application  Database D
 #### SessionID: 72644
 # SQL Server Big Data Solution: SQL Server 2016, PolyBase and Dell EMC Isilon storage
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matthew Smith
 ## Title: SQL Server Big Data Solution: SQL Server 2016, PolyBase and Dell EMC Isilon storage
 ## Abstract:
@@ -172,7 +172,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: BI Platform Architectur
 #### SessionID: 72768
 # Challenges and Opportunities in Creating Accessible Power BI Reports
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Analytics and Visualization
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: Analytics and Visualization
 ## Speaker: Meagan Longoria
 ## Title: Challenges and Opportunities in Creating Accessible Power BI Reports
 ## Abstract:
@@ -181,7 +181,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Analytics and Visualiza
 #### SessionID: 73438
 # Beginning Powershell for DBAs 1.0
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Beginning Powershell for DBAs 1.0
 ## Abstract:
@@ -190,7 +190,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Enterprise Database Adm
 #### SessionID: 73587
 # Implementing a Cloud Analytics Solution: Options, costs and more
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marc Beacom
 ## Title: Implementing a Cloud Analytics Solution: Options, costs and more
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: BI Platform Architectur
 #### SessionID: 74438
 # Know Your Options: Databases on Amazon Web Services
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Cloud Architecture, Development  Deployment
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: Cloud Architecture, Development  Deployment
 ## Speaker: Gabriel Villa
 ## Title: Know Your Options: Databases on Amazon Web Services
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Cloud Architecture, Dev
 #### SessionID: 78476
 # Operationalizing Data Science
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Advanced Analysis Techniques
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: Advanced Analysis Techniques
 ## Speaker: Carlos Bossy
 ## Title: Operationalizing Data Science
 ## Abstract:
@@ -217,7 +217,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Advanced Analysis Techn
 #### SessionID: 69685
 # Climbing the SQL Server Index B-Tree (from a user perspective)
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Application  Database Development
+Event Date: 24-03-2018 - Session time: 10:50:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: Climbing the SQL Server Index B-Tree (from a user perspective)
 ## Abstract:
@@ -226,7 +226,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Application  Database D
 #### SessionID: 70396
 # Very Large Databases in your future
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-03-2018 - Session time: 10:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Peterson
 ## Title: Very Large Databases in your future
 ## Abstract:
@@ -238,7 +238,7 @@ indexing and DBCC checks into itty-bitty maintenance windows. As a bonus, many o
 #### SessionID: 70558
 # Make Power BI Your Own with the Power BI APIs
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-03-2018 - Session time: 10:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Wake
 ## Title: Make Power BI Your Own with the Power BI APIs
 ## Abstract:
@@ -247,7 +247,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: BI Platform Architectur
 #### SessionID: 70997
 # Harnessing D3.js to visualize geographical data
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Information Delivery
+Event Date: 24-03-2018 - Session time: 10:50:00 - Track: Information Delivery
 ## Speaker: Adam Durazo
 ## Title: Harnessing D3.js to visualize geographical data
 ## Abstract:
@@ -256,7 +256,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Information Delivery
 #### SessionID: 72723
 # Introduction to R
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Analytics and Visualization
+Event Date: 24-03-2018 - Session time: 10:50:00 - Track: Analytics and Visualization
 ## Speaker: Jeff Renz
 ## Title: Introduction to R
 ## Abstract:
@@ -265,7 +265,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Analytics and Visualiza
 #### SessionID: 72868
 # How To Talk To Your Storage Admin
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-03-2018 - Session time: 10:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: How To Talk To Your Storage Admin
 ## Abstract:
@@ -274,7 +274,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Enterprise Database Adm
 #### SessionID: 75806
 # Azure SQL and Azure Data Warehouse 101
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Cloud Architecture, Development  Deployment
+Event Date: 24-03-2018 - Session time: 10:50:00 - Track: Cloud Architecture, Development  Deployment
 ## Speaker: Mark Moore
 ## Title: Azure SQL and Azure Data Warehouse 101
 ## Abstract:
@@ -283,7 +283,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Cloud Architecture, Dev
 #### SessionID: 78260
 # #GetModern With Dell EMC
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Strategy and Architecture
+Event Date: 24-03-2018 - Session time: 11:50:00 - Track: Strategy and Architecture
 ## Speaker: Matthew Smith
 ## Title: #GetModern With Dell EMC
 ## Abstract:
@@ -292,7 +292,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Strategy and Architectu
 #### SessionID: 70202
 # Amazon Web Services RDS with SQL Server
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Cloud Architecture, Development  Deployment
+Event Date: 24-03-2018 - Session time: 13:15:00 - Track: Cloud Architecture, Development  Deployment
 ## Speaker: Christopher Wolff
 ## Title: Amazon Web Services RDS with SQL Server
 ## Abstract:
@@ -301,7 +301,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Cloud Architecture, Dev
 #### SessionID: 70205
 # Branding Yourself for a Dream Job
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Professional Development
+Event Date: 24-03-2018 - Session time: 13:15:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
 ## Abstract:
@@ -310,7 +310,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Professional Developmen
 #### SessionID: 71335
 # Essential Linux for the SQL Server DBA
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-03-2018 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Essential Linux for the SQL Server DBA
 ## Abstract:
@@ -329,7 +329,7 @@ You’ll leave feeling more at ease with Linux and have plenty of content and li
 #### SessionID: 72702
 # Power BI embedded into your application
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: BI Information Delivery
+Event Date: 24-03-2018 - Session time: 13:15:00 - Track: BI Information Delivery
 ## Speaker: Rajesh Chawla
 ## Title: Power BI embedded into your application
 ## Abstract:
@@ -340,7 +340,7 @@ We'll take a look at how to embed analytics using Power BI and cover a step wise
 #### SessionID: 73009
 # The Power of Data:  The Complete Beginners Data Warehouse Kit
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-03-2018 - Session time: 13:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data:  The Complete Beginners Data Warehouse Kit
 ## Abstract:
@@ -349,7 +349,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: BI Platform Architectur
 #### SessionID: 73326
 # Get Your Optimizer to Give up All Its Secrets
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-03-2018 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
 ## Abstract:
@@ -358,7 +358,7 @@ Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Enterprise Database Adm
 #### SessionID: 73394
 # T-SQL's Hidden Support Feature
 #### [Back to calendar](#nr-700)
-Event Date: 24-03-2018 - Session time: 14:25:00 - Track: Application  Database Development
+Event Date: 24-03-2018 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: T-SQL's Hidden Support Feature
 ## Abstract:

@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 57575
 # What is Power BI?
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Business Intelligence
+Event Date: 18-03-2017 - Session time: 08:30:00 - Track: Business Intelligence
 ## Speaker: Angela Henry
 ## Title: What is Power BI?
 ## Abstract:
@@ -41,7 +41,7 @@ Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Business Intelligence
 #### SessionID: 57591
 # The Art of War with Bad Code
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Database Administration, Deployment  Monitoring
+Event Date: 18-03-2017 - Session time: 08:30:00 - Track: Database Administration, Deployment  Monitoring
 ## Speaker: Andrew Kelly
 ## Title: The Art of War with Bad Code
 ## Abstract:
@@ -50,7 +50,7 @@ Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Database Administration
 #### SessionID: 59601
 # Practical PowerShell for the SQL Developers and DBA's - 0 to 60 in 60 mins
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 18-03-2017 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Jana Sattainathan
 ## Title: Practical PowerShell for the SQL Developers and DBA's - 0 to 60 in 60 mins
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 59841
 # What Makes SSIS Tick? A Look at Internals for Performance
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Business Intelligence
+Event Date: 18-03-2017 - Session time: 08:30:00 - Track: Business Intelligence
 ## Speaker: Ravi Kumar
 ## Title: What Makes SSIS Tick? A Look at Internals for Performance
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Business Intelligence
 #### SessionID: 57470
 # SQL Server on Linux for SQL DBA.
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Database Administration, Deployment  Monitoring
+Event Date: 18-03-2017 - Session time: 09:40:00 - Track: Database Administration, Deployment  Monitoring
 ## Speaker: Slava Murygin
 ## Title: SQL Server on Linux for SQL DBA.
 ## Abstract:
@@ -82,7 +82,7 @@ And I show you how to do it.
 #### SessionID: 57767
 # New Features in SSIS 2016
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Business Intelligence
+Event Date: 18-03-2017 - Session time: 09:40:00 - Track: Business Intelligence
 ## Speaker: Paul Rizza
 ## Title: New Features in SSIS 2016
 ## Abstract:
@@ -100,7 +100,7 @@ The session will include a limited number of slides followed but demo examples o
 #### SessionID: 59542
 # Introducing Azure Machine Learning
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Business Intelligence
+Event Date: 18-03-2017 - Session time: 09:40:00 - Track: Business Intelligence
 ## Speaker: Mark Hudson
 ## Title: Introducing Azure Machine Learning
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Business Intelligence
 #### SessionID: 59756
 # Automated SQL Server installation and configuration using PowerShell
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Database Administration, Deployment  Monitoring
+Event Date: 18-03-2017 - Session time: 09:40:00 - Track: Database Administration, Deployment  Monitoring
 ## Speaker: Jamie Wick
 ## Title: Automated SQL Server installation and configuration using PowerShell
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Database Administration
 #### SessionID: 59875
 # Why should I care about ... the plan cache?
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Database Administration, Deployment  Monitoring
+Event Date: 18-03-2017 - Session time: 09:40:00 - Track: Database Administration, Deployment  Monitoring
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
 ## Abstract:
@@ -129,7 +129,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #### SessionID: 57590
 # Query Store – What is it all about?
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Database Administration, Deployment  Monitoring
+Event Date: 18-03-2017 - Session time: 10:50:00 - Track: Database Administration, Deployment  Monitoring
 ## Speaker: Andrew Kelly
 ## Title: Query Store – What is it all about?
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Database Administration
 #### SessionID: 57854
 # Introduction to SQL Server Integration Services 2016
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Business Intelligence
+Event Date: 18-03-2017 - Session time: 10:50:00 - Track: Business Intelligence
 ## Speaker: Jessica Moss
 ## Title: Introduction to SQL Server Integration Services 2016
 ## Abstract:
@@ -147,7 +147,7 @@ Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Business Intelligence
 #### SessionID: 57994
 # Use Biml to Automate SSIS Design Patterns
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Business Intelligence
+Event Date: 18-03-2017 - Session time: 10:50:00 - Track: Business Intelligence
 ## Speaker: Andy Leonard
 ## Title: Use Biml to Automate SSIS Design Patterns
 ## Abstract:
@@ -161,7 +161,7 @@ In this session, you will learn:
 #### SessionID: 59794
 # Monitoring Availability Groups
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Database Administration, Deployment  Monitoring
+Event Date: 18-03-2017 - Session time: 10:50:00 - Track: Database Administration, Deployment  Monitoring
 ## Speaker: Tracy Boggiano
 ## Title: Monitoring Availability Groups
 ## Abstract:
@@ -170,7 +170,7 @@ Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Database Administration
 #### SessionID: 59806
 # Extended Events - Better than Profiler
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Database Administration, Deployment  Monitoring
+Event Date: 18-03-2017 - Session time: 10:50:00 - Track: Database Administration, Deployment  Monitoring
 ## Speaker: Jason Brimhall
 ## Title: Extended Events - Better than Profiler
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Database Administration
 #### SessionID: 63292
 # CIO Tech Panel
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 18-03-2017 - Session time: 12:40:00 - Track: Professional Development
 ## Speaker: SQLSAT RVA
 ## Title: CIO Tech Panel
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Professional Developmen
 #### SessionID: 57509
 # T-SQL Errors and Problems and Data Meaning
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 18-03-2017 - Session time: 13:50:00 - Track: Application  Database Development
 ## Speaker: Judith Moffitt
 ## Title: T-SQL Errors and Problems and Data Meaning
 ## Abstract:
@@ -199,7 +199,7 @@ I am going to show why it is also important to consider the meaning of the resul
 #### SessionID: 59359
 # Interrogating your data sources with Biml
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Business Intelligence
+Event Date: 18-03-2017 - Session time: 13:50:00 - Track: Business Intelligence
 ## Speaker: Shannon Lowder
 ## Title: Interrogating your data sources with Biml
 ## Abstract:
@@ -210,7 +210,7 @@ Now, you're looking at data sources other than SQL Server. How do you automate p
 #### SessionID: 59614
 # SQL Audit - Evidence Never Lies
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Database Administration, Deployment  Monitoring
+Event Date: 18-03-2017 - Session time: 13:50:00 - Track: Database Administration, Deployment  Monitoring
 ## Speaker: Patrick Keisler
 ## Title: SQL Audit - Evidence Never Lies
 ## Abstract:
@@ -219,7 +219,7 @@ Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Database Administration
 #### SessionID: 59860
 # SQL Server - R Services
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 18-03-2017 - Session time: 13:50:00 - Track: Application  Database Development
 ## Speaker: Azhagappan Arunachalam
 ## Title: SQL Server - R Services
 ## Abstract:
@@ -228,7 +228,7 @@ Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 59864
 # Statistics  Cardinality – How They Work to Find Data Efficiently
 #### [Back to calendar](#nr-610)
-Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Internals  Performance
+Event Date: 18-03-2017 - Session time: 13:50:00 - Track: Internals  Performance
 ## Speaker: Chris Bell
 ## Title: Statistics  Cardinality – How They Work to Find Data Efficiently
 ## Abstract:

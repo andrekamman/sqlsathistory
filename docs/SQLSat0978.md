@@ -40,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 102146
 # Presentation Skills for the Technical Professional
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Professional Development  and Personal Branding 
+Event Date: 13-06-2020 - Session time: 09:00:00 - Track: Professional Development  and Personal Branding 
 ## Speaker: Buck Woody
 ## Title: Presentation Skills for the Technical Professional
 ## Abstract:
@@ -53,7 +53,7 @@ Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 102621
 # Secure SQL Server Database Design: Tactics and Technology
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration, Deployment, and Development 
+Event Date: 13-06-2020 - Session time: 09:00:00 - Track: Database Administration, Deployment, and Development 
 ## Speaker: Dan Mallott
 ## Title: Secure SQL Server Database Design: Tactics and Technology
 ## Abstract:
@@ -64,7 +64,7 @@ Where does design start for an application? It starts with the database layer. I
 #### SessionID: 104008
 # Data Lakes with Azure Databricks
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Private and Public Cloud Architecture and Infrastructure 
+Event Date: 13-06-2020 - Session time: 09:00:00 - Track: Private and Public Cloud Architecture and Infrastructure 
 ## Speaker: Dustin Vannoy
 ## Title: Data Lakes with Azure Databricks
 ## Abstract:
@@ -83,7 +83,7 @@ Agenda:
 #### SessionID: 105155
 # How Intelligent Query Processing improves T-SQL performance
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration, Deployment, and Development 
+Event Date: 13-06-2020 - Session time: 09:00:00 - Track: Database Administration, Deployment, and Development 
 ## Speaker: Andy Yun
 ## Title: How Intelligent Query Processing improves T-SQL performance
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration
 #### SessionID: 105239
 # Google BigQuery ML: Machine Learning with SQL
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Private and Public Cloud Architecture and Infrastructure 
+Event Date: 13-06-2020 - Session time: 09:00:00 - Track: Private and Public Cloud Architecture and Infrastructure 
 ## Speaker: Mark Mucchetti
 ## Title: Google BigQuery ML: Machine Learning with SQL
 ## Abstract:
@@ -103,7 +103,7 @@ Feedback - https://tinyurl.com/2020sqlsatla-eval
 #### SessionID: 102266
 # Inside SQL Server on Kubernetes
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration, Deployment, and Development 
+Event Date: 13-06-2020 - Session time: 10:15:00 - Track: Database Administration, Deployment, and Development 
 ## Speaker: Bob Ward
 ## Title: Inside SQL Server on Kubernetes
 ## Abstract:
@@ -114,7 +114,7 @@ In this session, we will dive deep into the Kubernetes platform and how SQL Serv
 #### SessionID: 103844
 # Add JSON to the list of tools in your SQL Server tool-belt.
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Data Presentation, Visualization, and Analytics 
+Event Date: 13-06-2020 - Session time: 10:15:00 - Track: Data Presentation, Visualization, and Analytics 
 ## Speaker: Elaena Bakman
 ## Title: Add JSON to the list of tools in your SQL Server tool-belt.
 ## Abstract:
@@ -123,7 +123,7 @@ Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Data Presentation, Visu
 #### SessionID: 105133
 # Architecting SQL Server on VMware vSphere - Doing it Right!
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Private and Public Cloud Architecture and Infrastructure 
+Event Date: 13-06-2020 - Session time: 10:15:00 - Track: Private and Public Cloud Architecture and Infrastructure 
 ## Speaker: Oleg Ulyanov
 ## Title: Architecting SQL Server on VMware vSphere - Doing it Right!
 ## Abstract:
@@ -146,7 +146,7 @@ Feedback - https://tinyurl.com/2020sqlsatla-eval
 #### SessionID: 105134
 # Microsoft SQL Server workloads on VMware Cloud on AWS: Design, Migration and Configuration
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Private and Public Cloud Architecture and Infrastructure 
+Event Date: 13-06-2020 - Session time: 10:15:00 - Track: Private and Public Cloud Architecture and Infrastructure 
 ## Speaker: Oleg Ulyanov
 ## Title: Microsoft SQL Server workloads on VMware Cloud on AWS: Design, Migration and Configuration
 ## Abstract:
@@ -156,7 +156,7 @@ You will learn how to optimally use VMware Cloud on AWS to host mission critical
 #### SessionID: 105169
 # Synapse Analytics: Beyond the Basics
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration, Deployment, and Development 
+Event Date: 13-06-2020 - Session time: 10:15:00 - Track: Database Administration, Deployment, and Development 
 ## Speaker: Dennes Torres
 ## Title: Synapse Analytics: Beyond the Basics
 ## Abstract:
@@ -169,7 +169,7 @@ On this session you will see how to configure the MPP environment to achieve it'
 #### SessionID: 105172
 # SQL Graph Databases: Beyond Relational
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration, Deployment, and Development 
+Event Date: 13-06-2020 - Session time: 10:15:00 - Track: Database Administration, Deployment, and Development 
 ## Speaker: Dennes Torres
 ## Title: SQL Graph Databases: Beyond Relational
 ## Abstract:
@@ -180,7 +180,7 @@ In this session, you will discover how Graph Databases in SQL Server works and w
 #### SessionID: 105185
 # Monitoring SQL Server using Community solutions (Free)
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration, Deployment, and Development 
+Event Date: 13-06-2020 - Session time: 10:15:00 - Track: Database Administration, Deployment, and Development 
 ## Speaker: Javier Villegas
 ## Title: Monitoring SQL Server using Community solutions (Free)
 ## Abstract:
@@ -189,7 +189,7 @@ Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration
 #### SessionID: 103201
 # Azure SQL: What to use when
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Private and Public Cloud Architecture and Infrastructure 
+Event Date: 13-06-2020 - Session time: 11:30:00 - Track: Private and Public Cloud Architecture and Infrastructure 
 ## Speaker: Anna Hoffman
 ## Title: Azure SQL: What to use when
 ## Abstract:
@@ -200,7 +200,7 @@ Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Private and Public Clou
 #### SessionID: 104996
 # 3 Ways for Getting Data from SharePoint : SSIS, Excel and Access
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration, Deployment, and Development 
+Event Date: 13-06-2020 - Session time: 11:30:00 - Track: Database Administration, Deployment, and Development 
 ## Speaker: David Patrick
 ## Title: 3 Ways for Getting Data from SharePoint : SSIS, Excel and Access
 ## Abstract:
@@ -209,7 +209,7 @@ Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration
 #### SessionID: 105338
 # Going Beyond Monitoring With SentryOne
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Other
+Event Date: 13-06-2020 - Session time: 11:30:00 - Track: Other
 ## Speaker: Andy Yun
 ## Title: Going Beyond Monitoring With SentryOne
 ## Abstract:
@@ -218,7 +218,7 @@ Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Other
 #### SessionID: 105379
 # Running SQL Server workload on AWS
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Private and Public Cloud Architecture and Infrastructure 
+Event Date: 13-06-2020 - Session time: 11:30:00 - Track: Private and Public Cloud Architecture and Infrastructure 
 ## Speaker: Eugene Stepanov
 ## Title: Running SQL Server workload on AWS
 ## Abstract:
@@ -229,7 +229,7 @@ Feedback - https://tinyurl.com/2020sqlsatla-eval
 #### SessionID: 105455
 # The Future of Containers Is Here!
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration, Deployment, and Development 
+Event Date: 13-06-2020 - Session time: 11:30:00 - Track: Database Administration, Deployment, and Development 
 ## Speaker: Marsha Pierce
 ## Title: The Future of Containers Is Here!
 ## Abstract:
@@ -238,7 +238,7 @@ Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration
 #### SessionID: 102576
 # Building your own million dollar SQL Practice
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Other
+Event Date: 13-06-2020 - Session time: 13:00:00 - Track: Other
 ## Speaker: Adrian Sullivan
 ## Title: Building your own million dollar SQL Practice
 ## Abstract:
@@ -269,7 +269,7 @@ I'll also touch on how long it took me to achieve each of these, and how I measu
 #### SessionID: 102813
 # Data Lake Design Patterns
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Data Presentation, Visualization, and Analytics 
+Event Date: 13-06-2020 - Session time: 13:00:00 - Track: Data Presentation, Visualization, and Analytics 
 ## Speaker: Jason Horner
 ## Title: Data Lake Design Patterns
 ## Abstract:
@@ -278,7 +278,7 @@ Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Data Presentation, Visu
 #### SessionID: 103838
 # Loading SQL Server Data with Powershell
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration, Deployment, and Development 
+Event Date: 13-06-2020 - Session time: 13:00:00 - Track: Database Administration, Deployment, and Development 
 ## Speaker: Sean McCown
 ## Title: Loading SQL Server Data with Powershell
 ## Abstract:
@@ -289,7 +289,7 @@ Prerequisites: Basic understanding of Powershell syntax.
 #### SessionID: 105225
 # DevOps for Azure SQL
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Private and Public Cloud Architecture and Infrastructure 
+Event Date: 13-06-2020 - Session time: 13:00:00 - Track: Private and Public Cloud Architecture and Infrastructure 
 ## Speaker: Arvind Shyamsundar
 ## Title: DevOps for Azure SQL
 ## Abstract:
@@ -298,7 +298,7 @@ Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Private and Public Clou
 #### SessionID: 105376
 # Get Your Optimizer to Give up All Its Secrets
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration, Deployment, and Development 
+Event Date: 13-06-2020 - Session time: 13:00:00 - Track: Database Administration, Deployment, and Development 
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
 ## Abstract:
@@ -309,7 +309,7 @@ Feedback - https://tinyurl.com/2020sqlsatla-eval
 #### SessionID: 102242
 # SQL Server 2019 is not your dad's DBMS
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration, Deployment, and Development 
+Event Date: 13-06-2020 - Session time: 14:15:00 - Track: Database Administration, Deployment, and Development 
 ## Speaker: Armando Lacerda
 ## Title: SQL Server 2019 is not your dad's DBMS
 ## Abstract:
@@ -318,7 +318,7 @@ Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration
 #### SessionID: 102612
 # Basic Work-Flow with SQL Server Standard  SSRS
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Data Presentation, Visualization, and Analytics 
+Event Date: 13-06-2020 - Session time: 14:15:00 - Track: Data Presentation, Visualization, and Analytics 
 ## Speaker: Brodie Brickey
 ## Title: Basic Work-Flow with SQL Server Standard  SSRS
 ## Abstract:
@@ -329,7 +329,7 @@ This session will be demo intensive, focusing on how to use SSIS, SSRS, and SQL 
 #### SessionID: 102835
 # Faster Transactions: Query Tuning for Data Manipulation
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration, Deployment, and Development 
+Event Date: 13-06-2020 - Session time: 14:15:00 - Track: Database Administration, Deployment, and Development 
 ## Speaker: Jeff Iannucci
 ## Title: Faster Transactions: Query Tuning for Data Manipulation
 ## Abstract:
@@ -338,7 +338,7 @@ Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration
 #### SessionID: 104188
 # Introduction to MongoDB
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Private and Public Cloud Architecture and Infrastructure 
+Event Date: 13-06-2020 - Session time: 14:15:00 - Track: Private and Public Cloud Architecture and Infrastructure 
 ## Speaker: Nuri Halperin
 ## Title: Introduction to MongoDB
 ## Abstract:
@@ -349,7 +349,7 @@ Along the way, we'll  cuts through some myths and misunderstandings surrounding 
 #### SessionID: 104231
 # Document Design for Document Oriented Databases
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration, Deployment, and Development 
+Event Date: 13-06-2020 - Session time: 14:15:00 - Track: Database Administration, Deployment, and Development 
 ## Speaker: Nuri Halperin
 ## Title: Document Design for Document Oriented Databases
 ## Abstract:
@@ -360,7 +360,7 @@ Feedback - https://tinyurl.com/2020sqlsatla-eval
 #### SessionID: 105027
 # New SQL Server Features for Developers and Analysts
 #### [Back to calendar](#nr-978)
-Event Date: 13-06-2020 - Session time: 15:30:00 - Track: Database Administration, Deployment, and Development 
+Event Date: 13-06-2020 - Session time: 14:15:00 - Track: Database Administration, Deployment, and Development 
 ## Speaker: Hasan Savran
 ## Title: New SQL Server Features for Developers and Analysts
 ## Abstract:

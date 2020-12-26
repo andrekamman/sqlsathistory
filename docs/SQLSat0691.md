@@ -15,7 +15,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 70506
 # Guy in a Cube unplugged
 #### [Back to calendar](#nr-691)
-Event Date: 02-12-2017 - Session time: 18:40:00 - Track: BI Information Delivery
+Event Date: 02-12-2017 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: Patrick LeBlanc
 ## Title: Guy in a Cube unplugged
 ## Abstract:
@@ -24,7 +24,7 @@ Event Date: 02-12-2017 - Session time: 18:40:00 - Track: BI Information Delivery
 #### SessionID: 67921
 # Cognitive Computing con Microsoft
 #### [Back to calendar](#nr-691)
-Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Cloud Application Development  Deployment
+Event Date: 02-12-2017 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Eduardo Castro
 ## Title: Cognitive Computing con Microsoft
 ## Abstract:
@@ -33,7 +33,7 @@ Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Cloud Application Devel
 #### SessionID: 67898
 # SQL Server 2017 - Community-driven enhancements
 #### [Back to calendar](#nr-691)
-Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-12-2017 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Javier Villegas
 ## Title: SQL Server 2017 - Community-driven enhancements
 ## Abstract:
@@ -42,7 +42,7 @@ Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Enterprise Database Adm
 #### SessionID: 67913
 # Usando R y Python desde SQL Server
 #### [Back to calendar](#nr-691)
-Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Advanced Analysis Techniques
+Event Date: 02-12-2017 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Patricio Cofre
 ## Title: Usando R y Python desde SQL Server
 ## Abstract:
@@ -51,7 +51,7 @@ Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Advanced Analysis Techn
 #### SessionID: 67900
 # Tecnicas Avanzadas de Monitoreo
 #### [Back to calendar](#nr-691)
-Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-12-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Javier Villegas
 ## Title: Tecnicas Avanzadas de Monitoreo
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 02-12-2017 - Session time: 18:40:00 - Track: Enterprise Database Adm
 #### SessionID: 70505
 # Introduction to Azure Analysis Services
 #### [Back to calendar](#nr-691)
-Event Date: 02-12-2017 - Session time: 18:40:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-12-2017 - Session time: 16:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to Azure Analysis Services
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 02-12-2017 - Session time: 18:40:00 - Track: BI Platform Architectur
 #### SessionID: 67919
 # Data Analytics: Clustering, Regression and Machine Learning con  Power BI
 #### [Back to calendar](#nr-691)
-Event Date: 02-12-2017 - Session time: 18:40:00 - Track: BI Information Delivery
+Event Date: 02-12-2017 - Session time: 17:40:00 - Track: BI Information Delivery
 ## Speaker: Eduardo Castro
 ## Title: Data Analytics: Clustering, Regression and Machine Learning con  Power BI
 ## Abstract:

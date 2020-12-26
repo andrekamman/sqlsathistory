@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 40699
 # @Table vs #Table: шаблони використання, спільні характеристики, міфи
 #### [Back to calendar](#nr-426)
-Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 05-12-2015 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Andrii Zrobok
 ## Title: @Table vs #Table: шаблони використання, спільні характеристики, міфи
 ## Abstract:
@@ -32,7 +32,7 @@ Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 40715
 # Managing Database Changes in Source Control
 #### [Back to calendar](#nr-426)
-Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 05-12-2015 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Andrey Langovoy
 ## Title: Managing Database Changes in Source Control
 ## Abstract:
@@ -41,7 +41,7 @@ Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 41105
 # Inside Transaction Logging
 #### [Back to calendar](#nr-426)
-Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 05-12-2015 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Taras Bobrovytskyi
 ## Title: Inside Transaction Logging
 ## Abstract:
@@ -50,7 +50,7 @@ Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 35661
 # Hidden gems of SQL Server 2014
 #### [Back to calendar](#nr-426)
-Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 05-12-2015 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Denis Reznik
 ## Title: Hidden gems of SQL Server 2014
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 41791
 # SSAS Multidimensional Databases optimization
 #### [Back to calendar](#nr-426)
-Event Date: 05-12-2015 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2015 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alex Peshekhonov
 ## Title: SSAS Multidimensional Databases optimization
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 05-12-2015 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 42560
 # Database monitoring, tuning and optimization using Dell Software tools
 #### [Back to calendar](#nr-426)
-Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-12-2015 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vladislav Samoylenko
 ## Title: Database monitoring, tuning and optimization using Dell Software tools
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 39438
 # Complex Event Processing with Azure Stream Analytics
 #### [Back to calendar](#nr-426)
-Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 05-12-2015 - Session time: 13:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Complex Event Processing with Azure Stream Analytics
 ## Abstract:
@@ -92,7 +92,7 @@ This talk is about the main concepts and solution architecture when using Azure 
 #### SessionID: 41789
 # Dive into HDInsight: common Big Data analysis scenarios on Microsoft Azure
 #### [Back to calendar](#nr-426)
-Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 05-12-2015 - Session time: 13:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Vitalii Bondarenko
 ## Title: Dive into HDInsight: common Big Data analysis scenarios on Microsoft Azure
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Cloud Application Devel
 #### SessionID: 42201
 # SQL Server 2016 CTP 3 review
 #### [Back to calendar](#nr-426)
-Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-12-2015 - Session time: 13:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcin Szeliga
 ## Title: SQL Server 2016 CTP 3 review
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 42559
 # Инструменты резервирования и репликации реляционных баз данных
 #### [Back to calendar](#nr-426)
-Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-12-2015 - Session time: 13:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ivan Rudnytskyi
 ## Title: Инструменты резервирования и репликации реляционных баз данных
 ## Abstract:
@@ -122,7 +122,7 @@ Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 38036
 # Metadata-driven Automatic Package Creation with Biml - Notes From The Field
 #### [Back to calendar](#nr-426)
-Event Date: 05-12-2015 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2015 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marcin Szeliga
 ## Title: Metadata-driven Automatic Package Creation with Biml - Notes From The Field
 ## Abstract:
@@ -131,7 +131,7 @@ Event Date: 05-12-2015 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 39771
 # MDX:  а давайте взорвем мозг?
 #### [Back to calendar](#nr-426)
-Event Date: 05-12-2015 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2015 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Polonichko
 ## Title: MDX:  а давайте взорвем мозг?
 ## Abstract:
@@ -140,7 +140,7 @@ Event Date: 05-12-2015 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 40250
 # Database corruption
 #### [Back to calendar](#nr-426)
-Event Date: 05-12-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-12-2015 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: Database corruption
 ## Abstract:

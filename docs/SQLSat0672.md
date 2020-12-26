@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 67692
 # Operación de SQL Server 24x7 - 365d: Trucos y consejos para llevarlo bien
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: DBA
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: DBA
 ## Speaker: Eladio Rincon
 ## Title: Operación de SQL Server 24x7 - 365d: Trucos y consejos para llevarlo bien
 ## Abstract:
@@ -40,7 +40,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 68646
 # DBA Moderno: Perversiones para desordenar el caos
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: DBA
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: DBA
 ## Speaker: Alberto López Grande
 ## Title: DBA Moderno: Perversiones para desordenar el caos
 ## Abstract:
@@ -51,7 +51,7 @@ Advertencia: No hagáis esto en casa.
 #### SessionID: 68731
 # Data Lake Analytics - R, Python and Cognitive Services
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Big Data  Analytics
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: Big Data  Analytics
 ## Speaker: Kenneth Nielsen
 ## Title: Data Lake Analytics - R, Python and Cognitive Services
 ## Abstract:
@@ -62,7 +62,7 @@ The newest addition to Data Lake Analytics is execution of R, Pytnon and Cogniti
 #### SessionID: 68744
 # Together is better: Azure SQL Datawarehouse  Azure Analysis Services
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: Business Intelligence
 ## Speaker: Jose Luis Cano
 ## Title: Together is better: Azure SQL Datawarehouse  Azure Analysis Services
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #### SessionID: 65520
 # Azure Data Factory vs SSIS, the Ins and Outs.
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 23-09-2017 - Session time: 10:15:00 - Track: Business Intelligence
 ## Speaker: Regis Baccaro
 ## Title: Azure Data Factory vs SSIS, the Ins and Outs.
 ## Abstract:
@@ -84,7 +84,7 @@ These are some of the questions that might arise, when reading about this new Pa
 #### SessionID: 67166
 # Introduction to Deep Learning
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Big Data  Analytics
+Event Date: 23-09-2017 - Session time: 10:15:00 - Track: Big Data  Analytics
 ## Speaker: Pablo Doval
 ## Title: Introduction to Deep Learning
 ## Abstract:
@@ -95,7 +95,7 @@ At the end of the session, a couple of less traditional models (autoencoders and
 #### SessionID: 68651
 # Run Your DBA Morning Checklist with Policy-Based Management
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: DBA
+Event Date: 23-09-2017 - Session time: 10:15:00 - Track: DBA
 ## Speaker: Pieter Vanhove
 ## Title: Run Your DBA Morning Checklist with Policy-Based Management
 ## Abstract:
@@ -104,7 +104,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 68676
 # Hay un nuevo forastero en la ciudad y se hace llamar SQL Graph
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Big Data  Analytics
+Event Date: 23-09-2017 - Session time: 10:15:00 - Track: Big Data  Analytics
 ## Speaker: Carlos Sacristán
 ## Title: Hay un nuevo forastero en la ciudad y se hace llamar SQL Graph
 ## Abstract:
@@ -113,7 +113,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Big Data  Analytics
 #### SessionID: 65429
 # Worst Practices  Less known limitations for Columnstore Indexes
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 23-09-2017 - Session time: 12:00:00 - Track: Business Intelligence
 ## Speaker: Niko Neugebauer
 ## Title: Worst Practices  Less known limitations for Columnstore Indexes
 ## Abstract:
@@ -125,7 +125,7 @@ Let me show you how to achieve that ;)
 #### SessionID: 66436
 # Porque no todo tiene que ser SQL: CosmosDB
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Big Data  Analytics
+Event Date: 23-09-2017 - Session time: 12:00:00 - Track: Big Data  Analytics
 ## Speaker: Robert Bermejo Blasco
 ## Title: Porque no todo tiene que ser SQL: CosmosDB
 ## Abstract:
@@ -135,7 +135,7 @@ También veremos diferencias entre SQL y NoSQL y cuando utilizarlas,  así como 
 #### SessionID: 66707
 # Aplicando R al análisis de rendimiento de un servidor
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Big Data  Analytics
+Event Date: 23-09-2017 - Session time: 12:00:00 - Track: Big Data  Analytics
 ## Speaker: Enrique Bañuls
 ## Title: Aplicando R al análisis de rendimiento de un servidor
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Big Data  Analytics
 #### SessionID: 68745
 # Dockeriza tu SQL Server
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: DBA
+Event Date: 23-09-2017 - Session time: 12:00:00 - Track: DBA
 ## Speaker: Adrian Diaz Cervera
 ## Title: Dockeriza tu SQL Server
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 66589
 # A time travel with temporal tables
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: DBA
+Event Date: 23-09-2017 - Session time: 13:00:00 - Track: DBA
 ## Speaker: LEONEL ABREU
 ## Title: A time travel with temporal tables
 ## Abstract:
@@ -164,7 +164,7 @@ In this session will be shown how to implement them in new and existing tables, 
 #### SessionID: 67287
 # Agile BI: Como tener linaje de datos y no morir en el intento
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 23-09-2017 - Session time: 13:00:00 - Track: Business Intelligence
 ## Speaker: Miguel Egea
 ## Title: Agile BI: Como tener linaje de datos y no morir en el intento
 ## Abstract:
@@ -173,7 +173,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #### SessionID: 67551
 # Lockless in Seattle: Using In-Memory OLTP Transaction Processing
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: DBA
+Event Date: 23-09-2017 - Session time: 13:00:00 - Track: DBA
 ## Speaker: Mark Broadbent
 ## Title: Lockless in Seattle: Using In-Memory OLTP Transaction Processing
 ## Abstract:
@@ -184,7 +184,7 @@ In this session, we will understand how In-Memory OLTP architecture is implement
 #### SessionID: 68531
 # Escenarios de modelado en DAX, el súper lenguaje de Power BI.
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 23-09-2017 - Session time: 13:00:00 - Track: Business Intelligence
 ## Speaker: Ana Maria Bisbé York
 ## Title: Escenarios de modelado en DAX, el súper lenguaje de Power BI.
 ## Abstract:
@@ -193,7 +193,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #### SessionID: 66244
 # SQL Security
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: DBA
+Event Date: 23-09-2017 - Session time: 15:00:00 - Track: DBA
 ## Speaker: Francisco Racionero
 ## Title: SQL Security
 ## Abstract:
@@ -202,7 +202,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 66870
 # Let’s have some fun(ctional) with M (Power Query/Power BI) language!
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 23-09-2017 - Session time: 15:00:00 - Track: Business Intelligence
 ## Speaker: Cédric Charlier
 ## Title: Let’s have some fun(ctional) with M (Power Query/Power BI) language!
 ## Abstract:
@@ -211,7 +211,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #### SessionID: 66972
 # Back to the future - Migrando nuestro SQL Server OnPremise a Azure
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: DBA
+Event Date: 23-09-2017 - Session time: 15:00:00 - Track: DBA
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Back to the future - Migrando nuestro SQL Server OnPremise a Azure
 ## Abstract:
@@ -225,7 +225,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 68747
 # Haciendo BI en 2017: los 3 puntos clave
 #### [Back to calendar](#nr-672)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 23-09-2017 - Session time: 15:00:00 - Track: Business Intelligence
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Haciendo BI en 2017: los 3 puntos clave
 ## Abstract:

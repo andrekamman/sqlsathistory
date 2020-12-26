@@ -73,7 +73,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 40742
 # Cleaning House: The Indexing Edition
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration 
+Event Date: 16-01-2016 - Session time: 08:30:00 - Track: Database Administration 
 ## Speaker: Andy Yun
 ## Title: Cleaning House: The Indexing Edition
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration
 #### SessionID: 40985
 # Turbo-Charged Transaction Logs
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration 
+Event Date: 16-01-2016 - Session time: 08:30:00 - Track: Database Administration 
 ## Speaker: David Maxwell
 ## Title: Turbo-Charged Transaction Logs
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration
 #### SessionID: 41293
 # The Next Dimension of Data
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Analytics  Visualization
+Event Date: 16-01-2016 - Session time: 08:30:00 - Track: BI Analytics  Visualization
 ## Speaker: Dave Mattingly
 ## Title: The Next Dimension of Data
 ## Abstract:
@@ -102,7 +102,7 @@ Turn your facts and figures into a compelling story by entering geospace: the fi
 #### SessionID: 41536
 # Mastering and Enhancing Company Data
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Analytics  Visualization
+Event Date: 16-01-2016 - Session time: 08:30:00 - Track: BI Analytics  Visualization
 ## Speaker: Rushabh Mehta
 ## Title: Mastering and Enhancing Company Data
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Analytics  Visualiza
 #### SessionID: 41567
 # Encrypting Data within Sql Server
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application Development
+Event Date: 16-01-2016 - Session time: 08:30:00 - Track: Database  Application Development
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within Sql Server
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application D
 #### SessionID: 41661
 # XML Without Xanax: How to Handle XML in SQL Server
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application Development
+Event Date: 16-01-2016 - Session time: 08:30:00 - Track: Database  Application Development
 ## Speaker: Adam Belebczuk
 ## Title: XML Without Xanax: How to Handle XML in SQL Server
 ## Abstract:
@@ -133,7 +133,7 @@ If you survive this session, you'll have faced your fears about XML in SQL Serve
 #### SessionID: 42206
 # Building Your Yellow Brick Road: Directing Your Path to a Successful Career
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 16-01-2016 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: Justin Randall
 ## Title: Building Your Yellow Brick Road: Directing Your Path to a Successful Career
 ## Abstract:
@@ -142,7 +142,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 42215
 # Row-level Security in SSRS and SSAS
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Architecture  Management
+Event Date: 16-01-2016 - Session time: 08:30:00 - Track: BI Architecture  Management
 ## Speaker: Chris Hyde
 ## Title: Row-level Security in SSRS and SSAS
 ## Abstract:
@@ -151,7 +151,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Architecture  Manage
 #### SessionID: 42227
 # Let Me Finish... Isolating Write Operations
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application Development
+Event Date: 16-01-2016 - Session time: 08:30:00 - Track: Database  Application Development
 ## Speaker: Louis Davidson
 ## Title: Let Me Finish... Isolating Write Operations
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application D
 #### SessionID: 42235
 # Powershell Jumpstart for SQL Server DBAs
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: PowerShell
+Event Date: 16-01-2016 - Session time: 08:30:00 - Track: PowerShell
 ## Speaker: Michael Fal
 ## Title: Powershell Jumpstart for SQL Server DBAs
 ## Abstract:
@@ -169,7 +169,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: PowerShell
 #### SessionID: 42350
 # Show me whatcha workin' with: Big Data Edition
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Cloud Database/Application Development  Deployment
+Event Date: 16-01-2016 - Session time: 08:30:00 - Track: Cloud Database/Application Development  Deployment
 ## Speaker: Josh Luedeman
 ## Title: Show me whatcha workin' with: Big Data Edition
 ## Abstract:
@@ -178,7 +178,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Cloud Database/Applicat
 #### SessionID: 40746
 # Beginners SQL Server Security the Low Hanging Fruit
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration 
+Event Date: 16-01-2016 - Session time: 09:45:00 - Track: Database Administration 
 ## Speaker: Lindsay Clark
 ## Title: Beginners SQL Server Security the Low Hanging Fruit
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration
 #### SessionID: 40787
 # Looking for the Power BI on-prem alternative?
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Analytics  Visualization
+Event Date: 16-01-2016 - Session time: 09:45:00 - Track: BI Analytics  Visualization
 ## Speaker: Mark Scott
 ## Title: Looking for the Power BI on-prem alternative?
 ## Abstract:
@@ -196,7 +196,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Analytics  Visualiza
 #### SessionID: 40939
 # Transforming Data using the T-SQL PIVOT / UNPIVOT operators
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application Development
+Event Date: 16-01-2016 - Session time: 09:45:00 - Track: Database  Application Development
 ## Speaker: Jeff Foushee
 ## Title: Transforming Data using the T-SQL PIVOT / UNPIVOT operators
 ## Abstract:
@@ -205,7 +205,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application D
 #### SessionID: 41143
 # Tame the sibling rivalry of the Lock, Block, Deadlock sisters
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application Development
+Event Date: 16-01-2016 - Session time: 09:45:00 - Track: Database  Application Development
 ## Speaker: William Wolf
 ## Title: Tame the sibling rivalry of the Lock, Block, Deadlock sisters
 ## Abstract:
@@ -216,7 +216,7 @@ We will review locking, blocking and deadlocking.  We will review isolation leve
 #### SessionID: 41355
 # Version control with GIT for the DBA
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Other
+Event Date: 16-01-2016 - Session time: 09:45:00 - Track: Other
 ## Speaker: Justin Dearing
 ## Title: Version control with GIT for the DBA
 ## Abstract:
@@ -238,7 +238,7 @@ We will be covering using git from both the command line and Visual Studio.
 #### SessionID: 41703
 # Top 10 Wait Types Everyone Should Know
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration 
+Event Date: 16-01-2016 - Session time: 09:45:00 - Track: Database Administration 
 ## Speaker: Janis Griffin
 ## Title: Top 10 Wait Types Everyone Should Know
 ## Abstract:
@@ -247,7 +247,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration
 #### SessionID: 42064
 # Maintain SQL Server Performance Baseline w/PowerShell
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: PowerShell
+Event Date: 16-01-2016 - Session time: 09:45:00 - Track: PowerShell
 ## Speaker: Allen White
 ## Title: Maintain SQL Server Performance Baseline w/PowerShell
 ## Abstract:
@@ -256,7 +256,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: PowerShell
 #### SessionID: 42095
 # Use Biml to Automate SSIS Design Patterns
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Architecture  Management
+Event Date: 16-01-2016 - Session time: 09:45:00 - Track: BI Architecture  Management
 ## Speaker: Andy Leonard
 ## Title: Use Biml to Automate SSIS Design Patterns
 ## Abstract:
@@ -271,7 +271,7 @@ In this session, you will learn:
 #### SessionID: 42210
 # Ten Query Tuning Techniques Every SQL Programmer Should Know
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application Development
+Event Date: 16-01-2016 - Session time: 09:45:00 - Track: Database  Application Development
 ## Speaker: Kevin Kline
 ## Title: Ten Query Tuning Techniques Every SQL Programmer Should Know
 ## Abstract:
@@ -285,7 +285,7 @@ Goal 3: Discover the high-impact metadata that shows how a SELECT statement beha
 #### SessionID: 42259
 # Using SQL Servers AlwaysOn Availability Groups
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration 
+Event Date: 16-01-2016 - Session time: 09:45:00 - Track: Database Administration 
 ## Speaker: Denny Cherry
 ## Title: Using SQL Servers AlwaysOn Availability Groups
 ## Abstract:
@@ -294,7 +294,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration
 #### SessionID: 42262
 # Social Networking Is Alive!!!
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 16-01-2016 - Session time: 09:45:00 - Track: Professional Development
 ## Speaker: John Morehouse
 ## Title: Social Networking Is Alive!!!
 ## Abstract:
@@ -303,7 +303,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 42264
 # A Quick Peek into the 4th Dimension with T-SQL
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application Development
+Event Date: 16-01-2016 - Session time: 09:45:00 - Track: Database  Application Development
 ## Speaker: Rodney Landrum
 ## Title: A Quick Peek into the 4th Dimension with T-SQL
 ## Abstract:
@@ -312,7 +312,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application D
 #### SessionID: 45075
 # Looking for the Power BI on-prem alternative?
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Analytics  Visualization
+Event Date: 16-01-2016 - Session time: 09:45:00 - Track: BI Analytics  Visualization
 ## Speaker: Jason Picker
 ## Title: Looking for the Power BI on-prem alternative?
 ## Abstract:
@@ -321,7 +321,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Analytics  Visualiza
 #### SessionID: 40734
 # Batches, Transactions, and Errors
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application Development
+Event Date: 16-01-2016 - Session time: 11:00:00 - Track: Database  Application Development
 ## Speaker: John Deardurff
 ## Title: Batches, Transactions, and Errors
 ## Abstract:
@@ -330,7 +330,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application D
 #### SessionID: 40737
 # Understanding SQL Server Backup and Restore
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration 
+Event Date: 16-01-2016 - Session time: 11:00:00 - Track: Database Administration 
 ## Speaker: Tim Radney
 ## Title: Understanding SQL Server Backup and Restore
 ## Abstract:
@@ -339,7 +339,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration
 #### SessionID: 40739
 # Keys to Successful SharePoint Administration for the DBA
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Other
+Event Date: 16-01-2016 - Session time: 11:00:00 - Track: Other
 ## Speaker: Daniel Glenn
 ## Title: Keys to Successful SharePoint Administration for the DBA
 ## Abstract:
@@ -349,7 +349,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Other
 #### SessionID: 41187
 # Execution Plans for Mere Mortals
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application Development
+Event Date: 16-01-2016 - Session time: 11:00:00 - Track: Database  Application Development
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
 ## Abstract:
@@ -367,7 +367,7 @@ Finally, you will be able to capture the execution plan, save it for analysis an
 #### SessionID: 41221
 # Table Vars and Temp Tables – What you NEED to Know!
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application Development
+Event Date: 16-01-2016 - Session time: 11:00:00 - Track: Database  Application Development
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars and Temp Tables – What you NEED to Know!
 ## Abstract:
@@ -376,7 +376,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application D
 #### SessionID: 41356
 # R with AzureML
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Analytics  Visualization
+Event Date: 16-01-2016 - Session time: 11:00:00 - Track: BI Analytics  Visualization
 ## Speaker: Jake Switzer
 ## Title: R with AzureML
 ## Abstract:
@@ -385,7 +385,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Analytics  Visualiza
 #### SessionID: 41741
 # 16 Enhancements for SQL Server 2016
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration 
+Event Date: 16-01-2016 - Session time: 11:00:00 - Track: Database Administration 
 ## Speaker: Robert Verell
 ## Title: 16 Enhancements for SQL Server 2016
 ## Abstract:
@@ -394,7 +394,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration
 #### SessionID: 41805
 # SSAS Metadata Reporting for Cube Consumers and Developers
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Architecture  Management
+Event Date: 16-01-2016 - Session time: 11:00:00 - Track: BI Architecture  Management
 ## Speaker: Dave Fackler
 ## Title: SSAS Metadata Reporting for Cube Consumers and Developers
 ## Abstract:
@@ -403,7 +403,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Architecture  Manage
 #### SessionID: 41840
 # Flying Through the Clouds--Performance Tuning in Azure
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Cloud Database/Application Development  Deployment
+Event Date: 16-01-2016 - Session time: 11:00:00 - Track: Cloud Database/Application Development  Deployment
 ## Speaker: Joseph D'Antoni
 ## Title: Flying Through the Clouds--Performance Tuning in Azure
 ## Abstract:
@@ -421,7 +421,7 @@ You will learn about techniques that will not just improve your system performan
 #### SessionID: 41841
 # Introduction to SQL Server Integration Services
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Architecture  Management
+Event Date: 16-01-2016 - Session time: 11:00:00 - Track: BI Architecture  Management
 ## Speaker: Ed Watson
 ## Title: Introduction to SQL Server Integration Services
 ## Abstract:
@@ -430,7 +430,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Architecture  Manage
 #### SessionID: 42063
 # Get Near Realtime ETL with Service Broker
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Architecture  Management
+Event Date: 16-01-2016 - Session time: 11:00:00 - Track: BI Architecture  Management
 ## Speaker: Allen White
 ## Title: Get Near Realtime ETL with Service Broker
 ## Abstract:
@@ -440,7 +440,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Architecture  Manage
 #### SessionID: 42202
 # A Real, Live PowerShell Beginner's Tutorial
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Other
+Event Date: 16-01-2016 - Session time: 11:00:00 - Track: Other
 ## Speaker: Tim Warner
 ## Title: A Real, Live PowerShell Beginner's Tutorial
 ## Abstract:
@@ -449,7 +449,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Other
 #### SessionID: 42250
 # Understanding Windows Azure High Availability Options for SQL Server
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Cloud Database/Application Development  Deployment
+Event Date: 16-01-2016 - Session time: 11:00:00 - Track: Cloud Database/Application Development  Deployment
 ## Speaker: David Bermingham
 ## Title: Understanding Windows Azure High Availability Options for SQL Server
 ## Abstract:
@@ -460,7 +460,7 @@ While Microsoft Azure offers SLA's of 99.95%, you have to know what to do to mak
 #### SessionID: 42648
 # Extended Time Slot
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Other
+Event Date: 16-01-2016 - Session time: 12:00:00 - Track: Other
 ## Speaker: SQLSaturday Nashville
 ## Title: Extended Time Slot
 ## Abstract:
@@ -469,7 +469,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Other
 #### SessionID: 42025
 # Perceptual Intelligence with Cortana Analytics
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Analytics  Visualization
+Event Date: 16-01-2016 - Session time: 12:30:00 - Track: BI Analytics  Visualization
 ## Speaker: Dan Evans
 ## Title: Perceptual Intelligence with Cortana Analytics
 ## Abstract:
@@ -479,7 +479,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Analytics  Visualiza
 #### SessionID: 42574
 # Ensure optimal database performance with Foglight Performance Investigator
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration 
+Event Date: 16-01-2016 - Session time: 12:30:00 - Track: Database Administration 
 ## Speaker: David Orlandi
 ## Title: Ensure optimal database performance with Foglight Performance Investigator
 ## Abstract:
@@ -489,7 +489,7 @@ Foglight Performance Investigator. You will learn about:  Multidimensional SQL w
 #### SessionID: 42649
 # Case Study: Improving High Availability and Disaster Recovery
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Other
+Event Date: 16-01-2016 - Session time: 12:30:00 - Track: Other
 ## Speaker: SQLSaturday Nashville
 ## Title: Case Study: Improving High Availability and Disaster Recovery
 ## Abstract:
@@ -498,7 +498,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Other
 #### SessionID: 44866
 # The Benefits of Implementing SQL Server on Cisco Unified Computing System
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration 
+Event Date: 16-01-2016 - Session time: 12:30:00 - Track: Database Administration 
 ## Speaker: Frank Cicalese
 ## Title: The Benefits of Implementing SQL Server on Cisco Unified Computing System
 ## Abstract:
@@ -507,7 +507,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration
 #### SessionID: 45058
 # Top Free Tools for Tuning SQL Statements
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application Development
+Event Date: 16-01-2016 - Session time: 12:30:00 - Track: Database  Application Development
 ## Speaker: Kevin Kline
 ## Title: Top Free Tools for Tuning SQL Statements
 ## Abstract:
@@ -522,7 +522,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application D
 #### SessionID: 45180
 # WIT-Diversity Panel: Parenting Daughters in an IT world  Why Its Important
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Other
+Event Date: 16-01-2016 - Session time: 12:30:00 - Track: Other
 ## Speaker: Rie Irish
 ## Title: WIT-Diversity Panel: Parenting Daughters in an IT world  Why Its Important
 ## Abstract:
@@ -531,7 +531,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Other
 #### SessionID: 40880
 # Balancing Work and Home to Create a Better You
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 16-01-2016 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Balancing Work and Home to Create a Better You
 ## Abstract:
@@ -540,7 +540,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 41076
 # Navigating the Options for Data Redundancy
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration 
+Event Date: 16-01-2016 - Session time: 13:30:00 - Track: Database Administration 
 ## Speaker: Wendy Pastrick
 ## Title: Navigating the Options for Data Redundancy
 ## Abstract:
@@ -549,7 +549,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration
 #### SessionID: 41111
 # Introduction to the Power BI Desktop
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Analytics  Visualization
+Event Date: 16-01-2016 - Session time: 13:30:00 - Track: BI Analytics  Visualization
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to the Power BI Desktop
 ## Abstract:
@@ -558,7 +558,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Analytics  Visualiza
 #### SessionID: 41861
 # PowerShell for the Reluctant Administrator
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: PowerShell
+Event Date: 16-01-2016 - Session time: 13:30:00 - Track: PowerShell
 ## Speaker: Pat Phelan
 ## Title: PowerShell for the Reluctant Administrator
 ## Abstract:
@@ -571,7 +571,7 @@ This session was designed for the non-PowerShell user and the new PowerShell use
 #### SessionID: 42105
 # Don't Rely on Magic - Tabular Performance Troubleshooting 
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Architecture  Management
+Event Date: 16-01-2016 - Session time: 13:30:00 - Track: BI Architecture  Management
 ## Speaker: Hope Foley
 ## Title: Don't Rely on Magic - Tabular Performance Troubleshooting 
 ## Abstract:
@@ -581,7 +581,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Architecture  Manage
 #### SessionID: 42234
 # Automating Database Restores
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application Development
+Event Date: 16-01-2016 - Session time: 13:30:00 - Track: Database  Application Development
 ## Speaker: Andy Warren
 ## Title: Automating Database Restores
 ## Abstract:
@@ -592,7 +592,7 @@ This presentation will show you the latest version of the system I use, one cons
 #### SessionID: 42258
 # SQL Server's In Memory Database Objects
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application Development
+Event Date: 16-01-2016 - Session time: 13:30:00 - Track: Database  Application Development
 ## Speaker: Denny Cherry
 ## Title: SQL Server's In Memory Database Objects
 ## Abstract:
@@ -601,7 +601,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application D
 #### SessionID: 42260
 # Database Continuous Delivery  Your Salvation!
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application Development
+Event Date: 16-01-2016 - Session time: 13:30:00 - Track: Database  Application Development
 ## Speaker: John Morehouse
 ## Title: Database Continuous Delivery  Your Salvation!
 ## Abstract:
@@ -610,7 +610,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database  Application D
 #### SessionID: 42267
 # Turning Requirements into a BI Prototype
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Architecture  Management
+Event Date: 16-01-2016 - Session time: 13:30:00 - Track: BI Architecture  Management
 ## Speaker: Stacia Varga
 ## Title: Turning Requirements into a BI Prototype
 ## Abstract:
@@ -620,7 +620,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: BI Architecture  Manage
 #### SessionID: 42274
 # TempDB Done Right
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration 
+Event Date: 16-01-2016 - Session time: 13:30:00 - Track: Database Administration 
 ## Speaker: Eddie Wuerch
 ## Title: TempDB Done Right
 ## Abstract:
@@ -629,7 +629,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration
 #### SessionID: 42348
 # Data Factory: Data Integration in the Cloud
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Cloud Database/Application Development  Deployment
+Event Date: 16-01-2016 - Session time: 13:30:00 - Track: Cloud Database/Application Development  Deployment
 ## Speaker: Josh Luedeman
 ## Title: Data Factory: Data Integration in the Cloud
 ## Abstract:
@@ -638,7 +638,7 @@ Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Cloud Database/Applicat
 #### SessionID: 44612
 # Surviving Your Peak Database Load
 #### [Back to calendar](#nr-480)
-Event Date: 16-01-2016 - Session time: 14:45:00 - Track: Database Administration 
+Event Date: 16-01-2016 - Session time: 13:30:00 - Track: Database Administration 
 ## Speaker: Ben DeBow
 ## Title: Surviving Your Peak Database Load
 ## Abstract:

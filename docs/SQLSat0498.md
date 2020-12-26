@@ -44,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 42315
 # Create lightning fast Dashboard with Power BI and its Components
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 25-06-2016 - Session time: 08:15:00 - Track: Analytics and Visualization
 ## Speaker: Vishal Pawar
 ## Title: Create lightning fast Dashboard with Power BI and its Components
 ## Abstract:
@@ -53,7 +53,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 47112
 # The Sorcerer's Apprentice Guide to Configuration Options and Trace Flags
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-06-2016 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Justin Randall
 ## Title: The Sorcerer's Apprentice Guide to Configuration Options and Trace Flags
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 48569
 # Why “R” you not leveraging the power of “R” in Power BI?!?
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 25-06-2016 - Session time: 08:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Wade
 ## Title: Why “R” you not leveraging the power of “R” in Power BI?!?
 ## Abstract:
@@ -73,7 +73,7 @@ In this session I will focus on the benefits of using R in Power BI. I will show
 #### SessionID: 49595
 # Building Unconventional SQL Server Tools in PowerShell
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Other
+Event Date: 25-06-2016 - Session time: 08:15:00 - Track: Other
 ## Speaker: Mike Robbins
 ## Title: Building Unconventional SQL Server Tools in PowerShell
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Other
 #### SessionID: 49664
 # A SQL Developer’s Guide to MDX Basics
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 25-06-2016 - Session time: 08:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shabnam Watson
 ## Title: A SQL Developer’s Guide to MDX Basics
 ## Abstract:
@@ -94,7 +94,7 @@ In this session you will explore how data is organized in SSAS in a data structu
 #### SessionID: 49667
 # Upgrade your Database Development Skills with SQL Server Data Tools
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 25-06-2016 - Session time: 08:15:00 - Track: Application  Database Development
 ## Speaker: Nathanial Gainer
 ## Title: Upgrade your Database Development Skills with SQL Server Data Tools
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 45113
 # Road to Better SQL Code - Advance Techniques Part 1
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 25-06-2016 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Road to Better SQL Code - Advance Techniques Part 1
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 46477
 # Execution Plans for Mere Mortals
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 25-06-2016 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
 ## Abstract:
@@ -130,7 +130,7 @@ Finally, you will be able to capture the execution plan, save it for analysis an
 #### SessionID: 48803
 # Smart Rats Leave First
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 25-06-2016 - Session time: 09:30:00 - Track: Professional Development
 ## Speaker: Geoff Hiten
 ## Title: Smart Rats Leave First
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 49574
 # Advanced Error Tracking for Quick Diagnosis
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Information Delivery
+Event Date: 25-06-2016 - Session time: 09:30:00 - Track: Information Delivery
 ## Speaker: Matt Martin
 ## Title: Advanced Error Tracking for Quick Diagnosis
 ## Abstract:
@@ -150,7 +150,7 @@ This toolset has saved many developers and DBA's tons of time researching failur
 #### SessionID: 50084
 # 16 Enhancements for SQL Server 2016
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Other
+Event Date: 25-06-2016 - Session time: 09:30:00 - Track: Other
 ## Speaker: Robert Verell
 ## Title: 16 Enhancements for SQL Server 2016
 ## Abstract:
@@ -159,7 +159,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Other
 #### SessionID: 50561
 # Achieve More in Less Time by Using SQLPS
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 25-06-2016 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Aaron Nelson
 ## Title: Achieve More in Less Time by Using SQLPS
 ## Abstract:
@@ -171,7 +171,7 @@ There is a faster way to manage and even SQL Servers using PowerShell.  I will s
 #### SessionID: 42336
 # Data Analysis With SQL Window Functions
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 25-06-2016 - Session time: 10:45:00 - Track: Application  Database Development
 ## Speaker: Adam McDonald
 ## Title: Data Analysis With SQL Window Functions
 ## Abstract:
@@ -180,7 +180,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 45117
 # Road to Better SQL Code - Advance Techniques Part 2
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 25-06-2016 - Session time: 10:45:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Road to Better SQL Code - Advance Techniques Part 2
 ## Abstract:
@@ -189,7 +189,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 48218
 # Azure Data Factory: My Data Wandered Lonely as a CLOUD.
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 25-06-2016 - Session time: 10:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Julie Smith
 ## Title: Azure Data Factory: My Data Wandered Lonely as a CLOUD.
 ## Abstract:
@@ -198,7 +198,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 49692
 # PowerShell 201: Debugging, Security, Code Signing, and Remoting
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Other
+Event Date: 25-06-2016 - Session time: 10:45:00 - Track: Other
 ## Speaker: Robert Cain
 ## Title: PowerShell 201: Debugging, Security, Code Signing, and Remoting
 ## Abstract:
@@ -211,7 +211,7 @@ The session will wrap up with a discussion of Remoting, a technique allowing you
 #### SessionID: 50006
 # Why Should I Care About ... Partitioned Views?
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-06-2016 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
 ## Abstract:
@@ -220,7 +220,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 50101
 # Connecting Power BI to On-Prem Data with SSAS
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 25-06-2016 - Session time: 10:45:00 - Track: BI Information Delivery
 ## Speaker: Kerry Tyler
 ## Title: Connecting Power BI to On-Prem Data with SSAS
 ## Abstract:
@@ -229,7 +229,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 44283
 # Top 10 Wait Types Everyone Should Know
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-06-2016 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Top 10 Wait Types Everyone Should Know
 ## Abstract:
@@ -238,7 +238,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 45070
 # SQL Server XML 101
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 25-06-2016 - Session time: 13:15:00 - Track: Professional Development
 ## Speaker: Alex Grinberg
 ## Title: SQL Server XML 101
 ## Abstract:
@@ -247,7 +247,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 46783
 # Microsoft Business Intelligence 2016 – More Love for Your Data
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 25-06-2016 - Session time: 13:15:00 - Track: BI Information Delivery
 ## Speaker: Tamera Clark
 ## Title: Microsoft Business Intelligence 2016 – More Love for Your Data
 ## Abstract:
@@ -256,7 +256,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 48214
 # New Instance, Now what?
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-06-2016 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Donahoe
 ## Title: New Instance, Now what?
 ## Abstract:
@@ -270,7 +270,7 @@ By the end of this session, you will have developed a pallet of tools to help yo
 #### SessionID: 48503
 # Azure SQL Database for the Production DBA
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-06-2016 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Radney
 ## Title: Azure SQL Database for the Production DBA
 ## Abstract:
@@ -279,7 +279,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 49691
 # Zero to Hero with PowerShell and SQL Server
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-06-2016 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Cain
 ## Title: Zero to Hero with PowerShell and SQL Server
 ## Abstract:
@@ -291,7 +291,7 @@ You'll also see how to perform developer tasks such as creating tables, insertin
 #### SessionID: 52535
 # Self-Service ETL with Microsoft Power Query
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 25-06-2016 - Session time: 13:15:00 - Track: BI Information Delivery
 ## Speaker: Damu Venkatesan
 ## Title: Self-Service ETL with Microsoft Power Query
 ## Abstract:
@@ -300,7 +300,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 42309
 # Service Broker: Coach your processes asynchronously
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 25-06-2016 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Service Broker: Coach your processes asynchronously
 ## Abstract:
@@ -310,7 +310,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 42328
 # Context  Calculation: Back to the Basics with DAX
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 25-06-2016 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Austin Senseman
 ## Title: Context  Calculation: Back to the Basics with DAX
 ## Abstract:
@@ -321,7 +321,7 @@ This session is for the intermediate DAX user who has produced some quality data
 #### SessionID: 42568
 # SQL Server Always On - The Good, The Bad and the Ugly
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-06-2016 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Peterson
 ## Title: SQL Server Always On - The Good, The Bad and the Ugly
 ## Abstract:
@@ -332,7 +332,7 @@ This session will review terms for high availability and review our implementati
 #### SessionID: 45431
 # Introduction to SQL Server Integration Services
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 25-06-2016 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: Ed Watson
 ## Title: Introduction to SQL Server Integration Services
 ## Abstract:
@@ -341,7 +341,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 45733
 # Perceptual Intelligence with Cortana Analytics
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 25-06-2016 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dan Evans
 ## Title: Perceptual Intelligence with Cortana Analytics
 ## Abstract:
@@ -351,7 +351,7 @@ Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 45943
 # Table Partitioning Intro and make that a sliding window too!
 #### [Back to calendar](#nr-498)
-Event Date: 25-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-06-2016 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Reinhard
 ## Title: Table Partitioning Intro and make that a sliding window too!
 ## Abstract:

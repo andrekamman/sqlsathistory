@@ -38,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 59502
 # Architecting Availability Groups
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 29-07-2017 - Session time: 08:30:00 - Track: Database Administration
 ## Speaker: Derik Hammer
 ## Title: Architecting Availability Groups
 ## Abstract:
@@ -47,7 +47,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 #### SessionID: 59770
 # Learn On-premises BI: SSRS 2016 and Power BI
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Enterprise BI
+Event Date: 29-07-2017 - Session time: 08:30:00 - Track: Enterprise BI
 ## Speaker: Sunil Kadimdiwan
 ## Title: Learn On-premises BI: SSRS 2016 and Power BI
 ## Abstract:
@@ -60,7 +60,7 @@ I will also show you the newly introduced Power BI Report Server, that allows yo
 #### SessionID: 60944
 # Public Preview of SQL Server on Linux
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 29-07-2017 - Session time: 08:30:00 - Track: Database Administration
 ## Speaker: John Miner
 ## Title: Public Preview of SQL Server on Linux
 ## Abstract:
@@ -104,7 +104,7 @@ Coverage:
 #### SessionID: 62971
 # Advanced SQL Server execution plans
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Optimization/Tuning
+Event Date: 29-07-2017 - Session time: 08:30:00 - Track: Optimization/Tuning
 ## Speaker: Fabiano Amorim
 ## Title: Advanced SQL Server execution plans
 ## Abstract:
@@ -113,7 +113,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Optimization/Tuning
 #### SessionID: 64755
 # Painting with PowerShell: SQL Server Administration
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 29-07-2017 - Session time: 08:30:00 - Track: Database Administration
 ## Speaker: Chris Sommer
 ## Title: Painting with PowerShell: SQL Server Administration
 ## Abstract:
@@ -124,7 +124,7 @@ Join me to learn how to paint your own SQL Server canvas with PowerShell.
 #### SessionID: 65250
 # Leaving the Past Behind: Rewriting Your Checklist for SQL 2016
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 29-07-2017 - Session time: 08:30:00 - Track: Database Administration
 ## Speaker: Mike Hillwig
 ## Title: Leaving the Past Behind: Rewriting Your Checklist for SQL 2016
 ## Abstract:
@@ -137,7 +137,7 @@ Join veteran DBA Mike Hillwig and his list of server administration best practic
 #### SessionID: 59553
 # Organizational Security  Compliance with SQL 2012 through 2016
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 29-07-2017 - Session time: 10:00:00 - Track: Database Administration
 ## Speaker: George Walters
 ## Title: Organizational Security  Compliance with SQL 2012 through 2016
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 #### SessionID: 61662
 # Think like the Cardinality Estimator
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 29-07-2017 - Session time: 10:00:00 - Track: Database Administration
 ## Speaker: Taiob Ali
 ## Title: Think like the Cardinality Estimator
 ## Abstract:
@@ -155,7 +155,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 #### SessionID: 64300
 # Managing Azure Resources with PowerShell
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-07-2017 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bryan Cafferky
 ## Title: Managing Azure Resources with PowerShell
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 64385
 # PS > .\Install-SqlServer.ps1  "Automating your SQL Server Install"
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 29-07-2017 - Session time: 10:00:00 - Track: Database Administration
 ## Speaker: Andy Mallon
 ## Title: PS > .\Install-SqlServer.ps1  "Automating your SQL Server Install"
 ## Abstract:
@@ -177,7 +177,7 @@ I will share my automation script, and show you different methods to add automat
 #### SessionID: 66231
 # Whoa! Backup, what happened?
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 29-07-2017 - Session time: 10:00:00 - Track: Database Administration
 ## Speaker: Greg Moore
 ## Title: Whoa! Backup, what happened?
 ## Abstract:
@@ -188,7 +188,7 @@ Many DBAs still setup their backups via a GUI and “fire and forget” and don�
 #### SessionID: 66352
 # Network your Way to Success!
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Professional/Personal Development
+Event Date: 29-07-2017 - Session time: 10:00:00 - Track: Professional/Personal Development
 ## Speaker: Lisa Margerum
 ## Title: Network your Way to Success!
 ## Abstract:
@@ -201,7 +201,7 @@ Join us for an interactive session to strategize the best actions to increase yo
 #### SessionID: 66779
 # SANLess clustering for physical, virtual and cloud environments
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 29-07-2017 - Session time: 12:00:00 - Track: Database Administration
 ## Speaker: David Bermingham
 ## Title: SANLess clustering for physical, virtual and cloud environments
 ## Abstract:
@@ -212,7 +212,7 @@ This is the SIOS sponsored lunch time session.
 #### SessionID: 59755
 # Much Ado About Hadoop
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Big Data
+Event Date: 29-07-2017 - Session time: 12:30:00 - Track: Big Data
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
 ## Abstract:
@@ -221,7 +221,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Big Data
 #### SessionID: 63019
 # SQL Server - R Services
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Enterprise BI
+Event Date: 29-07-2017 - Session time: 12:30:00 - Track: Enterprise BI
 ## Speaker: Azhagappan Arunachalam
 ## Title: SQL Server - R Services
 ## Abstract:
@@ -230,7 +230,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Enterprise BI
 #### SessionID: 65694
 # Dissecting the Data Flow: Exploring SSIS Transformations, Memory and the Pipeline
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Development
+Event Date: 29-07-2017 - Session time: 12:30:00 - Track: Database Development
 ## Speaker: Matt Batalon
 ## Title: Dissecting the Data Flow: Exploring SSIS Transformations, Memory and the Pipeline
 ## Abstract:
@@ -239,7 +239,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Development
 #### SessionID: 66360
 # Top 10 Features of a Great Business Intelligence Solution
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Enterprise BI
+Event Date: 29-07-2017 - Session time: 12:30:00 - Track: Enterprise BI
 ## Speaker: Rachel Blum
 ## Title: Top 10 Features of a Great Business Intelligence Solution
 ## Abstract:
@@ -248,7 +248,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Enterprise BI
 #### SessionID: 66372
 # Back to the Basics: T-SQL 101
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Development
+Event Date: 29-07-2017 - Session time: 12:30:00 - Track: Database Development
 ## Speaker: Deborah Melkin
 ## Title: Back to the Basics: T-SQL 101
 ## Abstract:
@@ -259,7 +259,7 @@ This session is designed for the junior DBA or developer who is looking for a be
 #### SessionID: 66420
 # Man vs Machine: Adaptive query processing and auto tune on SQL2017
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 29-07-2017 - Session time: 12:30:00 - Track: Database Administration
 ## Speaker: Fabiano Amorim
 ## Title: Man vs Machine: Adaptive query processing and auto tune on SQL2017
 ## Abstract:
@@ -268,7 +268,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 #### SessionID: 59537
 # SQL Server 2016 Migration:A Technical/Project Management Approach
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Professional/Personal Development
+Event Date: 29-07-2017 - Session time: 14:00:00 - Track: Professional/Personal Development
 ## Speaker: Paresh Motiwala
 ## Title: SQL Server 2016 Migration:A Technical/Project Management Approach
 ## Abstract:
@@ -283,7 +283,7 @@ Finally we shall discuss a relatively new concept of a ‘Go Live’ environment
 #### SessionID: 62500
 # Utilizing Docker to create developer instances for SQL Server.
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Application Development
+Event Date: 29-07-2017 - Session time: 14:00:00 - Track: Application Development
 ## Speaker: Justin Dearing
 ## Title: Utilizing Docker to create developer instances for SQL Server.
 ## Abstract:
@@ -294,7 +294,7 @@ In this session we will go over the basics of docker, as well as the SQL Server 
 #### SessionID: 62809
 # # vs @ - it's not about Social Media it's about temporary tables and data
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 29-07-2017 - Session time: 14:00:00 - Track: Database Administration
 ## Speaker: Thomas Grohser
 ## Title: # vs @ - it's not about Social Media it's about temporary tables and data
 ## Abstract:
@@ -303,7 +303,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Administration
 #### SessionID: 62818
 # Learn How to do Predictive Modeling with R
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Big Data
+Event Date: 29-07-2017 - Session time: 14:00:00 - Track: Big Data
 ## Speaker: Bryan Cafferky
 ## Title: Learn How to do Predictive Modeling with R
 ## Abstract:
@@ -312,7 +312,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Big Data
 #### SessionID: 64719
 # Master Your Data using DQS and MDS
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Development
+Event Date: 29-07-2017 - Session time: 14:00:00 - Track: Database Development
 ## Speaker: Beth Wolfset
 ## Title: Master Your Data using DQS and MDS
 ## Abstract:
@@ -321,7 +321,7 @@ Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Database Development
 #### SessionID: 66228
 # Power BI: Architecture and demo
 #### [Back to calendar](#nr-622)
-Event Date: 29-07-2017 - Session time: 15:30:00 - Track: Self-Service BI
+Event Date: 29-07-2017 - Session time: 14:00:00 - Track: Self-Service BI
 ## Speaker: George Walters
 ## Title: Power BI: Architecture and demo
 ## Abstract:

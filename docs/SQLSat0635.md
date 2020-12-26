@@ -40,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 61685
 # Power BI : Dashboard in an hour
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Power BI
+Event Date: 26-08-2017 - Session time: 09:00:00 - Track: Power BI
 ## Speaker: Sophie Marchand
 ## Title: Power BI : Dashboard in an hour
 ## Abstract:
@@ -55,7 +55,7 @@ This is a hands-on session for beginners. You will be invited to download Power 
 #### SessionID: 62718
 # Back to the Future with Temporal Tables
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: dev
+Event Date: 26-08-2017 - Session time: 09:00:00 - Track: dev
 ## Speaker: Randolph West
 ## Title: Back to the Future with Temporal Tables
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 26-08-2017 - Session time: 15:00:00 - Track: dev
 #### SessionID: 66635
 # SQL Server Containers and Clones
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: DBA
+Event Date: 26-08-2017 - Session time: 09:00:00 - Track: DBA
 ## Speaker: Paul Stanton
 ## Title: SQL Server Containers and Clones
 ## Abstract:
@@ -75,7 +75,7 @@ Microsoft is emphasizing the use of containers for development and test on SQL S
 #### SessionID: 67102
 # Power BI Report Server: Self-service BI and Enterprise reporting on-premises
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Power BI
+Event Date: 26-08-2017 - Session time: 09:00:00 - Track: Power BI
 ## Speaker: Chris Finlan
 ## Title: Power BI Report Server: Self-service BI and Enterprise reporting on-premises
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Power BI
 #### SessionID: 67230
 # Internet Of Things: Smart Mirror
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Other
+Event Date: 26-08-2017 - Session time: 09:00:00 - Track: Other
 ## Speaker: Andrew Cook
 ## Title: Internet Of Things: Smart Mirror
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Other
 #### SessionID: 62408
 # Make your data mobile with Power BI
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Power BI
+Event Date: 26-08-2017 - Session time: 10:00:00 - Track: Power BI
 ## Speaker: Ken Puls
 ## Title: Make your data mobile with Power BI
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Power BI
 #### SessionID: 65206
 # Data Visualization:  How to truly tell a great story!
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Other
+Event Date: 26-08-2017 - Session time: 10:00:00 - Track: Other
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization:  How to truly tell a great story!
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Other
 #### SessionID: 65325
 # Columnstore Index Primer
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: dev
+Event Date: 26-08-2017 - Session time: 10:00:00 - Track: dev
 ## Speaker: Sepand Gojgini
 ## Title: Columnstore Index Primer
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 26-08-2017 - Session time: 15:00:00 - Track: dev
 #### SessionID: 67060
 # Azure SQL Data Warehouse for the SQL Server DBA
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: DBA
+Event Date: 26-08-2017 - Session time: 10:00:00 - Track: DBA
 ## Speaker: Warner Chaves
 ## Title: Azure SQL Data Warehouse for the SQL Server DBA
 ## Abstract:
@@ -133,7 +133,7 @@ In this session we will look at the main concepts of the Azure SQL Data Warehous
 #### SessionID: 67158
 # Azure Data Technologies Overview
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Azure
+Event Date: 26-08-2017 - Session time: 10:00:00 - Track: Azure
 ## Speaker: Anthony Chu
 ## Title: Azure Data Technologies Overview
 ## Abstract:
@@ -144,7 +144,7 @@ We’ll look at the wide variety of managed services available to store data on 
 #### SessionID: 63749
 # Oracle vs. SQL Server Indexing-  The Good, the Bad and the Ugly
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: DBA
+Event Date: 26-08-2017 - Session time: 11:00:00 - Track: DBA
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Oracle vs. SQL Server Indexing-  The Good, the Bad and the Ugly
 ## Abstract:
@@ -159,7 +159,7 @@ Takeaways are:
 #### SessionID: 64651
 # The Science of Success: Building Faith in a Data Warehouse
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: DW/BI
+Event Date: 26-08-2017 - Session time: 11:00:00 - Track: DW/BI
 ## Speaker: Todd McDermid
 ## Title: The Science of Success: Building Faith in a Data Warehouse
 ## Abstract:
@@ -170,7 +170,7 @@ Learn how to leverage your tooling expertise in SSIS and SQL to build a dead-sim
 #### SessionID: 67101
 # What is new and exciting in Power BI
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Power BI
+Event Date: 26-08-2017 - Session time: 11:00:00 - Track: Power BI
 ## Speaker: Charles Sterling
 ## Title: What is new and exciting in Power BI
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Power BI
 #### SessionID: 67242
 # Azure DataFactory for heterogeneous Cloud sources
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Azure
+Event Date: 26-08-2017 - Session time: 11:00:00 - Track: Azure
 ## Speaker: Mohamed Mawla
 ## Title: Azure DataFactory for heterogeneous Cloud sources
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Azure
 #### SessionID: 67280
 # How a traditional CMS went from on-prem SQL Server to Azure based CosmosDB, Search, Stream Analytics
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Azure
+Event Date: 26-08-2017 - Session time: 11:00:00 - Track: Azure
 ## Speaker: Ash Prasad
 ## Title: How a traditional CMS went from on-prem SQL Server to Azure based CosmosDB, Search, Stream Analytics
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Azure
 #### SessionID: 67093
 # Excel and SSIS: Better Together
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: DW/BI
+Event Date: 26-08-2017 - Session time: 12:00:00 - Track: DW/BI
 ## Speaker: Diane Schuster
 ## Title: Excel and SSIS: Better Together
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 26-08-2017 - Session time: 15:00:00 - Track: DW/BI
 #### SessionID: 68951
 # No future for the DBA
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Other
+Event Date: 26-08-2017 - Session time: 12:00:00 - Track: Other
 ## Speaker: Andrew Boudreau
 ## Title: No future for the DBA
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Other
 #### SessionID: 68990
 # Using SQL Server on Amazon Web Services
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: DBA
+Event Date: 26-08-2017 - Session time: 12:00:00 - Track: DBA
 ## Speaker: Michael Barras
 ## Title: Using SQL Server on Amazon Web Services
 ## Abstract:
@@ -224,7 +224,7 @@ Event Date: 26-08-2017 - Session time: 15:00:00 - Track: DBA
 #### SessionID: 66885
 # Modern Reporting with SQL Server 2016 and 2017 Reporting Services
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Power BI
+Event Date: 26-08-2017 - Session time: 13:00:00 - Track: Power BI
 ## Speaker: Paul Turley
 ## Title: Modern Reporting with SQL Server 2016 and 2017 Reporting Services
 ## Abstract:
@@ -238,7 +238,7 @@ This session covers:
 #### SessionID: 67232
 # The Power of Caching
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: dev
+Event Date: 26-08-2017 - Session time: 13:00:00 - Track: dev
 ## Speaker: Andrew Cook
 ## Title: The Power of Caching
 ## Abstract:
@@ -249,7 +249,7 @@ Redis is an open source, in-memory data structure store, used as a database, cac
 #### SessionID: 67238
 # Introduction to Azure Data Lake and U-SQL for SQL users
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Azure
+Event Date: 26-08-2017 - Session time: 13:00:00 - Track: Azure
 ## Speaker: Michael Rys
 ## Title: Introduction to Azure Data Lake and U-SQL for SQL users
 ## Abstract:
@@ -258,7 +258,7 @@ Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Azure
 #### SessionID: 67241
 # Linux essential Skills for Mouse clicker DBAs
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: DBA
+Event Date: 26-08-2017 - Session time: 13:00:00 - Track: DBA
 ## Speaker: Mohamed Mawla
 ## Title: Linux essential Skills for Mouse clicker DBAs
 ## Abstract:
@@ -269,7 +269,7 @@ The session will explore the essential skills needed to manage SQL server on Lin
 #### SessionID: 68853
 # Biml for Beginners: Speed Up Your SSIS Development
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: DW/BI
+Event Date: 26-08-2017 - Session time: 13:00:00 - Track: DW/BI
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Biml for Beginners: Speed Up Your SSIS Development
 ## Abstract:
@@ -284,7 +284,7 @@ Stop wasting your valuable time on doing the same things over and over and over 
 #### SessionID: 61654
 # Using Database Replication to Make Your Oracle Data Available in SQLServer
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: DBA
+Event Date: 26-08-2017 - Session time: 14:00:00 - Track: DBA
 ## Speaker: Clay Jackson
 ## Title: Using Database Replication to Make Your Oracle Data Available in SQLServer
 ## Abstract:
@@ -293,7 +293,7 @@ Event Date: 26-08-2017 - Session time: 15:00:00 - Track: DBA
 #### SessionID: 65208
 # Performance Tuning for the BI Professional
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: DW/BI
+Event Date: 26-08-2017 - Session time: 14:00:00 - Track: DW/BI
 ## Speaker: Jonathan Stewart
 ## Title: Performance Tuning for the BI Professional
 ## Abstract:
@@ -302,7 +302,7 @@ Event Date: 26-08-2017 - Session time: 15:00:00 - Track: DW/BI
 #### SessionID: 66968
 # Why Should I Care About ... Partitioned Views?
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: dev
+Event Date: 26-08-2017 - Session time: 14:00:00 - Track: dev
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
 ## Abstract:
@@ -311,7 +311,7 @@ Event Date: 26-08-2017 - Session time: 15:00:00 - Track: dev
 #### SessionID: 67229
 # A Deep-Dive with Azure Cosmos DB: Microsoft's globally distributed, multi-model database
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Azure
+Event Date: 26-08-2017 - Session time: 14:00:00 - Track: Azure
 ## Speaker: Andrew Liu
 ## Title: A Deep-Dive with Azure Cosmos DB: Microsoft's globally distributed, multi-model database
 ## Abstract:
@@ -321,7 +321,7 @@ In this session, we will cover how you can get the most out of Azure Cosmos DB b
 #### SessionID: 67279
 # DAX Filters: A Quest for Clarity
 #### [Back to calendar](#nr-635)
-Event Date: 26-08-2017 - Session time: 15:00:00 - Track: Power BI
+Event Date: 26-08-2017 - Session time: 14:00:00 - Track: Power BI
 ## Speaker: Derek Rickard
 ## Title: DAX Filters: A Quest for Clarity
 ## Abstract:

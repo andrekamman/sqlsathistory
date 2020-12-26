@@ -72,7 +72,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 73566
 # Creating your Vision
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Creating your Vision
 ## Abstract:
@@ -81,7 +81,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 74391
 # How To Talk To Your Storage Admin
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Administration
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: SQL Server Administration
 ## Speaker: Marsha Pierce
 ## Title: How To Talk To Your Storage Admin
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Administrati
 #### SessionID: 76961
 # Giving Feedback: How to Effectively Communicate to your Employees
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Giving Feedback: How to Effectively Communicate to your Employees
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 77476
 # Learn to Love Lisp: A look into Clojure
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: .NET Dev
 ## Speaker: Brandon Ringe
 ## Title: Learn to Love Lisp: A look into Clojure
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
 #### SessionID: 78694
 # Data Types Do Matter
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: SQL Server Development
 ## Speaker: Angela Henry
 ## Title: Data Types Do Matter
 ## Abstract:
@@ -117,7 +117,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
 #### SessionID: 80500
 # Power BI Security Deep Dive
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: Business Intelligence
 ## Speaker: Adam Saxton
 ## Title: Power BI Security Deep Dive
 ## Abstract:
@@ -126,7 +126,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
 #### SessionID: 83010
 # The Power of Data: The Complete Beginners Data Warehouse Kit
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: Business Intelligence
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data: The Complete Beginners Data Warehouse Kit
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
 #### SessionID: 83092
 # Exploring the new SqlServer PowerShell module
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: PowerShell
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: PowerShell
 ## Speaker: Michael Fal
 ## Title: Exploring the new SqlServer PowerShell module
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: PowerShell
 #### SessionID: 83163
 # A Tour of SQL Server 2016 Security Features
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: SQL Server Development
 ## Speaker: Steve Jones
 ## Title: A Tour of SQL Server 2016 Security Features
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
 #### SessionID: 83318
 # Create a rich no-code model driven app using PowerApps
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: .NET Dev
 ## Speaker: Mike Huguet
 ## Title: Create a rich no-code model driven app using PowerApps
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
 #### SessionID: 83571
 # SQL Server 2017 and R: More than stats
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: Business Intelligence
 ## Speaker: Mark Verret
 ## Title: SQL Server 2017 and R: More than stats
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
 #### SessionID: 83770
 # STEMupBR Track for Kids
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: StemUP Kid's Track
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: StemUP Kid's Track
 ## Speaker: William Assaf
 ## Title: STEMupBR Track for Kids
 ## Abstract:
@@ -186,7 +186,7 @@ Want to volunteer? https://foundationebr.org/brstem/volunteer.html
 #### SessionID: 83972
 # Introduction to Application Security
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: .NET Dev
 ## Speaker: James Alt
 ## Title: Introduction to Application Security
 ## Abstract:
@@ -198,7 +198,7 @@ In this introduction to application security we will go over the “basics” of
 #### SessionID: 84413
 # Enterprise Row Level Security in SQL Server and Power BI
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: PowerBI
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: PowerBI
 ## Speaker: Jamey Johnston
 ## Title: Enterprise Row Level Security in SQL Server and Power BI
 ## Abstract:
@@ -211,7 +211,7 @@ Attendees will leave with a complete working demo they can take to their work an
 #### SessionID: 73662
 # CQRS Lite and Otherwise
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: .NET Dev
 ## Speaker: George Mauer
 ## Title: CQRS Lite and Otherwise
 ## Abstract:
@@ -220,7 +220,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
 #### SessionID: 73754
 # Effortless Backups with Minion Backup
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Administration
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: SQL Server Administration
 ## Speaker: Jennifer McCown
 ## Title: Effortless Backups with Minion Backup
 ## Abstract:
@@ -240,7 +240,7 @@ While the solution is designed to be as simple as possible to get up and running
 #### SessionID: 73824
 # Random Acts of Senseless Databasing
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: SQL Server Development
 ## Speaker: Kris Hokanson
 ## Title: Random Acts of Senseless Databasing
 ## Abstract:
@@ -249,7 +249,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
 #### SessionID: 75776
 # Intro to Docker for .Net Developers
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: .NET Dev
 ## Speaker: Bryan McCoy
 ## Title: Intro to Docker for .Net Developers
 ## Abstract:
@@ -258,7 +258,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
 #### SessionID: 80536
 # Managing Azure Data Lake with PowerShell
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: Business Intelligence
 ## Speaker: Russel Loski
 ## Title: Managing Azure Data Lake with PowerShell
 ## Abstract:
@@ -269,7 +269,7 @@ In this session, we will look at how to authenticate in Azure Data Lake using Po
 #### SessionID: 82285
 # Demystifying NUMA and RightSizing
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Windows Server/Virtualization
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: Windows Server/Virtualization
 ## Speaker: Paulo de Souza
 ## Title: Demystifying NUMA and RightSizing
 ## Abstract:
@@ -280,7 +280,7 @@ The presentation will be completed with a discussion on virtual machine RightSiz
 #### SessionID: 82487
 # Knowledge Mapping-Sharing the Wealth of Your Team's Expertise
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: Business Intelligence
 ## Speaker: Mechelle Roberthon
 ## Title: Knowledge Mapping-Sharing the Wealth of Your Team's Expertise
 ## Abstract:
@@ -291,7 +291,7 @@ Organizational survival depends on many things, and one of the critical things i
 #### SessionID: 82832
 # Deploying Power BI in your Enterprise
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: Business Intelligence
 ## Speaker: Patrick LeBlanc
 ## Title: Deploying Power BI in your Enterprise
 ## Abstract:
@@ -300,7 +300,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
 #### SessionID: 83093
 # Getting Started with Git/GitHub
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: SQL Server Development
 ## Speaker: Michael Fal
 ## Title: Getting Started with Git/GitHub
 ## Abstract:
@@ -309,7 +309,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
 #### SessionID: 83161
 # Branding Yourself for a Dream Job
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
 ## Abstract:
@@ -318,7 +318,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 84322
 # Code Like a Snake Charmer - Intro to Python!
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: Business Intelligence
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Snake Charmer - Intro to Python!
 ## Abstract:
@@ -346,7 +346,7 @@ No prior statistics knowl
 #### SessionID: 85080
 # Diversity in Tech
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: CIO/Executive
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: CIO/Executive
 ## Speaker: Casey Phillips
 ## Title: Diversity in Tech
 ## Abstract:
@@ -355,7 +355,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: CIO/Executive
 #### SessionID: 73652
 # JSON Processing in SQL Server 2016 or Why I hate XML
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
+Event Date: 11-08-2018 - Session time: 12:15:00 - Track: SQL Server Development
 ## Speaker: Stan Geiger
 ## Title: JSON Processing in SQL Server 2016 or Why I hate XML
 ## Abstract:
@@ -364,7 +364,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
 #### SessionID: 73677
 # What’s New in the 2017 Query Store
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Administration
+Event Date: 11-08-2018 - Session time: 12:15:00 - Track: SQL Server Administration
 ## Speaker: Janis Griffin
 ## Title: What’s New in the 2017 Query Store
 ## Abstract:
@@ -373,7 +373,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Administrati
 #### SessionID: 76963
 # Mastering your Resume  Interview: Tips to Get Hired
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 11-08-2018 - Session time: 12:15:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Mastering your Resume  Interview: Tips to Get Hired
 ## Abstract:
@@ -382,7 +382,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 77142
 # Pandas Dataframes: The Kevin Bacon of the data structures in data analytics
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 11-08-2018 - Session time: 12:15:00 - Track: Business Intelligence
 ## Speaker: James Davis
 ## Title: Pandas Dataframes: The Kevin Bacon of the data structures in data analytics
 ## Abstract:
@@ -391,7 +391,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
 #### SessionID: 80413
 # Beginning Powershell for DBAs 1.0
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: PowerShell
+Event Date: 11-08-2018 - Session time: 12:15:00 - Track: PowerShell
 ## Speaker: Sean McCown
 ## Title: Beginning Powershell for DBAs 1.0
 ## Abstract:
@@ -400,7 +400,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: PowerShell
 #### SessionID: 81968
 # A DBA's guide to full stack performance troubleshooting
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Administration
+Event Date: 11-08-2018 - Session time: 12:15:00 - Track: SQL Server Administration
 ## Speaker: Daniel Janik
 ## Title: A DBA's guide to full stack performance troubleshooting
 ## Abstract:
@@ -413,7 +413,7 @@ Join me as I guide you through troubleshooting SQL Server performance from tip t
 #### SessionID: 82511
 # Twilight TimeZone: Handling Time in Your App Architecture
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
+Event Date: 11-08-2018 - Session time: 12:15:00 - Track: .NET Dev
 ## Speaker: William Assaf
 ## Title: Twilight TimeZone: Handling Time in Your App Architecture
 ## Abstract:
@@ -422,7 +422,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
 #### SessionID: 82616
 # Is My Application Bias Showing?
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
+Event Date: 11-08-2018 - Session time: 12:15:00 - Track: SQL Server Development
 ## Speaker: Rie Irish
 ## Title: Is My Application Bias Showing?
 ## Abstract:
@@ -433,7 +433,7 @@ Learn how to identify bias when it seeps in, how to code to be inclusive instead
 #### SessionID: 82749
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 11-08-2018 - Session time: 12:15:00 - Track: Business Intelligence
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
 ## Abstract:
@@ -442,7 +442,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
 #### SessionID: 82951
 # How to be a lazy sysadmin and get away with it.
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Windows Server/Virtualization
+Event Date: 11-08-2018 - Session time: 12:15:00 - Track: Windows Server/Virtualization
 ## Speaker: David Pechon
 ## Title: How to be a lazy sysadmin and get away with it.
 ## Abstract:
@@ -451,7 +451,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Windows Server/Virtuali
 #### SessionID: 83065
 # Open Management Style
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 11-08-2018 - Session time: 12:15:00 - Track: Professional Development
 ## Speaker: David Reid
 ## Title: Open Management Style
 ## Abstract:
@@ -460,7 +460,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 83162
 # Adopting A DevOps Process for Your Database
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
+Event Date: 11-08-2018 - Session time: 12:15:00 - Track: .NET Dev
 ## Speaker: Steve Jones
 ## Title: Adopting A DevOps Process for Your Database
 ## Abstract:
@@ -469,7 +469,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
 #### SessionID: 83187
 # Get insights from data with Cognitive Services
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
+Event Date: 11-08-2018 - Session time: 12:15:00 - Track: .NET Dev
 ## Speaker: Shawn Weisfeld
 ## Title: Get insights from data with Cognitive Services
 ## Abstract:
@@ -478,7 +478,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
 #### SessionID: 73593
 # Dynamic SQL: Tables, Parameters and More
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
+Event Date: 11-08-2018 - Session time: 13:30:00 - Track: SQL Server Development
 ## Speaker: Steven Tidwell
 ## Title: Dynamic SQL: Tables, Parameters and More
 ## Abstract:
@@ -487,7 +487,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
 #### SessionID: 73851
 # Fundamentals That Will Improve Your Query Performance!
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
+Event Date: 11-08-2018 - Session time: 13:30:00 - Track: SQL Server Development
 ## Speaker: John Wells
 ## Title: Fundamentals That Will Improve Your Query Performance!
 ## Abstract:
@@ -496,7 +496,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
 #### SessionID: 77698
 # SQL Server with Docker Containers
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Administration
+Event Date: 11-08-2018 - Session time: 13:30:00 - Track: SQL Server Administration
 ## Speaker: Marsha Pierce
 ## Title: SQL Server with Docker Containers
 ## Abstract:
@@ -505,7 +505,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Administrati
 #### SessionID: 78696
 # What is Power BI?
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: PowerBI
+Event Date: 11-08-2018 - Session time: 13:30:00 - Track: PowerBI
 ## Speaker: Angela Henry
 ## Title: What is Power BI?
 ## Abstract:
@@ -514,7 +514,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: PowerBI
 #### SessionID: 80002
 # Know What Your Code is Doing to SQL Server!
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
+Event Date: 11-08-2018 - Session time: 13:30:00 - Track: SQL Server Development
 ## Speaker: Kevin Boles
 ## Title: Know What Your Code is Doing to SQL Server!
 ## Abstract:
@@ -523,7 +523,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Development
 #### SessionID: 80512
 # 3.NET Development with Windows 10 IoT Core
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
+Event Date: 11-08-2018 - Session time: 13:30:00 - Track: .NET Dev
 ## Speaker: Al Manint
 ## Title: 3.NET Development with Windows 10 IoT Core
 ## Abstract:
@@ -532,7 +532,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: .NET Dev
 #### SessionID: 82510
 # Think Like a Certification Exam
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 11-08-2018 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: William Assaf
 ## Title: Think Like a Certification Exam
 ## Abstract:
@@ -541,7 +541,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 83003
 # Fishing for Answers: Azure Data Lake
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 11-08-2018 - Session time: 13:30:00 - Track: Business Intelligence
 ## Speaker: Jeff Renz
 ## Title: Fishing for Answers: Azure Data Lake
 ## Abstract:
@@ -551,7 +551,7 @@ This session will demo putting data into a data lake, pulling data, visualizing 
 #### SessionID: 83226
 # How to index, win friends, and influence people.
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Beginner
+Event Date: 11-08-2018 - Session time: 13:30:00 - Track: SQL Server Beginner
 ## Speaker: Jonathan Jefferson
 ## Title: How to index, win friends, and influence people.
 ## Abstract:
@@ -560,7 +560,7 @@ Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Beginner
 #### SessionID: 84082
 # SQL on Linux ¦ Microsoft ♡ Linux … what about (us) Windows folks?
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: SQL Server Administration
+Event Date: 11-08-2018 - Session time: 13:30:00 - Track: SQL Server Administration
 ## Speaker: Zane Moreign
 ## Title: SQL on Linux ¦ Microsoft ♡ Linux … what about (us) Windows folks?
 ## Abstract:
@@ -580,7 +580,7 @@ AUDIENCE:  Anyone (dev/pro/biz)  interested in the new/open world of SQL Server 
 #### SessionID: 84321
 # Code Like a Pirate ... Intro to R and Data Science Tools in MS
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 11-08-2018 - Session time: 13:30:00 - Track: Business Intelligence
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Pirate ... Intro to R and Data Science Tools in MS
 ## Abstract:
@@ -619,7 +619,7 @@ The focus of the session will be primarily on the introduction to the R language
 #### SessionID: 84627
 # Mentoring Women in Tech: A Guide for Men  Women Who Want to Help
 #### [Back to calendar](#nr-749)
-Event Date: 11-08-2018 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 11-08-2018 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Mentoring Women in Tech: A Guide for Men  Women Who Want to Help
 ## Abstract:

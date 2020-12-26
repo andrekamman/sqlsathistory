@@ -24,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 91028
 # Azure Data Factory V2
 #### [Back to calendar](#nr-870)
-Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 05-10-2019 - Session time: 08:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kevin Wilkie
 ## Title: Azure Data Factory V2
 ## Abstract:
@@ -37,7 +37,7 @@ We'll look at moving data around from On-Prem to Azure, moving files to Azure, a
 #### SessionID: 95659
 # Get Your Optimizer to Give up All Its Secrets
 #### [Back to calendar](#nr-870)
-Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-10-2019 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 98172
 # Managing Your Schema with Database Projects in Visual Studio
 #### [Back to calendar](#nr-870)
-Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 08:45:00 - Track: Application  Database Development
 ## Speaker: Kerry Tyler
 ## Title: Managing Your Schema with Database Projects in Visual Studio
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 91920
 # SQL DevOps Simplified with Production Databases
 #### [Back to calendar](#nr-870)
-Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Paul Stanton
 ## Title: SQL DevOps Simplified with Production Databases
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 94697
 # Exploring the latest T-SQL enhancements
 #### [Back to calendar](#nr-870)
-Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Dustin Dorsey
 ## Title: Exploring the latest T-SQL enhancements
 ## Abstract:
@@ -75,7 +75,7 @@ In this demo heavy session, we will go over several of the new features, provide
 #### SessionID: 95648
 # The Modern Power BI approach
 #### [Back to calendar](#nr-870)
-Event Date: 05-10-2019 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-10-2019 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan Evans
 ## Title: The Modern Power BI approach
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 05-10-2019 - Session time: 14:45:00 - Track: BI Platform Architectur
 #### SessionID: 91009
 # Goin' Fishin' on the Azure Data Lake
 #### [Back to calendar](#nr-870)
-Event Date: 05-10-2019 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-10-2019 - Session time: 11:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Spencer Swindell
 ## Title: Goin' Fishin' on the Azure Data Lake
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 05-10-2019 - Session time: 14:45:00 - Track: BI Platform Architectur
 #### SessionID: 96921
 # The Community Speaks: WIT, LGBTQ, diversity and inclusion.
 #### [Back to calendar](#nr-870)
-Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 05-10-2019 - Session time: 11:15:00 - Track: Professional Development
 ## Speaker: Tamera Clark
 ## Title: The Community Speaks: WIT, LGBTQ, diversity and inclusion.
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 97955
 # D.R.E.A.M. (Data Rules Everything Around Me) - Creating a data-driven business culture
 #### [Back to calendar](#nr-870)
-Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Strategy and Architecture
+Event Date: 05-10-2019 - Session time: 11:15:00 - Track: Strategy and Architecture
 ## Speaker: Lena Winfree
 ## Title: D.R.E.A.M. (Data Rules Everything Around Me) - Creating a data-driven business culture
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Strategy and Architectu
 #### SessionID: 91496
 # Intro to Graph Databases
 #### [Back to calendar](#nr-870)
-Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Pete Brown
 ## Title: Intro to Graph Databases
 ## Abstract:
@@ -128,7 +128,7 @@ One of the latest entrants on the scene is the graph database.  In this session 
 #### SessionID: 93792
 # User Experience Brilliance in Power BI Dashboards
 #### [Back to calendar](#nr-870)
-Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 05-10-2019 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Hilary Wilkie
 ## Title: User Experience Brilliance in Power BI Dashboards
 ## Abstract:
@@ -139,7 +139,7 @@ In this session we will explore in a hands-on exercise what UX and Design thinki
 #### SessionID: 95093
 # Get your Git on with Source Control
 #### [Back to calendar](#nr-870)
-Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Strategy and Architecture
+Event Date: 05-10-2019 - Session time: 13:30:00 - Track: Strategy and Architecture
 ## Speaker: Elizabeth Noble
 ## Title: Get your Git on with Source Control
 ## Abstract:
@@ -154,7 +154,7 @@ Attendees should be familiar with general concepts about source control and be c
 #### SessionID: 96814
 # That's So Metadata: Discover Your Database From The Inside
 #### [Back to calendar](#nr-870)
-Event Date: 05-10-2019 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: That's So Metadata: Discover Your Database From The Inside
 ## Abstract:

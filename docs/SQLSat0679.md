@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 67013
 # Introduction to U-SQL and Data Lake [EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Cloud (Application Development  Deployment)
+Event Date: 19-01-2018 - Session time: 10:45:00 - Track: Cloud (Application Development  Deployment)
 ## Speaker: Alex Whittles
 ## Title: Introduction to U-SQL and Data Lake [EN]
 ## Abstract:
@@ -45,7 +45,7 @@ Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Cloud (Application Deve
 #### SessionID: 67401
 # Worst Practices  Less Known Limitations for Columnstore Indexes [DE/EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Development
+Event Date: 19-01-2018 - Session time: 10:45:00 - Track: Development
 ## Speaker: Niko Neugebauer
 ## Title: Worst Practices  Less Known Limitations for Columnstore Indexes [DE/EN]
 ## Abstract:
@@ -60,7 +60,7 @@ Let me show you how to achieve those painful mistakes and you will surely know h
 #### SessionID: 68321
 # Power BI Server - On Premises [DE / EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: BI (Advanced Analysis, Visualization, Information Delivery)
+Event Date: 19-01-2018 - Session time: 10:45:00 - Track: BI (Advanced Analysis, Visualization, Information Delivery)
 ## Speaker: Frank Geisler
 ## Title: Power BI Server - On Premises [DE / EN]
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 19-01-2018 - Session time: 16:45:00 - Track: BI (Advanced Analysis, 
 #### SessionID: 69266
 # SQL Server Availability Groups Configuration, Maintenance and Troubleshooting [EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Administration (Platform, Architecture)
+Event Date: 19-01-2018 - Session time: 10:45:00 - Track: Administration (Platform, Architecture)
 ## Speaker: Karol Papaj
 ## Title: SQL Server Availability Groups Configuration, Maintenance and Troubleshooting [EN]
 ## Abstract:
@@ -79,7 +79,7 @@ This session is useful for DBA’s that are using or considering Availability Gr
 #### SessionID: 69780
 # SQL Server auf Linux: Benchmarking und Tuning [DE]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Administration (Platform, Architecture)
+Event Date: 19-01-2018 - Session time: 10:45:00 - Track: Administration (Platform, Architecture)
 ## Speaker: Michael Saß
 ## Title: SQL Server auf Linux: Benchmarking und Tuning [DE]
 ## Abstract:
@@ -88,7 +88,7 @@ Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Administration (Platfor
 #### SessionID: 70155
 # Lightning Talks (5 speakers, 5 talks, 10min each) [EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Lightning Talks
+Event Date: 19-01-2018 - Session time: 10:45:00 - Track: Lightning Talks
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Lightning Talks (5 speakers, 5 talks, 10min each) [EN]
 ## Abstract:
@@ -101,7 +101,7 @@ Jan Mulkens - Data Science, easy until it's not
 #### SessionID: 67486
 # Implementing a hybrid data warehouse [EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Cloud (Application Development  Deployment)
+Event Date: 19-01-2018 - Session time: 13:00:00 - Track: Cloud (Application Development  Deployment)
 ## Speaker: Johan Ludvig Brattås
 ## Title: Implementing a hybrid data warehouse [EN]
 ## Abstract:
@@ -116,7 +116,7 @@ This session will take a look at a few different approaches to a hybrid data war
 #### SessionID: 67677
 # Einstieg in Azure SQL Databases und Powershell Automation [DE]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Cloud (Application Development  Deployment)
+Event Date: 19-01-2018 - Session time: 13:00:00 - Track: Cloud (Application Development  Deployment)
 ## Speaker: Björn Peters
 ## Title: Einstieg in Azure SQL Databases und Powershell Automation [DE]
 ## Abstract:
@@ -128,7 +128,7 @@ Wir werden uns verschiedene Deployments anschauen, auf das Thema Backup und auf 
 #### SessionID: 69407
 # Hacking SQL Server [EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Administration (Platform, Architecture)
+Event Date: 19-01-2018 - Session time: 13:00:00 - Track: Administration (Platform, Architecture)
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server [EN]
 ## Abstract:
@@ -142,7 +142,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #### SessionID: 69453
 # Champions League Final Battle - Tableau vs. Power BI [EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: BI (Advanced Analysis, Visualization, Information Delivery)
+Event Date: 19-01-2018 - Session time: 13:00:00 - Track: BI (Advanced Analysis, Visualization, Information Delivery)
 ## Speaker: Oliver Engels
 ## Title: Champions League Final Battle - Tableau vs. Power BI [EN]
 ## Abstract:
@@ -151,7 +151,7 @@ Event Date: 19-01-2018 - Session time: 16:45:00 - Track: BI (Advanced Analysis, 
 #### SessionID: 71696
 # SQL Query Performance Monitoring und Analyse [DE]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Administration (Platform, Architecture)
+Event Date: 19-01-2018 - Session time: 13:00:00 - Track: Administration (Platform, Architecture)
 ## Speaker: Michael Roedeske
 ## Title: SQL Query Performance Monitoring und Analyse [DE]
 ## Abstract:
@@ -162,7 +162,7 @@ Der Vortrag gibt Antworten auf die Fragen: Wie identifiziert man schnell unter a
 #### SessionID: 66641
 # Advanced insides into System Versioned Temporal Tables [DE/EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Administration (Platform, Architecture)
+Event Date: 19-01-2018 - Session time: 14:15:00 - Track: Administration (Platform, Architecture)
 ## Speaker: Uwe Ricken
 ## Title: Advanced insides into System Versioned Temporal Tables [DE/EN]
 ## Abstract:
@@ -182,7 +182,7 @@ You are interested in the answers to all the above questions (and more). This se
 #### SessionID: 66690
 # Biml: I got the basics - what's next? [DE/EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: BI (Advanced Analysis, Visualization, Information Delivery)
+Event Date: 19-01-2018 - Session time: 14:15:00 - Track: BI (Advanced Analysis, Visualization, Information Delivery)
 ## Speaker: Ben Weissman
 ## Title: Biml: I got the basics - what's next? [DE/EN]
 ## Abstract:
@@ -198,7 +198,7 @@ You'll leave with sample code and hopefully a couple of ideas on how to bring yo
 #### SessionID: 67504
 # Shaving of Microseconds [DE / EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Development
+Event Date: 19-01-2018 - Session time: 14:15:00 - Track: Development
 ## Speaker: Thomas Grohser
 ## Title: Shaving of Microseconds [DE / EN]
 ## Abstract:
@@ -207,7 +207,7 @@ Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Development
 #### SessionID: 68458
 # Azure Analysis Services - An important step for BI in the cloud? [DE / EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: BI (Advanced Analysis, Visualization, Information Delivery)
+Event Date: 19-01-2018 - Session time: 14:15:00 - Track: BI (Advanced Analysis, Visualization, Information Delivery)
 ## Speaker: Gabi Münster
 ## Title: Azure Analysis Services - An important step for BI in the cloud? [DE / EN]
 ## Abstract:
@@ -218,7 +218,7 @@ This session offers answers to your questions and provides insight to support th
 #### SessionID: 68543
 # Azure SQL DW: Optimization technics to maximize performance [EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Cloud (Application Development  Deployment)
+Event Date: 19-01-2018 - Session time: 14:15:00 - Track: Cloud (Application Development  Deployment)
 ## Speaker: Sergiy Lunyakin
 ## Title: Azure SQL DW: Optimization technics to maximize performance [EN]
 ## Abstract:
@@ -234,7 +234,7 @@ Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Cloud (Application Deve
 #### SessionID: 68838
 # Data Science for beginners [EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: BI (Advanced Analysis, Visualization, Information Delivery)
+Event Date: 19-01-2018 - Session time: 14:15:00 - Track: BI (Advanced Analysis, Visualization, Information Delivery)
 ## Speaker: Tomaž Kaštrun
 ## Title: Data Science for beginners [EN]
 ## Abstract:
@@ -252,7 +252,7 @@ Session we will look into technologies that can be tackled using SQL Server 2016
 #### SessionID: 67507
 # Understanding the Power BI data model [EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: BI (Advanced Analysis, Visualization, Information Delivery)
+Event Date: 19-01-2018 - Session time: 15:30:00 - Track: BI (Advanced Analysis, Visualization, Information Delivery)
 ## Speaker: Kasper de Jonge
 ## Title: Understanding the Power BI data model [EN]
 ## Abstract:
@@ -261,7 +261,7 @@ Event Date: 19-01-2018 - Session time: 16:45:00 - Track: BI (Advanced Analysis, 
 #### SessionID: 67870
 # Lockless in Seattle: Using In-Memory OLTP Transaction Processing [EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Development
+Event Date: 19-01-2018 - Session time: 15:30:00 - Track: Development
 ## Speaker: Mark Broadbent
 ## Title: Lockless in Seattle: Using In-Memory OLTP Transaction Processing [EN]
 ## Abstract:
@@ -272,7 +272,7 @@ In this session, we will understand how In-Memory OLTP architecture is implement
 #### SessionID: 68239
 # Deadlocks. Everything you ever wanted to ask but were too shy. [EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Administration (Platform, Architecture)
+Event Date: 19-01-2018 - Session time: 15:30:00 - Track: Administration (Platform, Architecture)
 ## Speaker: Denis Reznik
 ## Title: Deadlocks. Everything you ever wanted to ask but were too shy. [EN]
 ## Abstract:
@@ -289,7 +289,7 @@ In this session, we will look at ten various deadlocks scenarios and find the ro
 #### SessionID: 69078
 # Cardinality Estimator with SQL Server 2014 and 2016 [EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Administration (Platform, Architecture)
+Event Date: 19-01-2018 - Session time: 15:30:00 - Track: Administration (Platform, Architecture)
 ## Speaker: Dean Savović
 ## Title: Cardinality Estimator with SQL Server 2014 and 2016 [EN]
 ## Abstract:
@@ -298,7 +298,7 @@ Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Administration (Platfor
 #### SessionID: 69253
 # Adopting Database Lifecycle Management (DLM) at a large Viennese software house [EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Development
+Event Date: 19-01-2018 - Session time: 15:30:00 - Track: Development
 ## Speaker: Alex Yates
 ## Title: Adopting Database Lifecycle Management (DLM) at a large Viennese software house [EN]
 ## Abstract:
@@ -315,7 +315,7 @@ Come and learn from Manoj Lona, the DB Team Lead at Greentube, and Alex Yates, a
 #### SessionID: 69402
 # Build your next BI solution in azure [DE/EN]
 #### [Back to calendar](#nr-679)
-Event Date: 19-01-2018 - Session time: 16:45:00 - Track: Cloud (Application Development  Deployment)
+Event Date: 19-01-2018 - Session time: 15:30:00 - Track: Cloud (Application Development  Deployment)
 ## Speaker: Alexander Klein
 ## Title: Build your next BI solution in azure [DE/EN]
 ## Abstract:

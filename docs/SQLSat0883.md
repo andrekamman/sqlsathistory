@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 94699
 # An Introduction to Data Science with Python for Data Professionals
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 03-08-2019 - Session time: 14:15:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: An Introduction to Data Science with Python for Data Professionals
 ## Abstract:
@@ -59,7 +59,7 @@ Note that as this is a hands-on pre-con, participants will be required to bring 
 #### SessionID: 94750
 # Common SQL Server Mistakes and How to Correct Them
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-08-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Radney
 ## Title: Common SQL Server Mistakes and How to Correct Them
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 90884
 # SQL Graph Revealed
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 08:15:00 - Track: Application  Database Development
 ## Speaker: Mala Mahadevan
 ## Title: SQL Graph Revealed
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 90918
 # Introduction to Linux for SQL Server Professionals
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-08-2019 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jay Falck
 ## Title: Introduction to Linux for SQL Server Professionals
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 92886
 # Top 5 Tips to Keep Always On AGs Humming and Users Happy
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-08-2019 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: Top 5 Tips to Keep Always On AGs Humming and Users Happy
 ## Abstract:
@@ -95,7 +95,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 93656
 # Become a T-SQL Pivoting Ninja in 60 Minutes Or Less
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 08:15:00 - Track: Application  Database Development
 ## Speaker: Peter Doyle
 ## Title: Become a T-SQL Pivoting Ninja in 60 Minutes Or Less
 ## Abstract:
@@ -109,7 +109,7 @@ Come join me, and by the end of this session, you will have the knowledge to lev
 #### SessionID: 93873
 # Python in SQL Server 2017 and 2019
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 03-08-2019 - Session time: 08:15:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017 and 2019
 ## Abstract:
@@ -120,7 +120,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #### SessionID: 96235
 # Improving Database Code Quality with Unit Tests
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-08-2019 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Elizabeth Noble
 ## Title: Improving Database Code Quality with Unit Tests
 ## Abstract:
@@ -131,7 +131,7 @@ In this session, you will learn how to unit test your T-SQL code. You will learn
 #### SessionID: 90911
 # Performance Tuning, Getting the Biggest Bang for Your Buck
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-08-2019 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: Performance Tuning, Getting the Biggest Bang for Your Buck
 ## Abstract:
@@ -140,7 +140,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 91168
 # Launching A Data Science Project:  Cleaning Is Half The Battle
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 03-08-2019 - Session time: 09:30:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Launching A Data Science Project:  Cleaning Is Half The Battle
 ## Abstract:
@@ -149,7 +149,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 91385
 # Is my SQL Server having Memory Pressure?
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-08-2019 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Is my SQL Server having Memory Pressure?
 ## Abstract:
@@ -158,7 +158,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 91755
 # Transaction Log Internals and Performance
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-08-2019 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Transaction Log Internals and Performance
 ## Abstract:
@@ -167,7 +167,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 94115
 # Docker for the SQL Server Developer
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Leonard Lobel
 ## Title: Docker for the SQL Server Developer
 ## Abstract:
@@ -176,7 +176,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 94412
 # A Perfect Ten: The Data Model
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-08-2019 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: A Perfect Ten: The Data Model
 ## Abstract:
@@ -185,7 +185,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 91075
 # Microsoft Azure Modern Data Warehouse
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-08-2019 - Session time: 10:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jamey Johnston
 ## Title: Microsoft Azure Modern Data Warehouse
 ## Abstract:
@@ -196,7 +196,7 @@ This session will  give an overview of each of the pieces of this modern data wa
 #### SessionID: 91311
 # Secure SQL Server Database Design: Tactics and Technology
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 10:45:00 - Track: Application  Database Development
 ## Speaker: Dan Mallott
 ## Title: Secure SQL Server Database Design: Tactics and Technology
 ## Abstract:
@@ -207,7 +207,7 @@ Where does design start for an application? It starts with the database layer. I
 #### SessionID: 92210
 # Data Collection and Usage: Illegal or Unethical?
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-08-2019 - Session time: 10:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Angela Tidwell
 ## Title: Data Collection and Usage: Illegal or Unethical?
 ## Abstract:
@@ -216,7 +216,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 93024
 # Building a Machine Learning Regression Model with Zero Code in PowerBI
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 03-08-2019 - Session time: 10:45:00 - Track: Analytics and Visualization
 ## Speaker: Greg Deckler
 ## Title: Building a Machine Learning Regression Model with Zero Code in PowerBI
 ## Abstract:
@@ -225,7 +225,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 94708
 # Remember Back When?  Temporal Tables in SQL Server 2016 and 2017
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 10:45:00 - Track: Application  Database Development
 ## Speaker: Brian Hansen
 ## Title: Remember Back When?  Temporal Tables in SQL Server 2016 and 2017
 ## Abstract:
@@ -234,7 +234,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 96411
 # How Fast Can You Restore Your Database?
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-08-2019 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: How Fast Can You Restore Your Database?
 ## Abstract:
@@ -243,7 +243,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 91000
 # Performance Tuning for SQL Developer through Execution Plans
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Performance Tuning for SQL Developer through Execution Plans
 ## Abstract:
@@ -252,7 +252,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 91259
 # Practical Power BI Report Design Tips for the Non-Artist
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 03-08-2019 - Session time: 13:15:00 - Track: Analytics and Visualization
 ## Speaker: Meagan Longoria
 ## Title: Practical Power BI Report Design Tips for the Non-Artist
 ## Abstract:
@@ -261,7 +261,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 93699
 # User Experience Brilliance in Power BI Dashboards
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 03-08-2019 - Session time: 13:15:00 - Track: Professional Development
 ## Speaker: Hilary Wilkie
 ## Title: User Experience Brilliance in Power BI Dashboards
 ## Abstract:
@@ -272,7 +272,7 @@ In this session we will explore in a hands-on exercise what UX and Design thinki
 #### SessionID: 93857
 # PowerShell for the DBA
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-08-2019 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: PowerShell for the DBA
 ## Abstract:
@@ -283,7 +283,7 @@ In this session we will explore real-world examples and demonstrate how PowerShe
 #### SessionID: 94031
 # The function of Windowing Functions
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Wilkie
 ## Title: The function of Windowing Functions
 ## Abstract:
@@ -301,7 +301,7 @@ Learn more about the class of functions that are known as "windowing functions" 
 #### SessionID: 94710
 # Modernize Data Platform -  A Detailed Case Study
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 03-08-2019 - Session time: 13:15:00 - Track: Strategy and Architecture
 ## Speaker: Sriharsh Adari
 ## Title: Modernize Data Platform -  A Detailed Case Study
 ## Abstract:
@@ -310,7 +310,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 90908
 # Inside the Database Engine
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: Inside the Database Engine
 ## Abstract:
@@ -319,7 +319,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 90957
 # Moving Data to the Cloud (with Azure Data Factory)
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 03-08-2019 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Simon Kingaby
 ## Title: Moving Data to the Cloud (with Azure Data Factory)
 ## Abstract:
@@ -328,7 +328,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 91590
 # Cosmos DB was the missing piece to my Data puzzle!
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 03-08-2019 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Hasan Savran
 ## Title: Cosmos DB was the missing piece to my Data puzzle!
 ## Abstract:
@@ -338,7 +338,7 @@ Join me to see Cosmos DB in action with many demos! Don't miss it.
 #### SessionID: 92445
 # Using FileTables
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: Using FileTables
 ## Abstract:
@@ -347,7 +347,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 93357
 # Introduction To Data Governance
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Other
+Event Date: 03-08-2019 - Session time: 14:30:00 - Track: Other
 ## Speaker: Warren Sifre
 ## Title: Introduction To Data Governance
 ## Abstract:
@@ -356,7 +356,7 @@ Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Other
 #### SessionID: 94660
 # Revenge: The SQL!
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-08-2019 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
 ## Abstract:
@@ -368,7 +368,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #### SessionID: 94751
 # Azure for the Production Data Professional
 #### [Back to calendar](#nr-883)
-Event Date: 03-08-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-08-2019 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Radney
 ## Title: Azure for the Production Data Professional
 ## Abstract:

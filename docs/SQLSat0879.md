@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 93026
 # DevOps for Azure SQL Databases
 #### [Back to calendar](#nr-879)
-Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 13-07-2019 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Sidney Cirqueira
 ## Title: DevOps for Azure SQL Databases
 ## Abstract:
@@ -26,7 +26,7 @@ Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 94293
 # [Tableau] Compartilhando insights com sua organização com Tableau Server
 #### [Back to calendar](#nr-879)
-Event Date: 13-07-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-07-2019 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Nilton Kazuyuki Ueda
 ## Title: [Tableau] Compartilhando insights com sua organização com Tableau Server
 ## Abstract:
@@ -37,7 +37,7 @@ Vamos ver o funcionamento da plataforma na prática?
 #### SessionID: 93836
 # Modelando em Document Model - Além do NoJoin!
 #### [Back to calendar](#nr-879)
-Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 13-07-2019 - Session time: 10:30:00 - Track: Strategy and Architecture
 ## Speaker: Leandro Domingues
 ## Title: Modelando em Document Model - Além do NoJoin!
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Strategy and Architectu
 #### SessionID: 95051
 # Power BI + linguagem R: mais poder em suas mãos
 #### [Back to calendar](#nr-879)
-Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 13-07-2019 - Session time: 10:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Paulo Ricardo Santos
 ## Title: Power BI + linguagem R: mais poder em suas mãos
 ## Abstract:
@@ -57,7 +57,7 @@ Esta é a sua chance de iniciar o seu primeiro projeto de Data Science.
 #### SessionID: 92144
 # Azure SQL Database - Scaling In e Scaling Out através do elastic pool
 #### [Back to calendar](#nr-879)
-Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 13-07-2019 - Session time: 13:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Vitor Fava
 ## Title: Azure SQL Database - Scaling In e Scaling Out através do elastic pool
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 94349
 # Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade
 #### [Back to calendar](#nr-879)
-Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-07-2019 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Roberto Santos
 ## Title: Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade
 ## Abstract:
@@ -81,7 +81,7 @@ O Planejamento de Capacidade exerce uma atividade de vital importância para o b
 #### SessionID: 93924
 # Dicas e Truques para Aumentar sua Produtividade com o SSMS
 #### [Back to calendar](#nr-879)
-Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-07-2019 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Fernando Avelãs
 ## Title: Dicas e Truques para Aumentar sua Produtividade com o SSMS
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 13-07-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 95953
 # Preparando uma base de teste com docker
 #### [Back to calendar](#nr-879)
-Event Date: 13-07-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-07-2019 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: William Amorim
 ## Title: Preparando uma base de teste com docker
 ## Abstract:

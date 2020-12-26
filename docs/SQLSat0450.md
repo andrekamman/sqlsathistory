@@ -14,7 +14,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 37379
 # Saved by the Cloud
 #### [Back to calendar](#nr-450)
-Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Analytics and Visualization
+Event Date: 19-09-2015 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Tanja Vukov
 ## Title: Saved by the Cloud
 ## Abstract:
@@ -24,7 +24,7 @@ Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Analytics and Visualiza
 #### SessionID: 38120
 # Power BI- best practices to deliver just-in-time insights
 #### [Back to calendar](#nr-450)
-Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Analytics and Visualization
+Event Date: 19-09-2015 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Satya Jayanty
 ## Title: Power BI- best practices to deliver just-in-time insights
 ## Abstract:
@@ -35,7 +35,7 @@ Having said that, cloud computing is another aspect of this technology made is p
 #### SessionID: 37380
 # Azure Machine Learning - drag, drop, predict
 #### [Back to calendar](#nr-450)
-Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Cloud Application Development  Deployment
+Event Date: 19-09-2015 - Session time: 11:05:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tanja Vukov
 ## Title: Azure Machine Learning - drag, drop, predict
 ## Abstract:
@@ -44,7 +44,7 @@ Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Cloud Application Devel
 #### SessionID: 38034
 # Data Science approach for (Azure) Machine Learing
 #### [Back to calendar](#nr-450)
-Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Advanced Analysis Techniques
+Event Date: 19-09-2015 - Session time: 13:05:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: Data Science approach for (Azure) Machine Learing
 ## Abstract:
@@ -53,7 +53,7 @@ Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Advanced Analysis Techn
 #### SessionID: 39129
 # Databases on mobile devices
 #### [Back to calendar](#nr-450)
-Event Date: 19-09-2015 - Session time: 14:05:00 - Track: Application  Database Development
+Event Date: 19-09-2015 - Session time: 13:05:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: Databases on mobile devices
 ## Abstract:

@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 10383
 # Query Processing in In-Memory OLTP (Hekaton)
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-05-2015 - Session time: 00:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Query Processing in In-Memory OLTP (Hekaton)
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 13759
 # Wait types. Что, как и зачем?
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
+Event Date: 23-05-2015 - Session time: 00:00:00 - Track: SQL Server Internals
 ## Speaker: Evgeny Khabarov
 ## Title: Wait types. Что, как и зачем?
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 #### SessionID: 20322
 # Introduction to Microsoft Azure DocumentDB
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 23-05-2015 - Session time: 00:00:00 - Track: BI Information Delivery
 ## Speaker: Mihail Mateev
 ## Title: Introduction to Microsoft Azure DocumentDB
 ## Abstract:
@@ -70,7 +70,7 @@ In this presentation, you will learn:
 #### SessionID: 25038
 # Resource Governor - Fine tune your data performance engines
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 23-05-2015 - Session time: 00:00:00 - Track: BI Information Delivery
 ## Speaker: Satya Jayanty
 ## Title: Resource Governor - Fine tune your data performance engines
 ## Abstract:
@@ -86,7 +86,7 @@ Let us look into the above list of questions with best practices approach from a
 #### SessionID: 25039
 # What do I need to know about SQL Server platform upgrade? 
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 23-05-2015 - Session time: 00:00:00 - Track: BI Information Delivery
 ## Speaker: Satya Jayanty
 ## Title: What do I need to know about SQL Server platform upgrade? 
 ## Abstract:
@@ -100,7 +100,7 @@ We will cover the complete upgrade cycle, including the preparation tasks, upgra
 #### SessionID: 14012
 # Я - BI архитектор
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 23-05-2015 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: Eugene Polonichko
 ## Title: Я - BI архитектор
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 20320
 # Scaling Out Microsoft Azure SQL Databases
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 23-05-2015 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Scaling Out Microsoft Azure SQL Databases
 ## Abstract:
@@ -120,7 +120,7 @@ This talk is a comparison and overview of these approaches, to be possible to ch
 #### SessionID: 27539
 # xEvents. Не хотите, а придётся
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
+Event Date: 23-05-2015 - Session time: 10:00:00 - Track: SQL Server Internals
 ## Speaker: Олег Алексеев
 ## Title: xEvents. Не хотите, а придётся
 ## Abstract:
@@ -130,7 +130,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 #### SessionID: 36615
 # NoSQL - MongoDB. Agility, scalability, performance (Part 1)
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-05-2015 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Viktoriia Mala
 ## Title: NoSQL - MongoDB. Agility, scalability, performance (Part 1)
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 37186
 # Инструменты резервирования и репликации реляционных баз данных
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-05-2015 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ivan Rudnytskyi
 ## Title: Инструменты резервирования и репликации реляционных баз данных
 ## Abstract:
@@ -151,7 +151,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 22166
 # Внутри Оптимизатора Запросов: Поиск или Просмотр
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
+Event Date: 23-05-2015 - Session time: 11:10:00 - Track: SQL Server Internals
 ## Speaker: Dmitry Pilugin
 ## Title: Внутри Оптимизатора Запросов: Поиск или Просмотр
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 #### SessionID: 25040
 # Let's cook  'best SQL Server DBA practices'
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-05-2015 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: Let's cook  'best SQL Server DBA practices'
 ## Abstract:
@@ -169,7 +169,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 36064
 # Оптимизация модели для работы с PowerBI QA
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 23-05-2015 - Session time: 11:10:00 - Track: BI Information Delivery
 ## Speaker: Sergiy Lunyakin
 ## Title: Оптимизация модели для работы с PowerBI QA
 ## Abstract:
@@ -178,7 +178,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 36618
 # NoSQL - MongoDB. Agility, scalability, performance (Part 2)
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-05-2015 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Viktoriia Mala
 ## Title: NoSQL - MongoDB. Agility, scalability, performance (Part 2)
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 37207
 # Database monitoring, tuning and optimization using Dell Software tools
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-05-2015 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vladislav Samoylenko
 ## Title: Database monitoring, tuning and optimization using Dell Software tools
 ## Abstract:
@@ -196,7 +196,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 10385
 # Understanding Parameter Sniffing
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-05-2015 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
 ## Abstract:
@@ -205,7 +205,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 13295
 # "Это Мое" - Блокировки, Дедлоки и прочая чепуха (часть 1)
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
+Event Date: 23-05-2015 - Session time: 13:30:00 - Track: SQL Server Internals
 ## Speaker: Dmitri Korotkevitch
 ## Title: "Это Мое" - Блокировки, Дедлоки и прочая чепуха (часть 1)
 ## Abstract:
@@ -216,7 +216,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 #### SessionID: 19187
 # Тяп-ляп и в продакшн! 
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-05-2015 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Oleksii Kovalov
 ## Title: Тяп-ляп и в продакшн! 
 ## Abstract:
@@ -225,7 +225,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 36490
 # Azure Table Storage - дешевое, быстрое, масштабируемое хранилище
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 23-05-2015 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: Azure Table Storage - дешевое, быстрое, масштабируемое хранилище
 ## Abstract:
@@ -234,7 +234,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 36923
 # Правдивая история об использовании SQL Server Change Data Capture
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-05-2015 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Sergey Mikhalev
 ## Title: Правдивая история об использовании SQL Server Change Data Capture
 ## Abstract:
@@ -244,7 +244,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 10384
 # Dive into the Query Optimizer-Undocumented Insight
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
+Event Date: 23-05-2015 - Session time: 14:40:00 - Track: SQL Server Internals
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer-Undocumented Insight
 ## Abstract:
@@ -253,7 +253,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 #### SessionID: 13296
 # "Не отдам!" - Блокировки, Дедлоки и прочая чепуха (часть 2)
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
+Event Date: 23-05-2015 - Session time: 14:40:00 - Track: SQL Server Internals
 ## Speaker: Dmitri Korotkevitch
 ## Title: "Не отдам!" - Блокировки, Дедлоки и прочая чепуха (часть 2)
 ## Abstract:
@@ -264,7 +264,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: SQL Server Internals
 #### SessionID: 26456
 # Unit Testing SQL Server
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-05-2015 - Session time: 14:40:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Unit Testing SQL Server
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 36179
 # Windows Server Failover Clustering (WSFC) with SQL Server
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-05-2015 - Session time: 14:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Yevhen Nedashkivskyi
 ## Title: Windows Server Failover Clustering (WSFC) with SQL Server
 ## Abstract:
@@ -285,7 +285,7 @@ After this session you will understand how aforementioned technologies work, how
 #### SessionID: 37038
 # Introduction to Azure Machine Learning and Data Mining algorithms
 #### [Back to calendar](#nr-377)
-Event Date: 23-05-2015 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 23-05-2015 - Session time: 14:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Oleksandr Krakovetskyi
 ## Title: Introduction to Azure Machine Learning and Data Mining algorithms
 ## Abstract:

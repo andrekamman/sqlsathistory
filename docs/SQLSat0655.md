@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 64689
 # Empowering your Business with Measure (Power BI), Act (Powerapps) and Automate (Flow) Tools
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 02-09-2017 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Anupama Natarajan
 ## Title: Empowering your Business with Measure (Power BI), Act (Powerapps) and Automate (Flow) Tools
 ## Abstract:
@@ -41,7 +41,7 @@ d) How to create an business application using Flow, Powerapps and Power BI?
 #### SessionID: 65883
 # A Beginners Guide to HA/DR
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-09-2017 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: A Beginners Guide to HA/DR
 ## Abstract:
@@ -50,7 +50,7 @@ Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 66942
 # An Introduction to SQL Server 2017
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-09-2017 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: An Introduction to SQL Server 2017
 ## Abstract:
@@ -61,7 +61,7 @@ From Analytics, Availability, Configuration and Performance there is something f
 #### SessionID: 68552
 # Patterns For Building Hybrid Scenarios With SQL Server And Azure
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 02-09-2017 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Murilo Miranda
 ## Title: Patterns For Building Hybrid Scenarios With SQL Server And Azure
 ## Abstract:
@@ -81,7 +81,7 @@ Demos: The demo will demonstrate some of the
 #### SessionID: 64663
 # Azure SQL Data Warehouse for beginners
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-09-2017 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Alzamendi
 ## Title: Azure SQL Data Warehouse for beginners
 ## Abstract:
@@ -94,7 +94,7 @@ I will explain how to deploy this service in only a few minutes by using some of
 #### SessionID: 67286
 # Get Asynchronous - Build your first Service Broker application
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 02-09-2017 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Martin Catherall
 ## Title: Get Asynchronous - Build your first Service Broker application
 ## Abstract:
@@ -107,7 +107,7 @@ This session is aimed at people with little to no Service Broker knowledge and a
 #### SessionID: 67340
 # Endless Possibilities: R and Power BI
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 02-09-2017 - Session time: 10:15:00 - Track: Analytics and Visualization
 ## Speaker: Leila Etaati
 ## Title: Endless Possibilities: R and Power BI
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 64658
 # Stretch Database - Historical data storage in SQL Server
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-09-2017 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vitor Fava
 ## Title: Stretch Database - Historical data storage in SQL Server
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 67130
 # SQL server Operational Validation with Powershell
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-09-2017 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Manjot Kaur
 ## Title: SQL server Operational Validation with Powershell
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 68424
 # The Tricky Part of Doing Tricky Things in your Database
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-09-2017 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Karen Lopez
 ## Title: The Tricky Part of Doing Tricky Things in your Database
 ## Abstract:
@@ -145,7 +145,7 @@ We'll demo tricks that we've seen in our database design reviews and show you ho
 #### SessionID: 64660
 # Advanced DAX for the SQL Professional
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-09-2017 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Seamark
 ## Title: Advanced DAX for the SQL Professional
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 67304
 # Graph Databases on SQL Server
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 02-09-2017 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Dave Dustin
 ## Title: Graph Databases on SQL Server
 ## Abstract:
@@ -167,7 +167,7 @@ In this session we're going to be looking at the key differences between a stand
 #### SessionID: 67315
 # Dip your toe into analytics and data warhousing
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-09-2017 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Martin Catherall
 ## Title: Dip your toe into analytics and data warhousing
 ## Abstract:
@@ -180,7 +180,7 @@ Come along to this session and find out some of the things that you might want t
 #### SessionID: 67664
 # 10 Amazing Things About Power BI You Don't Know
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-09-2017 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: 10 Amazing Things About Power BI You Don't Know
 ## Abstract:
@@ -191,7 +191,7 @@ In this session you can expect many live demos and to be impressed by the extrao
 #### SessionID: 64653
 # DevOPs and the DBA
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-09-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamish Watson
 ## Title: DevOPs and the DBA
 ## Abstract:
@@ -210,7 +210,7 @@ Through the use of a comprehensive live demo to a running database hosted in Azu
 #### SessionID: 64881
 # Visual Studio SQL Server Database Projects and integrating into VSTS
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 02-09-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Craig Bryden
 ## Title: Visual Studio SQL Server Database Projects and integrating into VSTS
 ## Abstract:
@@ -221,7 +221,7 @@ In this session, I will demonstrate how to use SQL Server Database Projects, dis
 #### SessionID: 66826
 # Managing VLDB’s in SQL Server. Challenges and tips for managing multi-Terabyte databases.
 #### [Back to calendar](#nr-655)
-Event Date: 02-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-09-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael van Halderen
 ## Title: Managing VLDB’s in SQL Server. Challenges and tips for managing multi-Terabyte databases.
 ## Abstract:

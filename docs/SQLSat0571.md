@@ -18,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 52937
 # Are You High?  Can You Recover? - HA and DR in SQL Server.
 #### [Back to calendar](#nr-571)
-Event Date: 15-10-2016 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 15-10-2016 - Session time: 09:30:00 - Track: Database Administration
 ## Speaker: Rob Douglas
 ## Title: Are You High?  Can You Recover? - HA and DR in SQL Server.
 ## Abstract:
@@ -29,7 +29,7 @@ Event Date: 15-10-2016 - Session time: 15:30:00 - Track: Database Administration
 #### SessionID: 53298
 # Data Visualization:  How to truly tell a great story!
 #### [Back to calendar](#nr-571)
-Event Date: 15-10-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-10-2016 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization:  How to truly tell a great story!
 ## Abstract:
@@ -38,7 +38,7 @@ Event Date: 15-10-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 53613
 # Introduction to the Query Store
 #### [Back to calendar](#nr-571)
-Event Date: 15-10-2016 - Session time: 15:30:00 - Track: Database Development
+Event Date: 15-10-2016 - Session time: 10:45:00 - Track: Database Development
 ## Speaker: Dave Dustin
 ## Title: Introduction to the Query Store
 ## Abstract:
@@ -50,7 +50,7 @@ I#39;ll show how easy it is to work with the Query Store and work with query pla
 #### SessionID: 54936
 # Package Management in Microsoft R Open with Checkpoint
 #### [Back to calendar](#nr-571)
-Event Date: 15-10-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-10-2016 - Session time: 10:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andrew Worsley
 ## Title: Package Management in Microsoft R Open with Checkpoint
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 15-10-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 54933
 # Restoring SQL Server Database to Old Version
 #### [Back to calendar](#nr-571)
-Event Date: 15-10-2016 - Session time: 15:30:00 - Track: Database Development
+Event Date: 15-10-2016 - Session time: 11:15:00 - Track: Database Development
 ## Speaker: kokila kondasamy
 ## Title: Restoring SQL Server Database to Old Version
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 15-10-2016 - Session time: 15:30:00 - Track: Database Development
 #### SessionID: 52652
 # Temporal Databases in Microsoft SQL server 2016
 #### [Back to calendar](#nr-571)
-Event Date: 15-10-2016 - Session time: 15:30:00 - Track: Database Development
+Event Date: 15-10-2016 - Session time: 12:45:00 - Track: Database Development
 ## Speaker: Amit Arora
 ## Title: Temporal Databases in Microsoft SQL server 2016
 ## Abstract:
@@ -83,7 +83,7 @@ This presentation aims to go deep into Temporal Databases (requirements, use cas
 #### SessionID: 53836
 # Protecting your data from SQL Injection attacks
 #### [Back to calendar](#nr-571)
-Event Date: 15-10-2016 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 15-10-2016 - Session time: 12:45:00 - Track: Database Administration
 ## Speaker: Kevin Alcock
 ## Title: Protecting your data from SQL Injection attacks
 ## Abstract:
@@ -101,7 +101,7 @@ Kevin will give us a demo that will show an injection attack in action and how t
 #### SessionID: 52811
 # Adding Power to the DBA toolkit!
 #### [Back to calendar](#nr-571)
-Event Date: 15-10-2016 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 15-10-2016 - Session time: 14:00:00 - Track: Database Administration
 ## Speaker: Patrick Flynn
 ## Title: Adding Power to the DBA toolkit!
 ## Abstract:
@@ -114,7 +114,7 @@ By combining PowerShell and PowerBi with the more traditional DBA tools I will s
 #### SessionID: 53881
 # Security in Power BI
 #### [Back to calendar](#nr-571)
-Event Date: 15-10-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-10-2016 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: Security in Power BI
 ## Abstract:

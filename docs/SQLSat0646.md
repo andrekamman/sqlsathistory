@@ -29,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 62915
 # Beginning Data Science-From Novice to Professional
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 4
+Event Date: 26-08-2017 - Session time: 10:00:00 - Track: Track 4
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Beginning Data Science-From Novice to Professional
 ## Abstract:
@@ -42,7 +42,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 4
 #### SessionID: 66598
 # Cloud Data Warehousing: Azure SQL Data Warehouse
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 2
+Event Date: 26-08-2017 - Session time: 10:00:00 - Track: Track 2
 ## Speaker: Dinesh Priyankara
 ## Title: Cloud Data Warehousing: Azure SQL Data Warehouse
 ## Abstract:
@@ -51,7 +51,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 2
 #### SessionID: 67918
 # Become a SQL Ninja: SQL Server Tools
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 3
+Event Date: 26-08-2017 - Session time: 10:00:00 - Track: Track 3
 ## Speaker: Vinod Kumar M
 ## Title: Become a SQL Ninja: SQL Server Tools
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 3
 #### SessionID: 68525
 # Upgrade to SQL Server 2017: Intelligent Diagnostics Just Built-In
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
+Event Date: 26-08-2017 - Session time: 10:00:00 - Track: Track 1
 ## Speaker: Parikshit Savjani
 ## Title: Upgrade to SQL Server 2017: Intelligent Diagnostics Just Built-In
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
 #### SessionID: 62999
 # 2,4,8  16 - Upgrade your journey with SQL Server
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 2
+Event Date: 26-08-2017 - Session time: 11:15:00 - Track: Track 2
 ## Speaker: Satya Jayanty
 ## Title: 2,4,8  16 - Upgrade your journey with SQL Server
 ## Abstract:
@@ -88,7 +88,7 @@ We will cover the complete upgrade cycle, including the preparation tasks, upgra
 #### SessionID: 63316
 # Zombie Attack Against Clustered Indexes - Who really need them!
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 3
+Event Date: 26-08-2017 - Session time: 11:15:00 - Track: Track 3
 ## Speaker: Uwe Ricken
 ## Title: Zombie Attack Against Clustered Indexes - Who really need them!
 ## Abstract:
@@ -101,7 +101,7 @@ Watch the demos which show in an impressive way that clustered indexes are not a
 #### SessionID: 63459
 # Building a Centralised Database Maintenance and Monitoring Solution
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 4
+Event Date: 26-08-2017 - Session time: 11:15:00 - Track: Track 4
 ## Speaker: Manohar Punna
 ## Title: Building a Centralised Database Maintenance and Monitoring Solution
 ## Abstract:
@@ -112,7 +112,7 @@ Talk about a easy DBA life, this is a definite simple solution you should build.
 #### SessionID: 66610
 # Improve data load speed and query performance with Columnstore indexes
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
+Event Date: 26-08-2017 - Session time: 11:15:00 - Track: Track 1
 ## Speaker: Tejas Shah
 ## Title: Improve data load speed and query performance with Columnstore indexes
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
 #### SessionID: 66620
 # In memory OLTP  - what can it do for me?
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 4
+Event Date: 26-08-2017 - Session time: 13:30:00 - Track: Track 4
 ## Speaker: Martin Catherall
 ## Title: In memory OLTP  - what can it do for me?
 ## Abstract:
@@ -134,7 +134,7 @@ Come along to this session and learn about some of features of in memory OLTP  -
 #### SessionID: 63000
 # Big Data with Azure: where to begin? Concepts and best practices
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 2
+Event Date: 26-08-2017 - Session time: 13:45:00 - Track: Track 2
 ## Speaker: Satya Jayanty
 ## Title: Big Data with Azure: where to begin? Concepts and best practices
 ## Abstract:
@@ -145,7 +145,7 @@ Microsoft Azure has the ability to move, store and analyze data within the cloud
 #### SessionID: 64071
 # Optimizing SQL Server Performance in a Virtual Environment
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 3
+Event Date: 26-08-2017 - Session time: 13:45:00 - Track: Track 3
 ## Speaker: Denny Cherry
 ## Title: Optimizing SQL Server Performance in a Virtual Environment
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 3
 #### SessionID: 64548
 # Using Power Query to Tell Your Story from Your Facebook Data
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 2
+Event Date: 26-08-2017 - Session time: 13:45:00 - Track: Track 2
 ## Speaker: Anil Maharjan
 ## Title: Using Power Query to Tell Your Story from Your Facebook Data
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 2
 #### SessionID: 65324
 # 1 Database, Many Data Models: Database Designers and Azure Cosmos DB
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
+Event Date: 26-08-2017 - Session time: 13:45:00 - Track: Track 1
 ## Speaker: Karen Lopez
 ## Title: 1 Database, Many Data Models: Database Designers and Azure Cosmos DB
 ## Abstract:
@@ -184,7 +184,7 @@ It is the first cloud database to natively support a multitude of data models an
 #### SessionID: 69062
 # Graph Data processing with SQL Server 2017
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 4
+Event Date: 26-08-2017 - Session time: 13:45:00 - Track: Track 4
 ## Speaker: Prakash Sawant
 ## Title: Graph Data processing with SQL Server 2017
 ## Abstract:
@@ -193,7 +193,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 4
 #### SessionID: 64002
 # Data Quality and the BI Life Cycle
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 4
+Event Date: 26-08-2017 - Session time: 14:45:00 - Track: Track 4
 ## Speaker: Robert Blaas
 ## Title: Data Quality and the BI Life Cycle
 ## Abstract:
@@ -202,7 +202,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 4
 #### SessionID: 64235
 # DevOPs and the DBA
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 2
+Event Date: 26-08-2017 - Session time: 14:45:00 - Track: Track 2
 ## Speaker: Hamish Watson
 ## Title: DevOPs and the DBA
 ## Abstract:
@@ -221,7 +221,7 @@ Through the use of a comprehensive live demo to a running production database th
 #### SessionID: 64334
 # SQL Server on Linux--Linux for the SQL DBA
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
+Event Date: 26-08-2017 - Session time: 14:45:00 - Track: Track 1
 ## Speaker: Joseph D'Antoni
 ## Title: SQL Server on Linux--Linux for the SQL DBA
 ## Abstract:
@@ -230,7 +230,7 @@ Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 1
 #### SessionID: 69134
 # An Introduction to SQL Server 2017
 #### [Back to calendar](#nr-646)
-Event Date: 26-08-2017 - Session time: 16:00:00 - Track: Track 3
+Event Date: 26-08-2017 - Session time: 14:45:00 - Track: Track 3
 ## Speaker: Warwick Rudd
 ## Title: An Introduction to SQL Server 2017
 ## Abstract:

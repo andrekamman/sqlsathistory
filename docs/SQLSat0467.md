@@ -48,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 40648
 # Being a DBA - A day in the life.
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-12-2015 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Martin
 ## Title: Being a DBA - A day in the life.
 ## Abstract:
@@ -71,7 +71,7 @@ Full Details: http://bit.ly/1PiLtY8
 #### SessionID: 40925
 # Query Processing  Internals
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-12-2015 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Dave Ballantyne
 ## Title: Query Processing  Internals
 ## Abstract:
@@ -92,7 +92,7 @@ Full Details: http://bit.ly/1NGjd2P
 #### SessionID: 40926
 # SQL Server for Developers: Database is no dumping ground!
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-12-2015 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Mladen Prajdić
 ## Title: SQL Server for Developers: Database is no dumping ground!
 ## Abstract:
@@ -117,7 +117,7 @@ Full session details at: http://bit.ly/1Jk3HU5
 #### SessionID: 40940
 # Building Blocks of BIML
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2015 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stacia Varga
 ## Title: Building Blocks of BIML
 ## Abstract:
@@ -138,7 +138,7 @@ Full details: http://bit.ly/1Kr1SIZ
 #### SessionID: 40941
 # Windows Azure SQL Database - A Journey from Zero to be Hero
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 05-12-2015 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tobias Koprowski
 ## Title: Windows Azure SQL Database - A Journey from Zero to be Hero
 ## Abstract:
@@ -170,7 +170,7 @@ Full Details: http://bit.ly/1FYbFC6
 #### SessionID: 39217
 # Load Testing With SQL Server Tools
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-12-2015 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Neil Hambly
 ## Title: Load Testing With SQL Server Tools
 ## Abstract:
@@ -181,7 +181,7 @@ Come learn about the native tools at our disposal for performing these important
 #### SessionID: 39411
 # SQL Server 2016 New Feaures (Not Query Store!)
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: SQL Server 2016 New Features
+Event Date: 05-12-2015 - Session time: 08:30:00 - Track: SQL Server 2016 New Features
 ## Speaker: David Williams
 ## Title: SQL Server 2016 New Feaures (Not Query Store!)
 ## Abstract:
@@ -202,7 +202,7 @@ Event Date: 05-12-2015 - Session time: 15:45:00 - Track: SQL Server 2016 New Fea
 #### SessionID: 39703
 # Tired of connecting on-prem  cloud data? Take a DB stretch
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 05-12-2015 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Tired of connecting on-prem  cloud data? Take a DB stretch
 ## Abstract:
@@ -211,7 +211,7 @@ Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 39990
 # Click  Clone - a simple model for managing data quality and scaling out 
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2015 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eric Lawson
 ## Title: Click  Clone - a simple model for managing data quality and scaling out 
 ## Abstract:
@@ -228,7 +228,7 @@ In this session I will review the design, describe the basic components and demo
 #### SessionID: 40545
 # Implementing and Maintaining an Azure SQL Database project
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 05-12-2015 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Emanuele Zanchettin
 ## Title: Implementing and Maintaining an Azure SQL Database project
 ## Abstract:
@@ -237,7 +237,7 @@ Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 40695
 # MI6 Secrets - Data Security For Developers
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Data Platform Security  Compliance
+Event Date: 05-12-2015 - Session time: 08:30:00 - Track: Data Platform Security  Compliance
 ## Speaker: André Melancia
 ## Title: MI6 Secrets - Data Security For Developers
 ## Abstract:
@@ -250,7 +250,7 @@ Disclaimer: No actual state secrets will be revealed. Please do not send agents 
 #### SessionID: 38980
 # Data Warehouse modeling, for data analysis and cubes
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2015 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alex Whittles
 ## Title: Data Warehouse modeling, for data analysis and cubes
 ## Abstract:
@@ -260,7 +260,7 @@ In this session we’ll look at a number of different data scenarios that we enc
 #### SessionID: 39250
 # Understanding the Transaction Log, Your Key to Unlocking Greater Throughput
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-12-2015 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lord Richard Douglas
 ## Title: Understanding the Transaction Log, Your Key to Unlocking Greater Throughput
 ## Abstract:
@@ -272,7 +272,7 @@ In this session you will learn to appreciate how the transaction log works and h
 #### SessionID: 40489
 # SSRS - The Dark Side: Custom Rendering
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2015 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Conlan
 ## Title: SSRS - The Dark Side: Custom Rendering
 ## Abstract:
@@ -285,7 +285,7 @@ However, creating an individual custom rendering engine is a mammoth task.  Ther
 #### SessionID: 40524
 # Dive into SSISDB Catalog using PowerBI
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2015 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Prathy Kamasani
 ## Title: Dive into SSISDB Catalog using PowerBI
 ## Abstract:
@@ -297,7 +297,7 @@ However, have you ever wondered how to design an SSIS Project so we can take max
 #### SessionID: 40665
 # Query Optimizer internals
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-12-2015 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Dave Ballantyne
 ## Title: Query Optimizer internals
 ## Abstract:
@@ -312,7 +312,7 @@ This session will be a deep dive into the optimizers' internals and not for the 
 #### SessionID: 39726
 # SQL Server Backup in the Era of the Cloud
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-12-2015 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tobias Koprowski
 ## Title: SQL Server Backup in the Era of the Cloud
 ## Abstract:
@@ -321,7 +321,7 @@ Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 39796
 # Super Scaling Clustered Index Inserts
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-12-2015 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Christopher Adkin
 ## Title: Super Scaling Clustered Index Inserts
 ## Abstract:
@@ -330,7 +330,7 @@ Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 39887
 # Do More With Less: Inside SQL Agent Multi-Server Administration
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-12-2015 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Hillwig
 ## Title: Do More With Less: Inside SQL Agent Multi-Server Administration
 ## Abstract:
@@ -339,7 +339,7 @@ Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 40494
 # The What, Why and How of Unit Testing SQL Server
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-12-2015 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Annette Allen
 ## Title: The What, Why and How of Unit Testing SQL Server
 ## Abstract:
@@ -348,7 +348,7 @@ Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 40551
 # ETL in the Clouds
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2015 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Whiteley
 ## Title: ETL in the Clouds
 ## Abstract:
@@ -363,7 +363,7 @@ Also there may be some terrible jokes. I make no apologies for this.
 #### SessionID: 40598
 # No stress with OSTRESS, Lessons Learned from a high traffic Replay attempt
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-12-2015 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Kamman
 ## Title: No stress with OSTRESS, Lessons Learned from a high traffic Replay attempt
 ## Abstract:
@@ -375,7 +375,7 @@ If you are thinking about using OSTRESS / RML Utilities to analyse your system a
 #### SessionID: 38922
 # Azure DocumentDB
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2015 - Session time: 13:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Allan Mitchell
 ## Title: Azure DocumentDB
 ## Abstract:
@@ -384,7 +384,7 @@ Event Date: 05-12-2015 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 38935
 # Beware of the Dark Side - A Guided Tour of Oracle for the SQL DBA
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 05-12-2015 - Session time: 13:15:00 - Track: Professional Development
 ## Speaker: David Postlethwaite
 ## Title: Beware of the Dark Side - A Guided Tour of Oracle for the SQL DBA
 ## Abstract:
@@ -397,7 +397,7 @@ Although you won’t be ready to be an Oracle DBA it will give you a foundation 
 #### SessionID: 39021
 # SQL Server and Application Security for Developers
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-12-2015 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Mladen Prajdić
 ## Title: SQL Server and Application Security for Developers
 ## Abstract:
@@ -407,7 +407,7 @@ In this session we'll look at a few attack vectors that can be used against your
 #### SessionID: 39176
 # SharePoint Databases - What you need to know
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-12-2015 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Al Eardley
 ## Title: SharePoint Databases - What you need to know
 ## Abstract:
@@ -416,7 +416,7 @@ Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 40160
 # Using Power BI with my DBA Database
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-12-2015 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Sewell
 ## Title: Using Power BI with my DBA Database
 ## Abstract:
@@ -425,7 +425,7 @@ Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 41705
 # Microsoft SQL Server Data Warehouse Fast Track – Understanding th
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-12-2015 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Niall MacLeod
 ## Title: Microsoft SQL Server Data Warehouse Fast Track – Understanding th
 ## Abstract:
@@ -434,7 +434,7 @@ Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 38925
 # Continuous Integration and the Data Warehouse
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2015 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: John Tunnicliffe
 ## Title: Continuous Integration and the Data Warehouse
 ## Abstract:
@@ -449,7 +449,7 @@ Event Date: 05-12-2015 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 38937
 # 10 Things that you already knew about SSIS
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2015 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andreas Bergstedt
 ## Title: 10 Things that you already knew about SSIS
 ## Abstract:
@@ -462,7 +462,7 @@ Session is recommended for the intermediate to advanced but the beginner will al
 #### SessionID: 38939
 # Session Details not available
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 05-12-2015 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: n/a n/a
 ## Title: Session Details not available
 ## Abstract:
@@ -471,7 +471,7 @@ Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 39341
 # When good SQL design goes bad
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-12-2015 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Bob Duffy
 ## Title: When good SQL design goes bad
 ## Abstract:
@@ -492,7 +492,7 @@ Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 39366
 # SQL Server 2016 - Always Encrypted - secure your data from the prying eye
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-12-2015 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Kenneth Nielsen
 ## Title: SQL Server 2016 - Always Encrypted - secure your data from the prying eye
 ## Abstract:
@@ -506,7 +506,7 @@ Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 42046
 # Performance troubleshooting SQL Server
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-12-2015 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Justin Langford
 ## Title: Performance troubleshooting SQL Server
 ## Abstract:
@@ -517,7 +517,7 @@ This session presents an approach and tools to consistently troubleshooting perf
 #### SessionID: 42047
 # Building  Configuring SQL Server : Recommended Practices
 #### [Back to calendar](#nr-467)
-Event Date: 05-12-2015 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-12-2015 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Martin
 ## Title: Building  Configuring SQL Server : Recommended Practices
 ## Abstract:

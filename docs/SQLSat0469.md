@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 39375
 # Oportunidades com a plataforma de dados da Microsoft
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Academic (beginner)
+Event Date: 21-11-2015 - Session time: 09:45:00 - Track: Academic (beginner)
 ## Speaker: Rodrigo Crespi
 ## Title: Oportunidades com a plataforma de dados da Microsoft
 ## Abstract:
@@ -43,7 +43,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Academic (beginner)
 #### SessionID: 39393
 # A evolu#231;#227;o do Entity Framework 7
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Development
+Event Date: 21-11-2015 - Session time: 09:45:00 - Track: Database Development
 ## Speaker: Rogério Moraes de Carvalho
 ## Title: A evolu#231;#227;o do Entity Framework 7
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Development
 #### SessionID: 39480
 # DataZen - Do In#237;cio ao Fim
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Business Intelligence  Data Science
+Event Date: 21-11-2015 - Session time: 09:45:00 - Track: Business Intelligence  Data Science
 ## Speaker: Arthur Luz
 ## Title: DataZen - Do In#237;cio ao Fim
 ## Abstract:
@@ -61,7 +61,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Business Intelligence  
 #### SessionID: 40894
 # HandsOn - SQL Server AlwaysOn Availability Groups
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
+Event Date: 21-11-2015 - Session time: 09:45:00 - Track: Database Administration
 ## Speaker: EDVALDO CASTRO
 ## Title: HandsOn - SQL Server AlwaysOn Availability Groups
 ## Abstract:
@@ -71,7 +71,7 @@ Poucos slides para que possamos fazer tem tempo real todos os passos para a inst
 #### SessionID: 40928
 # Configurando uma Replica#231;#227;o Transacional
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
+Event Date: 21-11-2015 - Session time: 09:45:00 - Track: Database Administration
 ## Speaker: Gustavo Moura Fé
 ## Title: Configurando uma Replica#231;#227;o Transacional
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 #### SessionID: 40262
 # Conhe#231;a as Temporal Tables do SQL Server 2016
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Development
+Event Date: 21-11-2015 - Session time: 11:15:00 - Track: Database Development
 ## Speaker: Felipe de Assis
 ## Title: Conhe#231;a as Temporal Tables do SQL Server 2016
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Development
 #### SessionID: 40759
 # Assumi o cargo de DBA. O que devo aprender para ontem???
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Academic (beginner)
+Event Date: 21-11-2015 - Session time: 11:15:00 - Track: Academic (beginner)
 ## Speaker: Fabrício Lima
 ## Title: Assumi o cargo de DBA. O que devo aprender para ontem???
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Academic (beginner)
 #### SessionID: 40903
 # SQL SERVER e ORACLE: Semelhan#231;as e Diferen#231;as para o DBA
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
+Event Date: 21-11-2015 - Session time: 11:15:00 - Track: Database Administration
 ## Speaker: Marcelo Adade
 ## Title: SQL SERVER e ORACLE: Semelhan#231;as e Diferen#231;as para o DBA
 ## Abstract:
@@ -108,7 +108,7 @@ A ideia #233; mostrar como os recursos do SQL SERVER equivalem aos de Oracle e v
 #### SessionID: 40949
 # Estrat#233;gias de backup para ambientes anal#237;ticos e heterog#234;neos
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
+Event Date: 21-11-2015 - Session time: 11:15:00 - Track: Database Administration
 ## Speaker: Gustavo Maia Aguiar
 ## Title: Estrat#233;gias de backup para ambientes anal#237;ticos e heterog#234;neos
 ## Abstract:
@@ -117,7 +117,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 #### SessionID: 40984
 # HiveQL x TSQL: Uma introdu#231;#227;o ao HIVE no HDInsight
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Business Intelligence  Data Science
+Event Date: 21-11-2015 - Session time: 11:15:00 - Track: Business Intelligence  Data Science
 ## Speaker: Bruno Feldman
 ## Title: HiveQL x TSQL: Uma introdu#231;#227;o ao HIVE no HDInsight
 ## Abstract:
@@ -128,7 +128,7 @@ Abordaremos as diferen#231;as de sintaxe entre as duas linguagens de queries, al
 #### SessionID: 40847
 # HA e DR #233; o seguro de vida todo DBA
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Academic (beginner)
+Event Date: 21-11-2015 - Session time: 13:30:00 - Track: Academic (beginner)
 ## Speaker: Luiz Henrique Garetti
 ## Title: HA e DR #233; o seguro de vida todo DBA
 ## Abstract:
@@ -141,7 +141,7 @@ Aplicando HA e DR com Alwayson, para exemplificar na pratica o funcionamento de 
 #### SessionID: 40883
 # Onde est#225; o bot#227;o do P#226;nico! Meu database est#225; com corrup#231;#227;o
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
+Event Date: 21-11-2015 - Session time: 13:30:00 - Track: Database Administration
 ## Speaker: Tiago Balabuch
 ## Title: Onde est#225; o bot#227;o do P#226;nico! Meu database est#225; com corrup#231;#227;o
 ## Abstract:
@@ -151,7 +151,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 #### SessionID: 40905
 # Reporting Services Internals - High Availability and Scale-Out
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Business Intelligence  Data Science
+Event Date: 21-11-2015 - Session time: 13:30:00 - Track: Business Intelligence  Data Science
 ## Speaker: Alexandre Soteras
 ## Title: Reporting Services Internals - High Availability and Scale-Out
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Business Intelligence  
 #### SessionID: 41180
 # Tudo que voc#234; precisa saber sobre LOBs no SQL Server
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Development
+Event Date: 21-11-2015 - Session time: 13:30:00 - Track: Database Development
 ## Speaker: Dennes Torres
 ## Title: Tudo que voc#234; precisa saber sobre LOBs no SQL Server
 ## Abstract:
@@ -171,7 +171,7 @@ Os campos LOBs escondem muitos truques em sua armazenagem e isso pode ser impact
 #### SessionID: 41202
 # Saindo do Basico: Implementando SQL Server 2014 Failover Cluster com CSV
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
+Event Date: 21-11-2015 - Session time: 13:30:00 - Track: Database Administration
 ## Speaker: Nilton Pinheiro
 ## Title: Saindo do Basico: Implementando SQL Server 2014 Failover Cluster com CSV
 ## Abstract:
@@ -181,7 +181,7 @@ Uma das mais valiosas features do SQL Server 2014 voltada para alta disponibilid
 #### SessionID: 39388
 # Stretch Database - Armazenamento de dados hist#243;ricos no SQL Server 2016
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Cloud Application  Administration
+Event Date: 21-11-2015 - Session time: 15:00:00 - Track: Cloud Application  Administration
 ## Speaker: Vitor Fava
 ## Title: Stretch Database - Armazenamento de dados hist#243;ricos no SQL Server 2016
 ## Abstract:
@@ -190,7 +190,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Cloud Application  Admi
 #### SessionID: 39417
 # Conhecendo o Query Store do SQL 2016
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
+Event Date: 21-11-2015 - Session time: 15:00:00 - Track: Database Administration
 ## Speaker: Luiz Mercante
 ## Title: Conhecendo o Query Store do SQL 2016
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 #### SessionID: 40889
 # Powershell: Introdu#231;#227;o
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Academic (beginner)
+Event Date: 21-11-2015 - Session time: 15:00:00 - Track: Academic (beginner)
 ## Speaker: Rodrigo Ribeiro Gomes
 ## Title: Powershell: Introdu#231;#227;o
 ## Abstract:
@@ -210,7 +210,7 @@ Nesta se#231;#227;o, voc#234; ir#225; aprender o que #233; powershell e o que #2
 #### SessionID: 40947
 # Pensando fora da caixa!  - SMB 3.0
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
+Event Date: 21-11-2015 - Session time: 15:00:00 - Track: Database Administration
 ## Speaker: Marcelo Fernandes
 ## Title: Pensando fora da caixa!  - SMB 3.0
 ## Abstract:
@@ -220,7 +220,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
 #### SessionID: 41192
 # HandsOn Troubleshooting - Casos reais e que podemos reproduzir
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
+Event Date: 21-11-2015 - Session time: 15:00:00 - Track: Database Administration
 ## Speaker: Alex Rosa
 ## Title: HandsOn Troubleshooting - Casos reais e que podemos reproduzir
 ## Abstract:
@@ -231,7 +231,7 @@ Venha para essa sess#227;o, e participe de forma ativa, sugerindo motivos que or
 #### SessionID: 41700
 # PowerBI - A nova plataforma de BI da Microsoft
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Business Intelligence  Data Science
+Event Date: 21-11-2015 - Session time: 15:00:00 - Track: Business Intelligence  Data Science
 ## Speaker: Thiago Zavaschi
 ## Title: PowerBI - A nova plataforma de BI da Microsoft
 ## Abstract:
@@ -240,7 +240,7 @@ Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Business Intelligence  
 #### SessionID: 42298
 # Hekaton v.2 e ColumnStore Index v.3 - Nova Gera#231;#227;o de DB's
 #### [Back to calendar](#nr-469)
-Event Date: 21-11-2015 - Session time: 16:45:00 - Track: Database Administration
+Event Date: 21-11-2015 - Session time: 15:00:00 - Track: Database Administration
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Hekaton v.2 e ColumnStore Index v.3 - Nova Gera#231;#227;o de DB's
 ## Abstract:

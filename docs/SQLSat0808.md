@@ -64,7 +64,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 84533
 # SQLOpsStudio Vs SSMS - There can be only one
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBAdmin
+Event Date: 03-11-2018 - Session time: 08:30:00 - Track: DBAdmin
 ## Speaker: Warwick Rudd
 ## Title: SQLOpsStudio Vs SSMS - There can be only one
 ## Abstract:
@@ -74,7 +74,7 @@ In this session we will take you on a journey of comparing SSMS and SQLOpsStudio
 #### SessionID: 84538
 # Uhms and Bunny Hands: Tips for Improving Your Presentation Skills
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Prof Dev
+Event Date: 03-11-2018 - Session time: 08:30:00 - Track: Prof Dev
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Uhms and Bunny Hands: Tips for Improving Your Presentation Skills
 ## Abstract:
@@ -89,7 +89,7 @@ All it takes is a little preparation and practice. You can do this!
 #### SessionID: 84541
 # Encrypting Data within Sql Server
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBDev
+Event Date: 03-11-2018 - Session time: 08:30:00 - Track: DBDev
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within Sql Server
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBDev
 #### SessionID: 84591
 # The SQL Server Transaction Log for Developers
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBDev
+Event Date: 03-11-2018 - Session time: 08:30:00 - Track: DBDev
 ## Speaker: Frank Gill
 ## Title: The SQL Server Transaction Log for Developers
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBDev
 #### SessionID: 84801
 # Data Modeling and Prototyping in Power BI Desktop [VIDEO]
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: BI Design
+Event Date: 03-11-2018 - Session time: 08:30:00 - Track: BI Design
 ## Speaker: Steve Wake
 ## Title: Data Modeling and Prototyping in Power BI Desktop [VIDEO]
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: BI Design
 #### SessionID: 84802
 # Administrating SQL Server with PowerShell dbatools
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBAdmin
+Event Date: 03-11-2018 - Session time: 08:30:00 - Track: DBAdmin
 ## Speaker: Rob Sewell
 ## Title: Administrating SQL Server with PowerShell dbatools
 ## Abstract:
@@ -137,7 +137,7 @@ All this in a fast paced, fun session
 #### SessionID: 84921
 # Power BI data preparation with Dataflows [VIDEO]
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: BI Arch/Admin
+Event Date: 03-11-2018 - Session time: 08:30:00 - Track: BI Arch/Admin
 ## Speaker: Michael Johnson
 ## Title: Power BI data preparation with Dataflows [VIDEO]
 ## Abstract:
@@ -151,7 +151,7 @@ You will learn
 #### SessionID: 85222
 # Performance Tuning for Salary Negotiations [VIDEO]
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Prof Dev
+Event Date: 03-11-2018 - Session time: 08:30:00 - Track: Prof Dev
 ## Speaker: Je'Anna Lanza-Abbott
 ## Title: Performance Tuning for Salary Negotiations [VIDEO]
 ## Abstract:
@@ -167,7 +167,7 @@ Participants will:
 #### SessionID: 85531
 # The Big Picture: SQL Overview -Getting the Most of SQL Saturday
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Essentials
+Event Date: 03-11-2018 - Session time: 08:30:00 - Track: Essentials
 ## Speaker: Michael Curry
 ## Title: The Big Picture: SQL Overview -Getting the Most of SQL Saturday
 ## Abstract:
@@ -176,7 +176,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Essentials
 #### SessionID: 86897
 # Lightning Talks: Session One
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: 
+Event Date: 03-11-2018 - Session time: 08:30:00 - Track: 
 ## Speaker: Misc Speakers
 ## Title: Lightning Talks: Session One
 ## Abstract:
@@ -187,7 +187,7 @@ Data Science in 15 Minutes! Predictive Analytics with R in Power BI
 #### SessionID: 84386
 # Educating yourself will make a SQL career more fulfilling
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Prof Dev
+Event Date: 03-11-2018 - Session time: 10:15:00 - Track: Prof Dev
 ## Speaker: Chris Wood
 ## Title: Educating yourself will make a SQL career more fulfilling
 ## Abstract:
@@ -199,7 +199,7 @@ It will also show how to make any conference more affordable and justify the ben
 #### SessionID: 84653
 # Establishing a SLA form
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Essentials
+Event Date: 03-11-2018 - Session time: 10:15:00 - Track: Essentials
 ## Speaker: Thomas Grohser
 ## Title: Establishing a SLA form
 ## Abstract:
@@ -209,7 +209,7 @@ This Session will teach you how to ask the right questions, analyze your databas
 #### SessionID: 84657
 # Everything You Need to Know About SQL Server Indexes
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBAdmin
+Event Date: 03-11-2018 - Session time: 10:15:00 - Track: DBAdmin
 ## Speaker: Janis Griffin
 ## Title: Everything You Need to Know About SQL Server Indexes
 ## Abstract:
@@ -220,7 +220,7 @@ This presentation is a must see for DBAs, Developers, Application Architects and
 #### SessionID: 84857
 # Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: BI Arch/Admin
+Event Date: 03-11-2018 - Session time: 10:15:00 - Track: BI Arch/Admin
 ## Speaker: Jason Horner
 ## Title: Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
 ## Abstract:
@@ -230,7 +230,7 @@ Whether you are just getting started with Azure Data Factory or looking to make 
 #### SessionID: 84974
 # Power BI Report Design for the aesthetically challenged
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: BI Design
+Event Date: 03-11-2018 - Session time: 10:15:00 - Track: BI Design
 ## Speaker: James McGillivray
 ## Title: Power BI Report Design for the aesthetically challenged
 ## Abstract:
@@ -249,7 +249,7 @@ Join me in this session to learn:
 #### SessionID: 85043
 # Locks, Blocks, and Deadlocks, Oh My!
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBAdmin
+Event Date: 03-11-2018 - Session time: 10:15:00 - Track: DBAdmin
 ## Speaker: Randy Knight
 ## Title: Locks, Blocks, and Deadlocks, Oh My!
 ## Abstract:
@@ -260,7 +260,7 @@ In this session targeted at the accidental or new DBA, we will walk through each
 #### SessionID: 85518
 # Relational Data Architecture 101
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBAdmin
+Event Date: 03-11-2018 - Session time: 10:15:00 - Track: DBAdmin
 ## Speaker: Pat Phelan
 ## Title: Relational Data Architecture 101
 ## Abstract:
@@ -273,7 +273,7 @@ This presentation is a survey of Data Architecture for the Intermediate DBA, it 
 #### SessionID: 85636
 # Be Friendly to SQL Server with TSQL Best Practices [VIDEO]
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBDev
+Event Date: 03-11-2018 - Session time: 10:15:00 - Track: DBDev
 ## Speaker: Ben Miller
 ## Title: Be Friendly to SQL Server with TSQL Best Practices [VIDEO]
 ## Abstract:
@@ -282,7 +282,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBDev
 #### SessionID: 85650
 # Data Types Do Matter [VIDEO]
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBDev
+Event Date: 03-11-2018 - Session time: 10:15:00 - Track: DBDev
 ## Speaker: Angela Henry
 ## Title: Data Types Do Matter [VIDEO]
 ## Abstract:
@@ -291,7 +291,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBDev
 #### SessionID: 86898
 # Lightning Talks: Session Two
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: 
+Event Date: 03-11-2018 - Session time: 10:15:00 - Track: 
 ## Speaker: Misc Speakers
 ## Title: Lightning Talks: Session Two
 ## Abstract:
@@ -302,7 +302,7 @@ Managing Execution Plans [VIDEO]
 #### SessionID: 84636
 # 3D printing at HP and spreadsheets; how HP broke free of data bottlenecks.
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Essentials
+Event Date: 03-11-2018 - Session time: 11:45:00 - Track: Essentials
 ## Speaker: Jeff Honsowetz
 ## Title: 3D printing at HP and spreadsheets; how HP broke free of data bottlenecks.
 ## Abstract:
@@ -313,7 +313,7 @@ Be the first 20 to attend and pick a cold red bull or hot latte/mocha that will 
 #### SessionID: 84655
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: BI Arch/Admin
+Event Date: 03-11-2018 - Session time: 11:45:00 - Track: BI Arch/Admin
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
 ## Abstract:
@@ -322,7 +322,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: BI Arch/Admin
 #### SessionID: 84983
 # Azure Intelligent Services
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Data Science
+Event Date: 03-11-2018 - Session time: 11:45:00 - Track: Data Science
 ## Speaker: Amie Mason
 ## Title: Azure Intelligent Services
 ## Abstract:
@@ -331,7 +331,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Data Science
 #### SessionID: 85039
 # Game, Set, Match: Set Theory for Beginners [VIDEO]
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBDev
+Event Date: 03-11-2018 - Session time: 11:45:00 - Track: DBDev
 ## Speaker: Jared Karney
 ## Title: Game, Set, Match: Set Theory for Beginners [VIDEO]
 ## Abstract:
@@ -340,7 +340,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBDev
 #### SessionID: 85558
 # Successfully Virtualizing and Maintaining SQL Server on VMware vSphere [VIDEO]
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBAdmin
+Event Date: 03-11-2018 - Session time: 11:45:00 - Track: DBAdmin
 ## Speaker: Victor Isakov
 ## Title: Successfully Virtualizing and Maintaining SQL Server on VMware vSphere [VIDEO]
 ## Abstract:
@@ -349,7 +349,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBAdmin
 #### SessionID: 86132
 # Going Beyond Monitoring With SentryOne
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBAdmin
+Event Date: 03-11-2018 - Session time: 11:45:00 - Track: DBAdmin
 ## Speaker: Andy Yun
 ## Title: Going Beyond Monitoring With SentryOne
 ## Abstract:
@@ -358,7 +358,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBAdmin
 #### SessionID: 86162
 # 3 tips for getting executive buy-in for DevOps
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DevOps
+Event Date: 03-11-2018 - Session time: 11:45:00 - Track: DevOps
 ## Speaker: Kendra Little
 ## Title: 3 tips for getting executive buy-in for DevOps
 ## Abstract:
@@ -367,7 +367,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DevOps
 #### SessionID: 86585
 # Running SQL Server on Amazon Web Services
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Cloud Data
+Event Date: 03-11-2018 - Session time: 11:45:00 - Track: Cloud Data
 ## Speaker: Richard Waymire
 ## Title: Running SQL Server on Amazon Web Services
 ## Abstract:
@@ -376,7 +376,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Cloud Data
 #### SessionID: 86615
 # Real-time monitoring and detailed workload analysis with Spotligh
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBAdmin
+Event Date: 03-11-2018 - Session time: 11:45:00 - Track: DBAdmin
 ## Speaker: Trent Mera
 ## Title: Real-time monitoring and detailed workload analysis with Spotligh
 ## Abstract:
@@ -385,7 +385,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBAdmin
 #### SessionID: 86896
 # Maximum performance for SQL with Dell EMC
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBAdmin
+Event Date: 03-11-2018 - Session time: 11:45:00 - Track: DBAdmin
 ## Speaker: Craig Allen
 ## Title: Maximum performance for SQL with Dell EMC
 ## Abstract:
@@ -394,7 +394,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBAdmin
 #### SessionID: 84573
 # SQL Server Take Over:  Establishing a Baseline
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBAdmin
+Event Date: 03-11-2018 - Session time: 13:00:00 - Track: DBAdmin
 ## Speaker: Lowry Kozlowski
 ## Title: SQL Server Take Over:  Establishing a Baseline
 ## Abstract:
@@ -409,7 +409,7 @@ The server is running slowly... or is it? Slow compared to what?  Before you be
 #### SessionID: 84610
 # Detecting and Capturing Change for Data Warehousing
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: BI Design
+Event Date: 03-11-2018 - Session time: 13:00:00 - Track: BI Design
 ## Speaker: Chris Hyde
 ## Title: Detecting and Capturing Change for Data Warehousing
 ## Abstract:
@@ -420,7 +420,7 @@ Attendees will gain a full understanding of the pros and cons of each of these s
 #### SessionID: 84898
 # Select Stars: A SQL DBA's Introduction to Azure Cosmos DB
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Cloud Data
+Event Date: 03-11-2018 - Session time: 13:00:00 - Track: Cloud Data
 ## Speaker: Bob Pusateri
 ## Title: Select Stars: A SQL DBA's Introduction to Azure Cosmos DB
 ## Abstract:
@@ -429,7 +429,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Cloud Data
 #### SessionID: 85040
 # Indexing for Beginners [VIDEO]
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Essentials
+Event Date: 03-11-2018 - Session time: 13:00:00 - Track: Essentials
 ## Speaker: Kathi Kellenberger
 ## Title: Indexing for Beginners [VIDEO]
 ## Abstract:
@@ -438,7 +438,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Essentials
 #### SessionID: 85210
 # SSIS Deployment Smackdown! Package vs. Project!
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: BI Arch/Admin
+Event Date: 03-11-2018 - Session time: 13:00:00 - Track: BI Arch/Admin
 ## Speaker: Peter Kral
 ## Title: SSIS Deployment Smackdown! Package vs. Project!
 ## Abstract:
@@ -447,7 +447,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: BI Arch/Admin
 #### SessionID: 85434
 # Intermediate Security Topics in SQL Server
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBAdmin
+Event Date: 03-11-2018 - Session time: 13:00:00 - Track: DBAdmin
 ## Speaker: Ben Thul
 ## Title: Intermediate Security Topics in SQL Server
 ## Abstract:
@@ -477,7 +477,7 @@ In the course of this presentation, you'll learn about:
 #### SessionID: 85610
 # What is Temporal Tables
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBDev
+Event Date: 03-11-2018 - Session time: 13:00:00 - Track: DBDev
 ## Speaker: Jean-Pierre Voogt
 ## Title: What is Temporal Tables
 ## Abstract:
@@ -486,7 +486,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBDev
 #### SessionID: 85652
 # T-SQL Habits and Practices That Can Kill Performance
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBDev
+Event Date: 03-11-2018 - Session time: 13:00:00 - Track: DBDev
 ## Speaker: Vern Rabe
 ## Title: T-SQL Habits and Practices That Can Kill Performance
 ## Abstract:
@@ -497,7 +497,7 @@ Armed with this knowledge, you will definitely impress your boss with your abili
 #### SessionID: 86899
 # Lightning Talks: Session Three
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: 
+Event Date: 03-11-2018 - Session time: 13:00:00 - Track: 
 ## Speaker: Misc Speakers
 ## Title: Lightning Talks: Session Three
 ## Abstract:
@@ -508,7 +508,7 @@ PLE, it's not what you think it is!
 #### SessionID: 84557
 # Containerized databases: SQL Server and DevOps
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DevOps
+Event Date: 03-11-2018 - Session time: 14:45:00 - Track: DevOps
 ## Speaker: Ned Otter
 ## Title: Containerized databases: SQL Server and DevOps
 ## Abstract:
@@ -519,7 +519,7 @@ These are just a few of the questions we will answer in this session. Containers
 #### SessionID: 84600
 # How to Migrate your in house data to the cloud [VIDEO]
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Cloud Data
+Event Date: 03-11-2018 - Session time: 14:45:00 - Track: Cloud Data
 ## Speaker: James Phillips
 ## Title: How to Migrate your in house data to the cloud [VIDEO]
 ## Abstract:
@@ -528,7 +528,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Cloud Data
 #### SessionID: 84695
 # Don't Use Cursors or Why You Maybe Should Use a Cursor After All
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBDev
+Event Date: 03-11-2018 - Session time: 14:45:00 - Track: DBDev
 ## Speaker: Erland Sommarskog
 ## Title: Don't Use Cursors or Why You Maybe Should Use a Cursor After All
 ## Abstract:
@@ -537,7 +537,7 @@ Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBDev
 #### SessionID: 84889
 # Predictive Analytics with R in Power BI [VIDEO]
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Data Science
+Event Date: 03-11-2018 - Session time: 14:45:00 - Track: Data Science
 ## Speaker: Joseph Yeates
 ## Title: Predictive Analytics with R in Power BI [VIDEO]
 ## Abstract:
@@ -550,7 +550,7 @@ We will cover the basics and best practices of predictive modeling and then thes
 #### SessionID: 85239
 # Execution plans ... where do I start? [VIDEO]
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: Essentials
+Event Date: 03-11-2018 - Session time: 14:45:00 - Track: Essentials
 ## Speaker: Hugo Kornelis
 ## Title: Execution plans ... where do I start? [VIDEO]
 ## Abstract:
@@ -565,7 +565,7 @@ In this session you will learn how to obtain execution plans. and how to start r
 #### SessionID: 85365
 # Introduction to SQL Server Reporting Services [VIDEO]
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: BI Design
+Event Date: 03-11-2018 - Session time: 14:45:00 - Track: BI Design
 ## Speaker: Ted Stathakis
 ## Title: Introduction to SQL Server Reporting Services [VIDEO]
 ## Abstract:
@@ -579,7 +579,7 @@ You will leave this session able to return to the office and present meaningful 
 #### SessionID: 85492
 # PowerShell for the DBA
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBAdmin
+Event Date: 03-11-2018 - Session time: 14:45:00 - Track: DBAdmin
 ## Speaker: Amy Herold
 ## Title: PowerShell for the DBA
 ## Abstract:
@@ -590,7 +590,7 @@ In this session we will explore real-world examples and demonstrate how PowerShe
 #### SessionID: 85643
 # What is DevOps? - and why should I care?
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: DBDev
+Event Date: 03-11-2018 - Session time: 14:45:00 - Track: DBDev
 ## Speaker: Martin Catherall
 ## Title: What is DevOps? - and why should I care?
 ## Abstract:
@@ -605,7 +605,7 @@ Regardless of if you’re never heard this term before or you have strong feelin
 #### SessionID: 86901
 # Lightning Talks: Session Four
 #### [Back to calendar](#nr-808)
-Event Date: 03-11-2018 - Session time: 16:15:00 - Track: 
+Event Date: 03-11-2018 - Session time: 14:45:00 - Track: 
 ## Speaker: Misc Speakers
 ## Title: Lightning Talks: Session Four
 ## Abstract:

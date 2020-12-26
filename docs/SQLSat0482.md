@@ -18,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 42610
 # Processing unstructured data
 #### [Back to calendar](#nr-482)
-Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Business Intelligence 
+Event Date: 26-03-2016 - Session time: 09:15:00 - Track: Business Intelligence 
 ## Speaker: Dinesh Priyankara
 ## Title: Processing unstructured data
 ## Abstract:
@@ -27,7 +27,7 @@ Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Business Intelligence
 #### SessionID: 45889
 # 5 Ways to Reduce Database Size and Improve Performance
 #### [Back to calendar](#nr-482)
-Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Database Administration 
+Event Date: 26-03-2016 - Session time: 09:15:00 - Track: Database Administration 
 ## Speaker: Dmitri Korotkevitch
 ## Title: 5 Ways to Reduce Database Size and Improve Performance
 ## Abstract:
@@ -46,7 +46,7 @@ Even though data retention policies are controlled by business requirements, thi
 #### SessionID: 45731
 # Power BI: The shift to business-led self-service analytics
 #### [Back to calendar](#nr-482)
-Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Business Intelligence 
+Event Date: 26-03-2016 - Session time: 10:30:00 - Track: Business Intelligence 
 ## Speaker: Gogula Aryalingam
 ## Title: Power BI: The shift to business-led self-service analytics
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Business Intelligence
 #### SessionID: 46369
 # Cardinality Estimator - Before 2014 and After
 #### [Back to calendar](#nr-482)
-Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Database Administration 
+Event Date: 26-03-2016 - Session time: 10:30:00 - Track: Database Administration 
 ## Speaker: Nagaraj Venkatesan
 ## Title: Cardinality Estimator - Before 2014 and After
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Database Administration
 #### SessionID: 45888
 # Data Partitioning for Database Architects and Mere Mortals
 #### [Back to calendar](#nr-482)
-Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Strategy and Architecture
+Event Date: 26-03-2016 - Session time: 11:30:00 - Track: Strategy and Architecture
 ## Speaker: Dmitri Korotkevitch
 ## Title: Data Partitioning for Database Architects and Mere Mortals
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Strategy and Architectu
 #### SessionID: 45935
 # Take your IT to the next level
 #### [Back to calendar](#nr-482)
-Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Pre-Conference
+Event Date: 26-03-2016 - Session time: 13:00:00 - Track: Pre-Conference
 ## Speaker: Gurvesh Singh
 ## Title: Take your IT to the next level
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Pre-Conference
 #### SessionID: 45890
 # Thinking Outside the In-Memory Box
 #### [Back to calendar](#nr-482)
-Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 26-03-2016 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Dmitri Korotkevitch
 ## Title: Thinking Outside the In-Memory Box
 ## Abstract:
@@ -99,7 +99,7 @@ Finally, this session shows several techniques that help address in-memory OLTP 
 #### SessionID: 45926
 # Using power query to tell your story form your Facebook data.
 #### [Back to calendar](#nr-482)
-Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Business Intelligence 
+Event Date: 26-03-2016 - Session time: 13:45:00 - Track: Business Intelligence 
 ## Speaker: Anil Maharjan
 ## Title: Using power query to tell your story form your Facebook data.
 ## Abstract:
@@ -112,7 +112,7 @@ This session helps you to learn about the Power Query, Power View, and Power BI 
 #### SessionID: 44431
 # Building a Power BI solution
 #### [Back to calendar](#nr-482)
-Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Business Intelligence 
+Event Date: 26-03-2016 - Session time: 14:45:00 - Track: Business Intelligence 
 ## Speaker: Gogula Aryalingam
 ## Title: Building a Power BI solution
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Business Intelligence
 #### SessionID: 48525
 # SQL Server On Windows Cluster
 #### [Back to calendar](#nr-482)
-Event Date: 26-03-2016 - Session time: 16:15:00 - Track: Database Administration 
+Event Date: 26-03-2016 - Session time: 14:45:00 - Track: Database Administration 
 ## Speaker: Satya Prakash
 ## Title: SQL Server On Windows Cluster
 ## Abstract:

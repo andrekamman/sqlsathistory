@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 54457
 # An Introduction to R and R Services
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 11-02-2017 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Craig Bryden
 ## Title: An Introduction to R and R Services
 ## Abstract:
@@ -53,7 +53,7 @@ In this session I will provide an introduction to the R language as well as disc
 #### SessionID: 56651
 # Common TSQL Mistakes
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 11-02-2017 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 57059
 # Excel tips and tricks for the data professional
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-02-2017 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bernard Spence
 ## Title: Excel tips and tricks for the data professional
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 11-02-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 57175
 # What on earth are all the Azure* and Power* services and why would I want them?
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Azure Services and Platform
+Event Date: 11-02-2017 - Session time: 09:00:00 - Track: Azure Services and Platform
 ## Speaker: Greg Low
 ## Title: What on earth are all the Azure* and Power* services and why would I want them?
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Azure Services and Plat
 #### SessionID: 57254
 # SQL Server Integration Services
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-02-2017 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Johnley John
 ## Title: SQL Server Integration Services
 ## Abstract:
@@ -91,7 +91,7 @@ It features a fast and flexible data warehousing tool used for data extraction, 
 #### SessionID: 57282
 # Become A Troubleshooting Ninja with PowerBI and SQL Server Extended Events
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-02-2017 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ajay Jagannathan
 ## Title: Become A Troubleshooting Ninja with PowerBI and SQL Server Extended Events
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 56689
 # Proactively Identifying and Dealing with SQL Server Database Corruption
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-02-2017 - Session time: 10:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Edwin M Sarmiento
 ## Title: Proactively Identifying and Dealing with SQL Server Database Corruption
 ## Abstract:
@@ -111,7 +111,7 @@ In this session, we will learn how to identify and detect database corruption. W
 #### SessionID: 56874
 # Statistics and New Cardinality Estimator Model
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-02-2017 - Session time: 10:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Susantha Bathige
 ## Title: Statistics and New Cardinality Estimator Model
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 57060
 # Real time reporting with Power BI
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Azure Services and Platform
+Event Date: 11-02-2017 - Session time: 10:10:00 - Track: Azure Services and Platform
 ## Speaker: Ankit Patira
 ## Title: Real time reporting with Power BI
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Azure Services and Plat
 #### SessionID: 57253
 # Azure SQL Data Warehouse - Massive, Parallel, and in the Cloud
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-02-2017 - Session time: 10:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jim McLeod
 ## Title: Azure SQL Data Warehouse - Massive, Parallel, and in the Cloud
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 11-02-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 59926
 # The Power of Power Query!
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 11-02-2017 - Session time: 10:10:00 - Track: Analytics and Visualization
 ## Speaker: Matt Masson
 ## Title: The Power of Power Query!
 ## Abstract:
@@ -147,7 +147,7 @@ Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 61623
 # New Security Features in SQL Server 2016
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 11-02-2017 - Session time: 10:10:00 - Track: Application  Database Development
 ## Speaker: Victor Isakov
 ## Title: New Security Features in SQL Server 2016
 ## Abstract:
@@ -158,7 +158,7 @@ Make sure you attend this session if you want to implement security correctly in
 #### SessionID: 54533
 # SQL Security in the Cloud
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-02-2017 - Session time: 11:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tobias Koprowski
 ## Title: SQL Security in the Cloud
 ## Abstract:
@@ -167,7 +167,7 @@ Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 54934
 # How you can use disconnected tables in PowerPivot/Tabular models to solve real world problems
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 11-02-2017 - Session time: 11:25:00 - Track: Analytics and Visualization
 ## Speaker: Matt Allington
 ## Title: How you can use disconnected tables in PowerPivot/Tabular models to solve real world problems
 ## Abstract:
@@ -182,7 +182,7 @@ In this session I introduce 4 real world scenarios that demonstrate how you can 
 #### SessionID: 56174
 # Query Store: A (R)evolution in Query Tuning
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 11-02-2017 - Session time: 11:25:00 - Track: Application  Database Development
 ## Speaker: Victor Isakov
 ## Title: Query Store: A (R)evolution in Query Tuning
 ## Abstract:
@@ -191,7 +191,7 @@ Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 56885
 # 10 Amazing Things About Power BI You Don't Know
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-02-2017 - Session time: 11:25:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: 10 Amazing Things About Power BI You Don't Know
 ## Abstract:
@@ -202,7 +202,7 @@ In this session you can expect many live demos and to be impressed by the extrao
 #### SessionID: 57007
 # Simplify management of multi-server, multi-region SQL Server deployments with Conductor4SQL
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-02-2017 - Session time: 11:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Carder
 ## Title: Simplify management of multi-server, multi-region SQL Server deployments with Conductor4SQL
 ## Abstract:
@@ -212,7 +212,7 @@ We will cover topics that are critical to every SQL Server DBA including: securi
 #### SessionID: 59644
 # Intro to Azure Data Lake and U-SQL
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 11-02-2017 - Session time: 11:25:00 - Track: Analytics and Visualization
 ## Speaker: Julie Koesmarno
 ## Title: Intro to Azure Data Lake and U-SQL
 ## Abstract:
@@ -221,7 +221,7 @@ Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 56508
 # Oh, When did THAT change happen?
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 11-02-2017 - Session time: 14:05:00 - Track: Application  Database Development
 ## Speaker: Martin Catherall
 ## Title: Oh, When did THAT change happen?
 ## Abstract:
@@ -234,7 +234,7 @@ You should leave this session with a firm knowledge of which feature is right fo
 #### SessionID: 56684
 # Automate Data Warehouse build and deployment (db,SSIS  SSAS) with Visual Studio 2015 and TFS
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-02-2017 - Session time: 14:05:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Adam Gilmore
 ## Title: Automate Data Warehouse build and deployment (db,SSIS  SSAS) with Visual Studio 2015 and TFS
 ## Abstract:
@@ -256,7 +256,7 @@ Grab a free script at the end to get you started.
 #### SessionID: 56723
 # 2016 – The Rise and Fall of DBM
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-02-2017 - Session time: 14:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: 2016 – The Rise and Fall of DBM
 ## Abstract:
@@ -265,7 +265,7 @@ Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 57170
 # Making DevOps work in the wild...
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Strategy and Architecture
+Event Date: 11-02-2017 - Session time: 14:05:00 - Track: Strategy and Architecture
 ## Speaker: Hamish Watson
 ## Title: Making DevOps work in the wild...
 ## Abstract:
@@ -277,7 +277,7 @@ You will be able to take what you learned in this session and implement it succe
 #### SessionID: 57172
 # Adding Powershell to Your Skillset
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-02-2017 - Session time: 14:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Douglas
 ## Title: Adding Powershell to Your Skillset
 ## Abstract:
@@ -287,7 +287,7 @@ Most importantly - you'll learn how Powershell can make your job administering a
 #### SessionID: 57283
 # What's new in  Azure SQL DB and SQL engine
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Azure Services and Platform
+Event Date: 11-02-2017 - Session time: 14:05:00 - Track: Azure Services and Platform
 ## Speaker: Lindsey Allen
 ## Title: What's new in  Azure SQL DB and SQL engine
 ## Abstract:
@@ -296,7 +296,7 @@ Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Azure Services and Plat
 #### SessionID: 54458
 # Plan, Design and Implement a HADR Solution - a Journey
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-02-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Manohar Punna
 ## Title: Plan, Design and Implement a HADR Solution - a Journey
 ## Abstract:
@@ -308,7 +308,7 @@ I will start with the basic DR solution built using Log shipping, an alternate t
 #### SessionID: 56876
 # Database Administration for Azure SQL DB
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Azure Services and Platform
+Event Date: 11-02-2017 - Session time: 15:15:00 - Track: Azure Services and Platform
 ## Speaker: Martin Cairney
 ## Title: Database Administration for Azure SQL DB
 ## Abstract:
@@ -319,7 +319,7 @@ You will leave this session with a better story for your manager to convince him
 #### SessionID: 56963
 # SQL Server on Linux - The How, the What and the Why?
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-02-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: SQL Server on Linux - The How, the What and the Why?
 ## Abstract:
@@ -337,7 +337,7 @@ The presentation will be based around experience gained in evaluating the Public
 #### SessionID: 56973
 # Scalable Application Design with Service Broker
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 11-02-2017 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Allen White
 ## Title: Scalable Application Design with Service Broker
 ## Abstract:
@@ -346,7 +346,7 @@ Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 57167
 # Creating High Performance Tabular Models
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-02-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: James Beresford
 ## Title: Creating High Performance Tabular Models
 ## Abstract:
@@ -355,7 +355,7 @@ Event Date: 11-02-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 57240
 # Why your charts suck and how to fix them
 #### [Back to calendar](#nr-582)
-Event Date: 11-02-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 11-02-2017 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Darren Gosbell
 ## Title: Why your charts suck and how to fix them
 ## Abstract:

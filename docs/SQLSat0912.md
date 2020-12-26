@@ -81,7 +81,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 94495
 # Networking 101: Building professional relationships
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Personal / Professional Development
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Personal / Professional Development
 ## Speaker: Ray Kim
 ## Title: Networking 101: Building professional relationships
 ## Abstract:
@@ -92,7 +92,7 @@ In this interactive session, we will discuss networking — what it is, why it�
 #### SessionID: 94508
 # Building a modern data warehouse
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Ware House Development / ETL / SSIS
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Data Ware House Development / ETL / SSIS
 ## Speaker: James Serra
 ## Title: Building a modern data warehouse
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Ware House Develop
 #### SessionID: 94514
 # Creating efficient and effective SSRS BI Solutions
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Ware House Development / ETL / SSIS
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Data Ware House Development / ETL / SSIS
 ## Speaker: Steve Simon
 ## Title: Creating efficient and effective SSRS BI Solutions
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Ware House Develop
 #### SessionID: 94955
 # Using Extended Events to Build a Login Cube
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Ware House Development / ETL / SSIS
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Data Ware House Development / ETL / SSIS
 ## Speaker: George Walkey
 ## Title: Using Extended Events to Build a Login Cube
 ## Abstract:
@@ -122,7 +122,7 @@ This session touches on multiple advanced topics that you can use individually, 
 #### SessionID: 95078
 # Distributed Availability Groups - How to
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration / Infrastructure
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Database Administration / Infrastructure
 ## Speaker: Marcelo Adade
 ## Title: Distributed Availability Groups - How to
 ## Abstract:
@@ -131,7 +131,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration
 #### SessionID: 95484
 # CONVERT_IMPLICIT is a hidden danger
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Alex Grinberg
 ## Title: CONVERT_IMPLICIT is a hidden danger
 ## Abstract:
@@ -140,7 +140,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 95634
 # Intro to indexing for SQL writers
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Eric Blinn
 ## Title: Intro to indexing for SQL writers
 ## Abstract:
@@ -151,7 +151,7 @@ This class is designed for beginners and is designed to be very practical.  It w
 #### SessionID: 95674
 # Top Tips for Deploying AGs and FCIs On Premises or In the Cloud
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration / Infrastructure
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Database Administration / Infrastructure
 ## Speaker: Allan Hirt
 ## Title: Top Tips for Deploying AGs and FCIs On Premises or In the Cloud
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration
 #### SessionID: 95700
 # Effective Data Warehouse Storage Patterns
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: John Miner
 ## Title: Effective Data Warehouse Storage Patterns
 ## Abstract:
@@ -184,7 +184,7 @@ Techniques:
 #### SessionID: 95960
 # PowerBI and PowerApps Married at First Sight
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Visualization/BI/Reporting/Analytics
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Data Visualization/BI/Reporting/Analytics
 ## Speaker: Dan King
 ## Title: PowerBI and PowerApps Married at First Sight
 ## Abstract:
@@ -193,7 +193,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Visualization/BI/R
 #### SessionID: 96123
 # Keeping Your Data Secure In Azure While Automatically Refreshing Power BI Datasets
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data and the Cloud
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Data and the Cloud
 ## Speaker: Cornell Emile
 ## Title: Keeping Your Data Secure In Azure While Automatically Refreshing Power BI Datasets
 ## Abstract:
@@ -206,7 +206,7 @@ This advanced Power BI session presents several techniques that can be used to m
 #### SessionID: 96700
 # Code Like a Pirate ... Intro to R and Data Science Tools in MS
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Machine Learning / AI
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Machine Learning / AI
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Pirate ... Intro to R and Data Science Tools in MS
 ## Abstract:
@@ -230,7 +230,7 @@ The focus of the session will be primarily on the introduction to the R language
 #### SessionID: 94502
 # How to build your career
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Personal / Professional Development
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Personal / Professional Development
 ## Speaker: James Serra
 ## Title: How to build your career
 ## Abstract:
@@ -243,7 +243,7 @@ Your first step to enhancing your career will be to attend this session!  Let me
 #### SessionID: 94517
 # SQL Server Reporting Services 2017 on Steroids!!
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Visualization/BI/Reporting/Analytics
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Data Visualization/BI/Reporting/Analytics
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services 2017 on Steroids!!
 ## Abstract:
@@ -254,7 +254,7 @@ We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as
 #### SessionID: 94518
 # Networking 102: Getting Ready for a SQL Event
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Personal / Professional Development
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Personal / Professional Development
 ## Speaker: Matt Cushing
 ## Title: Networking 102: Getting Ready for a SQL Event
 ## Abstract:
@@ -265,7 +265,7 @@ In this session, we'll go over steps you can take before, during and after the e
 #### SessionID: 94536
 # Top FREE performance troubleshooting tools for SQL Server
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration / Infrastructure
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Database Administration / Infrastructure
 ## Speaker: Michelle Gutzait
 ## Title: Top FREE performance troubleshooting tools for SQL Server
 ## Abstract:
@@ -274,7 +274,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration
 #### SessionID: 94624
 # Azure SQL Managed Instances - A *mostly* full-featured SQL Server in the Cloud
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data and the Cloud
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Data and the Cloud
 ## Speaker: Chris Seferlis
 ## Title: Azure SQL Managed Instances - A *mostly* full-featured SQL Server in the Cloud
 ## Abstract:
@@ -283,7 +283,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data and the Cloud
 #### SessionID: 94719
 # SQL DevOps Simplified with Production Databases
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Paul Stanton
 ## Title: SQL DevOps Simplified with Production Databases
 ## Abstract:
@@ -292,7 +292,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 94725
 # Version control with GIT for the DBA
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Justin Dearing
 ## Title: Version control with GIT for the DBA
 ## Abstract:
@@ -313,7 +313,7 @@ We will be covering using git from both the command line and Visual Studio.
 #### SessionID: 94867
 # The DBA Quit and Now You're It: Action Plan
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration / Infrastructure
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Database Administration / Infrastructure
 ## Speaker: Matt Gordon
 ## Title: The DBA Quit and Now You're It: Action Plan
 ## Abstract:
@@ -322,7 +322,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration
 #### SessionID: 94953
 # Centralized Alert Dashboarding
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration / Infrastructure
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Database Administration / Infrastructure
 ## Speaker: George Walkey
 ## Title: Centralized Alert Dashboarding
 ## Abstract:
@@ -331,7 +331,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration
 #### SessionID: 95052
 # Why You Should Consider Implementing Indexed Views
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Alexander Fleming
 ## Title: Why You Should Consider Implementing Indexed Views
 ## Abstract:
@@ -340,7 +340,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 95861
 # Approaching Zero:  Minimizing Downtime During Deployments
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Approaching Zero:  Minimizing Downtime During Deployments
 ## Abstract:
@@ -349,7 +349,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 96701
 # Code Like a Snake Charmer - Intro to Python!
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Machine Learning / AI
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Machine Learning / AI
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Snake Charmer - Intro to Python!
 ## Abstract:
@@ -371,7 +371,7 @@ No prior statistics knowledge needed.
 #### SessionID: 99031
 # Running SQL Server on AWS
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data and the Cloud
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Data and the Cloud
 ## Speaker: Richard Waymire
 ## Title: Running SQL Server on AWS
 ## Abstract:
@@ -380,7 +380,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data and the Cloud
 #### SessionID: 94500
 # Tech Writing for Techies: A Primer
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Personal / Professional Development
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Personal / Professional Development
 ## Speaker: Ray Kim
 ## Title: Tech Writing for Techies: A Primer
 ## Abstract:
@@ -389,7 +389,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Personal / Professional
 #### SessionID: 94535
 # Implementing Security Standard Regulations in SQL Server  Azure
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Governance/Privacy/Auditing/Documentation
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Data Governance/Privacy/Auditing/Documentation
 ## Speaker: Michelle Gutzait
 ## Title: Implementing Security Standard Regulations in SQL Server  Azure
 ## Abstract:
@@ -398,7 +398,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Governance/Privacy
 #### SessionID: 94569
 # SQL Server in the Cloud: Microsoft Azure vs Amazon Web Services (AWS)
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data and the Cloud
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Data and the Cloud
 ## Speaker: Darius Liktorius
 ## Title: SQL Server in the Cloud: Microsoft Azure vs Amazon Web Services (AWS)
 ## Abstract:
@@ -407,7 +407,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data and the Cloud
 #### SessionID: 94809
 # PaaSport to Paradise: Lifting  Shifting with Azure SQL Database + SSIS in Azure Data Factory
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Ware House Development / ETL / SSIS
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Data Ware House Development / ETL / SSIS
 ## Speaker: Sandy Winarko
 ## Title: PaaSport to Paradise: Lifting  Shifting with Azure SQL Database + SSIS in Azure Data Factory
 ## Abstract:
@@ -416,7 +416,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Ware House Develop
 #### SessionID: 94898
 # Implementing ETL solution for incremental data load
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Visualization/BI/Reporting/Analytics
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Data Visualization/BI/Reporting/Analytics
 ## Speaker: Ganesh Lohani
 ## Title: Implementing ETL solution for incremental data load
 ## Abstract:
@@ -425,7 +425,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Visualization/BI/R
 #### SessionID: 95080
 # Linux Administration for SQL SERVER DBAs
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration / Infrastructure
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Database Administration / Infrastructure
 ## Speaker: Marcelo Adade
 ## Title: Linux Administration for SQL SERVER DBAs
 ## Abstract:
@@ -435,7 +435,7 @@ In this section let´s see how to perform the most common troubleshooting tasks,
 #### SessionID: 95548
 # New features in Management Studio  -- Performance Troubleshooting made easier!
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Tools  Utilities
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Tools  Utilities
 ## Speaker: Taiob Ali
 ## Title: New features in Management Studio  -- Performance Troubleshooting made easier!
 ## Abstract:
@@ -448,7 +448,7 @@ In this demo intensive session, I will show you how to find and use new features
 #### SessionID: 95675
 # Is Physical Still An Option for SQL Server Deployments?
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration / Infrastructure
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Database Administration / Infrastructure
 ## Speaker: Allan Hirt
 ## Title: Is Physical Still An Option for SQL Server Deployments?
 ## Abstract:
@@ -457,7 +457,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration
 #### SessionID: 96756
 # DataOps - Deploy SQL Server Databases Using Azure Pipelines
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Strategy and Architecture
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Strategy and Architecture
 ## Speaker: MIKE DONNELLY
 ## Title: DataOps - Deploy SQL Server Databases Using Azure Pipelines
 ## Abstract:
@@ -466,7 +466,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Strategy and Architectu
 #### SessionID: 98118
 # Improving Columnstore Load Scalability on Large Servers
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Joe Obbish
 ## Title: Improving Columnstore Load Scalability on Large Servers
 ## Abstract:
@@ -475,7 +475,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 98120
 # An Animated Look at Query Plans
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Forrest McDaniel
 ## Title: An Animated Look at Query Plans
 ## Abstract:
@@ -484,7 +484,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 98525
 # Introduction to GitHub
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Joshua Higginbotham
 ## Title: Introduction to GitHub
 ## Abstract:
@@ -497,7 +497,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 98114
 # Running Windows and SQL Workloads on Google Cloud Platform
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data and the Cloud
+Event Date: 05-10-2019 - Session time: 13:00:00 - Track: Data and the Cloud
 ## Speaker: Jay Rajendran
 ## Title: Running Windows and SQL Workloads on Google Cloud Platform
 ## Abstract:
@@ -506,7 +506,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data and the Cloud
 #### SessionID: 98688
 # Protecting Distributed and Legacy SQL-based Applications
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration / Infrastructure
+Event Date: 05-10-2019 - Session time: 13:00:00 - Track: Database Administration / Infrastructure
 ## Speaker: Neil Weicher
 ## Title: Protecting Distributed and Legacy SQL-based Applications
 ## Abstract:
@@ -516,7 +516,7 @@ However, what if you are, say, a commercial developer or device manufacturer wit
 #### SessionID: 99037
 # Data Governance Implications of the California Consumer Protectio
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Governance/Privacy/Auditing/Documentation
+Event Date: 05-10-2019 - Session time: 13:00:00 - Track: Data Governance/Privacy/Auditing/Documentation
 ## Speaker: Geoffrey Rayner
 ## Title: Data Governance Implications of the California Consumer Protectio
 ## Abstract:
@@ -525,7 +525,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Governance/Privacy
 #### SessionID: 99084
 # Myth Busters: the truth of what it’s like to be a woman in tech.
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: Myth Busters: the truth of what it’s like to be a woman in tech.
 ## Abstract:
@@ -534,7 +534,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 94503
 # Persistent Memory and Hybrid Buffer Pool - The good, bad and ugly
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration / Infrastructure
+Event Date: 05-10-2019 - Session time: 14:15:00 - Track: Database Administration / Infrastructure
 ## Speaker: Thomas Grohser
 ## Title: Persistent Memory and Hybrid Buffer Pool - The good, bad and ugly
 ## Abstract:
@@ -543,7 +543,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration
 #### SessionID: 94504
 # Exploring SQL Server containers on Docker  Kubernetes
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Strategy and Architecture
+Event Date: 05-10-2019 - Session time: 14:15:00 - Track: Strategy and Architecture
 ## Speaker: Carlos Robles
 ## Title: Exploring SQL Server containers on Docker  Kubernetes
 ## Abstract:
@@ -552,7 +552,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Strategy and Architectu
 #### SessionID: 94530
 # Organizational Security  Compliance with SQL 2012 through 2016/2017
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Governance/Privacy/Auditing/Documentation
+Event Date: 05-10-2019 - Session time: 14:15:00 - Track: Data Governance/Privacy/Auditing/Documentation
 ## Speaker: George Walters
 ## Title: Organizational Security  Compliance with SQL 2012 through 2016/2017
 ## Abstract:
@@ -561,7 +561,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Governance/Privacy
 #### SessionID: 94533
 # Predictive Analytics with R in Power BI
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Visualization/BI/Reporting/Analytics
+Event Date: 05-10-2019 - Session time: 14:15:00 - Track: Data Visualization/BI/Reporting/Analytics
 ## Speaker: Joseph Yeates
 ## Title: Predictive Analytics with R in Power BI
 ## Abstract:
@@ -570,7 +570,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Visualization/BI/R
 #### SessionID: 94576
 # Easing the pain of database migrations, a closer look at the new cloud citizen - DMS
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data and the Cloud
+Event Date: 05-10-2019 - Session time: 14:15:00 - Track: Data and the Cloud
 ## Speaker: Rune Ovlien Rakeie
 ## Title: Easing the pain of database migrations, a closer look at the new cloud citizen - DMS
 ## Abstract:
@@ -586,7 +586,7 @@ In this talk we will:
 #### SessionID: 94580
 # HOW TO TROUBLESHOOT DATABASE PERFORMANCE ISSUES
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration / Infrastructure
+Event Date: 05-10-2019 - Session time: 14:15:00 - Track: Database Administration / Infrastructure
 ## Speaker: Jean Joseph
 ## Title: HOW TO TROUBLESHOOT DATABASE PERFORMANCE ISSUES
 ## Abstract:
@@ -595,7 +595,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration
 #### SessionID: 94723
 # An Introduction to Always Encrypted
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Justin Dearing
 ## Title: An Introduction to Always Encrypted
 ## Abstract:
@@ -604,7 +604,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 94882
 # T-SQL Window Function Deep Dive
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: T-SQL Window Function Deep Dive
 ## Abstract:
@@ -617,7 +617,7 @@ You will also learn what you need to know to take full advantage of these featur
 #### SessionID: 95549
 # What is kusto query language?
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data and the Cloud
+Event Date: 05-10-2019 - Session time: 14:15:00 - Track: Data and the Cloud
 ## Speaker: Taiob Ali
 ## Title: What is kusto query language?
 ## Abstract:
@@ -628,7 +628,7 @@ I have invested a lot of effort and received expert advice from Microsoft Engine
 #### SessionID: 95862
 # Data Virtualization with PolyBase
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Data Virtualization with PolyBase
 ## Abstract:
@@ -637,7 +637,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 96294
 # Sharing and collaborating with your company through Tableau Server
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Visualization/BI/Reporting/Analytics
+Event Date: 05-10-2019 - Session time: 14:15:00 - Track: Data Visualization/BI/Reporting/Analytics
 ## Speaker: Nilton Kazuyuki Ueda
 ## Title: Sharing and collaborating with your company through Tableau Server
 ## Abstract:
@@ -665,7 +665,7 @@ Embedding Views
 #### SessionID: 96493
 # Level-up your Power BI Reports
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Visualization/BI/Reporting/Analytics
+Event Date: 05-10-2019 - Session time: 14:15:00 - Track: Data Visualization/BI/Reporting/Analytics
 ## Speaker: Cecilia Brusatori
 ## Title: Level-up your Power BI Reports
 ## Abstract:
@@ -675,7 +675,7 @@ This session is 100% demos: Shortcuts, visuals interactions, drilling down/up/th
 #### SessionID: 94621
 # PoC to Enterprise AI Application Designing using Cognitive Services
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Machine Learning / AI
+Event Date: 05-10-2019 - Session time: 15:30:00 - Track: Machine Learning / AI
 ## Speaker: Rahat Yasir
 ## Title: PoC to Enterprise AI Application Designing using Cognitive Services
 ## Abstract:
@@ -684,7 +684,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Machine Learning / AI
 #### SessionID: 94916
 # High Availability and Disaster Recovery for SQL Server in Azure IaaS
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration / Infrastructure
+Event Date: 05-10-2019 - Session time: 15:30:00 - Track: Database Administration / Infrastructure
 ## Speaker: David Bermingham
 ## Title: High Availability and Disaster Recovery for SQL Server in Azure IaaS
 ## Abstract:
@@ -697,7 +697,7 @@ Cloud  Datacenter MVP David Bermingham takes explains all this and more in the s
 #### SessionID: 95351
 # SQL Server Availability Groups for dummies
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Database Administration / Infrastructure
+Event Date: 05-10-2019 - Session time: 15:30:00 - Track: Database Administration / Infrastructure
 ## Speaker: Mark Broadbent
 ## Title: SQL Server Availability Groups for dummies
 ## Abstract:
@@ -712,7 +712,7 @@ If you want to finally get to grips with SQL Server Always On Availability Group
 #### SessionID: 95573
 # Power BI Live Data sets, Monitoring your key metrics
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Visualization/BI/Reporting/Analytics
+Event Date: 05-10-2019 - Session time: 15:30:00 - Track: Data Visualization/BI/Reporting/Analytics
 ## Speaker: Jens Vestergaard
 ## Title: Power BI Live Data sets, Monitoring your key metrics
 ## Abstract:
@@ -724,7 +724,7 @@ The session will be covering basic entry to best practices.
 #### SessionID: 95637
 # Will my workload run faster with In-Memory OLTP?
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Ned Otter
 ## Title: Will my workload run faster with In-Memory OLTP?
 ## Abstract:
@@ -739,7 +739,7 @@ We will lift the veil of confusion that surrounds this blazingly fast feature. B
 #### SessionID: 95702
 # How to audit and prevent unwanted user actions.
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: John Miner
 ## Title: How to audit and prevent unwanted user actions.
 ## Abstract:
@@ -762,7 +762,7 @@ Coverage:
 #### SessionID: 96020
 # How to automate row level security in Power BI using DAX and SSAS
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Visualization/BI/Reporting/Analytics
+Event Date: 05-10-2019 - Session time: 15:30:00 - Track: Data Visualization/BI/Reporting/Analytics
 ## Speaker: Ashwini Jain
 ## Title: How to automate row level security in Power BI using DAX and SSAS
 ## Abstract:
@@ -771,7 +771,7 @@ Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Data Visualization/BI/R
 #### SessionID: 99032
 # Building a proper indexing strategy
 #### [Back to calendar](#nr-912)
-Event Date: 05-10-2019 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Brandon Leach
 ## Title: Building a proper indexing strategy
 ## Abstract:

@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 62565
 # Zero to Microsoft Power BI
 #### [Back to calendar](#nr-630)
-Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 27-05-2017 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Peter Myers
 ## Title: Zero to Microsoft Power BI
 ## Abstract:
@@ -43,7 +43,7 @@ This workshop is suitable for a broad array of professionals, including business
 #### SessionID: 61718
 # Power BI for the Developer
 #### [Back to calendar](#nr-630)
-Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-05-2017 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Peter Myers
 ## Title: Power BI for the Developer
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 63325
 # Schroedinger’s Backup – will your recovery work?
 #### [Back to calendar](#nr-630)
-Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-05-2017 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: Schroedinger’s Backup – will your recovery work?
 ## Abstract:
@@ -65,7 +65,7 @@ In this session Patrick we will walk you through how to design,  create and test
 #### SessionID: 63484
 # Build your first Service Broker application
 #### [Back to calendar](#nr-630)
-Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 27-05-2017 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Martin Catherall
 ## Title: Build your first Service Broker application
 ## Abstract:
@@ -78,7 +78,7 @@ This session is aimed at people with little to no Service Broker knowledge and a
 #### SessionID: 61185
 # DevOPs and the DBA
 #### [Back to calendar](#nr-630)
-Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-05-2017 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamish Watson
 ## Title: DevOPs and the DBA
 ## Abstract:
@@ -96,7 +96,7 @@ Through the use of a comprehensive live demo to a running production database th
 #### SessionID: 61717
 # Reports on the Run: Mobile Reporting with SQL Server 2016
 #### [Back to calendar](#nr-630)
-Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 27-05-2017 - Session time: 11:00:00 - Track: BI Information Delivery
 ## Speaker: Peter Myers
 ## Title: Reports on the Run: Mobile Reporting with SQL Server 2016
 ## Abstract:
@@ -109,7 +109,7 @@ This session will be of interest to a full range of professionals, including ana
 #### SessionID: 63399
 # Security in Power BI; Everything You Need to Know
 #### [Back to calendar](#nr-630)
-Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-05-2017 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: Security in Power BI; Everything You Need to Know
 ## Abstract:
@@ -119,7 +119,7 @@ This is a demo-heavy session. Come and get answer to all your questions about Se
 #### SessionID: 61280
 # Power Query is more than just a desktop BI ETL tool
 #### [Back to calendar](#nr-630)
-Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-05-2017 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matt Allington
 ## Title: Power Query is more than just a desktop BI ETL tool
 ## Abstract:
@@ -133,7 +133,7 @@ Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 63374
 # On-premises Machine Learning : SQL Server 2016 with R
 #### [Back to calendar](#nr-630)
-Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
+Event Date: 27-05-2017 - Session time: 13:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Leila Etaati
 ## Title: On-premises Machine Learning : SQL Server 2016 with R
 ## Abstract:
@@ -142,7 +142,7 @@ Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 63457
 # Azure Database Migration – Choosing the Right Tier
 #### [Back to calendar](#nr-630)
-Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 27-05-2017 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Manohar Punna
 ## Title: Azure Database Migration – Choosing the Right Tier
 ## Abstract:
@@ -153,7 +153,7 @@ In this session, I will walk you through the steps involved in analyzing the res
 #### SessionID: 61267
 # SQL Server 2016: It Just Runs FASTER!
 #### [Back to calendar](#nr-630)
-Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-05-2017 - Session time: 14:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Victor Isakov
 ## Title: SQL Server 2016: It Just Runs FASTER!
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 63113
 # Visual Studio SQL Server Database Projects and integrating into VSTS
 #### [Back to calendar](#nr-630)
-Event Date: 27-05-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 27-05-2017 - Session time: 14:50:00 - Track: Application  Database Development
 ## Speaker: Craig Bryden
 ## Title: Visual Studio SQL Server Database Projects and integrating into VSTS
 ## Abstract:
@@ -173,7 +173,7 @@ In this session, I will demonstrate how to use SQL Server Database Projects, dis
 #### SessionID: 63401
 # Data Preparation is the Keystone; Power Query is Building Block
 #### [Back to calendar](#nr-630)
-Event Date: 27-05-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-05-2017 - Session time: 14:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: Data Preparation is the Keystone; Power Query is Building Block
 ## Abstract:

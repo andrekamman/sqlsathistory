@@ -49,7 +49,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 80044
 # Patterns for Managing Your Career Learning Needs
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 09-06-2018 - Session time: 09:45:00 - Track: Professional Development
 ## Speaker: Andy Warren
 ## Title: Patterns for Managing Your Career Learning Needs
 ## Abstract:
@@ -62,7 +62,7 @@ Attendees - bring your lists. Bring the list of stuff of you want to learn or th
 #### SessionID: 80388
 # Populating a Data Warehouse with SSIS and Biml Patterns
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 09-06-2018 - Session time: 09:45:00 - Track: Business Intelligence
 ## Speaker: Jim Miller
 ## Title: Populating a Data Warehouse with SSIS and Biml Patterns
 ## Abstract:
@@ -72,7 +72,7 @@ Attend to see how Biml can revolutionize your SSIS development!
 #### SessionID: 82157
 # Data Science: Supervised and Unsupervised machine learning
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Data Science
+Event Date: 09-06-2018 - Session time: 09:45:00 - Track: Data Science
 ## Speaker: Josh Kodi
 ## Title: Data Science: Supervised and Unsupervised machine learning
 ## Abstract:
@@ -85,7 +85,7 @@ The session includes theory around each of the technique as well as a demo using
 #### SessionID: 82253
 # I know what you did last transaction: Auditing using CDC, Temporal Tables and Triggers
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DevOps
+Event Date: 09-06-2018 - Session time: 09:45:00 - Track: DevOps
 ## Speaker: Eric Berkowitz
 ## Title: I know what you did last transaction: Auditing using CDC, Temporal Tables and Triggers
 ## Abstract:
@@ -94,7 +94,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DevOps
 #### SessionID: 82334
 # Intro into SQL Server High Availability Technologies
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Beginners
+Event Date: 09-06-2018 - Session time: 09:45:00 - Track: DBA Beginners
 ## Speaker: Harold Velazquez
 ## Title: Intro into SQL Server High Availability Technologies
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Beginners
 #### SessionID: 82335
 # Cautionary Tale of Recompilations, Excessive CPU Load and Plan Caching
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Advanced
+Event Date: 09-06-2018 - Session time: 09:45:00 - Track: DBA Advanced
 ## Speaker: Dmitri Korotkevitch
 ## Title: Cautionary Tale of Recompilations, Excessive CPU Load and Plan Caching
 ## Abstract:
@@ -114,7 +114,7 @@ In this session, Dmitri will explain how plan caching works internally and demon
 #### SessionID: 82371
 # Advancements in Azure Database
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Azure Cloud
+Event Date: 09-06-2018 - Session time: 09:45:00 - Track: Azure Cloud
 ## Speaker: Pankaj Satyaketu
 ## Title: Advancements in Azure Database
 ## Abstract:
@@ -125,7 +125,7 @@ I will wrap up the session with an overview of the shifting responsibilities of 
 #### SessionID: 82428
 # Making Sense of the Power BI Ecosystem
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 09-06-2018 - Session time: 09:45:00 - Track: Analytics and Visualization
 ## Speaker: Dustin Ryan
 ## Title: Making Sense of the Power BI Ecosystem
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 74492
 # Eyes on the Prize:  Simple and Effective Dashboard Visualization Techniques
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 09-06-2018 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Eyes on the Prize:  Simple and Effective Dashboard Visualization Techniques
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 77085
 # Blockchain - A Database Architecture Paradigm Shift
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Beginners
+Event Date: 09-06-2018 - Session time: 11:00:00 - Track: DBA Beginners
 ## Speaker: Joe Homnick
 ## Title: Blockchain - A Database Architecture Paradigm Shift
 ## Abstract:
@@ -156,7 +156,7 @@ Joe will also investigate new toolsets coming out to assist in Blockchain Develo
 #### SessionID: 80883
 # Indexing for performance
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Advanced
+Event Date: 09-06-2018 - Session time: 11:00:00 - Track: DBA Advanced
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
 ## Abstract:
@@ -165,7 +165,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Advanced
 #### SessionID: 81988
 # Performance Tuning for the BI Professional
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 09-06-2018 - Session time: 11:00:00 - Track: Business Intelligence
 ## Speaker: Jonathan Stewart
 ## Title: Performance Tuning for the BI Professional
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 82016
 # Fundamentals That Will Improve Your Query Performance!
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DevOps
+Event Date: 09-06-2018 - Session time: 11:00:00 - Track: DevOps
 ## Speaker: John Wells
 ## Title: Fundamentals That Will Improve Your Query Performance!
 ## Abstract:
@@ -183,7 +183,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DevOps
 #### SessionID: 82296
 # Migrate your On-Prem Database to Azure SQL Database
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Azure Cloud
+Event Date: 09-06-2018 - Session time: 11:00:00 - Track: Azure Cloud
 ## Speaker: Joe Abbott
 ## Title: Migrate your On-Prem Database to Azure SQL Database
 ## Abstract:
@@ -192,7 +192,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Azure Cloud
 #### SessionID: 82472
 # Applied Machine Learning with Python
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Data Science
+Event Date: 09-06-2018 - Session time: 11:00:00 - Track: Data Science
 ## Speaker: Adriano da Silva
 ## Title: Applied Machine Learning with Python
 ## Abstract:
@@ -205,7 +205,7 @@ Most importantly, those examples are designed in a manner that are easy to under
 #### SessionID: 82544
 # Career Panel - What You Need To Know
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 09-06-2018 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Adam Weiss
 ## Title: Career Panel - What You Need To Know
 ## Abstract:
@@ -216,7 +216,7 @@ In this career panel we will dig into the manager / candidate gap that is promin
 #### SessionID: 83049
 # DataGrip IDE: How your tool can help writing SQL
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DevOps
+Event Date: 09-06-2018 - Session time: 11:00:00 - Track: DevOps
 ## Speaker: Maxim Sobolevskiy
 ## Title: DataGrip IDE: How your tool can help writing SQL
 ## Abstract:
@@ -233,7 +233,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DevOps
 #### SessionID: 83515
 # Using PowerBi to troubleshoot SQL Server instances
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Advanced
+Event Date: 09-06-2018 - Session time: 11:00:00 - Track: DBA Advanced
 ## Speaker: Sam Mesel
 ## Title: Using PowerBi to troubleshoot SQL Server instances
 ## Abstract:
@@ -244,7 +244,7 @@ Disclaimer: Demo filled session, few slides
 #### SessionID: 77077
 # For Love or Money, Your Tech Career
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 09-06-2018 - Session time: 12:30:00 - Track: Professional Development
 ## Speaker: Alex Funkhouser
 ## Title: For Love or Money, Your Tech Career
 ## Abstract:
@@ -257,7 +257,7 @@ In this highly interactive group session, you will learn multiple career strateg
 #### SessionID: 82169
 # Dell: #GetModern with Dell EMC
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DevOps
+Event Date: 09-06-2018 - Session time: 12:30:00 - Track: DevOps
 ## Speaker: Dominick DeQuarto
 ## Title: Dell: #GetModern with Dell EMC
 ## Abstract:
@@ -266,7 +266,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DevOps
 #### SessionID: 83381
 # Database Backup and Restore Best Practices
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Beginners
+Event Date: 09-06-2018 - Session time: 12:30:00 - Track: DBA Beginners
 ## Speaker: Michael Fal
 ## Title: Database Backup and Restore Best Practices
 ## Abstract:
@@ -275,7 +275,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Beginners
 #### SessionID: 74493
 # Much Ado About Hadoop
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 09-06-2018 - Session time: 13:30:00 - Track: Business Intelligence
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
 ## Abstract:
@@ -284,7 +284,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 74503
 # Brand yourself like a pro 2.0 "How to tell the story"
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 09-06-2018 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Patricia Monica Ojeda
 ## Title: Brand yourself like a pro 2.0 "How to tell the story"
 ## Abstract:
@@ -295,7 +295,7 @@ In this interactive session, you will learn how to use Social Media to create yo
 #### SessionID: 74598
 # Hack / Protect / Predict SQL Server - Come learn them.
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Advanced
+Event Date: 09-06-2018 - Session time: 13:30:00 - Track: DBA Advanced
 ## Speaker: Hiram Fleitas
 ## Title: Hack / Protect / Predict SQL Server - Come learn them.
 ## Abstract:
@@ -317,7 +317,7 @@ Looking forward to meeting you all.
 #### SessionID: 74633
 # Getting started with SQL Azure Database: What you need to know
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 09-06-2018 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Donahoe
 ## Title: Getting started with SQL Azure Database: What you need to know
 ## Abstract:
@@ -328,7 +328,7 @@ By the end of this presentation, you’ll understand if Azure SQL Database is th
 #### SessionID: 80493
 # Improve Your Knowledge of the Optimizer and Statistics!
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Beginners
+Event Date: 09-06-2018 - Session time: 13:30:00 - Track: DBA Beginners
 ## Speaker: Julie McLain-Harper
 ## Title: Improve Your Knowledge of the Optimizer and Statistics!
 ## Abstract:
@@ -337,7 +337,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Beginners
 #### SessionID: 82236
 # Quick and Dirty Push Datasets with Power BI
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 09-06-2018 - Session time: 13:30:00 - Track: Analytics and Visualization
 ## Speaker: Gary Lock
 ## Title: Quick and Dirty Push Datasets with Power BI
 ## Abstract:
@@ -350,7 +350,7 @@ In this session, I walk through the different options for real-time streaming in
 #### SessionID: 82290
 # Adaptive Query Processing in SQL 2017 and Azure SQL Database
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Advanced
+Event Date: 09-06-2018 - Session time: 13:30:00 - Track: DBA Advanced
 ## Speaker: Sherwin Anderson
 ## Title: Adaptive Query Processing in SQL 2017 and Azure SQL Database
 ## Abstract:
@@ -361,7 +361,7 @@ Come see how you can benefit from a self-learning artificial intelligent databas
 #### SessionID: 82556
 # The building blocks of Azure Databricks
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 09-06-2018 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Diana Betancourt
 ## Title: The building blocks of Azure Databricks
 ## Abstract:
@@ -370,7 +370,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 74488
 # Are They Hearing What You Said - or Something Completely Different?!
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 09-06-2018 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Brad Raney
 ## Title: Are They Hearing What You Said - or Something Completely Different?!
 ## Abstract:
@@ -382,7 +382,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 74490
 # APPLY Yourself
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DevOps
+Event Date: 09-06-2018 - Session time: 14:45:00 - Track: DevOps
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
 ## Abstract:
@@ -391,7 +391,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DevOps
 #### SessionID: 78565
 # Temporal Tables:  Creation, Use, and Optimizing
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Beginners
+Event Date: 09-06-2018 - Session time: 14:45:00 - Track: DBA Beginners
 ## Speaker: Dale Sullenberger
 ## Title: Temporal Tables:  Creation, Use, and Optimizing
 ## Abstract:
@@ -400,7 +400,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Beginners
 #### SessionID: 80079
 # Introduction to IoT using Azure
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Azure Cloud
+Event Date: 09-06-2018 - Session time: 14:45:00 - Track: Azure Cloud
 ## Speaker: John Wang
 ## Title: Introduction to IoT using Azure
 ## Abstract:
@@ -410,7 +410,7 @@ We will take an look on what is Internet of Things (IoT), the impact of IoT to t
 #### SessionID: 80932
 # Modis and R
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Data Science
+Event Date: 09-06-2018 - Session time: 14:45:00 - Track: Data Science
 ## Speaker: Stephen Ippolito
 ## Title: Modis and R
 ## Abstract:
@@ -419,7 +419,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Data Science
 #### SessionID: 81990
 # Data Visualization: How to truly tell a great story!
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 09-06-2018 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization: How to truly tell a great story!
 ## Abstract:
@@ -428,7 +428,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 82017
 # “The Modern Data Architecture: Business Intelligence (BI) and Big Data Management Systems (BDMS)”
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 09-06-2018 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Frank Quintana
 ## Title: “The Modern Data Architecture: Business Intelligence (BI) and Big Data Management Systems (BDMS)”
 ## Abstract:
@@ -439,7 +439,7 @@ I also intend to present a general description of the techniques and tools used 
 #### SessionID: 82460
 # SQL Server Query Plans - Journeyman and Beyond
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Advanced
+Event Date: 09-06-2018 - Session time: 14:45:00 - Track: DBA Advanced
 ## Speaker: Ernest Libertucci
 ## Title: SQL Server Query Plans - Journeyman and Beyond
 ## Abstract:
@@ -448,7 +448,7 @@ Event Date: 09-06-2018 - Session time: 16:00:00 - Track: DBA Advanced
 #### SessionID: 83520
 # Artificial Intelligence, Cognitive Services, and Power BI
 #### [Back to calendar](#nr-755)
-Event Date: 09-06-2018 - Session time: 16:00:00 - Track: Data Science
+Event Date: 09-06-2018 - Session time: 14:45:00 - Track: Data Science
 ## Speaker: Paco Gonzalez
 ## Title: Artificial Intelligence, Cognitive Services, and Power BI
 ## Abstract:

@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 100909
 # Database CI/CD with Containers and Azure DevOps
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Data Platform
+Event Date: 26-09-2020 - Session time: 09:30:00 - Track: Data Platform
 ## Speaker: Chris Taylor
 ## Title: Database CI/CD with Containers and Azure DevOps
 ## Abstract:
@@ -52,7 +52,7 @@ To get the most out of this session a basic understanding of what Docker/Contain
 #### SessionID: 101013
 # Common Data Service, why is it not common yet?
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
+Event Date: 26-09-2020 - Session time: 09:30:00 - Track: Azure BI
 ## Speaker: Hylke Peek
 ## Title: Common Data Service, why is it not common yet?
 ## Abstract:
@@ -63,7 +63,7 @@ In this session, we have a good look at CDS and find his strengths and weaknesse
 #### SessionID: 101154
 # A Form, a Flow and a Power BI Streaming Dataset Walk Into a Bar
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Power BI
+Event Date: 26-09-2020 - Session time: 09:30:00 - Track: Power BI
 ## Speaker: Nicky van Vroenhoven
 ## Title: A Form, a Flow and a Power BI Streaming Dataset Walk Into a Bar
 ## Abstract:
@@ -80,7 +80,7 @@ But as I work with the Power Platform suite of products I thought it was a good 
 #### SessionID: 101752
 # Easing the pain of database migrations to the cloud - Planning, process and great tools!
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Cloud Development
+Event Date: 26-09-2020 - Session time: 09:30:00 - Track: Cloud Development
 ## Speaker: Rune Ovlien Rakeie
 ## Title: Easing the pain of database migrations to the cloud - Planning, process and great tools!
 ## Abstract:
@@ -95,7 +95,7 @@ In this talk we will:
 #### SessionID: 107520
 # How does Azure Cosmos DB work under the hood?
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure DB
+Event Date: 26-09-2020 - Session time: 09:30:00 - Track: Azure DB
 ## Speaker: Hasan Savran
 ## Title: How does Azure Cosmos DB work under the hood?
 ## Abstract:
@@ -105,7 +105,7 @@ Learning new technologies make you a better leader and collaborator. Join me to 
 #### SessionID: 100922
 # Creating an modern data platform in the cloud
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
+Event Date: 26-09-2020 - Session time: 10:45:00 - Track: Azure BI
 ## Speaker: Johan Ludvig Brattås
 ## Title: Creating an modern data platform in the cloud
 ## Abstract:
@@ -114,7 +114,7 @@ Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
 #### SessionID: 100954
 # Azure DevOps duet (90 minutes version)
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Cloud Development
+Event Date: 26-09-2020 - Session time: 10:45:00 - Track: Cloud Development
 ## Speaker: Kevin Chant
 ## Title: Azure DevOps duet (90 minutes version)
 ## Abstract:
@@ -135,7 +135,7 @@ After this session you will have the tools and knowledge to get started with Dev
 #### SessionID: 100964
 # Analyze and solve common wait stats scenarios
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Data Platform
+Event Date: 26-09-2020 - Session time: 10:45:00 - Track: Data Platform
 ## Speaker: Uwe Ricken
 ## Title: Analyze and solve common wait stats scenarios
 ## Abstract:
@@ -149,7 +149,7 @@ Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Data Platform
 #### SessionID: 102502
 # How to get the most from Azure SQL Database
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure DB
+Event Date: 26-09-2020 - Session time: 10:45:00 - Track: Azure DB
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: How to get the most from Azure SQL Database
 ## Abstract:
@@ -160,7 +160,7 @@ We will also see some ways to lower the costs or increase performance without ha
 #### SessionID: 103284
 # Datastorytelling  Visualization Best Practices with PowerBi
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Power BI
+Event Date: 26-09-2020 - Session time: 10:45:00 - Track: Power BI
 ## Speaker: Lorenzo Vercellati
 ## Title: Datastorytelling  Visualization Best Practices with PowerBi
 ## Abstract:
@@ -169,7 +169,7 @@ Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Power BI
 #### SessionID: 100917
 # Getting Started with Azure SQL Database
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure DB
+Event Date: 26-09-2020 - Session time: 12:00:00 - Track: Azure DB
 ## Speaker: John Martin
 ## Title: Getting Started with Azure SQL Database
 ## Abstract:
@@ -180,7 +180,7 @@ In this session I will explain the differences between SQL Database, Managed Ins
 #### SessionID: 101562
 # What's New in Tabular Editor
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
+Event Date: 26-09-2020 - Session time: 12:00:00 - Track: Azure BI
 ## Speaker: Daniel Otykier
 ## Title: What's New in Tabular Editor
 ## Abstract:
@@ -189,7 +189,7 @@ Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
 #### SessionID: 101943
 # What's Going On in My Power BI Environment?
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Power BI
+Event Date: 26-09-2020 - Session time: 12:00:00 - Track: Power BI
 ## Speaker: Asgeir Gunnarsson
 ## Title: What's Going On in My Power BI Environment?
 ## Abstract:
@@ -200,7 +200,7 @@ In this session, we will look at how you can find those answers by monitoring Po
 #### SessionID: 107537
 # The Battle of Modern Data Architectures: Databricks vs Synapse vs ADF
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Data Platform
+Event Date: 26-09-2020 - Session time: 12:00:00 - Track: Data Platform
 ## Speaker: Dave Ruijter
 ## Title: The Battle of Modern Data Architectures: Databricks vs Synapse vs ADF
 ## Abstract:
@@ -209,7 +209,7 @@ Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Data Platform
 #### SessionID: 100916
 # Infrastructure as Code: An Introduction to Terraform
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Cloud Development
+Event Date: 26-09-2020 - Session time: 13:15:00 - Track: Cloud Development
 ## Speaker: John Martin
 ## Title: Infrastructure as Code: An Introduction to Terraform
 ## Abstract:
@@ -220,7 +220,7 @@ Together we will work through the what, why, and how of infrastructure automatio
 #### SessionID: 102871
 # Power BI Paginated Reports - How to and why should I care
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Power BI
+Event Date: 26-09-2020 - Session time: 13:15:00 - Track: Power BI
 ## Speaker: Erik Svensen
 ## Title: Power BI Paginated Reports - How to and why should I care
 ## Abstract:
@@ -233,7 +233,7 @@ I will also show how you can use paginated reports without having a Power BI pre
 #### SessionID: 107465
 # Continuous Integration for the BI Developer
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
+Event Date: 26-09-2020 - Session time: 13:15:00 - Track: Azure BI
 ## Speaker: Wolfgang Strasser
 ## Title: Continuous Integration for the BI Developer
 ## Abstract:
@@ -245,7 +245,7 @@ After this 60 minutes you'll have the guidelines and some ideas how easy it is t
 #### SessionID: 107466
 # Azure SQL || SQL Server || Which one is right for me?
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure DB
+Event Date: 26-09-2020 - Session time: 13:15:00 - Track: Azure DB
 ## Speaker: Tariq Younas
 ## Title: Azure SQL || SQL Server || Which one is right for me?
 ## Abstract:
@@ -254,7 +254,7 @@ Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure DB
 #### SessionID: 107510
 # From SQL to R – Leverage Your T-SQL Knowledge to Learn R
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Data Platform
+Event Date: 26-09-2020 - Session time: 13:15:00 - Track: Data Platform
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: From SQL to R – Leverage Your T-SQL Knowledge to Learn R
 ## Abstract:
@@ -264,7 +264,7 @@ This session will kick you off to the new language by using analogies from T-SQL
 #### SessionID: 101091
 # Introduction to building Machine Learning pipelines and models using ML.NET
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Cloud Development
+Event Date: 26-09-2020 - Session time: 14:30:00 - Track: Cloud Development
 ## Speaker: Will Velida
 ## Title: Introduction to building Machine Learning pipelines and models using ML.NET
 ## Abstract:
@@ -279,7 +279,7 @@ By the end of the session, you'll know how you can leverage your existing C# ski
 #### SessionID: 101322
 # Why Synapse Analytics is beyond Azure SQL Datawarehouse
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
+Event Date: 26-09-2020 - Session time: 14:30:00 - Track: Azure BI
 ## Speaker: Dennes Torres
 ## Title: Why Synapse Analytics is beyond Azure SQL Datawarehouse
 ## Abstract:
@@ -288,7 +288,7 @@ Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure BI
 #### SessionID: 103577
 # SQL Notebooks in Azure Data Studio for the DBA
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Azure DB
+Event Date: 26-09-2020 - Session time: 14:30:00 - Track: Azure DB
 ## Speaker: Rob Sewell
 ## Title: SQL Notebooks in Azure Data Studio for the DBA
 ## Abstract:
@@ -305,7 +305,7 @@ Prerequisites: Not having pogonophobia
 #### SessionID: 107523
 # Azure Key Vault, Azure Dev Ops and Data Factory how do these Azur
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Data Platform
+Event Date: 26-09-2020 - Session time: 14:30:00 - Track: Data Platform
 ## Speaker: Erwin De Kreuk
 ## Title: Azure Key Vault, Azure Dev Ops and Data Factory how do these Azur
 ## Abstract:
@@ -316,7 +316,7 @@ During this session I will give answers on all of these questions. You will lear
 #### SessionID: 107536
 # Using calculation groups in DAX
 #### [Back to calendar](#nr-963)
-Event Date: 26-09-2020 - Session time: 15:45:00 - Track: Power BI
+Event Date: 26-09-2020 - Session time: 14:30:00 - Track: Power BI
 ## Speaker: Marco Russo
 ## Title: Using calculation groups in DAX
 ## Abstract:

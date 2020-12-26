@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 38183
 # Usage of R in SQL Server for better data understanding
 #### [Back to calendar](#nr-454)
-Event Date: 10-10-2015 - Session time: 16:15:00 - Track: BI  Analytics
+Event Date: 10-10-2015 - Session time: 10:00:00 - Track: BI  Analytics
 ## Speaker: Tomaž Kaštrun
 ## Title: Usage of R in SQL Server for better data understanding
 ## Abstract:
@@ -36,7 +36,7 @@ Event Date: 10-10-2015 - Session time: 16:15:00 - Track: BI  Analytics
 #### SessionID: 38686
 # Azure Sql DataWarehouse - The First cloud enterprise solution for MPP
 #### [Back to calendar](#nr-454)
-Event Date: 10-10-2015 - Session time: 16:15:00 - Track: Azure Data Platform
+Event Date: 10-10-2015 - Session time: 10:00:00 - Track: Azure Data Platform
 ## Speaker: Luca Ferrari
 ## Title: Azure Sql DataWarehouse - The First cloud enterprise solution for MPP
 ## Abstract:
@@ -47,7 +47,7 @@ Data warehouses require fixed combinations of storage and compute, often underut
 #### SessionID: 40247
 # Power BI Architecture
 #### [Back to calendar](#nr-454)
-Event Date: 10-10-2015 - Session time: 16:15:00 - Track: Power BI
+Event Date: 10-10-2015 - Session time: 10:00:00 - Track: Power BI
 ## Speaker: Alberto Ferrari
 ## Title: Power BI Architecture
 ## Abstract:
@@ -56,7 +56,7 @@ Event Date: 10-10-2015 - Session time: 16:15:00 - Track: Power BI
 #### SessionID: 40259
 # New Security Features in SQL Server 2016
 #### [Back to calendar](#nr-454)
-Event Date: 10-10-2015 - Session time: 16:15:00 - Track: SQL Server 2016
+Event Date: 10-10-2015 - Session time: 10:00:00 - Track: SQL Server 2016
 ## Speaker: Gianluca Sartori
 ## Title: New Security Features in SQL Server 2016
 ## Abstract:
@@ -70,7 +70,7 @@ We will demonstrate the use of these three features with example applications an
 #### SessionID: 37977
 # Polybase In SQL Server 2016
 #### [Back to calendar](#nr-454)
-Event Date: 10-10-2015 - Session time: 16:15:00 - Track: SQL Server 2016
+Event Date: 10-10-2015 - Session time: 11:30:00 - Track: SQL Server 2016
 ## Speaker: Alessandro Rezzani
 ## Title: Polybase In SQL Server 2016
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 10-10-2015 - Session time: 16:15:00 - Track: SQL Server 2016
 #### SessionID: 40248
 # Power BI Desktop
 #### [Back to calendar](#nr-454)
-Event Date: 10-10-2015 - Session time: 16:15:00 - Track: Power BI
+Event Date: 10-10-2015 - Session time: 11:30:00 - Track: Power BI
 ## Speaker: Alberto Ferrari
 ## Title: Power BI Desktop
 ## Abstract:
@@ -90,7 +90,7 @@ In this session we will provide a deep dive in the new tool, highlighting the mo
 #### SessionID: 40418
 # AzureML - A full journey
 #### [Back to calendar](#nr-454)
-Event Date: 10-10-2015 - Session time: 16:15:00 - Track: BI  Analytics
+Event Date: 10-10-2015 - Session time: 11:30:00 - Track: BI  Analytics
 ## Speaker: Davide Mauri
 ## Title: AzureML - A full journey
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 10-10-2015 - Session time: 16:15:00 - Track: BI  Analytics
 #### SessionID: 40970
 # A lap around Azure Data Factory
 #### [Back to calendar](#nr-454)
-Event Date: 10-10-2015 - Session time: 16:15:00 - Track: Azure Data Platform
+Event Date: 10-10-2015 - Session time: 11:30:00 - Track: Azure Data Platform
 ## Speaker: Francesco Diaz
 ## Title: A lap around Azure Data Factory
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 10-10-2015 - Session time: 16:15:00 - Track: Azure Data Platform
 #### SessionID: 38382
 # Analyzing Text with SQL Server, R, and Azure ML
 #### [Back to calendar](#nr-454)
-Event Date: 10-10-2015 - Session time: 16:15:00 - Track: BI  Analytics
+Event Date: 10-10-2015 - Session time: 13:30:00 - Track: BI  Analytics
 ## Speaker: Dejan Sarka
 ## Title: Analyzing Text with SQL Server, R, and Azure ML
 ## Abstract:
@@ -117,7 +117,7 @@ Event Date: 10-10-2015 - Session time: 16:15:00 - Track: BI  Analytics
 #### SessionID: 38387
 # Data Management Gateway Deep Dive
 #### [Back to calendar](#nr-454)
-Event Date: 10-10-2015 - Session time: 16:15:00 - Track: Power BI
+Event Date: 10-10-2015 - Session time: 13:30:00 - Track: Power BI
 ## Speaker: Jean-Pierre Riehl
 ## Title: Data Management Gateway Deep Dive
 ## Abstract:
@@ -128,7 +128,7 @@ How does it work ? Security, Firewall, Certificates,  Multiple gateways, Admin d
 #### SessionID: 39924
 # SQL Server 2016 native JSON support
 #### [Back to calendar](#nr-454)
-Event Date: 10-10-2015 - Session time: 16:15:00 - Track: SQL Server 2016
+Event Date: 10-10-2015 - Session time: 13:30:00 - Track: SQL Server 2016
 ## Speaker: Alessandro Alpi
 ## Title: SQL Server 2016 native JSON support
 ## Abstract:
@@ -137,7 +137,7 @@ Event Date: 10-10-2015 - Session time: 16:15:00 - Track: SQL Server 2016
 #### SessionID: 40266
 # Implementing and Maintaining an Azure SQL Database project
 #### [Back to calendar](#nr-454)
-Event Date: 10-10-2015 - Session time: 16:15:00 - Track: Azure Data Platform
+Event Date: 10-10-2015 - Session time: 13:30:00 - Track: Azure Data Platform
 ## Speaker: Emanuele Zanchettin
 ## Title: Implementing and Maintaining an Azure SQL Database project
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 10-10-2015 - Session time: 16:15:00 - Track: Azure Data Platform
 #### SessionID: 38634
 # Automating the testing of your BI solutions with NBi
 #### [Back to calendar](#nr-454)
-Event Date: 10-10-2015 - Session time: 16:15:00 - Track: BI  Analytics
+Event Date: 10-10-2015 - Session time: 14:45:00 - Track: BI  Analytics
 ## Speaker: Cédric Charlier
 ## Title: Automating the testing of your BI solutions with NBi
 ## Abstract:
@@ -155,7 +155,7 @@ Event Date: 10-10-2015 - Session time: 16:15:00 - Track: BI  Analytics
 #### SessionID: 38800
 # SQL Server 2016 - Temporal Data Tables (System-Versioned)
 #### [Back to calendar](#nr-454)
-Event Date: 10-10-2015 - Session time: 16:15:00 - Track: SQL Server 2016
+Event Date: 10-10-2015 - Session time: 14:45:00 - Track: SQL Server 2016
 ## Speaker: Kenneth Nielsen
 ## Title: SQL Server 2016 - Temporal Data Tables (System-Versioned)
 ## Abstract:
@@ -169,7 +169,7 @@ There will be many demo's and script will be shown and shared.
 #### SessionID: 40239
 # Azure Stream Analytics
 #### [Back to calendar](#nr-454)
-Event Date: 10-10-2015 - Session time: 16:15:00 - Track: Azure Data Platform
+Event Date: 10-10-2015 - Session time: 14:45:00 - Track: Azure Data Platform
 ## Speaker: Marco Parenzan
 ## Title: Azure Stream Analytics
 ## Abstract:
@@ -178,7 +178,7 @@ Event Date: 10-10-2015 - Session time: 16:15:00 - Track: Azure Data Platform
 #### SessionID: 40255
 # Power Query
 #### [Back to calendar](#nr-454)
-Event Date: 10-10-2015 - Session time: 16:15:00 - Track: Power BI
+Event Date: 10-10-2015 - Session time: 14:45:00 - Track: Power BI
 ## Speaker: Marco Russo
 ## Title: Power Query
 ## Abstract:

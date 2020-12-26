@@ -19,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 56814
 # Azure Data Lake, le big data 2.0
 #### [Back to calendar](#nr-591)
-Event Date: 18-03-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-03-2017 - Session time: 08:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jean-Pierre Riehl
 ## Title: Azure Data Lake, le big data 2.0
 ## Abstract:
@@ -30,7 +30,7 @@ ADL, concrètement, c'est quoi ? C'est la possibilité de stocker et analyser un
 #### SessionID: 61291
 # Dashboard in a day
 #### [Back to calendar](#nr-591)
-Event Date: 18-03-2017 - Session time: 15:45:00 - Track: Power BI (Dashboard in a day)
+Event Date: 18-03-2017 - Session time: 08:45:00 - Track: Power BI (Dashboard in a day)
 ## Speaker: Sophie Marchand
 ## Title: Dashboard in a day
 ## Abstract:
@@ -39,7 +39,7 @@ Event Date: 18-03-2017 - Session time: 15:45:00 - Track: Power BI (Dashboard in 
 #### SessionID: 55099
 # Azure SQL Database - Managing your database on the cloud
 #### [Back to calendar](#nr-591)
-Event Date: 18-03-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-03-2017 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vitor Fava
 ## Title: Azure SQL Database - Managing your database on the cloud
 ## Abstract:
@@ -48,7 +48,7 @@ Event Date: 18-03-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 56313
 # SQL Server Transactional Replication: A Deep Dive
 #### [Back to calendar](#nr-591)
-Event Date: 18-03-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 18-03-2017 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server Transactional Replication: A Deep Dive
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 18-03-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 56809
 # Seamless upgrade : mettre à jour un cluster SQL Server
 #### [Back to calendar](#nr-591)
-Event Date: 18-03-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-03-2017 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christophe Laporte
 ## Title: Seamless upgrade : mettre à jour un cluster SQL Server
 ## Abstract:
@@ -67,7 +67,7 @@ Après avoir parlé des nouveautés apportées par Windows 2016, nous verrons co
 #### SessionID: 55098
 # Azure SQL Database - Scaling In and Scaling Out using  elastic pool
 #### [Back to calendar](#nr-591)
-Event Date: 18-03-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-03-2017 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vitor Fava
 ## Title: Azure SQL Database - Scaling In and Scaling Out using  elastic pool
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 18-03-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 56813
 # Partage et Collaboration avec Power BI
 #### [Back to calendar](#nr-591)
-Event Date: 18-03-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-03-2017 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jean-Pierre Riehl
 ## Title: Partage et Collaboration avec Power BI
 ## Abstract:
@@ -85,7 +85,7 @@ Event Date: 18-03-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 56726
 # Storage Spaces Direct : le géo-cluster SQL Server simplifié
 #### [Back to calendar](#nr-591)
-Event Date: 18-03-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-03-2017 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christophe Laporte
 ## Title: Storage Spaces Direct : le géo-cluster SQL Server simplifié
 ## Abstract:
@@ -99,7 +99,7 @@ Au cours de cette session, nous allons découvrir cette fonctionnalité et explo
 #### SessionID: 61503
 # Ways to handle large amounts of data
 #### [Back to calendar](#nr-591)
-Event Date: 18-03-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 18-03-2017 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Michelle Gutzait
 ## Title: Ways to handle large amounts of data
 ## Abstract:
@@ -110,7 +110,7 @@ Some examples: Database partitioning, Stretch Database, Blob storage and more!
 #### SessionID: 56727
 # SQL Server dans un conteneur Docker
 #### [Back to calendar](#nr-591)
-Event Date: 18-03-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-03-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christophe Laporte
 ## Title: SQL Server dans un conteneur Docker
 ## Abstract:
@@ -122,7 +122,7 @@ Au cours de cette session découverte, au travers de quelques lignes de code, ve
 #### SessionID: 61365
 # Scaling SSIS Package execution is the Server Deployment
 #### [Back to calendar](#nr-591)
-Event Date: 18-03-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 18-03-2017 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Jean Rene Roy
 ## Title: Scaling SSIS Package execution is the Server Deployment
 ## Abstract:

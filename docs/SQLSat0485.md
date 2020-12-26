@@ -18,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 44618
 # Introdu#231;#227;o ao In-Memory OLTP (hekaton) com SQL Server 2016
 #### [Back to calendar](#nr-485)
-Event Date: 20-02-2016 - Session time: 17:15:00 - Track: CORE Track                                Room Azure B
+Event Date: 20-02-2016 - Session time: 09:00:00 - Track: CORE Track                                Room Azure B
 ## Speaker: Ivan Campos
 ## Title: Introdu#231;#227;o ao In-Memory OLTP (hekaton) com SQL Server 2016
 ## Abstract:
@@ -28,7 +28,7 @@ Nesta sess#227;o vou explicar de uma forma clara o que consiste este novo compon
 #### SessionID: 44624
 # What's new in SSIS2016
 #### [Back to calendar](#nr-485)
-Event Date: 20-02-2016 - Session time: 17:15:00 - Track: BI Track                                 Room Azure A
+Event Date: 20-02-2016 - Session time: 09:00:00 - Track: BI Track                                 Room Azure A
 ## Speaker: Quilson Antunes
 ## Title: What's new in SSIS2016
 ## Abstract:
@@ -41,7 +41,7 @@ Event Date: 20-02-2016 - Session time: 17:15:00 - Track: BI Track        
 #### SessionID: 42961
 # Security enhancements in SQL Server 2016
 #### [Back to calendar](#nr-485)
-Event Date: 20-02-2016 - Session time: 17:15:00 - Track: CORE Track                                Room Azure B
+Event Date: 20-02-2016 - Session time: 10:15:00 - Track: CORE Track                                Room Azure B
 ## Speaker: Etienne Lopes
 ## Title: Security enhancements in SQL Server 2016
 ## Abstract:
@@ -64,7 +64,7 @@ Join me in a set of full demonstrations for all these features!
 #### SessionID: 44629
 # What's New in Reporting Services 2016
 #### [Back to calendar](#nr-485)
-Event Date: 20-02-2016 - Session time: 17:15:00 - Track: BI Track                                 Room Azure A
+Event Date: 20-02-2016 - Session time: 10:15:00 - Track: BI Track                                 Room Azure A
 ## Speaker: Artur Santos
 ## Title: What's New in Reporting Services 2016
 ## Abstract:
@@ -77,7 +77,7 @@ This and a lot more is waiting for you... Come and see for yourself.
 #### SessionID: 44614
 # Getting Started with U-SQL  Azure Data Lake Analytics
 #### [Back to calendar](#nr-485)
-Event Date: 20-02-2016 - Session time: 17:15:00 - Track: CORE Track                                Room Azure B
+Event Date: 20-02-2016 - Session time: 12:15:00 - Track: CORE Track                                Room Azure B
 ## Speaker: Niko Neugebauer
 ## Title: Getting Started with U-SQL  Azure Data Lake Analytics
 ## Abstract:
@@ -89,7 +89,7 @@ Let us discover what is exactly U-SQL  Azure Data Lake Analytics are and how the
 #### SessionID: 44679
 # Power BI For Real World Business Scenarios
 #### [Back to calendar](#nr-485)
-Event Date: 20-02-2016 - Session time: 17:15:00 - Track: BI Track                                 Room Azure A
+Event Date: 20-02-2016 - Session time: 12:15:00 - Track: BI Track                                 Room Azure A
 ## Speaker: Pedro Perfeito
 ## Title: Power BI For Real World Business Scenarios
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 20-02-2016 - Session time: 17:15:00 - Track: BI Track        
 #### SessionID: 43019
 # Power BI for Developers
 #### [Back to calendar](#nr-485)
-Event Date: 20-02-2016 - Session time: 17:15:00 - Track: BI Track                                 Room Azure A
+Event Date: 20-02-2016 - Session time: 14:00:00 - Track: BI Track                                 Room Azure A
 ## Speaker: Rui Romano
 ## Title: Power BI for Developers
 ## Abstract:
@@ -109,7 +109,7 @@ In this talk I will show you an overview of the developer ecosystem in Power BI 
 #### SessionID: 43117
 # Azure VM's with SQL Server -  Notes from the field
 #### [Back to calendar](#nr-485)
-Event Date: 20-02-2016 - Session time: 17:15:00 - Track: CORE Track                                Room Azure B
+Event Date: 20-02-2016 - Session time: 14:00:00 - Track: CORE Track                                Room Azure B
 ## Speaker: Pedro Simoes
 ## Title: Azure VM's with SQL Server -  Notes from the field
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 20-02-2016 - Session time: 17:15:00 - Track: CORE Track       
 #### SessionID: 44129
 # Availability Groups 2016: Quais s#227;o as novidades?
 #### [Back to calendar](#nr-485)
-Event Date: 20-02-2016 - Session time: 17:15:00 - Track: CORE Track                                Room Azure B
+Event Date: 20-02-2016 - Session time: 15:45:00 - Track: CORE Track                                Room Azure B
 ## Speaker: Murilo Miranda
 ## Title: Availability Groups 2016: Quais s#227;o as novidades?
 ## Abstract:

@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 45881
 # Pragmatic Power BI:  Working with Data Sources
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Analysis Techniques and Visualization
+Event Date: 14-05-2016 - Session time: 08:30:00 - Track: Analysis Techniques and Visualization
 ## Speaker: William E Pearson III
 ## Title: Pragmatic Power BI:  Working with Data Sources
 ## Abstract:
@@ -48,7 +48,7 @@ In this session, BI Architect, SQL Server MVP and Analysis Services Maestro Bill
 #### SessionID: 46083
 # Data Migration Using BIML
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-05-2016 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Feasel
 ## Title: Data Migration Using BIML
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 14-05-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 46184
 # SQL Server Automation with PowerShell
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-05-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Sommer
 ## Title: SQL Server Automation with PowerShell
 ## Abstract:
@@ -68,7 +68,7 @@ Initially released in 2006, PowerShell has grown to become Microsoft's premier s
 #### SessionID: 48154
 # Tackling Technical Blogging
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-05-2016 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: Mike Hays
 ## Title: Tackling Technical Blogging
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 48507
 # Inside the Black Box - Making Sense of Service Broker
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-05-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Colleen Morrow
 ## Title: Inside the Black Box - Making Sense of Service Broker
 ## Abstract:
@@ -89,7 +89,7 @@ Service Broker is an asynchronous messaging technology built into SQL Server tha
 #### SessionID: 45905
 # Dynamic SQL: Writing Efficient Queries on the Fly
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-05-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Edward Pollack
 ## Title: Dynamic SQL: Writing Efficient Queries on the Fly
 ## Abstract:
@@ -100,7 +100,7 @@ Explore the many uses for dynamic SQL as well as best practices for writing, tes
 #### SessionID: 46084
 # Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 14-05-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 46610
 # Hacking Expos#233; - Using SSL to Secure SQL Server Connections
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-05-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: Hacking Expos#233; - Using SSL to Secure SQL Server Connections
 ## Abstract:
@@ -123,7 +123,7 @@ Once secured, we will resume the role of the hacker and look inside the packets 
 #### SessionID: 48769
 # In-Memory tables with SQL Server 2014 and 2016
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 14-05-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: George Walters
 ## Title: In-Memory tables with SQL Server 2014 and 2016
 ## Abstract:
@@ -132,7 +132,7 @@ Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 48872
 # Advanced BIML - for the advanced ETL developer
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-05-2016 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Regis Baccaro
 ## Title: Advanced BIML - for the advanced ETL developer
 ## Abstract:
@@ -141,7 +141,7 @@ Event Date: 14-05-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 45864
 # SQL Server Storage Engine under the hood 
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-05-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: SQL Server Storage Engine under the hood 
 ## Abstract:
@@ -156,7 +156,7 @@ Which I/O Subsystems (including SSD) are best for which type of data and what's 
 #### SessionID: 46341
 # 10 Things Administrators of BI Systems Should Know
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-05-2016 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Robert Davis
 ## Title: 10 Things Administrators of BI Systems Should Know
 ## Abstract:
@@ -167,7 +167,7 @@ Fortunately, I've been administering BI systems for several years, and I have le
 #### SessionID: 46585
 # Rx for Demystifying Index Tuning Decisions
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-05-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeffry Schwartz
 ## Title: Rx for Demystifying Index Tuning Decisions
 ## Abstract:
@@ -176,7 +176,7 @@ Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 46829
 # Version control with GIT for the DBA
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 14-05-2016 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Justin Dearing
 ## Title: Version control with GIT for the DBA
 ## Abstract:
@@ -198,7 +198,7 @@ We will be covering using git from both the command line and Visual Studio.
 #### SessionID: 47310
 # Learning and Optimizing the SQL Server Plan Cache
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 14-05-2016 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Kline
 ## Title: Learning and Optimizing the SQL Server Plan Cache
 ## Abstract:
@@ -214,7 +214,7 @@ If you don’t know much about SQL Server memory management, especially if you w
 #### SessionID: 45862
 # Designing SQL Server HA/DR Infrastructure to meet the SLA
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-05-2016 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: Designing SQL Server HA/DR Infrastructure to meet the SLA
 ## Abstract:
@@ -225,7 +225,7 @@ For each one of the solutions we discuss we will define a series of failure mode
 #### SessionID: 45883
 # Getting Started with MDX
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-05-2016 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
 ## Abstract:
@@ -235,7 +235,7 @@ Event Date: 14-05-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 46140
 # Should I move my database to the cloud?
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 14-05-2016 - Session time: 13:30:00 - Track: Strategy and Architecture
 ## Speaker: James Serra
 ## Title: Should I move my database to the cloud?
 ## Abstract:
@@ -244,7 +244,7 @@ Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 47311
 # Ten Query Tuning Techniques Every SQL Programmer Should Know
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 14-05-2016 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Kevin Kline
 ## Title: Ten Query Tuning Techniques Every SQL Programmer Should Know
 ## Abstract:
@@ -258,7 +258,7 @@ Goal 3: Discover the high-impact metadata that shows how a SELECT statement beha
 #### SessionID: 48874
 # Continuous Integration with SSDT and Team Foundation Server
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 14-05-2016 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Regis Baccaro
 ## Title: Continuous Integration with SSDT and Team Foundation Server
 ## Abstract:
@@ -267,7 +267,7 @@ Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 45875
 # Whacha just say? Talking technology to non-technical people
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-05-2016 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: Whacha just say? Talking technology to non-technical people
 ## Abstract:
@@ -276,7 +276,7 @@ Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 46342
 # New Paradigm for Performance Tuning in SQL Server 2016
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-05-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Davis
 ## Title: New Paradigm for Performance Tuning in SQL Server 2016
 ## Abstract:
@@ -291,7 +291,7 @@ Does a query run fast with one plan but slow with another? With the plan compare
 #### SessionID: 46487
 # Architecting Availability Groups
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-05-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Derik Hammer
 ## Title: Architecting Availability Groups
 ## Abstract:
@@ -300,7 +300,7 @@ Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 47347
 # Statistics  Cardinality – How they work to find data efficiently
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-05-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: Statistics  Cardinality – How they work to find data efficiently
 ## Abstract:
@@ -312,7 +312,7 @@ In this session we will go over why statistics matter, how they are generated, h
 #### SessionID: 48131
 # Tier 1 Application Migration to Azure!
 #### [Back to calendar](#nr-526)
-Event Date: 14-05-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 14-05-2016 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: George Walters
 ## Title: Tier 1 Application Migration to Azure!
 ## Abstract:

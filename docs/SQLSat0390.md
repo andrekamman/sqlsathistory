@@ -64,7 +64,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 12412
 # Everything you were afraid to ask about cluster quorums, explained
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: David Bermingham
 ## Title: Everything you were afraid to ask about cluster quorums, explained
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
 #### SessionID: 14224
 # APPLY Yourself
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 2
+Event Date: 06-06-2015 - Session time: 00:00:00 - Track: Dev 2
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 2
 #### SessionID: 14991
 # Replicaton Technologies
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Hilary Cotter
 ## Title: Replicaton Technologies
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
 #### SessionID: 17216
 # What's your Character Type?
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Advanced
+Event Date: 06-06-2015 - Session time: 00:00:00 - Track: Advanced
 ## Speaker: John Deardurff
 ## Title: What's your Character Type?
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Advanced
 #### SessionID: 18346
 # Absolute Introductory Session on SQL Server 2014 In-Memory Optimized Databases (Hekaton)
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Kevin Goff
 ## Title: Absolute Introductory Session on SQL Server 2014 In-Memory Optimized Databases (Hekaton)
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
 #### SessionID: 23555
 # HealthySQL III
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Advanced
+Event Date: 06-06-2015 - Session time: 00:00:00 - Track: Advanced
 ## Speaker: Robert Pearl
 ## Title: HealthySQL III
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Advanced
 #### SessionID: 23915
 # Automating Your SSIS Design Pattern for Faster Development
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 1
+Event Date: 06-06-2015 - Session time: 00:00:00 - Track: Dev 1
 ## Speaker: Samuel Vanga
 ## Title: Automating Your SSIS Design Pattern for Faster Development
 ## Abstract:
@@ -130,7 +130,7 @@ BI Markup Language (BIML), which is a free plugin, removes the pain-points invol
 #### SessionID: 27774
 # Table Vars  Temp Tables - What you NEED to Know!
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 2
+Event Date: 06-06-2015 - Session time: 00:00:00 - Track: BI 2
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars  Temp Tables - What you NEED to Know!
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 2
 #### SessionID: 35780
 # Maximizing Failure with Continuous Integration
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 00:00:00 - Track: BI 1
 ## Speaker: Mark Wojciechowicz
 ## Title: Maximizing Failure with Continuous Integration
 ## Abstract:
@@ -148,7 +148,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
 #### SessionID: 10103
 # To SSAS or not to SSAS, that is the question
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 1
+Event Date: 06-06-2015 - Session time: 08:30:00 - Track: Dev 1
 ## Speaker: Ayman El-Ghazali
 ## Title: To SSAS or not to SSAS, that is the question
 ## Abstract:
@@ -157,7 +157,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 1
 #### SessionID: 14989
 # Stress testing SQL Server
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 2
+Event Date: 06-06-2015 - Session time: 08:30:00 - Track: BI 2
 ## Speaker: Hilary Cotter
 ## Title: Stress testing SQL Server
 ## Abstract:
@@ -166,7 +166,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 2
 #### SessionID: 24554
 # Continuous Integration for Databases
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 08:30:00 - Track: BI 1
 ## Speaker: Steve Jones
 ## Title: Continuous Integration for Databases
 ## Abstract:
@@ -175,7 +175,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
 #### SessionID: 27651
 # The Restore Cookbook
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 2
+Event Date: 06-06-2015 - Session time: 08:30:00 - Track: BI 2
 ## Speaker: Warner Chaves
 ## Title: The Restore Cookbook
 ## Abstract:
@@ -188,7 +188,7 @@ Come see the scenarios and demos so you'll be prepared with the right ingredient
 #### SessionID: 35686
 # Interviews and Resumes
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 08:30:00 - Track: BI 1
 ## Speaker: Rick Heiges
 ## Title: Interviews and Resumes
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
 #### SessionID: 36037
 # Automate Your ETL Infrastructure with SSIS and PowerShell
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 2
+Event Date: 06-06-2015 - Session time: 08:30:00 - Track: BI 2
 ## Speaker: Allen White
 ## Title: Automate Your ETL Infrastructure with SSIS and PowerShell
 ## Abstract:
@@ -207,7 +207,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 2
 #### SessionID: 36097
 # Agile Data Warehouse Development
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 08:30:00 - Track: BI 1
 ## Speaker: Bob Blackburn
 ## Title: Agile Data Warehouse Development
 ## Abstract:
@@ -216,7 +216,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
 #### SessionID: 37775
 # Minion Maintenance and Backup Solutions
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 08:30:00 - Track: BI 1
 ## Speaker: Sean McCown
 ## Title: Minion Maintenance and Backup Solutions
 ## Abstract:
@@ -236,7 +236,7 @@ Minion Reindex and Minion Backup scale to the size of your enterprise, from one 
 #### SessionID: 14563
 # Hybrid Cloud Scenarios with SQL Server 2014
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 09:45:00 - Track: BI 1
 ## Speaker: George Walters
 ## Title: Hybrid Cloud Scenarios with SQL Server 2014
 ## Abstract:
@@ -245,7 +245,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
 #### SessionID: 18340
 # Change Data Capture in SQL Server 2008/2012
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: DBA 2
+Event Date: 06-06-2015 - Session time: 09:45:00 - Track: DBA 2
 ## Speaker: Kevin Goff
 ## Title: Change Data Capture in SQL Server 2008/2012
 ## Abstract:
@@ -254,7 +254,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: DBA 2
 #### SessionID: 23554
 # Social DBA
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 09:45:00 - Track: BI 1
 ## Speaker: Robert Pearl
 ## Title: Social DBA
 ## Abstract:
@@ -263,7 +263,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
 #### SessionID: 27538
 # Get Familiar with Spatial Data
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 2
+Event Date: 06-06-2015 - Session time: 09:45:00 - Track: Dev 2
 ## Speaker: Slava Murygin
 ## Title: Get Familiar with Spatial Data
 ## Abstract:
@@ -273,7 +273,7 @@ We'll go through very basic SQL Server Spatial data functionality and draw some 
 #### SessionID: 35710
 # Flash and SQL Server— Re-Thinking Best Practices
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 2
+Event Date: 06-06-2015 - Session time: 09:45:00 - Track: BI 2
 ## Speaker: J May
 ## Title: Flash and SQL Server— Re-Thinking Best Practices
 ## Abstract:
@@ -282,7 +282,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 2
 #### SessionID: 35781
 # Punishing Yourself with Continuous Delivery
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 09:45:00 - Track: BI 1
 ## Speaker: Mark Wojciechowicz
 ## Title: Punishing Yourself with Continuous Delivery
 ## Abstract:
@@ -291,7 +291,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
 #### SessionID: 36307
 # Master Data Services– Integration through SSIS
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: DBA 2
+Event Date: 06-06-2015 - Session time: 09:45:00 - Track: DBA 2
 ## Speaker: Christopher Exley
 ## Title: Master Data Services– Integration through SSIS
 ## Abstract:
@@ -300,7 +300,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: DBA 2
 #### SessionID: 36418
 # Beginning PowerShell Scripting
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Advanced
+Event Date: 06-06-2015 - Session time: 09:45:00 - Track: Advanced
 ## Speaker: Justin Dearing
 ## Title: Beginning PowerShell Scripting
 ## Abstract:
@@ -309,7 +309,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Advanced
 #### SessionID: 15648
 # Building an Effective Data Warehouse Architecture
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 11:00:00 - Track: BI 1
 ## Speaker: James Serra
 ## Title: Building an Effective Data Warehouse Architecture
 ## Abstract:
@@ -318,7 +318,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
 #### SessionID: 18343
 # Beginner TSQL 
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Advanced
+Event Date: 06-06-2015 - Session time: 11:00:00 - Track: Advanced
 ## Speaker: Kevin Goff
 ## Title: Beginner TSQL 
 ## Abstract:
@@ -328,7 +328,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Advanced
 #### SessionID: 20997
 # Data Meaning
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 2
+Event Date: 06-06-2015 - Session time: 11:00:00 - Track: Dev 2
 ## Speaker: Judith Moffitt
 ## Title: Data Meaning
 ## Abstract:
@@ -337,7 +337,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 2
 #### SessionID: 21078
 # Storage For the DBA
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 2
+Event Date: 06-06-2015 - Session time: 11:00:00 - Track: BI 2
 ## Speaker: Denny Cherry
 ## Title: Storage For the DBA
 ## Abstract:
@@ -346,7 +346,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 2
 #### SessionID: 24403
 # SQL Server 2014 Optimizer “Goodies”
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 2
+Event Date: 06-06-2015 - Session time: 11:00:00 - Track: Dev 2
 ## Speaker: Sharon Dooley
 ## Title: SQL Server 2014 Optimizer “Goodies”
 ## Abstract:
@@ -355,7 +355,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 2
 #### SessionID: 28346
 # Version control with GIT for the DBA
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 11:00:00 - Track: BI 1
 ## Speaker: Justin Dearing
 ## Title: Version control with GIT for the DBA
 ## Abstract:
@@ -377,7 +377,7 @@ We will be covering using git from both the command line and Vis
 #### SessionID: 35919
 # A "101" Overview  of Microsoft Power BI for Office 365 
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 11:00:00 - Track: BI 1
 ## Speaker: Timothy McAliley
 ## Title: A "101" Overview  of Microsoft Power BI for Office 365 
 ## Abstract:
@@ -387,7 +387,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
 #### SessionID: 37662
 # Connecting Power BI to On-Prem SSAS Tabular
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 1
+Event Date: 06-06-2015 - Session time: 11:00:00 - Track: Dev 1
 ## Speaker: Kerry Tyler
 ## Title: Connecting Power BI to On-Prem SSAS Tabular
 ## Abstract:
@@ -396,7 +396,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 1
 #### SessionID: 37455
 # Clusters Your Way: #SANLess Clusters for Physical, Virtual  Cloud Environ.
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Advanced
+Event Date: 06-06-2015 - Session time: 12:30:00 - Track: Advanced
 ## Speaker: SIOS Technology
 ## Title: Clusters Your Way: #SANLess Clusters for Physical, Virtual  Cloud Environ.
 ## Abstract:
@@ -405,7 +405,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Advanced
 #### SessionID: 22092
 # Common Coding Mistakes and how to Mitigate them
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 2
+Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Dev 2
 ## Speaker: William Wolf
 ## Title: Common Coding Mistakes and how to Mitigate them
 ## Abstract:
@@ -414,7 +414,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 2
 #### SessionID: 35656
 # Become a SQL Server Performance Detective
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 2
+Event Date: 06-06-2015 - Session time: 13:30:00 - Track: BI 2
 ## Speaker: Danette Riviello
 ## Title: Become a SQL Server Performance Detective
 ## Abstract:
@@ -423,7 +423,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 2
 #### SessionID: 35695
 # Azure SQL Database (Software As A Service)
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 13:30:00 - Track: BI 1
 ## Speaker: John Miner
 ## Title: Azure SQL Database (Software As A Service)
 ## Abstract:
@@ -439,7 +439,7 @@ The demonstration will show how to create and load a new database from scratch u
 #### SessionID: 35966
 # SQL Server Cryptology - A Primer
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 13:30:00 - Track: BI 1
 ## Speaker: Sebastian Meine
 ## Title: SQL Server Cryptology - A Primer
 ## Abstract:
@@ -450,7 +450,7 @@ Join this session by security expert Sebastian Meine (Ph.D.) for an introduction
 #### SessionID: 36062
 # Getting to Know Your DB
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 2
+Event Date: 06-06-2015 - Session time: 13:30:00 - Track: BI 2
 ## Speaker: Jason Brimhall
 ## Title: Getting to Know Your DB
 ## Abstract:
@@ -459,7 +459,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 2
 #### SessionID: 36414
 # What's an execution plan and why does it matter?
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Advanced
+Event Date: 06-06-2015 - Session time: 13:30:00 - Track: Advanced
 ## Speaker: Sharon Dooley
 ## Title: What's an execution plan and why does it matter?
 ## Abstract:
@@ -468,7 +468,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Advanced
 #### SessionID: 36415
 # What's New in SQL Server vNext
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 13:30:00 - Track: BI 1
 ## Speaker: Bill Emmert
 ## Title: What's New in SQL Server vNext
 ## Abstract:
@@ -477,7 +477,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
 #### SessionID: 37776
 # Monster Text Manipulation: Regular Expressions for the DBA
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 2
+Event Date: 06-06-2015 - Session time: 13:30:00 - Track: BI 2
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
 ## Abstract:
@@ -492,7 +492,7 @@ Here you’ll learn:
 #### SessionID: 37901
 # Panel: Will the DBA Job of the Future Still Involve DBAs?
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: DBA 1
+Event Date: 06-06-2015 - Session time: 13:30:00 - Track: DBA 1
 ## Speaker: Karen Lopez
 ## Title: Panel: Will the DBA Job of the Future Still Involve DBAs?
 ## Abstract:
@@ -506,7 +506,7 @@ Our panel of SQL Server experts will share their #160;current experiences in the
 #### SessionID: 11300
 # Optimizing Protected Indexes
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 14:45:00 - Track: BI 1
 ## Speaker: Chris Bell
 ## Title: Optimizing Protected Indexes
 ## Abstract:
@@ -515,7 +515,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
 #### SessionID: 21807
 # Shortcuts to Building SSIS in .Net
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 14:45:00 - Track: BI 1
 ## Speaker: Paul Rizza
 ## Title: Shortcuts to Building SSIS in .Net
 ## Abstract:
@@ -524,7 +524,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
 #### SessionID: 27576
 # Leveraging CDC and SSIS for ODS/DM/DW Loads
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: DBA 2
+Event Date: 06-06-2015 - Session time: 14:45:00 - Track: DBA 2
 ## Speaker: Warren Sifre
 ## Title: Leveraging CDC and SSIS for ODS/DM/DW Loads
 ## Abstract:
@@ -533,7 +533,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: DBA 2
 #### SessionID: 27775
 # Crazy Things Developers Do
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 2
+Event Date: 06-06-2015 - Session time: 14:45:00 - Track: Dev 2
 ## Speaker: Wayne Sheffield
 ## Title: Crazy Things Developers Do
 ## Abstract:
@@ -542,7 +542,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 2
 #### SessionID: 36076
 # DBA 911 - Database Corruption
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
+Event Date: 06-06-2015 - Session time: 14:45:00 - Track: BI 1
 ## Speaker: David Maxwell
 ## Title: DBA 911 - Database Corruption
 ## Abstract:
@@ -551,7 +551,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: BI 1
 #### SessionID: 36109
 # Creating a Solid Data Model for PowerPivot
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: DBA 2
+Event Date: 06-06-2015 - Session time: 14:45:00 - Track: DBA 2
 ## Speaker: Dan Clark
 ## Title: Creating a Solid Data Model for PowerPivot
 ## Abstract:
@@ -560,7 +560,7 @@ Event Date: 06-06-2015 - Session time: 16:00:00 - Track: DBA 2
 #### SessionID: 36334
 # 60 Reporting Tips in 60 Minutes
 #### [Back to calendar](#nr-390)
-Event Date: 06-06-2015 - Session time: 16:00:00 - Track: Dev 1
+Event Date: 06-06-2015 - Session time: 14:45:00 - Track: Dev 1
 ## Speaker: Ike Ellis
 ## Title: 60 Reporting Tips in 60 Minutes
 ## Abstract:

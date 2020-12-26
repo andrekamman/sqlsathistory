@@ -21,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 52339
 # Machine Learning  with SQL Server 2016 R Services
 #### [Back to calendar](#nr-562)
-Event Date: 10-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-09-2016 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dinesh Asanka
 ## Title: Machine Learning  with SQL Server 2016 R Services
 ## Abstract:
@@ -32,7 +32,7 @@ With SQL Server R Services, users can develop analytic models in a local R IDE a
 #### SessionID: 52486
 # Innovative Strategies for SQL Server Disaster Recovery
 #### [Back to calendar](#nr-562)
-Event Date: 10-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-09-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Virendra Kumar Yaduvanshi
 ## Title: Innovative Strategies for SQL Server Disaster Recovery
 ## Abstract:
@@ -41,7 +41,7 @@ Event Date: 10-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 53253
 # Top New Features in SQL Server 2016
 #### [Back to calendar](#nr-562)
-Event Date: 10-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-09-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chiu Kiang Phua
 ## Title: Top New Features in SQL Server 2016
 ## Abstract:
@@ -50,7 +50,7 @@ Event Date: 10-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 50320
 # Performance Based Indexing
 #### [Back to calendar](#nr-562)
-Event Date: 10-09-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 10-09-2016 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Manjot Kaur
 ## Title: Performance Based Indexing
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 10-09-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 53240
 # instant Business Insight with Azure SQL and Power BI
 #### [Back to calendar](#nr-562)
-Event Date: 10-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-09-2016 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ian Choy
 ## Title: instant Business Insight with Azure SQL and Power BI
 ## Abstract:
@@ -73,7 +73,7 @@ Heck, we may even implement some cool Azure SQL features like operational analyt
 #### SessionID: 53245
 # Data Analytics: Drill, Hit, Predict and Visualize
 #### [Back to calendar](#nr-562)
-Event Date: 10-09-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 10-09-2016 - Session time: 11:30:00 - Track: Analytics and Visualization
 ## Speaker: Dr. J. Joshua Thomas
 ## Title: Data Analytics: Drill, Hit, Predict and Visualize
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 10-09-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 50440
 # SQL Server Database Backup Internals
 #### [Back to calendar](#nr-562)
-Event Date: 10-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-09-2016 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamid J. Fard
 ## Title: SQL Server Database Backup Internals
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 10-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 52606
 # Processing unstructured data
 #### [Back to calendar](#nr-562)
-Event Date: 10-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-09-2016 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dinesh Priyankara
 ## Title: Processing unstructured data
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 10-09-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 53248
 # Building Multiclass Prediction Model  API with Azure Machine Learning
 #### [Back to calendar](#nr-562)
-Event Date: 10-09-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 10-09-2016 - Session time: 13:30:00 - Track: Analytics and Visualization
 ## Speaker: Juv Chan
 ## Title: Building Multiclass Prediction Model  API with Azure Machine Learning
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 10-09-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 51070
 # Hyperscale technology lets a DBA sleep, +30 minutes a day!
 #### [Back to calendar](#nr-562)
-Event Date: 10-09-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 10-09-2016 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Hyperscale technology lets a DBA sleep, +30 minutes a day!
 ## Abstract:
@@ -123,7 +123,7 @@ This session will enable you to start working on scaling to the cloud and benefi
 #### SessionID: 52605
 # Practical Strategies For High Performance SQL Server High Availability
 #### [Back to calendar](#nr-562)
-Event Date: 10-09-2016 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 10-09-2016 - Session time: 14:30:00 - Track: Strategy and Architecture
 ## Speaker: Jason Aw
 ## Title: Practical Strategies For High Performance SQL Server High Availability
 ## Abstract:
@@ -132,7 +132,7 @@ Event Date: 10-09-2016 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 52629
 # SQL Server Query Store - The Real "Deal"
 #### [Back to calendar](#nr-562)
-Event Date: 10-09-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 10-09-2016 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Nagaraj Venkatesan
 ## Title: SQL Server Query Store - The Real "Deal"
 ## Abstract:

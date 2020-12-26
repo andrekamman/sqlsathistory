@@ -67,7 +67,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 91252
 # Introduction to Azure Databricks
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 17-08-2019 - Session time: 08:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: Introduction to Azure Databricks
 ## Abstract:
@@ -78,7 +78,7 @@ With plenty of demos on how to configure cloud storage, work with Databricks not
 #### SessionID: 91584
 # Leveraging Python in SQL Server
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 17-08-2019 - Session time: 08:00:00 - Track: Analytics and Visualization
 ## Speaker: Julie Smith
 ## Title: Leveraging Python in SQL Server
 ## Abstract:
@@ -87,7 +87,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 91802
 # Developer Nights: The Ballad of Bobby Tables
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 17-08-2019 - Session time: 08:00:00 - Track: Application  Database Development
 ## Speaker: Jay Robinson
 ## Title: Developer Nights: The Ballad of Bobby Tables
 ## Abstract:
@@ -96,7 +96,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 92926
 # MSAs, GMSAs,  Groups - Use SQL without traditional user accounts
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 08:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: MSAs, GMSAs,  Groups - Use SQL without traditional user accounts
 ## Abstract:
@@ -106,7 +106,7 @@ Managing user domain accounts access in your DB can get tedious fast, especially
 #### SessionID: 93491
 # Identifying Sensitive data with Redgate Data Catalog
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 08:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Aaron Urfer
 ## Title: Identifying Sensitive data with Redgate Data Catalog
 ## Abstract:
@@ -115,7 +115,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 95192
 # What I Learned Stepping onto the Cloud
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 17-08-2019 - Session time: 08:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Clark Hahn
 ## Title: What I Learned Stepping onto the Cloud
 ## Abstract:
@@ -127,7 +127,7 @@ Remember a smart person learns from their mistakes, a wise person learns from ot
 #### SessionID: 95202
 # Cloud Data Warehousing with Snowflake on Azure
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-08-2019 - Session time: 08:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brett VanderPlaats
 ## Title: Cloud Data Warehousing with Snowflake on Azure
 ## Abstract:
@@ -137,7 +137,7 @@ This live demo will provide fundamental and technical understanding for roles li
 #### SessionID: 95357
 # Azure Data Factory - Beyond the Basics
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-08-2019 - Session time: 08:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Koester
 ## Title: Azure Data Factory - Beyond the Basics
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 95493
 # SQLStarter - Intro to Database Administration
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
+Event Date: 17-08-2019 - Session time: 08:00:00 - Track: SQLStarter
 ## Speaker: Peter Shore
 ## Title: SQLStarter - Intro to Database Administration
 ## Abstract:
@@ -155,7 +155,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
 #### SessionID: 91315
 # SSDT, Docker, and (Azure) DevOps: How to Make Your Database Builds a First Class CI/CD Citizen
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 17-08-2019 - Session time: 09:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dan Mallott
 ## Title: SSDT, Docker, and (Azure) DevOps: How to Make Your Database Builds a First Class CI/CD Citizen
 ## Abstract:
@@ -166,7 +166,7 @@ SSDT and Azure DevOps can solve some of these problems, and even give us a windo
 #### SessionID: 93056
 # Brick-by-Brick: Foundational Azure Databricks Concepts
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 17-08-2019 - Session time: 09:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Michael Huffer
 ## Title: Brick-by-Brick: Foundational Azure Databricks Concepts
 ## Abstract:
@@ -175,7 +175,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 93404
 # Stuck In the Middle: Collaborating With Multiple Stakeholders
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 17-08-2019 - Session time: 09:15:00 - Track: Professional Development
 ## Speaker: Lou` Russell
 ## Title: Stuck In the Middle: Collaborating With Multiple Stakeholders
 ## Abstract:
@@ -184,7 +184,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 93777
 # Beginner's Guide to Text Mining:  What We Learn from SQL Saturday Presentation Abstracts
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 17-08-2019 - Session time: 09:15:00 - Track: Analytics and Visualization
 ## Speaker: Lynn Ballard
 ## Title: Beginner's Guide to Text Mining:  What We Learn from SQL Saturday Presentation Abstracts
 ## Abstract:
@@ -193,7 +193,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 95155
 # Managing the mystery database
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dustin Dorsey
 ## Title: Managing the mystery database
 ## Abstract:
@@ -209,7 +209,7 @@ By figuring out what these mystery databases, you will be more equipped to make 
 #### SessionID: 95206
 # Cloud Data Warehousing in Azure: Azure DWH and Snowflake
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-08-2019 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Britton Gray
 ## Title: Cloud Data Warehousing in Azure: Azure DWH and Snowflake
 ## Abstract:
@@ -218,7 +218,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 95335
 # Microsoft/Azure Data Integrations: Factories, Pipelines, and Flows Oh My!
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-08-2019 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Mellinger
 ## Title: Microsoft/Azure Data Integrations: Factories, Pipelines, and Flows Oh My!
 ## Abstract:
@@ -227,7 +227,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 95394
 # SQL Networking  Security
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 17-08-2019 - Session time: 09:15:00 - Track: Strategy and Architecture
 ## Speaker: Sumeeth Evans
 ## Title: SQL Networking  Security
 ## Abstract:
@@ -240,7 +240,7 @@ Attend to get a demo filled session of how to build highly secure SQL environmen
 #### SessionID: 95494
 # SQLStarter - Intro to Data Science
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
+Event Date: 17-08-2019 - Session time: 09:15:00 - Track: SQLStarter
 ## Speaker: Andrew Loree
 ## Title: SQLStarter - Intro to Data Science
 ## Abstract:
@@ -249,7 +249,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
 #### SessionID: 96735
 # DR  HA 101, what are they and why do I want them?
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Pat Phelan
 ## Title: DR  HA 101, what are they and why do I want them?
 ## Abstract:
@@ -260,7 +260,7 @@ This session does not try to discuss all of the details or go deep into the tech
 #### SessionID: 91084
 # Moving Data to the Cloud (with Azure Data Factory)
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 17-08-2019 - Session time: 10:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Simon Kingaby
 ## Title: Moving Data to the Cloud (with Azure Data Factory)
 ## Abstract:
@@ -269,7 +269,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 91116
 # Extended Events: What are they and How do I use them
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
 ## Abstract:
@@ -278,7 +278,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 91957
 # Lessons from Consulting:  Vendor Applications
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 17-08-2019 - Session time: 10:30:00 - Track: Professional Development
 ## Speaker: Andy Wickman
 ## Title: Lessons from Consulting:  Vendor Applications
 ## Abstract:
@@ -287,7 +287,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 93025
 # Building a Machine Learning Regression Model with Zero Code in PowerBI
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 17-08-2019 - Session time: 10:30:00 - Track: Analytics and Visualization
 ## Speaker: Greg Deckler
 ## Title: Building a Machine Learning Regression Model with Zero Code in PowerBI
 ## Abstract:
@@ -296,7 +296,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 93639
 # Dipping Your Toes In: Azure Data Lake for DBAs
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 17-08-2019 - Session time: 10:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bob Pusateri
 ## Title: Dipping Your Toes In: Azure Data Lake for DBAs
 ## Abstract:
@@ -305,7 +305,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 95067
 # Enable Real-time Analytics and Machine Learning with Azure Stream Analytics
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-08-2019 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sriharsh Adari
 ## Title: Enable Real-time Analytics and Machine Learning with Azure Stream Analytics
 ## Abstract:
@@ -314,7 +314,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 95087
 # Migrate Your Database(s) with Distributed AGs
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 17-08-2019 - Session time: 10:30:00 - Track: Strategy and Architecture
 ## Speaker: Elizabeth Noble
 ## Title: Migrate Your Database(s) with Distributed AGs
 ## Abstract:
@@ -327,7 +327,7 @@ NOTE: This session expects that attendees are already familiar with Availability
 #### SessionID: 95386
 # Migrating your SQL Server Instance
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Lukes
 ## Title: Migrating your SQL Server Instance
 ## Abstract:
@@ -336,7 +336,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 95495
 # SQLStarter - Intro to Big Data
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
+Event Date: 17-08-2019 - Session time: 10:30:00 - Track: SQLStarter
 ## Speaker: Warren Sifre
 ## Title: SQLStarter - Intro to Big Data
 ## Abstract:
@@ -345,7 +345,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
 #### SessionID: 96383
 # Learn History from Temporal Tables
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: Learn History from Temporal Tables
 ## Abstract:
@@ -354,7 +354,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 94229
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-08-2019 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
 ## Abstract:
@@ -363,7 +363,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 95396
 # The Community Speaks: WIT, LGBTQ, diversity and inclusion.
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 17-08-2019 - Session time: 11:45:00 - Track: Professional Development
 ## Speaker: Tamera Clark
 ## Title: The Community Speaks: WIT, LGBTQ, diversity and inclusion.
 ## Abstract:
@@ -372,7 +372,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 96823
 # Agile Ops at Billions of Transactions a Day Without Losing Your M
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eddie Wuerch
 ## Title: Agile Ops at Billions of Transactions a Day Without Losing Your M
 ## Abstract:
@@ -381,7 +381,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 93360
 # Introduction To Data Governance
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Other
+Event Date: 17-08-2019 - Session time: 13:00:00 - Track: Other
 ## Speaker: Warren Sifre
 ## Title: Introduction To Data Governance
 ## Abstract:
@@ -390,7 +390,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Other
 #### SessionID: 93415
 # Designing Accessible Power BI Reports
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 17-08-2019 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Liz Amador
 ## Title: Designing Accessible Power BI Reports
 ## Abstract:
@@ -399,7 +399,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 93524
 # Accelerated Database Recovery: The Future of the Transaction Log
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Frank Gill
 ## Title: Accelerated Database Recovery: The Future of the Transaction Log
 ## Abstract:
@@ -408,7 +408,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 94938
 # Containerized SQL Server on Red Hat OpenShift
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 17-08-2019 - Session time: 13:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Thomas Lapp
 ## Title: Containerized SQL Server on Red Hat OpenShift
 ## Abstract:
@@ -417,7 +417,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 95180
 # AI for the Masses: The Democratization of Artificial Intelligence in the Microsoft Ecosystem
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 17-08-2019 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Ryan Wade
 ## Title: AI for the Masses: The Democratization of Artificial Intelligence in the Microsoft Ecosystem
 ## Abstract:
@@ -435,7 +435,7 @@ Come to this information packed session, and you will walk away with ideas of ho
 #### SessionID: 95356
 # Replace Hundreds of Fragmented SSRS Reports with Integrated Dashboards in Weeks
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-08-2019 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chad Buher
 ## Title: Replace Hundreds of Fragmented SSRS Reports with Integrated Dashboards in Weeks
 ## Abstract:
@@ -450,7 +450,7 @@ In this session, we will explore:
 #### SessionID: 95378
 # Agile Data Warehouse and ETL Design with Biml
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-08-2019 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Stein
 ## Title: Agile Data Warehouse and ETL Design with Biml
 ## Abstract:
@@ -459,7 +459,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 95387
 # Another new version of SQL Server!?  Highlights of new features coming with SQL Server 2019
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joe McTaggart
 ## Title: Another new version of SQL Server!?  Highlights of new features coming with SQL Server 2019
 ## Abstract:
@@ -468,7 +468,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 95491
 # Definitive Proof that Pluto is Indeed a Planet
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 17-08-2019 - Session time: 13:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Josh Fennessy
 ## Title: Definitive Proof that Pluto is Indeed a Planet
 ## Abstract:
@@ -489,7 +489,7 @@ I don't think this will take much longer than 75 mins. Might as well get to it.
 #### SessionID: 95496
 # SQLStarter - Intro to Database Development
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
+Event Date: 17-08-2019 - Session time: 13:00:00 - Track: SQLStarter
 ## Speaker: Jay Robinson
 ## Title: SQLStarter - Intro to Database Development
 ## Abstract:
@@ -498,7 +498,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
 #### SessionID: 91082
 # Performance Tuning for SQL Developer through Execution Plans
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 17-08-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Performance Tuning for SQL Developer through Execution Plans
 ## Abstract:
@@ -507,7 +507,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 91750
 # Transaction Log Internals and Performance
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Transaction Log Internals and Performance
 ## Abstract:
@@ -516,7 +516,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 92103
 # I have indexes, but do I have the right indexes?
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Blinn
 ## Title: I have indexes, but do I have the right indexes?
 ## Abstract:
@@ -529,7 +529,7 @@ Are you using a version and edition of SQL Server is able to use these features?
 #### SessionID: 93131
 # "M" is great! Keep it that way.
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 17-08-2019 - Session time: 14:15:00 - Track: BI Information Delivery
 ## Speaker: George Bryant
 ## Title: "M" is great! Keep it that way.
 ## Abstract:
@@ -538,7 +538,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 93919
 # Moving Past Imposter Syndrome
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 17-08-2019 - Session time: 14:15:00 - Track: Professional Development
 ## Speaker: Wendy Pastrick
 ## Title: Moving Past Imposter Syndrome
 ## Abstract:
@@ -547,7 +547,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 94740
 # Intro to SQL Spatial Data: Location Analytics
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 17-08-2019 - Session time: 14:15:00 - Track: Analytics and Visualization
 ## Speaker: Lucas Feiock
 ## Title: Intro to SQL Spatial Data: Location Analytics
 ## Abstract:
@@ -556,7 +556,7 @@ Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 95354
 # Active Directory and Azure Active Directory: Authentication in a Cloudy World
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 17-08-2019 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kerry Tyler
 ## Title: Active Directory and Azure Active Directory: Authentication in a Cloudy World
 ## Abstract:
@@ -566,7 +566,7 @@ This is a beginner session, but there will be some networking involved, in addit
 #### SessionID: 95380
 # Creating Your Own ETL Automation Framework with Biml for Beginners
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-08-2019 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Stein
 ## Title: Creating Your Own ETL Automation Framework with Biml for Beginners
 ## Abstract:
@@ -583,7 +583,7 @@ As a bonus, you’ll leave the presentation with a completed framework which dyn
 #### SessionID: 95497
 # SQLStarter - Intro to Business Intelligence
 #### [Back to calendar](#nr-886)
-Event Date: 17-08-2019 - Session time: 15:30:00 - Track: SQLStarter
+Event Date: 17-08-2019 - Session time: 14:15:00 - Track: SQLStarter
 ## Speaker: CJ Knapp
 ## Title: SQLStarter - Intro to Business Intelligence
 ## Abstract:

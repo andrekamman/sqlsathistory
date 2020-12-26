@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 72858
 # Persistence is Futile - Implementing Delayed Durability in SQL Server
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-06-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Broadbent
 ## Title: Persistence is Futile - Implementing Delayed Durability in SQL Server
 ## Abstract:
@@ -45,7 +45,7 @@ Attend this session and you will be assimilated!
 #### SessionID: 74455
 # Azure SQL DWH: Tips and Tricks for developers
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-06-2018 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Azure SQL DWH: Tips and Tricks for developers
 ## Abstract:
@@ -54,7 +54,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 76984
 # Chronicles of Power BI
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 09-06-2018 - Session time: 08:30:00 - Track: BI Information Delivery
 ## Speaker: Mary Fealty
 ## Title: Chronicles of Power BI
 ## Abstract:
@@ -65,7 +65,7 @@ It's a fun session that demonstrates the pace at which the Power BI team at Micr
 #### SessionID: 72843
 # Where Should My Data Live (and Why)?
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 09-06-2018 - Session time: 09:30:00 - Track: Strategy and Architecture
 ## Speaker: Matt Gordon
 ## Title: Where Should My Data Live (and Why)?
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 72914
 # T-SQL advanced: Grouping and Windowing
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 09-06-2018 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Andrea Martorana Tusa
 ## Title: T-SQL advanced: Grouping and Windowing
 ## Abstract:
@@ -87,7 +87,7 @@ The session is mainly based on a copious array of demos, to make explicit every 
 #### SessionID: 72967
 # SQL Server on your favourite operating system....Linux
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-06-2018 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Pryce-Maher
 ## Title: SQL Server on your favourite operating system....Linux
 ## Abstract:
@@ -98,7 +98,7 @@ In this session, I will talk about where and when SQL Server on Linux is a good 
 #### SessionID: 80892
 # End-to-End Troubleshooting for SQL Server
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 09-06-2018 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Kevin Kline
 ## Title: End-to-End Troubleshooting for SQL Server
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 73113
 # Administrating SQL Server with PowerShell dbatools
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Sewell
 ## Title: Administrating SQL Server with PowerShell dbatools
 ## Abstract:
@@ -128,7 +128,7 @@ All this in a fast paced, fun session
 #### SessionID: 74301
 # Database version control  deployment: model or migration scripts
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: Application  Database Development
 ## Speaker: Alex Yates
 ## Title: Database version control  deployment: model or migration scripts
 ## Abstract:
@@ -143,7 +143,7 @@ I'll illustrate the limitations of each approach with a simple scenario. I'll de
 #### SessionID: 74626
 # Data Storytelling for Business Intelligence with SQL Server 2017
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: BI Information Delivery
 ## Speaker: Jen Stirrup
 ## Title: Data Storytelling for Business Intelligence with SQL Server 2017
 ## Abstract:
@@ -160,7 +160,7 @@ Join this session to get the inside scoop on SQL Server 2017 from the Business I
 #### SessionID: 77829
 # Azure SQL Database - Lessons learned from the trenches
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: Application  Database Development
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Azure SQL Database - Lessons learned from the trenches
 ## Abstract:
@@ -169,7 +169,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 74245
 # Planning and Deploying PowerBI Report Server – On Premise!
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-06-2018 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bob Duffy
 ## Title: Planning and Deploying PowerBI Report Server – On Premise!
 ## Abstract:
@@ -185,7 +185,7 @@ Topic covered are:
 #### SessionID: 74542
 # Blockchain - The data platform perspective
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 09-06-2018 - Session time: 11:45:00 - Track: BI Information Delivery
 ## Speaker: Christoph Seck
 ## Title: Blockchain - The data platform perspective
 ## Abstract:
@@ -197,7 +197,7 @@ In the second part we take a closer look at the Bitcoin Blockchain as a "databas
 #### SessionID: 77759
 # Realizing ROI for Data Projects
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 09-06-2018 - Session time: 11:45:00 - Track: Professional Development
 ## Speaker: Douglas McDowell
 ## Title: Realizing ROI for Data Projects
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 82097
 # Azure SQL Data Warehouse: One Cog in the Cortana Intelligence Sui
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-06-2018 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daire Cunningham
 ## Title: Azure SQL Data Warehouse: One Cog in the Cortana Intelligence Sui
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 73055
 # When Things go Wrong - Error Handling in SQL Server
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 09-06-2018 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: When Things go Wrong - Error Handling in SQL Server
 ## Abstract:
@@ -226,7 +226,7 @@ This presentation starts with a horror show of the many different actions SQL Se
 #### SessionID: 74565
 # Data Science, easy until it's not
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 09-06-2018 - Session time: 13:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jan Mulkens
 ## Title: Data Science, easy until it's not
 ## Abstract:
@@ -242,7 +242,7 @@ That way you'll also have all the practical knowledge you need to do this yourse
 #### SessionID: 82393
 # Lightning Talks!
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 09-06-2018 - Session time: 13:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Various Speakers
 ## Title: Lightning Talks!
 ## Abstract:
@@ -251,7 +251,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 72820
 # PowerShell - Grow Your Script From Simple to Module
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 09-06-2018 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Sander Stad
 ## Title: PowerShell - Grow Your Script From Simple to Module
 ## Abstract:
@@ -266,7 +266,7 @@ Have you written a couple of scripts but want to get them to the next level. Tha
 #### SessionID: 73262
 # Query Folding in Power BI
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 09-06-2018 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: Callum Green
 ## Title: Query Folding in Power BI
 ## Abstract:
@@ -279,7 +279,7 @@ The 1 hour session will explain Query Folding in more detail, give examples of w
 #### SessionID: 77935
 # Enterprise Data Warehousing - the Data Architectural perspective
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 09-06-2018 - Session time: 14:30:00 - Track: Strategy and Architecture
 ## Speaker: Dan Galavan
 ## Title: Enterprise Data Warehousing - the Data Architectural perspective
 ## Abstract:
@@ -301,7 +301,7 @@ This session will cover:
 #### SessionID: 80608
 # R for Reporting
 #### [Back to calendar](#nr-742)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 09-06-2018 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Stephanie Locke
 ## Title: R for Reporting
 ## Abstract:

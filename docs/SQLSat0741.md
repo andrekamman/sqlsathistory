@@ -38,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 72537
 # Introduction to Azure SQL Data Warehouse
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Enterprise BI
+Event Date: 28-07-2018 - Session time: 08:30:00 - Track: Enterprise BI
 ## Speaker: Derik Hammer
 ## Title: Introduction to Azure SQL Data Warehouse
 ## Abstract:
@@ -47,7 +47,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Enterprise BI
 #### SessionID: 73625
 # Effective Data Warehouse Storage Patterns
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 28-07-2018 - Session time: 08:30:00 - Track: Database Administration
 ## Speaker: John Miner
 ## Title: Effective Data Warehouse Storage Patterns
 ## Abstract:
@@ -76,7 +76,7 @@ Coverage:
 #### SessionID: 74205
 # DAX and the tabular model
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Self-Service BI
+Event Date: 28-07-2018 - Session time: 08:30:00 - Track: Self-Service BI
 ## Speaker: Steve Simon
 ## Title: DAX and the tabular model
 ## Abstract:
@@ -86,7 +86,7 @@ We shall discuss many of the often used functions, discuss their 'overloads' (ut
 #### SessionID: 77286
 # Whoa! Backup, what happened? The Basics of Backups
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 28-07-2018 - Session time: 08:30:00 - Track: Database Administration
 ## Speaker: Greg Moore
 ## Title: Whoa! Backup, what happened? The Basics of Backups
 ## Abstract:
@@ -97,7 +97,7 @@ Many DBAs still setup their backups via a GUI and “fire and forget” and don�
 #### SessionID: 82035
 # Networking: it isn't just for breakfast anymore
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Professional/Personal Development
+Event Date: 28-07-2018 - Session time: 08:30:00 - Track: Professional/Personal Development
 ## Speaker: Ray Kim
 ## Title: Networking: it isn't just for breakfast anymore
 ## Abstract:
@@ -108,7 +108,7 @@ In this interactive session, we will discuss networking -- what it is, why it's 
 #### SessionID: 82098
 # DevOps Database administration.
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: QA/Automation
+Event Date: 28-07-2018 - Session time: 08:30:00 - Track: QA/Automation
 ## Speaker: Stephen Mokszycki
 ## Title: DevOps Database administration.
 ## Abstract:
@@ -119,7 +119,7 @@ There will be a demo!
 #### SessionID: 72156
 # Learning to present and becoming good at it
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Professional/Personal Development
+Event Date: 28-07-2018 - Session time: 10:00:00 - Track: Professional/Personal Development
 ## Speaker: James Serra
 ## Title: Learning to present and becoming good at it
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Professional/Personal D
 #### SessionID: 72538
 # Launching your database into Azure
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-07-2018 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Derik Hammer
 ## Title: Launching your database into Azure
 ## Abstract:
@@ -137,7 +137,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 74201
 # An introduction to Data Mining  with SQL Server 2016
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Enterprise BI
+Event Date: 28-07-2018 - Session time: 10:00:00 - Track: Enterprise BI
 ## Speaker: Steve Simon
 ## Title: An introduction to Data Mining  with SQL Server 2016
 ## Abstract:
@@ -158,7 +158,7 @@ In this hands on BEGINNERS presentation we shall be looking at Microsoft SQL Ser
 #### SessionID: 80000
 # Common TSQL Mistakes
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Application Development
+Event Date: 28-07-2018 - Session time: 10:00:00 - Track: Application Development
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
 ## Abstract:
@@ -167,7 +167,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Application Development
 #### SessionID: 83022
 # Performance Troubleshooting made easier - new features in Management Studio !
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 28-07-2018 - Session time: 10:00:00 - Track: Database Administration
 ## Speaker: Taiob Ali
 ## Title: Performance Troubleshooting made easier - new features in Management Studio !
 ## Abstract:
@@ -180,7 +180,7 @@ In this demo intensive session, I will show you how to find and use new features
 #### SessionID: 83405
 # BI Infrastructure in Azure: Points to Consider
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Enterprise BI
+Event Date: 28-07-2018 - Session time: 10:00:00 - Track: Enterprise BI
 ## Speaker: Paresh Motiwala
 ## Title: BI Infrastructure in Azure: Points to Consider
 ## Abstract:
@@ -196,7 +196,7 @@ We will also learn about setting up teams and ways to train them(and yourself) i
 #### SessionID: 83755
 # WIT Luncheon: Women Participation at Conferences/Workshops/Technical Market
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Professional/Personal Development
+Event Date: 28-07-2018 - Session time: 11:30:00 - Track: Professional/Personal Development
 ## Speaker: Vijaya Kokkili
 ## Title: WIT Luncheon: Women Participation at Conferences/Workshops/Technical Market
 ## Abstract:
@@ -210,7 +210,7 @@ https://www.meetup.com/CD-WiT/
 #### SessionID: 84384
 # Development  Test Data Management: Achieving breakthrough saving
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Application Development
+Event Date: 28-07-2018 - Session time: 11:30:00 - Track: Application Development
 ## Speaker: Andrew Cary
 ## Title: Development  Test Data Management: Achieving breakthrough saving
 ## Abstract:
@@ -220,7 +220,7 @@ data automation to reduce application development cycle time, reduce costs and e
 #### SessionID: 72153
 # Big data architectures and the data lake
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Big Data
+Event Date: 28-07-2018 - Session time: 12:30:00 - Track: Big Data
 ## Speaker: James Serra
 ## Title: Big data architectures and the data lake
 ## Abstract:
@@ -229,7 +229,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Big Data
 #### SessionID: 82164
 # Shaving of Microseconds
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Optimization/Tuning
+Event Date: 28-07-2018 - Session time: 12:30:00 - Track: Optimization/Tuning
 ## Speaker: Thomas Grohser
 ## Title: Shaving of Microseconds
 ## Abstract:
@@ -238,7 +238,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Optimization/Tuning
 #### SessionID: 83246
 # Documenting your SQL Server environment with PowerShell
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 28-07-2018 - Session time: 12:30:00 - Track: Database Administration
 ## Speaker: Matthew Anderson
 ## Title: Documenting your SQL Server environment with PowerShell
 ## Abstract:
@@ -249,7 +249,7 @@ Finding a free and simple method to gather information about my SQL Server envir
 #### SessionID: 83329
 # Azure Data Factory V2 /ETL in the clouds
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Big Data
+Event Date: 28-07-2018 - Session time: 12:30:00 - Track: Big Data
 ## Speaker: Christian Cote
 ## Title: Azure Data Factory V2 /ETL in the clouds
 ## Abstract:
@@ -259,7 +259,7 @@ This session will also introduce concepts like the modern data warehouse and wha
 #### SessionID: 84329
 # Lightning Talks
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Lightning Talks
+Event Date: 28-07-2018 - Session time: 12:30:00 - Track: Lightning Talks
 ## Speaker: Kevin Boles
 ## Title: Lightning Talks
 ## Abstract:
@@ -274,7 +274,7 @@ Michelle Gutzait: Performance Tuning
 #### SessionID: 72406
 # An Introduction to Predictive Modeling with R
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Machine Learning and AI
+Event Date: 28-07-2018 - Session time: 14:00:00 - Track: Machine Learning and AI
 ## Speaker: Bryan Cafferky
 ## Title: An Introduction to Predictive Modeling with R
 ## Abstract:
@@ -283,7 +283,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Machine Learning and AI
 #### SessionID: 79998
 # SQL Server 2016 (SP1)  2017 ROCKS!!
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Optimization/Tuning
+Event Date: 28-07-2018 - Session time: 14:00:00 - Track: Optimization/Tuning
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2016 (SP1)  2017 ROCKS!!
 ## Abstract:
@@ -292,7 +292,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Optimization/Tuning
 #### SessionID: 80146
 # Implementing Security Standard Regulations in SQL Server  Azure
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 28-07-2018 - Session time: 14:00:00 - Track: Database Administration
 ## Speaker: Michelle Gutzait
 ## Title: Implementing Security Standard Regulations in SQL Server  Azure
 ## Abstract:
@@ -302,7 +302,7 @@ The focus will be on the new GDPR standard.
 #### SessionID: 80917
 # From (User) Story to Tables: Read Between the Lines to Find Your Data
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Development
+Event Date: 28-07-2018 - Session time: 14:00:00 - Track: Database Development
 ## Speaker: Deborah Melkin
 ## Title: From (User) Story to Tables: Read Between the Lines to Find Your Data
 ## Abstract:
@@ -317,7 +317,7 @@ This is for DBAs who are involved in any part of designing databases, who want t
 #### SessionID: 82022
 # Take the changes under control
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 28-07-2018 - Session time: 14:00:00 - Track: Database Administration
 ## Speaker: Alex Grinberg
 ## Title: Take the changes under control
 ## Abstract:
@@ -326,7 +326,7 @@ Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Administration
 #### SessionID: 83342
 # Query Optimization Techniques
 #### [Back to calendar](#nr-741)
-Event Date: 28-07-2018 - Session time: 15:30:00 - Track: Database Development
+Event Date: 28-07-2018 - Session time: 14:00:00 - Track: Database Development
 ## Speaker: Edward Pollack
 ## Title: Query Optimization Techniques
 ## Abstract:

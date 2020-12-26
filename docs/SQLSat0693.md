@@ -48,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 68636
 # Architecting a Data Lake (Paid Pre-con)
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-12-2017 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melissa Coates
 ## Title: Architecting a Data Lake (Paid Pre-con)
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: BI Platform Architectur
 #### SessionID: 68942
 # Securing the Data Platform: Crafting a Strategy That Works (Paid Pre-con)
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Strategy and Architecture
+Event Date: 09-12-2017 - Session time: 09:00:00 - Track: Strategy and Architecture
 ## Speaker: Ed Leighton-Dick
 ## Title: Securing the Data Platform: Crafting a Strategy That Works (Paid Pre-con)
 ## Abstract:
@@ -68,7 +68,7 @@ In this full-day course, we will take a tour of security for the Microsoft data 
 #### SessionID: 68190
 # Monitoring Availability Groups
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 08:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Monitoring Availability Groups
 ## Abstract:
@@ -79,7 +79,7 @@ You will walk away from this session with tools you need to monitor your environ
 #### SessionID: 68269
 # Database Corruption
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 08:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stephen Muliokela
 ## Title: Database Corruption
 ## Abstract:
@@ -97,7 +97,7 @@ Highlight of topics
 #### SessionID: 68553
 # Data Cleansing With SQL And R
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Analytics and Visualization
+Event Date: 09-12-2017 - Session time: 08:20:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Data Cleansing With SQL And R
 ## Abstract:
@@ -106,7 +106,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Analytics and Visualiza
 #### SessionID: 68558
 # Let Her Finish: Supporting Women's Voices in Technology
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 09-12-2017 - Session time: 08:20:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Let Her Finish: Supporting Women's Voices in Technology
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Professional Developmen
 #### SessionID: 69396
 # Reading Between the Lines - Using XEvents to Diagnose Application Issues
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 09-12-2017 - Session time: 08:20:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: Reading Between the Lines - Using XEvents to Diagnose Application Issues
 ## Abstract:
@@ -136,7 +136,7 @@ Lots of demos and take-away scripts!
 #### SessionID: 69423
 # Version control with GIT for the DBA
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 09-12-2017 - Session time: 08:20:00 - Track: Application  Database Development
 ## Speaker: Justin Dearing
 ## Title: Version control with GIT for the DBA
 ## Abstract:
@@ -158,7 +158,7 @@ We will be covering using git from both the command line and Visual Studio.
 #### SessionID: 69761
 # Getting started with SQL Azure Database: What you need to know
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 08:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Donahoe
 ## Title: Getting started with SQL Azure Database: What you need to know
 ## Abstract:
@@ -169,7 +169,7 @@ By the end of this presentation, you’ll understand if Azure SQL Database is th
 #### SessionID: 70140
 # The 7 Secrets to Creating a Brand that Clients Love
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 09-12-2017 - Session time: 08:20:00 - Track: Professional Development
 ## Speaker: Ivan Carter
 ## Title: The 7 Secrets to Creating a Brand that Clients Love
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Professional Developmen
 #### SessionID: 68002
 # SQL Server R Services in SQL 2016
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Analytics and Visualization
+Event Date: 09-12-2017 - Session time: 09:45:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Analytics and Visualiza
 #### SessionID: 68011
 # Who's flying the plane? What IT can learn from plane crashes
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 09-12-2017 - Session time: 09:45:00 - Track: Professional Development
 ## Speaker: Greg Moore
 ## Title: Who's flying the plane? What IT can learn from plane crashes
 ## Abstract:
@@ -203,7 +203,7 @@ I'll touch upon what we can learn from plane crashes and how those lessons can b
 #### SessionID: 68749
 # Controlling Competing Workloads with SQL Server Resource Governor
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Carrig
 ## Title: Controlling Competing Workloads with SQL Server Resource Governor
 ## Abstract:
@@ -212,7 +212,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 68760
 # SQL Graph
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 09-12-2017 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Azhagappan Arunachalam
 ## Title: SQL Graph
 ## Abstract:
@@ -221,7 +221,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 68868
 # Azure Data Lake: What, Why, and How
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-12-2017 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melissa Coates
 ## Title: Azure Data Lake: What, Why, and How
 ## Abstract:
@@ -230,7 +230,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: BI Platform Architectur
 #### SessionID: 69280
 # Getting the Most Out of Plan Reuse
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Kelly
 ## Title: Getting the Most Out of Plan Reuse
 ## Abstract:
@@ -239,7 +239,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 69535
 # Why is my DBA So Grumpy ... When I Use NOLOCK and Other Query Hints.
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 09-12-2017 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Why is my DBA So Grumpy ... When I Use NOLOCK and Other Query Hints.
 ## Abstract:
@@ -248,7 +248,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 69883
 # A Masters Passport to Extended Events
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: A Masters Passport to Extended Events
 ## Abstract:
@@ -262,7 +262,7 @@ You will be exposed to advanced troubleshooting techniques as we work through co
 #### SessionID: 68117
 # SQL Server on Linux for SQL DBA.
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Slava Murygin
 ## Title: SQL Server on Linux for SQL DBA.
 ## Abstract:
@@ -276,7 +276,7 @@ And I show you how to do it.
 #### SessionID: 69556
 # Introduction to Unit-Testing in SQL Server
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 09-12-2017 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Sebastian Meine
 ## Title: Introduction to Unit-Testing in SQL Server
 ## Abstract:
@@ -289,7 +289,7 @@ You will leave this session ready to write unit tests for your own environment t
 #### SessionID: 69757
 # Winning with Columnstore - A Customer Story
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Heiges
 ## Title: Winning with Columnstore - A Customer Story
 ## Abstract:
@@ -298,7 +298,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 69796
 # Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
 ## Abstract:
@@ -307,7 +307,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 69891
 # SSMS Tips and Tricks
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Wayne Sheffield
 ## Title: SSMS Tips and Tricks
 ## Abstract:
@@ -316,7 +316,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 69937
 # SSAS Cube Security: who can see what?
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: BI Information Delivery
+Event Date: 09-12-2017 - Session time: 11:10:00 - Track: BI Information Delivery
 ## Speaker: Ravi Kumar
 ## Title: SSAS Cube Security: who can see what?
 ## Abstract:
@@ -329,7 +329,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: BI Information Delivery
 #### SessionID: 70139
 # Network your Way to Success!
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 09-12-2017 - Session time: 11:10:00 - Track: Professional Development
 ## Speaker: Lisa Margerum
 ## Title: Network your Way to Success!
 ## Abstract:
@@ -342,7 +342,7 @@ Join us for an interactive session to strategize the best actions to increase yo
 #### SessionID: 71712
 # Intro to Service Broker
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 09-12-2017 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Edward Corcoran
 ## Title: Intro to Service Broker
 ## Abstract:
@@ -351,7 +351,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 68009
 # Presently Presenting.... Presenting
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 09-12-2017 - Session time: 13:40:00 - Track: Professional Development
 ## Speaker: Greg Moore
 ## Title: Presently Presenting.... Presenting
 ## Abstract:
@@ -368,7 +368,7 @@ This will be partly interactive so come with questions and be prepared to be ask
 #### SessionID: 68333
 # Automated SQL Server installation and configuration using PowerShell
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 13:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jamie Wick
 ## Title: Automated SQL Server installation and configuration using PowerShell
 ## Abstract:
@@ -377,7 +377,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 69225
 # From problem to Power BI:  A journey in data visualization
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Analytics and Visualization
+Event Date: 09-12-2017 - Session time: 13:40:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: From problem to Power BI:  A journey in data visualization
 ## Abstract:
@@ -386,7 +386,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Analytics and Visualiza
 #### SessionID: 69400
 # Help! I Need Somebody. Help!: Resources for the New or Accidental DBA
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 13:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mindy Curnutt
 ## Title: Help! I Need Somebody. Help!: Resources for the New or Accidental DBA
 ## Abstract:
@@ -395,7 +395,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 69534
 # Weird Stuff I Saw While ... Working With Heaps
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 09-12-2017 - Session time: 13:40:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Weird Stuff I Saw While ... Working With Heaps
 ## Abstract:
@@ -404,7 +404,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 69886
 # Extended Events - Better than Profiler
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 13:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Extended Events - Better than Profiler
 ## Abstract:
@@ -413,7 +413,7 @@ Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 70082
 # Azure SQL Databases: A Guided Tour
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Cloud Application Development  Deployment
+Event Date: 09-12-2017 - Session time: 13:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mike Walsh
 ## Title: Azure SQL Databases: A Guided Tour
 ## Abstract:
@@ -426,7 +426,7 @@ This will be nearly PowerPoint free and we’ll log into my Azure Portal and bui
 #### SessionID: 71679
 # Database Continuous Delivery  Your Salvation!
 #### [Back to calendar](#nr-693)
-Event Date: 09-12-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 09-12-2017 - Session time: 13:40:00 - Track: Application  Database Development
 ## Speaker: John Morehouse
 ## Title: Database Continuous Delivery  Your Salvation!
 ## Abstract:

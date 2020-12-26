@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 77051
 # SQL Server 2017 - Understanding Statistics
 #### [Back to calendar](#nr-747)
-Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Application  Database Development
+Event Date: 09-06-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Liviu Ieran
 ## Title: SQL Server 2017 - Understanding Statistics
 ## Abstract:
@@ -28,7 +28,7 @@ This will help you troubleshoot query performance at a more deeper level.
 #### SessionID: 78628
 # How powerful is Power BI?
 #### [Back to calendar](#nr-747)
-Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Application  Database Development
+Event Date: 09-06-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Laurentiu Codorean-Onea
 ## Title: How powerful is Power BI?
 ## Abstract:
@@ -37,7 +37,7 @@ Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Application  Database D
 #### SessionID: 73761
 # If a machine can learn, why can't YOU learn Azure Machine Learning?
 #### [Back to calendar](#nr-747)
-Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Application  Database Development
+Event Date: 09-06-2018 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: André Melancia
 ## Title: If a machine can learn, why can't YOU learn Azure Machine Learning?
 ## Abstract:
@@ -48,7 +48,7 @@ Disclaimer: Sadly, AzureML still can't predict what's on your girlfriend's mind.
 #### SessionID: 75795
 # SQL Code Smells
 #### [Back to calendar](#nr-747)
-Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Application  Database Development
+Event Date: 09-06-2018 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Cristian Lefter
 ## Title: SQL Code Smells
 ## Abstract:
@@ -61,7 +61,7 @@ In this session we will take a look at as many of them (code smells) as sixty mi
 #### SessionID: 73865
 # Dealing with CosmosDB
 #### [Back to calendar](#nr-747)
-Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Application  Database Development
+Event Date: 09-06-2018 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Mihail Mateev
 ## Title: Dealing with CosmosDB
 ## Abstract:
@@ -76,7 +76,7 @@ In this presentation, you will learn:
 #### SessionID: 83291
 # SQL SERVER - Next station Azure
 #### [Back to calendar](#nr-747)
-Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-06-2018 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dragos-Cristian Furdui
 ## Title: SQL SERVER - Next station Azure
 ## Abstract:
@@ -92,7 +92,7 @@ We will cover:
 #### SessionID: 82186
 # S (tudent) QL - SQL Server guide for students
 #### [Back to calendar](#nr-747)
-Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Application  Database Development
+Event Date: 09-06-2018 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Ozana Buse
 ## Title: S (tudent) QL - SQL Server guide for students
 ## Abstract:
@@ -102,7 +102,7 @@ In the session we will talk about how SQL Server can help you learn, integrate i
 #### SessionID: 83775
 # IoT Duel - Cloud vs. on Premises Solutions
 #### [Back to calendar](#nr-747)
-Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Application  Database Development
+Event Date: 09-06-2018 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Mihail Mateev
 ## Title: IoT Duel - Cloud vs. on Premises Solutions
 ## Abstract:

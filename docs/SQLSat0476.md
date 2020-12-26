@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 39932
 # T-SQL to MDX for Beginners
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSAS / Analytics
+Event Date: 14-11-2015 - Session time: 10:30:00 - Track: SSAS / Analytics
 ## Speaker: Dan King
 ## Title: T-SQL to MDX for Beginners
 ## Abstract:
@@ -41,7 +41,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSAS / Analytics
 #### SessionID: 39991
 # Interview Puzzles and how to handle them
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-11-2015 - Session time: 10:30:00 - Track: Professional Development
 ## Speaker: Mike Davis
 ## Title: Interview Puzzles and how to handle them
 ## Abstract:
@@ -50,7 +50,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 40677
 # Roadmap: What's Coming Next for SQL Server BI and Power BI 
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Power BI
+Event Date: 14-11-2015 - Session time: 10:30:00 - Track: Power BI
 ## Speaker: Jen Underwood
 ## Title: Roadmap: What's Coming Next for SQL Server BI and Power BI 
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Power BI
 #### SessionID: 40819
 # "Job Searches, Resumes, LinkedIn and Interviews are Fun" -said No One Ever
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-11-2015 - Session time: 10:30:00 - Track: Professional Development
 ## Speaker: Todd Davis
 ## Title: "Job Searches, Resumes, LinkedIn and Interviews are Fun" -said No One Ever
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 41116
 # Power BI Data Visualizations
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Power BI
+Event Date: 14-11-2015 - Session time: 10:30:00 - Track: Power BI
 ## Speaker: Jason Virtue
 ## Title: Power BI Data Visualizations
 ## Abstract:
@@ -78,7 +78,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Power BI
 #### SessionID: 41693
 # The Health Data Initiative: A Quick Start Guide for Entrepreneurs
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-11-2015 - Session time: 10:30:00 - Track: Professional Development
 ## Speaker: Jean-Paul Antona
 ## Title: The Health Data Initiative: A Quick Start Guide for Entrepreneurs
 ## Abstract:
@@ -89,7 +89,7 @@ Now the Health and Human Services Department has made health data free and easil
 #### SessionID: 41817
 # Expert Panel  QA
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-11-2015 - Session time: 12:15:00 - Track: Professional Development
 ## Speaker: Wes Springob
 ## Title: Expert Panel  QA
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 41818
 # Tegile Gold Sponsor Presentation
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-11-2015 - Session time: 12:15:00 - Track: Professional Development
 ## Speaker: Wes Springob
 ## Title: Tegile Gold Sponsor Presentation
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 41819
 # Pyramid Analytics Gold Sponsor Presentation
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-11-2015 - Session time: 12:15:00 - Track: Professional Development
 ## Speaker: Wes Springob
 ## Title: Pyramid Analytics Gold Sponsor Presentation
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 41820
 # Dobler Consulting Gold Sponsor Presentation
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-11-2015 - Session time: 12:15:00 - Track: Professional Development
 ## Speaker: Wes Springob
 ## Title: Dobler Consulting Gold Sponsor Presentation
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 40328
 # Calculated Columns, Measures, and KPIs, Oh My!
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSAS / Analytics
+Event Date: 14-11-2015 - Session time: 13:15:00 - Track: SSAS / Analytics
 ## Speaker: Michael Antonovich
 ## Title: Calculated Columns, Measures, and KPIs, Oh My!
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSAS / Analytics
 #### SessionID: 40652
 # Power BI: End to End
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Power BI
+Event Date: 14-11-2015 - Session time: 13:15:00 - Track: Power BI
 ## Speaker: Jorge Segarra
 ## Title: Power BI: End to End
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Power BI
 #### SessionID: 40836
 # Taking the Scare out of Monster Reports
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSIS / SSRS / Datazen
+Event Date: 14-11-2015 - Session time: 13:15:00 - Track: SSIS / SSRS / Datazen
 ## Speaker: Pam Shaw
 ## Title: Taking the Scare out of Monster Reports
 ## Abstract:
@@ -154,7 +154,7 @@ This session discusses how to use SQL Server Reporting Services (SSRS) to bring 
 #### SessionID: 40969
 # Indexing for performance
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Performance
+Event Date: 14-11-2015 - Session time: 13:15:00 - Track: Performance
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Performance
 #### SessionID: 41070
 # SQL Standup! - It's Not a Scrum Team for DBAs
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Data Quality / Misc
+Event Date: 14-11-2015 - Session time: 13:15:00 - Track: Data Quality / Misc
 ## Speaker: David Weingarten
 ## Title: SQL Standup! - It's Not a Scrum Team for DBAs
 ## Abstract:
@@ -172,7 +172,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Data Quality / Misc
 #### SessionID: 40198
 # Why I won't hire you and what you can do about it!
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-11-2015 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Leigh Freijo
 ## Title: Why I won't hire you and what you can do about it!
 ## Abstract:
@@ -181,7 +181,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 40538
 # Azure Machine Learning – Bringing Advanced Analytics to the Masses
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSAS / Analytics
+Event Date: 14-11-2015 - Session time: 14:45:00 - Track: SSAS / Analytics
 ## Speaker: Dan Clark
 ## Title: Azure Machine Learning – Bringing Advanced Analytics to the Masses
 ## Abstract:
@@ -190,7 +190,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSAS / Analytics
 #### SessionID: 40822
 # Datazen, Where does it fit?
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: SSIS / SSRS / Datazen
+Event Date: 14-11-2015 - Session time: 14:45:00 - Track: SSIS / SSRS / Datazen
 ## Speaker: Allen Ellison
 ## Title: Datazen, Where does it fit?
 ## Abstract:
@@ -203,7 +203,7 @@ Datazen is available for free download to anyone with a valid enterprise SQL Ser
 #### SessionID: 40829
 # Optimizing your data warehouse for OLAP Processing
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Performance
+Event Date: 14-11-2015 - Session time: 14:45:00 - Track: Performance
 ## Speaker: Konstantin Melamud
 ## Title: Optimizing your data warehouse for OLAP Processing
 ## Abstract:
@@ -212,7 +212,7 @@ Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Performance
 #### SessionID: 41026
 # Know Thyself. The Path to Self-Service BI Success
 #### [Back to calendar](#nr-476)
-Event Date: 14-11-2015 - Session time: 16:00:00 - Track: Data Quality / Misc
+Event Date: 14-11-2015 - Session time: 14:45:00 - Track: Data Quality / Misc
 ## Speaker: Edward Kench
 ## Title: Know Thyself. The Path to Self-Service BI Success
 ## Abstract:

@@ -19,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 12912
 # Build a SQL Server Machine - the right way
 #### [Back to calendar](#nr-400)
-Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
+Event Date: 23-05-2015 - Session time: 09:30:00 - Track: DBA\DEV
 ## Speaker: Danilo Dominici
 ## Title: Build a SQL Server Machine - the right way
 ## Abstract:
@@ -28,7 +28,7 @@ Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
 #### SessionID: 34851
 # SSRS Reports  HCI - How to build the perfect dashboard
 #### [Back to calendar](#nr-400)
-Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
+Event Date: 23-05-2015 - Session time: 09:30:00 - Track: BI\OPT
 ## Speaker: Nicola Pressi
 ## Title: SSRS Reports  HCI - How to build the perfect dashboard
 ## Abstract:
@@ -39,7 +39,7 @@ La sessione illustrer#224; come costruire delle dashboard utilizzando Reporting 
 #### SessionID: 14629
 # Analisi prestazionale (Performance Tuning) in Microsoft SQL Serve
 #### [Back to calendar](#nr-400)
-Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
+Event Date: 23-05-2015 - Session time: 10:45:00 - Track: DBA\DEV
 ## Speaker: Gilberto Zampatti
 ## Title: Analisi prestazionale (Performance Tuning) in Microsoft SQL Serve
 ## Abstract:
@@ -48,7 +48,7 @@ Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
 #### SessionID: 19489
 # Power BI Architecture
 #### [Back to calendar](#nr-400)
-Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
+Event Date: 23-05-2015 - Session time: 10:45:00 - Track: BI\OPT
 ## Speaker: Marco Russo
 ## Title: Power BI Architecture
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
 #### SessionID: 24398
 # Execution Plans in SQL Server and SQL Azure (IT)
 #### [Back to calendar](#nr-400)
-Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
+Event Date: 23-05-2015 - Session time: 12:00:00 - Track: DBA\DEV
 ## Speaker: Sergio Govoni
 ## Title: Execution Plans in SQL Server and SQL Azure (IT)
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
 #### SessionID: 9186
 # Tabular vs. Multidimensional in SQL Server Analysis Services 
 #### [Back to calendar](#nr-400)
-Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
+Event Date: 23-05-2015 - Session time: 12:00:00 - Track: BI\OPT
 ## Speaker: Alberto Ferrari
 ## Title: Tabular vs. Multidimensional in SQL Server Analysis Services 
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
 #### SessionID: 35675
 # SQL Server AlwaysOn
 #### [Back to calendar](#nr-400)
-Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
+Event Date: 23-05-2015 - Session time: 14:00:00 - Track: DBA\DEV
 ## Speaker: Gianluca Hotz
 ## Title: SQL Server AlwaysOn
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
 #### SessionID: 36402
 # AzureML - Creating and Using Machine Learning Solutions (IT)
 #### [Back to calendar](#nr-400)
-Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
+Event Date: 23-05-2015 - Session time: 14:00:00 - Track: BI\OPT
 ## Speaker: Davide Mauri
 ## Title: AzureML - Creating and Using Machine Learning Solutions (IT)
 ## Abstract:
@@ -94,7 +94,7 @@ In questa sessione vedremo cos'#232; il machine learning, quali sono le diverse 
 #### SessionID: 20228
 # Entity Framework 7, Back To The Future!
 #### [Back to calendar](#nr-400)
-Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
+Event Date: 23-05-2015 - Session time: 15:15:00 - Track: BI\OPT
 ## Speaker: Michael Denny
 ## Title: Entity Framework 7, Back To The Future!
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 23-05-2015 - Session time: 16:30:00 - Track: BI\OPT
 #### SessionID: 25898
 # Database under source control
 #### [Back to calendar](#nr-400)
-Event Date: 23-05-2015 - Session time: 16:30:00 - Track: DBA\DEV
+Event Date: 23-05-2015 - Session time: 15:15:00 - Track: DBA\DEV
 ## Speaker: Alessandro Alpi
 ## Title: Database under source control
 ## Abstract:

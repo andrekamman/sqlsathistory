@@ -53,7 +53,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 63261
 # Enabling Familiar, Powerful Business Intelligence
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Information Delivery
+Event Date: 30-09-2017 - Session time: 08:45:00 - Track: BI Information Delivery
 ## Speaker: Sayed Saeed
 ## Title: Enabling Familiar, Powerful Business Intelligence
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Information Delivery
 #### SessionID: 63884
 # Drinking From the Firehose: a Guide to Keeping Up with Technology
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 30-09-2017 - Session time: 08:45:00 - Track: Professional Development
 ## Speaker: Eugene Meidinger
 ## Title: Drinking From the Firehose: a Guide to Keeping Up with Technology
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Developmen
 #### SessionID: 64778
 # What is a DBA?
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Other
+Event Date: 30-09-2017 - Session time: 08:45:00 - Track: Other
 ## Speaker: Michael John
 ## Title: What is a DBA?
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Other
 #### SessionID: 64998
 # Running SQL Server in AWS
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
+Event Date: 30-09-2017 - Session time: 08:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Brian Carrig
 ## Title: Running SQL Server in AWS
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Cloud Application Devel
 #### SessionID: 65370
 # Does This Look Weird?  The Importance Of Baselining
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Does This Look Weird?  The Importance Of Baselining
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 68159
 # Indexing Fundamentals
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 30-09-2017 - Session time: 08:45:00 - Track: Application  Database Development
 ## Speaker: Steve Hood
 ## Title: Indexing Fundamentals
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database D
 #### SessionID: 68276
 # CONVERT_IMPLICIT is a hidden danger
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Advanced Analysis Techniques
+Event Date: 30-09-2017 - Session time: 08:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Alex Grinberg
 ## Title: CONVERT_IMPLICIT is a hidden danger
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Advanced Analysis Techn
 #### SessionID: 62852
 # Got stress?  Sometimes the SQL Server needs some too
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: Got stress?  Sometimes the SQL Server needs some too
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 63024
 # Excel with DAX
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 30-09-2017 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Azhagappan Arunachalam
 ## Title: Excel with DAX
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Platform Architectur
 #### SessionID: 63317
 # Refresh a 1TB+ database in under 10 seconds
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrzej Pilacik
 ## Title: Refresh a 1TB+ database in under 10 seconds
 ## Abstract:
@@ -144,7 +144,7 @@ Finally, the presentation will focus on an architecture based on SAN technologie
 #### SessionID: 65241
 # DBA - What's Most Important
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Other
+Event Date: 30-09-2017 - Session time: 10:00:00 - Track: Other
 ## Speaker: Ed Wagner
 ## Title: DBA - What's Most Important
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Other
 #### SessionID: 66596
 # Configuring DBaaS for the first time!
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
+Event Date: 30-09-2017 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Donahoe
 ## Title: Configuring DBaaS for the first time!
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Cloud Application Devel
 #### SessionID: 68586
 # Getting Involved and Getting Ahead
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 30-09-2017 - Session time: 10:00:00 - Track: Professional Development
 ## Speaker: Tim Radney
 ## Title: Getting Involved and Getting Ahead
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Developmen
 #### SessionID: 69345
 # SSIS Incremental Loading:  The Tortoise and The Hare
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 30-09-2017 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeremy Frye
 ## Title: SSIS Incremental Loading:  The Tortoise and The Hare
 ## Abstract:
@@ -182,7 +182,7 @@ In this session, we will cover a variety of incremental design approaches center
 #### SessionID: 61680
 # Recovery and Backup for Beginners
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Other
+Event Date: 30-09-2017 - Session time: 11:15:00 - Track: Other
 ## Speaker: Mike Hillwig
 ## Title: Recovery and Backup for Beginners
 ## Abstract:
@@ -193,7 +193,7 @@ In this session, veteran DBA Mike Hillwig will start with understanding the reco
 #### SessionID: 63805
 # Finding more space for your tight environment.
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Chan
 ## Title: Finding more space for your tight environment.
 ## Abstract:
@@ -205,7 +205,7 @@ And in the final I will defragment the indexes and update the statistics, since 
 #### SessionID: 65465
 # How to get Microsoft Certified
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 30-09-2017 - Session time: 11:15:00 - Track: Professional Development
 ## Speaker: John Deardurff
 ## Title: How to get Microsoft Certified
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Developmen
 #### SessionID: 65713
 # Using Filetables
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 30-09-2017 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: Using Filetables
 ## Abstract:
@@ -223,7 +223,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database D
 #### SessionID: 68599
 # Tools for the DBA Newbie: What I Wish I Had Known Years Ago
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 30-09-2017 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: Ryan Booz
 ## Title: Tools for the DBA Newbie: What I Wish I Had Known Years Ago
 ## Abstract:
@@ -236,7 +236,7 @@ I’ve learned all of this gradually, but I’m happy to give you a head start. 
 #### SessionID: 68604
 # Cross Tabs  Pivots - Much More Than Just Converting Rows to Columns
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 30-09-2017 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: Jeff Moden
 ## Title: Cross Tabs  Pivots - Much More Than Just Converting Rows to Columns
 ## Abstract:
@@ -249,7 +249,7 @@ Don't let the "Intermediate" rating of this session scare you beginners away bec
 #### SessionID: 69340
 # Stop Doing That! Common T-SQL Anti-Patterns
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 30-09-2017 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Stop Doing That! Common T-SQL Anti-Patterns
 ## Abstract:
@@ -262,7 +262,7 @@ By the end of the session, you will be able to quickly identify these common ant
 #### SessionID: 69808
 # Lunch break
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Advanced Analysis Techniques
+Event Date: 30-09-2017 - Session time: 12:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Matt Nelson
 ## Title: Lunch break
 ## Abstract:
@@ -271,7 +271,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Advanced Analysis Techn
 #### SessionID: 69747
 # New Horizons lunchtime chat
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Other
+Event Date: 30-09-2017 - Session time: 12:55:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: New Horizons lunchtime chat
 ## Abstract:
@@ -281,7 +281,7 @@ No food is allowed in the classroom, please eat in the gallery or cafe first.
 #### SessionID: 69748
 # Plus Consulting lunchtime chat
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Other
+Event Date: 30-09-2017 - Session time: 12:55:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: Plus Consulting lunchtime chat
 ## Abstract:
@@ -291,7 +291,7 @@ No food is allowed in the classroom, please eat in the gallery or cafe first.
 #### SessionID: 61684
 # SQL Server on Linux for SQL DBA.
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Slava Murygin
 ## Title: SQL Server on Linux for SQL DBA.
 ## Abstract:
@@ -305,7 +305,7 @@ And I show you how to do it.
 #### SessionID: 62862
 # Access, Users, Permissions for Beginners!
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dummea Vincent
 ## Title: Access, Users, Permissions for Beginners!
 ## Abstract:
@@ -314,7 +314,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 64014
 # Crash Course on Better SQL Development
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 30-09-2017 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
 ## Abstract:
@@ -323,7 +323,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database D
 #### SessionID: 66484
 # SQL Server Data Tools (SSDT) Basics
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 30-09-2017 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Steve Grier
 ## Title: SQL Server Data Tools (SSDT) Basics
 ## Abstract:
@@ -332,7 +332,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database D
 #### SessionID: 66749
 # Machine Learning Melee: AWS vs Azure
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Analytics and Visualization
+Event Date: 30-09-2017 - Session time: 13:30:00 - Track: Analytics and Visualization
 ## Speaker: Frank La Vigne
 ## Title: Machine Learning Melee: AWS vs Azure
 ## Abstract:
@@ -347,7 +347,7 @@ Come to this session to get a first hand account of a former Microsoft evangelis
 #### SessionID: 67890
 # Maintain SQL Server Performance Baseline w/PowerShell
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Maintain SQL Server Performance Baseline w/PowerShell
 ## Abstract:
@@ -356,7 +356,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 69323
 # Geo Location of Twitter messages in Power BI
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Information Delivery
+Event Date: 30-09-2017 - Session time: 13:30:00 - Track: BI Information Delivery
 ## Speaker: Rayis Imayev
 ## Title: Geo Location of Twitter messages in Power BI
 ## Abstract:
@@ -373,7 +373,7 @@ However, Geo location for twitter messages is not available (if we want to filte
 #### SessionID: 63791
 # Tackling Technical Blogging
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 30-09-2017 - Session time: 14:40:00 - Track: Professional Development
 ## Speaker: Mike Hays
 ## Title: Tackling Technical Blogging
 ## Abstract:
@@ -382,7 +382,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Developmen
 #### SessionID: 64862
 # SSAS 2016 Tabular - Diving into the new features
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 30-09-2017 - Session time: 14:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Beswick
 ## Title: SSAS 2016 Tabular - Diving into the new features
 ## Abstract:
@@ -391,7 +391,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Platform Architectur
 #### SessionID: 65040
 # DBAs vs Developers: JSON in SQL Server 2016
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 30-09-2017 - Session time: 14:40:00 - Track: Application  Database Development
 ## Speaker: Bert Wagner
 ## Title: DBAs vs Developers: JSON in SQL Server 2016
 ## Abstract:
@@ -406,7 +406,7 @@ By the end of this session DBAs and developers will know how to efficiently work
 #### SessionID: 65218
 # An introduction to the magical world of BIML!
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 30-09-2017 - Session time: 14:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
 ## Abstract:
@@ -415,7 +415,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: BI Platform Architectur
 #### SessionID: 66993
 # Getting Noticed: Strategies for Your Resume and LinkedIn
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 30-09-2017 - Session time: 14:40:00 - Track: Professional Development
 ## Speaker: Rick Heiges
 ## Title: Getting Noticed: Strategies for Your Resume and LinkedIn
 ## Abstract:
@@ -424,7 +424,7 @@ Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Professional Developmen
 #### SessionID: 68401
 # The DBA Survival Guide for In-Memory OLTP
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 14:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ned Otter
 ## Title: The DBA Survival Guide for In-Memory OLTP
 ## Abstract:
@@ -439,7 +439,7 @@ Attendees will gain a clear understanding of the knowledge and skills required t
 #### SessionID: 69440
 # SSMS Tips and Tricks
 #### [Back to calendar](#nr-636)
-Event Date: 30-09-2017 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 30-09-2017 - Session time: 14:40:00 - Track: Application  Database Development
 ## Speaker: Eric Blinn
 ## Title: SSMS Tips and Tricks
 ## Abstract:

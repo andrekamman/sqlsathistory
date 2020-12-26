@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 37987
 # 10 Cosas que debes de dejar de hacer en una base de datos
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-08-2015 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adrian Miranda
 ## Title: 10 Cosas que debes de dejar de hacer en una base de datos
 ## Abstract:
@@ -51,7 +51,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 37988
 # T#233;cnicas de afinamiento para SQL Server 2014
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-08-2015 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adrian Miranda
 ## Title: T#233;cnicas de afinamiento para SQL Server 2014
 ## Abstract:
@@ -63,7 +63,7 @@ Mediante ejemplos pr#225;cticos analizaremos que aspectos debemos de tomar en co
 #### SessionID: 39000
 # SQL Server como fuente de datos para Office 365
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 22-08-2015 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: David Sánchez Aguilar
 ## Title: SQL Server como fuente de datos para Office 365
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 39062
 # SQL Server R#225;pido y Furioso
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 22-08-2015 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Alejandro Cordero
 ## Title: SQL Server R#225;pido y Furioso
 ## Abstract:
@@ -81,7 +81,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 39210
 # El ABC de almacenamiento e #237;ndices en Sql Server
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 22-08-2015 - Session time: 09:00:00 - Track: Strategy and Architecture
 ## Speaker: Ahias Portillo
 ## Title: El ABC de almacenamiento e #237;ndices en Sql Server
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Strategy and Architectu
 #### SessionID: 39221
 # Administre, Diagnostique y Resuelva problemas sobre su SQL Server
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-08-2015 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: German Ordonez
 ## Title: Administre, Diagnostique y Resuelva problemas sobre su SQL Server
 ## Abstract:
@@ -107,7 +107,7 @@ Bloqueos
 #### SessionID: 39348
 # Herramientas de perfilamiento de datos para DataWareHouse
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-08-2015 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Maristel Castro Montero
 ## Title: Herramientas de perfilamiento de datos para DataWareHouse
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 39355
 # Introducci#243;n a Azure DocumentDB
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 22-08-2015 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Marlon Ramos
 ## Title: Introducci#243;n a Azure DocumentDB
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 39363
 # S#250;base al Bus de la Inteligencia de Negocios y h#225;galo #161;#193;gilmente!
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-08-2015 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ricardo Estrada
 ## Title: S#250;base al Bus de la Inteligencia de Negocios y h#225;galo #161;#193;gilmente!
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 36876
 # Primeros pasos en modelos Multidimensionales con Analysis Services
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-08-2015 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Primeros pasos en modelos Multidimensionales con Analysis Services
 ## Abstract:
@@ -145,7 +145,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 38760
 # SQL Server Query Processor
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-08-2015 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eduardo Castro
 ## Title: SQL Server Query Processor
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 38992
 # Quien se ha llevado mi cambio? Del caos al Control
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 22-08-2015 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Carlos Lone
 ## Title: Quien se ha llevado mi cambio? Del caos al Control
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 39333
 # Patrones de b#250;squeda en rangos con LookUps
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-08-2015 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jorge García
 ## Title: Patrones de b#250;squeda en rangos con LookUps
 ## Abstract:
@@ -172,7 +172,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 36874
 # Acceso a datos para soluciones altamente escalables usando SQL, noSQL y persistencia pol#237;glota
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 22-08-2015 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Walter Montes
 ## Title: Acceso a datos para soluciones altamente escalables usando SQL, noSQL y persistencia pol#237;glota
 ## Abstract:
@@ -181,7 +181,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 39207
 # SSAS mejores pr#225;cticas.
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-08-2015 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ahias Portillo
 ## Title: SSAS mejores pr#225;cticas.
 ## Abstract:
@@ -190,7 +190,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 39298
 # Empezando y entendiendo Power Query y el Lenguaje M, Parte de Power BI
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 22-08-2015 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Victor Hugo Cardenas
 ## Title: Empezando y entendiendo Power Query y el Lenguaje M, Parte de Power BI
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 39321
 # Expandiendo las fronteras de SSIS (Cargando datos desde Web Services JSON)
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-08-2015 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mario Guzman
 ## Title: Expandiendo las fronteras de SSIS (Cargando datos desde Web Services JSON)
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 39331
 # Los 10 mandamientos de Jesus
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-08-2015 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Los 10 mandamientos de Jesus
 ## Abstract:
@@ -218,7 +218,7 @@ Esta charla te hablara de los 10 mandamientos que todo buen DBA debe de conocer 
 #### SessionID: 36873
 # Si soy un desarrollador, #191;qu#233; debo conocer de SQL Server?
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 22-08-2015 - Session time: 12:00:00 - Track: Application  Database Development
 ## Speaker: Walter Montes
 ## Title: Si soy un desarrollador, #191;qu#233; debo conocer de SQL Server?
 ## Abstract:
@@ -227,7 +227,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 38818
 # Conozcamos  Datazen la nueva plataforma m#243;vil para tableros de BI
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 22-08-2015 - Session time: 12:00:00 - Track: BI Information Delivery
 ## Speaker: Raul Sao
 ## Title: Conozcamos  Datazen la nueva plataforma m#243;vil para tableros de BI
 ## Abstract:
@@ -236,7 +236,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 38840
 # Conexi#243;n h#237;birda de Azure con SQL Server On-Premise
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 22-08-2015 - Session time: 12:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: David Sánchez Aguilar
 ## Title: Conexi#243;n h#237;birda de Azure con SQL Server On-Premise
 ## Abstract:
@@ -245,7 +245,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 39114
 # SQL 2016: mas alla de su centro de datos
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-08-2015 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Juan Alvarado
 ## Title: SQL 2016: mas alla de su centro de datos
 ## Abstract:
@@ -255,7 +255,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 39361
 # Todo lo que siempre quiso saber sobre SSMSy MS no tuvo tiempo de ense#241;arte
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-08-2015 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Javier Loria
 ## Title: Todo lo que siempre quiso saber sobre SSMSy MS no tuvo tiempo de ense#241;arte
 ## Abstract:
@@ -264,7 +264,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 37570
 # Herramientas SQL Server y Microsoft Azure para el Cient#237;fico de Datos
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 22-08-2015 - Session time: 14:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Eduardo Castro
 ## Title: Herramientas SQL Server y Microsoft Azure para el Cient#237;fico de Datos
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 38817
 # Aprende a utilizar Power BI Designer
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 22-08-2015 - Session time: 14:15:00 - Track: BI Information Delivery
 ## Speaker: Raul Sao
 ## Title: Aprende a utilizar Power BI Designer
 ## Abstract:
@@ -282,7 +282,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 38838
 # Agregando Azure Search a nuestras Web Apps
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 22-08-2015 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: David Sánchez Aguilar
 ## Title: Agregando Azure Search a nuestras Web Apps
 ## Abstract:
@@ -291,7 +291,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 39335
 # Dr Rudo SQL: Mejores practicas para Administradores de SQL Server y Azure
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-08-2015 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Dr Rudo SQL: Mejores practicas para Administradores de SQL Server y Azure
 ## Abstract:
@@ -302,7 +302,7 @@ Hablaremos de buenas practicas y como un  de la tecnolog#237;a de balanceadores 
 #### SessionID: 39349
 # SQL Saludable
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-08-2015 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marlon Ramos
 ## Title: SQL Saludable
 ## Abstract:
@@ -311,7 +311,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 39354
 # Tuning con QUERY STORE la nueva caracter#237;stica de SQL 2016
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-08-2015 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ricardo Estrada
 ## Title: Tuning con QUERY STORE la nueva caracter#237;stica de SQL 2016
 ## Abstract:
@@ -323,7 +323,7 @@ Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 39985
 # Power BI 2.0: todo lo que ha querido saber sobre BI en la nube
 #### [Back to calendar](#nr-443)
-Event Date: 22-08-2015 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 22-08-2015 - Session time: 14:15:00 - Track: BI Information Delivery
 ## Speaker: Juan Alvarado
 ## Title: Power BI 2.0: todo lo que ha querido saber sobre BI en la nube
 ## Abstract:

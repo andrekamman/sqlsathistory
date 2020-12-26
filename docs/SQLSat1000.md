@@ -55,7 +55,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 105524
 # Intro to Power BI
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Platform Architecture  Administration
+Event Date: 24-10-2020 - Session time: 06:00:00 - Track: BI Platform Architecture  Administration
 ## Speaker: David Patrick
 ## Title: Intro to Power BI
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Platform Architectur
 #### SessionID: 105571
 # How to Troubleshoot a Slow Running Query in SQL Server
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-10-2020 - Session time: 06:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amit R S Bansal
 ## Title: How to Troubleshoot a Slow Running Query in SQL Server
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Enterprise Database Adm
 #### SessionID: 107559
 # Common ETL Patterns using Azure Databricks
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Platform Architecture  Administration
+Event Date: 24-10-2020 - Session time: 06:00:00 - Track: BI Platform Architecture  Administration
 ## Speaker: Joshua Higginbotham
 ## Title: Common ETL Patterns using Azure Databricks
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Platform Architectur
 #### SessionID: 107610
 # SQL Server 2019 Big Data Clusters: Make SQL Server your Data Hub for everything
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-10-2020 - Session time: 06:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Weissman
 ## Title: SQL Server 2019 Big Data Clusters: Make SQL Server your Data Hub for everything
 ## Abstract:
@@ -95,7 +95,7 @@ In this session we are going to explore the capabilities of the exciting new fea
 #### SessionID: 107635
 # Certification Exams Inside Out
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Learning, Certification and Career Development
+Event Date: 24-10-2020 - Session time: 06:00:00 - Track: Learning, Certification and Career Development
 ## Speaker: William Assaf
 ## Title: Certification Exams Inside Out
 ## Abstract:
@@ -104,7 +104,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Learning, Certification
 #### SessionID: 108098
 # Dynamic SQL: Writing Efficient Queries on the Fly
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Application  Database Development
+Event Date: 24-10-2020 - Session time: 06:00:00 - Track: Application  Database Development
 ## Speaker: Edward Pollack
 ## Title: Dynamic SQL: Writing Efficient Queries on the Fly
 ## Abstract:
@@ -117,7 +117,7 @@ Applications that will be demonstrated include: mapping database relationships, 
 #### SessionID: 108305
 # First Steps to Work with Graphs in AZURE SQL DB
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Development, Modeling and Visualization
+Event Date: 24-10-2020 - Session time: 06:00:00 - Track: BI Development, Modeling and Visualization
 ## Speaker: Wagner Crivelini
 ## Title: First Steps to Work with Graphs in AZURE SQL DB
 ## Abstract:
@@ -126,7 +126,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Development, Modelin
 #### SessionID: 108322
 # SQL Server 2019: More Intelligent than ever
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-10-2020 - Session time: 06:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dennes Torres
 ## Title: SQL Server 2019: More Intelligent than ever
 ## Abstract:
@@ -139,7 +139,7 @@ Attending this session you will discover these answers and more
 #### SessionID: 105926
 # A Tour of Azure DevOps and TFS
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Application  Database Development
+Event Date: 24-10-2020 - Session time: 07:30:00 - Track: Application  Database Development
 ## Speaker: Steve Jones
 ## Title: A Tour of Azure DevOps and TFS
 ## Abstract:
@@ -151,7 +151,7 @@ At the end of this session, attendees will be more comfortable getting started w
 #### SessionID: 107357
 # SELECT Questions FROM Diversity.Inclusion WHERE AfraidToAsk = 1
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Learning, Certification and Career Development
+Event Date: 24-10-2020 - Session time: 07:30:00 - Track: Learning, Certification and Career Development
 ## Speaker: Andrea Mascher
 ## Title: SELECT Questions FROM Diversity.Inclusion WHERE AfraidToAsk = 1
 ## Abstract:
@@ -162,7 +162,7 @@ This session will cover key concepts in DEI and how they apply to data practitio
 #### SessionID: 107451
 # 10 Cloudy Questions to Ask Before Migrating Your SQL Server
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-10-2020 - Session time: 07:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: 10 Cloudy Questions to Ask Before Migrating Your SQL Server
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Enterprise Database Adm
 #### SessionID: 107621
 # SQL Engine: Its Working Style
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-10-2020 - Session time: 07:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Deepthi Goguri
 ## Title: SQL Engine: Its Working Style
 ## Abstract:
@@ -181,7 +181,7 @@ Deepthi will show you how the SQL engine thinks – enabling you to think like i
 #### SessionID: 107634
 # Ethics in Modern Data
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Development, Modeling and Visualization
+Event Date: 24-10-2020 - Session time: 07:30:00 - Track: BI Development, Modeling and Visualization
 ## Speaker: William Assaf
 ## Title: Ethics in Modern Data
 ## Abstract:
@@ -190,7 +190,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Development, Modelin
 #### SessionID: 108056
 # Execution plans ... where do I start?
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Tuning and Optimization
+Event Date: 24-10-2020 - Session time: 07:30:00 - Track: Tuning and Optimization
 ## Speaker: Hugo Kornelis
 ## Title: Execution plans ... where do I start?
 ## Abstract:
@@ -205,7 +205,7 @@ In this session you will learn how to obtain execution plans. and how to start r
 #### SessionID: 108068
 # Azure SQL Managed Instance - Experiences from the Field
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 24-10-2020 - Session time: 07:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Azure SQL Managed Instance - Experiences from the Field
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Cloud Application Devel
 #### SessionID: 108784
 # Power BI QA/AMA with GuyInACube  Microsoft Leaders
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Platform Architecture  Administration
+Event Date: 24-10-2020 - Session time: 07:30:00 - Track: BI Platform Architecture  Administration
 ## Speaker: Adam Saxton
 ## Title: Power BI QA/AMA with GuyInACube  Microsoft Leaders
 ## Abstract:
@@ -223,7 +223,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Platform Architectur
 #### SessionID: 107452
 # Modern SQL Server CPU Architectures for Performance
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-10-2020 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Modern SQL Server CPU Architectures for Performance
 ## Abstract:
@@ -232,7 +232,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Enterprise Database Adm
 #### SessionID: 107497
 # Every Millisecond Counts
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-10-2020 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jared Poché
 ## Title: Every Millisecond Counts
 ## Abstract:
@@ -242,7 +242,7 @@ This session is a case study on improving a procedure that runs 350 million time
 #### SessionID: 107514
 # Guiding User Experiences With Advanced Reporting Features
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Development, Modeling and Visualization
+Event Date: 24-10-2020 - Session time: 09:00:00 - Track: BI Development, Modeling and Visualization
 ## Speaker: Reid Havens
 ## Title: Guiding User Experiences With Advanced Reporting Features
 ## Abstract:
@@ -251,7 +251,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Development, Modelin
 #### SessionID: 107582
 # Power BI Tips, Tricks  Hacks from the Trenches
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Platform Architecture  Administration
+Event Date: 24-10-2020 - Session time: 09:00:00 - Track: BI Platform Architecture  Administration
 ## Speaker: Rui Romano
 ## Title: Power BI Tips, Tricks  Hacks from the Trenches
 ## Abstract:
@@ -262,7 +262,7 @@ This session is a collection of my top tips, tricks  hacks gathered over the yea
 #### SessionID: 107611
 # Jupyter Notebooks for DBAs
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-10-2020 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Sewell
 ## Title: Jupyter Notebooks for DBAs
 ## Abstract:
@@ -281,7 +281,7 @@ We will have fun as well.
 #### SessionID: 108306
 # Implementing Cryptography in AZURE SQL DB with Geo-Replication
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 24-10-2020 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Wagner Crivelini
 ## Title: Implementing Cryptography in AZURE SQL DB with Geo-Replication
 ## Abstract:
@@ -290,7 +290,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Cloud Application Devel
 #### SessionID: 108320
 # Why Synapse Analytics is beyond Azure SQL Datawarehouse
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Platform Architecture  Administration
+Event Date: 24-10-2020 - Session time: 09:00:00 - Track: BI Platform Architecture  Administration
 ## Speaker: Dennes Torres
 ## Title: Why Synapse Analytics is beyond Azure SQL Datawarehouse
 ## Abstract:
@@ -299,7 +299,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Platform Architectur
 #### SessionID: 108371
 # Proper Data Type Usage=Guaranteed Better Performance and Accuracy
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Application  Database Development
+Event Date: 24-10-2020 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Vern Rabe
 ## Title: Proper Data Type Usage=Guaranteed Better Performance and Accuracy
 ## Abstract:
@@ -310,7 +310,7 @@ In this demo-heavy presentation I will show you the importance of choosing the p
 #### SessionID: 104552
 # Real-World Data Movement and Orchestration Patterns using Azure Data Factory
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Platform Architecture  Administration
+Event Date: 24-10-2020 - Session time: 16:00:00 - Track: BI Platform Architecture  Administration
 ## Speaker: Jason Horner
 ## Title: Real-World Data Movement and Orchestration Patterns using Azure Data Factory
 ## Abstract:
@@ -320,7 +320,7 @@ Whether you are just getting started with Azure Data Factory or looking to make 
 #### SessionID: 105797
 # Automated machine learning with Azure AutoML
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Application  Database Development
+Event Date: 24-10-2020 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Rahat Yasir
 ## Title: Automated machine learning with Azure AutoML
 ## Abstract:
@@ -329,7 +329,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Application  Database D
 #### SessionID: 105900
 # Monitoring SQL Server using Community solutions (Free)
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-10-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Javier Villegas
 ## Title: Monitoring SQL Server using Community solutions (Free)
 ## Abstract:
@@ -338,7 +338,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Enterprise Database Adm
 #### SessionID: 107114
 # Build a Complete Azure Data Platform in 1 Hour
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 24-10-2020 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Patrick Gallucci
 ## Title: Build a Complete Azure Data Platform in 1 Hour
 ## Abstract:
@@ -348,7 +348,7 @@ Patrick Gallucci will share a service delivery approach that helps organizations
 #### SessionID: 107597
 # Navigating Row Level Security
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Application  Database Development
+Event Date: 24-10-2020 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Erin Dempster
 ## Title: Navigating Row Level Security
 ## Abstract:
@@ -357,7 +357,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Application  Database D
 #### SessionID: 107614
 # 10 DBA Tasks for Azure SQL: Whats Different from On-Prem
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-10-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rie Irish
 ## Title: 10 DBA Tasks for Azure SQL: Whats Different from On-Prem
 ## Abstract:
@@ -366,7 +366,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Enterprise Database Adm
 #### SessionID: 107915
 # Data Modeling Solutions for Challenging BI Data Modeling Problems
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Development, Modeling and Visualization
+Event Date: 24-10-2020 - Session time: 16:00:00 - Track: BI Development, Modeling and Visualization
 ## Speaker: Paul Turley
 ## Title: Data Modeling Solutions for Challenging BI Data Modeling Problems
 ## Abstract:
@@ -375,7 +375,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Development, Modelin
 #### SessionID: 108114
 # Can you trust the intelligence of Application tracking systems with your CV?
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Learning, Certification and Career Development
+Event Date: 24-10-2020 - Session time: 16:00:00 - Track: Learning, Certification and Career Development
 ## Speaker: Ondrej Aubrecht
 ## Title: Can you trust the intelligence of Application tracking systems with your CV?
 ## Abstract:
@@ -391,7 +391,7 @@ Come along to this session and find out more about REAL DATA analysis and scanni
 #### SessionID: 104460
 # Python: Turn your SQL ETL up to 11
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Application  Database Development
+Event Date: 24-10-2020 - Session time: 17:30:00 - Track: Application  Database Development
 ## Speaker: Andrew Kalik
 ## Title: Python: Turn your SQL ETL up to 11
 ## Abstract:
@@ -400,7 +400,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Application  Database D
 #### SessionID: 104634
 # Mental Health in IT: Safeguarding our most precious resource
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Learning, Certification and Career Development
+Event Date: 24-10-2020 - Session time: 17:30:00 - Track: Learning, Certification and Career Development
 ## Speaker: Tracy Boggiano
 ## Title: Mental Health in IT: Safeguarding our most precious resource
 ## Abstract:
@@ -409,7 +409,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Learning, Certification
 #### SessionID: 105535
 # Understanding SQL Server Views - The Right Way
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Application  Database Development
+Event Date: 24-10-2020 - Session time: 17:30:00 - Track: Application  Database Development
 ## Speaker: Ramesh Satya
 ## Title: Understanding SQL Server Views - The Right Way
 ## Abstract:
@@ -418,7 +418,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Application  Database D
 #### SessionID: 105725
 # Notebooks 101 for SQL People
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-10-2020 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Julie Koesmarno
 ## Title: Notebooks 101 for SQL People
 ## Abstract:
@@ -431,7 +431,7 @@ Azure Data Studio Notebooks support SQL and KQL natively with intellisense; with
 #### SessionID: 105815
 # The Countless Benefits of Mentoring
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Learning, Certification and Career Development
+Event Date: 24-10-2020 - Session time: 17:30:00 - Track: Learning, Certification and Career Development
 ## Speaker: Mark Runyon
 ## Title: The Countless Benefits of Mentoring
 ## Abstract:
@@ -440,7 +440,7 @@ Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Learning, Certification
 #### SessionID: 105851
 # Basic Data Modeling for BI Reporting
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: BI Platform Architecture  Administration
+Event Date: 24-10-2020 - Session time: 17:30:00 - Track: BI Platform Architecture  Administration
 ## Speaker: Michael McKinley
 ## Title: Basic Data Modeling for BI Reporting
 ## Abstract:
@@ -453,7 +453,7 @@ In this session, we will review how tools like Power BI work under the covers an
 #### SessionID: 107573
 # Developing Cosmos DB for the Enterprise
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 24-10-2020 - Session time: 17:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Will Velida
 ## Title: Developing Cosmos DB for the Enterprise
 ## Abstract:
@@ -466,7 +466,7 @@ By the end of this session, you should be able to take these learnings and apply
 #### SessionID: 108178
 # Power BI dataflows and How to Leverage for Data Science
 #### [Back to calendar](#nr-1000)
-Event Date: 24-10-2020 - Session time: 19:00:00 - Track: Advanced Analysis and Machine Learning
+Event Date: 24-10-2020 - Session time: 17:30:00 - Track: Advanced Analysis and Machine Learning
 ## Speaker: Jamey Johnston
 ## Title: Power BI dataflows and How to Leverage for Data Science
 ## Abstract:

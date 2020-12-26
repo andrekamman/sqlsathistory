@@ -13,7 +13,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 39605
 # Query Plans and Indexes in SQL Server
 #### [Back to calendar](#nr-466)
-Event Date: 21-11-2015 - Session time: 14:30:00 - Track: Application  Database Development and Administration
+Event Date: 21-11-2015 - Session time: 09:45:00 - Track: Application  Database Development and Administration
 ## Speaker: Michael DeFehr
 ## Title: Query Plans and Indexes in SQL Server
 ## Abstract:
@@ -22,7 +22,7 @@ Event Date: 21-11-2015 - Session time: 14:30:00 - Track: Application  Database D
 #### SessionID: 40372
 # Analyse Pr#233;dictive - Partie 1
 #### [Back to calendar](#nr-466)
-Event Date: 21-11-2015 - Session time: 14:30:00 - Track: Azure ML
+Event Date: 21-11-2015 - Session time: 09:45:00 - Track: Azure ML
 ## Speaker: Charles Verdon
 ## Title: Analyse Pr#233;dictive - Partie 1
 ## Abstract:
@@ -33,7 +33,7 @@ Integration des donn#233;es dans Excel, Power BI et applications .NET.
 #### SessionID: 40603
 # Analyse Pr#233;dictive - Partie 2
 #### [Back to calendar](#nr-466)
-Event Date: 21-11-2015 - Session time: 14:30:00 - Track: Azure ML
+Event Date: 21-11-2015 - Session time: 11:00:00 - Track: Azure ML
 ## Speaker: Charles Verdon
 ## Title: Analyse Pr#233;dictive - Partie 2
 ## Abstract:
@@ -49,7 +49,7 @@ Op#233;rationnalisation du mod#232;le
 #### SessionID: 39998
 # The SQL Server Modern DBA
 #### [Back to calendar](#nr-466)
-Event Date: 21-11-2015 - Session time: 14:30:00 - Track: Application  Database Development and Administration
+Event Date: 21-11-2015 - Session time: 13:00:00 - Track: Application  Database Development and Administration
 ## Speaker: Jean Rene Roy
 ## Title: The SQL Server Modern DBA
 ## Abstract:
@@ -58,7 +58,7 @@ Event Date: 21-11-2015 - Session time: 14:30:00 - Track: Application  Database D
 #### SessionID: 40584
 # Visualisation de donn#233;es en mode libre-service
 #### [Back to calendar](#nr-466)
-Event Date: 21-11-2015 - Session time: 14:30:00 - Track: BI Information Delivery
+Event Date: 21-11-2015 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: Sophie Marchand
 ## Title: Visualisation de donn#233;es en mode libre-service
 ## Abstract:

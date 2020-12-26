@@ -33,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 53095
 # In-memory OLTP internals
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
+Event Date: 26-11-2016 - Session time: 09:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Luciano Moreira
 ## Title: In-memory OLTP internals
 ## Abstract:
@@ -42,7 +42,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #### SessionID: 53259
 # Database Console Commands
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
+Event Date: 26-11-2016 - Session time: 09:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Rodrigo Crespi
 ## Title: Database Console Commands
 ## Abstract:
@@ -52,7 +52,7 @@ Falaremos (Sem Censura!) sobre o impacto destes comandos e sua utilidade.#160;
 #### SessionID: 53860
 # Fazendo seu banco de dados voar
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
+Event Date: 26-11-2016 - Session time: 09:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Thiago Cruz
 ## Title: Fazendo seu banco de dados voar
 ## Abstract:
@@ -61,7 +61,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #### SessionID: 54552
 # Power BI Embedded (Embarcado)
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, Analytics and Big Data
+Event Date: 26-11-2016 - Session time: 09:15:00 - Track: Business Intelligence, Analytics and Big Data
 ## Speaker: Demetrio Silva
 ## Title: Power BI Embedded (Embarcado)
 ## Abstract:
@@ -70,7 +70,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, 
 #### SessionID: 56261
 # ILM - Como economizar dinheiro e armazenar os dados de forma mais
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
+Event Date: 26-11-2016 - Session time: 09:15:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Gustavo Maia Aguiar
 ## Title: ILM - Como economizar dinheiro e armazenar os dados de forma mais
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #### SessionID: 53696
 # Entendendo as diferenças: Índices RowStore vs Índices Columnstore
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
+Event Date: 26-11-2016 - Session time: 10:30:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Felipe de Assis
 ## Title: Entendendo as diferenças: Índices RowStore vs Índices Columnstore
 ## Abstract:
@@ -88,7 +88,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #### SessionID: 54639
 # O Dia a Dia do Cientista de Dados
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Career, Academic, Beginner
+Event Date: 26-11-2016 - Session time: 10:30:00 - Track: Career, Academic, Beginner
 ## Speaker: Diego Nogare
 ## Title: O Dia a Dia do Cientista de Dados
 ## Abstract:
@@ -97,7 +97,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Career, Academic, Begin
 #### SessionID: 54777
 # Azure SQL Database v12: Monitorando e Otimizando seu Database na Nuvem
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
+Event Date: 26-11-2016 - Session time: 10:30:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Nilton Pinheiro
 ## Title: Azure SQL Database v12: Monitorando e Otimizando seu Database na Nuvem
 ## Abstract:
@@ -107,7 +107,7 @@ Eu mostrarei a você como o time de suporte ao Azure SQL Database da Microsoft C
 #### SessionID: 55111
 # Modelagem Multidimensional
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, Analytics and Big Data
+Event Date: 26-11-2016 - Session time: 10:30:00 - Track: Business Intelligence, Analytics and Big Data
 ## Speaker: Vitor Ferreira
 ## Title: Modelagem Multidimensional
 ## Abstract:
@@ -117,7 +117,7 @@ Serão esclarecidos conceitos importantes como fatos, dimensões, granularidade,
 #### SessionID: 57146
 # Corrupção de dados e perda acidental - O que fazer ?
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
+Event Date: 26-11-2016 - Session time: 10:30:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Rodrigo Ribeiro Gomes
 ## Title: Corrupção de dados e perda acidental - O que fazer ?
 ## Abstract:
@@ -128,7 +128,7 @@ Se alguma vez você já teve de lidar com corrupção de dados ou perda acidenta
 #### SessionID: 54398
 # Melhores Estratégias de Backup
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
+Event Date: 26-11-2016 - Session time: 11:45:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Sulamita Dantas
 ## Title: Melhores Estratégias de Backup
 ## Abstract:
@@ -137,7 +137,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #### SessionID: 56248
 # Carreira, Certificações e Mercado de Trabalho
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Career, Academic, Beginner
+Event Date: 26-11-2016 - Session time: 11:45:00 - Track: Career, Academic, Beginner
 ## Speaker: Arthur Luz
 ## Title: Carreira, Certificações e Mercado de Trabalho
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Career, Academic, Begin
 #### SessionID: 56284
 # Apresentando, Configurando e Criando relatórios Real-time com o Power BI
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, Analytics and Big Data
+Event Date: 26-11-2016 - Session time: 11:45:00 - Track: Business Intelligence, Analytics and Big Data
 ## Speaker: Demetrio Silva
 ## Title: Apresentando, Configurando e Criando relatórios Real-time com o Power BI
 ## Abstract:
@@ -155,7 +155,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, 
 #### SessionID: 56303
 # Indexação para iniciantes
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
+Event Date: 26-11-2016 - Session time: 11:45:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Raiane Lins
 ## Title: Indexação para iniciantes
 ## Abstract:
@@ -165,7 +165,7 @@ Explicaremos sobre os tipos de índices, suas diferenças e utilizações, segui
 #### SessionID: 56307
 # Sou Desenvolvedor, preciso conhecer banco de dados?
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
+Event Date: 26-11-2016 - Session time: 11:45:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Jucinei Santos
 ## Title: Sou Desenvolvedor, preciso conhecer banco de dados?
 ## Abstract:
@@ -176,7 +176,7 @@ Tópicos: ORM's, Acesso a Dados, boas práticas de acesso a dados como desenvolv
 #### SessionID: 54178
 # High Availability and Disaster Recovery Salvando Vidas
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Career, Academic, Beginner
+Event Date: 26-11-2016 - Session time: 13:30:00 - Track: Career, Academic, Beginner
 ## Speaker: Luiz Henrique Garetti
 ## Title: High Availability and Disaster Recovery Salvando Vidas
 ## Abstract:
@@ -186,7 +186,7 @@ Também, será abordado exemplos reais de aplicabilidade e como isso já salvou 
 #### SessionID: 54962
 # Do transacional ao analítico- Pensando em um projeto de BI do início ao fim !
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, Analytics and Big Data
+Event Date: 26-11-2016 - Session time: 13:30:00 - Track: Business Intelligence, Analytics and Big Data
 ## Speaker: Flávio Farias
 ## Title: Do transacional ao analítico- Pensando em um projeto de BI do início ao fim !
 ## Abstract:
@@ -195,7 +195,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, 
 #### SessionID: 54972
 # Porque minha query esta lenta? - Iniciando um troubleshooting
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
+Event Date: 26-11-2016 - Session time: 13:30:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Suellen Moraes
 ## Title: Porque minha query esta lenta? - Iniciando um troubleshooting
 ## Abstract:
@@ -204,7 +204,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #### SessionID: 55041
 # Monitorando SQL SERVER e Oracle
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
+Event Date: 26-11-2016 - Session time: 13:30:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Marcelo Adade
 ## Title: Monitorando SQL SERVER e Oracle
 ## Abstract:
@@ -213,7 +213,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #### SessionID: 53542
 # Somos o Big Brother
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
+Event Date: 26-11-2016 - Session time: 14:45:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Ricardo Leka
 ## Title: Somos o Big Brother
 ## Abstract:
@@ -223,7 +223,7 @@ Vamos habilitar auditoria! Mas vamos fazer isso em v#225;rias inst#226;ncias e v
 #### SessionID: 53568
 # Suporte do novo Entity Framework Core ao SQL Server
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
+Event Date: 26-11-2016 - Session time: 14:45:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Rogério Moraes de Carvalho
 ## Title: Suporte do novo Entity Framework Core ao SQL Server
 ## Abstract:
@@ -232,7 +232,7 @@ Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Develop
 #### SessionID: 53813
 # Preveja o futuro com Azure Machine Learning
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Business Intelligence, Analytics and Big Data
+Event Date: 26-11-2016 - Session time: 14:45:00 - Track: Business Intelligence, Analytics and Big Data
 ## Speaker: Thiago Zavaschi
 ## Title: Preveja o futuro com Azure Machine Learning
 ## Abstract:
@@ -242,7 +242,7 @@ Criaremos um modelo de machine learning que poder#225; prever informa#231;#245;e
 #### SessionID: 54400
 # Administrando SQL Server para quot;N#227;o DBAsquot;
 #### [Back to calendar](#nr-573)
-Event Date: 26-11-2016 - Session time: 16:15:00 - Track: Administration, Development, SQL Server, Cloud
+Event Date: 26-11-2016 - Session time: 14:45:00 - Track: Administration, Development, SQL Server, Cloud
 ## Speaker: Marcelo Fernandes
 ## Title: Administrando SQL Server para quot;N#227;o DBAsquot;
 ## Abstract:

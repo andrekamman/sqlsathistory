@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 48577
 # SQL Server 2016: Evolution of the Columnstore Indexes
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-10-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gilberto Zampatti
 ## Title: SQL Server 2016: Evolution of the Columnstore Indexes
 ## Abstract:
@@ -40,7 +40,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #### SessionID: 49396
 # Big Data with Azure: where to begin? Concepts and best practices
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-10-2016 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Satya Jayanty
 ## Title: Big Data with Azure: where to begin? Concepts and best practices
 ## Abstract:
@@ -51,7 +51,7 @@ Microsoft Azure has the ability to move, store and analyze data within the cloud
 #### SessionID: 51185
 # SQL Server Myths and Misconceptions
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-10-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Miroslav Dimitrov
 ## Title: SQL Server Myths and Misconceptions
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #### SessionID: 54980
 # Big Data analytics with Microsoft R Server
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Advanced Analysis Techniques
+Event Date: 15-10-2016 - Session time: 10:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: Big Data analytics with Microsoft R Server
 ## Abstract:
@@ -71,7 +71,7 @@ Don’t miss the opportunity to see how MRS addresses open source R scalability 
 #### SessionID: 48302
 # The Good, the Bad and the Ugly - Always Encrypted in action
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-10-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janos Berke
 ## Title: The Good, the Bad and the Ugly - Always Encrypted in action
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #### SessionID: 50876
 # Mobile BI with Microsoft tools
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: BI Information Delivery
+Event Date: 15-10-2016 - Session time: 11:15:00 - Track: BI Information Delivery
 ## Speaker: Andrea Martorana Tusa
 ## Title: Mobile BI with Microsoft tools
 ## Abstract:
@@ -104,7 +104,7 @@ Based on some real examples we will set out a comparison matrix to find the best
 #### SessionID: 53955
 # IoT Duel - Cloud vs. on Premises Solutions
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 15-10-2016 - Session time: 11:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: IoT Duel - Cloud vs. on Premises Solutions
 ## Abstract:
@@ -113,7 +113,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Cloud Application Devel
 #### SessionID: 54426
 # Entity Framework Core - Did your feature got In, Out or Planned?
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 15-10-2016 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: Branimir Giurov
 ## Title: Entity Framework Core - Did your feature got In, Out or Planned?
 ## Abstract:
@@ -127,7 +127,7 @@ We'll talk about what's in the v1.0 release, and what is still planned. We'll lo
 #### SessionID: 50970
 # SQL Server Performance Tuning. Old-School Practical Guide.
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-10-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Denis Reznik
 ## Title: SQL Server Performance Tuning. Old-School Practical Guide.
 ## Abstract:
@@ -138,7 +138,7 @@ In this session, we will find answers to all these questions going from collecti
 #### SessionID: 53839
 # Building an SQL Server 2016 AlwaysON Availability Solution (Part 1)
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-10-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Margarita Naumova
 ## Title: Building an SQL Server 2016 AlwaysON Availability Solution (Part 1)
 ## Abstract:
@@ -148,7 +148,7 @@ This two-part session will cover not only what is in SQL Server 2016, such as al
 #### SessionID: 53852
 # Less known component in SSIS and cool features of Power BI
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Professional Development
+Event Date: 15-10-2016 - Session time: 13:00:00 - Track: Professional Development
 ## Speaker: Ivan Miliovsky
 ## Title: Less known component in SSIS and cool features of Power BI
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Professional Developmen
 #### SessionID: 53936
 # Data Science on Premise with Microsoft SQL Server 2016 and R-Services
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Analytics and Visualization
+Event Date: 15-10-2016 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Daniel Joskovski
 ## Title: Data Science on Premise with Microsoft SQL Server 2016 and R-Services
 ## Abstract:
@@ -169,7 +169,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Analytics and Visualiza
 #### SessionID: 52272
 # Azure SQL Data Warehouse: What, Where, How
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-10-2016 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Azure SQL Data Warehouse: What, Where, How
 ## Abstract:
@@ -179,7 +179,7 @@ In this session I'm going to answer on these questions. Also, I will prodive inf
 #### SessionID: 53840
 # Building an SQL Server 2016 AlwaysON Availability Solution (Part 2)
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-10-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Margarita Naumova
 ## Title: Building an SQL Server 2016 AlwaysON Availability Solution (Part 2)
 ## Abstract:
@@ -189,7 +189,7 @@ This two-part session will cover not only what is in SQL Server 2016, such as al
 #### SessionID: 53928
 # Azure Search - full-text search in a cloud
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 15-10-2016 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: Azure Search - full-text search in a cloud
 ## Abstract:
@@ -198,7 +198,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Cloud Application Devel
 #### SessionID: 54425
 # Crafting killer real time apps with SignalR and SQL Server
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 15-10-2016 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Samuil Aleksov
 ## Title: Crafting killer real time apps with SignalR and SQL Server
 ## Abstract:
@@ -211,7 +211,7 @@ Cool demos are guaranteed.
 #### SessionID: 48265
 # Tired of connecting on-prem  cloud data? Take a DB stretch
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 15-10-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Tired of connecting on-prem  cloud data? Take a DB stretch
 ## Abstract:
@@ -222,7 +222,7 @@ Stretch Database is the new concept, which allows you to stretch your data from 
 #### SessionID: 48286
 # Identity Mapping and De-Duplicating 
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 15-10-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Dejan Sarka
 ## Title: Identity Mapping and De-Duplicating 
 ## Abstract:
@@ -231,7 +231,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Application  Database D
 #### SessionID: 51069
 # Introduction to SQL Server Extended Events
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Advanced Analysis Techniques
+Event Date: 15-10-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Andrey Nikolov
 ## Title: Introduction to SQL Server Extended Events
 ## Abstract:
@@ -240,7 +240,7 @@ Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 53662
 # Native JSON support in SQL 2016
 #### [Back to calendar](#nr-538)
-Event Date: 15-10-2016 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 15-10-2016 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Ivelin Andreev
 ## Title: Native JSON support in SQL 2016
 ## Abstract:

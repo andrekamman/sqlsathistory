@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 101129
 # DevOps 101 for Data Folks
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Development
+Event Date: 01-02-2020 - Session time: 09:00:00 - Track: Enterprise Database Administration  Development
 ## Speaker: Alex Yates
 ## Title: DevOps 101 for Data Folks
 ## Abstract:
@@ -57,7 +57,7 @@ We will finish with an overview of an Azure DevOps Services project that automat
 #### SessionID: 98403
 # Azure Cosmos DB for Dummies
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Cloud 
+Event Date: 01-02-2020 - Session time: 09:00:00 - Track: Cloud 
 ## Speaker: Mark Broadbent
 ## Title: Azure Cosmos DB for Dummies
 ## Abstract:
@@ -75,7 +75,7 @@ Azure Cosmos DB is not just the future for Online-Transaction Processing, it is 
 #### SessionID: 99111
 # Data scientists have left ... How will I deploy their work?
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: AI(Artificial Intelligence)  Machine Learning
+Event Date: 01-02-2020 - Session time: 09:00:00 - Track: AI(Artificial Intelligence)  Machine Learning
 ## Speaker: Cédric Charlier
 ## Title: Data scientists have left ... How will I deploy their work?
 ## Abstract:
@@ -85,7 +85,7 @@ That's it, data scientists have left the house! Behind them, some scripts writte
 #### SessionID: 99180
 # Creating ETL/ELT Data Flows for the Modern Data Warehouse
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: BI  Analytics/Visualization
+Event Date: 01-02-2020 - Session time: 09:00:00 - Track: BI  Analytics/Visualization
 ## Speaker: Ted Malone
 ## Title: Creating ETL/ELT Data Flows for the Modern Data Warehouse
 ## Abstract:
@@ -96,7 +96,7 @@ This session will be very demo-heavy, with demonstrations of effective patterns 
 #### SessionID: 99835
 # Investigate TempDB like Sherlock Holmes
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Development
+Event Date: 01-02-2020 - Session time: 09:00:00 - Track: Enterprise Database Administration  Development
 ## Speaker: Lord Richard Douglas
 ## Title: Investigate TempDB like Sherlock Holmes
 ## Abstract:
@@ -106,7 +106,7 @@ You will learn what you can do to reduce issues by investigating your hardware, 
 #### SessionID: 100274
 # Why Synapse Analytics is beyond Azure SQL Datawarehouse
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Cloud 
+Event Date: 01-02-2020 - Session time: 10:15:00 - Track: Cloud 
 ## Speaker: Dennes Torres
 ## Title: Why Synapse Analytics is beyond Azure SQL Datawarehouse
 ## Abstract:
@@ -115,7 +115,7 @@ Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Cloud
 #### SessionID: 96897
 # "Kubernetify" your SQL Server Containers
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Development
+Event Date: 01-02-2020 - Session time: 10:15:00 - Track: Enterprise Database Administration  Development
 ## Speaker: Chris Taylor
 ## Title: "Kubernetify" your SQL Server Containers
 ## Abstract:
@@ -133,7 +133,7 @@ We will be talking about what Kubernetes is and how it works and through the use
 #### SessionID: 98038
 # Exploiting Artificial Intelligence within Power BI
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: AI(Artificial Intelligence)  Machine Learning
+Event Date: 01-02-2020 - Session time: 10:15:00 - Track: AI(Artificial Intelligence)  Machine Learning
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Exploiting Artificial Intelligence within Power BI
 ## Abstract:
@@ -142,7 +142,7 @@ Event Date: 01-02-2020 - Session time: 16:00:00 - Track: AI(Artificial Intellige
 #### SessionID: 98473
 # When Things go Wrong - Error Handling in SQL Server
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Development
+Event Date: 01-02-2020 - Session time: 10:15:00 - Track: Enterprise Database Administration  Development
 ## Speaker: Erland Sommarskog
 ## Title: When Things go Wrong - Error Handling in SQL Server
 ## Abstract:
@@ -155,7 +155,7 @@ Once we have learnt how to handle unanticipated errors, we can start to look at 
 #### SessionID: 98770
 # Turn insight into action using Power automate and Power BI
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: BI  Analytics/Visualization
+Event Date: 01-02-2020 - Session time: 10:15:00 - Track: BI  Analytics/Visualization
 ## Speaker: Isabelle Van Campenhoudt
 ## Title: Turn insight into action using Power automate and Power BI
 ## Abstract:
@@ -166,7 +166,7 @@ Microsoft Flow is a SaaS offering for automating workflows across the growing nu
 #### SessionID: 101776
 # Machine Learning in Azure Databricks
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: AI(Artificial Intelligence)  Machine Learning
+Event Date: 01-02-2020 - Session time: 11:30:00 - Track: AI(Artificial Intelligence)  Machine Learning
 ## Speaker: Terry McCann
 ## Title: Machine Learning in Azure Databricks
 ## Abstract:
@@ -177,7 +177,7 @@ In this session we focus on how Spark implements Machine Learning at Scale with 
 #### SessionID: 96887
 # Choose Your Own Adventure - Performance Edition
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Development
+Event Date: 01-02-2020 - Session time: 11:30:00 - Track: Enterprise Database Administration  Development
 ## Speaker: Rich Benner
 ## Title: Choose Your Own Adventure - Performance Edition
 ## Abstract:
@@ -202,7 +202,7 @@ In the session we'll cover each topic a little but I will also provide a more in
 #### SessionID: 96925
 # An Introduction to Terraform, Infrastructure as Code
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Cloud 
+Event Date: 01-02-2020 - Session time: 11:30:00 - Track: Cloud 
 ## Speaker: John Martin
 ## Title: An Introduction to Terraform, Infrastructure as Code
 ## Abstract:
@@ -215,7 +215,7 @@ This session will take an introductory look at how infrastructure can be defined
 #### SessionID: 99183
 # SQL Notebooks in Azure Data Studio for the DBA
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Development
+Event Date: 01-02-2020 - Session time: 11:30:00 - Track: Enterprise Database Administration  Development
 ## Speaker: Rob Sewell
 ## Title: SQL Notebooks in Azure Data Studio for the DBA
 ## Abstract:
@@ -230,7 +230,7 @@ and some gifs ;-)
 #### SessionID: 99240
 # Azure DevOps duet (90 minutes version)
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Development
+Event Date: 01-02-2020 - Session time: 11:30:00 - Track: Enterprise Database Administration  Development
 ## Speaker: Kevin Chant
 ## Title: Azure DevOps duet (90 minutes version)
 ## Abstract:
@@ -251,7 +251,7 @@ After this session you will have the tools and knowledge to get started with Dev
 #### SessionID: 102461
 # QUORUM Network Resources
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Sponsors Session
+Event Date: 01-02-2020 - Session time: 12:45:00 - Track: Sponsors Session
 ## Speaker: SQLSat927 Gold Sponsor
 ## Title: QUORUM Network Resources
 ## Abstract:
@@ -260,7 +260,7 @@ Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Sponsors Session
 #### SessionID: 102462
 # SentryONE
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Sponsors Session
+Event Date: 01-02-2020 - Session time: 12:45:00 - Track: Sponsors Session
 ## Speaker: SQLSat927 Gold Sponsor
 ## Title: SentryONE
 ## Abstract:
@@ -269,7 +269,7 @@ Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Sponsors Session
 #### SessionID: 102464
 # GethyEllis.com (GE)
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Sponsors Session
+Event Date: 01-02-2020 - Session time: 12:45:00 - Track: Sponsors Session
 ## Speaker: SQLSat927 Gold Sponsor
 ## Title: GethyEllis.com (GE)
 ## Abstract:
@@ -278,7 +278,7 @@ Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Sponsors Session
 #### SessionID: 102465
 # Advancing Analytics
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Sponsors Session
+Event Date: 01-02-2020 - Session time: 12:45:00 - Track: Sponsors Session
 ## Speaker: SQLSat927 Gold Sponsor
 ## Title: Advancing Analytics
 ## Abstract:
@@ -287,7 +287,7 @@ Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Sponsors Session
 #### SessionID: 102466
 # SIOS
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Sponsors Session
+Event Date: 01-02-2020 - Session time: 12:45:00 - Track: Sponsors Session
 ## Speaker: SQLSat927 Gold Sponsor
 ## Title: SIOS
 ## Abstract:
@@ -296,7 +296,7 @@ Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Sponsors Session
 #### SessionID: 100283
 # 10 Steps Towards Global Data Compliance
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Development
+Event Date: 01-02-2020 - Session time: 13:30:00 - Track: Enterprise Database Administration  Development
 ## Speaker: Grant Fritchey
 ## Title: 10 Steps Towards Global Data Compliance
 ## Abstract:
@@ -307,7 +307,7 @@ However, it is possible to define a core set of processes that will help to enab
 #### SessionID: 100394
 # Creating an Enterprise Datalake without an Enterprise budget
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Cloud 
+Event Date: 01-02-2020 - Session time: 13:30:00 - Track: Cloud 
 ## Speaker: André Kamman
 ## Title: Creating an Enterprise Datalake without an Enterprise budget
 ## Abstract:
@@ -318,7 +318,7 @@ You get to decide how far you want to go, from cost-effective to penny pinching.
 #### SessionID: 98709
 # Driven by the 9s - I need a highly available Microsoft Data Platform – what features should I use?
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Development
+Event Date: 01-02-2020 - Session time: 13:30:00 - Track: Enterprise Database Administration  Development
 ## Speaker: Gethyn Ellis
 ## Title: Driven by the 9s - I need a highly available Microsoft Data Platform – what features should I use?
 ## Abstract:
@@ -331,7 +331,7 @@ In this session we will look at how we can combine SQL Server Availability Group
 #### SessionID: 99063
 # Azure AI with Power BI
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: AI(Artificial Intelligence)  Machine Learning
+Event Date: 01-02-2020 - Session time: 13:30:00 - Track: AI(Artificial Intelligence)  Machine Learning
 ## Speaker: Shreeya Subramani
 ## Title: Azure AI with Power BI
 ## Abstract:
@@ -340,7 +340,7 @@ Event Date: 01-02-2020 - Session time: 16:00:00 - Track: AI(Artificial Intellige
 #### SessionID: 99122
 # Rebooting your SME Data Analysis Strategy
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: BI  Analytics/Visualization
+Event Date: 01-02-2020 - Session time: 13:30:00 - Track: BI  Analytics/Visualization
 ## Speaker: Mark Hayes
 ## Title: Rebooting your SME Data Analysis Strategy
 ## Abstract:
@@ -351,7 +351,7 @@ This session is based on real-life customer implementations where they were take
 #### SessionID: 98137
 # SQL Server  Kubernetes
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Cloud 
+Event Date: 01-02-2020 - Session time: 14:45:00 - Track: Cloud 
 ## Speaker: Andrew Pruski
 ## Title: SQL Server  Kubernetes
 ## Abstract:
@@ -372,7 +372,7 @@ This session is aimed at SQL Server DBAs and Developers who want to learn the wh
 #### SessionID: 98340
 # From Docker to Big Data Clusters: a new era for SQL server
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Development
+Event Date: 01-02-2020 - Session time: 14:45:00 - Track: Enterprise Database Administration  Development
 ## Speaker: Christophe Laporte
 ## Title: From Docker to Big Data Clusters: a new era for SQL server
 ## Abstract:
@@ -382,7 +382,7 @@ This session will drive DBAs on their path to modernize their skills. Starting w
 #### SessionID: 98420
 # A Masters view on Locking and blocking
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Development
+Event Date: 01-02-2020 - Session time: 14:45:00 - Track: Enterprise Database Administration  Development
 ## Speaker: Mikael Wedham
 ## Title: A Masters view on Locking and blocking
 ## Abstract:
@@ -394,7 +394,7 @@ And finally a real-world quick list of suggestions on what you can do to solve s
 #### SessionID: 98794
 # Shadow prediction: SQL spatial data types and astronomy well mixed
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Development
+Event Date: 01-02-2020 - Session time: 14:45:00 - Track: Enterprise Database Administration  Development
 ## Speaker: Arne Bartels
 ## Title: Shadow prediction: SQL spatial data types and astronomy well mixed
 ## Abstract:
@@ -407,7 +407,7 @@ Only GEOGRAPHY data type will be used to show the richness and beauty of its fun
 #### SessionID: 98927
 # How to be awesome at getting your next job
 #### [Back to calendar](#nr-927)
-Event Date: 01-02-2020 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 01-02-2020 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Robert French
 ## Title: How to be awesome at getting your next job
 ## Abstract:

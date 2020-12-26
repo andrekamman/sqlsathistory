@@ -50,7 +50,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 74171
 # The future data professional - Hacking your growth!
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 05-05-2018 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Adam Jorgensen
 ## Title: The future data professional - Hacking your growth!
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 74387
 # HiHo! HiHo! SQL Server on Linux, We Go!
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-05-2018 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: HiHo! HiHo! SQL Server on Linux, We Go!
 ## Abstract:
@@ -73,7 +73,7 @@ The participant will learn:
 #### SessionID: 75780
 # Introduction to Azure SQL Database
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-05-2018 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joe Abbott
 ## Title: Introduction to Azure SQL Database
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 77023
 # Make your SSIS 2016 packages talk to each other
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-05-2018 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Victor Ivantsov
 ## Title: Make your SSIS 2016 packages talk to each other
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 77927
 # Let Me Finish... Isolating Write Operations
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-05-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Let Me Finish... Isolating Write Operations
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 78773
 # Introduction to SQL Server Clustering
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-05-2018 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chad Churchwell
 ## Title: Introduction to SQL Server Clustering
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 80042
 # Lessons Learned from Two Years as a Devops DBA
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-05-2018 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Warren
 ## Title: Lessons Learned from Two Years as a Devops DBA
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 80434
 # Advanced Power BI
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 05-05-2018 - Session time: 09:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Mitchell Pearson
 ## Title: Advanced Power BI
 ## Abstract:
@@ -127,7 +127,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 74173
 # Populating a Data Warehouse with SSIS and Biml Patterns
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-05-2018 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jim Miller
 ## Title: Populating a Data Warehouse with SSIS and Biml Patterns
 ## Abstract:
@@ -145,7 +145,7 @@ Attend to see how Biml can revolutionize your SSIS development!
 #### SessionID: 74176
 # Supercharge Your Maintenance Plans!
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-05-2018 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Troy Gallant
 ## Title: Supercharge Your Maintenance Plans!
 ## Abstract:
@@ -156,7 +156,7 @@ In this session, not only will we introduce these scripts to those unfamiliar wi
 #### SessionID: 74185
 # Are They Hearing What You Said - or Something Completely Different?!
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 05-05-2018 - Session time: 10:15:00 - Track: Professional Development
 ## Speaker: Brad Raney
 ## Title: Are They Hearing What You Said - or Something Completely Different?!
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 74191
 # Numbers Don't Lie.  Or Do They?
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 05-05-2018 - Session time: 10:15:00 - Track: Analytics and Visualization
 ## Speaker: Haim Shternshus
 ## Title: Numbers Don't Lie.  Or Do They?
 ## Abstract:
@@ -184,7 +184,7 @@ Learn the "tricks of the trade" and become a better consumer of graphs, charts, 
 #### SessionID: 77806
 # Intro Into Index Analysis
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-05-2018 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dmitri Korotkevitch
 ## Title: Intro Into Index Analysis
 ## Abstract:
@@ -195,7 +195,7 @@ In this session, Dmitri demonstrates several techniques that help you to perform
 #### SessionID: 78338
 # Monitoring and Tuning Azure SQL Database
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-05-2018 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dustin Ryan
 ## Title: Monitoring and Tuning Azure SQL Database
 ## Abstract:
@@ -204,7 +204,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 78887
 # Health Check your Sql Server like a Boss
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-05-2018 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Valentin Iamandi
 ## Title: Health Check your Sql Server like a Boss
 ## Abstract:
@@ -219,7 +219,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 80107
 # SQL Server Analysis Services for SQL Server DBAs
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-05-2018 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shabnam Watson
 ## Title: SQL Server Analysis Services for SQL Server DBAs
 ## Abstract:
@@ -228,7 +228,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 80456
 # Successfully Virtualizing SQL Server on vSphere
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-05-2018 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Successfully Virtualizing SQL Server on vSphere
 ## Abstract:
@@ -238,7 +238,7 @@ Still, many IT architects and DBA's are hesitant of virtualizing their SQL workl
 #### SessionID: 80558
 # #GetModern with Dell EMC
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Other
+Event Date: 05-05-2018 - Session time: 11:45:00 - Track: Other
 ## Speaker: Tristan Coles
 ## Title: #GetModern with Dell EMC
 ## Abstract:
@@ -247,7 +247,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Other
 #### SessionID: 80638
 # Introduction to Wait Time Analysis for Performance Tuning
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 05-05-2018 - Session time: 11:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Janis Griffin
 ## Title: Introduction to Wait Time Analysis for Performance Tuning
 ## Abstract:
@@ -256,7 +256,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 74158
 # What's New In SQL Server For The Developer
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-05-2018 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Jeff Taylor
 ## Title: What's New In SQL Server For The Developer
 ## Abstract:
@@ -265,7 +265,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 76995
 # Pull and Push Json Data Files into AWS using SSIS
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 05-05-2018 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: Jorge Novo
 ## Title: Pull and Push Json Data Files into AWS using SSIS
 ## Abstract:
@@ -275,7 +275,7 @@ Learn how to create Json objects and deliver them into an AWS secure bucket, als
 #### SessionID: 77521
 # Surviving Your Sql Developer Interview
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 05-05-2018 - Session time: 13:00:00 - Track: Professional Development
 ## Speaker: Jonathon Moorman
 ## Title: Surviving Your Sql Developer Interview
 ## Abstract:
@@ -284,7 +284,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 77853
 # To Azure and Beyond:  Create an Azure VM with SSRS server and deploy Mobile and Paginated reports
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-05-2018 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Schneider
 ## Title: To Azure and Beyond:  Create an Azure VM with SSRS server and deploy Mobile and Paginated reports
 ## Abstract:
@@ -295,7 +295,7 @@ Steve will take you step by step to Build a VM in Azure,  Create a Report Server
 #### SessionID: 77928
 # SQL to NoSQL: Querying Azure Cosmos DB
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-05-2018 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Jason Brugger
 ## Title: SQL to NoSQL: Querying Azure Cosmos DB
 ## Abstract:
@@ -304,7 +304,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 78517
 # Using R in Power BI: why, when and how
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 05-05-2018 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Taras Kaduk
 ## Title: Using R in Power BI: why, when and how
 ## Abstract:
@@ -313,7 +313,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 78699
 # About those SQL data files…
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-05-2018 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steven Wheeler
 ## Title: About those SQL data files…
 ## Abstract:
@@ -322,7 +322,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 80568
 # Intro to MPP Database with Azure SQL Data Warehouse
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-05-2018 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bradley Schacht
 ## Title: Intro to MPP Database with Azure SQL Data Warehouse
 ## Abstract:
@@ -331,7 +331,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 74386
 # What’s New in the 2017 Query Store
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-05-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: What’s New in the 2017 Query Store
 ## Abstract:
@@ -340,7 +340,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 74663
 # Harassment| Bystander's Guide to Action
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 05-05-2018 - Session time: 14:15:00 - Track: Professional Development
 ## Speaker: Cindy Chapman
 ## Title: Harassment| Bystander's Guide to Action
 ## Abstract:
@@ -356,7 +356,7 @@ In this session you will:
 #### SessionID: 77293
 # How to Keep Your Database Servers Out of the News
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-05-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: How to Keep Your Database Servers Out of the News
 ## Abstract:
@@ -365,7 +365,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 77463
 # SSIS Troubleshooting, Error Handling, and Logging
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-05-2018 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shawn Harrison
 ## Title: SSIS Troubleshooting, Error Handling, and Logging
 ## Abstract:
@@ -374,7 +374,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 77854
 # Discovering SSRS 2016 in Azure:  Dataset to Deployment
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 05-05-2018 - Session time: 14:15:00 - Track: BI Information Delivery
 ## Speaker: Susan Schneider
 ## Title: Discovering SSRS 2016 in Azure:  Dataset to Deployment
 ## Abstract:
@@ -385,7 +385,7 @@ By the end of the session, you will be more familiar with the SSDT environment a
 #### SessionID: 78516
 # All the ways to break into data science and analytics
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 05-05-2018 - Session time: 14:15:00 - Track: Professional Development
 ## Speaker: Taras Kaduk
 ## Title: All the ways to break into data science and analytics
 ## Abstract:
@@ -394,7 +394,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 80282
 # Introduction to Azure Machine Learning
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 05-05-2018 - Session time: 14:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Sumit Vadodaria
 ## Title: Introduction to Azure Machine Learning
 ## Abstract:
@@ -403,7 +403,7 @@ Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 80458
 # Policies are not just for HR
 #### [Back to calendar](#nr-759)
-Event Date: 05-05-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-05-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Policies are not just for HR
 ## Abstract:

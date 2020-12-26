@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 83559
 # Applying Data Warehousing Principles
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
+Event Date: 20-10-2018 - Session time: 08:45:00 - Track: Design
 ## Speaker: Spencer Swindell
 ## Title: Applying Data Warehousing Principles
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 #### SessionID: 83998
 # Getting started with Postgresql
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
+Event Date: 20-10-2018 - Session time: 08:45:00 - Track: Evolve
 ## Speaker: Ramu Pulipati
 ## Title: Getting started with Postgresql
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
 #### SessionID: 84028
 # Administrating and Managing SQL Server on Linux
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Support
+Event Date: 20-10-2018 - Session time: 08:45:00 - Track: Support
 ## Speaker: Prabhaker Potharaju
 ## Title: Administrating and Managing SQL Server on Linux
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Support
 #### SessionID: 84545
 # Moving Data with Azure Data Factory
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Innovate
+Event Date: 20-10-2018 - Session time: 08:45:00 - Track: Innovate
 ## Speaker: Andy Leonard
 ## Title: Moving Data with Azure Data Factory
 ## Abstract:
@@ -87,7 +87,7 @@ Attend this session to learn:
 #### SessionID: 84783
 # Automating the Data-Centric Deployment Pipeline
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Build
+Event Date: 20-10-2018 - Session time: 08:45:00 - Track: Build
 ## Speaker: John Welch
 ## Title: Automating the Data-Centric Deployment Pipeline
 ## Abstract:
@@ -96,7 +96,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Build
 #### SessionID: 85672
 # Digital Storytelling with Power BI
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Analyze
+Event Date: 20-10-2018 - Session time: 08:45:00 - Track: Analyze
 ## Speaker: Devin Knight
 ## Title: Digital Storytelling with Power BI
 ## Abstract:
@@ -107,7 +107,7 @@ In this session, you will learn how to leverage these features to tell a story w
 #### SessionID: 85685
 # Introduction to DAX
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Build
+Event Date: 20-10-2018 - Session time: 08:45:00 - Track: Build
 ## Speaker: Mitchell Pearson
 ## Title: Introduction to DAX
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Build
 #### SessionID: 86634
 # Encrypting Data within SQL Server
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
+Event Date: 20-10-2018 - Session time: 08:45:00 - Track: Design
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within SQL Server
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 #### SessionID: 83938
 # Getting Started with PowerShell Basics for SQL Server Administration
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Support
+Event Date: 20-10-2018 - Session time: 10:00:00 - Track: Support
 ## Speaker: Michael Wharton
 ## Title: Getting Started with PowerShell Basics for SQL Server Administration
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Support
 #### SessionID: 84040
 # Successfully Running SQL Server in AWS
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
+Event Date: 20-10-2018 - Session time: 10:00:00 - Track: Design
 ## Speaker: Brian Carrig
 ## Title: Successfully Running SQL Server in AWS
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 #### SessionID: 84096
 # Getting your Database off to a Right Start
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Scale
+Event Date: 20-10-2018 - Session time: 10:00:00 - Track: Scale
 ## Speaker: Andrew Kelly
 ## Title: Getting your Database off to a Right Start
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Scale
 #### SessionID: 84678
 # Database Corruption! Preventing Disaster to your Database.
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Support
+Event Date: 20-10-2018 - Session time: 10:00:00 - Track: Support
 ## Speaker: Jeff Mlakar
 ## Title: Database Corruption! Preventing Disaster to your Database.
 ## Abstract:
@@ -165,7 +165,7 @@ Beginners will benefit along with others who may one day find themselves with a 
 #### SessionID: 85336
 # Database Corruption
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Perform
+Event Date: 20-10-2018 - Session time: 10:00:00 - Track: Perform
 ## Speaker: Stephen Muliokela
 ## Title: Database Corruption
 ## Abstract:
@@ -183,7 +183,7 @@ Highlight of topics
 #### SessionID: 85579
 # Managing SQL Server on Windows Server Core
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Support
+Event Date: 20-10-2018 - Session time: 10:00:00 - Track: Support
 ## Speaker: Frank Henninger
 ## Title: Managing SQL Server on Windows Server Core
 ## Abstract:
@@ -194,7 +194,7 @@ We'll cover what versions and features are supported, how to install sql server 
 #### SessionID: 85607
 # Improve Performance and Save Space with SQL Server Data Compression
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Perform
+Event Date: 20-10-2018 - Session time: 10:00:00 - Track: Perform
 ## Speaker: Justin Randall
 ## Title: Improve Performance and Save Space with SQL Server Data Compression
 ## Abstract:
@@ -204,7 +204,7 @@ In this presentation you will learn how data compression works, how to determine
 #### SessionID: 83824
 # DevOps: Consistent Deployments / Team Development
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Build
+Event Date: 20-10-2018 - Session time: 11:15:00 - Track: Build
 ## Speaker: Thomas Norman
 ## Title: DevOps: Consistent Deployments / Team Development
 ## Abstract:
@@ -213,7 +213,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Build
 #### SessionID: 84054
 # Power BI Models, Productivity, and NODE.JS
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
+Event Date: 20-10-2018 - Session time: 11:15:00 - Track: Design
 ## Speaker: Michael Moen
 ## Title: Power BI Models, Productivity, and NODE.JS
 ## Abstract:
@@ -224,7 +224,7 @@ After those demos, use NODE.JS to bring all sorts of data into Power BI. This wi
 #### SessionID: 84100
 # Grokking the Grammar of Graphics
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Analyze
+Event Date: 20-10-2018 - Session time: 11:15:00 - Track: Analyze
 ## Speaker: Kevin Feasel
 ## Title: Grokking the Grammar of Graphics
 ## Abstract:
@@ -233,7 +233,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Analyze
 #### SessionID: 85523
 # Introduction to the R Programming Language for BI Professionals
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Analyze
+Event Date: 20-10-2018 - Session time: 11:15:00 - Track: Analyze
 ## Speaker: Jeff Renz
 ## Title: Introduction to the R Programming Language for BI Professionals
 ## Abstract:
@@ -244,7 +244,7 @@ In this session I will demonstrate how to use R Studio to generate and test R sc
 #### SessionID: 85625
 # New T-SQL capabilities in SQL Server 2016, 2017, and beyond
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
+Event Date: 20-10-2018 - Session time: 11:15:00 - Track: Evolve
 ## Speaker: Aaron Bertrand
 ## Title: New T-SQL capabilities in SQL Server 2016, 2017, and beyond
 ## Abstract:
@@ -253,7 +253,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
 #### SessionID: 85627
 # Social Intelligence at Work: What it is, Why it Matters, and How to Improve it
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
+Event Date: 20-10-2018 - Session time: 11:15:00 - Track: Evolve
 ## Speaker: Linda Groszyk
 ## Title: Social Intelligence at Work: What it is, Why it Matters, and How to Improve it
 ## Abstract:
@@ -262,7 +262,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
 #### SessionID: 85871
 # Data Architectures in Azure for Analytics  Big Data
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
+Event Date: 20-10-2018 - Session time: 11:15:00 - Track: Design
 ## Speaker: Melissa Coates
 ## Title: Data Architectures in Azure for Analytics  Big Data
 ## Abstract:
@@ -271,7 +271,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 #### SessionID: 85874
 # SentryOne Tools for Productivity and Performance
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Perform
+Event Date: 20-10-2018 - Session time: 12:30:00 - Track: Perform
 ## Speaker: Kevin Kline
 ## Title: SentryOne Tools for Productivity and Performance
 ## Abstract:
@@ -280,7 +280,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Perform
 #### SessionID: 86725
 # How to Get Management Buy-In for Compliant Provisioning Software
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Analyze
+Event Date: 20-10-2018 - Session time: 12:30:00 - Track: Analyze
 ## Speaker: Andy Leonard
 ## Title: How to Get Management Buy-In for Compliant Provisioning Software
 ## Abstract:
@@ -289,7 +289,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Analyze
 #### SessionID: 83983
 # Collecting Performance Metrics
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Perform
+Event Date: 20-10-2018 - Session time: 13:45:00 - Track: Perform
 ## Speaker: Tracy Boggiano
 ## Title: Collecting Performance Metrics
 ## Abstract:
@@ -300,7 +300,7 @@ In this session, we will be combining three open source tools - Telegraf, Influx
 #### SessionID: 84016
 # Getting started with SQL Azure Database: What you need to know
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Build
+Event Date: 20-10-2018 - Session time: 13:45:00 - Track: Build
 ## Speaker: Jim Donahoe
 ## Title: Getting started with SQL Azure Database: What you need to know
 ## Abstract:
@@ -311,7 +311,7 @@ By the end of this presentation, you’ll understand if Azure SQL Database is th
 #### SessionID: 84409
 # Keeping Data Science Simple in Azure Machine Learning Studio
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Analyze
+Event Date: 20-10-2018 - Session time: 13:45:00 - Track: Analyze
 ## Speaker: Zach Maddigan
 ## Title: Keeping Data Science Simple in Azure Machine Learning Studio
 ## Abstract:
@@ -325,7 +325,7 @@ In this session we will walk through how to approach a data science problem in v
 #### SessionID: 84474
 # SQL Server Then and Now: Changing the State of Long-held Beliefs
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
+Event Date: 20-10-2018 - Session time: 13:45:00 - Track: Evolve
 ## Speaker: Maxwell Myrick
 ## Title: SQL Server Then and Now: Changing the State of Long-held Beliefs
 ## Abstract:
@@ -334,7 +334,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Evolve
 #### SessionID: 84598
 # Your BI Workloads and How They Change in the Cloud (Azure)
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
+Event Date: 20-10-2018 - Session time: 13:45:00 - Track: Design
 ## Speaker: Trey Johnson
 ## Title: Your BI Workloads and How They Change in the Cloud (Azure)
 ## Abstract:
@@ -351,7 +351,7 @@ Attendees should have the confidence to map out their own plans for making the m
 #### SessionID: 85034
 # Master Data Management with SQL Server 2016 MDS
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
+Event Date: 20-10-2018 - Session time: 13:45:00 - Track: Design
 ## Speaker: Neal Waterstreet
 ## Title: Master Data Management with SQL Server 2016 MDS
 ## Abstract:
@@ -360,7 +360,7 @@ Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Design
 #### SessionID: 85645
 # Index Trek
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Perform
+Event Date: 20-10-2018 - Session time: 13:45:00 - Track: Perform
 ## Speaker: Sandra Peele
 ## Title: Index Trek
 ## Abstract:
@@ -377,7 +377,7 @@ This presentation was co-produced with Stéphane Faroult, author of Getting the 
 #### SessionID: 85688
 # Use Python to Make Better Email Reports With Graphs
 #### [Back to calendar](#nr-806)
-Event Date: 20-10-2018 - Session time: 15:00:00 - Track: Build
+Event Date: 20-10-2018 - Session time: 13:45:00 - Track: Build
 ## Speaker: Mike Burek
 ## Title: Use Python to Make Better Email Reports With Graphs
 ## Abstract:

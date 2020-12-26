@@ -55,7 +55,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 48751
 # New Instance, Now what?
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Donahoe
 ## Title: New Instance, Now what?
 ## Abstract:
@@ -69,7 +69,7 @@ By the end of this session, you will have developed a pallet of tools to help yo
 #### SessionID: 48771
 # What is a DBA?
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael John
 ## Title: What is a DBA?
 ## Abstract:
@@ -79,7 +79,7 @@ Presented by Michael John and  Ed Wagner
 #### SessionID: 48979
 # SQL Server Transactional Replication: A Deep Dive
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server Transactional Replication: A Deep Dive
 ## Abstract:
@@ -88,7 +88,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 49147
 # Availability Groups 101: An Introduction
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adam Belebczuk
 ## Title: Availability Groups 101: An Introduction
 ## Abstract:
@@ -97,7 +97,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 49619
 # SQL Server Agent: The life preserver for the drowning DBA
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lance Tidwell
 ## Title: SQL Server Agent: The life preserver for the drowning DBA
 ## Abstract:
@@ -106,7 +106,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 53548
 # Speed Up Your SSAS Cube#39;s Data Refresh With Dynamic Partition Processing
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-10-2016 - Session time: 08:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeremy Frye
 ## Title: Speed Up Your SSAS Cube#39;s Data Refresh With Dynamic Partition Processing
 ## Abstract:
@@ -115,7 +115,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: BI Platform Architectur
 #### SessionID: 53934
 # The Secret to High Performance Code...The Devil’s in the Data
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 01-10-2016 - Session time: 08:45:00 - Track: Application  Database Development
 ## Speaker: Jeff Moden
 ## Title: The Secret to High Performance Code...The Devil’s in the Data
 ## Abstract:
@@ -127,7 +127,7 @@ Whether you’re an SQL “Newbie” or seasoned veteran, this “Black Arts” 
 #### SessionID: 49052
 # Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 01-10-2016 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Application  Database D
 #### SessionID: 49517
 # PowerBI Part 1: a business user#39;s perspective
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: BI Information Delivery
+Event Date: 01-10-2016 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: Eugene Meidinger
 ## Title: PowerBI Part 1: a business user#39;s perspective
 ## Abstract:
@@ -145,7 +145,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: BI Information Delivery
 #### SessionID: 50802
 # Getting to know U-SQL
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
+Event Date: 01-10-2016 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Azhagappan Arunachalam
 ## Title: Getting to know U-SQL
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Cloud Application Devel
 #### SessionID: 52326
 # What treasures are hidden in the Plan Cache?
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Slava Murygin
 ## Title: What treasures are hidden in the Plan Cache?
 ## Abstract:
@@ -165,7 +165,7 @@ In this session, we’ll look at Plan Cache, what it is and what it contains,  h
 #### SessionID: 52368
 # Crash Course on Better SQL Development
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 01-10-2016 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Application  Database D
 #### SessionID: 52720
 # Winning with Columnstore - A Customer Story
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Heiges
 ## Title: Winning with Columnstore - A Customer Story
 ## Abstract:
@@ -183,7 +183,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 54460
 # Basics of database design
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 01-10-2016 - Session time: 10:00:00 - Track: Professional Development
 ## Speaker: Michael John
 ## Title: Basics of database design
 ## Abstract:
@@ -193,7 +193,7 @@ This session will dive into the design of databases.  Including tables, views, n
 #### SessionID: 49003
 # Statistics  Cardinality – How they work to find data efficiently
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: Statistics  Cardinality – How they work to find data efficiently
 ## Abstract:
@@ -205,7 +205,7 @@ In this session we will go over why statistics matter, how they are generated, h
 #### SessionID: 50165
 # Stretch Database and Managed Backups: Cloud Services for your SQL Servers
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Loree
 ## Title: Stretch Database and Managed Backups: Cloud Services for your SQL Servers
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 50510
 # Leaving the Past Behind: Rewriting Your Checklist for SQL 2016
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Hillwig
 ## Title: Leaving the Past Behind: Rewriting Your Checklist for SQL 2016
 ## Abstract:
@@ -227,7 +227,7 @@ Join Microsoft MVP Mike Hillwig and his list of server administration best pract
 #### SessionID: 53516
 # PowerBI Part 2:  PowerBI Internals
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: BI Information Delivery
+Event Date: 01-10-2016 - Session time: 11:15:00 - Track: BI Information Delivery
 ## Speaker: Eugene Meidinger
 ## Title: PowerBI Part 2:  PowerBI Internals
 ## Abstract:
@@ -236,7 +236,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: BI Information Delivery
 #### SessionID: 54417
 # Master Data Management with SQL Master Data Services (MDS) and Ma
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-10-2016 - Session time: 11:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Pam Matthews
 ## Title: Master Data Management with SQL Master Data Services (MDS) and Ma
 ## Abstract:
@@ -245,7 +245,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: BI Platform Architectur
 #### SessionID: 54536
 # Basics of querying
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 01-10-2016 - Session time: 11:15:00 - Track: Professional Development
 ## Speaker: Brandi Dollar
 ## Title: Basics of querying
 ## Abstract:
@@ -254,7 +254,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Professional Developmen
 #### SessionID: 54537
 # The Pros and Cons of Table Partitioning
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Advanced Analysis Techniques
+Event Date: 01-10-2016 - Session time: 11:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Brenda Bentz
 ## Title: The Pros and Cons of Table Partitioning
 ## Abstract:
@@ -263,7 +263,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Advanced Analysis Techn
 #### SessionID: 52721
 # SQL Games
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 01-10-2016 - Session time: 12:55:00 - Track: Professional Development
 ## Speaker: Rick Heiges
 ## Title: SQL Games
 ## Abstract:
@@ -272,7 +272,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Professional Developmen
 #### SessionID: 54388
 # Plus Consulting sponsor session
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Other
+Event Date: 01-10-2016 - Session time: 12:55:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: Plus Consulting sponsor session
 ## Abstract:
@@ -281,7 +281,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Other
 #### SessionID: 54389
 # Teletracking sponsor session
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Other
+Event Date: 01-10-2016 - Session time: 12:55:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: Teletracking sponsor session
 ## Abstract:
@@ -292,7 +292,7 @@ TeleTracking has been the industry leader in automated healthcare solutions for 
 #### SessionID: 54390
 # EMC sponsor session
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Other
+Event Date: 01-10-2016 - Session time: 12:55:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: EMC sponsor session
 ## Abstract:
@@ -301,7 +301,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Other
 #### SessionID: 54391
 # Profisee sponsor session
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Other
+Event Date: 01-10-2016 - Session time: 12:55:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: Profisee sponsor session
 ## Abstract:
@@ -310,7 +310,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Other
 #### SessionID: 54686
 # Data Insights recruiting with Microsoft
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Other
+Event Date: 01-10-2016 - Session time: 12:55:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: Data Insights recruiting with Microsoft
 ## Abstract:
@@ -319,7 +319,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Other
 #### SessionID: 49413
 # Designing SQL Server HA/DR Infrastructure to meet the SLA
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: Designing SQL Server HA/DR Infrastructure to meet the SLA
 ## Abstract:
@@ -330,7 +330,7 @@ For each one of the solutions we discuss we will define a series of failure mode
 #### SessionID: 51134
 # A Discussion on the Azure SQL Database Security for the Cloud Objectionist
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
+Event Date: 01-10-2016 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Timothy McAliley
 ## Title: A Discussion on the Azure SQL Database Security for the Cloud Objectionist
 ## Abstract:
@@ -339,7 +339,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Cloud Application Devel
 #### SessionID: 53134
 # An introduction to the magical world of BIML!
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-10-2016 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
 ## Abstract:
@@ -348,7 +348,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: BI Platform Architectur
 #### SessionID: 53406
 # Configuration Option and Trace Flag Secrets: Surprising Behavior at the Flick of a Switch
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Kline
 ## Title: Configuration Option and Trace Flag Secrets: Surprising Behavior at the Flick of a Switch
 ## Abstract:
@@ -357,7 +357,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 53475
 # #16 | Maintain SQL Server Performance Baseline w/PowerShell
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: #16 | Maintain SQL Server Performance Baseline w/PowerShell
 ## Abstract:
@@ -366,7 +366,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 53590
 # Using Filetables
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 01-10-2016 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: Using Filetables
 ## Abstract:
@@ -375,7 +375,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Application  Database D
 #### SessionID: 54534
 # Basics of administration
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 01-10-2016 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Cardell Washington
 ## Title: Basics of administration
 ## Abstract:
@@ -384,7 +384,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Professional Developmen
 #### SessionID: 49007
 # Dealing With Difficult Managers
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 01-10-2016 - Session time: 14:40:00 - Track: Professional Development
 ## Speaker: Gigi Bell
 ## Title: Dealing With Difficult Managers
 ## Abstract:
@@ -394,7 +394,7 @@ Through case studies and open discussion, we will help you determine if you inde
 #### SessionID: 52614
 # Exploiting SQL Server Security Holes
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 14:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Davis
 ## Title: Exploiting SQL Server Security Holes
 ## Abstract:
@@ -405,7 +405,7 @@ This demo heavy session will show you just what I could do in these situations i
 #### SessionID: 53231
 # SQL Data Partners Podcast Live QA session
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Other
+Event Date: 01-10-2016 - Session time: 14:40:00 - Track: Other
 ## Speaker: Carlos L Chacon
 ## Title: SQL Data Partners Podcast Live QA session
 ## Abstract:
@@ -414,7 +414,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Other
 #### SessionID: 53560
 # Working with SSRS Data-Driven Subscriptions 
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: BI Information Delivery
+Event Date: 01-10-2016 - Session time: 14:40:00 - Track: BI Information Delivery
 ## Speaker: Ben Galluzzo
 ## Title: Working with SSRS Data-Driven Subscriptions 
 ## Abstract:
@@ -425,7 +425,7 @@ We#39;ll begin with a quick overview of what the more familiar subscription func
 #### SessionID: 53570
 # Extending SQL Server with Advanced Analytics and R
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Analytics and Visualization
+Event Date: 01-10-2016 - Session time: 14:40:00 - Track: Analytics and Visualization
 ## Speaker: Michael Schulte
 ## Title: Extending SQL Server with Advanced Analytics and R
 ## Abstract:
@@ -434,7 +434,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #### SessionID: 53707
 # Synthetic vs Real-World Workloads: Benchmark Throwdown!
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 14:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: Synthetic vs Real-World Workloads: Benchmark Throwdown!
 ## Abstract:
@@ -443,7 +443,7 @@ Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 54535
 # Basics of BI/Data Warehousing
 #### [Back to calendar](#nr-545)
-Event Date: 01-10-2016 - Session time: 15:50:00 - Track: Advanced Analysis Techniques
+Event Date: 01-10-2016 - Session time: 14:40:00 - Track: Advanced Analysis Techniques
 ## Speaker: Kyle Walker
 ## Title: Basics of BI/Data Warehousing
 ## Abstract:

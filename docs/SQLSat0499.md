@@ -52,7 +52,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 42470
 # XML Without Xanax: How to Handle XML in SQL Server
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 09-04-2016 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Adam Belebczuk
 ## Title: XML Without Xanax: How to Handle XML in SQL Server
 ## Abstract:
@@ -65,7 +65,7 @@ If you survive this session, you'll have faced your fears about XML in SQL Serve
 #### SessionID: 42527
 # I Installed SQL Server... Now What?
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-04-2016 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jared Karney
 ## Title: I Installed SQL Server... Now What?
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 44690
 # Everyday Extended Events
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-04-2016 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jes Schultz
 ## Title: Everyday Extended Events
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 44800
 # Data Architecture 101
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 09-04-2016 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: Data Architecture 101
 ## Abstract:
@@ -98,7 +98,7 @@ This presentation is a survey of Data Architecture for the Intermediate DBA, it 
 #### SessionID: 45358
 # Introduction to Data Warehousing
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-04-2016 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gill Rowley
 ## Title: Introduction to Data Warehousing
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 45540
 # Why do I need Analysis Services?
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-04-2016 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Labry
 ## Title: Why do I need Analysis Services?
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 45650
 # The Query Store and Query Tuning in SQL Server vNext
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 09-04-2016 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: The Query Store and Query Tuning in SQL Server vNext
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 46461
 # Working with Object Compression in SQL Server
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-04-2016 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Working with Object Compression in SQL Server
 ## Abstract:
@@ -137,7 +137,7 @@ This session shows you how to reach into the database and discover compression s
 #### SessionID: 46465
 # Getting More from Analysis Services – Writing Data Back
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 09-04-2016 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Rob Long
 ## Title: Getting More from Analysis Services – Writing Data Back
 ## Abstract:
@@ -149,7 +149,7 @@ In this demo-centric session we’ll see what it takes to setup and use a writeb
 #### SessionID: 43061
 # SSMS Tips and Tricks
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 09-04-2016 - Session time: 10:30:00 - Track: Professional Development
 ## Speaker: Gary Schultz
 ## Title: SSMS Tips and Tricks
 ## Abstract:
@@ -158,7 +158,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 44130
 # Clusters! From the ground up, let's build one together
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-04-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Popovich Jr
 ## Title: Clusters! From the ground up, let's build one together
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 44932
 # SQL Server Hybrid Cloud Strategy: Best Of Both Worlds With On-Prem + Cloud
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-04-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Timmerman
 ## Title: SQL Server Hybrid Cloud Strategy: Best Of Both Worlds With On-Prem + Cloud
 ## Abstract:
@@ -179,7 +179,7 @@ Come spend the hour with me and you’ll learn how to leverage the power of the 
 #### SessionID: 45029
 # Be Friendly to SQL Server with TSQL Best Practices
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 09-04-2016 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Ben Miller
 ## Title: Be Friendly to SQL Server with TSQL Best Practices
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 45443
 # Exploring SQLPS, the SQL Server Powershell Module
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-04-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Exploring SQLPS, the SQL Server Powershell Module
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 45790
 # Every Byte Counts: Why Your Data Type Choices Matter
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 09-04-2016 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: Every Byte Counts: Why Your Data Type Choices Matter
 ## Abstract:
@@ -210,7 +210,7 @@ When you leave, you will be able to explain to your colleagues why data type cho
 #### SessionID: 46494
 # Azure SQL Data Warehouse Overview
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-04-2016 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Strate
 ## Title: Azure SQL Data Warehouse Overview
 ## Abstract:
@@ -223,7 +223,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 46498
 # All things you need to know before you start setting up SQL AlwaysOn
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-04-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Steineke
 ## Title: All things you need to know before you start setting up SQL AlwaysOn
 ## Abstract:
@@ -233,7 +233,7 @@ This session will review all the gotcha’s and things you need to know before y
 #### SessionID: 49187
 # How Developers Can Use SQL 2016
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 09-04-2016 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Omni Resources Speaker Panel
 ## Title: How Developers Can Use SQL 2016
 ## Abstract:
@@ -245,7 +245,7 @@ In this session, we’ll share what our development team loves about SQL Server 
 #### SessionID: 42391
 # What's new in SQL Server 2016
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-04-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ross LoForte
 ## Title: What's new in SQL Server 2016
 ## Abstract:
@@ -255,7 +255,7 @@ SQL Server 2016 delivers breakthrough mission-critical capabilities with in-memo
 #### SessionID: 42993
 # "I Love Replication"...Something Rarely if Ever Said By DBAs But Should Be
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-04-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Lane
 ## Title: "I Love Replication"...Something Rarely if Ever Said By DBAs But Should Be
 ## Abstract:
@@ -264,7 +264,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 44863
 # Introduction to SQL Server Encryption
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-04-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Pusateri
 ## Title: Introduction to SQL Server Encryption
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 45130
 # Power Query: Making developers redundant since 2015
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 09-04-2016 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: George Bryant
 ## Title: Power Query: Making developers redundant since 2015
 ## Abstract:
@@ -282,7 +282,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 45201
 # Infrastructure Tuning for SQL Server Performance
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-04-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Infrastructure Tuning for SQL Server Performance
 ## Abstract:
@@ -291,7 +291,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 45789
 # Uncovering Duplicate, Redundant,  Missing Indexes
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-04-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Yun
 ## Title: Uncovering Duplicate, Redundant,  Missing Indexes
 ## Abstract:
@@ -300,7 +300,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 45916
 # Surviving a Technical SQL Interview
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 09-04-2016 - Session time: 13:00:00 - Track: Professional Development
 ## Speaker: Reed Powell
 ## Title: Surviving a Technical SQL Interview
 ## Abstract:
@@ -310,7 +310,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 46063
 # Effective Reporting through SSRS Advanced Authoring Features 
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 09-04-2016 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: Brian Larson
 ## Title: Effective Reporting through SSRS Advanced Authoring Features 
 ## Abstract:
@@ -319,7 +319,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 46124
 # Power BI - A new way to Explore SQL Server Database and Performance Metrics
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 09-04-2016 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: Seth Bauer
 ## Title: Power BI - A new way to Explore SQL Server Database and Performance Metrics
 ## Abstract:
@@ -328,7 +328,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 42942
 # The Usual SUSPECTs: When Good Databases Go Bad
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-04-2016 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: The Usual SUSPECTs: When Good Databases Go Bad
 ## Abstract:
@@ -337,7 +337,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 44185
 # Data Migration Using BIML
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-04-2016 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Feasel
 ## Title: Data Migration Using BIML
 ## Abstract:
@@ -346,7 +346,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 44388
 # PowerBI  Other Self Service BI tools: Where They Fit in the Enterprise.
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 09-04-2016 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: Ross Parks
 ## Title: PowerBI  Other Self Service BI tools: Where They Fit in the Enterprise.
 ## Abstract:
@@ -355,7 +355,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 44923
 # Anatomy of an Optimizer
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-04-2016 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Luke Jian
 ## Title: Anatomy of an Optimizer
 ## Abstract:
@@ -366,7 +366,7 @@ We explain why query optimization complexity increases exponentially with the nu
 #### SessionID: 45444
 # Managing Availability Groups (What happens after the build!)
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-04-2016 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Managing Availability Groups (What happens after the build!)
 ## Abstract:
@@ -375,7 +375,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 45648
 # Automating Your Database Deployments
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 09-04-2016 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Automating Your Database Deployments
 ## Abstract:
@@ -386,7 +386,7 @@ In this session, we'll explore the concepts of continuous integration and contin
 #### SessionID: 45654
 # SQL Server 2016 - New Security Features
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 09-04-2016 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Jared Zagelbaum
 ## Title: SQL Server 2016 - New Security Features
 ## Abstract:
@@ -397,7 +397,7 @@ There’s a ton of ground to cover on all of the new enhancements, so this sessi
 #### SessionID: 46463
 # DBA Cheat Sheet
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-04-2016 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Elizabeth Block
 ## Title: DBA Cheat Sheet
 ## Abstract:
@@ -406,7 +406,7 @@ Event Date: 09-04-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 46680
 # Azure SQL Database Monitoring and Performance Tuning 101
 #### [Back to calendar](#nr-499)
-Event Date: 09-04-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-04-2016 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julie Koesmarno
 ## Title: Azure SQL Database Monitoring and Performance Tuning 101
 ## Abstract:

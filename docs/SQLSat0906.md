@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 95769
 # Conteinerizando seu SQL Server
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-09-2019 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rodrigo Crespi
 ## Title: Conteinerizando seu SQL Server
 ## Abstract:
@@ -57,7 +57,7 @@ Conheca como tirar proveito, dúvidas e esclarecer mitos sobre o SQL Server roda
 #### SessionID: 95810
 # Query Performance vs ORM
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Marcel Inowe
 ## Title: Query Performance vs ORM
 ## Abstract:
@@ -68,7 +68,7 @@ Nessa sessão abordaremos esse assunto tão polêmico, quanto interessante e mos
 #### SessionID: 96524
 # Performance Troubleshooting - Como o Suporte Microsoft faz!
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-09-2019 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: João Polisel
 ## Title: Performance Troubleshooting - Como o Suporte Microsoft faz!
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 28-09-2019 - Session time: 17:00:00 - Track: BI Platform Architectur
 #### SessionID: 96575
 # Azure SQL DB Managed Instance - Suas possibilidades de migração aumentaram!
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Gabriel Pereira
 ## Title: Azure SQL DB Managed Instance - Suas possibilidades de migração aumentaram!
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database D
 #### SessionID: 98210
 # Seja mais Power ainda dominando Python e Power BI!
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Analytics and Visualization
+Event Date: 28-09-2019 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Meirieli Ribeiro
 ## Title: Seja mais Power ainda dominando Python e Power BI!
 ## Abstract:
@@ -97,7 +97,7 @@ Aprenda a integrar recursos do Power BI + Python para obter o que cada um oferec
 #### SessionID: 95902
 # Segurança no SQL Server - Você está deixando a chave sob o tapete?
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-09-2019 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dirceu Resende
 ## Title: Segurança no SQL Server - Você está deixando a chave sob o tapete?
 ## Abstract:
@@ -106,7 +106,7 @@ Event Date: 28-09-2019 - Session time: 17:00:00 - Track: BI Platform Architectur
 #### SessionID: 96334
 # Azure Databricks  Power BI - A perfect choice to Big Data
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-09-2019 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Arthur Luz
 ## Title: Azure Databricks  Power BI - A perfect choice to Big Data
 ## Abstract:
@@ -115,7 +115,7 @@ Event Date: 28-09-2019 - Session time: 17:00:00 - Track: BI Platform Architectur
 #### SessionID: 96685
 # Real Time Analytics with SQL Server Big Data Cluster.
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Analytics and Visualization
+Event Date: 28-09-2019 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Alexandre Soteras
 ## Title: Real Time Analytics with SQL Server Big Data Cluster.
 ## Abstract:
@@ -124,7 +124,7 @@ Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Analytics and Visualiza
 #### SessionID: 98101
 # Always Encrypted: A Forensic Analysis
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Gustavo Moura Fé
 ## Title: Always Encrypted: A Forensic Analysis
 ## Abstract:
@@ -137,7 +137,7 @@ Prerequisites: Understanding how SQL Server stores data and manages the buffer p
 #### SessionID: 98212
 # Vou começar a trabalhar com projeto de BI, o que devo entender?
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-09-2019 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Igor George Abdo
 ## Title: Vou começar a trabalhar com projeto de BI, o que devo entender?
 ## Abstract:
@@ -147,7 +147,7 @@ São dicas como entender de DW, tabelas fatos e dimensões.
 #### SessionID: 98516
 # Relatos das trincheiras: O dia a dia de uma consultoria de banco de dados
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Igor Santos de Paula
 ## Title: Relatos das trincheiras: O dia a dia de uma consultoria de banco de dados
 ## Abstract:
@@ -157,7 +157,7 @@ Falaremos sobre arquitetura de dados, boas práticas de backup, alta disponibili
 #### SessionID: 95797
 # Criando 40 ALERTAS diferentes para monitorar o SQL Server
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 12:30:00 - Track: Application  Database Development
 ## Speaker: Fabrício Lima
 ## Title: Criando 40 ALERTAS diferentes para monitorar o SQL Server
 ## Abstract:
@@ -168,7 +168,7 @@ CPU, Disco, Log Full, Lock, Alertas graves, Corrupção, Falha de Jobs, Base sem
 #### SessionID: 95818
 # Aumentando a performance do Azure SQL Database utilizando o Hyperscale
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-09-2019 - Session time: 12:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Vitor Fava
 ## Title: Aumentando a performance do Azure SQL Database utilizando o Hyperscale
 ## Abstract:
@@ -178,7 +178,7 @@ Nesta sessão discutiremos como funciona essa nova camada e quais as vantagens e
 #### SessionID: 95830
 # Será que você precisa de Alta Disponibilidade nos seus ambientes?
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 12:30:00 - Track: Application  Database Development
 ## Speaker: Fabio Cotrim
 ## Title: Será que você precisa de Alta Disponibilidade nos seus ambientes?
 ## Abstract:
@@ -189,7 +189,7 @@ Como sempre, minhas palestras devem ser encaradas com bom humor, mas não quer d
 #### SessionID: 98507
 # How Microsoft SQL Server and Azure can help you comply with LGPD
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-09-2019 - Session time: 12:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Diego Miranda
 ## Title: How Microsoft SQL Server and Azure can help you comply with LGPD
 ## Abstract:
@@ -198,7 +198,7 @@ Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Cloud Application Devel
 #### SessionID: 98540
 # Monitorando os recursos e processos do Servidor através do Power BI
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-09-2019 - Session time: 12:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sulamita Dantas
 ## Title: Monitorando os recursos e processos do Servidor através do Power BI
 ## Abstract:
@@ -207,7 +207,7 @@ Event Date: 28-09-2019 - Session time: 17:00:00 - Track: BI Platform Architectur
 #### SessionID: 95782
 # Power Bi Embedded - Insira os visuais interativos do Power BI na sua aplicação WEB
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-09-2019 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rafael Mendonça
 ## Title: Power Bi Embedded - Insira os visuais interativos do Power BI na sua aplicação WEB
 ## Abstract:
@@ -216,7 +216,7 @@ Event Date: 28-09-2019 - Session time: 17:00:00 - Track: BI Platform Architectur
 #### SessionID: 96109
 # [Tableau] Compartilhando insights com sua organização com Tableau Server
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-09-2019 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Nilton Kazuyuki Ueda
 ## Title: [Tableau] Compartilhando insights com sua organização com Tableau Server
 ## Abstract:
@@ -227,7 +227,7 @@ Vamos ver o funcionamento da plataforma na prática?
 #### SessionID: 96623
 # Acessando dados com performance e qualidade no .NET e Azure
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: HENRIQUE MAURI
 ## Title: Acessando dados com performance e qualidade no .NET e Azure
 ## Abstract:
@@ -243,7 +243,7 @@ Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database D
 #### SessionID: 98280
 # Level[400] - The cases of the unexplained memory problems - Part 1
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Fabiano Amorim
 ## Title: Level[400] - The cases of the unexplained memory problems - Part 1
 ## Abstract:
@@ -253,7 +253,7 @@ Note: This is an advanced session, it requires you to have good knowledge on SQL
 #### SessionID: 98462
 # Big Data Clusters com HDFS e MongoDB
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Analytics and Visualization
+Event Date: 28-09-2019 - Session time: 13:30:00 - Track: Analytics and Visualization
 ## Speaker: Luiz Henrique Garetti
 ## Title: Big Data Clusters com HDFS e MongoDB
 ## Abstract:
@@ -264,7 +264,7 @@ time, simulando um cenário real.
 #### SessionID: 98517
 # Problemas mais comuns em uma query.
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Marcio Junior
 ## Title: Problemas mais comuns em uma query.
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database D
 #### SessionID: 95808
 # Desenvolvimento e Administração em SQL Server com Python
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: William Lino Oliveira
 ## Title: Desenvolvimento e Administração em SQL Server com Python
 ## Abstract:
@@ -282,7 +282,7 @@ Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database D
 #### SessionID: 95901
 # Azure Cosmos DB: CRUD completo com Node.js
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Professional Development
+Event Date: 28-09-2019 - Session time: 14:30:00 - Track: Professional Development
 ## Speaker: Thiago da Silva Adriano
 ## Title: Azure Cosmos DB: CRUD completo com Node.js
 ## Abstract:
@@ -291,7 +291,7 @@ Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Professional Developmen
 #### SessionID: 96482
 # Modelando em Document Model - Além do NoJoin com MongoDB!
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Leandro Domingues
 ## Title: Modelando em Document Model - Além do NoJoin com MongoDB!
 ## Abstract:
@@ -300,7 +300,7 @@ Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database D
 #### SessionID: 96516
 # Hacking SQL Server 2
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-09-2019 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Hacking SQL Server 2
 ## Abstract:
@@ -312,7 +312,7 @@ Simularemos uma invasão ao SQL Server explorando alguns conceitos mal interpret
 #### SessionID: 96868
 # Internals Always On
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-09-2019 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Suellen Moraes
 ## Title: Internals Always On
 ## Abstract:
@@ -321,7 +321,7 @@ Event Date: 28-09-2019 - Session time: 17:00:00 - Track: BI Platform Architectur
 #### SessionID: 98281
 # Level[400] - The cases of the unexplained memory problems - Part 2
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Fabiano Amorim
 ## Title: Level[400] - The cases of the unexplained memory problems - Part 2
 ## Abstract:
@@ -331,7 +331,7 @@ Note: This is an advanced session, it requires you to have good knowledge on SQL
 #### SessionID: 95768
 # Preveja o futuro com Azure Machine Learning
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Analytics and Visualization
+Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
 ## Speaker: Thiago Zavaschi
 ## Title: Preveja o futuro com Azure Machine Learning
 ## Abstract:
@@ -341,7 +341,7 @@ Criaremos um modelo de machine learning que poderá prever informações baseado
 #### SessionID: 95772
 # Analise de Dados com Azure Machine Learning, R e Power BI
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Orlando Gomes
 ## Title: Analise de Dados com Azure Machine Learning, R e Power BI
 ## Abstract:
@@ -350,7 +350,7 @@ Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Cloud Application Devel
 #### SessionID: 95783
 # SaaS, IaaS e PaaS e a Plataforma de Dados no Azure.
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tiago Neves
 ## Title: SaaS, IaaS e PaaS e a Plataforma de Dados no Azure.
 ## Abstract:
@@ -359,7 +359,7 @@ Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Cloud Application Devel
 #### SessionID: 96001
 # Gerenciamento Mudanças x Versionamento - O que muda no Banco de Dados?
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Sergio Passos
 ## Title: Gerenciamento Mudanças x Versionamento - O que muda no Banco de Dados?
 ## Abstract:
@@ -369,7 +369,7 @@ Será feito um comparativo com o objetivo de mostrar as características e difer
 #### SessionID: 96081
 # Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade.
 #### [Back to calendar](#nr-906)
-Event Date: 28-09-2019 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Diemerson Campos
 ## Title: Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade.
 ## Abstract:

@@ -50,7 +50,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 35927
 # Possible Musics:  SSAS Multidimensional vs Tabular
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
+Event Date: 16-05-2015 - Session time: 00:00:00 - Track: Track 2
 ## Speaker: William E Pearson III
 ## Title: Possible Musics:  SSAS Multidimensional vs Tabular
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 #### SessionID: 11784
 # So you want to be a Database Administrator...
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
+Event Date: 16-05-2015 - Session time: 08:30:00 - Track: Track 5
 ## Speaker: Colleen Morrow
 ## Title: So you want to be a Database Administrator...
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
 #### SessionID: 15736
 # Query Tuning - Get it Right the First Time 
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
+Event Date: 16-05-2015 - Session time: 08:30:00 - Track: Track 6
 ## Speaker: Janis Griffin
 ## Title: Query Tuning - Get it Right the First Time 
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
 #### SessionID: 25728
 # Fixing Page Life Expectancy
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4 
+Event Date: 16-05-2015 - Session time: 08:30:00 - Track: Track 4 
 ## Speaker: Steve Hood
 ## Title: Fixing Page Life Expectancy
 ## Abstract:
@@ -88,7 +88,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4
 #### SessionID: 27648
 # The Use Cases for In-Memory OLTP
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 3
+Event Date: 16-05-2015 - Session time: 08:30:00 - Track: Track 3
 ## Speaker: Warner Chaves
 ## Title: The Use Cases for In-Memory OLTP
 ## Abstract:
@@ -97,7 +97,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 3
 #### SessionID: 9009
 # Availability Groups 101: An Introduction
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
+Event Date: 16-05-2015 - Session time: 08:30:00 - Track: Track 7
 ## Speaker: Adam Belebczuk
 ## Title: Availability Groups 101: An Introduction
 ## Abstract:
@@ -106,7 +106,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
 #### SessionID: 9560
 # Easing Into Scripting with Windows PowerShell
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
+Event Date: 16-05-2015 - Session time: 08:30:00 - Track: Track 2
 ## Speaker: Andy Levy
 ## Title: Easing Into Scripting with Windows PowerShell
 ## Abstract:
@@ -115,7 +115,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 #### SessionID: 11288
 # The Spy Who Loathed Me - An Intro to SQL Security 
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 1
+Event Date: 16-05-2015 - Session time: 09:45:00 - Track: Track 1
 ## Speaker: Chris Bell
 ## Title: The Spy Who Loathed Me - An Intro to SQL Security 
 ## Abstract:
@@ -124,7 +124,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 1
 #### SessionID: 11783
 # Enterprise-level auditing on a Standard Edition budget
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
+Event Date: 16-05-2015 - Session time: 09:45:00 - Track: Track 5
 ## Speaker: Colleen Morrow
 ## Title: Enterprise-level auditing on a Standard Edition budget
 ## Abstract:
@@ -133,7 +133,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
 #### SessionID: 15735
 # Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
+Event Date: 16-05-2015 - Session time: 09:45:00 - Track: Track 6
 ## Speaker: Janis Griffin
 ## Title: Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
 ## Abstract:
@@ -142,7 +142,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
 #### SessionID: 20663
 # Advanced Troubleshooting Your SQL Connections
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4 
+Event Date: 16-05-2015 - Session time: 09:45:00 - Track: Track 4 
 ## Speaker: Mike Hays
 ## Title: Advanced Troubleshooting Your SQL Connections
 ## Abstract:
@@ -151,7 +151,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4
 #### SessionID: 26129
 # SQL Server Storage Engine under the hood 
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
+Event Date: 16-05-2015 - Session time: 09:45:00 - Track: Track 2
 ## Speaker: Thomas Grohser
 ## Title: SQL Server Storage Engine under the hood 
 ## Abstract:
@@ -166,7 +166,7 @@ Which I/O Subsystems (including SSD) are best for which type of data and what's 
 #### SessionID: 27647
 # Level Up: Understanding Azure's SQL Database Service Tiers
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 3
+Event Date: 16-05-2015 - Session time: 09:45:00 - Track: Track 3
 ## Speaker: Warner Chaves
 ## Title: Level Up: Understanding Azure's SQL Database Service Tiers
 ## Abstract:
@@ -181,7 +181,7 @@ Come learn the differences between the tiers, measuring performance and how to o
 #### SessionID: 9010
 # XML Without Xanax: How to Handle XML in SQL Server
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
+Event Date: 16-05-2015 - Session time: 09:45:00 - Track: Track 7
 ## Speaker: Adam Belebczuk
 ## Title: XML Without Xanax: How to Handle XML in SQL Server
 ## Abstract:
@@ -194,7 +194,7 @@ If you survive this session, you'll have faced your fears about XML in SQL Serve
 #### SessionID: 11286
 # Hacking Exposé - Using SSL to Protect SQL Connections
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 3
+Event Date: 16-05-2015 - Session time: 11:00:00 - Track: Track 3
 ## Speaker: Chris Bell
 ## Title: Hacking Exposé - Using SSL to Protect SQL Connections
 ## Abstract:
@@ -207,7 +207,7 @@ Using a simple hacking technique we will dig into some packets on our network an
 #### SessionID: 13745
 # SQL Server and Networking High Availability/Disaster Recovery Best Practices
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
+Event Date: 16-05-2015 - Session time: 11:00:00 - Track: Track 6
 ## Speaker: Edwin M Sarmiento
 ## Title: SQL Server and Networking High Availability/Disaster Recovery Best Practices
 ## Abstract:
@@ -216,7 +216,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
 #### SessionID: 14202
 # APPLY Yourself
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
+Event Date: 16-05-2015 - Session time: 11:00:00 - Track: Track 5
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
 ## Abstract:
@@ -225,7 +225,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
 #### SessionID: 14545
 # SQL Server 2014 New Features
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 1
+Event Date: 16-05-2015 - Session time: 11:00:00 - Track: Track 1
 ## Speaker: George Walters
 ## Title: SQL Server 2014 New Features
 ## Abstract:
@@ -234,7 +234,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 1
 #### SessionID: 16999
 # Software as a service
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4 
+Event Date: 16-05-2015 - Session time: 11:00:00 - Track: Track 4 
 ## Speaker: John Miner
 ## Title: Software as a service
 ## Abstract:
@@ -264,7 +264,7 @@ Coverage:
 #### SessionID: 19692
 # The BI Power Hour
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
+Event Date: 16-05-2015 - Session time: 11:00:00 - Track: Track 2
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: The BI Power Hour
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 #### SessionID: 26128
 # Developing and deploying reusable TSQL code with Visual Studio and SQL Server Data Tools
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
+Event Date: 16-05-2015 - Session time: 11:00:00 - Track: Track 2
 ## Speaker: Thomas Grohser
 ## Title: Developing and deploying reusable TSQL code with Visual Studio and SQL Server Data Tools
 ## Abstract:
@@ -283,7 +283,7 @@ He will also share Tips and Tricks for using Visual Studio more effective.
 #### SessionID: 35926
 # Getting Started with MDX
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
+Event Date: 16-05-2015 - Session time: 11:00:00 - Track: Track 7
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
 ## Abstract:
@@ -292,7 +292,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
 #### SessionID: 13746
 # Troubleshoot SQL Server Performance Issues using Wait Statistics
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
+Event Date: 16-05-2015 - Session time: 13:30:00 - Track: Track 6
 ## Speaker: Edwin M Sarmiento
 ## Title: Troubleshoot SQL Server Performance Issues using Wait Statistics
 ## Abstract:
@@ -301,7 +301,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
 #### SessionID: 13861
 # (a Few of) My Favorite DMVs
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
+Event Date: 16-05-2015 - Session time: 13:30:00 - Track: Track 7
 ## Speaker: Edward Pollack
 ## Title: (a Few of) My Favorite DMVs
 ## Abstract:
@@ -311,7 +311,7 @@ We will dig into some of the most useful DMVs available and review some real-wor
 #### SessionID: 14203
 # Much Ado About Hadoop
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
+Event Date: 16-05-2015 - Session time: 13:30:00 - Track: Track 5
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
 ## Abstract:
@@ -320,7 +320,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
 #### SessionID: 14547
 # SQL Server AlwaysOn Availability Groups
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
+Event Date: 16-05-2015 - Session time: 13:30:00 - Track: Track 2
 ## Speaker: George Walters
 ## Title: SQL Server AlwaysOn Availability Groups
 ## Abstract:
@@ -329,7 +329,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 #### SessionID: 17014
 # Basic Database Design  
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 1
+Event Date: 16-05-2015 - Session time: 13:30:00 - Track: Track 1
 ## Speaker: John Miner
 ## Title: Basic Database Design  
 ## Abstract:
@@ -356,7 +356,7 @@ Coverage:
 #### SessionID: 19690
 # Boosting DWH-Performance with SQL Server 2014
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
+Event Date: 16-05-2015 - Session time: 13:30:00 - Track: Track 2
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Boosting DWH-Performance with SQL Server 2014
 ## Abstract:
@@ -365,7 +365,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
 #### SessionID: 35625
 # The Quest for the Golden Record: MDM Best Practices 
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4 
+Event Date: 16-05-2015 - Session time: 13:30:00 - Track: Track 4 
 ## Speaker: Brian Benzel
 ## Title: The Quest for the Golden Record: MDM Best Practices 
 ## Abstract:
@@ -374,7 +374,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4
 #### SessionID: 11681
 # Rethink Your ETL with BIML
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4 
+Event Date: 16-05-2015 - Session time: 14:45:00 - Track: Track 4 
 ## Speaker: Chris Schmidt
 ## Title: Rethink Your ETL with BIML
 ## Abstract:
@@ -384,7 +384,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 4
 #### SessionID: 12603
 # Right-Sizing Your SQL Server Virtual Machine
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 6
+Event Date: 16-05-2015 - Session time: 14:45:00 - Track: Track 6
 ## Speaker: David Klee
 ## Title: Right-Sizing Your SQL Server Virtual Machine
 ## Abstract:
@@ -395,7 +395,7 @@ The methods for understanding the performance of your mission-critical SQL Serve
 #### SessionID: 13334
 # The usual SUSPECTs: When good databases go bad.
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 3
+Event Date: 16-05-2015 - Session time: 14:45:00 - Track: Track 3
 ## Speaker: David Maxwell
 ## Title: The usual SUSPECTs: When good databases go bad.
 ## Abstract:
@@ -407,7 +407,7 @@ learn the proper techniques to bring your data safely back online.
 #### SessionID: 15621
 # What exactly is big data and why should I care?
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
+Event Date: 16-05-2015 - Session time: 14:45:00 - Track: Track 7
 ## Speaker: James Serra
 ## Title: What exactly is big data and why should I care?
 ## Abstract:
@@ -416,7 +416,7 @@ Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 7
 #### SessionID: 18081
 # Transactional Replication: Architecture, Setup, and Monitoring
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 5
+Event Date: 16-05-2015 - Session time: 14:45:00 - Track: Track 5
 ## Speaker: Kendal Van Dyke
 ## Title: Transactional Replication: Architecture, Setup, and Monitoring
 ## Abstract:
@@ -429,7 +429,7 @@ Session Goals:
 #### SessionID: 18448
 # Introduction to Window Functions
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 2
+Event Date: 16-05-2015 - Session time: 14:45:00 - Track: Track 2
 ## Speaker: Kathi Kellenberger
 ## Title: Introduction to Window Functions
 ## Abstract:
@@ -440,7 +440,7 @@ This session will teach you how to avoid cursor solutions, and create simpler co
 #### SessionID: 19846
 # Getting started with SSIS
 #### [Back to calendar](#nr-383)
-Event Date: 16-05-2015 - Session time: 16:00:00 - Track: Track 1
+Event Date: 16-05-2015 - Session time: 14:45:00 - Track: Track 1
 ## Speaker: Matt Nelson
 ## Title: Getting started with SSIS
 ## Abstract:

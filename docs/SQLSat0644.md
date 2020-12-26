@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 62831
 # Forecasting with MS BI Suite
 #### [Back to calendar](#nr-644)
-Event Date: 24-06-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-06-2017 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dejan Sarka
 ## Title: Forecasting with MS BI Suite
 ## Abstract:
@@ -26,7 +26,7 @@ Event Date: 24-06-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 64261
 # In the name of the resources: Aggregating data
 #### [Back to calendar](#nr-644)
-Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 24-06-2017 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Dejan Dular
 ## Title: In the name of the resources: Aggregating data
 ## Abstract:
@@ -35,7 +35,7 @@ Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 62835
 # Doing Hadoop with Azure HDInsight
 #### [Back to calendar](#nr-644)
-Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 24-06-2017 - Session time: 11:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mario Meir-Huber
 ## Title: Doing Hadoop with Azure HDInsight
 ## Abstract:
@@ -44,7 +44,7 @@ Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 63169
 # T-SQL User-Defined Functions, or: How to kill performance in one, easy step
 #### [Back to calendar](#nr-644)
-Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 24-06-2017 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: T-SQL User-Defined Functions, or: How to kill performance in one, easy step
 ## Abstract:
@@ -55,7 +55,7 @@ However, you will also see that there is a way to avoid the problems. With just 
 #### SessionID: 64027
 # Building Disaster Recovery solution with AlwaysOn
 #### [Back to calendar](#nr-644)
-Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-06-2017 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Roman Rehak
 ## Title: Building Disaster Recovery solution with AlwaysOn
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 62886
 # Running SQL Server as a Container
 #### [Back to calendar](#nr-644)
-Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 24-06-2017 - Session time: 13:30:00 - Track: Strategy and Architecture
 ## Speaker: Marek Chmel
 ## Title: Running SQL Server as a Container
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 62877
 # Beginning Data Science-From Novice to Professional
 #### [Back to calendar](#nr-644)
-Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 24-06-2017 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Beginning Data Science-From Novice to Professional
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 64491
 # Parameter Sniffing Problem with Stored Procedures
 #### [Back to calendar](#nr-644)
-Event Date: 24-06-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 24-06-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Miloš Radivojević
 ## Title: Parameter Sniffing Problem with Stored Procedures
 ## Abstract:

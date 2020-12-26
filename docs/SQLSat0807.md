@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 85340
 # Everlasting Issues with Temporary Tables and tempdb
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 27-04-2019 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Kalen Delaney
 ## Title: Everlasting Issues with Temporary Tables and tempdb
 ## Abstract:
@@ -51,7 +51,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 85840
 # Real-World AI in Azure
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
+Event Date: 27-04-2019 - Session time: 08:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Amie Mason
 ## Title: Real-World AI in Azure
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #### SessionID: 86680
 # Why Solidity is Solid – Basics of Ethereum, Smart Contracts, and Blockchain.
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Information Delivery
+Event Date: 27-04-2019 - Session time: 08:30:00 - Track: Information Delivery
 ## Speaker: Swagatika Sarangi
 ## Title: Why Solidity is Solid – Basics of Ethereum, Smart Contracts, and Blockchain.
 ## Abstract:
@@ -75,7 +75,7 @@ Topics that I will cover in this session –
 #### SessionID: 87044
 # Better Query Performance from Proper Statistics Management
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 27-04-2019 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Vern Rabe
 ## Title: Better Query Performance from Proper Statistics Management
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 87742
 # Practical Visual Guidance for PowerBI
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-04-2019 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Yana Berkovich
 ## Title: Practical Visual Guidance for PowerBI
 ## Abstract:
@@ -98,7 +98,7 @@ Customer Profitability sample and HR sample
 #### SessionID: 90975
 # A Beginner's Guide To Plan Guides
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-04-2019 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Carrig
 ## Title: A Beginner's Guide To Plan Guides
 ## Abstract:
@@ -109,7 +109,7 @@ In this session we will cover what plan guides are, how they work and demonstrat
 #### SessionID: 91118
 # Automated tests in your database: tSQLt
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 27-04-2019 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Janice Gerbrandt
 ## Title: Automated tests in your database: tSQLt
 ## Abstract:
@@ -120,7 +120,7 @@ In this session you’ll learn how to use tSQLt to add automated tests to your d
 #### SessionID: 85998
 # Build ETL Patterns in the Cloud with Azure Data Factory
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
+Event Date: 27-04-2019 - Session time: 09:45:00 - Track: BI Information Delivery
 ## Speaker: Mark Kromer
 ## Title: Build ETL Patterns in the Cloud with Azure Data Factory
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 #### SessionID: 87045
 # T-SQL Habits and Practices That Can Kill Performance
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 27-04-2019 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Vern Rabe
 ## Title: T-SQL Habits and Practices That Can Kill Performance
 ## Abstract:
@@ -140,7 +140,7 @@ Armed with this knowledge, you will definitely impress your boss with your abili
 #### SessionID: 87354
 # Keys to Successfully Governing Power BI for your Organization
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 27-04-2019 - Session time: 09:45:00 - Track: Analytics and Visualization
 ## Speaker: Amie Mason
 ## Title: Keys to Successfully Governing Power BI for your Organization
 ## Abstract:
@@ -149,7 +149,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 91147
 # Demystifying Chart Types and Report Design Principles in Power BI
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 27-04-2019 - Session time: 09:45:00 - Track: Analytics and Visualization
 ## Speaker: Reid Havens
 ## Title: Demystifying Chart Types and Report Design Principles in Power BI
 ## Abstract:
@@ -158,7 +158,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 91804
 # Protect Your SQL Server Data with Static Data Masking
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 27-04-2019 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Greg Larsen
 ## Title: Protect Your SQL Server Data with Static Data Masking
 ## Abstract:
@@ -168,7 +168,7 @@ In order to protect data and comply with regulations such as the GDPR and HIPAA,
 #### SessionID: 93367
 # Azure SQL DW: Optimization Technics to Maximize Performance
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 27-04-2019 - Session time: 09:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sergiy Lunyakin
 ## Title: Azure SQL DW: Optimization Technics to Maximize Performance
 ## Abstract:
@@ -184,7 +184,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #### SessionID: 93369
 # PowerApps  Power BI: Better Together
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-04-2019 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Yana Berkovich
 ## Title: PowerApps  Power BI: Better Together
 ## Abstract:
@@ -193,7 +193,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #### SessionID: 86698
 # Using Columnstore indexes in Azure DevOps Services. Lessons learned
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 27-04-2019 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Konstantin Kosinsky
 ## Title: Using Columnstore indexes in Azure DevOps Services. Lessons learned
 ## Abstract:
@@ -212,7 +212,7 @@ Working on it, I've learned a lot of DOs and DON'Ts about columnstore indexes. S
 #### SessionID: 86781
 # Managing Table Partitions at the Extremes
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-04-2019 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ron Talmage
 ## Title: Managing Table Partitions at the Extremes
 ## Abstract:
@@ -221,7 +221,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 87649
 # Managing ETL Change using BIMLScript
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-04-2019 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Russel Loski
 ## Title: Managing ETL Change using BIMLScript
 ## Abstract:
@@ -236,7 +236,7 @@ Finally, I will use BIMLScript to handle changes from one version of SSIS to the
 #### SessionID: 87920
 # Power BI for the Faint of Heart - Building an Interactive Report Step-by-Step!
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
+Event Date: 27-04-2019 - Session time: 11:00:00 - Track: BI Information Delivery
 ## Speaker: Scott Stauffer
 ## Title: Power BI for the Faint of Heart - Building an Interactive Report Step-by-Step!
 ## Abstract:
@@ -245,7 +245,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 #### SessionID: 93362
 # Becoming a Master by Giving It All Away
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Professional Development
+Event Date: 27-04-2019 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Michael Wall
 ## Title: Becoming a Master by Giving It All Away
 ## Abstract:
@@ -257,7 +257,7 @@ By passing on your knowledge, you are leaving behind a legacy that extends beyon
 #### SessionID: 93363
 # SQL 101: A Very Good Place to Start
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-04-2019 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: josh smith
 ## Title: SQL 101: A Very Good Place to Start
 ## Abstract:
@@ -266,7 +266,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 93366
 # Azure SQL DWH: Tips and Tricks for developers
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-04-2019 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Azure SQL DWH: Tips and Tricks for developers
 ## Abstract:
@@ -275,7 +275,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #### SessionID: 84867
 # Predictive Analytics with R in Power BI
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
+Event Date: 27-04-2019 - Session time: 13:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Joseph Yeates
 ## Title: Predictive Analytics with R in Power BI
 ## Abstract:
@@ -284,7 +284,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #### SessionID: 86966
 # Large-scale graph querying and analytics with SQL Graph
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 27-04-2019 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Arvind Shyamsundar
 ## Title: Large-scale graph querying and analytics with SQL Graph
 ## Abstract:
@@ -293,7 +293,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 87648
 # Querying Semistructured Data in Azure Data Lake with USQL
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 27-04-2019 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Russel Loski
 ## Title: Querying Semistructured Data in Azure Data Lake with USQL
 ## Abstract:
@@ -302,7 +302,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #### SessionID: 87826
 # RC, SI, and RCSI -It's So Confusing. Which Should You Use?
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 27-04-2019 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Arnie Rowland
 ## Title: RC, SI, and RCSI -It's So Confusing. Which Should You Use?
 ## Abstract:
@@ -311,7 +311,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 87919
 # SQL Server 2019 Big Data Clusters
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
+Event Date: 27-04-2019 - Session time: 13:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Rock Pereira
 ## Title: SQL Server 2019 Big Data Clusters
 ## Abstract:
@@ -320,7 +320,7 @@ Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #### SessionID: 93364
 # Power BI Administration to Optimize your Premium Services
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-04-2019 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: DeNisha Malone
 ## Title: Power BI Administration to Optimize your Premium Services
 ## Abstract:
@@ -335,7 +335,7 @@ If you are a premium user, a Power BI Service Admin, or just interested in premi
 #### SessionID: 93370
 # How to write a Kicka** anything
 #### [Back to calendar](#nr-807)
-Event Date: 27-04-2019 - Session time: 15:15:00 - Track: Professional Development
+Event Date: 27-04-2019 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Blythe Morrow
 ## Title: How to write a Kicka** anything
 ## Abstract:

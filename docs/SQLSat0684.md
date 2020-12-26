@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 70365
 # Power BI - Dashboard in a Day
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 18-11-2017 - Session time: 09:00:00 - Track: Business Intelligence
 ## Speaker: Gaston Cruz
 ## Title: Power BI - Dashboard in a Day
 ## Abstract:
@@ -47,7 +47,7 @@ Registro y Pago en https://welcu.com/metric-learning/power-bi-day?utm_source=dir
 #### SessionID: 70370
 # SQL Server Query Tuning and Optimization
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
+Event Date: 18-11-2017 - Session time: 09:00:00 - Track: Database Engine
 ## Speaker: Kamal Valero
 ## Title: SQL Server Query Tuning and Optimization
 ## Abstract:
@@ -66,7 +66,7 @@ Registro y Pago en https://welcu.com/metric-learning/sql-server-tuning?utm_sourc
 #### SessionID: 67104
 # Tip para migrar SSIS (Integration Services)
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 18-11-2017 - Session time: 09:30:00 - Track: Business Intelligence
 ## Speaker: Carlos Farias
 ## Title: Tip para migrar SSIS (Integration Services)
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #### SessionID: 67663
 # Usando Hive en HDInsight
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 18-11-2017 - Session time: 09:30:00 - Track: Business Intelligence
 ## Speaker: Cristobal Ibarra
 ## Title: Usando Hive en HDInsight
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #### SessionID: 68404
 # Administre, Diagnostique y Resuelva problemas sobre su SQL Server
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
+Event Date: 18-11-2017 - Session time: 09:30:00 - Track: Database Engine
 ## Speaker: Gustavo Boismoreau
 ## Title: Administre, Diagnostique y Resuelva problemas sobre su SQL Server
 ## Abstract:
@@ -101,7 +101,7 @@ Bloqueos
 #### SessionID: 68729
 # Implementacion de Modelos Analiticos de Alto Impacto en Azure Analysis Services.
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 18-11-2017 - Session time: 09:30:00 - Track: Business Intelligence
 ## Speaker: Nicolas Nakasone
 ## Title: Implementacion de Modelos Analiticos de Alto Impacto en Azure Analysis Services.
 ## Abstract:
@@ -113,7 +113,7 @@ tecnologias Microsoft Business Intelligence.
 #### SessionID: 70300
 # SQL Server 2017 - Deep Learning, clasificación de imagenes usando Azure Data Science Virtual Machine
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
+Event Date: 18-11-2017 - Session time: 09:30:00 - Track: Advanced Analytics
 ## Speaker: Adrian Fernandez
 ## Title: SQL Server 2017 - Deep Learning, clasificación de imagenes usando Azure Data Science Virtual Machine
 ## Abstract:
@@ -123,7 +123,7 @@ Los últimos avanaces para Data Scientist usando  Azure Data Science Virtual Mac
 #### SessionID: 70599
 # Ven, Adopta y Gobierna tus datos
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 18-11-2017 - Session time: 09:30:00 - Track: Business Intelligence
 ## Speaker: Marcelo Escudero
 ## Title: Ven, Adopta y Gobierna tus datos
 ## Abstract:
@@ -132,7 +132,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #### SessionID: 69183
 # Testeando nuevas características y revisando mitos de SQL Server 2016 y 2017
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
+Event Date: 18-11-2017 - Session time: 10:45:00 - Track: Database Engine
 ## Speaker: Kamal Valero
 ## Title: Testeando nuevas características y revisando mitos de SQL Server 2016 y 2017
 ## Abstract:
@@ -141,7 +141,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 #### SessionID: 70174
 # Empoderando a la Manufactura con IoT e inteligencia Artificial
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
+Event Date: 18-11-2017 - Session time: 10:45:00 - Track: Advanced Analytics
 ## Speaker: Armando Blanco
 ## Title: Empoderando a la Manufactura con IoT e inteligencia Artificial
 ## Abstract:
@@ -150,7 +150,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
 #### SessionID: 70463
 # Lo nuevo en Power BI
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 18-11-2017 - Session time: 10:45:00 - Track: Business Intelligence
 ## Speaker: Leidy Ortiz
 ## Title: Lo nuevo en Power BI
 ## Abstract:
@@ -159,7 +159,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #### SessionID: 67472
 # Aplicaciones de alto rendimiento con Azure Redis Cache
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
+Event Date: 18-11-2017 - Session time: 12:00:00 - Track: Database Engine
 ## Speaker: Nestor Campos
 ## Title: Aplicaciones de alto rendimiento con Azure Redis Cache
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 #### SessionID: 67662
 # Utilizando Apache Spark en HDInsight
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
+Event Date: 18-11-2017 - Session time: 12:00:00 - Track: Advanced Analytics
 ## Speaker: Cristobal Ibarra
 ## Title: Utilizando Apache Spark en HDInsight
 ## Abstract:
@@ -178,7 +178,7 @@ La idea de esta sesión es mostrar las bondades de Spark para dar los primeros p
 #### SessionID: 67717
 # Analisis Sentimientos en Power BI
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 18-11-2017 - Session time: 12:00:00 - Track: Business Intelligence
 ## Speaker: Gaston Cruz
 ## Title: Analisis Sentimientos en Power BI
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
 #### SessionID: 66986
 # Usando R y Python desde SQL Server
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
+Event Date: 18-11-2017 - Session time: 14:00:00 - Track: Advanced Analytics
 ## Speaker: Patricio Cofre
 ## Title: Usando R y Python desde SQL Server
 ## Abstract:
@@ -196,7 +196,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
 #### SessionID: 67666
 # Nuevas Caracteristicas de SQL Server 2016 para DBAs
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
+Event Date: 18-11-2017 - Session time: 14:00:00 - Track: Database Engine
 ## Speaker: Javier Villegas
 ## Title: Nuevas Caracteristicas de SQL Server 2016 para DBAs
 ## Abstract:
@@ -205,7 +205,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 #### SessionID: 68405
 # Integrando Datos y Migrando hacia una plataforma Microsoft
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 18-11-2017 - Session time: 14:00:00 - Track: Business Intelligence
 ## Speaker: Gustavo Boismoreau
 ## Title: Integrando Datos y Migrando hacia una plataforma Microsoft
 ## Abstract:
@@ -222,7 +222,7 @@ Migrando hacia una plataforma Microsoft
 #### SessionID: 67109
 # Microsoft SQL Server 2017 in Linux el nuevo desafio....
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
+Event Date: 18-11-2017 - Session time: 15:15:00 - Track: Database Engine
 ## Speaker: Carlos Farias
 ## Title: Microsoft SQL Server 2017 in Linux el nuevo desafio....
 ## Abstract:
@@ -231,7 +231,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
 #### SessionID: 67479
 # Azure Data Lake Analytics y U-SQL
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
+Event Date: 18-11-2017 - Session time: 15:15:00 - Track: Advanced Analytics
 ## Speaker: Marco Ramirez
 ## Title: Azure Data Lake Analytics y U-SQL
 ## Abstract:
@@ -240,7 +240,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Advanced Analytics
 #### SessionID: 67851
 # Cosmos DB and beyond
 #### [Back to calendar](#nr-684)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Engine
+Event Date: 18-11-2017 - Session time: 15:15:00 - Track: Database Engine
 ## Speaker: Sergio Borromei
 ## Title: Cosmos DB and beyond
 ## Abstract:

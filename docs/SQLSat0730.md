@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 73189
 # Embedding PowerApps into a Power BI Dashboard
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Business Intelligence  Data Science
+Event Date: 14-07-2018 - Session time: 08:30:00 - Track: Business Intelligence  Data Science
 ## Speaker: Callum Green
 ## Title: Embedding PowerApps into a Power BI Dashboard
 ## Abstract:
@@ -49,7 +49,7 @@ The 1-hour session includes other technologies such as Azure SQL Database, Commo
 #### SessionID: 80268
 # Azure Cosmos DB - What you need to know to build globally distributed apps?
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Azure  Cloud Data Services
+Event Date: 14-07-2018 - Session time: 08:30:00 - Track: Azure  Cloud Data Services
 ## Speaker: Satya Jayanty
 ## Title: Azure Cosmos DB - What you need to know to build globally distributed apps?
 ## Abstract:
@@ -58,7 +58,7 @@ Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Azure  Cloud Data Servi
 #### SessionID: 80496
 # Be a dynamic SQL dynamo!
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 14-07-2018 - Session time: 08:30:00 - Track: Database Administration  Development
 ## Speaker: Joanna Wolthuis
 ## Title: Be a dynamic SQL dynamo!
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 80869
 # Tune the query, not the plan
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 14-07-2018 - Session time: 08:30:00 - Track: Database Administration  Development
 ## Speaker: Kevan Riley
 ## Title: Tune the query, not the plan
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 82352
 # dbachecks - The PowerShell Module to validate your SQL Estate
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 14-07-2018 - Session time: 08:30:00 - Track: Database Administration  Development
 ## Speaker: Rob Sewell
 ## Title: dbachecks - The PowerShell Module to validate your SQL Estate
 ## Abstract:
@@ -98,7 +98,7 @@ Join one of the founders of the module, Rob Sewell MVP. and he will show you how
 #### SessionID: 71568
 # Chatbots for Dummies
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Business Intelligence  Data Science
+Event Date: 14-07-2018 - Session time: 09:45:00 - Track: Business Intelligence  Data Science
 ## Speaker: Jose Mendes
 ## Title: Chatbots for Dummies
 ## Abstract:
@@ -111,7 +111,7 @@ Will it pass the Turing test, no, but we can extend the bot service using Machin
 #### SessionID: 78821
 # Deep dive into Adaptive Query Processing
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 14-07-2018 - Session time: 09:45:00 - Track: Database Administration  Development
 ## Speaker: Hugo Kornelis
 ## Title: Deep dive into Adaptive Query Processing
 ## Abstract:
@@ -124,7 +124,7 @@ If you are more interested in how all this ACTUALLY works than in shiny marketin
 #### SessionID: 80579
 # Cubes in the Cloud - Analysis Services in Azure
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Business Intelligence  Data Science
+Event Date: 14-07-2018 - Session time: 09:45:00 - Track: Business Intelligence  Data Science
 ## Speaker: Alex Whittles
 ## Title: Cubes in the Cloud - Analysis Services in Azure
 ## Abstract:
@@ -133,7 +133,7 @@ Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Business Intelligence  
 #### SessionID: 80780
 # The productive SQL Server Professional
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 14-07-2018 - Session time: 09:45:00 - Track: Database Administration  Development
 ## Speaker: Martin Croft
 ## Title: The productive SQL Server Professional
 ## Abstract:
@@ -143,7 +143,7 @@ An enhanced set of development/DBA tools, to analysis your SQL Server, and find 
 #### SessionID: 83949
 # Harnessing Database Monitoring in a DevOps pipeline
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Database Development  Continuous Integration
+Event Date: 14-07-2018 - Session time: 09:45:00 - Track: Database Development  Continuous Integration
 ## Speaker: Mark Allison
 ## Title: Harnessing Database Monitoring in a DevOps pipeline
 ## Abstract:
@@ -160,7 +160,7 @@ This allows us to automatically fail releases based on poor performance as captu
 #### SessionID: 71666
 # SQL Server  Containers
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 14-07-2018 - Session time: 11:00:00 - Track: Database Administration  Development
 ## Speaker: Andrew Pruski
 ## Title: SQL Server  Containers
 ## Abstract:
@@ -181,7 +181,7 @@ A real world implementation of containers
 #### SessionID: 75810
 # An Introduction to Machine Learning with Python
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Business Intelligence  Data Science
+Event Date: 14-07-2018 - Session time: 11:00:00 - Track: Business Intelligence  Data Science
 ## Speaker: Terry McCann
 ## Title: An Introduction to Machine Learning with Python
 ## Abstract:
@@ -190,7 +190,7 @@ Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Business Intelligence  
 #### SessionID: 77757
 # Azure Functions and Automation: The SQL Agent in the Cloud
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Azure  Cloud Data Services
+Event Date: 14-07-2018 - Session time: 11:00:00 - Track: Azure  Cloud Data Services
 ## Speaker: Sam Cogan
 ## Title: Azure Functions and Automation: The SQL Agent in the Cloud
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Azure  Cloud Data Servi
 #### SessionID: 82227
 # Data Classification in SQL Server and Azure SQL Database
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 14-07-2018 - Session time: 11:00:00 - Track: Database Administration  Development
 ## Speaker: Mark Pryce-Maher
 ## Title: Data Classification in SQL Server and Azure SQL Database
 ## Abstract:
@@ -209,7 +209,7 @@ I run through the need for data classification in general and why its important 
 #### SessionID: 82421
 # Lessons learned implementing real-world Data Analytic projects
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Azure  Cloud Data Services
+Event Date: 14-07-2018 - Session time: 11:00:00 - Track: Azure  Cloud Data Services
 ## Speaker: Neil Hambly
 ## Title: Lessons learned implementing real-world Data Analytic projects
 ## Abstract:
@@ -220,7 +220,7 @@ Managing the teams that can deliver the complex architecture designs can quickly
 #### SessionID: 72454
 # Azure Data Factory v2 – SSIS Data Flows  Custom Extensibility
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Business Intelligence  Data Science
+Event Date: 14-07-2018 - Session time: 13:30:00 - Track: Business Intelligence  Data Science
 ## Speaker: Paul Andrew
 ## Title: Azure Data Factory v2 – SSIS Data Flows  Custom Extensibility
 ## Abstract:
@@ -229,7 +229,7 @@ Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Business Intelligence  
 #### SessionID: 74303
 # DevOps, Dev Data and the GDPR: 5 Solutions
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 14-07-2018 - Session time: 13:30:00 - Track: Database Administration  Development
 ## Speaker: Alex Yates
 ## Title: DevOps, Dev Data and the GDPR: 5 Solutions
 ## Abstract:
@@ -248,7 +248,7 @@ After this session you’ll be equipped to discuss the problem with your colleag
 #### SessionID: 74623
 # Blockchain Demystified for Business Intelligence Professionals
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Business Intelligence  Data Science
+Event Date: 14-07-2018 - Session time: 13:30:00 - Track: Business Intelligence  Data Science
 ## Speaker: Jen Stirrup
 ## Title: Blockchain Demystified for Business Intelligence Professionals
 ## Abstract:
@@ -259,7 +259,7 @@ Join this session to learn about blockchain and see it in action. We will also d
 #### SessionID: 78015
 # Persistence is Futile - Implementing Delayed Durability in SQL Server
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 14-07-2018 - Session time: 13:30:00 - Track: Database Administration  Development
 ## Speaker: Mark Broadbent
 ## Title: Persistence is Futile - Implementing Delayed Durability in SQL Server
 ## Abstract:
@@ -272,7 +272,7 @@ Attend this session and you will be assimilated!
 #### SessionID: 83621
 # SQL 2017 Graph Databases  PowerBI Visualisations
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Business Intelligence  Data Science
+Event Date: 14-07-2018 - Session time: 13:30:00 - Track: Business Intelligence  Data Science
 ## Speaker: N. M.
 ## Title: SQL 2017 Graph Databases  PowerBI Visualisations
 ## Abstract:
@@ -288,7 +288,7 @@ You will need:
 #### SessionID: 71684
 # What can you do with SQL Server on Linux?
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 14-07-2018 - Session time: 14:45:00 - Track: Database Administration  Development
 ## Speaker: Rudi Bruchez
 ## Title: What can you do with SQL Server on Linux?
 ## Abstract:
@@ -297,7 +297,7 @@ Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 72550
 # Who's flying the plane? What IT can learn from plane crashes
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Development and PowerShell
+Event Date: 14-07-2018 - Session time: 14:45:00 - Track: Development and PowerShell
 ## Speaker: Greg Moore
 ## Title: Who's flying the plane? What IT can learn from plane crashes
 ## Abstract:
@@ -312,7 +312,7 @@ I'll touch upon what we can learn from plane crashes and how those lessons can b
 #### SessionID: 72837
 # SQL Server hates you(?)
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Database Development  Continuous Integration
+Event Date: 14-07-2018 - Session time: 14:45:00 - Track: Database Development  Continuous Integration
 ## Speaker: Alexander Arvidsson
 ## Title: SQL Server hates you(?)
 ## Abstract:
@@ -323,7 +323,7 @@ If you want to explore how default settings kill your performance, investigate w
 #### SessionID: 74246
 # Planning and Deploying PowerBI Report Server – On Premise!
 #### [Back to calendar](#nr-730)
-Event Date: 14-07-2018 - Session time: 16:00:00 - Track: Business Intelligence  Data Science
+Event Date: 14-07-2018 - Session time: 14:45:00 - Track: Business Intelligence  Data Science
 ## Speaker: Bob Duffy
 ## Title: Planning and Deploying PowerBI Report Server – On Premise!
 ## Abstract:

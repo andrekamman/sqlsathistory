@@ -20,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 66263
 # Data Modeling for the Modern Enterprise
 #### [Back to calendar](#nr-674)
-Event Date: 23-09-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Casey
 ## Title: Data Modeling for the Modern Enterprise
 ## Abstract:
@@ -42,7 +42,7 @@ Visio
 #### SessionID: 66315
 # Move You SQLServer Database to "The Cloud" with Almost No Downtime
 #### [Back to calendar](#nr-674)
-Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Clay Jackson
 ## Title: Move You SQLServer Database to "The Cloud" with Almost No Downtime
 ## Abstract:
@@ -51,7 +51,7 @@ Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Cloud Application Devel
 #### SessionID: 66965
 # Implementing R  in SQL Server 2016
 #### [Back to calendar](#nr-674)
-Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: Application  Database Development
 ## Speaker: Ginger Grant
 ## Title: Implementing R  in SQL Server 2016
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Application  Database D
 #### SessionID: 68520
 # Leverage Docker for Hosting SQL Server and Beyond
 #### [Back to calendar](#nr-674)
-Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: Application  Database Development
 ## Speaker: Chris Myers
 ## Title: Leverage Docker for Hosting SQL Server and Beyond
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Application  Database D
 #### SessionID: 66959
 # Querying Semistructured Data in Azure Data Lake with USQL
 #### [Back to calendar](#nr-674)
-Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 23-09-2017 - Session time: 10:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Russel Loski
 ## Title: Querying Semistructured Data in Azure Data Lake with USQL
 ## Abstract:
@@ -78,7 +78,7 @@ Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Cloud Application Devel
 #### SessionID: 68386
 # The 10 Commandments of ETL
 #### [Back to calendar](#nr-674)
-Event Date: 23-09-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-09-2017 - Session time: 10:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Martin Schoombee
 ## Title: The 10 Commandments of ETL
 ## Abstract:
@@ -89,7 +89,7 @@ In this session I will share the 10 basic principles I follow when developing ET
 #### SessionID: 68825
 # Introduction to Python for Data Science
 #### [Back to calendar](#nr-674)
-Event Date: 23-09-2017 - Session time: 14:30:00 - Track: BI Information Delivery
+Event Date: 23-09-2017 - Session time: 10:45:00 - Track: BI Information Delivery
 ## Speaker: Chris Huie
 ## Title: Introduction to Python for Data Science
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 23-09-2017 - Session time: 14:30:00 - Track: BI Information Delivery
 #### SessionID: 68387
 # Rounding The Polybases
 #### [Back to calendar](#nr-674)
-Event Date: 23-09-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-09-2017 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Nathan Strack
 ## Title: Rounding The Polybases
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 23-09-2017 - Session time: 14:30:00 - Track: BI Platform Architectur
 #### SessionID: 68429
 # The journey to data viz
 #### [Back to calendar](#nr-674)
-Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Analytics and Visualization
+Event Date: 23-09-2017 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Ricardo Mawcinitt
 ## Title: The journey to data viz
 ## Abstract:
@@ -129,7 +129,7 @@ We both are open to answering questions related to this topic.
 #### SessionID: 68601
 # Advanced Analytics with SQL Server 2017 and Python
 #### [Back to calendar](#nr-674)
-Event Date: 23-09-2017 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
+Event Date: 23-09-2017 - Session time: 13:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ginger Grant
 ## Title: Advanced Analytics with SQL Server 2017 and Python
 ## Abstract:

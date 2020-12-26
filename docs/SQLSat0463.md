@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 38703
 # Introducci#243;n a SSIS, lo que necesitas saber para iniciar a trabajar con SSIS
 #### [Back to calendar](#nr-463)
-Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architecture, Development  Administration
+Event Date: 21-11-2015 - Session time: 08:30:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Introducci#243;n a SSIS, lo que necesitas saber para iniciar a trabajar con SSIS
 ## Abstract:
@@ -35,7 +35,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architec
 #### SessionID: 39281
 # Dimensional Modeling Design Patterns: Beyond the Basics
 #### [Back to calendar](#nr-463)
-Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Multidimensional Modeling
+Event Date: 21-11-2015 - Session time: 08:30:00 - Track: Multidimensional Modeling
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond the Basics
 ## Abstract:
@@ -47,7 +47,7 @@ This session dives deeper into the art of dimensional modeling. We look at how a
 #### SessionID: 41696
 # Como aplicar Scrum a proyectos de BI
 #### [Back to calendar](#nr-463)
-Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architecture, Development  Administration
+Event Date: 21-11-2015 - Session time: 08:30:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: Como aplicar Scrum a proyectos de BI
 ## Abstract:
@@ -56,7 +56,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architec
 #### SessionID: 39026
 # Muldimenional Data Base Design by means of BISM Tabular Models
 #### [Back to calendar](#nr-463)
-Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Multidimensional Modeling
+Event Date: 21-11-2015 - Session time: 10:00:00 - Track: Multidimensional Modeling
 ## Speaker: Jose Mayorga
 ## Title: Muldimenional Data Base Design by means of BISM Tabular Models
 ## Abstract:
@@ -69,7 +69,7 @@ All the topics will be developed with SQL Server 2014/2016
 #### SessionID: 39031
 # Opciones de Mejora de Rendimiento para el Datawarehouse
 #### [Back to calendar](#nr-463)
-Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architecture, Development  Administration
+Event Date: 21-11-2015 - Session time: 10:00:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Carlos Rojas Vargas
 ## Title: Opciones de Mejora de Rendimiento para el Datawarehouse
 ## Abstract:
@@ -78,7 +78,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architec
 #### SessionID: 40321
 # S#250;base al Bus de la Inteligencia de Negocios y h#225;galo #161;#193;gilmente!
 #### [Back to calendar](#nr-463)
-Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Multidimensional Modeling
+Event Date: 21-11-2015 - Session time: 10:00:00 - Track: Multidimensional Modeling
 ## Speaker: Ricardo Estrada
 ## Title: S#250;base al Bus de la Inteligencia de Negocios y h#225;galo #161;#193;gilmente!
 ## Abstract:
@@ -91,7 +91,7 @@ En esta sesi#243;n completamente conceptual mostrare la llave talvez m#225;s imp
 #### SessionID: 38676
 # Dise#241;ando mi datawarehouse "Disaster recovery ready"
 #### [Back to calendar](#nr-463)
-Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architecture, Development  Administration
+Event Date: 21-11-2015 - Session time: 11:00:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Kenneth Urena
 ## Title: Dise#241;ando mi datawarehouse "Disaster recovery ready"
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architec
 #### SessionID: 40048
 # Introducci#243;n a BI con DATAZEN
 #### [Back to calendar](#nr-463)
-Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architecture, Development  Administration
+Event Date: 21-11-2015 - Session time: 11:00:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Eduardo Castro
 ## Title: Introducci#243;n a BI con DATAZEN
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architec
 #### SessionID: 41711
 # Using big data to drive U.S. healthcare reform
 #### [Back to calendar](#nr-463)
-Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Big Data / Internet of Things
+Event Date: 21-11-2015 - Session time: 11:00:00 - Track: Big Data / Internet of Things
 ## Speaker: Pedro Huguet
 ## Title: Using big data to drive U.S. healthcare reform
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Big Data / Internet of 
 #### SessionID: 39418
 # Inteligencia de Negocios aplicado para Proyectos de Desarrollo
 #### [Back to calendar](#nr-463)
-Event Date: 21-11-2015 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 21-11-2015 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: David Sánchez Aguilar
 ## Title: Inteligencia de Negocios aplicado para Proyectos de Desarrollo
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 40301
 # Lo que debe saber un DBA sobre BI.
 #### [Back to calendar](#nr-463)
-Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architecture, Development  Administration
+Event Date: 21-11-2015 - Session time: 13:00:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Adrian Miranda
 ## Title: Lo que debe saber un DBA sobre BI.
 ## Abstract:
@@ -137,7 +137,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architec
 #### SessionID: 41188
 # Como implementar una plataforma del Internet of Things con Azure
 #### [Back to calendar](#nr-463)
-Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Big Data / Internet of Things
+Event Date: 21-11-2015 - Session time: 13:00:00 - Track: Big Data / Internet of Things
 ## Speaker: Oscar Marin
 ## Title: Como implementar una plataforma del Internet of Things con Azure
 ## Abstract:
@@ -148,7 +148,7 @@ Por medio de una demostraci#243;n se va presentar un caso de uso practico en el 
 #### SessionID: 39467
 # Iniciando con Stream Analytics
 #### [Back to calendar](#nr-463)
-Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Cloud Analytics
+Event Date: 21-11-2015 - Session time: 14:00:00 - Track: Cloud Analytics
 ## Speaker: Keneth Murillo
 ## Title: Iniciando con Stream Analytics
 ## Abstract:
@@ -157,7 +157,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Cloud Analytics
 #### SessionID: 41634
 # Advanced Spatial Analysis: Beyond Bubble Charts
 #### [Back to calendar](#nr-463)
-Event Date: 21-11-2015 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 21-11-2015 - Session time: 14:00:00 - Track: BI Information Delivery
 ## Speaker: Jason Horner
 ## Title: Advanced Spatial Analysis: Beyond Bubble Charts
 ## Abstract:
@@ -166,7 +166,7 @@ Event Date: 21-11-2015 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 41699
 # Data Profiling (SSIS)-  Herramienta #250;til para el perfilamiento de Datos 
 #### [Back to calendar](#nr-463)
-Event Date: 21-11-2015 - Session time: 15:30:00 - Track: Data Warehouse Architecture, Development  Administration
+Event Date: 21-11-2015 - Session time: 14:00:00 - Track: Data Warehouse Architecture, Development  Administration
 ## Speaker: Maristel Castro Montero
 ## Title: Data Profiling (SSIS)-  Herramienta #250;til para el perfilamiento de Datos 
 ## Abstract:

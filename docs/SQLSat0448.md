@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 38316
 # SQL Server 2014 In-Memory tables desde cada #225;ngulo
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
+Event Date: 12-09-2015 - Session time: 09:00:00 - Track: Enterprise
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2014 In-Memory tables desde cada #225;ngulo
 ## Abstract:
@@ -45,7 +45,7 @@ Desde el punto de vista del Arquitecto, en que ocaciones me puede ser #250;til e
 #### SessionID: 39737
 # Los 10 mandamientos de Jesus
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 12-09-2015 - Session time: 09:00:00 - Track: DBA
 ## Speaker: Jesus Gil
 ## Title: Los 10 mandamientos de Jesus
 ## Abstract:
@@ -55,7 +55,7 @@ Esta charla te hablara de los 10 mandamientos que todo buen DBA debe de conocer 
 #### SessionID: 39742
 # Programando la maquina y desarrollando en Azure Machine Learning
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
+Event Date: 12-09-2015 - Session time: 09:00:00 - Track: BI/BA
 ## Speaker: Roberto Alvarado
 ## Title: Programando la maquina y desarrollando en Azure Machine Learning
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
 #### SessionID: 39743
 # DocumentDB la potencia de NoSQL en Azure
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
+Event Date: 12-09-2015 - Session time: 09:00:00 - Track: Cloud
 ## Speaker: Miguel Quintero
 ## Title: DocumentDB la potencia de NoSQL en Azure
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
 #### SessionID: 40147
 # #191;C#243;mo funciona y c#243;mo aplicar DAX?
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Developer
+Event Date: 12-09-2015 - Session time: 09:00:00 - Track: Developer
 ## Speaker: Freddy Angarita
 ## Title: #191;C#243;mo funciona y c#243;mo aplicar DAX?
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Developer
 #### SessionID: 38053
 # Mejores Pr#225;cticas en Microsoft Azure IaaS para Microsoft SQL Serv
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
+Event Date: 12-09-2015 - Session time: 10:30:00 - Track: Cloud
 ## Speaker: Daniel Rodrigo Vargas Imbachi
 ## Title: Mejores Pr#225;cticas en Microsoft Azure IaaS para Microsoft SQL Serv
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
 #### SessionID: 38761
 # Microsoft Big Data Stack
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
+Event Date: 12-09-2015 - Session time: 10:30:00 - Track: BI/BA
 ## Speaker: Eduardo Castro
 ## Title: Microsoft Big Data Stack
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
 #### SessionID: 39063
 # SQL Server R#225;pido y Furioso
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Developer
+Event Date: 12-09-2015 - Session time: 10:30:00 - Track: Developer
 ## Speaker: Alejandro Cordero
 ## Title: SQL Server R#225;pido y Furioso
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Developer
 #### SessionID: 39222
 # Administre, Diagnostique y Resuelva problemas sobre su SQL Server
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
+Event Date: 12-09-2015 - Session time: 10:30:00 - Track: Enterprise
 ## Speaker: German Ordonez
 ## Title: Administre, Diagnostique y Resuelva problemas sobre su SQL Server
 ## Abstract:
@@ -126,7 +126,7 @@ Bloqueos
 #### SessionID: 39413
 # Corruption and what to do with it?
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 12-09-2015 - Session time: 10:30:00 - Track: DBA
 ## Speaker: Ignacio Salom Rangel
 ## Title: Corruption and what to do with it?
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 38055
 # Escovando BIT com AlwaysOn no SQL Server 2014
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 12-09-2015 - Session time: 11:30:00 - Track: DBA
 ## Speaker: Luiz Henrique Garetti
 ## Title: Escovando BIT com AlwaysOn no SQL Server 2014
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 38223
 # TSQL Window Functions - sorprender tus amigos con lo que puedes hacer
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Developer
+Event Date: 12-09-2015 - Session time: 11:30:00 - Track: Developer
 ## Speaker: Ernest Ostrander
 ## Title: TSQL Window Functions - sorprender tus amigos con lo que puedes hacer
 ## Abstract:
@@ -159,7 +159,7 @@ Vamos a tocar lo que es possible con SQL2008, y lo que hay de nuevo en SQL2012/2
 #### SessionID: 39420
 # Alta Disponibilidad con Always On Availability Groups en SQL 2016
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
+Event Date: 12-09-2015 - Session time: 11:30:00 - Track: Enterprise
 ## Speaker: Daniel Valero
 ## Title: Alta Disponibilidad con Always On Availability Groups en SQL 2016
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
 #### SessionID: 39739
 # Alta disponibilidad de SQL en Azure con Load Balancing de Kemp Technologies
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
+Event Date: 12-09-2015 - Session time: 11:30:00 - Track: Cloud
 ## Speaker: Jesus Gil
 ## Title: Alta disponibilidad de SQL en Azure con Load Balancing de Kemp Technologies
 ## Abstract:
@@ -177,7 +177,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
 #### SessionID: 39741
 # Data Visualization Deep Dive
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
+Event Date: 12-09-2015 - Session time: 11:30:00 - Track: BI/BA
 ## Speaker: Jose L. Rivera
 ## Title: Data Visualization Deep Dive
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
 #### SessionID: 37803
 # SQL Server 2016 un vistazo a todo lo nuevo!
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
+Event Date: 12-09-2015 - Session time: 13:30:00 - Track: Enterprise
 ## Speaker: Eduardo Castro
 ## Title: SQL Server 2016 un vistazo a todo lo nuevo!
 ## Abstract:
@@ -195,7 +195,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
 #### SessionID: 38277
 # Tips certifiquese como SQL Developer
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Developer
+Event Date: 12-09-2015 - Session time: 13:30:00 - Track: Developer
 ## Speaker: Henry Troncoso Valencia
 ## Title: Tips certifiquese como SQL Developer
 ## Abstract:
@@ -205,7 +205,7 @@ Trucos recomendados a tener en cuenta para certificarse como SQL Developer para 
 #### SessionID: 38315
 # Particionamiento y BD Parciales HA para VLDB
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 12-09-2015 - Session time: 13:30:00 - Track: DBA
 ## Speaker: Kenneth Urena
 ## Title: Particionamiento y BD Parciales HA para VLDB
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 38534
 # Miner#237;a de datos / Machine Learning
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
+Event Date: 12-09-2015 - Session time: 13:30:00 - Track: BI/BA
 ## Speaker: Andrei Garzon
 ## Title: Miner#237;a de datos / Machine Learning
 ## Abstract:
@@ -223,7 +223,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI/BA
 #### SessionID: 37339
 # SQL Server 2014 Transacciones Diferidas - el AS bajo la manga
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Developer
+Event Date: 12-09-2015 - Session time: 14:30:00 - Track: Developer
 ## Speaker: Alejandro Cordero
 ## Title: SQL Server 2014 Transacciones Diferidas - el AS bajo la manga
 ## Abstract:
@@ -232,7 +232,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Developer
 #### SessionID: 38244
 # Migraci#243;n de Bases de datos SQL Server hacia Azure SQLDB
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
+Event Date: 12-09-2015 - Session time: 14:30:00 - Track: Cloud
 ## Speaker: Julián Castiblanco
 ## Title: Migraci#243;n de Bases de datos SQL Server hacia Azure SQLDB
 ## Abstract:
@@ -241,7 +241,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud
 #### SessionID: 38248
 # Administrando y operando m#250;ltiples versiones desplegadas de SQL Server
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 12-09-2015 - Session time: 14:30:00 - Track: DBA
 ## Speaker: Guillermo Taylor
 ## Title: Administrando y operando m#250;ltiples versiones desplegadas de SQL Server
 ## Abstract:
@@ -250,7 +250,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 39111
 # Who's bad!...
 #### [Back to calendar](#nr-448)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Enterprise
+Event Date: 12-09-2015 - Session time: 14:30:00 - Track: Enterprise
 ## Speaker: John Bocachica
 ## Title: Who's bad!...
 ## Abstract:

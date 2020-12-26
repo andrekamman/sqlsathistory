@@ -64,7 +64,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 87229
 # Database Design Fundamentals
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 87265
 # Creating Reports and Dashboards with Power BI
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 04-05-2019 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Michael Antonovich
 ## Title: Creating Reports and Dashboards with Power BI
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 87714
 # A Primer on SQL Server Clustered Index Architecture
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: A Primer on SQL Server Clustered Index Architecture
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 89068
 # What Is Clogging Your Database Performance?
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eddy Djaja
 ## Title: What Is Clogging Your Database Performance?
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 89296
 # Azure IoT: An interactive demo
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 04-05-2019 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Jose Chinchilla
 ## Title: Azure IoT: An interactive demo
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 89895
 # Data Storytelling with Power BI
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Information Delivery
+Event Date: 04-05-2019 - Session time: 09:00:00 - Track: Information Delivery
 ## Speaker: Devin Knight
 ## Title: Data Storytelling with Power BI
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Information Delivery
 #### SessionID: 90250
 # Making Your Queries Dynamic in the Power Query Editor for Power BI
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 04-05-2019 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Nicholas Lee
 ## Title: Making Your Queries Dynamic in the Power Query Editor for Power BI
 ## Abstract:
@@ -129,7 +129,7 @@ This session, we will be utilizing the inherit "M" programming language that ins
 #### SessionID: 90581
 # Five Availability Group Issues That May Ruin Your Day
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dmitri Korotkevitch
 ## Title: Five Availability Group Issues That May Ruin Your Day
 ## Abstract:
@@ -140,7 +140,7 @@ While Availability Groups help to achieve required High Availability, they may a
 #### SessionID: 90598
 # Introduction to DAX
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-05-2019 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mitchell Pearson
 ## Title: Introduction to DAX
 ## Abstract:
@@ -149,7 +149,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 90708
 # Automating the Data-Centric Deployment Pipeline
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: John Welch
 ## Title: Automating the Data-Centric Deployment Pipeline
 ## Abstract:
@@ -158,7 +158,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 90867
 # Be Part of the Solution with Automation
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Be Part of the Solution with Automation
 ## Abstract:
@@ -168,7 +168,7 @@ The session will demonstrate the reasons to automate, along with the steps requi
 #### SessionID: 86640
 # Azure-d Availability: Scaling SQL Server to the Cloud
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: Azure-d Availability: Scaling SQL Server to the Cloud
 ## Abstract:
@@ -177,7 +177,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 86767
 # R For the SQL Server Developer
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 04-05-2019 - Session time: 10:15:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 86810
 # Extended Events: What are they and How do I use them
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
 ## Abstract:
@@ -195,7 +195,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 87292
 # Encryption:  Not just for the NSA anymore
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Blinn
 ## Title: Encryption:  Not just for the NSA anymore
 ## Abstract:
@@ -204,7 +204,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 87572
 # In-Place vs Side-by-Side SQL Upgrades; Clearing the Confusion
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Troy Gallant
 ## Title: In-Place vs Side-by-Side SQL Upgrades; Clearing the Confusion
 ## Abstract:
@@ -213,7 +213,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 89721
 # Power BI Governance 101
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-05-2019 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dustin Ryan
 ## Title: Power BI Governance 101
 ## Abstract:
@@ -222,7 +222,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 89894
 # Introduction to PowerApps
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Devin Knight
 ## Title: Introduction to PowerApps
 ## Abstract:
@@ -231,7 +231,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 89943
 # DevOps, Continuous Integration  Automated Testing: Rule them all
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Samir Behara
 ## Title: DevOps, Continuous Integration  Automated Testing: Rule them all
 ## Abstract:
@@ -243,7 +243,7 @@ Come join me in this 60 min session to understand the problems with traditional 
 #### SessionID: 90235
 # An Introduction to Power BI for Data Science With Python
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 04-05-2019 - Session time: 10:15:00 - Track: Analytics and Visualization
 ## Speaker: Adriano da Silva
 ## Title: An Introduction to Power BI for Data Science With Python
 ## Abstract:
@@ -254,7 +254,7 @@ This is an introductory session designed for those with basic Power BI skills; a
 #### SessionID: 90618
 # T-SQL Dynamic Duo: Window Functions and Common Table Expressions (CTE)
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 04-05-2019 - Session time: 10:15:00 - Track: BI Information Delivery
 ## Speaker: Susan Schneider
 ## Title: T-SQL Dynamic Duo: Window Functions and Common Table Expressions (CTE)
 ## Abstract:
@@ -264,7 +264,7 @@ Window functions supercharge your code to show detail and aggregate level data i
 #### SessionID: 93694
 # Azure Data Storage Options
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 04-05-2019 - Session time: 10:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jonathon Moorman
 ## Title: Azure Data Storage Options
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 91087
 # Women in Technology Panel: Skip the Corporate Ladder and Still Win in a Tech Career
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 04-05-2019 - Session time: 11:30:00 - Track: Professional Development
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Women in Technology Panel: Skip the Corporate Ladder and Still Win in a Tech Career
 ## Abstract:
@@ -285,7 +285,7 @@ The panel will be led by Kellyn Pot’Vin-Gorman, who’s made a career from dee
 #### SessionID: 93176
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-05-2019 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
 ## Abstract:
@@ -294,7 +294,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 86642
 # Top 5 Tips to Keep Always On AGs Humming and Users Happy
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: Top 5 Tips to Keep Always On AGs Humming and Users Happy
 ## Abstract:
@@ -303,7 +303,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 86908
 # How to perform a health check
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carl Roepe
 ## Title: How to perform a health check
 ## Abstract:
@@ -316,7 +316,7 @@ At the end of the session you will be able to: (1) Perform a Health Check on a s
 #### SessionID: 87266
 # Accessibility Concerns of Reporting Style with Power BI
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 04-05-2019 - Session time: 12:45:00 - Track: BI Information Delivery
 ## Speaker: Michael Antonovich
 ## Title: Accessibility Concerns of Reporting Style with Power BI
 ## Abstract:
@@ -325,7 +325,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 87475
 # Your BI Workloads and How They Change in the Cloud (Azure)
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-05-2019 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Trey Johnson
 ## Title: Your BI Workloads and How They Change in the Cloud (Azure)
 ## Abstract:
@@ -342,7 +342,7 @@ Attendees should have the confidence to map out their own plans for making the m
 #### SessionID: 89899
 # How to make a SQL Saturday Presentation
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 04-05-2019 - Session time: 12:45:00 - Track: Professional Development
 ## Speaker: Shawn Meyers
 ## Title: How to make a SQL Saturday Presentation
 ## Abstract:
@@ -351,7 +351,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 90299
 # Temporal Tables - Managing Large Data Sets and Their Effects on Performance
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dale Sullenberger
 ## Title: Temporal Tables - Managing Large Data Sets and Their Effects on Performance
 ## Abstract:
@@ -360,7 +360,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 90684
 # Look, over there, your permissions are showing!
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Travis Page
 ## Title: Look, over there, your permissions are showing!
 ## Abstract:
@@ -369,7 +369,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 90719
 # Performance Tuning Magic
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Valentin Iamandi
 ## Title: Performance Tuning Magic
 ## Abstract:
@@ -383,7 +383,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 90833
 # Machine Learning: Using R and SQL together
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 04-05-2019 - Session time: 12:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Steve Schneider
 ## Title: Machine Learning: Using R and SQL together
 ## Abstract:
@@ -392,7 +392,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 93565
 # PowerShell Core - Fundamental on How-To Persist Data in a SQL Server Container
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Maximo Trinidad
 ## Title: PowerShell Core - Fundamental on How-To Persist Data in a SQL Server Container
 ## Abstract:
@@ -401,7 +401,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 93718
 # DAX 101 and 102
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-05-2019 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Belinda Allen
 ## Title: DAX 101 and 102
 ## Abstract:
@@ -415,7 +415,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 86764
 # Classification With Naive Bayes
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Kevin Feasel
 ## Title: Classification With Naive Bayes
 ## Abstract:
@@ -424,7 +424,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 87231
 # Relational Design Critique
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: Strategy and Architecture
 ## Speaker: Louis Davidson
 ## Title: Relational Design Critique
 ## Abstract:
@@ -433,7 +433,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Strategy and Architectu
 #### SessionID: 87293
 # I have Indexes, but do I have the Right Indexes?
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Eric Blinn
 ## Title: I have Indexes, but do I have the Right Indexes?
 ## Abstract:
@@ -442,7 +442,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 89294
 # Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose Chinchilla
 ## Title: Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
 ## Abstract:
@@ -451,7 +451,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 89346
 # Yes! Making Performance Tuning Easier with Query Store
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ahmad Drshen
 ## Title: Yes! Making Performance Tuning Easier with Query Store
 ## Abstract:
@@ -460,7 +460,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 89613
 # Learn Power BI Report Server Enterprise Architecture, Tools to publish reports and Best Practice
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vishal Pawar
 ## Title: Learn Power BI Report Server Enterprise Architecture, Tools to publish reports and Best Practice
 ## Abstract:
@@ -470,7 +470,7 @@ In this session Vishal will go over Power BI Ecosystem with Example, PBI RS evol
 #### SessionID: 89940
 # Migrate Your Database with Distributed AGs
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Elizabeth Noble
 ## Title: Migrate Your Database with Distributed AGs
 ## Abstract:
@@ -483,7 +483,7 @@ NOTE: This session expects that attendees are already familiar with Availability
 #### SessionID: 90701
 # The Force of Management Data Warehouse
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steven Wheeler
 ## Title: The Force of Management Data Warehouse
 ## Abstract:
@@ -492,7 +492,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 90712
 # Data DevOps: Top 5 Blockers to Success
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: John Welch
 ## Title: Data DevOps: Top 5 Blockers to Success
 ## Abstract:
@@ -501,7 +501,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 90937
 # How to load a fact table really, really fast
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: BI Information Delivery
 ## Speaker: John Blackburn
 ## Title: How to load a fact table really, really fast
 ## Abstract:
@@ -510,7 +510,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 90940
 # Using Analytics to Optimize your Resume for Applicant Tracking System
 #### [Back to calendar](#nr-820)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: Professional Development
 ## Speaker: Brandi Kiehl
 ## Title: Using Analytics to Optimize your Resume for Applicant Tracking System
 ## Abstract:

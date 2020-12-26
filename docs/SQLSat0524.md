@@ -50,7 +50,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 46098
 # What's new in SQL Server 2016
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-06-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Pankaj Satyaketu
 ## Title: What's new in SQL Server 2016
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 48950
 # TSQL Coding Techniques - Are You Playing with Fire?
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 18-06-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: TSQL Coding Techniques - Are You Playing with Fire?
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 49466
 # Developing an End to End Power BI Solution
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 18-06-2016 - Session time: 09:45:00 - Track: BI Information Delivery
 ## Speaker: Devin Knight
 ## Title: Developing an End to End Power BI Solution
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 49899
 # The Phenomenal IT Consultant
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 18-06-2016 - Session time: 09:45:00 - Track: Professional Development
 ## Speaker: Sebastian Meine
 ## Title: The Phenomenal IT Consultant
 ## Abstract:
@@ -92,7 +92,7 @@ Join this session and get started on your way to becoming a Phenomenal IT Consul
 #### SessionID: 50044
 # Advance Analytics with SQL Server R Services
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
+Event Date: 18-06-2016 - Session time: 09:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jose L. Rivera
 ## Title: Advance Analytics with SQL Server R Services
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 50117
 # Build ETL efficiently (10x) with Minimal Logging
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-06-2016 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Cho
 ## Title: Build ETL efficiently (10x) with Minimal Logging
 ## Abstract:
@@ -112,7 +112,7 @@ We will first analyze how data gets accessed from the source and how data gets u
 #### SessionID: 50190
 # Turbo Boost Performance: In Memory Tables index optimizations
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-06-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Konstantin Melamud
 ## Title: Turbo Boost Performance: In Memory Tables index optimizations
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 50193
 # Seamlessly Scaling Azure SQL DB with Elastic Database Tools
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 18-06-2016 - Session time: 09:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Silvia Doomra
 ## Title: Seamlessly Scaling Azure SQL DB with Elastic Database Tools
 ## Abstract:
@@ -130,7 +130,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 50785
 # SQL Injection
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 18-06-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: SQL Injection
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 45608
 # Bad, less Bad, not Bad; rewriting bad SQL Code
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 18-06-2016 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Jeffrey Garbus
 ## Title: Bad, less Bad, not Bad; rewriting bad SQL Code
 ## Abstract:
@@ -148,7 +148,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 48319
 # Building Defense in Depth Using the Full Spectrum of SQL Server Encryption
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-06-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Keleher
 ## Title: Building Defense in Depth Using the Full Spectrum of SQL Server Encryption
 ## Abstract:
@@ -157,7 +157,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 48468
 # Whip Away Stress at Home  Work to Create a Better You
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 18-06-2016 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Whip Away Stress at Home  Work to Create a Better You
 ## Abstract:
@@ -166,7 +166,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 49608
 # Business Intelligence - Current State of the Art
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 18-06-2016 - Session time: 11:00:00 - Track: BI Information Delivery
 ## Speaker: Joe Homnick
 ## Title: Business Intelligence - Current State of the Art
 ## Abstract:
@@ -175,7 +175,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 49886
 # SSIS - Integrating PowerShell in a ScriptTask component
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 18-06-2016 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Maximo Trinidad
 ## Title: SSIS - Integrating PowerShell in a ScriptTask component
 ## Abstract:
@@ -184,7 +184,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 50202
 # Query Data Store
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 18-06-2016 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Sam Mesel
 ## Title: Query Data Store
 ## Abstract:
@@ -195,7 +195,7 @@ This session will show you how to enable and use QDS features, like: obtaining q
 #### SessionID: 50248
 # Mastering Plan Guides: Tell The Query Optimizer You're The Boss
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-06-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kendal Van Dyke
 ## Title: Mastering Plan Guides: Tell The Query Optimizer You're The Boss
 ## Abstract:
@@ -204,7 +204,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 50782
 # Query Zip Documents, CSV Files, and Azure Tables with T-SQL directly.
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 18-06-2016 - Session time: 11:00:00 - Track: BI Information Delivery
 ## Speaker: Herve Roggero
 ## Title: Query Zip Documents, CSV Files, and Azure Tables with T-SQL directly.
 ## Abstract:
@@ -213,7 +213,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 52359
 #  New Capabilities on top of Microsoft SQL  SSAS (Necto)
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 18-06-2016 - Session time: 12:30:00 - Track: BI Information Delivery
 ## Speaker: Yoav Yetinson
 ## Title:  New Capabilities on top of Microsoft SQL  SSAS (Necto)
 ## Abstract:
@@ -222,7 +222,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 52372
 # Database Use Cases: When to utilize an All Flash Array (Kaminario
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 18-06-2016 - Session time: 12:30:00 - Track: Strategy and Architecture
 ## Speaker: Olivier Renard
 ## Title: Database Use Cases: When to utilize an All Flash Array (Kaminario
 ## Abstract:
@@ -233,7 +233,7 @@ Join Kaminario as we discuss a number of Use Cases where helped clients database
 #### SessionID: 52387
 # SSIS Factory (Dobler Consulting)
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-06-2016 - Session time: 12:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jemini Joseph
 ## Title: SSIS Factory (Dobler Consulting)
 ## Abstract:
@@ -244,7 +244,7 @@ We can automate all these process using C# (or Visual Basic) and SSIS SDK. Can i
 #### SessionID: 52442
 # Easily optimize and tune SQL Server performance anywhere on any device!
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-06-2016 - Session time: 12:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gordon Cornelius
 ## Title: Easily optimize and tune SQL Server performance anywhere on any device!
 ## Abstract:
@@ -255,7 +255,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 52454
 # Transform SQL Server (by Pureshare)
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 18-06-2016 - Session time: 12:30:00 - Track: Strategy and Architecture
 ## Speaker: Robert Torres
 ## Title: Transform SQL Server (by Pureshare)
 ## Abstract:
@@ -264,7 +264,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 52485
 # Building a Better Mousetrap: Using Cisco UCS for SQL Server Deployments
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 18-06-2016 - Session time: 12:30:00 - Track: Application  Database Development
 ## Speaker: Ed Cho
 ## Title: Building a Better Mousetrap: Using Cisco UCS for SQL Server Deployments
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 46099
 # Advancements in Azure SQL Database
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 18-06-2016 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Pankaj Satyaketu
 ## Title: Advancements in Azure SQL Database
 ## Abstract:
@@ -282,7 +282,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 49989
 # Architecting virtual SQL server for performance 
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-06-2016 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Niran Even-Chen
 ## Title: Architecting virtual SQL server for performance 
 ## Abstract:
@@ -292,7 +292,7 @@ Still, many IT architects and DBA's are hesitant of virtualizing their SQL workl
 #### SessionID: 50118
 # Myths and Truths about SQL Server Transaction 
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 18-06-2016 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Simon Cho
 ## Title: Myths and Truths about SQL Server Transaction 
 ## Abstract:
@@ -304,7 +304,7 @@ We demonstrate examples of incorrect development methodologies and analyze inter
 #### SessionID: 50181
 # Using Common Table Expressions (CTE)
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 18-06-2016 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Ben Galluzzo
 ## Title: Using Common Table Expressions (CTE)
 ## Abstract:
@@ -315,7 +315,7 @@ We'll begin with an overview of how a Common Table Expression is constructed.  T
 #### SessionID: 50189
 # Scaling for best performance: Partitioned views.
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-06-2016 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Konstantin Melamud
 ## Title: Scaling for best performance: Partitioned views.
 ## Abstract:
@@ -327,7 +327,7 @@ In this session we will go through the steps needed to configure and use the par
 #### SessionID: 50240
 # Becoming Certified in SQL Server 2012/2014
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 18-06-2016 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Marilyn Rousseau
 ## Title: Becoming Certified in SQL Server 2012/2014
 ## Abstract:
@@ -336,7 +336,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 50598
 # A SQL Developer’s Guide to MDX Basics
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-06-2016 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shabnam Watson
 ## Title: A SQL Developer’s Guide to MDX Basics
 ## Abstract:
@@ -348,7 +348,7 @@ In this session you will explore how data is organized in SSAS in a data structu
 #### SessionID: 50786
 # SQL Server 2014 Column Store Index vNEXT
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 18-06-2016 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2014 Column Store Index vNEXT
 ## Abstract:
@@ -357,7 +357,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 48700
 # For Love or Money, Your I.T. Career
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Other
+Event Date: 18-06-2016 - Session time: 14:45:00 - Track: Other
 ## Speaker: Alex Funkhouser
 ## Title: For Love or Money, Your I.T. Career
 ## Abstract:
@@ -368,7 +368,7 @@ In this seminar session, you will learn multiple I.T. career strategies for maxi
 #### SessionID: 49434
 # SSAS The Primer... Or How I Learned to Love the Cube!
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-06-2016 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alexander Nykolaiszyn
 ## Title: SSAS The Primer... Or How I Learned to Love the Cube!
 ## Abstract:
@@ -379,7 +379,7 @@ How do they work? and any general questions or perspectives around SSAS.
 #### SessionID: 50144
 # Who's Afraid of Entity Framework?
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 18-06-2016 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Richie Rump
 ## Title: Who's Afraid of Entity Framework?
 ## Abstract:
@@ -390,7 +390,7 @@ EF and other object relational mapping technologies have been a boon for develop
 #### SessionID: 50247
 # SQL Server Disaster Recovery and High Availability Overview
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-06-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kendal Van Dyke
 ## Title: SQL Server Disaster Recovery and High Availability Overview
 ## Abstract:
@@ -400,7 +400,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 50579
 # Power BI – Exploring New Frontiers
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 18-06-2016 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Pam Shaw
 ## Title: Power BI – Exploring New Frontiers
 ## Abstract:
@@ -409,7 +409,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 50790
 # Introduction to Unit-Testing in SQL Server
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 18-06-2016 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Sebastian Meine
 ## Title: Introduction to Unit-Testing in SQL Server
 ## Abstract:
@@ -423,7 +423,7 @@ You will leave this session ready to write unit tests for your own environment t
 #### SessionID: 51135
 # Analytical Computing Device to Cloud and Back Again
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 18-06-2016 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: David Crook
 ## Title: Analytical Computing Device to Cloud and Back Again
 ## Abstract:
@@ -432,7 +432,7 @@ Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 52520
 # Traveling through the 4th Dimension with T-SQL and PowerBI
 #### [Back to calendar](#nr-524)
-Event Date: 18-06-2016 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
+Event Date: 18-06-2016 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Rodney Landrum
 ## Title: Traveling through the 4th Dimension with T-SQL and PowerBI
 ## Abstract:

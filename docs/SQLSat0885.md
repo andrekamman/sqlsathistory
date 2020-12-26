@@ -39,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 93343
 # Environment Setup using automation tools like Docker, Powershell and Chocolatey
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 17-08-2019 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Adam Anderson
 ## Title: Environment Setup using automation tools like Docker, Powershell and Chocolatey
 ## Abstract:
@@ -50,7 +50,7 @@ This three tiered environment setup can work with or without Docker. In this ses
 #### SessionID: 94078
 # Data Preparation with Power BI Desktop  M – Strategy, Tactics and Tips
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 17-08-2019 - Session time: 08:30:00 - Track: Analytics and Visualization
 ## Speaker: Phil Robinson
 ## Title: Data Preparation with Power BI Desktop  M – Strategy, Tactics and Tips
 ## Abstract:
@@ -60,7 +60,7 @@ In this presentation we will review traditional strategies for data cleanup, exp
 #### SessionID: 95165
 # Azure Lift and Shift Best Practices
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 17-08-2019 - Session time: 08:30:00 - Track: Strategy and Architecture
 ## Speaker: Michael Wall
 ## Title: Azure Lift and Shift Best Practices
 ## Abstract:
@@ -71,7 +71,7 @@ Note, this session will exclusively deal with issues on a hybrid VM running SQL 
 #### SessionID: 96243
 # Automating Power BI Creations
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-08-2019 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Angel Abundez
 ## Title: Automating Power BI Creations
 ## Abstract:
@@ -94,7 +94,7 @@ You'll learn how to:
 #### SessionID: 96489
 # Tips, Tricks and Secrets for the SQL Professional
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mitchell Bottel
 ## Title: Tips, Tricks and Secrets for the SQL Professional
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 91070
 # What to Do When SQL Server is Unusually Slow
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brent Ozar
 ## Title: What to Do When SQL Server is Unusually Slow
 ## Abstract:
@@ -116,7 +116,7 @@ Good news – there is, and you’re about to learn how the pros do it. In one a
 #### SessionID: 91079
 # CosmosDB - Understanding the main factors for successful deployment
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 17-08-2019 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Armando Lacerda
 ## Title: CosmosDB - Understanding the main factors for successful deployment
 ## Abstract:
@@ -126,7 +126,7 @@ In this session packed with demos you will see how to cross the bridge between S
 #### SessionID: 91558
 # How to use GeoSpatial Data in SQL Server
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 17-08-2019 - Session time: 09:45:00 - Track: Analytics and Visualization
 ## Speaker: Hasan Savran
 ## Title: How to use GeoSpatial Data in SQL Server
 ## Abstract:
@@ -137,7 +137,7 @@ I will introduce you to Spatial Data in the SQL server and show how to import da
 #### SessionID: 96244
 # Monitor Power BI
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-08-2019 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Angel Abundez
 ## Title: Monitor Power BI
 ## Abstract:
@@ -150,7 +150,7 @@ BI expert Angel Abundez will demo the Power BI administrative screens you use to
 #### SessionID: 96392
 # Temporal Tables – The New Hotness in Data Auditing
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 17-08-2019 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: John Morehouse
 ## Title: Temporal Tables – The New Hotness in Data Auditing
 ## Abstract:
@@ -159,7 +159,7 @@ Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 91077
 # Making Sense of the Power BI Ecosystem
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-08-2019 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Armando Lacerda
 ## Title: Making Sense of the Power BI Ecosystem
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 17-08-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 91160
 # Environmental SQL Server Troubleshooting
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Mlakar
 ## Title: Environmental SQL Server Troubleshooting
 ## Abstract:
@@ -179,7 +179,7 @@ In this session we will discuss both performance pitfalls and optimizations that
 #### SessionID: 93885
 # Reporting Services: A Smart Migration Strategy
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-08-2019 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services: A Smart Migration Strategy
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 17-08-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 95990
 # Moving Databases to the cloud
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 17-08-2019 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Eric Courville
 ## Title: Moving Databases to the cloud
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 96150
 # Improving the Performance of Functions
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 17-08-2019 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Eric Freeman
 ## Title: Improving the Performance of Functions
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 96879
 # Snowflake: The Future of Data Warehousing (Zach Oxman  Gabe Mullen)
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Other
+Event Date: 17-08-2019 - Session time: 12:15:00 - Track: Other
 ## Speaker: SQLSatSac Sponsor
 ## Title: Snowflake: The Future of Data Warehousing (Zach Oxman  Gabe Mullen)
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Other
 #### SessionID: 96880
 # SentryOne: Beyond Monitoring with SentryOne (Alec Pickup)
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Other
+Event Date: 17-08-2019 - Session time: 12:15:00 - Track: Other
 ## Speaker: SQLSatSac Sponsor
 ## Title: SentryOne: Beyond Monitoring with SentryOne (Alec Pickup)
 ## Abstract:
@@ -228,7 +228,7 @@ Alec Pickup
 #### SessionID: 91148
 # One key to rule them all - how to effectively destroy data consistency, and ruin query performance
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 17-08-2019 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Ami Levin
 ## Title: One key to rule them all - how to effectively destroy data consistency, and ruin query performance
 ## Abstract:
@@ -244,7 +244,7 @@ By the end of this session, you will chant with me:
 #### SessionID: 91159
 # Database Corruption! Preventing Disaster to your Database.
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Mlakar
 ## Title: Database Corruption! Preventing Disaster to your Database.
 ## Abstract:
@@ -257,7 +257,7 @@ Beginners will benefit along with others who may one day find themselves with a 
 #### SessionID: 95453
 # Breaking the Social Code: How to be Socially Intelligent at Work
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 17-08-2019 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Linda Groszyk
 ## Title: Breaking the Social Code: How to be Socially Intelligent at Work
 ## Abstract:
@@ -268,7 +268,7 @@ If you answered yes to any of these questions, then this session is for you! For
 #### SessionID: 96394
 # Data Encryption for DBAs
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: Data Encryption for DBAs
 ## Abstract:
@@ -277,7 +277,7 @@ Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 96433
 # Lightning Talks 1: Dan Hess, Dilip Nayak, Saru Radhakrishnan
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Other
+Event Date: 17-08-2019 - Session time: 13:30:00 - Track: Other
 ## Speaker: Dan Hess
 ## Title: Lightning Talks 1: Dan Hess, Dilip Nayak, Saru Radhakrishnan
 ## Abstract:
@@ -288,7 +288,7 @@ Saru Radhakrishnan: Set Operations Using Inline Table-Valued Functions
 #### SessionID: 91063
 # SQL DevOps Simplified with Production Databases
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Paul Stanton
 ## Title: SQL DevOps Simplified with Production Databases
 ## Abstract:
@@ -297,7 +297,7 @@ Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 91557
 # Cosmos DB was the missing piece to my Data puzzle!
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Hasan Savran
 ## Title: Cosmos DB was the missing piece to my Data puzzle!
 ## Abstract:
@@ -307,7 +307,7 @@ Join me to see Cosmos DB in action with many demos! Don't miss it.
 #### SessionID: 94997
 # Possibilities  Limitations of System-Versioned Temporal Tables
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Reinhard Flügel
 ## Title: Possibilities  Limitations of System-Versioned Temporal Tables
 ## Abstract:
@@ -316,7 +316,7 @@ Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 95166
 # PoSh on SSRS - Essential Skills to manage your RS with PowerShell
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Wall
 ## Title: PoSh on SSRS - Essential Skills to manage your RS with PowerShell
 ## Abstract:
@@ -325,7 +325,7 @@ Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 96432
 # Lightning Talks 2: Ted Stathakis, Glenn Burnett, Alex Purice
 #### [Back to calendar](#nr-885)
-Event Date: 17-08-2019 - Session time: 16:00:00 - Track: Other
+Event Date: 17-08-2019 - Session time: 14:45:00 - Track: Other
 ## Speaker: Ted Stathakis
 ## Title: Lightning Talks 2: Ted Stathakis, Glenn Burnett, Alex Purice
 ## Abstract:

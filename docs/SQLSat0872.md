@@ -18,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 93248
 # Big Intelligent Power Data Platform, tour d'horizon de la Data et
 #### [Back to calendar](#nr-872)
-Event Date: 15-06-2019 - Session time: 16:15:00 - Track: Keynote
+Event Date: 15-06-2019 - Session time: 09:00:00 - Track: Keynote
 ## Speaker: Jean-Pierre Riehl
 ## Title: Big Intelligent Power Data Platform, tour d'horizon de la Data et
 ## Abstract:
@@ -28,7 +28,7 @@ Dans ce tour d'horizon, les différents speakers répondront à ces questions et
 #### SessionID: 91838
 # Running statefulset applications like SQL Server in K8s
 #### [Back to calendar](#nr-872)
-Event Date: 15-06-2019 - Session time: 16:15:00 - Track: Cloud, Hybrid or On prem Data Platforms
+Event Date: 15-06-2019 - Session time: 10:15:00 - Track: Cloud, Hybrid or On prem Data Platforms
 ## Speaker: David Barbarin
 ## Title: Running statefulset applications like SQL Server in K8s
 ## Abstract:
@@ -37,7 +37,7 @@ Event Date: 15-06-2019 - Session time: 16:15:00 - Track: Cloud, Hybrid or On pre
 #### SessionID: 93602
 # Interactive query avec Azure SQL DataWarehouse, retour d'expérien
 #### [Back to calendar](#nr-872)
-Event Date: 15-06-2019 - Session time: 16:15:00 - Track: Business Intelligence, Artificial Intelligence
+Event Date: 15-06-2019 - Session time: 10:15:00 - Track: Business Intelligence, Artificial Intelligence
 ## Speaker: Arnaud Voisin
 ## Title: Interactive query avec Azure SQL DataWarehouse, retour d'expérien
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 15-06-2019 - Session time: 16:15:00 - Track: Business Intelligence, 
 #### SessionID: 91670
 # SQL Server dans Azure
 #### [Back to calendar](#nr-872)
-Event Date: 15-06-2019 - Session time: 16:15:00 - Track: Cloud, Hybrid or On prem Data Platforms
+Event Date: 15-06-2019 - Session time: 11:30:00 - Track: Cloud, Hybrid or On prem Data Platforms
 ## Speaker: Sarah Bessard
 ## Title: SQL Server dans Azure
 ## Abstract:
@@ -64,7 +64,7 @@ Nous aborderons les points suivants :
 #### SessionID: 93427
 # Azure Data Factory - Deep Dive
 #### [Back to calendar](#nr-872)
-Event Date: 15-06-2019 - Session time: 16:15:00 - Track: Business Intelligence, Artificial Intelligence
+Event Date: 15-06-2019 - Session time: 11:30:00 - Track: Business Intelligence, Artificial Intelligence
 ## Speaker: Charles-Henri Sauget
 ## Title: Azure Data Factory - Deep Dive
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 15-06-2019 - Session time: 16:15:00 - Track: Business Intelligence, 
 #### SessionID: 90692
 # From relational to Multimodel : Azure Cosmos DB
 #### [Back to calendar](#nr-872)
-Event Date: 15-06-2019 - Session time: 16:15:00 - Track: Cloud, Hybrid or On prem Data Platforms
+Event Date: 15-06-2019 - Session time: 13:45:00 - Track: Cloud, Hybrid or On prem Data Platforms
 ## Speaker: Rudi Bruchez
 ## Title: From relational to Multimodel : Azure Cosmos DB
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 15-06-2019 - Session time: 16:15:00 - Track: Cloud, Hybrid or On pre
 #### SessionID: 92347
 # Azure Databricks brique par brique pour les data engineers
 #### [Back to calendar](#nr-872)
-Event Date: 15-06-2019 - Session time: 16:15:00 - Track: Business Intelligence, Artificial Intelligence
+Event Date: 15-06-2019 - Session time: 13:45:00 - Track: Business Intelligence, Artificial Intelligence
 ## Speaker: Cédric Charlier
 ## Title: Azure Databricks brique par brique pour les data engineers
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 15-06-2019 - Session time: 16:15:00 - Track: Business Intelligence, 
 #### SessionID: 91206
 # Azure Machine Learning par l'exemple
 #### [Back to calendar](#nr-872)
-Event Date: 15-06-2019 - Session time: 16:15:00 - Track: Business Intelligence, Artificial Intelligence
+Event Date: 15-06-2019 - Session time: 15:00:00 - Track: Business Intelligence, Artificial Intelligence
 ## Speaker: Philippe Geiger
 ## Title: Azure Machine Learning par l'exemple
 ## Abstract:
@@ -101,7 +101,7 @@ Cette session est 100% démonstration et (presque) aucune diapositive.
 #### SessionID: 92833
 # Mise en place d'un architecture data dans Azure, retour d'expérie
 #### [Back to calendar](#nr-872)
-Event Date: 15-06-2019 - Session time: 16:15:00 - Track: Cloud, Hybrid or On prem Data Platforms
+Event Date: 15-06-2019 - Session time: 15:00:00 - Track: Cloud, Hybrid or On prem Data Platforms
 ## Speaker: Guillaume ROUCHON
 ## Title: Mise en place d'un architecture data dans Azure, retour d'expérie
 ## Abstract:

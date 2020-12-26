@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 83261
 # How To Setup Continuous Integration Continuous Delivery Step By Step For Your Website  Database
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Other
+Event Date: 06-10-2018 - Session time: 09:45:00 - Track: Other
 ## Speaker: Jeff Taylor
 ## Title: How To Setup Continuous Integration Continuous Delivery Step By Step For Your Website  Database
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Other
 #### SessionID: 83380
 # HA/DR Solutions Using Distributed Availability Groups
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 06-10-2018 - Session time: 09:45:00 - Track: Strategy and Architecture
 ## Speaker: Jennifer Brocato
 ## Title: HA/DR Solutions Using Distributed Availability Groups
 ## Abstract:
@@ -65,7 +65,7 @@ Finally, we will see Automatic Failover and see how to perform a Manual Failover
 #### SessionID: 84038
 # Python and R Integration with SQL Server 2017
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 06-10-2018 - Session time: 09:45:00 - Track: Analytics and Visualization
 ## Speaker: Thomas LeBlanc
 ## Title: Python and R Integration with SQL Server 2017
 ## Abstract:
@@ -76,7 +76,7 @@ The role as a DBA is expanding, and even though you might not be a Data Scientis
 #### SessionID: 84385
 # Everything You Need to Know About SQL Server Indexes
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Everything You Need to Know About SQL Server Indexes
 ## Abstract:
@@ -87,7 +87,7 @@ This presentation is a must see for DBAs, Developers, Application Architects and
 #### SessionID: 84493
 # Will my workload run faster with In-Memory OLTP?
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 06-10-2018 - Session time: 09:45:00 - Track: Strategy and Architecture
 ## Speaker: Ned Otter
 ## Title: Will my workload run faster with In-Memory OLTP?
 ## Abstract:
@@ -102,7 +102,7 @@ We will lift the veil of confusion that surrounds this blazingly fast feature. B
 #### SessionID: 85475
 # Encryption, Encryption, Encryption! Protect your data at the right level
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Encryption, Encryption, Encryption! Protect your data at the right level
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 86239
 # Azure Data Store Options
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-10-2018 - Session time: 09:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jonathon Moorman
 ## Title: Azure Data Store Options
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Cloud Application Devel
 #### SessionID: 83243
 # Intro Into Index Analysis
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dmitri Korotkevitch
 ## Title: Intro Into Index Analysis
 ## Abstract:
@@ -131,7 +131,7 @@ In this session, Dmitri demonstrates several techniques that help you to perform
 #### SessionID: 83278
 # Applied Machine Learning with Python
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 06-10-2018 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Adriano da Silva
 ## Title: Applied Machine Learning with Python
 ## Abstract:
@@ -144,7 +144,7 @@ Most importantly, those examples are designed in a manner that are easy for you 
 #### SessionID: 83490
 # Tame Your Unruly Data With Constraints
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data With Constraints
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 83672
 # Hack / Protect / Predict SQL Server - Come learn them.
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Hiram Fleitas
 ## Title: Hack / Protect / Predict SQL Server - Come learn them.
 ## Abstract:
@@ -175,7 +175,7 @@ Looking forward to meeting you all.
 #### SessionID: 83811
 # Azure Resource Management with PowerShell
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-10-2018 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ronald Dameron
 ## Title: Azure Resource Management with PowerShell
 ## Abstract:
@@ -184,7 +184,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Cloud Application Devel
 #### SessionID: 84588
 # Deciding to keep your BI Data Platform On-Premises
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Trey Johnson
 ## Title: Deciding to keep your BI Data Platform On-Premises
 ## Abstract:
@@ -199,7 +199,7 @@ Attendees will be in a better position to explore moving beyond their On-Premise
 #### SessionID: 84681
 # ETL automation using BIML
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sarju Patel
 ## Title: ETL automation using BIML
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 84383
 # What’s New in the 2017 Query Store
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 12:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: What’s New in the 2017 Query Store
 ## Abstract:
@@ -217,7 +217,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 85684
 # Rubrik-Simplifying SQL Data Protection
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 06-10-2018 - Session time: 12:30:00 - Track: Strategy and Architecture
 ## Speaker: Chris Lumnah
 ## Title: Rubrik-Simplifying SQL Data Protection
 ## Abstract:
@@ -226,7 +226,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architectu
 #### SessionID: 85695
 # Dell: #GetModern with Dell EMC
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 06-10-2018 - Session time: 12:30:00 - Track: Strategy and Architecture
 ## Speaker: Dominick DeQuarto
 ## Title: Dell: #GetModern with Dell EMC
 ## Abstract:
@@ -235,7 +235,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architectu
 #### SessionID: 85813
 # Introduction to Azure Functions using Azure SQL Databases
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-10-2018 - Session time: 12:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Herve Roggero
 ## Title: Introduction to Azure Functions using Azure SQL Databases
 ## Abstract:
@@ -244,7 +244,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Cloud Application Devel
 #### SessionID: 85814
 # Exporting and Synchronizing Data From SharePoint, Twitter and SalesForce into Azure SQL Database
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 06-10-2018 - Session time: 12:30:00 - Track: BI Information Delivery
 ## Speaker: Herve Roggero
 ## Title: Exporting and Synchronizing Data From SharePoint, Twitter and SalesForce into Azure SQL Database
 ## Abstract:
@@ -253,7 +253,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 #### SessionID: 85999
 # Information Governance:  Understanding the Risks and Developing Solutions around Unstructured data
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Other
+Event Date: 06-10-2018 - Session time: 12:30:00 - Track: Other
 ## Speaker: Greg Smith
 ## Title: Information Governance:  Understanding the Risks and Developing Solutions around Unstructured data
 ## Abstract:
@@ -262,7 +262,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Other
 #### SessionID: 86018
 # Performance tuning with SQLGrease
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 12:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: franklin yamamoto
 ## Title: Performance tuning with SQLGrease
 ## Abstract:
@@ -271,7 +271,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 86301
 # The Changing Role of CIOs and the Value of DevOps
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 06-10-2018 - Session time: 12:30:00 - Track: Strategy and Architecture
 ## Speaker: Kendra Little
 ## Title: The Changing Role of CIOs and the Value of DevOps
 ## Abstract:
@@ -280,7 +280,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architectu
 #### SessionID: 83245
 # Azure Analytics In the Cloud
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 06-10-2018 - Session time: 13:45:00 - Track: Analytics and Visualization
 ## Speaker: Luigi Delfin
 ## Title: Azure Analytics In the Cloud
 ## Abstract:
@@ -289,7 +289,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 83314
 # Tally Ho! -- Explore the Varied Uses of Tally Tables
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Aaron Cutshall
 ## Title: Tally Ho! -- Explore the Varied Uses of Tally Tables
 ## Abstract:
@@ -298,7 +298,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 83537
 # Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose Chinchilla
 ## Title: Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
 ## Abstract:
@@ -307,7 +307,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 83560
 # Introduction to IoT using Azure
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 06-10-2018 - Session time: 13:45:00 - Track: Strategy and Architecture
 ## Speaker: John Wang
 ## Title: Introduction to IoT using Azure
 ## Abstract:
@@ -317,7 +317,7 @@ We will take an look on what is Internet of Things (IoT), the impact of IoT to t
 #### SessionID: 83901
 # I know what you did last transaction: Auditing using CDC, Temporal Tables and Triggers
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Berkowitz
 ## Title: I know what you did last transaction: Auditing using CDC, Temporal Tables and Triggers
 ## Abstract:
@@ -326,7 +326,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 84650
 # Solution development for a query tool for a large Dataset
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 06-10-2018 - Session time: 13:45:00 - Track: BI Information Delivery
 ## Speaker: Andrew Bozek
 ## Title: Solution development for a query tool for a large Dataset
 ## Abstract:
@@ -335,7 +335,7 @@ Event Date: 06-10-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 #### SessionID: 85546
 # Twitter Data  Sentiment Analysis: Staring Logic Apps, Azure ML, Twitter Data, Power BI, and Python
 #### [Back to calendar](#nr-801)
-Event Date: 06-10-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 06-10-2018 - Session time: 13:45:00 - Track: Analytics and Visualization
 ## Speaker: Bradley Ball
 ## Title: Twitter Data  Sentiment Analysis: Staring Logic Apps, Azure ML, Twitter Data, Power BI, and Python
 ## Abstract:

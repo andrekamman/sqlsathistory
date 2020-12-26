@@ -76,7 +76,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 100074
 # Getting Started: Introduction to Azure SQL Database
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-02-2020 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Sterrett
 ## Title: Getting Started: Introduction to Azure SQL Database
 ## Abstract:
@@ -85,7 +85,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 100081
 # HOW TO TROUBLESHOOT DATABASE PERFORMANCE ISSUES
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-02-2020 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jean Joseph
 ## Title: HOW TO TROUBLESHOOT DATABASE PERFORMANCE ISSUES
 ## Abstract:
@@ -94,7 +94,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 100094
 # An Examination of Today's Certifications
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 29-02-2020 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Rick Heiges
 ## Title: An Examination of Today's Certifications
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 100127
 # Welcome to Azure Synapse
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 29-02-2020 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Dustin Ryan
 ## Title: Welcome to Azure Synapse
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 100759
 # Let’s democratize Spark for .NET developers
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Sergiy Lunyakin
 ## Title: Let’s democratize Spark for .NET developers
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 100824
 # Artificial Intelligence, Machine Learning and Deep Learning Explained
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 29-02-2020 - Session time: 09:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Buck Woody
 ## Title: Artificial Intelligence, Machine Learning and Deep Learning Explained
 ## Abstract:
@@ -130,7 +130,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 101435
 # Scaling Clustered Column Store Indexes
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Thomas Grohser
 ## Title: Scaling Clustered Column Store Indexes
 ## Abstract:
@@ -141,7 +141,7 @@ Come and learn how to partition, select the right datatypes, and insert the data
 #### SessionID: 101469
 # Mastering TempDB
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-02-2020 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: Mastering TempDB
 ## Abstract:
@@ -150,7 +150,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 101655
 # Load a Data Warehouse using SSIS
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-02-2020 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Cai
 ## Title: Load a Data Warehouse using SSIS
 ## Abstract:
@@ -159,7 +159,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 101747
 # PowerBI and PowerApps Married at First Sight
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 29-02-2020 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Dan King
 ## Title: PowerBI and PowerApps Married at First Sight
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 101757
 # Successfully Virtualizing SQL Server on vSphere - Straight from the Source
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-02-2020 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
 ## Abstract:
@@ -177,7 +177,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 101787
 # Indexing for performance
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 100016
 # Machine Learning with AzureML and Microsoft Excel API
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 29-02-2020 - Session time: 10:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Srikrishna Krishnarao Srinivasan
 ## Title: Machine Learning with AzureML and Microsoft Excel API
 ## Abstract:
@@ -199,7 +199,7 @@ Join me in this exploratory session on building and deploying Machine Learning m
 #### SessionID: 100026
 # Big Data Clusters for the Absolute Beginner
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-02-2020 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohammad Darab
 ## Title: Big Data Clusters for the Absolute Beginner
 ## Abstract:
@@ -215,7 +215,7 @@ Topics include:
 #### SessionID: 100041
 # What's New In SQL Server For The Developer
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Jeff Taylor
 ## Title: What's New In SQL Server For The Developer
 ## Abstract:
@@ -224,7 +224,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 100679
 # Starting a Career in IT - Ask the Panel!
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 29-02-2020 - Session time: 10:15:00 - Track: Professional Development
 ## Speaker: Dale Sullenberger
 ## Title: Starting a Career in IT - Ask the Panel!
 ## Abstract:
@@ -233,7 +233,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 100751
 # Failure needs to be an option.
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 29-02-2020 - Session time: 10:15:00 - Track: Professional Development
 ## Speaker: Donna Ellis Wilson
 ## Title: Failure needs to be an option.
 ## Abstract:
@@ -242,7 +242,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 101194
 # SQL Server SSMS Fundamentals for Beginners
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Harvey Hyman
 ## Title: SQL Server SSMS Fundamentals for Beginners
 ## Abstract:
@@ -251,7 +251,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 101261
 # Azure Cost Management
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-02-2020 - Session time: 10:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dustin Dorsey
 ## Title: Azure Cost Management
 ## Abstract:
@@ -260,7 +260,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 101687
 # Eliminating Anti-Patterns and RBAR for Faster Performance
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Jonathan Kehayias
 ## Title: Eliminating Anti-Patterns and RBAR for Faster Performance
 ## Abstract:
@@ -273,7 +273,7 @@ This session is the third session in the SQL Performance for Developers Learning
 #### SessionID: 101715
 # Using Powershell to Document SQL Server
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-02-2020 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Using Powershell to Document SQL Server
 ## Abstract:
@@ -282,7 +282,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 101816
 # “The different faces of Information: Data Modeling and the Data Profession in the 21st Century”
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Information Delivery
+Event Date: 29-02-2020 - Session time: 10:15:00 - Track: Information Delivery
 ## Speaker: Frank Quintana
 ## Title: “The different faces of Information: Data Modeling and the Data Profession in the 21st Century”
 ## Abstract:
@@ -294,7 +294,7 @@ The presentation is an overview of the way we work today with data and how the n
 #### SessionID: 101866
 # Data Science, Analytics, and Storytelling Tools
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 29-02-2020 - Session time: 10:15:00 - Track: Analytics and Visualization
 ## Speaker: ALAN FERRANDIZ LANGLEY
 ## Title: Data Science, Analytics, and Storytelling Tools
 ## Abstract:
@@ -303,7 +303,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 102098
 # PowerApps and AI: A Flow of Location Events
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-02-2020 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeremy Frye
 ## Title: PowerApps and AI: A Flow of Location Events
 ## Abstract:
@@ -314,7 +314,7 @@ In this session, we will dissect an application using Power Apps and location se
 #### SessionID: 102210
 # The District Dashboard: Modeling  Reporting Solutions for Public Education
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 29-02-2020 - Session time: 10:15:00 - Track: BI Information Delivery
 ## Speaker: Paul Turley
 ## Title: The District Dashboard: Modeling  Reporting Solutions for Public Education
 ## Abstract:
@@ -323,7 +323,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 100095
 # Getting Noticed
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 29-02-2020 - Session time: 11:30:00 - Track: Professional Development
 ## Speaker: Rick Heiges
 ## Title: Getting Noticed
 ## Abstract:
@@ -332,7 +332,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 100765
 # How To Talk To Your Storage Admin
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-02-2020 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: How To Talk To Your Storage Admin
 ## Abstract:
@@ -341,7 +341,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 101654
 # KingswaySoft - Supercharge your ETL Development with Advanced SSIS Components
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-02-2020 - Session time: 12:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Cai
 ## Title: KingswaySoft - Supercharge your ETL Development with Advanced SSIS Components
 ## Abstract:
@@ -354,7 +354,7 @@ In additional to performing advanced transformations you will also find codeless
 #### SessionID: 100028
 # Tally Ho! -- Explore the Varied Uses of Tally Tables
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Aaron Cutshall
 ## Title: Tally Ho! -- Explore the Varied Uses of Tally Tables
 ## Abstract:
@@ -363,7 +363,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 100038
 # That's So Metadata: Discover Your Database From The Inside
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-02-2020 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: That's So Metadata: Discover Your Database From The Inside
 ## Abstract:
@@ -381,7 +381,7 @@ We will also cover the official Microsoft documentation on these features and ot
 #### SessionID: 100310
 # The Power of Power BI Themes or I Haven't Written Themes Since High School
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-02-2020 - Session time: 13:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael Antonovich
 ## Title: The Power of Power BI Themes or I Haven't Written Themes Since High School
 ## Abstract:
@@ -390,7 +390,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 100653
 # Data Virtualization with PolyBase
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Data Virtualization with PolyBase
 ## Abstract:
@@ -399,7 +399,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 100681
 # Data and the Data Professionals Future - Ask the Panel
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 29-02-2020 - Session time: 13:15:00 - Track: Professional Development
 ## Speaker: Dale Sullenberger
 ## Title: Data and the Data Professionals Future - Ask the Panel
 ## Abstract:
@@ -408,7 +408,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 101008
 # Exploring The JSON Features In SQL Server
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Eric Cobb
 ## Title: Exploring The JSON Features In SQL Server
 ## Abstract:
@@ -417,7 +417,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 101256
 # Deploying Database Changes Without Taking an Outage
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-02-2020 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Warren
 ## Title: Deploying Database Changes Without Taking an Outage
 ## Abstract:
@@ -426,7 +426,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 101838
 # Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-02-2020 - Session time: 13:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Chinchilla
 ## Title: Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
 ## Abstract:
@@ -435,7 +435,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 101851
 # How to Beat the ATS
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 29-02-2020 - Session time: 13:15:00 - Track: Professional Development
 ## Speaker: Suzanne Ricci
 ## Title: How to Beat the ATS
 ## Abstract:
@@ -444,7 +444,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 101854
 # Replace Hundreds of Fragmented SSRS Reports with Integrated Dashboards in Weeks
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-02-2020 - Session time: 13:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chad Buher
 ## Title: Replace Hundreds of Fragmented SSRS Reports with Integrated Dashboards in Weeks
 ## Abstract:
@@ -459,7 +459,7 @@ In this session, we will explore:
 #### SessionID: 102158
 # Intelligent Infrastructure for the DBA
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-02-2020 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Intelligent Infrastructure for the DBA
 ## Abstract:
@@ -468,7 +468,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 102683
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-02-2020 - Session time: 13:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
 ## Abstract:
@@ -477,7 +477,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 100032
 # dbatools - A PowerShell Toolkit for the DBA
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-02-2020 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jack Corbett
 ## Title: dbatools - A PowerShell Toolkit for the DBA
 ## Abstract:
@@ -488,7 +488,7 @@ At the end of the session, you will be able to return to your office with dbatoo
 #### SessionID: 100212
 # Auditing and Taming SQL Server Permissions
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Compliance and Security
+Event Date: 29-02-2020 - Session time: 14:30:00 - Track: Compliance and Security
 ## Speaker: Dave Mason
 ## Title: Auditing and Taming SQL Server Permissions
 ## Abstract:
@@ -497,7 +497,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Compliance and Security
 #### SessionID: 100532
 # MA + THE - E = Aggravated with Aggregation
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Carolyn Risk
 ## Title: MA + THE - E = Aggravated with Aggregation
 ## Abstract:
@@ -506,7 +506,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 100547
 # An Introduction to Spatial Data in SQL Server
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: An Introduction to Spatial Data in SQL Server
 ## Abstract:
@@ -524,7 +524,7 @@ Come to this session to learn about:
 #### SessionID: 100680
 # Switching to an IT Career - Ask the Panel
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 29-02-2020 - Session time: 14:30:00 - Track: Professional Development
 ## Speaker: Dale Sullenberger
 ## Title: Switching to an IT Career - Ask the Panel
 ## Abstract:
@@ -533,7 +533,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 100859
 # Data Science 101: An Introduction to Data Science Using Python
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 29-02-2020 - Session time: 14:30:00 - Track: Analytics and Visualization
 ## Speaker: Ganesh Lohani
 ## Title: Data Science 101: An Introduction to Data Science Using Python
 ## Abstract:
@@ -542,7 +542,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 100892
 # Maximizing SQL Server Management Studio for Developers and DBAs
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Nem Schlecht
 ## Title: Maximizing SQL Server Management Studio for Developers and DBAs
 ## Abstract:
@@ -551,7 +551,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 100911
 # Intro to Azure for SQL Geeks
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-02-2020 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: David Patrick
 ## Title: Intro to Azure for SQL Geeks
 ## Abstract:
@@ -560,7 +560,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 101449
 # Powershell for DBA to day to day stuff
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Other
+Event Date: 29-02-2020 - Session time: 14:30:00 - Track: Other
 ## Speaker: Jignesh Patel
 ## Title: Powershell for DBA to day to day stuff
 ## Abstract:
@@ -571,7 +571,7 @@ Run one powershell script for all instance and many more
 #### SessionID: 101508
 # Instant SQL Sandbox Using Docker
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Eddy Djaja
 ## Title: Instant SQL Sandbox Using Docker
 ## Abstract:
@@ -580,7 +580,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 101688
 # Deadlocking for Mere Mortals
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Jonathan Kehayias
 ## Title: Deadlocking for Mere Mortals
 ## Abstract:
@@ -589,7 +589,7 @@ Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 101727
 # From Tech to Lead - Transitioning from a Technician to a Leader
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 29-02-2020 - Session time: 14:30:00 - Track: Professional Development
 ## Speaker: TBTLA Tampa Bay Technology Leadership Association
 ## Title: From Tech to Lead - Transitioning from a Technician to a Leader
 ## Abstract:
@@ -603,7 +603,7 @@ This presentation will share some successful practices on how to successfully tr
 #### SessionID: 101756
 # 5 Availability Groups Issues That May Ruin Your Day
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-02-2020 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dmitri Korotkevitch
 ## Title: 5 Availability Groups Issues That May Ruin Your Day
 ## Abstract:
@@ -614,7 +614,7 @@ While Availability Groups help to achieve required High Availability, they may a
 #### SessionID: 101998
 # Performance Tuning - Analyzing Execution Plans
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-02-2020 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Konstantin Melamud
 ## Title: Performance Tuning - Analyzing Execution Plans
 ## Abstract:
@@ -624,7 +624,7 @@ In this presentation, we will identify what indexes are being used by the SQL Op
 #### SessionID: 102105
 # 2017 SSIS Scale Out for High Availability
 #### [Back to calendar](#nr-951)
-Event Date: 29-02-2020 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 29-02-2020 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: Paul LaGrone
 ## Title: 2017 SSIS Scale Out for High Availability
 ## Abstract:

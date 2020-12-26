@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 42276
 # SQL Server R Services in SQL 2016
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
+Event Date: 02-04-2016 - Session time: 08:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
 ## Abstract:
@@ -45,7 +45,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 42929
 # Very Large Databases in your future
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Peterson
 ## Title: Very Large Databases in your future
 ## Abstract:
@@ -57,7 +57,7 @@ indexing and DBCC checks into itty-bitty maintenance windows. As a bonus, many o
 #### SessionID: 44869
 # Creating Access Web Apps with SQL Azure and SharePoint
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 02-04-2016 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Andy Tabisz
 ## Title: Creating Access Web Apps with SQL Azure and SharePoint
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 45441
 # Managing Availability Groups (What happens after the build!)
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Managing Availability Groups (What happens after the build!)
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 46110
 # IoT - The Internet Of Things
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 02-04-2016 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Jeff Renz
 ## Title: IoT - The Internet Of Things
 ## Abstract:
@@ -85,7 +85,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 41274
 # Table Partitioning 101
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 02-04-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Robert Smith
 ## Title: Table Partitioning 101
 ## Abstract:
@@ -94,7 +94,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 41346
 # Design and Implement BI Like Edison! 
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Strategy and Architecture
+Event Date: 02-04-2016 - Session time: 09:45:00 - Track: Strategy and Architecture
 ## Speaker: William E Pearson III
 ## Title: Design and Implement BI Like Edison! 
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Strategy and Architectu
 #### SessionID: 42485
 # Hadoop, Hive, JSON, and Data! Oh, my!
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 02-04-2016 - Session time: 09:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: TJay Belt
 ## Title: Hadoop, Hive, JSON, and Data! Oh, my!
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Cloud Application Devel
 #### SessionID: 43078
 # The New Revolution in Data Science, R Integrated into SQL Server
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
+Event Date: 02-04-2016 - Session time: 09:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Reeves Smith
 ## Title: The New Revolution in Data Science, R Integrated into SQL Server
 ## Abstract:
@@ -124,7 +124,7 @@ This session will demo the functionality and power of using R within SQL Server.
 #### SessionID: 46104
 # Essential steps to ensure survivability of your SQL Server database
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andre DuBois
 ## Title: Essential steps to ensure survivability of your SQL Server database
 ## Abstract:
@@ -133,7 +133,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 47855
 # SQL Server Internals and Architecture
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Kline
 ## Title: SQL Server Internals and Architecture
 ## Abstract:
@@ -151,7 +151,7 @@ This fast paced session will take you through many aspects of the internal opera
 #### SessionID: 41717
 # Analysis Services Tabular Jumpstart
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-04-2016 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Labry
 ## Title: Analysis Services Tabular Jumpstart
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: BI Platform Architectur
 #### SessionID: 41939
 # SQL Server Foreign Keys – De-mystifying the Rest of the Story
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 02-04-2016 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SQL Server Foreign Keys – De-mystifying the Rest of the Story
 ## Abstract:
@@ -174,7 +174,7 @@ After attending this session you will
 #### SessionID: 42339
 # Overlord - tracking changes real-time, in your environment
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Bourgon
 ## Title: Overlord - tracking changes real-time, in your environment
 ## Abstract:
@@ -183,7 +183,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 42642
 # Infrastructure Tuning for SQL Server Performance
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Infrastructure Tuning for SQL Server Performance
 ## Abstract:
@@ -192,7 +192,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 42979
 # Overcoming Chartaphobia And Moving Toward Enlightening Data Viz
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Analytics and Visualization
+Event Date: 02-04-2016 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Meagan Longoria
 ## Title: Overcoming Chartaphobia And Moving Toward Enlightening Data Viz
 ## Abstract:
@@ -201,7 +201,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Analytics and Visualiza
 #### SessionID: 44749
 # Revenge: The SQL! - Director's Cut
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL! - Director's Cut
 ## Abstract:
@@ -216,7 +216,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #### SessionID: 41291
 # Power BI is Awesome!
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: BI Information Delivery
+Event Date: 02-04-2016 - Session time: 13:30:00 - Track: BI Information Delivery
 ## Speaker: Steve Wake
 ## Title: Power BI is Awesome!
 ## Abstract:
@@ -225,7 +225,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: BI Information Delivery
 #### SessionID: 41473
 # Dimensional Modeling Design Patterns: Beyond Basics
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-04-2016 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond Basics
 ## Abstract:
@@ -243,7 +243,7 @@ the art of dimensional modeling. We will look at the different types of fact tab
 #### SessionID: 45446
 # FROM OLD TO NEW; NAVIGATING THE CHOPPY WATERS OF A CRM/ERP PLATFORM MIGRATI
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Strategy and Architecture
+Event Date: 02-04-2016 - Session time: 13:30:00 - Track: Strategy and Architecture
 ## Speaker: Michelle Poolet
 ## Title: FROM OLD TO NEW; NAVIGATING THE CHOPPY WATERS OF A CRM/ERP PLATFORM MIGRATI
 ## Abstract:
@@ -257,7 +257,7 @@ Join Michelle Poolet as she walks you through lessons learned from the many plat
 #### SessionID: 46153
 # What's your DQ (Data Quotient) ?
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 02-04-2016 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Paul Nielsen
 ## Title: What's your DQ (Data Quotient) ?
 ## Abstract:
@@ -266,7 +266,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 46168
 # Making the Leap from Developer to DBA
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 02-04-2016 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
 ## Abstract:
@@ -275,7 +275,7 @@ Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 48134
 # End-to-End Troubleshooting for SQL Server 
 #### [Back to calendar](#nr-483)
-Event Date: 02-04-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Kline
 ## Title: End-to-End Troubleshooting for SQL Server 
 ## Abstract:

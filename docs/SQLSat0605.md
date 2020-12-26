@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 57519
 # Azure Machine Learning: From Design to Integration
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 5 - BI
+Event Date: 10-06-2017 - Session time: 09:15:00 - Track: 5 - BI
 ## Speaker: Peter Myers
 ## Title: Azure Machine Learning: From Design to Integration
 ## Abstract:
@@ -55,7 +55,7 @@ This session has been specifically designed to describe Machine Learning fundame
 #### SessionID: 59800
 # Database tuning advisor vs. database management views
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 1 - DBA
+Event Date: 10-06-2017 - Session time: 09:15:00 - Track: 1 - DBA
 ## Speaker: Torsten Strauss
 ## Title: Database tuning advisor vs. database management views
 ## Abstract:
@@ -66,7 +66,7 @@ You will learn the limitations of both approaches in order to avoid applying wro
 #### SessionID: 63729
 # ETL in the cloud
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 3 - Cloud
+Event Date: 10-06-2017 - Session time: 09:15:00 - Track: 3 - Cloud
 ## Speaker: Alexander Klein
 ## Title: ETL in the cloud
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 3 - Cloud
 #### SessionID: 64176
 # Das andere NoSQL: Graph DBs
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 4 - Mixed
+Event Date: 10-06-2017 - Session time: 09:15:00 - Track: 4 - Mixed
 ## Speaker: Christoph Seck
 ## Title: Das andere NoSQL: Graph DBs
 ## Abstract:
@@ -88,7 +88,7 @@ Und vielleicht liefert die Gerüchteküche ja auch schon erstes genießbares ab 
 #### SessionID: 64185
 # Dynamic Data Masking  Row Level Security in Azure SQL Database
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 2 - DEV
+Event Date: 10-06-2017 - Session time: 09:15:00 - Track: 2 - DEV
 ## Speaker: John Martin
 ## Title: Dynamic Data Masking  Row Level Security in Azure SQL Database
 ## Abstract:
@@ -101,7 +101,7 @@ After this session, you will be in a position to start looking at whether your s
 #### SessionID: 66232
 # Was ist SQL?
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 6 - Jumpstart (101)
+Event Date: 10-06-2017 - Session time: 09:15:00 - Track: 6 - Jumpstart (101)
 ## Speaker: Frank Geisler
 ## Title: Was ist SQL?
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 6 - Jumpstart (101)
 #### SessionID: 57191
 # So you installed R, now what? A journey through the Tidyverse
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 2 - DEV
+Event Date: 10-06-2017 - Session time: 10:45:00 - Track: 2 - DEV
 ## Speaker: Thomas Hütter
 ## Title: So you installed R, now what? A journey through the Tidyverse
 ## Abstract:
@@ -130,7 +130,7 @@ dplyr and readr, and we'll have lots of code demos on real world examples.
 #### SessionID: 59532
 # Hello, my name is Tux, I would like to join the #SQLFamily - SQL Server goes Linux [DE]
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 4 - Mixed
+Event Date: 10-06-2017 - Session time: 10:45:00 - Track: 4 - Mixed
 ## Speaker: Andre Essing
 ## Title: Hello, my name is Tux, I would like to join the #SQLFamily - SQL Server goes Linux [DE]
 ## Abstract:
@@ -143,7 +143,7 @@ Aber wie funktioniert SQL Server on Linux? Was wird unterstützt, was nicht? Wel
 #### SessionID: 62422
 # Using Resource Governor for fine grained tuning
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 1 - DBA
+Event Date: 10-06-2017 - Session time: 10:45:00 - Track: 1 - DBA
 ## Speaker: Sergey Olontsev
 ## Title: Using Resource Governor for fine grained tuning
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 1 - DBA
 #### SessionID: 63934
 # Let’s have some fun(ctional) with M (Power Query/Power BI) language!
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 5 - BI
+Event Date: 10-06-2017 - Session time: 10:45:00 - Track: 5 - BI
 ## Speaker: Cédric Charlier
 ## Title: Let’s have some fun(ctional) with M (Power Query/Power BI) language!
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 5 - BI
 #### SessionID: 66230
 # Data Platform für die Cloud
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 3 - Cloud
+Event Date: 10-06-2017 - Session time: 10:45:00 - Track: 3 - Cloud
 ## Speaker: Constantin Klein
 ## Title: Data Platform für die Cloud
 ## Abstract:
@@ -174,7 +174,7 @@ Gewinnen Sie in dieser Session einen Überblick über die Plattform und lernen S
 #### SessionID: 66233
 # SQL Server Installation
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 6 - Jumpstart (101)
+Event Date: 10-06-2017 - Session time: 10:45:00 - Track: 6 - Jumpstart (101)
 ## Speaker: Björn Peters
 ## Title: SQL Server Installation
 ## Abstract:
@@ -185,7 +185,7 @@ Wenn man die gängigen Best-Practices außer Acht lässt, muss man sich nicht wu
 #### SessionID: 57387
 # Azure Cloud kills SQL BI?
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 5 - BI
+Event Date: 10-06-2017 - Session time: 12:00:00 - Track: 5 - BI
 ## Speaker: Stefan Kirner
 ## Title: Azure Cloud kills SQL BI?
 ## Abstract:
@@ -194,7 +194,7 @@ Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 5 - BI
 #### SessionID: 61424
 # Big Data - Big Quality?  A governance round-trip through the possibilities of the MS data platform
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 4 - Mixed
+Event Date: 10-06-2017 - Session time: 12:00:00 - Track: 4 - Mixed
 ## Speaker: Oliver Engels
 ## Title: Big Data - Big Quality?  A governance round-trip through the possibilities of the MS data platform
 ## Abstract:
@@ -204,7 +204,7 @@ We dive into the requirements of modern data governance and curation and show in
 #### SessionID: 62821
 # Azure Automation - Deployment, Backup und Skalierung von SQL Servern
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 3 - Cloud
+Event Date: 10-06-2017 - Session time: 12:00:00 - Track: 3 - Cloud
 ## Speaker: Björn Peters
 ## Title: Azure Automation - Deployment, Backup und Skalierung von SQL Servern
 ## Abstract:
@@ -219,7 +219,7 @@ Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 3 - Cloud
 #### SessionID: 63342
 # PowerShell for the DBA: Why I love my inner pig-dog
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 1 - DBA
+Event Date: 10-06-2017 - Session time: 12:00:00 - Track: 1 - DBA
 ## Speaker: William Durkin
 ## Title: PowerShell for the DBA: Why I love my inner pig-dog
 ## Abstract:
@@ -232,7 +232,7 @@ Along the way we will see that we can benefit from the wide world of PowerShell 
 #### SessionID: 66234
 # Security für Anfänger
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 6 - Jumpstart (101)
+Event Date: 10-06-2017 - Session time: 12:00:00 - Track: 6 - Jumpstart (101)
 ## Speaker: Uwe Ricken
 ## Title: Security für Anfänger
 ## Abstract:
@@ -246,7 +246,7 @@ Einmal im „ehrenwerten Mietshaus“ angekommen, möchte man selbstverständlic
 #### SessionID: 57207
 # Zombie Attack Against Clustered Indexes - Who really need them!
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 1 - DBA
+Event Date: 10-06-2017 - Session time: 14:30:00 - Track: 1 - DBA
 ## Speaker: Uwe Ricken
 ## Title: Zombie Attack Against Clustered Indexes - Who really need them!
 ## Abstract:
@@ -259,7 +259,7 @@ Watch the demos which show in an impressive way that clustered indexes are not a
 #### SessionID: 57717
 # Power BI for the Data Scientist
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 5 - BI
+Event Date: 10-06-2017 - Session time: 14:30:00 - Track: 5 - BI
 ## Speaker: Gerhard Brueckl
 ## Title: Power BI for the Data Scientist
 ## Abstract:
@@ -268,7 +268,7 @@ Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 5 - BI
 #### SessionID: 59576
 # Der Weg - SQL Server in Azure IaaS und weiter nach PaaS - Azure SQL DB, Elastic Pools  DWH
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 3 - Cloud
+Event Date: 10-06-2017 - Session time: 14:30:00 - Track: 3 - Cloud
 ## Speaker: Patrick Heyde
 ## Title: Der Weg - SQL Server in Azure IaaS und weiter nach PaaS - Azure SQL DB, Elastic Pools  DWH
 ## Abstract:
@@ -277,7 +277,7 @@ Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 3 - Cloud
 #### SessionID: 63219
 # Was ist für mich als Datenbankentwickler neu in Visual Studio 2017?
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 2 - DEV
+Event Date: 10-06-2017 - Session time: 14:30:00 - Track: 2 - DEV
 ## Speaker: Frank Geisler
 ## Title: Was ist für mich als Datenbankentwickler neu in Visual Studio 2017?
 ## Abstract:
@@ -286,7 +286,7 @@ Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 2 - DEV
 #### SessionID: 64142
 # Women in Technology – Was hat sich im letzten Jahr getan?
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 4 - Mixed
+Event Date: 10-06-2017 - Session time: 14:30:00 - Track: 4 - Mixed
 ## Speaker: Gabi Münster
 ## Title: Women in Technology – Was hat sich im letzten Jahr getan?
 ## Abstract:
@@ -295,7 +295,7 @@ Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 4 - Mixed
 #### SessionID: 66262
 # Einstieg in SQL Server Integration Services (SSIS)
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 6 - Jumpstart (101)
+Event Date: 10-06-2017 - Session time: 14:30:00 - Track: 6 - Jumpstart (101)
 ## Speaker: Alexander Karl
 ## Title: Einstieg in SQL Server Integration Services (SSIS)
 ## Abstract:
@@ -313,7 +313,7 @@ vorgestellt werden..
 #### SessionID: 57317
 # ETL und DWH Design mit Metadaten - vom Developer zum Architekten!
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 5 - BI
+Event Date: 10-06-2017 - Session time: 15:45:00 - Track: 5 - BI
 ## Speaker: Ben Weissman
 ## Title: ETL und DWH Design mit Metadaten - vom Developer zum Architekten!
 ## Abstract:
@@ -322,7 +322,7 @@ Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 5 - BI
 #### SessionID: 59664
 # Data Science für Datenbankentwickler
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 2 - DEV
+Event Date: 10-06-2017 - Session time: 15:45:00 - Track: 2 - DEV
 ## Speaker: Sascha Dittmann
 ## Title: Data Science für Datenbankentwickler
 ## Abstract:
@@ -333,7 +333,7 @@ In dieser Session stellt Sascha Dittmann verschiedene Lernpfade vor, um als Date
 #### SessionID: 63562
 # SQL Server and Docker. What, How and Why
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 1 - DBA
+Event Date: 10-06-2017 - Session time: 15:45:00 - Track: 1 - DBA
 ## Speaker: André Kamman
 ## Title: SQL Server and Docker. What, How and Why
 ## Abstract:
@@ -342,7 +342,7 @@ Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 1 - DBA
 #### SessionID: 64139
 # Azure Analysis Services – The next step to BI in the cloud
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 3 - Cloud
+Event Date: 10-06-2017 - Session time: 15:45:00 - Track: 3 - Cloud
 ## Speaker: Gabi Münster
 ## Title: Azure Analysis Services – The next step to BI in the cloud
 ## Abstract:
@@ -351,7 +351,7 @@ Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 3 - Cloud
 #### SessionID: 64153
 # "Industrie 4.0" goes SQL Server
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 4 - Mixed
+Event Date: 10-06-2017 - Session time: 15:45:00 - Track: 4 - Mixed
 ## Speaker: Alexander Karl
 ## Title: "Industrie 4.0" goes SQL Server
 ## Abstract:
@@ -360,7 +360,7 @@ Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 4 - Mixed
 #### SessionID: 66301
 # Einführung in SQL Server Reporting Services (SSRS)
 #### [Back to calendar](#nr-605)
-Event Date: 10-06-2017 - Session time: 17:15:00 - Track: 6 - Jumpstart (101)
+Event Date: 10-06-2017 - Session time: 15:45:00 - Track: 6 - Jumpstart (101)
 ## Speaker: Christian Storms
 ## Title: Einführung in SQL Server Reporting Services (SSRS)
 ## Abstract:

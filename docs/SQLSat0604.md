@@ -51,7 +51,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 57281
 # Automated Restore Script Output for Ola Hallengren’s Maintenance Solution
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 08-04-2017 - Session time: 09:00:00 - Track: Strategy and Architecture
 ## Speaker: Jared Zagelbaum
 ## Title: Automated Restore Script Output for Ola Hallengren’s Maintenance Solution
 ## Abstract:
@@ -65,7 +65,7 @@ If you don't know what I just described in that last paragraph, you should come 
 #### SessionID: 57661
 # Understanding and Handling Database Corruption
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 08-04-2017 - Session time: 09:00:00 - Track: Strategy and Architecture
 ## Speaker: David Maxwell
 ## Title: Understanding and Handling Database Corruption
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 57857
 # Anatomy of a Transaction
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 08-04-2017 - Session time: 09:00:00 - Track: Strategy and Architecture
 ## Speaker: Frank Gill
 ## Title: Anatomy of a Transaction
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 59731
 # Building an SSIS Framework with BIML
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-04-2017 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gill Rowley
 ## Title: Building an SSIS Framework with BIML
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 59819
 # Big Data Solutions in Azure
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 08-04-2017 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: David Giard
 ## Title: Big Data Solutions in Azure
 ## Abstract:
@@ -103,7 +103,7 @@ In this session, you will learn what tools are available in HD Insight and how t
 #### SessionID: 59869
 # Statistics  Cardinality – How They Work to Find Data Efficiently
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 08-04-2017 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Chris Bell
 ## Title: Statistics  Cardinality – How They Work to Find Data Efficiently
 ## Abstract:
@@ -114,7 +114,7 @@ In this session we will go over why statistics matter, how they are generated, h
 #### SessionID: 59873
 # SQL Server Infrastructure – Cloud and On-Prem Options
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 08-04-2017 - Session time: 09:00:00 - Track: Strategy and Architecture
 ## Speaker: David Klee
 ## Title: SQL Server Infrastructure – Cloud and On-Prem Options
 ## Abstract:
@@ -125,7 +125,7 @@ Physical servers, enterprise virtualization, and cloud servers all provide solid
 #### SessionID: 62642
 # SQL Server Databases in the Clouds
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 08-04-2017 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tim Plas
 ## Title: SQL Server Databases in the Clouds
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 62667
 # Supercharging Backups and Restores For Fun and Profit
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 08-04-2017 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Bob Pusateri
 ## Title: Supercharging Backups and Restores For Fun and Profit
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 58274
 # SQL Server and PowerShell: Let's Get Serious
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 08-04-2017 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 59327
 # Analysis Services is in Azure? Seriously!? Let's build a model!
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 08-04-2017 - Session time: 10:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Phillip Labry
 ## Title: Analysis Services is in Azure? Seriously!? Let's build a model!
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 59562
 # SQL Server Encryption
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 08-04-2017 - Session time: 10:30:00 - Track: Strategy and Architecture
 ## Speaker: Ben Miller
 ## Title: SQL Server Encryption
 ## Abstract:
@@ -170,7 +170,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 59707
 # Care and feeding of AWS RDS Instances
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 08-04-2017 - Session time: 10:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Luke Jian
 ## Title: Care and feeding of AWS RDS Instances
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 60931
 # Power BI - The One Power Tool to Rule Them All?
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-04-2017 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Hope Foley
 ## Title: Power BI - The One Power Tool to Rule Them All?
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 61144
 # JSON for the Data Mortals
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 08-04-2017 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Jim Dorame
 ## Title: JSON for the Data Mortals
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 61579
 # Index 360 - Looking at Indexes from Multiple Perspectives
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 08-04-2017 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: John Eisbrener
 ## Title: Index 360 - Looking at Indexes from Multiple Perspectives
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 62559
 # Database Snapshots - Making Your Job Easier
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Other
+Event Date: 08-04-2017 - Session time: 10:30:00 - Track: Other
 ## Speaker: Paul Timmerman
 ## Title: Database Snapshots - Making Your Job Easier
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Other
 #### SessionID: 62668
 # Extending Applications Securely Using Service Broker
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 08-04-2017 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Ed Leighton-Dick
 ## Title: Extending Applications Securely Using Service Broker
 ## Abstract:
@@ -224,7 +224,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 57148
 # Building Your First Data Warehouse
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-04-2017 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jesse Seymour
 ## Title: Building Your First Data Warehouse
 ## Abstract:
@@ -233,7 +233,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 57269
 # R For the SQL Server Developer
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 08-04-2017 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
 ## Abstract:
@@ -242,7 +242,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 59750
 # Revenge: The SQL!
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 08-04-2017 - Session time: 13:00:00 - Track: Strategy and Architecture
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
 ## Abstract:
@@ -257,7 +257,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #### SessionID: 59836
 # Get Your Optimizer to Give up All Its Secrets
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 08-04-2017 - Session time: 13:00:00 - Track: Strategy and Architecture
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
 ## Abstract:
@@ -266,7 +266,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 59850
 # SQL Server 2016 SP1 ROCKS!!
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 08-04-2017 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2016 SP1 ROCKS!!
 ## Abstract:
@@ -275,7 +275,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 61090
 # Relational Data Architecture 101
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 08-04-2017 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: Relational Data Architecture 101
 ## Abstract:
@@ -288,7 +288,7 @@ This presentation is a survey of Data Architecture for the Intermediate DBA, it 
 #### SessionID: 61245
 # Power BI – Jumpstart
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 08-04-2017 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: Seth Bauer
 ## Title: Power BI – Jumpstart
 ## Abstract:
@@ -298,7 +298,7 @@ In this session, we will cover a wide variety of topics within the Power BI eco-
 #### SessionID: 61686
 # Deconstructing Deceptively Simple DAX
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-04-2017 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cory Cundy
 ## Title: Deconstructing Deceptively Simple DAX
 ## Abstract:
@@ -307,7 +307,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 62447
 # Partitioning Basics: Treating Your Tables Like Legos
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 08-04-2017 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Brandon Leach
 ## Title: Partitioning Basics: Treating Your Tables Like Legos
 ## Abstract:
@@ -318,7 +318,7 @@ With partitioning, you can break a table or index down into smaller more managea
 #### SessionID: 57145
 # The Modern Enterprise Data Warehouse
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-04-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ross LoForte
 ## Title: The Modern Enterprise Data Warehouse
 ## Abstract:
@@ -332,7 +332,7 @@ Manage Data Quality and Deliver Clean, Consistent Data
 #### SessionID: 57169
 # What is new in SQL Server 2016 for DBAs?
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 08-04-2017 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Ameena Lalani
 ## Title: What is new in SQL Server 2016 for DBAs?
 ## Abstract:
@@ -341,7 +341,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 57684
 # Help! My Replication Has Fallen and I Cant Get it Replicating again.
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 08-04-2017 - Session time: 14:30:00 - Track: Strategy and Architecture
 ## Speaker: Thomas Lane
 ## Title: Help! My Replication Has Fallen and I Cant Get it Replicating again.
 ## Abstract:
@@ -350,7 +350,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 59589
 # Installing SQL Server on Linux in AWS
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 08-04-2017 - Session time: 14:30:00 - Track: Strategy and Architecture
 ## Speaker: Stacy Hein
 ## Title: Installing SQL Server on Linux in AWS
 ## Abstract:
@@ -361,7 +361,7 @@ The session will end with a demonstration of an install of SQL Server 2016 on Li
 #### SessionID: 60999
 # Cortana Intelligence Suite: Getting Started with Data Lake Analytics and Polybase
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 08-04-2017 - Session time: 14:30:00 - Track: Analytics and Visualization
 ## Speaker: Sean Forgatch
 ## Title: Cortana Intelligence Suite: Getting Started with Data Lake Analytics and Polybase
 ## Abstract:
@@ -372,7 +372,7 @@ This session will also cover use case scenarios for Cortana technologies and wha
 #### SessionID: 61571
 # Reporting Services 2016: The Force Awakens
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 08-04-2017 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: Paul Turley
 ## Title: Reporting Services 2016: The Force Awakens
 ## Abstract:
@@ -381,7 +381,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 62641
 # Protecting SQL Data for Availability and DR
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 08-04-2017 - Session time: 14:30:00 - Track: Strategy and Architecture
 ## Speaker: Tim Plas
 ## Title: Protecting SQL Data for Availability and DR
 ## Abstract:
@@ -390,7 +390,7 @@ Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 62672
 # SQL Server System Behavior: Observation  Intervention
 #### [Back to calendar](#nr-604)
-Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 08-04-2017 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Lonny Niederstadt
 ## Title: SQL Server System Behavior: Observation  Intervention
 ## Abstract:

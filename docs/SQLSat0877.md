@@ -50,7 +50,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 98392
 # VMware Technologies and Microsoft SQL Server
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
+Event Date: 14-09-2019 - Session time: 08:45:00 - Track: Sponsor/Other
 ## Speaker: Andrew Nielsen
 ## Title: VMware Technologies and Microsoft SQL Server
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 #### SessionID: 91605
 # All About Temporary Objects
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
+Event Date: 14-09-2019 - Session time: 10:00:00 - Track: Development
 ## Speaker: Edward Pollack
 ## Title: All About Temporary Objects
 ## Abstract:
@@ -70,7 +70,7 @@ In this session, we will delve into temporary tables, table variables, and memor
 #### SessionID: 91850
 # Azure SQL Managed Instances - A *mostly* full-featured SQL Server in the Cloud
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
+Event Date: 14-09-2019 - Session time: 10:00:00 - Track: Administration
 ## Speaker: Chris Seferlis
 ## Title: Azure SQL Managed Instances - A *mostly* full-featured SQL Server in the Cloud
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 #### SessionID: 94857
 # Back to the Basics: T-SQL 101
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
+Event Date: 14-09-2019 - Session time: 10:00:00 - Track: Development
 ## Speaker: Deborah Melkin
 ## Title: Back to the Basics: T-SQL 101
 ## Abstract:
@@ -90,7 +90,7 @@ This session is designed for the junior DBA or developer who is looking for a be
 #### SessionID: 95522
 # Introduction To SQL Server In Containers
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
+Event Date: 14-09-2019 - Session time: 10:00:00 - Track: Development
 ## Speaker: Grant Fritchey
 ## Title: Introduction To SQL Server In Containers
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 #### SessionID: 95669
 # Demystifying Always On Availability Groups
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
+Event Date: 14-09-2019 - Session time: 10:00:00 - Track: Administration
 ## Speaker: Allan Hirt
 ## Title: Demystifying Always On Availability Groups
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 #### SessionID: 96139
 # Will Query Store fix all my Performance Issues?
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
+Event Date: 14-09-2019 - Session time: 10:00:00 - Track: Administration
 ## Speaker: Surbhi Pokharna
 ## Title: Will Query Store fix all my Performance Issues?
 ## Abstract:
@@ -117,7 +117,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 #### SessionID: 96144
 # SQL Server Take Over:  Establishing a Baseline
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
+Event Date: 14-09-2019 - Session time: 10:00:00 - Track: Administration
 ## Speaker: Lowry Kozlowski
 ## Title: SQL Server Take Over:  Establishing a Baseline
 ## Abstract:
@@ -132,7 +132,7 @@ The server is running slowly... or is it? Slow compared to what?  Before you be
 #### SessionID: 91608
 # Advanced T-SQL Development with latest features.
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
+Event Date: 14-09-2019 - Session time: 11:15:00 - Track: Development
 ## Speaker: Alex Grinberg
 ## Title: Advanced T-SQL Development with latest features.
 ## Abstract:
@@ -141,7 +141,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 #### SessionID: 93215
 # SSIS and Containers
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
+Event Date: 14-09-2019 - Session time: 11:15:00 - Track: Administration
 ## Speaker: Andy Leonard
 ## Title: SSIS and Containers
 ## Abstract:
@@ -150,7 +150,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 #### SessionID: 95569
 # Journey from Software Developer to AI Developer
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-09-2019 - Session time: 11:15:00 - Track: Professional Development
 ## Speaker: Rahat Yasir
 ## Title: Journey from Software Developer to AI Developer
 ## Abstract:
@@ -159,7 +159,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 95925
 # Keys to a Healthy Relationship with SQL Server
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
+Event Date: 14-09-2019 - Session time: 11:15:00 - Track: Development
 ## Speaker: Andy Levy
 ## Title: Keys to a Healthy Relationship with SQL Server
 ## Abstract:
@@ -170,7 +170,7 @@ In this talk designed for application and database developers, we’ll talk abou
 #### SessionID: 96080
 # Running Azure SQL Database Securely
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
+Event Date: 14-09-2019 - Session time: 11:15:00 - Track: Administration
 ## Speaker: Bill Wilder
 ## Title: Running Azure SQL Database Securely
 ## Abstract:
@@ -185,7 +185,7 @@ This talk assumes you are already familiar with SQL Server or another enterprise
 #### SessionID: 96092
 # Add Time Intelligence to Power BI
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Analytics/BI
+Event Date: 14-09-2019 - Session time: 11:15:00 - Track: Analytics/BI
 ## Speaker: Sunil Kadimdiwan
 ## Title: Add Time Intelligence to Power BI
 ## Abstract:
@@ -198,7 +198,7 @@ questions.
 #### SessionID: 96140
 # Should This Be Normalized? When Database Normalization Seems Abnormal
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
+Event Date: 14-09-2019 - Session time: 11:15:00 - Track: Development
 ## Speaker: Chris Voss
 ## Title: Should This Be Normalized? When Database Normalization Seems Abnormal
 ## Abstract:
@@ -207,7 +207,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 #### SessionID: 96764
 # Supercharge your ETL Development with Advanced SSIS Components
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
+Event Date: 14-09-2019 - Session time: 12:35:00 - Track: Sponsor/Other
 ## Speaker: Daniel Cai
 ## Title: Supercharge your ETL Development with Advanced SSIS Components
 ## Abstract:
@@ -220,7 +220,7 @@ In additional to performing advanced transformations you will also find codeless
 #### SessionID: 97993
 # Running Windows and SQL Workloads on Google Cloud Platform
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
+Event Date: 14-09-2019 - Session time: 12:35:00 - Track: Sponsor/Other
 ## Speaker: Jay Rajendran
 ## Title: Running Windows and SQL Workloads on Google Cloud Platform
 ## Abstract:
@@ -229,7 +229,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 #### SessionID: 97997
 # Women-In-Technology (Models and Mentors)
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
+Event Date: 14-09-2019 - Session time: 12:35:00 - Track: Sponsor/Other
 ## Speaker: Deborah Melkin
 ## Title: Women-In-Technology (Models and Mentors)
 ## Abstract:
@@ -238,7 +238,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 #### SessionID: 98356
 # Going Beyond Monitoring With SentryOne
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
+Event Date: 14-09-2019 - Session time: 12:35:00 - Track: Sponsor/Other
 ## Speaker: Andy Yun
 ## Title: Going Beyond Monitoring With SentryOne
 ## Abstract:
@@ -247,7 +247,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 #### SessionID: 98382
 # Successfully Virtualizing SQL Server on vSphere: Doing It Right
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
+Event Date: 14-09-2019 - Session time: 12:35:00 - Track: Sponsor/Other
 ## Speaker: Oleg Ulyanov
 ## Title: Successfully Virtualizing SQL Server on vSphere: Doing It Right
 ## Abstract:
@@ -262,7 +262,7 @@ It all that you want to know about virtual platform configuration but hesitated 
 #### SessionID: 98500
 # SQL 2019 new features
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
+Event Date: 14-09-2019 - Session time: 12:35:00 - Track: Sponsor/Other
 ## Speaker: George Walters
 ## Title: SQL 2019 new features
 ## Abstract:
@@ -271,7 +271,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 #### SessionID: 98548
 # Increasing SQL Server Availability Options Using SIOS DataKeeper
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
+Event Date: 14-09-2019 - Session time: 12:35:00 - Track: Sponsor/Other
 ## Speaker: Allan Hirt
 ## Title: Increasing SQL Server Availability Options Using SIOS DataKeeper
 ## Abstract:
@@ -280,7 +280,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Sponsor/Other
 #### SessionID: 93553
 # We Need To Talk Security
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
+Event Date: 14-09-2019 - Session time: 13:30:00 - Track: Administration
 ## Speaker: Joe Gavin
 ## Title: We Need To Talk Security
 ## Abstract:
@@ -293,7 +293,7 @@ We'll take a high level look at security starting with physical security, see th
 #### SessionID: 93751
 # Unexplored Features of SQL Server
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
+Event Date: 14-09-2019 - Session time: 13:30:00 - Track: Development
 ## Speaker: Hasan Savran
 ## Title: Unexplored Features of SQL Server
 ## Abstract:
@@ -303,7 +303,7 @@ We will start with exploring the hierarchyid, geometry and geography data types 
 #### SessionID: 94843
 # Data Science 101: An Introduction to Data Science Using Python
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Analytics/BI
+Event Date: 14-09-2019 - Session time: 13:30:00 - Track: Analytics/BI
 ## Speaker: Ganesh Lohani
 ## Title: Data Science 101: An Introduction to Data Science Using Python
 ## Abstract:
@@ -312,7 +312,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Analytics/BI
 #### SessionID: 95500
 # Let's Dive Into SQL Server I/O To Improve T-SQL Performance
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
+Event Date: 14-09-2019 - Session time: 13:30:00 - Track: Development
 ## Speaker: Andy Yun
 ## Title: Let's Dive Into SQL Server I/O To Improve T-SQL Performance
 ## Abstract:
@@ -325,7 +325,7 @@ When you leave, you'll be able to optimize your T-SQL reduce I/O and improve per
 #### SessionID: 96102
 # Why should I care about ... the plan cache?
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
+Event Date: 14-09-2019 - Session time: 13:30:00 - Track: Administration
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
 ## Abstract:
@@ -336,7 +336,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #### SessionID: 96425
 # dbatools - A PowerShell Toolkit for the DBA
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
+Event Date: 14-09-2019 - Session time: 13:30:00 - Track: Administration
 ## Speaker: Jack Corbett
 ## Title: dbatools - A PowerShell Toolkit for the DBA
 ## Abstract:
@@ -346,7 +346,7 @@ Prerequisites: Basic PowerShell knowledge. Some SQL Server Administration experi
 #### SessionID: 98023
 # Design for Flexibility and performance - ETL Patterns with SSIS and Beyond
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
+Event Date: 14-09-2019 - Session time: 13:30:00 - Track: Administration
 ## Speaker: Daniel Cai
 ## Title: Design for Flexibility and performance - ETL Patterns with SSIS and Beyond
 ## Abstract:
@@ -355,7 +355,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 #### SessionID: 91659
 # What's New in SQL Server 2019: 100% Demos
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
+Event Date: 14-09-2019 - Session time: 14:45:00 - Track: Development
 ## Speaker: Brent Ozar
 ## Title: What's New in SQL Server 2019: 100% Demos
 ## Abstract:
@@ -368,7 +368,7 @@ No slides here - not even an about-me slide. Let's dive into some queries!
 #### SessionID: 93279
 # Approaching Zero:  Minimizing Downtime During Deployments
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
+Event Date: 14-09-2019 - Session time: 14:45:00 - Track: Development
 ## Speaker: Kevin Feasel
 ## Title: Approaching Zero:  Minimizing Downtime During Deployments
 ## Abstract:
@@ -377,7 +377,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 #### SessionID: 93658
 # Become a T-SQL Pivoting Ninja in 59.5 Minutes Or Less
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Analytics/BI
+Event Date: 14-09-2019 - Session time: 14:45:00 - Track: Analytics/BI
 ## Speaker: Peter Doyle
 ## Title: Become a T-SQL Pivoting Ninja in 59.5 Minutes Or Less
 ## Abstract:
@@ -391,7 +391,7 @@ Come join me, and by the end of this session, you will have the knowledge to lev
 #### SessionID: 93684
 # Become the Most Valuable Player: Soft Skills for the Hard Market
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-09-2019 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Angela Tidwell
 ## Title: Become the Most Valuable Player: Soft Skills for the Hard Market
 ## Abstract:
@@ -400,7 +400,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 94526
 # Organizational Security  Compliance with SQL 2012 through 2016/2017
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
+Event Date: 14-09-2019 - Session time: 14:45:00 - Track: Administration
 ## Speaker: George Walters
 ## Title: Organizational Security  Compliance with SQL 2012 through 2016/2017
 ## Abstract:
@@ -409,7 +409,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Administration
 #### SessionID: 94565
 # Introduction to GitHub
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
+Event Date: 14-09-2019 - Session time: 14:45:00 - Track: Development
 ## Speaker: Joshua Higginbotham
 ## Title: Introduction to GitHub
 ## Abstract:
@@ -422,7 +422,7 @@ Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
 #### SessionID: 96004
 # Cosmic DBA - Cosmos DB for SQL Server Admins and Developers
 #### [Back to calendar](#nr-877)
-Event Date: 14-09-2019 - Session time: 16:00:00 - Track: Development
+Event Date: 14-09-2019 - Session time: 14:45:00 - Track: Development
 ## Speaker: MIKE DONNELLY
 ## Title: Cosmic DBA - Cosmos DB for SQL Server Admins and Developers
 ## Abstract:

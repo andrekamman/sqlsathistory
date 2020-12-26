@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 93698
 # User Experience Brilliance in Power BI Dashboards
 #### [Back to calendar](#nr-899)
-Event Date: 27-07-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-07-2019 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Hilary Wilkie
 ## Title: User Experience Brilliance in Power BI Dashboards
 ## Abstract:
@@ -36,7 +36,7 @@ In this session we will explore in a hands-on exercise what UX and Design thinki
 #### SessionID: 93768
 # Azure Data Factory V2
 #### [Back to calendar](#nr-899)
-Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 27-07-2019 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kevin Wilkie
 ## Title: Azure Data Factory V2
 ## Abstract:
@@ -49,7 +49,7 @@ We'll look at moving data around from On-Prem to Azure, moving files to Azure, a
 #### SessionID: 94665
 # That's So Metadata: Discover Your Database From The Inside
 #### [Back to calendar](#nr-899)
-Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 27-07-2019 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: That's So Metadata: Discover Your Database From The Inside
 ## Abstract:
@@ -67,7 +67,7 @@ We will also cover the official Microsoft documentation on these features and ot
 #### SessionID: 93844
 # Database Project Makes Deployment Consistent
 #### [Back to calendar](#nr-899)
-Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 27-07-2019 - Session time: 09:40:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 93883
 # PowerShell + SQL Server = Better Together
 #### [Back to calendar](#nr-899)
-Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-07-2019 - Session time: 09:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Robbins
 ## Title: PowerShell + SQL Server = Better Together
 ## Abstract:
@@ -85,7 +85,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 94346
 # AI on the Edge
 #### [Back to calendar](#nr-899)
-Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 27-07-2019 - Session time: 09:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jared Rhodes
 ## Title: AI on the Edge
 ## Abstract:
@@ -94,7 +94,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Cloud Application Devel
 #### SessionID: 94676
 # The Psychology of Better Power BI Reporting
 #### [Back to calendar](#nr-899)
-Event Date: 27-07-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-07-2019 - Session time: 10:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Watson
 ## Title: The Psychology of Better Power BI Reporting
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 94893
 # PowerShell Core for Linux
 #### [Back to calendar](#nr-899)
-Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-07-2019 - Session time: 10:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Cain
 ## Title: PowerShell Core for Linux
 ## Abstract:
@@ -116,7 +116,7 @@ We'll wrap up the session showing how to install SQL Server in a Docker Containe
 #### SessionID: 95980
 # How to Build Your Disaster Recovery Plan
 #### [Back to calendar](#nr-899)
-Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-07-2019 - Session time: 10:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rie Irish
 ## Title: How to Build Your Disaster Recovery Plan
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 93696
 # The New Tool in Your Kit: Azure Data Studio
 #### [Back to calendar](#nr-899)
-Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 27-07-2019 - Session time: 12:40:00 - Track: Application  Database Development
 ## Speaker: Sven Aelterman
 ## Title: The New Tool in Your Kit: Azure Data Studio
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 93970
 # The Art of Data DevOps with SSDT
 #### [Back to calendar](#nr-899)
-Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 27-07-2019 - Session time: 12:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ken Muse
 ## Title: The Art of Data DevOps with SSDT
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Cloud Application Devel
 #### SessionID: 94586
 # Turbo-charging SSMS for Beginners
 #### [Back to calendar](#nr-899)
-Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 27-07-2019 - Session time: 12:40:00 - Track: Application  Database Development
 ## Speaker: Nathan Boster
 ## Title: Turbo-charging SSMS for Beginners
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 94037
 # Certification Exams Inside Out
 #### [Back to calendar](#nr-899)
-Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 27-07-2019 - Session time: 13:50:00 - Track: Professional Development
 ## Speaker: William Assaf
 ## Title: Certification Exams Inside Out
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Professional Developmen
 #### SessionID: 94689
 # Exploring the latest T-SQL enhancements
 #### [Back to calendar](#nr-899)
-Event Date: 27-07-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 27-07-2019 - Session time: 13:50:00 - Track: Application  Database Development
 ## Speaker: Dustin Dorsey
 ## Title: Exploring the latest T-SQL enhancements
 ## Abstract:
@@ -172,7 +172,7 @@ In this demo heavy session, we will go over several of the new features, provide
 #### SessionID: 96279
 # Power BI Architecture
 #### [Back to calendar](#nr-899)
-Event Date: 27-07-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-07-2019 - Session time: 13:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paco Gonzalez
 ## Title: Power BI Architecture
 ## Abstract:

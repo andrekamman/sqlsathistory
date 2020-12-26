@@ -40,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 61287
 # Database Corruption - Advanced Recovery Techniques
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DBA 
+Event Date: 09-09-2017 - Session time: 08:30:00 - Track: DBA 
 ## Speaker: Patrick Flynn
 ## Title: Database Corruption - Advanced Recovery Techniques
 ## Abstract:
@@ -52,7 +52,7 @@ Warning: Hex Editors and DBCC Page dumps will be involved!
 #### SessionID: 63462
 # What's new in Power BI Report Server
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
+Event Date: 09-09-2017 - Session time: 08:30:00 - Track: BI
 ## Speaker: Prathy Kamasani
 ## Title: What's new in Power BI Report Server
 ## Abstract:
@@ -62,7 +62,7 @@ In this session, Prathy will show top features of Power BI Report Server. Variou
 #### SessionID: 64576
 # Bringing DevOps to the Database
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DEV 
+Event Date: 09-09-2017 - Session time: 08:30:00 - Track: DEV 
 ## Speaker: Steve Jones
 ## Title: Bringing DevOps to the Database
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DEV
 #### SessionID: 61420
 # Big Data - Big Quality?  A governance round-trip through the possibilities of the MS data platform
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
+Event Date: 09-09-2017 - Session time: 10:00:00 - Track: BI
 ## Speaker: Oliver Engels
 ## Title: Big Data - Big Quality?  A governance round-trip through the possibilities of the MS data platform
 ## Abstract:
@@ -81,7 +81,7 @@ We dive into the requirements of modern data governance and curation and show in
 #### SessionID: 62476
 # SQL Storage Fundamentals for Azure IaaS
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
+Event Date: 09-09-2017 - Session time: 10:00:00 - Track: Cloud
 ## Speaker: Bob Duffy
 ## Title: SQL Storage Fundamentals for Azure IaaS
 ## Abstract:
@@ -101,7 +101,7 @@ o	File and Filegroup layout concepts
 #### SessionID: 62605
 # A Masters view on Query plans and indexing
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DEV 
+Event Date: 09-09-2017 - Session time: 10:00:00 - Track: DEV 
 ## Speaker: Mikael Wedham
 ## Title: A Masters view on Query plans and indexing
 ## Abstract:
@@ -113,7 +113,7 @@ selecting appropriate indexing for your query load.
 #### SessionID: 64283
 # Hiding data with SQL Server 2016
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DBA 
+Event Date: 09-09-2017 - Session time: 10:00:00 - Track: DBA 
 ## Speaker: Ivan Campos
 ## Title: Hiding data with SQL Server 2016
 ## Abstract:
@@ -122,7 +122,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DBA
 #### SessionID: 67073
 # Data Science Fundamentals
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BA
+Event Date: 09-09-2017 - Session time: 10:00:00 - Track: BA
 ## Speaker: Stephanie Locke
 ## Title: Data Science Fundamentals
 ## Abstract:
@@ -135,7 +135,7 @@ Let's go behind the curtains and see the process and the fundamentals employed i
 #### SessionID: 67218
 # Azure Data Factory  Creating Custom Activities Workshop part I
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
+Event Date: 09-09-2017 - Session time: 10:00:00 - Track: BI
 ## Speaker: Paul Andrew
 ## Title: Azure Data Factory  Creating Custom Activities Workshop part I
 ## Abstract:
@@ -146,7 +146,7 @@ Azure Data Factory. This is not SSIS in Azure. But it’s a start for our contro
 #### SessionID: 61197
 # Pro Techniques for the SSASMD Developer
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
+Event Date: 09-09-2017 - Session time: 11:15:00 - Track: BI
 ## Speaker: Jens Vestergaard
 ## Title: Pro Techniques for the SSASMD Developer
 ## Abstract:
@@ -162,7 +162,7 @@ PowerShell to tie all the ends together.
 #### SessionID: 61214
 # Create Stunning Visualizations with The Help of R
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BA
+Event Date: 09-09-2017 - Session time: 11:15:00 - Track: BA
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Create Stunning Visualizations with The Help of R
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BA
 #### SessionID: 61226
 # Kerberos for SQL Server and SharePoint the easy way
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Other
+Event Date: 09-09-2017 - Session time: 11:15:00 - Track: Other
 ## Speaker: Dmytro Andriychenko
 ## Title: Kerberos for SQL Server and SharePoint the easy way
 ## Abstract:
@@ -186,7 +186,7 @@ This presentation covers some very useful resources to help you tame your three-
 #### SessionID: 61237
 # SQL SERVER - Next station Azure
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
+Event Date: 09-09-2017 - Session time: 11:15:00 - Track: Cloud
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: SQL SERVER - Next station Azure
 ## Abstract:
@@ -202,7 +202,7 @@ We will cover:
 #### SessionID: 61491
 # Temporal Data in SQL Server
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DEV 
+Event Date: 09-09-2017 - Session time: 11:15:00 - Track: DEV 
 ## Speaker: Dejan Sarka
 ## Title: Temporal Data in SQL Server
 ## Abstract:
@@ -216,7 +216,7 @@ This session introduces the temporal problems, deals with solutions that go beyo
 #### SessionID: 67219
 # Azure Data Factory  Creating Custom Activities Workshop part II
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
+Event Date: 09-09-2017 - Session time: 11:15:00 - Track: BI
 ## Speaker: Paul Andrew
 ## Title: Azure Data Factory  Creating Custom Activities Workshop part II
 ## Abstract:
@@ -227,7 +227,7 @@ Having covered the basics in part 1 we’ll now go beyond the Azure Data Factory
 #### SessionID: 65121
 # Sponsor lunchtime session Part I
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Sponsor
+Event Date: 09-09-2017 - Session time: 12:30:00 - Track: Sponsor
 ## Speaker: Mark Broadbent
 ## Title: Sponsor lunchtime session Part I
 ## Abstract:
@@ -236,7 +236,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Sponsor
 #### SessionID: 65122
 # Sponsor lunchtime session Part II
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Sponsor
+Event Date: 09-09-2017 - Session time: 13:10:00 - Track: Sponsor
 ## Speaker: Mark Broadbent
 ## Title: Sponsor lunchtime session Part II
 ## Abstract:
@@ -245,7 +245,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Sponsor
 #### SessionID: 61194
 # DevOps for BI Workshop Part I
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
+Event Date: 09-09-2017 - Session time: 13:45:00 - Track: BI
 ## Speaker: Jens Vestergaard
 ## Title: DevOps for BI Workshop Part I
 ## Abstract:
@@ -268,7 +268,7 @@ PowerShell
 #### SessionID: 61207
 # Azure Machine learning beyond the basics with Juypter notebooks
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
+Event Date: 09-09-2017 - Session time: 13:45:00 - Track: Cloud
 ## Speaker: Terry McCann
 ## Title: Azure Machine learning beyond the basics with Juypter notebooks
 ## Abstract:
@@ -277,7 +277,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
 #### SessionID: 61336
 # An introduction to SQL Server  Containers
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DBA 
+Event Date: 09-09-2017 - Session time: 13:45:00 - Track: DBA 
 ## Speaker: Andrew Pruski
 ## Title: An introduction to SQL Server  Containers
 ## Abstract:
@@ -298,7 +298,7 @@ Windows Server administration
 #### SessionID: 61447
 # Analyzing the impact of weather on English Premier League matches in Power BI
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
+Event Date: 09-09-2017 - Session time: 13:45:00 - Track: BI
 ## Speaker: Asgeir Gunnarsson
 ## Title: Analyzing the impact of weather on English Premier League matches in Power BI
 ## Abstract:
@@ -310,7 +310,7 @@ In this end to end Power BI Desktop demo we will use fun data that many can rela
 #### SessionID: 64550
 # Azure Functions and Automation: The SQL Agent in the Cloud
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
+Event Date: 09-09-2017 - Session time: 13:45:00 - Track: Cloud
 ## Speaker: Sam Cogan
 ## Title: Azure Functions and Automation: The SQL Agent in the Cloud
 ## Abstract:
@@ -319,7 +319,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
 #### SessionID: 61204
 # Exploring Dark Data with SQL Server 2016 and R
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DEV 
+Event Date: 09-09-2017 - Session time: 15:00:00 - Track: DEV 
 ## Speaker: Oliver Frost
 ## Title: Exploring Dark Data with SQL Server 2016 and R
 ## Abstract:
@@ -332,7 +332,7 @@ This session is for anyone who is new to R and is interested in expanding their 
 #### SessionID: 61362
 # How to unlock value in your anonymized data
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
+Event Date: 09-09-2017 - Session time: 15:00:00 - Track: BI
 ## Speaker: Andreas Bergstedt
 ## Title: How to unlock value in your anonymized data
 ## Abstract:
@@ -344,7 +344,7 @@ We dig into the magical land of "Snakes" and "Ladders" commonly used by fraud pr
 #### SessionID: 61626
 # Columnstore killed the OLAP-Star?
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
+Event Date: 09-09-2017 - Session time: 15:00:00 - Track: BI
 ## Speaker: Niko Neugebauer
 ## Title: Columnstore killed the OLAP-Star?
 ## Abstract:
@@ -358,7 +358,7 @@ Find out about advantages and disadvantages of the different solutions in regard
 #### SessionID: 62503
 # SQL Server on Linux
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DBA 
+Event Date: 09-09-2017 - Session time: 15:00:00 - Track: DBA 
 ## Speaker: Frank Geisler
 ## Title: SQL Server on Linux
 ## Abstract:
@@ -367,7 +367,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: DBA
 #### SessionID: 64872
 # Multi-tenant database architectures – from small scale to hyper-scale
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
+Event Date: 09-09-2017 - Session time: 15:00:00 - Track: Cloud
 ## Speaker: Kennie Pontoppidan
 ## Title: Multi-tenant database architectures – from small scale to hyper-scale
 ## Abstract:
@@ -376,7 +376,7 @@ Event Date: 09-09-2017 - Session time: 16:10:00 - Track: Cloud
 #### SessionID: 67659
 # DevOps for BI Workshop Part II
 #### [Back to calendar](#nr-632)
-Event Date: 09-09-2017 - Session time: 16:10:00 - Track: BI
+Event Date: 09-09-2017 - Session time: 15:00:00 - Track: BI
 ## Speaker: Jens Vestergaard
 ## Title: DevOps for BI Workshop Part II
 ## Abstract:

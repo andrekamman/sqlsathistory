@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 74027
 # SPECIAL KEYNOTE: The DBA is DEAD!   Long live the NEW DBA !
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Professional Development
+Event Date: 26-04-2018 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Lior King
 ## Title: SPECIAL KEYNOTE: The DBA is DEAD!   Long live the NEW DBA !
 ## Abstract:
@@ -49,7 +49,7 @@ We will talk about the new industry trends that are changing the DBA's role, abo
 #### SessionID: 72128
 # PowerBI  Sql Server 2017 Tabular Architecture. Living On the Edge.
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 26-04-2018 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ronen Chenn
 ## Title: PowerBI  Sql Server 2017 Tabular Architecture. Living On the Edge.
 ## Abstract:
@@ -61,7 +61,7 @@ Development LifeCycle Best Practice and +++
 #### SessionID: 72286
 # Practical data science and Performance patterns for a DBA with SQL Server 2017
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-04-2018 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Itshak David
 ## Title: Practical data science and Performance patterns for a DBA with SQL Server 2017
 ## Abstract:
@@ -75,7 +75,7 @@ This Minimum theory maximum practical examples session!
 #### SessionID: 72581
 # Speak your hands – using body language for effective presentations
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Professional Development
+Event Date: 26-04-2018 - Session time: 10:15:00 - Track: Professional Development
 ## Speaker: Alexander Arvidsson
 ## Title: Speak your hands – using body language for effective presentations
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Professional Developmen
 #### SessionID: 74510
 # Azure and SQL Server: Getting the best out of the cloud
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Cloud Application Development  Deployment
+Event Date: 26-04-2018 - Session time: 10:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Murilo Miranda
 ## Title: Azure and SQL Server: Getting the best out of the cloud
 ## Abstract:
@@ -103,7 +103,7 @@ with your SQL Server infrastructure.
 #### SessionID: 77511
 # The Future of the DBA Panel with Lior King  Asaf Aviv
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Other
+Event Date: 26-04-2018 - Session time: 10:15:00 - Track: Other
 ## Speaker: Matan Yungman
 ## Title: The Future of the DBA Panel with Lior King  Asaf Aviv
 ## Abstract:
@@ -113,7 +113,7 @@ Lior King is going to present the keynote in SQL Saturday Israel 2018, and the t
 #### SessionID: 72770
 # The fact that I am an old Database Server does not mean I have no memory problems
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-04-2018 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dubi Lebel
 ## Title: The fact that I am an old Database Server does not mean I have no memory problems
 ## Abstract:
@@ -133,7 +133,7 @@ What can I do with Out Of Memory error?
 #### SessionID: 72077
 # Top 10 FREE performance troubleshooting tools for SQL Server
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-04-2018 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michelle Gutzait
 ## Title: Top 10 FREE performance troubleshooting tools for SQL Server
 ## Abstract:
@@ -143,7 +143,7 @@ Many DBAs and IT professionals are not aware of the greatness and strength of so
 #### SessionID: 72088
 # Sql Server and Big Data : the Hybrid approach
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Analytics and Visualization
+Event Date: 26-04-2018 - Session time: 11:30:00 - Track: Analytics and Visualization
 ## Speaker: Yuval Klein
 ## Title: Sql Server and Big Data : the Hybrid approach
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Analytics and Visualiza
 #### SessionID: 77506
 # Database Continuous Integration Panel with Amir Fourey  Hila Bar
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Other
+Event Date: 26-04-2018 - Session time: 11:30:00 - Track: Other
 ## Speaker: Matan Yungman
 ## Title: Database Continuous Integration Panel with Amir Fourey  Hila Bar
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Other
 #### SessionID: 77921
 # Monitor your SQL Servers from anywhere
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-04-2018 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ray Maor
 ## Title: Monitor your SQL Servers from anywhere
 ## Abstract:
@@ -170,7 +170,7 @@ Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Enterprise Database Adm
 #### SessionID: 80485
 # Radically Boosting SQL Queries with GPU Acceleration
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Advanced Analysis Techniques
+Event Date: 26-04-2018 - Session time: 11:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: David Leichner
 ## Title: Radically Boosting SQL Queries with GPU Acceleration
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Advanced Analysis Techn
 #### SessionID: 77399
 # Always Encrypted
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Application  Database Development
+Event Date: 26-04-2018 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Elad Luvka
 ## Title: Always Encrypted
 ## Abstract:
@@ -193,7 +193,7 @@ Also, there will be a demonstrating of how to implement  Always Encrypted with S
 #### SessionID: 77412
 # Machine Learning Services on SQL Server 2017
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Analytics and Visualization
+Event Date: 26-04-2018 - Session time: 12:45:00 - Track: Analytics and Visualization
 ## Speaker: Liran Eisenberg
 ## Title: Machine Learning Services on SQL Server 2017
 ## Abstract:
@@ -202,7 +202,7 @@ Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Analytics and Visualiza
 #### SessionID: 80264
 # The freedom to choose. Selecting the correct SQL Server flavor for you
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Application  Database Development
+Event Date: 26-04-2018 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Anat Dror
 ## Title: The freedom to choose. Selecting the correct SQL Server flavor for you
 ## Abstract:
@@ -212,7 +212,7 @@ Nowadays, while virtualized or not is almost always answered “virtualized”, 
 #### SessionID: 72102
 # What is the SQL Datawarehouse?
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 26-04-2018 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vitor Fava
 ## Title: What is the SQL Datawarehouse?
 ## Abstract:
@@ -228,7 +228,7 @@ In this session we will discuss about this awesome feature from Microsoft Azure 
 #### SessionID: 73787
 # SQL Server on Linux? Yes, Linux!
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-04-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohamed Mawla
 ## Title: SQL Server on Linux? Yes, Linux!
 ## Abstract:
@@ -239,7 +239,7 @@ The session will explore the essential skills needed to manage SQL server on Lin
 #### SessionID: 75748
 # Database Modeling In Practice
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Application  Database Development
+Event Date: 26-04-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Andrey Zavadskiy
 ## Title: Database Modeling In Practice
 ## Abstract:
@@ -250,7 +250,7 @@ This session would give you some thoughts and ideas about what to consider when 
 #### SessionID: 77191
 # Adaptive query processing
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Application  Database Development
+Event Date: 26-04-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Adi Cohn
 ## Title: Adaptive query processing
 ## Abstract:
@@ -259,7 +259,7 @@ Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Application  Database D
 #### SessionID: 77508
 # Big Data in SQL Server Panel with Ronen Chenn  Elad Shwarchberg
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Other
+Event Date: 26-04-2018 - Session time: 14:15:00 - Track: Other
 ## Speaker: Matan Yungman
 ## Title: Big Data in SQL Server Panel with Ronen Chenn  Elad Shwarchberg
 ## Abstract:
@@ -269,7 +269,7 @@ On the other hand, SQL Server offers a lot of features and capabilities to handl
 #### SessionID: 74023
 # The extraordinary effect of Python support in SQL Server
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Application  Database Development
+Event Date: 26-04-2018 - Session time: 15:25:00 - Track: Application  Database Development
 ## Speaker: Maria Zakourdaev
 ## Title: The extraordinary effect of Python support in SQL Server
 ## Abstract:
@@ -286,7 +286,7 @@ This session will answer questions like:
 #### SessionID: 75766
 # Azure Elastic Databases  Azure Elastic Jobs
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Cloud Application Development  Deployment
+Event Date: 26-04-2018 - Session time: 15:25:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ronen Ariely
 ## Title: Azure Elastic Databases  Azure Elastic Jobs
 ## Abstract:
@@ -298,7 +298,7 @@ Join the meeting and learn how to improve performance and reduce the cost of you
 #### SessionID: 77202
 # The true limitations of AI’s current technology
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 26-04-2018 - Session time: 15:25:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Noam Brezis
 ## Title: The true limitations of AI’s current technology
 ## Abstract:
@@ -307,7 +307,7 @@ Event Date: 26-04-2018 - Session time: 16:35:00 - Track: BI Platform Architectur
 #### SessionID: 77265
 # Azure SQL Managed Instance - Paas or IaaS?
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Cloud Application Development  Deployment
+Event Date: 26-04-2018 - Session time: 15:25:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Assaf Fraenkel
 ## Title: Azure SQL Managed Instance - Paas or IaaS?
 ## Abstract:
@@ -317,7 +317,7 @@ Come and learn why this new Instance can help you in migrating your workload to 
 #### SessionID: 77510
 # SQL Server in the Cloud Panel with Itai Binyamin  Pini Krisher
 #### [Back to calendar](#nr-738)
-Event Date: 26-04-2018 - Session time: 16:35:00 - Track: Other
+Event Date: 26-04-2018 - Session time: 15:25:00 - Track: Other
 ## Speaker: Matan Yungman
 ## Title: SQL Server in the Cloud Panel with Itai Binyamin  Pini Krisher
 ## Abstract:

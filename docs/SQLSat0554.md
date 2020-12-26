@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 49728
 # An introduction to Data Mining  with SQL Server 2016
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: BI Information Delivery
+Event Date: 03-09-2016 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: An introduction to Data Mining  with SQL Server 2016
 ## Abstract:
@@ -53,7 +53,7 @@ In this hands on BEGINNERS presentation we shall be looking at Microsoft SQL Ser
 #### SessionID: 49743
 # Using the SQL 2016 Query Store to optimise Performance and Scalability
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Other
+Event Date: 03-09-2016 - Session time: 09:00:00 - Track: Other
 ## Speaker: Peter Willmot
 ## Title: Using the SQL 2016 Query Store to optimise Performance and Scalability
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Other
 #### SessionID: 52586
 # Why you should be BI curious
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: BI Information Delivery
+Event Date: 03-09-2016 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: James McGillivray
 ## Title: Why you should be BI curious
 ## Abstract:
@@ -78,7 +78,7 @@ Note: This session comes packaged with a series of double entendres and other in
 #### SessionID: 53210
 # Introduction to Database Design
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 03-09-2016 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Sean Cremer
 ## Title: Introduction to Database Design
 ## Abstract:
@@ -89,7 +89,7 @@ This session will go through the fundamentals of database design.  Topics such a
 #### SessionID: 53361
 # Your code is not just...your code
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 03-09-2016 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Gordon Beeming
 ## Title: Your code is not just...your code
 ## Abstract:
@@ -100,7 +100,7 @@ We'll take a look at how SQL code traditionally (or at least most commonly) gets
 #### SessionID: 53638
 # From Me BI to We BI, take your BI solution beyond the clouds
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: BI Information Delivery
+Event Date: 03-09-2016 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Michael Raam
 ## Title: From Me BI to We BI, take your BI solution beyond the clouds
 ## Abstract:
@@ -119,7 +119,7 @@ Pyramid Analytics revolutionary platform provides a single platform that deliver
 #### SessionID: 53935
 # How to become the most sought after SQL Server professionals in J
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 03-09-2016 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Vanessa Raath
 ## Title: How to become the most sought after SQL Server professionals in J
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 49750
 # The magic that is Stretchdb
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-09-2016 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jody Roberts
 ## Title: The magic that is Stretchdb
 ## Abstract:
@@ -137,7 +137,7 @@ Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 49772
 # So, when you say database what do you mean?
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 03-09-2016 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Clinton van Blommestein
 ## Title: So, when you say database what do you mean?
 ## Abstract:
@@ -152,7 +152,7 @@ This session will cover some of the more popular types of data stores that are a
 #### SessionID: 49953
 # Daily problems with indexing and its - possible - solution
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 03-09-2016 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Uwe Ricken
 ## Title: Daily problems with indexing and its - possible - solution
 ## Abstract:
@@ -167,7 +167,7 @@ Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 50266
 # The language informally known as M
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: BI Information Delivery
+Event Date: 03-09-2016 - Session time: 10:15:00 - Track: BI Information Delivery
 ## Speaker: Matt Horn
 ## Title: The language informally known as M
 ## Abstract:
@@ -180,7 +180,7 @@ In this session I will introduce you to the basics of the M language and demonst
 #### SessionID: 53831
 # Welcome to the core soldier
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-09-2016 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anthony Fourie
 ## Title: Welcome to the core soldier
 ## Abstract:
@@ -190,7 +190,7 @@ We take a look at configuring and deploying an AlwaysOn availability group acros
 #### SessionID: 53948
 # Becoming a successful SQL Developer
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 03-09-2016 - Session time: 10:15:00 - Track: Professional Development
 ## Speaker: Gail Shaw
 ## Title: Becoming a successful SQL Developer
 ## Abstract:
@@ -202,7 +202,7 @@ This will be followed by a 20 min QA session where you will be able to ask the p
 #### SessionID: 49764
 # I'm a DBA. Now what?
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 03-09-2016 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Fabiano Amorim
 ## Title: I'm a DBA. Now what?
 ## Abstract:
@@ -211,7 +211,7 @@ Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 53227
 # What!!! a new AdventureWorks? Welcome to WorldWideImporters
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Information Delivery
+Event Date: 03-09-2016 - Session time: 11:30:00 - Track: Information Delivery
 ## Speaker: Jean-Pierre Voogt
 ## Title: What!!! a new AdventureWorks? Welcome to WorldWideImporters
 ## Abstract:
@@ -220,7 +220,7 @@ Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Information Delivery
 #### SessionID: 53949
 # Becoming a successful Business Intelligence developer
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 03-09-2016 - Session time: 11:30:00 - Track: Professional Development
 ## Speaker: Steve Simon
 ## Title: Becoming a successful Business Intelligence developer
 ## Abstract:
@@ -232,7 +232,7 @@ The final 20 minutes will be a QA session for you to ask the Panel any career re
 #### SessionID: 50657
 # Hitchhikers Guide to Table Partitioning
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-09-2016 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean Pearce
 ## Title: Hitchhikers Guide to Table Partitioning
 ## Abstract:
@@ -241,7 +241,7 @@ Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 53156
 # Tabular End to End
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-09-2016 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kirsten Burnett
 ## Title: Tabular End to End
 ## Abstract:
@@ -250,7 +250,7 @@ Event Date: 03-09-2016 - Session time: 14:45:00 - Track: BI Platform Architectur
 #### SessionID: 53178
 # You hit F5 and now what?
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Information Delivery
+Event Date: 03-09-2016 - Session time: 13:30:00 - Track: Information Delivery
 ## Speaker: Jacques Mostert
 ## Title: You hit F5 and now what?
 ## Abstract:
@@ -263,7 +263,7 @@ Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Information Delivery
 #### SessionID: 53947
 # Becoming a successful Database Administrator (DBA)
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 03-09-2016 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Jody Roberts
 ## Title: Becoming a successful Database Administrator (DBA)
 ## Abstract:
@@ -275,7 +275,7 @@ This will be followed by a 20 minute QA session where you will be given the oppo
 #### SessionID: 54076
 # Advanced Analytics with SQL Server R Services using R Tools for V
 #### [Back to calendar](#nr-554)
-Event Date: 03-09-2016 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
+Event Date: 03-09-2016 - Session time: 13:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Luis de Sousa
 ## Title: Advanced Analytics with SQL Server R Services using R Tools for V
 ## Abstract:

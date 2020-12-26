@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 57852
 # Novedades en SQL Server 2016 Integration Services
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: BI/BA
+Event Date: 13-05-2017 - Session time: 09:00:00 - Track: BI/BA
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Novedades en SQL Server 2016 Integration Services
 ## Abstract:
@@ -40,7 +40,7 @@ Event Date: 13-05-2017 - Session time: 16:30:00 - Track: BI/BA
 #### SessionID: 59378
 # SQL Server R Services en SQL 2016
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: BI/BA
+Event Date: 13-05-2017 - Session time: 09:00:00 - Track: BI/BA
 ## Speaker: Eduardo Castro
 ## Title: SQL Server R Services en SQL 2016
 ## Abstract:
@@ -49,7 +49,7 @@ Event Date: 13-05-2017 - Session time: 16:30:00 - Track: BI/BA
 #### SessionID: 63490
 # SCOM  OMS Monitoreo de nuestras Bases de Datos de punta a punta
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: DBA
+Event Date: 13-05-2017 - Session time: 09:00:00 - Track: DBA
 ## Speaker: John Barreto
 ## Title: SCOM  OMS Monitoreo de nuestras Bases de Datos de punta a punta
 ## Abstract:
@@ -58,7 +58,7 @@ Event Date: 13-05-2017 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 63672
 # Azure DocumentDB y Blob Storage, Anatomia de un desarrollo web
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: Developer
+Event Date: 13-05-2017 - Session time: 09:00:00 - Track: Developer
 ## Speaker: Miguel Quintero
 ## Title: Azure DocumentDB y Blob Storage, Anatomia de un desarrollo web
 ## Abstract:
@@ -69,7 +69,7 @@ Lo anterior permitirá ampliar nuestra visión acerca de la integración de los 
 #### SessionID: 57459
 # Monitoreo y diagnostico de bases de datos SQL Server
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: DBA
+Event Date: 13-05-2017 - Session time: 10:30:00 - Track: DBA
 ## Speaker: German Ordonez
 ## Title: Monitoreo y diagnostico de bases de datos SQL Server
 ## Abstract:
@@ -78,7 +78,7 @@ Event Date: 13-05-2017 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 57642
 # Diseñando mi datawarehouse "Disaster recovery ready"
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: BI/BA
+Event Date: 13-05-2017 - Session time: 10:30:00 - Track: BI/BA
 ## Speaker: Kenneth Urena
 ## Title: Diseñando mi datawarehouse "Disaster recovery ready"
 ## Abstract:
@@ -87,7 +87,7 @@ Event Date: 13-05-2017 - Session time: 16:30:00 - Track: BI/BA
 #### SessionID: 62780
 # UFC #1433 tablas In-Memory 2014 vrs 2016
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: DBA
+Event Date: 13-05-2017 - Session time: 10:30:00 - Track: DBA
 ## Speaker: Alejandro Cordero
 ## Title: UFC #1433 tablas In-Memory 2014 vrs 2016
 ## Abstract:
@@ -96,7 +96,7 @@ Event Date: 13-05-2017 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 64109
 # Business Continuity  - DRaaS
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: Cloud
+Event Date: 13-05-2017 - Session time: 10:30:00 - Track: Cloud
 ## Speaker: Dave Rendon
 ## Title: Business Continuity  - DRaaS
 ## Abstract:
@@ -107,7 +107,7 @@ KEMP’s LoadMaster provide some of these capabilities thanks to its built-in lo
 #### SessionID: 57641
 # SQL Server 2016 - Mejorando el desempeño de consultas de análisis sobre sistemas de misión crítica
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: DBA
+Event Date: 13-05-2017 - Session time: 11:30:00 - Track: DBA
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2016 - Mejorando el desempeño de consultas de análisis sobre sistemas de misión crítica
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 13-05-2017 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 57839
 # Mas allá de los datos con SQL Server Reporting Services 2016
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: BI/BA
+Event Date: 13-05-2017 - Session time: 11:30:00 - Track: BI/BA
 ## Speaker: Jorge Michael Muchaypiña Gutierrez
 ## Title: Mas allá de los datos con SQL Server Reporting Services 2016
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 13-05-2017 - Session time: 16:30:00 - Track: BI/BA
 #### SessionID: 59379
 # Data Analytics con Apache Zeppelin y SQL Server
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: BI/BA
+Event Date: 13-05-2017 - Session time: 11:30:00 - Track: BI/BA
 ## Speaker: Eduardo Castro
 ## Title: Data Analytics con Apache Zeppelin y SQL Server
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 13-05-2017 - Session time: 16:30:00 - Track: BI/BA
 #### SessionID: 62528
 # Explorando los sabores de SQL Server Integration Services 2016
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: BI/BA
+Event Date: 13-05-2017 - Session time: 11:30:00 - Track: BI/BA
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Explorando los sabores de SQL Server Integration Services 2016
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 13-05-2017 - Session time: 16:30:00 - Track: BI/BA
 #### SessionID: 61416
 # 7 things you need to know about TempDB
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: DBA
+Event Date: 13-05-2017 - Session time: 14:00:00 - Track: DBA
 ## Speaker: Ignacio Salom Rangel
 ## Title: 7 things you need to know about TempDB
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 13-05-2017 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 61752
 # Visual Studio - Proyectos de Datos - hacer tu trabajo más fácil
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: Developer
+Event Date: 13-05-2017 - Session time: 14:00:00 - Track: Developer
 ## Speaker: Ernest Ostrander
 ## Title: Visual Studio - Proyectos de Datos - hacer tu trabajo más fácil
 ## Abstract:
@@ -168,7 +168,7 @@ Sin propaganda. Lo que no funciona bien también se describirá. Conozca sus lí
 #### SessionID: 62836
 # SQL Server on Linux
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: Enterprise
+Event Date: 13-05-2017 - Session time: 14:00:00 - Track: Enterprise
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: SQL Server on Linux
 ## Abstract:
@@ -177,7 +177,7 @@ Event Date: 13-05-2017 - Session time: 16:30:00 - Track: Enterprise
 #### SessionID: 64898
 # Prácticas de DevOps en SQL
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: Developer
+Event Date: 13-05-2017 - Session time: 14:00:00 - Track: Developer
 ## Speaker: Miguel Mendoza
 ## Title: Prácticas de DevOps en SQL
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 13-05-2017 - Session time: 16:30:00 - Track: Developer
 #### SessionID: 59718
 # Automatización de Procesos en SQLServer
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: DBA
+Event Date: 13-05-2017 - Session time: 15:00:00 - Track: DBA
 ## Speaker: Henry Troncoso Valencia
 ## Title: Automatización de Procesos en SQLServer
 ## Abstract:
@@ -197,7 +197,7 @@ Los Especialistas en TI estamos para innovar no para  un trabajo monótono y rep
 #### SessionID: 62530
 # Introducción a Azure Machine Learning
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: BI/BA
+Event Date: 13-05-2017 - Session time: 15:00:00 - Track: BI/BA
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Introducción a Azure Machine Learning
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 13-05-2017 - Session time: 16:30:00 - Track: BI/BA
 #### SessionID: 62773
 # Primeros pasos con SQL 2016 Query Store
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: DBA
+Event Date: 13-05-2017 - Session time: 15:00:00 - Track: DBA
 ## Speaker: Alejandro Cordero
 ## Title: Primeros pasos con SQL 2016 Query Store
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 13-05-2017 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 63762
 # Servicios de datos en Azure
 #### [Back to calendar](#nr-608)
-Event Date: 13-05-2017 - Session time: 16:30:00 - Track: Cloud
+Event Date: 13-05-2017 - Session time: 15:00:00 - Track: Cloud
 ## Speaker: Andrei Garzon
 ## Title: Servicios de datos en Azure
 ## Abstract:

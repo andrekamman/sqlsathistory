@@ -62,7 +62,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 72871
 # Mom Rules for Managing Enterprise Database Environments
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 14-04-2018 - Session time: 08:30:00 - Track: Database Administration
 ## Speaker: Marsha Pierce
 ## Title: Mom Rules for Managing Enterprise Database Environments
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 72953
 # The Mac DBA, using Docker and SQL Operations Studio
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Development
+Event Date: 14-04-2018 - Session time: 08:30:00 - Track: Database Development
 ## Speaker: Charles Embry Jr
 ## Title: The Mac DBA, using Docker and SQL Operations Studio
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Development
 #### SessionID: 73208
 # 3 Lessons Learned in Successful Consulting
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-04-2018 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: Mohammad Darab
 ## Title: 3 Lessons Learned in Successful Consulting
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 74134
 # Insights with massive data ingestion and Power BI
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
+Event Date: 14-04-2018 - Session time: 08:30:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Armando Lacerda
 ## Title: Insights with massive data ingestion and Power BI
 ## Abstract:
@@ -105,7 +105,7 @@ You will learn:
 #### SessionID: 77080
 # Power BI Adoption Framework
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Analytics, Visualization  Presentation
+Event Date: 14-04-2018 - Session time: 08:30:00 - Track: BI Analytics, Visualization  Presentation
 ## Speaker: Suresh Datla
 ## Title: Power BI Adoption Framework
 ## Abstract:
@@ -114,7 +114,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Analytics, Visualiza
 #### SessionID: 77092
 # Deep Dive in Azure Data Factory V2
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Azure  Cloud
+Event Date: 14-04-2018 - Session time: 08:30:00 - Track: Azure  Cloud
 ## Speaker: Eric Bragas
 ## Title: Deep Dive in Azure Data Factory V2
 ## Abstract:
@@ -123,7 +123,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Azure  Cloud
 #### SessionID: 78860
 # Azure Infrastructure
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Azure  Cloud
+Event Date: 14-04-2018 - Session time: 08:30:00 - Track: Azure  Cloud
 ## Speaker: Joseph D'Antoni
 ## Title: Azure Infrastructure
 ## Abstract:
@@ -136,7 +136,7 @@ As Azure scales around the world many more companies, no matter where they are l
 #### SessionID: 80491
 # But it worked great in Dev! Perfomance for Devs
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Development
+Event Date: 14-04-2018 - Session time: 08:30:00 - Track: Database Development
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev! Perfomance for Devs
 ## Abstract:
@@ -145,7 +145,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Development
 #### SessionID: 72481
 # Stop Wasting Valuable Time and Resources - Performance Tune Your Jobs
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Development
+Event Date: 14-04-2018 - Session time: 09:45:00 - Track: Database Development
 ## Speaker: Jeff Prom
 ## Title: Stop Wasting Valuable Time and Resources - Performance Tune Your Jobs
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Development
 #### SessionID: 73220
 # Confidence: The Fuel For Action
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-04-2018 - Session time: 09:45:00 - Track: Professional Development
 ## Speaker: Melody Zacharias
 ## Title: Confidence: The Fuel For Action
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 73293
 # Python in SQL Server 2017
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Analytics, Visualization  Presentation
+Event Date: 14-04-2018 - Session time: 09:45:00 - Track: BI Analytics, Visualization  Presentation
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
 ## Abstract:
@@ -174,7 +174,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #### SessionID: 73748
 # Azure Basics for the DBA
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Azure  Cloud
+Event Date: 14-04-2018 - Session time: 09:45:00 - Track: Azure  Cloud
 ## Speaker: John Morehouse
 ## Title: Azure Basics for the DBA
 ## Abstract:
@@ -183,7 +183,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Azure  Cloud
 #### SessionID: 74190
 # It's Time for a Change: Temporal Table Support in SQL Server 2016/17
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 14-04-2018 - Session time: 09:45:00 - Track: Database Administration
 ## Speaker: Vern Rabe
 ## Title: It's Time for a Change: Temporal Table Support in SQL Server 2016/17
 ## Abstract:
@@ -194,7 +194,7 @@ In this session we’ll discuss how you can benefit from temporal support in you
 #### SessionID: 74368
 # Why Should I Care About ... Partitioned Views?
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 14-04-2018 - Session time: 09:45:00 - Track: Database Administration
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
 ## Abstract:
@@ -203,7 +203,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 75832
 # SSIS Project Deployment: The T-SQL Way
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
+Event Date: 14-04-2018 - Session time: 09:45:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Peter Kral
 ## Title: SSIS Project Deployment: The T-SQL Way
 ## Abstract:
@@ -216,7 +216,7 @@ You should have previous experience with SQL Server Integration Services (SSIS) 
 #### SessionID: 78984
 # Reporting Services 2016: New Features  Smart Migration Strategy
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
+Event Date: 14-04-2018 - Session time: 09:45:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services 2016: New Features  Smart Migration Strategy
 ## Abstract:
@@ -227,7 +227,7 @@ The session will then dive into how to use the data in the ReportServer database
 #### SessionID: 73134
 # Power BI: What you need to know
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Analytics, Visualization  Presentation
+Event Date: 14-04-2018 - Session time: 11:00:00 - Track: BI Analytics, Visualization  Presentation
 ## Speaker: Martin Schoombee
 ## Title: Power BI: What you need to know
 ## Abstract:
@@ -236,7 +236,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Analytics, Visualiza
 #### SessionID: 73544
 # Let Her Finish: Supporting Women's Voices in Technology
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-04-2018 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Let Her Finish: Supporting Women's Voices in Technology
 ## Abstract:
@@ -246,7 +246,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 74135
 # Microsoft Azure for SQL Server Professionals - Get your head in the cloud
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Azure  Cloud
+Event Date: 14-04-2018 - Session time: 11:00:00 - Track: Azure  Cloud
 ## Speaker: Armando Lacerda
 ## Title: Microsoft Azure for SQL Server Professionals - Get your head in the cloud
 ## Abstract:
@@ -261,7 +261,7 @@ You will learn:
 #### SessionID: 74322
 # Transforming Your Brain with SQL 2017 with Linux
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 14-04-2018 - Session time: 11:00:00 - Track: Database Administration
 ## Speaker: Andrew Nakamura
 ## Title: Transforming Your Brain with SQL 2017 with Linux
 ## Abstract:
@@ -270,7 +270,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 74423
 # An introduction to the magical world of BIML!
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
+Event Date: 14-04-2018 - Session time: 11:00:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
 ## Abstract:
@@ -279,7 +279,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Develo
 #### SessionID: 75822
 # The Magic of SSISDB
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Development
+Event Date: 14-04-2018 - Session time: 11:00:00 - Track: Database Development
 ## Speaker: Elaena Bakman
 ## Title: The Magic of SSISDB
 ## Abstract:
@@ -289,7 +289,7 @@ This presentation will demonstrate how to use SSISDB to script out deployments o
 #### SessionID: 77039
 # SQL Server plays a pivot role in data sciences and business intelligence
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
+Event Date: 14-04-2018 - Session time: 11:00:00 - Track: BI Architecture, Development  Administration
 ## Speaker: PEIXIN WANG
 ## Title: SQL Server plays a pivot role in data sciences and business intelligence
 ## Abstract:
@@ -298,7 +298,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Develo
 #### SessionID: 77996
 # Introduction to powershell for the SQL Server DBA
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 14-04-2018 - Session time: 11:00:00 - Track: Database Administration
 ## Speaker: Brandon Leach
 ## Title: Introduction to powershell for the SQL Server DBA
 ## Abstract:
@@ -317,7 +317,7 @@ Finally we will tie all this together with real world examples.
 #### SessionID: 78573
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
+Event Date: 14-04-2018 - Session time: 12:30:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
 ## Abstract:
@@ -326,7 +326,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Develo
 #### SessionID: 78790
 # Ledgent : Resume Best Practices
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-04-2018 - Session time: 12:30:00 - Track: Professional Development
 ## Speaker: SQLSaturday Orange County
 ## Title: Ledgent : Resume Best Practices
 ## Abstract:
@@ -335,7 +335,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 78791
 # RedGate: Extending DevOps to SQL Server
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 14-04-2018 - Session time: 12:30:00 - Track: Database Administration
 ## Speaker: SQLSaturday Orange County
 ## Title: RedGate: Extending DevOps to SQL Server
 ## Abstract:
@@ -344,7 +344,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 78792
 # Dell: #GetModern with Dell EMC
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 14-04-2018 - Session time: 12:30:00 - Track: Database Administration
 ## Speaker: SQLSaturday Orange County
 ## Title: Dell: #GetModern with Dell EMC
 ## Abstract:
@@ -353,7 +353,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 78793
 # DesignMind: Sponsor Showcase Session
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Analytics, Visualization  Presentation
+Event Date: 14-04-2018 - Session time: 12:30:00 - Track: BI Analytics, Visualization  Presentation
 ## Speaker: SQLSaturday Orange County
 ## Title: DesignMind: Sponsor Showcase Session
 ## Abstract:
@@ -362,7 +362,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Analytics, Visualiza
 #### SessionID: 78794
 # Quest: Realtime Monitoring  Workload Analysis with Spotlight on SQL Server
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 14-04-2018 - Session time: 12:30:00 - Track: Database Administration
 ## Speaker: SQLSaturday Orange County
 ## Title: Quest: Realtime Monitoring  Workload Analysis with Spotlight on SQL Server
 ## Abstract:
@@ -371,7 +371,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 80492
 # SQL Solutions Group: The DBA Is Dead.  Long Live the Remote DBA.
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 14-04-2018 - Session time: 12:30:00 - Track: Database Administration
 ## Speaker: SQLSaturday Orange County
 ## Title: SQL Solutions Group: The DBA Is Dead.  Long Live the Remote DBA.
 ## Abstract:
@@ -380,7 +380,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 72354
 # Well, actually...  How to not be THAT guy in IT
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-04-2018 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Well, actually...  How to not be THAT guy in IT
 ## Abstract:
@@ -391,7 +391,7 @@ It doesn't have to be that way.  Most of the guys we work with are stand-up, res
 #### SessionID: 72814
 # Successfully Virtualizing SQL Server on vSphere - Straight from the Source
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 14-04-2018 - Session time: 13:30:00 - Track: Database Administration
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
 ## Abstract:
@@ -400,7 +400,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 73004
 # Introduction to Big Data
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
+Event Date: 14-04-2018 - Session time: 13:30:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Warren Sifre
 ## Title: Introduction to Big Data
 ## Abstract:
@@ -409,7 +409,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Develo
 #### SessionID: 73157
 # Azure Automation: Your SQL Agent in the Cloud
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Azure  Cloud
+Event Date: 14-04-2018 - Session time: 13:30:00 - Track: Azure  Cloud
 ## Speaker: Taiob Ali
 ## Title: Azure Automation: Your SQL Agent in the Cloud
 ## Abstract:
@@ -419,7 +419,7 @@ In this demo intensive session I will show you how to setup Azure Automation, wa
 #### SessionID: 74008
 # Introduction to SQL Server Integration Services, what's new in SSIS 2016, and a test-drive
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
+Event Date: 14-04-2018 - Session time: 13:30:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Steve Rezhener
 ## Title: Introduction to SQL Server Integration Services, what's new in SSIS 2016, and a test-drive
 ## Abstract:
@@ -428,7 +428,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Develo
 #### SessionID: 74126
 # 60 Reporting Tips in 60 Minutes
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Analytics, Visualization  Presentation
+Event Date: 14-04-2018 - Session time: 13:30:00 - Track: BI Analytics, Visualization  Presentation
 ## Speaker: Ike Ellis
 ## Title: 60 Reporting Tips in 60 Minutes
 ## Abstract:
@@ -437,7 +437,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Analytics, Visualiza
 #### SessionID: 77995
 # Data Pages, Allocation Units, IAM chains... Best Practice Edition
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 14-04-2018 - Session time: 13:30:00 - Track: Database Administration
 ## Speaker: Brandon Leach
 ## Title: Data Pages, Allocation Units, IAM chains... Best Practice Edition
 ## Abstract:
@@ -446,7 +446,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 78009
 # Foundations of a Data Driven Organization
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
+Event Date: 14-04-2018 - Session time: 13:30:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Andrew Karcher
 ## Title: Foundations of a Data Driven Organization
 ## Abstract:
@@ -457,7 +457,7 @@ As you might imagine it is a little bit more complicated that just saying the wo
 #### SessionID: 72426
 # Data Wrangling for Reporting  Analytics using Power BI
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
+Event Date: 14-04-2018 - Session time: 14:45:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Phil Robinson
 ## Title: Data Wrangling for Reporting  Analytics using Power BI
 ## Abstract:
@@ -470,7 +470,7 @@ In this presentation we will review tools to examine/repair schema issues and ex
 #### SessionID: 72758
 # [StepbyStep] SQL server Index operation for beginner to expert.
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Development
+Event Date: 14-04-2018 - Session time: 14:45:00 - Track: Database Development
 ## Speaker: Simon Cho
 ## Title: [StepbyStep] SQL server Index operation for beginner to expert.
 ## Abstract:
@@ -487,7 +487,7 @@ This presentation would very help not only who does not know index but also, who
 #### SessionID: 73003
 # Introduction to BI Architecture
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Development  Administration
+Event Date: 14-04-2018 - Session time: 14:45:00 - Track: BI Architecture, Development  Administration
 ## Speaker: Warren Sifre
 ## Title: Introduction to BI Architecture
 ## Abstract:
@@ -496,7 +496,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Architecture, Develo
 #### SessionID: 73299
 # Making the Leap from Developer to DBA
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 14-04-2018 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
 ## Abstract:
@@ -505,7 +505,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 74141
 # The Query Store and Query Tuning in SQL Server
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Development
+Event Date: 14-04-2018 - Session time: 14:45:00 - Track: Database Development
 ## Speaker: Grant Fritchey
 ## Title: The Query Store and Query Tuning in SQL Server
 ## Abstract:
@@ -516,7 +516,7 @@ This session will explore how the Query Store works and how it’s going to chan
 #### SessionID: 74425
 # From problem to Power BI:  A journey in data visualization
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Analytics, Visualization  Presentation
+Event Date: 14-04-2018 - Session time: 14:45:00 - Track: BI Analytics, Visualization  Presentation
 ## Speaker: Jonathan Stewart
 ## Title: From problem to Power BI:  A journey in data visualization
 ## Abstract:
@@ -525,7 +525,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: BI Analytics, Visualiza
 #### SessionID: 77093
 # Modern ETL with Azure Data Factory, Data Lake, and SQL Database
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Azure  Cloud
+Event Date: 14-04-2018 - Session time: 14:45:00 - Track: Azure  Cloud
 ## Speaker: Eric Bragas
 ## Title: Modern ETL with Azure Data Factory, Data Lake, and SQL Database
 ## Abstract:
@@ -534,7 +534,7 @@ Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Azure  Cloud
 #### SessionID: 78165
 # Concurrency in SQL Server - Managing More Than 1 User
 #### [Back to calendar](#nr-740)
-Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 14-04-2018 - Session time: 14:45:00 - Track: Database Administration
 ## Speaker: Thomas Hull
 ## Title: Concurrency in SQL Server - Managing More Than 1 User
 ## Abstract:

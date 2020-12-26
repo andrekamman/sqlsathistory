@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 71765
 # Data Cleansing With SQL And R
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 02-06-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Data Cleansing With SQL And R
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 74507
 # SQL Server on Linux
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 02-06-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: SQL Server on Linux
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 80188
 # Data Governance and Self-Service BI
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 02-06-2018 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Yanitza Campos
 ## Title: Data Governance and Self-Service BI
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 #### SessionID: 80884
 # Cosas que tienes que hacer antes de llamar a Microsoft Support
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 02-06-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Adrian Miranda
 ## Title: Cosas que tienes que hacer antes de llamar a Microsoft Support
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 82303
 # Azure SQL Datawarehouse: Mis primeros pasos
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 02-06-2018 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: Azure SQL Datawarehouse: Mis primeros pasos
 ## Abstract:
@@ -83,7 +83,7 @@ En esta sesión se abordarán los puntos importantes para la creación de un Dat
 #### SessionID: 80571
 # Modelando de datos Autoservicio con Power BI
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 02-06-2018 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: Modelando de datos Autoservicio con Power BI
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 81986
 # Performance Tuning for the BI Professional
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-06-2018 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: Performance Tuning for the BI Professional
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 82327
 # Big Data en la Nube - Ecosistema Hadoop con HDInsight
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-06-2018 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joseph Arriola
 ## Title: Big Data en la Nube - Ecosistema Hadoop con HDInsight
 ## Abstract:
@@ -111,7 +111,7 @@ Una forma de implementar de forma rápida un proyecto de Big Data es a través d
 #### SessionID: 82348
 # Data modeling with PowerPivot for PowerBI
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 02-06-2018 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Samantha Villarreal Torres
 ## Title: Data modeling with PowerPivot for PowerBI
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 82429
 # SQL on Linux Best Practices and Hands On
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 02-06-2018 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Edgar Tellez Gonzalez
 ## Title: SQL on Linux Best Practices and Hands On
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 71920
 # Alta disponibilidad para SQL Server en Linux
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-06-2018 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Daniel Valero
 ## Title: Alta disponibilidad para SQL Server en Linux
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 71929
 # Yo quería ser Data Scientist... pero me lastimé la rodilla. Ciencia de datos para mi empresa.
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 02-06-2018 - Session time: 11:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ismael Medina Muñoz
 ## Title: Yo quería ser Data Scientist... pero me lastimé la rodilla. Ciencia de datos para mi empresa.
 ## Abstract:
@@ -148,7 +148,7 @@ Si, habrá matemáticas... habrá caras de confusión... habrá memes... habrá 
 #### SessionID: 82182
 # Como Implementar Power BI desde 0 en tu empresa.
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 02-06-2018 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Yanitza Campos
 ## Title: Como Implementar Power BI desde 0 en tu empresa.
 ## Abstract:
@@ -157,7 +157,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 82300
 # Introducción a Azure Data Factory
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-06-2018 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Introducción a Azure Data Factory
 ## Abstract:
@@ -166,7 +166,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 82430
 # New Visualization Techniques
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 02-06-2018 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Edgar Tellez Gonzalez
 ## Title: New Visualization Techniques
 ## Abstract:
@@ -175,7 +175,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 73840
 # SQL Server 2017 Automatic Tuning
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-06-2018 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alejandro Cordero
 ## Title: SQL Server 2017 Automatic Tuning
 ## Abstract:
@@ -184,7 +184,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 74506
 # SQL Server 2017 SSIS Scale Out
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-06-2018 - Session time: 12:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: SQL Server 2017 SSIS Scale Out
 ## Abstract:
@@ -193,7 +193,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 76930
 # Configuring AlwaysON availability groups with Readable Secundaries
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-06-2018 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Urena
 ## Title: Configuring AlwaysON availability groups with Readable Secundaries
 ## Abstract:
@@ -202,7 +202,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 77220
 # Necesitamos BI, ¡utilicemos la nube! (Azure SQL Database - Azure Analysis Services - Power BI)
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 02-06-2018 - Session time: 12:00:00 - Track: BI Information Delivery
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: Necesitamos BI, ¡utilicemos la nube! (Azure SQL Database - Azure Analysis Services - Power BI)
 ## Abstract:
@@ -212,7 +212,7 @@ En este espacio aprovecharemos las bondades de una solución 100% nube, creando 
 #### SessionID: 82096
 # Administrando múltiples instancias de SQL Server
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-06-2018 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Enrique Argüelles
 ## Title: Administrando múltiples instancias de SQL Server
 ## Abstract:
@@ -224,7 +224,7 @@ Para la administración de cientos de instancias de SQL Server
 #### SessionID: 71922
 # El estimador de cardinalidad, nuestro amigo incomprendido
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 02-06-2018 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Daniel Valero
 ## Title: El estimador de cardinalidad, nuestro amigo incomprendido
 ## Abstract:
@@ -235,7 +235,7 @@ La respuesta a estas y otras interrogantes en esta sesión completamente basada 
 #### SessionID: 73969
 # Datos con mucha chispa
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 02-06-2018 - Session time: 14:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Miguel Angel Granados
 ## Title: Datos con mucha chispa
 ## Abstract:
@@ -244,7 +244,7 @@ Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 80189
 # Introducción a Reporting Services 2017
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 02-06-2018 - Session time: 14:00:00 - Track: Analytics and Visualization
 ## Speaker: Yanitza Campos
 ## Title: Introducción a Reporting Services 2017
 ## Abstract:
@@ -254,7 +254,7 @@ En esta sesión exploraremos sus nuevas características; así como sus ventajas
 #### SessionID: 81987
 # Relationship Goals:  The SQL Server Graph Database
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 02-06-2018 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Jonathan Stewart
 ## Title: Relationship Goals:  The SQL Server Graph Database
 ## Abstract:
@@ -265,7 +265,7 @@ One of the best new features of SQL Server 2017 is the Graph Database!  It bring
 #### SessionID: 82324
 # Big Data en la Nube - ¿Cómo procesar información en tiempo real a través de Spark con HDInsight?
 #### [Back to calendar](#nr-727)
-Event Date: 02-06-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-06-2018 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joseph Arriola
 ## Title: Big Data en la Nube - ¿Cómo procesar información en tiempo real a través de Spark con HDInsight?
 ## Abstract:

@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 102659
 # Azure DevOps and the SSIS Development Lifecycle
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Cloud Application Development  Deployment
+Event Date: 25-04-2020 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Andy Leonard
 ## Title: Azure DevOps and the SSIS Development Lifecycle
 ## Abstract:
@@ -42,7 +42,7 @@ The primary goal of this session is an explanation - via demonstration - of the 
 #### SessionID: 104286
 # Intelligent Query Processing in SQL Server 2019
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Internals  Performance
+Event Date: 25-04-2020 - Session time: 09:00:00 - Track: Internals  Performance
 ## Speaker: Wayne Sheffield
 ## Title: Intelligent Query Processing in SQL Server 2019
 ## Abstract:
@@ -51,7 +51,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Internals  Performance
 #### SessionID: 104534
 # Intro to Azure Data Catalog
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database Development
+Event Date: 25-04-2020 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Angela Henry
 ## Title: Intro to Azure Data Catalog
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database D
 #### SessionID: 104556
 # Encrypting Data within SQL Server
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database Development
+Event Date: 25-04-2020 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within SQL Server
 ## Abstract:
@@ -73,7 +73,7 @@ You will leave this session with a deeper understanding about SQL Server encrypt
 #### SessionID: 101139
 # Big Data Clusters for the Absolute Beginner
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-04-2020 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohammad Darab
 ## Title: Big Data Clusters for the Absolute Beginner
 ## Abstract:
@@ -89,7 +89,7 @@ Topics include:
 #### SessionID: 103805
 # Installing SQL Server on a Raspberry Pi
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-04-2020 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stephen Leonard
 ## Title: Installing SQL Server on a Raspberry Pi
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Adm
 #### SessionID: 104539
 # Think like the Cardinality Estimator
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-04-2020 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taiob Ali
 ## Title: Think like the Cardinality Estimator
 ## Abstract:
@@ -109,7 +109,7 @@ In this session, I will show you how CE estimates in all of these scenarios, and
 #### SessionID: 104540
 # Azure SQL Database: High Availability and Disaster Recovery Options
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: High Availability
+Event Date: 25-04-2020 - Session time: 10:15:00 - Track: High Availability
 ## Speaker: Timothy McAliley
 ## Title: Azure SQL Database: High Availability and Disaster Recovery Options
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: High Availability
 #### SessionID: 102454
 # Azure SQL DB Managed Instance: Today
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-04-2020 - Session time: 11:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Heiges
 ## Title: Azure SQL DB Managed Instance: Today
 ## Abstract:
@@ -127,7 +127,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Adm
 #### SessionID: 103681
 # Relational Design Critique
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Database Design  Architecture
+Event Date: 25-04-2020 - Session time: 11:25:00 - Track: Database Design  Architecture
 ## Speaker: Louis Davidson
 ## Title: Relational Design Critique
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Database Design  Archit
 #### SessionID: 103729
 # Building Your First SQL Server Container Lab in Docker
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-04-2020 - Session time: 11:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: Building Your First SQL Server Container Lab in Docker
 ## Abstract:
@@ -147,7 +147,7 @@ In this session, we will go over the concepts of containers, their general capab
 #### SessionID: 104467
 # Becoming Ever More Intimate with your Indexes
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Master Level
+Event Date: 25-04-2020 - Session time: 11:25:00 - Track: Master Level
 ## Speaker: Jason Brimhall
 ## Title: Becoming Ever More Intimate with your Indexes
 ## Abstract:
@@ -158,7 +158,7 @@ Do you know how useful your indexes are? Do you know if your indexes might be a 
 #### SessionID: 101119
 # Microsoft and Big Data - An Overview of the Power Tools and more!
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 25-04-2020 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Patrick
 ## Title: Microsoft and Big Data - An Overview of the Power Tools and more!
 ## Abstract:
@@ -167,7 +167,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: BI Platform Architectur
 #### SessionID: 103519
 # Adopting a Compliant Database DevOps Process
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database Development
+Event Date: 25-04-2020 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Steve Jones
 ## Title: Adopting a Compliant Database DevOps Process
 ## Abstract:
@@ -176,7 +176,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database D
 #### SessionID: 103679
 # Characteristics of a Great Relational Database
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database Development
+Event Date: 25-04-2020 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Characteristics of a Great Relational Database
 ## Abstract:
@@ -185,7 +185,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database D
 #### SessionID: 104521
 # Data Virtualization with PolyBase
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database Development
+Event Date: 25-04-2020 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Data Virtualization with PolyBase
 ## Abstract:
@@ -194,7 +194,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database D
 #### SessionID: 102282
 # Case Study: How I used SharePoint, Flow, PowerApps, and Forms to build a Speaker Database
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database Development
+Event Date: 25-04-2020 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Sarah Patrick
 ## Title: Case Study: How I used SharePoint, Flow, PowerApps, and Forms to build a Speaker Database
 ## Abstract:
@@ -203,7 +203,7 @@ Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database D
 #### SessionID: 103787
 # Uncommon Techniques Every SQL Programmer Should Know
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Application  Database Development
+Event Date: 25-04-2020 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Kline
 ## Title: Uncommon Techniques Every SQL Programmer Should Know
 ## Abstract:
@@ -214,7 +214,7 @@ You'll learn things like a T-SQL code test harness, the value of clone databases
 #### SessionID: 103790
 # Git Ready to Reduce Errors and Deploy Faster with Azure DevOps and tSQL-t Unit Tests
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Cloud Application Development  Deployment
+Event Date: 25-04-2020 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Travis Lawrence
 ## Title: Git Ready to Reduce Errors and Deploy Faster with Azure DevOps and tSQL-t Unit Tests
 ## Abstract:
@@ -233,7 +233,7 @@ Join this session and reduce your stress the next time you deploy your DB. After
 #### SessionID: 104522
 # Optimizing Backup Performance Using Data Science Techniques
 #### [Back to calendar](#nr-962)
-Event Date: 25-04-2020 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-04-2020 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Feasel
 ## Title: Optimizing Backup Performance Using Data Science Techniques
 ## Abstract:

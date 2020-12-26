@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 66418
 # Quer ser um excelente DBA? Pergunte-me como.
 #### [Back to calendar](#nr-677)
-Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 3
+Event Date: 18-11-2017 - Session time: 09:45:00 - Track: Track 3
 ## Speaker: Vitor Fava
 ## Title: Quer ser um excelente DBA? Pergunte-me como.
 ## Abstract:
@@ -35,7 +35,7 @@ Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 3
 #### SessionID: 70200
 # SQL Server no Linux! Como é possível?
 #### [Back to calendar](#nr-677)
-Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 1
+Event Date: 18-11-2017 - Session time: 09:45:00 - Track: Track 1
 ## Speaker: Tiago Crespi
 ## Title: SQL Server no Linux! Como é possível?
 ## Abstract:
@@ -45,7 +45,7 @@ Então você não pode perder esta palestra que irá apresentar como o SQL Serve
 #### SessionID: 67562
 # Análise de dados com Linguagem R + Visual Studio 2017 + Power BI
 #### [Back to calendar](#nr-677)
-Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 3
+Event Date: 18-11-2017 - Session time: 10:45:00 - Track: Track 3
 ## Speaker: Rodrigo Dornel
 ## Title: Análise de dados com Linguagem R + Visual Studio 2017 + Power BI
 ## Abstract:
@@ -54,7 +54,7 @@ Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 3
 #### SessionID: 68665
 # Linux Administration for SQL SERVER DBAs
 #### [Back to calendar](#nr-677)
-Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 1
+Event Date: 18-11-2017 - Session time: 10:45:00 - Track: Track 1
 ## Speaker: Marcelo Adade
 ## Title: Linux Administration for SQL SERVER DBAs
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 1
 #### SessionID: 68943
 # Dados, Cloud e Inovação
 #### [Back to calendar](#nr-677)
-Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 2
+Event Date: 18-11-2017 - Session time: 10:45:00 - Track: Track 2
 ## Speaker: Fernando Andreazi
 ## Title: Dados, Cloud e Inovação
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 2
 #### SessionID: 69282
 # Azure CosmosDB: O serviço de banco de dados globalmente distribuído e multimodelo da Microsoft
 #### [Back to calendar](#nr-677)
-Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 3
+Event Date: 18-11-2017 - Session time: 11:45:00 - Track: Track 3
 ## Speaker: Igor Santos de Paula
 ## Title: Azure CosmosDB: O serviço de banco de dados globalmente distribuído e multimodelo da Microsoft
 ## Abstract:
@@ -81,7 +81,7 @@ Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 3
 #### SessionID: 69968
 # Coletando e Analizando Dados de Performance do SQL Server com PSSDiag e SQLNexus
 #### [Back to calendar](#nr-677)
-Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 1
+Event Date: 18-11-2017 - Session time: 11:45:00 - Track: Track 1
 ## Speaker: Nilton Pinheiro
 ## Title: Coletando e Analizando Dados de Performance do SQL Server com PSSDiag e SQLNexus
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 1
 #### SessionID: 70028
 # Aprendendo R
 #### [Back to calendar](#nr-677)
-Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 2
+Event Date: 18-11-2017 - Session time: 11:45:00 - Track: Track 2
 ## Speaker: Mauricio Purificação
 ## Title: Aprendendo R
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 2
 #### SessionID: 67850
 # NoSQL, mas o que é isso? Já posso usar?
 #### [Back to calendar](#nr-677)
-Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 2
+Event Date: 18-11-2017 - Session time: 13:30:00 - Track: Track 2
 ## Speaker: Antonio Lazaro Carvalho Borges
 ## Title: NoSQL, mas o que é isso? Já posso usar?
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 2
 #### SessionID: 69900
 # Análise de Performance Usando o Sistema Operacional
 #### [Back to calendar](#nr-677)
-Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 1
+Event Date: 18-11-2017 - Session time: 13:30:00 - Track: Track 1
 ## Speaker: Raul Oliveira
 ## Title: Análise de Performance Usando o Sistema Operacional
 ## Abstract:
@@ -117,7 +117,7 @@ Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 1
 #### SessionID: 69778
 # Blockchain como Serviço no Azure
 #### [Back to calendar](#nr-677)
-Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 1
+Event Date: 18-11-2017 - Session time: 14:30:00 - Track: Track 1
 ## Speaker: Anderson Vasconcelos
 ## Title: Blockchain como Serviço no Azure
 ## Abstract:
@@ -126,7 +126,7 @@ Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 1
 #### SessionID: 69863
 # Indices para Iniciantes - Clustered, Nonclustered,  Scan, Seek, Lookup e Muito Mais
 #### [Back to calendar](#nr-677)
-Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 2
+Event Date: 18-11-2017 - Session time: 14:30:00 - Track: Track 2
 ## Speaker: Fabrício Lima
 ## Title: Indices para Iniciantes - Clustered, Nonclustered,  Scan, Seek, Lookup e Muito Mais
 ## Abstract:
@@ -137,7 +137,7 @@ Veja isso e muito mais nessa palestra.
 #### SessionID: 70124
 # Conhecendo o Azure SQL Data Warehouse
 #### [Back to calendar](#nr-677)
-Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 3
+Event Date: 18-11-2017 - Session time: 14:30:00 - Track: Track 3
 ## Speaker: Bruno Feldman
 ## Title: Conhecendo o Azure SQL Data Warehouse
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 3
 #### SessionID: 69071
 # Azure SQL Database - Troubleshooting Performance  e Otimização!
 #### [Back to calendar](#nr-677)
-Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 1
+Event Date: 18-11-2017 - Session time: 16:00:00 - Track: Track 1
 ## Speaker: Thiago Carlos de Alencar
 ## Title: Azure SQL Database - Troubleshooting Performance  e Otimização!
 ## Abstract:
@@ -155,7 +155,7 @@ Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 1
 #### SessionID: 70009
 # Big Data com Ecossistema Hadoop
 #### [Back to calendar](#nr-677)
-Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 2
+Event Date: 18-11-2017 - Session time: 16:00:00 - Track: Track 2
 ## Speaker: Diogenes Santos
 ## Title: Big Data com Ecossistema Hadoop
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 2
 #### SessionID: 70160
 # ENTREGANDO INFORMAÇÕES GERENCIAIS AO SEU NEGÓCIO COM SQL SERVER E
 #### [Back to calendar](#nr-677)
-Event Date: 18-11-2017 - Session time: 17:00:00 - Track: Track 3
+Event Date: 18-11-2017 - Session time: 16:00:00 - Track: Track 3
 ## Speaker: Maycon Alves
 ## Title: ENTREGANDO INFORMAÇÕES GERENCIAIS AO SEU NEGÓCIO COM SQL SERVER E
 ## Abstract:

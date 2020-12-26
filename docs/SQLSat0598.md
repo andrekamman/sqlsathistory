@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 57092
 # FULL DEMO - Primeros Pasos con Power BI Desktop
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 29-04-2017 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Alejandro Cordero
 ## Title: FULL DEMO - Primeros Pasos con Power BI Desktop
 ## Abstract:
@@ -40,7 +40,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 58144
 # Las controversias alrededor de las mejores practicas - "Best Practices" - de SQL Server en Windows
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-04-2017 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michelle Gutzait
 ## Title: Las controversias alrededor de las mejores practicas - "Best Practices" - de SQL Server en Windows
 ## Abstract:
@@ -55,7 +55,7 @@ Tambien hablaremos de como elejir la mejor configuracion para tu Windows y SQL S
 #### SessionID: 62547
 # Comparando algunas herramientas ETLs
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-04-2017 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julián Castiblanco
 ## Title: Comparando algunas herramientas ETLs
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 62779
 # De Linux a tu BI - No Slides Full Demos
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-04-2017 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jesus Gil
 ## Title: De Linux a tu BI - No Slides Full Demos
 ## Abstract:
@@ -75,7 +75,7 @@ Sin slides, solo demos, demos y más demos...
 #### SessionID: 57022
 # Como ser victima de un cyberataque y poder contar la historia
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 29-04-2017 - Session time: 10:15:00 - Track: Strategy and Architecture
 ## Speaker: Stephan Torres
 ## Title: Como ser victima de un cyberataque y poder contar la historia
 ## Abstract:
@@ -86,7 +86,7 @@ Además, hablaremos un poco de estructuras de datos inmutables o persistentes, e
 #### SessionID: 61165
 # Let’s Get Meta: an Overview of ETL Frameworks using Biml
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-04-2017 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kate Grass
 ## Title: Let’s Get Meta: an Overview of ETL Frameworks using Biml
 ## Abstract:
@@ -99,7 +99,7 @@ To start you off on your framework building journey, we’ll introduce Biml and 
 #### SessionID: 61517
 # Creación de un Modelo Predictivo de Healthcare en Azure Machine Learning
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
+Event Date: 29-04-2017 - Session time: 10:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Patricio Cofre
 ## Title: Creación de un Modelo Predictivo de Healthcare en Azure Machine Learning
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 62629
 # Cubos tabulares en SSAS 2016
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-04-2017 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Víctor Zúñiga
 ## Title: Cubos tabulares en SSAS 2016
 ## Abstract:
@@ -124,7 +124,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 56789
 # Always Encrypted y Row Level Security en SQL-Server 2016
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-04-2017 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carlos Rojas Vargas
 ## Title: Always Encrypted y Row Level Security en SQL-Server 2016
 ## Abstract:
@@ -135,7 +135,7 @@ Row-Level Security permite controlar el acceso a los registros en una tabla en b
 #### SessionID: 57144
 # Lo nuevo de power BI !!
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 29-04-2017 - Session time: 11:30:00 - Track: Analytics and Visualization
 ## Speaker: Juan Alvarado
 ## Title: Lo nuevo de power BI !!
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 62519
 # Trucos de T-SQL que deberias estar usando en tu Datawarehouse
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-04-2017 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: Trucos de T-SQL que deberias estar usando en tu Datawarehouse
 ## Abstract:
@@ -154,7 +154,7 @@ Más específicamente cubriremos temas variados que incluyen desde configuració
 #### SessionID: 62521
 # MSSQL 2016 con Docker para agilizar el desarrollo de software
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-04-2017 - Session time: 11:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christian Melendez
 ## Title: MSSQL 2016 con Docker para agilizar el desarrollo de software
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 57586
 # Introducción a Mobile Reports
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 29-04-2017 - Session time: 13:30:00 - Track: BI Information Delivery
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Introducción a Mobile Reports
 ## Abstract:
@@ -172,7 +172,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 62566
 # Business Intelligence 100% Cloud
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-04-2017 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: César Oviedo
 ## Title: Business Intelligence 100% Cloud
 ## Abstract:
@@ -183,7 +183,7 @@ En esta sessión discutiremos desafios, adelantos y pendientes de lo que implica
 #### SessionID: 62584
 # SQL Server 2016 SSIS Catalog
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-04-2017 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eduardo Castro
 ## Title: SQL Server 2016 SSIS Catalog
 ## Abstract:
@@ -194,7 +194,7 @@ En esta presentación demo-pesada, nos sumergiremos en los detalles del catálog
 #### SessionID: 62585
 # Mejoras en desempeño de SQL Server con SQL Sentinel
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-04-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Urena
 ## Title: Mejoras en desempeño de SQL Server con SQL Sentinel
 ## Abstract:
@@ -203,7 +203,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 57188
 # Disaster Recovery Solution utlizando Microsoft Azure
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 29-04-2017 - Session time: 14:45:00 - Track: Strategy and Architecture
 ## Speaker: Adrian Miranda
 ## Title: Disaster Recovery Solution utlizando Microsoft Azure
 ## Abstract:
@@ -212,7 +212,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 57849
 # Novedades en SQL Server 2016 Integration Services
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-04-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Novedades en SQL Server 2016 Integration Services
 ## Abstract:
@@ -221,7 +221,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 62583
 # Transformando datos con R y dplyr
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-04-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose L. Rivera
 ## Title: Transformando datos con R y dplyr
 ## Abstract:
@@ -230,7 +230,7 @@ Event Date: 29-04-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 63362
 # Introduccion a SQL Power Shell
 #### [Back to calendar](#nr-598)
-Event Date: 29-04-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-04-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Yanitza Campos
 ## Title: Introduccion a SQL Power Shell
 ## Abstract:

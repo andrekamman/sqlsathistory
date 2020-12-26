@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 70013
 # What can you do with SQL Server on Linux?
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Database Administration
+Event Date: 17-02-2018 - Session time: 09:30:00 - Track: Database Administration
 ## Speaker: Rudi Bruchez
 ## Title: What can you do with SQL Server on Linux?
 ## Abstract:
@@ -39,7 +39,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Database Administration
 #### SessionID: 70265
 # SQL Server 2017 Graph Database
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Development
+Event Date: 17-02-2018 - Session time: 09:30:00 - Track: Development
 ## Speaker: Sergio Govoni
 ## Title: SQL Server 2017 Graph Database
 ## Abstract:
@@ -48,7 +48,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Development
 #### SessionID: 71307
 # Decision Trees: the Machine Learning "Magic" Unveiled
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Advanced Analysis Techniques
+Event Date: 17-02-2018 - Session time: 09:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Luca Zavarella
 ## Title: Decision Trees: the Machine Learning "Magic" Unveiled
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Advanced Analysis Techn
 #### SessionID: 74309
 # Responding to Extended Events in near real-time
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Advanced Analysis Techniques
+Event Date: 17-02-2018 - Session time: 09:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Gianluca Sartori
 ## Title: Responding to Extended Events in near real-time
 ## Abstract:
@@ -70,7 +70,7 @@ In this session we will see how the Extended Events streaming API can be used to
 #### SessionID: 70047
 # Parameter Sniffing on SQL Server
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Database Administration
+Event Date: 17-02-2018 - Session time: 11:00:00 - Track: Database Administration
 ## Speaker: Dean Savović
 ## Title: Parameter Sniffing on SQL Server
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Database Administration
 #### SessionID: 70052
 # Azure Data Lake Analytics
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Analytics and Visualization
+Event Date: 17-02-2018 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Tomaž Kaštrun
 ## Title: Azure Data Lake Analytics
 ## Abstract:
@@ -92,7 +92,7 @@ For the demo, we will look at the image recognition and emotion detection.
 #### SessionID: 71931
 # Azure Functions e Logic Apps: i tuoi coltellini svizzeri per gestire i tuoi dati in un SQL Database
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Cloud
+Event Date: 17-02-2018 - Session time: 11:00:00 - Track: Cloud
 ## Speaker: Marco Parenzan
 ## Title: Azure Functions e Logic Apps: i tuoi coltellini svizzeri per gestire i tuoi dati in un SQL Database
 ## Abstract:
@@ -103,7 +103,7 @@ Quindi introduceremo le minime conoscenze .NET necessarie, come scrivere una Fun
 #### SessionID: 73016
 # SQL Server Database Engine 2017 Enhancements
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Development
+Event Date: 17-02-2018 - Session time: 11:00:00 - Track: Development
 ## Speaker: Gianluca Hotz
 ## Title: SQL Server Database Engine 2017 Enhancements
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Development
 #### SessionID: 70017
 # An introduction to the magical world of BIML!
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Data Science
+Event Date: 17-02-2018 - Session time: 12:10:00 - Track: Data Science
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Data Science
 #### SessionID: 70154
 # SQL Server performance tuning on Azure IaaS
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Cloud
+Event Date: 17-02-2018 - Session time: 12:10:00 - Track: Cloud
 ## Speaker: Marco Obinu
 ## Title: SQL Server performance tuning on Azure IaaS
 ## Abstract:
@@ -131,7 +131,7 @@ Let's see together how to maximize performance (and minimize costs) of our SQL V
 #### SessionID: 71032
 # Gestire SSRS con Powershell
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Data Science
+Event Date: 17-02-2018 - Session time: 12:10:00 - Track: Data Science
 ## Speaker: Danilo Dominici
 ## Title: Gestire SSRS con Powershell
 ## Abstract:
@@ -140,7 +140,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Data Science
 #### SessionID: 72377
 # Power BI:  Dal dato grezzo al modello di analisi con M e DAX
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Analytics and Visualization
+Event Date: 17-02-2018 - Session time: 12:10:00 - Track: Analytics and Visualization
 ## Speaker: Marco Pozzan
 ## Title: Power BI:  Dal dato grezzo al modello di analisi con M e DAX
 ## Abstract:
@@ -149,7 +149,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Analytics and Visualiza
 #### SessionID: 70458
 # Lavorare con database SQL Server con .NET Standard 2.0
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Development
+Event Date: 17-02-2018 - Session time: 14:30:00 - Track: Development
 ## Speaker: Marco Minerva
 ## Title: Lavorare con database SQL Server con .NET Standard 2.0
 ## Abstract:
@@ -158,7 +158,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Development
 #### SessionID: 71403
 # Integrazione tra PowerBI e Reporting Services: il perché ed il come
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Analytics and Visualization
+Event Date: 17-02-2018 - Session time: 14:30:00 - Track: Analytics and Visualization
 ## Speaker: Gilberto Zampatti
 ## Title: Integrazione tra PowerBI e Reporting Services: il perché ed il come
 ## Abstract:
@@ -167,7 +167,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Analytics and Visualiza
 #### SessionID: 72420
 # Introducing SQL Operations Studio
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Professional Development
+Event Date: 17-02-2018 - Session time: 14:30:00 - Track: Professional Development
 ## Speaker: Luca Bruni
 ## Title: Introducing SQL Operations Studio
 ## Abstract:
@@ -177,7 +177,7 @@ Anche gli strumenti di lavoro stanno adenguandosi a tale cambiamento ed hanno in
 #### SessionID: 70262
 # SQL Server 2017: Data Science with Python or R?
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Advanced Analysis Techniques
+Event Date: 17-02-2018 - Session time: 15:40:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dejan Sarka
 ## Title: SQL Server 2017: Data Science with Python or R?
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Advanced Analysis Techn
 #### SessionID: 70564
 # High availability for SQL Server using Azure as DR site
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Cloud
+Event Date: 17-02-2018 - Session time: 15:40:00 - Track: Cloud
 ## Speaker: Marcelo Fernandes
 ## Title: High availability for SQL Server using Azure as DR site
 ## Abstract:
@@ -195,7 +195,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Cloud
 #### SessionID: 71894
 # MDX is still alive! Are you ready for MDX Troubleshooting 2.0 ?
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Data Science
+Event Date: 17-02-2018 - Session time: 15:40:00 - Track: Data Science
 ## Speaker: Francesco De Chirico
 ## Title: MDX is still alive! Are you ready for MDX Troubleshooting 2.0 ?
 ## Abstract:
@@ -204,7 +204,7 @@ Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Data Science
 #### SessionID: 72299
 # Columnstore Indexes: what they are, and how to use them
 #### [Back to calendar](#nr-707)
-Event Date: 17-02-2018 - Session time: 16:50:00 - Track: Development
+Event Date: 17-02-2018 - Session time: 15:40:00 - Track: Development
 ## Speaker: Francesco Milano
 ## Title: Columnstore Indexes: what they are, and how to use them
 ## Abstract:

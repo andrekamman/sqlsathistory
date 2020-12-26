@@ -21,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 94425
 # Potencializando SQL con herramientas de ciencia de los Datos(R)
 #### [Back to calendar](#nr-876)
-Event Date: 25-05-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 25-05-2019 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Bismark Montero
 ## Title: Potencializando SQL con herramientas de ciencia de los Datos(R)
 ## Abstract:
@@ -30,7 +30,7 @@ Event Date: 25-05-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 94430
 # Building a Modern Datawarehouse
 #### [Back to calendar](#nr-876)
-Event Date: 25-05-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 25-05-2019 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stanley Lara
 ## Title: Building a Modern Datawarehouse
 ## Abstract:
@@ -39,7 +39,7 @@ Event Date: 25-05-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 92618
 # Integración de Datos con Azure Data Factory
 #### [Back to calendar](#nr-876)
-Event Date: 25-05-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 25-05-2019 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose L. Rivera
 ## Title: Integración de Datos con Azure Data Factory
 ## Abstract:
@@ -48,7 +48,7 @@ Event Date: 25-05-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 93609
 # SQL Server Automatic Tuning
 #### [Back to calendar](#nr-876)
-Event Date: 25-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-05-2019 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alejandro Cordero
 ## Title: SQL Server Automatic Tuning
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 25-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 92903
 # Introducción a SSIS
 #### [Back to calendar](#nr-876)
-Event Date: 25-05-2019 - Session time: 16:00:00 - Track: Other
+Event Date: 25-05-2019 - Session time: 11:00:00 - Track: Other
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Introducción a SSIS
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 25-05-2019 - Session time: 16:00:00 - Track: Other
 #### SessionID: 93526
 # Todo lo que necesitas saber si quieres usar CosmosDB
 #### [Back to calendar](#nr-876)
-Event Date: 25-05-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 25-05-2019 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Mabel Geronimo
 ## Title: Todo lo que necesitas saber si quieres usar CosmosDB
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 25-05-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 92621
 # Power BI Composite Models and Dataflows
 #### [Back to calendar](#nr-876)
-Event Date: 25-05-2019 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 25-05-2019 - Session time: 12:00:00 - Track: BI Information Delivery
 ## Speaker: Jose L. Rivera
 ## Title: Power BI Composite Models and Dataflows
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 25-05-2019 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 94428
 # Run SQL Server container images with Docker
 #### [Back to calendar](#nr-876)
-Event Date: 25-05-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 25-05-2019 - Session time: 12:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Stanley Lara
 ## Title: Run SQL Server container images with Docker
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 25-05-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 90982
 # SQL Server 2019 new features!
 #### [Back to calendar](#nr-876)
-Event Date: 25-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-05-2019 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alejandro Cordero
 ## Title: SQL Server 2019 new features!
 ## Abstract:
@@ -104,7 +104,7 @@ Una sesión apta para DBAs, desarrolladores y estudiantes de TI.
 #### SessionID: 94329
 # Data Visualization Tips for Power BI
 #### [Back to calendar](#nr-876)
-Event Date: 25-05-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 25-05-2019 - Session time: 14:00:00 - Track: Analytics and Visualization
 ## Speaker: Orlando Mezquita
 ## Title: Data Visualization Tips for Power BI
 ## Abstract:
@@ -113,7 +113,7 @@ Event Date: 25-05-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 92620
 # Real-Time Dashboards with Power BI
 #### [Back to calendar](#nr-876)
-Event Date: 25-05-2019 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 25-05-2019 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Jose L. Rivera
 ## Title: Real-Time Dashboards with Power BI
 ## Abstract:
@@ -122,7 +122,7 @@ Event Date: 25-05-2019 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 94450
 # Code First vs Database First
 #### [Back to calendar](#nr-876)
-Event Date: 25-05-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 25-05-2019 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Leslie Ramirez Gordian
 ## Title: Code First vs Database First
 ## Abstract:

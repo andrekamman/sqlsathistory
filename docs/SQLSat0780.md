@@ -22,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 80817
 # Database corruption
 #### [Back to calendar](#nr-780)
-Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-09-2018 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: Database corruption
 ## Abstract:
@@ -31,7 +31,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 84832
 # Back to the future - Migrating our SQL Server OnPremise Database to Azure
 #### [Back to calendar](#nr-780)
-Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 22-09-2018 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Back to the future - Migrating our SQL Server OnPremise Database to Azure
 ## Abstract:
@@ -47,7 +47,7 @@ This session consists of:
 #### SessionID: 84860
 # Azure IoT Solution Architecture Best Practices
 #### [Back to calendar](#nr-780)
-Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 22-09-2018 - Session time: 10:00:00 - Track: Strategy and Architecture
 ## Speaker: Mihail Mateev
 ## Title: Azure IoT Solution Architecture Best Practices
 ## Abstract:
@@ -58,7 +58,7 @@ This presentation provides a deeper architecture implementation overview of the 
 #### SessionID: 85230
 # The Road to The Autonomous Databases
 #### [Back to calendar](#nr-780)
-Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 22-09-2018 - Session time: 11:10:00 - Track: Strategy and Architecture
 ## Speaker: Janusz Rokicki
 ## Title: The Road to The Autonomous Databases
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 85351
 # ДБА поневоле – что делать? (ru)
 #### [Back to calendar](#nr-780)
-Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-09-2018 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Yevhen Nedashkivskyi
 ## Title: ДБА поневоле – что делать? (ru)
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 85430
 # SQL Server Transaction Log: internals
 #### [Back to calendar](#nr-780)
-Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-09-2018 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andriy Pogorelov
 ## Title: SQL Server Transaction Log: internals
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 82276
 # MS SQL 2016/2017 – New in query processing
 #### [Back to calendar](#nr-780)
-Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 22-09-2018 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Andrii Zrobok
 ## Title: MS SQL 2016/2017 – New in query processing
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 82329
 # Azure Data Catalog: Your enterprise information repository
 #### [Back to calendar](#nr-780)
-Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 22-09-2018 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Eugene Polonichko
 ## Title: Azure Data Catalog: Your enterprise information repository
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 85353
 # Сбой? Не страшен! (ru)
 #### [Back to calendar](#nr-780)
-Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-09-2018 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Yevhen Nedashkivskyi
 ## Title: Сбой? Не страшен! (ru)
 ## Abstract:
@@ -142,7 +142,7 @@ Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 83149
 # Analyzing 100 billion rows in 30 seconds with Google BigQuery
 #### [Back to calendar](#nr-780)
-Event Date: 22-09-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-09-2018 - Session time: 14:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Taras Kloba
 ## Title: Analyzing 100 billion rows in 30 seconds with Google BigQuery
 ## Abstract:
@@ -154,7 +154,7 @@ Google BigQuery is a very unique analytics data warehousing service. BigQuery is
 #### SessionID: 84862
 # Dealing with CosmosDB
 #### [Back to calendar](#nr-780)
-Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 22-09-2018 - Session time: 14:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Dealing with CosmosDB
 ## Abstract:
@@ -169,7 +169,7 @@ In this presentation, you will learn:
 #### SessionID: 85742
 # MS SQL Server: XML, XQuery and Performance Issues
 #### [Back to calendar](#nr-780)
-Event Date: 22-09-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 22-09-2018 - Session time: 14:40:00 - Track: Application  Database Development
 ## Speaker: Sergey Syrovatchenko
 ## Title: MS SQL Server: XML, XQuery and Performance Issues
 ## Abstract:

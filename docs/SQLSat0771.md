@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 78493
 # Test Driven Development in SQL Server – how to deploy code safer
 #### [Back to calendar](#nr-771)
-Event Date: 07-07-2018 - Session time: 14:50:00 - Track: Application  Database Development
+Event Date: 07-07-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Hamish Watson
 ## Title: Test Driven Development in SQL Server – how to deploy code safer
 ## Abstract:
@@ -43,7 +43,7 @@ A comprehensive DEMO will reveal how Test Driven Development can help you deploy
 #### SessionID: 78799
 # Business Intelligence Solutions in Azure
 #### [Back to calendar](#nr-771)
-Event Date: 07-07-2018 - Session time: 14:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-07-2018 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Alzamendi
 ## Title: Business Intelligence Solutions in Azure
 ## Abstract:
@@ -54,7 +54,7 @@ I will go over the characteristics of the main services that can be implemented 
 #### SessionID: 82529
 # Azure SQL Data Warehouse - Massive, Parallel, and in the Cloud
 #### [Back to calendar](#nr-771)
-Event Date: 07-07-2018 - Session time: 14:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-07-2018 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jim McLeod
 ## Title: Azure SQL Data Warehouse - Massive, Parallel, and in the Cloud
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 07-07-2018 - Session time: 14:50:00 - Track: BI Platform Architectur
 #### SessionID: 84133
 # Data modelling fundamentals for Power BI and SSAS Tabular
 #### [Back to calendar](#nr-771)
-Event Date: 07-07-2018 - Session time: 14:50:00 - Track: BI Information Delivery
+Event Date: 07-07-2018 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Grant Paisley
 ## Title: Data modelling fundamentals for Power BI and SSAS Tabular
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 07-07-2018 - Session time: 14:50:00 - Track: BI Information Delivery
 #### SessionID: 78184
 # SQLOpsStudio Vs SSMS - There can be only one
 #### [Back to calendar](#nr-771)
-Event Date: 07-07-2018 - Session time: 14:50:00 - Track: Application  Database Development
+Event Date: 07-07-2018 - Session time: 10:10:00 - Track: Application  Database Development
 ## Speaker: Warwick Rudd
 ## Title: SQLOpsStudio Vs SSMS - There can be only one
 ## Abstract:
@@ -82,7 +82,7 @@ In this session we will take you on a journey of comparing SSMS and SQLOpsStudio
 #### SessionID: 78542
 # M and Power Query Beyond Limits
 #### [Back to calendar](#nr-771)
-Event Date: 07-07-2018 - Session time: 14:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-07-2018 - Session time: 10:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: M and Power Query Beyond Limits
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 07-07-2018 - Session time: 14:50:00 - Track: BI Platform Architectur
 #### SessionID: 78744
 # Building Streaming Data Pipelines Using Azure Cloud Services
 #### [Back to calendar](#nr-771)
-Event Date: 07-07-2018 - Session time: 14:50:00 - Track: Analytics and Visualization
+Event Date: 07-07-2018 - Session time: 10:10:00 - Track: Analytics and Visualization
 ## Speaker: Rolf Tesmer
 ## Title: Building Streaming Data Pipelines Using Azure Cloud Services
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 07-07-2018 - Session time: 14:50:00 - Track: Analytics and Visualiza
 #### SessionID: 80775
 # DAX as a Query Language
 #### [Back to calendar](#nr-771)
-Event Date: 07-07-2018 - Session time: 14:50:00 - Track: BI Information Delivery
+Event Date: 07-07-2018 - Session time: 10:10:00 - Track: BI Information Delivery
 ## Speaker: Matt Allington
 ## Title: DAX as a Query Language
 ## Abstract:
@@ -111,7 +111,7 @@ In this session, Matt will introduce the topic and show how you can use DAX Stud
 #### SessionID: 78128
 # Power BI Writeback with Power Apps
 #### [Back to calendar](#nr-771)
-Event Date: 07-07-2018 - Session time: 14:50:00 - Track: BI Information Delivery
+Event Date: 07-07-2018 - Session time: 11:30:00 - Track: BI Information Delivery
 ## Speaker: Gilbert Quevauvilliers
 ## Title: Power BI Writeback with Power Apps
 ## Abstract:
@@ -124,7 +124,7 @@ The session will be almost entirely demo based, in which I will demonstrate how 
 #### SessionID: 78661
 # The Why and How of Partitioned Tables
 #### [Back to calendar](#nr-771)
-Event Date: 07-07-2018 - Session time: 14:50:00 - Track: Application  Database Development
+Event Date: 07-07-2018 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Martin Cairney
 ## Title: The Why and How of Partitioned Tables
 ## Abstract:
@@ -141,7 +141,7 @@ Finally, we will consider the additional options open to us with partitioned tab
 #### SessionID: 78722
 # End To End Data Science Solution: Azure ML Workbench
 #### [Back to calendar](#nr-771)
-Event Date: 07-07-2018 - Session time: 14:50:00 - Track: Advanced Analysis Techniques
+Event Date: 07-07-2018 - Session time: 11:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Leila Etaati
 ## Title: End To End Data Science Solution: Azure ML Workbench
 ## Abstract:
@@ -150,7 +150,7 @@ Event Date: 07-07-2018 - Session time: 14:50:00 - Track: Advanced Analysis Techn
 #### SessionID: 80903
 # What is DevOps? - and why should I care?
 #### [Back to calendar](#nr-771)
-Event Date: 07-07-2018 - Session time: 14:50:00 - Track: Strategy and Architecture
+Event Date: 07-07-2018 - Session time: 11:30:00 - Track: Strategy and Architecture
 ## Speaker: Martin Catherall
 ## Title: What is DevOps? - and why should I care?
 ## Abstract:
@@ -165,7 +165,7 @@ Regardless of if you’re never heard this term before or you have strong feelin
 #### SessionID: 80336
 # Troubleshooting Always On Availability Groups Performance
 #### [Back to calendar](#nr-771)
-Event Date: 07-07-2018 - Session time: 14:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 07-07-2018 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andreas Wolter
 ## Title: Troubleshooting Always On Availability Groups Performance
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 07-07-2018 - Session time: 14:50:00 - Track: Enterprise Database Adm
 #### SessionID: 82266
 # DBATools! The reason to finally start learning and using Powershell
 #### [Back to calendar](#nr-771)
-Event Date: 07-07-2018 - Session time: 14:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 07-07-2018 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: DBATools! The reason to finally start learning and using Powershell
 ## Abstract:
@@ -190,7 +190,7 @@ No prior experience with Powershell required!
 #### SessionID: 82312
 # Data Science for DBA - Get Started Now
 #### [Back to calendar](#nr-771)
-Event Date: 07-07-2018 - Session time: 14:50:00 - Track: Advanced Analysis Techniques
+Event Date: 07-07-2018 - Session time: 13:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Manohar Punna
 ## Title: Data Science for DBA - Get Started Now
 ## Abstract:
@@ -201,7 +201,7 @@ You will learn the basics of R programming language, Machine Learning, real-worl
 #### SessionID: 82314
 # DAX best practices
 #### [Back to calendar](#nr-771)
-Event Date: 07-07-2018 - Session time: 14:50:00 - Track: Analytics and Visualization
+Event Date: 07-07-2018 - Session time: 13:30:00 - Track: Analytics and Visualization
 ## Speaker: Daniil Maslyuk
 ## Title: DAX best practices
 ## Abstract:

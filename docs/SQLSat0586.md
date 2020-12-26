@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 57050
 # Integrando multiples fuentes de datos en Microsoft Azure
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 18-02-2017 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Adrian Miranda
 ## Title: Integrando multiples fuentes de datos en Microsoft Azure
 ## Abstract:
@@ -51,7 +51,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Cloud Application Devel
 #### SessionID: 57089
 # Primeros pasos con SQL 2016 Query Store
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alejandro Cordero
 ## Title: Primeros pasos con SQL 2016 Query Store
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 57583
 # Construyendo mi primer modelo Tabular con Analysis Services
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-02-2017 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Construyendo mi primer modelo Tabular con Analysis Services
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: BI Platform Architectur
 #### SessionID: 57786
 # La evolución del DBA like a Pokémon Go!!!
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: La evolución del DBA like a Pokémon Go!!!
 ## Abstract:
@@ -81,7 +81,7 @@ Pichu --> Pikachu --> Raichu??
 #### SessionID: 57840
 # SQL Server 2016 - Primeros pasos con PolyBase
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-02-2017 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jorge Michael Muchaypiña Gutierrez
 ## Title: SQL Server 2016 - Primeros pasos con PolyBase
 ## Abstract:
@@ -91,7 +91,7 @@ usando el lenguaje familiar de SQL.
 #### SessionID: 59917
 # Como aplicar Scrum a proyectos de BI
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-02-2017 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: Como aplicar Scrum a proyectos de BI
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: BI Platform Architectur
 #### SessionID: 56849
 # Introducción a SSIS, lo que necesitas saber para iniciar a trabajar con SSIS
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Information Delivery
+Event Date: 18-02-2017 - Session time: 10:00:00 - Track: Information Delivery
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Introducción a SSIS, lo que necesitas saber para iniciar a trabajar con SSIS
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Information Delivery
 #### SessionID: 57094
 # SQL Server 2016 R Services
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 18-02-2017 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: SQL Server 2016 R Services
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 57707
 # La realidad del Business Intelligence
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: BI Information Delivery
+Event Date: 18-02-2017 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: César Oviedo
 ## Title: La realidad del Business Intelligence
 ## Abstract:
@@ -127,7 +127,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: BI Information Delivery
 #### SessionID: 57742
 # Power BI, Algo mas Informacion
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 18-02-2017 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Yanitza Campos
 ## Title: Power BI, Algo mas Informacion
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 58247
 # Modern Architectures in Cloud
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 18-02-2017 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Keneth Murillo
 ## Title: Modern Architectures in Cloud
 ## Abstract:
@@ -145,7 +145,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Cloud Application Devel
 #### SessionID: 57166
 # SQL Server en Linux!! el nuevo de la cuadra o el viejo conocido por todos?
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Juan Alvarado
 ## Title: SQL Server en Linux!! el nuevo de la cuadra o el viejo conocido por todos?
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 57582
 # Introducción a Mobile Reports
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: BI Information Delivery
+Event Date: 18-02-2017 - Session time: 11:00:00 - Track: BI Information Delivery
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Introducción a Mobile Reports
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: BI Information Delivery
 #### SessionID: 57640
 # SQL Server 2016 - Mejorando el desempeño de consultas de análisis sobre sistemas de misión crítica
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Strategy and Architecture
+Event Date: 18-02-2017 - Session time: 11:00:00 - Track: Strategy and Architecture
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2016 - Mejorando el desempeño de consultas de análisis sobre sistemas de misión crítica
 ## Abstract:
@@ -172,7 +172,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Strategy and Architectu
 #### SessionID: 57997
 # ¡Machine learning para principiantes!
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 18-02-2017 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Ricardo Estrada
 ## Title: ¡Machine learning para principiantes!
 ## Abstract:
@@ -181,7 +181,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 59296
 # The SQL server behind Dynamics CRM online
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Strategy and Architecture
+Event Date: 18-02-2017 - Session time: 11:00:00 - Track: Strategy and Architecture
 ## Speaker: Mayra Badillo Villamizar
 ## Title: The SQL server behind Dynamics CRM online
 ## Abstract:
@@ -190,7 +190,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Strategy and Architectu
 #### SessionID: 61513
 # Tricks from the DBA Inbox: Real World Performance Tuning
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Horner
 ## Title: Tricks from the DBA Inbox: Real World Performance Tuning
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 62442
 # SQL Cross-platform/Portable con Docker
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 18-02-2017 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christian Melendez
 ## Title: SQL Cross-platform/Portable con Docker
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Cloud Application Devel
 #### SessionID: 54859
 # UFC #1433 tablas In-Memory 2014 vrs 2016
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Other
+Event Date: 18-02-2017 - Session time: 12:00:00 - Track: Other
 ## Speaker: Alejandro Cordero
 ## Title: UFC #1433 tablas In-Memory 2014 vrs 2016
 ## Abstract:
@@ -217,7 +217,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Other
 #### SessionID: 57051
 # SQL Data Warehouse, gu#237;a para un Desarrollador
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 18-02-2017 - Session time: 12:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Adrian Miranda
 ## Title: SQL Data Warehouse, gu#237;a para un Desarrollador
 ## Abstract:
@@ -226,7 +226,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Cloud Application Devel
 #### SessionID: 57788
 # Dr. Rudo SQL te enseña buenas prácticas para instalar SQL Server on Linux
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Dr. Rudo SQL te enseña buenas prácticas para instalar SQL Server on Linux
 ## Abstract:
@@ -237,7 +237,7 @@ Acompáñame a esta sesión donde haremos una instalación de cero a 100, siguie
 #### SessionID: 57861
 # Mas allá de los datos con SQL Server Reporting Services 2016
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Information Delivery
+Event Date: 18-02-2017 - Session time: 12:00:00 - Track: Information Delivery
 ## Speaker: Jorge Michael Muchaypiña Gutierrez
 ## Title: Mas allá de los datos con SQL Server Reporting Services 2016
 ## Abstract:
@@ -246,7 +246,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Information Delivery
 #### SessionID: 57899
 # Integración de SQL Server 2016 para  SharePoint Server Enterprise 2016
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Juan Herrera
 ## Title: Integración de SQL Server 2016 para  SharePoint Server Enterprise 2016
 ## Abstract:
@@ -256,7 +256,7 @@ Como se pueden consumir los servicios de Inteligencia de Negocios de SQL server 
 #### SessionID: 59531
 # Monitoreo y diagnostico de bases de datos SQL Server
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gustavo Boismoreau
 ## Title: Monitoreo y diagnostico de bases de datos SQL Server
 ## Abstract:
@@ -265,7 +265,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 54796
 # Development Technologies to Build Applications
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Professional Development
+Event Date: 18-02-2017 - Session time: 14:15:00 - Track: Professional Development
 ## Speaker: Esdras Salazar
 ## Title: Development Technologies to Build Applications
 ## Abstract:
@@ -274,7 +274,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Professional Developmen
 #### SessionID: 57104
 # Forecasting con SQL Server R Services y PowerBI
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 18-02-2017 - Session time: 14:15:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: Forecasting con SQL Server R Services y PowerBI
 ## Abstract:
@@ -283,7 +283,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 57643
 # Diseñando mi datawarehouse "Disaster recovery ready"
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-02-2017 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kenneth Urena
 ## Title: Diseñando mi datawarehouse "Disaster recovery ready"
 ## Abstract:
@@ -292,7 +292,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: BI Platform Architectur
 #### SessionID: 58249
 # Azure Bot Service
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 18-02-2017 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Keneth Murillo
 ## Title: Azure Bot Service
 ## Abstract:
@@ -301,7 +301,7 @@ Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Cloud Application Devel
 #### SessionID: 59476
 # Consultas más Optimas tomando en cuenta12 Operaciones básicas de los plan de ejecución de SQL Server
 #### [Back to calendar](#nr-586)
-Event Date: 18-02-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Victor Hugo Cardenas
 ## Title: Consultas más Optimas tomando en cuenta12 Operaciones básicas de los plan de ejecución de SQL Server
 ## Abstract:

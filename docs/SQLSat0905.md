@@ -21,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 96808
 # Pre Conference Power BI in a Day
 #### [Back to calendar](#nr-905)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 24-08-2019 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Pre Conference Power BI in a Day
 ## Abstract:
@@ -37,7 +37,7 @@ Power BI Service
 #### SessionID: 95735
 # ETLs with Dataflows in Power BI
 #### [Back to calendar](#nr-905)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Data Integration
+Event Date: 24-08-2019 - Session time: 09:00:00 - Track: Data Integration
 ## Speaker: Alejandro Humberto Sánchez Núñez
 ## Title: ETLs with Dataflows in Power BI
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Data Integration
 #### SessionID: 96797
 # Arquitectura Datawarehousing en PaaS de Microsoft Azure
 #### [Back to calendar](#nr-905)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform Architecture
+Event Date: 24-08-2019 - Session time: 09:00:00 - Track: BI Platform Architecture
 ## Speaker: German Cayo
 ## Title: Arquitectura Datawarehousing en PaaS de Microsoft Azure
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 94686
 # Predictive Modeling with Azure Machine Learning Services
 #### [Back to calendar](#nr-905)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 24-08-2019 - Session time: 10:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Predictive Modeling with Azure Machine Learning Services
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 95737
 # Creating Enterprise BI Models with Azure Analysis Services
 #### [Back to calendar](#nr-905)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform Architecture
+Event Date: 24-08-2019 - Session time: 10:00:00 - Track: BI Platform Architecture
 ## Speaker: Grecia Perez Malave
 ## Title: Creating Enterprise BI Models with Azure Analysis Services
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 96789
 # ETLs with SQL Server Integration Services 2017
 #### [Back to calendar](#nr-905)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Data Integration
+Event Date: 24-08-2019 - Session time: 11:00:00 - Track: Data Integration
 ## Speaker: Alfredo Diego Amez Mendes
 ## Title: ETLs with SQL Server Integration Services 2017
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Data Integration
 #### SessionID: 96807
 # Azure Data Factory: SSIS in the Cloud
 #### [Back to calendar](#nr-905)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Data Integration
+Event Date: 24-08-2019 - Session time: 11:00:00 - Track: Data Integration
 ## Speaker: Martha Chávez
 ## Title: Azure Data Factory: SSIS in the Cloud
 ## Abstract:
@@ -94,7 +94,7 @@ Configuración
 #### SessionID: 96801
 # Working with Azure Data Lake
 #### [Back to calendar](#nr-905)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform Architecture
+Event Date: 24-08-2019 - Session time: 13:00:00 - Track: BI Platform Architecture
 ## Speaker: Martha Chávez
 ## Title: Working with Azure Data Lake
 ## Abstract:
@@ -106,7 +106,7 @@ Integración Data Lake con otros servicios de Azure
 #### SessionID: 98165
 # Lleva tu Warehouse a otro nivel con Azure DW
 #### [Back to calendar](#nr-905)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Data Integration
+Event Date: 24-08-2019 - Session time: 13:00:00 - Track: Data Integration
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Lleva tu Warehouse a otro nivel con Azure DW
 ## Abstract:
@@ -115,7 +115,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Data Integration
 #### SessionID: 98166
 # Ciencia de Datos con R y Power BI
 #### [Back to calendar](#nr-905)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Deployment
+Event Date: 24-08-2019 - Session time: 13:00:00 - Track: BI Deployment
 ## Speaker: Alejandro Humberto Sánchez Núñez
 ## Title: Ciencia de Datos con R y Power BI
 ## Abstract:
@@ -124,7 +124,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Deployment
 #### SessionID: 95582
 # Composite Models - Power BI and Snowflake DW Integration
 #### [Back to calendar](#nr-905)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 24-08-2019 - Session time: 14:00:00 - Track: Analytics and Visualization
 ## Speaker: Gaston Cruz
 ## Title: Composite Models - Power BI and Snowflake DW Integration
 ## Abstract:
@@ -133,7 +133,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 95734
 # Power BI Optimization: M, DAX  Visualization
 #### [Back to calendar](#nr-905)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform Architecture
+Event Date: 24-08-2019 - Session time: 14:00:00 - Track: BI Platform Architecture
 ## Speaker: Alejandro Humberto Sánchez Núñez
 ## Title: Power BI Optimization: M, DAX  Visualization
 ## Abstract:

@@ -73,7 +73,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 54868
 # Whip Away Stress at Home  Work to Create a Better You
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 20-05-2017 - Session time: 09:15:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Whip Away Stress at Home  Work to Create a Better You
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 54969
 # Power BI:  Customer Stories from the Frontline
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 20-05-2017 - Session time: 09:15:00 - Track: Analytics and Visualization
 ## Speaker: Patrick LeBlanc
 ## Title: Power BI:  Customer Stories from the Frontline
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 56250
 # Digging Deeper: BI Methodologies and Best Practices
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-05-2017 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Seferlis
 ## Title: Digging Deeper: BI Methodologies and Best Practices
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 56278
 # Advanced Security: Protecting Data from the DBA
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-05-2017 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Thomas Grohser
 ## Title: Advanced Security: Protecting Data from the DBA
 ## Abstract:
@@ -111,7 +111,7 @@ This session shows how to manage SQL Server without being a member of the sysadm
 #### SessionID: 56315
 # SQL Server Transactional Replication: A Deep Dive
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server Transactional Replication: A Deep Dive
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 56536
 # Advanced SSIS Techniques
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-05-2017 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Dye
 ## Title: Advanced SSIS Techniques
 ## Abstract:
@@ -141,7 +141,7 @@ Upon completion of this workshop attendees will be able to:
 #### SessionID: 56940
 # Do Awesome Things with PowerShell in 5 minutes or Less
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Aaron Nelson
 ## Title: Do Awesome Things with PowerShell in 5 minutes or Less
 ## Abstract:
@@ -154,7 +154,7 @@ Get Better, Faster, Stronger with PowerShell  SQL Server.
 #### SessionID: 57293
 # Crash Course on Better SQL Development
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 09:15:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 57649
 # Real world SQL 2016 In-Memory OLTP
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ned Otter
 ## Title: Real world SQL 2016 In-Memory OLTP
 ## Abstract:
@@ -176,7 +176,7 @@ All of these questions and more are answered as we discuss real-world usage of S
 #### SessionID: 57769
 # New Features in SSIS 2016
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-05-2017 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paul Rizza
 ## Title: New Features in SSIS 2016
 ## Abstract:
@@ -194,7 +194,7 @@ The session will include a limited number of slides followed but demo examples o
 #### SessionID: 58166
 # Power Query - Don't be afraid of the advanced editor
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 20-05-2017 - Session time: 09:15:00 - Track: BI Information Delivery
 ## Speaker: Erik Svensen
 ## Title: Power Query - Don't be afraid of the advanced editor
 ## Abstract:
@@ -209,7 +209,7 @@ The learnings can be used both in Power BI Desktop and Excel.
 #### SessionID: 61694
 # A Closer Look at Distributed Availability Groups
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allan Hirt
 ## Title: A Closer Look at Distributed Availability Groups
 ## Abstract:
@@ -218,7 +218,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 65052
 # SQL Server Administration on Linux
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: SQL Server Administration on Linux
 ## Abstract:
@@ -227,7 +227,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 54851
 # Outsourcing database administration to your users.
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 10:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stephen Mokszycki
 ## Title: Outsourcing database administration to your users.
 ## Abstract:
@@ -238,7 +238,7 @@ There will be a demo!
 #### SessionID: 54862
 # Connection to SQL Server. Problems. Troubleshooting. Solutions.
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 10:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Slava Murygin
 ## Title: Connection to SQL Server. Problems. Troubleshooting. Solutions.
 ## Abstract:
@@ -248,7 +248,7 @@ This session demonstrates multiple different scenarios of SQL Server connectivit
 #### SessionID: 56224
 # R-ternatives in Power BI
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 20-05-2017 - Session time: 10:35:00 - Track: Analytics and Visualization
 ## Speaker: Ryan Wade
 ## Title: R-ternatives in Power BI
 ## Abstract:
@@ -259,7 +259,7 @@ There are 3 ways you can leverage R in Power BI. You can use it as a data source
 #### SessionID: 57745
 # HOW TO TROUBLESHOOT DATABASE PERFORMANCE ISSUES
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 10:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jean Joseph
 ## Title: HOW TO TROUBLESHOOT DATABASE PERFORMANCE ISSUES
 ## Abstract:
@@ -268,7 +268,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 57998
 # Using Biml as an SSIS Design Patterns Engine
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-05-2017 - Session time: 10:35:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Using Biml as an SSIS Design Patterns Engine
 ## Abstract:
@@ -282,7 +282,7 @@ In this session, you will learn:
 #### SessionID: 58088
 # SSAS Tabular in 60 mins: Developing Business-Driven Self-Service BI
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-05-2017 - Session time: 10:35:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Wylie Blanchard
 ## Title: SSAS Tabular in 60 mins: Developing Business-Driven Self-Service BI
 ## Abstract:
@@ -291,7 +291,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 61530
 # Welcome To the 2016 Query Store!
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 10:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Welcome To the 2016 Query Store!
 ## Abstract:
@@ -300,7 +300,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 62455
 # Azure Analysis Services - An introduction
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-05-2017 - Session time: 10:35:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Timothy McAliley
 ## Title: Azure Analysis Services - An introduction
 ## Abstract:
@@ -309,7 +309,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 62481
 # Accelerating DevOps and TDM Using Data Virtualization
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 10:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Gorman
 ## Title: Accelerating DevOps and TDM Using Data Virtualization
 ## Abstract:
@@ -326,7 +326,7 @@ Come learn why data virtualization is the solution to a problem everyone knows.
 #### SessionID: 62600
 # SQL Server Infrastructure – Cloud and On-Prem Options
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 20-05-2017 - Session time: 10:35:00 - Track: Strategy and Architecture
 ## Speaker: David Klee
 ## Title: SQL Server Infrastructure – Cloud and On-Prem Options
 ## Abstract:
@@ -337,7 +337,7 @@ Physical servers, enterprise virtualization, and cloud servers all provide solid
 #### SessionID: 62614
 # SQL Licensing  True-up
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 10:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Pearl
 ## Title: SQL Licensing  True-up
 ## Abstract:
@@ -347,7 +347,7 @@ In addition, we will prepare you for the dreaded Microsoft True-up! Offering tip
 #### SessionID: 62760
 # Inside SQL Server In-Memory OLTP
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 10:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: Inside SQL Server In-Memory OLTP
 ## Abstract:
@@ -356,7 +356,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 62804
 # Why candidates fail the job interview in the first minute
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 20-05-2017 - Session time: 10:35:00 - Track: Professional Development
 ## Speaker: Thomas Grohser
 ## Title: Why candidates fail the job interview in the first minute
 ## Abstract:
@@ -367,7 +367,7 @@ Thomas will share what he misses in resumes and how to respond to questions bett
 #### SessionID: 64285
 # SANLess clustering for physical, virtual and cloud environments
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Bermingham
 ## Title: SANLess clustering for physical, virtual and cloud environments
 ## Abstract:
@@ -376,7 +376,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 64308
 # No inside, No outside, No box. DellEMC software defined storage s
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 20-05-2017 - Session time: 12:00:00 - Track: Strategy and Architecture
 ## Speaker: Charles Chiambalero
 ## Title: No inside, No outside, No box. DellEMC software defined storage s
 ## Abstract:
@@ -387,7 +387,7 @@ In the past, islands of servers with local unevenly utilized and difficult to pr
 #### SessionID: 54853
 # SQL Server 2016: A dive into Data Quality Services
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 20-05-2017 - Session time: 13:05:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server 2016: A dive into Data Quality Services
 ## Abstract:
@@ -396,7 +396,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 54921
 # R For the SQL Server Developer
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 20-05-2017 - Session time: 13:05:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
 ## Abstract:
@@ -405,7 +405,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 55000
 # Relational databases vs Non-relational databases
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 13:05:00 - Track: Application  Database Development
 ## Speaker: James Serra
 ## Title: Relational databases vs Non-relational databases
 ## Abstract:
@@ -414,7 +414,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 55118
 # Query Tuning without Production Data
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 13:05:00 - Track: Application  Database Development
 ## Speaker: Derik Hammer
 ## Title: Query Tuning without Production Data
 ## Abstract:
@@ -423,7 +423,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 57285
 # Stop Ignoring the SQL Server Resource Governor
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 13:05:00 - Track: Application  Database Development
 ## Speaker: Denis McDowell
 ## Title: Stop Ignoring the SQL Server Resource Governor
 ## Abstract:
@@ -432,7 +432,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 59533
 # SQL Server 2016: It Just Runs Faster
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 13:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: SQL Server 2016: It Just Runs Faster
 ## Abstract:
@@ -441,7 +441,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 59793
 # From problem to Power BI:  A journey in data visualization
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 20-05-2017 - Session time: 13:05:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: From problem to Power BI:  A journey in data visualization
 ## Abstract:
@@ -450,7 +450,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 63008
 # Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 13:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
 ## Abstract:
@@ -459,7 +459,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 63191
 # Writing T-SQL code like a boss
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 13:05:00 - Track: Application  Database Development
 ## Speaker: Fabiano Amorim
 ## Title: Writing T-SQL code like a boss
 ## Abstract:
@@ -468,7 +468,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 63307
 # Stop Doing That! 5 Common T-SQL Anti-Patterns
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 13:05:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Stop Doing That! 5 Common T-SQL Anti-Patterns
 ## Abstract:
@@ -481,7 +481,7 @@ By the end of the session, you will be able to quickly identify these common ant
 #### SessionID: 63593
 # Creating Your First Azure Machine Learning Model
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 20-05-2017 - Session time: 13:05:00 - Track: Advanced Analysis Techniques
 ## Speaker: Adan Ortiz-Cordova
 ## Title: Creating Your First Azure Machine Learning Model
 ## Abstract:
@@ -492,7 +492,7 @@ This session will provide a fundamental introduction to the Azure Machine Learni
 #### SessionID: 63601
 # The Phenomenal IT Consultant
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 20-05-2017 - Session time: 13:05:00 - Track: Professional Development
 ## Speaker: Sebastian Meine
 ## Title: The Phenomenal IT Consultant
 ## Abstract:
@@ -507,7 +507,7 @@ Join this session and get started on your way to becoming a Phenomenal IT Consul
 #### SessionID: 54867
 # Tips that have saved my bacon
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 14:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Greg Moore
 ## Title: Tips that have saved my bacon
 ## Abstract:
@@ -520,7 +520,7 @@ Everyone knows log-shipping is great for DR recovery, but what about using it fo
 #### SessionID: 54950
 # Finding Islands, Gaps, and Clusters in Complex Data
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 14:25:00 - Track: Application  Database Development
 ## Speaker: Edward Pollack
 ## Title: Finding Islands, Gaps, and Clusters in Complex Data
 ## Abstract:
@@ -533,7 +533,7 @@ Discussion will include performance, CTEs, recursion, set-based vs. iterative an
 #### SessionID: 57351
 # Azure SQL Database Vs. Amazon RDS
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-05-2017 - Session time: 14:25:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Azure SQL Database Vs. Amazon RDS
 ## Abstract:
@@ -547,7 +547,7 @@ Ready to change the mindset of your company and concern only with the business v
 #### SessionID: 57472
 # SQL Server XML 101
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 14:25:00 - Track: Application  Database Development
 ## Speaker: Alex Grinberg
 ## Title: SQL Server XML 101
 ## Abstract:
@@ -556,7 +556,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 57609
 # Effective Data Warehouse Storage Patterns
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 14:25:00 - Track: Application  Database Development
 ## Speaker: John Miner
 ## Title: Effective Data Warehouse Storage Patterns
 ## Abstract:
@@ -585,7 +585,7 @@ Coverage:
 #### SessionID: 59481
 # SharePoint 2016 Unbreakable with SQL Server Always On Availability Groups
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 14:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Isabelle Van Campenhoudt
 ## Title: SharePoint 2016 Unbreakable with SQL Server Always On Availability Groups
 ## Abstract:
@@ -610,7 +610,7 @@ Learn about SharePoint 2013/2016 unbreakable
 #### SessionID: 59728
 # Extending DevOps To SQL Server
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 20-05-2017 - Session time: 14:25:00 - Track: Strategy and Architecture
 ## Speaker: Grant Fritchey
 ## Title: Extending DevOps To SQL Server
 ## Abstract:
@@ -619,7 +619,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 61480
 # Would You Just Load Already?!  Maximizing Your SSIS Data Load
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 14:25:00 - Track: Application  Database Development
 ## Speaker: Chris Bell
 ## Title: Would You Just Load Already?!  Maximizing Your SSIS Data Load
 ## Abstract:
@@ -630,7 +630,7 @@ In this session you will learn a simple method to load data via SSIS and identif
 #### SessionID: 62486
 # An Introduction to Always Encrypted
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 14:25:00 - Track: Application  Database Development
 ## Speaker: Justin Dearing
 ## Title: An Introduction to Always Encrypted
 ## Abstract:
@@ -639,7 +639,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 63500
 # SQL Server R Services in SQL 2016
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 20-05-2017 - Session time: 14:25:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
 ## Abstract:
@@ -648,7 +648,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 63501
 # Monitoring SQL Server using Extended Events
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 14:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hilary Cotter
 ## Title: Monitoring SQL Server using Extended Events
 ## Abstract:
@@ -657,7 +657,7 @@ Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 63602
 # Network your Way to Success!
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 20-05-2017 - Session time: 14:25:00 - Track: Professional Development
 ## Speaker: Lisa Margerum
 ## Title: Network your Way to Success!
 ## Abstract:
@@ -670,7 +670,7 @@ Join us for an interactive session to strategize the best actions to increase yo
 #### SessionID: 64076
 # SQL Server High Availability in Azure IaaS
 #### [Back to calendar](#nr-588)
-Event Date: 20-05-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 14:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Bermingham
 ## Title: SQL Server High Availability in Azure IaaS
 ## Abstract:

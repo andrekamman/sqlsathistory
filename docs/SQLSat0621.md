@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 64417
 # Fireside Chat Keynote - Deep Learning Concepts and Experiences
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Keynote
+Event Date: 22-04-2017 - Session time: 09:00:00 - Track: Keynote
 ## Speaker: Vijay Narayanan
 ## Title: Fireside Chat Keynote - Deep Learning Concepts and Experiences
 ## Abstract:
@@ -54,7 +54,7 @@ Data and Artificial Intelligence are the deeply woven into the fabric of our Mic
 #### SessionID: 59412
 # Unleashing Stretched Databases
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-04-2017 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Armando Lacerda
 ## Title: Unleashing Stretched Databases
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #### SessionID: 59419
 # Bringing DevOps to the Database
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Strategy and Architecture
+Event Date: 22-04-2017 - Session time: 10:30:00 - Track: Strategy and Architecture
 ## Speaker: Steve Jones
 ## Title: Bringing DevOps to the Database
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Strategy and Architectu
 #### SessionID: 61674
 # Modeling and Analytics Features Coming in Analysis Services vNext
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-04-2017 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christian Wade
 ## Title: Modeling and Analytics Features Coming in Analysis Services vNext
 ## Abstract:
@@ -81,7 +81,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #### SessionID: 62485
 # SQL Server 2016 Always On Availability Groups Perf  Internals
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Strategy and Architecture
+Event Date: 22-04-2017 - Session time: 10:30:00 - Track: Strategy and Architecture
 ## Speaker: J May
 ## Title: SQL Server 2016 Always On Availability Groups Perf  Internals
 ## Abstract:
@@ -92,7 +92,7 @@ Our work shows enhancements of 7x – 10x, allowing over 1/2GB/s (4Gb/s) across 
 #### SessionID: 63437
 # Survey of the Azure Data Landscape
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 22-04-2017 - Session time: 10:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ike Ellis
 ## Title: Survey of the Azure Data Landscape
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Cloud Application Devel
 #### SessionID: 63810
 # R in Power BI
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Analytics and Visualization
+Event Date: 22-04-2017 - Session time: 10:30:00 - Track: Analytics and Visualization
 ## Speaker: Eric Bragas
 ## Title: R in Power BI
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Analytics and Visualiza
 #### SessionID: 64424
 # Microsoft Data Management Hands-on Labs
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Other
+Event Date: 22-04-2017 - Session time: 10:30:00 - Track: Other
 ## Speaker: Mark Ginnebaugh
 ## Title: Microsoft Data Management Hands-on Labs
 ## Abstract:
@@ -121,7 +121,7 @@ Get hands-on and learn how you can simplify your data management approach with M
 #### SessionID: 64075
 # It Isn't Magic: Make It Happen. Resume Writing and Interviewing Tips
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Professional Development
+Event Date: 22-04-2017 - Session time: 11:45:00 - Track: Professional Development
 ## Speaker: Harriet Farmer
 ## Title: It Isn't Magic: Make It Happen. Resume Writing and Interviewing Tips
 ## Abstract:
@@ -138,7 +138,7 @@ Chart your current Career Path.
 #### SessionID: 64208
 # Using Dell EMC to Empower Microsoft SQL Server DBAs and Test/Dev Engineers
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-04-2017 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bryan Walsh
 ## Title: Using Dell EMC to Empower Microsoft SQL Server DBAs and Test/Dev Engineers
 ## Abstract:
@@ -147,7 +147,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #### SessionID: 64302
 # Spotlight on SQL Server
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Other
+Event Date: 22-04-2017 - Session time: 11:45:00 - Track: Other
 ## Speaker: Trent Mera
 ## Title: Spotlight on SQL Server
 ## Abstract:
@@ -156,7 +156,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Other
 #### SessionID: 59421
 # Branding Yourself for a Dream Job
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Professional Development
+Event Date: 22-04-2017 - Session time: 13:15:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
 ## Abstract:
@@ -165,7 +165,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Professional Developmen
 #### SessionID: 61013
 # An introduction to the magical world of BIML!
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-04-2017 - Session time: 13:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #### SessionID: 61105
 # The New Revolution in Data Science, R integrated into SQL Server
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Information Delivery
+Event Date: 22-04-2017 - Session time: 13:15:00 - Track: BI Information Delivery
 ## Speaker: Reeves Smith
 ## Title: The New Revolution in Data Science, R integrated into SQL Server
 ## Abstract:
@@ -189,7 +189,7 @@ This presentation is ideally suited for Business Intelligence professionals that
 #### SessionID: 63248
 # Where did I put my (primary) keys?
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 22-04-2017 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Ami Levin
 ## Title: Where did I put my (primary) keys?
 ## Abstract:
@@ -199,7 +199,7 @@ We will consider the benefits and challenges of using different types of keys - 
 #### SessionID: 63455
 # Power BI SSRS On Premise
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-04-2017 - Session time: 13:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alisha Harold
 ## Title: Power BI SSRS On Premise
 ## Abstract:
@@ -212,7 +212,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #### SessionID: 64206
 # What’s new in SQL Server 2017
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Strategy and Architecture
+Event Date: 22-04-2017 - Session time: 13:15:00 - Track: Strategy and Architecture
 ## Speaker: Jarek Kazmierczak
 ## Title: What’s new in SQL Server 2017
 ## Abstract:
@@ -227,7 +227,7 @@ New SQL Server 2017  Azure Data Estate capabilities provide better flexibility, 
 #### SessionID: 61104
 # SQL Server Integration Services for Data Science
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Information Delivery
+Event Date: 22-04-2017 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: Reeves Smith
 ## Title: SQL Server Integration Services for Data Science
 ## Abstract:
@@ -248,7 +248,7 @@ Some of the topics that will be covered in this session include:
 #### SessionID: 61111
 # Data Wrangling for Reporting  Analytics
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Analytics and Visualization
+Event Date: 22-04-2017 - Session time: 14:30:00 - Track: Analytics and Visualization
 ## Speaker: Phil Robinson
 ## Title: Data Wrangling for Reporting  Analytics
 ## Abstract:
@@ -257,7 +257,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Analytics and Visualiza
 #### SessionID: 62518
 # The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-04-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization
 ## Abstract:
@@ -270,7 +270,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #### SessionID: 63704
 # Intro to Azure Data Factory
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Big Data
+Event Date: 22-04-2017 - Session time: 14:30:00 - Track: Big Data
 ## Speaker: Angel Abundez
 ## Title: Intro to Azure Data Factory
 ## Abstract:
@@ -279,7 +279,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Big Data
 #### SessionID: 64148
 # Scalable Deep Learning with Microsoft Cognitive Toolkit
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Advanced Analysis Techniques
+Event Date: 22-04-2017 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jarek Kazmierczak
 ## Title: Scalable Deep Learning with Microsoft Cognitive Toolkit
 ## Abstract:
@@ -289,7 +289,7 @@ The Microsoft Cognitive Toolkit—previously known as CNTK—empowers you to har
 #### SessionID: 64160
 # Power BI: Best Practices from the Field
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Analytics and Visualization
+Event Date: 22-04-2017 - Session time: 14:30:00 - Track: Analytics and Visualization
 ## Speaker: Joshua Vickery
 ## Title: Power BI: Best Practices from the Field
 ## Abstract:
@@ -298,7 +298,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Analytics and Visualiza
 #### SessionID: 63249
 # Physical Join Operators
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Ami Levin
 ## Title: Physical Join Operators
 ## Abstract:
@@ -307,7 +307,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Application  Database D
 #### SessionID: 63408
 # But it worked great in Dev!  Perfomance for Devs
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
 ## Abstract:
@@ -316,7 +316,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Application  Database D
 #### SessionID: 63476
 # Consolidated Essential Performance Health Check using PowerShell
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prakash Heda
 ## Title: Consolidated Essential Performance Health Check using PowerShell
 ## Abstract:
@@ -327,7 +327,7 @@ First part of the email shares some key observations about SQL Server performanc
 #### SessionID: 63520
 # Programming in Power Query: An Introduction to M
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Information Delivery
+Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 ## Speaker: Andy Parkerson
 ## Title: Programming in Power Query: An Introduction to M
 ## Abstract:
@@ -340,7 +340,7 @@ Our examination will conclude with a discussion of best practices, centering on 
 #### SessionID: 63712
 # Master Data Management - Getting Started with SQL Server MDS
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: John McAllister
 ## Title: Master Data Management - Getting Started with SQL Server MDS
 ## Abstract:
@@ -349,7 +349,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #### SessionID: 64195
 # Big Data  Analytics Apps
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Big Data
+Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Big Data
 ## Speaker: Rajya Bhaiya
 ## Title: Big Data  Analytics Apps
 ## Abstract:
@@ -361,7 +361,7 @@ Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Big Data
 #### SessionID: 64331
 # Indexing Guidelines
 #### [Back to calendar](#nr-621)
-Event Date: 22-04-2017 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
 ## Speaker: Greg Larsen
 ## Title: Indexing Guidelines
 ## Abstract:

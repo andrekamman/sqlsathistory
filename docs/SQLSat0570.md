@@ -50,7 +50,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 52534
 # Novidades do SSRS 2016 - O poder da an#225;lise de dados
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 08-10-2016 - Session time: 09:30:00 - Track: Business Intelligence
 ## Speaker: Marcos Vinicius Oliveira Schardong
 ## Title: Novidades do SSRS 2016 - O poder da an#225;lise de dados
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 52900
 # Acesso a dados com ADO.NET e Entity Framework
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Desenvolvimento)
+Event Date: 08-10-2016 - Session time: 09:30:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Luciano Moreira
 ## Title: Acesso a dados com ADO.NET e Entity Framework
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Desenvolvimento)
 #### SessionID: 53002
 # SQL Azure DB Vs. Amazon RDS
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Cloud Computing
+Event Date: 08-10-2016 - Session time: 09:30:00 - Track: Cloud Computing
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: SQL Azure DB Vs. Amazon RDS
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Cloud Computing
 #### SessionID: 53188
 # Corrup#231;#227;o de dados e perda acidental - O que fazer ?
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Administração)
+Event Date: 08-10-2016 - Session time: 09:30:00 - Track: DBA (Administração)
 ## Speaker: Gustavo Maia Aguiar
 ## Title: Corrup#231;#227;o de dados e perda acidental - O que fazer ?
 ## Abstract:
@@ -88,7 +88,7 @@ Se alguma vez voc#234; j#225; teve de lidar com corrup#231;#227;o de dados ou pe
 #### SessionID: 54159
 # Como se tornar um DBA EXCEPCIONAL
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Carreira
+Event Date: 08-10-2016 - Session time: 09:30:00 - Track: Carreira
 ## Speaker: EDVALDO CASTRO
 ## Title: Como se tornar um DBA EXCEPCIONAL
 ## Abstract:
@@ -101,7 +101,7 @@ OBS.: A adaptação deste conteúdo para palestra teve autorização expressa do
 #### SessionID: 54311
 # Cortana Intelligence + Spark + PowerBI
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Big Data e Data Science
+Event Date: 08-10-2016 - Session time: 09:30:00 - Track: Big Data e Data Science
 ## Speaker: Viviane Ribeiro
 ## Title: Cortana Intelligence + Spark + PowerBI
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Big Data e Data Science
 #### SessionID: 53125
 # Como um DBA deve atuar com desenvolvedores
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Carreira
+Event Date: 08-10-2016 - Session time: 10:30:00 - Track: Carreira
 ## Speaker: Fabio Cotrim
 ## Title: Como um DBA deve atuar com desenvolvedores
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Carreira
 #### SessionID: 53139
 # Pare de reinventar a roda. Use window functions
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Desenvolvimento)
+Event Date: 08-10-2016 - Session time: 10:30:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Dhiego Piroto
 ## Title: Pare de reinventar a roda. Use window functions
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Desenvolvimento)
 #### SessionID: 53652
 # Criando Custom Visuals no Power BI
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Big Data e Data Science
+Event Date: 08-10-2016 - Session time: 10:30:00 - Track: Big Data e Data Science
 ## Speaker: Demetrio Silva
 ## Title: Criando Custom Visuals no Power BI
 ## Abstract:
@@ -137,7 +137,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Big Data e Data Science
 #### SessionID: 53780
 # Super ETL's com as novidades do SSIS 2016
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 08-10-2016 - Session time: 10:30:00 - Track: Business Intelligence
 ## Speaker: Dennes Torres
 ## Title: Super ETL's com as novidades do SSIS 2016
 ## Abstract:
@@ -148,7 +148,7 @@ Conexão com Azure Storage, integração com HDInsight para construção de clus
 #### SessionID: 53807
 # SQL Server 2016 New Security Features
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Administração)
+Event Date: 08-10-2016 - Session time: 10:30:00 - Track: DBA (Administração)
 ## Speaker: Diego Miranda
 ## Title: SQL Server 2016 New Security Features
 ## Abstract:
@@ -164,7 +164,7 @@ Additional Investments for SQL Server 2016 regarding security
 #### SessionID: 53865
 # Alta disponibilidade com Azure SQL Database
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Cloud Computing
+Event Date: 08-10-2016 - Session time: 10:30:00 - Track: Cloud Computing
 ## Speaker: Marcos Freccia
 ## Title: Alta disponibilidade com Azure SQL Database
 ## Abstract:
@@ -173,7 +173,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Cloud Computing
 #### SessionID: 52448
 # Quando as boas pr#225;ticas n#227;o s#227;o boas
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Desenvolvimento)
+Event Date: 08-10-2016 - Session time: 11:30:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Fabiano Amorim
 ## Title: Quando as boas pr#225;ticas n#227;o s#227;o boas
 ## Abstract:
@@ -184,7 +184,7 @@ Nesta sess#227;o o consultor e MVP Fabiano Amorim ir#225; falar sobre "casos ext
 #### SessionID: 52685
 # Azure SQL Database - Como gerenciar um ambiente de banco de dados na nuvem
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Cloud Computing
+Event Date: 08-10-2016 - Session time: 11:30:00 - Track: Cloud Computing
 ## Speaker: Vitor Fava
 ## Title: Azure SQL Database - Como gerenciar um ambiente de banco de dados na nuvem
 ## Abstract:
@@ -193,7 +193,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Cloud Computing
 #### SessionID: 52910
 # Somos o Big Brother
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Carreira
+Event Date: 08-10-2016 - Session time: 11:30:00 - Track: Carreira
 ## Speaker: Ricardo Leka
 ## Title: Somos o Big Brother
 ## Abstract:
@@ -203,7 +203,7 @@ Vamos habilitar auditoria! Mas vamos fazer isso em v#225;rias inst#226;ncias e v
 #### SessionID: 53764
 # Advanced Analytics using SQL Server R Services
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Big Data e Data Science
+Event Date: 08-10-2016 - Session time: 11:30:00 - Track: Big Data e Data Science
 ## Speaker: Thiago Zavaschi
 ## Title: Advanced Analytics using SQL Server R Services
 ## Abstract:
@@ -213,7 +213,7 @@ R é uma linguagem aberta com foco em análise estatística e está integrada na
 #### SessionID: 54166
 # Realizando Limpeza de dados com Data Quality Services
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 08-10-2016 - Session time: 11:30:00 - Track: Business Intelligence
 ## Speaker: Arthur Luz
 ## Title: Realizando Limpeza de dados com Data Quality Services
 ## Abstract:
@@ -222,7 +222,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 54404
 # SQL Server 2016 - It Just Runs Faster
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Administração)
+Event Date: 08-10-2016 - Session time: 11:30:00 - Track: DBA (Administração)
 ## Speaker: Andre Rodrigues
 ## Title: SQL Server 2016 - It Just Runs Faster
 ## Abstract:
@@ -231,7 +231,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Administração)
 #### SessionID: 52695
 # O dia a dia de um Administrador de Banco de Dados
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Carreira
+Event Date: 08-10-2016 - Session time: 12:30:00 - Track: Carreira
 ## Speaker: Thiago Cruz
 ## Title: O dia a dia de um Administrador de Banco de Dados
 ## Abstract:
@@ -240,7 +240,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Carreira
 #### SessionID: 52897
 # Porque minha query est#225; lenta? - Iniciando um troubleshooting
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Desenvolvimento)
+Event Date: 08-10-2016 - Session time: 12:30:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Suellen Moraes
 ## Title: Porque minha query est#225; lenta? - Iniciando um troubleshooting
 ## Abstract:
@@ -249,7 +249,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Desenvolvimento)
 #### SessionID: 53549
 # Obtenha maior produtividade: desenvolvimento e administra#231;#227;o do SQL Server
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Administração)
+Event Date: 08-10-2016 - Session time: 12:30:00 - Track: DBA (Administração)
 ## Speaker: Gustavo Carneiro
 ## Title: Obtenha maior produtividade: desenvolvimento e administra#231;#227;o do SQL Server
 ## Abstract:
@@ -261,7 +261,7 @@ Migrations:  database comparison, schema comparison and data comparison
 #### SessionID: 54293
 # Modelagem Multidimensional
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 08-10-2016 - Session time: 12:30:00 - Track: Business Intelligence
 ## Speaker: Vitor Ferreira
 ## Title: Modelagem Multidimensional
 ## Abstract:
@@ -271,7 +271,7 @@ Serão esclarecidos conceitos importantes como fatos, dimensões, granularidade,
 #### SessionID: 54331
 # Aprendizado de Máquina com Azure Machine Learning
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Big Data e Data Science
+Event Date: 08-10-2016 - Session time: 12:30:00 - Track: Big Data e Data Science
 ## Speaker: Guilherme Ferraudo
 ## Title: Aprendizado de Máquina com Azure Machine Learning
 ## Abstract:
@@ -280,7 +280,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Big Data e Data Science
 #### SessionID: 53300
 # Analisando o Always Encrypted
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Desenvolvimento)
+Event Date: 08-10-2016 - Session time: 13:00:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Gustavo Moura Fé
 ## Title: Analisando o Always Encrypted
 ## Abstract:
@@ -289,7 +289,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Desenvolvimento)
 #### SessionID: 53511
 # SQL SERVER e ORACLE: Semelhan#231;as e Diferen#231;as para o DBA
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Carreira
+Event Date: 08-10-2016 - Session time: 13:00:00 - Track: Carreira
 ## Speaker: Marcelo Adade
 ## Title: SQL SERVER e ORACLE: Semelhan#231;as e Diferen#231;as para o DBA
 ## Abstract:
@@ -299,7 +299,7 @@ A ideia #233; mostrar como os recursos do SQL SERVER equivalem aos de Oracle e v
 #### SessionID: 54071
 # Solução de failover automático para ambientes AlwaysOn com commit assincrono
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Administração)
+Event Date: 08-10-2016 - Session time: 13:00:00 - Track: DBA (Administração)
 ## Speaker: Igor Santos de Paula
 ## Title: Solução de failover automático para ambientes AlwaysOn com commit assincrono
 ## Abstract:
@@ -315,7 +315,7 @@ O script será disponibilizado ao final da sessão gratuitamente.
 #### SessionID: 52542
 # Bring your data to life with Microsoft Power BI
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Big Data e Data Science
+Event Date: 08-10-2016 - Session time: 13:30:00 - Track: Big Data e Data Science
 ## Speaker: André Castro
 ## Title: Bring your data to life with Microsoft Power BI
 ## Abstract:
@@ -324,7 +324,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Big Data e Data Science
 #### SessionID: 52598
 # Passo a Passo para realizar uma Consultoria de Tuning em um Cliente
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Carreira
+Event Date: 08-10-2016 - Session time: 13:30:00 - Track: Carreira
 ## Speaker: Fabrício Lima
 ## Title: Passo a Passo para realizar uma Consultoria de Tuning em um Cliente
 ## Abstract:
@@ -339,7 +339,7 @@ N#227;o perca!!!
 #### SessionID: 53118
 # Entendendo a Distribui#231;#227;o de Dados entre V#225;rios Arquivos do Database
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Administração)
+Event Date: 08-10-2016 - Session time: 13:30:00 - Track: DBA (Administração)
 ## Speaker: Nilton Pinheiro
 ## Title: Entendendo a Distribui#231;#227;o de Dados entre V#225;rios Arquivos do Database
 ## Abstract:
@@ -348,7 +348,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Administração)
 #### SessionID: 53576
 # Guia do Mochileiro Powershell v.1
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Cloud Computing
+Event Date: 08-10-2016 - Session time: 13:30:00 - Track: Cloud Computing
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Guia do Mochileiro Powershell v.1
 ## Abstract:
@@ -361,7 +361,7 @@ Esta #233; a sess#227;o voltada para auxiliar o dba identificar diversos benef#2
 #### SessionID: 53586
 # SSIS 2016 - New features and improvements
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 08-10-2016 - Session time: 13:30:00 - Track: Business Intelligence
 ## Speaker: Wasley Portes
 ## Title: SSIS 2016 - New features and improvements
 ## Abstract:
@@ -370,7 +370,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 53716
 # Otimizando a Performance com In-Memory no SQL 2016
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Desenvolvimento)
+Event Date: 08-10-2016 - Session time: 13:30:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Luiz Henrique Garetti
 ## Title: Otimizando a Performance com In-Memory no SQL 2016
 ## Abstract:
@@ -379,7 +379,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Desenvolvimento)
 #### SessionID: 52445
 # Introdução à Storage
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 08-10-2016 - Session time: 15:00:00 - Track: Business Intelligence
 ## Speaker: Luiz Mercante
 ## Title: Introdução à Storage
 ## Abstract:
@@ -388,7 +388,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 52701
 # In Memory OLTP Internals
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Administração)
+Event Date: 08-10-2016 - Session time: 15:00:00 - Track: DBA (Administração)
 ## Speaker: Frederico Santos
 ## Title: In Memory OLTP Internals
 ## Abstract:
@@ -397,7 +397,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Administração)
 #### SessionID: 52904
 # Quero ser um DBA. O que devo aprender ?
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Carreira
+Event Date: 08-10-2016 - Session time: 15:00:00 - Track: Carreira
 ## Speaker: Tiago Neves
 ## Title: Quero ser um DBA. O que devo aprender ?
 ## Abstract:
@@ -407,7 +407,7 @@ Darei um direcionamento de funcionalidades do SQL Server que voc#234; precisa ap
 #### SessionID: 53048
 # Fora Hackers: Prote#231;#227;o em camadas do SQL Server
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Desenvolvimento)
+Event Date: 08-10-2016 - Session time: 15:00:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Fabricio Catae
 ## Title: Fora Hackers: Prote#231;#227;o em camadas do SQL Server
 ## Abstract:
@@ -416,7 +416,7 @@ Event Date: 08-10-2016 - Session time: 16:00:00 - Track: DBA (Desenvolvimento)
 #### SessionID: 53417
 # Criando ambientes hibridos de alta disponibilidade (On Premises e Cloud)
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Cloud Computing
+Event Date: 08-10-2016 - Session time: 15:00:00 - Track: Cloud Computing
 ## Speaker: Marcelo Fernandes
 ## Title: Criando ambientes hibridos de alta disponibilidade (On Premises e Cloud)
 ## Abstract:
@@ -426,7 +426,7 @@ A cloud ja #233; realidade e ainda temos diversos ambites que devem permanecer e
 #### SessionID: 54332
 # SQL Server Heterogêneo - Como integrar meu banco de dados relacional com NoSQL e BigData
 #### [Back to calendar](#nr-570)
-Event Date: 08-10-2016 - Session time: 16:00:00 - Track: Big Data e Data Science
+Event Date: 08-10-2016 - Session time: 15:00:00 - Track: Big Data e Data Science
 ## Speaker: Rodrigo Dornel
 ## Title: SQL Server Heterogêneo - Como integrar meu banco de dados relacional com NoSQL e BigData
 ## Abstract:

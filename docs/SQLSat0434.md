@@ -39,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 36759
 # The dangerous beauty of Bookmark Lookups
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Database Development
+Event Date: 26-09-2015 - Session time: 09:00:00 - Track: Database Development
 ## Speaker: Klaus Aschenbrenner
 ## Title: The dangerous beauty of Bookmark Lookups
 ## Abstract:
@@ -48,7 +48,7 @@ Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Database Development
 #### SessionID: 36924
 # An introduction to Data Science
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Data Science
+Event Date: 26-09-2015 - Session time: 09:00:00 - Track: Data Science
 ## Speaker: M Streutker
 ## Title: An introduction to Data Science
 ## Abstract:
@@ -62,7 +62,7 @@ This session will be co-presented by Maarten van Duren.
 #### SessionID: 37037
 # Desigining Complex Tabular Models - A Case Study
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 26-09-2015 - Session time: 09:00:00 - Track: Business Intelligence
 ## Speaker: Bob Duffy
 ## Title: Desigining Complex Tabular Models - A Case Study
 ## Abstract:
@@ -86,7 +86,7 @@ This one hour session will walk through an actual case study of a tabular model 
 #### SessionID: 37466
 # SQL Server 2016 New Feaures (Not Query Store!)
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: SQL Server 2016
+Event Date: 26-09-2015 - Session time: 09:00:00 - Track: SQL Server 2016
 ## Speaker: David Williams
 ## Title: SQL Server 2016 New Feaures (Not Query Store!)
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 26-09-2015 - Session time: 16:00:00 - Track: SQL Server 2016
 #### SessionID: 38723
 # SQL Security in the Cloud
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Cloud
+Event Date: 26-09-2015 - Session time: 09:00:00 - Track: Cloud
 ## Speaker: Tobias Koprowski
 ## Title: SQL Security in the Cloud
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Cloud
 #### SessionID: 36380
 # Boost your analytical superpowers with spatial data
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Data Science
+Event Date: 26-09-2015 - Session time: 10:15:00 - Track: Data Science
 ## Speaker: Jeffrey Verheul
 ## Title: Boost your analytical superpowers with spatial data
 ## Abstract:
@@ -127,7 +127,7 @@ In this session, we're going to take a look at how spatial data works, how you c
 #### SessionID: 36574
 # T-SQL : Bad Habits  Best Practices
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Database Development
+Event Date: 26-09-2015 - Session time: 10:15:00 - Track: Database Development
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits  Best Practices
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Database Development
 #### SessionID: 37199
 # What's new in SSIS 2016
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: SQL Server 2016
+Event Date: 26-09-2015 - Session time: 10:15:00 - Track: SQL Server 2016
 ## Speaker: Joost van Rossum
 ## Title: What's new in SSIS 2016
 ## Abstract:
@@ -145,7 +145,7 @@ Event Date: 26-09-2015 - Session time: 16:00:00 - Track: SQL Server 2016
 #### SessionID: 37282
 # Scoped assignments – Threat or salvation? Some real life experiences… 
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 26-09-2015 - Session time: 10:15:00 - Track: Business Intelligence
 ## Speaker: Gabi Münster
 ## Title: Scoped assignments – Threat or salvation? Some real life experiences… 
 ## Abstract:
@@ -155,7 +155,7 @@ Sometimes your projects get that complex. You will need to choose between many o
 #### SessionID: 37412
 # Optimizing SQL Server Performance in a Virtual Environment
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Database Adminstration
+Event Date: 26-09-2015 - Session time: 10:15:00 - Track: Database Adminstration
 ## Speaker: Denny Cherry
 ## Title: Optimizing SQL Server Performance in a Virtual Environment
 ## Abstract:
@@ -170,7 +170,7 @@ We will then talk about some of the memory sharing technologies which are built 
 #### SessionID: 39215
 # Big Data for the SQL Ninja
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 26-09-2015 - Session time: 10:15:00 - Track: Business Intelligence
 ## Speaker: Scott Klein
 ## Title: Big Data for the SQL Ninja
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 36364
 # Azure Machine Learning - drag, drop, predict
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Data Science
+Event Date: 26-09-2015 - Session time: 11:30:00 - Track: Data Science
 ## Speaker: Tanja Vukov
 ## Title: Azure Machine Learning - drag, drop, predict
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Data Science
 #### SessionID: 36381
 # Performance Troubleshooting Using DMVs
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Database Adminstration
+Event Date: 26-09-2015 - Session time: 11:30:00 - Track: Database Adminstration
 ## Speaker: Neil Hambly
 ## Title: Performance Troubleshooting Using DMVs
 ## Abstract:
@@ -199,7 +199,7 @@ We’ll be demonstrating using practical examples, including code that can be ta
 #### SessionID: 36917
 # Power BI API
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 26-09-2015 - Session time: 11:30:00 - Track: Business Intelligence
 ## Speaker: Jan Pieter Posthuma
 ## Title: Power BI API
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 37680
 # Temporal Tables in SQL 2016
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: SQL Server 2016
+Event Date: 26-09-2015 - Session time: 11:30:00 - Track: SQL Server 2016
 ## Speaker: Edgar Walther
 ## Title: Temporal Tables in SQL 2016
 ## Abstract:
@@ -218,7 +218,7 @@ Event Date: 26-09-2015 - Session time: 16:00:00 - Track: SQL Server 2016
 #### SessionID: 36391
 # Taming the Beast – How a SQL DBA can keep Kerberos under control
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Database Adminstration
+Event Date: 26-09-2015 - Session time: 13:30:00 - Track: Database Adminstration
 ## Speaker: David Postlethwaite
 ## Title: Taming the Beast – How a SQL DBA can keep Kerberos under control
 ## Abstract:
@@ -230,7 +230,7 @@ This talk looks at the principle of Kerberos, how it applies to SQL Server and w
 #### SessionID: 37399
 # Dive into NoSQL with Azure
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Data Science
+Event Date: 26-09-2015 - Session time: 13:30:00 - Track: Data Science
 ## Speaker: Niels Naglé
 ## Title: Dive into NoSQL with Azure
 ## Abstract:
@@ -241,7 +241,7 @@ Microsoft Azure supports a variety of NoSQL technologies (i.e. key/value, docume
 #### SessionID: 37478
 # SQL Server 2016 Security Innovations
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: SQL Server 2016
+Event Date: 26-09-2015 - Session time: 13:30:00 - Track: SQL Server 2016
 ## Speaker: Pieter Vanhove
 ## Title: SQL Server 2016 Security Innovations
 ## Abstract:
@@ -250,7 +250,7 @@ Event Date: 26-09-2015 - Session time: 16:00:00 - Track: SQL Server 2016
 #### SessionID: 37531
 # Now Where Did THAT Estimate Come From? - Part 1
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Database Development
+Event Date: 26-09-2015 - Session time: 13:30:00 - Track: Database Development
 ## Speaker: Hugo Kornelis
 ## Title: Now Where Did THAT Estimate Come From? - Part 1
 ## Abstract:
@@ -262,7 +262,7 @@ Though the focus of this session is on understanding the cause of bad estimates,
 #### SessionID: 37608
 # Datazen – Microsoft’s shiny dashboard-tool
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 26-09-2015 - Session time: 13:30:00 - Track: Business Intelligence
 ## Speaker: Jan Van humbeek
 ## Title: Datazen – Microsoft’s shiny dashboard-tool
 ## Abstract:
@@ -274,7 +274,7 @@ Let us guide you on your way to the future of mobile BI.
 #### SessionID: 40257
 # Introductie van Azure SQL Data Warehouse (MPP in de cloud) 
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 26-09-2015 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Henk van der Valk
 ## Title: Introductie van Azure SQL Data Warehouse (MPP in de cloud) 
 ## Abstract:
@@ -283,7 +283,7 @@ Event Date: 26-09-2015 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 36372
 # Monitoring SQL Server, Key performance metrics and how to interpret them
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Database Adminstration
+Event Date: 26-09-2015 - Session time: 14:45:00 - Track: Database Adminstration
 ## Speaker: John Martin
 ## Title: Monitoring SQL Server, Key performance metrics and how to interpret them
 ## Abstract:
@@ -292,7 +292,7 @@ Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Database Adminstration
 #### SessionID: 36413
 # Introduction to Azure DocumentDB
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Cloud
+Event Date: 26-09-2015 - Session time: 14:45:00 - Track: Cloud
 ## Speaker: Leonard Lobel
 ## Title: Introduction to Azure DocumentDB
 ## Abstract:
@@ -301,7 +301,7 @@ Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Cloud
 #### SessionID: 36437
 # Best practices in modelling Power pivot.
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 26-09-2015 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Henk Vlootman
 ## Title: Best practices in modelling Power pivot.
 ## Abstract:
@@ -310,7 +310,7 @@ Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 36968
 # Debugging SQL Server
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Database Adminstration
+Event Date: 26-09-2015 - Session time: 14:45:00 - Track: Database Adminstration
 ## Speaker: Enrico van de Laar
 ## Title: Debugging SQL Server
 ## Abstract:
@@ -324,7 +324,7 @@ Don't worry if you are not a programmer. We will go through this session at a re
 #### SessionID: 37355
 # Flying Through the Clouds--Performance Tuning in Azure
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Cloud
+Event Date: 26-09-2015 - Session time: 14:45:00 - Track: Cloud
 ## Speaker: Joseph D'Antoni
 ## Title: Flying Through the Clouds--Performance Tuning in Azure
 ## Abstract:
@@ -342,7 +342,7 @@ You will learn about techniques that will not just improve your system performan
 #### SessionID: 40635
 # Now Where Did THAT Estimate Come From? - Part 2
 #### [Back to calendar](#nr-434)
-Event Date: 26-09-2015 - Session time: 16:00:00 - Track: Database Development
+Event Date: 26-09-2015 - Session time: 14:45:00 - Track: Database Development
 ## Speaker: Hugo Kornelis
 ## Title: Now Where Did THAT Estimate Come From? - Part 2
 ## Abstract:

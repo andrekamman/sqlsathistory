@@ -39,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 64905
 # Governing Power BI in large organizations, A story from a global classification company
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: BI Analytics  Visualization
+Event Date: 02-09-2017 - Session time: 09:30:00 - Track: BI Analytics  Visualization
 ## Speaker: Ida Bergum
 ## Title: Governing Power BI in large organizations, A story from a global classification company
 ## Abstract:
@@ -48,7 +48,7 @@ Event Date: 02-09-2017 - Session time: 15:50:00 - Track: BI Analytics  Visualiza
 #### SessionID: 64949
 # Azure SQL DWH: Tips and Tricks for developers
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: BI Architecture  Development
+Event Date: 02-09-2017 - Session time: 09:30:00 - Track: BI Architecture  Development
 ## Speaker: Sergiy Lunyakin
 ## Title: Azure SQL DWH: Tips and Tricks for developers
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 02-09-2017 - Session time: 15:50:00 - Track: BI Architecture  Develo
 #### SessionID: 65378
 # Database Corruption - Advanced Recovery Techniques
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Other
+Event Date: 02-09-2017 - Session time: 09:30:00 - Track: Other
 ## Speaker: Patrick Flynn
 ## Title: Database Corruption - Advanced Recovery Techniques
 ## Abstract:
@@ -69,7 +69,7 @@ Warning: Hex Editors and DBCC Page dumps will be involved!
 #### SessionID: 65386
 # T-SQL : Bad Habits and Best Practices
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Database Development
+Event Date: 02-09-2017 - Session time: 09:30:00 - Track: Database Development
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits and Best Practices
 ## Abstract:
@@ -82,7 +82,7 @@ By changing your techniques and ditching some of these bad habits for best pract
 #### SessionID: 65523
 # The All Flash DBA
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Database Administration
+Event Date: 02-09-2017 - Session time: 09:30:00 - Track: Database Administration
 ## Speaker: Christopher Adkin
 ## Title: The All Flash DBA
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Database Administration
 #### SessionID: 64795
 # I/O Tuning 101
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Database Development
+Event Date: 02-09-2017 - Session time: 10:50:00 - Track: Database Development
 ## Speaker: Anders Pedersen
 ## Title: I/O Tuning 101
 ## Abstract:
@@ -108,7 +108,7 @@ All of this can be done without the need for any 3rd party tools, all within the
 #### SessionID: 64914
 # IoT 101 with Raspberry Pi and Azure
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Azure and Cloud Services
+Event Date: 02-09-2017 - Session time: 10:50:00 - Track: Azure and Cloud Services
 ## Speaker: Antonio Abalos Castillo
 ## Title: IoT 101 with Raspberry Pi and Azure
 ## Abstract:
@@ -121,7 +121,7 @@ Note this is a beginners session.
 #### SessionID: 66674
 # Understanding SQL Server security
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Database Administration
+Event Date: 02-09-2017 - Session time: 10:50:00 - Track: Database Administration
 ## Speaker: Daniel Hutmacher
 ## Title: Understanding SQL Server security
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Database Administration
 #### SessionID: 66827
 # SQL Server and Docker. What, How and Why
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Database Administration
+Event Date: 02-09-2017 - Session time: 10:50:00 - Track: Database Administration
 ## Speaker: André Kamman
 ## Title: SQL Server and Docker. What, How and Why
 ## Abstract:
@@ -148,7 +148,7 @@ Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Database Administration
 #### SessionID: 66828
 # Power BI Admin. and Best Practices Implementation Techniques
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: BI Analytics  Visualization
+Event Date: 02-09-2017 - Session time: 10:50:00 - Track: BI Analytics  Visualization
 ## Speaker: Ginger Grant
 ## Title: Power BI Admin. and Best Practices Implementation Techniques
 ## Abstract:
@@ -177,7 +177,7 @@ This session will also cover an in-depth dive to the administration and security
 #### SessionID: 64839
 # Always On Multi-Site Patterns
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Other
+Event Date: 02-09-2017 - Session time: 12:10:00 - Track: Other
 ## Speaker: John Martin
 ## Title: Always On Multi-Site Patterns
 ## Abstract:
@@ -190,7 +190,7 @@ All of these elements mean that it is more than just simple wizards to follow in
 #### SessionID: 64870
 # BI DevOps
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: BI Architecture  Development
+Event Date: 02-09-2017 - Session time: 12:10:00 - Track: BI Architecture  Development
 ## Speaker: Jens Vestergaard
 ## Title: BI DevOps
 ## Abstract:
@@ -213,7 +213,7 @@ PowerShell
 #### SessionID: 64955
 # Deep Learning as a Service with TensorFlow in Azure Machine Learning – an example from Elkjøp Nordic
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Azure and Cloud Services
+Event Date: 02-09-2017 - Session time: 12:10:00 - Track: Azure and Cloud Services
 ## Speaker: Kjetil Åmdal-Sævik
 ## Title: Deep Learning as a Service with TensorFlow in Azure Machine Learning – an example from Elkjøp Nordic
 ## Abstract:
@@ -226,7 +226,7 @@ Deploying deep learning models into production is generally not trivial, and it'
 #### SessionID: 66253
 # Dynamic Search Conditions
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Database Development
+Event Date: 02-09-2017 - Session time: 12:10:00 - Track: Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Dynamic Search Conditions
 ## Abstract:
@@ -235,7 +235,7 @@ Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Database Development
 #### SessionID: 66768
 # Entity Framework for the DBA
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Database Administration
+Event Date: 02-09-2017 - Session time: 12:10:00 - Track: Database Administration
 ## Speaker: Ben Emmett
 ## Title: Entity Framework for the DBA
 ## Abstract:
@@ -248,7 +248,7 @@ You might not leave convinced that Entity Framework is a good idea, but you shou
 #### SessionID: 68968
 # SentryOne - tools for productivity and performance (part 1)
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Other
+Event Date: 02-09-2017 - Session time: 13:30:00 - Track: Other
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: SentryOne - tools for productivity and performance (part 1)
 ## Abstract:
@@ -257,7 +257,7 @@ Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Other
 #### SessionID: 68969
 # SentryOne - tools for productivity and performance (part 2)
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Other
+Event Date: 02-09-2017 - Session time: 13:50:00 - Track: Other
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: SentryOne - tools for productivity and performance (part 2)
 ## Abstract:
@@ -266,7 +266,7 @@ Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Other
 #### SessionID: 68970
 # Consolidation of SQL Server environments made easy by dbWatch AS
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Other
+Event Date: 02-09-2017 - Session time: 13:50:00 - Track: Other
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: Consolidation of SQL Server environments made easy by dbWatch AS
 ## Abstract:
@@ -280,7 +280,7 @@ dbWatch AS
 #### SessionID: 68971
 # Why do Webstep believe Software is crucial to the success of IoT by Webstep IoT
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Other
+Event Date: 02-09-2017 - Session time: 13:50:00 - Track: Other
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: Why do Webstep believe Software is crucial to the success of IoT by Webstep IoT
 ## Abstract:
@@ -289,7 +289,7 @@ Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Other
 #### SessionID: 69228
 # Capgemini
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Other
+Event Date: 02-09-2017 - Session time: 13:50:00 - Track: Other
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: Capgemini
 ## Abstract:
@@ -298,7 +298,7 @@ Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Other
 #### SessionID: 69229
 # GDPR and Master Data Management by Profisee
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Azure and Cloud Services
+Event Date: 02-09-2017 - Session time: 13:50:00 - Track: Azure and Cloud Services
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: GDPR and Master Data Management by Profisee
 ## Abstract:
@@ -307,7 +307,7 @@ Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Azure and Cloud Service
 #### SessionID: 64958
 # Data Visualisation - More Than a Hygiene Factor
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: BI Analytics  Visualization
+Event Date: 02-09-2017 - Session time: 14:30:00 - Track: BI Analytics  Visualization
 ## Speaker: Martin Keseler Barland
 ## Title: Data Visualisation - More Than a Hygiene Factor
 ## Abstract:
@@ -320,7 +320,7 @@ In this session we look at some data visualisation principles and best practices
 #### SessionID: 65074
 # Introduction to SQL Server on Linux
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Database Administration
+Event Date: 02-09-2017 - Session time: 14:30:00 - Track: Database Administration
 ## Speaker: Jason Hall
 ## Title: Introduction to SQL Server on Linux
 ## Abstract:
@@ -334,7 +334,7 @@ Learn basic options for monitoring SQL Server performance on Linux
 #### SessionID: 65387
 # New T-SQL Features : SQL Server 2016, 2017, and Azure SQL DB
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Database Development
+Event Date: 02-09-2017 - Session time: 14:30:00 - Track: Database Development
 ## Speaker: Aaron Bertrand
 ## Title: New T-SQL Features : SQL Server 2016, 2017, and Azure SQL DB
 ## Abstract:
@@ -343,7 +343,7 @@ Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Database Development
 #### SessionID: 66740
 # Best practises when migrating to the cloud
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Azure and Cloud Services
+Event Date: 02-09-2017 - Session time: 14:30:00 - Track: Azure and Cloud Services
 ## Speaker: André Kamman
 ## Title: Best practises when migrating to the cloud
 ## Abstract:
@@ -352,7 +352,7 @@ Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Azure and Cloud Service
 #### SessionID: 66752
 # Introduction to Cosmos DB
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Azure and Cloud Services
+Event Date: 02-09-2017 - Session time: 14:30:00 - Track: Azure and Cloud Services
 ## Speaker: Bjoern H Rapp
 ## Title: Introduction to Cosmos DB
 ## Abstract:
@@ -361,7 +361,7 @@ Event Date: 02-09-2017 - Session time: 15:50:00 - Track: Azure and Cloud Service
 #### SessionID: 67214
 # Best friends: SQL Server 2017, Python and Bitcoin!
 #### [Back to calendar](#nr-667)
-Event Date: 02-09-2017 - Session time: 15:50:00 - Track: BI Architecture  Development
+Event Date: 02-09-2017 - Session time: 14:30:00 - Track: BI Architecture  Development
 ## Speaker: Erik Flateby
 ## Title: Best friends: SQL Server 2017, Python and Bitcoin!
 ## Abstract:

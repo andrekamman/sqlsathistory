@@ -38,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 9940
 # Kimball's not Dead: Modeling Basics
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Information Delivery
+Event Date: 02-05-2015 - Session time: 00:00:00 - Track: Information Delivery
 ## Speaker: Allen Smith
 ## Title: Kimball's not Dead: Modeling Basics
 ## Abstract:
@@ -47,7 +47,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Information Delivery
 #### SessionID: 10755
 # Easy, Scalable Data Solutions in SQL Azure
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Big Data  Azure
+Event Date: 02-05-2015 - Session time: 08:30:00 - Track: Big Data  Azure
 ## Speaker: Brian Gogle
 ## Title: Easy, Scalable Data Solutions in SQL Azure
 ## Abstract:
@@ -56,7 +56,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Big Data  Azure
 #### SessionID: 20680
 # Cash in on the data dividend: how Power BI can realize the untapped value of your data
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Power BI
+Event Date: 02-05-2015 - Session time: 08:30:00 - Track: Power BI
 ## Speaker: Mike Diehl
 ## Title: Cash in on the data dividend: how Power BI can realize the untapped value of your data
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Power BI
 #### SessionID: 23691
 # Introduction to BIML and BIMLScript
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Information Delivery
+Event Date: 02-05-2015 - Session time: 08:30:00 - Track: Information Delivery
 ## Speaker: Russel Loski
 ## Title: Introduction to BIML and BIMLScript
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Information Delivery
 #### SessionID: 9938
 # BI Basics - Finding Return on Data
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Information Delivery
+Event Date: 02-05-2015 - Session time: 08:30:00 - Track: Information Delivery
 ## Speaker: Allen Smith
 ## Title: BI Basics - Finding Return on Data
 ## Abstract:
@@ -86,7 +86,7 @@ In this session we look at the roles of data warehousing, big data and business 
 #### SessionID: 11465
 # Connected Car Analytics with Raspberry Pi, Windows Azure, and Pow
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Power BI
+Event Date: 02-05-2015 - Session time: 09:45:00 - Track: Power BI
 ## Speaker: Chris Baudo
 ## Title: Connected Car Analytics with Raspberry Pi, Windows Azure, and Pow
 ## Abstract:
@@ -95,7 +95,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Power BI
 #### SessionID: 14838
 # Rise of the Machine (Learning) – Azure ML in BI, in Apps, and as a product in Azure Marketplace
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Big Data  Azure
+Event Date: 02-05-2015 - Session time: 09:45:00 - Track: Big Data  Azure
 ## Speaker: Greg Beaumont
 ## Title: Rise of the Machine (Learning) – Azure ML in BI, in Apps, and as a product in Azure Marketplace
 ## Abstract:
@@ -104,7 +104,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Big Data  Azure
 #### SessionID: 15771
 # SQL Geography DataTypes and Applications in BI
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Data Visualization  Business Analytics
+Event Date: 02-05-2015 - Session time: 09:45:00 - Track: Data Visualization  Business Analytics
 ## Speaker: Jared Nielsen
 ## Title: SQL Geography DataTypes and Applications in BI
 ## Abstract:
@@ -113,7 +113,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Data Visualization  Bus
 #### SessionID: 26645
 # Building Bullet-Resistant SSIS Packages
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Information Delivery
+Event Date: 02-05-2015 - Session time: 09:45:00 - Track: Information Delivery
 ## Speaker: Tim Mitchell
 ## Title: Building Bullet-Resistant SSIS Packages
 ## Abstract:
@@ -125,7 +125,7 @@ In this demo-packed session, we will examine the design patterns and logistics o
 #### SessionID: 36871
 # Visualizing Geospatial Data with Power Map (Bryan Smith, Microsoft)
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Power BI
+Event Date: 02-05-2015 - Session time: 09:45:00 - Track: Power BI
 ## Speaker: MSBIC Admin
 ## Title: Visualizing Geospatial Data with Power Map (Bryan Smith, Microsoft)
 ## Abstract:
@@ -136,7 +136,7 @@ Bryan is a Business Intelligence Technology Specialist with Microsoft and Adjunc
 #### SessionID: 11522
 # Row-Based Security in SSRS and SSAS
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Data Visualization  Business Analytics
+Event Date: 02-05-2015 - Session time: 11:00:00 - Track: Data Visualization  Business Analytics
 ## Speaker: Chris Hyde
 ## Title: Row-Based Security in SSRS and SSAS
 ## Abstract:
@@ -145,7 +145,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Data Visualization  Bus
 #### SessionID: 11538
 # Power Query: Pulling It All Together
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Power BI
+Event Date: 02-05-2015 - Session time: 11:00:00 - Track: Power BI
 ## Speaker: Chris Johnson
 ## Title: Power Query: Pulling It All Together
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Power BI
 #### SessionID: 14582
 # One is the Loneliest Number: Scaling out your Data Warehouse
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Big Data  Azure
+Event Date: 02-05-2015 - Session time: 11:00:00 - Track: Big Data  Azure
 ## Speaker: Greg Galloway
 ## Title: One is the Loneliest Number: Scaling out your Data Warehouse
 ## Abstract:
@@ -165,7 +165,7 @@ This demo heavy session will be a deep dive into scaling out your data warehouse
 #### SessionID: 19220
 # Building your ETL Framework with BIML
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Information Delivery
+Event Date: 02-05-2015 - Session time: 11:00:00 - Track: Information Delivery
 ## Speaker: Meagan Longoria
 ## Title: Building your ETL Framework with BIML
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Information Delivery
 #### SessionID: 36617
 # Sponsor (Artis): Changing the Game – The Restaurant Experience With Data
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Sponsor Sessions
+Event Date: 02-05-2015 - Session time: 12:45:00 - Track: Sponsor Sessions
 ## Speaker: MSBIC Admin
 ## Title: Sponsor (Artis): Changing the Game – The Restaurant Experience With Data
 ## Abstract:
@@ -184,7 +184,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Sponsor Sessions
 #### SessionID: 36621
 # Sponsor (Slalom): The Age of the Customer: Data is dead, long live data!
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Sponsor Sessions
+Event Date: 02-05-2015 - Session time: 12:45:00 - Track: Sponsor Sessions
 ## Speaker: MSBIC Admin
 ## Title: Sponsor (Slalom): The Age of the Customer: Data is dead, long live data!
 ## Abstract:
@@ -198,7 +198,7 @@ Join Rani Monson and John Ellis for a discussion about winning in the Age of the
 #### SessionID: 36622
 # Sponsor (GNet): Agile BI Using Power BI
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Sponsor Sessions
+Event Date: 02-05-2015 - Session time: 12:45:00 - Track: Sponsor Sessions
 ## Speaker: MSBIC Admin
 ## Title: Sponsor (GNet): Agile BI Using Power BI
 ## Abstract:
@@ -207,7 +207,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Sponsor Sessions
 #### SessionID: 36723
 # Sponsor (Profisee): Build A Golden Record for Any Subject Over Lunch!
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Sponsor Sessions
+Event Date: 02-05-2015 - Session time: 12:45:00 - Track: Sponsor Sessions
 ## Speaker: MSBIC Admin
 ## Title: Sponsor (Profisee): Build A Golden Record for Any Subject Over Lunch!
 ## Abstract:
@@ -222,7 +222,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Sponsor Sessions
 #### SessionID: 14806
 # A Date With DAX: Time Intelligence in Tabular and PowerPivot
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Power BI
+Event Date: 02-05-2015 - Session time: 14:00:00 - Track: Power BI
 ## Speaker: Greg Baldini
 ## Title: A Date With DAX: Time Intelligence in Tabular and PowerPivot
 ## Abstract:
@@ -238,7 +238,7 @@ Some key topics include:
 #### SessionID: 20679
 # Agile Analytics: How to do it using the Microsoft BI toolset
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Information Delivery
+Event Date: 02-05-2015 - Session time: 14:00:00 - Track: Information Delivery
 ## Speaker: Mike Diehl
 ## Title: Agile Analytics: How to do it using the Microsoft BI toolset
 ## Abstract:
@@ -248,7 +248,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Information Delivery
 #### SessionID: 22614
 # 10 SSAS Performance Improvements You Should Make Today
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Information Delivery
+Event Date: 02-05-2015 - Session time: 14:00:00 - Track: Information Delivery
 ## Speaker: Randy Dyess
 ## Title: 10 SSAS Performance Improvements You Should Make Today
 ## Abstract:
@@ -260,7 +260,7 @@ Join this session for 10 basic SSAS performance improvements you should include 
 #### SessionID: 24238
 # Big Data Analytics with SQL Server 2014
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Big Data  Azure
+Event Date: 02-05-2015 - Session time: 14:00:00 - Track: Big Data  Azure
 ## Speaker: Scott Rylie
 ## Title: Big Data Analytics with SQL Server 2014
 ## Abstract:
@@ -269,7 +269,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Big Data  Azure
 #### SessionID: 26648
 # 15 Quick Tips for SSIS Performance
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Information Delivery
+Event Date: 02-05-2015 - Session time: 14:00:00 - Track: Information Delivery
 ## Speaker: Tim Mitchell
 ## Title: 15 Quick Tips for SSIS Performance
 ## Abstract:
@@ -280,7 +280,7 @@ In this session, we’ll focus on SSIS package performance, quickly reviewing 15
 #### SessionID: 13189
 # Practical Power BI – Patterns for the Real World
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Power BI
+Event Date: 02-05-2015 - Session time: 15:15:00 - Track: Power BI
 ## Speaker: Derek McKee
 ## Title: Practical Power BI – Patterns for the Real World
 ## Abstract:
@@ -289,7 +289,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Power BI
 #### SessionID: 19219
 # Overcoming Chartaphobia: Moving Your Organization Toward Interesting and Enlightening Data Viz
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Data Visualization  Business Analytics
+Event Date: 02-05-2015 - Session time: 15:15:00 - Track: Data Visualization  Business Analytics
 ## Speaker: Meagan Longoria
 ## Title: Overcoming Chartaphobia: Moving Your Organization Toward Interesting and Enlightening Data Viz
 ## Abstract:
@@ -298,7 +298,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Data Visualization  Bus
 #### SessionID: 21619
 # Sentiment Analysis with Big Data
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Big Data  Azure
+Event Date: 02-05-2015 - Session time: 15:15:00 - Track: Big Data  Azure
 ## Speaker: Paco Gonzalez
 ## Title: Sentiment Analysis with Big Data
 ## Abstract:
@@ -307,7 +307,7 @@ Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Big Data  Azure
 #### SessionID: 23602
 # In Memory Tables; Not Just For OLTP
 #### [Back to calendar](#nr-396)
-Event Date: 02-05-2015 - Session time: 16:30:00 - Track: Information Delivery
+Event Date: 02-05-2015 - Session time: 15:15:00 - Track: Information Delivery
 ## Speaker: Russ Thomas
 ## Title: In Memory Tables; Not Just For OLTP
 ## Abstract:

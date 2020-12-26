@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 58054
 # Reports on the Run: Mobile Reporting with SQL Server 2016
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: BI
+Event Date: 17-06-2017 - Session time: 08:00:00 - Track: BI
 ## Speaker: Peter Myers
 ## Title: Reports on the Run: Mobile Reporting with SQL Server 2016
 ## Abstract:
@@ -49,7 +49,7 @@ This session will be of interest to a full range of professionals, including ana
 #### SessionID: 58133
 # Azure SQL Data Warehouse 101
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Cloud
+Event Date: 17-06-2017 - Session time: 08:00:00 - Track: Cloud
 ## Speaker: John Martin
 ## Title: Azure SQL Data Warehouse 101
 ## Abstract:
@@ -58,7 +58,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Cloud
 #### SessionID: 59745
 # Query Plan Deep Dive
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Dev
+Event Date: 17-06-2017 - Session time: 08:00:00 - Track: Dev
 ## Speaker: Kevin Boles
 ## Title: Query Plan Deep Dive
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Dev
 #### SessionID: 60950
 # An introduction to SQL Server  Containers
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: DBA
+Event Date: 17-06-2017 - Session time: 08:00:00 - Track: DBA
 ## Speaker: Andrew Pruski
 ## Title: An introduction to SQL Server  Containers
 ## Abstract:
@@ -88,7 +88,7 @@ Windows Server administration
 #### SessionID: 60951
 # Revenge: The SQL!
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: DBA
+Event Date: 17-06-2017 - Session time: 08:00:00 - Track: DBA
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
 ## Abstract:
@@ -103,7 +103,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #### SessionID: 59699
 # The Query Store and Query Tuning in SQL Server
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: DBA
+Event Date: 17-06-2017 - Session time: 09:15:00 - Track: DBA
 ## Speaker: Grant Fritchey
 ## Title: The Query Store and Query Tuning in SQL Server
 ## Abstract:
@@ -114,7 +114,7 @@ This session will explore how the Query Store works and how it’s going to chan
 #### SessionID: 59721
 # The RDBMS is Dead, Long Live the RDBMS!
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: DBA
+Event Date: 17-06-2017 - Session time: 09:15:00 - Track: DBA
 ## Speaker: Buck Woody
 ## Title: The RDBMS is Dead, Long Live the RDBMS!
 ## Abstract:
@@ -123,7 +123,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: DBA
 #### SessionID: 66027
 # Introduction to Microsoft AI and Azure Bot Framework
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Big Data and Analytics 
+Event Date: 17-06-2017 - Session time: 09:15:00 - Track: Big Data and Analytics 
 ## Speaker: Emma Reid
 ## Title: Introduction to Microsoft AI and Azure Bot Framework
 ## Abstract:
@@ -132,7 +132,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Big Data and Analytics
 #### SessionID: 59307
 # Responding to Extended Events in near real-time
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: DBA
+Event Date: 17-06-2017 - Session time: 10:30:00 - Track: DBA
 ## Speaker: Gianluca Sartori
 ## Title: Responding to Extended Events in near real-time
 ## Abstract:
@@ -143,7 +143,7 @@ In this session we will see how the Extended Events streaming API can be used to
 #### SessionID: 59313
 # Using M for data access in Analysis Services Tabular v.next
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: BI
+Event Date: 17-06-2017 - Session time: 10:30:00 - Track: BI
 ## Speaker: Chris Webb
 ## Title: Using M for data access in Analysis Services Tabular v.next
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: BI
 #### SessionID: 59337
 # New T-SQL Capabilities in SQL Server 2016 and Azure SQL Database
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: DBA
+Event Date: 17-06-2017 - Session time: 10:30:00 - Track: DBA
 ## Speaker: Aaron Bertrand
 ## Title: New T-SQL Capabilities in SQL Server 2016 and Azure SQL Database
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: DBA
 #### SessionID: 60982
 # Infrastructure as Code in Azure for Data Platform People
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Cloud
+Event Date: 17-06-2017 - Session time: 10:30:00 - Track: Cloud
 ## Speaker: André Kamman
 ## Title: Infrastructure as Code in Azure for Data Platform People
 ## Abstract:
@@ -171,7 +171,7 @@ In this session we will learn how to deploy Azure resources with (partial) Azure
 #### SessionID: 61498
 # Lightning Talks
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Professional Development
+Event Date: 17-06-2017 - Session time: 10:30:00 - Track: Professional Development
 ## Speaker: SqlSatDublin .
 ## Title: Lightning Talks
 ## Abstract:
@@ -182,7 +182,7 @@ The format is fast paces five minute lightning talks with  anything goes topics 
 #### SessionID: 57947
 # Think  work like a Data Scientist with SQL 2016 R
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Big Data and Analytics 
+Event Date: 17-06-2017 - Session time: 11:45:00 - Track: Big Data and Analytics 
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Think  work like a Data Scientist with SQL 2016 R
 ## Abstract:
@@ -195,7 +195,7 @@ In this session, you will definitely take away a breakthrough concept of Advance
 #### SessionID: 59341
 # Investigate TempDB like Sherlock Holmes
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: DBA
+Event Date: 17-06-2017 - Session time: 11:45:00 - Track: DBA
 ## Speaker: Lord Richard Douglas
 ## Title: Investigate TempDB like Sherlock Holmes
 ## Abstract:
@@ -206,7 +206,7 @@ You will leave this session prepared to create better architecture decisions and
 #### SessionID: 60958
 # Taming the Open Source Beast with Azure for Business Intelligence
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Cloud
+Event Date: 17-06-2017 - Session time: 11:45:00 - Track: Cloud
 ## Speaker: Jen Stirrup
 ## Title: Taming the Open Source Beast with Azure for Business Intelligence
 ## Abstract:
@@ -225,7 +225,7 @@ Demos will provide practical takeaways in your Business Intelligence Enterprise 
 #### SessionID: 61278
 # Plan Cache Pollution: Dealing with Ad Hoc Madness
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Dev
+Event Date: 17-06-2017 - Session time: 11:45:00 - Track: Dev
 ## Speaker: Kimberly Tripp
 ## Title: Plan Cache Pollution: Dealing with Ad Hoc Madness
 ## Abstract:
@@ -234,7 +234,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Dev
 #### SessionID: 64906
 # Performance tips for faster SQL queries – DEV2DEV
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Dev
+Event Date: 17-06-2017 - Session time: 11:45:00 - Track: Dev
 ## Speaker: Emanuele Zanchettin
 ## Title: Performance tips for faster SQL queries – DEV2DEV
 ## Abstract:
@@ -243,7 +243,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Dev
 #### SessionID: 66427
 # Scaling out SQL Server in Azure – Canadian Music Industry Case St
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: BI
+Event Date: 17-06-2017 - Session time: 13:00:00 - Track: BI
 ## Speaker: John Corley
 ## Title: Scaling out SQL Server in Azure – Canadian Music Industry Case St
 ## Abstract:
@@ -256,7 +256,7 @@ Key processes that previously would have taken a number of weeks can now be comp
 #### SessionID: 58222
 # Problem Solving With The In-Memory Engine
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Dev
+Event Date: 17-06-2017 - Session time: 14:00:00 - Track: Dev
 ## Speaker: Christopher Adkin
 ## Title: Problem Solving With The In-Memory Engine
 ## Abstract:
@@ -271,7 +271,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Dev
 #### SessionID: 58271
 # Introduction to U-SQL and Data Lake
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Big Data and Analytics 
+Event Date: 17-06-2017 - Session time: 14:00:00 - Track: Big Data and Analytics 
 ## Speaker: Alex Whittles
 ## Title: Introduction to U-SQL and Data Lake
 ## Abstract:
@@ -280,7 +280,7 @@ Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Big Data and Analytics
 #### SessionID: 61377
 # Azure IoT, Windows 10 Core  Raspberry PI (DIY)
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Cloud
+Event Date: 17-06-2017 - Session time: 14:00:00 - Track: Cloud
 ## Speaker: Jens Vestergaard
 ## Title: Azure IoT, Windows 10 Core  Raspberry PI (DIY)
 ## Abstract:
@@ -290,7 +290,7 @@ This session is not for the Enterprise rather has a more DIY approach.
 #### SessionID: 61499
 # The 2017 Expert Panel
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: Professional Development
+Event Date: 17-06-2017 - Session time: 14:00:00 - Track: Professional Development
 ## Speaker: SqlSatDublin .
 ## Title: The 2017 Expert Panel
 ## Abstract:
@@ -305,7 +305,7 @@ Submit your questions live on twitter via  #SqlSatDublin or just come along.
 #### SessionID: 66295
 # PowerShell ❤ SQL Server: Modern Database Administration with dbat
 #### [Back to calendar](#nr-620)
-Event Date: 17-06-2017 - Session time: 15:15:00 - Track: DBA
+Event Date: 17-06-2017 - Session time: 14:00:00 - Track: DBA
 ## Speaker: Chrissy LeMaire
 ## Title: PowerShell ❤ SQL Server: Modern Database Administration with dbat
 ## Abstract:

@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 49437
 # You don't need Enterprise Edition to do that!
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-10-2016 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: William Durkin
 ## Title: You don't need Enterprise Edition to do that!
 ## Abstract:
@@ -49,7 +49,7 @@ You will leave the session with a set of solution concepts covering Partitioning
 #### SessionID: 49531
 # Bridging the gap - Introducing Mobile Reports
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-10-2016 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jan Van humbeek
 ## Title: Bridging the gap - Introducing Mobile Reports
 ## Abstract:
@@ -60,7 +60,7 @@ We'll show you how you start from your existing SSRS reports and leverage that i
 #### SessionID: 51033
 # Connect your Shack: Building a Poor Man's IoT
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-10-2016 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Koos van Strien
 ## Title: Connect your Shack: Building a Poor Man's IoT
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 15-10-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 53801
 # If a machine can learn, why can't YOU learn Azure Machine Learning?
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 15-10-2016 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: André Melancia
 ## Title: If a machine can learn, why can't YOU learn Azure Machine Learning?
 ## Abstract:
@@ -80,7 +80,7 @@ Disclaimer: Sadly, AzureML still can't predict what's on your girlfriend's mind.
 #### SessionID: 54467
 # Building a Performance Monitoring System Using XEvents
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-10-2016 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ola Hallengren
 ## Title: Building a Performance Monitoring System Using XEvents
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 50296
 # Using PowerShell for SSIS
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-10-2016 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joost van Rossum
 ## Title: Using PowerShell for SSIS
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 15-10-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 50362
 # Flying Through the Clouds--Performance Tuning in Azure
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 15-10-2016 - Session time: 10:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Joseph D'Antoni
 ## Title: Flying Through the Clouds--Performance Tuning in Azure
 ## Abstract:
@@ -116,7 +116,7 @@ You will learn about techniques that will not just improve your system performan
 #### SessionID: 50990
 # Extending Power BI via the REST API and Power BI Embedded
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 15-10-2016 - Session time: 10:15:00 - Track: Analytics and Visualization
 ## Speaker: Jan Pieter Posthuma
 ## Title: Extending Power BI via the REST API and Power BI Embedded
 ## Abstract:
@@ -126,7 +126,7 @@ During this session I will show the possibilities of the API and how it can be i
 #### SessionID: 53806
 # What’s new in SQL Server 2016 Availability Groups
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-10-2016 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Arthur Baan
 ## Title: What’s new in SQL Server 2016 Availability Groups
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 54333
 # Latches  Spinlocks
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-10-2016 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Klaus Aschenbrenner
 ## Title: Latches  Spinlocks
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 49468
 # A developers guide to Azure SQL Data Warehouse
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 15-10-2016 - Session time: 11:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: James Rowland-Jones
 ## Title: A developers guide to Azure SQL Data Warehouse
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 49496
 # Introducing the SQL Server 2016 Query Store
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-10-2016 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Enrico van de Laar
 ## Title: Introducing the SQL Server 2016 Query Store
 ## Abstract:
@@ -163,7 +163,7 @@ During this session we will take a thorough look at the Query Store, it’s arch
 #### SessionID: 50382
 # Natural Born Killers, Performance Issues to Avoid
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 15-10-2016 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Lord Richard Douglas
 ## Title: Natural Born Killers, Performance Issues to Avoid
 ## Abstract:
@@ -176,7 +176,7 @@ You will leave this session with a list of things that you can check for in your
 #### SessionID: 50412
 # Master Data Services: Onbekend maakt Onbemind
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-10-2016 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Remko de Boer
 ## Title: Master Data Services: Onbekend maakt Onbemind
 ## Abstract:
@@ -185,7 +185,7 @@ Event Date: 15-10-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 52566
 # SQL SERVER - Next station Azure
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-10-2016 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: SQL SERVER - Next station Azure
 ## Abstract:
@@ -201,7 +201,7 @@ We will cover:
 #### SessionID: 49585
 # Super Scaling the LMax Queuing Pattern With SQL Server
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-10-2016 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christopher Adkin
 ## Title: Super Scaling the LMax Queuing Pattern With SQL Server
 ## Abstract:
@@ -210,7 +210,7 @@ Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 51015
 # Session Details not available
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 15-10-2016 - Session time: 13:30:00 - Track: Analytics and Visualization
 ## Speaker: n/a n/a
 ## Title: Session Details not available
 ## Abstract:
@@ -219,7 +219,7 @@ Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 52821
 # Temporal Data in SQL Server 2016: Why, where and how we should use it ?
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 15-10-2016 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Andre Batista
 ## Title: Temporal Data in SQL Server 2016: Why, where and how we should use it ?
 ## Abstract:
@@ -230,7 +230,7 @@ Also i will show you how we can audit data, or even recover some data that got u
 #### SessionID: 53021
 # Query Optimizer (engl)
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 15-10-2016 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Torsten Strauss
 ## Title: Query Optimizer (engl)
 ## Abstract:
@@ -240,7 +240,7 @@ The session (level 300 – 400) assumes that you are familiar with the fundament
 #### SessionID: 53274
 # Continuous Integration and the Data Warehouse
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-10-2016 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: John Tunnicliffe
 ## Title: Continuous Integration and the Data Warehouse
 ## Abstract:
@@ -260,7 +260,7 @@ Event Date: 15-10-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 49443
 # Securing SQL Server, Patterns and Practices
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-10-2016 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Martin
 ## Title: Securing SQL Server, Patterns and Practices
 ## Abstract:
@@ -275,7 +275,7 @@ Security should be the rule, not the exception, together we can make this happen
 #### SessionID: 49560
 # SQL Server 2016 Polybase- Benefits  how to get started?
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-10-2016 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Henk van der Valk
 ## Title: SQL Server 2016 Polybase- Benefits  how to get started?
 ## Abstract:
@@ -284,7 +284,7 @@ Event Date: 15-10-2016 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 49634
 # Mastering DML Operations like a master
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 15-10-2016 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Uwe Ricken
 ## Title: Mastering DML Operations like a master
 ## Abstract:
@@ -301,7 +301,7 @@ What performance drawbacks have Page Splits and Forwarded Records for my applica
 #### SessionID: 53064
 # NoLock,  What does it exactly do ?
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 15-10-2016 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Sebastian van den Putten
 ## Title: NoLock,  What does it exactly do ?
 ## Abstract:
@@ -313,7 +313,7 @@ Only to end with how the 'magic speed' comes to be and what other ways can used 
 #### SessionID: 53879
 # Streaming Fast data with SQL Server  Azure
 #### [Back to calendar](#nr-551)
-Event Date: 15-10-2016 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 15-10-2016 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Rik Opdam
 ## Title: Streaming Fast data with SQL Server  Azure
 ## Abstract:

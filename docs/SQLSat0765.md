@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 77200
 # Problem Solving With The In-Memory Engine
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Christopher Adkin
 ## Title: Problem Solving With The In-Memory Engine
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 77303
 # Choose your own Database Adventure
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Chant
 ## Title: Choose your own Database Adventure
 ## Abstract:
@@ -63,7 +63,7 @@ Each selection will have a different outcome, and along the way you will probabl
 #### SessionID: 77349
 # Azure Cosmos DB - What you need to know to build globally distributed apps?
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-10-2018 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Satya Jayanty
 ## Title: Azure Cosmos DB - What you need to know to build globally distributed apps?
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Cloud Application Devel
 #### SessionID: 82809
 # SQL Server Containers in Azure
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-10-2018 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Andrew Pruski
 ## Title: SQL Server Containers in Azure
 ## Abstract:
@@ -92,7 +92,7 @@ Each topic will be backed up with demos which will show how simple it is to get 
 #### SessionID: 86325
 # Who will be Denmark's next Primeminister?
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Dynamics 365
+Event Date: 06-10-2018 - Session time: 08:30:00 - Track: Dynamics 365
 ## Speaker: Kenneth Nielsen
 ## Title: Who will be Denmark's next Primeminister?
 ## Abstract:
@@ -105,7 +105,7 @@ Speaker is NOT Kenneth, but will be MIkkel Freltoft Krogsholm
 #### SessionID: 77350
 # Big Data with Azure: where to begin? Concepts and best practices
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 06-10-2018 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Satya Jayanty
 ## Title: Big Data with Azure: where to begin? Concepts and best practices
 ## Abstract:
@@ -116,7 +116,7 @@ Microsoft Azure has the ability to move, store and analyze data within the cloud
 #### SessionID: 78865
 # Now Where Did THAT Estimate Come From?
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: Now Where Did THAT Estimate Come From?
 ## Abstract:
@@ -129,7 +129,7 @@ Though the focus of this session is on understanding the cause of bad estimates,
 #### SessionID: 80739
 # Dealing with CosmosDB
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-10-2018 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Dealing with CosmosDB
 ## Abstract:
@@ -144,7 +144,7 @@ In this presentation, you will learn:
 #### SessionID: 83231
 # Boosting SSAS productivity with Tabular Editor
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Otykier
 ## Title: Boosting SSAS productivity with Tabular Editor
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 06-10-2018 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 85128
 # Dataflows for Power BI
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 06-10-2018 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Bent Pedersen
 ## Title: Dataflows for Power BI
 ## Abstract:
@@ -168,7 +168,7 @@ This will help your organisation simplifying modeling and is intended to prevent
 #### SessionID: 77199
 # Continuous Integration Pipelines With Jenkins, Docker and SQL Server
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 12:30:00 - Track: Application  Database Development
 ## Speaker: Christopher Adkin
 ## Title: Continuous Integration Pipelines With Jenkins, Docker and SQL Server
 ## Abstract:
@@ -177,7 +177,7 @@ Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 77515
 # The language of graph databases and SQL Server
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 12:30:00 - Track: Application  Database Development
 ## Speaker: Andrea Martorana Tusa
 ## Title: The language of graph databases and SQL Server
 ## Abstract:
@@ -189,7 +189,7 @@ Then we compare the semantic model with SQL Server to discover how to apply it t
 #### SessionID: 78639
 # Start testing your SSIS packages with ssisUnit
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 12:30:00 - Track: Application  Database Development
 ## Speaker: Bartosz Ratajczyk
 ## Title: Start testing your SSIS packages with ssisUnit
 ## Abstract:
@@ -200,7 +200,7 @@ On this session, I will show you why you should and how to start with automated 
 #### SessionID: 84668
 # Shard Attack - Horizontal Scaling in Azure SQL Database
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 12:30:00 - Track: Application  Database Development
 ## Speaker: David Postlethwaite
 ## Title: Shard Attack - Horizontal Scaling in Azure SQL Database
 ## Abstract:
@@ -215,7 +215,7 @@ We will be using t-sql, PowerShell and c# so come prepared for some serious codi
 #### SessionID: 85102
 # Continuous Delivery for BI projects
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 12:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jens Vestergaard
 ## Title: Continuous Delivery for BI projects
 ## Abstract:
@@ -236,7 +236,7 @@ Team Services
 #### SessionID: 80742
 # Device provisioning with Azure IoT in a Nutshell
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-10-2018 - Session time: 13:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Device provisioning with Azure IoT in a Nutshell
 ## Abstract:
@@ -251,7 +251,7 @@ zero-touch registration of devices to IoT Hub with security that begins at the d
 #### SessionID: 83431
 # Working with complicated data models in DAX
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 06-10-2018 - Session time: 13:45:00 - Track: BI Information Delivery
 ## Speaker: James McGillivray
 ## Title: Working with complicated data models in DAX
 ## Abstract:
@@ -264,7 +264,7 @@ From role-playing dimensions and bi-directional filters to advanced filter conte
 #### SessionID: 83718
 # Don't Use Cursors or Why You Maybe Should Use a Cursor After All
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Don't Use Cursors or Why You Maybe Should Use a Cursor After All
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 85101
 # Data Ingestion Tricks w/ M
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 06-10-2018 - Session time: 13:45:00 - Track: Analytics and Visualization
 ## Speaker: Jens Vestergaard
 ## Title: Data Ingestion Tricks w/ M
 ## Abstract:
@@ -295,7 +295,7 @@ Additionally, I will demonstrate how to deploy your home-grown model into Azure 
 #### SessionID: 85143
 # SQL server window functions
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Martin Hansen
 ## Title: SQL server window functions
 ## Abstract:
@@ -308,7 +308,7 @@ In this session I will walk through the syntax of window functions as well as de
 #### SessionID: 77339
 # Build your next BI solution in azure
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alexander Klein
 ## Title: Build your next BI solution in azure
 ## Abstract:
@@ -317,7 +317,7 @@ Event Date: 06-10-2018 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 77653
 # Azure stream analytics
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Nico Jacobs
 ## Title: Azure stream analytics
 ## Abstract:
@@ -327,7 +327,7 @@ Azure Stream Analytics allows you to analyze streams of data while they arrive. 
 #### SessionID: 78646
 # Automate your SSIS Deployments with VSTS
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bob Duffy
 ## Title: Automate your SSIS Deployments with VSTS
 ## Abstract:
@@ -344,7 +344,7 @@ Topics include:
 #### SessionID: 83012
 # Collecting Performance Metrics
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Collecting Performance Metrics
 ## Abstract:
@@ -355,7 +355,7 @@ In this session, we will be combining three open source tools - Telegraf, Influx
 #### SessionID: 85133
 # Automation and best practices for ADFv2
 #### [Back to calendar](#nr-765)
-Event Date: 06-10-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bent Pedersen
 ## Title: Automation and best practices for ADFv2
 ## Abstract:

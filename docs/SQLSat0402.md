@@ -52,7 +52,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 12256
 # The Next Dimension of Data
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 08-08-2015 - Session time: 08:00:00 - Track: DBA - Database Development
 ## Speaker: Dave Mattingly
 ## Title: The Next Dimension of Data
 ## Abstract:
@@ -63,7 +63,7 @@ Turn your facts and figures into a compelling story by entering geospace: the fi
 #### SessionID: 12353
 # Clustered Columnstore Indexes in SQL Server 2014
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 08-08-2015 - Session time: 08:00:00 - Track: DBA - Database Development
 ## Speaker: Dave Fackler
 ## Title: Clustered Columnstore Indexes in SQL Server 2014
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Developm
 #### SessionID: 13331
 # The usual SUSPECTs: When good databases go bad.
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 08-08-2015 - Session time: 08:00:00 - Track: DBA - Administration
 ## Speaker: David Maxwell
 ## Title: The usual SUSPECTs: When good databases go bad.
 ## Abstract:
@@ -84,7 +84,7 @@ learn the proper techniques to bring your data safely back online.
 #### SessionID: 24577
 # Understanding SQL Server Statistics
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 08-08-2015 - Session time: 08:00:00 - Track: DBA - Administration
 ## Speaker: Sreeni Julakanti
 ## Title: Understanding SQL Server Statistics
 ## Abstract:
@@ -95,7 +95,7 @@ Targeted audience will be IT Developers, Managers and Support Groups.
 #### SessionID: 36101
 # SQL Server Databaseology: A Deep Dive Into Database Internals
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 08-08-2015 - Session time: 08:00:00 - Track: DBA - Administration
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology: A Deep Dive Into Database Internals
 ## Abstract:
@@ -105,7 +105,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
 #### SessionID: 37336
 # Getting Started with Analysis Services Tabular mode
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Enterprise BI
+Event Date: 08-08-2015 - Session time: 08:00:00 - Track: Enterprise BI
 ## Speaker: Phillip Labry
 ## Title: Getting Started with Analysis Services Tabular mode
 ## Abstract:
@@ -114,7 +114,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Enterprise BI
 #### SessionID: 38005
 # Manage Both On-Prem and Azure Databases with PowerShell
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Cloud
+Event Date: 08-08-2015 - Session time: 08:00:00 - Track: Cloud
 ## Speaker: Allen White
 ## Title: Manage Both On-Prem and Azure Databases with PowerShell
 ## Abstract:
@@ -124,7 +124,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Cloud
 #### SessionID: 12352
 # CSI: DW -- Anatomy of a VLDW!
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Enterprise BI
+Event Date: 08-08-2015 - Session time: 09:15:00 - Track: Enterprise BI
 ## Speaker: Dave Fackler
 ## Title: CSI: DW -- Anatomy of a VLDW!
 ## Abstract:
@@ -133,7 +133,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Enterprise BI
 #### SessionID: 19006
 # R intro for the SQL Server Pro
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Other
+Event Date: 08-08-2015 - Session time: 09:15:00 - Track: Other
 ## Speaker: Luis Figueroa
 ## Title: R intro for the SQL Server Pro
 ## Abstract:
@@ -142,7 +142,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Other
 #### SessionID: 36807
 # Picking the Right Fights with Your Server Team
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 08-08-2015 - Session time: 09:15:00 - Track: DBA - Administration
 ## Speaker: Joseph D'Antoni
 ## Title: Picking the Right Fights with Your Server Team
 ## Abstract:
@@ -158,7 +158,7 @@ After attending this session, you will have a good understanding of how to talk 
 #### SessionID: 37010
 # Right-Sizing Your SQL Server Virtual Machine
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 08-08-2015 - Session time: 09:15:00 - Track: DBA - Administration
 ## Speaker: David Klee
 ## Title: Right-Sizing Your SQL Server Virtual Machine
 ## Abstract:
@@ -169,7 +169,7 @@ The methods for understanding the performance of your mission-critical SQL Serve
 #### SessionID: 37141
 # Read Dirty to Me - Isolation Levels/User Impact
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 08-08-2015 - Session time: 09:15:00 - Track: DBA - Database Development
 ## Speaker: Wendy Pastrick
 ## Title: Read Dirty to Me - Isolation Levels/User Impact
 ## Abstract:
@@ -178,7 +178,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Developm
 #### SessionID: 37757
 # Keys to successful SharePoint administration for the DBA
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 08-08-2015 - Session time: 09:15:00 - Track: DBA - Administration
 ## Speaker: Daniel Glenn
 ## Title: Keys to successful SharePoint administration for the DBA
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
 #### SessionID: 37800
 # Getting Started With SQL Server Replication
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 08-08-2015 - Session time: 09:15:00 - Track: DBA - Administration
 ## Speaker: Robert Verell
 ## Title: Getting Started With SQL Server Replication
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
 #### SessionID: 38006
 # Beginners SQL Server Security the Low Hanging Fruit
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 08-08-2015 - Session time: 09:15:00 - Track: DBA - Administration
 ## Speaker: Lindsay Clark
 ## Title: Beginners SQL Server Security the Low Hanging Fruit
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
 #### SessionID: 13490
 # How In-Memory Database Objects Affect Database Design
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 08-08-2015 - Session time: 10:30:00 - Track: DBA - Database Development
 ## Speaker: Louis Davidson
 ## Title: How In-Memory Database Objects Affect Database Design
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Developm
 #### SessionID: 24067
 # Getting Started With Execution Plans
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 08-08-2015 - Session time: 10:30:00 - Track: DBA - Administration
 ## Speaker: Scott Fallen
 ## Title: Getting Started With Execution Plans
 ## Abstract:
@@ -226,7 +226,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
 #### SessionID: 24887
 # Every Byte Counts: Why Your Data Type Choices Matter
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 08-08-2015 - Session time: 10:30:00 - Track: DBA - Database Development
 ## Speaker: Andy Yun
 ## Title: Every Byte Counts: Why Your Data Type Choices Matter
 ## Abstract:
@@ -239,7 +239,7 @@ When you leave, you will be able to explain to your colleagues why data type cho
 #### SessionID: 36655
 # Playing in Traffic: Lessons from High-Speed, High-Volume Applications
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 08-08-2015 - Session time: 10:30:00 - Track: DBA - Database Development
 ## Speaker: Jay Robinson
 ## Title: Playing in Traffic: Lessons from High-Speed, High-Volume Applications
 ## Abstract:
@@ -248,7 +248,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Developm
 #### SessionID: 38007
 # Connecting Power BI to On-Prem SSAS Tabular
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Enterprise BI
+Event Date: 08-08-2015 - Session time: 10:30:00 - Track: Enterprise BI
 ## Speaker: Kerry Tyler
 ## Title: Connecting Power BI to On-Prem SSAS Tabular
 ## Abstract:
@@ -257,7 +257,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Enterprise BI
 #### SessionID: 38016
 # Data Architecture 101
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 08-08-2015 - Session time: 10:30:00 - Track: DBA - Database Development
 ## Speaker: Pat Phelan
 ## Title: Data Architecture 101
 ## Abstract:
@@ -269,7 +269,7 @@ You’ll get a big bonus if you build this right, but you also remember what you
 #### SessionID: 38146
 # Primer on Power BI
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Self Service BI
+Event Date: 08-08-2015 - Session time: 10:30:00 - Track: Self Service BI
 ## Speaker: Tamera Clark
 ## Title: Primer on Power BI
 ## Abstract:
@@ -284,7 +284,7 @@ This session is for anyone just starting out and even those who are just BI curi
 #### SessionID: 39825
 # WIT Panel Discussion 
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Other
+Event Date: 08-08-2015 - Session time: 11:45:00 - Track: Other
 ## Speaker: Wendy Pastrick
 ## Title: WIT Panel Discussion 
 ## Abstract:
@@ -293,7 +293,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Other
 #### SessionID: 39830
 # Infrastructure level In Memory Computing
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Other
+Event Date: 08-08-2015 - Session time: 11:45:00 - Track: Other
 ## Speaker: Bala Narasimhan
 ## Title: Infrastructure level In Memory Computing
 ## Abstract:
@@ -304,7 +304,7 @@ What if one could guarantee In-Memory performance for SQL Server without any of 
 #### SessionID: 10292
 # PoShDBA: Practical PowerShell for the DBA
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 08-08-2015 - Session time: 13:00:00 - Track: DBA - Administration
 ## Speaker: Ben Miller
 ## Title: PoShDBA: Practical PowerShell for the DBA
 ## Abstract:
@@ -313,7 +313,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
 #### SessionID: 21005
 # Adding Hadoop to your Data Tool Kit
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Big Data
+Event Date: 08-08-2015 - Session time: 13:00:00 - Track: Big Data
 ## Speaker: Montrial Harrell
 ## Title: Adding Hadoop to your Data Tool Kit
 ## Abstract:
@@ -322,7 +322,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Big Data
 #### SessionID: 22091
 # Common Coding Mistakes and how to Mitigate them
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Other
+Event Date: 08-08-2015 - Session time: 13:00:00 - Track: Other
 ## Speaker: William Wolf
 ## Title: Common Coding Mistakes and how to Mitigate them
 ## Abstract:
@@ -331,7 +331,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Other
 #### SessionID: 24601
 # How to Determine What Data Is Corrupt
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 08-08-2015 - Session time: 13:00:00 - Track: DBA - Administration
 ## Speaker: Frank Gill
 ## Title: How to Determine What Data Is Corrupt
 ## Abstract:
@@ -340,7 +340,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
 #### SessionID: 36196
 # Data-ing Advice: Profiles are Important
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Enterprise BI
+Event Date: 08-08-2015 - Session time: 13:00:00 - Track: Enterprise BI
 ## Speaker: Britton Gray
 ## Title: Data-ing Advice: Profiles are Important
 ## Abstract:
@@ -349,7 +349,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Enterprise BI
 #### SessionID: 36736
 # Importing and Exporting Spatial Data into SQLServer
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 08-08-2015 - Session time: 13:00:00 - Track: DBA - Database Development
 ## Speaker: Frank Murphy
 ## Title: Importing and Exporting Spatial Data into SQLServer
 ## Abstract:
@@ -358,7 +358,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Developm
 #### SessionID: 8834
 # Migrating SQL Server applications to run on MPP systems (PDW, Netezza, etc.)
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Big Data
+Event Date: 08-08-2015 - Session time: 13:00:00 - Track: Big Data
 ## Speaker: Aaron Cutshall
 ## Title: Migrating SQL Server applications to run on MPP systems (PDW, Netezza, etc.)
 ## Abstract:
@@ -367,7 +367,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Big Data
 #### SessionID: 10605
 # What's New in SQL Server 2014 OTHER THAN Hekaton?
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 08-08-2015 - Session time: 14:15:00 - Track: DBA - Administration
 ## Speaker: Bob Pusateri
 ## Title: What's New in SQL Server 2014 OTHER THAN Hekaton?
 ## Abstract:
@@ -376,7 +376,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
 #### SessionID: 14213
 # Much Ado About Hadoop
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Big Data
+Event Date: 08-08-2015 - Session time: 14:15:00 - Track: Big Data
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
 ## Abstract:
@@ -385,7 +385,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: Big Data
 #### SessionID: 17228
 # The PROCESS of queries
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 08-08-2015 - Session time: 14:15:00 - Track: DBA - Database Development
 ## Speaker: John Deardurff
 ## Title: The PROCESS of queries
 ## Abstract:
@@ -394,7 +394,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Developm
 #### SessionID: 20608
 # Execution Plans for Mere Mortals
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 08-08-2015 - Session time: 14:15:00 - Track: DBA - Administration
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
 ## Abstract:
@@ -412,7 +412,7 @@ Sections:
 #### SessionID: 26435
 # Indexing Deep Dive
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 08-08-2015 - Session time: 14:15:00 - Track: DBA - Database Development
 ## Speaker: Kevin Boles
 ## Title: Indexing Deep Dive
 ## Abstract:
@@ -421,7 +421,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Database Developm
 #### SessionID: 35712
 # Flash  SQL Server— Re-Thinking Best Practices
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 08-08-2015 - Session time: 14:15:00 - Track: DBA - Administration
 ## Speaker: J May
 ## Title: Flash  SQL Server— Re-Thinking Best Practices
 ## Abstract:
@@ -430,7 +430,7 @@ Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
 #### SessionID: 38020
 # Digging Out From Corruption
 #### [Back to calendar](#nr-402)
-Event Date: 08-08-2015 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 08-08-2015 - Session time: 14:15:00 - Track: DBA - Administration
 ## Speaker: Eddie Wuerch
 ## Title: Digging Out From Corruption
 ## Abstract:

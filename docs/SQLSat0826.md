@@ -48,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 86700
 # Be Part of the Solution with Automation
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
+Event Date: 16-03-2019 - Session time: 09:00:00 - Track: Cloud
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Be Part of the Solution with Automation
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
 #### SessionID: 86796
 # What is Power BI?
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
+Event Date: 16-03-2019 - Session time: 09:00:00 - Track: BI
 ## Speaker: Angela Henry
 ## Title: What is Power BI?
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 #### SessionID: 87306
 # DBA Checklists: Reliable, Repeatable,  Automated.
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
+Event Date: 16-03-2019 - Session time: 09:00:00 - Track: Admin
 ## Speaker: Patrick Flynn
 ## Title: DBA Checklists: Reliable, Repeatable,  Automated.
 ## Abstract:
@@ -87,7 +87,7 @@ Some basic knowledge of PowerShell and DBA
 #### SessionID: 88141
 # SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Service?
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
+Event Date: 16-03-2019 - Session time: 09:00:00 - Track: Admin
 ## Speaker: Rick Lowe
 ## Title: SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Service?
 ## Abstract:
@@ -96,7 +96,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 #### SessionID: 88666
 # Instant insights, automation and action with Power BI, Power Apps, Flow and Azure Machine Learning
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
+Event Date: 16-03-2019 - Session time: 09:00:00 - Track: BI
 ## Speaker: Anthony Bulk
 ## Title: Instant insights, automation and action with Power BI, Power Apps, Flow and Azure Machine Learning
 ## Abstract:
@@ -109,7 +109,7 @@ I will show you how you can use the tools listed above to rapidly build a system
 #### SessionID: 89714
 # Text Mining  Sentiment Analysis made easy
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
+Event Date: 16-03-2019 - Session time: 09:00:00 - Track: Cloud
 ## Speaker: Sanil Mhatre
 ## Title: Text Mining  Sentiment Analysis made easy
 ## Abstract:
@@ -124,7 +124,7 @@ Session Goals
 #### SessionID: 86787
 # Using Your On-prem Data in a Cloud World
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
+Event Date: 16-03-2019 - Session time: 10:15:00 - Track: BI
 ## Speaker: Daniel Glenn
 ## Title: Using Your On-prem Data in a Cloud World
 ## Abstract:
@@ -135,7 +135,7 @@ In this session, we will discover the benefits of using the cloud tools, how tho
 #### SessionID: 86800
 # Shaving off Microseconds
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
+Event Date: 16-03-2019 - Session time: 10:15:00 - Track: Admin
 ## Speaker: Thomas Grohser
 ## Title: Shaving off Microseconds
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 #### SessionID: 87434
 # Introduction to Power BI dataflows
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
+Event Date: 16-03-2019 - Session time: 10:15:00 - Track: BI
 ## Speaker: Matthew Roche
 ## Title: Introduction to Power BI dataflows
 ## Abstract:
@@ -155,7 +155,7 @@ In this session, Power BI program manager Matthew Roche will introduce this exci
 #### SessionID: 87751
 # Governance in PowerBI - Enjoy your Power Responsibly
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
+Event Date: 16-03-2019 - Session time: 10:15:00 - Track: BI
 ## Speaker: Yana Berkovich
 ## Title: Governance in PowerBI - Enjoy your Power Responsibly
 ## Abstract:
@@ -173,7 +173,7 @@ Will include the latest and greatest updates in PowerBI, as presented in PASS 20
 #### SessionID: 88662
 # SQL Server 2019: What's New, What's Great, What's Amazing
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Other
+Event Date: 16-03-2019 - Session time: 10:15:00 - Track: Other
 ## Speaker: Argenis Fernandez
 ## Title: SQL Server 2019: What's New, What's Great, What's Amazing
 ## Abstract:
@@ -182,7 +182,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Other
 #### SessionID: 88754
 # Effective Indexing
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Dev
+Event Date: 16-03-2019 - Session time: 10:15:00 - Track: Dev
 ## Speaker: Gail Shaw
 ## Title: Effective Indexing
 ## Abstract:
@@ -195,7 +195,7 @@ This session is aimed at people who are relatively new to SQL Server indexing.
 #### SessionID: 87791
 # Analyze and solve common wait stats scenarios
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
+Event Date: 16-03-2019 - Session time: 11:30:00 - Track: Admin
 ## Speaker: Uwe Ricken
 ## Title: Analyze and solve common wait stats scenarios
 ## Abstract:
@@ -209,7 +209,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 #### SessionID: 87917
 # Introduction to Azure AI - The Art of the possible
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
+Event Date: 16-03-2019 - Session time: 11:30:00 - Track: Cloud
 ## Speaker: Melody Zacharias
 ## Title: Introduction to Azure AI - The Art of the possible
 ## Abstract:
@@ -218,7 +218,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
 #### SessionID: 88387
 # Big Data with Azure: where to begin? Concepts and best practices
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
+Event Date: 16-03-2019 - Session time: 11:30:00 - Track: Cloud
 ## Speaker: Satya Jayanty
 ## Title: Big Data with Azure: where to begin? Concepts and best practices
 ## Abstract:
@@ -229,7 +229,7 @@ Microsoft Azure has the ability to move, store and analyze data within the cloud
 #### SessionID: 88475
 # SQL Server Encryption
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
+Event Date: 16-03-2019 - Session time: 11:30:00 - Track: Admin
 ## Speaker: Ben Miller
 ## Title: SQL Server Encryption
 ## Abstract:
@@ -238,7 +238,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 #### SessionID: 89336
 # New Era of Data Warehouse Design
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
+Event Date: 16-03-2019 - Session time: 11:30:00 - Track: BI
 ## Speaker: Sepand Gojgini
 ## Title: New Era of Data Warehouse Design
 ## Abstract:
@@ -247,7 +247,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 #### SessionID: 89653
 # Taking back control of your work using Kanban
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Other
+Event Date: 16-03-2019 - Session time: 11:30:00 - Track: Other
 ## Speaker: Michael Johnson
 ## Title: Taking back control of your work using Kanban
 ## Abstract:
@@ -260,7 +260,7 @@ You will be introduced to the concepts behind Kanban, finding that it is one of 
 #### SessionID: 91406
 # BoF Session: Power BI
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
+Event Date: 16-03-2019 - Session time: 12:45:00 - Track: BI
 ## Speaker: Anthony Bulk
 ## Title: BoF Session: Power BI
 ## Abstract:
@@ -271,7 +271,7 @@ Topic: PowerBI
 #### SessionID: 91407
 # BoF Session: Development  DevOps
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Dev
+Event Date: 16-03-2019 - Session time: 12:45:00 - Track: Dev
 ## Speaker: Hamish Watson
 ## Title: BoF Session: Development  DevOps
 ## Abstract:
@@ -282,7 +282,7 @@ Topic: Development  DevOps
 #### SessionID: 91408
 # BoF Session: Database Administration
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
+Event Date: 16-03-2019 - Session time: 12:45:00 - Track: Admin
 ## Speaker: Patrick Flynn
 ## Title: BoF Session: Database Administration
 ## Abstract:
@@ -293,7 +293,7 @@ Topic: Database Administration
 #### SessionID: 91409
 # BoF Session: Data Warehousing, Analytics  Reporting
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
+Event Date: 16-03-2019 - Session time: 12:45:00 - Track: Admin
 ## Speaker: Todd McDermid
 ## Title: BoF Session: Data Warehousing, Analytics  Reporting
 ## Abstract:
@@ -304,7 +304,7 @@ Topic: Data Warehousing, Analytics  Reporting
 #### SessionID: 91410
 # BoF Session: Big Data, Data Science  AI
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
+Event Date: 16-03-2019 - Session time: 12:45:00 - Track: Cloud
 ## Speaker: Kevin Feasel
 ## Title: BoF Session: Big Data, Data Science  AI
 ## Abstract:
@@ -315,7 +315,7 @@ Topic: Big Data, Data Science  AI
 #### SessionID: 86912
 # DataBricks, modern data transformation
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
+Event Date: 16-03-2019 - Session time: 13:30:00 - Track: Cloud
 ## Speaker: Andrew Boudreau
 ## Title: DataBricks, modern data transformation
 ## Abstract:
@@ -324,7 +324,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Cloud
 #### SessionID: 87079
 # Use Docker to Deploy SQL Server Applications
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Dev
+Event Date: 16-03-2019 - Session time: 13:30:00 - Track: Dev
 ## Speaker: Frank Geisler
 ## Title: Use Docker to Deploy SQL Server Applications
 ## Abstract:
@@ -333,7 +333,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Dev
 #### SessionID: 87111
 # Basics of Database Corruption Repair
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
+Event Date: 16-03-2019 - Session time: 13:30:00 - Track: Admin
 ## Speaker: Steve Stedman
 ## Title: Basics of Database Corruption Repair
 ## Abstract:
@@ -342,7 +342,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
 #### SessionID: 87898
 # Basic Database Design
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Dev
+Event Date: 16-03-2019 - Session time: 13:30:00 - Track: Dev
 ## Speaker: John Miner
 ## Title: Basic Database Design
 ## Abstract:
@@ -369,7 +369,7 @@ Coverage:
 #### SessionID: 88097
 # Azure Machine Learning 101
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
+Event Date: 16-03-2019 - Session time: 13:30:00 - Track: BI
 ## Speaker: Kathi Kellenberger
 ## Title: Azure Machine Learning 101
 ## Abstract:
@@ -382,7 +382,7 @@ If you are experienced in machine learning but haven’t seen Azure ML or if you
 #### SessionID: 89056
 # Introduction to Dimensional Modeling for the Excel/Power BI Pro
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
+Event Date: 16-03-2019 - Session time: 13:30:00 - Track: BI
 ## Speaker: Ken Puls
 ## Title: Introduction to Dimensional Modeling for the Excel/Power BI Pro
 ## Abstract:
@@ -392,7 +392,7 @@ In this session we will look at understanding the benefits of dimensional modeli
 #### SessionID: 86763
 # Much Ado About Hadoop
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Other
+Event Date: 16-03-2019 - Session time: 14:45:00 - Track: Other
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
 ## Abstract:
@@ -401,7 +401,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Other
 #### SessionID: 86888
 # Predictive Analytics with R in Power BI
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
+Event Date: 16-03-2019 - Session time: 14:45:00 - Track: BI
 ## Speaker: Joseph Yeates
 ## Title: Predictive Analytics with R in Power BI
 ## Abstract:
@@ -410,7 +410,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 #### SessionID: 87083
 # Data Quality matters! Go for a quality roundtrip in the MS data platform (2019 Version)
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
+Event Date: 16-03-2019 - Session time: 14:45:00 - Track: BI
 ## Speaker: Oliver Engels
 ## Title: Data Quality matters! Go for a quality roundtrip in the MS data platform (2019 Version)
 ## Abstract:
@@ -420,7 +420,7 @@ We dive into the requirements of modern curation and show in examples, what the 
 #### SessionID: 88443
 # Managing and monitoring SQL Server on Linux from the command line
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Admin
+Event Date: 16-03-2019 - Session time: 14:45:00 - Track: Admin
 ## Speaker: Randolph West
 ## Title: Managing and monitoring SQL Server on Linux from the command line
 ## Abstract:
@@ -433,7 +433,7 @@ This session will cover mssql-conf (for configuring the server instance), mssql-
 #### SessionID: 88498
 # Continuous Integration for Analysis Services?
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
+Event Date: 16-03-2019 - Session time: 14:45:00 - Track: BI
 ## Speaker: Gabi Münster
 ## Title: Continuous Integration for Analysis Services?
 ## Abstract:
@@ -442,7 +442,7 @@ Event Date: 16-03-2019 - Session time: 16:00:00 - Track: BI
 #### SessionID: 90909
 # Can Scott create a mobile app in an hour using PowerApps?
 #### [Back to calendar](#nr-826)
-Event Date: 16-03-2019 - Session time: 16:00:00 - Track: Dev
+Event Date: 16-03-2019 - Session time: 14:45:00 - Track: Dev
 ## Speaker: Scott Stauffer
 ## Title: Can Scott create a mobile app in an hour using PowerApps?
 ## Abstract:

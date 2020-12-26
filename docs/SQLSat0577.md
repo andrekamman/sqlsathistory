@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 53796
 # Hidden gems of SQL Server 2016
 #### [Back to calendar](#nr-577)
-Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 26-11-2016 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Denis Reznik
 ## Title: Hidden gems of SQL Server 2016
 ## Abstract:
@@ -36,7 +36,7 @@ In this session, we will learn a lot about these features and improvements. Whic
 #### SessionID: 54414
 # Статистика ожиданий или как найти место "где болит"
 #### [Back to calendar](#nr-577)
-Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Professional Development
+Event Date: 26-11-2016 - Session time: 10:00:00 - Track: Professional Development
 ## Speaker: Sergey Syrovatchenko
 ## Title: Статистика ожиданий или как найти место "где болит"
 ## Abstract:
@@ -45,7 +45,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Professional Developmen
 #### SessionID: 54632
 # How to bring a new life for Oracle 9I in MS SQL Server environment.
 #### [Back to calendar](#nr-577)
-Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-11-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Oleg Alekseev
 ## Title: How to bring a new life for Oracle 9I in MS SQL Server environment.
 ## Abstract:
@@ -68,7 +68,7 @@ Replication optimization
 #### SessionID: 53790
 # Power BI Embedded. Why do you need embed bi into your application?
 #### [Back to calendar](#nr-577)
-Event Date: 26-11-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 26-11-2016 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Polonichko
 ## Title: Power BI Embedded. Why do you need embed bi into your application?
 ## Abstract:
@@ -78,7 +78,7 @@ Power BI Embedded is an Azure service that enables ISVs and app developers to su
 #### SessionID: 54376
 # Azure SQL Data Warehouse: What, Where, How
 #### [Back to calendar](#nr-577)
-Event Date: 26-11-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 26-11-2016 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Azure SQL Data Warehouse: What, Where, How
 ## Abstract:
@@ -88,7 +88,7 @@ In this session I'm going to answer on these questions. Also, I will prodive inf
 #### SessionID: 56251
 # Все, что вы хотели узнать об объектах БД, но всегда боялись спросить
 #### [Back to calendar](#nr-577)
-Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 26-11-2016 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Dmitri Korotkevitch
 ## Title: Все, что вы хотели узнать об объектах БД, но всегда боялись спросить
 ## Abstract:
@@ -97,7 +97,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 53893
 # PostgreSQL as a Document Storage for .NET applications
 #### [Back to calendar](#nr-577)
-Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 26-11-2016 - Session time: 12:20:00 - Track: Application  Database Development
 ## Speaker: Konstantin Proskurdin
 ## Title: PostgreSQL as a Document Storage for .NET applications
 ## Abstract:
@@ -106,7 +106,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 54103
 # HDInsight: Spark. Advanced in-memory BigData Analytics with Microsoft Azure
 #### [Back to calendar](#nr-577)
-Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Advanced Analysis Techniques
+Event Date: 26-11-2016 - Session time: 12:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Vitalii Bondarenko
 ## Title: HDInsight: Spark. Advanced in-memory BigData Analytics with Microsoft Azure
 ## Abstract:
@@ -115,7 +115,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 55069
 # NSA Secrets - Hacking SQL Server
 #### [Back to calendar](#nr-577)
-Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-11-2016 - Session time: 12:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: NSA Secrets - Hacking SQL Server
 ## Abstract:
@@ -129,7 +129,7 @@ Disclaimer: No actual state secrets will be revealed. Please do not send agents 
 #### SessionID: 53775
 # Inside Transaction Logging
 #### [Back to calendar](#nr-577)
-Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 26-11-2016 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Taras Bobrovytskyi
 ## Title: Inside Transaction Logging
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 53825
 # @Table vs #Table: шаблони використання, спільні характеристики, міфи
 #### [Back to calendar](#nr-577)
-Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 26-11-2016 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Andrii Zrobok
 ## Title: @Table vs #Table: шаблони використання, спільні характеристики, міфи
 ## Abstract:
@@ -147,7 +147,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 56244
 # Как убить SQL Server за 60 минут
 #### [Back to calendar](#nr-577)
-Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 26-11-2016 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Dmitri Korotkevitch
 ## Title: Как убить SQL Server за 60 минут
 ## Abstract:
@@ -158,7 +158,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 53999
 # Azure Search - full-text search in a cloud
 #### [Back to calendar](#nr-577)
-Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 26-11-2016 - Session time: 15:35:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: Azure Search - full-text search in a cloud
 ## Abstract:
@@ -167,7 +167,7 @@ Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Cloud Application Devel
 #### SessionID: 54940
 # SQL Server: Delivery and synchronizing of the data
 #### [Back to calendar](#nr-577)
-Event Date: 26-11-2016 - Session time: 16:45:00 - Track: Information Delivery
+Event Date: 26-11-2016 - Session time: 15:35:00 - Track: Information Delivery
 ## Speaker: Andriy Pogorelov
 ## Title: SQL Server: Delivery and synchronizing of the data
 ## Abstract:
@@ -179,7 +179,7 @@ In the demonstration we'll consider the one interesting example of using the Rep
 #### SessionID: 56577
 # Cloud BI with Azure Analysis Services
 #### [Back to calendar](#nr-577)
-Event Date: 26-11-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 26-11-2016 - Session time: 15:35:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Cloud BI with Azure Analysis Services
 ## Abstract:

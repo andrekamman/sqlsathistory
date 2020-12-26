@@ -48,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 71426
 # The Vocabulary of Performance Tuning
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 21-07-2018 - Session time: 08:15:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: The Vocabulary of Performance Tuning
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 78698
 # Learn History from Temporal Tables
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-07-2018 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: Learn History from Temporal Tables
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 80808
 # Shortcuts from an Impatient DBA
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 21-07-2018 - Session time: 08:15:00 - Track: Professional Development
 ## Speaker: Andy Mallon
 ## Title: Shortcuts from an Impatient DBA
 ## Abstract:
@@ -81,7 +81,7 @@ Slides and handouts available on GitHub: http://am2.co/shortcuts-ppt
 #### SessionID: 82577
 # Code Like a Pirate ... Intro to R and Data Science Tools in MS
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-07-2018 - Session time: 08:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Pirate ... Intro to R and Data Science Tools in MS
 ## Abstract:
@@ -105,7 +105,7 @@ The focus of the session will be primarily on the introduction to the R language
 #### SessionID: 82949
 # End to End Encryption and Security in SQL Server 2016
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 21-07-2018 - Session time: 08:15:00 - Track: Application  Database Development
 ## Speaker: Steve Jones
 ## Title: End to End Encryption and Security in SQL Server 2016
 ## Abstract:
@@ -114,7 +114,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 84233
 # Choosing Your Cloud Data Platform--SQL DB, Managed Instance or Something Else?
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 21-07-2018 - Session time: 08:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Joseph D'Antoni
 ## Title: Choosing Your Cloud Data Platform--SQL DB, Managed Instance or Something Else?
 ## Abstract:
@@ -123,7 +123,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 71918
 # Become the Most Valuable Player: Soft Skills for the Hard Market
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 21-07-2018 - Session time: 09:30:00 - Track: Professional Development
 ## Speaker: Angela Tidwell
 ## Title: Become the Most Valuable Player: Soft Skills for the Hard Market
 ## Abstract:
@@ -132,7 +132,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 72889
 # How To Talk To Your Storage Admin
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-07-2018 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: How To Talk To Your Storage Admin
 ## Abstract:
@@ -141,7 +141,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 73839
 # Introduction To Azure Cosmos DB
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 21-07-2018 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Jeff Renz
 ## Title: Introduction To Azure Cosmos DB
 ## Abstract:
@@ -152,7 +152,7 @@ In this session I will demonstrate how to create a Cosmos DB instance in Azure, 
 #### SessionID: 82518
 # The Power of Data:  The Complete Beginners Data Warehouse Kit
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-07-2018 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data:  The Complete Beginners Data Warehouse Kit
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 82536
 # The Anatomy of Select
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 21-07-2018 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Jason Brimhall
 ## Title: The Anatomy of Select
 ## Abstract:
@@ -174,7 +174,7 @@ This session will help the attendee better understand the Select statement. With
 #### SessionID: 82872
 # How to screw up Database DevOps in 16 simple steps
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 21-07-2018 - Session time: 09:30:00 - Track: Strategy and Architecture
 ## Speaker: Alex Yates
 ## Title: How to screw up Database DevOps in 16 simple steps
 ## Abstract:
@@ -191,7 +191,7 @@ A session for developers *and* DBAs.
 #### SessionID: 71490
 # Tips on Managing Lots of SQL Servers
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-07-2018 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Tips on Managing Lots of SQL Servers
 ## Abstract:
@@ -202,7 +202,7 @@ In this talk we will answer these questions and more as we discuss technologies 
 #### SessionID: 71713
 # SQL Server and PowerShell: Let's Get Serious
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-07-2018 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
 ## Abstract:
@@ -215,7 +215,7 @@ Instead of focusing on syntax, the session will plunge straight into examples an
 #### SessionID: 73062
 # Using Kafka for Real-Time Data Ingestion with .NET
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 21-07-2018 - Session time: 10:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Using Kafka for Real-Time Data Ingestion with .NET
 ## Abstract:
@@ -224,7 +224,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 73955
 # Gaining insights with Power BI
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-07-2018 - Session time: 10:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Glenn
 ## Title: Gaining insights with Power BI
 ## Abstract:
@@ -234,7 +234,7 @@ This session will cover the basics on creating compelling dashboards and guide y
 #### SessionID: 82721
 # Mario..Take My Data To The Cloud!
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 21-07-2018 - Session time: 10:45:00 - Track: Strategy and Architecture
 ## Speaker: Jim Donahoe
 ## Title: Mario..Take My Data To The Cloud!
 ## Abstract:
@@ -243,7 +243,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 83099
 # Choose Your Own Adventure:  Performance Tuning
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Other
+Event Date: 21-07-2018 - Session time: 10:45:00 - Track: Other
 ## Speaker: Tim Chapman
 ## Title: Choose Your Own Adventure:  Performance Tuning
 ## Abstract:
@@ -252,7 +252,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Other
 #### SessionID: 74002
 # BITRACKS:Populating a Data Warehouse with SSIS and Biml Patterns
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-07-2018 - Session time: 12:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jim Miller
 ## Title: BITRACKS:Populating a Data Warehouse with SSIS and Biml Patterns
 ## Abstract:
@@ -270,7 +270,7 @@ Attend to see how Biml can revolutionize your SSIS development!
 #### SessionID: 82751
 # COZYROC: Dynamic Data Flows in SSIS Without Programming
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-07-2018 - Session time: 12:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: COZYROC: Dynamic Data Flows in SSIS Without Programming
 ## Abstract:
@@ -279,7 +279,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 84374
 # SENTRYONE: Break Through Your Data Performance Barriers with SentryOne
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Other
+Event Date: 21-07-2018 - Session time: 12:00:00 - Track: Other
 ## Speaker: Justin Randall
 ## Title: SENTRYONE: Break Through Your Data Performance Barriers with SentryOne
 ## Abstract:
@@ -288,7 +288,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Other
 #### SessionID: 84519
 # QUEST:Optimize transactional operations and reporting from multiple sources
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 21-07-2018 - Session time: 12:00:00 - Track: Strategy and Architecture
 ## Speaker: Susan Wong
 ## Title: QUEST:Optimize transactional operations and reporting from multiple sources
 ## Abstract:
@@ -297,7 +297,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 84563
 # DELL: #GetModern With Dell EMC
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Other
+Event Date: 21-07-2018 - Session time: 12:00:00 - Track: Other
 ## Speaker: Bryan Walsh
 ## Title: DELL: #GetModern With Dell EMC
 ## Abstract:
@@ -306,7 +306,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Other
 #### SessionID: 72732
 # Choosing the Right Microsoft Data Science Platform
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 21-07-2018 - Session time: 13:15:00 - Track: Strategy and Architecture
 ## Speaker: Sean Werick
 ## Title: Choosing the Right Microsoft Data Science Platform
 ## Abstract:
@@ -325,7 +325,7 @@ If you're looking to maximize and optimize your data science platform of choice,
 #### SessionID: 78776
 # How to win Dev and influence QA
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 21-07-2018 - Session time: 13:15:00 - Track: Professional Development
 ## Speaker: Elizabeth Noble
 ## Title: How to win Dev and influence QA
 ## Abstract:
@@ -336,7 +336,7 @@ In this session, I will go over steps I took to improve relationships with other
 #### SessionID: 82538
 # Extended Events - Better than Profiler
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-07-2018 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Extended Events - Better than Profiler
 ## Abstract:
@@ -345,7 +345,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 82719
 # Getting started with Azure SQL Database: What You Need To Know!
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 21-07-2018 - Session time: 13:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Donahoe
 ## Title: Getting started with Azure SQL Database: What You Need To Know!
 ## Abstract:
@@ -354,7 +354,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 82902
 # How to do a Data Analysis
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 21-07-2018 - Session time: 13:15:00 - Track: Analytics and Visualization
 ## Speaker: Stan Siranovich
 ## Title: How to do a Data Analysis
 ## Abstract:
@@ -365,7 +365,7 @@ We'll show you how to do this with real, publically available data from Redfin, 
 #### SessionID: 84366
 # Panel: Is the Cloud Good or Bad for Business?
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 21-07-2018 - Session time: 13:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Steve Jones
 ## Title: Panel: Is the Cloud Good or Bad for Business?
 ## Abstract:
@@ -374,7 +374,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 71488
 # Intro to Query Store
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-07-2018 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Intro to Query Store
 ## Abstract:
@@ -387,7 +387,7 @@ In this session, we will walk through the features of Query Store, so you can un
 #### SessionID: 74036
 # Getting started with Machine Learning
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 21-07-2018 - Session time: 14:30:00 - Track: Analytics and Visualization
 ## Speaker: Andrew Loree
 ## Title: Getting started with Machine Learning
 ## Abstract:
@@ -398,7 +398,7 @@ In this session, you will be introduced to the fundamentals of ML, to get you st
 #### SessionID: 77132
 # 5 Minute No Sweat SQL Security Audits
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-07-2018 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: 5 Minute No Sweat SQL Security Audits
 ## Abstract:
@@ -408,7 +408,7 @@ In this session, you will get scripts that I use for compliance audits that help
 #### SessionID: 77424
 # Implementing Row Level Security in SQL Server
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 21-07-2018 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Implementing Row Level Security in SQL Server
 ## Abstract:
@@ -417,7 +417,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 78969
 # Introduction to BI Architecture
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-07-2018 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Warren Sifre
 ## Title: Introduction to BI Architecture
 ## Abstract:
@@ -426,7 +426,7 @@ Event Date: 21-07-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 81950
 # TempDB Configuration, Monitoring, and Troubleshooting for Performance
 #### [Back to calendar](#nr-729)
-Event Date: 21-07-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-07-2018 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Justin Randall
 ## Title: TempDB Configuration, Monitoring, and Troubleshooting for Performance
 ## Abstract:

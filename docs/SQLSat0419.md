@@ -18,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 13582
 # Data mining Algorithms in SQL Server, Excel, R, and Azure ML Part 1
 #### [Back to calendar](#nr-419)
-Event Date: 20-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 20-06-2015 - Session time: 09:00:00 - Track: Business Intelligence
 ## Speaker: Dejan Sarka
 ## Title: Data mining Algorithms in SQL Server, Excel, R, and Azure ML Part 1
 ## Abstract:
@@ -27,7 +27,7 @@ Event Date: 20-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 35769
 # Azure SQL Database Tips and Tricks for Beginners
 #### [Back to calendar](#nr-419)
-Event Date: 20-06-2015 - Session time: 16:00:00 - Track: Azure
+Event Date: 20-06-2015 - Session time: 09:00:00 - Track: Azure
 ## Speaker: Tobias Koprowski
 ## Title: Azure SQL Database Tips and Tricks for Beginners
 ## Abstract:
@@ -36,7 +36,7 @@ Event Date: 20-06-2015 - Session time: 16:00:00 - Track: Azure
 #### SessionID: 20753
 # Transact SQL Performance Tips
 #### [Back to calendar](#nr-419)
-Event Date: 20-06-2015 - Session time: 16:00:00 - Track: Development
+Event Date: 20-06-2015 - Session time: 10:15:00 - Track: Development
 ## Speaker: Miloš Radivojević
 ## Title: Transact SQL Performance Tips
 ## Abstract:
@@ -45,7 +45,7 @@ Event Date: 20-06-2015 - Session time: 16:00:00 - Track: Development
 #### SessionID: 36641
 # How to recover deleted data with no backups?
 #### [Back to calendar](#nr-419)
-Event Date: 20-06-2015 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 20-06-2015 - Session time: 10:15:00 - Track: Database Administration
 ## Speaker: Vedran Kesegic
 ## Title: How to recover deleted data with no backups?
 ## Abstract:
@@ -55,7 +55,7 @@ It is nearly impossible to recover the lost data from that situation. But I will
 #### SessionID: 13583
 # Data mining Algorithms in SQL Server, Excel, R, and Azure ML Part 2
 #### [Back to calendar](#nr-419)
-Event Date: 20-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 20-06-2015 - Session time: 11:30:00 - Track: Business Intelligence
 ## Speaker: Dejan Sarka
 ## Title: Data mining Algorithms in SQL Server, Excel, R, and Azure ML Part 2
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 20-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 33770
 # Benefits of analytics using Microsoft Azure Machine Learning 
 #### [Back to calendar](#nr-419)
-Event Date: 20-06-2015 - Session time: 16:00:00 - Track: Azure
+Event Date: 20-06-2015 - Session time: 11:30:00 - Track: Azure
 ## Speaker: Tomaž Kaštrun
 ## Title: Benefits of analytics using Microsoft Azure Machine Learning 
 ## Abstract:
@@ -75,7 +75,7 @@ This session will be focused on benefits of building a predictive model using Az
 #### SessionID: 16102
 # Comprehensive Indexing with Automated Execution Plan Analysis
 #### [Back to calendar](#nr-419)
-Event Date: 20-06-2015 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 20-06-2015 - Session time: 13:30:00 - Track: Database Administration
 ## Speaker: Joe Chang
 ## Title: Comprehensive Indexing with Automated Execution Plan Analysis
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 20-06-2015 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 25111
 # Lessons Learned: SSAS Tabular in the real world
 #### [Back to calendar](#nr-419)
-Event Date: 20-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 20-06-2015 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Gerhard Brueckl
 ## Title: Lessons Learned: SSAS Tabular in the real world
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 20-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 36250
 # Saved by the Cloud
 #### [Back to calendar](#nr-419)
-Event Date: 20-06-2015 - Session time: 16:00:00 - Track: Azure
+Event Date: 20-06-2015 - Session time: 14:45:00 - Track: Azure
 ## Speaker: Tanja Vukov
 ## Title: Saved by the Cloud
 ## Abstract:

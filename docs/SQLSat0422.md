@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 26656
 # Managing Security in SSIS
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
+Event Date: 29-08-2015 - Session time: 00:00:00 - Track: Pyramid Analytics
 ## Speaker: Tim Mitchell
 ## Title: Managing Security in SSIS
 ## Abstract:
@@ -49,7 +49,7 @@ In this presentation, we’ll discuss the security features in SQL Server Integr
 #### SessionID: 22098
 # Common Coding Mistakes and how to Mitigate them
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
+Event Date: 29-08-2015 - Session time: 09:00:00 - Track: Pyramid Analytics
 ## Speaker: William Wolf
 ## Title: Common Coding Mistakes and how to Mitigate them
 ## Abstract:
@@ -58,7 +58,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #### SessionID: 35611
 # SMO Internals for High Performance Automation
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
+Event Date: 29-08-2015 - Session time: 09:00:00 - Track: Pyramid Analytics
 ## Speaker: Ben Miller
 ## Title: SMO Internals for High Performance Automation
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #### SessionID: 36134
 # Back to Basics - The SELECT Statement
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
+Event Date: 29-08-2015 - Session time: 09:00:00 - Track: Pyramid Analytics
 ## Speaker: Andrew Karcher
 ## Title: Back to Basics - The SELECT Statement
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #### SessionID: 36170
 # Monster Text Manipulation: Regular Expressions for the DBA
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Track D
+Event Date: 29-08-2015 - Session time: 09:00:00 - Track: Track D
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
 ## Abstract:
@@ -91,7 +91,7 @@ Here you’ll learn:
 #### SessionID: 36604
 # Automating Your Database Deployments
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
+Event Date: 29-08-2015 - Session time: 09:00:00 - Track: Microsoft
 ## Speaker: Grant Fritchey
 ## Title: Automating Your Database Deployments
 ## Abstract:
@@ -103,7 +103,7 @@ In this session, we'll explore the concepts of continuous integration and contin
 #### SessionID: 36069
 # Azure SQL Database Elastic Scale
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
+Event Date: 29-08-2015 - Session time: 10:15:00 - Track: Pyramid Analytics
 ## Speaker: Shawn Weisfeld
 ## Title: Azure SQL Database Elastic Scale
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #### SessionID: 36151
 # Designing Stored Procedure Solutions
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
+Event Date: 29-08-2015 - Session time: 10:15:00 - Track: Microsoft
 ## Speaker: Jennifer McCown
 ## Title: Designing Stored Procedure Solutions
 ## Abstract:
@@ -131,7 +131,7 @@ This session is for data professionals who can write T-SQL, but haven't spent a 
 #### SessionID: 36169
 # Minion Maintenance and Backup Solutions
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Track D
+Event Date: 29-08-2015 - Session time: 10:15:00 - Track: Track D
 ## Speaker: Sean McCown
 ## Title: Minion Maintenance and Backup Solutions
 ## Abstract:
@@ -151,7 +151,7 @@ Minion Reindex and Minion Backup scale to the size of your enterprise, from one 
 #### SessionID: 38299
 # SSIS Project Deployment Model: Deployment and maintenance
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
+Event Date: 29-08-2015 - Session time: 10:15:00 - Track: Microsoft
 ## Speaker: Bill Fellows
 ## Title: SSIS Project Deployment Model: Deployment and maintenance
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
 #### SessionID: 38545
 # Database Development with Visual Studio 101
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
+Event Date: 29-08-2015 - Session time: 10:15:00 - Track: Pyramid Analytics
 ## Speaker: Hakim Ali
 ## Title: Database Development with Visual Studio 101
 ## Abstract:
@@ -169,7 +169,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #### SessionID: 11064
 # Churn Analytics with Azure ML
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
+Event Date: 29-08-2015 - Session time: 11:30:00 - Track: Pyramid Analytics
 ## Speaker: Bryan Smith
 ## Title: Churn Analytics with Azure ML
 ## Abstract:
@@ -178,7 +178,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #### SessionID: 36325
 # Scripting out SQL Server for Documentation and Disaster Recovery
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
+Event Date: 29-08-2015 - Session time: 11:30:00 - Track: Microsoft
 ## Speaker: George Walkey
 ## Title: Scripting out SQL Server for Documentation and Disaster Recovery
 ## Abstract:
@@ -190,7 +190,7 @@ Objects exported include: SQL Agent Jobs/Alerts/Schedules, NT Service Credential
 #### SessionID: 38488
 # Overview of SSAS Tabular
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
+Event Date: 29-08-2015 - Session time: 11:30:00 - Track: Pyramid Analytics
 ## Speaker: jim hudson
 ## Title: Overview of SSAS Tabular
 ## Abstract:
@@ -210,7 +210,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #### SessionID: 38671
 # Windowing Functions
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
+Event Date: 29-08-2015 - Session time: 11:30:00 - Track: Pyramid Analytics
 ## Speaker: Tim Costello
 ## Title: Windowing Functions
 ## Abstract:
@@ -219,7 +219,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #### SessionID: 40080
 # Automate your daily checklist with PBM and CMS
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Dell
+Event Date: 29-08-2015 - Session time: 11:30:00 - Track: Dell
 ## Speaker: John Sterrett
 ## Title: Automate your daily checklist with PBM and CMS
 ## Abstract:
@@ -228,7 +228,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Dell
 #### SessionID: 23774
 # Backup and Restore Tips and Tricks
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
+Event Date: 29-08-2015 - Session time: 14:00:00 - Track: Pyramid Analytics
 ## Speaker: Ryan Adams
 ## Title: Backup and Restore Tips and Tricks
 ## Abstract:
@@ -237,7 +237,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #### SessionID: 25240
 # Troubleshooting SQL Server Performance 
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
+Event Date: 29-08-2015 - Session time: 14:00:00 - Track: Pyramid Analytics
 ## Speaker: Stacy Gray
 ## Title: Troubleshooting SQL Server Performance 
 ## Abstract:
@@ -246,7 +246,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #### SessionID: 25815
 # SQL Server for the Configuration Manager 2012 administrator
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
+Event Date: 29-08-2015 - Session time: 14:00:00 - Track: Pyramid Analytics
 ## Speaker: Steven Rachui
 ## Title: SQL Server for the Configuration Manager 2012 administrator
 ## Abstract:
@@ -255,7 +255,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
 #### SessionID: 38660
 # Biml – The Next Step in Agile Data Warehousing
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
+Event Date: 29-08-2015 - Session time: 14:00:00 - Track: Microsoft
 ## Speaker: David Stein
 ## Title: Biml – The Next Step in Agile Data Warehousing
 ## Abstract:
@@ -264,7 +264,7 @@ Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Microsoft
 #### SessionID: 38670
 # Things i wish I knew sooner about data loading.
 #### [Back to calendar](#nr-422)
-Event Date: 29-08-2015 - Session time: 15:15:00 - Track: Pyramid Analytics
+Event Date: 29-08-2015 - Session time: 14:00:00 - Track: Pyramid Analytics
 ## Speaker: Tim Costello
 ## Title: Things i wish I knew sooner about data loading.
 ## Abstract:

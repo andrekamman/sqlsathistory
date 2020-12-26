@@ -56,7 +56,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 46499
 # Registration
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Other
+Event Date: 27-02-2016 - Session time: 07:30:00 - Track: Other
 ## Speaker: Pam Shaw
 ## Title: Registration
 ## Abstract:
@@ -65,7 +65,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Other
 #### SessionID: 46502
 # Welcome
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Other
+Event Date: 27-02-2016 - Session time: 08:30:00 - Track: Other
 ## Speaker: Pam Shaw
 ## Title: Welcome
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Other
 #### SessionID: 42786
 # Monitoring and Alerting for an Azure PaaS Application
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 27-02-2016 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ronald Dameron
 ## Title: Monitoring and Alerting for an Azure PaaS Application
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Cloud Application Devel
 #### SessionID: 44529
 # Solving Real Business Problems Step by Step
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database Development
+Event Date: 27-02-2016 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Neil Pepi
 ## Title: Solving Real Business Problems Step by Step
 ## Abstract:
@@ -94,7 +94,7 @@ Luckily, we’ve developed a set of rough guidelines to do just that. In this se
 #### SessionID: 45453
 # SQL Server Disaster Recovery and High Availability Overview
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kendal Van Dyke
 ## Title: SQL Server Disaster Recovery and High Availability Overview
 ## Abstract:
@@ -104,7 +104,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Adm
 #### SessionID: 45502
 # Fast Track that Cube Please
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-02-2016 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan King
 ## Title: Fast Track that Cube Please
 ## Abstract:
@@ -113,7 +113,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Platform Architectur
 #### SessionID: 45647
 # Parent, Child development Using SSIS Framework
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Information Delivery
+Event Date: 27-02-2016 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Jorge Novo
 ## Title: Parent, Child development Using SSIS Framework
 ## Abstract:
@@ -122,7 +122,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Information Delivery
 #### SessionID: 45937
 # Conducting an Effective Job Search
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Professional Development
+Event Date: 27-02-2016 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Erica Woods
 ## Title: Conducting an Effective Job Search
 ## Abstract:
@@ -131,7 +131,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Professional Developmen
 #### SessionID: 46176
 # Monster Text Manipulation: Regular Expressions for the DBA
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Adm
 #### SessionID: 46500
 # Break
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Other
+Event Date: 27-02-2016 - Session time: 10:00:00 - Track: Other
 ## Speaker: Pam Shaw
 ## Title: Break
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Other
 #### SessionID: 41528
 # So What is Power BI?
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Information Delivery
+Event Date: 27-02-2016 - Session time: 10:15:00 - Track: BI Information Delivery
 ## Speaker: Michael Antonovich
 ## Title: So What is Power BI?
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Information Delivery
 #### SessionID: 41534
 # Mastering and Enhancing Company Data
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-02-2016 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rushabh Mehta
 ## Title: Mastering and Enhancing Company Data
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Platform Architectur
 #### SessionID: 41584
 # Top 10 Wait Types Everyone Should Know
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Top 10 Wait Types Everyone Should Know
 ## Abstract:
@@ -180,7 +180,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Adm
 #### SessionID: 42061
 # NoSQL Solutions in the Cloud with Microsoft Azure
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 27-02-2016 - Session time: 10:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mark Kromer
 ## Title: NoSQL Solutions in the Cloud with Microsoft Azure
 ## Abstract:
@@ -189,7 +189,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Cloud Application Devel
 #### SessionID: 42278
 # Introduction to Fog Analytics
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Analytics and Visualization
+Event Date: 27-02-2016 - Session time: 10:15:00 - Track: Analytics and Visualization
 ## Speaker: John Wang
 ## Title: Introduction to Fog Analytics
 ## Abstract:
@@ -198,7 +198,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Analytics and Visualiza
 #### SessionID: 43014
 # Data Partitioning for Database Architects and Mere Mortals
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Strategy and Architecture
+Event Date: 27-02-2016 - Session time: 10:15:00 - Track: Strategy and Architecture
 ## Speaker: Dmitri Korotkevitch
 ## Title: Data Partitioning for Database Architects and Mere Mortals
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Strategy and Architectu
 #### SessionID: 45655
 # Inside the Query Optimizer
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bradley Ball
 ## Title: Inside the Query Optimizer
 ## Abstract:
@@ -217,7 +217,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Adm
 #### SessionID: 47040
 # Back Up and Restore? Piece of Cake!
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Daniel Taylor
 ## Title: Back Up and Restore? Piece of Cake!
 ## Abstract:
@@ -227,7 +227,7 @@ from the business if a recovery is required? Essentially your RTO and RPO? It is
 #### SessionID: 42231
 # Database Design Fundamentals
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database Development
+Event Date: 27-02-2016 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
 ## Abstract:
@@ -236,7 +236,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database D
 #### SessionID: 42265
 # Automating Database Restores
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Warren
 ## Title: Automating Database Restores
 ## Abstract:
@@ -247,7 +247,7 @@ This presentation will show you the latest version of the system I use, one cons
 #### SessionID: 45447
 # Windowed Functions - Harness the Power to Forecast with Ease!
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Advanced Analysis Techniques
+Event Date: 27-02-2016 - Session time: 11:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Matt Martin
 ## Title: Windowed Functions - Harness the Power to Forecast with Ease!
 ## Abstract:
@@ -257,7 +257,7 @@ At the end of this session, the goal is to empower you to go back to your organi
 #### SessionID: 45676
 # Whip Away Stress at Home  Work to Create a Better You
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Professional Development
+Event Date: 27-02-2016 - Session time: 11:30:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Whip Away Stress at Home  Work to Create a Better You
 ## Abstract:
@@ -266,7 +266,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Professional Developmen
 #### SessionID: 45949
 # Data Quality Services - Integrating your Data Steward
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-02-2016 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: miguel Cebollero
 ## Title: Data Quality Services - Integrating your Data Steward
 ## Abstract:
@@ -275,7 +275,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Platform Architectur
 #### SessionID: 45979
 # Indexes:  Help or Hinder!
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database Development
+Event Date: 27-02-2016 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: Indexes:  Help or Hinder!
 ## Abstract:
@@ -284,7 +284,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database D
 #### SessionID: 46017
 # Planning and Executing a Successful SQL Server Database Migration
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carlos Colon
 ## Title: Planning and Executing a Successful SQL Server Database Migration
 ## Abstract:
@@ -295,7 +295,7 @@ In this session we will discuss all the different database components and config
 #### SessionID: 46186
 # The Business Intelligence Side of SQL Server
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-02-2016 - Session time: 12:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sayed Saeed
 ## Title: The Business Intelligence Side of SQL Server
 ## Abstract:
@@ -304,7 +304,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Platform Architectur
 #### SessionID: 46501
 # Lunch Break
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Advanced Analysis Techniques
+Event Date: 27-02-2016 - Session time: 12:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Pam Shaw
 ## Title: Lunch Break
 ## Abstract:
@@ -313,7 +313,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Advanced Analysis Techn
 #### SessionID: 47097
 # Transform SQL Server Agility with XtremIO
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 12:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bryan Walsh
 ## Title: Transform SQL Server Agility with XtremIO
 ## Abstract:
@@ -322,7 +322,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Adm
 #### SessionID: 41552
 # Data Migration Using BIML
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-02-2016 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Feasel
 ## Title: Data Migration Using BIML
 ## Abstract:
@@ -331,7 +331,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Platform Architectur
 #### SessionID: 41646
 # Intelligent Indexing
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Professional Development
+Event Date: 27-02-2016 - Session time: 13:45:00 - Track: Professional Development
 ## Speaker: Arvin Meyer
 ## Title: Intelligent Indexing
 ## Abstract:
@@ -340,7 +340,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Professional Developmen
 #### SessionID: 42477
 # Building Defense in Depth Using the Full Spectrum of SQL Server Encryption
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Keleher
 ## Title: Building Defense in Depth Using the Full Spectrum of SQL Server Encryption
 ## Abstract:
@@ -349,7 +349,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Adm
 #### SessionID: 43008
 # Execution Plans: What Can You Do With Them?
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database Development
+Event Date: 27-02-2016 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Execution Plans: What Can You Do With Them?
 ## Abstract:
@@ -358,7 +358,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database D
 #### SessionID: 45440
 # Managing Multiple SQL Servers Using SSMS
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Herve Roggero
 ## Title: Managing Multiple SQL Servers Using SSMS
 ## Abstract:
@@ -368,7 +368,7 @@ Now you can do this and more with Enzo Unified, the data server platform that un
 #### SessionID: 46175
 # Designing Stored Procedure Solutions
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database Development
+Event Date: 27-02-2016 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Designing Stored Procedure Solutions
 ## Abstract:
@@ -387,7 +387,7 @@ This session is for data professionals who can write T-SQL, but haven't spent a 
 #### SessionID: 46490
 # A closer look to Azure Data Factory
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Information Delivery
+Event Date: 27-02-2016 - Session time: 13:45:00 - Track: Information Delivery
 ## Speaker: Luis Figueroa
 ## Title: A closer look to Azure Data Factory
 ## Abstract:
@@ -396,7 +396,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Information Delivery
 #### SessionID: 41529
 # Indexing your Data Warehouse
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Troy Gallant
 ## Title: Indexing your Data Warehouse
 ## Abstract:
@@ -405,7 +405,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Adm
 #### SessionID: 41763
 # SSIS 2012/2014:  The Quiet Revolution
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database Development
+Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Bryan Cafferky
 ## Title: SSIS 2012/2014:  The Quiet Revolution
 ## Abstract:
@@ -414,7 +414,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database D
 #### SessionID: 42784
 # SQL Server Lockdown in Six Steps
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ronald Dameron
 ## Title: SQL Server Lockdown in Six Steps
 ## Abstract:
@@ -429,7 +429,7 @@ Attendees will leave this session with the realization that DBAs don’t need to
 #### SessionID: 45623
 # XML in SQL
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database Development
+Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Gus Gwynne
 ## Title: XML in SQL
 ## Abstract:
@@ -438,7 +438,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database D
 #### SessionID: 45842
 # What's New in SSRS 2016
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Information Delivery
+Event Date: 27-02-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Patrick LeBlanc
 ## Title: What's New in SSRS 2016
 ## Abstract:
@@ -447,7 +447,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Information Delivery
 #### SessionID: 45950
 # Datawarehouse Development in an Agile World
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Strategy and Architecture
+Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: miguel Cebollero
 ## Title: Datawarehouse Development in an Agile World
 ## Abstract:
@@ -456,7 +456,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Strategy and Architectu
 #### SessionID: 47161
 # What'S New In SQL Server 2012/2014/2016 For The Developer
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database Development
+Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Jeff Taylor
 ## Title: What'S New In SQL Server 2012/2014/2016 For The Developer
 ## Abstract:
@@ -465,7 +465,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database D
 #### SessionID: 41553
 # Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database Development
+Event Date: 27-02-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
 ## Abstract:
@@ -474,7 +474,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database D
 #### SessionID: 43007
 # Automating Your Database Deployments
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Application  Database Development
+Event Date: 27-02-2016 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Automating Your Database Deployments
 ## Abstract:
@@ -485,7 +485,7 @@ In this session, we'll explore the concepts of continuous integration and contin
 #### SessionID: 44558
 # Availability Groups:  Monitoring and Alerting
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Availability Groups:  Monitoring and Alerting
 ## Abstract:
@@ -497,7 +497,7 @@ We will look at the DMVs, extended event sessions, perfmon counters, SQL agent j
 #### SessionID: 44573
 # SSIS Factory
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-02-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jemini Joseph
 ## Title: SSIS Factory
 ## Abstract:
@@ -506,7 +506,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: BI Platform Architectur
 #### SessionID: 45941
 # What’s New in SQL Server 2016 ?
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gareth Swanepoel
 ## Title: What’s New in SQL Server 2016 ?
 ## Abstract:
@@ -515,7 +515,7 @@ Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Adm
 #### SessionID: 46178
 # Beginning Powershell for DBAs 1.0
 #### [Back to calendar](#nr-489)
-Event Date: 27-02-2016 - Session time: 17:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Beginning Powershell for DBAs 1.0
 ## Abstract:

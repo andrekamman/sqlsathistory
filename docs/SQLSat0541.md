@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 48335
 # Azure Data Lake Store / Analytics 101
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: IoT/AA/Cloud
+Event Date: 17-09-2016 - Session time: 08:30:00 - Track: IoT/AA/Cloud
 ## Speaker: Kenneth Nielsen
 ## Title: Azure Data Lake Store / Analytics 101
 ## Abstract:
@@ -45,7 +45,7 @@ Azure Data Lake Store, our new repository for data of various origins – we can
 #### SessionID: 48429
 # JSON    XML;  since SQL 2016 it is important to weigh respective advantage
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DEV
+Event Date: 17-09-2016 - Session time: 08:30:00 - Track: DEV
 ## Speaker: Alexander Karl
 ## Title: JSON    XML;  since SQL 2016 it is important to weigh respective advantage
 ## Abstract:
@@ -63,7 +63,7 @@ The goal of the session is to show, when which language is of advantage in which
 #### SessionID: 50374
 # Investigate TempDB like Sherlock Holmes
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DBA
+Event Date: 17-09-2016 - Session time: 08:30:00 - Track: DBA
 ## Speaker: Lord Richard Douglas
 ## Title: Investigate TempDB like Sherlock Holmes
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 52260
 # The current state of Powershell DSC for DBAs
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DBA
+Event Date: 17-09-2016 - Session time: 08:30:00 - Track: DBA
 ## Speaker: André Kamman
 ## Title: The current state of Powershell DSC for DBAs
 ## Abstract:
@@ -90,7 +90,7 @@ After this session you are better equiped to decide if Powershell DSC is useful 
 #### SessionID: 49838
 # Managing Execution Plans
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DEV
+Event Date: 17-09-2016 - Session time: 10:00:00 - Track: DEV
 ## Speaker: Hugo Kornelis
 ## Title: Managing Execution Plans
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DEV
 #### SessionID: 49906
 # All things time related
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: BI
+Event Date: 17-09-2016 - Session time: 10:00:00 - Track: BI
 ## Speaker: Kennie Pontoppidan
 ## Title: All things time related
 ## Abstract:
@@ -110,7 +110,7 @@ In this talk I will show you different techniques and models related to time: pr
 #### SessionID: 50462
 # GIving Permissions through Stored Procedures
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DBA
+Event Date: 17-09-2016 - Session time: 10:00:00 - Track: DBA
 ## Speaker: Erland Sommarskog
 ## Title: GIving Permissions through Stored Procedures
 ## Abstract:
@@ -123,7 +123,7 @@ The session should be of interest both to DBAs and application developers that n
 #### SessionID: 52254
 # Monitor your production line in real-time using Azure IoT Hub
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: IoT/AA/Cloud
+Event Date: 17-09-2016 - Session time: 10:00:00 - Track: IoT/AA/Cloud
 ## Speaker: David Bojsen
 ## Title: Monitor your production line in real-time using Azure IoT Hub
 ## Abstract:
@@ -135,7 +135,7 @@ Expect a level 400 session with a lot of demos and code.
 #### SessionID: 52594
 # Continuous Integration with SSDT and Team Foundation Server
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 17-09-2016 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Regis Baccaro
 ## Title: Continuous Integration with SSDT and Team Foundation Server
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 17-09-2016 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 49577
 # Power BI - share and deliver your dashboards
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: BI
+Event Date: 17-09-2016 - Session time: 11:15:00 - Track: BI
 ## Speaker: Andrea Martorana Tusa
 ## Title: Power BI - share and deliver your dashboards
 ## Abstract:
@@ -157,7 +157,7 @@ In this session will scroll across all the collaborative and delivering features
 #### SessionID: 50765
 # Complex Event Processing with Azure Stream Analytics
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: IoT/AA/Cloud
+Event Date: 17-09-2016 - Session time: 11:15:00 - Track: IoT/AA/Cloud
 ## Speaker: Mihail Mateev
 ## Title: Complex Event Processing with Azure Stream Analytics
 ## Abstract:
@@ -172,7 +172,7 @@ This talk is about the main concepts and solution architecture when using Azure 
 #### SessionID: 50859
 # SQL Server 2016 Availability Group Enhancements
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DBA
+Event Date: 17-09-2016 - Session time: 11:15:00 - Track: DBA
 ## Speaker: Karol Papaj
 ## Title: SQL Server 2016 Availability Group Enhancements
 ## Abstract:
@@ -181,7 +181,7 @@ Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 52425
 # Can M be the head of SSIS ?
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: BI
+Event Date: 17-09-2016 - Session time: 11:15:00 - Track: BI
 ## Speaker: Erik Svensen
 ## Title: Can M be the head of SSIS ?
 ## Abstract:
@@ -192,7 +192,7 @@ The M language is not yet available in SSIS, but there are already power shell s
 #### SessionID: 48329
 # A Game of Hierarchies: From Joins to Recursive CTEs
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: BI
+Event Date: 17-09-2016 - Session time: 13:30:00 - Track: BI
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: A Game of Hierarchies: From Joins to Recursive CTEs
 ## Abstract:
@@ -206,7 +206,7 @@ If these terms caught your attention, then join this session for a journey throu
 #### SessionID: 48376
 # Writing T-SQL code like a boss
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DEV
+Event Date: 17-09-2016 - Session time: 13:30:00 - Track: DEV
 ## Speaker: Fabiano Amorim
 ## Title: Writing T-SQL code like a boss
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DEV
 #### SessionID: 51216
 # Latches, Spinlocks, and Lock Free Data Structures
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DBA
+Event Date: 17-09-2016 - Session time: 13:30:00 - Track: DBA
 ## Speaker: Klaus Aschenbrenner
 ## Title: Latches, Spinlocks, and Lock Free Data Structures
 ## Abstract:
@@ -224,7 +224,7 @@ Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 52266
 # Windows Server 2016 Infrastructure for SQL Server
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DBA
+Event Date: 17-09-2016 - Session time: 13:30:00 - Track: DBA
 ## Speaker: Michael Frandsen
 ## Title: Windows Server 2016 Infrastructure for SQL Server
 ## Abstract:
@@ -241,7 +241,7 @@ This will all be based on the last version of Windows 2016 before release and sh
 #### SessionID: 52577
 # Lightning Talks By Hugo Kornelis, John Martin and Jens Vestergaard
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: Lightning Talk
+Event Date: 17-09-2016 - Session time: 13:30:00 - Track: Lightning Talk
 ## Speaker: Kenneth Nielsen
 ## Title: Lightning Talks By Hugo Kornelis, John Martin and Jens Vestergaard
 ## Abstract:
@@ -265,7 +265,7 @@ The session is intended to highlight misconceptions surrounding typical Business
 #### SessionID: 48929
 # Who, What, When. Monitoring usage of your MS BI stack
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: BI
+Event Date: 17-09-2016 - Session time: 14:45:00 - Track: BI
 ## Speaker: Asgeir Gunnarsson
 ## Title: Who, What, When. Monitoring usage of your MS BI stack
 ## Abstract:
@@ -278,7 +278,7 @@ At the end of the session all participants will leave with all the code as well 
 #### SessionID: 50840
 # 2,4,8  16 - Upgrade your journey with SQL Server
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DBA
+Event Date: 17-09-2016 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Satya Jayanty
 ## Title: 2,4,8  16 - Upgrade your journey with SQL Server
 ## Abstract:
@@ -297,7 +297,7 @@ We will cover the complete upgrade cycle, including the preparation tasks, upgra
 #### SessionID: 50928
 # Query Store: The Bacon of SQL Server 2016
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DBA
+Event Date: 17-09-2016 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Stijn Wynants
 ## Title: Query Store: The Bacon of SQL Server 2016
 ## Abstract:
@@ -306,7 +306,7 @@ Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 52255
 # How to monitor efficiently your SQL Server instances
 #### [Back to calendar](#nr-541)
-Event Date: 17-09-2016 - Session time: 16:00:00 - Track: DBA
+Event Date: 17-09-2016 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Remus Rusanu
 ## Title: How to monitor efficiently your SQL Server instances
 ## Abstract:

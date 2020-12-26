@@ -45,7 +45,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 61404
 # Explore SharePoint 2016 and beyond
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 02
+Event Date: 03-06-2017 - Session time: 09:00:00 - Track: BI 02
 ## Speaker: Vladimir Medina
 ## Title: Explore SharePoint 2016 and beyond
 ## Abstract:
@@ -54,7 +54,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 02
 #### SessionID: 61433
 # How to Lose Your Job in 3 Easy Steps
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 02
+Event Date: 03-06-2017 - Session time: 09:00:00 - Track: Administración 02
 ## Speaker: Robert Davis
 ## Title: How to Lose Your Job in 3 Easy Steps
 ## Abstract:
@@ -67,7 +67,7 @@ The scary part is, you may already be doing some of these things and not even kn
 #### SessionID: 61455
 # New Security Features of SQL Server 2016
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 01
+Event Date: 03-06-2017 - Session time: 09:00:00 - Track: Administración 01
 ## Speaker: Dave Walden
 ## Title: New Security Features of SQL Server 2016
 ## Abstract:
@@ -81,7 +81,7 @@ We will discuss when and where to use them, and pros and cons to each feature
 #### SessionID: 64414
 # Machine Learning (Aprendizaje Automático) en la nube de Azure
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 01
+Event Date: 03-06-2017 - Session time: 09:00:00 - Track: BI 01
 ## Speaker: Adan Ortiz-Cordova
 ## Title: Machine Learning (Aprendizaje Automático) en la nube de Azure
 ## Abstract:
@@ -92,7 +92,7 @@ Esta sesión proporcionará una introducción fundamental al servicio en la nube
 #### SessionID: 64644
 # Internet of Things (IoT) - Mis primeros pasos.
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 03
+Event Date: 03-06-2017 - Session time: 09:00:00 - Track: Administración 03
 ## Speaker: Adrian Miranda
 ## Title: Internet of Things (IoT) - Mis primeros pasos.
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 03
 #### SessionID: 61451
 # An introduction to the magical world of BIML!
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 02
+Event Date: 03-06-2017 - Session time: 10:00:00 - Track: BI 02
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 02
 #### SessionID: 61799
 # Alta Disponibilidad con Always On Availability Groups en SQL 2016
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 03
+Event Date: 03-06-2017 - Session time: 10:00:00 - Track: Administración 03
 ## Speaker: Daniel Valero
 ## Title: Alta Disponibilidad con Always On Availability Groups en SQL 2016
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 03
 #### SessionID: 63955
 # Introducci#243;n al an#225;lisis predictivo con SQL Server y Le
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 01
+Event Date: 03-06-2017 - Session time: 10:00:00 - Track: BI 01
 ## Speaker: Eduardo Castro
 ## Title: Introducci#243;n al an#225;lisis predictivo con SQL Server y Le
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 01
 #### SessionID: 64820
 # SQL Server 2016 - Mejorando el desempeño de consultas de análisis sobre sistemas de misión crítica
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 02
+Event Date: 03-06-2017 - Session time: 10:00:00 - Track: Administración 02
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2016 - Mejorando el desempeño de consultas de análisis sobre sistemas de misión crítica
 ## Abstract:
@@ -137,7 +137,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 02
 #### SessionID: 64849
 # Protect your applications from SQL injections, cross site scripting
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 01
+Event Date: 03-06-2017 - Session time: 10:00:00 - Track: Administración 01
 ## Speaker: Dave Rendon
 ## Title: Protect your applications from SQL injections, cross site scripting
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 01
 #### SessionID: 66046
 # Software Asessment Manager.. El Famoso SAM
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 03
+Event Date: 03-06-2017 - Session time: 10:00:00 - Track: Administración 03
 ## Speaker: Rolando Lopez
 ## Title: Software Asessment Manager.. El Famoso SAM
 ## Abstract:
@@ -157,7 +157,7 @@ In this session you can learn the correct form to license SQL, Windows Server, W
 #### SessionID: 61403
 # PowerApps, Flow, Office 365 y su integración con SQL
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 02
+Event Date: 03-06-2017 - Session time: 11:00:00 - Track: BI 02
 ## Speaker: Vladimir Medina
 ## Title: PowerApps, Flow, Office 365 y su integración con SQL
 ## Abstract:
@@ -166,7 +166,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 02
 #### SessionID: 61434
 # SQLCmd Mode - The T-SQL Easy Button
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 02
+Event Date: 03-06-2017 - Session time: 11:00:00 - Track: Administración 02
 ## Speaker: Robert Davis
 ## Title: SQLCmd Mode - The T-SQL Easy Button
 ## Abstract:
@@ -179,7 +179,7 @@ This demo-heavy session will teach you how to leverage new capabilities that hav
 #### SessionID: 61552
 # Power BI-Create a Dashboard from Zero to Hero
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 01
+Event Date: 03-06-2017 - Session time: 11:00:00 - Track: BI 01
 ## Speaker: Vishal Pawar
 ## Title: Power BI-Create a Dashboard from Zero to Hero
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 01
 #### SessionID: 61801
 # Asegurar tu base de datos es ahora más fácil con SQL Server 2016
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 01
+Event Date: 03-06-2017 - Session time: 11:00:00 - Track: Administración 01
 ## Speaker: Daniel Valero
 ## Title: Asegurar tu base de datos es ahora más fácil con SQL Server 2016
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 01
 #### SessionID: 62832
 # Novedades en SQL Server 2016 Integration Services
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 03
+Event Date: 03-06-2017 - Session time: 11:00:00 - Track: Administración 03
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Novedades en SQL Server 2016 Integration Services
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 03
 #### SessionID: 65137
 # LIVE SQL Server 2017 LINUX Availability Group buildout!
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 02
+Event Date: 03-06-2017 - Session time: 11:00:00 - Track: Administración 02
 ## Speaker: Dave Walden
 ## Title: LIVE SQL Server 2017 LINUX Availability Group buildout!
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 02
 #### SessionID: 63956
 # Power BI creando Dashboard de forma rápida
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 01
+Event Date: 03-06-2017 - Session time: 12:00:00 - Track: BI 01
 ## Speaker: Eduardo Castro
 ## Title: Power BI creando Dashboard de forma rápida
 ## Abstract:
@@ -224,7 +224,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 01
 #### SessionID: 64688
 # Security 360 on Data Platform
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 01
+Event Date: 03-06-2017 - Session time: 12:00:00 - Track: Administración 01
 ## Speaker: Miguel Angel Granados
 ## Title: Security 360 on Data Platform
 ## Abstract:
@@ -240,7 +240,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 01
 #### SessionID: 64710
 # Como resolver el mito de "Quiero mi cubo y reporte en tiempo real"
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 02
+Event Date: 03-06-2017 - Session time: 12:00:00 - Track: BI 02
 ## Speaker: Juan Alvarado
 ## Title: Como resolver el mito de "Quiero mi cubo y reporte en tiempo real"
 ## Abstract:
@@ -249,7 +249,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 02
 #### SessionID: 64813
 # Monitoreo y diagnostico de bases de datos SQL Server
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 02
+Event Date: 03-06-2017 - Session time: 12:00:00 - Track: Administración 02
 ## Speaker: Jesus Rodriguez Rodriguez
 ## Title: Monitoreo y diagnostico de bases de datos SQL Server
 ## Abstract:
@@ -258,7 +258,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 02
 #### SessionID: 65200
 # Introduccion a Data Lakes y su uso dentro de una estrategia analitica
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 01
+Event Date: 03-06-2017 - Session time: 12:00:00 - Track: BI 01
 ## Speaker: Juan Alvarado
 ## Title: Introduccion a Data Lakes y su uso dentro de una estrategia analitica
 ## Abstract:
@@ -267,7 +267,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 01
 #### SessionID: 66273
 # Equipos Agiles con TaaaaLento ?
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 03
+Event Date: 03-06-2017 - Session time: 12:00:00 - Track: Administración 03
 ## Speaker: Carmen Aguila
 ## Title: Equipos Agiles con TaaaaLento ?
 ## Abstract:
@@ -276,7 +276,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 03
 #### SessionID: 61402
 # Uso de herramientas gratuitas para el diagnostico de desempeño
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 02
+Event Date: 03-06-2017 - Session time: 14:00:00 - Track: Administración 02
 ## Speaker: Enrique Argüelles
 ## Title: Uso de herramientas gratuitas para el diagnostico de desempeño
 ## Abstract:
@@ -290,7 +290,7 @@ Para diagnosticar y encontrar problemas en los sistemas de SQL Server.
 #### SessionID: 61457
 # What's so special about SQL Server 2016?
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 01
+Event Date: 03-06-2017 - Session time: 14:00:00 - Track: Administración 01
 ## Speaker: Dave Walden
 ## Title: What's so special about SQL Server 2016?
 ## Abstract:
@@ -302,7 +302,7 @@ We will also discuss ways to migrate to SQL 2016 with less pain, using the Query
 #### SessionID: 63161
 # Power BI, Algo mas Informacion
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 01
+Event Date: 03-06-2017 - Session time: 14:00:00 - Track: BI 01
 ## Speaker: Yanitza Campos
 ## Title: Power BI, Algo mas Informacion
 ## Abstract:
@@ -311,7 +311,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 01
 #### SessionID: 63479
 # Construyendo mi primer modelo Tabular con Analysis Services
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 02
+Event Date: 03-06-2017 - Session time: 14:00:00 - Track: BI 02
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Construyendo mi primer modelo Tabular con Analysis Services
 ## Abstract:
@@ -320,7 +320,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 02
 #### SessionID: 64643
 # SQL Data Warehouse. Casos de uso, escalabilidad, cargas de datos
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 03
+Event Date: 03-06-2017 - Session time: 14:00:00 - Track: Administración 03
 ## Speaker: Adrian Miranda
 ## Title: SQL Data Warehouse. Casos de uso, escalabilidad, cargas de datos
 ## Abstract:
@@ -329,7 +329,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 03
 #### SessionID: 61435
 # Performance Tuning 101: Parallelism
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 02
+Event Date: 03-06-2017 - Session time: 15:00:00 - Track: Administración 02
 ## Speaker: Robert Davis
 ## Title: Performance Tuning 101: Parallelism
 ## Abstract:
@@ -338,7 +338,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 02
 #### SessionID: 61454
 # Performance Tuning for the BI Professional
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 02
+Event Date: 03-06-2017 - Session time: 15:00:00 - Track: BI 02
 ## Speaker: Jonathan Stewart
 ## Title: Performance Tuning for the BI Professional
 ## Abstract:
@@ -347,7 +347,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 02
 #### SessionID: 61458
 # Your Data, in the Cloud
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 03
+Event Date: 03-06-2017 - Session time: 15:00:00 - Track: Administración 03
 ## Speaker: Dave Walden
 ## Title: Your Data, in the Cloud
 ## Abstract:
@@ -357,7 +357,7 @@ This session will include introductions to technologies such as Azure AlwaysOn A
 #### SessionID: 62834
 # SQL Server on Linux
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 01
+Event Date: 03-06-2017 - Session time: 15:00:00 - Track: Administración 01
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: SQL Server on Linux
 ## Abstract:
@@ -366,7 +366,7 @@ Event Date: 03-06-2017 - Session time: 16:00:00 - Track: Administración 01
 #### SessionID: 64712
 # Lo nuevo de power BI !!
 #### [Back to calendar](#nr-633)
-Event Date: 03-06-2017 - Session time: 16:00:00 - Track: BI 01
+Event Date: 03-06-2017 - Session time: 15:00:00 - Track: BI 01
 ## Speaker: Juan Alvarado
 ## Title: Lo nuevo de power BI !!
 ## Abstract:

@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 73920
 # Create Stunning Visualizations with The Help of R
 #### [Back to calendar](#nr-753)
-Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Analytics and Visualization
+Event Date: 29-09-2018 - Session time: 09:45:00 - Track: Analytics and Visualization
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Create Stunning Visualizations with The Help of R
 ## Abstract:
@@ -35,7 +35,7 @@ Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Analytics and Visualiza
 #### SessionID: 74110
 # Database tuning advisor vs. dynamic management views
 #### [Back to calendar](#nr-753)
-Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Torsten Strauss
 ## Title: Database tuning advisor vs. dynamic management views
 ## Abstract:
@@ -48,7 +48,7 @@ So, we will try to answer these questions in this deep dive session (300-400).
 #### SessionID: 82328
 # Azure Databricks for Data Engineering
 #### [Back to calendar](#nr-753)
-Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-09-2018 - Session time: 09:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Eugene Polonichko
 ## Title: Azure Databricks for Data Engineering
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Cloud Application Devel
 #### SessionID: 73884
 # Hacking? Mission Possible!
 #### [Back to calendar](#nr-753)
-Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Application  Database Development
+Event Date: 29-09-2018 - Session time: 10:55:00 - Track: Application  Database Development
 ## Speaker: André Melancia
 ## Title: Hacking? Mission Possible!
 ## Abstract:
@@ -68,7 +68,7 @@ As always, should you or any of your colleagues be hacked or exploited, the Demo
 #### SessionID: 73942
 # Encryption in SQL Server
 #### [Back to calendar](#nr-753)
-Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 10:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: Encryption in SQL Server
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #### SessionID: 83079
 # AWS Redshift Introduction
 #### [Back to calendar](#nr-753)
-Event Date: 29-09-2018 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-09-2018 - Session time: 10:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Maryna Popova
 ## Title: AWS Redshift Introduction
 ## Abstract:
@@ -87,7 +87,7 @@ Will give the overview of the architecture and important details
 #### SessionID: 74193
 # Predictive Reporting Services Performance Monitoring
 #### [Back to calendar](#nr-753)
-Event Date: 29-09-2018 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-09-2018 - Session time: 12:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Grzegorz Stolecki
 ## Title: Predictive Reporting Services Performance Monitoring
 ## Abstract:
@@ -97,7 +97,7 @@ During my session you will learn how to monitor Reporting Services with the Exec
 #### SessionID: 80706
 # 10 Alerts that you should have it running in your SQL Server!
 #### [Back to calendar](#nr-753)
-Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 12:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcos Freccia
 ## Title: 10 Alerts that you should have it running in your SQL Server!
 ## Abstract:
@@ -108,7 +108,7 @@ By the end of this session, your life as a DBA will be much easier with those al
 #### SessionID: 84165
 # SQL Server Performance Tuning Nowadays
 #### [Back to calendar](#nr-753)
-Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Application  Database Development
+Event Date: 29-09-2018 - Session time: 12:50:00 - Track: Application  Database Development
 ## Speaker: Denis Reznik
 ## Title: SQL Server Performance Tuning Nowadays
 ## Abstract:
@@ -119,7 +119,7 @@ In this session, we will find answers to all these questions going from collecti
 #### SessionID: 73982
 # Practical SQL Server Machine Learning Services
 #### [Back to calendar](#nr-753)
-Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Advanced Analysis Techniques
+Event Date: 29-09-2018 - Session time: 14:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jan Mulkens
 ## Title: Practical SQL Server Machine Learning Services
 ## Abstract:
@@ -130,7 +130,7 @@ Learn how you can easily roll out your own Data Science projects or support the 
 #### SessionID: 83716
 # Dynamic Search Conditions
 #### [Back to calendar](#nr-753)
-Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Application  Database Development
+Event Date: 29-09-2018 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Dynamic Search Conditions
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Application  Database D
 #### SessionID: 85476
 # MS SQL: Worst Practices
 #### [Back to calendar](#nr-753)
-Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Application  Database Development
+Event Date: 29-09-2018 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Andrii Zrobok
 ## Title: MS SQL: Worst Practices
 ## Abstract:
@@ -149,7 +149,7 @@ Sunstroke. Butterfly effect (How optimizer allocates memory for different  opera
 #### SessionID: 73895
 # A Masters view on Query plans and indexing
 #### [Back to calendar](#nr-753)
-Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Application  Database Development
+Event Date: 29-09-2018 - Session time: 15:10:00 - Track: Application  Database Development
 ## Speaker: Mikael Wedham
 ## Title: A Masters view on Query plans and indexing
 ## Abstract:
@@ -161,7 +161,7 @@ selecting appropriate indexing for your query load.
 #### SessionID: 74339
 # Back to the future - Migrating our SQL Server OnPremise Database to Azure
 #### [Back to calendar](#nr-753)
-Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-09-2018 - Session time: 15:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Back to the future - Migrating our SQL Server OnPremise Database to Azure
 ## Abstract:
@@ -177,7 +177,7 @@ This session consists of:
 #### SessionID: 74418
 # Azure Cosmos DB - What you need to know to build globally distributed apps?
 #### [Back to calendar](#nr-753)
-Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-09-2018 - Session time: 15:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Satya Jayanty
 ## Title: Azure Cosmos DB - What you need to know to build globally distributed apps?
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Cloud Application Devel
 #### SessionID: 86074
 # ДБА мимоволі – що робити? (українською)
 #### [Back to calendar](#nr-753)
-Event Date: 29-09-2018 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 15:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Yevhen Nedashkivskyi
 ## Title: ДБА мимоволі – що робити? (українською)
 ## Abstract:

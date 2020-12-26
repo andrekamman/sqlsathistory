@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 57449
 # PowerQuery Tips and Tricks for Power BI
 #### [Back to calendar](#nr-594)
-Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-04-2017 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rushabh Mehta
 ## Title: PowerQuery Tips and Tricks for Power BI
 ## Abstract:
@@ -36,7 +36,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 61396
 # Introduction to Microsoft Analytics – Turning Data into Intelligent Action
 #### [Back to calendar](#nr-594)
-Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-04-2017 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melody Zacharias
 ## Title: Introduction to Microsoft Analytics – Turning Data into Intelligent Action
 ## Abstract:
@@ -45,7 +45,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 62562
 # To Compress or Decompress—that is this Session
 #### [Back to calendar](#nr-594)
-Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 22-04-2017 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Melissa Connors
 ## Title: To Compress or Decompress—that is this Session
 ## Abstract:
@@ -54,7 +54,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 59528
 # Columnstore Index Primer
 #### [Back to calendar](#nr-594)
-Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-04-2017 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sepand Gojgini
 ## Title: Columnstore Index Primer
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 60992
 # Introduction to BI Architecture
 #### [Back to calendar](#nr-594)
-Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-04-2017 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Warren Sifre
 ## Title: Introduction to BI Architecture
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 62541
 # Tracking Data Changes with Temporal Tables and more
 #### [Back to calendar](#nr-594)
-Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 22-04-2017 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Olivier Cann
 ## Title: Tracking Data Changes with Temporal Tables and more
 ## Abstract:
@@ -86,7 +86,7 @@ and how they can help you keep track of what’s happening with your data over t
 #### SessionID: 59385
 # Database Corruption - Advanced Recovery Techniques
 #### [Back to calendar](#nr-594)
-Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-04-2017 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: Database Corruption - Advanced Recovery Techniques
 ## Abstract:
@@ -98,7 +98,7 @@ Warning: Hex Editors and DBCC Page dumps will be involved!
 #### SessionID: 61783
 # Power BI for the Faint of Heart - Building an Interactive Report Step-by-Step!
 #### [Back to calendar](#nr-594)
-Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 22-04-2017 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Scott Stauffer
 ## Title: Power BI for the Faint of Heart - Building an Interactive Report Step-by-Step!
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 62520
 # SQL Server Management Strategies
 #### [Back to calendar](#nr-594)
-Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-04-2017 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ian Chamberland
 ## Title: SQL Server Management Strategies
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 61141
 # SQL Server In-Flight Recorder Deep-Dive
 #### [Back to calendar](#nr-594)
-Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-04-2017 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohit Gupta
 ## Title: SQL Server In-Flight Recorder Deep-Dive
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 61255
 # Agile Analytics: Automated builds and deployments
 #### [Back to calendar](#nr-594)
-Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-04-2017 - Session time: 13:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mike Diehl
 ## Title: Agile Analytics: Automated builds and deployments
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 62981
 # Performance in 60 Seconds – SQL Tricks Everybody MUST Know
 #### [Back to calendar](#nr-594)
-Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-04-2017 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Pinal Dave
 ## Title: Performance in 60 Seconds – SQL Tricks Everybody MUST Know
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 61723
 # Mobile, Paginated, KPIs, and Power BI, Oh My! SSRS 2016 Reporting
 #### [Back to calendar](#nr-594)
-Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-04-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Wake
 ## Title: Mobile, Paginated, KPIs, and Power BI, Oh My! SSRS 2016 Reporting
 ## Abstract:
@@ -155,7 +155,7 @@ If you have been curious about what has changed with SSRS in SQL Server 2016 and
 #### SessionID: 63339
 # Building a Successful BI practice
 #### [Back to calendar](#nr-594)
-Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-04-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Camron Bute
 ## Title: Building a Successful BI practice
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 22-04-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 63837
 # Locks, Blocks, and Deadlocks; Tame the Sibling Rivalry
 #### [Back to calendar](#nr-594)
-Event Date: 22-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 22-04-2017 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Locks, Blocks, and Deadlocks; Tame the Sibling Rivalry
 ## Abstract:

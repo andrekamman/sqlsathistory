@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 80240
 # Know What Your Code is Doing to SQL Server!
 #### [Back to calendar](#nr-778)
-Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 08:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Know What Your Code is Doing to SQL Server!
 ## Abstract:
@@ -32,7 +32,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 84499
 # Azure Databricks 101
 #### [Back to calendar](#nr-778)
-Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-10-2018 - Session time: 08:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jandee Richards
 ## Title: Azure Databricks 101
 ## Abstract:
@@ -41,7 +41,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Cloud Application Devel
 #### SessionID: 85121
 # Database Design Fundamentals
 #### [Back to calendar](#nr-778)
-Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 08:45:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
 ## Abstract:
@@ -50,7 +50,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 80136
 # A Beginner's Guide to Power BI
 #### [Back to calendar](#nr-778)
-Event Date: 06-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Watson
 ## Title: A Beginner's Guide to Power BI
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: BI Platform Architectur
 #### SessionID: 84482
 # Azure Intelligent Services
 #### [Back to calendar](#nr-778)
-Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
+Event Date: 06-10-2018 - Session time: 10:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Amie Mason
 ## Title: Azure Intelligent Services
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 84849
 # Let's Explore SQL Internals
 #### [Back to calendar](#nr-778)
-Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Let's Explore SQL Internals
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 84049
 # Python in SQL Server 2017
 #### [Back to calendar](#nr-778)
-Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Analytics and Visualization
+Event Date: 06-10-2018 - Session time: 11:15:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
 ## Abstract:
@@ -88,7 +88,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #### SessionID: 84220
 # Best Practices for Power BI Desktop
 #### [Back to calendar](#nr-778)
-Event Date: 06-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 11:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: DeNisha Malone
 ## Title: Best Practices for Power BI Desktop
 ## Abstract:
@@ -99,7 +99,7 @@ I will include tips and tricks to get the best out of report development.
 #### SessionID: 84660
 # The Case for Change: Identifying and Remedying Bad Code
 #### [Back to calendar](#nr-778)
-Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: The Case for Change: Identifying and Remedying Bad Code
 ## Abstract:
@@ -110,7 +110,7 @@ How do you capture those bad queries? When you have this data what do you look a
 #### SessionID: 80369
 # Power BI administration made easy(ier)
 #### [Back to calendar](#nr-778)
-Event Date: 06-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan Evans
 ## Title: Power BI administration made easy(ier)
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: BI Platform Architectur
 #### SessionID: 80793
 # Hello My Friends, Welcome to CosmosDB
 #### [Back to calendar](#nr-778)
-Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-10-2018 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Peter Shore
 ## Title: Hello My Friends, Welcome to CosmosDB
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Cloud Application Devel
 #### SessionID: 85267
 # Intro to PowerShell for DBAs
 #### [Back to calendar](#nr-778)
-Event Date: 06-10-2018 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Pete Brown
 ## Title: Intro to PowerShell for DBAs
 ## Abstract:

@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 66781
 # LIVE SQL Server 2017 LINUX Availability Group buildout!
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 07-10-2017 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Walden
 ## Title: LIVE SQL Server 2017 LINUX Availability Group buildout!
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 67648
 # Data Modeling for the Modern Enterprise
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-10-2017 - Session time: 08:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Casey
 ## Title: Data Modeling for the Modern Enterprise
 ## Abstract:
@@ -71,7 +71,7 @@ Different Modeling Techniques
 #### SessionID: 68672
 # Hidden Power: Service Broker
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
+Event Date: 07-10-2017 - Session time: 08:45:00 - Track: Other
 ## Speaker: Ankit Baria
 ## Title: Hidden Power: Service Broker
 ## Abstract:
@@ -82,7 +82,7 @@ With focusing on your basic database to database asynchronous messaging to more 
 #### SessionID: 68902
 # Introduction to R
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 07-10-2017 - Session time: 08:45:00 - Track: Analytics and Visualization
 ## Speaker: Jeff Renz
 ## Title: Introduction to R
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 68920
 # The Junior Developer's Handbook
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 07-10-2017 - Session time: 08:45:00 - Track: Application  Database Development
 ## Speaker: Doug Lane
 ## Title: The Junior Developer's Handbook
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 66761
 # Performance Monitoring AlwaysOn Availability Groups
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 07-10-2017 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: Performance Monitoring AlwaysOn Availability Groups
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 68428
 # SQL Unit Testing with T-SQLt
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 07-10-2017 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Trojanowski
 ## Title: SQL Unit Testing with T-SQLt
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 68459
 # Remote SQL Server Troubleshooting and Monitoring Using SSIS
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-10-2017 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Don St. Cyr
 ## Title: Remote SQL Server Troubleshooting and Monitoring Using SSIS
 ## Abstract:
@@ -130,7 +130,7 @@ In this session I'll use Glenn Berry's diagnostic queries and SSIS to show how w
 #### SessionID: 68985
 # Service Broker Empowering near Real-time Mainframe Analytics
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 07-10-2017 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Brendon Collier
 ## Title: Service Broker Empowering near Real-time Mainframe Analytics
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 69786
 # Preparing to be Hacked
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 07-10-2017 - Session time: 10:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Bill Graziano
 ## Title: Preparing to be Hacked
 ## Abstract:
@@ -148,7 +148,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 69825
 # Set Me Up: How to Think in Sets
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 07-10-2017 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Brian Hansen
 ## Title: Set Me Up: How to Think in Sets
 ## Abstract:
@@ -159,7 +159,7 @@ We will look at T-SQL features that can break set-based processing -- generally 
 #### SessionID: 69892
 # Tallgrass Consulting
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
+Event Date: 07-10-2017 - Session time: 12:15:00 - Track: Other
 ## Speaker: KC SQLSaturday
 ## Title: Tallgrass Consulting
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
 #### SessionID: 69893
 # Rockhurst University – Business Intelligence  Analytics Programs
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
+Event Date: 07-10-2017 - Session time: 12:15:00 - Track: Other
 ## Speaker: KC SQLSaturday
 ## Title: Rockhurst University – Business Intelligence  Analytics Programs
 ## Abstract:
@@ -178,7 +178,7 @@ Come learn about Rockhurst University’s unique certificate and master’s degr
 #### SessionID: 69895
 # Datrium
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
+Event Date: 07-10-2017 - Session time: 12:15:00 - Track: Other
 ## Speaker: KC SQLSaturday
 ## Title: Datrium
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
 #### SessionID: 69896
 # Cohesity
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
+Event Date: 07-10-2017 - Session time: 12:15:00 - Track: Other
 ## Speaker: KC SQLSaturday
 ## Title: Cohesity
 ## Abstract:
@@ -196,7 +196,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
 #### SessionID: 69897
 # Quest
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
+Event Date: 07-10-2017 - Session time: 12:15:00 - Track: Other
 ## Speaker: KC SQLSaturday
 ## Title: Quest
 ## Abstract:
@@ -212,7 +212,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Other
 #### SessionID: 66746
 # ORMs and the DBA: How to Make Both Happy
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 07-10-2017 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Dan Mallott
 ## Title: ORMs and the DBA: How to Make Both Happy
 ## Abstract:
@@ -221,7 +221,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 67933
 # Azure Machine Learning 101
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 07-10-2017 - Session time: 12:45:00 - Track: Analytics and Visualization
 ## Speaker: Kathi Kellenberger
 ## Title: Azure Machine Learning 101
 ## Abstract:
@@ -230,7 +230,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 68415
 # Source Control and Database Projects - Just Do It
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-10-2017 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Weed
 ## Title: Source Control and Database Projects - Just Do It
 ## Abstract:
@@ -239,7 +239,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 68907
 # Don't just code it—Generate It
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 07-10-2017 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Mackey
 ## Title: Don't just code it—Generate It
 ## Abstract:
@@ -254,7 +254,7 @@ Generated code has systematic errors. Fix the errors at the generator. All the c
 #### SessionID: 66776
 # Continuous Deployments using SSDT
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 07-10-2017 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christopher Wolff
 ## Title: Continuous Deployments using SSDT
 ## Abstract:
@@ -263,7 +263,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 66780
 # Index Speed Demons - How To Turbo-Charge Your Text Based Queries Using Full-Text Indexing
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 07-10-2017 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adam Koehler
 ## Title: Index Speed Demons - How To Turbo-Charge Your Text Based Queries Using Full-Text Indexing
 ## Abstract:
@@ -272,7 +272,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 67068
 # SQL and BI Business Value
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 07-10-2017 - Session time: 14:15:00 - Track: Professional Development
 ## Speaker: Matthew Bowers
 ## Title: SQL and BI Business Value
 ## Abstract:
@@ -285,7 +285,7 @@ Participants will learn about the basics of determining business value for a sol
 #### SessionID: 67381
 # Working with Temporal Data in SQL Server
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 07-10-2017 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: David Maxwell
 ## Title: Working with Temporal Data in SQL Server
 ## Abstract:
@@ -294,7 +294,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 68271
 # Data Mining Techniques with R and Azure Batch Services
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 07-10-2017 - Session time: 14:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Matthew Sharkey
 ## Title: Data Mining Techniques with R and Azure Batch Services
 ## Abstract:
@@ -303,7 +303,7 @@ Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 68463
 # Dynamic SQL: Tables, Pivots, Parameters
 #### [Back to calendar](#nr-680)
-Event Date: 07-10-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 07-10-2017 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Steven Tidwell
 ## Title: Dynamic SQL: Tables, Pivots, Parameters
 ## Abstract:

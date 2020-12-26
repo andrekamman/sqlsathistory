@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 86692
 # Analyze and solve common wait stats scenarios
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-02-2019 - Session time: 01:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Uwe Ricken
 ## Title: Analyze and solve common wait stats scenarios
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Enterprise Database Adm
 #### SessionID: 87159
 # Functions and Parameters in Power BI
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Analytics and Visualization
+Event Date: 09-02-2019 - Session time: 01:45:00 - Track: Analytics and Visualization
 ## Speaker: Hubert Kobierzewski
 ## Title: Functions and Parameters in Power BI
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Analytics and Visualiza
 #### SessionID: 87823
 # Testuj swoje pakiety SSIS z ssisUnit [PL/EN]
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Information Delivery
+Event Date: 09-02-2019 - Session time: 01:45:00 - Track: Information Delivery
 ## Speaker: Bartosz Ratajczyk
 ## Title: Testuj swoje pakiety SSIS z ssisUnit [PL/EN]
 ## Abstract:
@@ -66,7 +66,7 @@ On this session, I will show you how to start with automated testing of the pack
 #### SessionID: 87831
 # Challenges in Big Data analysis
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Other
+Event Date: 09-02-2019 - Session time: 01:45:00 - Track: Other
 ## Speaker: Natalia Szóstak
 ## Title: Challenges in Big Data analysis
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Other
 #### SessionID: 86866
 # Common TSQL Mistakes
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Other
+Event Date: 09-02-2019 - Session time: 08:30:00 - Track: Other
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Other
 #### SessionID: 86678
 # What is hidden in the query plan ?
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Professional Development
+Event Date: 09-02-2019 - Session time: 10:30:00 - Track: Professional Development
 ## Speaker: Rudi Bruchez
 ## Title: What is hidden in the query plan ?
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Professional Developmen
 #### SessionID: 86974
 # Cut the tables into partitions v.2
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-02-2019 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dariusz Brejnak
 ## Title: Cut the tables into partitions v.2
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Enterprise Database Adm
 #### SessionID: 87852
 # 15 Power BI tricks  tips in 60 minutes
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-02-2019 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Adrian Chodkowski
 ## Title: 15 Power BI tricks  tips in 60 minutes
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 09-02-2019 - Session time: 17:30:00 - Track: BI Platform Architectur
 #### SessionID: 87910
 # “SQL-like” or query languages in Azure IoT
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Application  Database Development
+Event Date: 09-02-2019 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: “SQL-like” or query languages in Azure IoT
 ## Abstract:
@@ -123,7 +123,7 @@ So, we will leave no SQL query unturned  in Azure IoT Hub, Stream Analytics, Pow
 #### SessionID: 86770
 # How to use batch mode on rowstore
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-02-2019 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tomasz Waloszek
 ## Title: How to use batch mode on rowstore
 ## Abstract:
@@ -132,7 +132,7 @@ Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Enterprise Database Adm
 #### SessionID: 87026
 # ETL is Dead; Long Live Streams with Apache Kafka.
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-02-2019 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Taras Kloba
 ## Title: ETL is Dead; Long Live Streams with Apache Kafka.
 ## Abstract:
@@ -141,7 +141,7 @@ Event Date: 09-02-2019 - Session time: 17:30:00 - Track: BI Platform Architectur
 #### SessionID: 87143
 # 5 ways to track Database Schema changes
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-02-2019 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marek Maśko
 ## Title: 5 ways to track Database Schema changes
 ## Abstract:
@@ -161,7 +161,7 @@ In this session, I will demonstrate you 5 different ways to track database schem
 #### SessionID: 87881
 # Hello Power BI! I'm Python! What can I do for you?
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Analytics and Visualization
+Event Date: 09-02-2019 - Session time: 11:45:00 - Track: Analytics and Visualization
 ## Speaker: Grzegorz Stolecki
 ## Title: Hello Power BI! I'm Python! What can I do for you?
 ## Abstract:
@@ -171,7 +171,7 @@ During my heavy demo loaded session you will see how to use Python to generate d
 #### SessionID: 86675
 # Power BI Premium vs Power BI Embedded for Modern BI Solutions
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-02-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mihail Mateev
 ## Title: Power BI Premium vs Power BI Embedded for Modern BI Solutions
 ## Abstract:
@@ -181,7 +181,7 @@ This talk is abou the best practices designing and implementing in business solu
 #### SessionID: 86885
 # DevOPS for DBAs - Where is your magic wand?
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-02-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: DevOPS for DBAs - Where is your magic wand?
 ## Abstract:
@@ -195,7 +195,7 @@ Take away best practices associated in DEVOPS and DBA world.
 #### SessionID: 87102
 # Extent and Page Management in SQL Server
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-02-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Torsten Strauss
 ## Title: Extent and Page Management in SQL Server
 ## Abstract:
@@ -206,7 +206,7 @@ Also, we will dump a data page to analyze the page header and translate the payl
 #### SessionID: 88986
 # Spark'em All - Azure Databricks Demo Hour
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Strategy and Architecture
+Event Date: 09-02-2019 - Session time: 15:00:00 - Track: Strategy and Architecture
 ## Speaker: Pawel Potasinski
 ## Title: Spark'em All - Azure Databricks Demo Hour
 ## Abstract:
@@ -216,7 +216,7 @@ Co-presenter: Pawel Kruczkowski
 #### SessionID: 86797
 # Introduction into SQL Server 2019 Big Data Cluster
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-02-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Introduction into SQL Server 2019 Big Data Cluster
 ## Abstract:
@@ -226,7 +226,7 @@ Join me in this session and I show you how it is easy to deploy this cluster and
 #### SessionID: 87851
 # Power-up your BI project with PowerApps
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-02-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sławomir Drzymała
 ## Title: Power-up your BI project with PowerApps
 ## Abstract:
@@ -235,7 +235,7 @@ Event Date: 09-02-2019 - Session time: 17:30:00 - Track: BI Platform Architectur
 #### SessionID: 87878
 # Wprowadzenie do SQLite
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Application  Database Development
+Event Date: 09-02-2019 - Session time: 16:15:00 - Track: Application  Database Development
 ## Speaker: Andrzej Kukula
 ## Title: Wprowadzenie do SQLite
 ## Abstract:
@@ -244,7 +244,7 @@ Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Application  Database D
 #### SessionID: 87909
 # Bringing AI to the edge: On-premise Azure Cognitive Services using containers
 #### [Back to calendar](#nr-824)
-Event Date: 09-02-2019 - Session time: 17:30:00 - Track: Advanced Analysis Techniques
+Event Date: 09-02-2019 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Luis Beltran
 ## Title: Bringing AI to the edge: On-premise Azure Cognitive Services using containers
 ## Abstract:

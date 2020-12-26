@@ -41,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 54984
 # Create and Load a Staging Environment from Scratch in an Hour with Biml
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-12-2016 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Scott Currie
 ## Title: Create and Load a Staging Environment from Scratch in an Hour with Biml
 ## Abstract:
@@ -50,7 +50,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 54990
 # Cloud Cloud. Cloud cloud cloud cloud cloud.....also Azure.
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 10-12-2016 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Julie Smith
 ## Title: Cloud Cloud. Cloud cloud cloud cloud cloud.....also Azure.
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 55036
 # Data Storytelling Using Power BI
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: PowerBI
+Event Date: 10-12-2016 - Session time: 09:00:00 - Track: PowerBI
 ## Speaker: Jason Thomas
 ## Title: Data Storytelling Using Power BI
 ## Abstract:
@@ -70,7 +70,7 @@ Join me as I take you through on how to utilize Power BI effectively to tell dat
 #### SessionID: 55038
 # Good Habits of a DW/BI Developer
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-12-2016 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melissa Coates
 ## Title: Good Habits of a DW/BI Developer
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 56236
 # How to get Microsoft Certified
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 10-12-2016 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: John Deardurff
 ## Title: How to get Microsoft Certified
 ## Abstract:
@@ -88,7 +88,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 56237
 # Embed Interactive Reports in Your Apps
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: PowerBI
+Event Date: 10-12-2016 - Session time: 09:00:00 - Track: PowerBI
 ## Speaker: Teo Lachev
 ## Title: Embed Interactive Reports in Your Apps
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: PowerBI
 #### SessionID: 54082
 # SQL Server 2016 and PolyBase
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-12-2016 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sean Werick
 ## Title: SQL Server 2016 and PolyBase
 ## Abstract:
@@ -111,7 +111,7 @@ In this session, you will learn how to install and set up PolyBase, and how to u
 #### SessionID: 54197
 # Use Biml to Automate SSIS Design Patterns
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-12-2016 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Use Biml to Automate SSIS Design Patterns
 ## Abstract:
@@ -125,7 +125,7 @@ In this session, you will learn:
 #### SessionID: 54319
 # Extract, Transform And Load  - Using R
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 10-12-2016 - Session time: 10:30:00 - Track: Analytics and Visualization
 ## Speaker: Kiran Math
 ## Title: Extract, Transform And Load  - Using R
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 54808
 # Introduction to Microsoft Analytics – Turning Data into Intelligent Action
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 10-12-2016 - Session time: 10:30:00 - Track: BI Information Delivery
 ## Speaker: Melody Zacharias
 ## Title: Introduction to Microsoft Analytics – Turning Data into Intelligent Action
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 56235
 # Deploying Power BI:  A Blueprint for implementation success
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: PowerBI
+Event Date: 10-12-2016 - Session time: 10:30:00 - Track: PowerBI
 ## Speaker: Javier Guillen
 ## Title: Deploying Power BI:  A Blueprint for implementation success
 ## Abstract:
@@ -154,7 +154,7 @@ This session will present a practical guide for implementing Power BI at your or
 #### SessionID: 56476
 # Microsoft Technologies for Data Science
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 10-12-2016 - Session time: 10:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Mark Tabladillo
 ## Title: Microsoft Technologies for Data Science
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 57614
 # Zero to Tabular
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-12-2016 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Patrick LeBlanc
 ## Title: Zero to Tabular
 ## Abstract:
@@ -172,7 +172,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 57587
 # BimlFlex: A Flexible, Extensible, and Completely Customizable Data Warehouse Framework
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Other
+Event Date: 10-12-2016 - Session time: 11:45:00 - Track: Other
 ## Speaker: Scott Currie
 ## Title: BimlFlex: A Flexible, Extensible, and Completely Customizable Data Warehouse Framework
 ## Abstract:
@@ -187,7 +187,7 @@ Learn more about BimlFlex while you enjoy lunch!
 #### SessionID: 53837
 # Power BI-Create a Dashboard from Zero to Hero
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: PowerBI
+Event Date: 10-12-2016 - Session time: 12:45:00 - Track: PowerBI
 ## Speaker: Vishal Pawar
 ## Title: Power BI-Create a Dashboard from Zero to Hero
 ## Abstract:
@@ -196,7 +196,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: PowerBI
 #### SessionID: 54014
 # Zero to Hero with SSRS 2016 Mobile Report Publisher
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 10-12-2016 - Session time: 12:45:00 - Track: Analytics and Visualization
 ## Speaker: Robert Cain
 ## Title: Zero to Hero with SSRS 2016 Mobile Report Publisher
 ## Abstract:
@@ -205,7 +205,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 54713
 # Tips and Tricks for the SSIS Catalog
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-12-2016 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jonathan Buller
 ## Title: Tips and Tricks for the SSIS Catalog
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 54981
 # A Gentle Introduction to R for Power BI
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: PowerBI
+Event Date: 10-12-2016 - Session time: 12:45:00 - Track: PowerBI
 ## Speaker: Ryan Wade
 ## Title: A Gentle Introduction to R for Power BI
 ## Abstract:
@@ -225,7 +225,7 @@ There are 3 ways you can leverage R in Power BI. You can use it as a data source
 #### SessionID: 54985
 # Are You Making False Assumptions about Your Data?
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-12-2016 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Scott Currie
 ## Title: Are You Making False Assumptions about Your Data?
 ## Abstract:
@@ -238,7 +238,7 @@ Even better, a solution to automate and orchestrate this entire process using SS
 #### SessionID: 55043
 # Practical PowerShell for the SQL Developers and DBA's - 0 to 60 in 60 mins
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 10-12-2016 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Jana Sattainathan
 ## Title: Practical PowerShell for the SQL Developers and DBA's - 0 to 60 in 60 mins
 ## Abstract:
@@ -247,7 +247,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 53834
 # An introduction to the magical world of BIML!
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-12-2016 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
 ## Abstract:
@@ -256,7 +256,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 53838
 # Why “R” you not leveraging the power of “R” in Power BI?
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-12-2016 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Wade
 ## Title: Why “R” you not leveraging the power of “R” in Power BI?
 ## Abstract:
@@ -267,7 +267,7 @@ In this session I will focus on the benefits of using R in Power BI. I will show
 #### SessionID: 53927
 # Learning R And Talking About Football
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-12-2016 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Wilkie
 ## Title: Learning R And Talking About Football
 ## Abstract:
@@ -282,7 +282,7 @@ We'll go over the basics of R and how to do things with it, plus items such as:
 #### SessionID: 54010
 # RAID??!!
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-12-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chadwick Smith
 ## Title: RAID??!!
 ## Abstract:
@@ -291,7 +291,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 54054
 # The 20% of DAX That Gets You 80% of the Way There
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 10-12-2016 - Session time: 14:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Austin Senseman
 ## Title: The 20% of DAX That Gets You 80% of the Way There
 ## Abstract:
@@ -300,7 +300,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 54964
 # Power BI:  Data Refresh and On-Premises Connectivity
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: PowerBI
+Event Date: 10-12-2016 - Session time: 14:15:00 - Track: PowerBI
 ## Speaker: Patrick LeBlanc
 ## Title: Power BI:  Data Refresh and On-Premises Connectivity
 ## Abstract:
@@ -309,7 +309,7 @@ Event Date: 10-12-2016 - Session time: 15:45:00 - Track: PowerBI
 #### SessionID: 56448
 # SQL Server R Services in SQL 2016
 #### [Back to calendar](#nr-578)
-Event Date: 10-12-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 10-12-2016 - Session time: 14:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
 ## Abstract:

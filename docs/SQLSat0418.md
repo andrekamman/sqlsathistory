@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 38678
 # Machine Learning without a PhD in statistics
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
+Event Date: 25-07-2015 - Session time: 09:00:00 - Track: Azure
 ## Speaker: Andrew Fryer
 ## Title: Machine Learning without a PhD in statistics
 ## Abstract:
@@ -53,7 +53,7 @@ Traditional BI has been all about creating consistent data sets fronted with eas
 #### SessionID: 38679
 # Session Details not available
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 25-07-2015 - Session time: 09:00:00 - Track: Business Intelligence
 ## Speaker: n/a n/a
 ## Title: Session Details not available
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 38694
 # Building Big Data Solutions with Microsoft Azure HDInsight 
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
+Event Date: 25-07-2015 - Session time: 09:00:00 - Track: Azure
 ## Speaker: Graeme Malcolm
 ## Title: Building Big Data Solutions with Microsoft Azure HDInsight 
 ## Abstract:
@@ -73,7 +73,7 @@ Need to work with big data? Attend this session to learn how to use Microsoft Az
 #### SessionID: 38695
 # Practical R: A hands-on training day
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Analytics
+Event Date: 25-07-2015 - Session time: 09:00:00 - Track: Business Analytics
 ## Speaker: Stephanie Locke
 ## Title: Practical R: A hands-on training day
 ## Abstract:
@@ -92,7 +92,7 @@ Bring your own laptop!
 #### SessionID: 38699
 # SQL Server 2014 In-memory technologies - Columnstore, In-Memory O
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 25-07-2015 - Session time: 09:00:00 - Track: DBA
 ## Speaker: Tony Rogerson
 ## Title: SQL Server 2014 In-memory technologies - Columnstore, In-Memory O
 ## Abstract:
@@ -112,7 +112,7 @@ OLTP - In-memory OLAP •Tables
 #### SessionID: 39035
 # Database source control workshop
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Data Practices
+Event Date: 25-07-2015 - Session time: 09:00:00 - Track: Data Practices
 ## Speaker: Alex Yates
 ## Title: Database source control workshop
 ## Abstract:
@@ -139,7 +139,7 @@ To get the most out of this workshop, you should be:
 #### SessionID: 36456
 # What do I need to know about SQL Server platform upgrade? 
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 25-07-2015 - Session time: 09:45:00 - Track: DBA
 ## Speaker: Satya Jayanty
 ## Title: What do I need to know about SQL Server platform upgrade? 
 ## Abstract:
@@ -153,7 +153,7 @@ We will cover the complete upgrade cycle, including the preparation tasks, upgra
 #### SessionID: 36713
 # Approaches to database Unit Testing
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Data Practices
+Event Date: 25-07-2015 - Session time: 09:45:00 - Track: Data Practices
 ## Speaker: Gavin Campbell
 ## Title: Approaches to database Unit Testing
 ## Abstract:
@@ -166,7 +166,7 @@ Over the years, a number of tools and approaches have been developed to address 
 #### SessionID: 37021
 # Creating Mobile Dashboards with DataZen
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 25-07-2015 - Session time: 09:45:00 - Track: Business Intelligence
 ## Speaker: Bob Duffy
 ## Title: Creating Mobile Dashboards with DataZen
 ## Abstract:
@@ -178,7 +178,7 @@ We will be showing an end to end demo of creating and publishing dashboards for 
 #### SessionID: 37201
 # BI Application Lifecycle Management with TFS and Octopus Deploy
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 25-07-2015 - Session time: 09:45:00 - Track: Business Intelligence
 ## Speaker: Dmytro Andriychenko
 ## Title: BI Application Lifecycle Management with TFS and Octopus Deploy
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 38677
 # Session Details not available
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
+Event Date: 25-07-2015 - Session time: 09:45:00 - Track: Azure
 ## Speaker: n/a n/a
 ## Title: Session Details not available
 ## Abstract:
@@ -196,7 +196,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 #### SessionID: 17297
 # Building your first Microsoft Azure IaaS infrastructure
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
+Event Date: 25-07-2015 - Session time: 11:05:00 - Track: Azure
 ## Speaker: John Martin
 ## Title: Building your first Microsoft Azure IaaS infrastructure
 ## Abstract:
@@ -205,7 +205,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 #### SessionID: 25280
 # Agile BI
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Data Practices
+Event Date: 25-07-2015 - Session time: 11:05:00 - Track: Data Practices
 ## Speaker: Stephanie Locke
 ## Title: Agile BI
 ## Abstract:
@@ -215,7 +215,7 @@ Covering the technology and process sides of enabling agile BI, this session is 
 #### SessionID: 36672
 # Data modeling for data analysis and cubes
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 25-07-2015 - Session time: 11:05:00 - Track: Business Intelligence
 ## Speaker: Alex Whittles
 ## Title: Data modeling for data analysis and cubes
 ## Abstract:
@@ -225,7 +225,7 @@ In this session we’ll look at a number of different data scenarios that we enc
 #### SessionID: 38203
 # Everything’s bigger these days – even data!
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
+Event Date: 25-07-2015 - Session time: 11:05:00 - Track: Azure
 ## Speaker: Graeme Malcolm
 ## Title: Everything’s bigger these days – even data!
 ## Abstract:
@@ -234,7 +234,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 #### SessionID: 38698
 # Deep Dive into In-Memory OLTP (Hekaton)
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 25-07-2015 - Session time: 11:05:00 - Track: DBA
 ## Speaker: Tony Rogerson
 ## Title: Deep Dive into In-Memory OLTP (Hekaton)
 ## Abstract:
@@ -243,7 +243,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 37231
 # The first step towards continuous integration for SQL Server
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Sponsor
+Event Date: 25-07-2015 - Session time: 12:40:00 - Track: Sponsor
 ## Speaker: Alex Yates
 ## Title: The first step towards continuous integration for SQL Server
 ## Abstract:
@@ -261,7 +261,7 @@ In this session, I will show you:
 #### SessionID: 38362
 # Data Quality Improvement through Master Data Driven Business Inte
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Sponsor
+Event Date: 25-07-2015 - Session time: 12:40:00 - Track: Sponsor
 ## Speaker: Ben Cooper
 ## Title: Data Quality Improvement through Master Data Driven Business Inte
 ## Abstract:
@@ -270,7 +270,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Sponsor
 #### SessionID: 38705
 # SanDisk – Delivering the Application Accelerated Data Centre
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Sponsor
+Event Date: 25-07-2015 - Session time: 12:40:00 - Track: Sponsor
 ## Speaker: Steve Wharton
 ## Title: SanDisk – Delivering the Application Accelerated Data Centre
 ## Abstract:
@@ -282,7 +282,7 @@ Principal Solutions Architect  Phil Clarke, will discuss these challenges, enabl
 #### SessionID: 39085
 # One BI Platform to Rule Them All
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Sponsor
+Event Date: 25-07-2015 - Session time: 12:40:00 - Track: Sponsor
 ## Speaker: Ian Macdonald
 ## Title: One BI Platform to Rule Them All
 ## Abstract:
@@ -291,7 +291,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Sponsor
 #### SessionID: 18262
 # Tempdb - a database developer's perspective
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 25-07-2015 - Session time: 13:30:00 - Track: DBA
 ## Speaker: Kevan Riley
 ## Title: Tempdb - a database developer's perspective
 ## Abstract:
@@ -300,7 +300,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 35639
 # Introduction to Replication from concepts to a running system!
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 25-07-2015 - Session time: 13:30:00 - Track: DBA
 ## Speaker: David Williams
 ## Title: Introduction to Replication from concepts to a running system!
 ## Abstract:
@@ -309,7 +309,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 35765
 # AD 2015. 2 AM. A Disaster just began...
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Data Practices
+Event Date: 25-07-2015 - Session time: 13:30:00 - Track: Data Practices
 ## Speaker: Tobias Koprowski
 ## Title: AD 2015. 2 AM. A Disaster just began...
 ## Abstract:
@@ -318,7 +318,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Data Practices
 #### SessionID: 37143
 # Advanced SSIS Techniques
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 25-07-2015 - Session time: 13:30:00 - Track: Business Intelligence
 ## Speaker: David Dye
 ## Title: Advanced SSIS Techniques
 ## Abstract:
@@ -339,7 +339,7 @@ Upon completion of this workshop attendees will be able to:
 #### SessionID: 38202
 # Machine Learning without a PhD in statisitcs
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
+Event Date: 25-07-2015 - Session time: 13:30:00 - Track: Azure
 ## Speaker: Andrew Fryer
 ## Title: Machine Learning without a PhD in statisitcs
 ## Abstract:
@@ -348,7 +348,7 @@ Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
 #### SessionID: 26105
 # SSRS Inception: Reporting on Reporting services.
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 25-07-2015 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Terry McCann
 ## Title: SSRS Inception: Reporting on Reporting services.
 ## Abstract:
@@ -359,7 +359,7 @@ Wouldn't it be great if you could see who is viewing a report, in what format an
 #### SessionID: 27310
 # INSERT / UPDATE / DELETE - deep dive
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 25-07-2015 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Uwe Ricken
 ## Title: INSERT / UPDATE / DELETE - deep dive
 ## Abstract:
@@ -370,7 +370,7 @@ SEE, what a workload will be caused by a "forwarded record". What tremendous wor
 #### SessionID: 37212
 # Exploring the Microsoft Data Platform  the Changing Role of the DBA
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
+Event Date: 25-07-2015 - Session time: 14:45:00 - Track: Azure
 ## Speaker: John Martin
 ## Title: Exploring the Microsoft Data Platform  the Changing Role of the DBA
 ## Abstract:
@@ -381,7 +381,7 @@ In this session we will look at Microsoft SQL Server, Azure SQL DB, DocumentDB a
 #### SessionID: 37232
 # The elephant in the room: Continuous Delivery for Databases
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 25-07-2015 - Session time: 14:45:00 - Track: DBA
 ## Speaker: Alex Yates
 ## Title: The elephant in the room: Continuous Delivery for Databases
 ## Abstract:
@@ -402,7 +402,7 @@ By the end of the session, delegates will have learned not only that this elepha
 #### SessionID: 38667
 # Introducing Azure SQL Data Warehouse
 #### [Back to calendar](#nr-418)
-Event Date: 25-07-2015 - Session time: 16:00:00 - Track: Azure
+Event Date: 25-07-2015 - Session time: 14:45:00 - Track: Azure
 ## Speaker: James Rowland-Jones
 ## Title: Introducing Azure SQL Data Warehouse
 ## Abstract:

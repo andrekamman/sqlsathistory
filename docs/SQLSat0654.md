@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 63957
 # Transitioning from Integration Services to Azure Data Factory
 #### [Back to calendar](#nr-654)
-Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Business Intelligence
+Event Date: 22-07-2017 - Session time: 08:30:00 - Track: Business Intelligence
 ## Speaker: Meagan Longoria
 ## Title: Transitioning from Integration Services to Azure Data Factory
 ## Abstract:
@@ -35,7 +35,7 @@ Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Business Intelligence
 #### SessionID: 64419
 # Agile Data Modeling with Data Vault
 #### [Back to calendar](#nr-654)
-Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Business Intelligence
+Event Date: 22-07-2017 - Session time: 08:30:00 - Track: Business Intelligence
 ## Speaker: Scot Reagin
 ## Title: Agile Data Modeling with Data Vault
 ## Abstract:
@@ -45,7 +45,7 @@ In this session we’ll compare modeling techniques in real world scenarios to u
 #### SessionID: 65105
 # Remote SQL Server Troubleshooting and Monitoring Using SSIS
 #### [Back to calendar](#nr-654)
-Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Business Intelligence
+Event Date: 22-07-2017 - Session time: 08:30:00 - Track: Business Intelligence
 ## Speaker: Don St. Cyr
 ## Title: Remote SQL Server Troubleshooting and Monitoring Using SSIS
 ## Abstract:
@@ -57,7 +57,7 @@ In this session I'll use Glenn Berry's diagnostic queries and SSIS to show how w
 #### SessionID: 65916
 # Why Should I Care About ... Partitioned Views?
 #### [Back to calendar](#nr-654)
-Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-07-2017 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 63961
 # Microsoft R Explained
 #### [Back to calendar](#nr-654)
-Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Alternative Platforms, Big Data, Machine Learning
+Event Date: 22-07-2017 - Session time: 10:00:00 - Track: Alternative Platforms, Big Data, Machine Learning
 ## Speaker: Dana Stubben
 ## Title: Microsoft R Explained
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Alternative Platforms, 
 #### SessionID: 65548
 # Get Your Optimizer to Give up All Its Secrets
 #### [Back to calendar](#nr-654)
-Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-07-2017 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 65922
 # Understanding SQL Server 2016 Always Encrypted
 #### [Back to calendar](#nr-654)
-Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-07-2017 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: Understanding SQL Server 2016 Always Encrypted
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 67326
 # What is Biml and why are SSIS developers excited about it?
 #### [Back to calendar](#nr-654)
-Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Business Intelligence
+Event Date: 22-07-2017 - Session time: 10:00:00 - Track: Business Intelligence
 ## Speaker: Bill Fellows
 ## Title: What is Biml and why are SSIS developers excited about it?
 ## Abstract:
@@ -106,7 +106,7 @@ You will leave this session armed with the knowledge of how Biml can help you ac
 #### SessionID: 64418
 # Data Integration: the neglected hero of your information environment
 #### [Back to calendar](#nr-654)
-Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Business Intelligence
+Event Date: 22-07-2017 - Session time: 12:45:00 - Track: Business Intelligence
 ## Speaker: Scot Reagin
 ## Title: Data Integration: the neglected hero of your information environment
 ## Abstract:
@@ -121,7 +121,7 @@ A managed Data Integration platform can provide both efficient data management a
 #### SessionID: 64505
 # My Top 10+ Favorite Replication Tricks
 #### [Back to calendar](#nr-654)
-Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-07-2017 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcus Hopfinger
 ## Title: My Top 10+ Favorite Replication Tricks
 ## Abstract:
@@ -130,7 +130,7 @@ Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 65547
 # Nightmares, Creativity, and You: Programming in Your Dreams
 #### [Back to calendar](#nr-654)
-Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 22-07-2017 - Session time: 12:45:00 - Track: Professional Development
 ## Speaker: Matthew Olson
 ## Title: Nightmares, Creativity, and You: Programming in Your Dreams
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 65925
 # Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
 #### [Back to calendar](#nr-654)
-Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-07-2017 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
 ## Abstract:
@@ -148,7 +148,7 @@ Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 64197
 # How'd they get in there?  Utilities to map all paths users have to access data
 #### [Back to calendar](#nr-654)
-Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-07-2017 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Marinovic
 ## Title: How'd they get in there?  Utilities to map all paths users have to access data
 ## Abstract:
@@ -163,7 +163,7 @@ This session is for the DBA or Accidental DBA who regularly fields questions abo
 #### SessionID: 65550
 # Remember Back When?  Temporal Tables in SQL Server 2016
 #### [Back to calendar](#nr-654)
-Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-07-2017 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Remember Back When?  Temporal Tables in SQL Server 2016
 ## Abstract:
@@ -172,7 +172,7 @@ Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 65918
 # Weird stuff I saw ... while supporting a Java team
 #### [Back to calendar](#nr-654)
-Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-07-2017 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Weird stuff I saw ... while supporting a Java team
 ## Abstract:
@@ -181,7 +181,7 @@ Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 68085
 # SQL Unit Testing with T-SQLt
 #### [Back to calendar](#nr-654)
-Event Date: 22-07-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 22-07-2017 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kevin Trojanowski
 ## Title: SQL Unit Testing with T-SQLt
 ## Abstract:

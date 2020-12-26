@@ -22,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 90494
 # Hidden gems of SQL Server 2017
 #### [Back to calendar](#nr-868)
-Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Denis Reznik
 ## Title: Hidden gems of SQL Server 2017
 ## Abstract:
@@ -33,7 +33,7 @@ In this session, we will learn a lot about these features and improvements. Whic
 #### SessionID: 94876
 # Build Modern Cloud Applications with Net Core 3.0, entity framework and CosmosDB.
 #### [Back to calendar](#nr-868)
-Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Mihail Mateev
 ## Title: Build Modern Cloud Applications with Net Core 3.0, entity framework and CosmosDB.
 ## Abstract:
@@ -44,7 +44,7 @@ Let's look the possible architectures of modern cloud applications and the impac
 #### SessionID: 96811
 # Hidden force of the PowerQuery. Powerful ETL  AI integration
 #### [Back to calendar](#nr-868)
-Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
+Event Date: 28-09-2019 - Session time: 10:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ruslan Zolotukhin
 ## Title: Hidden force of the PowerQuery. Powerful ETL  AI integration
 ## Abstract:
@@ -53,7 +53,7 @@ Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 91833
 # SQL Server Columnstore Indexes: Practical recipes
 #### [Back to calendar](#nr-868)
-Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 28-09-2019 - Session time: 11:10:00 - Track: Professional Development
 ## Speaker: Sergey Syrovatchenko
 ## Title: SQL Server Columnstore Indexes: Practical recipes
 ## Abstract:
@@ -64,7 +64,7 @@ In this session, we will look at several tips how to improve performance of our 
 #### SessionID: 95710
 # Power BI. Benefits and Pitfalls of DAX.
 #### [Back to calendar](#nr-868)
-Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 28-09-2019 - Session time: 11:10:00 - Track: Analytics and Visualization
 ## Speaker: Artur Konstantynov
 ## Title: Power BI. Benefits and Pitfalls of DAX.
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 98016
 # Узгодженість, паралелізм та блокування в сучасних базах даних
 #### [Back to calendar](#nr-868)
-Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Yevhen Nedashkivskyi
 ## Title: Узгодженість, паралелізм та блокування в сучасних базах даних
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 91305
 # What is CI/CD for databases or how to automate DB changes
 #### [Back to calendar](#nr-868)
-Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-09-2019 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taras Kloba
 ## Title: What is CI/CD for databases or how to automate DB changes
 ## Abstract:
@@ -95,7 +95,7 @@ The main goal is to understand that applications and databases can and should sh
 #### SessionID: 94814
 # Don't Use Cursors or Why You Maybe Should Use a Cursor After All
 #### [Back to calendar](#nr-868)
-Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Don't Use Cursors or Why You Maybe Should Use a Cursor After All
 ## Abstract:
@@ -104,7 +104,7 @@ Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 96229
 # Architecture of modern data warehouse
 #### [Back to calendar](#nr-868)
-Event Date: 28-09-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-09-2019 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Polonichko
 ## Title: Architecture of modern data warehouse
 ## Abstract:
@@ -114,7 +114,7 @@ Microsoft Azure provides a set of fully managed services, which allow you to bui
 #### SessionID: 94276
 # Hacking SQL Server Is Not Enough
 #### [Back to calendar](#nr-868)
-Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-09-2019 - Session time: 14:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server Is Not Enough
 ## Abstract:
@@ -125,7 +125,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #### SessionID: 94813
 # Don't Bite Off More Than You Can Chew - Take It in Chunks
 #### [Back to calendar](#nr-868)
-Event Date: 28-09-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 28-09-2019 - Session time: 14:40:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Don't Bite Off More Than You Can Chew - Take It in Chunks
 ## Abstract:
@@ -138,7 +138,7 @@ I will also look at how you can use chunking for error handling: You want proces
 #### SessionID: 95707
 # Slowly Changing Dimensions types 0 through 7 and their ETL implementation (SSIS exmples)
 #### [Back to calendar](#nr-868)
-Event Date: 28-09-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-09-2019 - Session time: 14:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dmytro Polishchuk
 ## Title: Slowly Changing Dimensions types 0 through 7 and their ETL implementation (SSIS exmples)
 ## Abstract:

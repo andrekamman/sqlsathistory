@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 70256
 # Much Ado About Hadoop
 #### [Back to calendar](#nr-710)
-Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 05-05-2018 - Session time: 09:45:00 - Track: Strategy and Architecture
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
 ## Abstract:
@@ -37,7 +37,7 @@ Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 74043
 # Power BI for the Faint of Heart - Understanding On-Prem, Hybrid and Pure Cloud Scenarios
 #### [Back to calendar](#nr-710)
-Event Date: 05-05-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-05-2018 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Scott Stauffer
 ## Title: Power BI for the Faint of Heart - Understanding On-Prem, Hybrid and Pure Cloud Scenarios
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 05-05-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 74085
 # Introduction to Object-Relational Mapping for DBAs
 #### [Back to calendar](#nr-710)
-Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-05-2018 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Chris C
 ## Title: Introduction to Object-Relational Mapping for DBAs
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 75746
 # SQL Server Internals - Performance Troubleshooting Hands on Approach
 #### [Back to calendar](#nr-710)
-Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-05-2018 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohit Gupta
 ## Title: SQL Server Internals - Performance Troubleshooting Hands on Approach
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 70379
 # Back to the Future with Temporal Tables
 #### [Back to calendar](#nr-710)
-Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-05-2018 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Randolph West
 ## Title: Back to the Future with Temporal Tables
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 71104
 # DBATools! The reason to finally start learning and using Powershell
 #### [Back to calendar](#nr-710)
-Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-05-2018 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: DBATools! The reason to finally start learning and using Powershell
 ## Abstract:
@@ -89,7 +89,7 @@ No prior experience with Powershell required!
 #### SessionID: 74444
 # SQL vulnerability assessment
 #### [Back to calendar](#nr-710)
-Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-05-2018 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brent Flesher
 ## Title: SQL vulnerability assessment
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 75771
 # Azure Data Catalog – Turning Unused Assets into Usable Knowledge
 #### [Back to calendar](#nr-710)
-Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 05-05-2018 - Session time: 11:00:00 - Track: Strategy and Architecture
 ## Speaker: Melody Zacharias
 ## Title: Azure Data Catalog – Turning Unused Assets into Usable Knowledge
 ## Abstract:
@@ -108,7 +108,7 @@ ADC is an indispensable tool that helps companies organize and make sense of the
 #### SessionID: 70255
 # R For the SQL Server Developer
 #### [Back to calendar](#nr-710)
-Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 05-05-2018 - Session time: 13:30:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
 ## Abstract:
@@ -117,7 +117,7 @@ Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 71219
 # Blue Collar SQL Tricks - Make Standard Edition Work for you.
 #### [Back to calendar](#nr-710)
-Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-05-2018 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Blue Collar SQL Tricks - Make Standard Edition Work for you.
 ## Abstract:
@@ -130,7 +130,7 @@ Let’s dig in and learn to make use of all we have until we beg our bosses enou
 #### SessionID: 74656
 # SSIS Sucks!
 #### [Back to calendar](#nr-710)
-Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-05-2018 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Doran Douglas
 ## Title: SSIS Sucks!
 ## Abstract:
@@ -145,7 +145,7 @@ Either way this will be a fun presentation that I am hoping you won't soon forge
 #### SessionID: 75742
 # DevOps - Desired State Configuration
 #### [Back to calendar](#nr-710)
-Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-05-2018 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohit Gupta
 ## Title: DevOps - Desired State Configuration
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 70120
 # Columnstore Index Primer
 #### [Back to calendar](#nr-710)
-Event Date: 05-05-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-05-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sepand Gojgini
 ## Title: Columnstore Index Primer
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 05-05-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 74652
 # Modernizing your legacy database integration points
 #### [Back to calendar](#nr-710)
-Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-05-2018 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Ian Chamberland
 ## Title: Modernizing your legacy database integration points
 ## Abstract:
@@ -175,7 +175,7 @@ This presentation will show a method that was used to update legacy applications
 #### SessionID: 77178
 # SQL Unmasked: Effective Tools, Tricks  Fundamentals
 #### [Back to calendar](#nr-710)
-Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Other
+Event Date: 05-05-2018 - Session time: 14:45:00 - Track: Other
 ## Speaker: Evin Fenton
 ## Title: SQL Unmasked: Effective Tools, Tricks  Fundamentals
 ## Abstract:
@@ -184,7 +184,7 @@ Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Other
 #### SessionID: 77183
 # Automated tests in your database: tSQLt
 #### [Back to calendar](#nr-710)
-Event Date: 05-05-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-05-2018 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Janice Gerbrandt
 ## Title: Automated tests in your database: tSQLt
 ## Abstract:

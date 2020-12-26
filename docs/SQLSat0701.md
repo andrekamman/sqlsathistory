@@ -44,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 69631
 # Build Your Extract Packages Automatically!
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 08:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shannon Lowder
 ## Title: Build Your Extract Packages Automatically!
 ## Abstract:
@@ -55,7 +55,7 @@ With that schema, automatically generating your extract package is a matter of s
 #### SessionID: 69770
 # Data Cleansing With SQL And R
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 08:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Data Cleansing With SQL And R
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 72773
 # What's new in SQL Server 2017
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 17-03-2018 - Session time: 08:15:00 - Track: Strategy and Architecture
 ## Speaker: Hasan Savran
 ## Title: What's new in SQL Server 2017
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 73133
 # How to Build Your Disaster Recovery Plan
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 17-03-2018 - Session time: 08:15:00 - Track: Strategy and Architecture
 ## Speaker: Rie Irish
 ## Title: How to Build Your Disaster Recovery Plan
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 73178
 # Making the Leap from Developer to DBA
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 69866
 # SQL Server Transactional Replication: A Deeper Dive
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server Transactional Replication: A Deeper Dive
 ## Abstract:
@@ -104,7 +104,7 @@ Finally, you'll see examples on how to configure transactional replication in hi
 #### SessionID: 70782
 # Why should I care about ... the plan cache?
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
 ## Abstract:
@@ -115,7 +115,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #### SessionID: 71006
 # SQL Server 2017 New BI Features
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Mellinger
 ## Title: SQL Server 2017 New BI Features
 ## Abstract:
@@ -124,7 +124,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 71369
 # SQL Server Security model, in plain English
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Hill
 ## Title: SQL Server Security model, in plain English
 ## Abstract:
@@ -137,7 +137,7 @@ This will be a highly interactive session, designed for you to be able to absorb
 #### SessionID: 72131
 # True Lies: How to create credible fake data
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 17-03-2018 - Session time: 09:30:00 - Track: Analytics and Visualization
 ## Speaker: Britton Gray
 ## Title: True Lies: How to create credible fake data
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 72615
 # Implementing Data Warehouse Patterns with the Microsoft BI Tools
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Kevin Goff
 ## Title: Implementing Data Warehouse Patterns with the Microsoft BI Tools
 ## Abstract:
@@ -155,7 +155,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 69594
 # How to Keep Your Database Servers Out of the News
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: How to Keep Your Database Servers Out of the News
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 69704
 # Word Up: Text Mining in SQL
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 17-03-2018 - Session time: 10:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dave Mattingly
 ## Title: Word Up: Text Mining in SQL
 ## Abstract:
@@ -177,7 +177,7 @@ Learn how to dig through your library of language to make your data better.
 #### SessionID: 71291
 # Secrets of SQL Server - Database Worst Practices
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 10:45:00 - Track: Application  Database Development
 ## Speaker: Pinal Dave
 ## Title: Secrets of SQL Server - Database Worst Practices
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 71429
 # Analysis Services for the Absolute Beginner
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 10:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Peter Shore
 ## Title: Analysis Services for the Absolute Beginner
 ## Abstract:
@@ -197,7 +197,7 @@ Regardless of the title you carry, DBA, developer, report writer, ETL developer,
 #### SessionID: 73140
 # Let Her Finish: Supporting Women's Voices in Technology
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 17-03-2018 - Session time: 10:45:00 - Track: Strategy and Architecture
 ## Speaker: Rie Irish
 ## Title: Let Her Finish: Supporting Women's Voices in Technology
 ## Abstract:
@@ -207,7 +207,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 73168
 # Python in SQL Server 2017
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 17-03-2018 - Session time: 10:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
 ## Abstract:
@@ -218,7 +218,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #### SessionID: 69989
 # Populating a Data Warehouse with SSIS and Biml Patterns
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 12:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jim Miller
 ## Title: Populating a Data Warehouse with SSIS and Biml Patterns
 ## Abstract:
@@ -236,7 +236,7 @@ Attend to see how Biml can revolutionize your SSIS development!
 #### SessionID: 72093
 # Crash Course on Better SQL Development
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 12:00:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
 ## Abstract:
@@ -245,7 +245,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 77769
 # #GetModern With Dell EMC
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Maurice Hughes
 ## Title: #GetModern With Dell EMC
 ## Abstract:
@@ -254,7 +254,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 69608
 # How to get Microsoft Certified
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 17-03-2018 - Session time: 13:15:00 - Track: Strategy and Architecture
 ## Speaker: John Deardurff
 ## Title: How to get Microsoft Certified
 ## Abstract:
@@ -263,7 +263,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 69615
 # The Business Intelligence Side of SQL Server
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 13:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sayed Saeed
 ## Title: The Business Intelligence Side of SQL Server
 ## Abstract:
@@ -272,7 +272,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 69865
 # SQL Server and PowerShell: Let's Get Serious
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
 ## Abstract:
@@ -285,7 +285,7 @@ Instead of focusing on syntax, the session will plunge straight into examples an
 #### SessionID: 72984
 # Improve Your Knowledge of the Optimizer and Statistics!
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Julie McLain-Harper
 ## Title: Improve Your Knowledge of the Optimizer and Statistics!
 ## Abstract:
@@ -294,7 +294,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 73182
 # SSRS for Developers - attendees choose topics
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Goff
 ## Title: SSRS for Developers - attendees choose topics
 ## Abstract:
@@ -303,7 +303,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 77107
 # Real-time Smart Home Analytics
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 17-03-2018 - Session time: 13:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Josh Burgin
 ## Title: Real-time Smart Home Analytics
 ## Abstract:
@@ -312,7 +312,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 69738
 # R-ternatives in Power BI
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 17-03-2018 - Session time: 14:30:00 - Track: Analytics and Visualization
 ## Speaker: Ryan Wade
 ## Title: R-ternatives in Power BI
 ## Abstract:
@@ -323,7 +323,7 @@ There are 3 ways you can leverage R in Power BI. You can use it as a data source
 #### SessionID: 70613
 # DevOps for the DBA
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: DevOps for the DBA
 ## Abstract:
@@ -338,7 +338,7 @@ The take-aways from this session are to embrace DevOps basics with a “DBA twis
 #### SessionID: 71486
 # Stream Analytics for a SQL Developer
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 17-03-2018 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Slava Trofimov
 ## Title: Stream Analytics for a SQL Developer
 ## Abstract:
@@ -349,7 +349,7 @@ Fortunately, much of the skillset that we have accumulated in querying data at r
 #### SessionID: 71505
 # Introduction to Azure Machine Learning
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 17-03-2018 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Machine Learning
 ## Abstract:
@@ -358,7 +358,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 72461
 # Maintain SQL Server Performance Baseline with PowerShell
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Maintain SQL Server Performance Baseline with PowerShell
 ## Abstract:
@@ -367,7 +367,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 77115
 # Alexa – Skills Development, Data, and Continuous Improvement
 #### [Back to calendar](#nr-701)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 17-03-2018 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Shannon Lowder
 ## Title: Alexa – Skills Development, Data, and Continuous Improvement
 ## Abstract:

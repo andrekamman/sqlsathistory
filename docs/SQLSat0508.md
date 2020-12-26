@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 46755
 # Storage, Backup and Restore Management in the Cloud World
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-05-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tobias Koprowski
 ## Title: Storage, Backup and Restore Management in the Cloud World
 ## Abstract:
@@ -51,7 +51,7 @@ Requirements for this workshop:
 #### SessionID: 47037
 # Upgrade, upgrade and more upgrade -know about SQL Server platform upgrade
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-05-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: Upgrade, upgrade and more upgrade -know about SQL Server platform upgrade
 ## Abstract:
@@ -68,7 +68,7 @@ We will cover the complete upgrade cycle, including the preparation tasks, upgra
 #### SessionID: 49190
 # Power BI Workshop
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Other
+Event Date: 21-05-2016 - Session time: 10:00:00 - Track: Other
 ## Speaker: Sergiy Lunyakin
 ## Title: Power BI Workshop
 ## Abstract:
@@ -78,7 +78,7 @@ Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Other
 #### SessionID: 44352
 # Managing Database Changes in Source Control
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 21-05-2016 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Andrey Langovoy
 ## Title: Managing Database Changes in Source Control
 ## Abstract:
@@ -87,7 +87,7 @@ Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 44586
 # AD 2015. 2 AM. A Disaster just began...
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Strategy and Architecture
+Event Date: 21-05-2016 - Session time: 10:00:00 - Track: Strategy and Architecture
 ## Speaker: Tobias Koprowski
 ## Title: AD 2015. 2 AM. A Disaster just began...
 ## Abstract:
@@ -96,7 +96,7 @@ Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Strategy and Architectu
 #### SessionID: 46889
 # Think Connected – Modern IoT Solutions with Microsoft Azure
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 21-05-2016 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Think Connected – Modern IoT Solutions with Microsoft Azure
 ## Abstract:
@@ -106,7 +106,7 @@ This talk is about the main business cases and main architectural challenges, re
 #### SessionID: 48431
 # JSON    XML;  since SQL 2016 it is important to weigh respective advantage
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 21-05-2016 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Alexander Karl
 ## Title: JSON    XML;  since SQL 2016 it is important to weigh respective advantage
 ## Abstract:
@@ -124,7 +124,7 @@ The goal of the session is to show, when which language is of advantage in which
 #### SessionID: 48718
 # Azure Data Lake Analytics. Dive into Big Data with Microsoft U-SQL lanuage.
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-05-2016 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vitalii Bondarenko
 ## Title: Azure Data Lake Analytics. Dive into Big Data with Microsoft U-SQL lanuage.
 ## Abstract:
@@ -133,7 +133,7 @@ Event Date: 21-05-2016 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 44505
 # Mastering DML Operations like a master
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 21-05-2016 - Session time: 11:10:00 - Track: Professional Development
 ## Speaker: Uwe Ricken
 ## Title: Mastering DML Operations like a master
 ## Abstract:
@@ -152,7 +152,7 @@ This session will demonstrate the huge difference of allocation data in a heap a
 #### SessionID: 44562
 # SQL Server 2016 for DBA
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-05-2016 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: SQL Server 2016 for DBA
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 44860
 # Real-Time Dashboards on PowerBI
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 21-05-2016 - Session time: 11:10:00 - Track: BI Information Delivery
 ## Speaker: Sergiy Lunyakin
 ## Title: Real-Time Dashboards on PowerBI
 ## Abstract:
@@ -170,7 +170,7 @@ Event Date: 21-05-2016 - Session time: 16:30:00 - Track: BI Information Delivery
 #### SessionID: 45251
 # Big Data with Azure: where to begin? Concepts and best practices
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 21-05-2016 - Session time: 11:10:00 - Track: Advanced Analysis Techniques
 ## Speaker: Satya Jayanty
 ## Title: Big Data with Azure: where to begin? Concepts and best practices
 ## Abstract:
@@ -181,7 +181,7 @@ Microsoft Azure has the ability to move, store and analyze data within the cloud
 #### SessionID: 46018
 # XML, XQuery и трюки с производительностью
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 21-05-2016 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Sergey Syrovatchenko
 ## Title: XML, XQuery и трюки с производительностью
 ## Abstract:
@@ -190,7 +190,7 @@ Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 45597
 # DBA Vs. Hacker: Protecting SQL Server
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-05-2016 - Session time: 12:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: DBA Vs. Hacker: Protecting SQL Server
 ## Abstract:
@@ -202,7 +202,7 @@ A Hacker's goal is to find vulnerabilities in a system and a DBA's goal is to ma
 #### SessionID: 44508
 # Advanced BIML - for the advanced ETL developer
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-05-2016 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Regis Baccaro
 ## Title: Advanced BIML - for the advanced ETL developer
 ## Abstract:
@@ -212,7 +212,7 @@ By now you already know that BIML is a great productivity enhancement to SSIS. Y
 #### SessionID: 44788
 # Service Broker in action
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 21-05-2016 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Tomasz Libera
 ## Title: Service Broker in action
 ## Abstract:
@@ -221,7 +221,7 @@ Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 46019
 # What is Azure Data Lake? How to position it in Big Big Data business?
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Strategy and Architecture
+Event Date: 21-05-2016 - Session time: 14:00:00 - Track: Strategy and Architecture
 ## Speaker: Umit Sunar
 ## Title: What is Azure Data Lake? How to position it in Big Big Data business?
 ## Abstract:
@@ -234,7 +234,7 @@ Session covers the importance of building a Data Lake, nurturing its potential w
 #### SessionID: 46291
 # Introducing the SQL Server 2016 Query Store
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-05-2016 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Enrico van de Laar
 ## Title: Introducing the SQL Server 2016 Query Store
 ## Abstract:
@@ -244,7 +244,7 @@ During this session we will take a thorough look at the Query Store, it’s arch
 #### SessionID: 47544
 # PostgreSQL and Big Data
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Strategy and Architecture
+Event Date: 21-05-2016 - Session time: 14:00:00 - Track: Strategy and Architecture
 ## Speaker: Alexey Vasiliev
 ## Title: PostgreSQL and Big Data
 ## Abstract:
@@ -253,7 +253,7 @@ Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Strategy and Architectu
 #### SessionID: 44314
 # Tabular SSAS 2016. What's new? 
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-05-2016 - Session time: 15:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Polonichko
 ## Title: Tabular SSAS 2016. What's new? 
 ## Abstract:
@@ -262,7 +262,7 @@ Event Date: 21-05-2016 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 44317
 # Anomaly Detection
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 21-05-2016 - Session time: 15:10:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dejan Sarka
 ## Title: Anomaly Detection
 ## Abstract:
@@ -271,7 +271,7 @@ Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 45379
 # Dynamic Search Conditions
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 21-05-2016 - Session time: 15:10:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Dynamic Search Conditions
 ## Abstract:
@@ -280,7 +280,7 @@ Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 46995
 # Relation Theory - back to basics
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 21-05-2016 - Session time: 15:10:00 - Track: Application  Database Development
 ## Speaker: Mariya Shirokopetleva
 ## Title: Relation Theory - back to basics
 ## Abstract:
@@ -289,7 +289,7 @@ Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 48660
 # PBM and PowerShell for DBA
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-05-2016 - Session time: 15:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrzej Kukula
 ## Title: PBM and PowerShell for DBA
 ## Abstract:
@@ -298,7 +298,7 @@ Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 48662
 # SQL 2016. Super speed with in-memory OLTP.
 #### [Back to calendar](#nr-508)
-Event Date: 21-05-2016 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 21-05-2016 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Oleg Alekseev
 ## Title: SQL 2016. Super speed with in-memory OLTP.
 ## Abstract:

@@ -13,7 +13,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 39807
 # Being Smarter with Azure Machine Learning
 #### [Back to calendar](#nr-456)
-Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
+Event Date: 03-10-2015 - Session time: 10:00:00 - Track: SQL Saturday Main Track
 ## Speaker: Leila Etaati
 ## Title: Being Smarter with Azure Machine Learning
 ## Abstract:
@@ -22,7 +22,7 @@ Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
 #### SessionID: 38049
 # Mission Critical SQL Server and You
 #### [Back to calendar](#nr-456)
-Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
+Event Date: 03-10-2015 - Session time: 11:00:00 - Track: SQL Saturday Main Track
 ## Speaker: Warwick Rudd
 ## Title: Mission Critical SQL Server and You
 ## Abstract:
@@ -34,7 +34,7 @@ In this session I will look at the options available to you to meet your High Av
 #### SessionID: 37918
 # Deep dive into Running SQL Platform on Azure IAAS
 #### [Back to calendar](#nr-456)
-Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
+Event Date: 03-10-2015 - Session time: 13:00:00 - Track: SQL Saturday Main Track
 ## Speaker: Aben Samuel
 ## Title: Deep dive into Running SQL Platform on Azure IAAS
 ## Abstract:
@@ -43,7 +43,7 @@ Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
 #### SessionID: 40295
 # SQL Developer Tips and Tricks
 #### [Back to calendar](#nr-456)
-Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
+Event Date: 03-10-2015 - Session time: 13:00:00 - Track: SQL Saturday Main Track
 ## Speaker: Martin Catherall
 ## Title: SQL Developer Tips and Tricks
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
 #### SessionID: 40163
 # Myths and misconceptions
 #### [Back to calendar](#nr-456)
-Event Date: 03-10-2015 - Session time: 15:30:00 - Track: SQL Saturday Main Track
+Event Date: 03-10-2015 - Session time: 14:00:00 - Track: SQL Saturday Main Track
 ## Speaker: Dave Dustin
 ## Title: Myths and misconceptions
 ## Abstract:

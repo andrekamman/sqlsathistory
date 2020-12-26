@@ -22,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 52890
 # Windows on Data
 #### [Back to calendar](#nr-561)
-Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 3
+Event Date: 17-09-2016 - Session time: 09:00:00 - Track: Room 3
 ## Speaker: Desmond Norton
 ## Title: Windows on Data
 ## Abstract:
@@ -32,7 +32,7 @@ Also ideas/samples of potential use cases.
 #### SessionID: 53688
 # What R You Analyzing
 #### [Back to calendar](#nr-561)
-Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 1
+Event Date: 17-09-2016 - Session time: 09:00:00 - Track: Room 1
 ## Speaker: Niels Berglund
 ## Title: What R You Analyzing
 ## Abstract:
@@ -43,7 +43,7 @@ However, in order for R to do its magic it needs data so historically we have im
 #### SessionID: 54291
 # Simple tips for better data warehouse design
 #### [Back to calendar](#nr-561)
-Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 2
+Event Date: 17-09-2016 - Session time: 09:00:00 - Track: Room 2
 ## Speaker: Michael Johnson
 ## Title: Simple tips for better data warehouse design
 ## Abstract:
@@ -53,7 +53,7 @@ In this session we will discuss a key approaches that you can use to design simp
 #### SessionID: 53193
 # SQL Server 2016: A dive into Data Quality Services
 #### [Back to calendar](#nr-561)
-Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 1
+Event Date: 17-09-2016 - Session time: 10:15:00 - Track: Room 1
 ## Speaker: Steve Simon
 ## Title: SQL Server 2016: A dive into Data Quality Services
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 1
 #### SessionID: 53798
 # Go, go, QueryStore!
 #### [Back to calendar](#nr-561)
-Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 2
+Event Date: 17-09-2016 - Session time: 10:15:00 - Track: Room 2
 ## Speaker: Gail Shaw
 ## Title: Go, go, QueryStore!
 ## Abstract:
@@ -73,7 +73,7 @@ In this session we’ll take a look at what the QueryStore is and how it works, 
 #### SessionID: 54074
 # Introduction to Database Design
 #### [Back to calendar](#nr-561)
-Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 3
+Event Date: 17-09-2016 - Session time: 10:15:00 - Track: Room 3
 ## Speaker: Sean Cremer
 ## Title: Introduction to Database Design
 ## Abstract:
@@ -86,7 +86,7 @@ This session will go through the fundamentals of database design. Topics such as
 #### SessionID: 53689
 # Beyond Relational with SQL 2016
 #### [Back to calendar](#nr-561)
-Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 3
+Event Date: 17-09-2016 - Session time: 11:30:00 - Track: Room 3
 ## Speaker: Niels Berglund
 ## Title: Beyond Relational with SQL 2016
 ## Abstract:
@@ -97,7 +97,7 @@ In your organization you have data stored all over the place, and your data may 
 #### SessionID: 54174
 # SQL Always On  - Overcoming some administration nightmares
 #### [Back to calendar](#nr-561)
-Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 2
+Event Date: 17-09-2016 - Session time: 11:30:00 - Track: Room 2
 ## Speaker: André Pelser
 ## Title: SQL Always On  - Overcoming some administration nightmares
 ## Abstract:
@@ -106,7 +106,7 @@ Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 2
 #### SessionID: 54270
 # Building a Lambda Architecture using Azure Warehouse and Stream A
 #### [Back to calendar](#nr-561)
-Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 1
+Event Date: 17-09-2016 - Session time: 11:30:00 - Track: Room 1
 ## Speaker: Gary Hope
 ## Title: Building a Lambda Architecture using Azure Warehouse and Stream A
 ## Abstract:
@@ -117,7 +117,7 @@ The principals described in this approach have been applied and refined, especia
 #### SessionID: 53194
 # SQL Server 2016: Master Data Services and Rapid Application Development
 #### [Back to calendar](#nr-561)
-Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 1
+Event Date: 17-09-2016 - Session time: 13:30:00 - Track: Room 1
 ## Speaker: Steve Simon
 ## Title: SQL Server 2016: Master Data Services and Rapid Application Development
 ## Abstract:
@@ -126,7 +126,7 @@ Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 1
 #### SessionID: 53799
 # On Transactions and Atomic Operations
 #### [Back to calendar](#nr-561)
-Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 3
+Event Date: 17-09-2016 - Session time: 13:30:00 - Track: Room 3
 ## Speaker: Gail Shaw
 ## Title: On Transactions and Atomic Operations
 ## Abstract:
@@ -139,7 +139,7 @@ In this session, we’ll look at what transactions are and why we should use the
 #### SessionID: 54031
 # SSIS Tips, Tricks and Design Patterns
 #### [Back to calendar](#nr-561)
-Event Date: 17-09-2016 - Session time: 14:45:00 - Track: Room 2
+Event Date: 17-09-2016 - Session time: 13:30:00 - Track: Room 2
 ## Speaker: Marius Erasmus
 ## Title: SSIS Tips, Tricks and Design Patterns
 ## Abstract:

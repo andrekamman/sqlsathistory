@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 85065
 # Remember Back When?  Temporal Tables in SQL Server 2016 and 2017
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 27-10-2018 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Brian Hansen
 ## Title: Remember Back When?  Temporal Tables in SQL Server 2016 and 2017
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 85278
 # How to Get SQL Server to Run Better on Crappy Hardware.
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-10-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: How to Get SQL Server to Run Better on Crappy Hardware.
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 85377
 # Statistics - Why are they there and what do I do with them
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-10-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Statistics - Why are they there and what do I do with them
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 85408
 # Azure Basics for the DBA
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 27-10-2018 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Morehouse
 ## Title: Azure Basics for the DBA
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 85532
 # Why should I care about ... the plan cache?
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-10-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
 ## Abstract:
@@ -84,7 +84,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #### SessionID: 85553
 # Understanding SQL Server Always Encrypted
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 27-10-2018 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Ed Leighton-Dick
 ## Title: Understanding SQL Server Always Encrypted
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 80810
 # APPLY Yourself
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 27-10-2018 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 82974
 # Monster Text Manipulation: Regular Expressions for the DBA
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-10-2018 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
 ## Abstract:
@@ -116,7 +116,7 @@ Here you’ll learn:
 #### SessionID: 84694
 # Husker Power BI
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 27-10-2018 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: Brett Powell
 ## Title: Husker Power BI
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 85317
 # Beginning Admin: The Care and Feeding of SQL Server
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-10-2018 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jennifer McCown
 ## Title: Beginning Admin: The Care and Feeding of SQL Server
 ## Abstract:
@@ -142,7 +142,7 @@ Being a database administrator is a big job, but we can cover the basics in one 
 #### SessionID: 85410
 # Temporal Tables – The New Hotness in Data Auditing
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 27-10-2018 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: John Morehouse
 ## Title: Temporal Tables – The New Hotness in Data Auditing
 ## Abstract:
@@ -151,7 +151,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 85420
 # SELECT Tidbits FROM My.Experience WHERE  NiceToKnow = 1 and date = DATEADD(D,-1,current_timestamp)
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 27-10-2018 - Session time: 10:00:00 - Track: Professional Development
 ## Speaker: B.D. Softley
 ## Title: SELECT Tidbits FROM My.Experience WHERE  NiceToKnow = 1 and date = DATEADD(D,-1,current_timestamp)
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 77169
 # Implementing a Cloud Analytics Solution: Options, costs and more
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-10-2018 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marc Beacom
 ## Title: Implementing a Cloud Analytics Solution: Options, costs and more
 ## Abstract:
@@ -169,7 +169,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 82709
 # Taking the pain out of database migrations
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-10-2018 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Lumnah
 ## Title: Taking the pain out of database migrations
 ## Abstract:
@@ -180,7 +180,7 @@ This session will discuss what you need to take into account to ensure a success
 #### SessionID: 83384
 # Zen and the Art of Baselines
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-10-2018 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Zen and the Art of Baselines
 ## Abstract:
@@ -189,7 +189,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 84478
 # What's new for Developers - SQL Server 2014-2017
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 27-10-2018 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Bill Fellows
 ## Title: What's new for Developers - SQL Server 2014-2017
 ## Abstract:
@@ -200,7 +200,7 @@ Topics covered will include JSON, string splitting and aggregation, data masking
 #### SessionID: 85551
 # How to Keep Your Databases Secure in Just Minutes a Day
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-10-2018 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: How to Keep Your Databases Secure in Just Minutes a Day
 ## Abstract:
@@ -213,7 +213,7 @@ In this session, we will explore how to create reports that are quick to review 
 #### SessionID: 86344
 # Processing Analysis Services Tabular Models
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-10-2018 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brett Powell
 ## Title: Processing Analysis Services Tabular Models
 ## Abstract:
@@ -222,7 +222,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 77021
 # Reducing The Surface Area Of Risk in Data Security
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-10-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Gorman
 ## Title: Reducing The Surface Area Of Risk in Data Security
 ## Abstract:
@@ -235,7 +235,7 @@ Come learn about the right way to secure non-production data to limit exposure o
 #### SessionID: 80811
 # Using Kafka for Real-Time Data Ingestion with .NET
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 27-10-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Using Kafka for Real-Time Data Ingestion with .NET
 ## Abstract:
@@ -244,7 +244,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 82973
 # Loading SQL Server Data with Powershell
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-10-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Loading SQL Server Data with Powershell
 ## Abstract:
@@ -253,7 +253,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 85064
 # Let's Explore SQL Internals
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-10-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Let's Explore SQL Internals
 ## Abstract:
@@ -262,7 +262,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 85277
 # I'm It - Survival Techniques for the Lone DBA
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 27-10-2018 - Session time: 14:15:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
 ## Abstract:
@@ -271,7 +271,7 @@ Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 86356
 # Analysis Services is in Azure? Seriously!? Let's build a model!
 #### [Back to calendar](#nr-767)
-Event Date: 27-10-2018 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 27-10-2018 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Phillip Labry
 ## Title: Analysis Services is in Azure? Seriously!? Let's build a model!
 ## Abstract:

@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 88048
 # Azure IoT, Windows 10 Core  Raspberry PI (DIY)
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 04-05-2019 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Jens Vestergaard
 ## Title: Azure IoT, Windows 10 Core  Raspberry PI (DIY)
 ## Abstract:
@@ -47,7 +47,7 @@ This session is not for the Enterprise rather has a more DIY approach.
 #### SessionID: 88068
 # Daily indexing problems and its - possible - solution
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Uwe Ricken
 ## Title: Daily indexing problems and its - possible - solution
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 88083
 # 10 Things that you already knew about SSIS
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-05-2019 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andreas Bergstedt
 ## Title: 10 Things that you already knew about SSIS
 ## Abstract:
@@ -75,7 +75,7 @@ Session is recommended for the intermediate to advanced but the beginner will al
 #### SessionID: 88091
 # SQL Server installation and configuration cookbook
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christophe Laporte
 ## Title: SQL Server installation and configuration cookbook
 ## Abstract:
@@ -86,7 +86,7 @@ And, finally, we will show how to properly configure SQL Server for better perfo
 #### SessionID: 88483
 # SQL Server Magic Show
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Vedran Kesegic
 ## Title: SQL Server Magic Show
 ## Abstract:
@@ -101,7 +101,7 @@ Reading plaintext data of TDE-encrypted database - without SQL access
 #### SessionID: 88179
 # SQL Graph Databases: Beyond Relational
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Dennes Torres
 ## Title: SQL Graph Databases: Beyond Relational
 ## Abstract:
@@ -112,7 +112,7 @@ In this session, you will discover how Graph Databases in SQL Server works and w
 #### SessionID: 88584
 # It depends - don't mistake your Google search for my database knowledge
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Magnus Ahlkvist
 ## Title: It depends - don't mistake your Google search for my database knowledge
 ## Abstract:
@@ -122,7 +122,7 @@ My powerpoints usually look terrible, so I will focus on T-SQL and execution pla
 #### SessionID: 88618
 # An introduction To SQL Server 2019 Big Data Clusters
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-05-2019 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christopher Adkin
 ## Title: An introduction To SQL Server 2019 Big Data Clusters
 ## Abstract:
@@ -131,7 +131,7 @@ Event Date: 04-05-2019 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 90574
 # A Masters view on Locking and blocking
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mikael Wedham
 ## Title: A Masters view on Locking and blocking
 ## Abstract:
@@ -143,7 +143,7 @@ And finally a real-world quick list of suggestions on what you can do to solve s
 #### SessionID: 90744
 # Exploiting Artificial Intelligence within Power BI
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 04-05-2019 - Session time: 10:15:00 - Track: Analytics and Visualization
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Exploiting Artificial Intelligence within Power BI
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 88055
 # A refresher on geospatial data in SQL Server
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Thomas Hütter
 ## Title: A refresher on geospatial data in SQL Server
 ## Abstract:
@@ -166,7 +166,7 @@ And of course there will be examples of practical applications of geospatial dat
 #### SessionID: 88071
 # Azure Cognitive Services - AI for everyone
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 04-05-2019 - Session time: 11:30:00 - Track: Analytics and Visualization
 ## Speaker: Alexander Klein
 ## Title: Azure Cognitive Services - AI for everyone
 ## Abstract:
@@ -177,7 +177,7 @@ This is a large playground for young and old. Here you can try out to your heart
 #### SessionID: 88201
 # SQL Server docker containers from the development to the production
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Barbarin
 ## Title: SQL Server docker containers from the development to the production
 ## Abstract:
@@ -189,7 +189,7 @@ In this session, I propose you a feedback about the first steps and challenges w
 #### SessionID: 88633
 # Intelligent Query Processing in SQL Server 2019
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Miloš Radivojević
 ## Title: Intelligent Query Processing in SQL Server 2019
 ## Abstract:
@@ -204,7 +204,7 @@ The session will address questions such as do I need to tune queries anymore, do
 #### SessionID: 90462
 # Kick Start! SQL Server 2017 Performance Tips and Tricks
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 12:30:00 - Track: Application  Database Development
 ## Speaker: Pinal Dave
 ## Title: Kick Start! SQL Server 2017 Performance Tips and Tricks
 ## Abstract:
@@ -225,7 +225,7 @@ This 75 minutes will be the most productive time for any DBA or Developer.
 #### SessionID: 88058
 # New capabilities of Azure Data Factory v2
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-05-2019 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Oskari Heikkinen
 ## Title: New capabilities of Azure Data Factory v2
 ## Abstract:
@@ -234,7 +234,7 @@ Event Date: 04-05-2019 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 88087
 # Azure Cosmos DB - What you need to know to build globally distributed apps?
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 04-05-2019 - Session time: 13:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Satya Jayanty
 ## Title: Azure Cosmos DB - What you need to know to build globally distributed apps?
 ## Abstract:
@@ -243,7 +243,7 @@ Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Cloud Application Devel
 #### SessionID: 88554
 # Extending DevOps To SQL Server
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Extending DevOps To SQL Server
 ## Abstract:
@@ -252,7 +252,7 @@ Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 89337
 # Deep Dive into the M language for Power BI/ Power Query
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-05-2019 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ruth Pozuelo Martinez
 ## Title: Deep Dive into the M language for Power BI/ Power Query
 ## Abstract:
@@ -263,7 +263,7 @@ If your answer is yes to either questions, come to this session were I will take
 #### SessionID: 89464
 # Power BI Cheat Sheet explained!
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 04-05-2019 - Session time: 13:45:00 - Track: Analytics and Visualization
 ## Speaker: Dave Ruijter
 ## Title: Power BI Cheat Sheet explained!
 ## Abstract:
@@ -272,7 +272,7 @@ Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 91273
 # Analyzing Performance Problems Using XEvents, DMVs  Query Store
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ola Hallengren
 ## Title: Analyzing Performance Problems Using XEvents, DMVs  Query Store
 ## Abstract:
@@ -285,7 +285,7 @@ In this session, we will look at how the tools work in different scenarios, how 
 #### SessionID: 88799
 # Azure SQL Containers
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Pruski
 ## Title: Azure SQL Containers
 ## Abstract:
@@ -303,7 +303,7 @@ Each topic will be backed up with demos which will show how simple it is to get 
 #### SessionID: 89046
 # Working in Batches
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 04-05-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Working in Batches
 ## Abstract:
@@ -314,7 +314,7 @@ We will also look at batching from a different angle: problems that requires a l
 #### SessionID: 90688
 # Integrating Power BI and Azure Data Lake with dataflows and CDM Folders
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-05-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matthew Roche
 ## Title: Integrating Power BI and Azure Data Lake with dataflows and CDM Folders
 ## Abstract:
@@ -325,7 +325,7 @@ In this session, Power BI program manager Matthew Roche will explore integration
 #### SessionID: 90994
 # Off-load data from production using Replication  Change Tracking
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-05-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joakim Nyström
 ## Title: Off-load data from production using Replication  Change Tracking
 ## Abstract:
@@ -336,7 +336,7 @@ In this session you will be presented to a simple toolkit that will utilize thes
 #### SessionID: 91378
 # 5 Critical Considerations When Moving to the Cloud
 #### [Back to calendar](#nr-851)
-Event Date: 04-05-2019 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 04-05-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kevin Kline
 ## Title: 5 Critical Considerations When Moving to the Cloud
 ## Abstract:

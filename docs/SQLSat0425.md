@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 35885
 # I wanna learn SQL Server and I know nothing
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: SQL Dev: Soup to Nuts
+Event Date: 05-09-2015 - Session time: 09:40:00 - Track: SQL Dev: Soup to Nuts
 ## Speaker: Steve Simon
 ## Title: I wanna learn SQL Server and I know nothing
 ## Abstract:
@@ -43,7 +43,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: SQL Dev: Soup to Nuts
 #### SessionID: 37950
 # Microsoft Stream Analytics and Real-Time Data Visualisation
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Data Warehouse  Business Intelligence
+Event Date: 05-09-2015 - Session time: 09:40:00 - Track: Data Warehouse  Business Intelligence
 ## Speaker: Gary Hope
 ## Title: Microsoft Stream Analytics and Real-Time Data Visualisation
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Data Warehouse  Busines
 #### SessionID: 38097
 # RC, SI, and RCSI, Oh My! –We're off to see the Wizard -to understand how it all works.
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Development
+Event Date: 05-09-2015 - Session time: 09:40:00 - Track: Database Development
 ## Speaker: Arnie Rowland
 ## Title: RC, SI, and RCSI, Oh My! –We're off to see the Wizard -to understand how it all works.
 ## Abstract:
@@ -61,7 +61,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Development
 #### SessionID: 39774
 # The Monkey Wrench of data and information
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Strategy And Architecture
+Event Date: 05-09-2015 - Session time: 09:40:00 - Track: Strategy And Architecture
 ## Speaker: Howard Diesel
 ## Title: The Monkey Wrench of data and information
 ## Abstract:
@@ -70,7 +70,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Strategy And Architectu
 #### SessionID: 40011
 # Introduction to Extended Events in SQL Server 2012  2014
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Administration
+Event Date: 05-09-2015 - Session time: 09:40:00 - Track: Database Administration
 ## Speaker: Howard Diesel
 ## Title: Introduction to Extended Events in SQL Server 2012  2014
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Administration
 #### SessionID: 35891
 # What you get out is as good as what you put in
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: SQL Dev: Soup to Nuts
+Event Date: 05-09-2015 - Session time: 11:00:00 - Track: SQL Dev: Soup to Nuts
 ## Speaker: Steve Simon
 ## Title: What you get out is as good as what you put in
 ## Abstract:
@@ -88,7 +88,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: SQL Dev: Soup to Nuts
 #### SessionID: 39105
 # Automating your data-warehouse development with BIML
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Data Warehouse  Business Intelligence
+Event Date: 05-09-2015 - Session time: 11:00:00 - Track: Data Warehouse  Business Intelligence
 ## Speaker: Michael Johnson
 ## Title: Automating your data-warehouse development with BIML
 ## Abstract:
@@ -97,7 +97,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Data Warehouse  Busines
 #### SessionID: 39718
 # Dynamic Management Views and Functions - a Practical Overview
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Administration
+Event Date: 05-09-2015 - Session time: 11:00:00 - Track: Database Administration
 ## Speaker: Sean Cremer
 ## Title: Dynamic Management Views and Functions - a Practical Overview
 ## Abstract:
@@ -109,7 +109,7 @@ This session will cover the more commonly used Dynamic Management Views and intr
 #### SessionID: 39724
 # tSQLt - Database Unit Testing
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Development
+Event Date: 05-09-2015 - Session time: 11:00:00 - Track: Database Development
 ## Speaker: Clinton van Blommestein
 ## Title: tSQLt - Database Unit Testing
 ## Abstract:
@@ -129,7 +129,7 @@ We will go through setting up the framework, how to write tests and run them - e
 #### SessionID: 39773
 # SQL Server and the Data Management Practice
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Strategy And Architecture
+Event Date: 05-09-2015 - Session time: 11:00:00 - Track: Strategy And Architecture
 ## Speaker: Howard Diesel
 ## Title: SQL Server and the Data Management Practice
 ## Abstract:
@@ -141,7 +141,7 @@ The Data Managemnt Trainline is a set of pat
 #### SessionID: 35804
 # Load Testing With SQL Server Tools
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Development
+Event Date: 05-09-2015 - Session time: 12:10:00 - Track: Database Development
 ## Speaker: Neil Hambly
 ## Title: Load Testing With SQL Server Tools
 ## Abstract:
@@ -152,7 +152,7 @@ Come learn about the native tools at our disposal for performing these important
 #### SessionID: 35875
 # Efficient and Effective coding of Stored Procedures
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: SQL Dev: Soup to Nuts
+Event Date: 05-09-2015 - Session time: 12:10:00 - Track: SQL Dev: Soup to Nuts
 ## Speaker: Steve Simon
 ## Title: Efficient and Effective coding of Stored Procedures
 ## Abstract:
@@ -162,7 +162,7 @@ In this hands-on presentation, we shall be looking at best practices with regard
 #### SessionID: 36332
 # Power BI Whirlwind Tour
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Strategy And Architecture
+Event Date: 05-09-2015 - Session time: 12:10:00 - Track: Strategy And Architecture
 ## Speaker: Toufiq Abrahams
 ## Title: Power BI Whirlwind Tour
 ## Abstract:
@@ -173,7 +173,7 @@ While Power BI is in preview, many updates and changes are anticipated. These wi
 #### SessionID: 38128
 # Backups? What backups?
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Administration
+Event Date: 05-09-2015 - Session time: 12:10:00 - Track: Database Administration
 ## Speaker: Gail Shaw
 ## Title: Backups? What backups?
 ## Abstract:
@@ -188,7 +188,7 @@ We’ll look at transaction log backups, at why they are an essential part of th
 #### SessionID: 39134
 # Analytics Platform System - SQL 2012 Parallel Data Warehouse vs SQL 201x
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Data Warehouse  Business Intelligence
+Event Date: 05-09-2015 - Session time: 12:10:00 - Track: Data Warehouse  Business Intelligence
 ## Speaker: Alain Dormehl
 ## Title: Analytics Platform System - SQL 2012 Parallel Data Warehouse vs SQL 201x
 ## Abstract:
@@ -204,7 +204,7 @@ Lastly will cover some of the hybrid hadoop functionality with APS CETAS
 #### SessionID: 35886
 # Power to the people!!
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: SQL Dev: Soup to Nuts
+Event Date: 05-09-2015 - Session time: 13:50:00 - Track: SQL Dev: Soup to Nuts
 ## Speaker: Steve Simon
 ## Title: Power to the people!!
 ## Abstract:
@@ -215,7 +215,7 @@ In this hands on presentation we shall be looking at practical ways and means of
 #### SessionID: 37949
 # Microsoft Machine Learning Overview
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Administration
+Event Date: 05-09-2015 - Session time: 13:50:00 - Track: Database Administration
 ## Speaker: Gary Hope
 ## Title: Microsoft Machine Learning Overview
 ## Abstract:
@@ -224,7 +224,7 @@ Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Administration
 #### SessionID: 38127
 # Lies, Damned Lies And Statistics
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Administration
+Event Date: 05-09-2015 - Session time: 13:50:00 - Track: Database Administration
 ## Speaker: Gail Shaw
 ## Title: Lies, Damned Lies And Statistics
 ## Abstract:
@@ -237,7 +237,7 @@ Finally we'll cover some suggestions and options around maintenance of statistic
 #### SessionID: 39156
 # Data Warehouse Schema Design and Evolution
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Database Development
+Event Date: 05-09-2015 - Session time: 13:50:00 - Track: Database Development
 ## Speaker: Sandesh Nagaraj
 ## Title: Data Warehouse Schema Design and Evolution
 ## Abstract:
@@ -257,7 +257,7 @@ And lastly discuss around the common schema design roadblocks that people face l
 #### SessionID: 39452
 # Datazen the new kid on the block
 #### [Back to calendar](#nr-425)
-Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Data Warehouse  Business Intelligence
+Event Date: 05-09-2015 - Session time: 13:50:00 - Track: Data Warehouse  Business Intelligence
 ## Speaker: Bhavesh Lala
 ## Title: Datazen the new kid on the block
 ## Abstract:

@@ -64,7 +64,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 70877
 # I Needed to Install 80 SQL Servers…Fast. Here’s How I Did It!
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: I Needed to Install 80 SQL Servers…Fast. Here’s How I Did It!
 ## Abstract:
@@ -81,7 +81,7 @@ Leveraging this configuration for Disaster Recovery
 #### SessionID: 70954
 # Targeting Wait Statistics with Extended Events and DMVs
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Targeting Wait Statistics with Extended Events and DMVs
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 71001
 # Azure SQL Database Administration and Management
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ross LoForte
 ## Title: Azure SQL Database Administration and Management
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 71296
 # Automate the Pain Away with Query Store and Automatic Tuning
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: Automate the Pain Away with Query Store and Automatic Tuning
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 71576
 # Creating your Vision
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Professional Development
+Event Date: 17-03-2018 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Creating your Vision
 ## Abstract:
@@ -117,7 +117,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Professional Developmen
 #### SessionID: 72173
 # Database Project Makes Deployment Consistent
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
 ## Abstract:
@@ -126,7 +126,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 72840
 # PowerShell for BI Professionals: Automating SSIS, SSRS  SSAS
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for BI Professionals: Automating SSIS, SSRS  SSAS
 ## Abstract:
@@ -139,7 +139,7 @@ By the end of the session, you'll be able to accomplish in minutes what would no
 #### SessionID: 73712
 # SQL Server 2017 Database Engine Enhancements
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chirag Shah
 ## Title: SQL Server 2017 Database Engine Enhancements
 ## Abstract:
@@ -148,7 +148,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 73791
 # How to Survive Migrating to SQL Server on AWS
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 17-03-2018 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Doug Lane
 ## Title: How to Survive Migrating to SQL Server on AWS
 ## Abstract:
@@ -159,7 +159,7 @@ We'll cover key decisions and considerations on architecture, hardware, high ava
 #### SessionID: 70875
 # SQL Testing - How to Build a SQL Lab
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Professional Development
+Event Date: 17-03-2018 - Session time: 09:50:00 - Track: Professional Development
 ## Speaker: Phil Ekins
 ## Title: SQL Testing - How to Build a SQL Lab
 ## Abstract:
@@ -169,7 +169,7 @@ How to create fake external storage, solutions for networking (need subnets) and
 #### SessionID: 71215
 # Stop Doing That! Common T-SQL Anti-Patterns
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 09:50:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Stop Doing That! Common T-SQL Anti-Patterns
 ## Abstract:
@@ -182,7 +182,7 @@ By the end of the session, you will be able to quickly identify these common ant
 #### SessionID: 71524
 # HiHo! HiHo! SQL Server on Linux, We Go!
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 09:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: HiHo! HiHo! SQL Server on Linux, We Go!
 ## Abstract:
@@ -196,7 +196,7 @@ The participant will learn:
 #### SessionID: 72049
 # Faster SSIS
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 09:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Faster SSIS
 ## Abstract:
@@ -209,7 +209,7 @@ Finally, we'll demonstrate a design pattern that uses a Script Component in a Da
 #### SessionID: 72190
 # Exploring the new SqlServer PowerShell module
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 09:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Exploring the new SqlServer PowerShell module
 ## Abstract:
@@ -218,7 +218,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 72532
 # Introduction to Azure SQL Data Warehouse
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 17-03-2018 - Session time: 09:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Derik Hammer
 ## Title: Introduction to Azure SQL Data Warehouse
 ## Abstract:
@@ -227,7 +227,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Cloud Application Devel
 #### SessionID: 73278
 # How to Build Fast Multi-Parameter Stored Procedures
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 09:50:00 - Track: Application  Database Development
 ## Speaker: Brent Ozar
 ## Title: How to Build Fast Multi-Parameter Stored Procedures
 ## Abstract:
@@ -240,7 +240,7 @@ In one all-demo hour, performance tuner Brent Ozar will show you several ways th
 #### SessionID: 73578
 # 10 Years of Highs and Lows as an Independent Consultant
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Professional Development
+Event Date: 17-03-2018 - Session time: 09:50:00 - Track: Professional Development
 ## Speaker: Allan Hirt
 ## Title: 10 Years of Highs and Lows as an Independent Consultant
 ## Abstract:
@@ -249,7 +249,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Professional Developmen
 #### SessionID: 73796
 # Columnstore 101: The Five Ws of Columnstore Indexes
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 09:50:00 - Track: Application  Database Development
 ## Speaker: John Eisbrener
 ## Title: Columnstore 101: The Five Ws of Columnstore Indexes
 ## Abstract:
@@ -258,7 +258,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 73797
 # 45 Minutes to Your First SSAS Tabular Model
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 09:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kerry Tyler
 ## Title: 45 Minutes to Your First SSAS Tabular Model
 ## Abstract:
@@ -268,7 +268,7 @@ SSAS Tabular is a new-ish form of business intelligence model released with SQL 
 #### SessionID: 70956
 # Understanding and Handling Database Corruption
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Understanding and Handling Database Corruption
 ## Abstract:
@@ -277,7 +277,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 71042
 # Monitoring Availability Groups
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Monitoring Availability Groups
 ## Abstract:
@@ -288,7 +288,7 @@ You will walk away from this session with tools you need to monitor your environ
 #### SessionID: 71058
 # Extended Events: What are they and How do I use them
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
 ## Abstract:
@@ -297,7 +297,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 71358
 # Decoding the Cardinality Estimator to Speed Up Queries
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Joe Obbish
 ## Title: Decoding the Cardinality Estimator to Speed Up Queries
 ## Abstract:
@@ -306,7 +306,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 72415
 # Migrate multi-terabyte DB from OnPrem to Azure SQL (ASD) with minimal downtime.
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 17-03-2018 - Session time: 11:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Igor Chmil
 ## Title: Migrate multi-terabyte DB from OnPrem to Azure SQL (ASD) with minimal downtime.
 ## Abstract:
@@ -318,7 +318,7 @@ With transaction log replay operations not supported in Azure SQL, transactional
 #### SessionID: 73019
 # Biml for Beginners: Script and Automate SSIS Development
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Biml for Beginners: Script and Automate SSIS Development
 ## Abstract:
@@ -333,7 +333,7 @@ Stop wasting your valuable time on doing the same things over and over and over 
 #### SessionID: 73564
 # Plan Cache performance tuning and pruning
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Arthur Daniels III
 ## Title: Plan Cache performance tuning and pruning
 ## Abstract:
@@ -344,7 +344,7 @@ Just like gardening, keeping a database healthy requires pruning.  Techniques to
 #### SessionID: 73582
 # Infrastructure 101 for SQL Server Deployments
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allan Hirt
 ## Title: Infrastructure 101 for SQL Server Deployments
 ## Abstract:
@@ -353,7 +353,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 73749
 # Administering and Deploying Power BI Solutions
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Seth Bauer
 ## Title: Administering and Deploying Power BI Solutions
 ## Abstract:
@@ -362,7 +362,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: BI Platform Architectur
 #### SessionID: 72149
 # Difficult Queries
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 12:40:00 - Track: Application  Database Development
 ## Speaker: Rick Bielawski
 ## Title: Difficult Queries
 ## Abstract:
@@ -371,7 +371,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 72659
 # Collecting Performance Metrics
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 12:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Collecting Performance Metrics
 ## Abstract:
@@ -384,7 +384,7 @@ Attendees in this session will learn how to collect important metric data, what 
 #### SessionID: 72746
 # Tame Your Unruly Data With Constraints
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 12:40:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data With Constraints
 ## Abstract:
@@ -393,7 +393,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 73434
 # Become a SQL Pro who’s in High Demand
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Professional Development
+Event Date: 17-03-2018 - Session time: 12:40:00 - Track: Professional Development
 ## Speaker: Wylie Blanchard
 ## Title: Become a SQL Pro who’s in High Demand
 ## Abstract:
@@ -402,7 +402,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Professional Developmen
 #### SessionID: 73495
 # Level Up Your Cloud Infrastructure Skills
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 12:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Level Up Your Cloud Infrastructure Skills
 ## Abstract:
@@ -411,7 +411,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 73722
 # Strong Architecture and Entity Framework Code First - It's Possible!
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 12:40:00 - Track: Application  Database Development
 ## Speaker: Adam Kerr
 ## Title: Strong Architecture and Entity Framework Code First - It's Possible!
 ## Abstract:
@@ -420,7 +420,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 73766
 # SSRS; Not everything is a dashboard
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 12:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tamera Clark
 ## Title: SSRS; Not everything is a dashboard
 ## Abstract:
@@ -429,7 +429,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: BI Platform Architectur
 #### SessionID: 77316
 # SQL Server and Pure Storage: Redefining Database Engineering
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 12:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Argenis Fernandez
 ## Title: SQL Server and Pure Storage: Redefining Database Engineering
 ## Abstract:
@@ -438,7 +438,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 77478
 # Simplifying SQL Data Protection (with Rubrik)
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 12:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Simplifying SQL Data Protection (with Rubrik)
 ## Abstract:
@@ -447,7 +447,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 71214
 # Locks, Blocks, and Deadlocks; Tame the Sibling Rivalry
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Locks, Blocks, and Deadlocks; Tame the Sibling Rivalry
 ## Abstract:
@@ -460,7 +460,7 @@ By the end of this session you will walk away with the knowledge of how the lock
 #### SessionID: 71314
 # Limiting SQL Server Exposure
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: H. Ross Reed
 ## Title: Limiting SQL Server Exposure
 ## Abstract:
@@ -469,7 +469,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 72030
 # Intro to SQL Operations Studio
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Flamm
 ## Title: Intro to SQL Operations Studio
 ## Abstract:
@@ -480,7 +480,7 @@ And, it runs on a Mac (and Linux, and Windows, too). Similar to Visual Studio Co
 #### SessionID: 72872
 # How To Talk To Your Storage Admin
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: How To Talk To Your Storage Admin
 ## Abstract:
@@ -489,7 +489,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 73000
 # SQL Server in "The Cloud": High Availability and Disaster Recovery in Azure, AWS and Google
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Bermingham
 ## Title: SQL Server in "The Cloud": High Availability and Disaster Recovery in Azure, AWS and Google
 ## Abstract:
@@ -498,7 +498,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 73171
 # Why Third Party Vendors Do The Things They Do
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Henry Treftz
 ## Title: Why Third Party Vendors Do The Things They Do
 ## Abstract:
@@ -514,7 +514,7 @@ This presentation has three main objectives:
 #### SessionID: 73321
 # Get Your Optimizer to Give up All Its Secrets
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
 ## Abstract:
@@ -523,7 +523,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 73686
 # Disaster Recovery Planning for Your Career and Your Life...There's No Certification For This
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Professional Development
+Event Date: 17-03-2018 - Session time: 14:00:00 - Track: Professional Development
 ## Speaker: Lynn Ballard
 ## Title: Disaster Recovery Planning for Your Career and Your Life...There's No Certification For This
 ## Abstract:
@@ -532,7 +532,7 @@ Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Professional Developmen
 #### SessionID: 77321
 # Dynamic Data Flows in SSIS without Programming
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: Dynamic Data Flows in SSIS without Programming
 ## Abstract:
@@ -547,7 +547,7 @@ Furthermore, the initial design time and effort may be greatly reduced when deal
 #### SessionID: 77384
 # Advanced SQL Server on VMware Features
 #### [Back to calendar](#nr-719)
-Event Date: 17-03-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Advanced SQL Server on VMware Features
 ## Abstract:

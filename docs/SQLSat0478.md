@@ -45,7 +45,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 40980
 # SSAS Multidimensional vs. SSAS Tabular – Which one do I use?
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Information Delivery
+Event Date: 20-02-2016 - Session time: 08:30:00 - Track: BI Information Delivery
 ## Speaker: Alan Faulkner
 ## Title: SSAS Multidimensional vs. SSAS Tabular – Which one do I use?
 ## Abstract:
@@ -57,7 +57,7 @@ Determining whether multidimensional or tabular is the optimum solution for your
 #### SessionID: 41279
 # Fun with Availability Groups
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-02-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christopher Wolff
 ## Title: Fun with Availability Groups
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #### SessionID: 42483
 # Hadoop, Hive, JSON, and Data! Oh, my!
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-02-2016 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: TJay Belt
 ## Title: Hadoop, Hive, JSON, and Data! Oh, my!
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Cloud Application Devel
 #### SessionID: 44229
 # The Internet of Things (IoT)
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-02-2016 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Julia Renz
 ## Title: The Internet of Things (IoT)
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Cloud Application Devel
 #### SessionID: 44273
 # Powershell Jumpstart for SQL Server DBAs
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-02-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Powershell Jumpstart for SQL Server DBAs
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #### SessionID: 46767
 # EXEC and sp_executesql: An ad hoc rally
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: DEV
+Event Date: 20-02-2016 - Session time: 08:30:00 - Track: DEV
 ## Speaker: Jay Robinson
 ## Title: EXEC and sp_executesql: An ad hoc rally
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: DEV
 #### SessionID: 40554
 # TSQL Coding Techniques - Are You Playing with Fire?
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database Development
+Event Date: 20-02-2016 - Session time: 09:50:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: TSQL Coding Techniques - Are You Playing with Fire?
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database D
 #### SessionID: 40569
 # I'm It - Survival Techniques for the Lone DBA
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Professional Development
+Event Date: 20-02-2016 - Session time: 09:50:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Professional Developmen
 #### SessionID: 40703
 # Why should I care about the plan cache?
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-02-2016 - Session time: 09:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about the plan cache?
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #### SessionID: 41538
 # Mastering and Enhancing Company Data
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-02-2016 - Session time: 09:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rushabh Mehta
 ## Title: Mastering and Enhancing Company Data
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architectur
 #### SessionID: 41902
 # Incorporating Azure Machine Learning to SQL Server Environments
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Advanced Analysis Techniques
+Event Date: 20-02-2016 - Session time: 09:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ginger Grant
 ## Title: Incorporating Azure Machine Learning to SQL Server Environments
 ## Abstract:
@@ -150,7 +150,7 @@ This presentation will demo how to extend the flexibility of Azure ML by impleme
 #### SessionID: 44175
 # MDX: Troubleshooting Tips  Tricks
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Information Delivery
+Event Date: 20-02-2016 - Session time: 09:50:00 - Track: BI Information Delivery
 ## Speaker: Martin Schoombee
 ## Title: MDX: Troubleshooting Tips  Tricks
 ## Abstract:
@@ -161,7 +161,7 @@ In this session I will share (and demonstrate) very useful ways to find out the 
 #### SessionID: 44252
 # Getting started with Big Data and BI
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-02-2016 - Session time: 09:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Carlos Bossy
 ## Title: Getting started with Big Data and BI
 ## Abstract:
@@ -170,7 +170,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architectur
 #### SessionID: 40745
 # In Memory Tables; Not Just For OLTP
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-02-2016 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Russ Thomas
 ## Title: In Memory Tables; Not Just For OLTP
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architectur
 #### SessionID: 41998
 # Testing SSIS Packages
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-02-2016 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Testing SSIS Packages
 ## Abstract:
@@ -197,7 +197,7 @@ This session walks through design patterns for testing SSIS packages during and 
 #### SessionID: 42313
 # Source Control practices for your BI World
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-02-2016 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Weed
 ## Title: Source Control practices for your BI World
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architectur
 #### SessionID: 42455
 # Introduction to R and Data Science Tools in the Microsoft Stack
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Analytics and Visualization
+Event Date: 20-02-2016 - Session time: 11:10:00 - Track: Analytics and Visualization
 ## Speaker: Jamey Johnston
 ## Title: Introduction to R and Data Science Tools in the Microsoft Stack
 ## Abstract:
@@ -219,7 +219,7 @@ The focus of the session will be primarily on the introduction to the R language
 #### SessionID: 42658
 # Branding Yourself for a Dream Job
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Professional Development
+Event Date: 20-02-2016 - Session time: 11:10:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
 ## Abstract:
@@ -228,7 +228,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Professional Developmen
 #### SessionID: 43030
 # VLT Shootout
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-02-2016 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Seth Washeck
 ## Title: VLT Shootout
 ## Abstract:
@@ -237,7 +237,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #### SessionID: 46768
 # How to be agile building the data warehouse with WhereScape RED
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI
+Event Date: 20-02-2016 - Session time: 12:30:00 - Track: BI
 ## Speaker: Dylan Newlander
 ## Title: How to be agile building the data warehouse with WhereScape RED
 ## Abstract:
@@ -246,7 +246,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI
 #### SessionID: 42292
 # Intro to Monitoring I/O: The Counters That Count
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-02-2016 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: J May
 ## Title: Intro to Monitoring I/O: The Counters That Count
 ## Abstract:
@@ -255,7 +255,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #### SessionID: 41446
 # Adding Lightness: Better Performance Through Compression
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database Development
+Event Date: 20-02-2016 - Session time: 13:40:00 - Track: Application  Database Development
 ## Speaker: Jay Robinson
 ## Title: Adding Lightness: Better Performance Through Compression
 ## Abstract:
@@ -264,7 +264,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database D
 #### SessionID: 43060
 # Power BI is Awesome!
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Information Delivery
+Event Date: 20-02-2016 - Session time: 13:40:00 - Track: BI Information Delivery
 ## Speaker: Steve Wake
 ## Title: Power BI is Awesome!
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Information Delivery
 #### SessionID: 43119
 # Database Continuous Delivery  Your Salvation!
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database Development
+Event Date: 20-02-2016 - Session time: 13:40:00 - Track: Application  Database Development
 ## Speaker: John Morehouse
 ## Title: Database Continuous Delivery  Your Salvation!
 ## Abstract:
@@ -282,7 +282,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database D
 #### SessionID: 44228
 # Windowing Functions: THE Reason to Upgrade to 2012+
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database Development
+Event Date: 20-02-2016 - Session time: 13:40:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Windowing Functions: THE Reason to Upgrade to 2012+
 ## Abstract:
@@ -291,7 +291,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database D
 #### SessionID: 44271
 # Always Encrypted in SQL Server 2016
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-02-2016 - Session time: 13:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Todd Kleinhans
 ## Title: Always Encrypted in SQL Server 2016
 ## Abstract:
@@ -300,7 +300,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #### SessionID: 46916
 # SQL Server Internals
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: DBA
+Event Date: 20-02-2016 - Session time: 13:40:00 - Track: DBA
 ## Speaker: Naomi Williams
 ## Title: SQL Server Internals
 ## Abstract:
@@ -309,7 +309,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: DBA
 #### SessionID: 41328
 # SQL Server 2016, New Features  Enhancements
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-02-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Martin
 ## Title: SQL Server 2016, New Features  Enhancements
 ## Abstract:
@@ -320,7 +320,7 @@ By the end of this session you will have a jump-start on getting ready for the n
 #### SessionID: 41793
 # SQL Server Foreign Keys – De-mystifying the Rest of the Story
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Application  Database Development
+Event Date: 20-02-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SQL Server Foreign Keys – De-mystifying the Rest of the Story
 ## Abstract:
@@ -334,7 +334,7 @@ After attending this session you will
 #### SessionID: 42067
 # Increase your SSIS Productivity with Biml
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-02-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reeves Smith
 ## Title: Increase your SSIS Productivity with Biml
 ## Abstract:
@@ -348,7 +348,7 @@ In this session, you will learn:
 #### SessionID: 42246
 # Beginning Automation with Powershell
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-02-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Beginning Automation with Powershell
 ## Abstract:
@@ -357,7 +357,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #### SessionID: 44226
 # SQL Server Defaults SUCK!!
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-02-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Boles
 ## Title: SQL Server Defaults SUCK!!
 ## Abstract:
@@ -366,7 +366,7 @@ Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #### SessionID: 44261
 # 15  Things to ensure survivability of your database
 #### [Back to calendar](#nr-478)
-Event Date: 20-02-2016 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-02-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andre DuBois
 ## Title: 15  Things to ensure survivability of your database
 ## Abstract:

@@ -15,7 +15,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 44884
 # Advanced SQL Server execution plans - level 400
 #### [Back to calendar](#nr-505)
-Event Date: 19-03-2016 - Session time: 14:40:00 - Track: DBA
+Event Date: 19-03-2016 - Session time: 10:00:00 - Track: DBA
 ## Speaker: Fabiano Amorim
 ## Title: Advanced SQL Server execution plans - level 400
 ## Abstract:
@@ -24,7 +24,7 @@ Event Date: 19-03-2016 - Session time: 14:40:00 - Track: DBA
 #### SessionID: 44939
 # Polybase in SQL Server 2016
 #### [Back to calendar](#nr-505)
-Event Date: 19-03-2016 - Session time: 14:40:00 - Track: BI
+Event Date: 19-03-2016 - Session time: 10:00:00 - Track: BI
 ## Speaker: Nico Jacobs
 ## Title: Polybase in SQL Server 2016
 ## Abstract:
@@ -35,7 +35,7 @@ In this session we first introduce the Polybase architecture, then show how to s
 #### SessionID: 42953
 # No more waiting – an introduction to SQL Server wait statistics
 #### [Back to calendar](#nr-505)
-Event Date: 19-03-2016 - Session time: 14:40:00 - Track: DBA
+Event Date: 19-03-2016 - Session time: 11:20:00 - Track: DBA
 ## Speaker: Enrico van de Laar
 ## Title: No more waiting – an introduction to SQL Server wait statistics
 ## Abstract:
@@ -44,7 +44,7 @@ Event Date: 19-03-2016 - Session time: 14:40:00 - Track: DBA
 #### SessionID: 44545
 # DAX unraveled
 #### [Back to calendar](#nr-505)
-Event Date: 19-03-2016 - Session time: 14:40:00 - Track: BI
+Event Date: 19-03-2016 - Session time: 11:20:00 - Track: BI
 ## Speaker: Peter ter Braake
 ## Title: DAX unraveled
 ## Abstract:
@@ -53,7 +53,7 @@ Event Date: 19-03-2016 - Session time: 14:40:00 - Track: BI
 #### SessionID: 42915
 # Mastering indexing maintenance with DMO like a PRO
 #### [Back to calendar](#nr-505)
-Event Date: 19-03-2016 - Session time: 14:40:00 - Track: DBA
+Event Date: 19-03-2016 - Session time: 13:20:00 - Track: DBA
 ## Speaker: Uwe Ricken
 ## Title: Mastering indexing maintenance with DMO like a PRO
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 19-03-2016 - Session time: 14:40:00 - Track: DBA
 #### SessionID: 45172
 # What's New in Integration Services 2016
 #### [Back to calendar](#nr-505)
-Event Date: 19-03-2016 - Session time: 14:40:00 - Track: BI
+Event Date: 19-03-2016 - Session time: 13:20:00 - Track: BI
 ## Speaker: Koen Verbeeck
 ## Title: What's New in Integration Services 2016
 ## Abstract:

@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 88937
 # Working with Very Large Tables Like a Pro in SQL Server 2017
 #### [Back to calendar](#nr-858)
-Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-06-2019 - Session time: 09:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Guy Glantser
 ## Title: Working with Very Large Tables Like a Pro in SQL Server 2017
 ## Abstract:
@@ -27,7 +27,7 @@ The latest versions of SQL Server, including 2017, offer several new features th
 #### SessionID: 93400
 # Machine Learning - Best Practices and Vulnerabilities
 #### [Back to calendar](#nr-858)
-Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Other
+Event Date: 15-06-2019 - Session time: 09:40:00 - Track: Other
 ## Speaker: Sebastiano Galazzo
 ## Title: Machine Learning - Best Practices and Vulnerabilities
 ## Abstract:
@@ -39,7 +39,7 @@ The second part will cover vulnerabilities of ML discovering how easy could be t
 #### SessionID: 90801
 # SQL Server Query Optimizer end-to-end
 #### [Back to calendar](#nr-858)
-Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-06-2019 - Session time: 10:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sergio Govoni
 ## Title: SQL Server Query Optimizer end-to-end
 ## Abstract:
@@ -48,7 +48,7 @@ Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Enterprise Database Adm
 #### SessionID: 94972
 # Design, Build, Deploy  Monitor a Store on the Cloud using Azure Services as Lego blocks
 #### [Back to calendar](#nr-858)
-Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Cloud Application Development  Deployment
+Event Date: 15-06-2019 - Session time: 10:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Stavros Menegos
 ## Title: Design, Build, Deploy  Monitor a Store on the Cloud using Azure Services as Lego blocks
 ## Abstract:
@@ -58,7 +58,7 @@ Furthermore, how all these can be orchestrated and programmed on Microsoft .NET 
 #### SessionID: 89174
 # Hash Match, the Operator - part 1
 #### [Back to calendar](#nr-858)
-Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Application  Database Development
+Event Date: 15-06-2019 - Session time: 12:00:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: Hash Match, the Operator - part 1
 ## Abstract:
@@ -70,7 +70,7 @@ It is going to be wild ride, so keep your hands, arms, and legs inside the confe
 #### SessionID: 89552
 # Hacking SQL Server Is Not Enough
 #### [Back to calendar](#nr-858)
-Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-06-2019 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server Is Not Enough
 ## Abstract:
@@ -81,7 +81,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #### SessionID: 88955
 # Exploiting Artificial Intelligence within Power BI
 #### [Back to calendar](#nr-858)
-Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Advanced Analysis Techniques
+Event Date: 15-06-2019 - Session time: 13:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Exploiting Artificial Intelligence within Power BI
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Advanced Analysis Techn
 #### SessionID: 89175
 # Hash Match, the Operator - part 2
 #### [Back to calendar](#nr-858)
-Event Date: 15-06-2019 - Session time: 14:55:00 - Track: Application  Database Development
+Event Date: 15-06-2019 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: Hash Match, the Operator - part 2
 ## Abstract:

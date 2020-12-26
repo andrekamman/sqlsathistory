@@ -44,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 11727
 # Empowering your data sharing architecture
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 27-06-2015 - Session time: 08:30:00 - Track: Database Administration
 ## Speaker: Clay Jackson
 ## Title: Empowering your data sharing architecture
 ## Abstract:
@@ -53,7 +53,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 35851
 # Building a Static Data Warehouse Server
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Data Warehousing
+Event Date: 27-06-2015 - Session time: 08:30:00 - Track: Data Warehousing
 ## Speaker: Ron Talmage
 ## Title: Building a Static Data Warehouse Server
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Data Warehousing
 #### SessionID: 36706
 # Analytics with Microsoft BI tools
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 27-06-2015 - Session time: 08:30:00 - Track: Business Intelligence
 ## Speaker: Nadiia Bogush
 ## Title: Analytics with Microsoft BI tools
 ## Abstract:
@@ -77,7 +77,7 @@ We will share lessons learned by our team from Microsoft Big Data Hackathon with
 #### SessionID: 36708
 # Get Control of your Database Development with SQL Server Database Projects
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Development
+Event Date: 27-06-2015 - Session time: 08:30:00 - Track: Database Development
 ## Speaker: Jacob Appleton
 ## Title: Get Control of your Database Development with SQL Server Database Projects
 ## Abstract:
@@ -90,7 +90,7 @@ This talk will demonstrate the process we took to implement SQL Server Data Tool
 #### SessionID: 38236
 # Big Data for the SQL Ninja
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Big Data
+Event Date: 27-06-2015 - Session time: 08:30:00 - Track: Big Data
 ## Speaker: Scott Klein
 ## Title: Big Data for the SQL Ninja
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Big Data
 #### SessionID: 35717
 # Columnstore Indexes in SQL Server 2014: Flipping the DW Faster Bit
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Data Warehousing
+Event Date: 27-06-2015 - Session time: 09:45:00 - Track: Data Warehousing
 ## Speaker: J May
 ## Title: Columnstore Indexes in SQL Server 2014: Flipping the DW Faster Bit
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Data Warehousing
 #### SessionID: 36541
 # Continuous Integration for Databases
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 27-06-2015 - Session time: 09:45:00 - Track: Database Administration
 ## Speaker: Steve Jones
 ## Title: Continuous Integration for Databases
 ## Abstract:
@@ -117,7 +117,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 36707
 # Optimizing desktop Power Pivot models using Power Query
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 27-06-2015 - Session time: 09:45:00 - Track: Business Intelligence
 ## Speaker: Ken Puls
 ## Title: Optimizing desktop Power Pivot models using Power Query
 ## Abstract:
@@ -128,7 +128,7 @@ In this session we’ll explore the things you can do to increase your Power Piv
 #### SessionID: 36846
 # Stored Procedures vs. Ad-Hoc SQL: Performance Showdown!
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 27-06-2015 - Session time: 09:45:00 - Track: Database Administration
 ## Speaker: Argenis Fernandez
 ## Title: Stored Procedures vs. Ad-Hoc SQL: Performance Showdown!
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 38216
 # 10 Handy Tips On SQL Server Dates
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Development
+Event Date: 27-06-2015 - Session time: 09:45:00 - Track: Database Development
 ## Speaker: Julie Koesmarno
 ## Title: 10 Handy Tips On SQL Server Dates
 ## Abstract:
@@ -149,7 +149,7 @@ With time being the one thing that constantly changes, date and time calculation
 #### SessionID: 11461
 # SQL Server Mythconceptions and Mythteries
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 27-06-2015 - Session time: 11:00:00 - Track: Database Administration
 ## Speaker: Robert Davis
 ## Title: SQL Server Mythconceptions and Mythteries
 ## Abstract:
@@ -164,7 +164,7 @@ In this session, we will explore some of these misconceptions and mysteries turn
 #### SessionID: 19995
 # TSQL Bullet-Dodging and Spoon-bending
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Development
+Event Date: 27-06-2015 - Session time: 11:00:00 - Track: Database Development
 ## Speaker: Michael DeFehr
 ## Title: TSQL Bullet-Dodging and Spoon-bending
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Development
 #### SessionID: 21873
 # Power BI Hands-On Micro-Workshop
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 27-06-2015 - Session time: 11:00:00 - Track: Business Intelligence
 ## Speaker: Paul Turley
 ## Title: Power BI Hands-On Micro-Workshop
 ## Abstract:
@@ -185,7 +185,7 @@ Power Query add-in: http://www.microsoft.com/en-us/download/details.aspx?id=3937
 #### SessionID: 36849
 # Restoring a SQL Server Database from Azure Blob Storage
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Cloud
+Event Date: 27-06-2015 - Session time: 11:00:00 - Track: Cloud
 ## Speaker: Randolph West
 ## Title: Restoring a SQL Server Database from Azure Blob Storage
 ## Abstract:
@@ -196,7 +196,7 @@ Leveraging Ola Hallengren's backup solution, this session will describe how to r
 #### SessionID: 38237
 # Windows Azure SQL Database for the DBA
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Cloud
+Event Date: 27-06-2015 - Session time: 11:00:00 - Track: Cloud
 ## Speaker: Scott Klein
 ## Title: Windows Azure SQL Database for the DBA
 ## Abstract:
@@ -205,7 +205,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Cloud
 #### SessionID: 37104
 # Accelerate SQL Server Master Data Services with Profisee Maestro
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Lunch Sessions
+Event Date: 27-06-2015 - Session time: 12:15:00 - Track: Lunch Sessions
 ## Speaker: John McAllister
 ## Title: Accelerate SQL Server Master Data Services with Profisee Maestro
 ## Abstract:
@@ -217,7 +217,7 @@ Come see how Profisee Maestro can take your MDS implementation from the departme
 #### SessionID: 37206
 # Hardware for Nothing, Get Your Flash for Free—Optimized Data Center Econ
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Lunch Sessions
+Event Date: 27-06-2015 - Session time: 12:15:00 - Track: Lunch Sessions
 ## Speaker: J May
 ## Title: Hardware for Nothing, Get Your Flash for Free—Optimized Data Center Econ
 ## Abstract:
@@ -226,7 +226,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Lunch Sessions
 #### SessionID: 38102
 # Dell Lunch Presentation :   Title and Speaker TBD
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Lunch Sessions
+Event Date: 27-06-2015 - Session time: 12:15:00 - Track: Lunch Sessions
 ## Speaker: Rich Baumet
 ## Title: Dell Lunch Presentation :   Title and Speaker TBD
 ## Abstract:
@@ -235,7 +235,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Lunch Sessions
 #### SessionID: 38285
 # Improve your database performance with Dell Software Tools
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Lunch Sessions
+Event Date: 27-06-2015 - Session time: 12:15:00 - Track: Lunch Sessions
 ## Speaker: Rich Baumet
 ## Title: Improve your database performance with Dell Software Tools
 ## Abstract:
@@ -244,7 +244,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Lunch Sessions
 #### SessionID: 38368
 # How to Light up your SQL Server Investment with Pyramid Analytics.com
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Lunch Sessions
+Event Date: 27-06-2015 - Session time: 12:15:00 - Track: Lunch Sessions
 ## Speaker: Mike Teel
 ## Title: How to Light up your SQL Server Investment with Pyramid Analytics.com
 ## Abstract:
@@ -253,7 +253,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Lunch Sessions
 #### SessionID: 25071
 # Distributed Replay: Testing With Your Data, Your Way!
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 27-06-2015 - Session time: 13:30:00 - Track: Database Administration
 ## Speaker: Melody Zacharias
 ## Title: Distributed Replay: Testing With Your Data, Your Way!
 ## Abstract:
@@ -262,7 +262,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 35859
 # Parameter Sniffing the Good and the Bad
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Development
+Event Date: 27-06-2015 - Session time: 13:30:00 - Track: Database Development
 ## Speaker: Lance Tidwell
 ## Title: Parameter Sniffing the Good and the Bad
 ## Abstract:
@@ -271,7 +271,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Development
 #### SessionID: 36891
 # NFL  Power BI
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 27-06-2015 - Session time: 13:30:00 - Track: Business Intelligence
 ## Speaker: BRADLEY BURCH
 ## Title: NFL  Power BI
 ## Abstract:
@@ -280,7 +280,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 36927
 # Paying Down Technical Debt - Consolidating Data Marts
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Data Warehousing
+Event Date: 27-06-2015 - Session time: 13:30:00 - Track: Data Warehousing
 ## Speaker: Todd McDermid
 ## Title: Paying Down Technical Debt - Consolidating Data Marts
 ## Abstract:
@@ -290,7 +290,7 @@ So how do you get from spaghetti code to a more manageable Kimball style Data Wa
 #### SessionID: 37000
 # Choosing Projects for Hadoop in the Cloud
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Big Data
+Event Date: 27-06-2015 - Session time: 13:30:00 - Track: Big Data
 ## Speaker: Cindy Gross
 ## Title: Choosing Projects for Hadoop in the Cloud
 ## Abstract:
@@ -299,7 +299,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Big Data
 #### SessionID: 11581
 # Azure Data Factory concepts
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Cloud
+Event Date: 27-06-2015 - Session time: 14:45:00 - Track: Cloud
 ## Speaker: Christian Cote
 ## Title: Azure Data Factory concepts
 ## Abstract:
@@ -308,7 +308,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Cloud
 #### SessionID: 12799
 # SRS Report Builder for Business Intelligence
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 27-06-2015 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
 ## Abstract:
@@ -317,7 +317,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 14164
 # SQL Server execution plans – hidden and tricky optimizations
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Development
+Event Date: 27-06-2015 - Session time: 14:45:00 - Track: Database Development
 ## Speaker: Fabiano Amorim
 ## Title: SQL Server execution plans – hidden and tricky optimizations
 ## Abstract:
@@ -326,7 +326,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Development
 #### SessionID: 27389
 # Ouch! Our Data Type Choices Did THAT?
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Development
+Event Date: 27-06-2015 - Session time: 14:45:00 - Track: Database Development
 ## Speaker: Vern Rabe
 ## Title: Ouch! Our Data Type Choices Did THAT?
 ## Abstract:
@@ -336,7 +336,7 @@ In addition, we will cover several data type related functions, and the caveats 
 #### SessionID: 35721
 # Master Data Management - Getting Started with SQL Server MDS 
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Enterprise Information Management
+Event Date: 27-06-2015 - Session time: 14:45:00 - Track: Enterprise Information Management
 ## Speaker: John McAllister
 ## Title: Master Data Management - Getting Started with SQL Server MDS 
 ## Abstract:
@@ -345,7 +345,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Enterprise Information 
 #### SessionID: 36269
 # Introduction to Policy Based Management
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 27-06-2015 - Session time: 14:45:00 - Track: Database Administration
 ## Speaker: Steve Stedman
 ## Title: Introduction to Policy Based Management
 ## Abstract:
@@ -354,7 +354,7 @@ Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 38449
 # Managing Log File Obesity
 #### [Back to calendar](#nr-407)
-Event Date: 27-06-2015 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 27-06-2015 - Session time: 14:45:00 - Track: Database Administration
 ## Speaker: Michael Fal
 ## Title: Managing Log File Obesity
 ## Abstract:

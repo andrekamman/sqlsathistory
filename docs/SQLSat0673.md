@@ -44,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 65474
 # Intro to Integration Services (SSIS)
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-09-2017 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Angela Henry
 ## Title: Intro to Integration Services (SSIS)
 ## Abstract:
@@ -53,7 +53,7 @@ Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 66303
 # MySql using Containers and Windows Server 2016 for Active-Active deployments
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-09-2017 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chase Aucoin
 ## Title: MySql using Containers and Windows Server 2016 for Active-Active deployments
 ## Abstract:
@@ -64,7 +64,7 @@ You will be able to leave this session with some great thoughts on how to levera
 #### SessionID: 67990
 # Analyzing I/O Subsystem Performance
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-09-2017 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Glenn Berry
 ## Title: Analyzing I/O Subsystem Performance
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 68061
 # Biml 101: Automation and Patterns
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-09-2017 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Yuliya Quintela
 ## Title: Biml 101: Automation and Patterns
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 68121
 # Operationalizing Data Science
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-09-2017 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Carlos Bossy
 ## Title: Operationalizing Data Science
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 69124
 # How to Build your Brand and Become a Thought Leader
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 16-09-2017 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: Patrick LeBlanc
 ## Title: How to Build your Brand and Become a Thought Leader
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 69510
 # Why Should I Care About ... Partitioned Views?
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 16-09-2017 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 65497
 # Accelerating DevOps and TDM Using Data Virtualization
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-09-2017 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Gorman
 ## Title: Accelerating DevOps and TDM Using Data Virtualization
 ## Abstract:
@@ -126,7 +126,7 @@ Come learn why data virtualization is the solution to a problem everyone knows.
 #### SessionID: 65643
 # Proper DataType Usage=Guaranteed Better Performance and Accuracy
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 16-09-2017 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Vern Rabe
 ## Title: Proper DataType Usage=Guaranteed Better Performance and Accuracy
 ## Abstract:
@@ -137,7 +137,7 @@ In this demo-heavy presentation I will show you the importance of choosing the p
 #### SessionID: 66237
 # Power Query Tips and Tricks for Power BI
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 16-09-2017 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: Rushabh Mehta
 ## Title: Power Query Tips and Tricks for Power BI
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 66371
 # SQL vs noSQL
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 16-09-2017 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Eric Peterson
 ## Title: SQL vs noSQL
 ## Abstract:
@@ -159,7 +159,7 @@ Are noSql databases taking over the world?
 #### SessionID: 66575
 # Impostor Syndrome: Are You Faking It  Will they Find Out?
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 16-09-2017 - Session time: 10:00:00 - Track: Professional Development
 ## Speaker: Mindy Curnutt
 ## Title: Impostor Syndrome: Are You Faking It  Will they Find Out?
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 68035
 # Metadata driven development
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 16-09-2017 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Bill Fellows
 ## Title: Metadata driven development
 ## Abstract:
@@ -184,7 +184,7 @@ The specifics scenarios we'll cover
 #### SessionID: 68127
 # Two Guys and a Transformation: ETL Best Practices and Techniques
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-09-2017 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gabriel Villa
 ## Title: Two Guys and a Transformation: ETL Best Practices and Techniques
 ## Abstract:
@@ -194,7 +194,7 @@ Gian helpful insights from decades of lessons learned and walk away with best pr
 #### SessionID: 69430
 # Sponsor Spotlight: Dell EMC - The Path to #GetModern
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Other
+Event Date: 16-09-2017 - Session time: 10:00:00 - Track: Other
 ## Speaker: Denver SQL Server User Group
 ## Title: Sponsor Spotlight: Dell EMC - The Path to #GetModern
 ## Abstract:
@@ -206,7 +206,7 @@ Session presented by Bryan Walsh, Product Marketing Manager, Dell EMC
 #### SessionID: 65502
 # Amazon Web Services RDS with SQL Server
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 16-09-2017 - Session time: 12:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christopher Wolff
 ## Title: Amazon Web Services RDS with SQL Server
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 66061
 # Agile Data Modeling with Data Vault
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-09-2017 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Scot Reagin
 ## Title: Agile Data Modeling with Data Vault
 ## Abstract:
@@ -225,7 +225,7 @@ In this session we’ll compare modeling techniques in real world scenarios to u
 #### SessionID: 66413
 # Kerberos Delegation Made Simple
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-09-2017 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kathi Kellenberger
 ## Title: Kerberos Delegation Made Simple
 ## Abstract:
@@ -236,7 +236,7 @@ Attend this session to learn why Kerberos is necessary and how to configure and 
 #### SessionID: 67989
 # Behavior-Driven Design and Test Automation: Agile Enablement for DW and BI Teams
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 16-09-2017 - Session time: 12:45:00 - Track: BI Information Delivery
 ## Speaker: Lynn Winterboer
 ## Title: Behavior-Driven Design and Test Automation: Agile Enablement for DW and BI Teams
 ## Abstract:
@@ -245,7 +245,7 @@ Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 67991
 # Dr. DMV's Troubleshooting Toolkit
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-09-2017 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Glenn Berry
 ## Title: Dr. DMV's Troubleshooting Toolkit
 ## Abstract:
@@ -256,7 +256,7 @@ This session goes into exhaustive detail on how to interpret the results of each
 #### SessionID: 68051
 # Stop Repeating Yourself – Automating Azure Data Movement With BimlScript
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 16-09-2017 - Session time: 12:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Levi Syck
 ## Title: Stop Repeating Yourself – Automating Azure Data Movement With BimlScript
 ## Abstract:
@@ -267,7 +267,7 @@ In this session I’ll introduce you to BimlScript and the BimlExpress add-in fo
 #### SessionID: 68095
 # Becoming a Master by Giving it All Away
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 16-09-2017 - Session time: 12:45:00 - Track: Professional Development
 ## Speaker: Michael Wall
 ## Title: Becoming a Master by Giving it All Away
 ## Abstract:
@@ -279,7 +279,7 @@ Be prepared for an interactive and lively discussion and to walk away with some 
 #### SessionID: 68149
 # Even I Can Power BI!
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-09-2017 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julia Renz
 ## Title: Even I Can Power BI!
 ## Abstract:
@@ -288,7 +288,7 @@ Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 65478
 # Why NULL is not a value (and other SQL gotchas)
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 16-09-2017 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Wendy Pastrick
 ## Title: Why NULL is not a value (and other SQL gotchas)
 ## Abstract:
@@ -297,7 +297,7 @@ Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 67056
 # Exploring the new SqlServer PowerShell module
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-09-2017 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Exploring the new SqlServer PowerShell module
 ## Abstract:
@@ -306,7 +306,7 @@ Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 67661
 # PowerBI, from a DBA
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-09-2017 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: TJay Belt
 ## Title: PowerBI, from a DBA
 ## Abstract:
@@ -319,7 +319,7 @@ You will be given permissions to an Azure DB, and get connected to this source. 
 #### SessionID: 68052
 # The New Revolution in Data Science, R integrated into SQL Server
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 16-09-2017 - Session time: 14:15:00 - Track: BI Information Delivery
 ## Speaker: Reeves Smith
 ## Title: The New Revolution in Data Science, R integrated into SQL Server
 ## Abstract:
@@ -334,7 +334,7 @@ This presentation is ideally suited for Business Intelligence professionals that
 #### SessionID: 68059
 # Profiler is Dead! Long Live Extended Events!
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-09-2017 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Keith Tate
 ## Title: Profiler is Dead! Long Live Extended Events!
 ## Abstract:
@@ -346,7 +346,7 @@ Profiler was a friend of mine, but it is time to embrace the new king!
 #### SessionID: 68075
 # Source Control and Database Projects - Just Do It
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-09-2017 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Weed
 ## Title: Source Control and Database Projects - Just Do It
 ## Abstract:
@@ -355,7 +355,7 @@ Event Date: 16-09-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 68204
 # SQL Server 2016 Always On AGs Perf, Internals,  Lessons Learned
 #### [Back to calendar](#nr-673)
-Event Date: 16-09-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-09-2017 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jimmy May
 ## Title: SQL Server 2016 Always On AGs Perf, Internals,  Lessons Learned
 ## Abstract:

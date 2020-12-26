@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 56259
 # Introduction to SQL Server Integration Services
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-03-2017 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Watson
 ## Title: Introduction to SQL Server Integration Services
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: BI Platform Architectur
 #### SessionID: 56557
 # Hostile Takeover
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-03-2017 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Bishop
 ## Title: Hostile Takeover
 ## Abstract:
@@ -61,7 +61,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Enterprise Database Adm
 #### SessionID: 57332
 # Vote or Die: Which is Faster?
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 18-03-2017 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Robert Verell
 ## Title: Vote or Die: Which is Faster?
 ## Abstract:
@@ -70,7 +70,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Application  Database D
 #### SessionID: 59586
 # Operationalizing Digital and Enterprise Data in Hybrid Azure
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-03-2017 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Doug McClurg
 ## Title: Operationalizing Digital and Enterprise Data in Hybrid Azure
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: BI Platform Architectur
 #### SessionID: 59773
 # Transforming Data using the T-SQL PIVOT / UNPIVOT operators
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 18-03-2017 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Jeff Foushee
 ## Title: Transforming Data using the T-SQL PIVOT / UNPIVOT operators
 ## Abstract:
@@ -88,7 +88,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Application  Database D
 #### SessionID: 61047
 # I like big data for $400  - Exploring quiz show questions using Angular, DocumentDB and Azure Search
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: .NET and Web Programming
+Event Date: 18-03-2017 - Session time: 08:30:00 - Track: .NET and Web Programming
 ## Speaker: Christopher Sims
 ## Title: I like big data for $400  - Exploring quiz show questions using Angular, DocumentDB and Azure Search
 ## Abstract:
@@ -97,7 +97,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: .NET and Web Programmin
 #### SessionID: 56471
 # Let Me Finish... Isolating Write Operations
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 18-03-2017 - Session time: 09:40:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Let Me Finish... Isolating Write Operations
 ## Abstract:
@@ -106,7 +106,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Application  Database D
 #### SessionID: 59768
 # Code Like a Pirate ... Intro to R and Data Science Tools in MS
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Analytics and Visualization
+Event Date: 18-03-2017 - Session time: 09:40:00 - Track: Analytics and Visualization
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Pirate ... Intro to R and Data Science Tools in MS
 ## Abstract:
@@ -130,7 +130,7 @@ The focus of the session will be primarily on the introduction to the R language
 #### SessionID: 61281
 # Self-Service ETL with Microsoft Power Query
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: BI Information Delivery
+Event Date: 18-03-2017 - Session time: 09:40:00 - Track: BI Information Delivery
 ## Speaker: Damu Venkatesan
 ## Title: Self-Service ETL with Microsoft Power Query
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: BI Information Delivery
 #### SessionID: 61460
 # PowerShell 101: The No-Nonsense Beginner’s Guide to PowerShell
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: PowerShell
+Event Date: 18-03-2017 - Session time: 09:40:00 - Track: PowerShell
 ## Speaker: Mike Robbins
 ## Title: PowerShell 101: The No-Nonsense Beginner’s Guide to PowerShell
 ## Abstract:
@@ -148,7 +148,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: PowerShell
 #### SessionID: 61487
 # Blue Collar SQL Tricks - Make Standard Edition Work for you.
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 18-03-2017 - Session time: 09:40:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Blue Collar SQL Tricks - Make Standard Edition Work for you.
 ## Abstract:
@@ -161,7 +161,7 @@ Let’s dig in and learn to make use of all we have until we beg our bosses enou
 #### SessionID: 61494
 # How To Be The DBA When You Don't Have A DBA
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-03-2017 - Session time: 09:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Cobb
 ## Title: How To Be The DBA When You Don't Have A DBA
 ## Abstract:
@@ -172,7 +172,7 @@ Tailored to the "Non-DBA", this session will cover these topics and more to ensu
 #### SessionID: 56283
 # Power BI in the Wild
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-03-2017 - Session time: 10:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julie Smith
 ## Title: Power BI in the Wild
 ## Abstract:
@@ -181,7 +181,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: BI Platform Architectur
 #### SessionID: 56585
 # SQL Admin Best Practices with DMVs
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-03-2017 - Session time: 10:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: William Assaf
 ## Title: SQL Admin Best Practices with DMVs
 ## Abstract:
@@ -190,7 +190,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Enterprise Database Adm
 #### SessionID: 57097
 # Welcome To the 2016 Query Store!
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-03-2017 - Session time: 10:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Welcome To the 2016 Query Store!
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Enterprise Database Adm
 #### SessionID: 57593
 # Power BI  SharePoint - A Marriage Made in Redmond
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-03-2017 - Session time: 10:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Glenn
 ## Title: Power BI  SharePoint - A Marriage Made in Redmond
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: BI Platform Architectur
 #### SessionID: 62867
 # The Future of the DBA: DevOps, the Cloud Paradigm, and the Micros
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Strategy and Architecture
+Event Date: 18-03-2017 - Session time: 10:50:00 - Track: Strategy and Architecture
 ## Speaker: Stuart Ainsworth
 ## Title: The Future of the DBA: DevOps, the Cloud Paradigm, and the Micros
 ## Abstract:
@@ -219,7 +219,7 @@ Come explore how DevOps and the Cloud Paradigm have developed to address modern 
 #### SessionID: 62980
 # Rapid On-Demand Creation of Dev/Test Databases with SQL Clone
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-03-2017 - Session time: 10:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Boles
 ## Title: Rapid On-Demand Creation of Dev/Test Databases with SQL Clone
 ## Abstract:
@@ -232,7 +232,7 @@ In this session we will examine how SQL Clone uses disk virtualization to enable
 #### SessionID: 56257
 # Whip Away Stress at Home  Work to Create a Better You
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Professional Development
+Event Date: 18-03-2017 - Session time: 13:00:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Whip Away Stress at Home  Work to Create a Better You
 ## Abstract:
@@ -241,7 +241,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Professional Developmen
 #### SessionID: 56381
 # Seeking the Perfect Hybrid:  On-Prem Data with Reports and Dashboards in Power BI
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-03-2017 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: William E Pearson III
 ## Title: Seeking the Perfect Hybrid:  On-Prem Data with Reports and Dashboards in Power BI
 ## Abstract:
@@ -253,7 +253,7 @@ This session applies, in most respects, to Analysis Services 2012 and above.
 #### SessionID: 58177
 # Embed Interactive Reports in Your Apps
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-03-2017 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Teo Lachev
 ## Title: Embed Interactive Reports in Your Apps
 ## Abstract:
@@ -265,7 +265,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: BI Platform Architectur
 #### SessionID: 60962
 # Table Partitioning Intro and make that a sliding window too!
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-03-2017 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Reinhard
 ## Title: Table Partitioning Intro and make that a sliding window too!
 ## Abstract:
@@ -274,7 +274,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Enterprise Database Adm
 #### SessionID: 61229
 # Getting Started with SQL Server R Services
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Analytics and Visualization
+Event Date: 18-03-2017 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Paul Ferrill
 ## Title: Getting Started with SQL Server R Services
 ## Abstract:
@@ -283,7 +283,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Analytics and Visualiza
 #### SessionID: 61459
 # PowerShell Non-Monolithic Script Module Design
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: PowerShell
+Event Date: 18-03-2017 - Session time: 13:00:00 - Track: PowerShell
 ## Speaker: Mike Robbins
 ## Title: PowerShell Non-Monolithic Script Module Design
 ## Abstract:
@@ -292,7 +292,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: PowerShell
 #### SessionID: 56901
 # Introduction to the Power BI Desktop
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: BI Information Delivery
+Event Date: 18-03-2017 - Session time: 14:10:00 - Track: BI Information Delivery
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to the Power BI Desktop
 ## Abstract:
@@ -301,7 +301,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: BI Information Delivery
 #### SessionID: 57160
 # Learning R And Talking About Football
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-03-2017 - Session time: 14:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Wilkie
 ## Title: Learning R And Talking About Football
 ## Abstract:
@@ -316,7 +316,7 @@ We'll go over the basics of R and how to do things with it, plus items such as:
 #### SessionID: 59369
 # Tame Your Unruly Data With Constraints
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 18-03-2017 - Session time: 14:10:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data With Constraints
 ## Abstract:
@@ -325,7 +325,7 @@ Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Application  Database D
 #### SessionID: 59899
 # 25 SSMS Tips and Tricks to boost your Productivity
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 18-03-2017 - Session time: 14:10:00 - Track: Application  Database Development
 ## Speaker: Samir Behara
 ## Title: 25 SSMS Tips and Tricks to boost your Productivity
 ## Abstract:
@@ -336,7 +336,7 @@ By the end of this session, you will learn some useful techniques to take back w
 #### SessionID: 59925
 # Execution Plans for Mere Mortals
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Application  Database Development
+Event Date: 18-03-2017 - Session time: 14:10:00 - Track: Application  Database Development
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
 ## Abstract:
@@ -347,7 +347,7 @@ Reading execution plans becomes much less intimidating as we walk through the fl
 #### SessionID: 61000
 # Azure SQL Database: 12 Things To Know
 #### [Back to calendar](#nr-593)
-Event Date: 18-03-2017 - Session time: 15:20:00 - Track: Cloud Application Development  Deployment
+Event Date: 18-03-2017 - Session time: 14:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sven Aelterman
 ## Title: Azure SQL Database: 12 Things To Know
 ## Abstract:

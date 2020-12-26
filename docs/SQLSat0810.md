@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 85165
 # Shard Attack - Horizontal Scaling in Azure SQL Database
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Cloud (Application Development  Deployment)
+Event Date: 18-01-2019 - Session time: 09:00:00 - Track: Cloud (Application Development  Deployment)
 ## Speaker: David Postlethwaite
 ## Title: Shard Attack - Horizontal Scaling in Azure SQL Database
 ## Abstract:
@@ -46,7 +46,7 @@ We will be using t-sql, PowerShell and c# so come prepared for some serious codi
 #### SessionID: 85185
 # Lightning Talk
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Administration (Platform, Architecture)
+Event Date: 18-01-2019 - Session time: 09:00:00 - Track: Administration (Platform, Architecture)
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Lightning Talk
 ## Abstract:
@@ -59,7 +59,7 @@ Roman Lansky - "How much memory you need for your SSAS Tabular solution?"
 #### SessionID: 85190
 # Start testing your SSIS packages with ssisUnit
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Development
+Event Date: 18-01-2019 - Session time: 09:00:00 - Track: Development
 ## Speaker: Bartosz Ratajczyk
 ## Title: Start testing your SSIS packages with ssisUnit
 ## Abstract:
@@ -70,7 +70,7 @@ On this session, I will show you how to start with automated testing of the pack
 #### SessionID: 86208
 # Power BI Data Modeling
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: BI (Architecture, Advanced Analytics, Visualization, Information Delivery)
+Event Date: 18-01-2019 - Session time: 09:00:00 - Track: BI (Architecture, Advanced Analytics, Visualization, Information Delivery)
 ## Speaker: Thomas Martens
 ## Title: Power BI Data Modeling
 ## Abstract:
@@ -80,7 +80,7 @@ New data modeling features like many-to-many relationships and aggregations have
 #### SessionID: 85307
 # Query Store without SQL 2016 = Open Query Store
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Administration (Platform, Architecture)
+Event Date: 18-01-2019 - Session time: 10:15:00 - Track: Administration (Platform, Architecture)
 ## Speaker: William Durkin
 ## Title: Query Store without SQL 2016 = Open Query Store
 ## Abstract:
@@ -91,7 +91,7 @@ This session will give a short introduction to the Query Store feature in SQL 20
 #### SessionID: 85587
 # Woodworks on Azure ML Workbench
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: BI (Architecture, Advanced Analytics, Visualization, Information Delivery)
+Event Date: 18-01-2019 - Session time: 10:15:00 - Track: BI (Architecture, Advanced Analytics, Visualization, Information Delivery)
 ## Speaker: Mario Schnalzenberger
 ## Title: Woodworks on Azure ML Workbench
 ## Abstract:
@@ -102,7 +102,7 @@ We will go through two experiments to classify raw data and image data using PYT
 #### SessionID: 86189
 # A Masters view on Query plans and indexing
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Development
+Event Date: 18-01-2019 - Session time: 10:15:00 - Track: Development
 ## Speaker: Mikael Wedham
 ## Title: A Masters view on Query plans and indexing
 ## Abstract:
@@ -114,7 +114,7 @@ selecting appropriate indexing for your query load.
 #### SessionID: 86218
 # Don't Cross the Streams! A Closer Look at Azure Stream Analytics
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Cloud (Application Development  Deployment)
+Event Date: 18-01-2019 - Session time: 10:15:00 - Track: Cloud (Application Development  Deployment)
 ## Speaker: Johan Ludvig Brattås
 ## Title: Don't Cross the Streams! A Closer Look at Azure Stream Analytics
 ## Abstract:
@@ -123,7 +123,7 @@ Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Cloud (Application Deve
 #### SessionID: 85181
 # Azure SQL Containers
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Cloud (Application Development  Deployment)
+Event Date: 18-01-2019 - Session time: 11:30:00 - Track: Cloud (Application Development  Deployment)
 ## Speaker: Andrew Pruski
 ## Title: Azure SQL Containers
 ## Abstract:
@@ -141,7 +141,7 @@ Each topic will be backed up with demos which will show how simple it is to get 
 #### SessionID: 85892
 # Azure Data Studio - The new kid in town
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Development
+Event Date: 18-01-2019 - Session time: 11:30:00 - Track: Development
 ## Speaker: Frank Geisler
 ## Title: Azure Data Studio - The new kid in town
 ## Abstract:
@@ -150,7 +150,7 @@ Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Development
 #### SessionID: 86133
 # Data Quality matters! Go for a quality roundtrip in the MS data platform
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: BI (Architecture, Advanced Analytics, Visualization, Information Delivery)
+Event Date: 18-01-2019 - Session time: 11:30:00 - Track: BI (Architecture, Advanced Analytics, Visualization, Information Delivery)
 ## Speaker: Oliver Engels
 ## Title: Data Quality matters! Go for a quality roundtrip in the MS data platform
 ## Abstract:
@@ -160,7 +160,7 @@ We dive into the requirements of modern curation and show in examples, what the 
 #### SessionID: 86768
 # Anomalien Monitoring und SQL Abfragen-Analyse
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Administration (Platform, Architecture)
+Event Date: 18-01-2019 - Session time: 11:30:00 - Track: Administration (Platform, Architecture)
 ## Speaker: Michael Roedeske
 ## Title: Anomalien Monitoring und SQL Abfragen-Analyse
 ## Abstract:
@@ -169,7 +169,7 @@ Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Administration (Platfor
 #### SessionID: 86127
 # FROM DATA LAKE TO DAX QUERY
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Cloud (Application Development  Deployment)
+Event Date: 18-01-2019 - Session time: 13:15:00 - Track: Cloud (Application Development  Deployment)
 ## Speaker: Gabi Münster
 ## Title: FROM DATA LAKE TO DAX QUERY
 ## Abstract:
@@ -186,7 +186,7 @@ We will present you one approach to accomplish this.
 #### SessionID: 86161
 # Let's build an end-to-end IoT solution - from Edge to Cloud
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Development
+Event Date: 18-01-2019 - Session time: 13:15:00 - Track: Development
 ## Speaker: Martin Pöckl
 ## Title: Let's build an end-to-end IoT solution - from Edge to Cloud
 ## Abstract:
@@ -197,7 +197,7 @@ This demo-heavy session is for the cast and crew of developers that make any IoT
 #### SessionID: 86646
 # Big Data und Data Science
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Administration (Platform, Architecture)
+Event Date: 18-01-2019 - Session time: 13:15:00 - Track: Administration (Platform, Architecture)
 ## Speaker: Suha Güngören
 ## Title: Big Data und Data Science
 ## Abstract:
@@ -214,7 +214,7 @@ Q  A
 #### SessionID: 87322
 # SQL Server 2019 Big Data Clusters – a game changer?
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: BI (Architecture, Advanced Analytics, Visualization, Information Delivery)
+Event Date: 18-01-2019 - Session time: 13:15:00 - Track: BI (Architecture, Advanced Analytics, Visualization, Information Delivery)
 ## Speaker: Ben Weissman
 ## Title: SQL Server 2019 Big Data Clusters – a game changer?
 ## Abstract:
@@ -223,7 +223,7 @@ Event Date: 18-01-2019 - Session time: 15:45:00 - Track: BI (Architecture, Advan
 #### SessionID: 85151
 # SQL Server 2017: Data Science with Python or R?
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: BI (Architecture, Advanced Analytics, Visualization, Information Delivery)
+Event Date: 18-01-2019 - Session time: 14:30:00 - Track: BI (Architecture, Advanced Analytics, Visualization, Information Delivery)
 ## Speaker: Dejan Sarka
 ## Title: SQL Server 2017: Data Science with Python or R?
 ## Abstract:
@@ -232,7 +232,7 @@ Event Date: 18-01-2019 - Session time: 15:45:00 - Track: BI (Architecture, Advan
 #### SessionID: 85975
 # Persistence is Futile - Implementing Delayed Durability in SQL Server
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Development
+Event Date: 18-01-2019 - Session time: 14:30:00 - Track: Development
 ## Speaker: Mark Broadbent
 ## Title: Persistence is Futile - Implementing Delayed Durability in SQL Server
 ## Abstract:
@@ -245,7 +245,7 @@ Attend this session and you will be assimilated!
 #### SessionID: 86037
 # How to Get Started with Azure Managed Instance
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Cloud (Application Development  Deployment)
+Event Date: 18-01-2019 - Session time: 14:30:00 - Track: Cloud (Application Development  Deployment)
 ## Speaker: Björn Peters
 ## Title: How to Get Started with Azure Managed Instance
 ## Abstract:
@@ -259,7 +259,7 @@ After this session, you'll understand this great database a bit better and know 
 #### SessionID: 86099
 # Der moderne DBA in einer heterogenen Datenbankwelt: Performance- und Verfügbarkeitsüberwachung
 #### [Back to calendar](#nr-810)
-Event Date: 18-01-2019 - Session time: 15:45:00 - Track: Administration (Platform, Architecture)
+Event Date: 18-01-2019 - Session time: 14:30:00 - Track: Administration (Platform, Architecture)
 ## Speaker: Markus Schröder
 ## Title: Der moderne DBA in einer heterogenen Datenbankwelt: Performance- und Verfügbarkeitsüberwachung
 ## Abstract:

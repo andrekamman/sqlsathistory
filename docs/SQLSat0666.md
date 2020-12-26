@@ -44,7 +44,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 64751
 # Next first steps - selected applications of R
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 30-09-2017 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Thomas Hütter
 ## Title: Next first steps - selected applications of R
 ## Abstract:
@@ -62,7 +62,7 @@ Here are the three subjects that this slightly code-heavy session will cover:
 #### SessionID: 64890
 # A lap around what is new in Power BI and Power BI Embedded
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 30-09-2017 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Jeroen ter Heerdt
 ## Title: A lap around what is new in Power BI and Power BI Embedded
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 30-09-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 66766
 # T-SQL : Bad Habits and Best Practices
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 30-09-2017 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Aaron Bertrand
 ## Title: T-SQL : Bad Habits and Best Practices
 ## Abstract:
@@ -84,7 +84,7 @@ By changing your techniques and ditching some of these bad habits for best pract
 #### SessionID: 66797
 # Using object dependencies to develop smart solutions
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 30-09-2017 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Frans van der Geer
 ## Title: Using object dependencies to develop smart solutions
 ## Abstract:
@@ -101,7 +101,7 @@ This session is a mix of SQL and SSAS DMV's, T-SQL data models, build tools and 
 #### SessionID: 66851
 # Latches, Spinlocks, and Lock Free Data Structures - Part 1
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Klaus Aschenbrenner
 ## Title: Latches, Spinlocks, and Lock Free Data Structures - Part 1
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 68622
 # Hacking SQL Server
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server
 ## Abstract:
@@ -124,7 +124,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #### SessionID: 65008
 # Migrating to the cloud options for SQL Server Professionals
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 30-09-2017 - Session time: 10:15:00 - Track: Strategy and Architecture
 ## Speaker: Kevin Chant
 ## Title: Migrating to the cloud options for SQL Server Professionals
 ## Abstract:
@@ -135,7 +135,7 @@ After that we’ll dive into in to an overview of the main cloud providers and p
 #### SessionID: 66810
 # SQL Server  Containers
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Pruski
 ## Title: SQL Server  Containers
 ## Abstract:
@@ -155,7 +155,7 @@ A real world implementation of containers
 #### SessionID: 66849
 # Tabular Next Top Model
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 30-09-2017 - Session time: 10:15:00 - Track: BI Information Delivery
 ## Speaker: Edgar Walther
 ## Title: Tabular Next Top Model
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 30-09-2017 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 66852
 # Latches, Spinlocks, and Lock Free Data Structures - Part 2
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Klaus Aschenbrenner
 ## Title: Latches, Spinlocks, and Lock Free Data Structures - Part 2
 ## Abstract:
@@ -173,7 +173,7 @@ Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 67014
 # Practical SQL Server Machine Learning Services
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 30-09-2017 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jan Mulkens
 ## Title: Practical SQL Server Machine Learning Services
 ## Abstract:
@@ -184,7 +184,7 @@ Learn how you can easily roll out your own Data Science projects or support the 
 #### SessionID: 68373
 # Deep dive into Query Store on SQL Server 2016
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andre Batista
 ## Title: Deep dive into Query Store on SQL Server 2016
 ## Abstract:
@@ -193,7 +193,7 @@ Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 64827
 # Always On Multi-Site Patterns
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 30-09-2017 - Session time: 11:30:00 - Track: Strategy and Architecture
 ## Speaker: John Martin
 ## Title: Always On Multi-Site Patterns
 ## Abstract:
@@ -206,7 +206,7 @@ All of these elements mean that it is more than just simple wizards to follow in
 #### SessionID: 65238
 # Scripting tabular models
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 30-09-2017 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bent Pedersen
 ## Title: Scripting tabular models
 ## Abstract:
@@ -219,7 +219,7 @@ The last thing i will show is how you speed up your development free up up to 50
 #### SessionID: 66857
 # Hash Match, the Operator
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 30-09-2017 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: Hash Match, the Operator
 ## Abstract:
@@ -231,7 +231,7 @@ It is going to be wild ride, so keep your hands, arms, and legs inside the confe
 #### SessionID: 66955
 # SQL Server and R for real-time predictions
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
+Event Date: 30-09-2017 - Session time: 11:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Stephanie Locke
 ## Title: SQL Server and R for real-time predictions
 ## Abstract:
@@ -242,7 +242,7 @@ In this demo-packed talk, you’ll see how you can go from a model built in R to
 #### SessionID: 67140
 # Query Store without SQL 2016 = Open Query Store
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: William Durkin
 ## Title: Query Store without SQL 2016 = Open Query Store
 ## Abstract:
@@ -253,7 +253,7 @@ This session will give a short introduction to the Query Store feature in SQL 20
 #### SessionID: 68399
 # Migrating your On Premise database to Azure SQL DW
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 30-09-2017 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Erwin De Kreuk
 ## Title: Migrating your On Premise database to Azure SQL DW
 ## Abstract:
@@ -265,7 +265,7 @@ I will take you in this session through all the steps you have to take care off.
 #### SessionID: 64758
 # Advanced insides into System Versioned Temporal Tables
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 30-09-2017 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Uwe Ricken
 ## Title: Advanced insides into System Versioned Temporal Tables
 ## Abstract:
@@ -285,7 +285,7 @@ You are interested in the answers to all the above questions (and more). This se
 #### SessionID: 65624
 # SQL Server 2017: Graph Database Inside-Out
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 30-09-2017 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Raymond Sondak
 ## Title: SQL Server 2017: Graph Database Inside-Out
 ## Abstract:
@@ -298,7 +298,7 @@ In this session the audience will learn about what is graph databases, why graph
 #### SessionID: 66300
 # Predicting demonic possession using AzureML
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
+Event Date: 30-09-2017 - Session time: 13:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Enrico van de Laar
 ## Title: Predicting demonic possession using AzureML
 ## Abstract:
@@ -309,7 +309,7 @@ We will go through all the steps for building a reliably machine learning model 
 #### SessionID: 66411
 # High Availability with SQL Server 2017 on Linux
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Hartskeerl
 ## Title: High Availability with SQL Server 2017 on Linux
 ## Abstract:
@@ -318,7 +318,7 @@ Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 67387
 # Deep Dive into the Azure-Powered Power BI Twitter Brand Campaign Solution
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 30-09-2017 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sam Lester
 ## Title: Deep Dive into the Azure-Powered Power BI Twitter Brand Campaign Solution
 ## Abstract:
@@ -332,7 +332,7 @@ https://powerbi.microsoft.com/en-us/solution-templates/brand-management-twitter/
 #### SessionID: 68899
 # Let's talk Power BI Premium
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 30-09-2017 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Adam Saxton
 ## Title: Let's talk Power BI Premium
 ## Abstract:
@@ -341,7 +341,7 @@ Event Date: 30-09-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 64749
 # Exploring Dark Data with SQL Server 2016 and R [EN]
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 30-09-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Oliver Frost
 ## Title: Exploring Dark Data with SQL Server 2016 and R [EN]
 ## Abstract:
@@ -354,7 +354,7 @@ This session is for anyone who is new to R and is interesting expanding their sk
 #### SessionID: 64788
 # PowerBI On-Premises Vs Cloud
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 30-09-2017 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: PowerBI On-Premises Vs Cloud
 ## Abstract:
@@ -367,7 +367,7 @@ In this session, we will explore and compare the features availale on PowerBI On
 #### SessionID: 64876
 # Cloud BI with Azure Analysis Services
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 30-09-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Cloud BI with Azure Analysis Services
 ## Abstract:
@@ -376,7 +376,7 @@ Event Date: 30-09-2017 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 65023
 # Extent and Page Management in SQL Server
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Torsten Strauss
 ## Title: Extent and Page Management in SQL Server
 ## Abstract:
@@ -387,7 +387,7 @@ Alongside we will analyze the page header, payload applying the FixedVarFormat a
 #### SessionID: 67527
 # A Look Inside SQL Server Distribution Statistics
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-09-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kalen Delaney
 ## Title: A Look Inside SQL Server Distribution Statistics
 ## Abstract:
@@ -402,7 +402,7 @@ Goals:
 #### SessionID: 68224
 # Hidden gems of SQL Server 2016
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 30-09-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Denis Reznik
 ## Title: Hidden gems of SQL Server 2016
 ## Abstract:
@@ -413,7 +413,7 @@ In this session, we will learn a lot about these features and improvements. Whic
 #### SessionID: 68900
 # Power BI security deep dive
 #### [Back to calendar](#nr-666)
-Event Date: 30-09-2017 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 30-09-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kasper de Jonge
 ## Title: Power BI security deep dive
 ## Abstract:

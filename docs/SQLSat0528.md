@@ -19,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 46630
 # Analyze your query plan like a Microsoft Engineer!
 #### [Back to calendar](#nr-528)
-Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 11-06-2016 - Session time: 09:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Janik
 ## Title: Analyze your query plan like a Microsoft Engineer!
 ## Abstract:
@@ -28,7 +28,7 @@ Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 50556
 # 7 things you need to know about TempDB
 #### [Back to calendar](#nr-528)
-Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-06-2016 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ignacio Salom Rangel
 ## Title: 7 things you need to know about TempDB
 ## Abstract:
@@ -37,7 +37,7 @@ Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 49315
 # SQL Server: Indexing Fundamentals
 #### [Back to calendar](#nr-528)
-Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 11-06-2016 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Nigel Sammy
 ## Title: SQL Server: Indexing Fundamentals
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 49463
 # SQL Server OLTP - Monitoring and Troubleshooting
 #### [Back to calendar](#nr-528)
-Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-06-2016 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rohan Joackhim
 ## Title: SQL Server OLTP - Monitoring and Troubleshooting
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 47925
 # DBaaS on Azure - SQL Database Best Practices
 #### [Back to calendar](#nr-528)
-Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 11-06-2016 - Session time: 11:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: DBaaS on Azure - SQL Database Best Practices
 ## Abstract:
@@ -67,7 +67,7 @@ This new technology is being adopted for a lot of customers around the world and
 #### SessionID: 49604
 # Contained Database
 #### [Back to calendar](#nr-528)
-Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-06-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Roy Ernest
 ## Title: Contained Database
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 47736
 # DBA Vs. Hacker: Protecting SQL Server
 #### [Back to calendar](#nr-528)
-Event Date: 11-06-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-06-2016 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: DBA Vs. Hacker: Protecting SQL Server
 ## Abstract:
@@ -88,7 +88,7 @@ A Hacker's goal is to find vulnerabilities in a system and a DBA's goal is to ma
 #### SessionID: 49317
 # Understanding and Controlling Transaction Logs
 #### [Back to calendar](#nr-528)
-Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-06-2016 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Nigel Sammy
 ## Title: Understanding and Controlling Transaction Logs
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 46721
 # Understanding SQL Server Backup and Restore
 #### [Back to calendar](#nr-528)
-Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-06-2016 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Radney
 ## Title: Understanding SQL Server Backup and Restore
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 48485
 # Locking, blocking, and troubleshooting - Trial by FIRE!
 #### [Back to calendar](#nr-528)
-Event Date: 11-06-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 11-06-2016 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Daniel Janik
 ## Title: Locking, blocking, and troubleshooting - Trial by FIRE!
 ## Abstract:

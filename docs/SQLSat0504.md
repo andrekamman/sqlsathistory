@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 44984
 # SQL Server 2016 un vistazo a todo lo nuevo!
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-05-2016 - Session time: 02:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eduardo Castro
 ## Title: SQL Server 2016 un vistazo a todo lo nuevo!
 ## Abstract:
@@ -40,7 +40,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architectur
 #### SessionID: 44996
 # Construyendo mi primer modelo Tabular con Analysis Services
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-05-2016 - Session time: 02:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Construyendo mi primer modelo Tabular con Analysis Services
 ## Abstract:
@@ -49,7 +49,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architectur
 #### SessionID: 49217
 # T#233;cnicas en patrones de b#250;squedas (SSIS), Quien gana la carrera?
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-05-2016 - Session time: 02:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jorge García
 ## Title: T#233;cnicas en patrones de b#250;squedas (SSIS), Quien gana la carrera?
 ## Abstract:
@@ -58,7 +58,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architectur
 #### SessionID: 50287
 # SQL-Server-Azure
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Application  Database Development
+Event Date: 21-05-2016 - Session time: 02:00:00 - Track: Application  Database Development
 ## Speaker: Roberto Pena
 ## Title: SQL-Server-Azure
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Application  Database D
 #### SessionID: 44309
 # Particionamiento y BD Parciales HA para VLDB
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-05-2016 - Session time: 03:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Urena
 ## Title: Particionamiento y BD Parciales HA para VLDB
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Enterprise Database Adm
 #### SessionID: 46568
 # Procesando XML de Estructuras Complejas con SSIS
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Application  Database Development
+Event Date: 21-05-2016 - Session time: 03:15:00 - Track: Application  Database Development
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Procesando XML de Estructuras Complejas con SSIS
 ## Abstract:
@@ -85,7 +85,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Application  Database D
 #### SessionID: 49222
 # Calling the doctor to the number "DMV"
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Application  Database Development
+Event Date: 21-05-2016 - Session time: 03:15:00 - Track: Application  Database Development
 ## Speaker: Ahias Portillo
 ## Title: Calling the doctor to the number "DMV"
 ## Abstract:
@@ -94,7 +94,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Application  Database D
 #### SessionID: 49250
 # En Data Warehouse debo usar Valores por defecto o por Default?
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Information Delivery
+Event Date: 21-05-2016 - Session time: 03:15:00 - Track: BI Information Delivery
 ## Speaker: Ricardo Estrada
 ## Title: En Data Warehouse debo usar Valores por defecto o por Default?
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Information Delivery
 #### SessionID: 49266
 # Modelos Mentales en BI: Implementaci#243;n pr#225;ctica en Finanzas
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Other
+Event Date: 21-05-2016 - Session time: 03:15:00 - Track: Other
 ## Speaker: Javier Loria
 ## Title: Modelos Mentales en BI: Implementaci#243;n pr#225;ctica en Finanzas
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Other
 #### SessionID: 50290
 # Power BI On Cloud (Parte II)
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Information Delivery
+Event Date: 21-05-2016 - Session time: 03:15:00 - Track: BI Information Delivery
 ## Speaker: Ahias Portillo
 ## Title: Power BI On Cloud (Parte II)
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Information Delivery
 #### SessionID: 44308
 # Hered#233; una base de datos, y ahora que hago?
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-05-2016 - Session time: 09:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Urena
 ## Title: Hered#233; una base de datos, y ahora que hago?
 ## Abstract:
@@ -130,7 +130,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Enterprise Database Adm
 #### SessionID: 44985
 # Introducci#243;n al an#225;lisis predictivo con SQL Server y Lenguaje R
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Analytics and Visualization
+Event Date: 21-05-2016 - Session time: 09:10:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: Introducci#243;n al an#225;lisis predictivo con SQL Server y Lenguaje R
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Analytics and Visualiza
 #### SessionID: 49264
 # Construyendo una Dimension de Tiempo Excepcional
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-05-2016 - Session time: 09:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: Construyendo una Dimension de Tiempo Excepcional
 ## Abstract:
@@ -148,7 +148,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architectur
 #### SessionID: 50153
 # Me, a Data Scientist?
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Advanced Analysis Techniques
+Event Date: 21-05-2016 - Session time: 09:10:00 - Track: Advanced Analysis Techniques
 ## Speaker: Fabricio Quintanilla
 ## Title: Me, a Data Scientist?
 ## Abstract:
@@ -158,7 +158,7 @@ In this session, you will learn which skills should be met to be named a real "D
 #### SessionID: 50405
 # Balanceo de Carga en Instancias  y Websites en Azure
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 21-05-2016 - Session time: 09:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Javier Calderón
 ## Title: Balanceo de Carga en Instancias  y Websites en Azure
 ## Abstract:
@@ -167,7 +167,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Cloud Application Devel
 #### SessionID: 44995
 # Analysis Services Multidimensional vs Tabular
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-05-2016 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Analysis Services Multidimensional vs Tabular
 ## Abstract:
@@ -176,7 +176,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architectur
 #### SessionID: 49252
 # Tuning con QUERY STORE la nueva caracter#237;stica de SQL 2016
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-05-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ricardo Estrada
 ## Title: Tuning con QUERY STORE la nueva caracter#237;stica de SQL 2016
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Enterprise Database Adm
 #### SessionID: 49291
 # Data Profiling (SSIS)- Herramienta #250;til para el perfilamiento de Datos
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-05-2016 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Maristel Castro Montero
 ## Title: Data Profiling (SSIS)- Herramienta #250;til para el perfilamiento de Datos
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Platform Architectur
 #### SessionID: 50288
 # Seguridad Integral en las Empresas
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Other
+Event Date: 21-05-2016 - Session time: 10:30:00 - Track: Other
 ## Speaker: Pablo Ruizs
 ## Title: Seguridad Integral en las Empresas
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 21-05-2016 - Session time: 11:45:00 - Track: Other
 #### SessionID: 50398
 # Power BI On Premise (Parte 1)
 #### [Back to calendar](#nr-504)
-Event Date: 21-05-2016 - Session time: 11:45:00 - Track: BI Information Delivery
+Event Date: 21-05-2016 - Session time: 10:30:00 - Track: BI Information Delivery
 ## Speaker: Yanitza Campos
 ## Title: Power BI On Premise (Parte 1)
 ## Abstract:

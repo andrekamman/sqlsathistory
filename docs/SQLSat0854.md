@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 88762
 # Power BI Automation with Microsoft Flow
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: Ida Bergum
 ## Title: Power BI Automation with Microsoft Flow
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 31-08-2019 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 89129
 # Azure Machine Learning for the absolute beginner
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Analytics and Visualization (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 09:15:00 - Track: Analytics and Visualization (Cloud/Hybrid/On-prem)
 ## Speaker: Alexander Arvidsson
 ## Title: Azure Machine Learning for the absolute beginner
 ## Abstract:
@@ -65,7 +65,7 @@ Join Alexander for a session that will give you a thorough overview of what mach
 #### SessionID: 90579
 # Azure SQL and Automation, how to keep your database up-to-speed in the cloud
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: Antonio Abalos Castillo
 ## Title: Azure SQL and Automation, how to keep your database up-to-speed in the cloud
 ## Abstract:
@@ -75,7 +75,7 @@ During this session, we will review the typical maintenance activities that need
 #### SessionID: 91624
 # Not just polish – How good code also runs faster
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 09:15:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
 ## Speaker: Daniel Hutmacher
 ## Title: Not just polish – How good code also runs faster
 ## Abstract:
@@ -90,7 +90,7 @@ This presentation is all-code, some execution plans, and no-powerpoint.
 #### SessionID: 92361
 # First steps with SQL Server on Docker
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 09:15:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
 ## Speaker: Bartosz Ratajczyk
 ## Title: First steps with SQL Server on Docker
 ## Abstract:
@@ -101,7 +101,7 @@ Join me in the session where I will introduce you to the Docker containers world
 #### SessionID: 92492
 # Tools and techniques for managing big data with Power BI.
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Analytics and Visualization (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 09:15:00 - Track: Analytics and Visualization (Cloud/Hybrid/On-prem)
 ## Speaker: Adam Marshall
 ## Title: Tools and techniques for managing big data with Power BI.
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 89123
 # Use Docker to Deploy SQL Server Applications
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: Frank Geisler
 ## Title: Use Docker to Deploy SQL Server Applications
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 89811
 # End-to-end monitoring for a successful Power BI implementation
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: Marc Lelijveld
 ## Title: End-to-end monitoring for a successful Power BI implementation
 ## Abstract:
@@ -132,7 +132,7 @@ In this session I will show you which insights you will get with an end-to-end m
 #### SessionID: 90373
 # BI in Azure one year live
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: Alexander Klein
 ## Title: BI in Azure one year live
 ## Abstract:
@@ -146,7 +146,7 @@ Alexander Klein will answer all these questions and more in this presentation.
 #### SessionID: 90575
 # A Masters view on Locking and blocking
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: Mikael Wedham
 ## Title: A Masters view on Locking and blocking
 ## Abstract:
@@ -158,7 +158,7 @@ And finally a real-world quick list of suggestions on what you can do to solve s
 #### SessionID: 91867
 # "Can I join you?", one table asked the other
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 10:30:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
 ## Speaker: Thomas Hütter
 ## Title: "Can I join you?", one table asked the other
 ## Abstract:
@@ -171,7 +171,7 @@ We'll have demos for all of this on well-known databases. And if all that doesn'
 #### SessionID: 92479
 # Continuous Intelligence... What's this all about?
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: Gabi Münster
 ## Title: Continuous Intelligence... What's this all about?
 ## Abstract:
@@ -182,7 +182,7 @@ Let's look at advantages and challenges for CI in BI and at possibilities to imp
 #### SessionID: 89031
 # Now you see it, but did you really?  Correcting visual fallacies...
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Analytics and Visualization (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 11:45:00 - Track: Analytics and Visualization (Cloud/Hybrid/On-prem)
 ## Speaker: Jonathan Stewart
 ## Title: Now you see it, but did you really?  Correcting visual fallacies...
 ## Abstract:
@@ -191,7 +191,7 @@ Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 89052
 # Don't Bite Off More Than You Chew - Take It in Chunks
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 11:45:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
 ## Speaker: Erland Sommarskog
 ## Title: Don't Bite Off More Than You Chew - Take It in Chunks
 ## Abstract:
@@ -204,7 +204,7 @@ I will also look at how you can use chunking for error handling: You want proces
 #### SessionID: 90198
 # ABC's of the Power BI REST API
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: Jens Vestergaard
 ## Title: ABC's of the Power BI REST API
 ## Abstract:
@@ -224,7 +224,7 @@ Attending this session will make you familiar with the Power BI REST API and pro
 #### SessionID: 90606
 # Applying Agile in Business Intelligence
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: Jeroen Bosems
 ## Title: Applying Agile in Business Intelligence
 ## Abstract:
@@ -239,7 +239,7 @@ By the end of this session, you will have a better understanding of Agile develo
 #### SessionID: 90941
 # SQL Server  Kubernetes
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: Andrew Pruski
 ## Title: SQL Server  Kubernetes
 ## Abstract:
@@ -258,7 +258,7 @@ This session is aimed at SQL Server DBAs and Developers who want to learn the wh
 #### SessionID: 92460
 # ETL with Azure Databricks, The Complete Introduction
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: André Kamman
 ## Title: ETL with Azure Databricks, The Complete Introduction
 ## Abstract:
@@ -267,7 +267,7 @@ Event Date: 31-08-2019 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 96549
 # Managing SQL Server Farms VS SQL Server instances by dbWatch
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: Managing SQL Server Farms VS SQL Server instances by dbWatch
 ## Abstract:
@@ -276,7 +276,7 @@ Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 98072
 # SQL Server Auditing and Compliance with Quest
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: SQL Server Auditing and Compliance with Quest
 ## Abstract:
@@ -285,7 +285,7 @@ Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 98099
 # Add rockets to your database with Hyperscale by Microsoft
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 13:00:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: Add rockets to your database with Hyperscale by Microsoft
 ## Abstract:
@@ -296,7 +296,7 @@ Speaker: Jon Jahren, Senior Cloud Solution Architect (Data Platform), Microsoft 
 #### SessionID: 98243
 # Include Power BI metadata in Xpert BI by BI-Builders
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 13:20:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: Include Power BI metadata in Xpert BI by BI-Builders
 ## Abstract:
@@ -313,7 +313,7 @@ This session will give insights into the lates features of the Xpert BI Solution
 #### SessionID: 89030
 # Data Visualization: How to truly tell a great story!
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Analytics and Visualization (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 14:00:00 - Track: Analytics and Visualization (Cloud/Hybrid/On-prem)
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization: How to truly tell a great story!
 ## Abstract:
@@ -322,7 +322,7 @@ Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 90244
 # A Game of Hierarchies: Introduction to Graph Processing with SQL Server 2019
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 14:00:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: A Game of Hierarchies: Introduction to Graph Processing with SQL Server 2019
 ## Abstract:
@@ -337,7 +337,7 @@ Join this session for a journey through best practices to transform your hierarc
 #### SessionID: 91673
 # The Microsoft Power Platform - What is it?
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: Wolfgang Strasser
 ## Title: The Microsoft Power Platform - What is it?
 ## Abstract:
@@ -348,7 +348,7 @@ Join me in this session if you want to get an overview about the involved techno
 #### SessionID: 92262
 # SQL Server database perfomance on Azure, Google and AWS cloud platform
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Other
+Event Date: 31-08-2019 - Session time: 14:00:00 - Track: Other
 ## Speaker: Marek Jablonski
 ## Title: SQL Server database perfomance on Azure, Google and AWS cloud platform
 ## Abstract:
@@ -365,7 +365,7 @@ Based on our measurements we have seen:
 #### SessionID: 92287
 # Beyond orchestration with Azure Data Factory
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: Helge Rege Gårdsvoll
 ## Title: Beyond orchestration with Azure Data Factory
 ## Abstract:
@@ -374,7 +374,7 @@ Event Date: 31-08-2019 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 92593
 # SQL Injection: What Is It, Prevent It, Monitor For It!
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 14:00:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
 ## Speaker: Grant Fritchey
 ## Title: SQL Injection: What Is It, Prevent It, Monitor For It!
 ## Abstract:
@@ -383,7 +383,7 @@ Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 88555
 # An IoT/BI/AI session - from Raspberry Pi to Power BI and lots in between
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: Ben Watt
 ## Title: An IoT/BI/AI session - from Raspberry Pi to Power BI and lots in between
 ## Abstract:
@@ -396,7 +396,7 @@ This is a demo heavy session and audience interaction is key!
 #### SessionID: 88960
 # Power BI server and Office Online server, modernize your on-premises BI approach.
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: Isabelle Van Campenhoudt
 ## Title: Power BI server and Office Online server, modernize your on-premises BI approach.
 ## Abstract:
@@ -410,7 +410,7 @@ What infrastructure is needed to make it working ? How to manage the authenticat
 #### SessionID: 89139
 # Making Managed Instance Perform, a dive into storage.
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: John Martin
 ## Title: Making Managed Instance Perform, a dive into storage.
 ## Abstract:
@@ -419,7 +419,7 @@ Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 89179
 # Execution plans ... where do I start?
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 15:15:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
 ## Speaker: Hugo Kornelis
 ## Title: Execution plans ... where do I start?
 ## Abstract:
@@ -434,7 +434,7 @@ In this session you will learn how to obtain execution plans. and how to start r
 #### SessionID: 92049
 # SQL Notebooks in Azure Data Studio for the DBA
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: Rob Sewell
 ## Title: SQL Notebooks in Azure Data Studio for the DBA
 ## Abstract:
@@ -447,7 +447,7 @@ You will learn about SQL Notebooks from installing them in Azure Data Studio to 
 #### SessionID: 94191
 # Building Dynamic Data Pipelines in Azure Data Factory
 #### [Back to calendar](#nr-854)
-Event Date: 31-08-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 31-08-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Building Dynamic Data Pipelines in Azure Data Factory
 ## Abstract:

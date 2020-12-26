@@ -57,7 +57,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 50442
 # Building Defense in Depth Using the Full Spectrum of SQL Server Encryption
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-11-2016 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Keleher
 ## Title: Building Defense in Depth Using the Full Spectrum of SQL Server Encryption
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 50616
 # Advanced Power BI: Solving the Hard Problems
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 12-11-2016 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Devin Knight
 ## Title: Advanced Power BI: Solving the Hard Problems
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: BI Information Delivery
 #### SessionID: 50712
 # How to be a GREAT DBA
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 12-11-2016 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Jeffrey Garbus
 ## Title: How to be a GREAT DBA
 ## Abstract:
@@ -87,7 +87,7 @@ Great for beginner to intermediate DBAs, as well as Developers who think this is
 #### SessionID: 50828
 # Introduction to Fog Analytics
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 12-11-2016 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: John Wang
 ## Title: Introduction to Fog Analytics
 ## Abstract:
@@ -96,7 +96,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 52572
 # Data Partitioning for Database Architects and Mere Mortals
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-11-2016 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Dmitri Korotkevitch
 ## Title: Data Partitioning for Database Architects and Mere Mortals
 ## Abstract:
@@ -109,7 +109,7 @@ Finally, the session provides a set of guidelines on how to split the data betwe
 #### SessionID: 53019
 # RESTful JSON API Microservices and SQL Server
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-11-2016 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Jared Nielsen
 ## Title: RESTful JSON API Microservices and SQL Server
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 54643
 # Cortana Intelligence Suite
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 12-11-2016 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Shannon Lowder
 ## Title: Cortana Intelligence Suite
 ## Abstract:
@@ -127,7 +127,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 55024
 # Power BI Data Governance - Protecting Business Data
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-11-2016 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ernie Wise
 ## Title: Power BI Data Governance - Protecting Business Data
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 55074
 # SQL Internals , Recovery Models,  Backups! OH MY
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-11-2016 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bradley Ball
 ## Title: SQL Internals , Recovery Models,  Backups! OH MY
 ## Abstract:
@@ -145,7 +145,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 56233
 # Loading SQL Server Data with Powershell
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-11-2016 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Loading SQL Server Data with Powershell
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 50355
 # Data Quality Services - Integrating your Data Steward
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 12-11-2016 - Session time: 10:15:00 - Track: BI Information Delivery
 ## Speaker: miguel Cebollero
 ## Title: Data Quality Services - Integrating your Data Steward
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: BI Information Delivery
 #### SessionID: 50769
 # Index Sql Server databases for high performance
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-11-2016 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Valentin Iamandi
 ## Title: Index Sql Server databases for high performance
 ## Abstract:
@@ -181,7 +181,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 52860
 # Azure, PowerShell, and SQL Server Virtual Machines
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-11-2016 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Azure, PowerShell, and SQL Server Virtual Machines
 ## Abstract:
@@ -190,7 +190,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 52880
 # SQL Server 2014 Column Store Index vNEXT
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-11-2016 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: SQL Server 2014 Column Store Index vNEXT
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 53153
 # Real World Lessons from Starting a Software Company
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 12-11-2016 - Session time: 10:15:00 - Track: Professional Development
 ## Speaker: Brian Knight
 ## Title: Real World Lessons from Starting a Software Company
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Professional Developmen
 #### SessionID: 54898
 # Query Optimizer Changes in SQL Server 2016
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-11-2016 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dmitry Pilugin
 ## Title: Query Optimizer Changes in SQL Server 2016
 ## Abstract:
@@ -219,7 +219,7 @@ The session will make a deep dive into the Query Optimizer internals and show so
 #### SessionID: 55033
 # Effortless Backups with Minion Backup
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-11-2016 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jennifer McCown
 ## Title: Effortless Backups with Minion Backup
 ## Abstract:
@@ -239,7 +239,7 @@ While the solution is designed to be as simple as possible to get up and running
 #### SessionID: 50352
 # MICROSOFT: SQL Server 2016 Stretch Database 
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-11-2016 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Anthony van Gemert
 ## Title: MICROSOFT: SQL Server 2016 Stretch Database 
 ## Abstract:
@@ -252,7 +252,7 @@ Come find out how you can move your data securely and transparently, free up dis
 #### SessionID: 50711
 # Bad, less Bad, not Bad; rewriting bad SQL Code
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-11-2016 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Jeffrey Garbus
 ## Title: Bad, less Bad, not Bad; rewriting bad SQL Code
 ## Abstract:
@@ -261,7 +261,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 52856
 # Planning and Executing a Successful SQL Server Database Migration
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-11-2016 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carlos Colon
 ## Title: Planning and Executing a Successful SQL Server Database Migration
 ## Abstract:
@@ -272,7 +272,7 @@ In this session we will discuss all the different database components and config
 #### SessionID: 53135
 # SQL Writing SQL
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-11-2016 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Tom Staab
 ## Title: SQL Writing SQL
 ## Abstract:
@@ -281,7 +281,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 54860
 # I See What You Did There - Automating Auditing in SQL Server
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Advanced Analytics Techniques
+Event Date: 12-11-2016 - Session time: 11:30:00 - Track: Advanced Analytics Techniques
 ## Speaker: Rodney Landrum
 ## Title: I See What You Did There - Automating Auditing in SQL Server
 ## Abstract:
@@ -290,7 +290,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Advanced Analytics Tech
 #### SessionID: 56391
 # Tone Analysis with HDInsight and Azure Machine Learning
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Advanced Analytics Techniques
+Event Date: 12-11-2016 - Session time: 11:30:00 - Track: Advanced Analytics Techniques
 ## Speaker: Paco Gonzalez
 ## Title: Tone Analysis with HDInsight and Azure Machine Learning
 ## Abstract:
@@ -299,7 +299,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Advanced Analytics Tech
 #### SessionID: 56462
 # Row-level Security in SSRS and SSAS
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 12-11-2016 - Session time: 11:30:00 - Track: BI Information Delivery
 ## Speaker: Chris Hyde
 ## Title: Row-level Security in SSRS and SSAS
 ## Abstract:
@@ -308,7 +308,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: BI Information Delivery
 #### SessionID: 54797
 # Plan Explorer 3.0 Webinar
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-11-2016 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bradley Ball
 ## Title: Plan Explorer 3.0 Webinar
 ## Abstract:
@@ -319,7 +319,7 @@ Learn about new features that will help you solve vexing execution plan problems
 #### SessionID: 54804
 # SQL Server Performance Best Practices
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-11-2016 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dominick DeQuarto
 ## Title: SQL Server Performance Best Practices
 ## Abstract:
@@ -330,7 +330,7 @@ Beyond just production database performance, DELL EMC provides robust database r
 #### SessionID: 50630
 # Creating Reports and Dashboards with Power BI
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 12-11-2016 - Session time: 14:00:00 - Track: BI Information Delivery
 ## Speaker: Michael Antonovich
 ## Title: Creating Reports and Dashboards with Power BI
 ## Abstract:
@@ -339,7 +339,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: BI Information Delivery
 #### SessionID: 51143
 # Does your performance tuning need a 12-step program?
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-11-2016 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Does your performance tuning need a 12-step program?
 ## Abstract:
@@ -353,7 +353,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 52877
 # Unit Testing SQL Server
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-11-2016 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Unit Testing SQL Server
 ## Abstract:
@@ -362,7 +362,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 53076
 # Free tools from the SQL Server Community
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-11-2016 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Wisdahl
 ## Title: Free tools from the SQL Server Community
 ## Abstract:
@@ -372,7 +372,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 53147
 # Combining SQL Server and R
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 12-11-2016 - Session time: 14:00:00 - Track: Analytics and Visualization
 ## Speaker: Robert Biddle
 ## Title: Combining SQL Server and R
 ## Abstract:
@@ -381,7 +381,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 54798
 # Tips and Tricks for Reporting Services
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-11-2016 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Pam Shaw
 ## Title: Tips and Tricks for Reporting Services
 ## Abstract:
@@ -391,7 +391,7 @@ Exploring new Frontiers with Power BI
 #### SessionID: 54837
 # How To Tune A Multi-Terabyte Database For Optimum Performance.
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-11-2016 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Taylor
 ## Title: How To Tune A Multi-Terabyte Database For Optimum Performance.
 ## Abstract:
@@ -400,7 +400,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 54907
 # Use Biml to Automate SSIS Design Patterns
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-11-2016 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Use Biml to Automate SSIS Design Patterns
 ## Abstract:
@@ -414,7 +414,7 @@ In this session, you will learn:
 #### SessionID: 50364
 # Intelligent Indexing
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-11-2016 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Arvin Meyer
 ## Title: Intelligent Indexing
 ## Abstract:
@@ -423,7 +423,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 50721
 # What’s New in SQL Server 2016 ?
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-11-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gareth Swanepoel
 ## Title: What’s New in SQL Server 2016 ?
 ## Abstract:
@@ -432,7 +432,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 50816
 # R For the SQL Server Developer
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 12-11-2016 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
 ## Abstract:
@@ -441,7 +441,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 51132
 # Hands-on with U-SQL and Azure Data Lake Analytics
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 12-11-2016 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Jason Brugger
 ## Title: Hands-on with U-SQL and Azure Data Lake Analytics
 ## Abstract:
@@ -450,7 +450,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 52655
 # Database Projects: Advanced Topics
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-11-2016 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Jonathon Moorman
 ## Title: Database Projects: Advanced Topics
 ## Abstract:
@@ -459,7 +459,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 54604
 # The DBA Career Path - An Open Discussion
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 12-11-2016 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Andy Warren
 ## Title: The DBA Career Path - An Open Discussion
 ## Abstract:
@@ -468,7 +468,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Professional Developmen
 #### SessionID: 54607
 # Hi, my name is Powershell, let's be friends! An Intro to PoSH
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-11-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Hi, my name is Powershell, let's be friends! An Intro to PoSH
 ## Abstract:
@@ -477,7 +477,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 54624
 # Making Database Development and Deployments Easier With SQL Server Data Too
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-11-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kendal Van Dyke
 ## Title: Making Database Development and Deployments Easier With SQL Server Data Too
 ## Abstract:
@@ -486,7 +486,7 @@ Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 55078
 # Show me whatcha workin' with: Big Data Edition
 #### [Back to calendar](#nr-564)
-Event Date: 12-11-2016 - Session time: 16:30:00 - Track: Advanced Analytics Techniques
+Event Date: 12-11-2016 - Session time: 15:15:00 - Track: Advanced Analytics Techniques
 ## Speaker: Josh Luedeman
 ## Title: Show me whatcha workin' with: Big Data Edition
 ## Abstract:

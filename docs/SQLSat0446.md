@@ -66,7 +66,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 37178
 # Who Has What to Which? (The Permissions Superset)
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
+Event Date: 24-10-2015 - Session time: 09:15:00 - Track: Admin
 ## Speaker: Robert Davis
 ## Title: Who Has What to Which? (The Permissions Superset)
 ## Abstract:
@@ -77,7 +77,7 @@ This exercise will demonstrate why it is important to be strict about granting p
 #### SessionID: 38942
 # How I survived supporting a Java team
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Professional Development
+Event Date: 24-10-2015 - Session time: 09:15:00 - Track: Professional Development
 ## Speaker: Rick Lowe
 ## Title: How I survived supporting a Java team
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Professional Developmen
 #### SessionID: 39631
 # A Programmatic Journey Through SSISDB
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Integration Services
+Event Date: 24-10-2015 - Session time: 09:15:00 - Track: Integration Services
 ## Speaker: Wolfgang Strasser
 ## Title: A Programmatic Journey Through SSISDB
 ## Abstract:
@@ -96,7 +96,7 @@ Concluding, the analysing and reporting aspect of SSISB programmability is shown
 #### SessionID: 40108
 # Every Byte Counts: Why Your Data Type Choices Matter
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Development
+Event Date: 24-10-2015 - Session time: 09:15:00 - Track: Development
 ## Speaker: Andy Yun
 ## Title: Every Byte Counts: Why Your Data Type Choices Matter
 ## Abstract:
@@ -109,7 +109,7 @@ When you leave, you will be able to explain to your colleagues why data type cho
 #### SessionID: 40218
 # Advanced Data Transformations with Power Query
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Business Intelligence
+Event Date: 24-10-2015 - Session time: 09:15:00 - Track: Business Intelligence
 ## Speaker: Reza Rad
 ## Title: Advanced Data Transformations with Power Query
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Business Intelligence
 #### SessionID: 40221
 # A Journey into Azure Machine Learning with R
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Architecture
+Event Date: 24-10-2015 - Session time: 09:15:00 - Track: Architecture
 ## Speaker: Leila Etaati
 ## Title: A Journey into Azure Machine Learning with R
 ## Abstract:
@@ -128,7 +128,7 @@ This session will show how they can use Azure ML to as a data mining tools. They
 #### SessionID: 40274
 # Dealing With Errors in SSIS 2014 
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Integration Services
+Event Date: 24-10-2015 - Session time: 09:15:00 - Track: Integration Services
 ## Speaker: David Dye
 ## Title: Dealing With Errors in SSIS 2014 
 ## Abstract:
@@ -144,7 +144,7 @@ You will learn:
 #### SessionID: 40420
 # Anatomy of an I/O Tuning Exercise
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Tuning
+Event Date: 24-10-2015 - Session time: 09:15:00 - Track: Tuning
 ## Speaker: Theresa Iserman
 ## Title: Anatomy of an I/O Tuning Exercise
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Tuning
 #### SessionID: 37408
 # How to Determine What Data Is Corrupt
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
+Event Date: 24-10-2015 - Session time: 10:30:00 - Track: Admin
 ## Speaker: Frank Gill
 ## Title: How to Determine What Data Is Corrupt
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
 #### SessionID: 38674
 # Choosing Projects for Hadoop in the Cloud
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Architecture
+Event Date: 24-10-2015 - Session time: 10:30:00 - Track: Architecture
 ## Speaker: Cindy Gross
 ## Title: Choosing Projects for Hadoop in the Cloud
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Architecture
 #### SessionID: 38841
 # Slow Query: Bring It On
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Tuning
+Event Date: 24-10-2015 - Session time: 10:30:00 - Track: Tuning
 ## Speaker: Amit Banerjee
 ## Title: Slow Query: Bring It On
 ## Abstract:
@@ -184,7 +184,7 @@ In this session, you will learn about:
 #### SessionID: 39147
 # Extended Events In Real Life
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
+Event Date: 24-10-2015 - Session time: 10:30:00 - Track: Admin
 ## Speaker: Seth Washeck
 ## Title: Extended Events In Real Life
 ## Abstract:
@@ -193,7 +193,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
 #### SessionID: 39874
 # Dynamic SQL: Build Fast, Flexible Queries
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Development
+Event Date: 24-10-2015 - Session time: 10:30:00 - Track: Development
 ## Speaker: Jeremiah Peschka
 ## Title: Dynamic SQL: Build Fast, Flexible Queries
 ## Abstract:
@@ -205,7 +205,7 @@ Jeremiah Peschka has been making extensive use of dynamic SQL throughout his car
 #### SessionID: 40297
 # What is Biml and why are SSIS people talking about it?
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Integration Services
+Event Date: 24-10-2015 - Session time: 10:30:00 - Track: Integration Services
 ## Speaker: Bill Fellows
 ## Title: What is Biml and why are SSIS people talking about it?
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Integration Services
 #### SessionID: 40432
 # Life Lessons in Communication
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Professional Development
+Event Date: 24-10-2015 - Session time: 10:30:00 - Track: Professional Development
 ## Speaker: Tom Roush
 ## Title: Life Lessons in Communication
 ## Abstract:
@@ -229,7 +229,7 @@ After attending, you’ll be on the road to better, more direct communication, w
 #### SessionID: 40523
 # Dimensional Modeling Design Patterns: Beyond Basics
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Features
+Event Date: 24-10-2015 - Session time: 10:30:00 - Track: Features
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond Basics
 ## Abstract:
@@ -238,7 +238,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Features
 #### SessionID: 40950
 # Better Report Development and Management Techniques 
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Business Intelligence
+Event Date: 24-10-2015 - Session time: 10:30:00 - Track: Business Intelligence
 ## Speaker: Ted Stathakis
 ## Title: Better Report Development and Management Techniques 
 ## Abstract:
@@ -247,7 +247,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Business Intelligence
 #### SessionID: 37794
 # S.M.A.R.T. Biml: Standardize, Model, Automate, Reuse and Transform
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Integration Services
+Event Date: 24-10-2015 - Session time: 11:45:00 - Track: Integration Services
 ## Speaker: Cathrine Wilhelmsen
 ## Title: S.M.A.R.T. Biml: Standardize, Model, Automate, Reuse and Transform
 ## Abstract:
@@ -262,7 +262,7 @@ If you already think Biml is powerful, just wait until you have a toolbox full o
 #### SessionID: 38088
 # Revenge: The SQL! - Director's Cut
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
+Event Date: 24-10-2015 - Session time: 11:45:00 - Track: Admin
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL! - Director's Cut
 ## Abstract:
@@ -277,7 +277,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #### SessionID: 38397
 # Designing  Building Highly Available Solutions
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Architecture
+Event Date: 24-10-2015 - Session time: 11:45:00 - Track: Architecture
 ## Speaker: John Martin
 ## Title: Designing  Building Highly Available Solutions
 ## Abstract:
@@ -290,7 +290,7 @@ So no matter whether your systems are cloud resident, on-premises or hybrid we w
 #### SessionID: 38706
 # Distributed Replay: Testing With Your Data, Your Way!
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Tuning
+Event Date: 24-10-2015 - Session time: 11:45:00 - Track: Tuning
 ## Speaker: Melody Zacharias
 ## Title: Distributed Replay: Testing With Your Data, Your Way!
 ## Abstract:
@@ -299,7 +299,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Tuning
 #### SessionID: 38865
 # Hyper-V for SQL Server Virtualization
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Development
+Event Date: 24-10-2015 - Session time: 11:45:00 - Track: Development
 ## Speaker: Allan Hirt
 ## Title: Hyper-V for SQL Server Virtualization
 ## Abstract:
@@ -308,7 +308,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Development
 #### SessionID: 39060
 # Datazen - An overview
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Business Intelligence
+Event Date: 24-10-2015 - Session time: 11:45:00 - Track: Business Intelligence
 ## Speaker: Frank Geisler
 ## Title: Datazen - An overview
 ## Abstract:
@@ -317,7 +317,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Business Intelligence
 #### SessionID: 40004
 # Introduction to Microsoft Azure DocumentDB
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Features
+Event Date: 24-10-2015 - Session time: 11:45:00 - Track: Features
 ## Speaker: Jeff Renz
 ## Title: Introduction to Microsoft Azure DocumentDB
 ## Abstract:
@@ -330,7 +330,7 @@ This session demonstrates how to create a DocumentDB instance in Azure, work wit
 #### SessionID: 40427
 # Azure SQL DB Monitoring  Performance Tuning
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
+Event Date: 24-10-2015 - Session time: 11:45:00 - Track: Admin
 ## Speaker: Julie Koesmarno
 ## Title: Azure SQL DB Monitoring  Performance Tuning
 ## Abstract:
@@ -339,7 +339,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
 #### SessionID: 39472
 # RED GATE: Automating Your Database Deployments
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Architecture
+Event Date: 24-10-2015 - Session time: 13:15:00 - Track: Architecture
 ## Speaker: Grant Fritchey
 ## Title: RED GATE: Automating Your Database Deployments
 ## Abstract:
@@ -351,7 +351,7 @@ In this session, we'll explore the concepts of continuous integration and contin
 #### SessionID: 40231
 # SANDISK: Flash and SQL Server—Re-Thinking Best Practices
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
+Event Date: 24-10-2015 - Session time: 13:15:00 - Track: Admin
 ## Speaker: J May
 ## Title: SANDISK: Flash and SQL Server—Re-Thinking Best Practices
 ## Abstract:
@@ -360,7 +360,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
 #### SessionID: 40332
 # WHERESCAPE: Data Warehouse Automation with WhereScape
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Business Intelligence
+Event Date: 24-10-2015 - Session time: 13:15:00 - Track: Business Intelligence
 ## Speaker: Douglas Barrett
 ## Title: WHERESCAPE: Data Warehouse Automation with WhereScape
 ## Abstract:
@@ -373,7 +373,7 @@ This session will include a demonstration of WhereScape 3D  RED - data warehouse
 #### SessionID: 41507
 # PROFISEE: Accelerate SQL Server Master Data Services with Profisee Maestro
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Business Intelligence
+Event Date: 24-10-2015 - Session time: 13:15:00 - Track: Business Intelligence
 ## Speaker: John McAllister
 ## Title: PROFISEE: Accelerate SQL Server Master Data Services with Profisee Maestro
 ## Abstract:
@@ -387,7 +387,7 @@ Come see how Profisee Maestro can take your MDS implementation from the departme
 #### SessionID: 41635
 # DH2i: Stand-alone to High-Availability Clusters in Minutes
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
+Event Date: 24-10-2015 - Session time: 13:15:00 - Track: Admin
 ## Speaker: OJ Ngo
 ## Title: DH2i: Stand-alone to High-Availability Clusters in Minutes
 ## Abstract:
@@ -396,7 +396,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
 #### SessionID: 41648
 # CISCO: Lowering IT Complexity, Addressing SQL Server Management C
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
+Event Date: 24-10-2015 - Session time: 13:15:00 - Track: Admin
 ## Speaker: John McAbel
 ## Title: CISCO: Lowering IT Complexity, Addressing SQL Server Management C
 ## Abstract:
@@ -405,7 +405,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
 #### SessionID: 41657
 # PERNIXDATA: 'Leveraging In-Memory Computing Underneath Virtual SQ
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
+Event Date: 24-10-2015 - Session time: 13:15:00 - Track: Admin
 ## Speaker: David Klee
 ## Title: PERNIXDATA: 'Leveraging In-Memory Computing Underneath Virtual SQ
 ## Abstract:
@@ -417,7 +417,7 @@ PernixData FVP solves these challenges by turning in-memory computing into an in
 #### SessionID: 41665
 # Moving Beyond Unconscious Bias
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
+Event Date: 24-10-2015 - Session time: 13:15:00 - Track: Admin
 ## Speaker: Misc Speakers
 ## Title: Moving Beyond Unconscious Bias
 ## Abstract:
@@ -426,7 +426,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
 #### SessionID: 41683
 # MICROSOFT: SQL Server Stretch Database 
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
+Event Date: 24-10-2015 - Session time: 13:15:00 - Track: Admin
 ## Speaker: Anthony van Gemert
 ## Title: MICROSOFT: SQL Server Stretch Database 
 ## Abstract:
@@ -437,7 +437,7 @@ Come find out how you can move your data securely and transparently, free up dis
 #### SessionID: 37171
 # Detect Worst Performing SQL Queries During Peak Hour
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Tuning
+Event Date: 24-10-2015 - Session time: 14:15:00 - Track: Tuning
 ## Speaker: Prakash Heda
 ## Title: Detect Worst Performing SQL Queries During Peak Hour
 ## Abstract:
@@ -450,7 +450,7 @@ In this session, Prakash walks you through with scenario  demos to find which ex
 #### SessionID: 37510
 # Optimizing desktop Power Pivot models using Power Query
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Business Intelligence
+Event Date: 24-10-2015 - Session time: 14:15:00 - Track: Business Intelligence
 ## Speaker: Ken Puls
 ## Title: Optimizing desktop Power Pivot models using Power Query
 ## Abstract:
@@ -461,7 +461,7 @@ In this session we’ll explore the things you can do to increase your Power Piv
 #### SessionID: 38454
 # Reliable data consistency with constraints and access layers
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Development
+Event Date: 24-10-2015 - Session time: 14:15:00 - Track: Development
 ## Speaker: Uwe Ricken
 ## Title: Reliable data consistency with constraints and access layers
 ## Abstract:
@@ -472,7 +472,7 @@ Control data access by using dedicated access methods with stored procedures and
 #### SessionID: 38669
 # PowerShell for Absolute Beginnners
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: PowerShell
+Event Date: 24-10-2015 - Session time: 14:15:00 - Track: PowerShell
 ## Speaker: Michael Wells
 ## Title: PowerShell for Absolute Beginnners
 ## Abstract:
@@ -481,7 +481,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: PowerShell
 #### SessionID: 38735
 # Enterprise Auditing with SQL Server Audit
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Features
+Event Date: 24-10-2015 - Session time: 14:15:00 - Track: Features
 ## Speaker: Colleen Morrow
 ## Title: Enterprise Auditing with SQL Server Audit
 ## Abstract:
@@ -494,7 +494,7 @@ Whether it's through the SQL Server Management Studio (SSMS) interface, via T-SQ
 #### SessionID: 39202
 # Top 5 SQL Server 2016 Hybrid Cloud Features
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Architecture
+Event Date: 24-10-2015 - Session time: 14:15:00 - Track: Architecture
 ## Speaker: Scott Klein
 ## Title: Top 5 SQL Server 2016 Hybrid Cloud Features
 ## Abstract:
@@ -503,7 +503,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Architecture
 #### SessionID: 39380
 # A Concept for Clean Reporting: Information Design Rules for SSRS and R
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Reporting Services
+Event Date: 24-10-2015 - Session time: 14:15:00 - Track: Reporting Services
 ## Speaker: Gabi Münster
 ## Title: A Concept for Clean Reporting: Information Design Rules for SSRS and R
 ## Abstract:
@@ -512,7 +512,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Reporting Services
 #### SessionID: 40174
 # SQL Server Storage Engine under the hood 
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
+Event Date: 24-10-2015 - Session time: 14:15:00 - Track: Admin
 ## Speaker: Thomas Grohser
 ## Title: SQL Server Storage Engine under the hood 
 ## Abstract:
@@ -527,7 +527,7 @@ Which I/O Subsystems (including SSD) are best for which type of data and what's 
 #### SessionID: 41506
 # Performance Clinic
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Features
+Event Date: 24-10-2015 - Session time: 14:15:00 - Track: Features
 ## Speaker: Misc Speakers
 ## Title: Performance Clinic
 ## Abstract:
@@ -536,7 +536,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Features
 #### SessionID: 38373
 # The DBA with his Head in the Clouds
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Admin
+Event Date: 24-10-2015 - Session time: 15:30:00 - Track: Admin
 ## Speaker: Martin Cairney
 ## Title: The DBA with his Head in the Clouds
 ## Abstract:
@@ -547,7 +547,7 @@ In this session we will compare the core features of Azure SQL Database against 
 #### SessionID: 38377
 # SQL Server Security Basics
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Reporting Services
+Event Date: 24-10-2015 - Session time: 15:30:00 - Track: Reporting Services
 ## Speaker: Bob Pusateri
 ## Title: SQL Server Security Basics
 ## Abstract:
@@ -556,7 +556,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Reporting Services
 #### SessionID: 38481
 # Power BI is Awesome!
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Business Intelligence
+Event Date: 24-10-2015 - Session time: 15:30:00 - Track: Business Intelligence
 ## Speaker: Steve Wake
 ## Title: Power BI is Awesome!
 ## Abstract:
@@ -565,7 +565,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Business Intelligence
 #### SessionID: 39227
 # Treating Tables Like Legos, Partitioning Basics
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Architecture
+Event Date: 24-10-2015 - Session time: 15:30:00 - Track: Architecture
 ## Speaker: Brandon Leach
 ## Title: Treating Tables Like Legos, Partitioning Basics
 ## Abstract:
@@ -576,7 +576,7 @@ In this 75 minute session we’ll go over basic partitioning concepts such as ho
 #### SessionID: 39434
 # SSRS 101 – Creating Reports For Diagnostic Data
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Reporting Services
+Event Date: 24-10-2015 - Session time: 15:30:00 - Track: Reporting Services
 ## Speaker: Mickey Stuewe
 ## Title: SSRS 101 – Creating Reports For Diagnostic Data
 ## Abstract:
@@ -585,7 +585,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Reporting Services
 #### SessionID: 40254
 # Improve your Database Performance in Seven Simple Steps
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Tuning
+Event Date: 24-10-2015 - Session time: 15:30:00 - Track: Tuning
 ## Speaker: Hugo Kornelis
 ## Title: Improve your Database Performance in Seven Simple Steps
 ## Abstract:
@@ -596,7 +596,7 @@ This session will show you seven simple things, that might alleviate most of you
 #### SessionID: 40422
 # Beginning Automation with Powershell
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: PowerShell
+Event Date: 24-10-2015 - Session time: 15:30:00 - Track: PowerShell
 ## Speaker: Amy Herold
 ## Title: Beginning Automation with Powershell
 ## Abstract:
@@ -605,7 +605,7 @@ Event Date: 24-10-2015 - Session time: 16:45:00 - Track: PowerShell
 #### SessionID: 40431
 # The TSQL Review for the Busy Data Professional
 #### [Back to calendar](#nr-446)
-Event Date: 24-10-2015 - Session time: 16:45:00 - Track: Development
+Event Date: 24-10-2015 - Session time: 15:30:00 - Track: Development
 ## Speaker: Carlos L Chacon
 ## Title: The TSQL Review for the Busy Data Professional
 ## Abstract:

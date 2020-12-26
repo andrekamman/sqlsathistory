@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 49295
 # The Query Store and Query Tuning in SQL Server
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Database Administration
+Event Date: 03-09-2016 - Session time: 09:00:00 - Track: Database Administration
 ## Speaker: Grant Fritchey
 ## Title: The Query Store and Query Tuning in SQL Server
 ## Abstract:
@@ -44,7 +44,7 @@ Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Database Administration
 #### SessionID: 49357
 # Entity Framework, from a database perspective
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Database Development
+Event Date: 03-09-2016 - Session time: 09:00:00 - Track: Database Development
 ## Speaker: Mattias Lind
 ## Title: Entity Framework, from a database perspective
 ## Abstract:
@@ -53,7 +53,7 @@ Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Database Development
 #### SessionID: 50068
 # Branding Yourself for a Dream Job
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Other
+Event Date: 03-09-2016 - Session time: 09:00:00 - Track: Other
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Other
 #### SessionID: 50791
 # Can Power BI Replace SSRS and should you
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: BI Analytics and Visualization
+Event Date: 03-09-2016 - Session time: 09:00:00 - Track: BI Analytics and Visualization
 ## Speaker: Erik Svensen
 ## Title: Can Power BI Replace SSRS and should you
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 03-09-2016 - Session time: 15:20:00 - Track: BI Analytics and Visual
 #### SessionID: 51026
 # How to load your data faster and safer using Change Tracking in SQL Server
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: BI Architecture and Development
+Event Date: 03-09-2016 - Session time: 09:00:00 - Track: BI Architecture and Development
 ## Speaker: Antonio Abalos Castillo
 ## Title: How to load your data faster and safer using Change Tracking in SQL Server
 ## Abstract:
@@ -82,7 +82,7 @@ It can start very simple, but get as complicated as one can imagine. Since SQL S
 #### SessionID: 48538
 # SQL Server and PowerShell: Let's Get Serious
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Database Administration
+Event Date: 03-09-2016 - Session time: 10:20:00 - Track: Database Administration
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Database Administration
 #### SessionID: 48679
 # SQL Server High Availability for Virtualized and Cloud Deployments
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Azure and Cloud Services
+Event Date: 03-09-2016 - Session time: 10:20:00 - Track: Azure and Cloud Services
 ## Speaker: John Martin
 ## Title: SQL Server High Availability for Virtualized and Cloud Deployments
 ## Abstract:
@@ -102,7 +102,7 @@ In this session I will help you understand some of the main issues that can aris
 #### SessionID: 49731
 # Dimensional Modeling Design Patterns: Beyond the Basics
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: BI Architecture and Development
+Event Date: 03-09-2016 - Session time: 10:20:00 - Track: BI Architecture and Development
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond the Basics
 ## Abstract:
@@ -112,7 +112,7 @@ In this session, we will dive deeper into the art of dimensional modeling. We wi
 #### SessionID: 50295
 # SQL Server Foreign Keys – De-mystifying the Rest of the Story
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Database Development
+Event Date: 03-09-2016 - Session time: 10:20:00 - Track: Database Development
 ## Speaker: Mike Byrd
 ## Title: SQL Server Foreign Keys – De-mystifying the Rest of the Story
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Database Development
 #### SessionID: 50956
 # Predictive maintenance in aerospace with Cortana Intelligence Suite
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: BI Analytics and Visualization
+Event Date: 03-09-2016 - Session time: 10:20:00 - Track: BI Analytics and Visualization
 ## Speaker: Erik Flateby
 ## Title: Predictive maintenance in aerospace with Cortana Intelligence Suite
 ## Abstract:
@@ -130,7 +130,7 @@ Event Date: 03-09-2016 - Session time: 15:20:00 - Track: BI Analytics and Visual
 #### SessionID: 47523
 # Data Science and Machine Learning with Azure - Experiences from the field
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: BI Analytics and Visualization
+Event Date: 03-09-2016 - Session time: 11:40:00 - Track: BI Analytics and Visualization
 ## Speaker: Kjetil Åmdal-Sævik
 ## Title: Data Science and Machine Learning with Azure - Experiences from the field
 ## Abstract:
@@ -141,7 +141,7 @@ This sounds scary and initimidating, but it really isn't. We're going to prove t
 #### SessionID: 48107
 # Social Engineering: Hacking People
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Other
+Event Date: 03-09-2016 - Session time: 11:40:00 - Track: Other
 ## Speaker: Mladen Prajdić
 ## Title: Social Engineering: Hacking People
 ## Abstract:
@@ -155,7 +155,7 @@ in this session we're going to try to fix that and educate you on how to realize
 #### SessionID: 48472
 # Dive into SSIS Catalog and SSISDB using PowerBI
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: BI Architecture and Development
+Event Date: 03-09-2016 - Session time: 11:40:00 - Track: BI Architecture and Development
 ## Speaker: Prathy Kamasani
 ## Title: Dive into SSIS Catalog and SSISDB using PowerBI
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 03-09-2016 - Session time: 15:20:00 - Track: BI Architecture and Dev
 #### SessionID: 49177
 # Re-architecting your old-school database to maximize Azure cloud options
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Azure and Cloud Services
+Event Date: 03-09-2016 - Session time: 11:40:00 - Track: Azure and Cloud Services
 ## Speaker: André Kamman
 ## Title: Re-architecting your old-school database to maximize Azure cloud options
 ## Abstract:
@@ -180,7 +180,7 @@ This excercise is about an OLTP system but we will also look at how it affects l
 #### SessionID: 51066
 # SQL Server 2016 - is it worth the upgrade?
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Database Administration
+Event Date: 03-09-2016 - Session time: 11:40:00 - Track: Database Administration
 ## Speaker: William Durkin
 ## Title: SQL Server 2016 - is it worth the upgrade?
 ## Abstract:
@@ -191,7 +191,7 @@ Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Database Administration
 #### SessionID: 53930
 # Improve Data Quality: BI Value through Master Data Management
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Other
+Event Date: 03-09-2016 - Session time: 13:00:00 - Track: Other
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: Improve Data Quality: BI Value through Master Data Management
 ## Abstract:
@@ -202,7 +202,7 @@ Speaker: Denzil Murray-Lee, Profisee
 #### SessionID: 54023
 # EVRY - How is it to be recent graduated and new in our company?
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Other
+Event Date: 03-09-2016 - Session time: 13:00:00 - Track: Other
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: EVRY - How is it to be recent graduated and new in our company?
 ## Abstract:
@@ -215,7 +215,7 @@ Speaker: Andreas Rød-Løkkevol, EVRY
 #### SessionID: 54075
 # Old Dog, New tricks: Swiss Army Tool for Big Data Zoo survival
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Other
+Event Date: 03-09-2016 - Session time: 13:00:00 - Track: Other
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: Old Dog, New tricks: Swiss Army Tool for Big Data Zoo survival
 ## Abstract:
@@ -226,7 +226,7 @@ Speaker: Are Skaar, NextBridge
 #### SessionID: 47017
 # Scripting Tabular Models
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: BI Analytics and Visualization
+Event Date: 03-09-2016 - Session time: 14:00:00 - Track: BI Analytics and Visualization
 ## Speaker: Bent Pedersen
 ## Title: Scripting Tabular Models
 ## Abstract:
@@ -237,7 +237,7 @@ During this session I will go through and explain some examples on generating a 
 #### SessionID: 49294
 # Azure SQL Database for the DBA
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Azure and Cloud Services
+Event Date: 03-09-2016 - Session time: 14:00:00 - Track: Azure and Cloud Services
 ## Speaker: Grant Fritchey
 ## Title: Azure SQL Database for the DBA
 ## Abstract:
@@ -246,7 +246,7 @@ Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Azure and Cloud Service
 #### SessionID: 49958
 # SSIS: Supercharge your data flows
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: BI Architecture and Development
+Event Date: 03-09-2016 - Session time: 14:00:00 - Track: BI Architecture and Development
 ## Speaker: Alex Whittles
 ## Title: SSIS: Supercharge your data flows
 ## Abstract:
@@ -259,7 +259,7 @@ We will also look at some simple c# workarounds to common SSIS bottlenecks.
 #### SessionID: 50069
 # Continuous Integration for Databases
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Database Development
+Event Date: 03-09-2016 - Session time: 14:00:00 - Track: Database Development
 ## Speaker: Steve Jones
 ## Title: Continuous Integration for Databases
 ## Abstract:
@@ -268,7 +268,7 @@ Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Database Development
 #### SessionID: 51067
 # You don't need Enterprise Edition to do that!
 #### [Back to calendar](#nr-532)
-Event Date: 03-09-2016 - Session time: 15:20:00 - Track: Database Administration
+Event Date: 03-09-2016 - Session time: 14:00:00 - Track: Database Administration
 ## Speaker: William Durkin
 ## Title: You don't need Enterprise Edition to do that!
 ## Abstract:

@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 37939
 # Execution Plans: What Can You Do With Them?
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 19-09-2015 - Session time: 08:45:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Execution Plans: What Can You Do With Them?
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 37991
 # SQL 2016 Changes and Enhancements for BI and Beyond
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 19-09-2015 - Session time: 08:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Charles Hyman
 ## Title: SQL 2016 Changes and Enhancements for BI and Beyond
 ## Abstract:
@@ -80,7 +80,7 @@ projec
 #### SessionID: 38081
 # Building Perfect SQL Servers, Every Time
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-09-2015 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joseph D'Antoni
 ## Title: Building Perfect SQL Servers, Every Time
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 40246
 # Configuring SQL Server for a successful SharePoint Server Deployment
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-09-2015 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Haaron Gonzalez
 ## Title: Configuring SQL Server for a successful SharePoint Server Deployment
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 40531
 # Changing Your Habits to Improve the Performance of Your T-SQL
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 19-09-2015 - Session time: 08:45:00 - Track: Application  Database Development
 ## Speaker: Mickey Stuewe
 ## Title: Changing Your Habits to Improve the Performance of Your T-SQL
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 37938
 # The Database: The Elephant in the ALM Room
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 19-09-2015 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: The Database: The Elephant in the ALM Room
 ## Abstract:
@@ -117,7 +117,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 38080
 # In-Memory Columnstore Indexes--Make Your Data Warehouse Fly 
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 19-09-2015 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joseph D'Antoni
 ## Title: In-Memory Columnstore Indexes--Make Your Data Warehouse Fly 
 ## Abstract:
@@ -126,7 +126,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 39570
 # Data Modeling for Integration of RDBMS with NOSQL
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 19-09-2015 - Session time: 10:00:00 - Track: Strategy and Architecture
 ## Speaker: Daniel Upton
 ## Title: Data Modeling for Integration of RDBMS with NOSQL
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 40171
 # Master Data Management with SQL Master Data Services (MDS) and Maestro
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Information Delivery
+Event Date: 19-09-2015 - Session time: 10:00:00 - Track: Information Delivery
 ## Speaker: Pam Matthews
 ## Title: Master Data Management with SQL Master Data Services (MDS) and Maestro
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Information Delivery
 #### SessionID: 40530
 # Silent Killers Lurking in Your Database Design
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 19-09-2015 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Mickey Stuewe
 ## Title: Silent Killers Lurking in Your Database Design
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 40562
 # Universal SQL Installations - Part 1
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-09-2015 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prakash Heda
 ## Title: Universal SQL Installations - Part 1
 ## Abstract:
@@ -164,7 +164,7 @@ Session 2 will cover script review and demo...
 #### SessionID: 37255
 # Physical Join Operators
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 19-09-2015 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: Ami Levin
 ## Title: Physical Join Operators
 ## Abstract:
@@ -173,7 +173,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 37316
 # Universal SQL Installations – Script Review  Demo
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-09-2015 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prakash Heda
 ## Title: Universal SQL Installations – Script Review  Demo
 ## Abstract:
@@ -189,7 +189,7 @@ You’ll see PowerShell scripts where a single line script can install any of th
 #### SessionID: 37644
 # SQL 2012 Programmability Enhancements
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 19-09-2015 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: Andrew Karcher
 ## Title: SQL 2012 Programmability Enhancements
 ## Abstract:
@@ -198,7 +198,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 38893
 # Murder They Wrote
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-09-2015 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Murder They Wrote
 ## Abstract:
@@ -207,7 +207,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 40415
 # Monster Text Manipulation: Regular Expressions for the DBA
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-09-2015 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
 ## Abstract:
@@ -222,7 +222,7 @@ Here you’ll learn:
 #### SessionID: 40581
 # Understanding Parameter Sniffing
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 19-09-2015 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
 ## Abstract:
@@ -231,7 +231,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 37256
 # Where did I put my (primary) keys?
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 19-09-2015 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Ami Levin
 ## Title: Where did I put my (primary) keys?
 ## Abstract:
@@ -241,7 +241,7 @@ We will consider the benefits and challenges of using different types of keys - 
 #### SessionID: 37643
 # A NoSQL Primer for the SQL Server Developer
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 19-09-2015 - Session time: 13:30:00 - Track: Strategy and Architecture
 ## Speaker: Andrew Karcher
 ## Title: A NoSQL Primer for the SQL Server Developer
 ## Abstract:
@@ -254,7 +254,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 37732
 # DBA Monitoring and Maintenance Fundamentals
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-09-2015 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warren Sifre
 ## Title: DBA Monitoring and Maintenance Fundamentals
 ## Abstract:
@@ -263,7 +263,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 38880
 # Extended Events - Better than Profiler
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-09-2015 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Extended Events - Better than Profiler
 ## Abstract:
@@ -272,7 +272,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 39798
 # Building Your Way to Better Database Testing
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 19-09-2015 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Phil Helmer
 ## Title: Building Your Way to Better Database Testing
 ## Abstract:
@@ -282,7 +282,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 40416
 # Minion Maintenance and Backup Solutions
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-09-2015 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Minion Maintenance and Backup Solutions
 ## Abstract:
@@ -304,7 +304,7 @@ Minion Backup scales to the size of your enterprise, from one to thousands of in
 #### SessionID: 40579
 # Dive into the Query Optimizer - Undocumented Insight
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 19-09-2015 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer - Undocumented Insight
 ## Abstract:
@@ -313,7 +313,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 37414
 # Database Administration for the non-DBA
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-09-2015 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Denny Cherry
 ## Title: Database Administration for the non-DBA
 ## Abstract:
@@ -324,7 +324,7 @@ While this session won't teach you everything you need to know, it will give you
 #### SessionID: 38895
 # A Masters Passport to Extended Events
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-09-2015 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: A Masters Passport to Extended Events
 ## Abstract:
@@ -337,7 +337,7 @@ This session on Extended Events will help prepare you to put this tool to immedi
 #### SessionID: 39405
 # Understanding the SQL Server Transaction Log
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 19-09-2015 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Randy Knight
 ## Title: Understanding the SQL Server Transaction Log
 ## Abstract:
@@ -346,7 +346,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 39939
 # Code Sins
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 19-09-2015 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Code Sins
 ## Abstract:
@@ -355,7 +355,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 40234
 # Introduction to SQL Server Reporting Services
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 19-09-2015 - Session time: 14:45:00 - Track: BI Information Delivery
 ## Speaker: Ted Stathakis
 ## Title: Introduction to SQL Server Reporting Services
 ## Abstract:
@@ -364,7 +364,7 @@ Event Date: 19-09-2015 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 40849
 # Architectural Designs Driving SQL Server Performance  Availability
 #### [Back to calendar](#nr-449)
-Event Date: 19-09-2015 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 19-09-2015 - Session time: 14:45:00 - Track: Strategy and Architecture
 ## Speaker: Sumeet Bansal
 ## Title: Architectural Designs Driving SQL Server Performance  Availability
 ## Abstract:

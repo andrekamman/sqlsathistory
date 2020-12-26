@@ -59,7 +59,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 46899
 # Introduction to Azure Streaming Analytics
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 13-08-2016 - Session time: 08:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Streaming Analytics
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 46906
 # DBA 102: Now What
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 08:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: DBA 102: Now What
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 48317
 # Stretch Database and Managed Backups: Cloud Services for your SQL Servers
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 08:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Loree
 ## Title: Stretch Database and Managed Backups: Cloud Services for your SQL Servers
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 48411
 # Why “R” you not leveraging the power of “R” in Power BI?!?
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-08-2016 - Session time: 08:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Wade
 ## Title: Why “R” you not leveraging the power of “R” in Power BI?!?
 ## Abstract:
@@ -97,7 +97,7 @@ In this session I will focus on the benefits of using R in Power BI. I will show
 #### SessionID: 50647
 # Scalable Application Design with Service Broker
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 13-08-2016 - Session time: 08:00:00 - Track: Application  Database Development
 ## Speaker: Allen White
 ## Title: Scalable Application Design with Service Broker
 ## Abstract:
@@ -106,7 +106,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 50690
 # Azure, PowerShell, and SQL Server Virtual Machines
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 08:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Azure, PowerShell, and SQL Server Virtual Machines
 ## Abstract:
@@ -115,7 +115,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 50701
 # SQLStarter - Intro to Big Data
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: SQLStarter Beginner 
+Event Date: 13-08-2016 - Session time: 08:00:00 - Track: SQLStarter Beginner 
 ## Speaker: Josh Fennessy
 ## Title: SQLStarter - Intro to Big Data
 ## Abstract:
@@ -124,7 +124,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: SQLStarter Beginner
 #### SessionID: 52413
 # ORMs… can’t live with ‘em, can’t kill ‘em.
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 13-08-2016 - Session time: 08:00:00 - Track: Application  Database Development
 ## Speaker: Aaron King
 ## Title: ORMs… can’t live with ‘em, can’t kill ‘em.
 ## Abstract:
@@ -137,7 +137,7 @@ We’ll take a look at code first development, advanced querying techniques, con
 #### SessionID: 46955
 # Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 13-08-2016 - Session time: 09:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 47096
 # Word Up: Text Mining in SQL
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 13-08-2016 - Session time: 09:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dave Mattingly
 ## Title: Word Up: Text Mining in SQL
 ## Abstract:
@@ -159,7 +159,7 @@ Learn how to dig through your library of language to make your data better.
 #### SessionID: 47362
 # Adding Lightness: Better Performance Through Compression
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 13-08-2016 - Session time: 09:15:00 - Track: Application  Database Development
 ## Speaker: Jay Robinson
 ## Title: Adding Lightness: Better Performance Through Compression
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 48534
 # SQL Server and PowerShell: Let's Get Serious
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
 ## Abstract:
@@ -177,7 +177,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 48962
 # Wait Statistics - The Top 5 Waits You Should Know
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Wait Statistics - The Top 5 Waits You Should Know
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 49155
 # Availability Groups 101: An Introduction
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adam Belebczuk
 ## Title: Availability Groups 101: An Introduction
 ## Abstract:
@@ -195,7 +195,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 50705
 # SQLStarter - Intro to Data Science
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: SQLStarter Beginner 
+Event Date: 13-08-2016 - Session time: 09:15:00 - Track: SQLStarter Beginner 
 ## Speaker: Dave Leininger
 ## Title: SQLStarter - Intro to Data Science
 ## Abstract:
@@ -205,7 +205,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: SQLStarter Beginner
 #### SessionID: 51230
 # Power BI  SharePoint - A Marriage Made in Redmond
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-08-2016 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Glenn
 ## Title: Power BI  SharePoint - A Marriage Made in Redmond
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 47409
 # Learning and Optimizing the SQL Server Plan Cache
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 13-08-2016 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Kevin Kline
 ## Title: Learning and Optimizing the SQL Server Plan Cache
 ## Abstract:
@@ -230,7 +230,7 @@ If you don’t know much about SQL Server memory management, especially if you w
 #### SessionID: 50114
 # An introduction to the magical world of BIML!
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-08-2016 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
 ## Abstract:
@@ -239,7 +239,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 50216
 # Performance Pitfalls from Code Reuse
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 13-08-2016 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: Performance Pitfalls from Code Reuse
 ## Abstract:
@@ -250,7 +250,7 @@ Come to this session and learn why applying object-oriented principles can be ex
 #### SessionID: 50340
 # SQL Server Encryption
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: SQL Server Encryption
 ## Abstract:
@@ -259,7 +259,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 50437
 # Using Powershell to Automate Your Restore Strategy
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Frank Gill
 ## Title: Using Powershell to Automate Your Restore Strategy
 ## Abstract:
@@ -268,7 +268,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 50481
 # Using SQL Nexus for system health
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Wendy Pastrick
 ## Title: Using SQL Nexus for system health
 ## Abstract:
@@ -277,7 +277,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 50703
 # SQLStarter - Intro to DBA
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: SQLStarter Beginner 
+Event Date: 13-08-2016 - Session time: 10:30:00 - Track: SQLStarter Beginner 
 ## Speaker: David Maxwell
 ## Title: SQLStarter - Intro to DBA
 ## Abstract:
@@ -286,7 +286,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: SQLStarter Beginner
 #### SessionID: 51158
 # Data, Statistics, and R Integration with BI...Why you should care!
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 13-08-2016 - Session time: 10:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dustin Elery
 ## Title: Data, Statistics, and R Integration with BI...Why you should care!
 ## Abstract:
@@ -295,7 +295,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 46883
 # What's new in SQL Server 2016
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ross LoForte
 ## Title: What's new in SQL Server 2016
 ## Abstract:
@@ -305,7 +305,7 @@ SQL Server 2016 delivers breakthrough mission-critical capabilities with in-memo
 #### SessionID: 52550
 # SQLStarter - Certification/Recruiter Discussion
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: SQLStarter Beginner 
+Event Date: 13-08-2016 - Session time: 11:45:00 - Track: SQLStarter Beginner 
 ## Speaker: John Deardurff
 ## Title: SQLStarter - Certification/Recruiter Discussion
 ## Abstract:
@@ -314,7 +314,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: SQLStarter Beginner
 #### SessionID: 53666
 # Pyramid Analytics BI to Transform into a Data-Driven Organization
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Other
+Event Date: 13-08-2016 - Session time: 11:45:00 - Track: Other
 ## Speaker: Andrew Mauch
 ## Title: Pyramid Analytics BI to Transform into a Data-Driven Organization
 ## Abstract:
@@ -328,7 +328,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Other
 #### SessionID: 53776
 # Maximizing Microsoft SQL Server Storage Investments
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Other
+Event Date: 13-08-2016 - Session time: 11:45:00 - Track: Other
 ## Speaker: Tom Spreacker
 ## Title: Maximizing Microsoft SQL Server Storage Investments
 ## Abstract:
@@ -339,7 +339,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Other
 #### SessionID: 46907
 # Infrastructure for the DBA: An Introduction
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: Infrastructure for the DBA: An Introduction
 ## Abstract:
@@ -348,7 +348,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 48543
 # Clusters! From the ground up, let us build one together
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Popovich Jr
 ## Title: Clusters! From the ground up, let us build one together
 ## Abstract:
@@ -358,7 +358,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 49998
 # SSAS 2016 Tabular - Diving into the new features
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-08-2016 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Beswick
 ## Title: SSAS 2016 Tabular - Diving into the new features
 ## Abstract:
@@ -367,7 +367,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 50564
 # Using PowerPivot in MS Excel to analyze SQL Server Data
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 13-08-2016 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: Wylie Blanchard
 ## Title: Using PowerPivot in MS Excel to analyze SQL Server Data
 ## Abstract:
@@ -376,7 +376,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 50704
 # SQLStarter - Intro to Database Development
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: SQLStarter Beginner 
+Event Date: 13-08-2016 - Session time: 13:00:00 - Track: SQLStarter Beginner 
 ## Speaker: Kevin Kline
 ## Title: SQLStarter - Intro to Database Development
 ## Abstract:
@@ -389,7 +389,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: SQLStarter Beginner
 #### SessionID: 51207
 # Execution Plans for Mere Mortals
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
 ## Abstract:
@@ -407,7 +407,7 @@ Sections:
 #### SessionID: 52351
 # Web APIs for the BI Developer
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 13-08-2016 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Chris Koester
 ## Title: Web APIs for the BI Developer
 ## Abstract:
@@ -416,7 +416,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 52367
 # Explore the Microsoft Azure Data Landscape
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 13-08-2016 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Bradley Nielsen
 ## Title: Explore the Microsoft Azure Data Landscape
 ## Abstract:
@@ -425,7 +425,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 46903
 # All things you need to know before you start setting up SQL AlwaysOn
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Steineke
 ## Title: All things you need to know before you start setting up SQL AlwaysOn
 ## Abstract:
@@ -435,7 +435,7 @@ This session will review all the gotcha’s and things you need to know before y
 #### SessionID: 50455
 # Overcoming Chartaphobia with Power BI
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 13-08-2016 - Session time: 14:15:00 - Track: BI Information Delivery
 ## Speaker: Meagan Longoria
 ## Title: Overcoming Chartaphobia with Power BI
 ## Abstract:
@@ -445,7 +445,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 50874
 # SQLStarter - Intro to BI
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: SQLStarter Beginner 
+Event Date: 13-08-2016 - Session time: 14:15:00 - Track: SQLStarter Beginner 
 ## Speaker: Jim Bennett
 ## Title: SQLStarter - Intro to BI
 ## Abstract:
@@ -454,7 +454,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: SQLStarter Beginner
 #### SessionID: 51019
 # Speed Up Your SSAS Cube's Data Refresh With Dynamic Partition Processing
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-08-2016 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeremy Frye
 ## Title: Speed Up Your SSAS Cube's Data Refresh With Dynamic Partition Processing
 ## Abstract:
@@ -463,7 +463,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 52285
 # Data Architecture 101
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 13-08-2016 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: Data Architecture 101
 ## Abstract:
@@ -476,7 +476,7 @@ This presentation is a survey of Data Architecture for the Intermediate DBA, it 
 #### SessionID: 52295
 # SQL Server 2016 "Hidden Gems"
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 13-08-2016 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Adam Machanic
 ## Title: SQL Server 2016 "Hidden Gems"
 ## Abstract:
@@ -485,7 +485,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 52345
 # Connecting Power BI to On-Prem Data with SSAS
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 13-08-2016 - Session time: 14:15:00 - Track: BI Information Delivery
 ## Speaker: Kerry Tyler
 ## Title: Connecting Power BI to On-Prem Data with SSAS
 ## Abstract:
@@ -494,7 +494,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 52392
 # Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
 ## Abstract:
@@ -503,7 +503,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 52750
 # Making the Accidental DBA Look Good: Ten Insights You Need to Hav
 #### [Back to calendar](#nr-530)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Ford
 ## Title: Making the Accidental DBA Look Good: Ten Insights You Need to Hav
 ## Abstract:

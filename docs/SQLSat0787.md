@@ -33,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 82586
 # Powering Up with Power BI (Pre-Con)
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: PreCon1
+Event Date: 18-08-2018 - Session time: 09:00:00 - Track: PreCon1
 ## Speaker: Brian Larson
 ## Title: Powering Up with Power BI (Pre-Con)
 ## Abstract:
@@ -53,7 +53,7 @@ https://www.eventbrite.com/e/sqlsaturday-sioux-falls-pre-conference-tickets-4594
 #### SessionID: 82591
 # SQL Server Tools for Query Tuning (Pre-Con)
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: PreCon3
+Event Date: 18-08-2018 - Session time: 09:00:00 - Track: PreCon3
 ## Speaker: Grant Fritchey
 ## Title: SQL Server Tools for Query Tuning (Pre-Con)
 ## Abstract:
@@ -67,7 +67,7 @@ https://www.eventbrite.com/e/sqlsaturday-sioux-falls-pre-conference-tickets-4594
 #### SessionID: 82034
 # Getting Started with Power Query
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Advanced Analysis Techniques
+Event Date: 18-08-2018 - Session time: 08:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Shawn Dorward
 ## Title: Getting Started with Power Query
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Advanced Analysis Techn
 #### SessionID: 82075
 # Intro to Powershell for the SQL Server DBA
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-08-2018 - Session time: 08:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Galbraith
 ## Title: Intro to Powershell for the SQL Server DBA
 ## Abstract:
@@ -85,7 +85,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 82895
 # The Power of Data: The Complete Beginners Data Warehouse Kit
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-08-2018 - Session time: 08:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data: The Complete Beginners Data Warehouse Kit
 ## Abstract:
@@ -94,7 +94,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Platform Architectur
 #### SessionID: 83024
 # JSON for the Data Mortals
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 18-08-2018 - Session time: 08:00:00 - Track: Application  Database Development
 ## Speaker: Jim Dorame
 ## Title: JSON for the Data Mortals
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database D
 #### SessionID: 82091
 # An (Advanced) Introduction to Dax
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Information Delivery
+Event Date: 18-08-2018 - Session time: 09:25:00 - Track: BI Information Delivery
 ## Speaker: Eugene Meidinger
 ## Title: An (Advanced) Introduction to Dax
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Information Delivery
 #### SessionID: 82170
 # Difficult Queries
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 18-08-2018 - Session time: 09:25:00 - Track: Application  Database Development
 ## Speaker: Rick Bielawski
 ## Title: Difficult Queries
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database D
 #### SessionID: 82589
 # Extending DevOps To SQL Server
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 18-08-2018 - Session time: 09:25:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Extending DevOps To SQL Server
 ## Abstract:
@@ -130,7 +130,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database D
 #### SessionID: 83005
 # Learn History from Temporal Tables
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-08-2018 - Session time: 09:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: Learn History from Temporal Tables
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 82533
 # Mom Rules for Managing Enterprise Database Environments
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-08-2018 - Session time: 10:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: Mom Rules for Managing Enterprise Database Environments
 ## Abstract:
@@ -148,7 +148,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 83192
 # Getting Started with Extended Events
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-08-2018 - Session time: 10:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Galbraith
 ## Title: Getting Started with Extended Events
 ## Abstract:
@@ -161,7 +161,7 @@ Come learn how to get started - the basics of sessions, events, actions, targets
 #### SessionID: 83810
 # The Fast Track to Database Performance
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 18-08-2018 - Session time: 10:50:00 - Track: Application  Database Development
 ## Speaker: Eric Swiggum
 ## Title: The Fast Track to Database Performance
 ## Abstract:
@@ -170,7 +170,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database D
 #### SessionID: 85362
 # Power BI Deployment:Scaling from 5 to 5000
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-08-2018 - Session time: 10:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Meidinger
 ## Title: Power BI Deployment:Scaling from 5 to 5000
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Platform Architectur
 #### SessionID: 82033
 # Looking through the Windshield: Forward-looking Dashboards  KPIs
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Information Delivery
+Event Date: 18-08-2018 - Session time: 13:15:00 - Track: BI Information Delivery
 ## Speaker: Brian Larson
 ## Title: Looking through the Windshield: Forward-looking Dashboards  KPIs
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Information Delivery
 #### SessionID: 82048
 # A Rocket Scientist Perspective on Indexes
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 18-08-2018 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: A Rocket Scientist Perspective on Indexes
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database D
 #### SessionID: 82619
 # Maximizing SQL Server Management Studio for Developers and DBAs
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 18-08-2018 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Nem Schlecht
 ## Title: Maximizing SQL Server Management Studio for Developers and DBAs
 ## Abstract:
@@ -209,7 +209,7 @@ Operations Studio.
 #### SessionID: 83883
 # Let's Explore SQL Internals
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-08-2018 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Let's Explore SQL Internals
 ## Abstract:
@@ -218,7 +218,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 82026
 # DAX 201
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-08-2018 - Session time: 14:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Belinda Allen
 ## Title: DAX 201
 ## Abstract:
@@ -227,7 +227,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: BI Platform Architectur
 #### SessionID: 82588
 # Data Protection  Privacy in the World of Database DevOps
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-08-2018 - Session time: 14:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Grant Fritchey
 ## Title: Data Protection  Privacy in the World of Database DevOps
 ## Abstract:
@@ -236,7 +236,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 83886
 # SQL Server Databases in the Clouds
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-08-2018 - Session time: 14:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Plas
 ## Title: SQL Server Databases in the Clouds
 ## Abstract:
@@ -245,7 +245,7 @@ Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 84123
 # The Case for Change: Identifying and Remedying Bad Code
 #### [Back to calendar](#nr-787)
-Event Date: 18-08-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-08-2018 - Session time: 14:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: The Case for Change: Identifying and Remedying Bad Code
 ## Abstract:

@@ -29,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 82839
 # Are There Time Bombs in your SSIS Packages?
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 4
+Event Date: 25-08-2018 - Session time: 09:45:00 - Track: Track 4
 ## Speaker: Tim Mitchell
 ## Title: Are There Time Bombs in your SSIS Packages?
 ## Abstract:
@@ -40,7 +40,7 @@ In this session, we will explore some of the most common SSIS design patterns th
 #### SessionID: 83302
 # Beginning T-SQL
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 4
+Event Date: 25-08-2018 - Session time: 09:45:00 - Track: Track 4
 ## Speaker: Jennifer McCown
 ## Title: Beginning T-SQL
 ## Abstract:
@@ -49,7 +49,7 @@ Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 4
 #### SessionID: 83561
 # SSMS Magic: Tips  Tricks for Management Studio
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 4
+Event Date: 25-08-2018 - Session time: 09:45:00 - Track: Track 4
 ## Speaker: Caitlin Stewart
 ## Title: SSMS Magic: Tips  Tricks for Management Studio
 ## Abstract:
@@ -58,7 +58,7 @@ Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 4
 #### SessionID: 83762
 # SQL Server Encryption
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 2
+Event Date: 25-08-2018 - Session time: 09:45:00 - Track: Track 2
 ## Speaker: Ben Miller
 ## Title: SQL Server Encryption
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 2
 #### SessionID: 82648
 # A Rocket Scientist Perspective on Indexes
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 4
+Event Date: 25-08-2018 - Session time: 11:15:00 - Track: Track 4
 ## Speaker: Mike Byrd
 ## Title: A Rocket Scientist Perspective on Indexes
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 4
 #### SessionID: 82718
 # Get insights from data with Cognitive Services
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 4
+Event Date: 25-08-2018 - Session time: 11:15:00 - Track: Track 4
 ## Speaker: Shawn Weisfeld
 ## Title: Get insights from data with Cognitive Services
 ## Abstract:
@@ -85,7 +85,7 @@ Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 4
 #### SessionID: 82836
 # Deep Dive into the SSIS Catalog
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 4
+Event Date: 25-08-2018 - Session time: 11:15:00 - Track: Track 4
 ## Speaker: Tim Mitchell
 ## Title: Deep Dive into the SSIS Catalog
 ## Abstract:
@@ -96,7 +96,7 @@ In this demo-heavy presentation, we will dive into the details of the SSIS catal
 #### SessionID: 83304
 # T-SQL's Hidden Support Feature
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 4
+Event Date: 25-08-2018 - Session time: 11:15:00 - Track: Track 4
 ## Speaker: Jennifer McCown
 ## Title: T-SQL's Hidden Support Feature
 ## Abstract:
@@ -107,7 +107,7 @@ In this session, Microsoft Certified Master Jennifer McCown will demonstrate the
 #### SessionID: 85482
 # LUNCH: Simplifying SQL Data Protection by - Mike Fal
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 4
+Event Date: 25-08-2018 - Session time: 12:30:00 - Track: Track 4
 ## Speaker: William Barnes
 ## Title: LUNCH: Simplifying SQL Data Protection by - Mike Fal
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 4
 #### SessionID: 85483
 # LUNCH: Auditing your Enterprise with MinionWare By The Midnight DBAs
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 1
+Event Date: 25-08-2018 - Session time: 12:30:00 - Track: Track 1
 ## Speaker: William Barnes
 ## Title: LUNCH: Auditing your Enterprise with MinionWare By The Midnight DBAs
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 1
 #### SessionID: 85484
 # LUNCH: Introduction to Visual Analytics and Tableau-By Kent Sloan
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 1
+Event Date: 25-08-2018 - Session time: 12:30:00 - Track: Track 1
 ## Speaker: William Barnes
 ## Title: LUNCH: Introduction to Visual Analytics and Tableau-By Kent Sloan
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 1
 #### SessionID: 82627
 # "Real World" Examples on How to Load Data Warehouse Structures using SSIS
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 4
+Event Date: 25-08-2018 - Session time: 13:45:00 - Track: Track 4
 ## Speaker: Ryan Casey
 ## Title: "Real World" Examples on How to Load Data Warehouse Structures using SSIS
 ## Abstract:
@@ -162,7 +162,7 @@ Demos for Multiple Design Patterns
 #### SessionID: 82791
 # Finding root cause for unexplained Availability Group failover
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 2
+Event Date: 25-08-2018 - Session time: 13:45:00 - Track: Track 2
 ## Speaker: Trayce Jordan
 ## Title: Finding root cause for unexplained Availability Group failover
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 2
 #### SessionID: 83759
 # SQL Server PowerShell for the Beginner
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 2
+Event Date: 25-08-2018 - Session time: 13:45:00 - Track: Track 2
 ## Speaker: Ben Miller
 ## Title: SQL Server PowerShell for the Beginner
 ## Abstract:
@@ -180,7 +180,7 @@ Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 2
 #### SessionID: 83772
 # SQL Server Security from the ground up
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 2
+Event Date: 25-08-2018 - Session time: 13:45:00 - Track: Track 2
 ## Speaker: Kenneth Fisher
 ## Title: SQL Server Security from the ground up
 ## Abstract:
@@ -189,7 +189,7 @@ Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 2
 #### SessionID: 84078
 # Demystifying JSON in SQL Server
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 4
+Event Date: 25-08-2018 - Session time: 13:45:00 - Track: Track 4
 ## Speaker: Kristin Ferrier
 ## Title: Demystifying JSON in SQL Server
 ## Abstract:
@@ -198,7 +198,7 @@ Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 4
 #### SessionID: 85324
 # Intro Data Warehousing for the DBA\Dev: From “Stupid Data" to Star Schema
 #### [Back to calendar](#nr-794)
-Event Date: 25-08-2018 - Session time: 15:15:00 - Track: Track 1
+Event Date: 25-08-2018 - Session time: 13:45:00 - Track: Track 1
 ## Speaker: Matthew Brimer
 ## Title: Intro Data Warehousing for the DBA\Dev: From “Stupid Data" to Star Schema
 ## Abstract:

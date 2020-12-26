@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 19172
 # Entendendo o Transaction Log
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
+Event Date: 26-09-2015 - Session time: 09:00:00 - Track: Geral 1
 ## Speaker: Luiz  Mercante
 ## Title: Entendendo o Transaction Log
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
 #### SessionID: 21221
 # AlwaysOn - What's new on SQL Server 2016 ?
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Administração)
+Event Date: 26-09-2015 - Session time: 09:00:00 - Track: DBA (Administração)
 ## Speaker: Murilo Miranda
 ## Title: AlwaysOn - What's new on SQL Server 2016 ?
 ## Abstract:
@@ -57,7 +57,7 @@ SQL Server has some enhancements on those solutions and that's what we are going
 #### SessionID: 38145
 # Advanced SQL Server execution plans - level 500
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
+Event Date: 26-09-2015 - Session time: 09:00:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Fabiano Amorim
 ## Title: Advanced SQL Server execution plans - level 500
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
 #### SessionID: 39510
 # Planejamento Estrat#233;gico com BI  BIG Data
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 26-09-2015 - Session time: 09:00:00 - Track: Business Intelligence
 ## Speaker: Viviane Ribeiro
 ## Title: Planejamento Estrat#233;gico com BI  BIG Data
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
 #### SessionID: 39559
 # Windows Server Failover Cluster - Best Practices
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
+Event Date: 26-09-2015 - Session time: 09:00:00 - Track: Geral 2
 ## Speaker: EDVALDO CASTRO
 ## Title: Windows Server Failover Cluster - Best Practices
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
 #### SessionID: 14251
 # Entendendo o Clusterlog
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Administração)
+Event Date: 26-09-2015 - Session time: 10:30:00 - Track: DBA (Administração)
 ## Speaker: Marcelo Fernandes
 ## Title: Entendendo o Clusterlog
 ## Abstract:
@@ -95,7 +95,7 @@ Nesta  sess#227;o voc#234; conhecer#225; como "Debugar" o clusterlog, que #233; 
 #### SessionID: 35660
 # Apresentando, Configurando e Criando relat#243;rios Real-time com o Power BI Preview
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 26-09-2015 - Session time: 10:30:00 - Track: Business Intelligence
 ## Speaker: Demetrio Silva
 ## Title: Apresentando, Configurando e Criando relat#243;rios Real-time com o Power BI Preview
 ## Abstract:
@@ -104,7 +104,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
 #### SessionID: 36633
 # Assumi o cargo de DBA. O que devo aprender para ontem???
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
+Event Date: 26-09-2015 - Session time: 10:30:00 - Track: Geral 1
 ## Speaker: Fabrício Lima
 ## Title: Assumi o cargo de DBA. O que devo aprender para ontem???
 ## Abstract:
@@ -113,7 +113,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
 #### SessionID: 38361
 # Columnstore internals
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
+Event Date: 26-09-2015 - Session time: 10:30:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Luciano Moreira
 ## Title: Columnstore internals
 ## Abstract:
@@ -122,7 +122,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
 #### SessionID: 39475
 # Microsoft SQL SERVER Hekaton X Oracle - In Memory comparisson
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
+Event Date: 26-09-2015 - Session time: 10:30:00 - Track: Geral 2
 ## Speaker: Marcelo Adade
 ## Title: Microsoft SQL SERVER Hekaton X Oracle - In Memory comparisson
 ## Abstract:
@@ -131,7 +131,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
 #### SessionID: 27498
 # Monitorando o AlwaysOn com Extended Events
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Administração)
+Event Date: 26-09-2015 - Session time: 11:30:00 - Track: DBA (Administração)
 ## Speaker: Vitor Fava
 ## Title: Monitorando o AlwaysOn com Extended Events
 ## Abstract:
@@ -140,7 +140,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Administração)
 #### SessionID: 36339
 # SQL Server 2014- Entendendo o Novo C#225;lculo de Estat#237;sticas
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
+Event Date: 26-09-2015 - Session time: 11:30:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Thiago Carlos de Alencar
 ## Title: SQL Server 2014- Entendendo o Novo C#225;lculo de Estat#237;sticas
 ## Abstract:
@@ -149,7 +149,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
 #### SessionID: 38571
 # SQL Server Security Hardening
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
+Event Date: 26-09-2015 - Session time: 11:30:00 - Track: Geral 2
 ## Speaker: Diego Miranda
 ## Title: SQL Server Security Hardening
 ## Abstract:
@@ -159,7 +159,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
 #### SessionID: 39081
 # Be more productive in the development and management of your SQL Server
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
+Event Date: 26-09-2015 - Session time: 11:30:00 - Track: Geral 1
 ## Speaker: Gustavo Carneiro
 ## Title: Be more productive in the development and management of your SQL Server
 ## Abstract:
@@ -172,7 +172,7 @@ Migrations:  database comparison, schema comparison and data comparison
 #### SessionID: 39172
 # Datas: T#233;cnicas Para criar dimens#227;o de tempo em um cubo
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 26-09-2015 - Session time: 11:30:00 - Track: Business Intelligence
 ## Speaker: Dennes Torres
 ## Title: Datas: T#233;cnicas Para criar dimens#227;o de tempo em um cubo
 ## Abstract:
@@ -183,7 +183,7 @@ Descubra os truques ocultos na montagem de uma dimens#227;o de tempo.
 #### SessionID: 23408
 # SQL Server, Windows e CPU
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
+Event Date: 26-09-2015 - Session time: 14:00:00 - Track: Geral 2
 ## Speaker: Rodrigo Ribeiro Gomes
 ## Title: SQL Server, Windows e CPU
 ## Abstract:
@@ -196,7 +196,7 @@ Voc#234; pode verificar alguns trechos desta sess#227;o no v#237;deo de apresent
 #### SessionID: 35845
 # Vamos falar sobre TempDB
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
+Event Date: 26-09-2015 - Session time: 14:00:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Ricardo Leka
 ## Title: Vamos falar sobre TempDB
 ## Abstract:
@@ -206,7 +206,7 @@ Vamos conversar sobre a estrutura de alocação, tunning, classes e bitmaps, Tro
 #### SessionID: 36494
 # Conceitos de Storage para SQL Server DBAs
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
+Event Date: 26-09-2015 - Session time: 14:00:00 - Track: Geral 1
 ## Speaker: Frederico Santos
 ## Title: Conceitos de Storage para SQL Server DBAs
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
 #### SessionID: 37453
 # Saindo do B#225;sico: Implementando SQL Server 2014 Failover Cluster com CSV
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Administração)
+Event Date: 26-09-2015 - Session time: 14:00:00 - Track: DBA (Administração)
 ## Speaker: Nilton Pinheiro
 ## Title: Saindo do B#225;sico: Implementando SQL Server 2014 Failover Cluster com CSV
 ## Abstract:
@@ -225,7 +225,7 @@ Uma das mais valiosas features do SQL Server 2014 voltada para alta disponibilid
 #### SessionID: 37579
 # Reporting Services Internals - High Availability and Scale-Out
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 26-09-2015 - Session time: 14:00:00 - Track: Business Intelligence
 ## Speaker: Alexandre Soteras
 ## Title: Reporting Services Internals - High Availability and Scale-Out
 ## Abstract:
@@ -235,7 +235,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
 #### SessionID: 36696
 # Criando um baseline de seu ambiente completo utilizando SSIS e SSRS
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Desenvolvimento)
+Event Date: 26-09-2015 - Session time: 15:00:00 - Track: DBA (Desenvolvimento)
 ## Speaker: Marcos Freccia
 ## Title: Criando um baseline de seu ambiente completo utilizando SSIS e SSRS
 ## Abstract:
@@ -248,7 +248,7 @@ As informa#231;#245;es coletados com esse baseline, podem te ajudar a ganhar aqu
 #### SessionID: 37264
 # DataZen - Do In#237;cio ao Fim
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
+Event Date: 26-09-2015 - Session time: 15:00:00 - Track: Geral 1
 ## Speaker: Arthur Luz
 ## Title: DataZen - Do In#237;cio ao Fim
 ## Abstract:
@@ -257,7 +257,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 1
 #### SessionID: 37393
 # Storage - Melhores Pr#225;ticas com SQL Server
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: DBA (Administração)
+Event Date: 26-09-2015 - Session time: 15:00:00 - Track: DBA (Administração)
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Storage - Melhores Pr#225;ticas com SQL Server
 ## Abstract:
@@ -276,7 +276,7 @@ Devemos entender que nem sempre o problema s#227;o queries mal desenvolvidas o p
 #### SessionID: 39318
 # HDInsight!? Hadoop?! Hive?! Uma introdu#231;#227;o do mundo Big Data para DBA's
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
+Event Date: 26-09-2015 - Session time: 15:00:00 - Track: Business Intelligence
 ## Speaker: Bruno Feldman
 ## Title: HDInsight!? Hadoop?! Hive?! Uma introdu#231;#227;o do mundo Big Data para DBA's
 ## Abstract:
@@ -285,7 +285,7 @@ Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Business Intelligence
 #### SessionID: 39554
 # Tudo o que voc#234; queria saber sobre licenciamento do SQL Server
 #### [Back to calendar](#nr-424)
-Event Date: 26-09-2015 - Session time: 16:30:00 - Track: Geral 2
+Event Date: 26-09-2015 - Session time: 15:00:00 - Track: Geral 2
 ## Speaker: Roberto Fonseca
 ## Title: Tudo o que voc#234; queria saber sobre licenciamento do SQL Server
 ## Abstract:

@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 68216
 # Azure SQL Datawarehouse - Datawarehouse on Cloud
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Cloud
+Event Date: 18-11-2017 - Session time: 09:40:00 - Track: Cloud
 ## Speaker: Luca Ferrari
 ## Title: Azure SQL Datawarehouse - Datawarehouse on Cloud
 ## Abstract:
@@ -40,7 +40,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Cloud
 #### SessionID: 68440
 # Reporting Services Monitoring
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Data Science
+Event Date: 18-11-2017 - Session time: 09:40:00 - Track: Data Science
 ## Speaker: Lorenzo Vercellati
 ## Title: Reporting Services Monitoring
 ## Abstract:
@@ -53,7 +53,7 @@ Scopriremo inoltre i diversi livelli di profondità delle informazioni in base a
 #### SessionID: 68773
 # Transact-SQL traps and nasty surprises
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Development
+Event Date: 18-11-2017 - Session time: 09:40:00 - Track: Development
 ## Speaker: Rudi Bruchez
 ## Title: Transact-SQL traps and nasty surprises
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Development
 #### SessionID: 68913
 # Persistence is Futile - Implementing Delayed Durability in SQL Server
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Administration
+Event Date: 18-11-2017 - Session time: 09:40:00 - Track: Database Administration
 ## Speaker: Mark Broadbent
 ## Title: Persistence is Futile - Implementing Delayed Durability in SQL Server
 ## Abstract:
@@ -75,7 +75,7 @@ Attend this session and you will be assimilated!
 #### SessionID: 66684
 # Deep Space Cosmos DB
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Development
+Event Date: 18-11-2017 - Session time: 11:00:00 - Track: Development
 ## Speaker: Alessandro Alpi
 ## Title: Deep Space Cosmos DB
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Development
 #### SessionID: 68687
 # Performance and query improvements in latest SQL builds
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Administration
+Event Date: 18-11-2017 - Session time: 11:00:00 - Track: Database Administration
 ## Speaker: Saverio Lorenzini
 ## Title: Performance and query improvements in latest SQL builds
 ## Abstract:
@@ -94,7 +94,7 @@ La sessione mostra con demo appropriate le nuove funzionalità introdotte, che u
 #### SessionID: 68982
 # Gestire SSRS con Powershell
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Data Science
+Event Date: 18-11-2017 - Session time: 11:00:00 - Track: Data Science
 ## Speaker: Danilo Dominici
 ## Title: Gestire SSRS con Powershell
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Data Science
 #### SessionID: 69487
 # ASP.NET, Azure Search e Azure SQL Server
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Cloud
+Event Date: 18-11-2017 - Session time: 11:00:00 - Track: Cloud
 ## Speaker: Emanuele Bartolesi
 ## Title: ASP.NET, Azure Search e Azure SQL Server
 ## Abstract:
@@ -115,7 +115,7 @@ In questa sessione vedremo come in poco tempo è possibile indicizzare dei dati 
 #### SessionID: 66682
 # SQL Server 2017 Graph Database
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Development
+Event Date: 18-11-2017 - Session time: 12:10:00 - Track: Development
 ## Speaker: Sergio Govoni
 ## Title: SQL Server 2017 Graph Database
 ## Abstract:
@@ -124,7 +124,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Development
 #### SessionID: 68736
 # Performance tips for faster SQL queries – DEV2DEV
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Administration
+Event Date: 18-11-2017 - Session time: 12:10:00 - Track: Database Administration
 ## Speaker: Emanuele Zanchettin
 ## Title: Performance tips for faster SQL queries – DEV2DEV
 ## Abstract:
@@ -133,7 +133,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Administration
 #### SessionID: 68836
 # Data Science for beginners
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Data Science
+Event Date: 18-11-2017 - Session time: 12:10:00 - Track: Data Science
 ## Speaker: Tomaž Kaštrun
 ## Title: Data Science for beginners
 ## Abstract:
@@ -151,7 +151,7 @@ Session we will look into technologies that can be tackled using SQL Server 2016
 #### SessionID: 69565
 # SQL Server  GDPR
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Cloud
+Event Date: 18-11-2017 - Session time: 12:10:00 - Track: Cloud
 ## Speaker: Gianluca Hotz
 ## Title: SQL Server  GDPR
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Cloud
 #### SessionID: 66428
 # Dai semplici Dati al Modello Predittivo in Azure Machine Learning
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Data Science
+Event Date: 18-11-2017 - Session time: 14:00:00 - Track: Data Science
 ## Speaker: Luca Zavarella
 ## Title: Dai semplici Dati al Modello Predittivo in Azure Machine Learning
 ## Abstract:
@@ -171,7 +171,7 @@ Si mostrerà quanto il lavoro necessario per trasformare un "normale" set di dat
 #### SessionID: 68512
 # Azure Functions e Logic Apps: i tuoi coltellini svizzeri per gestire i tuoi dati in un SQL Database
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Cloud
+Event Date: 18-11-2017 - Session time: 14:00:00 - Track: Cloud
 ## Speaker: Marco Parenzan
 ## Title: Azure Functions e Logic Apps: i tuoi coltellini svizzeri per gestire i tuoi dati in un SQL Database
 ## Abstract:
@@ -182,7 +182,7 @@ Quindi introduceremo le minime conoscenze .NET necessarie, come scrivere una Fun
 #### SessionID: 68841
 # Linux: a new mate for SQL Server
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Administration
+Event Date: 18-11-2017 - Session time: 14:00:00 - Track: Database Administration
 ## Speaker: Salvatore Pellitteri
 ## Title: Linux: a new mate for SQL Server
 ## Abstract:
@@ -191,7 +191,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Administration
 #### SessionID: 69281
 # Common Data Access Patterns for Xamarin’s iOS and Android Platforms
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Development
+Event Date: 18-11-2017 - Session time: 14:00:00 - Track: Development
 ## Speaker: Gaetano Paternò
 ## Title: Common Data Access Patterns for Xamarin’s iOS and Android Platforms
 ## Abstract:
@@ -200,7 +200,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Development
 #### SessionID: 67484
 # Esplorazione dei Metadati di SQL Server
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Administration
+Event Date: 18-11-2017 - Session time: 15:10:00 - Track: Database Administration
 ## Speaker: Gilberto Zampatti
 ## Title: Esplorazione dei Metadati di SQL Server
 ## Abstract:
@@ -209,7 +209,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Database Administration
 #### SessionID: 67541
 # Power BI: Cleaning and Modelling Data
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Data Science
+Event Date: 18-11-2017 - Session time: 15:10:00 - Track: Data Science
 ## Speaker: Marco Pozzan
 ## Title: Power BI: Cleaning and Modelling Data
 ## Abstract:
@@ -218,7 +218,7 @@ Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Data Science
 #### SessionID: 69260
 # DevOps 101 for data professionals – how your jobs will change
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Development
+Event Date: 18-11-2017 - Session time: 15:10:00 - Track: Development
 ## Speaker: Alex Yates
 ## Title: DevOps 101 for data professionals – how your jobs will change
 ## Abstract:
@@ -235,7 +235,7 @@ I’m going to explain what DevOps is, where it came from, and its implications 
 #### SessionID: 69592
 # Real IoT
 #### [Back to calendar](#nr-675)
-Event Date: 18-11-2017 - Session time: 16:30:00 - Track: Cloud
+Event Date: 18-11-2017 - Session time: 15:10:00 - Track: Cloud
 ## Speaker: Franco Perduca
 ## Title: Real IoT
 ## Abstract:

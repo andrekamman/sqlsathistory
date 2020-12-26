@@ -24,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 66546
 # How to start working in the multiserver environment?
 #### [Back to calendar](#nr-660)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-08-2017 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: How to start working in the multiserver environment?
 ## Abstract:
@@ -33,7 +33,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 68527
 # Важливість статистики в MS SQL Server, як вона використовується.
 #### [Back to calendar](#nr-660)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 19-08-2017 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Andrii Zrobok
 ## Title: Важливість статистики в MS SQL Server, як вона використовується.
 ## Abstract:
@@ -42,7 +42,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database D
 #### SessionID: 68560
 # SQL Server: Готуємося до гіршого
 #### [Back to calendar](#nr-660)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Strategy and Architecture
+Event Date: 19-08-2017 - Session time: 10:00:00 - Track: Strategy and Architecture
 ## Speaker: Yevhen Nedashkivskyi
 ## Title: SQL Server: Готуємося до гіршого
 ## Abstract:
@@ -51,7 +51,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Strategy and Architectu
 #### SessionID: 64601
 # What’s new in SQL Server 2017 RC for Business Intelligence
 #### [Back to calendar](#nr-660)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 19-08-2017 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Polonichko
 ## Title: What’s new in SQL Server 2017 RC for Business Intelligence
 ## Abstract:
@@ -61,7 +61,7 @@ If you want to know about it come to my session and I'll tell you about it.
 #### SessionID: 67628
 # Создание data-driven serverless приложений используя Azure Functions
 #### [Back to calendar](#nr-660)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Cloud Application Development  Deployment
+Event Date: 19-08-2017 - Session time: 11:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: Создание data-driven serverless приложений используя Azure Functions
 ## Abstract:
@@ -70,7 +70,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Cloud Application Devel
 #### SessionID: 67974
 # State-of-the-Art Machine Learning Algorithms in R from Microsoft
 #### [Back to calendar](#nr-660)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Advanced Analysis Techniques
+Event Date: 19-08-2017 - Session time: 11:10:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: State-of-the-Art Machine Learning Algorithms in R from Microsoft
 ## Abstract:
@@ -83,7 +83,7 @@ In the second part we will use almost the same ML algorithms for classification 
 #### SessionID: 64773
 # Enabling Citizen Data Science with Microsoft
 #### [Back to calendar](#nr-660)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Advanced Analysis Techniques
+Event Date: 19-08-2017 - Session time: 13:10:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jan Mulkens
 ## Title: Enabling Citizen Data Science with Microsoft
 ## Abstract:
@@ -99,7 +99,7 @@ Using a combination of theory and demo’s, we explore Microsoft’s solutions t
 #### SessionID: 66901
 # IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights
 #### [Back to calendar](#nr-660)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 19-08-2017 - Session time: 13:10:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights
 ## Abstract:
@@ -112,7 +112,7 @@ And we will see them clash, from real hardware, to the big Azure cloud, to mobil
 #### SessionID: 67457
 # Dealing with CosmosDB
 #### [Back to calendar](#nr-660)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Cloud Application Development  Deployment
+Event Date: 19-08-2017 - Session time: 13:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Dealing with CosmosDB
 ## Abstract:
@@ -127,7 +127,7 @@ In this presentation, you will learn:
 #### SessionID: 65659
 # "The Time Machine". Change Tracking, Change Data Capture, Temporal Tables
 #### [Back to calendar](#nr-660)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 19-08-2017 - Session time: 14:20:00 - Track: Application  Database Development
 ## Speaker: Andriy Pogorelov
 ## Title: "The Time Machine". Change Tracking, Change Data Capture, Temporal Tables
 ## Abstract:
@@ -137,7 +137,7 @@ It will be few slides and many demos.
 #### SessionID: 67430
 # Using non-relational data inside SQL Server
 #### [Back to calendar](#nr-660)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 19-08-2017 - Session time: 14:20:00 - Track: Application  Database Development
 ## Speaker: Taras Bobrovytskyi
 ## Title: Using non-relational data inside SQL Server
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database D
 #### SessionID: 68135
 # SQL Server 2017 New Features (Not Linux support!)
 #### [Back to calendar](#nr-660)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 19-08-2017 - Session time: 14:20:00 - Track: Application  Database Development
 ## Speaker: David Williams
 ## Title: SQL Server 2017 New Features (Not Linux support!)
 ## Abstract:

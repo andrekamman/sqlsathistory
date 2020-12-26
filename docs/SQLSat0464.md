@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 45079
 # Keynote Session
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Other
+Event Date: 20-02-2016 - Session time: 09:00:00 - Track: Other
 ## Speaker: Martin Cairney
 ## Title: Keynote Session
 ## Abstract:
@@ -49,7 +49,7 @@ Mark will be flying over from the states to give the latest updates from the eng
 #### SessionID: 42286
 # A Lap Around Columnstore.
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-02-2016 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Martin Catherall
 ## Title: A Lap Around Columnstore.
 ## Abstract:
@@ -63,7 +63,7 @@ Attendees should leave this session will enough knowledge about the storage, arc
 #### SessionID: 42432
 # Top 10 Clustering Dos and Don'ts
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-02-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allan Hirt
 ## Title: Top 10 Clustering Dos and Don'ts
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 42553
 # SQL Server 2016: A Monster of a Release
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 20-02-2016 - Session time: 10:30:00 - Track: Strategy and Architecture
 ## Speaker: Victor Isakov
 ## Title: SQL Server 2016: A Monster of a Release
 ## Abstract:
@@ -83,7 +83,7 @@ We will also discuss Microsoft's vision for the Data Platform and how SQL Server
 #### SessionID: 42887
 # Azure for the SQL Server DBA: What we need to know, and how to get started
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-02-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael van Halderen
 ## Title: Azure for the SQL Server DBA: What we need to know, and how to get started
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 42904
 # Azure Machine Learning: From Design to Integration
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 20-02-2016 - Session time: 10:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Peter Myers
 ## Title: Azure Machine Learning: From Design to Integration
 ## Abstract:
@@ -103,7 +103,7 @@ This session has been specifically designed to describe machine learning fundame
 #### SessionID: 42913
 # MPP - What you should know about Massively Parallel Processing
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-02-2016 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rob Farley
 ## Title: MPP - What you should know about Massively Parallel Processing
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 20-02-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 42920
 # Getting started with Agile Business Intelligence
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 20-02-2016 - Session time: 10:30:00 - Track: Professional Development
 ## Speaker: Kelly Broekstra
 ## Title: Getting started with Agile Business Intelligence
 ## Abstract:
@@ -126,7 +126,7 @@ Join me to discuss how to implement Agile principles into your project.  We will
 #### SessionID: 40647
 # Hybrid Solutions with SQL Server 2016
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-02-2016 - Session time: 11:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Martin Cairney
 ## Title: Hybrid Solutions with SQL Server 2016
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 41555
 # Automated Test Driven Development with SQL Server using nUnit
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-02-2016 - Session time: 11:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan de Sousa
 ## Title: Automated Test Driven Development with SQL Server using nUnit
 ## Abstract:
@@ -148,7 +148,7 @@ In this session we will cover an approach for automating the validation of your 
 #### SessionID: 42039
 # I didn't know SSMS could do that
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Other
+Event Date: 20-02-2016 - Session time: 11:40:00 - Track: Other
 ## Speaker: Greg Low
 ## Title: I didn't know SSMS could do that
 ## Abstract:
@@ -157,7 +157,7 @@ Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Other
 #### SessionID: 42523
 # Power BI Rises; Wonderful Things You Can Do
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 20-02-2016 - Session time: 11:40:00 - Track: BI Information Delivery
 ## Speaker: Reza Rad
 ## Title: Power BI Rises; Wonderful Things You Can Do
 ## Abstract:
@@ -167,7 +167,7 @@ In this session you will learn through many live demos how to get most of Power 
 #### SessionID: 42827
 # Securing Data on your terms
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-02-2016 - Session time: 11:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kristina Rumpff
 ## Title: Securing Data on your terms
 ## Abstract:
@@ -176,7 +176,7 @@ Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 46789
 # Interesting Facts on SQL Server Use
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Other
+Event Date: 20-02-2016 - Session time: 12:50:00 - Track: Other
 ## Speaker: Martin Catherall
 ## Title: Interesting Facts on SQL Server Use
 ## Abstract:
@@ -185,7 +185,7 @@ Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Other
 #### SessionID: 40479
 # Practical Partitioning
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-02-2016 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rolf Tesmer
 ## Title: Practical Partitioning
 ## Abstract:
@@ -196,7 +196,7 @@ This session will have a strong focus on real, practical, and hands-on partition
 #### SessionID: 42329
 # Protecting your data in the Cloud
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-02-2016 - Session time: 14:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Vijayakumar Thurupathan
 ## Title: Protecting your data in the Cloud
 ## Abstract:
@@ -206,7 +206,7 @@ The session will cover the following topics with demos. Introduction to cloud ad
 #### SessionID: 42493
 # Data Warehouse in Azure - Intro and Demo
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-02-2016 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vikas Rajput
 ## Title: Data Warehouse in Azure - Intro and Demo
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 20-02-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 42600
 # Distributed Replay: Testing With Your Data, Your Way!
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 20-02-2016 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Melody Zacharias
 ## Title: Distributed Replay: Testing With Your Data, Your Way!
 ## Abstract:
@@ -224,7 +224,7 @@ Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 42893
 # An overview of SQL Openquery
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Information Delivery
+Event Date: 20-02-2016 - Session time: 14:00:00 - Track: Information Delivery
 ## Speaker: Johnley John
 ## Title: An overview of SQL Openquery
 ## Abstract:
@@ -238,7 +238,7 @@ In this session, we'll look into the following
 #### SessionID: 42894
 # Build an Activity-Based Costing System with Power BI
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 20-02-2016 - Session time: 14:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Grant Paisley
 ## Title: Build an Activity-Based Costing System with Power BI
 ## Abstract:
@@ -249,7 +249,7 @@ We will use a real-world health care model to show how we replaced an expensive,
 #### SessionID: 46108
 # Indexing for Optimal Performance
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 20-02-2016 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Rob Douglas
 ## Title: Indexing for Optimal Performance
 ## Abstract:
@@ -259,7 +259,7 @@ Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 42851
 # Killing FearOps with a culture of DevOPS
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-02-2016 - Session time: 14:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamish Watson
 ## Title: Killing FearOps with a culture of DevOPS
 ## Abstract:
@@ -270,7 +270,7 @@ In this session we will look at some of the challenges implementing DevOps, the 
 #### SessionID: 42355
 # Lightning talk - Live Query Statistics
 #### [Back to calendar](#nr-464)
-Event Date: 20-02-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-02-2016 - Session time: 14:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Manohar Punna
 ## Title: Lightning talk - Live Query Statistics
 ## Abstract:

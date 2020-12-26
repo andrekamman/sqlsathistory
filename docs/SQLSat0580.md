@@ -24,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 57327
 # SQL Server on Linux
 #### [Back to calendar](#nr-580)
-Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 01 - Administração
+Event Date: 08-04-2017 - Session time: 09:00:00 - Track: Track 01 - Administração
 ## Speaker: Rodrigo Crespi
 ## Title: SQL Server on Linux
 ## Abstract:
@@ -34,7 +34,7 @@ Então você não pode perder esta palestra que irá apresentar como o SQL Serve
 #### SessionID: 58066
 # Stretch Database - Armazenamento de dados hist#243;ricos no SQL Server 2016
 #### [Back to calendar](#nr-580)
-Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 02 - Desenvolvimento
+Event Date: 08-04-2017 - Session time: 09:00:00 - Track: Track 02 - Desenvolvimento
 ## Speaker: Vitor Fava
 ## Title: Stretch Database - Armazenamento de dados hist#243;ricos no SQL Server 2016
 ## Abstract:
@@ -43,7 +43,7 @@ Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 02 - Desenvolvime
 #### SessionID: 61832
 # Columnstore Indexes - Como ele pode melhorar meu data warehouse?
 #### [Back to calendar](#nr-580)
-Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 03 - Business Intelligence
+Event Date: 08-04-2017 - Session time: 09:00:00 - Track: Track 03 - Business Intelligence
 ## Speaker: Bruno Feldman
 ## Title: Columnstore Indexes - Como ele pode melhorar meu data warehouse?
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 03 - Business Int
 #### SessionID: 61523
 # Alta Disponibilidade para Pequenos, Medios e Grandes Ambientes
 #### [Back to calendar](#nr-580)
-Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 01 - Administração
+Event Date: 08-04-2017 - Session time: 10:30:00 - Track: Track 01 - Administração
 ## Speaker: Nilton Pinheiro
 ## Title: Alta Disponibilidade para Pequenos, Medios e Grandes Ambientes
 ## Abstract:
@@ -61,7 +61,7 @@ Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 01 - Administraç
 #### SessionID: 61604
 # SQL Server 2016 - Temporal Tables
 #### [Back to calendar](#nr-580)
-Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 02 - Desenvolvimento
+Event Date: 08-04-2017 - Session time: 10:30:00 - Track: Track 02 - Desenvolvimento
 ## Speaker: Arthur Luz
 ## Title: SQL Server 2016 - Temporal Tables
 ## Abstract:
@@ -70,7 +70,7 @@ Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 02 - Desenvolvime
 #### SessionID: 62549
 # Criando modelos preditivos com Azure Machine Learning
 #### [Back to calendar](#nr-580)
-Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 03 - Business Intelligence
+Event Date: 08-04-2017 - Session time: 10:30:00 - Track: Track 03 - Business Intelligence
 ## Speaker: Diego Nogare
 ## Title: Criando modelos preditivos com Azure Machine Learning
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 03 - Business Int
 #### SessionID: 57266
 # Analisando o Plano de Execução através da Query Store
 #### [Back to calendar](#nr-580)
-Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 02 - Desenvolvimento
+Event Date: 08-04-2017 - Session time: 13:00:00 - Track: Track 02 - Desenvolvimento
 ## Speaker: Sulamita Dantas
 ## Title: Analisando o Plano de Execução através da Query Store
 ## Abstract:
@@ -88,7 +88,7 @@ Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 02 - Desenvolvime
 #### SessionID: 58283
 # Quando as boas práticas não são boas
 #### [Back to calendar](#nr-580)
-Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 01 - Administração
+Event Date: 08-04-2017 - Session time: 13:00:00 - Track: Track 01 - Administração
 ## Speaker: Fabiano Amorim
 ## Title: Quando as boas práticas não são boas
 ## Abstract:
@@ -99,7 +99,7 @@ Nesta sessão o consultor e MVP Fabiano Amorim irá; falar sobre "casos extremos
 #### SessionID: 59680
 # SSIS 2016 - New features and improvements
 #### [Back to calendar](#nr-580)
-Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 03 - Business Intelligence
+Event Date: 08-04-2017 - Session time: 13:00:00 - Track: Track 03 - Business Intelligence
 ## Speaker: Wasley Portes
 ## Title: SSIS 2016 - New features and improvements
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 03 - Business Int
 #### SessionID: 54596
 # Passo a Passo para realizar uma Consultoria de Tuning
 #### [Back to calendar](#nr-580)
-Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 02 - Desenvolvimento
+Event Date: 08-04-2017 - Session time: 14:15:00 - Track: Track 02 - Desenvolvimento
 ## Speaker: Fabrício Lima
 ## Title: Passo a Passo para realizar uma Consultoria de Tuning
 ## Abstract:
@@ -123,7 +123,7 @@ Não perca!!!
 #### SessionID: 55171
 # Projetos com Reporting Services 2016 e SSAS (Row Level Security in EASY Mode)!!!
 #### [Back to calendar](#nr-580)
-Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 03 - Business Intelligence
+Event Date: 08-04-2017 - Session time: 14:15:00 - Track: Track 03 - Business Intelligence
 ## Speaker: Marcos Vinicius Oliveira Schardong
 ## Title: Projetos com Reporting Services 2016 e SSAS (Row Level Security in EASY Mode)!!!
 ## Abstract:
@@ -133,7 +133,7 @@ Apresentaremos a implantação da solução de Back End com SQL Server Analysis 
 #### SessionID: 56732
 # Quero ser um DBA. O que devo aprender ?
 #### [Back to calendar](#nr-580)
-Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 01 - Administração
+Event Date: 08-04-2017 - Session time: 14:15:00 - Track: Track 01 - Administração
 ## Speaker: Tiago Neves
 ## Title: Quero ser um DBA. O que devo aprender ?
 ## Abstract:
@@ -143,7 +143,7 @@ Darei um direcionamento de funcionalidades do SQL Server que voc#234; precisa ap
 #### SessionID: 61607
 # (Fast Track) SQL SERVER on Linux - First glimpse on High Availability
 #### [Back to calendar](#nr-580)
-Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 01 - Administração
+Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Track 01 - Administração
 ## Speaker: Marcelo Adade
 ## Title: (Fast Track) SQL SERVER on Linux - First glimpse on High Availability
 ## Abstract:
@@ -154,7 +154,7 @@ Apesar de tudo ser experimental, em breve teremos sistemas similares sendo execu
 #### SessionID: 62473
 # (Fast Track) Power BI  Power BI Embedded
 #### [Back to calendar](#nr-580)
-Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 03 - Business Intelligence
+Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Track 03 - Business Intelligence
 ## Speaker: Rodrigo Dornel
 ## Title: (Fast Track) Power BI  Power BI Embedded
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 03 - Business Int
 #### SessionID: 63470
 # (Fast Track) T-SQL - Window Functions
 #### [Back to calendar](#nr-580)
-Event Date: 08-04-2017 - Session time: 16:45:00 - Track: Track 02 - Desenvolvimento
+Event Date: 08-04-2017 - Session time: 16:00:00 - Track: Track 02 - Desenvolvimento
 ## Speaker: Tiago Crespi
 ## Title: (Fast Track) T-SQL - Window Functions
 ## Abstract:

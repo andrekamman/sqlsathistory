@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 77634
 # PowerShell for the DBA: Why I love my inner pig-dog [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Administration
+Event Date: 27-10-2018 - Session time: 09:15:00 - Track: Administration
 ## Speaker: William Durkin
 ## Title: PowerShell for the DBA: Why I love my inner pig-dog [EN]
 ## Abstract:
@@ -44,7 +44,7 @@ Along the way we will see that we can benefit from the wide world of PowerShell 
 #### SessionID: 78581
 # TensorFlow as a Service [DE]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Analytics
+Event Date: 27-10-2018 - Session time: 09:15:00 - Track: Analytics
 ## Speaker: Sascha Dittmann
 ## Title: TensorFlow as a Service [DE]
 ## Abstract:
@@ -55,7 +55,7 @@ In dieser Session zeigt Sascha Dittmann wie man mit der Azure Machine Learning W
 #### SessionID: 83645
 # Common Data Service – Your new Enterprise Data Repository [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Business Intelligence
+Event Date: 27-10-2018 - Session time: 09:15:00 - Track: Business Intelligence
 ## Speaker: Oliver Engels
 ## Title: Common Data Service – Your new Enterprise Data Repository [EN]
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Business Intelligence
 #### SessionID: 85194
 # Connecting SQL and Blockchain: The Azure Blockchain Workbench [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Development
+Event Date: 27-10-2018 - Session time: 09:15:00 - Track: Development
 ## Speaker: Christoph Seck
 ## Title: Connecting SQL and Blockchain: The Azure Blockchain Workbench [EN]
 ## Abstract:
@@ -80,7 +80,7 @@ We will see how to
 #### SessionID: 77582
 # Let’s build SSIS packages with Biml – live [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Business Intelligence
+Event Date: 27-10-2018 - Session time: 10:45:00 - Track: Business Intelligence
 ## Speaker: Ben Weissman
 ## Title: Let’s build SSIS packages with Biml – live [EN]
 ## Abstract:
@@ -91,7 +91,7 @@ Let’s see, how that goes…
 #### SessionID: 80029
 # Stop everything! T-SQL tips to make a Developer life easier [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Development
+Event Date: 27-10-2018 - Session time: 10:45:00 - Track: Development
 ## Speaker: Marcos Freccia
 ## Title: Stop everything! T-SQL tips to make a Developer life easier [EN]
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Development
 #### SessionID: 82251
 # From SQL to R – Leverage Your T-SQL Knowledge to Learn R [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Analytics
+Event Date: 27-10-2018 - Session time: 10:45:00 - Track: Analytics
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: From SQL to R – Leverage Your T-SQL Knowledge to Learn R [EN]
 ## Abstract:
@@ -110,7 +110,7 @@ This session will kick you off to the new language by using analogies from T-SQL
 #### SessionID: 84128
 # Power BI deployment strategy for publishing and maintenance [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Business Intelligence
+Event Date: 27-10-2018 - Session time: 10:45:00 - Track: Business Intelligence
 ## Speaker: Prathy Kamasani
 ## Title: Power BI deployment strategy for publishing and maintenance [EN]
 ## Abstract:
@@ -130,7 +130,7 @@ How to use Power BI API to document your organisation Power BI Service
 #### SessionID: 80284
 # Continuous Delivery for BI projects [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Business Intelligence
+Event Date: 27-10-2018 - Session time: 12:00:00 - Track: Business Intelligence
 ## Speaker: Jens Vestergaard
 ## Title: Continuous Delivery for BI projects [EN]
 ## Abstract:
@@ -151,7 +151,7 @@ Team Services
 #### SessionID: 80754
 # Azure SQL Managed Instance - Microsofts next try [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Administration
+Event Date: 27-10-2018 - Session time: 12:00:00 - Track: Administration
 ## Speaker: Maic Beher
 ## Title: Azure SQL Managed Instance - Microsofts next try [EN]
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Administration
 #### SessionID: 82152
 # The joy of analytics - Let's paint a Data Warehouse into the cloud [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Analytics
+Event Date: 27-10-2018 - Session time: 12:00:00 - Track: Analytics
 ## Speaker: Andre Essing
 ## Title: The joy of analytics - Let's paint a Data Warehouse into the cloud [EN]
 ## Abstract:
@@ -174,7 +174,7 @@ Come and join my session and draw a Modern Data Warehouse together.
 #### SessionID: 83569
 # The Query Store and Query Tuning in SQL Server [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Development
+Event Date: 27-10-2018 - Session time: 12:00:00 - Track: Development
 ## Speaker: Grant Fritchey
 ## Title: The Query Store and Query Tuning in SQL Server [EN]
 ## Abstract:
@@ -183,7 +183,7 @@ Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Development
 #### SessionID: 85500
 # The Solisyon Nerd-Quiz
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Sponsor/Lunch Session
+Event Date: 27-10-2018 - Session time: 13:30:00 - Track: Sponsor/Lunch Session
 ## Speaker: Ben Weissman
 ## Title: The Solisyon Nerd-Quiz
 ## Abstract:
@@ -198,7 +198,7 @@ Join in, watch, learn and laugh with us.
 #### SessionID: 77660
 # Epidemic Plague: Superficial Indexing [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Development
+Event Date: 27-10-2018 - Session time: 14:20:00 - Track: Development
 ## Speaker: Markus Winand
 ## Title: Epidemic Plague: Superficial Indexing [EN]
 ## Abstract:
@@ -207,7 +207,7 @@ Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Development
 #### SessionID: 78012
 # Data Overview and Manipulation – T-SQL, R, Python [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Analytics
+Event Date: 27-10-2018 - Session time: 14:20:00 - Track: Analytics
 ## Speaker: Dejan Sarka
 ## Title: Data Overview and Manipulation – T-SQL, R, Python [EN]
 ## Abstract:
@@ -216,7 +216,7 @@ Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Analytics
 #### SessionID: 84116
 # Power Metal mit Power BI [DE]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Business Intelligence
+Event Date: 27-10-2018 - Session time: 14:20:00 - Track: Business Intelligence
 ## Speaker: Frank Geisler
 ## Title: Power Metal mit Power BI [DE]
 ## Abstract:
@@ -225,7 +225,7 @@ Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Business Intelligence
 #### SessionID: 85075
 # Becoming a hipster DBA, a guide to Github and CI/CD for Admins [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Administration
+Event Date: 27-10-2018 - Session time: 14:20:00 - Track: Administration
 ## Speaker: André Kamman
 ## Title: Becoming a hipster DBA, a guide to Github and CI/CD for Admins [EN]
 ## Abstract:
@@ -234,7 +234,7 @@ Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Administration
 #### SessionID: 78909
 # From relational to Multimodel : Azure Cosmos DB [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Development
+Event Date: 27-10-2018 - Session time: 15:40:00 - Track: Development
 ## Speaker: Rudi Bruchez
 ## Title: From relational to Multimodel : Azure Cosmos DB [EN]
 ## Abstract:
@@ -243,7 +243,7 @@ Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Development
 #### SessionID: 83126
 # Azure SQL Database Tips and Tricks for Beginners [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Administration
+Event Date: 27-10-2018 - Session time: 15:40:00 - Track: Administration
 ## Speaker: Tobias Koprowski
 ## Title: Azure SQL Database Tips and Tricks for Beginners [EN]
 ## Abstract:
@@ -254,7 +254,7 @@ In this session, you’ll see the differences, functionalities, restrictions, an
 #### SessionID: 83373
 # 13 reasons why my query is slow [EN]
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Development
+Event Date: 27-10-2018 - Session time: 15:40:00 - Track: Development
 ## Speaker: Fabiano Amorim
 ## Title: 13 reasons why my query is slow [EN]
 ## Abstract:
@@ -277,7 +277,7 @@ Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Development
 #### SessionID: 84676
 # Embrace and Extend: First-Class Activity and 3rd Party Ecosystem for SSIS in ADF
 #### [Back to calendar](#nr-772)
-Event Date: 27-10-2018 - Session time: 17:00:00 - Track: Business Intelligence
+Event Date: 27-10-2018 - Session time: 15:40:00 - Track: Business Intelligence
 ## Speaker: Tillmann Eitelberg
 ## Title: Embrace and Extend: First-Class Activity and 3rd Party Ecosystem for SSIS in ADF
 ## Abstract:

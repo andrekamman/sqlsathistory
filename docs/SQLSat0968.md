@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 101759
 # Streaming Architecture with Big Data Clusters (SQL2019)
 #### [Back to calendar](#nr-968)
-Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Strategy and Architecture
+Event Date: 20-06-2020 - Session time: 09:30:00 - Track: Strategy and Architecture
 ## Speaker: Luiz Henrique Garetti
 ## Title: Streaming Architecture with Big Data Clusters (SQL2019)
 ## Abstract:
@@ -35,7 +35,7 @@ Nesta sessão, vamos aprofundar o assunto e entender (teoria e prática) essa no
 #### SessionID: 105315
 # SQL Server Errorlog Near-Realtime
 #### [Back to calendar](#nr-968)
-Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-06-2020 - Session time: 09:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Flávio Farias
 ## Title: SQL Server Errorlog Near-Realtime
 ## Abstract:
@@ -44,7 +44,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Cloud Application Devel
 #### SessionID: 105320
 # Utilizando o Azure Sentinel para detectar um ataque de força bruta em um MSSQL Server
 #### [Back to calendar](#nr-968)
-Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Other
+Event Date: 20-06-2020 - Session time: 09:30:00 - Track: Other
 ## Speaker: Eduardo Kieling
 ## Title: Utilizando o Azure Sentinel para detectar um ataque de força bruta em um MSSQL Server
 ## Abstract:
@@ -53,7 +53,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Other
 #### SessionID: 101846
 # LGPD - Lei Geral de Proteção de Dados
 #### [Back to calendar](#nr-968)
-Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Application  Database Development
+Event Date: 20-06-2020 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Sulamita Dantas
 ## Title: LGPD - Lei Geral de Proteção de Dados
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Application  Database D
 #### SessionID: 105214
 # Gerenciando o seu banco de dados através do Windows Virtual Desktop
 #### [Back to calendar](#nr-968)
-Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-06-2020 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rafael Felipe
 ## Title: Gerenciando o seu banco de dados através do Windows Virtual Desktop
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Enterprise Database Adm
 #### SessionID: 105333
 # Azure Synapse Analytics no Dia a Dia
 #### [Back to calendar](#nr-968)
-Event Date: 20-06-2020 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-06-2020 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bruno Feldman
 ## Title: Azure Synapse Analytics no Dia a Dia
 ## Abstract:
@@ -81,7 +81,7 @@ Nessa sessão abordaremos os desafios da migração, dicas para obter o máximo 
 #### SessionID: 102069
 # Melhores práticas #SQN
 #### [Back to calendar](#nr-968)
-Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Professional Development
+Event Date: 20-06-2020 - Session time: 11:30:00 - Track: Professional Development
 ## Speaker: Ricardo Leka
 ## Title: Melhores práticas #SQN
 ## Abstract:
@@ -91,7 +91,7 @@ Vamos conversar sobre configurações e programação que já encontramos em vá
 #### SessionID: 105319
 # SQL Server Backups 101
 #### [Back to calendar](#nr-968)
-Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-06-2020 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: LOGAN MERAZZI
 ## Title: SQL Server Backups 101
 ## Abstract:
@@ -102,7 +102,7 @@ Nessa sessão, veremos alguns modelos de estratégias de backups, algumas (des)v
 #### SessionID: 105380
 # Tudo que você deveria saber sobre os novos recursos do Azure Synapse Analytics.
 #### [Back to calendar](#nr-968)
-Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-06-2020 - Session time: 11:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sidney Cirqueira
 ## Title: Tudo que você deveria saber sobre os novos recursos do Azure Synapse Analytics.
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Cloud Application Devel
 #### SessionID: 102354
 # Conceitos de Alta disponibilidade no SQL SERVER
 #### [Back to calendar](#nr-968)
-Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-06-2020 - Session time: 12:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcelo Adade
 ## Title: Conceitos de Alta disponibilidade no SQL SERVER
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Enterprise Database Adm
 #### SessionID: 103716
 # Entity Framework Core - Acesso a dados e controle de migrações
 #### [Back to calendar](#nr-968)
-Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Application  Database Development
+Event Date: 20-06-2020 - Session time: 12:30:00 - Track: Application  Database Development
 ## Speaker: Federico Bernasconi
 ## Title: Entity Framework Core - Acesso a dados e controle de migrações
 ## Abstract:
@@ -130,7 +130,7 @@ Também vamos dar uma olhada para o recurso de controle de migração de tabelas
 #### SessionID: 105175
 # Quer começar na carreira de IA e ML... Aqui tem um caminho!
 #### [Back to calendar](#nr-968)
-Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
+Event Date: 20-06-2020 - Session time: 12:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Diego Nogare
 ## Title: Quer começar na carreira de IA e ML... Aqui tem um caminho!
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 101914
 # SQL Server on Linux - Da Instalação a Configurações
 #### [Back to calendar](#nr-968)
-Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Application  Database Development
+Event Date: 20-06-2020 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Anderson Souza
 ## Title: SQL Server on Linux - Da Instalação a Configurações
 ## Abstract:
@@ -148,7 +148,7 @@ Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Application  Database D
 #### SessionID: 102050
 # Hacking SQL Server 3.0
 #### [Back to calendar](#nr-968)
-Event Date: 20-06-2020 - Session time: 14:30:00 - Track: Strategy and Architecture
+Event Date: 20-06-2020 - Session time: 13:30:00 - Track: Strategy and Architecture
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Hacking SQL Server 3.0
 ## Abstract:
@@ -159,7 +159,7 @@ Vamos simular um novo modelo de acesso em um banco de dados e como prevenir este
 #### SessionID: 105213
 # Power BI - Dicas e Truques para turbinar seu Dashboard
 #### [Back to calendar](#nr-968)
-Event Date: 20-06-2020 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-06-2020 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rodrigo Dornel
 ## Title: Power BI - Dicas e Truques para turbinar seu Dashboard
 ## Abstract:

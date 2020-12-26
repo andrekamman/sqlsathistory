@@ -18,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 47104
 # SQL Server 2016 Security Enhancements
 #### [Back to calendar](#nr-529)
-Event Date: 04-06-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-06-2016 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marek Chmel
 ## Title: SQL Server 2016 Security Enhancements
 ## Abstract:
@@ -27,7 +27,7 @@ Event Date: 04-06-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 49130
 # Reporting Services 2016, a reborn product
 #### [Back to calendar](#nr-529)
-Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 04-06-2016 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: LEONEL ABREU
 ## Title: Reporting Services 2016, a reborn product
 ## Abstract:
@@ -36,7 +36,7 @@ Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Information Delivery
 #### SessionID: 47081
 # What Application Developers Should Know About SQL Server?
 #### [Back to calendar](#nr-529)
-Event Date: 04-06-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 04-06-2016 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Miloš Radivojević
 ## Title: What Application Developers Should Know About SQL Server?
 ## Abstract:
@@ -47,7 +47,7 @@ In this session we will cover the most important things they need to know about 
 #### SessionID: 49369
 # Azure Machine Learning: From Design to Integration
 #### [Back to calendar](#nr-529)
-Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-06-2016 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Peter Myers
 ## Title: Azure Machine Learning: From Design to Integration
 ## Abstract:
@@ -60,7 +60,7 @@ This session has been specifically designed to describe Machine Learning fundame
 #### SessionID: 46896
 # Top 10 SSAS Solution Design Best Practices
 #### [Back to calendar](#nr-529)
-Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-06-2016 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Zoltán Horváth
 ## Title: Top 10 SSAS Solution Design Best Practices
 ## Abstract:
@@ -71,7 +71,7 @@ I've collected a number of best practices during the years I've spent on buildin
 #### SessionID: 49160
 # To NHibernate or not to NHibernate
 #### [Back to calendar](#nr-529)
-Event Date: 04-06-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 04-06-2016 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Volodymyr Usarskyy
 ## Title: To NHibernate or not to NHibernate
 ## Abstract:
@@ -85,7 +85,7 @@ I will also provide some demos to show why NHibernate is not as good as develope
 #### SessionID: 48715
 # Easy ETL with Biml
 #### [Back to calendar](#nr-529)
-Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-06-2016 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andrzej Kukula
 ## Title: Easy ETL with Biml
 ## Abstract:
@@ -94,7 +94,7 @@ Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 49962
 # Power BI – “5 Minutes to WOW”, but HOW?
 #### [Back to calendar](#nr-529)
-Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 04-06-2016 - Session time: 14:00:00 - Track: BI Information Delivery
 ## Speaker: Sam Lester
 ## Title: Power BI – “5 Minutes to WOW”, but HOW?
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 04-06-2016 - Session time: 16:30:00 - Track: BI Information Delivery
 #### SessionID: 47243
 # Revolutionary R integration in SQL Server 2016
 #### [Back to calendar](#nr-529)
-Event Date: 04-06-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 04-06-2016 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: Revolutionary R integration in SQL Server 2016
 ## Abstract:

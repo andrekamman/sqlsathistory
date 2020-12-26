@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 55059
 # SQL Server deployment journey, da Dev a Ops
 #### [Back to calendar](#nr-589)
-Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DEV
+Event Date: 25-02-2017 - Session time: 11:00:00 - Track: DEV
 ## Speaker: Alessandro Alpi
 ## Title: SQL Server deployment journey, da Dev a Ops
 ## Abstract:
@@ -34,7 +34,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DEV
 #### SessionID: 55095
 # Think  work like a Data Scientist with SQL 2016 R
 #### [Back to calendar](#nr-589)
-Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DATA SCIENCE
+Event Date: 25-02-2017 - Session time: 11:00:00 - Track: DATA SCIENCE
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Think  work like a Data Scientist with SQL 2016 R
 ## Abstract:
@@ -47,7 +47,7 @@ In this session, you will definitely take away a breakthrough concept of Advance
 #### SessionID: 56579
 # Cloud BI with Azure Analysis Services
 #### [Back to calendar](#nr-589)
-Event Date: 25-02-2017 - Session time: 16:55:00 - Track: BI/CLOUD
+Event Date: 25-02-2017 - Session time: 11:00:00 - Track: BI/CLOUD
 ## Speaker: Sergiy Lunyakin
 ## Title: Cloud BI with Azure Analysis Services
 ## Abstract:
@@ -56,7 +56,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: BI/CLOUD
 #### SessionID: 57237
 # SQL Server tuning : start to finish
 #### [Back to calendar](#nr-589)
-Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DBA
+Event Date: 25-02-2017 - Session time: 11:00:00 - Track: DBA
 ## Speaker: Danilo Dominici
 ## Title: SQL Server tuning : start to finish
 ## Abstract:
@@ -65,7 +65,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DBA
 #### SessionID: 55047
 # Data Science for beginners
 #### [Back to calendar](#nr-589)
-Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DATA SCIENCE
+Event Date: 25-02-2017 - Session time: 12:10:00 - Track: DATA SCIENCE
 ## Speaker: Tomaž Kaštrun
 ## Title: Data Science for beginners
 ## Abstract:
@@ -83,7 +83,7 @@ Session we will look into technologies that can be tackled using SQL Server 2016
 #### SessionID: 57408
 # Exploring SQL Server Plan Cache
 #### [Back to calendar](#nr-589)
-Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DBA
+Event Date: 25-02-2017 - Session time: 12:10:00 - Track: DBA
 ## Speaker: Sergio Govoni
 ## Title: Exploring SQL Server Plan Cache
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DBA
 #### SessionID: 57868
 # What's new on SQL Azure?
 #### [Back to calendar](#nr-589)
-Event Date: 25-02-2017 - Session time: 16:55:00 - Track: BI/CLOUD
+Event Date: 25-02-2017 - Session time: 12:10:00 - Track: BI/CLOUD
 ## Speaker: Marco Parenzan
 ## Title: What's new on SQL Azure?
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: BI/CLOUD
 #### SessionID: 59730
 # Columnstore Indexes: what they are, and how to use them
 #### [Back to calendar](#nr-589)
-Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DEV
+Event Date: 25-02-2017 - Session time: 12:10:00 - Track: DEV
 ## Speaker: Francesco Milano
 ## Title: Columnstore Indexes: what they are, and how to use them
 ## Abstract:
@@ -112,7 +112,7 @@ In questa sessione verranno introdotti i Columnstore Indexes, concentrandosi sul
 #### SessionID: 57247
 # Indici e statistiche: quanto e come incidono sull'efficenza dei nostri databases
 #### [Back to calendar](#nr-589)
-Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DBA
+Event Date: 25-02-2017 - Session time: 14:30:00 - Track: DBA
 ## Speaker: Gilberto Zampatti
 ## Title: Indici e statistiche: quanto e come incidono sull'efficenza dei nostri databases
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DBA
 #### SessionID: 57286
 # SQL Server 2016 Temporal Database Support - Management, Retention and Performance
 #### [Back to calendar](#nr-589)
-Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DEV
+Event Date: 25-02-2017 - Session time: 14:30:00 - Track: DEV
 ## Speaker: Pasquale Ceglie
 ## Title: SQL Server 2016 Temporal Database Support - Management, Retention and Performance
 ## Abstract:
@@ -130,7 +130,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DEV
 #### SessionID: 57294
 # Big Data with Azure: where to begin? Concepts and best practices
 #### [Back to calendar](#nr-589)
-Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DATA SCIENCE
+Event Date: 25-02-2017 - Session time: 14:30:00 - Track: DATA SCIENCE
 ## Speaker: Satya Jayanty
 ## Title: Big Data with Azure: where to begin? Concepts and best practices
 ## Abstract:
@@ -141,7 +141,7 @@ Microsoft Azure has the ability to move, store and analyze data within the cloud
 #### SessionID: 57869
 # Optimizing Dax
 #### [Back to calendar](#nr-589)
-Event Date: 25-02-2017 - Session time: 16:55:00 - Track: BI/CLOUD
+Event Date: 25-02-2017 - Session time: 14:30:00 - Track: BI/CLOUD
 ## Speaker: Marco Pozzan
 ## Title: Optimizing Dax
 ## Abstract:
@@ -150,7 +150,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: BI/CLOUD
 #### SessionID: 55045
 # Analyzing Text with SQL Server, R, and Azure ML
 #### [Back to calendar](#nr-589)
-Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DATA SCIENCE
+Event Date: 25-02-2017 - Session time: 15:45:00 - Track: DATA SCIENCE
 ## Speaker: Dejan Sarka
 ## Title: Analyzing Text with SQL Server, R, and Azure ML
 ## Abstract:
@@ -159,7 +159,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DATA SCIENCE
 #### SessionID: 57287
 # Securing SQL Server 2016 Databases (IT)
 #### [Back to calendar](#nr-589)
-Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DEV
+Event Date: 25-02-2017 - Session time: 15:45:00 - Track: DEV
 ## Speaker: Gianluca Hotz
 ## Title: Securing SQL Server 2016 Databases (IT)
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DEV
 #### SessionID: 57377
 # SQL Server Infernals: Worst Practices in Action
 #### [Back to calendar](#nr-589)
-Event Date: 25-02-2017 - Session time: 16:55:00 - Track: DBA
+Event Date: 25-02-2017 - Session time: 15:45:00 - Track: DBA
 ## Speaker: Gianluca Sartori
 ## Title: SQL Server Infernals: Worst Practices in Action
 ## Abstract:

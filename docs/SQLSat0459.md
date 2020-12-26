@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 38790
 # Maintenance Plans ad Hoc
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
+Event Date: 21-11-2015 - Session time: 09:15:00 - Track: DBA
 ## Speaker: Tobias Koprowski
 ## Title: Maintenance Plans ad Hoc
 ## Abstract:
@@ -44,7 +44,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 39469
 # La lucha contra el "Dame mi fichero"
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
+Event Date: 21-11-2015 - Session time: 09:15:00 - Track: Business  Intelligence
 ## Speaker: Alberto López Grande
 ## Title: La lucha contra el "Dame mi fichero"
 ## Abstract:
@@ -53,7 +53,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
 #### SessionID: 40815
 # Troubleshooting de bloqueos en SQL Server
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
+Event Date: 21-11-2015 - Session time: 09:15:00 - Track: DBA
 ## Speaker: Eladio Rincon
 ## Title: Troubleshooting de bloqueos en SQL Server
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 41019
 # No todo en esta vida es PowerBI: SSRS 2016 + Datazen 
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Big Data  Analytics
+Event Date: 21-11-2015 - Session time: 09:15:00 - Track: Big Data  Analytics
 ## Speaker: Sergio Carrillo Vila
 ## Title: No todo en esta vida es PowerBI: SSRS 2016 + Datazen 
 ## Abstract:
@@ -75,7 +75,7 @@ En esta sesi#243;n veremos las novedades que nos aporta la nueva versi#243;n de 
 #### SessionID: 38407
 # Columnstore in SQL Server 2016
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
+Event Date: 21-11-2015 - Session time: 10:15:00 - Track: Business  Intelligence
 ## Speaker: Niko Neugebauer
 ## Title: Columnstore in SQL Server 2016
 ## Abstract:
@@ -87,7 +87,7 @@ This session will be delivering an overview of what is new and how it is going t
 #### SessionID: 39820
 # Cuadros de Mando: El todo es m#225;s que la suma de las partes
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Big Data  Analytics
+Event Date: 21-11-2015 - Session time: 10:15:00 - Track: Big Data  Analytics
 ## Speaker: Salvador Ramos
 ## Title: Cuadros de Mando: El todo es m#225;s que la suma de las partes
 ## Abstract:
@@ -96,7 +96,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Big Data  Analytics
 #### SessionID: 40667
 # Sex, PowerBI and RockRoll
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
+Event Date: 21-11-2015 - Session time: 10:15:00 - Track: Business  Intelligence
 ## Speaker: Javier Menendez Pallo
 ## Title: Sex, PowerBI and RockRoll
 ## Abstract:
@@ -108,7 +108,7 @@ In this session you will see the new Microsoft Business Intelligence Platform: P
 #### SessionID: 40705
 # SQL Server Disaster Recovery Plan con Azure
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Cloud
+Event Date: 21-11-2015 - Session time: 10:15:00 - Track: Cloud
 ## Speaker: Enrique Puig
 ## Title: SQL Server Disaster Recovery Plan con Azure
 ## Abstract:
@@ -119,7 +119,7 @@ En esta sesi#243;n, repleta de demos,  hablaremos de la importancia del DRP, de 
 #### SessionID: 42383
 # Hewlett Packard Enterprise - Arquitectura sin barreras para entornos SQL
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Sponsor Session
+Event Date: 21-11-2015 - Session time: 11:30:00 - Track: Sponsor Session
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Hewlett Packard Enterprise - Arquitectura sin barreras para entornos SQL
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Sponsor Session
 #### SessionID: 42423
 # Pyramid Analytics-From Me BI to We BI, take your BI solution beyo
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Sponsor Session
+Event Date: 21-11-2015 - Session time: 11:30:00 - Track: Sponsor Session
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Pyramid Analytics-From Me BI to We BI, take your BI solution beyo
 ## Abstract:
@@ -150,7 +150,7 @@ Pyramid Analytics revolutionary platform provides a single platform that deliver
 #### SessionID: 42424
 # SolidQ - Think big, Move fast
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Sponsor Session
+Event Date: 21-11-2015 - Session time: 11:30:00 - Track: Sponsor Session
 ## Speaker: Ruben Pertusa Lopez
 ## Title: SolidQ - Think big, Move fast
 ## Abstract:
@@ -159,7 +159,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Sponsor Session
 #### SessionID: 39921
 # Bases de datos NoSQL en Azure
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Cloud
+Event Date: 21-11-2015 - Session time: 12:05:00 - Track: Cloud
 ## Speaker: Roberto Gonzalez
 ## Title: Bases de datos NoSQL en Azure
 ## Abstract:
@@ -169,7 +169,7 @@ En esta charla veremos las distintas posibilidades de bases de datos NoSQL que t
 #### SessionID: 40682
 # Los mejores patrones para cargas masivas en ETL 
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
+Event Date: 21-11-2015 - Session time: 12:05:00 - Track: Business  Intelligence
 ## Speaker: Miguel Egea
 ## Title: Los mejores patrones para cargas masivas en ETL 
 ## Abstract:
@@ -178,7 +178,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
 #### SessionID: 40856
 # Windows 10 IoT y an#225;lisis de sensores en tiempo real con stream analytics
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Big Data  Analytics
+Event Date: 21-11-2015 - Session time: 12:05:00 - Track: Big Data  Analytics
 ## Speaker: Juan Manuel Servera Bondroit
 ## Title: Windows 10 IoT y an#225;lisis de sensores en tiempo real con stream analytics
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Big Data  Analytics
 #### SessionID: 41023
 # Query Store in SQL Server 2016
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
+Event Date: 21-11-2015 - Session time: 12:05:00 - Track: DBA
 ## Speaker: Andre Batista
 ## Title: Query Store in SQL Server 2016
 ## Abstract:
@@ -196,7 +196,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 38727
 # Advanced BIML - for the advanced ETL developer
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
+Event Date: 21-11-2015 - Session time: 13:05:00 - Track: Business  Intelligence
 ## Speaker: Regis Baccaro
 ## Title: Advanced BIML - for the advanced ETL developer
 ## Abstract:
@@ -206,7 +206,7 @@ By now you already know that BIML is a great productivity enhancement to SSIS. Y
 #### SessionID: 39757
 # Navision + PowerBI: Manage your business 365, anywhere and everywhere
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Cloud
+Event Date: 21-11-2015 - Session time: 13:05:00 - Track: Cloud
 ## Speaker: Miguel Llorca
 ## Title: Navision + PowerBI: Manage your business 365, anywhere and everywhere
 ## Abstract:
@@ -218,7 +218,7 @@ The work of the department goes beyond solving problems and ensure efficient tec
 #### SessionID: 40817
 # Monitorizando SSISDB like a boss
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
+Event Date: 21-11-2015 - Session time: 13:05:00 - Track: Business  Intelligence
 ## Speaker: Pau Sempere
 ## Title: Monitorizando SSISDB like a boss
 ## Abstract:
@@ -227,7 +227,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
 #### SessionID: 40824
 # Como leer planes de ejecuci#243;n - Edici#243;n 2015
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
+Event Date: 21-11-2015 - Session time: 13:05:00 - Track: DBA
 ## Speaker: Enrique Bañuls
 ## Title: Como leer planes de ejecuci#243;n - Edici#243;n 2015
 ## Abstract:
@@ -236,7 +236,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 39024
 #  Ye Olde Cluster Curiosity Shoppe - Clustering tips, tricks and oddities
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: DBA
+Event Date: 21-11-2015 - Session time: 15:00:00 - Track: DBA
 ## Speaker: Mark Broadbent
 ## Title:  Ye Olde Cluster Curiosity Shoppe - Clustering tips, tricks and oddities
 ## Abstract:
@@ -247,7 +247,7 @@ Welcome to the strange and mysterious world of SQL Server Failover Clustering an
 #### SessionID: 40318
 # Introducci#243;n a DAX, problema vs Soluci#243;n
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Business  Intelligence
+Event Date: 21-11-2015 - Session time: 15:00:00 - Track: Business  Intelligence
 ## Speaker: Ana Maria Bisbé York
 ## Title: Introducci#243;n a DAX, problema vs Soluci#243;n
 ## Abstract:
@@ -258,7 +258,7 @@ En esta sesi#243;n vamos a acercarnos a DAX, sus componentes y conceptos fundame
 #### SessionID: 40760
 # SQL Azure Database - Lecciones aprendidas desde las trincheras con V12
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Cloud
+Event Date: 21-11-2015 - Session time: 15:00:00 - Track: Cloud
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: SQL Azure Database - Lecciones aprendidas desde las trincheras con V12
 ## Abstract:
@@ -267,7 +267,7 @@ Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Cloud
 #### SessionID: 41018
 # Hazle la competencia a Netflix con tu propio Azure Machine Learning
 #### [Back to calendar](#nr-459)
-Event Date: 21-11-2015 - Session time: 16:30:00 - Track: Big Data  Analytics
+Event Date: 21-11-2015 - Session time: 15:00:00 - Track: Big Data  Analytics
 ## Speaker: Carlos Gonzalez
 ## Title: Hazle la competencia a Netflix con tu propio Azure Machine Learning
 ## Abstract:

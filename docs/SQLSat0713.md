@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 70695
 # Machine Learning with SQL Server
 #### [Back to calendar](#nr-713)
-Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
+Event Date: 02-06-2018 - Session time: 09:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ginger Grant
 ## Title: Machine Learning with SQL Server
 ## Abstract:
@@ -39,7 +39,7 @@ Session Goals
 #### SessionID: 80112
 # Practical SQL Server Performance Tuning
 #### [Back to calendar](#nr-713)
-Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-06-2018 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amit R S Bansal
 ## Title: Practical SQL Server Performance Tuning
 ## Abstract:
@@ -52,7 +52,7 @@ Topics Include: Module 1: CPU Troubleshooting (Scheduling), IO Troubleshooting, 
 #### SessionID: 72705
 # Intro into Power BI
 #### [Back to calendar](#nr-713)
-Event Date: 02-06-2018 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 02-06-2018 - Session time: 09:40:00 - Track: BI Information Delivery
 ## Speaker: Gilbert Quevauvilliers
 ## Title: Intro into Power BI
 ## Abstract:
@@ -63,7 +63,7 @@ It will an interactive demo based session, where the goal will be for the user t
 #### SessionID: 77105
 # Data Privacy and the Data Professional.
 #### [Back to calendar](#nr-713)
-Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 02-06-2018 - Session time: 09:40:00 - Track: Strategy and Architecture
 ## Speaker: Martin Catherall
 ## Title: Data Privacy and the Data Professional.
 ## Abstract:
@@ -77,7 +77,7 @@ Come along to this session and hear how you and your team can lessen your chance
 #### SessionID: 78921
 # Tips and Tricks for Using SQL Server Management Studio Effectively
 #### [Back to calendar](#nr-713)
-Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 02-06-2018 - Session time: 09:40:00 - Track: Application  Database Development
 ## Speaker: Greg Low
 ## Title: Tips and Tricks for Using SQL Server Management Studio Effectively
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 70392
 # Real-Time Analytics with Power BI
 #### [Back to calendar](#nr-713)
-Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
+Event Date: 02-06-2018 - Session time: 11:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Manohar Punna
 ## Title: Real-Time Analytics with Power BI
 ## Abstract:
@@ -101,7 +101,7 @@ In this session
 #### SessionID: 74647
 # SQL Server Managed Instance, the PaaS Instance Offering
 #### [Back to calendar](#nr-713)
-Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 02-06-2018 - Session time: 11:00:00 - Track: Strategy and Architecture
 ## Speaker: Henry Rooney
 ## Title: SQL Server Managed Instance, the PaaS Instance Offering
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 80186
 # Configuring AlwaysOn Availability Groups exclusively in Azure, using IaaS.
 #### [Back to calendar](#nr-713)
-Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-06-2018 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael van Halderen
 ## Title: Configuring AlwaysOn Availability Groups exclusively in Azure, using IaaS.
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 74271
 # Advanced DAX for the SQL Professional
 #### [Back to calendar](#nr-713)
-Event Date: 02-06-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-06-2018 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Seamark
 ## Title: Advanced DAX for the SQL Professional
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 02-06-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 80082
 # Modern Data Warehouse using Lambda Architecture and Azure
 #### [Back to calendar](#nr-713)
-Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 02-06-2018 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anupama Natarajan
 ## Title: Modern Data Warehouse using Lambda Architecture and Azure
 ## Abstract:
@@ -145,7 +145,7 @@ In this session you will learn about
 #### SessionID: 80113
 # Troubleshooting SQL Server Memory Issues
 #### [Back to calendar](#nr-713)
-Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-06-2018 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amit R S Bansal
 ## Title: Troubleshooting SQL Server Memory Issues
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 70224
 # Hybrid Distributed Architecture with Azure Data Sync 2.0
 #### [Back to calendar](#nr-713)
-Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 02-06-2018 - Session time: 14:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Martin Cairney
 ## Title: Hybrid Distributed Architecture with Azure Data Sync 2.0
 ## Abstract:
@@ -165,7 +165,7 @@ This session will show how one organisation has used Azure Data Sync to allow fo
 #### SessionID: 72435
 # BI is a Journey, Not a Destination
 #### [Back to calendar](#nr-713)
-Event Date: 02-06-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-06-2018 - Session time: 14:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gogula Aryalingam
 ## Title: BI is a Journey, Not a Destination
 ## Abstract:
@@ -175,7 +175,7 @@ This session will focus on how you could develop a business intelligence solutio
 #### SessionID: 78489
 # Test Driven Development in SQL Server – how to deploy code safer
 #### [Back to calendar](#nr-713)
-Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 02-06-2018 - Session time: 14:50:00 - Track: Application  Database Development
 ## Speaker: Hamish Watson
 ## Title: Test Driven Development in SQL Server – how to deploy code safer
 ## Abstract:
@@ -189,7 +189,7 @@ A comprehensive DEMO will reveal how Test Driven Development can help you deploy
 #### SessionID: 78627
 # Implementing Python in SQL Server 2017
 #### [Back to calendar](#nr-713)
-Event Date: 02-06-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
+Event Date: 02-06-2018 - Session time: 14:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ginger Grant
 ## Title: Implementing Python in SQL Server 2017
 ## Abstract:

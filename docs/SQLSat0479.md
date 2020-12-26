@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 40559
 # Managing and Monitoring SQL Server for $0 without sacrificing functionality, performance or data…
 #### [Back to calendar](#nr-479)
-Event Date: 16-04-2016 - Session time: 15:35:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-04-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Dustin
 ## Title: Managing and Monitoring SQL Server for $0 without sacrificing functionality, performance or data…
 ## Abstract:
@@ -34,7 +34,7 @@ This session covers using features built into Windows, SQL Server as well as ext
 #### SessionID: 45229
 # Benefits of SSIS ETL automation with BIML
 #### [Back to calendar](#nr-479)
-Event Date: 16-04-2016 - Session time: 15:35:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-04-2016 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Peck
 ## Title: Benefits of SSIS ETL automation with BIML
 ## Abstract:
@@ -44,7 +44,7 @@ We'll also explore some less obvious time savers I've discovered while using BIM
 #### SessionID: 46844
 # Moving from Profiler to Extended Events.
 #### [Back to calendar](#nr-479)
-Event Date: 16-04-2016 - Session time: 15:35:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-04-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Martin Catherall
 ## Title: Moving from Profiler to Extended Events.
 ## Abstract:
@@ -53,7 +53,7 @@ Event Date: 16-04-2016 - Session time: 15:35:00 - Track: Enterprise Database Adm
 #### SessionID: 48188
 # Embracing Database Theft
 #### [Back to calendar](#nr-479)
-Event Date: 16-04-2016 - Session time: 15:35:00 - Track: Application  Database Development
+Event Date: 16-04-2016 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Chris Campbell
 ## Title: Embracing Database Theft
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 16-04-2016 - Session time: 15:35:00 - Track: Application  Database D
 #### SessionID: 40558
 # SQL Server Window functions – reducing the need for cursors and other horrible stuff
 #### [Back to calendar](#nr-479)
-Event Date: 16-04-2016 - Session time: 15:35:00 - Track: Application  Database Development
+Event Date: 16-04-2016 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: Dave Dustin
 ## Title: SQL Server Window functions – reducing the need for cursors and other horrible stuff
 ## Abstract:
@@ -73,7 +73,7 @@ This developer focused session describes and details usage of these features, co
 #### SessionID: 44767
 # High Availability for SQL Server Standard Edition
 #### [Back to calendar](#nr-479)
-Event Date: 16-04-2016 - Session time: 15:35:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-04-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Martin
 ## Title: High Availability for SQL Server Standard Edition
 ## Abstract:
@@ -84,7 +84,7 @@ Looking at how to combine the different features such as clustering, mirroring a
 #### SessionID: 46843
 # A Lap Around Columnstore.
 #### [Back to calendar](#nr-479)
-Event Date: 16-04-2016 - Session time: 15:35:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-04-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Martin Catherall
 ## Title: A Lap Around Columnstore.
 ## Abstract:
@@ -98,7 +98,7 @@ Attendees should leave this session will enough knowledge about the storage, arc
 #### SessionID: 42224
 # How Available is SQL Server 2016
 #### [Back to calendar](#nr-479)
-Event Date: 16-04-2016 - Session time: 15:35:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-04-2016 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: How Available is SQL Server 2016
 ## Abstract:
@@ -110,7 +110,7 @@ In this session we will look at the options available to you currently to meet y
 #### SessionID: 42486
 # Implementing DevOps methodologies to improve application deployment
 #### [Back to calendar](#nr-479)
-Event Date: 16-04-2016 - Session time: 15:35:00 - Track: Application  Database Development
+Event Date: 16-04-2016 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Hamish Watson
 ## Title: Implementing DevOps methodologies to improve application deployment
 ## Abstract:
@@ -126,7 +126,7 @@ In this session, we will look at continuous integration/delivery methods for bot
 #### SessionID: 42823
 # A Journey into Azure Machine Learning
 #### [Back to calendar](#nr-479)
-Event Date: 16-04-2016 - Session time: 15:35:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-04-2016 - Session time: 13:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leila Etaati
 ## Title: A Journey into Azure Machine Learning
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 16-04-2016 - Session time: 15:35:00 - Track: BI Platform Architectur
 #### SessionID: 42333
 # Protecting your data in the Cloud
 #### [Back to calendar](#nr-479)
-Event Date: 16-04-2016 - Session time: 15:35:00 - Track: Application  Database Development
+Event Date: 16-04-2016 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Vijayakumar Thurupathan
 ## Title: Protecting your data in the Cloud
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 16-04-2016 - Session time: 15:35:00 - Track: Application  Database D
 #### SessionID: 46471
 # Incremental Load using CDC and Integration Service
 #### [Back to calendar](#nr-479)
-Event Date: 16-04-2016 - Session time: 15:35:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-04-2016 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: Incremental Load using CDC and Integration Service
 ## Abstract:
@@ -154,7 +154,7 @@ In this session a brief architecture design for solving incremental load will be
 #### SessionID: 48163
 # Hitting the SQL Server "Go Faster" Button
 #### [Back to calendar](#nr-479)
-Event Date: 16-04-2016 - Session time: 15:35:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-04-2016 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Douglas
 ## Title: Hitting the SQL Server "Go Faster" Button
 ## Abstract:

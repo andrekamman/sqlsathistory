@@ -56,7 +56,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 93687
 # Outdoor Courtyard Welcome Message for SQL Saturday Phoenix
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
+Event Date: 04-05-2019 - Session time: 08:00:00 - Track: Advanced Analytics
 ## Speaker: Ginger Grant
 ## Title: Outdoor Courtyard Welcome Message for SQL Saturday Phoenix
 ## Abstract:
@@ -65,7 +65,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 #### SessionID: 89910
 # A Perfect Ten: The Data Model
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI ETL Architecture, Development  Administration
+Event Date: 04-05-2019 - Session time: 08:30:00 - Track: BI ETL Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: A Perfect Ten: The Data Model
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI ETL Architecture, De
 #### SessionID: 90003
 # Power BI Security -  End to End
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and Reporting
+Event Date: 04-05-2019 - Session time: 08:30:00 - Track: Data Visualization and Reporting
 ## Speaker: Suresh Datla
 ## Title: Power BI Security -  End to End
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and 
 #### SessionID: 90278
 # Azure Basics for the DBA
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 04-05-2019 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Morehouse
 ## Title: Azure Basics for the DBA
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 90896
 # Containers: Crash course for SQL Server DBAs
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Development, Administration  Deployment
+Event Date: 04-05-2019 - Session time: 08:30:00 - Track: Enterprise Database Development, Administration  Deployment
 ## Speaker: Mark DeNeve
 ## Title: Containers: Crash course for SQL Server DBAs
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Dev
 #### SessionID: 91428
 # Statewide Geography and Spatial Computing in SQL Server.
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance And Performance Tuning
+Event Date: 04-05-2019 - Session time: 08:30:00 - Track: Database Maintenance And Performance Tuning
 ## Speaker: Kevin Karns
 ## Title: Statewide Geography and Spatial Computing in SQL Server.
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance An
 #### SessionID: 91560
 # SQL Server Management Studio - Beyond the basics
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
+Event Date: 04-05-2019 - Session time: 08:30:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Adrian Mee
 ## Title: SQL Server Management Studio - Beyond the basics
 ## Abstract:
@@ -121,7 +121,7 @@ In this session, I will demonstrate these features and help you become more effi
 #### SessionID: 91651
 # Open Source vs SQL Database Maintenance Plans
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance And Performance Tuning
+Event Date: 04-05-2019 - Session time: 08:30:00 - Track: Database Maintenance And Performance Tuning
 ## Speaker: David Lundell
 ## Title: Open Source vs SQL Database Maintenance Plans
 ## Abstract:
@@ -130,7 +130,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance An
 #### SessionID: 92383
 # Website Analysis Using PowerBI and App Insights:  Easier than you think
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and Reporting
+Event Date: 04-05-2019 - Session time: 08:30:00 - Track: Data Visualization and Reporting
 ## Speaker: Steve Williams
 ## Title: Website Analysis Using PowerBI and App Insights:  Easier than you think
 ## Abstract:
@@ -144,7 +144,7 @@ Level: 200 - 300
 #### SessionID: 93406
 # Accelerating Insights with Azure Databricks
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
+Event Date: 04-05-2019 - Session time: 08:30:00 - Track: Advanced Analytics
 ## Speaker: Eddie Edgeworth
 ## Title: Accelerating Insights with Azure Databricks
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 #### SessionID: 89913
 # Performance Tuning, Getting the Biggest Bang for Your Buck
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance And Performance Tuning
+Event Date: 04-05-2019 - Session time: 09:45:00 - Track: Database Maintenance And Performance Tuning
 ## Speaker: Monica Rathbun
 ## Title: Performance Tuning, Getting the Biggest Bang for Your Buck
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance An
 #### SessionID: 90022
 # Real-World AI in Azure
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
+Event Date: 04-05-2019 - Session time: 09:45:00 - Track: Advanced Analytics
 ## Speaker: Amie Mason
 ## Title: Real-World AI in Azure
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 #### SessionID: 90274
 # Faster Transactions: Query Tuning for Data Manipulation
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance And Performance Tuning
+Event Date: 04-05-2019 - Session time: 09:45:00 - Track: Database Maintenance And Performance Tuning
 ## Speaker: Jeff Iannucci
 ## Title: Faster Transactions: Query Tuning for Data Manipulation
 ## Abstract:
@@ -180,7 +180,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance An
 #### SessionID: 91280
 # SQL vs NoSQL: a Comparison of SQL vs MongoDB
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Development, Administration  Deployment
+Event Date: 04-05-2019 - Session time: 09:45:00 - Track: Enterprise Database Development, Administration  Deployment
 ## Speaker: Eric Peterson
 ## Title: SQL vs NoSQL: a Comparison of SQL vs MongoDB
 ## Abstract:
@@ -195,7 +195,7 @@ We'll discuss the factors that drive your choice of database along with the trad
 #### SessionID: 91470
 # Advanced Power BI Modeling Techniques
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and Reporting
+Event Date: 04-05-2019 - Session time: 09:45:00 - Track: Data Visualization and Reporting
 ## Speaker: Martin Schoombee
 ## Title: Advanced Power BI Modeling Techniques
 ## Abstract:
@@ -206,7 +206,7 @@ In this session we'll take your modeling skills to the next level as we explore 
 #### SessionID: 93332
 # SSAS Tabular Models 101: Make a big difference in a small space
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
+Event Date: 04-05-2019 - Session time: 09:45:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Delora Bradish
 ## Title: SSAS Tabular Models 101: Make a big difference in a small space
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topic
 #### SessionID: 93464
 # Devops for Data Science
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
+Event Date: 04-05-2019 - Session time: 09:45:00 - Track: Advanced Analytics
 ## Speaker: David Bess
 ## Title: Devops for Data Science
 ## Abstract:
@@ -224,7 +224,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 #### SessionID: 89909
 # The Power of Data: The Complete Beginners Data Warehouse Kit
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI ETL Architecture, Development  Administration
+Event Date: 04-05-2019 - Session time: 11:00:00 - Track: BI ETL Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data: The Complete Beginners Data Warehouse Kit
 ## Abstract:
@@ -233,7 +233,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI ETL Architecture, De
 #### SessionID: 90260
 # Practical Power BI Report Design Tips for the Non-Artist
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and Reporting
+Event Date: 04-05-2019 - Session time: 11:00:00 - Track: Data Visualization and Reporting
 ## Speaker: Meagan Longoria
 ## Title: Practical Power BI Report Design Tips for the Non-Artist
 ## Abstract:
@@ -242,7 +242,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and 
 #### SessionID: 90619
 # Azure Data Factory Version 2 - Templates and new features
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 04-05-2019 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Joseph Barth
 ## Title: Azure Data Factory Version 2 - Templates and new features
 ## Abstract:
@@ -251,7 +251,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 90663
 # I have to support what!?  SQL, Oracle, and Mongo -  A side by side “how to”
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Development, Administration  Deployment
+Event Date: 04-05-2019 - Session time: 11:00:00 - Track: Enterprise Database Development, Administration  Deployment
 ## Speaker: Kimberly StJacques
 ## Title: I have to support what!?  SQL, Oracle, and Mongo -  A side by side “how to”
 ## Abstract:
@@ -260,7 +260,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Dev
 #### SessionID: 90785
 # Introduction to Execution Plans
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Development, Administration  Deployment
+Event Date: 04-05-2019 - Session time: 11:00:00 - Track: Enterprise Database Development, Administration  Deployment
 ## Speaker: Sean Brown
 ## Title: Introduction to Execution Plans
 ## Abstract:
@@ -274,7 +274,7 @@ Session content assumes an ability to do basic queries against a database.
 #### SessionID: 91566
 # From Zero to Hero: Start Machine Learning using Azure ML studio
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 04-05-2019 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mohamed Mawla
 ## Title: From Zero to Hero: Start Machine Learning using Azure ML studio
 ## Abstract:
@@ -287,7 +287,7 @@ Lots of hands-on
 #### SessionID: 91648
 # No Pane, No Gain: A Beginner's Guide to Window Functions
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
+Event Date: 04-05-2019 - Session time: 11:00:00 - Track: Advanced Analytics
 ## Speaker: Phil Guevara
 ## Title: No Pane, No Gain: A Beginner's Guide to Window Functions
 ## Abstract:
@@ -296,7 +296,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 #### SessionID: 93731
 # Professional Development Lunch Session with Paychex
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
+Event Date: 04-05-2019 - Session time: 12:00:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Kimberly StJacques
 ## Title: Professional Development Lunch Session with Paychex
 ## Abstract:
@@ -305,7 +305,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topic
 #### SessionID: 93774
 # Introduction to Snowflake, the data warehouse build for the cloud
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
+Event Date: 04-05-2019 - Session time: 12:00:00 - Track: Advanced Analytics
 ## Speaker: Ginger Grant
 ## Title: Introduction to Snowflake, the data warehouse build for the cloud
 ## Abstract:
@@ -314,7 +314,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 #### SessionID: 90258
 # Do Your Data Visualizations Need A Makeover?
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and Reporting
+Event Date: 04-05-2019 - Session time: 13:00:00 - Track: Data Visualization and Reporting
 ## Speaker: Meagan Longoria
 ## Title: Do Your Data Visualizations Need A Makeover?
 ## Abstract:
@@ -323,7 +323,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and 
 #### SessionID: 90277
 # Temporal Tables – The New Hotness in Data Auditing
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Development, Administration  Deployment
+Event Date: 04-05-2019 - Session time: 13:00:00 - Track: Enterprise Database Development, Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: Temporal Tables – The New Hotness in Data Auditing
 ## Abstract:
@@ -332,7 +332,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Dev
 #### SessionID: 90327
 # T-SQL Habits and Practices That Can Kill Performance
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance And Performance Tuning
+Event Date: 04-05-2019 - Session time: 13:00:00 - Track: Database Maintenance And Performance Tuning
 ## Speaker: Vern Rabe
 ## Title: T-SQL Habits and Practices That Can Kill Performance
 ## Abstract:
@@ -343,7 +343,7 @@ Armed with this knowledge, you will definitely impress your boss with your abili
 #### SessionID: 90713
 # Real-World PowerShell for SQL Administration
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Development, Administration  Deployment
+Event Date: 04-05-2019 - Session time: 13:00:00 - Track: Enterprise Database Development, Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Real-World PowerShell for SQL Administration
 ## Abstract:
@@ -356,7 +356,7 @@ And then we'll spend the bulk of our time looking at real-world, practical scrip
 #### SessionID: 91331
 # Azure Data Factory V2: SSIS in the Cloud or not?
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI ETL Architecture, Development  Administration
+Event Date: 04-05-2019 - Session time: 13:00:00 - Track: BI ETL Architecture, Development  Administration
 ## Speaker: Andrea Letourneau
 ## Title: Azure Data Factory V2: SSIS in the Cloud or not?
 ## Abstract:
@@ -365,7 +365,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI ETL Architecture, De
 #### SessionID: 93307
 # SELECT Start FROM Here: Querying for T-SQL Beginners
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
+Event Date: 04-05-2019 - Session time: 13:00:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Jeff Iannucci
 ## Title: SELECT Start FROM Here: Querying for T-SQL Beginners
 ## Abstract:
@@ -374,7 +374,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topic
 #### SessionID: 93407
 # Data Virtualization unlocking data and enabling analytics using Denodo, Azure and Microsoft BI Stack
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
+Event Date: 04-05-2019 - Session time: 13:00:00 - Track: Advanced Analytics
 ## Speaker: Cristian Vasconez
 ## Title: Data Virtualization unlocking data and enabling analytics using Denodo, Azure and Microsoft BI Stack
 ## Abstract:
@@ -383,7 +383,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Advanced Analytics
 #### SessionID: 89914
 # I'm It - Survival Techniques for the Lone DBA
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
 ## Abstract:
@@ -392,7 +392,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topic
 #### SessionID: 90013
 # Managing ETL Change using BIMLScript
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: BI ETL Architecture, Development  Administration
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: BI ETL Architecture, Development  Administration
 ## Speaker: Russel Loski
 ## Title: Managing ETL Change using BIMLScript
 ## Abstract:
@@ -407,7 +407,7 @@ Finally, I will use BIMLScript to handle changes from one version of SSIS to the
 #### SessionID: 90648
 # Power BI Desktop Tips and Best Practices for Projects and Data Preparation
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Phil Robinson
 ## Title: Power BI Desktop Tips and Best Practices for Projects and Data Preparation
 ## Abstract:
@@ -416,7 +416,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topic
 #### SessionID: 90707
 # Get Your Optimizer to Give up All Its Secrets
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance And Performance Tuning
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: Database Maintenance And Performance Tuning
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
 ## Abstract:
@@ -425,7 +425,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Database Maintenance An
 #### SessionID: 90930
 # SQL DevOps Simplified with Production Databases
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Paul Stanton
 ## Title: SQL DevOps Simplified with Production Databases
 ## Abstract:
@@ -434,7 +434,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 91332
 # Put More Power into Power BI
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and Reporting
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: Data Visualization and Reporting
 ## Speaker: Andrea Letourneau
 ## Title: Put More Power into Power BI
 ## Abstract:
@@ -443,7 +443,7 @@ Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Data Visualization and 
 #### SessionID: 93322
 # SQL Antipatterns
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Enterprise Database Development, Administration  Deployment
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: Enterprise Database Development, Administration  Deployment
 ## Speaker: JT Moree
 ## Title: SQL Antipatterns
 ## Abstract:
@@ -454,7 +454,7 @@ Speaker: JT Moree, System Architect, DBA, PMP
 #### SessionID: 93417
 # Databricks and End-to-End Processes
 #### [Back to calendar](#nr-869)
-Event Date: 04-05-2019 - Session time: 15:30:00 - Track: Introductory Data Topics  Professional Development
+Event Date: 04-05-2019 - Session time: 14:15:00 - Track: Introductory Data Topics  Professional Development
 ## Speaker: Alexander Brown
 ## Title: Databricks and End-to-End Processes
 ## Abstract:

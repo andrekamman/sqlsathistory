@@ -38,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 95257
 # Using Extended Events for Wait Stats Analysis
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-09-2019 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Using Extended Events for Wait Stats Analysis
 ## Abstract:
@@ -47,7 +47,7 @@ Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 95274
 # HA/DR Solutions Using Distributed Availability Groups (Read-Scalable AGs too!)
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 14-09-2019 - Session time: 08:45:00 - Track: Strategy and Architecture
 ## Speaker: Jennifer Brocato
 ## Title: HA/DR Solutions Using Distributed Availability Groups (Read-Scalable AGs too!)
 ## Abstract:
@@ -60,7 +60,7 @@ Finally, we will see Automatic Failover and see how to perform a Manual Failover
 #### SessionID: 95383
 # Innovative Data Modeling: Make Data Warehousing Cool Again Part 1
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-09-2019 - Session time: 08:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Weed
 ## Title: Innovative Data Modeling: Make Data Warehousing Cool Again Part 1
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 14-09-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 95732
 # Automating Data Integrity Checks- SQL | PBI | Flow
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 14-09-2019 - Session time: 08:45:00 - Track: BI Information Delivery
 ## Speaker: Joseph Hobbs
 ## Title: Automating Data Integrity Checks- SQL | PBI | Flow
 ## Abstract:
@@ -80,7 +80,7 @@ This talk is an intermediate level solution to that pain point. We'll walk throu
 #### SessionID: 96031
 # How to do a Complete SQL Server Assessment
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-09-2019 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: How to do a Complete SQL Server Assessment
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 96287
 # Ethics, Morals, and Laws for the DBA 101
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 14-09-2019 - Session time: 08:45:00 - Track: Professional Development
 ## Speaker: Pat Phelan
 ## Title: Ethics, Morals, and Laws for the DBA 101
 ## Abstract:
@@ -102,7 +102,7 @@ This session presents basic definitions, ideas, and discussion points. It is int
 #### SessionID: 94726
 # Solving Problems with Extended Events.
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 14-09-2019 - Session time: 10:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Maenle
 ## Title: Solving Problems with Extended Events.
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 95309
 # Zen and the Art of Baselines
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-09-2019 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Zen and the Art of Baselines
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 95428
 # Innovative Data Modeling: Make Data Warehousing Cool Again Part 2
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-09-2019 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeff Renz
 ## Title: Innovative Data Modeling: Make Data Warehousing Cool Again Part 2
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 14-09-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 95656
 # Real-World PowerShell for SQL Administration
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-09-2019 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Real-World PowerShell for SQL Administration
 ## Abstract:
@@ -142,7 +142,7 @@ And then we'll spend the balance of our time looking at real-world, practical sc
 #### SessionID: 96251
 # Defense in Depth - Minimizing the Risk of SQL Injection
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Other
+Event Date: 14-09-2019 - Session time: 10:15:00 - Track: Other
 ## Speaker: Rob Kraft
 ## Title: Defense in Depth - Minimizing the Risk of SQL Injection
 ## Abstract:
@@ -151,7 +151,7 @@ Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Other
 #### SessionID: 98669
 # Rockhurst University Business Intelligence  Analytics Programs
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Other
+Event Date: 14-09-2019 - Session time: 12:15:00 - Track: Other
 ## Speaker: Bill Fellows
 ## Title: Rockhurst University Business Intelligence  Analytics Programs
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Other
 #### SessionID: 98670
 # PureStorage
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 14-09-2019 - Session time: 12:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Bill Fellows
 ## Title: PureStorage
 ## Abstract:
@@ -169,7 +169,7 @@ Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 94467
 # XML?  What’s this doing in my database?
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-09-2019 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adam Koehler
 ## Title: XML?  What’s this doing in my database?
 ## Abstract:
@@ -179,7 +179,7 @@ In this session, we’ll learn how XML data can be stored in the database, how t
 #### SessionID: 94914
 # What is DevOps and Why Should DBAs Care?
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-09-2019 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kathi Kellenberger
 ## Title: What is DevOps and Why Should DBAs Care?
 ## Abstract:
@@ -189,7 +189,7 @@ Attend this session to learn how DevOps is changing the DBAs world for the bette
 #### SessionID: 96825
 # Inside xVelocity In-Memory Analytics Engine
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-09-2019 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alberto Ferrari
 ## Title: Inside xVelocity In-Memory Analytics Engine
 ## Abstract:
@@ -198,7 +198,7 @@ Event Date: 14-09-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 96835
 # Beginning T-SQL
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 14-09-2019 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Beginning T-SQL
 ## Abstract:
@@ -207,7 +207,7 @@ Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 96842
 # Predicting the NFL with SQL Server 2017 ML Services
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 14-09-2019 - Session time: 12:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: John Byrnes
 ## Title: Predicting the NFL with SQL Server 2017 ML Services
 ## Abstract:
@@ -216,7 +216,7 @@ Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 98657
 # What I Wish Developers Knew About SQL Server
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 14-09-2019 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Bill Graziano
 ## Title: What I Wish Developers Knew About SQL Server
 ## Abstract:
@@ -225,7 +225,7 @@ Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 95589
 # Encrypting Data within SQL Server
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 14-09-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within SQL Server
 ## Abstract:
@@ -238,7 +238,7 @@ You will leave this session with a deeper understanding about SQL Server encrypt
 #### SessionID: 95965
 # Lessons Learned from a Successful Enterprise Power BI Deployment
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-09-2019 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Wake
 ## Title: Lessons Learned from a Successful Enterprise Power BI Deployment
 ## Abstract:
@@ -247,7 +247,7 @@ Event Date: 14-09-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 96029
 # Managing ETL Change Using BIMLScript
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-09-2019 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Russel Loski
 ## Title: Managing ETL Change Using BIMLScript
 ## Abstract:
@@ -258,7 +258,7 @@ To demonstrate such an approach, I import some US census data. I create the SSIS
 #### SessionID: 96291
 # Principle of Least Privilege: The Key to Strong Security
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 14-09-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Ed Leighton-Dick
 ## Title: Principle of Least Privilege: The Key to Strong Security
 ## Abstract:
@@ -269,7 +269,7 @@ In this session, we'll talk about the Principle of Least Privilege in more detai
 #### SessionID: 96826
 # Building Web-Apps with R and SQL Server
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 14-09-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Matthew Sharkey
 ## Title: Building Web-Apps with R and SQL Server
 ## Abstract:
@@ -284,7 +284,7 @@ Here are a few topics we'll address:
 #### SessionID: 96918
 # SQL Server 2019 - New Features and Enhancements
 #### [Back to calendar](#nr-901)
-Event Date: 14-09-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-09-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: SQL Server 2019 - New Features and Enhancements
 ## Abstract:

@@ -53,7 +53,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 57542
 # Building a PowerPivot BI Dashboard in an Hour
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Analytics, Visualization  Presentation
+Event Date: 01-04-2017 - Session time: 08:30:00 - Track: BI Analytics, Visualization  Presentation
 ## Speaker: Vazi Okhandiar
 ## Title: Building a PowerPivot BI Dashboard in an Hour
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Analytics, Visualiza
 #### SessionID: 57546
 # Efficient table design
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Development
+Event Date: 01-04-2017 - Session time: 08:30:00 - Track: Database Development
 ## Speaker: Alex Grinberg
 ## Title: Efficient table design
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Development
 #### SessionID: 57556
 # Kafka For .NET Developers
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Development
+Event Date: 01-04-2017 - Session time: 08:30:00 - Track: Database Development
 ## Speaker: Kevin Feasel
 ## Title: Kafka For .NET Developers
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Development
 #### SessionID: 57598
 # Geospatial Data Types in SQL Server
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Development
+Event Date: 01-04-2017 - Session time: 08:30:00 - Track: Database Development
 ## Speaker: Leonard Lobel
 ## Title: Geospatial Data Types in SQL Server
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Development
 #### SessionID: 57748
 # Introduction to Azure Streaming Analytics
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Azure  Cloud Services
+Event Date: 01-04-2017 - Session time: 08:30:00 - Track: Azure  Cloud Services
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Streaming Analytics
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Azure  Cloud Services
 #### SessionID: 61363
 # JSON and the Astronauts
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Development
+Event Date: 01-04-2017 - Session time: 08:30:00 - Track: Database Development
 ## Speaker: Peter Kral
 ## Title: JSON and the Astronauts
 ## Abstract:
@@ -115,7 +115,7 @@ Be amazed at the cool people NASA sends into space!
 #### SessionID: 61580
 # Why should I care about ... the plan cache?
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 01-04-2017 - Session time: 08:30:00 - Track: Database Administration
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
 ## Abstract:
@@ -126,7 +126,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #### SessionID: 57547
 # CONVERT_IMPLICIT is a hidden danger
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 01-04-2017 - Session time: 09:45:00 - Track: Database Administration
 ## Speaker: Alex Grinberg
 ## Title: CONVERT_IMPLICIT is a hidden danger
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 57554
 # APPLY Yourself
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Development
+Event Date: 01-04-2017 - Session time: 09:45:00 - Track: Database Development
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Development
 #### SessionID: 57596
 # No Schema, No Problem! – Introduction to Azure DocumentDB
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Azure  Cloud Services
+Event Date: 01-04-2017 - Session time: 09:45:00 - Track: Azure  Cloud Services
 ## Speaker: Leonard Lobel
 ## Title: No Schema, No Problem! – Introduction to Azure DocumentDB
 ## Abstract:
@@ -155,7 +155,7 @@ We begin by explaining NoSQL and document databases, and how they compare with t
 #### SessionID: 57664
 # Build ETL efficiently (10x) with Minimal Logging
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Architecture, Development  Management
+Event Date: 01-04-2017 - Session time: 09:45:00 - Track: BI Architecture, Development  Management
 ## Speaker: Simon Cho
 ## Title: Build ETL efficiently (10x) with Minimal Logging
 ## Abstract:
@@ -166,7 +166,7 @@ We will first analyze how data gets accessed from the source and how data gets u
 #### SessionID: 59376
 # SQL Server R Services in SQL 2016
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Analytics, Visualization  Presentation
+Event Date: 01-04-2017 - Session time: 09:45:00 - Track: BI Analytics, Visualization  Presentation
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
 ## Abstract:
@@ -175,7 +175,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Analytics, Visualiza
 #### SessionID: 59909
 # Reporting Services 2016: New Features  Smart Migration Strategy
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Architecture, Development  Management
+Event Date: 01-04-2017 - Session time: 09:45:00 - Track: BI Architecture, Development  Management
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services 2016: New Features  Smart Migration Strategy
 ## Abstract:
@@ -188,7 +188,7 @@ The session will conclude with a look at my “Ultimate Footer”, which you can
 #### SessionID: 61582
 # Weird Stuff I Saw While ... Working With Heaps
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Development
+Event Date: 01-04-2017 - Session time: 09:45:00 - Track: Database Development
 ## Speaker: Rick Lowe
 ## Title: Weird Stuff I Saw While ... Working With Heaps
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Development
 #### SessionID: 57665
 # Myths and Truths about SQL Server Transaction
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Development
+Event Date: 01-04-2017 - Session time: 11:00:00 - Track: Database Development
 ## Speaker: Simon Cho
 ## Title: Myths and Truths about SQL Server Transaction
 ## Abstract:
@@ -208,7 +208,7 @@ We demonstrate examples of incorrect development methodologies and analyze inter
 #### SessionID: 57673
 # Data Visualization:  How to truly tell a great story!
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Analytics, Visualization  Presentation
+Event Date: 01-04-2017 - Session time: 11:00:00 - Track: BI Analytics, Visualization  Presentation
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization:  How to truly tell a great story!
 ## Abstract:
@@ -217,7 +217,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Analytics, Visualiza
 #### SessionID: 59411
 # Unleashing Stretched Databases
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 01-04-2017 - Session time: 11:00:00 - Track: Database Administration
 ## Speaker: Armando Lacerda
 ## Title: Unleashing Stretched Databases
 ## Abstract:
@@ -226,7 +226,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 59739
 # DBA 101 – Let’s Get Started
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 01-04-2017 - Session time: 11:00:00 - Track: Database Administration
 ## Speaker: Lori Edwards
 ## Title: DBA 101 – Let’s Get Started
 ## Abstract:
@@ -235,7 +235,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 59790
 # Ouch! Our Data Type Usage did THAT?!
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Development
+Event Date: 01-04-2017 - Session time: 11:00:00 - Track: Database Development
 ## Speaker: Vern Rabe
 ## Title: Ouch! Our Data Type Usage did THAT?!
 ## Abstract:
@@ -245,7 +245,7 @@ In addition, we will cover several data type related functions, and the caveats 
 #### SessionID: 61166
 # Let’s Get Meta: an Overview of ETL Frameworks using Biml
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Architecture, Development  Management
+Event Date: 01-04-2017 - Session time: 11:00:00 - Track: BI Architecture, Development  Management
 ## Speaker: Kate Grass
 ## Title: Let’s Get Meta: an Overview of ETL Frameworks using Biml
 ## Abstract:
@@ -258,7 +258,7 @@ To start you off on your framework building journey, we’ll introduce Biml and 
 #### SessionID: 62466
 # Take a Dive into Azure Data Lake
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Azure  Cloud Services
+Event Date: 01-04-2017 - Session time: 11:00:00 - Track: Azure  Cloud Services
 ## Speaker: Ike Ellis
 ## Title: Take a Dive into Azure Data Lake
 ## Abstract:
@@ -267,7 +267,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Azure  Cloud Services
 #### SessionID: 62474
 # Redgate Source Control
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Development
+Event Date: 01-04-2017 - Session time: 12:30:00 - Track: Database Development
 ## Speaker: Mickey Stuewe
 ## Title: Redgate Source Control
 ## Abstract:
@@ -280,7 +280,7 @@ Join me in this demo heavy session where we will explore the benefits of version
 #### SessionID: 63565
 # Pyramid Technology Solutions - Resume Writing  Interview Skills
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 01-04-2017 - Session time: 12:30:00 - Track: Professional Development
 ## Speaker: Ted Stathakis
 ## Title: Pyramid Technology Solutions - Resume Writing  Interview Skills
 ## Abstract:
@@ -290,7 +290,7 @@ This Session will look at where you are in your Career Path and focus on three k
 #### SessionID: 63566
 # Ledgent Technology - Resume  Interview Tips
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 01-04-2017 - Session time: 12:30:00 - Track: Professional Development
 ## Speaker: Ted Stathakis
 ## Title: Ledgent Technology - Resume  Interview Tips
 ## Abstract:
@@ -299,7 +299,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 63661
 # Pyramid Technology Solutions - Resume Writing  Interview Skills
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 01-04-2017 - Session time: 12:30:00 - Track: Professional Development
 ## Speaker: Harriet Farmer
 ## Title: Pyramid Technology Solutions - Resume Writing  Interview Skills
 ## Abstract:
@@ -309,7 +309,7 @@ This Session will look at where you are in your Career Path and focus on three k
 #### SessionID: 63799
 # Dell/EMC
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 01-04-2017 - Session time: 12:30:00 - Track: Database Administration
 ## Speaker: Ted Stathakis
 ## Title: Dell/EMC
 ## Abstract:
@@ -318,7 +318,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 57552
 # Consolidated Essential Performance Health Check using PowerShell
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 01-04-2017 - Session time: 13:30:00 - Track: Database Administration
 ## Speaker: Prakash Heda
 ## Title: Consolidated Essential Performance Health Check using PowerShell
 ## Abstract:
@@ -329,7 +329,7 @@ First part of the email shares some key observations about SQL Server performanc
 #### SessionID: 59410
 # Why are you still taking backups?
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 01-04-2017 - Session time: 13:30:00 - Track: Database Administration
 ## Speaker: Armando Lacerda
 ## Title: Why are you still taking backups?
 ## Abstract:
@@ -338,7 +338,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 59517
 # Making the Leap from Developer to DBA
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 01-04-2017 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
 ## Abstract:
@@ -347,7 +347,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 59778
 # Power BI for the Enterprise
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Architecture, Development  Management
+Event Date: 01-04-2017 - Session time: 13:30:00 - Track: BI Architecture, Development  Management
 ## Speaker: Paul Turley
 ## Title: Power BI for the Enterprise
 ## Abstract:
@@ -356,7 +356,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Architecture, Develo
 #### SessionID: 61109
 # Data Wrangling for Reporting  Analytics
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Analytics, Visualization  Presentation
+Event Date: 01-04-2017 - Session time: 13:30:00 - Track: BI Analytics, Visualization  Presentation
 ## Speaker: Phil Robinson
 ## Title: Data Wrangling for Reporting  Analytics
 ## Abstract:
@@ -365,7 +365,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Analytics, Visualiza
 #### SessionID: 63580
 # Successfully Virtualizing SQL Server on vSphere
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 01-04-2017 - Session time: 13:30:00 - Track: Database Administration
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere
 ## Abstract:
@@ -374,7 +374,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 63907
 # Row Based Security in SSRS and SSAS
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Analytics, Visualization  Presentation
+Event Date: 01-04-2017 - Session time: 13:30:00 - Track: BI Analytics, Visualization  Presentation
 ## Speaker: Chris Hyde
 ## Title: Row Based Security in SSRS and SSAS
 ## Abstract:
@@ -383,7 +383,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Analytics, Visualiza
 #### SessionID: 57682
 # Mastering Master Data Services
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Architecture, Development  Management
+Event Date: 01-04-2017 - Session time: 14:45:00 - Track: BI Architecture, Development  Management
 ## Speaker: Jeff Prom
 ## Title: Mastering Master Data Services
 ## Abstract:
@@ -394,7 +394,7 @@ In this presentation we will cover MDS from start to finish including installati
 #### SessionID: 57685
 # Rock Your Technical Interview (Part 1)
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 01-04-2017 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: David McCarter
 ## Title: Rock Your Technical Interview (Part 1)
 ## Abstract:
@@ -403,7 +403,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 59740
 # SQL Server Statistics – What Are The Chances?
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 01-04-2017 - Session time: 14:45:00 - Track: Database Administration
 ## Speaker: Lori Edwards
 ## Title: SQL Server Statistics – What Are The Chances?
 ## Abstract:
@@ -412,7 +412,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 61006
 # From problem to Power BI:  A journey in data visualization
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Analytics, Visualization  Presentation
+Event Date: 01-04-2017 - Session time: 14:45:00 - Track: BI Analytics, Visualization  Presentation
 ## Speaker: Jonathan Stewart
 ## Title: From problem to Power BI:  A journey in data visualization
 ## Abstract:
@@ -421,7 +421,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: BI Analytics, Visualiza
 #### SessionID: 61076
 # Zero Impact Data Migration – Oracle to SQL Server
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 01-04-2017 - Session time: 14:45:00 - Track: Database Administration
 ## Speaker: Susan Wong
 ## Title: Zero Impact Data Migration – Oracle to SQL Server
 ## Abstract:
@@ -437,7 +437,7 @@ Learn how SharePlex can accomplish all of this with a quick and easy install, at
 #### SessionID: 61436
 # Changing Your Habits to Improve the Performance of Your T-SQL
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Development
+Event Date: 01-04-2017 - Session time: 14:45:00 - Track: Database Development
 ## Speaker: Mickey Stuewe
 ## Title: Changing Your Habits to Improve the Performance of Your T-SQL
 ## Abstract:
@@ -446,7 +446,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Development
 #### SessionID: 63923
 # Re-Indexing - The quest of ultimate automation
 #### [Back to calendar](#nr-611)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 01-04-2017 - Session time: 14:45:00 - Track: Database Administration
 ## Speaker: Prakash Heda
 ## Title: Re-Indexing - The quest of ultimate automation
 ## Abstract:

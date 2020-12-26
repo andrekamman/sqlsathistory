@@ -51,7 +51,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 49205
 # I Created an AG and T log is growing but I have a T Log backup What gives?
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joe Hellsten
 ## Title: I Created an AG and T log is growing but I have a T Log backup What gives?
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 49668
 # Tips for SQL Server Performance and Resiliency
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Shaw
 ## Title: Tips for SQL Server Performance and Resiliency
 ## Abstract:
@@ -72,7 +72,7 @@ These patterns are so clear in fact that I many SQL Servers will benefit from th
 #### SessionID: 49875
 # SQL Server R Services in SQL 2016
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 13-08-2016 - Session time: 08:30:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
 ## Abstract:
@@ -81,7 +81,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 50664
 # Service Broker - Put Me In Coach
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 13-08-2016 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Service Broker - Put Me In Coach
 ## Abstract:
@@ -94,7 +94,7 @@ At the end of this session, you will have the knowledge to use Service Broker fo
 #### SessionID: 52290
 # Reporting Services 2016: New Features  Smart Migration Strategy
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-08-2016 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services 2016: New Features  Smart Migration Strategy
 ## Abstract:
@@ -107,7 +107,7 @@ The session will conclude with a look at my “Ultimate Footer”, which you can
 #### SessionID: 52333
 # Be a DBA Army of One
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Spotlight
+Event Date: 13-08-2016 - Session time: 08:30:00 - Track: Spotlight
 ## Speaker: Sean McCown
 ## Title: Be a DBA Army of One
 ## Abstract:
@@ -120,7 +120,7 @@ Our flagship product, Minion Enterprise (or as we call it, "ME"), is the SQL Ser
 #### SessionID: 50072
 # Branding Yourself for a Dream Job
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 13-08-2016 - Session time: 09:45:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 50342
 # Mission Possible: Interactive Performance Troubleshooting - Index
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Murphy
 ## Title: Mission Possible: Interactive Performance Troubleshooting - Index
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 50535
 # Why Did My Execution Plan Change? Introduction to Query Store
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: Why Did My Execution Plan Change? Introduction to Query Store
 ## Abstract:
@@ -147,7 +147,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 51109
 # Translating SANanese to English: How to manipulate your storage admin!
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 13-08-2016 - Session time: 09:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Janik
 ## Title: Translating SANanese to English: How to manipulate your storage admin!
 ## Abstract:
@@ -156,7 +156,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 52321
 # Recovery Models Made SIMPLE
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kalen Delaney
 ## Title: Recovery Models Made SIMPLE
 ## Abstract:
@@ -165,7 +165,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 52420
 # Log SQL Server Activity on a Budget
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 13-08-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Rudy Rodarte
 ## Title: Log SQL Server Activity on a Budget
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 52905
 # Real world In-Memory OLTP
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ned Otter
 ## Title: Real world In-Memory OLTP
 ## Abstract:
@@ -187,7 +187,7 @@ All of these questions and more are answered as we discuss real-world usage of I
 #### SessionID: 49202
 # Imposter Syndrome: Are You Faking It  Will they Find Out?
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 13-08-2016 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Mindy Curnutt
 ## Title: Imposter Syndrome: Are You Faking It  Will they Find Out?
 ## Abstract:
@@ -196,7 +196,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 49328
 # Table Vars and Temp Tables – What you NEED to Know!
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 13-08-2016 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars and Temp Tables – What you NEED to Know!
 ## Abstract:
@@ -205,7 +205,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 50206
 # Polybase and Time Travel (Temporal Tables)
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-08-2016 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stan Geiger
 ## Title: Polybase and Time Travel (Temporal Tables)
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 50723
 # Cluster@#$%!  SQL Server Failover Clusters. What Could Go Wrong?
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Harp
 ## Title: Cluster@#$%!  SQL Server Failover Clusters. What Could Go Wrong?
 ## Abstract:
@@ -225,7 +225,7 @@ Whether you're having to design your first SQL Server failover cluster implement
 #### SessionID: 52557
 # Designing for Performance – Smokin’ Fast Queries – Query optimiza
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jennifer Smith
 ## Title: Designing for Performance – Smokin’ Fast Queries – Query optimiza
 ## Abstract:
@@ -234,7 +234,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 52706
 # Why Should I Care About … The Plan Cache
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About … The Plan Cache
 ## Abstract:
@@ -243,7 +243,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 53408
 # EMC Presents: Maximizing Microsoft SQL Server Storage Investments
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Spotlight
+Event Date: 13-08-2016 - Session time: 12:00:00 - Track: Spotlight
 ## Speaker: Naomi Williams
 ## Title: EMC Presents: Maximizing Microsoft SQL Server Storage Investments
 ## Abstract:
@@ -255,7 +255,7 @@ Beyond just production database performance, EMC provides robust database repurp
 #### SessionID: 53410
 # Birds of a Feather -- SQL Server 2016
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
+Event Date: 13-08-2016 - Session time: 12:00:00 - Track: Lunch
 ## Speaker: Naomi Williams
 ## Title: Birds of a Feather -- SQL Server 2016
 ## Abstract:
@@ -264,7 +264,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
 #### SessionID: 53411
 # Birds of a Feather -- Performance Tuning
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
+Event Date: 13-08-2016 - Session time: 12:00:00 - Track: Lunch
 ## Speaker: Naomi Williams
 ## Title: Birds of a Feather -- Performance Tuning
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
 #### SessionID: 53412
 # Birds of a Feather -- Data Analytics, Reporting and ETL
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
+Event Date: 13-08-2016 - Session time: 12:00:00 - Track: Lunch
 ## Speaker: Naomi Williams
 ## Title: Birds of a Feather -- Data Analytics, Reporting and ETL
 ## Abstract:
@@ -282,7 +282,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
 #### SessionID: 53413
 # Birds of a Feather -- High Availability
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
+Event Date: 13-08-2016 - Session time: 12:00:00 - Track: Lunch
 ## Speaker: Naomi Williams
 ## Title: Birds of a Feather -- High Availability
 ## Abstract:
@@ -291,7 +291,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
 #### SessionID: 53414
 # Birds of a Feather -- Azure
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
+Event Date: 13-08-2016 - Session time: 12:00:00 - Track: Lunch
 ## Speaker: Naomi Williams
 ## Title: Birds of a Feather -- Azure
 ## Abstract:
@@ -300,7 +300,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Lunch
 #### SessionID: 49200
 # Enterprise Row Level Security in SQL Server 2016 and Azure SQL DB
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jamey Johnston
 ## Title: Enterprise Row Level Security in SQL Server 2016 and Azure SQL DB
 ## Abstract:
@@ -315,7 +315,7 @@ Attendees will leave with a complete working demo they can take to their work an
 #### SessionID: 49617
 # SQL Server Agent: The life preserver for the drowning DBA
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lance Tidwell
 ## Title: SQL Server Agent: The life preserver for the drowning DBA
 ## Abstract:
@@ -324,7 +324,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 50445
 # SS2014/2016 In-Memory Tables --Formula One Performance Unleashed???
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 13-08-2016 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SS2014/2016 In-Memory Tables --Formula One Performance Unleashed???
 ## Abstract:
@@ -339,7 +339,7 @@ After this session you will
 #### SessionID: 50533
 # Azure SQL Database for DBA's
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 13-08-2016 - Session time: 13:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Sterrett
 ## Title: Azure SQL Database for DBA's
 ## Abstract:
@@ -349,7 +349,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 51096
 # Design a data warehouse dimension the Agile way!
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-08-2016 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Costello
 ## Title: Design a data warehouse dimension the Agile way!
 ## Abstract:
@@ -358,7 +358,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 52303
 # Scaling for best performance: Partitioned views.
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Konstantin Melamud
 ## Title: Scaling for best performance: Partitioned views.
 ## Abstract:
@@ -370,7 +370,7 @@ In this session we will go through the steps needed to configure and use the par
 #### SessionID: 52994
 # SQL running on Linux
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Moore
 ## Title: SQL running on Linux
 ## Abstract:
@@ -379,7 +379,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 49427
 # Overlord - tracking changes real-time, in your environment
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Bourgon
 ## Title: Overlord - tracking changes real-time, in your environment
 ## Abstract:
@@ -388,7 +388,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 49854
 # Introduction to Biml
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-08-2016 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Introduction to Biml
 ## Abstract:
@@ -399,7 +399,7 @@ In this session, we'll cover the essentials of Biml. I'll discuss what it is and
 #### SessionID: 50034
 # Unraveling Tangled Code:A Spellbinding Tale of Victory Over Chaos
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 13-08-2016 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Unraveling Tangled Code:A Spellbinding Tale of Victory Over Chaos
 ## Abstract:
@@ -408,7 +408,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 50809
 # IaaS vs IaaS - Navigating the Decision Tree: Azure SQL DB vs SQL on a VM
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Azure
+Event Date: 13-08-2016 - Session time: 14:15:00 - Track: Azure
 ## Speaker: Shawn Weisfeld
 ## Title: IaaS vs IaaS - Navigating the Decision Tree: Azure SQL DB vs SQL on a VM
 ## Abstract:
@@ -417,7 +417,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Azure
 #### SessionID: 51214
 # SQL Server Statistics – What Are The Chances?
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lori Edwards
 ## Title: SQL Server Statistics – What Are The Chances?
 ## Abstract:
@@ -426,7 +426,7 @@ Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 53065
 # Understanding Storage Systems and SQL Server
 #### [Back to calendar](#nr-550)
-Event Date: 13-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-08-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Wesley Brown
 ## Title: Understanding Storage Systems and SQL Server
 ## Abstract:

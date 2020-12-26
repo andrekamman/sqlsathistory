@@ -38,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 46171
 # Word Up: Text Mining in SQL
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 16-07-2016 - Session time: 08:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dave Mattingly
 ## Title: Word Up: Text Mining in SQL
 ## Abstract:
@@ -51,7 +51,7 @@ Learn how to dig through your library of language to make your data better.
 #### SessionID: 46484
 # Navigating the Options for Data Redundancy
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration, Architecture  Deployment
+Event Date: 16-07-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration, Architecture  Deployment
 ## Speaker: Wendy Pastrick
 ## Title: Navigating the Options for Data Redundancy
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 48150
 # It's OK to Talk to Strangers
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 16-07-2016 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: Cassandra Faris
 ## Title: It's OK to Talk to Strangers
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 50097
 # Inside the Black Box - Making Sense of Service Broker
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration, Architecture  Deployment
+Event Date: 16-07-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration, Architecture  Deployment
 ## Speaker: Colleen Morrow
 ## Title: Inside the Black Box - Making Sense of Service Broker
 ## Abstract:
@@ -81,7 +81,7 @@ Service Broker is an asynchronous messaging technology built into SQL Server tha
 #### SessionID: 50702
 # Get Near Realtime ETL with Service Broker
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-07-2016 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Allen White
 ## Title: Get Near Realtime ETL with Service Broker
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 47015
 # Improving Your PowerPoint Skills
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 16-07-2016 - Session time: 09:45:00 - Track: Professional Development
 ## Speaker: Evelyn Maxwell
 ## Title: Improving Your PowerPoint Skills
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 49406
 # Monster Text Manipulation: Regular Expressions for the DBA
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration, Architecture  Deployment
+Event Date: 16-07-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration, Architecture  Deployment
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 50112
 # An introduction to the magical world of BIML!
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-07-2016 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 50313
 # MICROSOFT: SQL Server 2016 Stretch Database 
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 16-07-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Anthony van Gemert
 ## Title: MICROSOFT: SQL Server 2016 Stretch Database 
 ## Abstract:
@@ -134,7 +134,7 @@ Come find out how you can move your data securely and transparently, free up dis
 #### SessionID: 50515
 # Achieve More in Less Time by Using SQLPS
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 16-07-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Aaron Nelson
 ## Title: Achieve More in Less Time by Using SQLPS
 ## Abstract:
@@ -146,7 +146,7 @@ There is a faster way to manage and even SQL Servers using PowerShell.  I will s
 #### SessionID: 47228
 # The PROCESS of Queries
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 16-07-2016 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: The PROCESS of Queries
 ## Abstract:
@@ -155,7 +155,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 48854
 # The Many Paths of Consulting
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 16-07-2016 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: David Klee
 ## Title: The Many Paths of Consulting
 ## Abstract:
@@ -167,7 +167,7 @@ This session will help you ask the right questions to better chose and prepare f
 #### SessionID: 50502
 # Disaster Recovery Options with Azure
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration, Architecture  Deployment
+Event Date: 16-07-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration, Architecture  Deployment
 ## Speaker: Carlos L Chacon
 ## Title: Disaster Recovery Options with Azure
 ## Abstract:
@@ -176,7 +176,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 50527
 # Microsoft Business Intelligence 2016 – More Love for Your Data
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 16-07-2016 - Session time: 11:00:00 - Track: BI Information Delivery
 ## Speaker: Tamera Clark
 ## Title: Microsoft Business Intelligence 2016 – More Love for Your Data
 ## Abstract:
@@ -185,7 +185,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 50680
 # Hacking SQL Server for Fun and Profit
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration, Architecture  Deployment
+Event Date: 16-07-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration, Architecture  Deployment
 ## Speaker: Argenis Fernandez
 ## Title: Hacking SQL Server for Fun and Profit
 ## Abstract:
@@ -194,7 +194,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 46101
 # XML Without Xanax: How to Handle XML in SQL Server
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 16-07-2016 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Adam Belebczuk
 ## Title: XML Without Xanax: How to Handle XML in SQL Server
 ## Abstract:
@@ -207,7 +207,7 @@ If you survive this session, you'll have faced your fears about XML in SQL Serve
 #### SessionID: 46310
 # Why PowerBI? Introducing Microsoft’s new BI tool
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 16-07-2016 - Session time: 13:15:00 - Track: BI Information Delivery
 ## Speaker: Eugene Meidinger
 ## Title: Why PowerBI? Introducing Microsoft’s new BI tool
 ## Abstract:
@@ -216,7 +216,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 50277
 # Intro to Azure SQL Databases
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 16-07-2016 - Session time: 13:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Michael Fal
 ## Title: Intro to Azure SQL Databases
 ## Abstract:
@@ -225,7 +225,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 50436
 # Using Powershell to Automate Your Restore Strategy
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration, Architecture  Deployment
+Event Date: 16-07-2016 - Session time: 13:15:00 - Track: Enterprise Database Administration, Architecture  Deployment
 ## Speaker: Frank Gill
 ## Title: Using Powershell to Automate Your Restore Strategy
 ## Abstract:
@@ -234,7 +234,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 52263
 # Data Architecture 101
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 16-07-2016 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: Data Architecture 101
 ## Abstract:
@@ -247,7 +247,7 @@ This presentation is a survey of Data Architecture for the Intermediate DBA, it 
 #### SessionID: 46356
 # The Lost Science of Set Theory
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 16-07-2016 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Aaron Cutshall
 ## Title: The Lost Science of Set Theory
 ## Abstract:
@@ -256,7 +256,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 49405
 # Designing Stored Procedure Solutions
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 16-07-2016 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Designing Stored Procedure Solutions
 ## Abstract:
@@ -275,7 +275,7 @@ This session is for data professionals who can write T-SQL, but haven't spent a 
 #### SessionID: 50483
 # (Way Too Much) Fun with Reporting Services 
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 16-07-2016 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: Stacia Varga
 ## Title: (Way Too Much) Fun with Reporting Services 
 ## Abstract:
@@ -284,7 +284,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 50530
 # Connecting Power BI to On-Prem Data with SSAS
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 16-07-2016 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: Kerry Tyler
 ## Title: Connecting Power BI to On-Prem Data with SSAS
 ## Abstract:
@@ -293,7 +293,7 @@ Event Date: 16-07-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 51179
 # WIT: Identifying, Understanding and Combating Gender Bias
 #### [Back to calendar](#nr-527)
-Event Date: 16-07-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 16-07-2016 - Session time: 14:30:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: WIT: Identifying, Understanding and Combating Gender Bias
 ## Abstract:

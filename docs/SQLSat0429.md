@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 35778
 # Learning R through a typical BI task
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Other
+Event Date: 03-10-2015 - Session time: 09:00:00 - Track: Other
 ## Speaker: Mark Wilcock
 ## Title: Learning R through a typical BI task
 ## Abstract:
@@ -45,7 +45,7 @@ The purpose of this session is to show R strengths and weaknesses to help you de
 #### SessionID: 38075
 # Query Store in SQL Server 2016
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
+Event Date: 03-10-2015 - Session time: 09:00:00 - Track: SQL Server 2016
 ## Speaker: Andre Batista
 ## Title: Query Store in SQL Server 2016
 ## Abstract:
@@ -54,7 +54,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
 #### SessionID: 38107
 # SQL vNext Business Intelligence
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
+Event Date: 03-10-2015 - Session time: 09:00:00 - Track: SQL Server 2016
 ## Speaker: Bruno Basto
 ## Title: SQL vNext Business Intelligence
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
 #### SessionID: 38118
 # PowerShell - Jump from simple scripts to advanced functions
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Other
+Event Date: 03-10-2015 - Session time: 09:00:00 - Track: Other
 ## Speaker: Cláudio Silva
 ## Title: PowerShell - Jump from simple scripts to advanced functions
 ## Abstract:
@@ -83,7 +83,7 @@ We will also see in action a set of functions that are designed to automate and 
 #### SessionID: 40777
 # What is IoT? What does Microsoft offer? Azure IoT Suite.
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
+Event Date: 03-10-2015 - Session time: 09:00:00 - Track: Big Data
 ## Speaker: Scott Klein
 ## Title: What is IoT? What does Microsoft offer? Azure IoT Suite.
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 #### SessionID: 37778
 # Flying Through the Clouds--Performance Tuning in Azure
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL
+Event Date: 03-10-2015 - Session time: 10:40:00 - Track: SQL
 ## Speaker: Joseph D'Antoni
 ## Title: Flying Through the Clouds--Performance Tuning in Azure
 ## Abstract:
@@ -110,7 +110,7 @@ You will learn about techniques that will not just improve your system performan
 #### SessionID: 37869
 # Columnstore in SQL Server 2016
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: BI
+Event Date: 03-10-2015 - Session time: 10:40:00 - Track: BI
 ## Speaker: Niko Neugebauer
 ## Title: Columnstore in SQL Server 2016
 ## Abstract:
@@ -122,7 +122,7 @@ This session will be delivering an overview of what is new and how it is going t
 #### SessionID: 38542
 # SSIS 2016 and Master Data – Whats new?
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
+Event Date: 03-10-2015 - Session time: 10:40:00 - Track: SQL Server 2016
 ## Speaker: Pedro Perfeito
 ## Title: SSIS 2016 and Master Data – Whats new?
 ## Abstract:
@@ -131,7 +131,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
 #### SessionID: 40778
 # Let them hack with Tessel.io’s
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
+Event Date: 03-10-2015 - Session time: 10:40:00 - Track: Big Data
 ## Speaker: Scott Klein
 ## Title: Let them hack with Tessel.io’s
 ## Abstract:
@@ -140,7 +140,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 #### SessionID: 35776
 # Triple Trouble - Running a SQL Failover Cluster on a Cluster from a Cluster
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Other
+Event Date: 03-10-2015 - Session time: 12:00:00 - Track: Other
 ## Speaker: Mark Broadbent
 ## Title: Triple Trouble - Running a SQL Failover Cluster on a Cluster from a Cluster
 ## Abstract:
@@ -153,7 +153,7 @@ In this session we will investigate whether times have really changed for the be
 #### SessionID: 36089
 # Introduction to Azure DocumentDB
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Other
+Event Date: 03-10-2015 - Session time: 12:00:00 - Track: Other
 ## Speaker: Leonard Lobel
 ## Title: Introduction to Azure DocumentDB
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Other
 #### SessionID: 37576
 # Hiding your data with SQL Server 2016
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Other
+Event Date: 03-10-2015 - Session time: 12:00:00 - Track: Other
 ## Speaker: Ivan Campos
 ## Title: Hiding your data with SQL Server 2016
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Other
 #### SessionID: 38289
 # The Reporting Machine!
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: BI
+Event Date: 03-10-2015 - Session time: 12:00:00 - Track: BI
 ## Speaker: Tillmann Eitelberg
 ## Title: The Reporting Machine!
 ## Abstract:
@@ -191,7 +191,7 @@ You will see, how we:
 #### SessionID: 40779
 # Azure Stream Analytics + Azure Event Hubs
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
+Event Date: 03-10-2015 - Session time: 12:00:00 - Track: Big Data
 ## Speaker: Scott Klein
 ## Title: Azure Stream Analytics + Azure Event Hubs
 ## Abstract:
@@ -200,7 +200,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 #### SessionID: 36712
 # Approaches to database Unit Testing
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL
+Event Date: 03-10-2015 - Session time: 14:10:00 - Track: SQL
 ## Speaker: Gavin Campbell
 ## Title: Approaches to database Unit Testing
 ## Abstract:
@@ -213,7 +213,7 @@ Over the years, a number of tools and approaches have been developed to address 
 #### SessionID: 37371
 # Power BI for Developers
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL
+Event Date: 03-10-2015 - Session time: 14:10:00 - Track: SQL
 ## Speaker: Rui Romano
 ## Title: Power BI for Developers
 ## Abstract:
@@ -222,7 +222,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL
 #### SessionID: 37645
 # HDInsight: new tricks for the Azure Elephant
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
+Event Date: 03-10-2015 - Session time: 14:10:00 - Track: Big Data
 ## Speaker: Filipe Coelho
 ## Title: HDInsight: new tricks for the Azure Elephant
 ## Abstract:
@@ -231,7 +231,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 #### SessionID: 38262
 # In-memory OLTP: The faster is now simpler in SQL Server 2016
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
+Event Date: 03-10-2015 - Session time: 14:10:00 - Track: SQL Server 2016
 ## Speaker: Murilo Miranda
 ## Title: In-memory OLTP: The faster is now simpler in SQL Server 2016
 ## Abstract:
@@ -240,7 +240,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
 #### SessionID: 40780
 #  HDInsight
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
+Event Date: 03-10-2015 - Session time: 14:10:00 - Track: Big Data
 ## Speaker: Scott Klein
 ## Title:  HDInsight
 ## Abstract:
@@ -249,7 +249,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
 #### SessionID: 37795
 # A journey through the Modern Data Warehouse
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
+Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Big Data
 ## Speaker: Ruben Pertusa Lopez
 ## Title: A journey through the Modern Data Warehouse
 ## Abstract:
@@ -260,7 +260,7 @@ Join this session and learn how to enable the Modern Data Warehouse in your orga
 #### SessionID: 38100
 # Temporal Tables in SQL Server 2016
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
+Event Date: 03-10-2015 - Session time: 15:50:00 - Track: SQL Server 2016
 ## Speaker: Andre Batista
 ## Title: Temporal Tables in SQL Server 2016
 ## Abstract:
@@ -269,7 +269,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL Server 2016
 #### SessionID: 38213
 # Storage For the DBA
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL
+Event Date: 03-10-2015 - Session time: 15:50:00 - Track: SQL
 ## Speaker: Denny Cherry
 ## Title: Storage For the DBA
 ## Abstract:
@@ -278,7 +278,7 @@ Event Date: 03-10-2015 - Session time: 17:10:00 - Track: SQL
 #### SessionID: 40781
 # Spark on HDInsight
 #### [Back to calendar](#nr-429)
-Event Date: 03-10-2015 - Session time: 17:10:00 - Track: Big Data
+Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Big Data
 ## Speaker: Olivia Klose
 ## Title: Spark on HDInsight
 ## Abstract:

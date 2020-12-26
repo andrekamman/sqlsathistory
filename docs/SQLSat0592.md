@@ -39,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 56618
 # SQL Server Transactional Replication: A Deep Dive
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server Transactional Replication: A Deep Dive
 ## Abstract:
@@ -48,7 +48,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 59555
 # Enterprise Machine Learning with R and SQL Server
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 11-03-2017 - Session time: 08:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Paco Gonzalez
 ## Title: Enterprise Machine Learning with R and SQL Server
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 59574
 # Tracking Change is the Backbone of Your Data Platform
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-03-2017 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Doug McClurg
 ## Title: Tracking Change is the Backbone of Your Data Platform
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 59600
 # Practical PowerShell for the SQL Developers and DBA's - 0 to 60 in 60 mins
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 11-03-2017 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Jana Sattainathan
 ## Title: Practical PowerShell for the SQL Developers and DBA's - 0 to 60 in 60 mins
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 59651
 # Embedding Power BI In Your Web Application
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 11-03-2017 - Session time: 08:30:00 - Track: Analytics and Visualization
 ## Speaker: Pritesh Ostwal
 ## Title: Embedding Power BI In Your Web Application
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 56898
 # SQL Backups: Choosing the right solution for your environment
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jamie Wick
 ## Title: SQL Backups: Choosing the right solution for your environment
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 56944
 # SQL Server on Linux for SQL DBA.
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Slava Murygin
 ## Title: SQL Server on Linux for SQL DBA.
 ## Abstract:
@@ -107,7 +107,7 @@ And I show you how to do it.
 #### SessionID: 57558
 # Best practices for managing SharePoint SQL Server Databases
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Wharton
 ## Title: Best practices for managing SharePoint SQL Server Databases
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 59366
 # Making Row Level Security and Dynamic Data Masking work for you!
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 11-03-2017 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: John Martin
 ## Title: Making Row Level Security and Dynamic Data Masking work for you!
 ## Abstract:
@@ -129,7 +129,7 @@ In this session we will look at how you can get the most out of these features a
 #### SessionID: 59567
 # A Gentle Introduction To Machine Learning
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 11-03-2017 - Session time: 09:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jamie Dixon
 ## Title: A Gentle Introduction To Machine Learning
 ## Abstract:
@@ -140,7 +140,7 @@ Some familiarity of computing programming, statistics, and manipulating tabular 
 #### SessionID: 56368
 # Data Visualization:  How to truly tell a great story!
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 11-03-2017 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization:  How to truly tell a great story!
 ## Abstract:
@@ -149,7 +149,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 56414
 # Row Level Security in Power BI
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-03-2017 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Todd Chittenden
 ## Title: Row Level Security in Power BI
 ## Abstract:
@@ -158,7 +158,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 56613
 # Architecting Availability Groups
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Derik Hammer
 ## Title: Architecting Availability Groups
 ## Abstract:
@@ -167,7 +167,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 57020
 # Using Powershell to Document SQL Server
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Using Powershell to Document SQL Server
 ## Abstract:
@@ -176,7 +176,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 58099
 # Database Project Makes Deployment Consistent
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 11-03-2017 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
 ## Abstract:
@@ -185,7 +185,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 59473
 # From Analyst BI Day to Developer BI Night
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 11-03-2017 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Chris Voss
 ## Title: From Analyst BI Day to Developer BI Night
 ## Abstract:
@@ -196,7 +196,7 @@ This session will provide you with some high-level essential resources, from add
 #### SessionID: 56531
 # Understanding U-SQL
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 11-03-2017 - Session time: 13:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Azhagappan Arunachalam
 ## Title: Understanding U-SQL
 ## Abstract:
@@ -205,7 +205,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 56595
 # Query Store – What is it all about?
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Kelly
 ## Title: Query Store – What is it all about?
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 57774
 # Designing a Modern DW + Data Lake
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-03-2017 - Session time: 13:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melissa Coates
 ## Title: Designing a Modern DW + Data Lake
 ## Abstract:
@@ -223,7 +223,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 59558
 # Running SQL Server in AWS
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Carrig
 ## Title: Running SQL Server in AWS
 ## Abstract:
@@ -232,7 +232,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 59590
 # SQL on Hadoop, using Hive  Spark, to analyze sports data
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 11-03-2017 - Session time: 13:15:00 - Track: Analytics and Visualization
 ## Speaker: Dan Zaratsian
 ## Title: SQL on Hadoop, using Hive  Spark, to analyze sports data
 ## Abstract:
@@ -241,7 +241,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 59826
 # Using DMVs for Performance Root Cause
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jared Poché
 ## Title: Using DMVs for Performance Root Cause
 ## Abstract:
@@ -250,7 +250,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 58047
 # Module Signing or: How I Learned to Stop Using EXECUTE AS and Love Certificates
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 11-03-2017 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Solomon Rutzky
 ## Title: Module Signing or: How I Learned to Stop Using EXECUTE AS and Love Certificates
 ## Abstract:
@@ -263,7 +263,7 @@ Come learn how to have more secure, granular control over permissions that cover
 #### SessionID: 59358
 # Interrogating your data sources with Biml
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-03-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Shannon Lowder
 ## Title: Interrogating your data sources with Biml
 ## Abstract:
@@ -274,7 +274,7 @@ Now, you're looking at data sources other than SQL Server. How do you automate p
 #### SessionID: 59540
 # Deeper Into Azure Machine Learning
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 11-03-2017 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Mark Hudson
 ## Title: Deeper Into Azure Machine Learning
 ## Abstract:
@@ -283,7 +283,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 59572
 # Monitoring Availability Groups
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Monitoring Availability Groups
 ## Abstract:
@@ -292,7 +292,7 @@ Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 59613
 # SQL Audit - Evidence Never Lies
 #### [Back to calendar](#nr-592)
-Event Date: 11-03-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Keisler
 ## Title: SQL Audit - Evidence Never Lies
 ## Abstract:

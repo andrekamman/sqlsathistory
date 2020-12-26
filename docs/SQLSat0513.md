@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 44345
 # Setting up your BI Infrastructure
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Enterprise BI
+Event Date: 30-07-2016 - Session time: 08:30:00 - Track: Enterprise BI
 ## Speaker: Paresh Motiwala
 ## Title: Setting up your BI Infrastructure
 ## Abstract:
@@ -72,7 +72,7 @@ We will look at the best practices involved in creating a BI infrastructure. Tim
 #### SessionID: 44347
 # Architecting Availability Groups
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 30-07-2016 - Session time: 08:30:00 - Track: DBA - Administration
 ## Speaker: Derik Hammer
 ## Title: Architecting Availability Groups
 ## Abstract:
@@ -81,7 +81,7 @@ Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Administration
 #### SessionID: 44579
 # SQL Server Agent : All the Knobs You Need to Know
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 30-07-2016 - Session time: 08:30:00 - Track: DBA - Administration
 ## Speaker: Taiob Ali
 ## Title: SQL Server Agent : All the Knobs You Need to Know
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Administration
 #### SessionID: 45191
 # Who's flying the plane?
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: IT/Server Administration
+Event Date: 30-07-2016 - Session time: 08:30:00 - Track: IT/Server Administration
 ## Speaker: Greg Moore
 ## Title: Who's flying the plane?
 ## Abstract:
@@ -106,7 +106,7 @@ We'll learn acronyms like CRM and ICS and what they can mean to your organizatio
 #### SessionID: 45966
 # Scratching the Surface: Designing your first Power View Report
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Self-Service BI
+Event Date: 30-07-2016 - Session time: 08:30:00 - Track: Self-Service BI
 ## Speaker: Chris Seferlis
 ## Title: Scratching the Surface: Designing your first Power View Report
 ## Abstract:
@@ -115,7 +115,7 @@ Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Self-Service BI
 #### SessionID: 46802
 # Beginning T-SQL
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 30-07-2016 - Session time: 08:30:00 - Track: DBA - Database Development
 ## Speaker: Jennifer McCown
 ## Title: Beginning T-SQL
 ## Abstract:
@@ -124,7 +124,7 @@ Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Database Developm
 #### SessionID: 48775
 # 100 Times Faster: Experiences making SQL Server go Fast
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Optimization/Tuning
+Event Date: 30-07-2016 - Session time: 08:30:00 - Track: DBA - Optimization/Tuning
 ## Speaker: Andrew Novick
 ## Title: 100 Times Faster: Experiences making SQL Server go Fast
 ## Abstract:
@@ -137,7 +137,7 @@ This presentation is illustrated with examples from my work and we'll look for c
 #### SessionID: 50798
 # Getting to know U-SQL
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 30-07-2016 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Azhagappan Arunachalam
 ## Title: Getting to know U-SQL
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 44364
 # An introduction to Data Mining
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Enterprise BI
+Event Date: 30-07-2016 - Session time: 10:00:00 - Track: Enterprise BI
 ## Speaker: Steve Simon
 ## Title: An introduction to Data Mining
 ## Abstract:
@@ -167,7 +167,7 @@ In this hands on BEGINNERS presentation we shall be looking at Microsoft SQL Ser
 #### SessionID: 44387
 # Whacha just say? Talking technology to non-technical people
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Professional/Personal Development
+Event Date: 30-07-2016 - Session time: 10:00:00 - Track: Professional/Personal Development
 ## Speaker: Ray Kim
 ## Title: Whacha just say? Talking technology to non-technical people
 ## Abstract:
@@ -176,7 +176,7 @@ Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Professional/Personal D
 #### SessionID: 45679
 # Demystifying Data Compression
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Optimization/Tuning
+Event Date: 30-07-2016 - Session time: 10:00:00 - Track: DBA - Optimization/Tuning
 ## Speaker: Andy Mallon
 ## Title: Demystifying Data Compression
 ## Abstract:
@@ -185,7 +185,7 @@ Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Optimization/Tuni
 #### SessionID: 49644
 # Painting with PowerShell: SQL Server Administration
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 30-07-2016 - Session time: 10:00:00 - Track: DBA - Administration
 ## Speaker: Chris Sommer
 ## Title: Painting with PowerShell: SQL Server Administration
 ## Abstract:
@@ -196,7 +196,7 @@ Join me to learn how to paint your own SQL Server canvas with PowerShell.
 #### SessionID: 50468
 # Monster Text Manipulation: Regular Expressions for the DBA
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 30-07-2016 - Session time: 10:00:00 - Track: DBA - Administration
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
 ## Abstract:
@@ -205,7 +205,7 @@ Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Administration
 #### SessionID: 50508
 # Rewriting Your Checklist for SQL 2016
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 30-07-2016 - Session time: 10:00:00 - Track: DBA - Administration
 ## Speaker: Mike Hillwig
 ## Title: Rewriting Your Checklist for SQL 2016
 ## Abstract:
@@ -218,7 +218,7 @@ Join Microsoft MVP Mike Hillwig and his list of server administration best pract
 #### SessionID: 50585
 # Data Quality
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: QA Automation
+Event Date: 30-07-2016 - Session time: 10:00:00 - Track: QA Automation
 ## Speaker: Vijaya Kokkili
 ## Title: Data Quality
 ## Abstract:
@@ -228,7 +228,7 @@ This talk will be about how important data quality has become part of our lives 
 #### SessionID: 44742
 # SSRS 2016 - End-to-end Mobile BI on any device
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Enterprise BI
+Event Date: 30-07-2016 - Session time: 12:30:00 - Track: Enterprise BI
 ## Speaker: Sunil Kadimdiwan
 ## Title: SSRS 2016 - End-to-end Mobile BI on any device
 ## Abstract:
@@ -238,7 +238,7 @@ Come to this interactive session and learn how you can do it.
 #### SessionID: 45408
 # Virtual SQL Servers, Actual Performance
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: IT/Server Administration
+Event Date: 30-07-2016 - Session time: 12:30:00 - Track: IT/Server Administration
 ## Speaker: David Klee
 ## Title: Virtual SQL Servers, Actual Performance
 ## Abstract:
@@ -249,7 +249,7 @@ This session is packed with many tips and tricks for getting the most performanc
 #### SessionID: 45785
 # Pragmatic Power BI:  Working with Data Sources
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Self-Service BI
+Event Date: 30-07-2016 - Session time: 12:30:00 - Track: Self-Service BI
 ## Speaker: William E Pearson III
 ## Title: Pragmatic Power BI:  Working with Data Sources
 ## Abstract:
@@ -260,7 +260,7 @@ In this session, BI Architect, SQL Server MVP and Analysis Services Maestro Bill
 #### SessionID: 46822
 # An Introduction to Always Encrypted
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 30-07-2016 - Session time: 12:30:00 - Track: DBA - Database Development
 ## Speaker: Justin Dearing
 ## Title: An Introduction to Always Encrypted
 ## Abstract:
@@ -269,7 +269,7 @@ Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Database Developm
 #### SessionID: 50055
 # DataSets, Making the Perfect DataSet Efficient in SQL Server 2016!
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 30-07-2016 - Session time: 12:30:00 - Track: DBA - Database Development
 ## Speaker: Joseph Barth
 ## Title: DataSets, Making the Perfect DataSet Efficient in SQL Server 2016!
 ## Abstract:
@@ -285,7 +285,7 @@ Trying to get that impossible result set for that report or extract, then please
 #### SessionID: 50554
 # Fun in Gerrit Code Review / Git integration with CI
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 30-07-2016 - Session time: 12:30:00 - Track: DBA - Database Development
 ## Speaker: Emiko Hori
 ## Title: Fun in Gerrit Code Review / Git integration with CI
 ## Abstract:
@@ -294,7 +294,7 @@ Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Database Developm
 #### SessionID: 51176
 # SQL Server XML 101
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 30-07-2016 - Session time: 12:30:00 - Track: DBA - Database Development
 ## Speaker: Alex Grinberg
 ## Title: SQL Server XML 101
 ## Abstract:
@@ -303,7 +303,7 @@ Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Database Developm
 #### SessionID: 44949
 # Optimizing the SQL Server and Databases for large Fact Tables
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Optimization/Tuning
+Event Date: 30-07-2016 - Session time: 14:00:00 - Track: DBA - Optimization/Tuning
 ## Speaker: Thomas Grohser
 ## Title: Optimizing the SQL Server and Databases for large Fact Tables
 ## Abstract:
@@ -314,7 +314,7 @@ We will also as a side effect explore the Mary Go Round query feature and find w
 #### SessionID: 45784
 # Pragmatic Power BI:  Transforming Data
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Self-Service BI
+Event Date: 30-07-2016 - Session time: 14:00:00 - Track: Self-Service BI
 ## Speaker: William E Pearson III
 ## Title: Pragmatic Power BI:  Transforming Data
 ## Abstract:
@@ -323,7 +323,7 @@ Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Self-Service BI
 #### SessionID: 46374
 # Dimensional Modeling: The Heart of a Data Warehouse 
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Enterprise BI
+Event Date: 30-07-2016 - Session time: 14:00:00 - Track: Enterprise BI
 ## Speaker: Bryan Cafferky
 ## Title: Dimensional Modeling: The Heart of a Data Warehouse 
 ## Abstract:
@@ -332,7 +332,7 @@ Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Enterprise BI
 #### SessionID: 48158
 # Taming the Transaction Log
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Administration
+Event Date: 30-07-2016 - Session time: 14:00:00 - Track: DBA - Administration
 ## Speaker: Mike Hays
 ## Title: Taming the Transaction Log
 ## Abstract:
@@ -341,7 +341,7 @@ Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Administration
 #### SessionID: 50284
 # Demystifying Storage Area Networks
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Storage and Hardware Architecture
+Event Date: 30-07-2016 - Session time: 14:00:00 - Track: Storage and Hardware Architecture
 ## Speaker: Michael Wells
 ## Title: Demystifying Storage Area Networks
 ## Abstract:
@@ -350,7 +350,7 @@ Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Storage and Hardware Ar
 #### SessionID: 51192
 # Treating Schema Like Code - Database Change Management with Liquibase
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 30-07-2016 - Session time: 14:00:00 - Track: DBA - Database Development
 ## Speaker: Kyle Titus
 ## Title: Treating Schema Like Code - Database Change Management with Liquibase
 ## Abstract:
@@ -361,7 +361,7 @@ In this talk I will discuss using the open source tool Liquibase to track, manag
 #### SessionID: 52293
 # Finding Islands, Gaps, and Clusters in Complex Data
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: DBA - Database Development
+Event Date: 30-07-2016 - Session time: 14:00:00 - Track: DBA - Database Development
 ## Speaker: Edward Pollack
 ## Title: Finding Islands, Gaps, and Clusters in Complex Data
 ## Abstract:
@@ -374,7 +374,7 @@ Discussion will include performance, CTEs, recursion, set-based vs. iterative an
 #### SessionID: 52343
 # Designing Meaningful dashboards in Power BI
 #### [Back to calendar](#nr-513)
-Event Date: 30-07-2016 - Session time: 15:30:00 - Track: Enterprise BI
+Event Date: 30-07-2016 - Session time: 14:00:00 - Track: Enterprise BI
 ## Speaker: James Phillips
 ## Title: Designing Meaningful dashboards in Power BI
 ## Abstract:

@@ -24,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 48311
 # My Top 10 Favorite Replication Tricks
 #### [Back to calendar](#nr-539)
-Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-07-2016 - Session time: 08:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcus Hopfinger
 ## Title: My Top 10 Favorite Replication Tricks
 ## Abstract:
@@ -33,7 +33,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Adm
 #### SessionID: 48583
 # Mastering queries into XML data.
 #### [Back to calendar](#nr-539)
-Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database Development
+Event Date: 23-07-2016 - Session time: 08:20:00 - Track: Application  Database Development
 ## Speaker: Rick Bielawski
 ## Title: Mastering queries into XML data.
 ## Abstract:
@@ -42,7 +42,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database D
 #### SessionID: 50700
 # Build on-the-fly reporting with Dynamic SQL
 #### [Back to calendar](#nr-539)
-Event Date: 23-07-2016 - Session time: 15:55:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-07-2016 - Session time: 08:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dorothy Ling
 ## Title: Build on-the-fly reporting with Dynamic SQL
 ## Abstract:
@@ -51,7 +51,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: BI Platform Architectur
 #### SessionID: 49228
 # Getting Started with Extended Events
 #### [Back to calendar](#nr-539)
-Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-07-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Galbraith
 ## Title: Getting Started with Extended Events
 ## Abstract:
@@ -64,7 +64,7 @@ Come learn how to get started - the basics of sessions, events, actions, targets
 #### SessionID: 50046
 # SSIS Performance Tuning with Biml
 #### [Back to calendar](#nr-539)
-Event Date: 23-07-2016 - Session time: 15:55:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-07-2016 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Stein
 ## Title: SSIS Performance Tuning with Biml
 ## Abstract:
@@ -74,7 +74,7 @@ The only way to be sure that your SSIS packages are performing optimally is to t
 #### SessionID: 50093
 # Tips and Tricks for Performance Troubleshooting
 #### [Back to calendar](#nr-539)
-Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database Development
+Event Date: 23-07-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Phillip Podhradsky
 ## Title: Tips and Tricks for Performance Troubleshooting
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database D
 #### SessionID: 48582
 # Implementing security inside SQL Server
 #### [Back to calendar](#nr-539)
-Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-07-2016 - Session time: 11:05:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Bielawski
 ## Title: Implementing security inside SQL Server
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Adm
 #### SessionID: 50293
 # SQL Server Foreign Keys – De-mystifying the Rest of the Story
 #### [Back to calendar](#nr-539)
-Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database Development
+Event Date: 23-07-2016 - Session time: 11:05:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SQL Server Foreign Keys – De-mystifying the Rest of the Story
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database D
 #### SessionID: 50045
 # Agile Data Warehouse and ETL Design with Biml
 #### [Back to calendar](#nr-539)
-Event Date: 23-07-2016 - Session time: 15:55:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-07-2016 - Session time: 13:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Stein
 ## Title: Agile Data Warehouse and ETL Design with Biml
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: BI Platform Architectur
 #### SessionID: 51023
 # One approach to make SQL deployments repeatable, scalable  semi-automated
 #### [Back to calendar](#nr-539)
-Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database Development
+Event Date: 23-07-2016 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Matthew Dobson
 ## Title: One approach to make SQL deployments repeatable, scalable  semi-automated
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database D
 #### SessionID: 51159
 # Availability Groups:  Monitoring and Alerting
 #### [Back to calendar](#nr-539)
-Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-07-2016 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Availability Groups:  Monitoring and Alerting
 ## Abstract:
@@ -132,7 +132,7 @@ We will look at the DMVs, extended event sessions, perfmon counters, SQL agent j
 #### SessionID: 50094
 # Building Stronger Relationships Between Us... "Data People" and Them... "End Users"
 #### [Back to calendar](#nr-539)
-Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Professional Development
+Event Date: 23-07-2016 - Session time: 14:35:00 - Track: Professional Development
 ## Speaker: Joshua Warne
 ## Title: Building Stronger Relationships Between Us... "Data People" and Them... "End Users"
 ## Abstract:
@@ -141,7 +141,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Professional Developmen
 #### SessionID: 50548
 # Free SQL Server Tools
 #### [Back to calendar](#nr-539)
-Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-07-2016 - Session time: 14:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Cecil Spivey
 ## Title: Free SQL Server Tools
 ## Abstract:
@@ -150,7 +150,7 @@ Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Enterprise Database Adm
 #### SessionID: 50656
 # MSSQL is coming to Linux - Are You Ready?
 #### [Back to calendar](#nr-539)
-Event Date: 23-07-2016 - Session time: 15:55:00 - Track: Application  Database Development
+Event Date: 23-07-2016 - Session time: 14:35:00 - Track: Application  Database Development
 ## Speaker: Nem Schlecht
 ## Title: MSSQL is coming to Linux - Are You Ready?
 ## Abstract:

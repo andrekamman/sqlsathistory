@@ -52,7 +52,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 88230
 # Power BI in Healthcare
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-04-2019 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ross McNeely
 ## Title: Power BI in Healthcare
 ## Abstract:
@@ -61,7 +61,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 88247
 # Learn History from Temporal Tables
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 06-04-2019 - Session time: 09:30:00 - Track: Database Administration
 ## Speaker: Ameena Lalani
 ## Title: Learn History from Temporal Tables
 ## Abstract:
@@ -70,7 +70,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 88286
 # Data Types - What do I need to know about them
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: SQL 101
+Event Date: 06-04-2019 - Session time: 09:30:00 - Track: SQL 101
 ## Speaker: Dave Bland
 ## Title: Data Types - What do I need to know about them
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: SQL 101
 #### SessionID: 88392
 # Everyone Has a Story to Tell: Developing Your First Presentation
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 06-04-2019 - Session time: 09:30:00 - Track: Professional Development
 ## Speaker: Andy Yun
 ## Title: Everyone Has a Story to Tell: Developing Your First Presentation
 ## Abstract:
@@ -92,7 +92,7 @@ You will leave armed with a wealth of resources (and hopefully some inspiration)
 #### SessionID: 88396
 # Practical SQL Server Internals for T-SQL Developers
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 06-04-2019 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: Practical SQL Server Internals for T-SQL Developers
 ## Abstract:
@@ -105,7 +105,7 @@ When you leave, you will have a greater understanding of the storage engine and 
 #### SessionID: 89055
 # Playing with (M)agic: an introduction to writing M code in Power BI
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 06-04-2019 - Session time: 09:30:00 - Track: Analytics and Visualization
 ## Speaker: Justin Mannhardt
 ## Title: Playing with (M)agic: an introduction to writing M code in Power BI
 ## Abstract:
@@ -119,7 +119,7 @@ In this session you will learn:
 #### SessionID: 89302
 # Azure Data Factory V2: The cloud SSIS we have been waiting for?
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-04-2019 - Session time: 09:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Joshuha Owen
 ## Title: Azure Data Factory V2: The cloud SSIS we have been waiting for?
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 89390
 # Real-Time IoT Analytics at the Edge (Double session length)
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-04-2019 - Session time: 09:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jordan Anderson
 ## Title: Real-Time IoT Analytics at the Edge (Double session length)
 ## Abstract:
@@ -141,7 +141,7 @@ No prior Azure IoT or Azure Stream Analytics knowledge is required to benefit fr
 #### SessionID: 89499
 # Introduction to ETL with SQL Server Integration Services (SSIS)
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-04-2019 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ashley Day
 ## Title: Introduction to ETL with SQL Server Integration Services (SSIS)
 ## Abstract:
@@ -152,7 +152,7 @@ This session is designed for users with little to no familiarity with SSIS who a
 #### SessionID: 90037
 # Tracking Data Transformations Using Temporal Tables
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 06-04-2019 - Session time: 09:30:00 - Track: Database Administration
 ## Speaker: Thomas Lane
 ## Title: Tracking Data Transformations Using Temporal Tables
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 92830
 # #GetModern with Dell EMC
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Other
+Event Date: 06-04-2019 - Session time: 09:30:00 - Track: Other
 ## Speaker: Bryan Walsh
 ## Title: #GetModern with Dell EMC
 ## Abstract:
@@ -170,7 +170,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Other
 #### SessionID: 88207
 # Azure Data Factory Ingestion Framework
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-04-2019 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sean Forgatch
 ## Title: Azure Data Factory Ingestion Framework
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 88402
 # COSMOS DB Develop Local Deploy Globally
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-04-2019 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Dorame
 ## Title: COSMOS DB Develop Local Deploy Globally
 ## Abstract:
@@ -190,7 +190,7 @@ Do you need to support JSON, Graph, et al?  Done.  Join me and see how easy it i
 #### SessionID: 88450
 # APPLY Yourself
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 06-04-2019 - Session time: 11:00:00 - Track: Database Administration
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 88504
 # Improving Columnstore Load Scalability on Large Servers
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 06-04-2019 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Joe Obbish
 ## Title: Improving Columnstore Load Scalability on Large Servers
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 89831
 # Hop Aboard the Git Train - Transitioning from TFVC
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 06-04-2019 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Marcus Radue
 ## Title: Hop Aboard the Git Train - Transitioning from TFVC
 ## Abstract:
@@ -217,7 +217,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 90600
 # Refactoring Monolith Database Stored Procedures
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 06-04-2019 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Riley Major
 ## Title: Refactoring Monolith Database Stored Procedures
 ## Abstract:
@@ -226,7 +226,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 90601
 # Performance tuning with SQL Server memory grants
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 06-04-2019 - Session time: 11:00:00 - Track: Database Administration
 ## Speaker: Arthur Daniels III
 ## Title: Performance tuning with SQL Server memory grants
 ## Abstract:
@@ -241,7 +241,7 @@ Prerequisites: General knowledge of execution plans and query writing
 #### SessionID: 91124
 # Women In Technology - Panel
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 06-04-2019 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Brijeet Akula
 ## Title: Women In Technology - Panel
 ## Abstract:
@@ -258,7 +258,7 @@ Please join us as we welcome:
 #### SessionID: 88288
 # How to use Execution Plans to find Performance Issues
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 06-04-2019 - Session time: 13:15:00 - Track: Database Administration
 ## Speaker: Dave Bland
 ## Title: How to use Execution Plans to find Performance Issues
 ## Abstract:
@@ -267,7 +267,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 88361
 # SSDT, Docker, and (Azure) DevOps: How to Make Your Database Builds a First Class CI/CD Citizen
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-04-2019 - Session time: 13:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dan Mallott
 ## Title: SSDT, Docker, and (Azure) DevOps: How to Make Your Database Builds a First Class CI/CD Citizen
 ## Abstract:
@@ -278,7 +278,7 @@ SSDT and Azure DevOps can solve some of these problems, and even give us a windo
 #### SessionID: 88471
 # Tips and Tricks for the PowerShell DBA (Double session length)
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 06-04-2019 - Session time: 13:15:00 - Track: Database Administration
 ## Speaker: Ben Miller
 ## Title: Tips and Tricks for the PowerShell DBA (Double session length)
 ## Abstract:
@@ -287,7 +287,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 89624
 # Handling Role Playing Dimensions in Tabular Models
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 06-04-2019 - Session time: 13:15:00 - Track: Analytics and Visualization
 ## Speaker: Brian Larson
 ## Title: Handling Role Playing Dimensions in Tabular Models
 ## Abstract:
@@ -296,7 +296,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 90053
 # How did you get in here, and who said you could do that???
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 06-04-2019 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: How did you get in here, and who said you could do that???
 ## Abstract:
@@ -305,7 +305,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 90186
 # Visual Studio DB Projects for worry-free development
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: SQL 101
+Event Date: 06-04-2019 - Session time: 13:15:00 - Track: SQL 101
 ## Speaker: Bob Charapata
 ## Title: Visual Studio DB Projects for worry-free development
 ## Abstract:
@@ -314,7 +314,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: SQL 101
 #### SessionID: 90408
 # Get Near Realtime ETL with Service Broker
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 06-04-2019 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Allen White
 ## Title: Get Near Realtime ETL with Service Broker
 ## Abstract:
@@ -323,7 +323,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 90565
 # Query Optimization Explained in 15 Demos
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 06-04-2019 - Session time: 13:15:00 - Track: Database Administration
 ## Speaker: Erik Darling
 ## Title: Query Optimization Explained in 15 Demos
 ## Abstract:
@@ -340,7 +340,7 @@ This will be fast-paced, demo-heavy and slide-light.
 #### SessionID: 90596
 # Always Encrypted - Now with Enclaves!
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Database Administration
+Event Date: 06-04-2019 - Session time: 13:15:00 - Track: Database Administration
 ## Speaker: Ed Leighton-Dick
 ## Title: Always Encrypted - Now with Enclaves!
 ## Abstract:
@@ -349,7 +349,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 88237
 # Dashboard in an Hour using Power BI
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 06-04-2019 - Session time: 14:45:00 - Track: BI Information Delivery
 ## Speaker: Farouq Abukhamireh
 ## Title: Dashboard in an Hour using Power BI
 ## Abstract:
@@ -358,7 +358,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 88395
 # Why Your Data Type Choices Matter
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 06-04-2019 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: Why Your Data Type Choices Matter
 ## Abstract:
@@ -369,7 +369,7 @@ Attend this session to learn how database records are stored within SQL Server a
 #### SessionID: 88403
 # JSON for the Data Mortals
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 06-04-2019 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Jim Dorame
 ## Title: JSON for the Data Mortals
 ## Abstract:
@@ -378,7 +378,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 88448
 # Eyes on the Prize:  Simple and Effective Dashboard Visualization Techniques
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 06-04-2019 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Eyes on the Prize:  Simple and Effective Dashboard Visualization Techniques
 ## Abstract:
@@ -387,7 +387,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 88814
 # Diagnosing and fixing deadlocks in SQL Server
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 06-04-2019 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Jake Manske
 ## Title: Diagnosing and fixing deadlocks in SQL Server
 ## Abstract:
@@ -400,7 +400,7 @@ Attendees will leave with the understanding they need to develop solutions to de
 #### SessionID: 90027
 # Fundamentals of Building an Effective Data Warehouse
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-04-2019 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cassie Zirbel
 ## Title: Fundamentals of Building an Effective Data Warehouse
 ## Abstract:
@@ -409,7 +409,7 @@ Event Date: 06-04-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 90289
 # SQL Server in AWS - Where to begin
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 06-04-2019 - Session time: 14:45:00 - Track: Strategy and Architecture
 ## Speaker: Phil Ekins
 ## Title: SQL Server in AWS - Where to begin
 ## Abstract:
@@ -420,7 +420,7 @@ Done right there is rarely an "Easy" button for solid infrastructure choices but
 #### SessionID: 92384
 # 0 to Snowflake in 60 Minutes on Azure
 #### [Back to calendar](#nr-842)
-Event Date: 06-04-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-04-2019 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ross McNeely
 ## Title: 0 to Snowflake in 60 Minutes on Azure
 ## Abstract:

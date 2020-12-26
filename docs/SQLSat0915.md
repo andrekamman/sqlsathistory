@@ -19,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 96869
 # Running Microsoft SQL Server on Amazon Web Services
 #### [Back to calendar](#nr-915)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 05-10-2019 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dragos Madarasan
 ## Title: Running Microsoft SQL Server on Amazon Web Services
 ## Abstract:
@@ -28,7 +28,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 98967
 # Dataism
 #### [Back to calendar](#nr-915)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 05-10-2019 - Session time: 10:00:00 - Track: Strategy and Architecture
 ## Speaker: Cristian Lefter
 ## Title: Dataism
 ## Abstract:
@@ -38,7 +38,7 @@ What is the impact of Dataism in our life? Let's discover that together!
 #### SessionID: 95167
 # Azure Data Explorer - Fast and highly scalable interactive analytics
 #### [Back to calendar](#nr-915)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 05-10-2019 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Liviu Ieran
 ## Title: Azure Data Explorer - Fast and highly scalable interactive analytics
 ## Abstract:
@@ -48,7 +48,7 @@ I am going to provide an overview of Azure Data Explorer, an interactive analyti
 #### SessionID: 96886
 # SQL Managed Instance - From the ground to the cloud
 #### [Back to calendar](#nr-915)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-10-2019 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alexandra Ciortea
 ## Title: SQL Managed Instance - From the ground to the cloud
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 96741
 # ML on the Edge
 #### [Back to calendar](#nr-915)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-10-2019 - Session time: 12:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Catalin Gheorghiu
 ## Title: ML on the Edge
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 96752
 # What I have seen so far in my performance tuning audits
 #### [Back to calendar](#nr-915)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 12:00:00 - Track: Application  Database Development
 ## Speaker: Rudi Bruchez
 ## Title: What I have seen so far in my performance tuning audits
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 94550
 # T-SQL Performance Guidelines for the optimal DB stress powers
 #### [Back to calendar](#nr-915)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for the optimal DB stress powers
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 96748
 # Big Data Clusters: SQL Server 2019 Meets Big Data
 #### [Back to calendar](#nr-915)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Sorin Peste
 ## Title: Big Data Clusters: SQL Server 2019 Meets Big Data
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 96773
 # SQL Server 2019 on Linux - What's new?
 #### [Back to calendar](#nr-915)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 05-10-2019 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: Gabriel Petrescu
 ## Title: SQL Server 2019 on Linux - What's new?
 ## Abstract:
@@ -104,7 +104,7 @@ Advanced security features, Big data clusters, Data virtualization - the opening
 #### SessionID: 96816
 # BI Powers - The A.I. Who Tagged Me
 #### [Back to calendar](#nr-915)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 05-10-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: André Melancia
 ## Title: BI Powers - The A.I. Who Tagged Me
 ## Abstract:

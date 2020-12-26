@@ -24,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 90540
 # The Haberdashery of Machine Learning
 #### [Back to calendar](#nr-860)
-Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 21-09-2019 - Session time: 10:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jan Mulkens
 ## Title: The Haberdashery of Machine Learning
 ## Abstract:
@@ -37,7 +37,7 @@ Using Azure and SQL Server Machine Learning Services during our examples, you'll
 #### SessionID: 93665
 # The future of serverless computing
 #### [Back to calendar](#nr-860)
-Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 21-09-2019 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: The future of serverless computing
 ## Abstract:
@@ -50,7 +50,7 @@ This session will be useful for developers and architects who are seeking a way 
 #### SessionID: 94404
 # SQL Server  PowerShell. How to become a true senior DBA (на русском)
 #### [Back to calendar](#nr-860)
-Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-09-2019 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andriy Pogorelov
 ## Title: SQL Server  PowerShell. How to become a true senior DBA (на русском)
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 98783
 # The future of serverless computing
 #### [Back to calendar](#nr-860)
-Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 21-09-2019 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Illia Lubenets
 ## Title: The future of serverless computing
 ## Abstract:
@@ -72,7 +72,7 @@ This session will be useful for developers and architects who are seeking a way 
 #### SessionID: 89563
 # If a machine can learn, why can't YOU learn Azure Machine Learning?
 #### [Back to calendar](#nr-860)
-Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 21-09-2019 - Session time: 11:10:00 - Track: Advanced Analysis Techniques
 ## Speaker: André Melancia
 ## Title: If a machine can learn, why can't YOU learn Azure Machine Learning?
 ## Abstract:
@@ -83,7 +83,7 @@ Disclaimer: Sadly, AzureML still can't predict what's on your girlfriend's mind.
 #### SessionID: 96248
 # AI Capabilities for Power BI
 #### [Back to calendar](#nr-860)
-Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 21-09-2019 - Session time: 11:10:00 - Track: Analytics and Visualization
 ## Speaker: Eugene Polonichko
 ## Title: AI Capabilities for Power BI
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 98594
 # Polybase in MS SQL Server 2019
 #### [Back to calendar](#nr-860)
-Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 21-09-2019 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Andrii Zrobok
 ## Title: Polybase in MS SQL Server 2019
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 90080
 # Attention Contention!!!
 #### [Back to calendar](#nr-860)
-Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-09-2019 - Session time: 13:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Attention Contention!!!
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 91301
 # What is CI/CD for databases or how to automate DB changes
 #### [Back to calendar](#nr-860)
-Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-09-2019 - Session time: 13:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taras Kloba
 ## Title: What is CI/CD for databases or how to automate DB changes
 ## Abstract:
@@ -121,7 +121,7 @@ The main goal is to understand that applications and databases can and should sh
 #### SessionID: 96354
 # ML on the Edge
 #### [Back to calendar](#nr-860)
-Event Date: 21-09-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-09-2019 - Session time: 13:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Catalin Gheorghiu
 ## Title: ML on the Edge
 ## Abstract:
@@ -130,7 +130,7 @@ Event Date: 21-09-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 98053
 # SQL Server: Поради для непрофільних розробників
 #### [Back to calendar](#nr-860)
-Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 21-09-2019 - Session time: 13:10:00 - Track: Application  Database Development
 ## Speaker: Yevhen Nedashkivskyi
 ## Title: SQL Server: Поради для непрофільних розробників
 ## Abstract:
@@ -141,7 +141,7 @@ Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 96371
 # A Game of Hierarchies: Graph Processing with SQL Server 2019
 #### [Back to calendar](#nr-860)
-Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 21-09-2019 - Session time: 14:20:00 - Track: Application  Database Development
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: A Game of Hierarchies: Graph Processing with SQL Server 2019
 ## Abstract:
@@ -156,7 +156,7 @@ Join this session for a journey through best practices to transform your hierarc
 #### SessionID: 96809
 # Report optimization techniques in both Desktop and Service. Vertipaq Engine in Power BI
 #### [Back to calendar](#nr-860)
-Event Date: 21-09-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-09-2019 - Session time: 14:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ruslan Zolotukhin
 ## Title: Report optimization techniques in both Desktop and Service. Vertipaq Engine in Power BI
 ## Abstract:
@@ -167,7 +167,7 @@ At current session I will describe possible performance issues and how to handle
 #### SessionID: 98634
 # Data Insight Ecosystem Today
 #### [Back to calendar](#nr-860)
-Event Date: 21-09-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 21-09-2019 - Session time: 14:20:00 - Track: Strategy and Architecture
 ## Speaker: Taras Bachynskyy
 ## Title: Data Insight Ecosystem Today
 ## Abstract:

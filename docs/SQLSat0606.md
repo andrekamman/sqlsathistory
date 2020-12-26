@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 64010
 # SQL Server Query Tuning  Optimization
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: SQL Server 2016  v.Next
+Event Date: 01-04-2017 - Session time: 09:30:00 - Track: SQL Server 2016  v.Next
 ## Speaker: Benjamin Nevarez
 ## Title: SQL Server Query Tuning  Optimization
 ## Abstract:
@@ -36,7 +36,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: SQL Server 2016  v.Next
 #### SessionID: 61544
 # Power BI in Action - Live Streaming using Flow - Azure
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 01-04-2017 - Session time: 10:00:00 - Track: Business Intelligence
 ## Speaker: Gaston Cruz
 ## Title: Power BI in Action - Live Streaming using Flow - Azure
 ## Abstract:
@@ -45,7 +45,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 62551
 # Query Processing in In-Memory OLTP (Hekaton)
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: SQL Server 2016  v.Next
+Event Date: 01-04-2017 - Session time: 10:00:00 - Track: SQL Server 2016  v.Next
 ## Speaker: Benjamin Nevarez
 ## Title: Query Processing in In-Memory OLTP (Hekaton)
 ## Abstract:
@@ -54,7 +54,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: SQL Server 2016  v.Next
 #### SessionID: 63301
 # Microsoft R Server  Data Science world
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Advanced Analytics
+Event Date: 01-04-2017 - Session time: 10:00:00 - Track: Advanced Analytics
 ## Speaker: Adrian Fernandez
 ## Title: Microsoft R Server  Data Science world
 ## Abstract:
@@ -64,7 +64,7 @@ The presentation provides advanced topics for data scientists who will be using 
 #### SessionID: 57203
 # stop reinventing the wheel. Use window functions
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 01-04-2017 - Session time: 11:00:00 - Track: Business Intelligence
 ## Speaker: Dhiego Piroto
 ## Title: stop reinventing the wheel. Use window functions
 ## Abstract:
@@ -74,7 +74,7 @@ Developer Track.
 #### SessionID: 57465
 # Uso de Lenguaje R con Spark en Data Analytics
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Advanced Analytics
+Event Date: 01-04-2017 - Session time: 11:00:00 - Track: Advanced Analytics
 ## Speaker: Eduardo Castro
 ## Title: Uso de Lenguaje R con Spark en Data Analytics
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Advanced Analytics
 #### SessionID: 63295
 # Tip para migrar SSIS (Integration Services)
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: SQL Server 2016  v.Next
+Event Date: 01-04-2017 - Session time: 11:00:00 - Track: SQL Server 2016  v.Next
 ## Speaker: Carlos Farias
 ## Title: Tip para migrar SSIS (Integration Services)
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: SQL Server 2016  v.Next
 #### SessionID: 57202
 # Usando Código R en Transact-SQL
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Advanced Analytics
+Event Date: 01-04-2017 - Session time: 12:00:00 - Track: Advanced Analytics
 ## Speaker: Patricio Cofre
 ## Title: Usando Código R en Transact-SQL
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Advanced Analytics
 #### SessionID: 57238
 # Analytics con Azure Data Lake y HDInsight
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 01-04-2017 - Session time: 12:00:00 - Track: Business Intelligence
 ## Speaker: Nestor Campos
 ## Title: Analytics con Azure Data Lake y HDInsight
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 59685
 # Nuevas Caracteristicas de SQL Server 2016 para DBAs
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: SQL Server 2016  v.Next
+Event Date: 01-04-2017 - Session time: 12:00:00 - Track: SQL Server 2016  v.Next
 ## Speaker: Javier Villegas
 ## Title: Nuevas Caracteristicas de SQL Server 2016 para DBAs
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: SQL Server 2016  v.Next
 #### SessionID: 63703
 # Corriendo R sobre un ambiente Serverless: Amazon Athena
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 01-04-2017 - Session time: 12:00:00 - Track: Business Intelligence
 ## Speaker: Mauricio Muñoz
 ## Title: Corriendo R sobre un ambiente Serverless: Amazon Athena
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 57602
 # Usando Pig y Hive en HDInsight
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 01-04-2017 - Session time: 14:00:00 - Track: Business Intelligence
 ## Speaker: Cristobal Ibarra
 ## Title: Usando Pig y Hive en HDInsight
 ## Abstract:
@@ -137,7 +137,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 62548
 # Dive into the Query Optimizer - Undocumented Insight
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: SQL Server 2016  v.Next
+Event Date: 01-04-2017 - Session time: 14:00:00 - Track: SQL Server 2016  v.Next
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer - Undocumented Insight
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: SQL Server 2016  v.Next
 #### SessionID: 62975
 # Azure Data Lake Analytics y U-SQL
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Advanced Analytics
+Event Date: 01-04-2017 - Session time: 14:00:00 - Track: Advanced Analytics
 ## Speaker: Marco Ramirez
 ## Title: Azure Data Lake Analytics y U-SQL
 ## Abstract:
@@ -155,7 +155,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Advanced Analytics
 #### SessionID: 57466
 # Monitoreo de SQL Server R Services
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Advanced Analytics
+Event Date: 01-04-2017 - Session time: 15:00:00 - Track: Advanced Analytics
 ## Speaker: Eduardo Castro
 ## Title: Monitoreo de SQL Server R Services
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Advanced Analytics
 #### SessionID: 59314
 # Be more productive in the development and management of your SQL Server and Analysis Services
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 01-04-2017 - Session time: 15:00:00 - Track: Business Intelligence
 ## Speaker: Gustavo Carneiro
 ## Title: Be more productive in the development and management of your SQL Server and Analysis Services
 ## Abstract:
@@ -176,7 +176,7 @@ Migrations:  database comparison, schema comparison and data comparison
 #### SessionID: 62665
 # Nuevas características de SQL Server 2018 (vNext) Database Engine
 #### [Back to calendar](#nr-606)
-Event Date: 01-04-2017 - Session time: 16:00:00 - Track: SQL Server 2016  v.Next
+Event Date: 01-04-2017 - Session time: 15:00:00 - Track: SQL Server 2016  v.Next
 ## Speaker: Kamal Valero
 ## Title: Nuevas características de SQL Server 2018 (vNext) Database Engine
 ## Abstract:

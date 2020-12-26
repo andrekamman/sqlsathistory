@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 54185
 # Inside the SQLPS PowerShell Module
 #### [Back to calendar](#nr-576)
-Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-11-2016 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: Inside the SQLPS PowerShell Module
 ## Abstract:
@@ -36,7 +36,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 56473
 # Introduction to the SQL Server Query Store
 #### [Back to calendar](#nr-576)
-Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-11-2016 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Preece
 ## Title: Introduction to the SQL Server Query Store
 ## Abstract:
@@ -45,7 +45,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 53640
 # Creating an Always On Distributed Availability Group
 #### [Back to calendar](#nr-576)
-Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-11-2016 - Session time: 10:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dale Cunningham
 ## Title: Creating an Always On Distributed Availability Group
 ## Abstract:
@@ -54,7 +54,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 54190
 # Alerts: Knowing Is Half the Battle!
 #### [Back to calendar](#nr-576)
-Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-11-2016 - Session time: 10:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lars Rasmussen
 ## Title: Alerts: Knowing Is Half the Battle!
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 54440
 # Locks, Blocks, and Deadlocks, Oh My!
 #### [Back to calendar](#nr-576)
-Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Application  Database Development
+Event Date: 19-11-2016 - Session time: 10:10:00 - Track: Application  Database Development
 ## Speaker: Randy Knight
 ## Title: Locks, Blocks, and Deadlocks, Oh My!
 ## Abstract:
@@ -74,7 +74,7 @@ In this session targeted at the accidental or new DBA, we will walk through each
 #### SessionID: 54846
 # Power to the people
 #### [Back to calendar](#nr-576)
-Event Date: 19-11-2016 - Session time: 15:40:00 - Track: BI Information Delivery
+Event Date: 19-11-2016 - Session time: 10:10:00 - Track: BI Information Delivery
 ## Speaker: Steve Seeley
 ## Title: Power to the people
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: BI Information Delivery
 #### SessionID: 53901
 # Introduction to Azure SQL Data Warehouse
 #### [Back to calendar](#nr-576)
-Event Date: 19-11-2016 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 19-11-2016 - Session time: 11:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Scott Cameron
 ## Title: Introduction to Azure SQL Data Warehouse
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: BI Platform Architectur
 #### SessionID: 56199
 # SQL Server 2016 Always On Availability Groups Perf  Internals
 #### [Back to calendar](#nr-576)
-Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Strategy and Architecture
+Event Date: 19-11-2016 - Session time: 11:20:00 - Track: Strategy and Architecture
 ## Speaker: J May
 ## Title: SQL Server 2016 Always On Availability Groups Perf  Internals
 ## Abstract:
@@ -103,7 +103,7 @@ Our work shows enhancements of 7x – 10x, allowing over 1/2GB/s (4Gb/s) across 
 #### SessionID: 53518
 # Advanced SSIS Techniques
 #### [Back to calendar](#nr-576)
-Event Date: 19-11-2016 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 19-11-2016 - Session time: 13:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Dye
 ## Title: Advanced SSIS Techniques
 ## Abstract:
@@ -124,7 +124,7 @@ Upon completion of this workshop attendees will be able to:
 #### SessionID: 54341
 # MMM: Making the Most of the M Language - Real World Power Query for Excel and Power BI
 #### [Back to calendar](#nr-576)
-Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Advanced Analysis Techniques
+Event Date: 19-11-2016 - Session time: 13:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Greg McMurray
 ## Title: MMM: Making the Most of the M Language - Real World Power Query for Excel and Power BI
 ## Abstract:
@@ -133,7 +133,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Advanced Analysis Techn
 #### SessionID: 54445
 # Extended Events - Better than Profiler
 #### [Back to calendar](#nr-576)
-Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-11-2016 - Session time: 13:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Extended Events - Better than Profiler
 ## Abstract:
@@ -142,7 +142,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 53520
 # Dealing With Errors in SSIS 
 #### [Back to calendar](#nr-576)
-Event Date: 19-11-2016 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 19-11-2016 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Dye
 ## Title: Dealing With Errors in SSIS 
 ## Abstract:
@@ -158,7 +158,7 @@ You will learn:
 #### SessionID: 53975
 # SQL Server R Services in SQL 2016
 #### [Back to calendar](#nr-576)
-Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Analytics and Visualization
+Event Date: 19-11-2016 - Session time: 14:30:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
 ## Abstract:
@@ -167,7 +167,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Analytics and Visualiza
 #### SessionID: 54143
 # Disaster Recovery Where to Begin
 #### [Back to calendar](#nr-576)
-Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Strategy and Architecture
+Event Date: 19-11-2016 - Session time: 14:30:00 - Track: Strategy and Architecture
 ## Speaker: Tracy Boggiano
 ## Title: Disaster Recovery Where to Begin
 ## Abstract:
@@ -176,7 +176,7 @@ Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Strategy and Architectu
 #### SessionID: 56475
 # PowerBI, from a DBA
 #### [Back to calendar](#nr-576)
-Event Date: 19-11-2016 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-11-2016 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: TJay Belt
 ## Title: PowerBI, from a DBA
 ## Abstract:

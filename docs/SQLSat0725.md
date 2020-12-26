@@ -47,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 72105
 # KEYNOTE:  IT and Development in the Next Five Years
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Other
+Event Date: 03-03-2018 - Session time: 08:30:00 - Track: Other
 ## Speaker: Richard Campbell
 ## Title: KEYNOTE:  IT and Development in the Next Five Years
 ## Abstract:
@@ -56,7 +56,7 @@ Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Other
 #### SessionID: 71170
 # An Introduction to SQL Server 2017
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Admin
+Event Date: 03-03-2018 - Session time: 09:30:00 - Track: Admin
 ## Speaker: Warwick Rudd
 ## Title: An Introduction to SQL Server 2017
 ## Abstract:
@@ -67,7 +67,7 @@ From Analytics, Availability, Configuration and Performance there is something f
 #### SessionID: 71282
 # BI in Excel 2016: The value is in the Refresh
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: BI
+Event Date: 03-03-2018 - Session time: 09:30:00 - Track: BI
 ## Speaker: Ken Puls
 ## Title: BI in Excel 2016: The value is in the Refresh
 ## Abstract:
@@ -77,7 +77,7 @@ Come and see how Excel 2016 gives us the ability to not only rapidly create busi
 #### SessionID: 71570
 # Shaving of Microseconds
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Admin
+Event Date: 03-03-2018 - Session time: 09:30:00 - Track: Admin
 ## Speaker: Thomas Grohser
 ## Title: Shaving of Microseconds
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Admin
 #### SessionID: 71988
 # Educating yourself will make a SQL career more fulfilling
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Other
+Event Date: 03-03-2018 - Session time: 09:30:00 - Track: Other
 ## Speaker: Chris Wood
 ## Title: Educating yourself will make a SQL career more fulfilling
 ## Abstract:
@@ -98,7 +98,7 @@ It will also show how to make any conference more affordable and justify the ben
 #### SessionID: 72072
 # Why is my DBA So Grumpy ... When I Use NOLOCK and Other Query Hints.
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Dev
+Event Date: 03-03-2018 - Session time: 09:30:00 - Track: Dev
 ## Speaker: Rick Lowe
 ## Title: Why is my DBA So Grumpy ... When I Use NOLOCK and Other Query Hints.
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Dev
 #### SessionID: 72370
 # Introduction to Azure Cosmos DB
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Cloud
+Event Date: 03-03-2018 - Session time: 09:30:00 - Track: Cloud
 ## Speaker: Anthony Chu
 ## Title: Introduction to Azure Cosmos DB
 ## Abstract:
@@ -118,7 +118,7 @@ In this session, we'll get an overview of Azure Cosmos DB. And we'll see live de
 #### SessionID: 72710
 # SQL Server on Docker
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Dev
+Event Date: 03-03-2018 - Session time: 09:30:00 - Track: Dev
 ## Speaker: Frank Geisler
 ## Title: SQL Server on Docker
 ## Abstract:
@@ -127,7 +127,7 @@ Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Dev
 #### SessionID: 71168
 # DevOPs and the DBA
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Admin
+Event Date: 03-03-2018 - Session time: 10:45:00 - Track: Admin
 ## Speaker: Hamish Watson
 ## Title: DevOPs and the DBA
 ## Abstract:
@@ -146,7 +146,7 @@ Through the use of a comprehensive live demo to a running database hosted in Azu
 #### SessionID: 71172
 # Six Degrees of Sql Family? - An introduction to Graph Databases in SQL Server and CosmosDB
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Dev
+Event Date: 03-03-2018 - Session time: 10:45:00 - Track: Dev
 ## Speaker: Patrick Flynn
 ## Title: Six Degrees of Sql Family? - An introduction to Graph Databases in SQL Server and CosmosDB
 ## Abstract:
@@ -162,7 +162,7 @@ In particular we will take the Speaker Data from 700+ SQLSaturday events to inve
 #### SessionID: 71265
 # Take P, R or U and Solve your Data Quality Problems
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: BI
+Event Date: 03-03-2018 - Session time: 10:45:00 - Track: BI
 ## Speaker: Oliver Engels
 ## Title: Take P, R or U and Solve your Data Quality Problems
 ## Abstract:
@@ -172,7 +172,7 @@ In a demo driven presentation, we show what libraries you can use to build score
 #### SessionID: 71442
 # Backup and Restore your SQL Server Database
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Admin
+Event Date: 03-03-2018 - Session time: 10:45:00 - Track: Admin
 ## Speaker: Randolph West
 ## Title: Backup and Restore your SQL Server Database
 ## Abstract:
@@ -185,7 +185,7 @@ You will be able to go back to work on Monday with a better understanding of dat
 #### SessionID: 71871
 # Power BI and Azure Machine Learning
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: BI
+Event Date: 03-03-2018 - Session time: 10:45:00 - Track: BI
 ## Speaker: Anthony Bulk
 ## Title: Power BI and Azure Machine Learning
 ## Abstract:
@@ -194,7 +194,7 @@ Event Date: 03-03-2018 - Session time: 15:45:00 - Track: BI
 #### SessionID: 73015
 # Microservice-Pattern using Serverless-Architectur (Azure Functions)
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Cloud
+Event Date: 03-03-2018 - Session time: 10:45:00 - Track: Cloud
 ## Speaker: Sia Ghassemi
 ## Title: Microservice-Pattern using Serverless-Architectur (Azure Functions)
 ## Abstract:
@@ -205,7 +205,7 @@ In this Session we’ll see how to implement this pattern using Azure Functions,
 #### SessionID: 73670
 # Columnstore Introductional Session
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Admin
+Event Date: 03-03-2018 - Session time: 10:45:00 - Track: Admin
 ## Speaker: Niko Neugebauer
 ## Title: Columnstore Introductional Session
 ## Abstract:
@@ -218,7 +218,7 @@ In this introduction session I will show how the Columnstore Indexes achieve thi
 #### SessionID: 75804
 # Ready Set Cloud!
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Cloud
+Event Date: 03-03-2018 - Session time: 12:30:00 - Track: Cloud
 ## Speaker: Andrew Boudreau
 ## Title: Ready Set Cloud!
 ## Abstract:
@@ -227,7 +227,7 @@ Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Cloud
 #### SessionID: 76894
 # Bring More Power  Productivity to your SSIS Development
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Dev
+Event Date: 03-03-2018 - Session time: 12:30:00 - Track: Dev
 ## Speaker: KingswaySoft Inc.
 ## Title: Bring More Power  Productivity to your SSIS Development
 ## Abstract:
@@ -240,7 +240,7 @@ In additional to performing advanced transformations you will also find codeless
 #### SessionID: 76992
 # Getting Started with the Azure Cognitive Services
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Cloud
+Event Date: 03-03-2018 - Session time: 12:30:00 - Track: Cloud
 ## Speaker: Anthony Bulk
 ## Title: Getting Started with the Azure Cognitive Services
 ## Abstract:
@@ -253,7 +253,7 @@ You will not be dissappointed.
 #### SessionID: 76994
 # SQL Server and Pure Storage: Love Your Storage
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Other
+Event Date: 03-03-2018 - Session time: 12:30:00 - Track: Other
 ## Speaker: Argenis Fernandez
 ## Title: SQL Server and Pure Storage: Love Your Storage
 ## Abstract:
@@ -262,7 +262,7 @@ Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Other
 #### SessionID: 77015
 # Simplifying SQL Data Protection
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Admin
+Event Date: 03-03-2018 - Session time: 12:30:00 - Track: Admin
 ## Speaker: Michael Fal
 ## Title: Simplifying SQL Data Protection
 ## Abstract:
@@ -271,7 +271,7 @@ Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Admin
 #### SessionID: 71854
 # Dynamic SQL: Tables, Pivots, Parameters  More
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Dev
+Event Date: 03-03-2018 - Session time: 13:15:00 - Track: Dev
 ## Speaker: Steven Tidwell
 ## Title: Dynamic SQL: Tables, Pivots, Parameters  More
 ## Abstract:
@@ -280,7 +280,7 @@ Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Dev
 #### SessionID: 71934
 # 13 reasons why my query is slow
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Dev
+Event Date: 03-03-2018 - Session time: 13:15:00 - Track: Dev
 ## Speaker: Fabiano Amorim
 ## Title: 13 reasons why my query is slow
 ## Abstract:
@@ -303,7 +303,7 @@ Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Dev
 #### SessionID: 72462
 # 100 Percent Online Schema Migrations
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Admin
+Event Date: 03-03-2018 - Session time: 13:15:00 - Track: Admin
 ## Speaker: Michael J Swart
 ## Title: 100 Percent Online Schema Migrations
 ## Abstract:
@@ -316,7 +316,7 @@ I'll also describe how we gradually modified our process in baby steps. Going fr
 #### SessionID: 72469
 # Azure Analysis Services - An important step for BI in the cloud? [DE / EN]
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: BI
+Event Date: 03-03-2018 - Session time: 13:15:00 - Track: BI
 ## Speaker: Gabi Münster
 ## Title: Azure Analysis Services - An important step for BI in the cloud? [DE / EN]
 ## Abstract:
@@ -327,7 +327,7 @@ This session offers answers to your questions and provides insight to support th
 #### SessionID: 72576
 # The Nine Realms of Power BI
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: BI
+Event Date: 03-03-2018 - Session time: 13:15:00 - Track: BI
 ## Speaker: Paul Turley
 ## Title: The Nine Realms of Power BI
 ## Abstract:
@@ -337,7 +337,7 @@ From simple desktop and published reports, to enterprise-scale and highly-secure
 #### SessionID: 72740
 # Introduction to Cortana  – Turning Data into Intelligent Action
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Cloud
+Event Date: 03-03-2018 - Session time: 13:15:00 - Track: Cloud
 ## Speaker: Melody Zacharias
 ## Title: Introduction to Cortana  – Turning Data into Intelligent Action
 ## Abstract:
@@ -346,7 +346,7 @@ Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Cloud
 #### SessionID: 72751
 # PowerShell for SQL Server DBAs
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Admin
+Event Date: 03-03-2018 - Session time: 13:15:00 - Track: Admin
 ## Speaker: Rodrigo Crespi
 ## Title: PowerShell for SQL Server DBAs
 ## Abstract:
@@ -358,7 +358,7 @@ See you then!
 #### SessionID: 71187
 # If a machine can learn, why can't YOU learn Azure Machine Learning?
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: BI
+Event Date: 03-03-2018 - Session time: 14:30:00 - Track: BI
 ## Speaker: André Melancia
 ## Title: If a machine can learn, why can't YOU learn Azure Machine Learning?
 ## Abstract:
@@ -369,7 +369,7 @@ Disclaimer: Sadly, AzureML still can't predict what's on your girlfriend's mind.
 #### SessionID: 71266
 # Get the Most Visual Power
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: BI
+Event Date: 03-03-2018 - Session time: 14:30:00 - Track: BI
 ## Speaker: Yana Berkovich
 ## Title: Get the Most Visual Power
 ## Abstract:
@@ -380,7 +380,7 @@ Comparing the free solutions in the PowerBI visuals Gallery. Given in the PowerB
 #### SessionID: 71333
 # Essential Linux for the SQL Server DBA
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Admin
+Event Date: 03-03-2018 - Session time: 14:30:00 - Track: Admin
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Essential Linux for the SQL Server DBA
 ## Abstract:
@@ -399,7 +399,7 @@ You’ll leave feeling more at ease with Linux and have plenty of content and li
 #### SessionID: 71824
 # When Things go Wrong - Error Handling in SQL Server
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Dev
+Event Date: 03-03-2018 - Session time: 14:30:00 - Track: Dev
 ## Speaker: Erland Sommarskog
 ## Title: When Things go Wrong - Error Handling in SQL Server
 ## Abstract:
@@ -410,7 +410,7 @@ This presentation starts with a horror show of the many different actions SQL Se
 #### SessionID: 71872
 # Modernizing your legacy database integration points
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Dev
+Event Date: 03-03-2018 - Session time: 14:30:00 - Track: Dev
 ## Speaker: Ian Chamberland
 ## Title: Modernizing your legacy database integration points
 ## Abstract:
@@ -422,7 +422,7 @@ This presentation will show a method that was used to update legacy applications
 #### SessionID: 72060
 # Data Landscape on Azure
 #### [Back to calendar](#nr-725)
-Event Date: 03-03-2018 - Session time: 15:45:00 - Track: Cloud
+Event Date: 03-03-2018 - Session time: 14:30:00 - Track: Cloud
 ## Speaker: Sepand Gojgini
 ## Title: Data Landscape on Azure
 ## Abstract:

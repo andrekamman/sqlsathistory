@@ -53,7 +53,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 77882
 # Back to Basics - The SELECT Statement
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Application Development
+Event Date: 09-06-2018 - Session time: 09:00:00 - Track: Database and Application Development
 ## Speaker: Andrew Karcher
 ## Title: Back to Basics - The SELECT Statement
 ## Abstract:
@@ -64,7 +64,7 @@ In this session, we will dive deep in to the SELECT statement as the window to g
 #### SessionID: 78407
 # Power BI For Master Data Management
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
+Event Date: 09-06-2018 - Session time: 09:00:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Swagatika Sarangi
 ## Title: Power BI For Master Data Management
 ## Abstract:
@@ -75,7 +75,7 @@ Integrating Master Data Services with Power BI, and presenting analytics on top 
 #### SessionID: 78611
 # Collecting Performance Metrics
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
+Event Date: 09-06-2018 - Session time: 09:00:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Tracy Boggiano
 ## Title: Collecting Performance Metrics
 ## Abstract:
@@ -86,7 +86,7 @@ In this session, we will be combining three open source tools (Telegraf, InfluxD
 #### SessionID: 78724
 # Infrastructure 101 for SQL Server Deployments
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
+Event Date: 09-06-2018 - Session time: 09:00:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Allan Hirt
 ## Title: Infrastructure 101 for SQL Server Deployments
 ## Abstract:
@@ -95,7 +95,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #### SessionID: 80910
 # SSIS Basics
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Application Development
+Event Date: 09-06-2018 - Session time: 09:00:00 - Track: Database and Application Development
 ## Speaker: Brodie Brickey
 ## Title: SSIS Basics
 ## Abstract:
@@ -104,7 +104,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Applicatio
 #### SessionID: 81966
 # A DBA's guide to full stack performance troubleshooting
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
+Event Date: 09-06-2018 - Session time: 09:00:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Daniel Janik
 ## Title: A DBA's guide to full stack performance troubleshooting
 ## Abstract:
@@ -117,7 +117,7 @@ Join me as I guide you through troubleshooting SQL Server performance from tip t
 #### SessionID: 82109
 # An Introduction to SQL Server Spatial Data
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Application Development
+Event Date: 09-06-2018 - Session time: 09:00:00 - Track: Database and Application Development
 ## Speaker: Mindy Curnutt
 ## Title: An Introduction to SQL Server Spatial Data
 ## Abstract:
@@ -133,7 +133,7 @@ Come to this session to learn about:
 #### SessionID: 82294
 # Time intelligence and date tables in Power BI
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
+Event Date: 09-06-2018 - Session time: 09:00:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Marco Russo
 ## Title: Time intelligence and date tables in Power BI
 ## Abstract:
@@ -143,7 +143,7 @@ This session provides you the best practices to correctly shape a data model and
 #### SessionID: 82984
 # Move Over Dexter!  We're Building a Machine Learning Lab!
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
+Event Date: 09-06-2018 - Session time: 09:00:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: PEIXIN WANG
 ## Title: Move Over Dexter!  We're Building a Machine Learning Lab!
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #### SessionID: 83591
 # SQL Server R Services in SQL 2016
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
+Event Date: 09-06-2018 - Session time: 09:00:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence a
 #### SessionID: 77720
 # Soft skills for Geeks: Don't be a flat boxer
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: Professional Development
 ## Speaker: Randy Knight
 ## Title: Soft skills for Geeks: Don't be a flat boxer
 ## Abstract:
@@ -170,7 +170,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 78564
 # Attack of the Linux Sea Monsters!
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Andrew Nakamura
 ## Title: Attack of the Linux Sea Monsters!
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #### SessionID: 80014
 # The Magic of SSISDB
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Application Development
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: Database and Application Development
 ## Speaker: Elaena Bakman
 ## Title: The Magic of SSISDB
 ## Abstract:
@@ -189,7 +189,7 @@ This presentation will demonstrate how to use SSISDB to script out deployments o
 #### SessionID: 80072
 # Learning Azure Cosmos DB
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
 ## Speaker: Leonard Lobel
 ## Title: Learning Azure Cosmos DB
 ## Abstract:
@@ -200,7 +200,7 @@ We tour many features of Cosmos DB, including its multi-model capabilities which
 #### SessionID: 80510
 # JSON and the Astronauts
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Application Development
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: Database and Application Development
 ## Speaker: Peter Kral
 ## Title: JSON and the Astronauts
 ## Abstract:
@@ -212,7 +212,7 @@ You should have experience writing queries in T-SQL. No previous knowledge of JS
 #### SessionID: 80925
 # SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Service?
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
 ## Speaker: Rick Lowe
 ## Title: SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Service?
 ## Abstract:
@@ -221,7 +221,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (S
 #### SessionID: 82095
 # Python in SQL Server 2017
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
 ## Abstract:
@@ -232,7 +232,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #### SessionID: 82194
 # Power BI Deployment Strategies:  The Business versus I.T.
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Jeremy Frye
 ## Title: Power BI Deployment Strategies:  The Business versus I.T.
 ## Abstract:
@@ -243,7 +243,7 @@ In this session, we will look at potential data management concerns that include
 #### SessionID: 82431
 # Women in Technology (lead by Amy Herold and Mindy Curnutt)
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 09-06-2018 - Session time: 10:45:00 - Track: Professional Development
 ## Speaker: SQL Saturday in LA
 ## Title: Women in Technology (lead by Amy Herold and Mindy Curnutt)
 ## Abstract:
@@ -257,7 +257,7 @@ Speakers: Amy Herold, Mindy Curnutt, Swagatika Sarangi, Amie Mason, Tracy Boggia
 #### SessionID: 77689
 # How To Talk To Your Storage Admin
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
+Event Date: 09-06-2018 - Session time: 12:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Marsha Pierce
 ## Title: How To Talk To Your Storage Admin
 ## Abstract:
@@ -266,7 +266,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #### SessionID: 80227
 # Azure Intelligent Services
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
+Event Date: 09-06-2018 - Session time: 12:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
 ## Speaker: Amie Mason
 ## Title: Azure Intelligent Services
 ## Abstract:
@@ -275,7 +275,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (S
 #### SessionID: 82206
 # SQL Server on Amazon Web Services
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
+Event Date: 09-06-2018 - Session time: 12:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
 ## Speaker: Richard Waymire
 ## Title: SQL Server on Amazon Web Services
 ## Abstract:
@@ -284,7 +284,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (S
 #### SessionID: 82215
 # Rubrik: Sponsor Session
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
+Event Date: 09-06-2018 - Session time: 12:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: SQL Saturday in LA
 ## Title: Rubrik: Sponsor Session
 ## Abstract:
@@ -293,7 +293,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #### SessionID: 82220
 # Quest: Sponsor Session
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
+Event Date: 09-06-2018 - Session time: 12:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: SQL Saturday in LA
 ## Title: Quest: Sponsor Session
 ## Abstract:
@@ -302,7 +302,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #### SessionID: 82221
 # CloudHealth: Master Rightsizing  Reserved Instances for AWS  Azure
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
+Event Date: 09-06-2018 - Session time: 12:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
 ## Speaker: SQL Saturday in LA
 ## Title: CloudHealth: Master Rightsizing  Reserved Instances for AWS  Azure
 ## Abstract:
@@ -311,7 +311,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (S
 #### SessionID: 82224
 # DELL-EMC: Sponsor Session
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Application Development
+Event Date: 09-06-2018 - Session time: 12:45:00 - Track: Database and Application Development
 ## Speaker: SQL Saturday in LA
 ## Title: DELL-EMC: Sponsor Session
 ## Abstract:
@@ -320,7 +320,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Applicatio
 #### SessionID: 82323
 # Virtualizing SQL Server on vSphere. Doing it Right!
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
+Event Date: 09-06-2018 - Session time: 12:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Brandon Leach
 ## Title: Virtualizing SQL Server on vSphere. Doing it Right!
 ## Abstract:
@@ -329,7 +329,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #### SessionID: 83214
 # Power BI Dashboard - Creating End to End Solutions
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
+Event Date: 09-06-2018 - Session time: 12:45:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Suresh Datla
 ## Title: Power BI Dashboard - Creating End to End Solutions
 ## Abstract:
@@ -339,7 +339,7 @@ Accessing data, Data preparation, and cleansing, consuming the data for reports 
 #### SessionID: 77337
 # Insights with massive data ingestion and Power BI
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
+Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Armando Lacerda
 ## Title: Insights with massive data ingestion and Power BI
 ## Abstract:
@@ -348,7 +348,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence a
 #### SessionID: 77364
 # Environmental SQL Server Troubleshooting
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
+Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: Jeff Mlakar
 ## Title: Environmental SQL Server Troubleshooting
 ## Abstract:
@@ -359,7 +359,7 @@ In this session we will discuss both performance pitfalls and optimizations that
 #### SessionID: 80913
 # Understanding Parameter Sniffing
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Application Development
+Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Database and Application Development
 ## Speaker: Benjamin Nevarez
 ## Title: Understanding Parameter Sniffing
 ## Abstract:
@@ -368,7 +368,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database and Applicatio
 #### SessionID: 80922
 # My Journey to AWS
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
+Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
 ## Speaker: Nathaniel Payumo
 ## Title: My Journey to AWS
 ## Abstract:
@@ -377,7 +377,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (S
 #### SessionID: 82161
 # Reporting Services 2016: New Features  Smart Migration Strategy
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
+Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services 2016: New Features  Smart Migration Strategy
 ## Abstract:
@@ -388,7 +388,7 @@ The session will then dive into how to use the data in the ReportServer database
 #### SessionID: 82197
 # Optimizing your data warehouse for OLAP Processing
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence and Analytics Platforms
+Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Business Intelligence and Analytics Platforms
 ## Speaker: Konstantin Melamud
 ## Title: Optimizing your data warehouse for OLAP Processing
 ## Abstract:
@@ -397,7 +397,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Business Intelligence a
 #### SessionID: 82225
 # Branding Yourself for a Dream Job
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
 ## Abstract:
@@ -406,7 +406,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 82359
 # Automate the Pain Away with Adaptive Query Processing and Automatic Tuning
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
+Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Database Administration, Performance Tuning Optimization, and DevOps
 ## Speaker: John Sterrett
 ## Title: Automate the Pain Away with Adaptive Query Processing and Automatic Tuning
 ## Abstract:
@@ -415,7 +415,7 @@ Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Database Administration
 #### SessionID: 82567
 # Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
 #### [Back to calendar](#nr-773)
-Event Date: 09-06-2018 - Session time: 15:45:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
+Event Date: 09-06-2018 - Session time: 14:00:00 - Track: Cloud Infrastructure (SaaS, PaaS, IaaS, DRaaS)
 ## Speaker: Jason Horner
 ## Title: Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
 ## Abstract:

@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 68595
 # Efficient and Effective coding of Stored Procedures
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-12-2017 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Simon
 ## Title: Efficient and Effective coding of Stored Procedures
 ## Abstract:
@@ -46,7 +46,7 @@ In this hands-on presentation, we shall be looking at best practices with regard
 #### SessionID: 68615
 # Row Level Security in Power BI
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-12-2017 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Todd Chittenden
 ## Title: Row Level Security in Power BI
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 09-12-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #### SessionID: 68766
 # Organizational Security  Compliance with SQL 2012 through 2016
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walters
 ## Title: Organizational Security  Compliance with SQL 2012 through 2016
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 68873
 # Does it Hurt When I Do This? Performing a SQL Server Health Check
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Galbraith
 ## Title: Does it Hurt When I Do This? Performing a SQL Server Health Check
 ## Abstract:
@@ -75,7 +75,7 @@ Come learn how to use freely available tools from multiple layers of the SQL Ser
 #### SessionID: 69675
 # How to migrate a SQL database to Microsoft Azure SQL V12
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 09-12-2017 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Taiob Ali
 ## Title: How to migrate a SQL database to Microsoft Azure SQL V12
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Cloud Application Devel
 #### SessionID: 69867
 # Optimizing Queries
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 09-12-2017 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Geraldine Caszo
 ## Title: Optimizing Queries
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 68588
 # Choosing technologies for a big data solution in the cloud
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-12-2017 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: James Serra
 ## Title: Choosing technologies for a big data solution in the cloud
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 09-12-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #### SessionID: 68725
 # Tracking Index Usage Like a Pro!
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Edward Pollack
 ## Title: Tracking Index Usage Like a Pro!
 ## Abstract:
@@ -116,7 +116,7 @@ In this session, we will discuss how SQL Server tracks index utilization and the
 #### SessionID: 69283
 # Power up SSRS 2017 with Power BI and other new enhancements
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Analytics and Visualization
+Event Date: 09-12-2017 - Session time: 10:15:00 - Track: Analytics and Visualization
 ## Speaker: Sunil Kadimdiwan
 ## Title: Power up SSRS 2017 with Power BI and other new enhancements
 ## Abstract:
@@ -129,7 +129,7 @@ Will top off by demonstrating recent technical releases that support hosting Pow
 #### SessionID: 69812
 # Azure SQL Databases: A Guided Tour
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 09-12-2017 - Session time: 10:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mike Walsh
 ## Title: Azure SQL Databases: A Guided Tour
 ## Abstract:
@@ -142,7 +142,7 @@ This will be nearly PowerPoint free and we’ll log into my Azure Portal and bui
 #### SessionID: 70078
 # In-Memory Capabilities in SQL Server 2016
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 09-12-2017 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Goff
 ## Title: In-Memory Capabilities in SQL Server 2016
 ## Abstract:
@@ -151,7 +151,7 @@ Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 70236
 # SQL Server 2017 R and Python Integration - how do I do it and why would I want to??
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Analytics and Visualization
+Event Date: 09-12-2017 - Session time: 10:15:00 - Track: Analytics and Visualization
 ## Speaker: Andy Roberts
 ## Title: SQL Server 2017 R and Python Integration - how do I do it and why would I want to??
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Analytics and Visualiza
 #### SessionID: 68580
 # Whacha just say? Talking technology to non-technical people
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 09-12-2017 - Session time: 11:30:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: Whacha just say? Talking technology to non-technical people
 ## Abstract:
@@ -169,7 +169,7 @@ Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 68754
 # Inventory your data with Azure Data Catalog
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Beth Wolfset
 ## Title: Inventory your data with Azure Data Catalog
 ## Abstract:
@@ -178,7 +178,7 @@ Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 69674
 # Think like the Cardinality Estimator
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 09-12-2017 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taiob Ali
 ## Title: Think like the Cardinality Estimator
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 69814
 # You Can Tune Your Own Code - Back to Basics Tips for Developers
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 09-12-2017 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Mike Walsh
 ## Title: You Can Tune Your Own Code - Back to Basics Tips for Developers
 ## Abstract:
@@ -200,7 +200,7 @@ This is a gentle introduction of the basics that will help you write better code
 #### SessionID: 70233
 # Add Power BI to any application!
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Analytics and Visualization
+Event Date: 09-12-2017 - Session time: 11:30:00 - Track: Analytics and Visualization
 ## Speaker: Andy Roberts
 ## Title: Add Power BI to any application!
 ## Abstract:
@@ -211,7 +211,7 @@ The Power BI Embedded services allows you to host interactive visualizations ins
 #### SessionID: 70349
 # Effective Data Warehouse Storage Patterns
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 09-12-2017 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: John Miner
 ## Title: Effective Data Warehouse Storage Patterns
 ## Abstract:
@@ -240,7 +240,7 @@ Coverage:
 #### SessionID: 68589
 # Should I move my database to the cloud?
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 09-12-2017 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: James Serra
 ## Title: Should I move my database to the cloud?
 ## Abstract:
@@ -249,7 +249,7 @@ Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Cloud Application Devel
 #### SessionID: 68696
 # Back to the Basics: T-SQL 101
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 09-12-2017 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Deborah Melkin
 ## Title: Back to the Basics: T-SQL 101
 ## Abstract:
@@ -260,7 +260,7 @@ This session is designed for the junior DBA or developer who is looking for a be
 #### SessionID: 68706
 # Getting to and Nailing Your Interviews
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 09-12-2017 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Paresh Motiwala
 ## Title: Getting to and Nailing Your Interviews
 ## Abstract:
@@ -286,7 +286,7 @@ Keep going at it. Never stop looking!!!
 #### SessionID: 68727
 # Mapping Schema and Recursively Managing Data
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 09-12-2017 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Edward Pollack
 ## Title: Mapping Schema and Recursively Managing Data
 ## Abstract:
@@ -299,7 +299,7 @@ Can gaining insight into relational structure and design be educational and fun?
 #### SessionID: 68768
 # Power BI: Architecture and demo
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 09-12-2017 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: George Walters
 ## Title: Power BI: Architecture and demo
 ## Abstract:
@@ -308,7 +308,7 @@ Event Date: 09-12-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #### SessionID: 70046
 # Making Life Easy With PowerShell
 #### [Back to calendar](#nr-694)
-Event Date: 09-12-2017 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 09-12-2017 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Warren Estes
 ## Title: Making Life Easy With PowerShell
 ## Abstract:

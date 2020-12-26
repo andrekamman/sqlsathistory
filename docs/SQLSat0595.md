@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 56328
 # Crash Course on Better SQL Development
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 04-02-2017 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 56342
 # Big Data, Small Data, and Everything In Between
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Strategy and Architecture
+Event Date: 04-02-2017 - Session time: 08:30:00 - Track: Strategy and Architecture
 ## Speaker: Kevin Feasel
 ## Title: Big Data, Small Data, and Everything In Between
 ## Abstract:
@@ -61,7 +61,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Strategy and Architectu
 #### SessionID: 56937
 # SQL Server on Linux for SQL DBA.
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-02-2017 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Slava Murygin
 ## Title: SQL Server on Linux for SQL DBA.
 ## Abstract:
@@ -75,7 +75,7 @@ And I show you how to do it.
 #### SessionID: 57151
 # Power BI Administration and Best Practices Implementation Techniques
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: BI Information Delivery
+Event Date: 04-02-2017 - Session time: 08:30:00 - Track: BI Information Delivery
 ## Speaker: Ginger Grant
 ## Title: Power BI Administration and Best Practices Implementation Techniques
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: BI Information Delivery
 #### SessionID: 57311
 # SSIS Incremental Loading:  The Tortoise and The Hare
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-02-2017 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeremy Frye
 ## Title: SSIS Incremental Loading:  The Tortoise and The Hare
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 57499
 # I/O Tuning 101
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-02-2017 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anders Pedersen
 ## Title: I/O Tuning 101
 ## Abstract:
@@ -110,7 +110,7 @@ All of this can be done without the need for any 3rd party tools, all within the
 #### SessionID: 56343
 # Create lightning fast Dashboard with Power BI and its Components
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Analytics and Visualization
+Event Date: 04-02-2017 - Session time: 09:45:00 - Track: Analytics and Visualization
 ## Speaker: Vishal Pawar
 ## Title: Create lightning fast Dashboard with Power BI and its Components
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #### SessionID: 56349
 # Top 5 Tips to Keep Always On Always Humming and Users Happy
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-02-2017 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: Top 5 Tips to Keep Always On Always Humming and Users Happy
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 56970
 # Beyond the Basics of Multidimensional vs Tabular in SQL 2016
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Strategy and Architecture
+Event Date: 04-02-2017 - Session time: 09:45:00 - Track: Strategy and Architecture
 ## Speaker: Delora Bradish
 ## Title: Beyond the Basics of Multidimensional vs Tabular in SQL 2016
 ## Abstract:
@@ -137,7 +137,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Strategy and Architectu
 #### SessionID: 57368
 # Extended Events: What are they and How do I use them
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-02-2017 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 57450
 # SSMS Tips and Tricks
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 04-02-2017 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Eric Blinn
 ## Title: SSMS Tips and Tricks
 ## Abstract:
@@ -155,7 +155,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 57770
 # Anatomy of a Transaction
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-02-2017 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Frank Gill
 ## Title: Anatomy of a Transaction
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 56364
 # Data Visualization:  How to truly tell a great story!
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-02-2017 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization:  How to truly tell a great story!
 ## Abstract:
@@ -173,7 +173,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 56554
 # Does your performance tuning need a 12-step program?
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-02-2017 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Does your performance tuning need a 12-step program?
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 57337
 # Don't Let History Be a Mystery! Temporal Data in SQL Server 2016
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 04-02-2017 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Adam Machanic
 ## Title: Don't Let History Be a Mystery! Temporal Data in SQL Server 2016
 ## Abstract:
@@ -196,7 +196,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 57381
 # Introduction to Window Functions
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 04-02-2017 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: Introduction to Window Functions
 ## Abstract:
@@ -207,7 +207,7 @@ This session will teach you how to avoid cursor solutions, and create simpler co
 #### SessionID: 57391
 # In-Memory OLTP for Developers: What You Need to Know
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 04-02-2017 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Konstantin Melamud
 ## Title: In-Memory OLTP for Developers: What You Need to Know
 ## Abstract:
@@ -218,7 +218,7 @@ In this session, we are going to take a look at in-memory tables, their best use
 #### SessionID: 57437
 # Relational Data Architecture 101
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 04-02-2017 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: Relational Data Architecture 101
 ## Abstract:
@@ -231,7 +231,7 @@ This presentation is a survey of Data Architecture for the Intermediate DBA, it 
 #### SessionID: 56345
 # Analyzing SQL Server Data using PowerPivot in MS Excel
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: BI Information Delivery
+Event Date: 04-02-2017 - Session time: 13:30:00 - Track: BI Information Delivery
 ## Speaker: Wylie Blanchard
 ## Title: Analyzing SQL Server Data using PowerPivot in MS Excel
 ## Abstract:
@@ -240,7 +240,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: BI Information Delivery
 #### SessionID: 56616
 # SQL Server Transactional Replication: A Deep Dive
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-02-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server Transactional Replication: A Deep Dive
 ## Abstract:
@@ -249,7 +249,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 56675
 # Wait Statistics - The Top 5 Waits You Should Know
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-02-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Wait Statistics - The Top 5 Waits You Should Know
 ## Abstract:
@@ -258,7 +258,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 56677
 # How To Give a Technical Presentation
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Professional Development
+Event Date: 04-02-2017 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Aaron Cutshall
 ## Title: How To Give a Technical Presentation
 ## Abstract:
@@ -267,7 +267,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Professional Developmen
 #### SessionID: 57301
 # Performance Pitfalls from Code Reuse
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 04-02-2017 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: Performance Pitfalls from Code Reuse
 ## Abstract:
@@ -278,7 +278,7 @@ Come to this session and learn why applying object-oriented principles can be ex
 #### SessionID: 57510
 # Hacking SQL Server - A Peek into the Dark Side
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-02-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dustin Prescott
 ## Title: Hacking SQL Server - A Peek into the Dark Side
 ## Abstract:
@@ -287,7 +287,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 56378
 # Seeking the Perfect Hybrid:  On-Prem Data with Reports and Dashboards in Power BI
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-02-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: William E Pearson III
 ## Title: Seeking the Perfect Hybrid:  On-Prem Data with Reports and Dashboards in Power BI
 ## Abstract:
@@ -299,7 +299,7 @@ This session applies, in most respects, to Analysis Services 2012 and above.
 #### SessionID: 56487
 # Execution Plans 101
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 04-02-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Eugene Meidinger
 ## Title: Execution Plans 101
 ## Abstract:
@@ -308,7 +308,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 56629
 # It's a Machine World - Predictive Analytics with Azure Machine Learning
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
+Event Date: 04-02-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Greg Deckler
 ## Title: It's a Machine World - Predictive Analytics with Azure Machine Learning
 ## Abstract:
@@ -317,7 +317,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Advanced Analysis Techn
 #### SessionID: 57487
 # Secure/Encrypt SQL Server Database With TDE
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-02-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Chan
 ## Title: Secure/Encrypt SQL Server Database With TDE
 ## Abstract:
@@ -326,7 +326,7 @@ Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 57497
 # Ensuring Plan Stability with Query Store
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-02-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Erin Stellato
 ## Title: Ensuring Plan Stability with Query Store
 ## Abstract:
@@ -337,7 +337,7 @@ In this session, we'll start with a quick review of how Query Store works.  Then
 #### SessionID: 57771
 # Creating an Azure SQL Database Using PowerShell
 #### [Back to calendar](#nr-595)
-Event Date: 04-02-2017 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 04-02-2017 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Frank Gill
 ## Title: Creating an Azure SQL Database Using PowerShell
 ## Abstract:

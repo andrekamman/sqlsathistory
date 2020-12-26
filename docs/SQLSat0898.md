@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 93929
 # Who, What, When. Monitoring usage of your MS BI stack
 #### [Back to calendar](#nr-898)
-Event Date: 14-09-2019 - Session time: 16:10:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-09-2019 - Session time: 09:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Asgeir Gunnarsson
 ## Title: Who, What, When. Monitoring usage of your MS BI stack
 ## Abstract:
@@ -38,7 +38,7 @@ At the end of the session all participants will leave with all the code as well 
 #### SessionID: 94162
 # Bringing AI to the edge - Azure Cognitive Services in docker containers
 #### [Back to calendar](#nr-898)
-Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Cloud Application Development  Deployment
+Event Date: 14-09-2019 - Session time: 09:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Alexander Klein
 ## Title: Bringing AI to the edge - Azure Cognitive Services in docker containers
 ## Abstract:
@@ -49,7 +49,7 @@ How can you use these API's if you don't want to send your data to an Azure Data
 #### SessionID: 95245
 # Managing Memory for Optimal Performance
 #### [Back to calendar](#nr-898)
-Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-09-2019 - Session time: 09:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lord Richard Douglas
 ## Title: Managing Memory for Optimal Performance
 ## Abstract:
@@ -60,7 +60,7 @@ You will leave with a much clearer understanding of how to monitor and manage me
 #### SessionID: 93154
 # Microsoft Power BI Deployment Types
 #### [Back to calendar](#nr-898)
-Event Date: 14-09-2019 - Session time: 16:10:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-09-2019 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Philipp Lenz
 ## Title: Microsoft Power BI Deployment Types
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 14-09-2019 - Session time: 16:10:00 - Track: BI Platform Architectur
 #### SessionID: 93813
 # First steps with SQL Server on Docker
 #### [Back to calendar](#nr-898)
-Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-09-2019 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bartosz Ratajczyk
 ## Title: First steps with SQL Server on Docker
 ## Abstract:
@@ -80,7 +80,7 @@ Join me in the session where I will introduce you to the Docker containers world
 #### SessionID: 95536
 # Getting your ducks in a row - Understanding ordered data flows
 #### [Back to calendar](#nr-898)
-Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-09-2019 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Daniel Hutmacher
 ## Title: Getting your ducks in a row - Understanding ordered data flows
 ## Abstract:
@@ -93,7 +93,7 @@ Once you get these basics right, tuning will feel so much easier and execution p
 #### SessionID: 93210
 # It depends - don't mistake your Google search for my database knowledge
 #### [Back to calendar](#nr-898)
-Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Application  Database Development
+Event Date: 14-09-2019 - Session time: 11:45:00 - Track: Application  Database Development
 ## Speaker: Magnus Ahlkvist
 ## Title: It depends - don't mistake your Google search for my database knowledge
 ## Abstract:
@@ -103,7 +103,7 @@ My powerpoints usually look terrible, so I will focus on T-SQL and execution pla
 #### SessionID: 94129
 # Azure SQL Database - Lessons learned from the trenches
 #### [Back to calendar](#nr-898)
-Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Cloud Application Development  Deployment
+Event Date: 14-09-2019 - Session time: 11:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Azure SQL Database - Lessons learned from the trenches
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Cloud Application Devel
 #### SessionID: 95296
 # SQL Server Availability Groups for dummies
 #### [Back to calendar](#nr-898)
-Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-09-2019 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Broadbent
 ## Title: SQL Server Availability Groups for dummies
 ## Abstract:
@@ -127,7 +127,7 @@ If you want to finally get to grips with SQL Server Always On Availability Group
 #### SessionID: 98258
 # Churn Norris: Retain your customers with Machine Learning
 #### [Back to calendar](#nr-898)
-Event Date: 14-09-2019 - Session time: 16:10:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-09-2019 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Pau Sempere
 ## Title: Churn Norris: Retain your customers with Machine Learning
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 14-09-2019 - Session time: 16:10:00 - Track: BI Platform Architectur
 #### SessionID: 93309
 # What the Hekaton?!
 #### [Back to calendar](#nr-898)
-Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-09-2019 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kalen Delaney
 ## Title: What the Hekaton?!
 ## Abstract:
@@ -145,7 +145,7 @@ Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Enterprise Database Adm
 #### SessionID: 94811
 # Don't Bite Off More Than You Can Chew - Take It in Chunks
 #### [Back to calendar](#nr-898)
-Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Application  Database Development
+Event Date: 14-09-2019 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Don't Bite Off More Than You Can Chew - Take It in Chunks
 ## Abstract:
@@ -158,7 +158,7 @@ I will also look at how you can use chunking for error handling: You want proces
 #### SessionID: 93669
 # The future of serverless computing
 #### [Back to calendar](#nr-898)
-Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Cloud Application Development  Deployment
+Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: The future of serverless computing
 ## Abstract:
@@ -171,7 +171,7 @@ This session will be useful for developers and architects who are seeking a way 
 #### SessionID: 93797
 # Construct Visual Data Flows by using Azure Data Factory
 #### [Back to calendar](#nr-898)
-Event Date: 14-09-2019 - Session time: 16:10:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-09-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ted Malone
 ## Title: Construct Visual Data Flows by using Azure Data Factory
 ## Abstract:
@@ -182,7 +182,7 @@ In this session, attendees will be introduced to Azure Data Factory Mapping Data
 #### SessionID: 95552
 # AQP vs IQP - query optimization on steroids
 #### [Back to calendar](#nr-898)
-Event Date: 14-09-2019 - Session time: 16:10:00 - Track: Application  Database Development
+Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Damian Widera
 ## Title: AQP vs IQP - query optimization on steroids
 ## Abstract:

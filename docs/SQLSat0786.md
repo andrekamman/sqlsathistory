@@ -18,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 85739
 # End to End Power BI Workshop - Part1
 #### [Back to calendar](#nr-786)
-Event Date: 06-10-2018 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 06-10-2018 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Jose L. Rivera
 ## Title: End to End Power BI Workshop - Part1
 ## Abstract:
@@ -39,7 +39,7 @@ Power BI Administration
 #### SessionID: 85740
 # End to End Power BI Workshop - Part2
 #### [Back to calendar](#nr-786)
-Event Date: 06-10-2018 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 06-10-2018 - Session time: 13:30:00 - Track: BI Information Delivery
 ## Speaker: Jose L. Rivera
 ## Title: End to End Power BI Workshop - Part2
 ## Abstract:
@@ -60,7 +60,7 @@ Power BI Administration
 #### SessionID: 82684
 # Migrations 101
 #### [Back to calendar](#nr-786)
-Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gilda Alvarez
 ## Title: Migrations 101
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 86144
 # Converting images into information with Artificial Intelligence
 #### [Back to calendar](#nr-786)
-Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
+Event Date: 06-10-2018 - Session time: 09:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Isaias Martinez
 ## Title: Converting images into information with Artificial Intelligence
 ## Abstract:
@@ -78,7 +78,7 @@ Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 85738
 # Getting Started with Azure DataBricks
 #### [Back to calendar](#nr-786)
-Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
+Event Date: 06-10-2018 - Session time: 11:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jose L. Rivera
 ## Title: Getting Started with Azure DataBricks
 ## Abstract:
@@ -87,7 +87,7 @@ Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 85832
 # Power BI Dataset monitoring tool
 #### [Back to calendar](#nr-786)
-Event Date: 06-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joan Manuel Pérez
 ## Title: Power BI Dataset monitoring tool
 ## Abstract:
@@ -96,7 +96,7 @@ Event Date: 06-10-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 85900
 # Azure CosmoDB Globalizing Your Data
 #### [Back to calendar](#nr-786)
-Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-10-2018 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Juan Martí
 ## Title: Azure CosmoDB Globalizing Your Data
 ## Abstract:
@@ -105,7 +105,7 @@ Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 85989
 # Data Visualization Best Practices
 #### [Back to calendar](#nr-786)
-Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 06-10-2018 - Session time: 13:30:00 - Track: Analytics and Visualization
 ## Speaker: Orlando Mezquita
 ## Title: Data Visualization Best Practices
 ## Abstract:
@@ -114,7 +114,7 @@ Event Date: 06-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 85737
 # SQL Server 2017: SSIS Scale Out
 #### [Back to calendar](#nr-786)
-Event Date: 06-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose L. Rivera
 ## Title: SQL Server 2017: SSIS Scale Out
 ## Abstract:
@@ -123,7 +123,7 @@ Event Date: 06-10-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 85828
 # Building a data warehouse in the cloud and its new challenges
 #### [Back to calendar](#nr-786)
-Event Date: 06-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Edwin Torres
 ## Title: Building a data warehouse in the cloud and its new challenges
 ## Abstract:

@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 45151
 # Efficient and Effective coding of Stored Procedures
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 04-06-2016 - Session time: 08:45:00 - Track: Application  Database Development
 ## Speaker: Steve Simon
 ## Title: Efficient and Effective coding of Stored Procedures
 ## Abstract:
@@ -46,7 +46,7 @@ In this hands-on presentation, we shall be looking at best practices with regard
 #### SessionID: 45830
 # Beginning Azure
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 04-06-2016 - Session time: 08:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Thomas Norman
 ## Title: Beginning Azure
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Cloud Application Devel
 #### SessionID: 45965
 # Scratching the Surface: Designing your first Power View Report
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-06-2016 - Session time: 08:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Seferlis
 ## Title: Scratching the Surface: Designing your first Power View Report
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 46389
 # What Makes SSIS Tick? A Look at Internals for Performance
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-06-2016 - Session time: 08:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ravi Kumar
 ## Title: What Makes SSIS Tick? A Look at Internals for Performance
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 46909
 # Putting the Squeeze on Large Tables: Improve Performance and Save Space with Data Compression
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-06-2016 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Justin Randall
 ## Title: Putting the Squeeze on Large Tables: Improve Performance and Save Space with Data Compression
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 45161
 # Organizational Security  Compliance with SQL 2012 through 2016
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-06-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walters
 ## Title: Organizational Security  Compliance with SQL 2012 through 2016
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 45177
 # Database Design: Solving Problems Before they Start!
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Performance
+Event Date: 04-06-2016 - Session time: 10:00:00 - Track: Performance
 ## Speaker: Edward Pollack
 ## Title: Database Design: Solving Problems Before they Start!
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Performance
 #### SessionID: 45200
 # Introduction to R Programming
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 04-06-2016 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Bryan Cafferky
 ## Title: Introduction to R Programming
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 46213
 # SQL 2016 Upgrade as a Project
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-06-2016 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paresh Motiwala
 ## Title: SQL 2016 Upgrade as a Project
 ## Abstract:
@@ -122,7 +122,7 @@ This presentation will lay out this rather complex project into a simple laid ou
 #### SessionID: 46593
 # Using Powershell to Document SQL Server
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-06-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Using Powershell to Document SQL Server
 ## Abstract:
@@ -134,7 +134,7 @@ Objects exported include: SQL Agent Jobs/Alerts/Schedules, NT Service Credential
 #### SessionID: 51123
 # Virtual SQL Servers. Actual Performance.
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-06-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Virtual SQL Servers. Actual Performance.
 ## Abstract:
@@ -144,7 +144,7 @@ This session is packed with many tips and tricks gained from years of experience
 #### SessionID: 45139
 # Optimizing SQL Server and Databases for large Fact Tables
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-06-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: Optimizing SQL Server and Databases for large Fact Tables
 ## Abstract:
@@ -155,7 +155,7 @@ We will also as a side effect explore the Mary Go Round query feature and find w
 #### SessionID: 45315
 # An Introduction To Big Data For The SQL Server DBA
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 04-06-2016 - Session time: 11:15:00 - Track: Strategy and Architecture
 ## Speaker: David Benoit
 ## Title: An Introduction To Big Data For The SQL Server DBA
 ## Abstract:
@@ -171,7 +171,7 @@ So, come with an open mind, and be prepared to get excited about what a future w
 #### SessionID: 45385
 # PoshDBA: Practical PowerShell for the DBA
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-06-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: PoshDBA: Practical PowerShell for the DBA
 ## Abstract:
@@ -180,7 +180,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 45389
 # APPLY Yourself
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 04-06-2016 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
 ## Abstract:
@@ -189,7 +189,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 45967
 # Unseen Minions: Improving Parallel Processing in SSIS
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-06-2016 - Session time: 11:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Josef Richberg
 ## Title: Unseen Minions: Improving Parallel Processing in SSIS
 ## Abstract:
@@ -201,7 +201,7 @@ We’ll cover in detail alternative methods of managing large workloads by using
 #### SessionID: 48126
 # The Business Intelligence Side of SQL Server
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 04-06-2016 - Session time: 12:30:00 - Track: BI Information Delivery
 ## Speaker: Sayed Saeed
 ## Title: The Business Intelligence Side of SQL Server
 ## Abstract:
@@ -210,7 +210,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 #### SessionID: 48766
 # SQL Server and Pure Storage: Redefining Database Engineering
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 04-06-2016 - Session time: 12:30:00 - Track: Strategy and Architecture
 ## Speaker: Argenis Fernandez
 ## Title: SQL Server and Pure Storage: Redefining Database Engineering
 ## Abstract:
@@ -219,7 +219,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Strategy and Architectu
 #### SessionID: 45157
 # Maintenance Plans: Planning to Fail
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-06-2016 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Hillwig
 ## Title: Maintenance Plans: Planning to Fail
 ## Abstract:
@@ -230,7 +230,7 @@ The dirty little secret is that anything you can do with a maintenance plan can 
 #### SessionID: 45303
 # Building your ETL Framework with Biml
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-06-2016 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Meagan Longoria
 ## Title: Building your ETL Framework with Biml
 ## Abstract:
@@ -239,7 +239,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 45317
 # Taking the pain out of database migrations
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 04-06-2016 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Lumnah
 ## Title: Taking the pain out of database migrations
 ## Abstract:
@@ -250,7 +250,7 @@ This session will discuss what you need to take into account to ensure a success
 #### SessionID: 45324
 # SQL Server 2016 R Integration - how do I do it and why would I want to??
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 04-06-2016 - Session time: 13:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Andy Roberts
 ## Title: SQL Server 2016 R Integration - how do I do it and why would I want to??
 ## Abstract:
@@ -259,7 +259,7 @@ Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 45660
 # New T-SQL Capabilities in SQL Server 2016 and Azure SQL Database
 #### [Back to calendar](#nr-518)
-Event Date: 04-06-2016 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 04-06-2016 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Aaron Bertrand
 ## Title: New T-SQL Capabilities in SQL Server 2016 and Azure SQL Database
 ## Abstract:

@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 36857
 # SQL Server Compression - Getting More Out of Less
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-10-2015 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael Nowill
 ## Title: SQL Server Compression - Getting More Out of Less
 ## Abstract:
@@ -41,7 +41,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 39766
 # 100 Times Faster: Experiences making SQL Server go fast
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-10-2015 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Andrew Novick
 ## Title: 100 Times Faster: Experiences making SQL Server go fast
 ## Abstract:
@@ -54,7 +54,7 @@ This presentation is illustrated with examples from my work and we'll look for c
 #### SessionID: 40058
 # Unleashing SSIS with expressions, configurable properties, and parameters
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 17-10-2015 - Session time: 09:45:00 - Track: Strategy and Architecture
 ## Speaker: Daniel Bowlin
 ## Title: Unleashing SSIS with expressions, configurable properties, and parameters
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 40073
 # 15 Quick Tips for SSIS Performance
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 17-10-2015 - Session time: 09:45:00 - Track: BI Information Delivery
 ## Speaker: Tim Mitchell
 ## Title: 15 Quick Tips for SSIS Performance
 ## Abstract:
@@ -74,7 +74,7 @@ In this session, we’ll focus on SSIS package performance, quickly reviewing 15
 #### SessionID: 40136
 # You Can Still Analyze Data with T-SQL ... No Really
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-10-2015 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Steve Hughes
 ## Title: You Can Still Analyze Data with T-SQL ... No Really
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 37271
 # Building a Big Data Solution
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 17-10-2015 - Session time: 11:00:00 - Track: Strategy and Architecture
 ## Speaker: James Serra
 ## Title: Building a Big Data Solution
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 38459
 # The future of the data professional
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 17-10-2015 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Adam Jorgensen
 ## Title: The future of the data professional
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 39945
 # Extending Your Data Warehouse With PolyBase and Hadoop
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-10-2015 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Strate
 ## Title: Extending Your Data Warehouse With PolyBase and Hadoop
 ## Abstract:
@@ -113,7 +113,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 40075
 # Introduction to Biml
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-10-2015 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Introduction to Biml
 ## Abstract:
@@ -124,7 +124,7 @@ In this session, we'll cover the essentials of Biml. I'll discuss what it is and
 #### SessionID: 40286
 # Advanced SQL Server Analysis Services
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-10-2015 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Goff
 ## Title: Advanced SQL Server Analysis Services
 ## Abstract:
@@ -133,7 +133,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 37985
 # Managing Copy Data for BI
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-10-2015 - Session time: 13:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paresh Motiwala
 ## Title: Managing Copy Data for BI
 ## Abstract:
@@ -154,7 +154,7 @@ In this session we will study the issues above and see how we can avoid these is
 #### SessionID: 38460
 # Delivering Agile Analytics with Azure Machine Learning
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 17-10-2015 - Session time: 13:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Adam Jorgensen
 ## Title: Delivering Agile Analytics with Azure Machine Learning
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 39268
 # Processing Temporal Telemetry Data -aka- Storing BigData in a Small Space
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 17-10-2015 - Session time: 13:15:00 - Track: Analytics and Visualization
 ## Speaker: Thomas Grohser
 ## Title: Processing Temporal Telemetry Data -aka- Storing BigData in a Small Space
 ## Abstract:
@@ -175,7 +175,7 @@ Schema, ETL, Aggregation, Querying  and grooming  will be covered.
 #### SessionID: 39319
 # Create a Power BI Dashboard in 90 Minutes or LESS
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 17-10-2015 - Session time: 13:15:00 - Track: BI Information Delivery
 ## Speaker: Todd Chittenden
 ## Title: Create a Power BI Dashboard in 90 Minutes or LESS
 ## Abstract:
@@ -184,7 +184,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 40287
 # T-SQL for Application Developers - Attendees chose
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-10-2015 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Goff
 ## Title: T-SQL for Application Developers - Attendees chose
 ## Abstract:
@@ -194,7 +194,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 36684
 # Big Data querying with HDInsight and Hadoop with Excel
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 17-10-2015 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: George Walters
 ## Title: Big Data querying with HDInsight and Hadoop with Excel
 ## Abstract:
@@ -203,7 +203,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 36768
 # SSIS 2012/2014:  The Quiet Revolution
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-10-2015 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Bryan Cafferky
 ## Title: SSIS 2012/2014:  The Quiet Revolution
 ## Abstract:
@@ -212,7 +212,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 36918
 # Scratching the Surface: Designing your first Power View Report
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Self Service BI
+Event Date: 17-10-2015 - Session time: 14:30:00 - Track: Self Service BI
 ## Speaker: Chris Seferlis
 ## Title: Scratching the Surface: Designing your first Power View Report
 ## Abstract:
@@ -221,7 +221,7 @@ Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Self Service BI
 #### SessionID: 38356
 # Leadership Without Borders: Working with Global Teams
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 17-10-2015 - Session time: 14:30:00 - Track: Professional Development
 ## Speaker: Mike Hillwig
 ## Title: Leadership Without Borders: Working with Global Teams
 ## Abstract:
@@ -234,7 +234,7 @@ In this session, we demonstrate how a language barrier isn't usually the biggest
 #### SessionID: 38990
 # Handling Data Error in a Data Flow
 #### [Back to calendar](#nr-437)
-Event Date: 17-10-2015 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 17-10-2015 - Session time: 14:30:00 - Track: Strategy and Architecture
 ## Speaker: Jack Corbett
 ## Title: Handling Data Error in a Data Flow
 ## Abstract:

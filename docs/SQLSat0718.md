@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 72095
 # Conheça seu novo ambiente SQL Server - O Linux
 #### [Back to calendar](#nr-718)
-Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
+Event Date: 14-04-2018 - Session time: 09:30:00 - Track: Novidades
 ## Speaker: Rodrigo Crespi
 ## Title: Conheça seu novo ambiente SQL Server - O Linux
 ## Abstract:
@@ -35,7 +35,7 @@ Tudo que é básico entre os dois sistemas operacionais colocado lado a lado.
 #### SessionID: 72365
 # Go to Space with Azure CosmosDB (Abertura com Fernando Andreazi)
 #### [Back to calendar](#nr-718)
-Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Azure
+Event Date: 14-04-2018 - Session time: 09:30:00 - Track: Azure
 ## Speaker: Flávio Farias
 ## Title: Go to Space with Azure CosmosDB (Abertura com Fernando Andreazi)
 ## Abstract:
@@ -44,7 +44,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Azure
 #### SessionID: 72932
 # Machine Learning de caixinha?
 #### [Back to calendar](#nr-718)
-Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Análise de Dados
+Event Date: 14-04-2018 - Session time: 09:30:00 - Track: Análise de Dados
 ## Speaker: Diego Nogare
 ## Title: Machine Learning de caixinha?
 ## Abstract:
@@ -53,7 +53,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Análise de Dados
 #### SessionID: 70931
 # Machine Learning Services: Detecção de anomalias onde um desvio pode custar milhões
 #### [Back to calendar](#nr-718)
-Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Análise de Dados
+Event Date: 14-04-2018 - Session time: 10:45:00 - Track: Análise de Dados
 ## Speaker: Igor Santos de Paula
 ## Title: Machine Learning Services: Detecção de anomalias onde um desvio pode custar milhões
 ## Abstract:
@@ -64,7 +64,7 @@ O objetivo é demonstrar as técnicas, algoritmos e ferramentas das Microsoft ut
 #### SessionID: 71797
 # SQL 2017 não é somente Linux, conheça as outras novidades!
 #### [Back to calendar](#nr-718)
-Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
+Event Date: 14-04-2018 - Session time: 10:45:00 - Track: Novidades
 ## Speaker: Felipe de Assis
 ## Title: SQL 2017 não é somente Linux, conheça as outras novidades!
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
 #### SessionID: 72500
 # Implementando soluções de IA utilizando os serviços cognitvos no Azure
 #### [Back to calendar](#nr-718)
-Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Azure
+Event Date: 14-04-2018 - Session time: 10:45:00 - Track: Azure
 ## Speaker: Vitor Fava
 ## Title: Implementando soluções de IA utilizando os serviços cognitvos no Azure
 ## Abstract:
@@ -84,7 +84,7 @@ Nesta sessão discutiremos os conceitos básicos da IA e como podemos aplicá-la
 #### SessionID: 72313
 # Big Data com Ecossistema Hadoop: Hands-on (HBase, MySql e Hive + Power BI)
 #### [Back to calendar](#nr-718)
-Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Análise de Dados
+Event Date: 14-04-2018 - Session time: 13:00:00 - Track: Análise de Dados
 ## Speaker: Diogenes Santos
 ## Title: Big Data com Ecossistema Hadoop: Hands-on (HBase, MySql e Hive + Power BI)
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Análise de Dados
 #### SessionID: 72364
 # Man vs Machine: Adaptive query processing and auto tuning on SQL2017
 #### [Back to calendar](#nr-718)
-Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
+Event Date: 14-04-2018 - Session time: 13:00:00 - Track: Novidades
 ## Speaker: Fabiano Amorim
 ## Title: Man vs Machine: Adaptive query processing and auto tuning on SQL2017
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
 #### SessionID: 73141
 # ITIL ajuda ou atrapalha a vida do DBA
 #### [Back to calendar](#nr-718)
-Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Administração
+Event Date: 14-04-2018 - Session time: 13:00:00 - Track: Administração
 ## Speaker: Luiz Henrique Garetti
 ## Title: ITIL ajuda ou atrapalha a vida do DBA
 ## Abstract:
@@ -112,7 +112,7 @@ Muito julgam por dificultar o dia dia.. "engessar" o trabalho e assim por diante
 #### SessionID: 72518
 # Transaction Log - O que há de novo?
 #### [Back to calendar](#nr-718)
-Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
+Event Date: 14-04-2018 - Session time: 14:15:00 - Track: Novidades
 ## Speaker: Luiz Mercante
 ## Title: Transaction Log - O que há de novo?
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
 #### SessionID: 72933
 # Hacking SQL Server
 #### [Back to calendar](#nr-718)
-Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Administração
+Event Date: 14-04-2018 - Session time: 14:15:00 - Track: Administração
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Hacking SQL Server
 ## Abstract:
@@ -133,7 +133,7 @@ Simularemos uma invasão ao SQL Server explorando alguns conceitos mal interpret
 #### SessionID: 73946
 # Como o Azure Site Recovery e SQL Server lhe auxiliarão a entregar o RPO e RTO de sua Aplicação
 #### [Back to calendar](#nr-718)
-Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Azure
+Event Date: 14-04-2018 - Session time: 14:15:00 - Track: Azure
 ## Speaker: Marcos Vinicius Oliveira Schardong
 ## Title: Como o Azure Site Recovery e SQL Server lhe auxiliarão a entregar o RPO e RTO de sua Aplicação
 ## Abstract:
@@ -142,7 +142,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Azure
 #### SessionID: 72266
 # Você conhece o Power BI Report Server?
 #### [Back to calendar](#nr-718)
-Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Análise de Dados
+Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Análise de Dados
 ## Speaker: Felippe Oliveira
 ## Title: Você conhece o Power BI Report Server?
 ## Abstract:
@@ -151,7 +151,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Análise de Dados
 #### SessionID: 72366
 # Segurança de dados utilizando controles da ISO 27002
 #### [Back to calendar](#nr-718)
-Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Administração
+Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Administração
 ## Speaker: Diemerson Campos
 ## Title: Segurança de dados utilizando controles da ISO 27002
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Administração
 #### SessionID: 72479
 # Docker Windows com SQL Server 2017 - HowTo
 #### [Back to calendar](#nr-718)
-Event Date: 14-04-2018 - Session time: 16:45:00 - Track: Novidades
+Event Date: 14-04-2018 - Session time: 16:00:00 - Track: Novidades
 ## Speaker: Anderson Souza
 ## Title: Docker Windows com SQL Server 2017 - HowTo
 ## Abstract:

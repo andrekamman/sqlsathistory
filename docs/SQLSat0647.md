@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 65216
 # From problem to Power BI:  A journey in data visualization
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 23-09-2017 - Session time: 09:30:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: From problem to Power BI:  A journey in data visualization
 ## Abstract:
@@ -37,7 +37,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 66956
 # Tips for Getting Started with the Azure Data Platform
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-09-2017 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melissa Coates
 ## Title: Tips for Getting Started with the Azure Data Platform
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 67436
 # Master Data Services and Rapid Application Development
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-09-2017 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Simon
 ## Title: Master Data Services and Rapid Application Development
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 68483
 # Build Your First SSAS Cube!
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 23-09-2017 - Session time: 09:30:00 - Track: Analytics and Visualization
 ## Speaker: George Walters
 ## Title: Build Your First SSAS Cube!
 ## Abstract:
@@ -65,7 +65,7 @@ We will discuss how SSAS Tabular can create a data model, and easily be surfaced
 #### SessionID: 62955
 # SQL Server Reporting Services 2016 on Steroids!!
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Information Delivery
+Event Date: 23-09-2017 - Session time: 10:45:00 - Track: Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services 2016 on Steroids!!
 ## Abstract:
@@ -76,7 +76,7 @@ We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as
 #### SessionID: 63033
 # Microsoft and Big Data - An Overview of the Power Tools and more!
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 23-09-2017 - Session time: 10:45:00 - Track: BI Information Delivery
 ## Speaker: David Patrick
 ## Title: Microsoft and Big Data - An Overview of the Power Tools and more!
 ## Abstract:
@@ -85,7 +85,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 64301
 # Finding Islands, Gaps, and Clusters in Complex Data
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 23-09-2017 - Session time: 10:45:00 - Track: Analytics and Visualization
 ## Speaker: Edward Pollack
 ## Title: Finding Islands, Gaps, and Clusters in Complex Data
 ## Abstract:
@@ -98,7 +98,7 @@ Discussion will include performance, CTEs, recursion, set-based vs. iterative an
 #### SessionID: 65496
 # What's new with Power BI
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-09-2017 - Session time: 10:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Adam Saxton
 ## Title: What's new with Power BI
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 68456
 # Architecting for performance
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Sponsor Session
+Event Date: 23-09-2017 - Session time: 12:00:00 - Track: Sponsor Session
 ## Speaker: Matt Henderson
 ## Title: Architecting for performance
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Sponsor Session
 #### SessionID: 62937
 # Power BI-Create a Dashboard from Zero to Hero
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 23-09-2017 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Vishal Pawar
 ## Title: Power BI-Create a Dashboard from Zero to Hero
 ## Abstract:
@@ -126,7 +126,7 @@ Learn how to create Power BI Dashboard from scratch.
 #### SessionID: 63049
 # Learning to present and becoming good at it
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 23-09-2017 - Session time: 13:00:00 - Track: Professional Development
 ## Speaker: James Serra
 ## Title: Learning to present and becoming good at it
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 64607
 # Relationship Modeling Patterns in SSAS and Power BI
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 23-09-2017 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: Brett Powell
 ## Title: Relationship Modeling Patterns in SSAS and Power BI
 ## Abstract:
@@ -146,7 +146,7 @@ Example models will be shared using single and bidirectional relationships as we
 #### SessionID: 68379
 # Azure Data Catalog – Turning Unused Assets into Usable Knowledge
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 23-09-2017 - Session time: 13:00:00 - Track: Strategy and Architecture
 ## Speaker: Melody Zacharias
 ## Title: Azure Data Catalog – Turning Unused Assets into Usable Knowledge
 ## Abstract:
@@ -156,7 +156,7 @@ ADC is an indispensable tool that helps companies organize and make sense of the
 #### SessionID: 62922
 # Build ETL efficiently (10x) with Minimal Logging
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-09-2017 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Cho
 ## Title: Build ETL efficiently (10x) with Minimal Logging
 ## Abstract:
@@ -167,7 +167,7 @@ We will first analyze how data gets accessed from the source and how data gets u
 #### SessionID: 63002
 # Why candidates fail the job interview in the first minute
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 23-09-2017 - Session time: 14:15:00 - Track: Professional Development
 ## Speaker: Thomas Grohser
 ## Title: Why candidates fail the job interview in the first minute
 ## Abstract:
@@ -178,7 +178,7 @@ Thomas will share what he misses in resumes and how to respond to questions bett
 #### SessionID: 64413
 # DAX 101
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-09-2017 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Belinda Allen
 ## Title: DAX 101
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 64493
 # Power up SSRS with Power BI and other new enhancements
 #### [Back to calendar](#nr-647)
-Event Date: 23-09-2017 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 23-09-2017 - Session time: 14:15:00 - Track: BI Information Delivery
 ## Speaker: Sunil Kadimdiwan
 ## Title: Power up SSRS with Power BI and other new enhancements
 ## Abstract:

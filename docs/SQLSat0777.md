@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 80200
 # Azure Cognitive Services - AI for everyone
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Cloud
+Event Date: 24-11-2018 - Session time: 09:45:00 - Track: Cloud
 ## Speaker: Alexander Klein
 ## Title: Azure Cognitive Services - AI for everyone
 ## Abstract:
@@ -41,7 +41,7 @@ This is a large playground for young and old. Here you can try out to your heart
 #### SessionID: 84906
 # CI/CD with SQL Server 2017 and Docker
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: DevOps
+Event Date: 24-11-2018 - Session time: 09:45:00 - Track: DevOps
 ## Speaker: Giancarlo Lelli
 ## Title: CI/CD with SQL Server 2017 and Docker
 ## Abstract:
@@ -50,7 +50,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: DevOps
 #### SessionID: 85392
 # SQL Server 2017 su Linux e High Availability
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
+Event Date: 24-11-2018 - Session time: 09:45:00 - Track: Database Admin
 ## Speaker: Danilo Dominici
 ## Title: SQL Server 2017 su Linux e High Availability
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 #### SessionID: 85666
 # SQLChain - BlockChain Concepts using T-SQL and SQL Server
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: New technologies
+Event Date: 24-11-2018 - Session time: 09:45:00 - Track: New technologies
 ## Speaker: Stefano Altamura
 ## Title: SQLChain - BlockChain Concepts using T-SQL and SQL Server
 ## Abstract:
@@ -70,7 +70,7 @@ Trovarsi all'interno di un ambiente noto semplifica notevolmente il percorso, ut
 #### SessionID: 78907
 # What is hidden in the query plan ?
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Development
+Event Date: 24-11-2018 - Session time: 11:00:00 - Track: Development
 ## Speaker: Rudi Bruchez
 ## Title: What is hidden in the query plan ?
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Development
 #### SessionID: 79997
 # SQL Server Query Optimizer end-to-end
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
+Event Date: 24-11-2018 - Session time: 11:00:00 - Track: Database Admin
 ## Speaker: Sergio Govoni
 ## Title: SQL Server Query Optimizer end-to-end
 ## Abstract:
@@ -88,7 +88,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 #### SessionID: 83289
 # Most common mistakes data scientists make
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Data science
+Event Date: 24-11-2018 - Session time: 11:00:00 - Track: Data science
 ## Speaker: Tomaž Kaštrun
 ## Title: Most common mistakes data scientists make
 ## Abstract:
@@ -104,7 +104,7 @@ Some statistical knowledge or background is a plus!
 #### SessionID: 84897
 # SQL Server Graph Database
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: New technologies
+Event Date: 24-11-2018 - Session time: 11:00:00 - Track: New technologies
 ## Speaker: Salvatore Pellitteri
 ## Title: SQL Server Graph Database
 ## Abstract:
@@ -114,7 +114,7 @@ Vedremo insieme i concetti di base, come si creano gli oggetti e come si possono
 #### SessionID: 78915
 # Writing queries in SQL Server 2016-2017
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Development
+Event Date: 24-11-2018 - Session time: 12:10:00 - Track: Development
 ## Speaker: Andrea Martorana Tusa
 ## Title: Writing queries in SQL Server 2016-2017
 ## Abstract:
@@ -127,7 +127,7 @@ For each of them we compare the same scripts before and after the new additions,
 #### SessionID: 78930
 # Market Basket Analysis in SQL Server Machine Learning Services
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Data science
+Event Date: 24-11-2018 - Session time: 12:10:00 - Track: Data science
 ## Speaker: Luca Zavarella
 ## Title: Market Basket Analysis in SQL Server Machine Learning Services
 ## Abstract:
@@ -137,7 +137,7 @@ In questa sessione vedremo come i nuovi Machine Learning Services ci permettono 
 #### SessionID: 85527
 # Automatic Tuning in SQL Server 2017 and Azure SQL Database
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
+Event Date: 24-11-2018 - Session time: 12:10:00 - Track: Database Admin
 ## Speaker: Pasquale Ceglie
 ## Title: Automatic Tuning in SQL Server 2017 and Azure SQL Database
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 #### SessionID: 78895
 # Deep dive into Adaptive Query Processing
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
+Event Date: 24-11-2018 - Session time: 14:00:00 - Track: Database Admin
 ## Speaker: Hugo Kornelis
 ## Title: Deep dive into Adaptive Query Processing
 ## Abstract:
@@ -159,7 +159,7 @@ If you are more interested in how all this ACTUALLY works than in shiny marketin
 #### SessionID: 78929
 # Cosmos DB - La nuova frontiera del BigData e NoSql
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: New technologies
+Event Date: 24-11-2018 - Session time: 14:00:00 - Track: New technologies
 ## Speaker: Riccardo Cappello
 ## Title: Cosmos DB - La nuova frontiera del BigData e NoSql
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: New technologies
 #### SessionID: 83763
 # What is in reality a DAX filter context
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Data Visualization
+Event Date: 24-11-2018 - Session time: 14:00:00 - Track: Data Visualization
 ## Speaker: Marco Pozzan
 ## Title: What is in reality a DAX filter context
 ## Abstract:
@@ -177,7 +177,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Data Visualization
 #### SessionID: 83767
 # Transaction Log management in SQL Server
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
+Event Date: 24-11-2018 - Session time: 14:00:00 - Track: Database Admin
 ## Speaker: Gilberto Zampatti
 ## Title: Transaction Log management in SQL Server
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 #### SessionID: 83720
 # Dynamic Search Conditions
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Development
+Event Date: 24-11-2018 - Session time: 15:10:00 - Track: Development
 ## Speaker: Erland Sommarskog
 ## Title: Dynamic Search Conditions
 ## Abstract:
@@ -195,7 +195,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Development
 #### SessionID: 84715
 # ColumnStore Indexes: Come, quando e perchè usarli ?
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
+Event Date: 24-11-2018 - Session time: 15:10:00 - Track: Database Admin
 ## Speaker: Luca Ferrari
 ## Title: ColumnStore Indexes: Come, quando e perchè usarli ?
 ## Abstract:
@@ -204,7 +204,7 @@ Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Database Admin
 #### SessionID: 84984
 # Power BI integration with PowerAPPs for WriteBack
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Data Visualization
+Event Date: 24-11-2018 - Session time: 15:10:00 - Track: Data Visualization
 ## Speaker: Giuseppe Piluso
 ## Title: Power BI integration with PowerAPPs for WriteBack
 ## Abstract:
@@ -215,7 +215,7 @@ of PowerApps (custom Visual) and Flow. Join the session and we will walk your th
 #### SessionID: 85569
 # Benchmarking in the Cloud
 #### [Back to calendar](#nr-777)
-Event Date: 24-11-2018 - Session time: 16:30:00 - Track: Cloud
+Event Date: 24-11-2018 - Session time: 15:10:00 - Track: Cloud
 ## Speaker: Gianluca Sartori
 ## Title: Benchmarking in the Cloud
 ## Abstract:

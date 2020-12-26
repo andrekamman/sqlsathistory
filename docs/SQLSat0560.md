@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 50518
 # Achieve More in Less Time by Using the New SQL PowerShell
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
+Event Date: 17-09-2016 - Session time: 09:00:00 - Track: Database Development
 ## Speaker: Aaron Nelson
 ## Title: Achieve More in Less Time by Using the New SQL PowerShell
 ## Abstract:
@@ -58,7 +58,7 @@ There is a faster way to manage and even SQL Servers using PowerShell.  I will s
 #### SessionID: 52324
 # Inside of Indexes
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
+Event Date: 17-09-2016 - Session time: 09:00:00 - Track: Enterprise DBA
 ## Speaker: Slava Murygin
 ## Title: Inside of Indexes
 ## Abstract:
@@ -69,7 +69,7 @@ In that session we will use DBCC IND and DBCC PAGE and dig into pages' binary co
 #### SessionID: 52635
 # Analytics Industry Trends + Your Career
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 17-09-2016 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Jen Underwood
 ## Title: Analytics Industry Trends + Your Career
 ## Abstract:
@@ -78,7 +78,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Professional Developmen
 #### SessionID: 52871
 # Analysis Services: Show Me Where It Hurts
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: BI  DW
+Event Date: 17-09-2016 - Session time: 09:00:00 - Track: BI  DW
 ## Speaker: Bill Anton
 ## Title: Analysis Services: Show Me Where It Hurts
 ## Abstract:
@@ -91,7 +91,7 @@ Join me in this "something-everyone-should-be-doing-but-isn't" session, where we
 #### SessionID: 52908
 # Efficient table design
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
+Event Date: 17-09-2016 - Session time: 09:00:00 - Track: Enterprise DBA
 ## Speaker: Alex Grinberg
 ## Title: Efficient table design
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 #### SessionID: 53081
 # Administring SSIS 2012, 2014 and 2016 for DBAs
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
+Event Date: 17-09-2016 - Session time: 09:00:00 - Track: Enterprise DBA
 ## Speaker: Ravi Kumar
 ## Title: Administring SSIS 2012, 2014 and 2016 for DBAs
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 #### SessionID: 53161
 # Lightning Talks
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
+Event Date: 17-09-2016 - Session time: 09:00:00 - Track: Enterprise DBA
 ## Speaker: Angela Henry
 ## Title: Lightning Talks
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 #### SessionID: 50203
 # SSIS-Lightning fast processing using Parallel processing-Result in Power BI
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
+Event Date: 17-09-2016 - Session time: 10:15:00 - Track: Database Development
 ## Speaker: Vishal Pawar
 ## Title: SSIS-Lightning fast processing using Parallel processing-Result in Power BI
 ## Abstract:
@@ -128,7 +128,7 @@ You will see all result of session in Power BI real time - Time and all Batch ru
 #### SessionID: 50208
 # Stop Doing That! 5 Common T-SQL Anti-Patterns
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
+Event Date: 17-09-2016 - Session time: 10:15:00 - Track: Database Development
 ## Speaker: William Wolf
 ## Title: Stop Doing That! 5 Common T-SQL Anti-Patterns
 ## Abstract:
@@ -141,7 +141,7 @@ By the end of the session, you will be able to quickly identify these common ant
 #### SessionID: 51056
 # Building Blocks of Cortana Intelligence Suite in Azure
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Cloud Data Platform
+Event Date: 17-09-2016 - Session time: 10:15:00 - Track: Cloud Data Platform
 ## Speaker: Melissa Coates
 ## Title: Building Blocks of Cortana Intelligence Suite in Azure
 ## Abstract:
@@ -150,7 +150,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Cloud Data Platform
 #### SessionID: 51167
 # Mastering and Enhancing Company Data
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 17-09-2016 - Session time: 10:15:00 - Track: Strategy and Architecture
 ## Speaker: Rushabh Mehta
 ## Title: Mastering and Enhancing Company Data
 ## Abstract:
@@ -159,7 +159,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Strategy and Architectu
 #### SessionID: 52480
 # SQL Server 2016 and PolyBase
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: BI  DW
+Event Date: 17-09-2016 - Session time: 10:15:00 - Track: BI  DW
 ## Speaker: Sean Werick
 ## Title: SQL Server 2016 and PolyBase
 ## Abstract:
@@ -171,7 +171,7 @@ In this session, you will learn how to install and set up PolyBase, and how to u
 #### SessionID: 52718
 # Winning with Columnstore - A Customer Story
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
+Event Date: 17-09-2016 - Session time: 10:15:00 - Track: Enterprise DBA
 ## Speaker: Rick Heiges
 ## Title: Winning with Columnstore - A Customer Story
 ## Abstract:
@@ -180,7 +180,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 #### SessionID: 53071
 # SQL Server Permissions and Security Principals
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
+Event Date: 17-09-2016 - Session time: 10:15:00 - Track: Database Development
 ## Speaker: William Assaf
 ## Title: SQL Server Permissions and Security Principals
 ## Abstract:
@@ -189,7 +189,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 #### SessionID: 53160
 # SQL Server 2016 "Hidden Gems"
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
+Event Date: 17-09-2016 - Session time: 10:15:00 - Track: Database Development
 ## Speaker: Adam Machanic
 ## Title: SQL Server 2016 "Hidden Gems"
 ## Abstract:
@@ -198,7 +198,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 #### SessionID: 50801
 # Getting to know U-SQL
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Cloud Data Platform
+Event Date: 17-09-2016 - Session time: 11:30:00 - Track: Cloud Data Platform
 ## Speaker: Azhagappan Arunachalam
 ## Title: Getting to know U-SQL
 ## Abstract:
@@ -207,7 +207,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Cloud Data Platform
 #### SessionID: 50811
 # Big Data, Small Data, and Everything In Between
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 17-09-2016 - Session time: 11:30:00 - Track: Strategy and Architecture
 ## Speaker: Kevin Feasel
 ## Title: Big Data, Small Data, and Everything In Between
 ## Abstract:
@@ -216,7 +216,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Strategy and Architectu
 #### SessionID: 51129
 # Encrypting Data within Sql Server
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
+Event Date: 17-09-2016 - Session time: 11:30:00 - Track: Enterprise DBA
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within Sql Server
 ## Abstract:
@@ -225,7 +225,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 #### SessionID: 52278
 # Biml and SSIS Frameworks
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: BI  DW
+Event Date: 17-09-2016 - Session time: 11:30:00 - Track: BI  DW
 ## Speaker: Andy Leonard
 ## Title: Biml and SSIS Frameworks
 ## Abstract:
@@ -234,7 +234,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: BI  DW
 #### SessionID: 52490
 # What’s your Imperative doing in my Declarative?
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
+Event Date: 17-09-2016 - Session time: 11:30:00 - Track: Database Development
 ## Speaker: Geoff Hiten
 ## Title: What’s your Imperative doing in my Declarative?
 ## Abstract:
@@ -243,7 +243,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 #### SessionID: 52873
 # 20 Minute Tabular Model
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: BI  DW
+Event Date: 17-09-2016 - Session time: 11:30:00 - Track: BI  DW
 ## Speaker: Bill Anton
 ## Title: 20 Minute Tabular Model
 ## Abstract:
@@ -256,7 +256,7 @@ Join me in this session and learn what a Tabular model is, how it fits into the 
 #### SessionID: 53073
 # Using PowerBI and SQL Server to Create Management Cadence Dashboards
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 17-09-2016 - Session time: 11:30:00 - Track: Strategy and Architecture
 ## Speaker: Patrick Thompson
 ## Title: Using PowerBI and SQL Server to Create Management Cadence Dashboards
 ## Abstract:
@@ -265,7 +265,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Strategy and Architectu
 #### SessionID: 54292
 # Sparkhound Jeopardy
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Vendor Sessions
+Event Date: 17-09-2016 - Session time: 12:45:00 - Track: Vendor Sessions
 ## Speaker: William Assaf
 ## Title: Sparkhound Jeopardy
 ## Abstract:
@@ -274,7 +274,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Vendor Sessions
 #### SessionID: 54305
 # Maximizing Microsoft SQL Server Storage Investments
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Vendor Sessions
+Event Date: 17-09-2016 - Session time: 12:45:00 - Track: Vendor Sessions
 ## Speaker: John Holtz
 ## Title: Maximizing Microsoft SQL Server Storage Investments
 ## Abstract:
@@ -285,7 +285,7 @@ Beyond just production database performance, EMC provides robust database repurp
 #### SessionID: 50172
 # SQL Azure Database - No CDC, no problem!
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
+Event Date: 17-09-2016 - Session time: 13:45:00 - Track: Database Development
 ## Speaker: boB Taylor
 ## Title: SQL Azure Database - No CDC, no problem!
 ## Abstract:
@@ -297,7 +297,7 @@ Come see how I solved that lack of CDC in SQL Azure Database by leveraging a new
 #### SessionID: 51188
 # IO Tuning 101
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
+Event Date: 17-09-2016 - Session time: 13:45:00 - Track: Enterprise DBA
 ## Speaker: Anders Pedersen
 ## Title: IO Tuning 101
 ## Abstract:
@@ -314,7 +314,7 @@ All of t his can be done without the need for any 3rd party tools, all within th
 #### SessionID: 52319
 # Interviewing-Be So Good They Can’t Ignore You
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 17-09-2016 - Session time: 13:45:00 - Track: Professional Development
 ## Speaker: Leveat Ruse
 ## Title: Interviewing-Be So Good They Can’t Ignore You
 ## Abstract:
@@ -323,7 +323,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Professional Developmen
 #### SessionID: 52495
 # Query Store Primer
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
+Event Date: 17-09-2016 - Session time: 13:45:00 - Track: Enterprise DBA
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
 ## Abstract:
@@ -332,7 +332,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 #### SessionID: 52630
 # Managing Very Large Databases with SQL Server
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
+Event Date: 17-09-2016 - Session time: 13:45:00 - Track: Enterprise DBA
 ## Speaker: Brian Carrig
 ## Title: Managing Very Large Databases with SQL Server
 ## Abstract:
@@ -341,7 +341,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
 #### SessionID: 52960
 # Practical PowerShell for the SQL Developers and DBA's - 0 to 60 in 60 mins
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
+Event Date: 17-09-2016 - Session time: 13:45:00 - Track: Database Development
 ## Speaker: Jana Sattainathan
 ## Title: Practical PowerShell for the SQL Developers and DBA's - 0 to 60 in 60 mins
 ## Abstract:
@@ -350,7 +350,7 @@ Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
 #### SessionID: 52991
 # Performance Tuning - Analyzing Execution Plans
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Enterprise DBA
+Event Date: 17-09-2016 - Session time: 13:45:00 - Track: Enterprise DBA
 ## Speaker: Konstantin Melamud
 ## Title: Performance Tuning - Analyzing Execution Plans
 ## Abstract:
@@ -361,7 +361,7 @@ In this presentation, we will identify what indexes are being used by the SQL Op
 #### SessionID: 53104
 # Managing Database Projects in Visual Studio 2013
 #### [Back to calendar](#nr-560)
-Event Date: 17-09-2016 - Session time: 15:00:00 - Track: Database Development
+Event Date: 17-09-2016 - Session time: 13:45:00 - Track: Database Development
 ## Speaker: Luke Donley
 ## Title: Managing Database Projects in Visual Studio 2013
 ## Abstract:

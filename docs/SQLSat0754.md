@@ -29,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 75817
 # Harness the power of big data using Azure Data Lake
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 01-09-2018 - Session time: 09:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Sergio Reginaldo Zenatti Filho
 ## Title: Harness the power of big data using Azure Data Lake
 ## Abstract:
@@ -38,7 +38,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 80897
 # Data Privacy and the Data Professional.
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 01-09-2018 - Session time: 09:30:00 - Track: Strategy and Architecture
 ## Speaker: Martin Catherall
 ## Title: Data Privacy and the Data Professional.
 ## Abstract:
@@ -52,7 +52,7 @@ Come along to this session and hear how you and your team can lessen your chance
 #### SessionID: 83035
 # Orchestration and data movement with Azure Data Factory v2
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-09-2018 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Peck
 ## Title: Orchestration and data movement with Azure Data Factory v2
 ## Abstract:
@@ -63,7 +63,7 @@ And of course, being automation experts with Biml, we’ll demonstrate how we ca
 #### SessionID: 84092
 # The Massively Parallel Processing Azure SQL Data Warehouse
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-09-2018 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Manjot Kaur
 ## Title: The Massively Parallel Processing Azure SQL Data Warehouse
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 84290
 # Creating Custom Visualisations with Power BI
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 01-09-2018 - Session time: 09:30:00 - Track: BI Information Delivery
 ## Speaker: Jim McLeod
 ## Title: Creating Custom Visualisations with Power BI
 ## Abstract:
@@ -81,7 +81,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 74268
 # Advanced DAX : Tic Tac Toe in Power BI
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-09-2018 - Session time: 10:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Seamark
 ## Title: Advanced DAX : Tic Tac Toe in Power BI
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 82488
 # Introduction to Data Vault
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-09-2018 - Session time: 10:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Bradley
 ## Title: Introduction to Data Vault
 ## Abstract:
@@ -111,7 +111,7 @@ Where to go for more information.
 #### SessionID: 83057
 # Virtualisation and DevOps can help make your SQL Server perform!!
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-09-2018 - Session time: 10:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamish Watson
 ## Title: Virtualisation and DevOps can help make your SQL Server perform!!
 ## Abstract:
@@ -128,7 +128,7 @@ We'll also go over some of the things that you should be looking at within your 
 #### SessionID: 83967
 # Modern Data Warehouse using Lambda Architecture and Azure
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 01-09-2018 - Session time: 10:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anupama Natarajan
 ## Title: Modern Data Warehouse using Lambda Architecture and Azure
 ## Abstract:
@@ -144,7 +144,7 @@ In this session you will learn about
 #### SessionID: 84107
 # Dive into Graph Databases
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 01-09-2018 - Session time: 10:50:00 - Track: Strategy and Architecture
 ## Speaker: Mohammad Hafizullah
 ## Title: Dive into Graph Databases
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Strategy and Architectu
 #### SessionID: 73892
 # Data Science for DBA - Get Started Now
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 01-09-2018 - Session time: 12:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Manohar Punna
 ## Title: Data Science for DBA - Get Started Now
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 83360
 # Building a Modern Analytics Solution in the Cloud
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-09-2018 - Session time: 12:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergio Reginaldo Zenatti Filho
 ## Title: Building a Modern Analytics Solution in the Cloud
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 84263
 # Machine Learning Revolution with Azure Databricks
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 01-09-2018 - Session time: 12:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Leila Etaati
 ## Title: Machine Learning Revolution with Azure Databricks
 ## Abstract:
@@ -180,7 +180,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 84266
 # DAX for Business Analytics - My Favourite Examples
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 01-09-2018 - Session time: 12:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Owen Auger
 ## Title: DAX for Business Analytics - My Favourite Examples
 ## Abstract:
@@ -194,7 +194,7 @@ This session is for anyone who loves problem-solving with Power BI in a business
 #### SessionID: 78811
 # Displaying Real Time Information with Power BI
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-09-2018 - Session time: 14:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Alzamendi
 ## Title: Displaying Real Time Information with Power BI
 ## Abstract:
@@ -205,7 +205,7 @@ Through this session, you will learn how to deliver Power BI solutions streaming
 #### SessionID: 80908
 # Back to Basics – An overview of the internals of SQL Server
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 01-09-2018 - Session time: 14:10:00 - Track: Strategy and Architecture
 ## Speaker: Dave Dustin
 ## Title: Back to Basics – An overview of the internals of SQL Server
 ## Abstract:
@@ -216,7 +216,7 @@ We’ll look at the interpreter, optimizer, estimator, storage, memory, locking,
 #### SessionID: 80937
 # Google Forms meet Power BI via Reporting Services (SSRS)
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 01-09-2018 - Session time: 14:10:00 - Track: Advanced Analysis Techniques
 ## Speaker: Indira Bandari
 ## Title: Google Forms meet Power BI via Reporting Services (SSRS)
 ## Abstract:
@@ -231,7 +231,7 @@ In this session I will show you how to
 #### SessionID: 82755
 # Database on a diet (taming a large database)
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 01-09-2018 - Session time: 14:10:00 - Track: Strategy and Architecture
 ## Speaker: Greg Low
 ## Title: Database on a diet (taming a large database)
 ## Abstract:
@@ -240,7 +240,7 @@ Event Date: 01-09-2018 - Session time: 15:30:00 - Track: Strategy and Architectu
 #### SessionID: 83220
 # Bringing source control to BI world!
 #### [Back to calendar](#nr-754)
-Event Date: 01-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-09-2018 - Session time: 14:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Heidi Hasting
 ## Title: Bringing source control to BI world!
 ## Abstract:

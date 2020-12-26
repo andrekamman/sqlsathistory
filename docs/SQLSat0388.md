@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 12849
 # Visualising and Generating SQL data with Microsoft Visio 2013
 #### [Back to calendar](#nr-388)
-Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Business of Business Intelligence
+Event Date: 13-06-2015 - Session time: 10:15:00 - Track: The Business of Business Intelligence
 ## Speaker: David Parker
 ## Title: Visualising and Generating SQL data with Microsoft Visio 2013
 ## Abstract:
@@ -36,7 +36,7 @@ Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Business of Busines
 #### SessionID: 36848
 # Web Scraping with Python - scraping the web, without the sting
 #### [Back to calendar](#nr-388)
-Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Business Intelligence
+Event Date: 13-06-2015 - Session time: 10:15:00 - Track: The Technology of Business Intelligence
 ## Speaker: Iain Elder
 ## Title: Web Scraping with Python - scraping the web, without the sting
 ## Abstract:
@@ -55,7 +55,7 @@ In our demo we will study the anatomy of a spider, then use it pull data from a 
 #### SessionID: 37112
 # Business Analytics 101 Jumpstart using Azure Machine Learning
 #### [Back to calendar](#nr-388)
-Event Date: 13-06-2015 - Session time: 16:45:00 - Track: Business Analytics Track
+Event Date: 13-06-2015 - Session time: 10:15:00 - Track: Business Analytics Track
 ## Speaker: Jen Stirrup
 ## Title: Business Analytics 101 Jumpstart using Azure Machine Learning
 ## Abstract:
@@ -65,7 +65,7 @@ How does this change in landscape affect businesses? Are you new to the world of
 #### SessionID: 37505
 # Best practices for collecting and  combining data with Power Query
 #### [Back to calendar](#nr-388)
-Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Business Intelligence
+Event Date: 13-06-2015 - Session time: 10:15:00 - Track: The Technology of Business Intelligence
 ## Speaker: Chris Webb
 ## Title: Best practices for collecting and  combining data with Power Query
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Busin
 #### SessionID: 10576
 # Creating Dashboards with DataZen
 #### [Back to calendar](#nr-388)
-Event Date: 13-06-2015 - Session time: 16:45:00 - Track: Business Analytics Track
+Event Date: 13-06-2015 - Session time: 11:15:00 - Track: Business Analytics Track
 ## Speaker: Bob Duffy
 ## Title: Creating Dashboards with DataZen
 ## Abstract:
@@ -89,7 +89,7 @@ We will be showing an end to end demo of creating and publishing dashboards for 
 #### SessionID: 15147
 # One BI Platform to Rule Them All
 #### [Back to calendar](#nr-388)
-Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Business Intelligence
+Event Date: 13-06-2015 - Session time: 11:15:00 - Track: The Technology of Business Intelligence
 ## Speaker: Ian Macdonald
 ## Title: One BI Platform to Rule Them All
 ## Abstract:
@@ -100,7 +100,7 @@ minutes, this session will show you how BI Office can make you a BI Superhero in
 #### SessionID: 8952
 # Better Data Visualisation for CRM and ERP
 #### [Back to calendar](#nr-388)
-Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Business of Business Intelligence
+Event Date: 13-06-2015 - Session time: 11:15:00 - Track: The Business of Business Intelligence
 ## Speaker: Adam Vero - Dynamics CRM MVP
 ## Title: Better Data Visualisation for CRM and ERP
 ## Abstract:
@@ -111,7 +111,7 @@ Need to create charts and dashboards for people to get insight from their comple
 #### SessionID: 11709
 # The European Economic Crisis and the Euro-A Data Tale
 #### [Back to calendar](#nr-388)
-Event Date: 13-06-2015 - Session time: 16:45:00 - Track: Business Analytics Track
+Event Date: 13-06-2015 - Session time: 13:15:00 - Track: Business Analytics Track
 ## Speaker: Carmel Gunn
 ## Title: The European Economic Crisis and the Euro-A Data Tale
 ## Abstract:
@@ -124,7 +124,7 @@ See the Microsoft Power BI stack used to tell a real world story
 #### SessionID: 21910
 # Understanding SharePoint reporting options for SQL Server
 #### [Back to calendar](#nr-388)
-Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Business of Business Intelligence
+Event Date: 13-06-2015 - Session time: 13:15:00 - Track: The Business of Business Intelligence
 ## Speaker: Peter Baddeley
 ## Title: Understanding SharePoint reporting options for SQL Server
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Business of Busines
 #### SessionID: 37432
 # Optimizing databases with server side flash, understanding what lies beneat
 #### [Back to calendar](#nr-388)
-Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Business Intelligence
+Event Date: 13-06-2015 - Session time: 13:15:00 - Track: The Technology of Business Intelligence
 ## Speaker: peyman blumstengel
 ## Title: Optimizing databases with server side flash, understanding what lies beneat
 ## Abstract:
@@ -145,7 +145,7 @@ Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Busin
 #### SessionID: 19584
 # Learning R through a typical BI task
 #### [Back to calendar](#nr-388)
-Event Date: 13-06-2015 - Session time: 16:45:00 - Track: Business Analytics Track
+Event Date: 13-06-2015 - Session time: 14:15:00 - Track: Business Analytics Track
 ## Speaker: Mark Wilcock
 ## Title: Learning R through a typical BI task
 ## Abstract:
@@ -156,7 +156,7 @@ The purpose of this session is to show R strengths and weaknesses to help you de
 #### SessionID: 26995
 # Blue Sky Thinking: SQL Azure Geospatial Mashup
 #### [Back to calendar](#nr-388)
-Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Business Intelligence
+Event Date: 13-06-2015 - Session time: 14:15:00 - Track: The Technology of Business Intelligence
 ## Speaker: Thomas Sykes
 ## Title: Blue Sky Thinking: SQL Azure Geospatial Mashup
 ## Abstract:
@@ -166,7 +166,7 @@ Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Busin
 #### SessionID: 37799
 # Microsoft SQL Server Data Warehouse Fast Track – Understanding the Program
 #### [Back to calendar](#nr-388)
-Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Business Intelligence
+Event Date: 13-06-2015 - Session time: 14:15:00 - Track: The Technology of Business Intelligence
 ## Speaker: Niall MacLeod
 ## Title: Microsoft SQL Server Data Warehouse Fast Track – Understanding the Program
 ## Abstract:
@@ -177,7 +177,7 @@ This presentation discusses the process undertaken to achieve the certification 
 #### SessionID: 10578
 # Customising the Excel Ribbon
 #### [Back to calendar](#nr-388)
-Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Technology of Business Intelligence
+Event Date: 13-06-2015 - Session time: 15:45:00 - Track: The Technology of Business Intelligence
 ## Speaker: Bob Phillips
 ## Title: Customising the Excel Ribbon
 ## Abstract:
@@ -188,7 +188,7 @@ This session will briefly show how to add items to the QAT and personalise the e
 #### SessionID: 26143
 # Troll Hunting on the Internet
 #### [Back to calendar](#nr-388)
-Event Date: 13-06-2015 - Session time: 16:45:00 - Track: Business Analytics Track
+Event Date: 13-06-2015 - Session time: 15:45:00 - Track: Business Analytics Track
 ## Speaker: Gary Short - C# MVP
 ## Title: Troll Hunting on the Internet
 ## Abstract:
@@ -200,7 +200,7 @@ By removing the anonymity of the Internet we can drive these trolls off of socia
 #### SessionID: 37883
 # Improve Data Quality, Drive BI Value through Master Data Management
 #### [Back to calendar](#nr-388)
-Event Date: 13-06-2015 - Session time: 16:45:00 - Track: The Business of Business Intelligence
+Event Date: 13-06-2015 - Session time: 15:45:00 - Track: The Business of Business Intelligence
 ## Speaker: Dave Lawrence
 ## Title: Improve Data Quality, Drive BI Value through Master Data Management
 ## Abstract:

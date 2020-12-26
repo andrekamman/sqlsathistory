@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 42375
 # SQL Server 2016: Nuove funzionalit#224; in SQL Server Integration Services
 #### [Back to calendar](#nr-495)
-Event Date: 27-02-2016 - Session time: 16:40:00 - Track: Analytics and Reporting
+Event Date: 27-02-2016 - Session time: 09:40:00 - Track: Analytics and Reporting
 ## Speaker: Gilberto Zampatti
 ## Title: SQL Server 2016: Nuove funzionalit#224; in SQL Server Integration Services
 ## Abstract:
@@ -35,7 +35,7 @@ Event Date: 27-02-2016 - Session time: 16:40:00 - Track: Analytics and Reporting
 #### SessionID: 42596
 # SQL Server 2012-2016 Columnar Storage
 #### [Back to calendar](#nr-495)
-Event Date: 27-02-2016 - Session time: 16:40:00 - Track: SQL Server 2016
+Event Date: 27-02-2016 - Session time: 09:40:00 - Track: SQL Server 2016
 ## Speaker: Dejan Sarka
 ## Title: SQL Server 2012-2016 Columnar Storage
 ## Abstract:
@@ -44,7 +44,7 @@ Event Date: 27-02-2016 - Session time: 16:40:00 - Track: SQL Server 2016
 #### SessionID: 44543
 # Azure SQL Database (IT)
 #### [Back to calendar](#nr-495)
-Event Date: 27-02-2016 - Session time: 16:40:00 - Track: Cloud  Developers
+Event Date: 27-02-2016 - Session time: 09:40:00 - Track: Cloud  Developers
 ## Speaker: Gianluca Hotz
 ## Title: Azure SQL Database (IT)
 ## Abstract:
@@ -53,7 +53,7 @@ Event Date: 27-02-2016 - Session time: 16:40:00 - Track: Cloud  Developers
 #### SessionID: 42139
 # SQL Server 2016 JSON support
 #### [Back to calendar](#nr-495)
-Event Date: 27-02-2016 - Session time: 16:40:00 - Track: SQL Server 2016
+Event Date: 27-02-2016 - Session time: 10:50:00 - Track: SQL Server 2016
 ## Speaker: Alessandro Alpi
 ## Title: SQL Server 2016 JSON support
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 27-02-2016 - Session time: 16:40:00 - Track: SQL Server 2016
 #### SessionID: 42151
 # Tired of connecting on-prem  cloud data? Take a DB stretch
 #### [Back to calendar](#nr-495)
-Event Date: 27-02-2016 - Session time: 16:40:00 - Track: Cloud  Developers
+Event Date: 27-02-2016 - Session time: 10:50:00 - Track: Cloud  Developers
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Tired of connecting on-prem  cloud data? Take a DB stretch
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 27-02-2016 - Session time: 16:40:00 - Track: Cloud  Developers
 #### SessionID: 42599
 # Enterprise Information Management with SQL Server 2016
 #### [Back to calendar](#nr-495)
-Event Date: 27-02-2016 - Session time: 16:40:00 - Track: Cloud  Developers
+Event Date: 27-02-2016 - Session time: 11:45:00 - Track: Cloud  Developers
 ## Speaker: Dejan Sarka
 ## Title: Enterprise Information Management with SQL Server 2016
 ## Abstract:
@@ -81,7 +81,7 @@ Every company has part of the data which is used everywhere, in every transactio
 #### SessionID: 43080
 # Using SQL Server 2016 and R Integration
 #### [Back to calendar](#nr-495)
-Event Date: 27-02-2016 - Session time: 16:40:00 - Track: Analytics and Reporting
+Event Date: 27-02-2016 - Session time: 11:45:00 - Track: Analytics and Reporting
 ## Speaker: Tomaž Kaštrun
 ## Title: Using SQL Server 2016 and R Integration
 ## Abstract:
@@ -98,7 +98,7 @@ Session is useful for BI analysts as well as for DEV and DBA as we can easily ma
 #### SessionID: 44544
 # SQL Server 2016 Temporal Database Support (IT)
 #### [Back to calendar](#nr-495)
-Event Date: 27-02-2016 - Session time: 16:40:00 - Track: SQL Server 2016
+Event Date: 27-02-2016 - Session time: 11:45:00 - Track: SQL Server 2016
 ## Speaker: Gianluca Hotz
 ## Title: SQL Server 2016 Temporal Database Support (IT)
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 27-02-2016 - Session time: 16:40:00 - Track: SQL Server 2016
 #### SessionID: 43079
 # Microsoft Azure Machine Learning Algorithms
 #### [Back to calendar](#nr-495)
-Event Date: 27-02-2016 - Session time: 16:40:00 - Track: Analytics and Reporting
+Event Date: 27-02-2016 - Session time: 13:40:00 - Track: Analytics and Reporting
 ## Speaker: Tomaž Kaštrun
 ## Title: Microsoft Azure Machine Learning Algorithms
 ## Abstract:
@@ -117,7 +117,7 @@ Within this session we will explore, which algorithm is used and useful for what
 #### SessionID: 44407
 # SQL Server 2016 Query Store: un nuovo modo di monitorare le query
 #### [Back to calendar](#nr-495)
-Event Date: 27-02-2016 - Session time: 16:40:00 - Track: SQL Server 2016
+Event Date: 27-02-2016 - Session time: 13:40:00 - Track: SQL Server 2016
 ## Speaker: Saverio Lorenzini
 ## Title: SQL Server 2016 Query Store: un nuovo modo di monitorare le query
 ## Abstract:
@@ -130,7 +130,7 @@ La sessione entra nel dettaglio della funzionalit#224; e ne illustra l’utilizz
 #### SessionID: 44989
 # Azure Stream Analytics
 #### [Back to calendar](#nr-495)
-Event Date: 27-02-2016 - Session time: 16:40:00 - Track: Cloud  Developers
+Event Date: 27-02-2016 - Session time: 13:40:00 - Track: Cloud  Developers
 ## Speaker: Marco Parenzan
 ## Title: Azure Stream Analytics
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 27-02-2016 - Session time: 16:40:00 - Track: Cloud  Developers
 #### SessionID: 42853
 # New life for Reporting Services: what'up in 2016
 #### [Back to calendar](#nr-495)
-Event Date: 27-02-2016 - Session time: 16:40:00 - Track: Analytics and Reporting
+Event Date: 27-02-2016 - Session time: 14:35:00 - Track: Analytics and Reporting
 ## Speaker: Andrea Martorana Tusa
 ## Title: New life for Reporting Services: what'up in 2016
 ## Abstract:
@@ -153,7 +153,7 @@ Your BI reporting strategy for the future could be completely revisited as you l
 #### SessionID: 44411
 # The most prominent wait types of your SQL Server 2016 (IT)
 #### [Back to calendar](#nr-495)
-Event Date: 27-02-2016 - Session time: 16:40:00 - Track: SQL Server 2016
+Event Date: 27-02-2016 - Session time: 14:35:00 - Track: SQL Server 2016
 ## Speaker: Sergio Govoni
 ## Title: The most prominent wait types of your SQL Server 2016 (IT)
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 27-02-2016 - Session time: 16:40:00 - Track: SQL Server 2016
 #### SessionID: 42138
 # Realizzare una vera Continuous Integration con SQL Server
 #### [Back to calendar](#nr-495)
-Event Date: 27-02-2016 - Session time: 16:40:00 - Track: Cloud  Developers
+Event Date: 27-02-2016 - Session time: 15:45:00 - Track: Cloud  Developers
 ## Speaker: Alessandro Alpi
 ## Title: Realizzare una vera Continuous Integration con SQL Server
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 27-02-2016 - Session time: 16:40:00 - Track: Cloud  Developers
 #### SessionID: 42373
 # SQL Server 2016: Maturazione dell'In-Memory OLTP
 #### [Back to calendar](#nr-495)
-Event Date: 27-02-2016 - Session time: 16:40:00 - Track: SQL Server 2016
+Event Date: 27-02-2016 - Session time: 15:45:00 - Track: SQL Server 2016
 ## Speaker: Gilberto Zampatti
 ## Title: SQL Server 2016: Maturazione dell'In-Memory OLTP
 ## Abstract:
@@ -180,7 +180,7 @@ Event Date: 27-02-2016 - Session time: 16:40:00 - Track: SQL Server 2016
 #### SessionID: 44992
 # PowerBi
 #### [Back to calendar](#nr-495)
-Event Date: 27-02-2016 - Session time: 16:40:00 - Track: Analytics and Reporting
+Event Date: 27-02-2016 - Session time: 15:45:00 - Track: Analytics and Reporting
 ## Speaker: Marco Pozzan
 ## Title: PowerBi
 ## Abstract:

@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 59891
 # SQL Server’s 2016 Hidden Gems for BI Developers
 #### [Back to calendar](#nr-626)
-Event Date: 06-05-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-05-2017 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Karol Papaj
 ## Title: SQL Server’s 2016 Hidden Gems for BI Developers
 ## Abstract:
@@ -35,7 +35,7 @@ Event Date: 06-05-2017 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 61337
 # 2,4,8  16 - Upgrade your journey with SQL Server
 #### [Back to calendar](#nr-626)
-Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-05-2017 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: 2,4,8  16 - Upgrade your journey with SQL Server
 ## Abstract:
@@ -54,7 +54,7 @@ We will cover the complete upgrade cycle, including the preparation tasks, upgra
 #### SessionID: 61417
 # Self Service BI Solutions with Analysis Services
 #### [Back to calendar](#nr-626)
-Event Date: 06-05-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-05-2017 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: LEONEL ABREU
 ## Title: Self Service BI Solutions with Analysis Services
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 06-05-2017 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 63466
 # Microsoft adat platform áttekintés
 #### [Back to calendar](#nr-626)
-Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 06-05-2017 - Session time: 09:15:00 - Track: Strategy and Architecture
 ## Speaker: Viktor Dudas
 ## Title: Microsoft adat platform áttekintés
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Strategy and Architectu
 #### SessionID: 61151
 # Power Bi for beginner IoT developer
 #### [Back to calendar](#nr-626)
-Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 06-05-2017 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: Power Bi for beginner IoT developer
 ## Abstract:
@@ -84,7 +84,7 @@ All with the demo, from hardware, to the cloud, to Power BI.
 #### SessionID: 61381
 # hash and stream aggregation
 #### [Back to calendar](#nr-626)
-Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-05-2017 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Torsten Strauss
 ## Title: hash and stream aggregation
 ## Abstract:
@@ -95,7 +95,7 @@ In the end of the session you will able to predict which physical aggregate oper
 #### SessionID: 63154
 # SQL Server 2016 Availability Group újdonságok
 #### [Back to calendar](#nr-626)
-Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-05-2017 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janos Berke
 ## Title: SQL Server 2016 Availability Group újdonságok
 ## Abstract:
@@ -104,7 +104,7 @@ Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 62417
 # Tricky ways to optimize your T-SQL queries
 #### [Back to calendar](#nr-626)
-Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 06-05-2017 - Session time: 12:30:00 - Track: Professional Development
 ## Speaker: Sergey Olontsev
 ## Title: Tricky ways to optimize your T-SQL queries
 ## Abstract:
@@ -113,7 +113,7 @@ Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Professional Developmen
 #### SessionID: 62459
 # Complex Tabular Modelling - A Case Study
 #### [Back to calendar](#nr-626)
-Event Date: 06-05-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-05-2017 - Session time: 12:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bob Duffy
 ## Title: Complex Tabular Modelling - A Case Study
 ## Abstract:
@@ -131,7 +131,7 @@ This one hour session will walk through an actual case study of a tabular model 
 #### SessionID: 62730
 # Hacking SQL Server
 #### [Back to calendar](#nr-626)
-Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-05-2017 - Session time: 12:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server
 ## Abstract:
@@ -144,7 +144,7 @@ This is a demo-driven session, suited for DBAs, developers and security consulta
 #### SessionID: 63482
 # Önkiszolgáló adatvizualizációs lehetőségek Power BI segítségével a földön, vagy a felhőben
 #### [Back to calendar](#nr-626)
-Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 06-05-2017 - Session time: 12:30:00 - Track: Analytics and Visualization
 ## Speaker: Attila Kővári
 ## Title: Önkiszolgáló adatvizualizációs lehetőségek Power BI segítségével a földön, vagy a felhőben
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 59888
 # Performance Tuning for the Transaction Log
 #### [Back to calendar](#nr-626)
-Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-05-2017 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Miroslav Dimitrov
 ## Title: Performance Tuning for the Transaction Log
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 61025
 # SQL SERVER - Next station Azure
 #### [Back to calendar](#nr-626)
-Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 06-05-2017 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: SQL SERVER - Next station Azure
 ## Abstract:
@@ -178,7 +178,7 @@ We will cover:
 #### SessionID: 61485
 # Introducing R
 #### [Back to calendar](#nr-626)
-Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 06-05-2017 - Session time: 13:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dejan Sarka
 ## Title: Introducing R
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 06-05-2017 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 63142
 # Analysis Services biztonság
 #### [Back to calendar](#nr-626)
-Event Date: 06-05-2017 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-05-2017 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Zoltán Horváth
 ## Title: Analysis Services biztonság
 ## Abstract:

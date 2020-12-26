@@ -52,7 +52,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 71260
 # T-SQL Tips  Tricks to Make Your Life Easier!
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 07-04-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: T-SQL Tips  Tricks to Make Your Life Easier!
 ## Abstract:
@@ -65,7 +65,7 @@ This session targets both developers and DBAs; the only prerequisites are the de
 #### SessionID: 71320
 # Building a Microsoft Business intelligence Solution step-by-step
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-04-2018 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Farouq Abukhamireh
 ## Title: Building a Microsoft Business intelligence Solution step-by-step
 ## Abstract:
@@ -83,7 +83,7 @@ Tips for success
 #### SessionID: 71328
 # Building the HASSP: Putting SQL Server In Space
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 07-04-2018 - Session time: 09:00:00 - Track: Strategy and Architecture
 ## Speaker: Drew Furgiuele
 ## Title: Building the HASSP: Putting SQL Server In Space
 ## Abstract:
@@ -98,7 +98,7 @@ In this session, you'll hear about how this is possible: we'll discuss the hardw
 #### SessionID: 72137
 # Custom Activities in Azure Data Factory
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 07-04-2018 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jared Zagelbaum
 ## Title: Custom Activities in Azure Data Factory
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 73403
 # Why Should I Care About ... Partitioned Views?
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 07-04-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 74431
 # Microsoft Machine Learning Services
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 07-04-2018 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Andrew Loree
 ## Title: Microsoft Machine Learning Services
 ## Abstract:
@@ -127,7 +127,7 @@ A beginner level understanding of Machine Learning and process is highly recomme
 #### SessionID: 74432
 # Columnstore 101: The Five Ws of Columnstore Indexes
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 07-04-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: John Eisbrener
 ## Title: Columnstore 101: The Five Ws of Columnstore Indexes
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 74463
 # XML vs JSON - Battle Royale
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 07-04-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Riley Major
 ## Title: XML vs JSON - Battle Royale
 ## Abstract:
@@ -149,7 +149,7 @@ We'll review the many similarities and highlight some important differences betw
 #### SessionID: 77728
 # Administering your Azure SQL Database
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 07-04-2018 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mike Shelton
 ## Title: Administering your Azure SQL Database
 ## Abstract:
@@ -165,7 +165,7 @@ Topics covered will include:
 #### SessionID: 71905
 # Targeting Wait Statistics with Extended Events and DMVs
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 07-04-2018 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: David Maxwell
 ## Title: Targeting Wait Statistics with Extended Events and DMVs
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 72681
 # JSON for the Data Mortals
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 07-04-2018 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Jim Dorame
 ## Title: JSON for the Data Mortals
 ## Abstract:
@@ -183,7 +183,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 72790
 # Locks, Blocks, and Snapshots: Maximizing Database Concurrency
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 07-04-2018 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Bob Pusateri
 ## Title: Locks, Blocks, and Snapshots: Maximizing Database Concurrency
 ## Abstract:
@@ -192,7 +192,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 73144
 # Azure SQL Database Performance Tuning
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 07-04-2018 - Session time: 10:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jes Schultz
 ## Title: Azure SQL Database Performance Tuning
 ## Abstract:
@@ -201,7 +201,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 73750
 # Administering and Deploying Power BI Solutions
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-04-2018 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Seth Bauer
 ## Title: Administering and Deploying Power BI Solutions
 ## Abstract:
@@ -210,7 +210,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 73951
 # Reading Execution Plans Successfully
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 07-04-2018 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Arthur Daniels III
 ## Title: Reading Execution Plans Successfully
 ## Abstract:
@@ -223,7 +223,7 @@ Learning to read an execution plan is a great way to begin troubleshooting perfo
 #### SessionID: 74466
 # Data Testing  Integrity – BI Edition
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-04-2018 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rob Long
 ## Title: Data Testing  Integrity – BI Edition
 ## Abstract:
@@ -236,7 +236,7 @@ At the end of the session, we’ll all still agree that we can’t use a unit te
 #### SessionID: 74467
 # Practical Introduction to Artificial Intelligence
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 07-04-2018 - Session time: 10:30:00 - Track: Analytics and Visualization
 ## Speaker: Juan Muñoz
 ## Title: Practical Introduction to Artificial Intelligence
 ## Abstract:
@@ -255,7 +255,7 @@ While the use case we will cover was implemented in R, our focus will be on the 
 #### SessionID: 80104
 # COZYROC: Dynamic Data Flows in SSIS without Programming
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-04-2018 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: COZYROC: Dynamic Data Flows in SSIS without Programming
 ## Abstract:
@@ -264,7 +264,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 71195
 # Polybase In Action
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 07-04-2018 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Polybase In Action
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 71275
 # Shortcuts from an Impatient DBA
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 07-04-2018 - Session time: 13:00:00 - Track: Professional Development
 ## Speaker: Andy Mallon
 ## Title: Shortcuts from an Impatient DBA
 ## Abstract:
@@ -286,7 +286,7 @@ Even the most seasoned Database Professionals will learn a new trick that makes 
 #### SessionID: 71430
 # Analysis Services for the Absolute Beginner
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-04-2018 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Peter Shore
 ## Title: Analysis Services for the Absolute Beginner
 ## Abstract:
@@ -297,7 +297,7 @@ Regardless of the title you carry, DBA, developer, report writer, ETL developer,
 #### SessionID: 72222
 # Azure Analysis Services: Purpose, Migration, Benefits, and Tools
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 07-04-2018 - Session time: 13:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Turner Kunkel
 ## Title: Azure Analysis Services: Purpose, Migration, Benefits, and Tools
 ## Abstract:
@@ -306,7 +306,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 72623
 # Extended Events: What are they and How do I use them
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 07-04-2018 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
 ## Abstract:
@@ -315,7 +315,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 73793
 # Gathering Trending Data with PowerShell
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 07-04-2018 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Ben Miller
 ## Title: Gathering Trending Data with PowerShell
 ## Abstract:
@@ -324,7 +324,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 74184
 # Emergency! Are You Ready for Disaster to Strike?
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 07-04-2018 - Session time: 13:00:00 - Track: Strategy and Architecture
 ## Speaker: Allen White
 ## Title: Emergency! Are You Ready for Disaster to Strike?
 ## Abstract:
@@ -333,7 +333,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 74239
 # Power BI Bookmarks: Four Business Use Cases
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 07-04-2018 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Eric Fait
 ## Title: Power BI Bookmarks: Four Business Use Cases
 ## Abstract:
@@ -353,7 +353,7 @@ Bring your own dataset and build out these scenarios with me as I demonstrate ea
 #### SessionID: 78595
 # SQL Server on AWS
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 07-04-2018 - Session time: 13:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: SQL Saturday Madison
 ## Title: SQL Server on AWS
 ## Abstract:
@@ -362,7 +362,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 71207
 # How to get Microsoft Certified
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 07-04-2018 - Session time: 14:30:00 - Track: Professional Development
 ## Speaker: John Deardurff
 ## Title: How to get Microsoft Certified
 ## Abstract:
@@ -371,7 +371,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 71361
 # Four Rules For Columnstore Query Performance
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 07-04-2018 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Joe Obbish
 ## Title: Four Rules For Columnstore Query Performance
 ## Abstract:
@@ -380,7 +380,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 72046
 # DEA (not what you think) Will Be Your New Best Friend!
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 07-04-2018 - Session time: 14:30:00 - Track: Strategy and Architecture
 ## Speaker: Jared Karney
 ## Title: DEA (not what you think) Will Be Your New Best Friend!
 ## Abstract:
@@ -389,7 +389,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 73388
 # Tips and Tricks from PowerBI.Tips
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 07-04-2018 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: Michael Carlo
 ## Title: Tips and Tricks from PowerBI.Tips
 ## Abstract:
@@ -398,7 +398,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 73715
 # Know different AWS Database Products - their benefits and key features
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 07-04-2018 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sourav Mukherjee
 ## Title: Know different AWS Database Products - their benefits and key features
 ## Abstract:
@@ -407,7 +407,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 73999
 # When Low-Quality Data Strikes: Fuzzy Tools Provide Clarity in Matching and Deduplication
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-04-2018 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jared Kuehn
 ## Title: When Low-Quality Data Strikes: Fuzzy Tools Provide Clarity in Matching and Deduplication
 ## Abstract:
@@ -417,7 +417,7 @@ In this session, I will showcase how you can solve problems like this using the 
 #### SessionID: 74219
 # The SQL Server Transaction Log for Developers
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 07-04-2018 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Frank Gill
 ## Title: The SQL Server Transaction Log for Developers
 ## Abstract:
@@ -426,7 +426,7 @@ Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 74336
 # Data Vault 2.0 An Introduction To A Better Data Warehouse Database Designing Method
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 07-04-2018 - Session time: 14:30:00 - Track: Strategy and Architecture
 ## Speaker: Thomas Lane
 ## Title: Data Vault 2.0 An Introduction To A Better Data Warehouse Database Designing Method
 ## Abstract:
@@ -437,7 +437,7 @@ Data Vault 2.0 is not an app but a database modeling methodology that overcomes 
 #### SessionID: 77571
 # Women In Technology - Panel
 #### [Back to calendar](#nr-724)
-Event Date: 07-04-2018 - Session time: 16:00:00 - Track: Other
+Event Date: 07-04-2018 - Session time: 14:30:00 - Track: Other
 ## Speaker: SQL Saturday Madison
 ## Title: Women In Technology - Panel
 ## Abstract:

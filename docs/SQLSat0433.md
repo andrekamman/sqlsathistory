@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 36313
 # Biml for Beginners: Generating SSIS packages with BimlScript
 #### [Back to calendar](#nr-433)
-Event Date: 05-09-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-09-2015 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Biml for Beginners: Generating SSIS packages with BimlScript
 ## Abstract:
@@ -39,7 +39,7 @@ This session is intended for SSIS developers who are not yet familiar with Biml.
 #### SessionID: 38475
 # Transaction Log Internals and Troubleshooting
 #### [Back to calendar](#nr-433)
-Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-09-2015 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrey Zavadskiy
 ## Title: Transaction Log Internals and Troubleshooting
 ## Abstract:
@@ -49,7 +49,7 @@ We examine the common issues such as full transaction log, how to get rid of mul
 #### SessionID: 40195
 # Rethink Your Data Model and Make It Super Fast
 #### [Back to calendar](#nr-433)
-Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Other
+Event Date: 05-09-2015 - Session time: 09:00:00 - Track: Other
 ## Speaker: Peter Larsson
 ## Title: Rethink Your Data Model and Make It Super Fast
 ## Abstract:
@@ -58,7 +58,7 @@ Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Other
 #### SessionID: 36984
 # When good SQL design goes bad
 #### [Back to calendar](#nr-433)
-Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-09-2015 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Bob Duffy
 ## Title: When good SQL design goes bad
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 37665
 # Life saver - Resource Governor for applications  reporting
 #### [Back to calendar](#nr-433)
-Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-09-2015 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Life saver - Resource Governor for applications  reporting
 ## Abstract:
@@ -92,7 +92,7 @@ You can take away working scripts, functions, tools to make a Resource Governor 
 #### SessionID: 38473
 # A Toolkit for Off-loading Data from Production
 #### [Back to calendar](#nr-433)
-Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-09-2015 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joakim Nyström
 ## Title: A Toolkit for Off-loading Data from Production
 ## Abstract:
@@ -104,7 +104,7 @@ In this session you will be presented to a simple toolkit that will utilize thes
 #### SessionID: 36387
 # Taming the Beast – How a SQL DBA can keep Kerberos under control
 #### [Back to calendar](#nr-433)
-Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-09-2015 - Session time: 11:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Postlethwaite
 ## Title: Taming the Beast – How a SQL DBA can keep Kerberos under control
 ## Abstract:
@@ -116,7 +116,7 @@ This talk looks at the principle of Kerberos, how it applies to SQL Server and w
 #### SessionID: 37120
 # SQL Automation, how to build a highly automated SQL Server environment
 #### [Back to calendar](#nr-433)
-Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-09-2015 - Session time: 11:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Raoul Illyes
 ## Title: SQL Automation, how to build a highly automated SQL Server environment
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 38729
 # How to kill SQL server performance
 #### [Back to calendar](#nr-433)
-Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-09-2015 - Session time: 11:20:00 - Track: Application  Database Development
 ## Speaker: Håkan Winther
 ## Title: How to kill SQL server performance
 ## Abstract:
@@ -137,7 +137,7 @@ Prepare for few Power Point slides and lots of code samples.
 #### SessionID: 38757
 # SQL Server Foreign Keys – De-mystifying the Rest of the Story
 #### [Back to calendar](#nr-433)
-Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-09-2015 - Session time: 11:20:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SQL Server Foreign Keys – De-mystifying the Rest of the Story
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 37428
 # Revenge: The SQL! - Director's Cut
 #### [Back to calendar](#nr-433)
-Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-09-2015 - Session time: 13:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL! - Director's Cut
 ## Abstract:
@@ -161,7 +161,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #### SessionID: 37808
 # Many to Many in SSAS: How To Implement It
 #### [Back to calendar](#nr-433)
-Event Date: 05-09-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-09-2015 - Session time: 13:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Elvis Talic
 ## Title: Many to Many in SSAS: How To Implement It
 ## Abstract:
@@ -176,7 +176,7 @@ After this session, you will have better understanding of many to many in SSAS, 
 #### SessionID: 38726
 # SQL Server Magic Buttons: What are Trace Flags, and why should I care?
 #### [Back to calendar](#nr-433)
-Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-09-2015 - Session time: 13:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steinar Andersen
 ## Title: SQL Server Magic Buttons: What are Trace Flags, and why should I care?
 ## Abstract:
@@ -187,7 +187,7 @@ In this session you will get a good overview of what Trace Flags can do for you,
 #### SessionID: 36881
 # Building a meta-driven near realtime ETL solution with BIML and SSIS
 #### [Back to calendar](#nr-433)
-Event Date: 05-09-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-09-2015 - Session time: 14:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rasmus Reinholdt
 ## Title: Building a meta-driven near realtime ETL solution with BIML and SSIS
 ## Abstract:
@@ -201,7 +201,7 @@ Topics covered in the session
 #### SessionID: 37343
 # Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure
 #### [Back to calendar](#nr-433)
-Event Date: 05-09-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-09-2015 - Session time: 14:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rodney Landrum
 ## Title: Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure
 ## Abstract:
@@ -210,7 +210,7 @@ Event Date: 05-09-2015 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 38230
 # SQL Server 2016 AlwaysOn Availability Groups - New Features  Enhancements
 #### [Back to calendar](#nr-433)
-Event Date: 05-09-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-09-2015 - Session time: 14:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Martin
 ## Title: SQL Server 2016 AlwaysOn Availability Groups - New Features  Enhancements
 ## Abstract:

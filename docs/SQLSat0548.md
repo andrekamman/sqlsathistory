@@ -48,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 49102
 # Top 10 Wait Types Everyone Should Know
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Top 10 Wait Types Everyone Should Know
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 49229
 # Does it Hurt When I Do This? Performing a SQL Server Health Check
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Galbraith
 ## Title: Does it Hurt When I Do This? Performing a SQL Server Health Check
 ## Abstract:
@@ -68,7 +68,7 @@ Come learn how to use freely available tools from multiple layers of the SQL Ser
 #### SessionID: 49655
 # SQL Server R Services in SQL 2016
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 24-09-2016 - Session time: 08:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 50076
 # Mobile, Paginated, KPIs and Power BI, Oh My! SSRS 2016 Reporting
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 24-09-2016 - Session time: 08:30:00 - Track: BI Information Delivery
 ## Speaker: Steve Wake
 ## Title: Mobile, Paginated, KPIs and Power BI, Oh My! SSRS 2016 Reporting
 ## Abstract:
@@ -93,7 +93,7 @@ If you have been curious about what has changed with SSRS in SQL Server 2016 and
 #### SessionID: 53116
 # Biml: Your 3D Printer for SSIS
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Biml
+Event Date: 24-09-2016 - Session time: 08:30:00 - Track: Biml
 ## Speaker: Ben Weissman
 ## Title: Biml: Your 3D Printer for SSIS
 ## Abstract:
@@ -107,7 +107,7 @@ Have you ever spent hours fixing your SSIS due to a schema change on the source?
 #### SessionID: 53123
 # So this is Power BI. What now?
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-09-2016 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: George Bryant
 ## Title: So this is Power BI. What now?
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 53232
 # Disaster Recovery  From On Premises to Azure
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carlos L Chacon
 ## Title: Disaster Recovery  From On Premises to Azure
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 53308
 # Near real time analytics with Azure Stream Analytics
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 24-09-2016 - Session time: 08:30:00 - Track: BI Information Delivery
 ## Speaker: Frank Kearney
 ## Title: Near real time analytics with Azure Stream Analytics
 ## Abstract:
@@ -135,7 +135,7 @@ In this session we will review the architecture of Azure Stream Analytics, a wal
 #### SessionID: 49029
 # Shaping Your Process to Hire Top Talent
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 24-09-2016 - Session time: 10:00:00 - Track: Professional Development
 ## Speaker: Erica Woods
 ## Title: Shaping Your Process to Hire Top Talent
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 52499
 # What is new in SQL Server 2016 for DBAs?
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: What is new in SQL Server 2016 for DBAs?
 ## Abstract:
@@ -156,7 +156,7 @@ in your Dev environment.
 #### SessionID: 52676
 # Pragmatic Power BI:  Transforming Data
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-09-2016 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: William E Pearson III
 ## Title: Pragmatic Power BI:  Transforming Data
 ## Abstract:
@@ -165,7 +165,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 52727
 # Test Automation: Agile Enablement for DW and BI Teams
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Other
+Event Date: 24-09-2016 - Session time: 10:00:00 - Track: Other
 ## Speaker: Cher Fox
 ## Title: Test Automation: Agile Enablement for DW and BI Teams
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Other
 #### SessionID: 52936
 # Introduction to Microsoft Analytics – Turning Data into Intelligent Action
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 24-09-2016 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: Melody Zacharias
 ## Title: Introduction to Microsoft Analytics – Turning Data into Intelligent Action
 ## Abstract:
@@ -183,7 +183,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 53117
 # Biml: I got the basics - what's next?
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Biml
+Event Date: 24-09-2016 - Session time: 10:00:00 - Track: Biml
 ## Speaker: Ben Weissman
 ## Title: Biml: I got the basics - what's next?
 ## Abstract:
@@ -199,7 +199,7 @@ You'll leave with sample code and hopefully a couple of ideas on how to bring yo
 #### SessionID: 53165
 # SQL Server Databaseology: A Deep Dive Into Database Internals
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology: A Deep Dive Into Database Internals
 ## Abstract:
@@ -209,7 +209,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 54387
 # Analyze  Visualize SQL Server Data w/ PowerPivot, PowerView  Excel
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 24-09-2016 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Wylie Blanchard
 ## Title: Analyze  Visualize SQL Server Data w/ PowerPivot, PowerView  Excel
 ## Abstract:
@@ -218,7 +218,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 49038
 # Data Migration Using BIML
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Biml
+Event Date: 24-09-2016 - Session time: 12:45:00 - Track: Biml
 ## Speaker: Kevin Feasel
 ## Title: Data Migration Using BIML
 ## Abstract:
@@ -227,7 +227,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Biml
 #### SessionID: 50279
 # Microdata For Microservices
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 24-09-2016 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Chase Aucoin
 ## Title: Microdata For Microservices
 ## Abstract:
@@ -238,7 +238,7 @@ The missing piece of the puzzle for most companies when it comes to micro servic
 #### SessionID: 51212
 # WIT: Identifying, Understanding and Combating Gender Bias
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 24-09-2016 - Session time: 12:45:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: WIT: Identifying, Understanding and Combating Gender Bias
 ## Abstract:
@@ -247,7 +247,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 52597
 # Building a Modern Transaction System on SQL Server
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 24-09-2016 - Session time: 12:45:00 - Track: Strategy and Architecture
 ## Speaker: Bill Graziano
 ## Title: Building a Modern Transaction System on SQL Server
 ## Abstract:
@@ -256,7 +256,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 52883
 # Isolation Levels – Understanding Transaction Temper Tantrums
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adam Koehler
 ## Title: Isolation Levels – Understanding Transaction Temper Tantrums
 ## Abstract:
@@ -265,7 +265,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 53000
 # Introduction to BIML and BimlScript
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-09-2016 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeremy Marx
 ## Title: Introduction to BIML and BimlScript
 ## Abstract:
@@ -280,7 +280,7 @@ Jeremy will demonstrate how to build a simple, single-table SSIS package using B
 #### SessionID: 53167
 # An Architect's Strategy for Consistent SSIS with SQL Server 2016
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Biml
+Event Date: 24-09-2016 - Session time: 12:45:00 - Track: Biml
 ## Speaker: Bill Fellows
 ## Title: An Architect's Strategy for Consistent SSIS with SQL Server 2016
 ## Abstract:
@@ -289,7 +289,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Biml
 #### SessionID: 53314
 # SQL Server Tips and Tricks from a lazy DBA
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Other
+Event Date: 24-09-2016 - Session time: 12:45:00 - Track: Other
 ## Speaker: Chuck Hieber
 ## Title: SQL Server Tips and Tricks from a lazy DBA
 ## Abstract:
@@ -299,7 +299,7 @@ In this session, I will show you several of the tips and tricks I have picked up
 #### SessionID: 49099
 # I’m It – Survival Techniques for the Lone DBA
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 24-09-2016 - Session time: 14:15:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I’m It – Survival Techniques for the Lone DBA
 ## Abstract:
@@ -308,7 +308,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 49145
 # Kerberos Delegation Made Simple
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kathi Kellenberger
 ## Title: Kerberos Delegation Made Simple
 ## Abstract:
@@ -321,7 +321,7 @@ Attend this session to learn why Kerberos is necessary and how to configure and 
 #### SessionID: 49408
 # Turbo Charged Transaction Logs - Internals and Performance
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Turbo Charged Transaction Logs - Internals and Performance
 ## Abstract:
@@ -330,7 +330,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 50001
 # SSAS 2016 Tabular - Diving into the new features
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-09-2016 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Beswick
 ## Title: SSAS 2016 Tabular - Diving into the new features
 ## Abstract:
@@ -339,7 +339,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 52670
 # Lock, Block, and Two Smoking CPUs
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 24-09-2016 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Daniel Maenle
 ## Title: Lock, Block, and Two Smoking CPUs
 ## Abstract:
@@ -349,7 +349,7 @@ Also to talk about how this can be a great streamline and better performing appr
 #### SessionID: 53269
 # Get Your Optimizer to Give up All Its Secrets
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
 ## Abstract:
@@ -358,7 +358,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 53303
 # Understanding Azure SQL Data Warehouse
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-09-2016 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Pierre LaFromboise
 ## Title: Understanding Azure SQL Data Warehouse
 ## Abstract:
@@ -367,7 +367,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 53339
 # Incrementally Moving to the Cloud Using Biml
 #### [Back to calendar](#nr-548)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Biml
+Event Date: 24-09-2016 - Session time: 14:15:00 - Track: Biml
 ## Speaker: Scott Currie
 ## Title: Incrementally Moving to the Cloud Using Biml
 ## Abstract:

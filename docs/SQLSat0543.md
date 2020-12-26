@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 48684
 # A dive into SSIS
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 23-07-2016 - Session time: 09:45:00 - Track: Business Intelligence
 ## Speaker: Alex Whittles
 ## Title: A dive into SSIS
 ## Abstract:
@@ -45,7 +45,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 49529
 # Automated Database Developmer Testing
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Database Development
+Event Date: 23-07-2016 - Session time: 09:45:00 - Track: Database Development
 ## Speaker: Ed Elliott
 ## Title: Automated Database Developmer Testing
 ## Abstract:
@@ -64,7 +64,7 @@ Whether you are completly new to developer testing or have been been "a mocking 
 #### SessionID: 50456
 # Introduction to wait stats
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Database Engine
+Event Date: 23-07-2016 - Session time: 09:45:00 - Track: Database Engine
 ## Speaker: Rainer Unwin
 ## Title: Introduction to wait stats
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Database Engine
 #### SessionID: 50590
 # Getting started with PowerShell - the hands on 101 session
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: PowerShell
+Event Date: 23-07-2016 - Session time: 09:45:00 - Track: PowerShell
 ## Speaker: Ryan Yates
 ## Title: Getting started with PowerShell - the hands on 101 session
 ## Abstract:
@@ -86,7 +86,7 @@ This session should leave you with a greater understanding of the PowerShell Lan
 #### SessionID: 51116
 # Session Details not available
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Azure
+Event Date: 23-07-2016 - Session time: 09:45:00 - Track: Azure
 ## Speaker: n/a n/a
 ## Title: Session Details not available
 ## Abstract:
@@ -95,7 +95,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Azure
 #### SessionID: 48668
 # Configuring SQL Server Analysis Services for use with Azure SQL DW
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 23-07-2016 - Session time: 11:05:00 - Track: Business Intelligence
 ## Speaker: Mike Boswell
 ## Title: Configuring SQL Server Analysis Services for use with Azure SQL DW
 ## Abstract:
@@ -109,7 +109,7 @@ Session objectives:
 #### SessionID: 49503
 # Powershell Profile Prepares Perfect Production Purlieu
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: PowerShell
+Event Date: 23-07-2016 - Session time: 11:05:00 - Track: PowerShell
 ## Speaker: Rob Sewell
 ## Title: Powershell Profile Prepares Perfect Production Purlieu
 ## Abstract:
@@ -122,7 +122,7 @@ If you use Powershell you should be making use of your profile and in this begin
 #### SessionID: 49755
 # SQL Server 2016 AlwaysOn Availability Groups
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Database Engine
+Event Date: 23-07-2016 - Session time: 11:05:00 - Track: Database Engine
 ## Speaker: Percy Reyes
 ## Title: SQL Server 2016 AlwaysOn Availability Groups
 ## Abstract:
@@ -131,7 +131,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Database Engine
 #### SessionID: 49851
 # Powerful T-SQL Improvements that Reduce Query Complexity
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Database Development
+Event Date: 23-07-2016 - Session time: 11:05:00 - Track: Database Development
 ## Speaker: Hugo Kornelis
 ## Title: Powerful T-SQL Improvements that Reduce Query Complexity
 ## Abstract:
@@ -142,7 +142,7 @@ Attend this session to boldly take SQL Server where it has never gone before!
 #### SessionID: 52575
 # Deep Dive on the IoT Hub
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Azure
+Event Date: 23-07-2016 - Session time: 11:05:00 - Track: Azure
 ## Speaker: Allan Mitchell
 ## Title: Deep Dive on the IoT Hub
 ## Abstract:
@@ -159,7 +159,7 @@ Come to the session to learn more.
 #### SessionID: 52966
 # Publish Power BI visualisations on premise with BI Office
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 23-07-2016 - Session time: 12:45:00 - Track: Business Intelligence
 ## Speaker: Ian Macdonald
 ## Title: Publish Power BI visualisations on premise with BI Office
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 52967
 # Plan optimization from DBA to Developer
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Database Development
+Event Date: 23-07-2016 - Session time: 12:45:00 - Track: Database Development
 ## Speaker: Martin Wild
 ## Title: Plan optimization from DBA to Developer
 ## Abstract:
@@ -177,7 +177,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Database Development
 #### SessionID: 52993
 # New Automatic Insights Capabilities on Microsoft SQL  SSAS
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Azure
+Event Date: 23-07-2016 - Session time: 12:45:00 - Track: Azure
 ## Speaker: Nigel West
 ## Title: New Automatic Insights Capabilities on Microsoft SQL  SSAS
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Azure
 #### SessionID: 53184
 # Monitoring SQL Server, Everywhere, With SQL Sentry
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Database Development
+Event Date: 23-07-2016 - Session time: 12:45:00 - Track: Database Development
 ## Speaker: John Martin
 ## Title: Monitoring SQL Server, Everywhere, With SQL Sentry
 ## Abstract:
@@ -202,7 +202,7 @@ Join us as we help you understand what, and how SQL Sentry can help you get the 
 #### SessionID: 48670
 # NSA Secrets - Hacking SQL Server
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Database Engine
+Event Date: 23-07-2016 - Session time: 13:30:00 - Track: Database Engine
 ## Speaker: André Melancia
 ## Title: NSA Secrets - Hacking SQL Server
 ## Abstract:
@@ -216,7 +216,7 @@ Disclaimer: No actual state secrets will be revealed. Please do not send agents 
 #### SessionID: 49170
 # Deploy and manage Ola Hallengrens scripts with Powershell
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: PowerShell
+Event Date: 23-07-2016 - Session time: 13:30:00 - Track: PowerShell
 ## Speaker: André Kamman
 ## Title: Deploy and manage Ola Hallengrens scripts with Powershell
 ## Abstract:
@@ -228,7 +228,7 @@ While building this I had to use more Powershell tips and tricks then I thought 
 #### SessionID: 49272
 # Big Data in Azure
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Azure
+Event Date: 23-07-2016 - Session time: 13:30:00 - Track: Azure
 ## Speaker: Robin Lester
 ## Title: Big Data in Azure
 ## Abstract:
@@ -239,7 +239,7 @@ When and why to choose a Big Data solution, how the technologies fit together, w
 #### SessionID: 49373
 # Dealing With Errors in SSIS 
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 23-07-2016 - Session time: 13:30:00 - Track: Business Intelligence
 ## Speaker: David Dye
 ## Title: Dealing With Errors in SSIS 
 ## Abstract:
@@ -255,7 +255,7 @@ You will learn:
 #### SessionID: 51114
 # Getting CI right for SQL Server
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Database Development
+Event Date: 23-07-2016 - Session time: 13:30:00 - Track: Database Development
 ## Speaker: Alex Yates
 ## Title: Getting CI right for SQL Server
 ## Abstract:
@@ -268,7 +268,7 @@ In this session I’ll explain how to use tSQLt to build a suite of automated te
 #### SessionID: 48675
 # Making Row Level Security and Dynamic Data Masking work for you!
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Database Engine
+Event Date: 23-07-2016 - Session time: 14:45:00 - Track: Database Engine
 ## Speaker: John Martin
 ## Title: Making Row Level Security and Dynamic Data Masking work for you!
 ## Abstract:
@@ -281,7 +281,7 @@ In this session we will look at how you can get the most out of these features a
 #### SessionID: 48682
 # Introduction to U-SQL
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Azure
+Event Date: 23-07-2016 - Session time: 14:45:00 - Track: Azure
 ## Speaker: Alex Whittles
 ## Title: Introduction to U-SQL
 ## Abstract:
@@ -290,7 +290,7 @@ Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Azure
 #### SessionID: 49528
 # From SSMS to SSDT why and how to move your SQL database development to SSDT
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Database Development
+Event Date: 23-07-2016 - Session time: 14:45:00 - Track: Database Development
 ## Speaker: Ed Elliott
 ## Title: From SSMS to SSDT why and how to move your SQL database development to SSDT
 ## Abstract:
@@ -307,7 +307,7 @@ If you write, debug or modify SQL Server database code and haven't yet started u
 #### SessionID: 50589
 # Teaching the IT Pro how to Dev - PowerShell, Source Control  Unit Testing
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: PowerShell
+Event Date: 23-07-2016 - Session time: 14:45:00 - Track: PowerShell
 ## Speaker: Ryan Yates
 ## Title: Teaching the IT Pro how to Dev - PowerShell, Source Control  Unit Testing
 ## Abstract:
@@ -320,7 +320,7 @@ As this session will be focused towards SQL Professionals we will take a look at
 #### SessionID: 52636
 # Session Details not available
 #### [Back to calendar](#nr-543)
-Event Date: 23-07-2016 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 23-07-2016 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: n/a n/a
 ## Title: Session Details not available
 ## Abstract:

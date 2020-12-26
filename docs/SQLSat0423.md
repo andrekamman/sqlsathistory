@@ -72,7 +72,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 16509
 # Beginning T-SQL
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
+Event Date: 01-08-2015 - Session time: 09:15:00 - Track: SQL Development
 ## Speaker: Jennifer McCown
 ## Title: Beginning T-SQL
 ## Abstract:
@@ -81,7 +81,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 #### SessionID: 21254
 # Fundamentals of Disaster Planning  Recovery
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: IT Manager
+Event Date: 01-08-2015 - Session time: 09:15:00 - Track: IT Manager
 ## Speaker: Michael Viron
 ## Title: Fundamentals of Disaster Planning  Recovery
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: IT Manager
 #### SessionID: 35635
 # Locking, Blocking, Latching. OH MY!
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: DBA Advanced
+Event Date: 01-08-2015 - Session time: 09:15:00 - Track: DBA Advanced
 ## Speaker: Daniel Janik
 ## Title: Locking, Blocking, Latching. OH MY!
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: DBA Advanced
 #### SessionID: 35789
 # PS C:\gt; Get-Started -With 'PowerShell for SQL Server'
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: PowerShell
+Event Date: 01-08-2015 - Session time: 09:15:00 - Track: PowerShell
 ## Speaker: Mike Robbins
 ## Title: PS C:\gt; Get-Started -With 'PowerShell for SQL Server'
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: PowerShell
 #### SessionID: 36195
 # Branding Yourself for a Dream Job
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Career Foundations
+Event Date: 01-08-2015 - Session time: 09:15:00 - Track: Career Foundations
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
 ## Abstract:
@@ -117,7 +117,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Career Foundations
 #### SessionID: 36335
 # 60 Reporting Tips in 60 Minutes
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 01-08-2015 - Session time: 09:15:00 - Track: Business Intelligence
 ## Speaker: Ike Ellis
 ## Title: 60 Reporting Tips in 60 Minutes
 ## Abstract:
@@ -126,7 +126,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
 #### SessionID: 36438
 # So You Want a Job in Big Data?
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Career Foundations
+Event Date: 01-08-2015 - Session time: 09:15:00 - Track: Career Foundations
 ## Speaker: Scott Shaw
 ## Title: So You Want a Job in Big Data?
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Career Foundations
 #### SessionID: 36803
 # Currying in a Hurry (Functional Programming with F#)
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
+Event Date: 01-08-2015 - Session time: 09:15:00 - Track: .NET 
 ## Speaker: Jeremy Abbott
 ## Title: Currying in a Hurry (Functional Programming with F#)
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET
 #### SessionID: 37347
 # Internet of Things
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
+Event Date: 01-08-2015 - Session time: 09:15:00 - Track: .NET 
 ## Speaker: Andrew Petersen
 ## Title: Internet of Things
 ## Abstract:
@@ -155,7 +155,7 @@ In this talk, we will cover statics of what is coming, how to stay secure, along
 #### SessionID: 37618
 # Essentials of Modern Web Application Development
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
+Event Date: 01-08-2015 - Session time: 09:15:00 - Track: .NET 
 ## Speaker: Case Ahr
 ## Title: Essentials of Modern Web Application Development
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET
 #### SessionID: 37837
 # What is the right SharePoint Cloud Strategy for my Business?
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SharePoint
+Event Date: 01-08-2015 - Session time: 09:15:00 - Track: SharePoint
 ## Speaker: Cody Gros
 ## Title: What is the right SharePoint Cloud Strategy for my Business?
 ## Abstract:
@@ -173,7 +173,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SharePoint
 #### SessionID: 39040
 # The Changing Role of IT: Cloud Strategy Panel
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Executive
+Event Date: 01-08-2015 - Session time: 09:15:00 - Track: Executive
 ## Speaker: Dave Baxter
 ## Title: The Changing Role of IT: Cloud Strategy Panel
 ## Abstract:
@@ -183,7 +183,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Executive
 #### SessionID: 10177
 # Building Cross Platform Mobile Apps with Xamarin
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
+Event Date: 01-08-2015 - Session time: 10:30:00 - Track: Web/Mobile Development
 ## Speaker: Brandon Cornett
 ## Title: Building Cross Platform Mobile Apps with Xamarin
 ## Abstract:
@@ -192,7 +192,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 #### SessionID: 11639
 # Interview Tips for Hiring Managers
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: IT Manager
+Event Date: 01-08-2015 - Session time: 10:30:00 - Track: IT Manager
 ## Speaker: Christine Assaf
 ## Title: Interview Tips for Hiring Managers
 ## Abstract:
@@ -201,7 +201,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: IT Manager
 #### SessionID: 25816
 # Managing your mobile workforce with ConfigMgr and Intune
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Windows Server/Virtualization
+Event Date: 01-08-2015 - Session time: 10:30:00 - Track: Windows Server/Virtualization
 ## Speaker: Steven Rachui
 ## Title: Managing your mobile workforce with ConfigMgr and Intune
 ## Abstract:
@@ -210,7 +210,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Windows Server/Virtuali
 #### SessionID: 35636
 # Analyze your query plan like a Microsoft Engineer!
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
+Event Date: 01-08-2015 - Session time: 10:30:00 - Track: SQL Development
 ## Speaker: Daniel Janik
 ## Title: Analyze your query plan like a Microsoft Engineer!
 ## Abstract:
@@ -219,7 +219,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 #### SessionID: 36314
 # Intro to AngularJS:  Creating a Simple Single Page Application
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
+Event Date: 01-08-2015 - Session time: 10:30:00 - Track: Web/Mobile Development
 ## Speaker: Ryan Richard
 ## Title: Intro to AngularJS:  Creating a Simple Single Page Application
 ## Abstract:
@@ -228,7 +228,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 #### SessionID: 36439
 # Navigating the Hadoop Stack
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
+Event Date: 01-08-2015 - Session time: 10:30:00 - Track: Mixed Track
 ## Speaker: Scott Shaw
 ## Title: Navigating the Hadoop Stack
 ## Abstract:
@@ -237,7 +237,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 #### SessionID: 36725
 # Database Design: Size DOES Matter
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
+Event Date: 01-08-2015 - Session time: 10:30:00 - Track: SQL Development
 ## Speaker: Thomas LaRock
 ## Title: Database Design: Size DOES Matter
 ## Abstract:
@@ -246,7 +246,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 #### SessionID: 36888
 # Write Scripts with C# and scriptcs
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
+Event Date: 01-08-2015 - Session time: 10:30:00 - Track: .NET 
 ## Speaker: Ryan Rousseau
 ## Title: Write Scripts with C# and scriptcs
 ## Abstract:
@@ -255,7 +255,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET
 #### SessionID: 37596
 # Programming with Patterns
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
+Event Date: 01-08-2015 - Session time: 10:30:00 - Track: .NET 
 ## Speaker: Jeremy Cronan
 ## Title: Programming with Patterns
 ## Abstract:
@@ -264,7 +264,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET
 #### SessionID: 37838
 # Leveraging SharePoint Search and Client Side Rendering
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SharePoint
+Event Date: 01-08-2015 - Session time: 10:30:00 - Track: SharePoint
 ## Speaker: Jameson Bozeman
 ## Title: Leveraging SharePoint Search and Client Side Rendering
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SharePoint
 #### SessionID: 37856
 # Business Analytics for Cadence Management
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Executive
+Event Date: 01-08-2015 - Session time: 10:30:00 - Track: Executive
 ## Speaker: Patrick Thompson
 ## Title: Business Analytics for Cadence Management
 ## Abstract:
@@ -284,7 +284,7 @@ Join Patrick Thompson, Sparkhound General Manager  Partner and former CIO for se
 #### SessionID: 37889
 # Improving your communication and leadership through Toastmasters
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Career Foundations
+Event Date: 01-08-2015 - Session time: 10:30:00 - Track: Career Foundations
 ## Speaker: Stacy Vicknair
 ## Title: Improving your communication and leadership through Toastmasters
 ## Abstract:
@@ -302,7 +302,7 @@ In this session we will demonstrate how a Toastmasters meeting operates, answer 
 #### SessionID: 38642
 # Mission Possible: Interactive Performance Troubleshooting - T-SQL
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
+Event Date: 01-08-2015 - Session time: 10:30:00 - Track: SQL Development
 ## Speaker: Jim Murphy
 ## Title: Mission Possible: Interactive Performance Troubleshooting - T-SQL
 ## Abstract:
@@ -311,7 +311,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 #### SessionID: 11637
 # Mastering your Resume  Interview: Tips to Get Hired
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Career Foundations
+Event Date: 01-08-2015 - Session time: 12:15:00 - Track: Career Foundations
 ## Speaker: Christine Assaf
 ## Title: Mastering your Resume  Interview: Tips to Get Hired
 ## Abstract:
@@ -320,7 +320,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Career Foundations
 #### SessionID: 35865
 # Back to Basics - What is BI?
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 01-08-2015 - Session time: 12:15:00 - Track: Business Intelligence
 ## Speaker: Stacey Hopkins
 ## Title: Back to Basics - What is BI?
 ## Abstract:
@@ -329,7 +329,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
 #### SessionID: 35968
 # SQL Server Optimization for SharePoint
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
+Event Date: 01-08-2015 - Session time: 12:15:00 - Track: Mixed Track
 ## Speaker: Sven Aelterman
 ## Title: SQL Server Optimization for SharePoint
 ## Abstract:
@@ -338,7 +338,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 #### SessionID: 36122
 # JS Approaches for the .NET Developer
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
+Event Date: 01-08-2015 - Session time: 12:15:00 - Track: .NET 
 ## Speaker: Matthew Borel
 ## Title: JS Approaches for the .NET Developer
 ## Abstract:
@@ -347,7 +347,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET
 #### SessionID: 36735
 # $#*! Your Database Says About Me
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
+Event Date: 01-08-2015 - Session time: 12:15:00 - Track: SQL Development
 ## Speaker: Karen Lopez
 ## Title: $#*! Your Database Says About Me
 ## Abstract:
@@ -356,7 +356,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 #### SessionID: 37591
 # Ensuring Quality Mobile Apps with Testing and Crash Reporting
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
+Event Date: 01-08-2015 - Session time: 12:15:00 - Track: Web/Mobile Development
 ## Speaker: Seth Valdetero
 ## Title: Ensuring Quality Mobile Apps with Testing and Crash Reporting
 ## Abstract:
@@ -365,7 +365,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 #### SessionID: 37601
 # Managing SQL Server in the Enterprise with TLAs
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL DBA Foundations
+Event Date: 01-08-2015 - Session time: 12:15:00 - Track: SQL DBA Foundations
 ## Speaker: Nancy Hidy Wilson
 ## Title: Managing SQL Server in the Enterprise with TLAs
 ## Abstract:
@@ -374,7 +374,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL DBA Foundations
 #### SessionID: 37669
 # Exploring Your SQL Server Databases with T-SQL
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL DBA Foundations
+Event Date: 01-08-2015 - Session time: 12:15:00 - Track: SQL DBA Foundations
 ## Speaker: Scott Swanberg
 ## Title: Exploring Your SQL Server Databases with T-SQL
 ## Abstract:
@@ -387,7 +387,7 @@ In this present, I share a set of basic scripts that I've developed, over the ye
 #### SessionID: 37679
 # Date and Time concepts, gotchas, and best practices in .NET
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
+Event Date: 01-08-2015 - Session time: 12:15:00 - Track: .NET 
 ## Speaker: Travis Overmier
 ## Title: Date and Time concepts, gotchas, and best practices in .NET
 ## Abstract:
@@ -396,7 +396,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET
 #### SessionID: 37700
 # What to expect from QA
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
+Event Date: 01-08-2015 - Session time: 12:15:00 - Track: Mixed Track
 ## Speaker: Lyle Hutson
 ## Title: What to expect from QA
 ## Abstract:
@@ -405,7 +405,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 #### SessionID: 37850
 # Beginning Automation with Powershell
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: PowerShell
+Event Date: 01-08-2015 - Session time: 12:15:00 - Track: PowerShell
 ## Speaker: Amy Herold
 ## Title: Beginning Automation with Powershell
 ## Abstract:
@@ -414,7 +414,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: PowerShell
 #### SessionID: 37855
 # Dashboards for Everyone with Microsoft Power BI and Excel
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Executive
+Event Date: 01-08-2015 - Session time: 12:15:00 - Track: Executive
 ## Speaker: Rusty Frioux
 ## Title: Dashboards for Everyone with Microsoft Power BI and Excel
 ## Abstract:
@@ -423,7 +423,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Executive
 #### SessionID: 39098
 # Virtualize all the things!
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Windows Server/Virtualization
+Event Date: 01-08-2015 - Session time: 12:15:00 - Track: Windows Server/Virtualization
 ## Speaker: David Pechon
 ## Title: Virtualize all the things!
 ## Abstract:
@@ -432,7 +432,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Windows Server/Virtuali
 #### SessionID: 10790
 # The Binary Language of Music
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
+Event Date: 01-08-2015 - Session time: 13:30:00 - Track: Mixed Track
 ## Speaker: Brian Rigsby
 ## Title: The Binary Language of Music
 ## Abstract:
@@ -441,7 +441,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 #### SessionID: 14459
 # Introduction to Master Data Management (MDM) with SQL Server Master Data Services (MDS) for Beginner
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 01-08-2015 - Session time: 13:30:00 - Track: Business Intelligence
 ## Speaker: Gene Webb
 ## Title: Introduction to Master Data Management (MDM) with SQL Server Master Data Services (MDS) for Beginner
 ## Abstract:
@@ -457,7 +457,7 @@ How to use MDS with a data warehouse to improve data quality
 #### SessionID: 21253
 # Startup 101: Lessons Learned
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
+Event Date: 01-08-2015 - Session time: 13:30:00 - Track: Mixed Track
 ## Speaker: Michael Viron
 ## Title: Startup 101: Lessons Learned
 ## Abstract:
@@ -466,7 +466,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Mixed Track
 #### SessionID: 25817
 # Configuration Manager and the SQL Broker Service - DRS
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: DBA Advanced
+Event Date: 01-08-2015 - Session time: 13:30:00 - Track: DBA Advanced
 ## Speaker: Steven Rachui
 ## Title: Configuration Manager and the SQL Broker Service - DRS
 ## Abstract:
@@ -475,7 +475,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: DBA Advanced
 #### SessionID: 28153
 # Possible Musics:  SSAS Multidimensional vs Tabular
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
+Event Date: 01-08-2015 - Session time: 13:30:00 - Track: Business Intelligence
 ## Speaker: William E Pearson III
 ## Title: Possible Musics:  SSAS Multidimensional vs Tabular
 ## Abstract:
@@ -484,7 +484,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Business Intelligence
 #### SessionID: 35790
 # PS C:\gt; Get-Started -With 'PowerShell Desired State Configuration'
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: PowerShell
+Event Date: 01-08-2015 - Session time: 13:30:00 - Track: PowerShell
 ## Speaker: Mike Robbins
 ## Title: PS C:\gt; Get-Started -With 'PowerShell Desired State Configuration'
 ## Abstract:
@@ -493,7 +493,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: PowerShell
 #### SessionID: 36194
 # Continuous Integration for Databases
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
+Event Date: 01-08-2015 - Session time: 13:30:00 - Track: SQL Development
 ## Speaker: Steve Jones
 ## Title: Continuous Integration for Databases
 ## Abstract:
@@ -502,7 +502,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL Development
 #### SessionID: 36920
 # Row Level Security in Azure and SQL 2016 Databases using Hierarchies
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: DBA Advanced
+Event Date: 01-08-2015 - Session time: 13:30:00 - Track: DBA Advanced
 ## Speaker: Jamey Johnston
 ## Title: Row Level Security in Azure and SQL 2016 Databases using Hierarchies
 ## Abstract:
@@ -514,7 +514,7 @@ Attendees will leave with a complete working demo they can take to their work an
 #### SessionID: 36973
 # SQL Server Reporting Services (SSRS) 101
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL DBA Foundations
+Event Date: 01-08-2015 - Session time: 13:30:00 - Track: SQL DBA Foundations
 ## Speaker: William Assaf
 ## Title: SQL Server Reporting Services (SSRS) 101
 ## Abstract:
@@ -523,7 +523,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: SQL DBA Foundations
 #### SessionID: 37125
 # Building rest and websocket APIs with Sails.js
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
+Event Date: 01-08-2015 - Session time: 13:30:00 - Track: Web/Mobile Development
 ## Speaker: Alex Clavelle
 ## Title: Building rest and websocket APIs with Sails.js
 ## Abstract:
@@ -532,7 +532,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Web/Mobile Development
 #### SessionID: 37586
 # The future of C#
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
+Event Date: 01-08-2015 - Session time: 13:30:00 - Track: .NET 
 ## Speaker: Ross Murray
 ## Title: The future of C#
 ## Abstract:
@@ -541,7 +541,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET
 #### SessionID: 37711
 # Staying Afloat in the .NET Asynchronous Ocean
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET 
+Event Date: 01-08-2015 - Session time: 13:30:00 - Track: .NET 
 ## Speaker: Mike Huguet
 ## Title: Staying Afloat in the .NET Asynchronous Ocean
 ## Abstract:
@@ -550,7 +550,7 @@ Event Date: 01-08-2015 - Session time: 14:45:00 - Track: .NET
 #### SessionID: 37858
 # Aligning IT and the Business
 #### [Back to calendar](#nr-423)
-Event Date: 01-08-2015 - Session time: 14:45:00 - Track: Executive
+Event Date: 01-08-2015 - Session time: 13:30:00 - Track: Executive
 ## Speaker: Tim Goedeke
 ## Title: Aligning IT and the Business
 ## Abstract:

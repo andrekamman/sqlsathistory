@@ -77,7 +77,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 54091
 # Performance Pitfalls from Code Reuse
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 08:30:00 - Track: Database  Application Development
 ## Speaker: Andy Yun
 ## Title: Performance Pitfalls from Code Reuse
 ## Abstract:
@@ -88,7 +88,7 @@ Come to this session and learn why applying object-oriented principles can be ex
 #### SessionID: 54099
 # The PROCESS of Queries
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 08:30:00 - Track: Database  Application Development
 ## Speaker: John Deardurff
 ## Title: The PROCESS of Queries
 ## Abstract:
@@ -97,7 +97,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application D
 #### SessionID: 54114
 # The 20% of DAX That Gets You 80% of the Way There
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Analytics and Visualization
+Event Date: 14-01-2017 - Session time: 08:30:00 - Track: BI Analytics and Visualization
 ## Speaker: Austin Senseman
 ## Title: The 20% of DAX That Gets You 80% of the Way There
 ## Abstract:
@@ -106,7 +106,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #### SessionID: 54119
 # Word Up: Text Mining in SQL
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Other
+Event Date: 14-01-2017 - Session time: 08:30:00 - Track: Other
 ## Speaker: Dave Mattingly
 ## Title: Word Up: Text Mining in SQL
 ## Abstract:
@@ -119,7 +119,7 @@ Learn how to dig through your library of language to make your data better.
 #### SessionID: 54168
 # How to successfully virtualize critical SQL servers
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 08:30:00 - Track: Database Administration 
 ## Speaker: Niran Even-Chen
 ## Title: How to successfully virtualize critical SQL servers
 ## Abstract:
@@ -130,7 +130,7 @@ In this session we will review the guidance for successfully virtualizing critic
 #### SessionID: 54680
 # Many – to - Many: Multiple Calendars in a Single Analysis Services Multidimensional Cube
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Architecture  Management
+Event Date: 14-01-2017 - Session time: 08:30:00 - Track: BI Architecture  Management
 ## Speaker: William E Pearson III
 ## Title: Many – to - Many: Multiple Calendars in a Single Analysis Services Multidimensional Cube
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #### SessionID: 56588
 # Very Large Databases in your future
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 08:30:00 - Track: Database Administration 
 ## Speaker: Eric Peterson
 ## Title: Very Large Databases in your future
 ## Abstract:
@@ -151,7 +151,7 @@ indexing and DBCC checks into itty-bitty maintenance windows. As a bonus, many o
 #### SessionID: 56663
 # Performance Monitoring AlwaysOn Availability Groups
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 08:30:00 - Track: Database Administration 
 ## Speaker: Anthony Nocentino
 ## Title: Performance Monitoring AlwaysOn Availability Groups
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration
 #### SessionID: 56786
 # Enterprise Machine Learning with R and SQL Server
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Analytics and Visualization
+Event Date: 14-01-2017 - Session time: 08:30:00 - Track: BI Analytics and Visualization
 ## Speaker: Paco Gonzalez
 ## Title: Enterprise Machine Learning with R and SQL Server
 ## Abstract:
@@ -169,7 +169,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #### SessionID: 57137
 # Learn History from Temporal Tables
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 08:30:00 - Track: Database  Application Development
 ## Speaker: Ameena Lalani
 ## Title: Learn History from Temporal Tables
 ## Abstract:
@@ -178,7 +178,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application D
 #### SessionID: 57354
 # Registration for non-printed SPEEDPASS
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Other
+Event Date: 14-01-2017 - Session time: 08:30:00 - Track: Other
 ## Speaker: SQLSaturday Nashville
 ## Title: Registration for non-printed SPEEDPASS
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Other
 #### SessionID: 59399
 # SS2014/2016 In-Memory Tables --Formula One Performance Unleashed, Part 1
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 08:30:00 - Track: Database  Application Development
 ## Speaker: Mike Byrd
 ## Title: SS2014/2016 In-Memory Tables --Formula One Performance Unleashed, Part 1
 ## Abstract:
@@ -201,7 +201,7 @@ After this session you will
 #### SessionID: 54141
 # Query Store Primer
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 09:45:00 - Track: Database  Application Development
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
 ## Abstract:
@@ -210,7 +210,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application D
 #### SessionID: 54617
 # End-to-End Troubleshooting Checklist for SQL Server
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 09:45:00 - Track: Database Administration 
 ## Speaker: Kevin Kline
 ## Title: End-to-End Troubleshooting Checklist for SQL Server
 ## Abstract:
@@ -228,7 +228,7 @@ Every DBA needs to know how to keep their SQL Server in tip-top condition, and y
 #### SessionID: 55025
 # Power BI Data Governance - Protecting Business Data
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Analytics and Visualization
+Event Date: 14-01-2017 - Session time: 09:45:00 - Track: BI Analytics and Visualization
 ## Speaker: Ernie Wise
 ## Title: Power BI Data Governance - Protecting Business Data
 ## Abstract:
@@ -237,7 +237,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #### SessionID: 56469
 # Let Me Finish... Isolating Write Operations
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 09:45:00 - Track: Database  Application Development
 ## Speaker: Louis Davidson
 ## Title: Let Me Finish... Isolating Write Operations
 ## Abstract:
@@ -246,7 +246,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application D
 #### SessionID: 56556
 # Does your performance tuning need a 12-step program?
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 09:45:00 - Track: Database  Application Development
 ## Speaker: Janis Griffin
 ## Title: Does your performance tuning need a 12-step program?
 ## Abstract:
@@ -260,7 +260,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application D
 #### SessionID: 56587
 # JSON and SQL 2016
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 09:45:00 - Track: Database  Application Development
 ## Speaker: Eric Peterson
 ## Title: JSON and SQL 2016
 ## Abstract:
@@ -270,7 +270,7 @@ We'll look at native result sets vs JSON vs HTML along with  JSON implementation
 #### SessionID: 56622
 # Introduction to SQL Server Integration Services
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Architecture  Management
+Event Date: 14-01-2017 - Session time: 09:45:00 - Track: BI Architecture  Management
 ## Speaker: Ed Watson
 ## Title: Introduction to SQL Server Integration Services
 ## Abstract:
@@ -279,7 +279,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #### SessionID: 56669
 # Understanding and Handling Database Corruption
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 09:45:00 - Track: Database Administration 
 ## Speaker: David Maxwell
 ## Title: Understanding and Handling Database Corruption
 ## Abstract:
@@ -288,7 +288,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration
 #### SessionID: 56792
 # Self-Service ETL with Microsoft Power Query
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Analytics and Visualization
+Event Date: 14-01-2017 - Session time: 09:45:00 - Track: BI Analytics and Visualization
 ## Speaker: Damu Venkatesan
 ## Title: Self-Service ETL with Microsoft Power Query
 ## Abstract:
@@ -297,7 +297,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #### SessionID: 56799
 # Getting Started with SQL Server Replication
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 09:45:00 - Track: Database  Application Development
 ## Speaker: Robert Verell
 ## Title: Getting Started with SQL Server Replication
 ## Abstract:
@@ -306,7 +306,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application D
 #### SessionID: 56861
 # SQL Server 2016: Why you should care.
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 09:45:00 - Track: Database Administration 
 ## Speaker: Geoff Hiten
 ## Title: SQL Server 2016: Why you should care.
 ## Abstract:
@@ -315,7 +315,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration
 #### SessionID: 59338
 # A Key to Keys
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 09:45:00 - Track: Database  Application Development
 ## Speaker: Karen Lopez
 ## Title: A Key to Keys
 ## Abstract:
@@ -326,7 +326,7 @@ In this session we’ll look at the generic and proprietary terms for these conc
 #### SessionID: 54142
 # Disaster Recovery Where to Begin
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 11:00:00 - Track: Database Administration 
 ## Speaker: Tracy Boggiano
 ## Title: Disaster Recovery Where to Begin
 ## Abstract:
@@ -335,7 +335,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration
 #### SessionID: 54266
 # A Real, Live PowerShell Beginner's Tutorial
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: PowerShell
+Event Date: 14-01-2017 - Session time: 11:00:00 - Track: PowerShell
 ## Speaker: Tim Warner
 ## Title: A Real, Live PowerShell Beginner's Tutorial
 ## Abstract:
@@ -344,7 +344,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: PowerShell
 #### SessionID: 54330
 # Top 5 SQL Server Mistakes
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 11:00:00 - Track: Database Administration 
 ## Speaker: Kathi Kellenberger
 ## Title: Top 5 SQL Server Mistakes
 ## Abstract:
@@ -353,7 +353,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration
 #### SessionID: 54714
 # Tips and Tricks for the SSIS Catalog
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Architecture  Management
+Event Date: 14-01-2017 - Session time: 11:00:00 - Track: BI Architecture  Management
 ## Speaker: Jonathan Buller
 ## Title: Tips and Tricks for the SSIS Catalog
 ## Abstract:
@@ -362,7 +362,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #### SessionID: 56457
 # I Installed SQL Server... Now What?
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 11:00:00 - Track: Database Administration 
 ## Speaker: Jared Karney
 ## Title: I Installed SQL Server... Now What?
 ## Abstract:
@@ -371,7 +371,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration
 #### SessionID: 56493
 # Why NULL is not a value (and other SQL gotchas)
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 11:00:00 - Track: Database  Application Development
 ## Speaker: Wendy Pastrick
 ## Title: Why NULL is not a value (and other SQL gotchas)
 ## Abstract:
@@ -380,7 +380,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application D
 #### SessionID: 56544
 # Visualize Your Transaction Log
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 11:00:00 - Track: Database Administration 
 ## Speaker: Brian Hansen
 ## Title: Visualize Your Transaction Log
 ## Abstract:
@@ -389,7 +389,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration
 #### SessionID: 56631
 # Execution Plans for Mere Mortals
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 11:00:00 - Track: Database  Application Development
 ## Speaker: Mike Lawell
 ## Title: Execution Plans for Mere Mortals
 ## Abstract:
@@ -400,7 +400,7 @@ Reading execution plans becomes much less intimidating as we walk through the fl
 #### SessionID: 56667
 # Re-Introducing Power BI
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Analytics and Visualization
+Event Date: 14-01-2017 - Session time: 11:00:00 - Track: BI Analytics and Visualization
 ## Speaker: Stacia Varga
 ## Title: Re-Introducing Power BI
 ## Abstract:
@@ -409,7 +409,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #### SessionID: 56841
 # ETL Architecture for Real-Time BI
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Architecture  Management
+Event Date: 14-01-2017 - Session time: 11:00:00 - Track: BI Architecture  Management
 ## Speaker: Jon Boulineau
 ## Title: ETL Architecture for Real-Time BI
 ## Abstract:
@@ -418,7 +418,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #### SessionID: 56863
 # Azure Automation  Runbooks for the DBA
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment
+Event Date: 14-01-2017 - Session time: 11:00:00 - Track: Cloud Database/Application Development  Deployment
 ## Speaker: Brian Davis
 ## Title: Azure Automation  Runbooks for the DBA
 ## Abstract:
@@ -427,7 +427,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #### SessionID: 56866
 # SQL Server on Linux--Linux for the SQL DBA
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 11:00:00 - Track: Database Administration 
 ## Speaker: Joseph D'Antoni
 ## Title: SQL Server on Linux--Linux for the SQL DBA
 ## Abstract:
@@ -436,7 +436,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration
 #### SessionID: 57116
 # Backups  Restores: You're Not In Kansas Anymore!
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 11:00:00 - Track: Database Administration 
 ## Speaker: John Morehouse
 ## Title: Backups  Restores: You're Not In Kansas Anymore!
 ## Abstract:
@@ -445,7 +445,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration
 #### SessionID: 57343
 # SQL Server 2012  2014 ColumnStore Indexes
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Architecture  Management
+Event Date: 14-01-2017 - Session time: 11:00:00 - Track: BI Architecture  Management
 ## Speaker: Gareth Swanepoel
 ## Title: SQL Server 2012  2014 ColumnStore Indexes
 ## Abstract:
@@ -455,7 +455,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #### SessionID: 57349
 # Extended Time Slot
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Other
+Event Date: 14-01-2017 - Session time: 12:00:00 - Track: Other
 ## Speaker: SQLSaturday Nashville
 ## Title: Extended Time Slot
 ## Abstract:
@@ -464,7 +464,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Other
 #### SessionID: 56461
 # Women in Technology: Identifying and Understanding Gender Bias  Inequality
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Professional Development
+Event Date: 14-01-2017 - Session time: 12:20:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Women in Technology: Identifying and Understanding Gender Bias  Inequality
 ## Abstract:
@@ -473,7 +473,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Professional Developmen
 #### SessionID: 56735
 # Discuss Your Career (Panel)
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Professional Development
+Event Date: 14-01-2017 - Session time: 12:20:00 - Track: Professional Development
 ## Speaker: Louis Davidson
 ## Title: Discuss Your Career (Panel)
 ## Abstract:
@@ -482,7 +482,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Professional Developmen
 #### SessionID: 56817
 # Perceptual Intelligence with Cortana Analytics
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Cloud Database/Application Development  Deployment
+Event Date: 14-01-2017 - Session time: 12:20:00 - Track: Cloud Database/Application Development  Deployment
 ## Speaker: Dan Evans
 ## Title: Perceptual Intelligence with Cortana Analytics
 ## Abstract:
@@ -491,7 +491,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Cloud Database/Applicat
 #### SessionID: 57551
 # SQL Server and Pure Storage: Redefining Database Engineering
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 12:20:00 - Track: Database Administration 
 ## Speaker: Argenis Fernandez
 ## Title: SQL Server and Pure Storage: Redefining Database Engineering
 ## Abstract:
@@ -500,7 +500,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration
 #### SessionID: 59302
 # SQL and VMware - more than just virtualization demos
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 12:20:00 - Track: Database Administration 
 ## Speaker: Niran Even-Chen
 ## Title: SQL and VMware - more than just virtualization demos
 ## Abstract:
@@ -509,7 +509,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration
 #### SessionID: 59535
 # Performance Monitoring with Quest
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Other
+Event Date: 14-01-2017 - Session time: 12:20:00 - Track: Other
 ## Speaker: Ben Boise
 ## Title: Performance Monitoring with Quest
 ## Abstract:
@@ -518,7 +518,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Other
 #### SessionID: 59569
 # Ten Query Tuning Techniques Every SQL Programmer Should Know
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 12:20:00 - Track: Database  Application Development
 ## Speaker: Justin Randall
 ## Title: Ten Query Tuning Techniques Every SQL Programmer Should Know
 ## Abstract:
@@ -527,7 +527,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application D
 #### SessionID: 54095
 # Use Biml to Automate SSIS Design Patterns
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Architecture  Management
+Event Date: 14-01-2017 - Session time: 13:30:00 - Track: BI Architecture  Management
 ## Speaker: Andy Leonard
 ## Title: Use Biml to Automate SSIS Design Patterns
 ## Abstract:
@@ -541,7 +541,7 @@ In this session, you will learn:
 #### SessionID: 54100
 # The Basics of Manipulating Data
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 13:30:00 - Track: Database  Application Development
 ## Speaker: John Deardurff
 ## Title: The Basics of Manipulating Data
 ## Abstract:
@@ -550,7 +550,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application D
 #### SessionID: 54603
 # In-Memory Indexes:  The rest of the story!
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 13:30:00 - Track: Database  Application Development
 ## Speaker: Mike Byrd
 ## Title: In-Memory Indexes:  The rest of the story!
 ## Abstract:
@@ -563,7 +563,7 @@ After this session you will
 #### SessionID: 54988
 # Power BI  SharePoint - A Marriage Made in Redmond
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Architecture  Management
+Event Date: 14-01-2017 - Session time: 13:30:00 - Track: BI Architecture  Management
 ## Speaker: Daniel Glenn
 ## Title: Power BI  SharePoint - A Marriage Made in Redmond
 ## Abstract:
@@ -572,7 +572,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Architecture  Manage
 #### SessionID: 56370
 # Data Visualization:  How to truly tell a great story!
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Analytics and Visualization
+Event Date: 14-01-2017 - Session time: 13:30:00 - Track: BI Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization:  How to truly tell a great story!
 ## Abstract:
@@ -581,7 +581,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: BI Analytics and Visual
 #### SessionID: 56621
 # Database Security in SQL Server 2016 and beyond
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 13:30:00 - Track: Database  Application Development
 ## Speaker: Denny Cherry
 ## Title: Database Security in SQL Server 2016 and beyond
 ## Abstract:
@@ -590,7 +590,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application D
 #### SessionID: 56791
 # The Sorcerer's Apprentice Guide to Configuration Options and Trace Flags
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 13:30:00 - Track: Database Administration 
 ## Speaker: Justin Randall
 ## Title: The Sorcerer's Apprentice Guide to Configuration Options and Trace Flags
 ## Abstract:
@@ -599,7 +599,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration
 #### SessionID: 56801
 # Understanding Transaction Isolation Levels
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 13:30:00 - Track: Database  Application Development
 ## Speaker: Randy Knight
 ## Title: Understanding Transaction Isolation Levels
 ## Abstract:
@@ -608,7 +608,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application D
 #### SessionID: 56828
 # Autonomous Transaction Logging in SQL Server
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database  Application Development
+Event Date: 14-01-2017 - Session time: 13:30:00 - Track: Database  Application Development
 ## Speaker: Rob Volk
 ## Title: Autonomous Transaction Logging in SQL Server
 ## Abstract:
@@ -621,7 +621,7 @@ We'll review minimal techniques like RAISERROR and the new SESSION_CONTEXT() fea
 #### SessionID: 56830
 # Building a Data Warehouse for the DBA
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 13:30:00 - Track: Database Administration 
 ## Speaker: Pat Phelan
 ## Title: Building a Data Warehouse for the DBA
 ## Abstract:
@@ -636,7 +636,7 @@ NOTE: This session covers how to BUILD the warehouse, how to collect information
 #### SessionID: 57114
 # SQL Server Databaseology: A Deep Dive Into Database Internals
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 13:30:00 - Track: Database Administration 
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology: A Deep Dive Into Database Internals
 ## Abstract:
@@ -645,7 +645,7 @@ Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration
 #### SessionID: 57390
 # Distributed Replay, using  it to plan for the future.
 #### [Back to calendar](#nr-581)
-Event Date: 14-01-2017 - Session time: 14:50:00 - Track: Database Administration 
+Event Date: 14-01-2017 - Session time: 13:30:00 - Track: Database Administration 
 ## Speaker: Paul Popovich Jr
 ## Title: Distributed Replay, using  it to plan for the future.
 ## Abstract:

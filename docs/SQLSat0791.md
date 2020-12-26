@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 82620
 # Data Overview and Manipulation – T-SQL, R, Python
 #### [Back to calendar](#nr-791)
-Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 03-11-2018 - Session time: 08:30:00 - Track: Analytics and Visualization
 ## Speaker: Dejan Sarka
 ## Title: Data Overview and Manipulation – T-SQL, R, Python
 ## Abstract:
@@ -35,7 +35,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 83137
 # Maintenance Plans: A Daily Task
 #### [Back to calendar](#nr-791)
-Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-11-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tobias Koprowski
 ## Title: Maintenance Plans: A Daily Task
 ## Abstract:
@@ -44,7 +44,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 83778
 # Beyond image classification - object detection  with multi-task deep models
 #### [Back to calendar](#nr-791)
-Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 03-11-2018 - Session time: 08:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: Beyond image classification - object detection  with multi-task deep models
 ## Abstract:
@@ -56,7 +56,7 @@ Finally, we will move to multiple objects detection, discus latest architectures
 #### SessionID: 83780
 # Continuous Integration Pipelines With Jenkins, Docker and SQL Server
 #### [Back to calendar](#nr-791)
-Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 03-11-2018 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Christopher Adkin
 ## Title: Continuous Integration Pipelines With Jenkins, Docker and SQL Server
 ## Abstract:
@@ -65,7 +65,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 82622
 # Staatistical Analysis with T-SQL
 #### [Back to calendar](#nr-791)
-Event Date: 03-11-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-11-2018 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dejan Sarka
 ## Title: Staatistical Analysis with T-SQL
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 82989
 # Најчешће грешке и заблуде на релацији програмер – SQL Server
 #### [Back to calendar](#nr-791)
-Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 03-11-2018 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Miloš Radivojević
 ## Title: Најчешће грешке и заблуде на релацији програмер – SQL Server
 ## Abstract:
@@ -85,7 +85,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 85667
 # Minimizing consequences of data breach using SQL Server
 #### [Back to calendar](#nr-791)
-Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-11-2018 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jasmin Azemović
 ## Title: Minimizing consequences of data breach using SQL Server
 ## Abstract:
@@ -96,7 +96,7 @@ This session is about how to implement state of the art cryptographic features t
 #### SessionID: 82847
 # How to downgrade a database
 #### [Back to calendar](#nr-791)
-Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 03-11-2018 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Dejan Dular
 ## Title: How to downgrade a database
 ## Abstract:
@@ -107,7 +107,7 @@ In this session we'll discuss why would you need to downgrade a database and the
 #### SessionID: 83136
 # SQL Security in the Cloud
 #### [Back to calendar](#nr-791)
-Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-11-2018 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tobias Koprowski
 ## Title: SQL Security in the Cloud
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 83287
 # Data Science for beginners
 #### [Back to calendar](#nr-791)
-Event Date: 03-11-2018 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 03-11-2018 - Session time: 11:00:00 - Track: BI Information Delivery
 ## Speaker: Tomaž Kaštrun
 ## Title: Data Science for beginners
 ## Abstract:
@@ -134,7 +134,7 @@ Session we will look into technologies that can be tackled using SQL Server 2016
 #### SessionID: 83180
 # Getting To Know SQL Server Encryption Capabilities
 #### [Back to calendar](#nr-791)
-Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-11-2018 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mladen Prajdić
 ## Title: Getting To Know SQL Server Encryption Capabilities
 ## Abstract:
@@ -148,7 +148,7 @@ In this session we'll look at what SQL Server offers in this area:
 #### SessionID: 83288
 # Most common mistakes data scientists make
 #### [Back to calendar](#nr-791)
-Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 03-11-2018 - Session time: 13:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Tomaž Kaštrun
 ## Title: Most common mistakes data scientists make
 ## Abstract:
@@ -164,7 +164,7 @@ Some statistical knowledge or background is a plus!
 #### SessionID: 85662
 # “SQL-like” or query languages in Azure IoT
 #### [Back to calendar](#nr-791)
-Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 03-11-2018 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: “SQL-like” or query languages in Azure IoT
 ## Abstract:
@@ -176,7 +176,7 @@ So, we will leave no SQL query unturned  in Azure IoT Hub, Stream Analytics, Pow
 #### SessionID: 83181
 # Optimizing Database Access And Diving Into .Net SqlClient
 #### [Back to calendar](#nr-791)
-Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 03-11-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Mladen Prajdić
 ## Title: Optimizing Database Access And Diving Into .Net SqlClient
 ## Abstract:
@@ -185,7 +185,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 84137
 # Bulk Load and Minimal Logging
 #### [Back to calendar](#nr-791)
-Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-11-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dean Savović
 ## Title: Bulk Load and Minimal Logging
 ## Abstract:
@@ -194,7 +194,7 @@ Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 85243
 # CI/CD Database deployment
 #### [Back to calendar](#nr-791)
-Event Date: 03-11-2018 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 03-11-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Ratomir Vukadin
 ## Title: CI/CD Database deployment
 ## Abstract:

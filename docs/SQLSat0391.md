@@ -52,7 +52,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 14450
 # Learn How To Build A Golden Record for Any Subject Over Lunch!
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Other
+Event Date: 09-05-2015 - Session time: 00:00:00 - Track: Other
 ## Speaker: Gene Webb
 ## Title: Learn How To Build A Golden Record for Any Subject Over Lunch!
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Other
 #### SessionID: 17153
 # Data Compression – Why and How
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting and Performance Tuning
+Event Date: 09-05-2015 - Session time: 09:00:00 - Track: DBA – Troubleshooting and Performance Tuning
 ## Speaker: John Kauffman
 ## Title: Data Compression – Why and How
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting
 #### SessionID: 19168
 # PowerShell for SQL Server Administrators
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Development
+Event Date: 09-05-2015 - Session time: 09:00:00 - Track: DBA – Database Development
 ## Speaker: Lisa Jackson-Neblett
 ## Title: PowerShell for SQL Server Administrators
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Develo
 #### SessionID: 19979
 # Interview Puzzles and how to handle them
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Personal Development
+Event Date: 09-05-2015 - Session time: 09:00:00 - Track: Personal Development
 ## Speaker: Mike Davis
 ## Title: Interview Puzzles and how to handle them
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Personal Development
 #### SessionID: 21014
 # Process SSAS Cubes with SSIS
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
+Event Date: 09-05-2015 - Session time: 09:00:00 - Track: Enterprise BI
 ## Speaker: Mitchell Pearson
 ## Title: Process SSAS Cubes with SSIS
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #### SessionID: 21112
 # Data Mining with Excel 2013
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
+Event Date: 09-05-2015 - Session time: 09:00:00 - Track: Self-Service BI
 ## Speaker: Michael Reed
 ## Title: Data Mining with Excel 2013
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
 #### SessionID: 24407
 # SSIS Performance Tuning
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
+Event Date: 09-05-2015 - Session time: 09:00:00 - Track: Enterprise BI
 ## Speaker: Shawn Harrison
 ## Title: SSIS Performance Tuning
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #### SessionID: 24636
 # HA in an about an Hour
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting and Performance Tuning
+Event Date: 09-05-2015 - Session time: 09:00:00 - Track: DBA – Troubleshooting and Performance Tuning
 ## Speaker: Shawn Meyers
 ## Title: HA in an about an Hour
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting
 #### SessionID: 36027
 # Kids Camp
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Other
+Event Date: 09-05-2015 - Session time: 09:00:00 - Track: Other
 ## Speaker: Devin Knight
 ## Title: Kids Camp
 ## Abstract:
@@ -145,7 +145,7 @@ An Adult must remain on campus at SQL Saturday during the day.
 #### SessionID: 13300
 # Size does matter: 10 ways to reduce the database size and improve performance
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting and Performance Tuning
+Event Date: 09-05-2015 - Session time: 10:15:00 - Track: DBA – Troubleshooting and Performance Tuning
 ## Speaker: Dmitri Korotkevitch
 ## Title: Size does matter: 10 ways to reduce the database size and improve performance
 ## Abstract:
@@ -156,7 +156,7 @@ In this session, Dmitri will show you the set of techniques that help to reduce 
 #### SessionID: 13502
 # Welcome to SSAS Tabular Models
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
+Event Date: 09-05-2015 - Session time: 10:15:00 - Track: Enterprise BI
 ## Speaker: Dustin Ryan
 ## Title: Welcome to SSAS Tabular Models
 ## Abstract:
@@ -165,7 +165,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #### SessionID: 16341
 # Indexing for performance
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Other
+Event Date: 09-05-2015 - Session time: 10:15:00 - Track: Other
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Other
 #### SessionID: 17858
 # Power BI 101
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
+Event Date: 09-05-2015 - Session time: 10:15:00 - Track: Self-Service BI
 ## Speaker: Kurt Amundson
 ## Title: Power BI 101
 ## Abstract:
@@ -183,7 +183,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
 #### SessionID: 25303
 # Government Transparency Powered by SharePoint 2013 and Sql 2012
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
+Event Date: 09-05-2015 - Session time: 10:15:00 - Track: Enterprise BI
 ## Speaker: Steve Schneider
 ## Title: Government Transparency Powered by SharePoint 2013 and Sql 2012
 ## Abstract:
@@ -192,7 +192,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #### SessionID: 27468
 # Azure Data Services – Real-time Analytics
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Azure
+Event Date: 09-05-2015 - Session time: 10:15:00 - Track: Azure
 ## Speaker: Jason Virtue
 ## Title: Azure Data Services – Real-time Analytics
 ## Abstract:
@@ -201,7 +201,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Azure
 #### SessionID: 9880
 # Access As A Front-end to SQL-Server
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Development
+Event Date: 09-05-2015 - Session time: 10:15:00 - Track: DBA – Database Development
 ## Speaker: Arvin Meyer
 ## Title: Access As A Front-end to SQL-Server
 ## Abstract:
@@ -210,7 +210,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Develo
 #### SessionID: 14217
 # Much Ado About Hadoop
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Big Data
+Event Date: 09-05-2015 - Session time: 12:00:00 - Track: Big Data
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
 ## Abstract:
@@ -219,7 +219,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Big Data
 #### SessionID: 15909
 # DataViz You Thought You Couldn't Do with SSRS
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
+Event Date: 09-05-2015 - Session time: 12:00:00 - Track: Enterprise BI
 ## Speaker: Jason Thomas
 ## Title: DataViz You Thought You Couldn't Do with SSRS
 ## Abstract:
@@ -228,7 +228,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #### SessionID: 16390
 # Database Projects: Development and Deploying
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Development
+Event Date: 09-05-2015 - Session time: 12:00:00 - Track: DBA – Database Development
 ## Speaker: Jonathon Moorman
 ## Title: Database Projects: Development and Deploying
 ## Abstract:
@@ -237,7 +237,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Develo
 #### SessionID: 20039
 # A practical guide to Windows Azure SQL Database for the DBA
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Azure
+Event Date: 09-05-2015 - Session time: 12:00:00 - Track: Azure
 ## Speaker: Gareth Swanepoel
 ## Title: A practical guide to Windows Azure SQL Database for the DBA
 ## Abstract:
@@ -247,7 +247,7 @@ If you are a production DBA and have contemplated one or more of these questions
 #### SessionID: 21588
 # Indexing your Data Warehouse
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting and Performance Tuning
+Event Date: 09-05-2015 - Session time: 12:00:00 - Track: DBA – Troubleshooting and Performance Tuning
 ## Speaker: Troy Gallant
 ## Title: Indexing your Data Warehouse
 ## Abstract:
@@ -256,7 +256,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting
 #### SessionID: 9594
 # Turbocharge Your Career With a Learning Plan
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Personal Development
+Event Date: 09-05-2015 - Session time: 12:00:00 - Track: Personal Development
 ## Speaker: Andy Warren
 ## Title: Turbocharge Your Career With a Learning Plan
 ## Abstract:
@@ -267,7 +267,7 @@ Once you’ve picked a topic, how do you learn more about it? Do you read blogs,
 #### SessionID: 9746
 # So you think MDX is hard?
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
+Event Date: 09-05-2015 - Session time: 12:00:00 - Track: Enterprise BI
 ## Speaker: Robert Cain
 ## Title: So you think MDX is hard?
 ## Abstract:
@@ -277,7 +277,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #### SessionID: 19007
 # Why I won't hire you and what you can do about it!
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Personal Development
+Event Date: 09-05-2015 - Session time: 13:15:00 - Track: Personal Development
 ## Speaker: Leigh Freijo
 ## Title: Why I won't hire you and what you can do about it!
 ## Abstract:
@@ -286,7 +286,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Personal Development
 #### SessionID: 20500
 # Calculated Columns, Measures, and KPIs, Oh My!
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
+Event Date: 09-05-2015 - Session time: 13:15:00 - Track: Self-Service BI
 ## Speaker: Michael Antonovich
 ## Title: Calculated Columns, Measures, and KPIs, Oh My!
 ## Abstract:
@@ -295,7 +295,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
 #### SessionID: 23158
 # Introduction To R
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Other
+Event Date: 09-05-2015 - Session time: 13:15:00 - Track: Other
 ## Speaker: Robert Biddle
 ## Title: Introduction To R
 ## Abstract:
@@ -306,7 +306,7 @@ In this session we'll explore the basics of the R language and review some examp
 #### SessionID: 23397
 # Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Development
+Event Date: 09-05-2015 - Session time: 13:15:00 - Track: DBA – Database Development
 ## Speaker: Rodney Landrum
 ## Title: Analytics and the DBA – Using BI Power tools to visualize your SQL Infrastructure
 ## Abstract:
@@ -315,7 +315,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Develo
 #### SessionID: 24926
 # Introduction to SQL Server Clustering
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting and Performance Tuning
+Event Date: 09-05-2015 - Session time: 13:15:00 - Track: DBA – Troubleshooting and Performance Tuning
 ## Speaker: Chad Churchwell
 ## Title: Introduction to SQL Server Clustering
 ## Abstract:
@@ -324,7 +324,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting
 #### SessionID: 27112
 # Smooth Data Moves
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
+Event Date: 09-05-2015 - Session time: 13:15:00 - Track: Enterprise BI
 ## Speaker: Tricia Reynolds
 ## Title: Smooth Data Moves
 ## Abstract:
@@ -333,7 +333,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
 #### SessionID: 28178
 # Analysis Services: Show Me Where It Hurts
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
+Event Date: 09-05-2015 - Session time: 13:15:00 - Track: Enterprise BI
 ## Speaker: Bill Anton
 ## Title: Analysis Services: Show Me Where It Hurts
 ## Abstract:
@@ -344,7 +344,7 @@ Join me in this "something-everyone-should-be-doing-but-isn't" session where we 
 #### SessionID: 14353
 # Poor Man's GIS using Tabular and Power View
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
+Event Date: 09-05-2015 - Session time: 14:45:00 - Track: Self-Service BI
 ## Speaker: Fred Stimler
 ## Title: Poor Man's GIS using Tabular and Power View
 ## Abstract:
@@ -353,7 +353,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Self-Service BI
 #### SessionID: 14511
 # Cloudy with a Chance of Data
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Azure
+Event Date: 09-05-2015 - Session time: 14:45:00 - Track: Azure
 ## Speaker: Geoff Hiten
 ## Title: Cloudy with a Chance of Data
 ## Abstract:
@@ -362,7 +362,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Azure
 #### SessionID: 15750
 # Query Tuning - Get it Right the First Time 
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting and Performance Tuning
+Event Date: 09-05-2015 - Session time: 14:45:00 - Track: DBA – Troubleshooting and Performance Tuning
 ## Speaker: Janis Griffin
 ## Title: Query Tuning - Get it Right the First Time 
 ## Abstract:
@@ -373,7 +373,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Troubleshooting
 #### SessionID: 16781
 # Launching your career in data management
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Personal Development
+Event Date: 09-05-2015 - Session time: 14:45:00 - Track: Personal Development
 ## Speaker: Jason Hall
 ## Title: Launching your career in data management
 ## Abstract:
@@ -390,7 +390,7 @@ We'll cover some real world basics to help get your foot in the door:
 #### SessionID: 17212
 # Continuous Delivery for Data Warehouses and Marts
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
+Event Date: 09-05-2015 - Session time: 14:45:00 - Track: Enterprise BI
 ## Speaker: John Welch
 ## Title: Continuous Delivery for Data Warehouses and Marts
 ## Abstract:
@@ -401,7 +401,7 @@ Most data warehouses are in a constant state of flux. There are new requirements
 #### SessionID: 20425
 # SQL Server 2014 In-Memory Programming
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Development
+Event Date: 09-05-2015 - Session time: 14:45:00 - Track: DBA – Database Development
 ## Speaker: miguel Cebollero
 ## Title: SQL Server 2014 In-Memory Programming
 ## Abstract:
@@ -410,7 +410,7 @@ Event Date: 09-05-2015 - Session time: 16:00:00 - Track: DBA – Database Develo
 #### SessionID: 24009
 # Tracking Usage of Analysis Services with SharePoint
 #### [Back to calendar](#nr-391)
-Event Date: 09-05-2015 - Session time: 16:00:00 - Track: Enterprise BI
+Event Date: 09-05-2015 - Session time: 14:45:00 - Track: Enterprise BI
 ## Speaker: Sukhmani Bains
 ## Title: Tracking Usage of Analysis Services with SharePoint
 ## Abstract:

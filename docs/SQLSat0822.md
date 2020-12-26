@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 86740
 # Test Driven Development in SQL Server – how to deploy code safer
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
+Event Date: 23-03-2019 - Session time: 08:30:00 - Track: Database Development
 ## Speaker: Hamish Watson
 ## Title: Test Driven Development in SQL Server – how to deploy code safer
 ## Abstract:
@@ -42,7 +42,7 @@ A comprehensive DEMO will reveal how Test Driven Development can help you deploy
 #### SessionID: 87192
 # Taming of the Shrew - Optimizing Power BI
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Business Intelligence/Machine Learning
+Event Date: 23-03-2019 - Session time: 08:30:00 - Track: Business Intelligence/Machine Learning
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Taming of the Shrew - Optimizing Power BI
 ## Abstract:
@@ -58,7 +58,7 @@ Understand when a problem is really a problem.
 #### SessionID: 87795
 # SQL 101: A Very Good Place To Start
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: SQL 101
+Event Date: 23-03-2019 - Session time: 08:30:00 - Track: SQL 101
 ## Speaker: josh smith
 ## Title: SQL 101: A Very Good Place To Start
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 23-03-2019 - Session time: 15:30:00 - Track: SQL 101
 #### SessionID: 87918
 # Introduction to Azure AI - The Art of the possible
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Business Intelligence/Machine Learning
+Event Date: 23-03-2019 - Session time: 08:30:00 - Track: Business Intelligence/Machine Learning
 ## Speaker: Melody Zacharias
 ## Title: Introduction to Azure AI - The Art of the possible
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Business Intelligence/M
 #### SessionID: 86396
 # 2,4,8  16 - Visualise your data platform upgrade journey with SQL Server
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 23-03-2019 - Session time: 10:15:00 - Track: Database Administration
 ## Speaker: Satya Jayanty
 ## Title: 2,4,8  16 - Visualise your data platform upgrade journey with SQL Server
 ## Abstract:
@@ -95,7 +95,7 @@ We will cover the an end-to-end upgrade cycle, including the preparation tasks, 
 #### SessionID: 86535
 # Data Cleansing With SQL And R
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
+Event Date: 23-03-2019 - Session time: 10:15:00 - Track: Database Development
 ## Speaker: Kevin Feasel
 ## Title: Data Cleansing With SQL And R
 ## Abstract:
@@ -104,7 +104,7 @@ Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
 #### SessionID: 87093
 # DevOps 101 for Data People
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: DevOps/DataOps
+Event Date: 23-03-2019 - Session time: 10:15:00 - Track: DevOps/DataOps
 ## Speaker: Alex Yates
 ## Title: DevOps 101 for Data People
 ## Abstract:
@@ -119,7 +119,7 @@ In this interactive talk I'll explain what DevOps is, where it came from, and it
 #### SessionID: 88514
 # SQL Server  Containers
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 23-03-2019 - Session time: 10:15:00 - Track: Database Administration
 ## Speaker: Andrew Pruski
 ## Title: SQL Server  Containers
 ## Abstract:
@@ -139,7 +139,7 @@ A real world implementation of containers
 #### SessionID: 86970
 # CosmosDB - Understanding the main factors for successfull deployment
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
+Event Date: 23-03-2019 - Session time: 12:30:00 - Track: Database Development
 ## Speaker: Armando Lacerda
 ## Title: CosmosDB - Understanding the main factors for successfull deployment
 ## Abstract:
@@ -149,7 +149,7 @@ In this session packed with demos you will see how to cross the bridge between S
 #### SessionID: 88061
 # Administrating SQL Server with PowerShell dbatools
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Administration
+Event Date: 23-03-2019 - Session time: 12:30:00 - Track: Database Administration
 ## Speaker: Rob Sewell
 ## Title: Administrating SQL Server with PowerShell dbatools
 ## Abstract:
@@ -170,7 +170,7 @@ All this in a fast paced, fun session
 #### SessionID: 88476
 # Be Friendly to SQL Server with TSQL Best Practices
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
+Event Date: 23-03-2019 - Session time: 12:30:00 - Track: Database Development
 ## Speaker: Ben Miller
 ## Title: Be Friendly to SQL Server with TSQL Best Practices
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
 #### SessionID: 89121
 # Why Solidity is Solid – Basics of Ethereum, Smart Contracts, and Blockchain.
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Business Intelligence/Machine Learning
+Event Date: 23-03-2019 - Session time: 12:30:00 - Track: Business Intelligence/Machine Learning
 ## Speaker: Swagatika Sarangi
 ## Title: Why Solidity is Solid – Basics of Ethereum, Smart Contracts, and Blockchain.
 ## Abstract:
@@ -194,7 +194,7 @@ Topics that I will cover in this session –
 #### SessionID: 86688
 # Demystifying Chart Types and Report Design Principles in Power BI
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Business Intelligence/Machine Learning
+Event Date: 23-03-2019 - Session time: 14:00:00 - Track: Business Intelligence/Machine Learning
 ## Speaker: Reid Havens
 ## Title: Demystifying Chart Types and Report Design Principles in Power BI
 ## Abstract:
@@ -203,7 +203,7 @@ Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Business Intelligence/M
 #### SessionID: 87210
 # Don't Use Cursors or Why You Maybe Should Use a Cursor After All
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
+Event Date: 23-03-2019 - Session time: 14:00:00 - Track: Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Don't Use Cursors or Why You Maybe Should Use a Cursor After All
 ## Abstract:
@@ -212,7 +212,7 @@ Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
 #### SessionID: 89692
 # Antipattern Assumptions in Data
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: DevOps/DataOps
+Event Date: 23-03-2019 - Session time: 14:00:00 - Track: DevOps/DataOps
 ## Speaker: Rebecca Long
 ## Title: Antipattern Assumptions in Data
 ## Abstract:
@@ -221,7 +221,7 @@ Event Date: 23-03-2019 - Session time: 15:30:00 - Track: DevOps/DataOps
 #### SessionID: 90611
 # Continuously Deploy Azure Analytics Solutions using Azure DevOps
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: DevOps/DataOps
+Event Date: 23-03-2019 - Session time: 14:00:00 - Track: DevOps/DataOps
 ## Speaker: Philip Spokas
 ## Title: Continuously Deploy Azure Analytics Solutions using Azure DevOps
 ## Abstract:
@@ -238,7 +238,7 @@ We'll cover practices required including configuration and testing to insure suc
 #### SessionID: 87110
 # TSQL User Defined Functions – Taboo or not?
 #### [Back to calendar](#nr-822)
-Event Date: 23-03-2019 - Session time: 15:30:00 - Track: Database Development
+Event Date: 23-03-2019 - Session time: 14:30:00 - Track: Database Development
 ## Speaker: Steve Stedman
 ## Title: TSQL User Defined Functions – Taboo or not?
 ## Abstract:

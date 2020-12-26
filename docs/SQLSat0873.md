@@ -16,7 +16,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 90572
 # A Masters view on Locking and blocking
 #### [Back to calendar](#nr-873)
-Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-06-2019 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mikael Wedham
 ## Title: A Masters view on Locking and blocking
 ## Abstract:
@@ -28,7 +28,7 @@ And finally a real-world quick list of suggestions on what you can do to solve s
 #### SessionID: 94210
 # Power BI as a universal analytic tool 1/2
 #### [Back to calendar](#nr-873)
-Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 08-06-2019 - Session time: 09:15:00 - Track: Analytics and Visualization
 ## Speaker: Michal Chmelár
 ## Title: Power BI as a universal analytic tool 1/2
 ## Abstract:
@@ -37,7 +37,7 @@ Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 92006
 # Advanced data types – JSON
 #### [Back to calendar](#nr-873)
-Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 08-06-2019 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Damir Matesic
 ## Title: Advanced data types – JSON
 ## Abstract:
@@ -51,7 +51,7 @@ Main topics:
 #### SessionID: 94211
 # Power BI as a universal analytic tool 2/2
 #### [Back to calendar](#nr-873)
-Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 08-06-2019 - Session time: 10:30:00 - Track: Analytics and Visualization
 ## Speaker: Michal Chmelár
 ## Title: Power BI as a universal analytic tool 2/2
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 92774
 # Power BI loves AI and Azure AI Services
 #### [Back to calendar](#nr-873)
-Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 08-06-2019 - Session time: 11:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Gergely Csom
 ## Title: Power BI loves AI and Azure AI Services
 ## Abstract:
@@ -71,7 +71,7 @@ In the second part of the presentation we will overview and try Microsoft's rece
 #### SessionID: 93352
 # How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?
 #### [Back to calendar](#nr-873)
-Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-06-2019 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Aleksandar Talev
 ## Title: How to choose the right data model: SQL Server or Azure Cosmos DB. Which, When and Where ?
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 90567
 # SQL Server Big Data Clusters
 #### [Back to calendar](#nr-873)
-Event Date: 08-06-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-06-2019 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marek Chmel
 ## Title: SQL Server Big Data Clusters
 ## Abstract:

@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 63421
 # Welcome note - Room 1
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Information Delivery
+Event Date: 18-03-2017 - Session time: 09:00:00 - Track: Information Delivery
 ## Speaker: Goran Milanov
 ## Title: Welcome note - Room 1
 ## Abstract:
@@ -35,7 +35,7 @@ Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Information Delivery
 #### SessionID: 63422
 # Welcome note - Room 2
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Information Delivery
+Event Date: 18-03-2017 - Session time: 09:00:00 - Track: Information Delivery
 ## Speaker: Vladimir Markovic
 ## Title: Welcome note - Room 2
 ## Abstract:
@@ -44,7 +44,7 @@ Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Information Delivery
 #### SessionID: 63423
 # Welcome note - Room 3
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Information Delivery
+Event Date: 18-03-2017 - Session time: 09:00:00 - Track: Information Delivery
 ## Speaker: Dejan Pervulov
 ## Title: Welcome note - Room 3
 ## Abstract:
@@ -53,7 +53,7 @@ Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Information Delivery
 #### SessionID: 59397
 # SSAS Query Performance Tuning
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-03-2017 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Zoltán Horváth
 ## Title: SSAS Query Performance Tuning
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 18-03-2017 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 61703
 # What is new in SQL Server 2016 Availability Group [EN]
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-03-2017 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janos Berke
 ## Title: What is new in SQL Server 2016 Availability Group [EN]
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 62571
 # Achieve great performance with Azure SQL Database using built-in intelligence
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 18-03-2017 - Session time: 09:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Veljko Vasic
 ## Title: Achieve great performance with Azure SQL Database using built-in intelligence
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Cloud Application Devel
 #### SessionID: 56945
 # Problem Solving With The In-Memory Engine
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-03-2017 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christopher Adkin
 ## Title: Problem Solving With The In-Memory Engine
 ## Abstract:
@@ -95,7 +95,7 @@ Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 61738
 # Big data solutions on Microsoft Azure
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Analytics and Visualization
+Event Date: 18-03-2017 - Session time: 10:30:00 - Track: Analytics and Visualization
 ## Speaker: Maja Damjanic
 ## Title: Big data solutions on Microsoft Azure
 ## Abstract:
@@ -104,7 +104,7 @@ Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #### SessionID: 56914
 # High-Performance Statistical Queries
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-03-2017 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dejan Sarka
 ## Title: High-Performance Statistical Queries
 ## Abstract:
@@ -113,7 +113,7 @@ Event Date: 18-03-2017 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 61150
 # SQL database on IoT devices, could you? should you? would you?
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 18-03-2017 - Session time: 11:45:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: SQL database on IoT devices, could you? should you? would you?
 ## Abstract:
@@ -124,7 +124,7 @@ How does all fit with the field gateway concept?  During the presentation, we wi
 #### SessionID: 61740
 # SQL Server and JSON in real applications
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 18-03-2017 - Session time: 11:45:00 - Track: Application  Database Development
 ## Speaker: Jovan Popovic
 ## Title: SQL Server and JSON in real applications
 ## Abstract:
@@ -134,7 +134,7 @@ In this session, we will see how you can combine relational data and JSON, query
 #### SessionID: 58059
 # Microsoft Azure Machine Learning Algorithms
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Analytics and Visualization
+Event Date: 18-03-2017 - Session time: 13:45:00 - Track: Analytics and Visualization
 ## Speaker: Tomaž Kaštrun
 ## Title: Microsoft Azure Machine Learning Algorithms
 ## Abstract:
@@ -145,7 +145,7 @@ Focus on this session will be mathematical and graphical explanation of algorith
 #### SessionID: 62435
 # Columnstore Index Internals
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 18-03-2017 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Milos Todic
 ## Title: Columnstore Index Internals
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 63099
 # Row-level security
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-03-2017 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dragoslav Ogar
 ## Title: Row-level security
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 57938
 # Think  work like a Data Scientist with SQL 2016 R
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Analytics and Visualization
+Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Think  work like a Data Scientist with SQL 2016 R
 ## Abstract:
@@ -176,7 +176,7 @@ In this session, you will definitely take away a breakthrough concept of Advance
 #### SessionID: 59303
 # Call 555 - 333 for Query Store
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Miloš Radivojević
 ## Title: Call 555 - 333 for Query Store
 ## Abstract:
@@ -185,7 +185,7 @@ Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 62507
 # Spatial Analytics with SQL Server 2016 and Azure SQL Database
 #### [Back to calendar](#nr-601)
-Event Date: 18-03-2017 - Session time: 16:15:00 - Track: Analytics and Visualization
+Event Date: 18-03-2017 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Mladen Andzic
 ## Title: Spatial Analytics with SQL Server 2016 and Azure SQL Database
 ## Abstract:

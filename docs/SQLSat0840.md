@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 87381
 # Educating yourself will make a SQL career more fulfilling
 #### [Back to calendar](#nr-840)
-Event Date: 27-04-2019 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 27-04-2019 - Session time: 09:30:00 - Track: Professional Development
 ## Speaker: Chris Wood
 ## Title: Educating yourself will make a SQL career more fulfilling
 ## Abstract:
@@ -40,7 +40,7 @@ It will also show how to make any conference more affordable and justify the ben
 #### SessionID: 88817
 # Introduction to Linux for SQL Server
 #### [Back to calendar](#nr-840)
-Event Date: 27-04-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-04-2019 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jay Falck
 ## Title: Introduction to Linux for SQL Server
 ## Abstract:
@@ -49,7 +49,7 @@ Event Date: 27-04-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 89520
 # Conan the Librarian: "Put your data sources into Azure Data Catalog, or ELSE!"
 #### [Back to calendar](#nr-840)
-Event Date: 27-04-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-04-2019 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mike Diehl
 ## Title: Conan the Librarian: "Put your data sources into Azure Data Catalog, or ELSE!"
 ## Abstract:
@@ -60,7 +60,7 @@ We'll cover the basics of Azure Data Catalog - registering data sources, adding 
 #### SessionID: 90427
 # Weird Stuff I Saw While ... Working With Heaps
 #### [Back to calendar](#nr-840)
-Event Date: 27-04-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 27-04-2019 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Weird Stuff I Saw While ... Working With Heaps
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 27-04-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 88444
 # Managing and monitoring SQL Server on Linux from the command line
 #### [Back to calendar](#nr-840)
-Event Date: 27-04-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-04-2019 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Randolph West
 ## Title: Managing and monitoring SQL Server on Linux from the command line
 ## Abstract:
@@ -82,7 +82,7 @@ This session will cover mssql-conf (for configuring the server instance), mssql-
 #### SessionID: 90086
 # Create a Time Travelling Database
 #### [Back to calendar](#nr-840)
-Event Date: 27-04-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 27-04-2019 - Session time: 10:45:00 - Track: Strategy and Architecture
 ## Speaker: Chris C
 ## Title: Create a Time Travelling Database
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 27-04-2019 - Session time: 15:30:00 - Track: Strategy and Architectu
 #### SessionID: 90609
 # Columnstore Index Primer
 #### [Back to calendar](#nr-840)
-Event Date: 27-04-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-04-2019 - Session time: 10:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sepand Gojgini
 ## Title: Columnstore Index Primer
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 27-04-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 90629
 # Data Security - Everyone likes a parfait!
 #### [Back to calendar](#nr-840)
-Event Date: 27-04-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-04-2019 - Session time: 10:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christopher Docherty
 ## Title: Data Security - Everyone likes a parfait!
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 27-04-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 89843
 # Building a Modern Cloud Data Warehouse
 #### [Back to calendar](#nr-840)
-Event Date: 27-04-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-04-2019 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dmitry Anoshin
 ## Title: Building a Modern Cloud Data Warehouse
 ## Abstract:
@@ -127,7 +127,7 @@ This talk will help you understand the potential of Azure Cloud Analytics and le
 #### SessionID: 90425
 # Why should I care about ... the plan cache?
 #### [Back to calendar](#nr-840)
-Event Date: 27-04-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-04-2019 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
 ## Abstract:
@@ -138,7 +138,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #### SessionID: 90919
 # Setting up a test lab with Hyper-V
 #### [Back to calendar](#nr-840)
-Event Date: 27-04-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 27-04-2019 - Session time: 13:00:00 - Track: Strategy and Architecture
 ## Speaker: Jay Falck
 ## Title: Setting up a test lab with Hyper-V
 ## Abstract:
@@ -147,7 +147,7 @@ Event Date: 27-04-2019 - Session time: 15:30:00 - Track: Strategy and Architectu
 #### SessionID: 91597
 # Generate Data with Google Analytics
 #### [Back to calendar](#nr-840)
-Event Date: 27-04-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 27-04-2019 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Sam Hamilton
 ## Title: Generate Data with Google Analytics
 ## Abstract:
@@ -156,7 +156,7 @@ Event Date: 27-04-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 89518
 # Untangling the spaghetti: Patterns and Anti-Patterns in SQL and ETL development
 #### [Back to calendar](#nr-840)
-Event Date: 27-04-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 27-04-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Mike Diehl
 ## Title: Untangling the spaghetti: Patterns and Anti-Patterns in SQL and ETL development
 ## Abstract:
@@ -166,7 +166,7 @@ In this session I will show the most grievous bad practices, what sorts of probl
 #### SessionID: 90626
 # Architecture for AGILE and DevOps
 #### [Back to calendar](#nr-840)
-Event Date: 27-04-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-04-2019 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christopher Docherty
 ## Title: Architecture for AGILE and DevOps
 ## Abstract:
@@ -176,7 +176,7 @@ In this talk we will discuss how we can set ourselves up for success with an AGI
 #### SessionID: 91185
 # Learn 4 key features of SQL Server 2019 part 1
 #### [Back to calendar](#nr-840)
-Event Date: 27-04-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-04-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Randolph West
 ## Title: Learn 4 key features of SQL Server 2019 part 1
 ## Abstract:
@@ -185,7 +185,7 @@ Event Date: 27-04-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 91208
 # Service Broker - for Good and ETL
 #### [Back to calendar](#nr-840)
-Event Date: 27-04-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-04-2019 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Gale
 ## Title: Service Broker - for Good and ETL
 ## Abstract:

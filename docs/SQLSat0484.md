@@ -63,7 +63,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 41297
 # Turbo-Charged Transaction Logs
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Turbo-Charged Transaction Logs
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 41381
 # Profiler is Dead! Long Live Extended Events!
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Keith Tate
 ## Title: Profiler is Dead! Long Live Extended Events!
 ## Abstract:
@@ -84,7 +84,7 @@ Profiler was a friend of mine, but it is time to embrace the new king!
 #### SessionID: 41406
 # What's New in SQL Server 2016
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ross LoForte
 ## Title: What's New in SQL Server 2016
 ## Abstract:
@@ -94,7 +94,7 @@ SQL Server 2016 delivers breakthrough mission-critical capabilities with in-memo
 #### SessionID: 41427
 # How to collect a baseline on all your servers and still get a good night's sleep.
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Dorame
 ## Title: How to collect a baseline on all your servers and still get a good night's sleep.
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 41572
 # Encrypting Data within Sql Server
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-03-2016 - Session time: 08:15:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within Sql Server
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 42848
 # Infrastructure for the DBA: An Introduction
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: Infrastructure for the DBA: An Introduction
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 44671
 # SSAS:  What is it and How do I get started using it
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-03-2016 - Session time: 08:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dave Bland
 ## Title: SSAS:  What is it and How do I get started using it
 ## Abstract:
@@ -130,7 +130,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 46431
 # What is a Latch, and Why Do I Care?
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eddie Wuerch
 ## Title: What is a Latch, and Why Do I Care?
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 41290
 # Licensing Simplified: AlwaysOn, Virtualization, and More
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 05-03-2016 - Session time: 09:30:00 - Track: Strategy and Architecture
 ## Speaker: Brent Ozar
 ## Title: Licensing Simplified: AlwaysOn, Virtualization, and More
 ## Abstract:
@@ -148,7 +148,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 41379
 # Introduction to Window Functions
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-03-2016 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: Introduction to Window Functions
 ## Abstract:
@@ -159,7 +159,7 @@ This session will teach you how to avoid cursor solutions, and create simpler co
 #### SessionID: 41413
 # Continuous Deployments using SSDT
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-03-2016 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Christopher Wolff
 ## Title: Continuous Deployments using SSDT
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 41636
 # Scripting out SQL Server for Documentation and Disaster Recovery
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Scripting out SQL Server for Documentation and Disaster Recovery
 ## Abstract:
@@ -179,7 +179,7 @@ By Learning a little Powershell, we will script out an organized set of files th
 #### SessionID: 42241
 # SQL Server and PowerShell: Let's Get Serious
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 44232
 # Biml for Beginners: Speed up your SSIS development
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-03-2016 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Biml for Beginners: Speed up your SSIS development
 ## Abstract:
@@ -201,7 +201,7 @@ Speed up your SSIS development by using Biml and BimlScript, and see how you can
 #### SessionID: 44572
 # Monster Text Manipulation: Regular Expressions for the DBA
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 44922
 # Anatomy of an Optimizer
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Luke Jian
 ## Title: Anatomy of an Optimizer
 ## Abstract:
@@ -225,7 +225,7 @@ We explain why query optimization complexity increases exponentially with the nu
 #### SessionID: 41313
 # Effective Data Visualization: The Ideas of Edward Tufte
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 05-03-2016 - Session time: 10:45:00 - Track: BI Information Delivery
 ## Speaker: David Giard
 ## Title: Effective Data Visualization: The Ideas of Edward Tufte
 ## Abstract:
@@ -237,7 +237,7 @@ In this session, I will explain some of Tufte's most important guidelines about 
 #### SessionID: 41334
 # Data Pages, Allocation Units, IAM chains... Oh My!
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Leach
 ## Title: Data Pages, Allocation Units, IAM chains... Oh My!
 ## Abstract:
@@ -248,7 +248,7 @@ We’ll start off by looking at the structure of a row and then move on the conc
 #### SessionID: 41825
 # Context  Calculation, Back to the Basics with DAX
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 05-03-2016 - Session time: 10:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Austin Senseman
 ## Title: Context  Calculation, Back to the Basics with DAX
 ## Abstract:
@@ -259,7 +259,7 @@ This session is for the intermediate DAX user who has produced some quality data
 #### SessionID: 42079
 # Lock, Block and Two Smoking Barrels
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-03-2016 - Session time: 10:45:00 - Track: Application  Database Development
 ## Speaker: Mark Broadbent
 ## Title: Lock, Block and Two Smoking Barrels
 ## Abstract:
@@ -271,7 +271,7 @@ Let’s take a long look into the world of SQL Server concurrency and investigat
 #### SessionID: 42441
 # Top 10 Clustering Dos and Don'ts
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allan Hirt
 ## Title: Top 10 Clustering Dos and Don'ts
 ## Abstract:
@@ -280,7 +280,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 42676
 # Analyze your query plan like a Microsoft Engineer!
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 05-03-2016 - Session time: 10:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Janik
 ## Title: Analyze your query plan like a Microsoft Engineer!
 ## Abstract:
@@ -289,7 +289,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 44533
 # Data Architecture 101
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-03-2016 - Session time: 10:45:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: Data Architecture 101
 ## Abstract:
@@ -303,7 +303,7 @@ This presentation is a survey of Data Architecture for the Intermediate DBA, it 
 #### SessionID: 44912
 # Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: Dammit Jim! Dr McCoy’s Field Guide to system_health (and the default trace)
 ## Abstract:
@@ -312,7 +312,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 44253
 # Big Data in the Modern Data Warehouse
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-03-2016 - Session time: 12:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Fred Bliss
 ## Title: Big Data in the Modern Data Warehouse
 ## Abstract:
@@ -323,7 +323,7 @@ This session aims to define big data from the perspective of the enterprise data
 #### SessionID: 44564
 # Effortless Backups with Minion Backup
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 12:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jennifer McCown
 ## Title: Effortless Backups with Minion Backup
 ## Abstract:
@@ -332,7 +332,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 44787
 # Be a Role Model for Women in Tech through Blogging
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 05-03-2016 - Session time: 12:10:00 - Track: Professional Development
 ## Speaker: Mickey Stuewe
 ## Title: Be a Role Model for Women in Tech through Blogging
 ## Abstract:
@@ -341,7 +341,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 46657
 # Are You Optimistic About Concurrency?
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 12:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kalen Delaney
 ## Title: Are You Optimistic About Concurrency?
 ## Abstract:
@@ -350,7 +350,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 47019
 # IO Whack-a-Mole
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 12:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christopher Slater
 ## Title: IO Whack-a-Mole
 ## Abstract:
@@ -359,7 +359,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 47293
 # Transform Database Agility with XtremIO -- EMC Sponsored Session
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 05-03-2016 - Session time: 12:10:00 - Track: Strategy and Architecture
 ## Speaker: Wendy Pastrick
 ## Title: Transform Database Agility with XtremIO -- EMC Sponsored Session
 ## Abstract:
@@ -368,7 +368,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 47294
 # DELL Sponsored Session - David Swanson
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Other
+Event Date: 05-03-2016 - Session time: 12:10:00 - Track: Other
 ## Speaker: Wendy Pastrick
 ## Title: DELL Sponsored Session - David Swanson
 ## Abstract:
@@ -377,7 +377,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Other
 #### SessionID: 47586
 # Workload Replay: Synthetic vs Real-World Benchmarking
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 12:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: Workload Replay: Synthetic vs Real-World Benchmarking
 ## Abstract:
@@ -387,7 +387,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 41309
 # What is your Character Data Type?
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-03-2016 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: What is your Character Data Type?
 ## Abstract:
@@ -396,7 +396,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 41891
 # Wish you could live the glamorous consulting life?
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Other
+Event Date: 05-03-2016 - Session time: 13:15:00 - Track: Other
 ## Speaker: Juan Soto
 ## Title: Wish you could live the glamorous consulting life?
 ## Abstract:
@@ -408,7 +408,7 @@ In this session you will learn sales, marketing and management strategies to get
 #### SessionID: 42879
 # Spatial Data - Looking Outside the Map
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 05-03-2016 - Session time: 13:15:00 - Track: Analytics and Visualization
 ## Speaker: Hope Foley
 ## Title: Spatial Data - Looking Outside the Map
 ## Abstract:
@@ -417,7 +417,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 44514
 # Azure SQL Database for the Earthed DBA
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 05-03-2016 - Session time: 13:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Grant Fritchey
 ## Title: Azure SQL Database for the Earthed DBA
 ## Abstract:
@@ -426,7 +426,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 44720
 # Common TSQL Mistakes
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-03-2016 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
 ## Abstract:
@@ -435,7 +435,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 44855
 # Performance Monitoring AlwaysOn Availability Groups
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: Performance Monitoring AlwaysOn Availability Groups
 ## Abstract:
@@ -445,7 +445,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 44873
 # Making the Leap from Developer to DBA
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 05-03-2016 - Session time: 13:15:00 - Track: Professional Development
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
 ## Abstract:
@@ -454,7 +454,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 46616
 # Reporting Services 2016 Solutions: The New Awesome
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 05-03-2016 - Session time: 13:15:00 - Track: BI Information Delivery
 ## Speaker: Paul Turley
 ## Title: Reporting Services 2016 Solutions: The New Awesome
 ## Abstract:
@@ -463,7 +463,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 41972
 # Big Data in the Cloud - An Intro to HDInsight and Microsoft Azure
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 05-03-2016 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Josh Fennessy
 ## Title: Big Data in the Cloud - An Intro to HDInsight and Microsoft Azure
 ## Abstract:
@@ -476,7 +476,7 @@ During this session, we'll start with a brief overview of Hadoop and HDFS. Next 
 #### SessionID: 42535
 # Designing SQL Server HA/DR Infrastructure to meet the SLA
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: Designing SQL Server HA/DR Infrastructure to meet the SLA
 ## Abstract:
@@ -487,7 +487,7 @@ For each one of the solutions we discuss we will define a series of failure mode
 #### SessionID: 42636
 # Virtual SQL Servers, Actual Performance
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Virtual SQL Servers, Actual Performance
 ## Abstract:
@@ -498,7 +498,7 @@ This session is packed with many tips and tricks for getting the most performanc
 #### SessionID: 43015
 # Dimensional Modeling Design Patterns: Beyond Basics
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-03-2016 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond Basics
 ## Abstract:
@@ -516,7 +516,7 @@ the art of dimensional modeling. We will look at the different types of fact tab
 #### SessionID: 43025
 # Shortcuts from an Impatient DBA
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 05-03-2016 - Session time: 14:30:00 - Track: Professional Development
 ## Speaker: Andy Mallon
 ## Title: Shortcuts from an Impatient DBA
 ## Abstract:
@@ -529,7 +529,7 @@ We spend a lot of time thinking about how to write efficient code, but we don't 
 #### SessionID: 44746
 # Tame Your Unruly Data...With Constraints!
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 05-03-2016 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data...With Constraints!
 ## Abstract:
@@ -538,7 +538,7 @@ Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 44794
 # "R" You Ready For SQL 2016?
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 05-03-2016 - Session time: 14:30:00 - Track: Analytics and Visualization
 ## Speaker: John Pertell
 ## Title: "R" You Ready For SQL 2016?
 ## Abstract:
@@ -549,7 +549,7 @@ In this beginner session we will look at how to set up R on your SQL instance. W
 #### SessionID: 45666
 # Intro to Monitoring I/O: The Counters That Count
 #### [Back to calendar](#nr-484)
-Event Date: 05-03-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-03-2016 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: J May
 ## Title: Intro to Monitoring I/O: The Counters That Count
 ## Abstract:

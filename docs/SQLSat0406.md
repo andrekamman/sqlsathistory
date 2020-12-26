@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 13107
 # Hidden gems of SQL Server 2014
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
+Event Date: 19-09-2015 - Session time: 00:00:00 - Track: Database development
 ## Speaker: Denis Reznik
 ## Title: Hidden gems of SQL Server 2014
 ## Abstract:
@@ -37,7 +37,7 @@ Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
 #### SessionID: 37761
 # Tabular  SSAS -  очень быстрая аналитика
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: BIPrograming
+Event Date: 19-09-2015 - Session time: 10:30:00 - Track: BIPrograming
 ## Speaker: Eugene Polonichko
 ## Title: Tabular  SSAS -  очень быстрая аналитика
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 19-09-2015 - Session time: 15:45:00 - Track: BIPrograming
 #### SessionID: 38614
 # HDInsight: Big Data solutions on Microsoft Azure
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: BIPrograming
+Event Date: 19-09-2015 - Session time: 10:30:00 - Track: BIPrograming
 ## Speaker: Vitalii Bondarenko
 ## Title: HDInsight: Big Data solutions on Microsoft Azure
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 19-09-2015 - Session time: 15:45:00 - Track: BIPrograming
 #### SessionID: 39093
 # Case study on real test data generation for web application
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
+Event Date: 19-09-2015 - Session time: 10:30:00 - Track: Database development
 ## Speaker: Andrey Langovoy
 ## Title: Case study on real test data generation for web application
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
 #### SessionID: 40511
 # T-SQL Cookbook: TipsTricks
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
+Event Date: 19-09-2015 - Session time: 10:30:00 - Track: Database development
 ## Speaker: Olena Smoliak
 ## Title: T-SQL Cookbook: TipsTricks
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
 #### SessionID: 13106
 # SQL vs. NoSQL. It's always a hard choice.
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
+Event Date: 19-09-2015 - Session time: 11:45:00 - Track: Database development
 ## Speaker: Denis Reznik
 ## Title: SQL vs. NoSQL. It's always a hard choice.
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
 #### SessionID: 39123
 # Introduction to Datazen: it's all about Zen
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: BIPrograming
+Event Date: 19-09-2015 - Session time: 11:45:00 - Track: BIPrograming
 ## Speaker: Yan Roginevich
 ## Title: Introduction to Datazen: it's all about Zen
 ## Abstract:
@@ -93,7 +93,7 @@ During the session we will go through the product basics and of course do some d
 #### SessionID: 39755
 # Think Connected – Modern IoT Solutions with Microsoft Azure
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: BIPrograming
+Event Date: 19-09-2015 - Session time: 11:45:00 - Track: BIPrograming
 ## Speaker: Mihail Mateev
 ## Title: Think Connected – Modern IoT Solutions with Microsoft Azure
 ## Abstract:
@@ -103,7 +103,7 @@ This talk is about the main business cases and main architectural challenges, re
 #### SessionID: 39860
 # Создание аналитических приложений с использованием PowerQuery
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: BIPrograming
+Event Date: 19-09-2015 - Session time: 11:45:00 - Track: BIPrograming
 ## Speaker: Sergiy Lunyakin
 ## Title: Создание аналитических приложений с использованием PowerQuery
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 19-09-2015 - Session time: 15:45:00 - Track: BIPrograming
 #### SessionID: 39155
 # SQL 2014. InMemory OLTP
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database administration
+Event Date: 19-09-2015 - Session time: 13:00:00 - Track: Database administration
 ## Speaker: Oleg Alekseev
 ## Title: SQL 2014. InMemory OLTP
 ## Abstract:
@@ -131,7 +131,7 @@ Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database administration
 #### SessionID: 39474
 # “Magic numbers”, local variable and performance
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
+Event Date: 19-09-2015 - Session time: 13:00:00 - Track: Database development
 ## Speaker: Andrii Zrobok
 ## Title: “Magic numbers”, local variable and performance
 ## Abstract:
@@ -140,7 +140,7 @@ Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
 #### SessionID: 40542
 # SQL Server 2016 and new possibilities to unlock insights of any data
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: BIPrograming
+Event Date: 19-09-2015 - Session time: 13:00:00 - Track: BIPrograming
 ## Speaker: Valentyn Yeliseyev
 ## Title: SQL Server 2016 and new possibilities to unlock insights of any data
 ## Abstract:
@@ -149,7 +149,7 @@ Event Date: 19-09-2015 - Session time: 15:45:00 - Track: BIPrograming
 #### SessionID: 40547
 # Key-Range Locking — Все тайное становится явным
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
+Event Date: 19-09-2015 - Session time: 13:00:00 - Track: Database development
 ## Speaker: Vitaliy Popovych
 ## Title: Key-Range Locking — Все тайное становится явным
 ## Abstract:
@@ -158,7 +158,7 @@ Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
 #### SessionID: 38526
 # Unit Testing SQL Server
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
+Event Date: 19-09-2015 - Session time: 14:30:00 - Track: Database development
 ## Speaker: Kevin Boles
 ## Title: Unit Testing SQL Server
 ## Abstract:
@@ -167,7 +167,7 @@ Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
 #### SessionID: 40512
 # Introduction to columnstore
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
+Event Date: 19-09-2015 - Session time: 14:30:00 - Track: Database development
 ## Speaker: Taras Bobrovytskyi
 ## Title: Introduction to columnstore
 ## Abstract:
@@ -179,7 +179,7 @@ At the end it covers the introduction to Vertipaq encoding
 #### SessionID: 40535
 # Database Normalization - back to basics
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
+Event Date: 19-09-2015 - Session time: 14:30:00 - Track: Database development
 ## Speaker: Mariya Shirokopetleva
 ## Title: Database Normalization - back to basics
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database development
 #### SessionID: 40573
 # SQL Server Security Best Practices
 #### [Back to calendar](#nr-406)
-Event Date: 19-09-2015 - Session time: 15:45:00 - Track: Database administration
+Event Date: 19-09-2015 - Session time: 14:30:00 - Track: Database administration
 ## Speaker: Yevhen Nedashkivskyi
 ## Title: SQL Server Security Best Practices
 ## Abstract:

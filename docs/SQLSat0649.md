@@ -55,7 +55,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 63438
 # Intro to MongoDB for SQL DBAs
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-08-2017 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ahmad Drshen
 ## Title: Intro to MongoDB for SQL DBAs
 ## Abstract:
@@ -65,7 +65,7 @@ This presentation will introduce MongoDB, provide a brief overview of the NOSQL 
 #### SessionID: 64136
 # Enabling EDW and BI workloads on Hadoop with Hive / LLAP
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 12-08-2017 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Luis Figueroa
 ## Title: Enabling EDW and BI workloads on Hadoop with Hive / LLAP
 ## Abstract:
@@ -75,7 +75,7 @@ In this session, Luis Figueroa (Solutions Engineer @ Hortonworks) will walk you 
 #### SessionID: 66812
 # Data Driven Digital Transformation
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Strategy and Architecture
+Event Date: 12-08-2017 - Session time: 09:00:00 - Track: Strategy and Architecture
 ## Speaker: Adam Jorgensen
 ## Title: Data Driven Digital Transformation
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Strategy and Architectu
 #### SessionID: 67177
 # Migrate your enterprise reporting into Power BI: process canvas, pitfalls  best practices
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 12-08-2017 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Taras Kaduk
 ## Title: Migrate your enterprise reporting into Power BI: process canvas, pitfalls  best practices
 ## Abstract:
@@ -98,7 +98,7 @@ Some of the topics include:
 #### SessionID: 67299
 # How to be a Great DBA
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 12-08-2017 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Valentin Iamandi
 ## Title: How to be a Great DBA
 ## Abstract:
@@ -112,7 +112,7 @@ Promote = Share your knowledge, create on the side projects
 #### SessionID: 67349
 # Database Security Permissions ( you don't need to grant SA )
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-08-2017 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Scott Gleason
 ## Title: Database Security Permissions ( you don't need to grant SA )
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 68378
 # Kids Camp
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Other
+Event Date: 12-08-2017 - Session time: 09:00:00 - Track: Other
 ## Speaker: Eric Wisdahl
 ## Title: Kids Camp
 ## Abstract:
@@ -130,7 +130,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Other
 #### SessionID: 68551
 # Working with SQL Server for Linux Cross-Platform
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-08-2017 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Maximo Trinidad
 ## Title: Working with SQL Server for Linux Cross-Platform
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 63247
 # How To Tune A Multi-Terabyte Database For Optimum Performance.
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-08-2017 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Taylor
 ## Title: How To Tune A Multi-Terabyte Database For Optimum Performance.
 ## Abstract:
@@ -148,7 +148,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 64152
 # Deploying SQL 2016 with PowerShell DSC
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-08-2017 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joshua Corrick
 ## Title: Deploying SQL 2016 with PowerShell DSC
 ## Abstract:
@@ -157,7 +157,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 64614
 # 100% Chance of Clouds – Migrating to Azure SQL DB
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 12-08-2017 - Session time: 10:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bob Rubocki
 ## Title: 100% Chance of Clouds – Migrating to Azure SQL DB
 ## Abstract:
@@ -170,7 +170,7 @@ This session will also provide guidance on determining whether your on-premises 
 #### SessionID: 64717
 # Data Modeling Student Registration and Student Retention in Higher Education
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-08-2017 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Jason Jones
 ## Title: Data Modeling Student Registration and Student Retention in Higher Education
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 66432
 # Training by the Twos: Two Sites, Two Tools, Two Tidbits
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 12-08-2017 - Session time: 10:15:00 - Track: Professional Development
 ## Speaker: Susan Schneider
 ## Title: Training by the Twos: Two Sites, Two Tools, Two Tidbits
 ## Abstract:
@@ -190,7 +190,7 @@ Join Susan as we continue our technical journey and increase our learning pace, 
 #### SessionID: 67179
 # Are They Hearing What You Said - or Something Completely Different?!
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 12-08-2017 - Session time: 10:15:00 - Track: Professional Development
 ## Speaker: Brad Raney
 ## Title: Are They Hearing What You Said - or Something Completely Different?!
 ## Abstract:
@@ -202,7 +202,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Developmen
 #### SessionID: 67298
 # Cautionary Tale of Recompilations, Excessive CPU Load and Plan Caching
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-08-2017 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dmitri Korotkevitch
 ## Title: Cautionary Tale of Recompilations, Excessive CPU Load and Plan Caching
 ## Abstract:
@@ -213,7 +213,7 @@ In this session, Dmitri will explain how plan caching works internally and demon
 #### SessionID: 67301
 # Handling Late Arriving Dimension Records in a Datawarehouse using SSIS/SQL
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 12-08-2017 - Session time: 10:15:00 - Track: BI Information Delivery
 ## Speaker: Felix Asencio
 ## Title: Handling Late Arriving Dimension Records in a Datawarehouse using SSIS/SQL
 ## Abstract:
@@ -224,7 +224,7 @@ In this session, we will give you a brief overview of Facts and Dimensions, and 
 #### SessionID: 63523
 # Create lightning fast Dashboard with Power BI and its Components
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 12-08-2017 - Session time: 11:30:00 - Track: Analytics and Visualization
 ## Speaker: Vishal Pawar
 ## Title: Create lightning fast Dashboard with Power BI and its Components
 ## Abstract:
@@ -233,7 +233,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 64610
 # Virtualize FCI and  Availability Groups
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Other
+Event Date: 12-08-2017 - Session time: 11:30:00 - Track: Other
 ## Speaker: Shawn Meyers
 ## Title: Virtualize FCI and  Availability Groups
 ## Abstract:
@@ -242,7 +242,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Other
 #### SessionID: 64679
 # Tracking Change is the Backbone of Your Data Platform
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-08-2017 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Doug McClurg
 ## Title: Tracking Change is the Backbone of Your Data Platform
 ## Abstract:
@@ -251,7 +251,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 65054
 # How to Build your Brand and Become a Thought Leader
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 12-08-2017 - Session time: 11:30:00 - Track: Professional Development
 ## Speaker: Dustin Ryan
 ## Title: How to Build your Brand and Become a Thought Leader
 ## Abstract:
@@ -260,7 +260,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Developmen
 #### SessionID: 67306
 # XpressInsight Framework as a Service - Rapid Implementation Data Warehousing Solution
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-08-2017 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paul Williams
 ## Title: XpressInsight Framework as a Service - Rapid Implementation Data Warehousing Solution
 ## Abstract:
@@ -269,7 +269,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 67312
 # Tell the story with Power BI visualizations embedded in your web site based on Azure Data
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 12-08-2017 - Session time: 11:30:00 - Track: BI Information Delivery
 ## Speaker: Steve Schneider
 ## Title: Tell the story with Power BI visualizations embedded in your web site based on Azure Data
 ## Abstract:
@@ -286,7 +286,7 @@ Come along on this trip to see how you can stand up your own database in Azure a
 #### SessionID: 68160
 # Power BI Administration and Governance
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-08-2017 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mitchell Pearson
 ## Title: Power BI Administration and Governance
 ## Abstract:
@@ -295,7 +295,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 66505
 # Training:  Have It Your Way (Lunch time Session)
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 12-08-2017 - Session time: 12:45:00 - Track: Professional Development
 ## Speaker: Kenneth Wood
 ## Title: Training:  Have It Your Way (Lunch time Session)
 ## Abstract:
@@ -308,7 +308,7 @@ This session will help the attendees better prepare themselves for Learning Deve
 #### SessionID: 67094
 # Dynamic Data Flows in SSIS without Programming
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-08-2017 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: Dynamic Data Flows in SSIS without Programming
 ## Abstract:
@@ -317,7 +317,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 68748
 # Women in Technology Luncheon
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 12-08-2017 - Session time: 12:45:00 - Track: Professional Development
 ## Speaker: Brandi Kiehl
 ## Title: Women in Technology Luncheon
 ## Abstract:
@@ -326,7 +326,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Developmen
 #### SessionID: 63278
 # Supercharge Your Maintenance Plans!
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-08-2017 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Troy Gallant
 ## Title: Supercharge Your Maintenance Plans!
 ## Abstract:
@@ -337,7 +337,7 @@ In this session, not only will we introduce these scripts to those unfamiliar wi
 #### SessionID: 63389
 # A Tour of Cloud Data Platforms as a Service
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 12-08-2017 - Session time: 13:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Richard Weiss
 ## Title: A Tour of Cloud Data Platforms as a Service
 ## Abstract:
@@ -346,7 +346,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Cloud Application Devel
 #### SessionID: 63822
 # How To Fully Automate Database Deployments
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-08-2017 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Jeff Taylor
 ## Title: How To Fully Automate Database Deployments
 ## Abstract:
@@ -355,7 +355,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 65498
 # Using R, SQL Server Advanced Analytics, and Baseball to Hit a Home Run
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 12-08-2017 - Session time: 13:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Bradley Ball
 ## Title: Using R, SQL Server Advanced Analytics, and Baseball to Hit a Home Run
 ## Abstract:
@@ -364,7 +364,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 66714
 # DevOps for the DBA
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-08-2017 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: DevOps for the DBA
 ## Abstract:
@@ -379,7 +379,7 @@ The take-aways from this session are to embrace DevOps basics with a “DBA twis
 #### SessionID: 67044
 # SNI Technology Presents, Creating Your Personal Brand  Behind the Staffing Curtain
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 12-08-2017 - Session time: 13:45:00 - Track: Professional Development
 ## Speaker: Ben Cusson
 ## Title: SNI Technology Presents, Creating Your Personal Brand  Behind the Staffing Curtain
 ## Abstract:
@@ -389,7 +389,7 @@ I will share my experience over the years in Staffing to provide some tips and t
 #### SessionID: 67077
 # What's new in Power BI Embedded
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-08-2017 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: T.J. Brown
 ## Title: What's new in Power BI Embedded
 ## Abstract:
@@ -398,7 +398,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 68813
 # What's new in Reporting Services 2016
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 12-08-2017 - Session time: 13:45:00 - Track: BI Information Delivery
 ## Speaker: Chris Albrektson
 ## Title: What's new in Reporting Services 2016
 ## Abstract:
@@ -407,7 +407,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Information Delivery
 #### SessionID: 63260
 # Running SQL Server in AWS
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 12-08-2017 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Brian Carrig
 ## Title: Running SQL Server in AWS
 ## Abstract:
@@ -416,7 +416,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Cloud Application Devel
 #### SessionID: 63302
 # Database Project Makes Deployment Consistent
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-08-2017 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
 ## Abstract:
@@ -425,7 +425,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 63798
 # In a Perfect World, Azure is Green… Green as in, all is well
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 12-08-2017 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ronald Dameron
 ## Title: In a Perfect World, Azure is Green… Green as in, all is well
 ## Abstract:
@@ -437,7 +437,7 @@ Coverage will included how to monitor and alert on individual components in the 
 #### SessionID: 67051
 # Embed analytics into your web apps using Power BI
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 12-08-2017 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: David Liebman
 ## Title: Embed analytics into your web apps using Power BI
 ## Abstract:
@@ -447,7 +447,7 @@ We will be using the Power BI API's to embed the analytics into you company web 
 #### SessionID: 67222
 # Does your performance tuning need a 12-step program?
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-08-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Does your performance tuning need a 12-step program?
 ## Abstract:
@@ -461,7 +461,7 @@ Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 68465
 # DataViz 101 -  Creating Effective Visualizations
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 12-08-2017 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Haim Shternshus
 ## Title: DataViz 101 -  Creating Effective Visualizations
 ## Abstract:
@@ -475,7 +475,7 @@ Come learn something new!
 #### SessionID: 68466
 # Beyond the Stars…Alternative Date Warehouse Structures
 #### [Back to calendar](#nr-649)
-Event Date: 12-08-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-08-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Thomas Banyan McGowen
 ## Title: Beyond the Stars…Alternative Date Warehouse Structures
 ## Abstract:

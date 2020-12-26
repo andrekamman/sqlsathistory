@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 10603
 # Whatcha Doin'? Passive Security for Hostile Environments
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Security
+Event Date: 15-08-2015 - Session time: 08:30:00 - Track: Security
 ## Speaker: Bob Pusateri
 ## Title: Whatcha Doin'? Passive Security for Hostile Environments
 ## Abstract:
@@ -45,7 +45,7 @@ Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Security
 #### SessionID: 13920
 # Table Partitions for Archiving
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Developer
+Event Date: 15-08-2015 - Session time: 08:30:00 - Track: Developer
 ## Speaker: Eric Zierdt
 ## Title: Table Partitions for Archiving
 ## Abstract:
@@ -54,7 +54,7 @@ Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Developer
 #### SessionID: 15769
 # What is causing my database to grow?
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: DBA
+Event Date: 15-08-2015 - Session time: 08:30:00 - Track: DBA
 ## Speaker: Jared Karney
 ## Title: What is causing my database to grow?
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 15-08-2015 - Session time: 15:45:00 - Track: DBA
 #### SessionID: 36449
 # APPLY Yourself
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Developer
+Event Date: 15-08-2015 - Session time: 08:30:00 - Track: Developer
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Developer
 #### SessionID: 38627
 # Become the DBA of the future! Everything you need to know about Azure
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Cloud  Big Data
+Event Date: 15-08-2015 - Session time: 08:30:00 - Track: Cloud  Big Data
 ## Speaker: Dandy Weyn
 ## Title: Become the DBA of the future! Everything you need to know about Azure
 ## Abstract:
@@ -83,7 +83,7 @@ Become the DBA of the future!
 #### SessionID: 11142
 # Microsoft APS - SMP vs. MPP
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Cloud  Big Data
+Event Date: 15-08-2015 - Session time: 10:00:00 - Track: Cloud  Big Data
 ## Speaker: Chaitanya Khaladkar
 ## Title: Microsoft APS - SMP vs. MPP
 ## Abstract:
@@ -94,7 +94,7 @@ Learn about how the MPP architecture can benefit hundreds of business use-cases 
 #### SessionID: 15777
 # Size: Blue Color: M  Wait, What!?!
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Data  BI
+Event Date: 15-08-2015 - Session time: 10:00:00 - Track: Data  BI
 ## Speaker: Jason Dempster
 ## Title: Size: Blue Color: M  Wait, What!?!
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Data  BI
 #### SessionID: 25189
 # Navigating the Hadoop Stack
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Cloud  Big Data
+Event Date: 15-08-2015 - Session time: 10:00:00 - Track: Cloud  Big Data
 ## Speaker: Scott Shaw
 ## Title: Navigating the Hadoop Stack
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Cloud  Big Data
 #### SessionID: 37974
 # Social Networking Is Alive!!!
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Soft Skills
+Event Date: 15-08-2015 - Session time: 10:00:00 - Track: Soft Skills
 ## Speaker: John Morehouse
 ## Title: Social Networking Is Alive!!!
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Soft Skills
 #### SessionID: 38017
 # Data Architecture 101
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Soft Skills
+Event Date: 15-08-2015 - Session time: 10:00:00 - Track: Soft Skills
 ## Speaker: Pat Phelan
 ## Title: Data Architecture 101
 ## Abstract:
@@ -133,7 +133,7 @@ You’ll get a big bonus if you build this right, but you also remember what you
 #### SessionID: 9623
 # Performing a SQL Server Health Check
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: DBA
+Event Date: 15-08-2015 - Session time: 10:00:00 - Track: DBA
 ## Speaker: Andy Galbraith
 ## Title: Performing a SQL Server Health Check
 ## Abstract:
@@ -144,7 +144,7 @@ Come learn how to use freely available tools to check your servers for basic iss
 #### SessionID: 12159
 # Power BI
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Data  BI
+Event Date: 15-08-2015 - Session time: 12:45:00 - Track: Data  BI
 ## Speaker: Dandy Weyn
 ## Title: Power BI
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Data  BI
 #### SessionID: 21140
 # Mission Critical Confidence – (SQL 2012/2014 AlwaysOn) and Availability Groups
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: DBA
+Event Date: 15-08-2015 - Session time: 12:45:00 - Track: DBA
 ## Speaker: Mark Skiles
 ## Title: Mission Critical Confidence – (SQL 2012/2014 AlwaysOn) and Availability Groups
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 15-08-2015 - Session time: 15:45:00 - Track: DBA
 #### SessionID: 26123
 # Establishing a SLA
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Soft Skills
+Event Date: 15-08-2015 - Session time: 12:45:00 - Track: Soft Skills
 ## Speaker: Thomas Grohser
 ## Title: Establishing a SLA
 ## Abstract:
@@ -174,7 +174,7 @@ This Session will teach you how to ask the right questions, analyze your databas
 #### SessionID: 28137
 # Introducing Forensic Analytics with PowerPivot for Excel
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Security
+Event Date: 15-08-2015 - Session time: 12:45:00 - Track: Security
 ## Speaker: William E Pearson III
 ## Title: Introducing Forensic Analytics with PowerPivot for Excel
 ## Abstract:
@@ -184,7 +184,7 @@ In this session, we explore Forensic Analytics: a set of techniques we can use t
 #### SessionID: 32357
 # Scary Things A Database Owner Can Do
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Security
+Event Date: 15-08-2015 - Session time: 12:45:00 - Track: Security
 ## Speaker: Paul Timmerman
 ## Title: Scary Things A Database Owner Can Do
 ## Abstract:
@@ -193,7 +193,7 @@ Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Security
 #### SessionID: 35629
 # Tips for SQL Server Performance and Resiliency
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: DBA
+Event Date: 15-08-2015 - Session time: 12:45:00 - Track: DBA
 ## Speaker: Chris Shaw
 ## Title: Tips for SQL Server Performance and Resiliency
 ## Abstract:
@@ -205,7 +205,7 @@ These patterns are so clear in fact that I many SQL Servers will benefit from th
 #### SessionID: 24638
 # Virtualize Clusters and AlwaysOn Availability Groups 
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: DBA
+Event Date: 15-08-2015 - Session time: 14:15:00 - Track: DBA
 ## Speaker: Shawn Meyers
 ## Title: Virtualize Clusters and AlwaysOn Availability Groups 
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 15-08-2015 - Session time: 15:45:00 - Track: DBA
 #### SessionID: 28140
 # Getting Started with MDX
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Data  BI
+Event Date: 15-08-2015 - Session time: 14:15:00 - Track: Data  BI
 ## Speaker: William E Pearson III
 ## Title: Getting Started with MDX
 ## Abstract:
@@ -223,7 +223,7 @@ Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Data  BI
 #### SessionID: 36448
 # Much Ado About Hadoop
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Cloud  Big Data
+Event Date: 15-08-2015 - Session time: 14:15:00 - Track: Cloud  Big Data
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
 ## Abstract:
@@ -232,7 +232,7 @@ Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Cloud  Big Data
 #### SessionID: 38303
 # What is Biml and why are SSIS people talking about it?
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Data  BI
+Event Date: 15-08-2015 - Session time: 14:15:00 - Track: Data  BI
 ## Speaker: Bill Fellows
 ## Title: What is Biml and why are SSIS people talking about it?
 ## Abstract:
@@ -241,7 +241,7 @@ Event Date: 15-08-2015 - Session time: 15:45:00 - Track: Data  BI
 #### SessionID: 38456
 # SQL Server Benchmarking: The Powershell Speedometer
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: DBA
+Event Date: 15-08-2015 - Session time: 14:15:00 - Track: DBA
 ## Speaker: Michael Fal
 ## Title: SQL Server Benchmarking: The Powershell Speedometer
 ## Abstract:
@@ -250,7 +250,7 @@ Event Date: 15-08-2015 - Session time: 15:45:00 - Track: DBA
 #### SessionID: 39332
 # SQL Server 2016 Overview
 #### [Back to calendar](#nr-397)
-Event Date: 15-08-2015 - Session time: 15:45:00 - Track: DBA
+Event Date: 15-08-2015 - Session time: 14:15:00 - Track: DBA
 ## Speaker: Phil Brammer
 ## Title: SQL Server 2016 Overview
 ## Abstract:

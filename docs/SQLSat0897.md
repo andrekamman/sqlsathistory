@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 94442
 # An introduction to Data Mining  with SQL Server 2017
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 14-09-2019 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: An introduction to Data Mining  with SQL Server 2017
 ## Abstract:
@@ -53,7 +53,7 @@ In this hands on BEGINNERS presentation we shall be looking at Microsoft SQL Ser
 #### SessionID: 95641
 # Get your head start on IoT with Azure IoT Hub and stream Analytics to Power Bi
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-09-2019 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Arohan Naidoo
 ## Title: Get your head start on IoT with Azure IoT Hub and stream Analytics to Power Bi
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 14-09-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 95722
 # Web Scraping
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Orange 
+Event Date: 14-09-2019 - Session time: 09:00:00 - Track: Orange 
 ## Speaker: Andrew Collier
 ## Title: Web Scraping
 ## Abstract:
@@ -88,7 +88,7 @@ This tutorial will be suitable for Vikings with low to moderate levels of Python
 #### SessionID: 95840
 # Design considerations and patterns for creating a supportable Data Warehouse
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-09-2019 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tinus Visagie
 ## Title: Design considerations and patterns for creating a supportable Data Warehouse
 ## Abstract:
@@ -104,7 +104,7 @@ The tools discussed and used in the examples will be SSIS and SQL server but man
 #### SessionID: 96269
 # Design Strategies and Advanced Data Visualization: The Ingredients for a Delicious Data Story
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Orange 
+Event Date: 14-09-2019 - Session time: 09:00:00 - Track: Orange 
 ## Speaker: James McGillivray
 ## Title: Design Strategies and Advanced Data Visualization: The Ingredients for a Delicious Data Story
 ## Abstract:
@@ -117,7 +117,7 @@ Every data story is unique, but the techniques for effective data presentation a
 #### SessionID: 94477
 # Data Types Do Matter
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 14-09-2019 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Angela Henry
 ## Title: Data Types Do Matter
 ## Abstract:
@@ -126,7 +126,7 @@ Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 95084
 # Let's create an Azure Sphere, Real-time Secure IoT Solution
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 14-09-2019 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Allan Pead
 ## Title: Let's create an Azure Sphere, Real-time Secure IoT Solution
 ## Abstract:
@@ -149,7 +149,7 @@ Cosmos DB
 #### SessionID: 96407
 # Functions - the good, the bad and the really, really ugly.
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 14-09-2019 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Gail Shaw
 ## Title: Functions - the good, the bad and the really, really ugly.
 ## Abstract:
@@ -160,7 +160,7 @@ I’ll show you how to replace simple scalar functions with an in-line table-val
 #### SessionID: 96467
 # DevOps for Databases
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 14-09-2019 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Niel Zeeman
 ## Title: DevOps for Databases
 ## Abstract:
@@ -169,7 +169,7 @@ Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Cloud Application Devel
 #### SessionID: 96590
 # Azure ML Studio for Beginners - Exploring, Creating  Training Models
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 14-09-2019 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jeanne Combrinck
 ## Title: Azure ML Studio for Beginners - Exploring, Creating  Training Models
 ## Abstract:
@@ -178,7 +178,7 @@ Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Cloud Application Devel
 #### SessionID: 94470
 # Learn from the Product Group - Azure SQL DB: Hyperscale
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 14-09-2019 - Session time: 13:00:00 - Track: Strategy and Architecture
 ## Speaker: Alain Dormehl
 ## Title: Learn from the Product Group - Azure SQL DB: Hyperscale
 ## Abstract:
@@ -191,7 +191,7 @@ of Hyperscale, as well as comparing it to traditional deployment options.
 #### SessionID: 95755
 # Working with data in Python for Beginners
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Congo
+Event Date: 14-09-2019 - Session time: 13:00:00 - Track: Congo
 ## Speaker: Jean-Pierre Voogt
 ## Title: Working with data in Python for Beginners
 ## Abstract:
@@ -202,7 +202,7 @@ In this session, we will use Python in an easy to understand layout by using Not
 #### SessionID: 95918
 # What is the PiRate, Snake, and Cup of Coffee Doing in My Database?
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 14-09-2019 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Niels Berglund
 ## Title: What is the PiRate, Snake, and Cup of Coffee Doing in My Database?
 ## Abstract:
@@ -212,7 +212,7 @@ Here we look at the SQL Server Extensibility Framework, and we see how we can ca
 #### SessionID: 96889
 # Profiling Your Data
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 14-09-2019 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Angela Henry
 ## Title: Profiling Your Data
 ## Abstract:
@@ -221,7 +221,7 @@ Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 98667
 # AWS - Finding the Best Fit: Deploying SQL Server on Amazon RDS  Amazon EC2
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-09-2019 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christiaan Steyn
 ## Title: AWS - Finding the Best Fit: Deploying SQL Server on Amazon RDS  Amazon EC2
 ## Abstract:
@@ -232,7 +232,7 @@ The session is intended for someone who would be interested in moving their curr
 #### SessionID: 95085
 # Build Cross Platform Mobile Apps with Xamarin
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 14-09-2019 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Allan Pead
 ## Title: Build Cross Platform Mobile Apps with Xamarin
 ## Abstract:
@@ -241,7 +241,7 @@ Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 95642
 # Paginated Reports in Power BI and SSRS
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Orange 
+Event Date: 14-09-2019 - Session time: 14:00:00 - Track: Orange 
 ## Speaker: Arohan Naidoo
 ## Title: Paginated Reports in Power BI and SSRS
 ## Abstract:
@@ -250,7 +250,7 @@ Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Orange
 #### SessionID: 96409
 # sThere are Gremlins in my CosmosDB
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 14-09-2019 - Session time: 14:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Gail Shaw
 ## Title: sThere are Gremlins in my CosmosDB
 ## Abstract:
@@ -261,7 +261,7 @@ In this presentation I’m going to take you through the basics of what CosmosDB
 #### SessionID: 98213
 # Machine Learning, Artificial Intelligence and Deep Learning for t
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Information Delivery
+Event Date: 14-09-2019 - Session time: 14:00:00 - Track: Information Delivery
 ## Speaker: Buck Woody
 ## Title: Machine Learning, Artificial Intelligence and Deep Learning for t
 ## Abstract:
@@ -270,7 +270,7 @@ Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Information Delivery
 #### SessionID: 98215
 # SQL in Azure: What to use when
 #### [Back to calendar](#nr-897)
-Event Date: 14-09-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 14-09-2019 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Anna Hoffman
 ## Title: SQL in Azure: What to use when
 ## Abstract:

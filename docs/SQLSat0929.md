@@ -38,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 100891
 # Azure Data Factory 101
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 07-03-2020 - Session time: 08:30:00 - Track: BI Information Delivery
 ## Speaker: Anandi Subramanian
 ## Title: Azure Data Factory 101
 ## Abstract:
@@ -47,7 +47,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Information Delivery
 #### SessionID: 102148
 # Data Visualization Tools For Entrepreneurs
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 07-03-2020 - Session time: 08:30:00 - Track: BI Information Delivery
 ## Speaker: Sekou Tyler
 ## Title: Data Visualization Tools For Entrepreneurs
 ## Abstract:
@@ -56,7 +56,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Information Delivery
 #### SessionID: 98049
 # Everything I Needed to Know About Dashboarding I Learned From World of Warcraft
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 07-03-2020 - Session time: 08:30:00 - Track: Analytics and Visualization
 ## Speaker: Adrian Owen
 ## Title: Everything I Needed to Know About Dashboarding I Learned From World of Warcraft
 ## Abstract:
@@ -65,7 +65,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 98503
 # Data Science 101: An Introduction to Data Science Using Python
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 07-03-2020 - Session time: 08:30:00 - Track: Analytics and Visualization
 ## Speaker: Ganesh Lohani
 ## Title: Data Science 101: An Introduction to Data Science Using Python
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 99756
 # Power BI dataflows and How to Leverage for Data Science
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 07-03-2020 - Session time: 08:30:00 - Track: BI Information Delivery
 ## Speaker: Jamey Johnston
 ## Title: Power BI dataflows and How to Leverage for Data Science
 ## Abstract:
@@ -87,7 +87,7 @@ This session will use real data and analytics to demonstrate Power BI dataflows,
 #### SessionID: 100625
 # Creating Data Tools and Products at the LDH Office of Public Health
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 07-03-2020 - Session time: 09:45:00 - Track: Analytics and Visualization
 ## Speaker: Lee Mendoza
 ## Title: Creating Data Tools and Products at the LDH Office of Public Health
 ## Abstract:
@@ -96,7 +96,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 100636
 # Taking Your Dashboard From Good To Great
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 07-03-2020 - Session time: 09:45:00 - Track: Analytics and Visualization
 ## Speaker: Ed Witherington
 ## Title: Taking Your Dashboard From Good To Great
 ## Abstract:
@@ -107,7 +107,7 @@ This talk will look at best practices for which types of visuals to use, as well
 #### SessionID: 100733
 # Snowflake: Design Patterns  Data Integration for a Modern Cloud Warehouse
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-03-2020 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael Treadwell
 ## Title: Snowflake: Design Patterns  Data Integration for a Modern Cloud Warehouse
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 99459
 # A Perfect Ten: The Data Model
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-03-2020 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: A Perfect Ten: The Data Model
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 99850
 # Data Engineering Brick-by-Brick: An Introduction To Azure Databricks
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 07-03-2020 - Session time: 09:45:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: Data Engineering Brick-by-Brick: An Introduction To Azure Databricks
 ## Abstract:
@@ -136,7 +136,7 @@ Azure Databricks provides a cloud-based Apache Spark environment that can be sca
 #### SessionID: 99851
 # Python in SQL Server 2017 and 2019
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 07-03-2020 - Session time: 09:45:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017 and 2019
 ## Abstract:
@@ -147,7 +147,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #### SessionID: 103770
 # Pure Storage (Sponsor)
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Other
+Event Date: 07-03-2020 - Session time: 11:00:00 - Track: Other
 ## Speaker: Thomas LeBlanc
 ## Title: Pure Storage (Sponsor)
 ## Abstract:
@@ -156,7 +156,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Other
 #### SessionID: 103775
 # Safety Alliance Council (Sponsor)
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Other
+Event Date: 07-03-2020 - Session time: 11:00:00 - Track: Other
 ## Speaker: Balaji Nedurumalli
 ## Title: Safety Alliance Council (Sponsor)
 ## Abstract:
@@ -165,7 +165,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Other
 #### SessionID: 104069
 # A Data Journey for an Analytics Company
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Other
+Event Date: 07-03-2020 - Session time: 11:00:00 - Track: Other
 ## Speaker: Jennifer Gartner
 ## Title: A Data Journey for an Analytics Company
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Other
 #### SessionID: 104125
 # 2020 Regional Trends in Business Intelligence  Analytics
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Other
+Event Date: 07-03-2020 - Session time: 11:00:00 - Track: Other
 ## Speaker: Rusty Frioux
 ## Title: 2020 Regional Trends in Business Intelligence  Analytics
 ## Abstract:
@@ -183,7 +183,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Other
 #### SessionID: 104134
 # SQL and Pure Storage - Like Peanut Butter and Chocolate (With Prizes!)
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 07-03-2020 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Eric Nail
 ## Title: SQL and Pure Storage - Like Peanut Butter and Chocolate (With Prizes!)
 ## Abstract:
@@ -192,7 +192,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 100318
 # Enabling Real Time Analytics through Azure
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-03-2020 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Pearson
 ## Title: Enabling Real Time Analytics through Azure
 ## Abstract:
@@ -205,7 +205,7 @@ My presentation will walk through an end-to-end solution – from data acquisiti
 #### SessionID: 100719
 # Tableau eye for the PowerBI guy
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 07-03-2020 - Session time: 11:30:00 - Track: BI Information Delivery
 ## Speaker: Tim Costello
 ## Title: Tableau eye for the PowerBI guy
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Information Delivery
 #### SessionID: 101346
 # Power BI Time Intelligence - Beyond the Basics
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-03-2020 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bill Anton
 ## Title: Power BI Time Intelligence - Beyond the Basics
 ## Abstract:
@@ -223,7 +223,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 99460
 # Building a Strong Foundation for Data Analysis
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-03-2020 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: Building a Strong Foundation for Data Analysis
 ## Abstract:
@@ -232,7 +232,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 99486
 # Classification With Naive Bayes
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Artificial Intelligence
+Event Date: 07-03-2020 - Session time: 11:30:00 - Track: Artificial Intelligence
 ## Speaker: Kevin Feasel
 ## Title: Classification With Naive Bayes
 ## Abstract:
@@ -241,7 +241,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Artificial Intelligence
 #### SessionID: 104110
 # Five Key Trends in Business Intelligence
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-03-2020 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Treb Gatte
 ## Title: Five Key Trends in Business Intelligence
 ## Abstract:
@@ -250,7 +250,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 104136
 # How to build an analytics team
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Business Analytic Cases
+Event Date: 07-03-2020 - Session time: 13:45:00 - Track: Business Analytic Cases
 ## Speaker: Tim Costello
 ## Title: How to build an analytics team
 ## Abstract:
@@ -259,7 +259,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Business Analytic Cases
 #### SessionID: 98109
 # Careers in Business Intelligence Panel
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-03-2020 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: William Assaf
 ## Title: Careers in Business Intelligence Panel
 ## Abstract:
@@ -268,7 +268,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 98797
 # Troubleshooting PowerBI Performance Problems
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-03-2020 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan Szepesi
 ## Title: Troubleshooting PowerBI Performance Problems
 ## Abstract:
@@ -279,7 +279,7 @@ Event Date: 07-03-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 99489
 # Launching a Data Science Project:  Cleaning is Half the Battle
 #### [Back to calendar](#nr-929)
-Event Date: 07-03-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 07-03-2020 - Session time: 13:45:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Launching a Data Science Project:  Cleaning is Half the Battle
 ## Abstract:

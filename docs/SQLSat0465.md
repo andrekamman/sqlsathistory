@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 38973
 # Building a Big Data Solution
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 12-12-2015 - Session time: 09:00:00 - Track: Strategy and Architecture
 ## Speaker: James Serra
 ## Title: Building a Big Data Solution
 ## Abstract:
@@ -44,7 +44,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Strategy and Architectu
 #### SessionID: 38997
 # Creating Access 2013 Web Apps in SharePoint with SQL Azure
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 12-12-2015 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Andy Tabisz
 ## Title: Creating Access 2013 Web Apps in SharePoint with SQL Azure
 ## Abstract:
@@ -54,7 +54,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 40676
 # Shortcuts from an Impatient DBA
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 12-12-2015 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Andy Mallon
 ## Title: Shortcuts from an Impatient DBA
 ## Abstract:
@@ -67,7 +67,7 @@ We spend a lot of time thinking about how to write efficient code, but we don't 
 #### SessionID: 41083
 # SSIS 2012/2014:  The Quiet Revolution
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 12-12-2015 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Bryan Cafferky
 ## Title: SSIS 2012/2014:  The Quiet Revolution
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 41258
 # Accelerating DevOps Using Data Virtualization
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-12-2015 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Gorman
 ## Title: Accelerating DevOps Using Data Virtualization
 ## Abstract:
@@ -89,7 +89,7 @@ Data virtualization is the solution. Virtual databases and file-systems only con
 #### SessionID: 38987
 # What about the Data Dude? SSDT Database Projects
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 12-12-2015 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Jack Corbett
 ## Title: What about the Data Dude? SSDT Database Projects
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 39428
 # Stunning Dashboards using Datazen
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-12-2015 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sunil Kadimdiwan
 ## Title: Stunning Dashboards using Datazen
 ## Abstract:
@@ -109,7 +109,7 @@ In this session I will demonstrate the power and ease of using this technology
 #### SessionID: 39711
 # Scratching the Surface: Designing your first Power View Report
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-12-2015 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Seferlis
 ## Title: Scratching the Surface: Designing your first Power View Report
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 40203
 # Whacha just say? Talking technology to non-technical people
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 12-12-2015 - Session time: 10:15:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: Whacha just say? Talking technology to non-technical people
 ## Abstract:
@@ -127,7 +127,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 40464
 # Cardinality Estimates in Microsoft SQL Server 2014
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-12-2015 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas LaRock
 ## Title: Cardinality Estimates in Microsoft SQL Server 2014
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 41525
 # Index-fu - getting the most out of your indexes
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 12-12-2015 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Michael DeFehr
 ## Title: Index-fu - getting the most out of your indexes
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 38949
 # Hybrid Cloud Scenarios with SQL Server 2014 and 2016
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 12-12-2015 - Session time: 11:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: George Walters
 ## Title: Hybrid Cloud Scenarios with SQL Server 2014 and 2016
 ## Abstract:
@@ -155,7 +155,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 39128
 # Data Partitioning - Doing the splits…in the name of performance, scalability and sanity!
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-12-2015 - Session time: 11:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Michael Nowill
 ## Title: Data Partitioning - Doing the splits…in the name of performance, scalability and sanity!
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 40864
 # What the Hekaton
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 12-12-2015 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: John Flannery
 ## Title: What the Hekaton
 ## Abstract:
@@ -173,7 +173,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 41082
 # Advanced Programming in PowerShell
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 12-12-2015 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: Bryan Cafferky
 ## Title: Advanced Programming in PowerShell
 ## Abstract:
@@ -182,7 +182,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 41833
 # Power BI Desktop Designer
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-12-2015 - Session time: 11:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: John Miner
 ## Title: Power BI Desktop Designer
 ## Abstract:
@@ -191,7 +191,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 38881
 # Diving Into Query Execution Plans
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-12-2015 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Edward Pollack
 ## Title: Diving Into Query Execution Plans
 ## Abstract:
@@ -200,7 +200,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 39271
 # Automated Installing and Configuration of SQL2014/SQL2012 AlwaysOn Across Multiple Datacenters
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-12-2015 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: Automated Installing and Configuration of SQL2014/SQL2012 AlwaysOn Across Multiple Datacenters
 ## Abstract:
@@ -211,7 +211,7 @@ The whole process is presented as a life demo
 #### SessionID: 39317
 # Create a Power BI Dashboard in 90 Minutes or LESS
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 12-12-2015 - Session time: 13:15:00 - Track: BI Information Delivery
 ## Speaker: Todd Chittenden
 ## Title: Create a Power BI Dashboard in 90 Minutes or LESS
 ## Abstract:
@@ -220,7 +220,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 40313
 # Right-Sizing Your SQL Server Virtual Machine
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-12-2015 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Right-Sizing Your SQL Server Virtual Machine
 ## Abstract:
@@ -231,7 +231,7 @@ The methods for understanding the performance of your mission-critical SQL Serve
 #### SessionID: 41016
 # Batches, Transactions, and Errors
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 12-12-2015 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: Batches, Transactions, and Errors
 ## Abstract:
@@ -240,7 +240,7 @@ Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 41680
 # 100 Times Faster: Experiences making SQL Server go fast
 #### [Back to calendar](#nr-465)
-Event Date: 12-12-2015 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 12-12-2015 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Andrew Novick
 ## Title: 100 Times Faster: Experiences making SQL Server go fast
 ## Abstract:

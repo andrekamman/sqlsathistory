@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 94992
 # Automagic Tuning - SQL Server 2019 and Beyond
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 31-08-2019 - Session time: 09:50:00 - Track: Application  Database Development
 ## Speaker: Joseph D'Antoni
 ## Title: Automagic Tuning - SQL Server 2019 and Beyond
 ## Abstract:
@@ -45,7 +45,7 @@ Don’t worry, you will still have your job, but the features introduced in SQL 
 #### SessionID: 95407
 # Data Science with SQL Server Machine Learning Service: Predictive Experiment
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
+Event Date: 31-08-2019 - Session time: 09:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dinesh Priyankara
 ## Title: Data Science with SQL Server Machine Learning Service: Predictive Experiment
 ## Abstract:
@@ -63,7 +63,7 @@ Join with me and see how useful this with both operational and business intellig
 #### SessionID: 95923
 # Azure Data Factory: Ingesting and Integrating Data for a Modern Data Warehouse
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 31-08-2019 - Session time: 09:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gogula Aryalingam
 ## Title: Azure Data Factory: Ingesting and Integrating Data for a Modern Data Warehouse
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 96131
 # 3 reasons to get excited about Power BI Dataflow.
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Information Delivery
+Event Date: 31-08-2019 - Session time: 09:50:00 - Track: BI Information Delivery
 ## Speaker: Aroh Shukla
 ## Title: 3 reasons to get excited about Power BI Dataflow.
 ## Abstract:
@@ -81,7 +81,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Information Delivery
 #### SessionID: 92837
 # The Tricky Part of Doing Tricky Things in your Database
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 31-08-2019 - Session time: 10:55:00 - Track: Application  Database Development
 ## Speaker: Karen Lopez
 ## Title: The Tricky Part of Doing Tricky Things in your Database
 ## Abstract:
@@ -92,7 +92,7 @@ We'll demo tricks that we've seen in our database design reviews and show you ho
 #### SessionID: 93644
 # Securing your data with Azure SQL DB
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 31-08-2019 - Session time: 10:55:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Eng Soon Cheah
 ## Title: Securing your data with Azure SQL DB
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Cloud Application Devel
 #### SessionID: 93835
 # Scalable Data Models using Aggregations in Power BI
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 31-08-2019 - Session time: 10:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Nisal Mihiranga
 ## Title: Scalable Data Models using Aggregations in Power BI
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 94776
 # Anomaly Detection in Predictive Maintenance for Sql Server
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
+Event Date: 31-08-2019 - Session time: 10:55:00 - Track: Advanced Analysis Techniques
 ## Speaker: Janusz Rokicki
 ## Title: Anomaly Detection in Predictive Maintenance for Sql Server
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Advanced Analysis Techn
 #### SessionID: 92856
 # High Availability and Disaster Recovery for SQL Server in Azure IaaS
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 31-08-2019 - Session time: 12:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Aw
 ## Title: High Availability and Disaster Recovery for SQL Server in Azure IaaS
 ## Abstract:
@@ -132,7 +132,7 @@ HA and DR professional Jason Aw with 20 years of experience explains all this an
 #### SessionID: 93528
 # Performance Tuning, Getting the Biggest Bang for Your Buck
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 31-08-2019 - Session time: 12:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: Performance Tuning, Getting the Biggest Bang for Your Buck
 ## Abstract:
@@ -141,7 +141,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 93653
 # PaaSport to Paradise: Lifting  Shifting with Azure SQL DB/Managed Instance + Azure Data Factory
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 31-08-2019 - Session time: 12:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sandy Winarko
 ## Title: PaaSport to Paradise: Lifting  Shifting with Azure SQL DB/Managed Instance + Azure Data Factory
 ## Abstract:
@@ -150,7 +150,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 94734
 # Get Comfortable with Query tuning and Execution Plans
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 31-08-2019 - Session time: 12:55:00 - Track: Application  Database Development
 ## Speaker: Patrick Flynn
 ## Title: Get Comfortable with Query tuning and Execution Plans
 ## Abstract:
@@ -170,7 +170,7 @@ This session will assume a basic knowledge of T-SQL and execution plans.
 #### SessionID: 92095
 # SQL Server Big Data Clusters - A game changer?
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
+Event Date: 31-08-2019 - Session time: 14:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ben Weissman
 ## Title: SQL Server Big Data Clusters - A game changer?
 ## Abstract:
@@ -181,7 +181,7 @@ Let's take a look at what that means and how you can make use of the extended Po
 #### SessionID: 92200
 # From Zero to Hero: Start Machine Learning using Azure ML studio
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 31-08-2019 - Session time: 14:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mohamed Mawla
 ## Title: From Zero to Hero: Start Machine Learning using Azure ML studio
 ## Abstract:
@@ -194,7 +194,7 @@ Lots of hands-on
 #### SessionID: 93350
 # Bridging the gap between SSRS and Power BI
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Strategy and Architecture
+Event Date: 31-08-2019 - Session time: 14:00:00 - Track: Strategy and Architecture
 ## Speaker: Manohar Punna
 ## Title: Bridging the gap between SSRS and Power BI
 ## Abstract:
@@ -203,7 +203,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Strategy and Architectu
 #### SessionID: 93541
 # SQL Server Database Administration for the non-DBA
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 31-08-2019 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Denny Cherry
 ## Title: SQL Server Database Administration for the non-DBA
 ## Abstract:
@@ -214,7 +214,7 @@ While this session won't teach you everything you need to know, it will give you
 #### SessionID: 92251
 # T-SQL Performance Guidelines for the optimal DB stress powers
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 31-08-2019 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for the optimal DB stress powers
 ## Abstract:
@@ -223,7 +223,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 94587
 # SharePoint as a Data Platform for Microsoft Power Platform
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 31-08-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Senthamil V
 ## Title: SharePoint as a Data Platform for Microsoft Power Platform
 ## Abstract:
@@ -232,7 +232,7 @@ Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Cloud Application Devel
 #### SessionID: 94595
 # Enterprise Big Data Analytics using Azure Data Lake Storage Gen2
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Analytics and Visualization
+Event Date: 31-08-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Anupama Natarajan
 ## Title: Enterprise Big Data Analytics using Azure Data Lake Storage Gen2
 ## Abstract:
@@ -246,7 +246,7 @@ At the end of the session you will learn how to implement end to end Analytics f
 #### SessionID: 96414
 # The Right way of Modernizing Your SQL Server
 #### [Back to calendar](#nr-893)
-Event Date: 31-08-2019 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 31-08-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Pio Balistoy
 ## Title: The Right way of Modernizing Your SQL Server
 ## Abstract:

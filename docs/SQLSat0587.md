@@ -40,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 54831
 # DW SuperHero-Columnstore Index
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 18-02-2017 - Session time: 08:45:00 - Track: Application  Database Development
 ## Speaker: Manjot Kaur
 ## Title: DW SuperHero-Columnstore Index
 ## Abstract:
@@ -49,7 +49,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 61595
 # How to Use Parameters Like a Pro and Boost Performance
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Guy Glantser
 ## Title: How to Use Parameters Like a Pro and Boost Performance
 ## Abstract:
@@ -60,7 +60,7 @@ In this session we will learn about plan caching and how the query optimizer han
 #### SessionID: 61596
 # The Power of Power Query  | Microsoft Dev Team
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 18-02-2017 - Session time: 08:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Matt Masson
 ## Title: The Power of Power Query  | Microsoft Dev Team
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 61597
 # Power BI – Finally I can make decisions based on facts
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 18-02-2017 - Session time: 08:45:00 - Track: Analytics and Visualization
 ## Speaker: Adam Cogan
 ## Title: Power BI – Finally I can make decisions based on facts
 ## Abstract:
@@ -82,7 +82,7 @@ He will show in a live demo how Power BI allows even non-technical users to prod
 #### SessionID: 61806
 # Excel Tips and Tricks for the Data Professional
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 18-02-2017 - Session time: 08:45:00 - Track: Analytics and Visualization
 ## Speaker: Bernard Spence
 ## Title: Excel Tips and Tricks for the Data Professional
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 54833
 # An Introduction to R and R Services
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 18-02-2017 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Craig Bryden
 ## Title: An Introduction to R and R Services
 ## Abstract:
@@ -101,7 +101,7 @@ In this session I will provide an introduction to the R language as well as disc
 #### SessionID: 57142
 # Hitting the SQL Server "Go Faster" Button
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Douglas
 ## Title: Hitting the SQL Server "Go Faster" Button
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 57478
 # Handling Relationships in DAX
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-02-2017 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Russo
 ## Title: Handling Relationships in DAX
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 61594
 # Power BI for Enterprise, safely sharing your data | MS Dev Team
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 18-02-2017 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Grant Paisley
 ## Title: Power BI for Enterprise, safely sharing your data | MS Dev Team
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 61807
 # SQL Server 2016 - What module to use and why
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Other
+Event Date: 18-02-2017 - Session time: 10:00:00 - Track: Other
 ## Speaker: Grant Paisley
 ## Title: SQL Server 2016 - What module to use and why
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Other
 #### SessionID: 54938
 # Plan, Design and Implement a HADR Solution - a Journey
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Manohar Punna
 ## Title: Plan, Design and Implement a HADR Solution - a Journey
 ## Abstract:
@@ -150,7 +150,7 @@ I will start with the basic DR solution built using Log shipping, an alternate t
 #### SessionID: 56412
 # R for Database Administrators
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Nagaraj Venkatesan
 ## Title: R for Database Administrators
 ## Abstract:
@@ -159,7 +159,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 57192
 # DevOPs and the DBA
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamish Watson
 ## Title: DevOPs and the DBA
 ## Abstract:
@@ -177,7 +177,7 @@ Through the use of a comprehensive live demo to a running production database th
 #### SessionID: 57513
 # Reports on the Run: Mobile Reporting with SQL Server 2016
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 18-02-2017 - Session time: 11:30:00 - Track: BI Information Delivery
 ## Speaker: Peter Myers
 ## Title: Reports on the Run: Mobile Reporting with SQL Server 2016
 ## Abstract:
@@ -190,7 +190,7 @@ This session will be of interest to a full range of professionals, including ana
 #### SessionID: 57763
 # What on earth are all the Azure* and Power* services and why would I want them?
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 18-02-2017 - Session time: 11:30:00 - Track: Strategy and Architecture
 ## Speaker: Greg Low
 ## Title: What on earth are all the Azure* and Power* services and why would I want them?
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 62425
 # Data Analytics in the Cloud: Real-life Examples
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Other
+Event Date: 18-02-2017 - Session time: 12:45:00 - Track: Other
 ## Speaker: Iman Eftekhari
 ## Title: Data Analytics in the Cloud: Real-life Examples
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Other
 #### SessionID: 62426
 # A three day Power BI strategic project - lessons learnt
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Other
+Event Date: 18-02-2017 - Session time: 12:45:00 - Track: Other
 ## Speaker: Grant Paisley
 ## Title: A three day Power BI strategic project - lessons learnt
 ## Abstract:
@@ -217,7 +217,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Other
 #### SessionID: 62427
 # PANEL - "What's hot" for your  data career
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Other
+Event Date: 18-02-2017 - Session time: 12:45:00 - Track: Other
 ## Speaker: Sunil Agarwal
 ## Title: PANEL - "What's hot" for your  data career
 ## Abstract:
@@ -227,7 +227,7 @@ SPEAKERS - Your are all invited
 #### SessionID: 56253
 # A Rocket Scientist View on Indexes
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 18-02-2017 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: A Rocket Scientist View on Indexes
 ## Abstract:
@@ -236,7 +236,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 56693
 # Automate Data Warehouse build and deployment (db,SSIS  SSAS) with Visual Studio 2015 and TFS
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 18-02-2017 - Session time: 13:30:00 - Track: BI Information Delivery
 ## Speaker: Adam Gilmore
 ## Title: Automate Data Warehouse build and deployment (db,SSIS  SSAS) with Visual Studio 2015 and TFS
 ## Abstract:
@@ -258,7 +258,7 @@ Grab a free script at the end to get you started.
 #### SessionID: 56889
 # 10 Amazing Things About Power BI You Don't Know
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-02-2017 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: 10 Amazing Things About Power BI You Don't Know
 ## Abstract:
@@ -269,7 +269,7 @@ In this session you can expect many live demos and to be impressed by the extrao
 #### SessionID: 56978
 # Maintain SQL Server Performance Baseline w/PowerShell
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Maintain SQL Server Performance Baseline w/PowerShell
 ## Abstract:
@@ -278,7 +278,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 59615
 # How SQL Server 2016 SP1 changes the game | Microsoft Dev Team
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sunil Agarwal
 ## Title: How SQL Server 2016 SP1 changes the game | Microsoft Dev Team
 ## Abstract:
@@ -287,7 +287,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 56193
 # Query Store: A (R)evolution in Query Tuning
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 18-02-2017 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Victor Isakov
 ## Title: Query Store: A (R)evolution in Query Tuning
 ## Abstract:
@@ -296,7 +296,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 56216
 # Power Query is more than just a desktop BI ETL tool
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-02-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matt Allington
 ## Title: Power Query is more than just a desktop BI ETL tool
 ## Abstract:
@@ -310,7 +310,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 56721
 # 2016 – The Rise and Fall of DBM
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: 2016 – The Rise and Fall of DBM
 ## Abstract:
@@ -319,7 +319,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 56996
 # Treasure Map: Choosing the Right Algorithm in Azure ML
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 18-02-2017 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Leila Etaati
 ## Title: Treasure Map: Choosing the Right Algorithm in Azure ML
 ## Abstract:
@@ -328,7 +328,7 @@ Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 59912
 # Become a Troubleshooting Ninja with PowerBI  SQL Extended Events
 #### [Back to calendar](#nr-587)
-Event Date: 18-02-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-02-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ajay Jagannathan
 ## Title: Become a Troubleshooting Ninja with PowerBI  SQL Extended Events
 ## Abstract:

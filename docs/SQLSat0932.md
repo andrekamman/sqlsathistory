@@ -24,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 98829
 # Table Indexing for the .NET Developer
 #### [Back to calendar](#nr-932)
-Event Date: 19-09-2020 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 19-09-2020 - Session time: 08:15:00 - Track: Application  Database Development
 ## Speaker: Denny Cherry
 ## Title: Table Indexing for the .NET Developer
 ## Abstract:
@@ -33,7 +33,7 @@ Event Date: 19-09-2020 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 98966
 # Logging Actual execution plans in SQL 2017 and 2019
 #### [Back to calendar](#nr-932)
-Event Date: 19-09-2020 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-09-2020 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vedran Kesegic
 ## Title: Logging Actual execution plans in SQL 2017 and 2019
 ## Abstract:
@@ -46,7 +46,7 @@ Let me introduce you to "Lightweight profiling" you can have enabled all the tim
 #### SessionID: 99720
 # Creating Custom BI Solutions with Power BI Embedded
 #### [Back to calendar](#nr-932)
-Event Date: 19-09-2020 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 19-09-2020 - Session time: 08:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Creating Custom BI Solutions with Power BI Embedded
 ## Abstract:
@@ -57,7 +57,7 @@ This talk is a practical session on Microsoft Power BI Embedded concept with man
 #### SessionID: 102846
 # “SQL-like” or query languages in Azure IoT
 #### [Back to calendar](#nr-932)
-Event Date: 19-09-2020 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 19-09-2020 - Session time: 09:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Catalin Gheorghiu
 ## Title: “SQL-like” or query languages in Azure IoT
 ## Abstract:
@@ -69,7 +69,7 @@ So, we will leave no SQL query unturned  in Azure IoT Hub, Stream Analytics, Pow
 #### SessionID: 105763
 # Creating a photorealistic avatar using generative adversarial net
 #### [Back to calendar](#nr-932)
-Event Date: 19-09-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 19-09-2020 - Session time: 09:30:00 - Track: Analytics and Visualization
 ## Speaker: Sebastiano Galazzo
 ## Title: Creating a photorealistic avatar using generative adversarial net
 ## Abstract:
@@ -80,7 +80,7 @@ https://www.youtube.com/watch?v=pJ7VmOOMy4kfeature=youtu.be
 #### SessionID: 99196
 # Statistics, an unreliable friend.
 #### [Back to calendar](#nr-932)
-Event Date: 19-09-2020 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 19-09-2020 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Magnus Ahlkvist
 ## Title: Statistics, an unreliable friend.
 ## Abstract:
@@ -91,7 +91,7 @@ Much of this session is about the "ascending key problem", and how Microsoft hav
 #### SessionID: 101601
 # Monitoring SQL Server without breaking the bank
 #### [Back to calendar](#nr-932)
-Event Date: 19-09-2020 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-09-2020 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gianluca Sartori
 ## Title: Monitoring SQL Server without breaking the bank
 ## Abstract:
@@ -101,7 +101,7 @@ In this session we will combine multiple open source tools (InfluxDB, Telegraf ,
 #### SessionID: 101663
 # Query Folding in Power BI
 #### [Back to calendar](#nr-932)
-Event Date: 19-09-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 19-09-2020 - Session time: 10:45:00 - Track: Analytics and Visualization
 ## Speaker: Nicky van Vroenhoven
 ## Title: Query Folding in Power BI
 ## Abstract:
@@ -112,7 +112,7 @@ Attend this session to learn how to ensure that you get all the performance impr
 #### SessionID: 104353
 # Implementing security in Azure Data Platform Solutions
 #### [Back to calendar](#nr-932)
-Event Date: 19-09-2020 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-09-2020 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Aleksandar Talev
 ## Title: Implementing security in Azure Data Platform Solutions
 ## Abstract:
@@ -123,7 +123,7 @@ In this presentation, attendees will see how Azure provides a multi-layered secu
 #### SessionID: 108145
 # Magnificent 7 - Simple tricks to boost your Power BI development
 #### [Back to calendar](#nr-932)
-Event Date: 19-09-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 19-09-2020 - Session time: 12:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Nikola Ilic
 ## Title: Magnificent 7 - Simple tricks to boost your Power BI development
 ## Abstract:
@@ -132,7 +132,7 @@ Event Date: 19-09-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 98600
 # Performance Tuning with SQLDiag, the best free tool you never knew you had.
 #### [Back to calendar](#nr-932)
-Event Date: 19-09-2020 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-09-2020 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Martin
 ## Title: Performance Tuning with SQLDiag, the best free tool you never knew you had.
 ## Abstract:
@@ -147,7 +147,7 @@ By the end of this session you will be in a position to start using SQLDiag to p
 #### SessionID: 101212
 # Useful DAX and Power BI examples for everyday usage
 #### [Back to calendar](#nr-932)
-Event Date: 19-09-2020 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 19-09-2020 - Session time: 13:45:00 - Track: BI Information Delivery
 ## Speaker: Tomaž Kaštrun
 ## Title: Useful DAX and Power BI examples for everyday usage
 ## Abstract:
@@ -156,7 +156,7 @@ Event Date: 19-09-2020 - Session time: 15:00:00 - Track: BI Information Delivery
 #### SessionID: 107566
 # Transact-SQL Performance Tips
 #### [Back to calendar](#nr-932)
-Event Date: 19-09-2020 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 19-09-2020 - Session time: 13:45:00 - Track: Professional Development
 ## Speaker: Miloš Radivojević
 ## Title: Transact-SQL Performance Tips
 ## Abstract:
@@ -171,7 +171,7 @@ Session level: 200 - 300
 #### SessionID: 98766
 # Data Science in Power BI Desktop
 #### [Back to calendar](#nr-932)
-Event Date: 19-09-2020 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 19-09-2020 - Session time: 13:45:00 - Track: Analytics and Visualization
 ## Speaker: Dejan Sarka
 ## Title: Data Science in Power BI Desktop
 ## Abstract:

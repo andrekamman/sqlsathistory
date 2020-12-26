@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 48383
 # The PROCESS of Queries
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 06-08-2016 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: The PROCESS of Queries
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 49144
 # Infrastructure for the DBA: An Introduction
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-08-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: Infrastructure for the DBA: An Introduction
 ## Abstract:
@@ -61,7 +61,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 50329
 # What's new in Reporting Services 2016
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 06-08-2016 - Session time: 08:30:00 - Track: BI Information Delivery
 ## Speaker: Chris Albrektson
 ## Title: What's new in Reporting Services 2016
 ## Abstract:
@@ -70,7 +70,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 50614
 # Learning R Using Fantasy Football Data
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-08-2016 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Wilkie
 ## Title: Learning R Using Fantasy Football Data
 ## Abstract:
@@ -85,7 +85,7 @@ We'll go over the basics of R and rStudio, plus items such as:
 #### SessionID: 51198
 # The Sorcerer's Apprentice Guide to Configuration Options and Trace Flags
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-08-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Justin Randall
 ## Title: The Sorcerer's Apprentice Guide to Configuration Options and Trace Flags
 ## Abstract:
@@ -94,7 +94,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 51210
 # Power BI  SharePoint - A Marriage Made in Redmond
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-08-2016 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Glenn
 ## Title: Power BI  SharePoint - A Marriage Made in Redmond
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 47012
 # Word Up: Text Mining in SQL
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 06-08-2016 - Session time: 09:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dave Mattingly
 ## Title: Word Up: Text Mining in SQL
 ## Abstract:
@@ -116,7 +116,7 @@ Learn how to dig through your library of language to make your data better.
 #### SessionID: 48568
 # Why “R” you not leveraging the power of “R” in Power BI?!?
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-08-2016 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Wade
 ## Title: Why “R” you not leveraging the power of “R” in Power BI?!?
 ## Abstract:
@@ -127,7 +127,7 @@ In this session I will focus on the benefits of using R in Power BI. I will show
 #### SessionID: 48627
 # Baselines and Performance Monitoring with PAL
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-08-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Walsh
 ## Title: Baselines and Performance Monitoring with PAL
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 48969
 # The Lost Science of Set Theory
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 06-08-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Aaron Cutshall
 ## Title: The Lost Science of Set Theory
 ## Abstract:
@@ -145,7 +145,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 49106
 # Improving Your PowerPoint Skills
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 06-08-2016 - Session time: 09:45:00 - Track: Professional Development
 ## Speaker: Evelyn Maxwell
 ## Title: Improving Your PowerPoint Skills
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 51181
 # Service Broker: A Conceptual Approach
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 06-08-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: James King
 ## Title: Service Broker: A Conceptual Approach
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 48122
 # I’m It – Survival Techniques for the Lone DBA
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 06-08-2016 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I’m It – Survival Techniques for the Lone DBA
 ## Abstract:
@@ -172,7 +172,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 48560
 # Let Me Finish... Isolating Write Operations
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 06-08-2016 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Let Me Finish... Isolating Write Operations
 ## Abstract:
@@ -181,7 +181,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 48959
 # Wait Statistics - The Top 5 Waits You Should Know
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-08-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Wait Statistics - The Top 5 Waits You Should Know
 ## Abstract:
@@ -190,7 +190,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 50353
 # Women in Technology: Identifying, Understanding and Combating Gender Bias
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 06-08-2016 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Women in Technology: Identifying, Understanding and Combating Gender Bias
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 50421
 # Is your Flight on Time? – Power BI Dashboard
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 06-08-2016 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Kenney Snell
 ## Title: Is your Flight on Time? – Power BI Dashboard
 ## Abstract:
@@ -217,7 +217,7 @@ Finally, see the Dashboard in action and also how to use QA, a natural-language 
 #### SessionID: 52464
 # Exploring SQLPS, the SQL Server Powershell Module
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-08-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Exploring SQLPS, the SQL Server Powershell Module
 ## Abstract:
@@ -226,7 +226,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 48316
 # Stretch Database and Managed Backups: Cloud Services for your SQL Servers
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-08-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Loree
 ## Title: Stretch Database and Managed Backups: Cloud Services for your SQL Servers
 ## Abstract:
@@ -235,7 +235,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 50260
 # Query Store Primer
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-08-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
 ## Abstract:
@@ -244,7 +244,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 50474
 # Backup Strategies are for Losers...of Data!
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-08-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Watson
 ## Title: Backup Strategies are for Losers...of Data!
 ## Abstract:
@@ -253,7 +253,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 50644
 # Scalable Application Design with Service Broker
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 06-08-2016 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Allen White
 ## Title: Scalable Application Design with Service Broker
 ## Abstract:
@@ -262,7 +262,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 51078
 # Getting started with Always Encrypted in SQL Server 2016
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 06-08-2016 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Tim Chapman
 ## Title: Getting started with Always Encrypted in SQL Server 2016
 ## Abstract:
@@ -272,7 +272,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 52248
 # Getting Started with SQL Server Replication
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-08-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Verell
 ## Title: Getting Started with SQL Server Replication
 ## Abstract:
@@ -281,7 +281,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 48535
 # SQL Server and PowerShell: Let's Get Serious
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-08-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
 ## Abstract:
@@ -290,7 +290,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 48785
 # The Many Paths of Consulting
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 06-08-2016 - Session time: 14:15:00 - Track: Professional Development
 ## Speaker: David Klee
 ## Title: The Many Paths of Consulting
 ## Abstract:
@@ -302,7 +302,7 @@ This session will help you ask the right questions to better chose and prepare f
 #### SessionID: 48995
 # Statistics  Cardinality – How they work to find data efficiently
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-08-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: Statistics  Cardinality – How they work to find data efficiently
 ## Abstract:
@@ -314,7 +314,7 @@ In this session we will go over why statistics matter, how they are generated, h
 #### SessionID: 49322
 # Introduction to the Power BI Desktop
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 06-08-2016 - Session time: 14:15:00 - Track: BI Information Delivery
 ## Speaker: Patrick LeBlanc
 ## Title: Introduction to the Power BI Desktop
 ## Abstract:
@@ -323,7 +323,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 50335
 # Digging Out From Corruption
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-08-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eddie Wuerch
 ## Title: Digging Out From Corruption
 ## Abstract:
@@ -332,7 +332,7 @@ Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 50867
 # Top 5 Tips to Keep Always On Always Humming and Users Happy
 #### [Back to calendar](#nr-531)
-Event Date: 06-08-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-08-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: Top 5 Tips to Keep Always On Always Humming and Users Happy
 ## Abstract:

@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 105887
 # Demystification of Calculation Groups in Analysis Services Tabular
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-10-2020 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ruslan Zolotukhin
 ## Title: Demystification of Calculation Groups in Analysis Services Tabular
 ## Abstract:
@@ -40,7 +40,7 @@ Event Date: 10-10-2020 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 107482
 # Hacking SQL Server Is Not Enough
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 10-10-2020 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server Is Not Enough
 ## Abstract:
@@ -51,7 +51,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #### SessionID: 107647
 # SQL Server 2019 on containers and Kubernetes(k8s) from zero to an hero !
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 10-10-2020 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Itshak David
 ## Title: SQL Server 2019 on containers and Kubernetes(k8s) from zero to an hero !
 ## Abstract:
@@ -80,7 +80,7 @@ This is  a demo session only with minimum theory  lessons from the
 #### SessionID: 107781
 # Escenarios de modelado en DAX, el súper lenguaje de Power BI.
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 10-10-2020 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Ana Maria Bisbé York
 ## Title: Escenarios de modelado en DAX, el súper lenguaje de Power BI.
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 105526
 # 3 Ways for Getting Data from SharePoint : SSIS, Excel and Access
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 10-10-2020 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: David Patrick
 ## Title: 3 Ways for Getting Data from SharePoint : SSIS, Excel and Access
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 106019
 # How to get the most from Azure SQL Database
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 10-10-2020 - Session time: 10:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: How to get the most from Azure SQL Database
 ## Abstract:
@@ -109,7 +109,7 @@ We will also see some ways to lower the costs or increase performance without ha
 #### SessionID: 107458
 # Query folding in Power BI: maximizing the performance of database connections
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 10-10-2020 - Session time: 10:15:00 - Track: Analytics and Visualization
 ## Speaker: Orlando Mezquita
 ## Title: Query folding in Power BI: maximizing the performance of database connections
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 107863
 # 14 T-SQL Functions You May Not Know
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 10-10-2020 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: 14 T-SQL Functions You May Not Know
 ## Abstract:
@@ -127,7 +127,7 @@ Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 105986
 # Get data easily and fast with Cognitives Services
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 10-10-2020 - Session time: 11:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Alex Rostan
 ## Title: Get data easily and fast with Cognitives Services
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 107456
 # SQL Server Configuration with dbatools and dbachecks
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-10-2020 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: SQL Server Configuration with dbatools and dbachecks
 ## Abstract:
@@ -149,7 +149,7 @@ Attendees will see how easy it is to use PowerShell via dbatools to configure th
 #### SessionID: 107607
 # Big Data Clusters for the Absolute Beginner
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-10-2020 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohammad Darab
 ## Title: Big Data Clusters for the Absolute Beginner
 ## Abstract:
@@ -165,7 +165,7 @@ Topics include:
 #### SessionID: 108522
 # SQL Server 2019: Estrategias de Indexación para alto desempeño
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 10-10-2020 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2019: Estrategias de Indexación para alto desempeño
 ## Abstract:
@@ -178,7 +178,7 @@ Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 105750
 # Monitoring SQL Server using Community solutions (Free)
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-10-2020 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Javier Villegas
 ## Title: Monitoring SQL Server using Community solutions (Free)
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 107247
 # Forecasting con SQL Server R Services y PowerBI
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 10-10-2020 - Session time: 13:30:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: Forecasting con SQL Server R Services y PowerBI
 ## Abstract:
@@ -196,7 +196,7 @@ Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 107620
 # SQL Engine: Its Working Style
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-10-2020 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Deepthi Goguri
 ## Title: SQL Engine: Its Working Style
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 107846
 # Databricks for data engineers
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-10-2020 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Martha Chávez
 ## Title: Databricks for data engineers
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 10-10-2020 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 107293
 # Delivering a Data Warehouse in the Cloud
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-10-2020 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ahias Portillo
 ## Title: Delivering a Data Warehouse in the Cloud
 ## Abstract:
@@ -230,7 +230,7 @@ Loading data from a variety of sources, querying using PolyBase, securing and re
 #### SessionID: 107356
 # SELECT Questions FROM Diversity.Inclusion WHERE AfraidToAsk = 1
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 10-10-2020 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Andrea Mascher
 ## Title: SELECT Questions FROM Diversity.Inclusion WHERE AfraidToAsk = 1
 ## Abstract:
@@ -241,7 +241,7 @@ This session will cover key concepts in DEI and how they apply to data practitio
 #### SessionID: 107376
 # Power BI and Common Data Service
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-10-2020 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: MAYRA BADILLO VILLAMIZAR
 ## Title: Power BI and Common Data Service
 ## Abstract:
@@ -250,7 +250,7 @@ Event Date: 10-10-2020 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 107669
 # SQL DevOps
 #### [Back to calendar](#nr-1005)
-Event Date: 10-10-2020 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 10-10-2020 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Vladimir Guzman
 ## Title: SQL DevOps
 ## Abstract:

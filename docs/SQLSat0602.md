@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 57121
 # SQL 2016 New Feature: An introduction to Query Store
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: DBA
+Event Date: 18-03-2017 - Session time: 08:30:00 - Track: DBA
 ## Speaker: David Postlethwaite
 ## Title: SQL 2016 New Feature: An introduction to Query Store
 ## Abstract:
@@ -37,7 +37,7 @@ In this session we will examine Query Store, it's architecture, configuration an
 #### SessionID: 57178
 # Azure ML vs Cognitive Services Recommendations
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: DevOps
+Event Date: 18-03-2017 - Session time: 08:30:00 - Track: DevOps
 ## Speaker: Alexander Klein
 ## Title: Azure ML vs Cognitive Services Recommendations
 ## Abstract:
@@ -47,7 +47,7 @@ Cognitive services are becoming increasingly powerful and easy to address. With 
 #### SessionID: 57233
 # Scripting tabular models
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 18-03-2017 - Session time: 08:30:00 - Track: Business Intelligence
 ## Speaker: Bent Pedersen
 ## Title: Scripting tabular models
 ## Abstract:
@@ -60,7 +60,7 @@ The last thing i will show is how you speed up your development free up up to 50
 #### SessionID: 56932
 # Advanced insides into System Versioned Temporal Tables
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: DevOps
+Event Date: 18-03-2017 - Session time: 09:40:00 - Track: DevOps
 ## Speaker: Uwe Ricken
 ## Title: Advanced insides into System Versioned Temporal Tables
 ## Abstract:
@@ -80,7 +80,7 @@ You are interested in the answers to all the above questions (and more). This se
 #### SessionID: 57025
 # Deep Dive into the Azure-Powered Power BI Twitter Brand Campaign Solution
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 18-03-2017 - Session time: 09:40:00 - Track: Business Intelligence
 ## Speaker: Sam Lester
 ## Title: Deep Dive into the Azure-Powered Power BI Twitter Brand Campaign Solution
 ## Abstract:
@@ -94,7 +94,7 @@ https://powerbi.microsoft.com/en-us/solution-templates/brand-management-twitter/
 #### SessionID: 57122
 # SQL Server Problem Tombola
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: DBA
+Event Date: 18-03-2017 - Session time: 09:40:00 - Track: DBA
 ## Speaker: Stijn Wynants
 ## Title: SQL Server Problem Tombola
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 18-03-2017 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 57298
 # Big Data with Azure: where to begin? Concepts and best practices
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: DevOps
+Event Date: 18-03-2017 - Session time: 10:50:00 - Track: DevOps
 ## Speaker: Satya Jayanty
 ## Title: Big Data with Azure: where to begin? Concepts and best practices
 ## Abstract:
@@ -114,7 +114,7 @@ Microsoft Azure has the ability to move, store and analyze data within the cloud
 #### SessionID: 57399
 # Bioinformatics on Azure
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 18-03-2017 - Session time: 10:50:00 - Track: Business Intelligence
 ## Speaker: Tillmann Eitelberg
 ## Title: Bioinformatics on Azure
 ## Abstract:
@@ -123,7 +123,7 @@ Event Date: 18-03-2017 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 63155
 # Elegant T-SQL Solutions for Real World Problems
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: DBA
+Event Date: 18-03-2017 - Session time: 10:50:00 - Track: DBA
 ## Speaker: Matan Yungman
 ## Title: Elegant T-SQL Solutions for Real World Problems
 ## Abstract:
@@ -134,7 +134,7 @@ In this session, we will look at real world problems and solve them using T-SQL.
 #### SessionID: 56931
 # Real-Time Analytics: OLAP  OLTP in the mix!
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 18-03-2017 - Session time: 12:30:00 - Track: Business Intelligence
 ## Speaker: Stijn Wynants
 ## Title: Real-Time Analytics: OLAP  OLTP in the mix!
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 18-03-2017 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 56933
 # Mastering DML Operations like a master
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: DevOps
+Event Date: 18-03-2017 - Session time: 12:30:00 - Track: DevOps
 ## Speaker: Uwe Ricken
 ## Title: Mastering DML Operations like a master
 ## Abstract:
@@ -160,7 +160,7 @@ What performance drawbacks have Page Splits and Forwarded Records for my applica
 #### SessionID: 58245
 # NSA Secrets - Hacking SQL Server
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: DBA
+Event Date: 18-03-2017 - Session time: 12:30:00 - Track: DBA
 ## Speaker: André Melancia
 ## Title: NSA Secrets - Hacking SQL Server
 ## Abstract:
@@ -174,7 +174,7 @@ Disclaimer: No actual state secrets will be revealed. Please do not send agents 
 #### SessionID: 57018
 # The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: DBA
+Event Date: 18-03-2017 - Session time: 13:40:00 - Track: DBA
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 18-03-2017 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 57566
 # Transact-SQL traps and nasty surprises
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: DBA
+Event Date: 18-03-2017 - Session time: 13:40:00 - Track: DBA
 ## Speaker: Rudi Bruchez
 ## Title: Transact-SQL traps and nasty surprises
 ## Abstract:
@@ -196,7 +196,7 @@ Event Date: 18-03-2017 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 57645
 # Building Business Apps with Power BI, PowerApps and Flow
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 18-03-2017 - Session time: 13:40:00 - Track: Business Intelligence
 ## Speaker: Frank Geisler
 ## Title: Building Business Apps with Power BI, PowerApps and Flow
 ## Abstract:
@@ -205,7 +205,7 @@ Event Date: 18-03-2017 - Session time: 16:00:00 - Track: Business Intelligence
 #### SessionID: 56919
 # SQL Server  Containers
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: DBA
+Event Date: 18-03-2017 - Session time: 14:50:00 - Track: DBA
 ## Speaker: Andrew Pruski
 ## Title: SQL Server  Containers
 ## Abstract:
@@ -226,7 +226,7 @@ Windows Server administration
 #### SessionID: 58246
 # If a machine can learn, why can't YOU learn Azure Machine Learning?
 #### [Back to calendar](#nr-602)
-Event Date: 18-03-2017 - Session time: 16:00:00 - Track: Business Intelligence
+Event Date: 18-03-2017 - Session time: 14:50:00 - Track: Business Intelligence
 ## Speaker: André Melancia
 ## Title: If a machine can learn, why can't YOU learn Azure Machine Learning?
 ## Abstract:

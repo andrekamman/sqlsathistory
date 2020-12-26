@@ -48,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 86994
 # Machine Learning and Microsoft Cognitive Services
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 16-02-2019 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Keneth Murillo
 ## Title: Machine Learning and Microsoft Cognitive Services
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 87925
 # SQL Power Shell
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-02-2019 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Yanitza Campos
 ## Title: SQL Power Shell
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 88310
 # La nueva era Azure Data Factory v2
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-02-2019 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: La nueva era Azure Data Factory v2
 ## Abstract:
@@ -81,7 +81,7 @@ En esta charla pretendemos compartir las usabilidad de este servicio y orientarl
 #### SessionID: 88391
 # Integracion de Power BI con R
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 16-02-2019 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Raul Sao
 ## Title: Integracion de Power BI con R
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 88747
 # Piérdele el miedo a los Indices
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architecture
+Event Date: 16-02-2019 - Session time: 09:00:00 - Track: Strategy and Architecture
 ## Speaker: Mynor Bolanos
 ## Title: Piérdele el miedo a los Indices
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architectu
 #### SessionID: 88842
 # Azure Data Analytics: El poder de la información
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 16-02-2019 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: Azure Data Analytics: El poder de la información
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 86927
 # Performance Tuning for the BI Professional
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-02-2019 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: Performance Tuning for the BI Professional
 ## Abstract:
@@ -117,7 +117,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #### SessionID: 88781
 # Aspectos para Crear un Plan de Recuperacion de Desastres
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architecture
+Event Date: 16-02-2019 - Session time: 10:00:00 - Track: Strategy and Architecture
 ## Speaker: Carlos Lopez
 ## Title: Aspectos para Crear un Plan de Recuperacion de Desastres
 ## Abstract:
@@ -126,7 +126,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architectu
 #### SessionID: 88843
 # Azure SQL Datawarehouse: Mis primeros pasos
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: BI Information Delivery
+Event Date: 16-02-2019 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: Azure SQL Datawarehouse: Mis primeros pasos
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 #### SessionID: 88846
 # Extracción de datos de RDBMS hacia ambientes de Big Data como Azure Data Lake, Cassandra y Kafka
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Other
+Event Date: 16-02-2019 - Session time: 10:00:00 - Track: Other
 ## Speaker: Joseph Arriola
 ## Title: Extracción de datos de RDBMS hacia ambientes de Big Data como Azure Data Lake, Cassandra y Kafka
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Other
 #### SessionID: 88851
 # BI para una Farmacia de Pueblo
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architecture
+Event Date: 16-02-2019 - Session time: 10:00:00 - Track: Strategy and Architecture
 ## Speaker: Ricardo Estrada
 ## Title: BI para una Farmacia de Pueblo
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architectu
 #### SessionID: 89433
 # Accidental DBA 101, El inicio!!!
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Professional Development
+Event Date: 16-02-2019 - Session time: 10:00:00 - Track: Professional Development
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: Accidental DBA 101, El inicio!!!
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Professional Developmen
 #### SessionID: 89592
 # Manteniendo vivo al muerto - Taller de Migración de BD a SQL Database Managed Instances
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 16-02-2019 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Carlos Lone
 ## Title: Manteniendo vivo al muerto - Taller de Migración de BD a SQL Database Managed Instances
 ## Abstract:
@@ -173,7 +173,7 @@ En esta sesión explicaremos brevemente Qué es SQL Database Managed Instances, 
 #### SessionID: 87087
 # Introduction to Query Store
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-02-2019 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christian Araujo
 ## Title: Introduction to Query Store
 ## Abstract:
@@ -182,7 +182,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 87202
 # SQL Server 2019 new features!
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-02-2019 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alejandro Cordero
 ## Title: SQL Server 2019 new features!
 ## Abstract:
@@ -193,7 +193,7 @@ Una sesión apta para DBAs, desarrolladores y estudiantes de TI.
 #### SessionID: 87863
 # SQL Server Graph Databases
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Other
+Event Date: 16-02-2019 - Session time: 11:00:00 - Track: Other
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: SQL Server Graph Databases
 ## Abstract:
@@ -202,7 +202,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Other
 #### SessionID: 88824
 # Gestionando los datos como su activo más valioso
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-02-2019 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: byron maldonado
 ## Title: Gestionando los datos como su activo más valioso
 ## Abstract:
@@ -211,7 +211,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 89424
 # ENCONTRANDO EL ORIGEN DEL PROBLEMA
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-02-2019 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: PABLO JAVIER FERNANDEZ
 ## Title: ENCONTRANDO EL ORIGEN DEL PROBLEMA
 ## Abstract:
@@ -224,7 +224,7 @@ Además...olvídate completamente de reiniciar el servidor para "solucionar" el 
 #### SessionID: 89451
 # Ciencia de datos, implementado modelos de clasificación con Python
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
+Event Date: 16-02-2019 - Session time: 11:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ahias Portillo
 ## Title: Ciencia de datos, implementado modelos de clasificación con Python
 ## Abstract:
@@ -237,7 +237,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #### SessionID: 87927
 # El ABC de los Reportes
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 16-02-2019 - Session time: 12:00:00 - Track: Analytics and Visualization
 ## Speaker: Yanitza Campos
 ## Title: El ABC de los Reportes
 ## Abstract:
@@ -246,7 +246,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 88269
 # EL ARTE DE DOMINAR SQL SERVER DESDE LA PERSPECTIVA DEL DESARROLLO Y LA ADMINISTRACION
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-02-2019 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: PABLO JAVIER FERNANDEZ
 ## Title: EL ARTE DE DOMINAR SQL SERVER DESDE LA PERSPECTIVA DEL DESARROLLO Y LA ADMINISTRACION
 ## Abstract:
@@ -259,7 +259,7 @@ En esta sesión, ganarás conocimiento para una implementación de SQL Server 20
 #### SessionID: 88309
 # SQL en la nube o en tierra??...pensemos en SQL infraestructura hibrida
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architecture
+Event Date: 16-02-2019 - Session time: 12:00:00 - Track: Strategy and Architecture
 ## Speaker: Vladimir Guzman
 ## Title: SQL en la nube o en tierra??...pensemos en SQL infraestructura hibrida
 ## Abstract:
@@ -272,7 +272,7 @@ En esta sesión veremos como pueden trabajar en forma coordinada SQL On Premises
 #### SessionID: 88335
 # Azure Fundaments for the SQL Server DBA
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 16-02-2019 - Session time: 12:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Carlos Robles
 ## Title: Azure Fundaments for the SQL Server DBA
 ## Abstract:
@@ -286,7 +286,7 @@ During this session I will show you the basics about Azure, what it is, how it w
 #### SessionID: 88400
 # Introduccion a Machine Learning
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
+Event Date: 16-02-2019 - Session time: 12:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Raul Sao
 ## Title: Introduccion a Machine Learning
 ## Abstract:
@@ -295,7 +295,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #### SessionID: 88780
 # Necesito implementar Power BI en mi empresa ¿por donde empiezo?
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architecture
+Event Date: 16-02-2019 - Session time: 12:00:00 - Track: Strategy and Architecture
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Necesito implementar Power BI en mi empresa ¿por donde empiezo?
 ## Abstract:
@@ -304,7 +304,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Strategy and Architectu
 #### SessionID: 88848
 # Dr Rudo SQL presenta: Mejores practicas de un DBA para aprovechar SQL Server 2019
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-02-2019 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Dr Rudo SQL presenta: Mejores practicas de un DBA para aprovechar SQL Server 2019
 ## Abstract:
@@ -313,7 +313,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 86925
 # Data Visualization: How to truly tell a great story!
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 16-02-2019 - Session time: 14:15:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization: How to truly tell a great story!
 ## Abstract:
@@ -322,7 +322,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 87089
 # Introduction to azure cosmos DB
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-02-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christian Araujo
 ## Title: Introduction to azure cosmos DB
 ## Abstract:
@@ -331,7 +331,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 88121
 # SQL Server containers on Docker, Kubernetes and more
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-02-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carlos Robles
 ## Title: SQL Server containers on Docker, Kubernetes and more
 ## Abstract:
@@ -344,7 +344,7 @@ Join me to discuss further about this interesting topic that is called by some e
 #### SessionID: 88308
 # Analisis en tiempo real con Power BI
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 16-02-2019 - Session time: 14:15:00 - Track: Analytics and Visualization
 ## Speaker: Vladimir Guzman
 ## Title: Analisis en tiempo real con Power BI
 ## Abstract:
@@ -356,7 +356,7 @@ En esta sesión se mostrara como:
 #### SessionID: 88844
 # Big Data en la Nube - Ecosistema Hadoop con HDInsight
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-02-2019 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joseph Arriola
 ## Title: Big Data en la Nube - Ecosistema Hadoop con HDInsight
 ## Abstract:
@@ -366,7 +366,7 @@ Una forma de implementar de forma rápida un proyecto de Big Data es a través d
 #### SessionID: 88847
 # Dr Rudo SQL presenta: Fin del soporte de SQL 2008-2008R2 ¿cómo migrar mi base de datos a Azure?
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-02-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Dr Rudo SQL presenta: Fin del soporte de SQL 2008-2008R2 ¿cómo migrar mi base de datos a Azure?
 ## Abstract:
@@ -375,7 +375,7 @@ Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 88849
 # Introducción a R y Visual Studio
 #### [Back to calendar](#nr-828)
-Event Date: 16-02-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
+Event Date: 16-02-2019 - Session time: 14:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ricardo Estrada
 ## Title: Introducción a R y Visual Studio
 ## Abstract:

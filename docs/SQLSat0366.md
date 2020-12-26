@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 14865
 # Discover the performance hidden secrets with the Microsoft Performance Analysis of Logs (PAL) Tool
 #### [Back to calendar](#nr-366)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 1 (DBA)
+Event Date: 25-04-2015 - Session time: 09:00:00 - Track: Track 1 (DBA)
 ## Speaker: Michelle Kamrat Gutzait
 ## Title: Discover the performance hidden secrets with the Microsoft Performance Analysis of Logs (PAL) Tool
 ## Abstract:
@@ -27,7 +27,7 @@ This session covers the Microsoft  PAL tool report and how to easily find perfor
 #### SessionID: 22124
 # Interactive Data Visualizations in Power View 
 #### [Back to calendar](#nr-366)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 2 (BI)
+Event Date: 25-04-2015 - Session time: 09:00:00 - Track: Track 2 (BI)
 ## Speaker: Phillip Labry
 ## Title: Interactive Data Visualizations in Power View 
 ## Abstract:
@@ -36,7 +36,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 2 (BI)
 #### SessionID: 11578
 # Azure Data Factory concepts
 #### [Back to calendar](#nr-366)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 2 (BI)
+Event Date: 25-04-2015 - Session time: 10:45:00 - Track: Track 2 (BI)
 ## Speaker: Christian Cote
 ## Title: Azure Data Factory concepts
 ## Abstract:
@@ -45,7 +45,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 2 (BI)
 #### SessionID: 19997
 # Query Plans and Indexes in SQL Server
 #### [Back to calendar](#nr-366)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 1 (DBA)
+Event Date: 25-04-2015 - Session time: 10:45:00 - Track: Track 1 (DBA)
 ## Speaker: Michael DeFehr
 ## Title: Query Plans and Indexes in SQL Server
 ## Abstract:
@@ -54,7 +54,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 1 (DBA)
 #### SessionID: 12146
 # Best Practices for Fabric Configuration of SQL Server Workloads in Private Cloud Environments
 #### [Back to calendar](#nr-366)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 1 (DBA)
+Event Date: 25-04-2015 - Session time: 13:15:00 - Track: Track 1 (DBA)
 ## Speaker: Damir Bersinic
 ## Title: Best Practices for Fabric Configuration of SQL Server Workloads in Private Cloud Environments
 ## Abstract:
@@ -65,7 +65,7 @@ In this session you will learn how to configure the four key fabric resources (C
 #### SessionID: 25590
 # DAX and the tabular model
 #### [Back to calendar](#nr-366)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 2 (BI)
+Event Date: 25-04-2015 - Session time: 13:15:00 - Track: Track 2 (BI)
 ## Speaker: Steve Simon
 ## Title: DAX and the tabular model
 ## Abstract:
@@ -75,7 +75,7 @@ We shall discuss many of the often used functions, discuss their 'overloads' (ut
 #### SessionID: 21200
 # 	What a DBA need to know about In-Memory OLTP?
 #### [Back to calendar](#nr-366)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 1 (DBA)
+Event Date: 25-04-2015 - Session time: 15:00:00 - Track: Track 1 (DBA)
 ## Speaker: Murilo Miranda
 ## Title: 	What a DBA need to know about In-Memory OLTP?
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 1 (DBA)
 #### SessionID: 21686
 # Setting up your BI Infrastructure
 #### [Back to calendar](#nr-366)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: Track 2 (BI)
+Event Date: 25-04-2015 - Session time: 15:00:00 - Track: Track 2 (BI)
 ## Speaker: Paresh Motiwala
 ## Title: Setting up your BI Infrastructure
 ## Abstract:

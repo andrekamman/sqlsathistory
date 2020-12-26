@@ -77,7 +77,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 10161
 # Inside the Query Optimizer
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 09:15:00 - Track: Other
 ## Speaker: Bradley Ball
 ## Title: Inside the Query Optimizer
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 13992
 # Building ETL Frameworks using SSIS Programming
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 09:15:00 - Track: Other
 ## Speaker: Jorge Novo
 ## Title: Building ETL Frameworks using SSIS Programming
 ## Abstract:
@@ -95,7 +95,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 14375
 # How to Identify Database Performance Issues
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 09:15:00 - Track: Other
 ## Speaker: Jean Joseph
 ## Title: How to Identify Database Performance Issues
 ## Abstract:
@@ -105,7 +105,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 14789
 # Automating Your Database Deployments
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: CI / DevOps / Automation
+Event Date: 30-05-2015 - Session time: 09:15:00 - Track: CI / DevOps / Automation
 ## Speaker: Grant Fritchey
 ## Title: Automating Your Database Deployments
 ## Abstract:
@@ -117,7 +117,7 @@ In this session, we'll explore the concepts of continuous integration and contin
 #### SessionID: 14985
 # Replication Technologies
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 09:15:00 - Track: Other
 ## Speaker: Hilary Cotter
 ## Title: Replication Technologies
 ## Abstract:
@@ -127,7 +127,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 17795
 # Analysis Services Security
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: BI / SSAS / DW
+Event Date: 30-05-2015 - Session time: 09:15:00 - Track: BI / SSAS / DW
 ## Speaker: Jens Vestergaard
 ## Title: Analysis Services Security
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: BI / SSAS / DW
 #### SessionID: 19097
 # Learning Entity Framework 6
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 09:15:00 - Track: Other
 ## Speaker: Leonard Lobel
 ## Title: Learning Entity Framework 6
 ## Abstract:
@@ -147,7 +147,7 @@ We’ll begin with a quick introduction to ORM and EF, and then explain many of 
 #### SessionID: 22855
 # Continuous Integration with SQL Server Data Tools and TFS
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: CI / DevOps / Automation
+Event Date: 30-05-2015 - Session time: 09:15:00 - Track: CI / DevOps / Automation
 ## Speaker: Regis Baccaro
 ## Title: Continuous Integration with SQL Server Data Tools and TFS
 ## Abstract:
@@ -156,7 +156,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: CI / DevOps / Automatio
 #### SessionID: 25768
 # Introducing the Azure Data Factory
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Virtualization / Cloud
+Event Date: 30-05-2015 - Session time: 09:15:00 - Track: Virtualization / Cloud
 ## Speaker: Steve Hughes
 ## Title: Introducing the Azure Data Factory
 ## Abstract:
@@ -165,7 +165,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Virtualization / Cloud
 #### SessionID: 27521
 # Extended Properties and how to automate DB Documenting process. 
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: SQL Developer
+Event Date: 30-05-2015 - Session time: 09:15:00 - Track: SQL Developer
 ## Speaker: Slava Murygin
 ## Title: Extended Properties and how to automate DB Documenting process. 
 ## Abstract:
@@ -177,7 +177,7 @@ If any of your answers is "NO" then you have to attend this session.
 #### SessionID: 35683
 # Basic Monitoring with Perfmon
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 09:15:00 - Track: Other
 ## Speaker: Rick Heiges
 ## Title: Basic Monitoring with Perfmon
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 36551
 # SSRS 101 to 301: Learn how to build Simple and Intermediate level
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 09:15:00 - Track: Other
 ## Speaker: Ravi Kumar
 ## Title: SSRS 101 to 301: Learn how to build Simple and Intermediate level
 ## Abstract:
@@ -195,7 +195,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 14000
 # Win or lose: predicting customer response using Azure Machine Learning
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Virtualization / Cloud
+Event Date: 30-05-2015 - Session time: 10:35:00 - Track: Virtualization / Cloud
 ## Speaker: Kevin Feit
 ## Title: Win or lose: predicting customer response using Azure Machine Learning
 ## Abstract:
@@ -204,7 +204,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Virtualization / Cloud
 #### SessionID: 15612
 # Enhancing your career: Building your personal brand
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Career / Soft Skills
+Event Date: 30-05-2015 - Session time: 10:35:00 - Track: Career / Soft Skills
 ## Speaker: James Serra
 ## Title: Enhancing your career: Building your personal brand
 ## Abstract:
@@ -213,7 +213,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Career / Soft Skills
 #### SessionID: 16706
 # Introducing the Reimagined Power BI Platform 
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: BI / SSAS / DW
+Event Date: 30-05-2015 - Session time: 10:35:00 - Track: BI / SSAS / DW
 ## Speaker: Jen Underwood
 ## Title: Introducing the Reimagined Power BI Platform 
 ## Abstract:
@@ -222,7 +222,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: BI / SSAS / DW
 #### SessionID: 19100
 # Geospatial Data Types in SQL Server 2012
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 10:35:00 - Track: Other
 ## Speaker: Leonard Lobel
 ## Title: Geospatial Data Types in SQL Server 2012
 ## Abstract:
@@ -231,7 +231,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 19565
 # Lock, Block and Two Smoking Barrels - Inside SQL Server Concurrency
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 10:35:00 - Track: Other
 ## Speaker: Mark Broadbent
 ## Title: Lock, Block and Two Smoking Barrels - Inside SQL Server Concurrency
 ## Abstract:
@@ -240,7 +240,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 23558
 # DBA for Dummies
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Career / Soft Skills
+Event Date: 30-05-2015 - Session time: 10:35:00 - Track: Career / Soft Skills
 ## Speaker: Robert Pearl
 ## Title: DBA for Dummies
 ## Abstract:
@@ -249,7 +249,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Career / Soft Skills
 #### SessionID: 24435
 # SQL Server Agent: The life preserver for the drowning DBA
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 10:35:00 - Track: Other
 ## Speaker: Lance Tidwell
 ## Title: SQL Server Agent: The life preserver for the drowning DBA
 ## Abstract:
@@ -262,7 +262,7 @@ In addition we will look into how to monitor the jobs and alerts created.  Lastl
 #### SessionID: 26833
 # Audit Solutions using SQL Azure Database Audit  the SQL Server Audit Feature
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 10:35:00 - Track: Other
 ## Speaker: Timothy McAliley
 ## Title: Audit Solutions using SQL Azure Database Audit  the SQL Server Audit Feature
 ## Abstract:
@@ -271,7 +271,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 28342
 # Version control with GIT for the DBA
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: CI / DevOps / Automation
+Event Date: 30-05-2015 - Session time: 10:35:00 - Track: CI / DevOps / Automation
 ## Speaker: Justin Dearing
 ## Title: Version control with GIT for the DBA
 ## Abstract:
@@ -293,7 +293,7 @@ We will be covering using git from both the command line and Vis
 #### SessionID: 34763
 # Accounting Basics for Database Developers
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 10:35:00 - Track: Other
 ## Speaker: Mark Frawley
 ## Title: Accounting Basics for Database Developers
 ## Abstract:
@@ -308,7 +308,7 @@ The session will conclude with a brief demo showing how SQL Server's Analysis Se
 #### SessionID: 35595
 # Efficient table design
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: SQL Developer
+Event Date: 30-05-2015 - Session time: 10:35:00 - Track: SQL Developer
 ## Speaker: Alex Grinberg
 ## Title: Efficient table design
 ## Abstract:
@@ -317,7 +317,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: SQL Developer
 #### SessionID: 35596
 # Top 10 Clustering Dos and Don'ts
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 10:35:00 - Track: Other
 ## Speaker: Allan Hirt
 ## Title: Top 10 Clustering Dos and Don'ts
 ## Abstract:
@@ -326,7 +326,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 35630
 # Tips for SQL Server Performance and Resiliency
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 10:35:00 - Track: Other
 ## Speaker: Chris Shaw
 ## Title: Tips for SQL Server Performance and Resiliency
 ## Abstract:
@@ -338,7 +338,7 @@ These patterns are so clear in fact that I many SQL Servers will benefit from th
 #### SessionID: 35714
 # Flash  SQL Server— Re-Thinking Best Practices
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 10:35:00 - Track: Other
 ## Speaker: J May
 ## Title: Flash  SQL Server— Re-Thinking Best Practices
 ## Abstract:
@@ -347,7 +347,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 18127
 # Autogenerating a process data warehouse
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 12:15:00 - Track: Other
 ## Speaker: Kennie Pontoppidan
 ## Title: Autogenerating a process data warehouse
 ## Abstract:
@@ -358,7 +358,7 @@ In this talk I will show you how Rehfeld has overcome this difficult problem usi
 #### SessionID: 37585
 # Ask the Microsoft Engineer
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 12:15:00 - Track: Other
 ## Speaker: Simon Facer
 ## Title: Ask the Microsoft Engineer
 ## Abstract:
@@ -367,7 +367,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 37587
 # Master Data Management with SQL MDS and Maestro
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 12:15:00 - Track: Other
 ## Speaker: Dennis Messina
 ## Title: Master Data Management with SQL MDS and Maestro
 ## Abstract:
@@ -376,7 +376,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 37597
 # SQL 2016... What does it give you?
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: BI / SSAS / DW
+Event Date: 30-05-2015 - Session time: 12:15:00 - Track: BI / SSAS / DW
 ## Speaker: George Walters
 ## Title: SQL 2016... What does it give you?
 ## Abstract:
@@ -386,7 +386,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: BI / SSAS / DW
 #### SessionID: 37615
 # E-discovery and kCura - Building an e-discovery community on SQL Server
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Career / Soft Skills
+Event Date: 30-05-2015 - Session time: 12:15:00 - Track: Career / Soft Skills
 ## Speaker: Scott Ellis
 ## Title: E-discovery and kCura - Building an e-discovery community on SQL Server
 ## Abstract:
@@ -396,7 +396,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Career / Soft Skills
 #### SessionID: 13176
 # The Quest for the Golden Record:MDM Best Practices
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 13:05:00 - Track: Other
 ## Speaker: Dennis Messina
 ## Title: The Quest for the Golden Record:MDM Best Practices
 ## Abstract:
@@ -406,7 +406,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 13868
 # Dynamic SQL: Writing Efficient Queries on the Fly
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: SQL Developer
+Event Date: 30-05-2015 - Session time: 13:05:00 - Track: SQL Developer
 ## Speaker: Edward Pollack
 ## Title: Dynamic SQL: Writing Efficient Queries on the Fly
 ## Abstract:
@@ -417,7 +417,7 @@ Explore the many uses for dynamic SQL as well as best practices for writing, tes
 #### SessionID: 14791
 # Execution Plans: What Can You Do With Them?
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 13:05:00 - Track: Other
 ## Speaker: Grant Fritchey
 ## Title: Execution Plans: What Can You Do With Them?
 ## Abstract:
@@ -426,7 +426,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 17534
 # Show me whatcha workin' with: Big Data Edition
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: NoSQL / Big Data
+Event Date: 30-05-2015 - Session time: 13:05:00 - Track: NoSQL / Big Data
 ## Speaker: Josh Luedeman
 ## Title: Show me whatcha workin' with: Big Data Edition
 ## Abstract:
@@ -435,7 +435,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: NoSQL / Big Data
 #### SessionID: 18356
 # Advanced SQL Server Analysis Services
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: BI / SSAS / DW
+Event Date: 30-05-2015 - Session time: 13:05:00 - Track: BI / SSAS / DW
 ## Speaker: Kevin Goff
 ## Title: Advanced SQL Server Analysis Services
 ## Abstract:
@@ -444,7 +444,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: BI / SSAS / DW
 #### SessionID: 18574
 # Turbo Boost Performance: In Memory Tables index optimizations
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: SQL Developer
+Event Date: 30-05-2015 - Session time: 13:05:00 - Track: SQL Developer
 ## Speaker: Konstantin Melamud
 ## Title: Turbo Boost Performance: In Memory Tables index optimizations
 ## Abstract:
@@ -453,7 +453,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: SQL Developer
 #### SessionID: 19610
 # Architecting Real-Time Data Warehouses with SQL Server
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: BI / SSAS / DW
+Event Date: 30-05-2015 - Session time: 13:05:00 - Track: BI / SSAS / DW
 ## Speaker: Mark Murphy
 ## Title: Architecting Real-Time Data Warehouses with SQL Server
 ## Abstract:
@@ -462,7 +462,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: BI / SSAS / DW
 #### SessionID: 21812
 # ETL not ELT!  Common mistakes and misconceptions about SSIS
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 13:05:00 - Track: Other
 ## Speaker: Paul Rizza
 ## Title: ETL not ELT!  Common mistakes and misconceptions about SSIS
 ## Abstract:
@@ -472,7 +472,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 22080
 # Common Coding Mistakes and how to Mitigate them
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: SQL Developer
+Event Date: 30-05-2015 - Session time: 13:05:00 - Track: SQL Developer
 ## Speaker: William Wolf
 ## Title: Common Coding Mistakes and how to Mitigate them
 ## Abstract:
@@ -481,7 +481,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: SQL Developer
 #### SessionID: 23912
 # SSIS Data Flow Engine: Under the Hood
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 13:05:00 - Track: Other
 ## Speaker: Samuel Vanga
 ## Title: SSIS Data Flow Engine: Under the Hood
 ## Abstract:
@@ -493,7 +493,7 @@ work for you in an efficient and optimal way.
 #### SessionID: 24291
 # Monster Text Manipulation: Regular Expressions for the DBA
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: SQL Developer
+Event Date: 30-05-2015 - Session time: 13:05:00 - Track: SQL Developer
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
 ## Abstract:
@@ -502,7 +502,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: SQL Developer
 #### SessionID: 25648
 # Business Analytics with SQL Server  Power Map:Everything you want to know but were afraid to ask 
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: BI / SSAS / DW
+Event Date: 30-05-2015 - Session time: 13:05:00 - Track: BI / SSAS / DW
 ## Speaker: Steve Simon
 ## Title: Business Analytics with SQL Server  Power Map:Everything you want to know but were afraid to ask 
 ## Abstract:
@@ -512,7 +512,7 @@ In the hands-on presentation we shall be constructing a few simple analytic repo
 #### SessionID: 35824
 # But it worked great in Dev!  Perfomance for Devs
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: SQL Developer
+Event Date: 30-05-2015 - Session time: 13:05:00 - Track: SQL Developer
 ## Speaker: Randy Knight
 ## Title: But it worked great in Dev!  Perfomance for Devs
 ## Abstract:
@@ -522,7 +522,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: SQL Developer
 #### SessionID: 35921
 # The Life Cycle of a Query in VR
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 13:05:00 - Track: Other
 ## Speaker: Todd Kleinhans
 ## Title: The Life Cycle of a Query in VR
 ## Abstract:
@@ -531,7 +531,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 15870
 # Dimensional Modeling Design Patterns: Beyond Basics
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: BI / SSAS / DW
+Event Date: 30-05-2015 - Session time: 14:25:00 - Track: BI / SSAS / DW
 ## Speaker: Jason Horner
 ## Title: Dimensional Modeling Design Patterns: Beyond Basics
 ## Abstract:
@@ -540,7 +540,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: BI / SSAS / DW
 #### SessionID: 16100
 # Comprehensive Indexing with Automated Execution Plan Analysis
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 14:25:00 - Track: Other
 ## Speaker: Joe Chang
 ## Title: Comprehensive Indexing with Automated Execution Plan Analysis
 ## Abstract:
@@ -549,7 +549,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 16237
 # Building Perfect SQL Servers, Every Time
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: CI / DevOps / Automation
+Event Date: 30-05-2015 - Session time: 14:25:00 - Track: CI / DevOps / Automation
 ## Speaker: Joseph D'Antoni
 ## Title: Building Perfect SQL Servers, Every Time
 ## Abstract:
@@ -559,7 +559,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: CI / DevOps / Automatio
 #### SessionID: 16504
 # Introduction to Powershell cmdlets for DBAs
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 14:25:00 - Track: Other
 ## Speaker: Jennifer McCown
 ## Title: Introduction to Powershell cmdlets for DBAs
 ## Abstract:
@@ -568,7 +568,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 18128
 # SQL anti patterns
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: SQL Developer
+Event Date: 30-05-2015 - Session time: 14:25:00 - Track: SQL Developer
 ## Speaker: Kennie Pontoppidan
 ## Title: SQL anti patterns
 ## Abstract:
@@ -579,7 +579,7 @@ We will become acquainted with antipatterns on a physical level, a logical level
 #### SessionID: 18349
 # T-SQL for Application Developers - Attendees chose
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: SQL Developer
+Event Date: 30-05-2015 - Session time: 14:25:00 - Track: SQL Developer
 ## Speaker: Kevin Goff
 ## Title: T-SQL for Application Developers - Attendees chose
 ## Abstract:
@@ -589,7 +589,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: SQL Developer
 #### SessionID: 20238
 # Database Virtualization and Drinking out of the Fire Hose
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Virtualization / Cloud
+Event Date: 30-05-2015 - Session time: 14:25:00 - Track: Virtualization / Cloud
 ## Speaker: Michael Corey
 ## Title: Database Virtualization and Drinking out of the Fire Hose
 ## Abstract:
@@ -598,7 +598,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Virtualization / Cloud
 #### SessionID: 24301
 # Top Ten SQL Server Flameouts- how to detect, fix and avoid them.
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 14:25:00 - Track: Other
 ## Speaker: Scott Ellis
 ## Title: Top Ten SQL Server Flameouts- how to detect, fix and avoid them.
 ## Abstract:
@@ -609,7 +609,7 @@ We will discuss the causes, prevention, rapid diagnosis, monitoring techniques, 
 #### SessionID: 24812
 # Querying Active Directory From SSRS To Secure Reports And Enhance The User Experience
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 14:25:00 - Track: Other
 ## Speaker: Wes Springob
 ## Title: Querying Active Directory From SSRS To Secure Reports And Enhance The User Experience
 ## Abstract:
@@ -619,7 +619,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 27645
 # The Best Practices for Columnstore Indexes
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 14:25:00 - Track: Other
 ## Speaker: Warner Chaves
 ## Title: The Best Practices for Columnstore Indexes
 ## Abstract:
@@ -629,7 +629,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 35655
 # SSIS-restart, scale up/out, load balance.
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 14:25:00 - Track: Other
 ## Speaker: Daniel Bowlin
 ## Title: SSIS-restart, scale up/out, load balance.
 ## Abstract:
@@ -638,7 +638,7 @@ Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
 #### SessionID: 35692
 # Basic Database Design
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: SQL Developer
+Event Date: 30-05-2015 - Session time: 14:25:00 - Track: SQL Developer
 ## Speaker: John Miner
 ## Title: Basic Database Design
 ## Abstract:
@@ -652,7 +652,7 @@ Topics are focused on data storage structures, security, and integrity. After th
 #### SessionID: 35814
 # Securing a Multi-Database Applications
 #### [Back to calendar](#nr-380)
-Event Date: 30-05-2015 - Session time: 15:45:00 - Track: Other
+Event Date: 30-05-2015 - Session time: 14:25:00 - Track: Other
 ## Speaker: Sebastian Meine
 ## Title: Securing a Multi-Database Applications
 ## Abstract:

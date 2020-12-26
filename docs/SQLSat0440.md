@@ -52,7 +52,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 36726
 # What Every DBA Needs To Know About Storage For SQL Server
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-10-2015 - Session time: 08:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Slocum
 ## Title: What Every DBA Needs To Know About Storage For SQL Server
 ## Abstract:
@@ -63,7 +63,7 @@ In this session we will discuss RAID types, Local/Direct Attached Storage vs SAN
 #### SessionID: 36730
 # What is a DBA?
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-10-2015 - Session time: 08:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael John
 ## Title: What is a DBA?
 ## Abstract:
@@ -73,7 +73,7 @@ Presented by Michael John and  Ed Wagner
 #### SessionID: 36790
 # Query Tuning - Get it Right the First Time 
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-10-2015 - Session time: 08:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Query Tuning - Get it Right the First Time 
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 36801
 # APPLY Yourself
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 03-10-2015 - Session time: 08:50:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database D
 #### SessionID: 37723
 # Self-Service ETL with Power Query
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-10-2015 - Session time: 08:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan Clark
 ## Title: Self-Service ETL with Power Query
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Platform Architectur
 #### SessionID: 37879
 # Get Familiar with Spatial Data
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 03-10-2015 - Session time: 08:50:00 - Track: Application  Database Development
 ## Speaker: Slava Murygin
 ## Title: Get Familiar with Spatial Data
 ## Abstract:
@@ -112,7 +112,7 @@ We'll go through very basic SQL Server Spatial data functionality and draw some 
 #### SessionID: 39423
 # Data Architecture 101
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 03-10-2015 - Session time: 08:50:00 - Track: Application  Database Development
 ## Speaker: Pat Phelan
 ## Title: Data Architecture 101
 ## Abstract:
@@ -124,7 +124,7 @@ You’ll get a big bonus if you build this right, but you also remember what you
 #### SessionID: 36769
 # Introduction to the Script Task in SSIS
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-10-2015 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Katie Vetter
 ## Title: Introduction to the Script Task in SSIS
 ## Abstract:
@@ -135,7 +135,7 @@ I'll introduce you to the SSIS Script Task and beginner-intermediate level  vb s
 #### SessionID: 36898
 # DBA Monitoring and Maintenance Fundamentals
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-10-2015 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warren Sifre
 ## Title: DBA Monitoring and Maintenance Fundamentals
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 37093
 # Dynamic SQL: Build Fast, Flexible Queries
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 03-10-2015 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Jeremiah Peschka
 ## Title: Dynamic SQL: Build Fast, Flexible Queries
 ## Abstract:
@@ -156,7 +156,7 @@ Jeremiah Peschka has been making extensive use of dynamic SQL throughout his car
 #### SessionID: 37965
 # SQL Server and PowerShell: Let's Get Serious
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-10-2015 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Drew Furgiuele
 ## Title: SQL Server and PowerShell: Let's Get Serious
 ## Abstract:
@@ -165,7 +165,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 38218
 # First Look at SQL Server 2016
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-10-2015 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Heiges
 ## Title: First Look at SQL Server 2016
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 39750
 # Disabling xp_CmdShell…Is it Really a “Best Practice”?
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-10-2015 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Moden
 ## Title: Disabling xp_CmdShell…Is it Really a “Best Practice”?
 ## Abstract:
@@ -188,7 +188,7 @@ Come to this session to find out why turning off xp_CmdShell may be a "worst pra
 #### SessionID: 40929
 # A typical day in the life of a DBA
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 03-10-2015 - Session time: 10:00:00 - Track: Professional Development
 ## Speaker: Matt Gallentine
 ## Title: A typical day in the life of a DBA
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Developmen
 #### SessionID: 36934
 # Licensing Simplified Into Awesome Diagrams
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Strategy and Architecture
+Event Date: 03-10-2015 - Session time: 11:10:00 - Track: Strategy and Architecture
 ## Speaker: Brent Ozar
 ## Title: Licensing Simplified Into Awesome Diagrams
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Strategy and Architectu
 #### SessionID: 39560
 # Make Your SQL Server Queries Go Faster
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-10-2015 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: Make Your SQL Server Queries Go Faster
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 39564
 # Surviving a Technical SQL Interview
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 03-10-2015 - Session time: 11:10:00 - Track: Professional Development
 ## Speaker: Reed Powell
 ## Title: Surviving a Technical SQL Interview
 ## Abstract:
@@ -225,7 +225,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Developmen
 #### SessionID: 39732
 # Fixing Page Life Expectancy
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 03-10-2015 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Steve Hood
 ## Title: Fixing Page Life Expectancy
 ## Abstract:
@@ -234,7 +234,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database D
 #### SessionID: 39760
 # The TSQL Review for the Busy Data Professional
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 03-10-2015 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Carlos L Chacon
 ## Title: The TSQL Review for the Busy Data Professional
 ## Abstract:
@@ -243,7 +243,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database D
 #### SessionID: 40930
 # What makes a good DBA?
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 03-10-2015 - Session time: 11:10:00 - Track: Professional Development
 ## Speaker: Brandi Dollar
 ## Title: What makes a good DBA?
 ## Abstract:
@@ -252,7 +252,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Developmen
 #### SessionID: 41191
 # Optimizing your data warehouse for OLAP Processing
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-10-2015 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Konstantin Melamud
 ## Title: Optimizing your data warehouse for OLAP Processing
 ## Abstract:
@@ -261,7 +261,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Platform Architectur
 #### SessionID: 40918
 # Dell Lunchtime session
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Other
+Event Date: 03-10-2015 - Session time: 12:50:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: Dell Lunchtime session
 ## Abstract:
@@ -271,7 +271,7 @@ Food is not permitted in the classrooms.  Please eat lunch in the gallery first 
 #### SessionID: 40919
 # Profisee lunchtime session
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Other
+Event Date: 03-10-2015 - Session time: 12:50:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: Profisee lunchtime session
 ## Abstract:
@@ -281,7 +281,7 @@ Food is not permitted in the classrooms.  Please eat lunch in the gallery first 
 #### SessionID: 40920
 # Pyramid Analytics lunchtime session
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Other
+Event Date: 03-10-2015 - Session time: 12:50:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: Pyramid Analytics lunchtime session
 ## Abstract:
@@ -291,7 +291,7 @@ Food is not permitted in the classrooms.  Please eat lunch in the gallery first 
 #### SessionID: 40931
 # Women In Technology
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 03-10-2015 - Session time: 12:50:00 - Track: Professional Development
 ## Speaker: Katie Vetter
 ## Title: Women In Technology
 ## Abstract:
@@ -301,7 +301,7 @@ Food is not permitted in the classrooms, so please eat in the Gallery first and 
 #### SessionID: 36752
 # Going beyond SELECT *
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 03-10-2015 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Eugene Meidinger
 ## Title: Going beyond SELECT *
 ## Abstract:
@@ -310,7 +310,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Application  Database D
 #### SessionID: 37003
 # Dealing With Difficult People
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 03-10-2015 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Gigi Bell
 ## Title: Dealing With Difficult People
 ## Abstract:
@@ -319,7 +319,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Professional Developmen
 #### SessionID: 38561
 # 14 Features in SQL Server 2014 You Haven't Considered
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Strategy and Architecture
+Event Date: 03-10-2015 - Session time: 13:30:00 - Track: Strategy and Architecture
 ## Speaker: Tony Milne
 ## Title: 14 Features in SQL Server 2014 You Haven't Considered
 ## Abstract:
@@ -328,7 +328,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Strategy and Architectu
 #### SessionID: 39265
 # SQL Server Storage Engine under the hood 
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-10-2015 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Grohser
 ## Title: SQL Server Storage Engine under the hood 
 ## Abstract:
@@ -343,7 +343,7 @@ Which I/O Subsystems (including SSD) are best for which type of data and what's 
 #### SessionID: 39377
 # Automating "Excel Hell" with T-SQL
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Information Delivery
+Event Date: 03-10-2015 - Session time: 13:30:00 - Track: Information Delivery
 ## Speaker: Jeff Moden
 ## Title: Automating "Excel Hell" with T-SQL
 ## Abstract:
@@ -359,7 +359,7 @@ Don’t let the “Advanced” rating of this session scare you away. It's simpl
 #### SessionID: 40149
 # Convert from T-SQL to MDX queries
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Information Delivery
+Event Date: 03-10-2015 - Session time: 13:30:00 - Track: BI Information Delivery
 ## Speaker: Dan King
 ## Title: Convert from T-SQL to MDX queries
 ## Abstract:
@@ -368,7 +368,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Information Delivery
 #### SessionID: 40935
 # Business Intelligence
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Information Delivery
+Event Date: 03-10-2015 - Session time: 13:30:00 - Track: BI Information Delivery
 ## Speaker: Jeb Sears
 ## Title: Business Intelligence
 ## Abstract:
@@ -379,7 +379,7 @@ Covering the basics of the MS BI stack. SSIS, SSRS, SSAS.
 #### SessionID: 36933
 # Watch Brent Tune Queries
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
+Event Date: 03-10-2015 - Session time: 14:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Brent Ozar
 ## Title: Watch Brent Tune Queries
 ## Abstract:
@@ -388,7 +388,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Cloud Application Devel
 #### SessionID: 39070
 # Availability Groups 101: An Introduction
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-10-2015 - Session time: 14:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adam Belebczuk
 ## Title: Availability Groups 101: An Introduction
 ## Abstract:
@@ -397,7 +397,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 39696
 # What Makes SSIS Tick? A Look at Internals for Performance
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-10-2015 - Session time: 14:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ravi Kumar
 ## Title: What Makes SSIS Tick? A Look at Internals for Performance
 ## Abstract:
@@ -406,7 +406,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: BI Platform Architectur
 #### SessionID: 39792
 # Maintain SQL Server Performance Baseline w/PowerShell
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-10-2015 - Session time: 14:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Maintain SQL Server Performance Baseline w/PowerShell
 ## Abstract:
@@ -415,7 +415,7 @@ Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 40917
 # Hacking Expos#233; - Using SSL to Secure SQL Server Connections
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Strategy and Architecture
+Event Date: 03-10-2015 - Session time: 14:40:00 - Track: Strategy and Architecture
 ## Speaker: Chris Bell
 ## Title: Hacking Expos#233; - Using SSL to Secure SQL Server Connections
 ## Abstract:
@@ -433,7 +433,7 @@ Goal 2: Learn how to configure SQL Serve to use an SSL certificate t
 #### SessionID: 41005
 # Basics of relational database design
 #### [Back to calendar](#nr-440)
-Event Date: 03-10-2015 - Session time: 15:50:00 - Track: Strategy and Architecture
+Event Date: 03-10-2015 - Session time: 14:40:00 - Track: Strategy and Architecture
 ## Speaker: Kermit Seubert
 ## Title: Basics of relational database design
 ## Abstract:

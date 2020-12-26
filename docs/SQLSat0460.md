@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 38432
 # Daily problems with indexing and its - possible - solution
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 12-12-2015 - Session time: 09:00:00 - Track: DBA
 ## Speaker: Uwe Ricken
 ## Title: Daily problems with indexing and its - possible - solution
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 38548
 # Beginners Guide to MDX
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: BI
+Event Date: 12-12-2015 - Session time: 09:00:00 - Track: BI
 ## Speaker: Alex Whittles
 ## Title: Beginners Guide to MDX
 ## Abstract:
@@ -67,7 +67,7 @@ We'll walk through the difference between a member, measure, tuple, set and dime
 #### SessionID: 40414
 # Real Time Power BI - API, Hubs and Streams
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: BI/DEV
+Event Date: 12-12-2015 - Session time: 09:00:00 - Track: BI/DEV
 ## Speaker: Davide Mauri
 ## Title: Real Time Power BI - API, Hubs and Streams
 ## Abstract:
@@ -77,7 +77,7 @@ In this session we'll all this stuff, how it works together and how it can help 
 #### SessionID: 40858
 # 0x010D88DDB7DFE19AAD36D - Always Encrypted in SQL Server 2016
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DEV
+Event Date: 12-12-2015 - Session time: 09:00:00 - Track: DEV
 ## Speaker: Regis Baccaro
 ## Title: 0x010D88DDB7DFE19AAD36D - Always Encrypted in SQL Server 2016
 ## Abstract:
@@ -87,7 +87,7 @@ At the end of this session you will know about the Driver Process of Always Encr
 #### SessionID: 40886
 # Automatic sharding  in SQL - Reality or Myth?
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DBA/DEV
+Event Date: 12-12-2015 - Session time: 09:00:00 - Track: DBA/DEV
 ## Speaker: Gregor Spagnolo
 ## Title: Automatic sharding  in SQL - Reality or Myth?
 ## Abstract:
@@ -98,7 +98,7 @@ What was your next step? In our case we were crazy enough to create our own data
 #### SessionID: 38439
 # Performance Tuning for the Transaction Log
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 12-12-2015 - Session time: 10:15:00 - Track: DBA
 ## Speaker: Miroslav Dimitrov
 ## Title: Performance Tuning for the Transaction Log
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 38617
 # Micro ORM - a petite beauty or a poison in a small flask?
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DEV
+Event Date: 12-12-2015 - Session time: 10:15:00 - Track: DEV
 ## Speaker: Dejan Dular
 ## Title: Micro ORM - a petite beauty or a poison in a small flask?
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DEV
 #### SessionID: 41137
 # Microsoft Azure Machine Learning Algorithms
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: BI
+Event Date: 12-12-2015 - Session time: 10:15:00 - Track: BI
 ## Speaker: Tomaž Kaštrun
 ## Title: Microsoft Azure Machine Learning Algorithms
 ## Abstract:
@@ -126,7 +126,7 @@ Within this session we will explore, which algorithm is used and useful for what
 #### SessionID: 41162
 # What's new in SQL Server 2016 for BI Developer
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: BI/DEV
+Event Date: 12-12-2015 - Session time: 10:15:00 - Track: BI/DEV
 ## Speaker: Prathy Kamasani
 ## Title: What's new in SQL Server 2016 for BI Developer
 ## Abstract:
@@ -137,7 +137,7 @@ In this session, I will cover top new features in SQL Server 2016 from a BI prof
 #### SessionID: 41164
 # SQL Server Security In An Insecure World
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DBA/DEV
+Event Date: 12-12-2015 - Session time: 10:15:00 - Track: DBA/DEV
 ## Speaker: Gianluca Sartori
 ## Title: SQL Server Security In An Insecure World
 ## Abstract:
@@ -149,7 +149,7 @@ In this session you'll learn how attackers take advantage of weaknesses in your 
 #### SessionID: 38413
 # Easy ETL with Biml
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: BI/DEV
+Event Date: 12-12-2015 - Session time: 11:30:00 - Track: BI/DEV
 ## Speaker: Marcin Szeliga
 ## Title: Easy ETL with Biml
 ## Abstract:
@@ -158,7 +158,7 @@ Event Date: 12-12-2015 - Session time: 16:00:00 - Track: BI/DEV
 #### SessionID: 38445
 # Temporal Tables in SQL Server 2016
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DEV
+Event Date: 12-12-2015 - Session time: 11:30:00 - Track: DEV
 ## Speaker: Miloš Radivojević
 ## Title: Temporal Tables in SQL Server 2016
 ## Abstract:
@@ -170,7 +170,7 @@ In this session we'll explain why we need them, how system-time tables work and 
 #### SessionID: 38469
 # SQL Server 2016 AlwaysOn Availability Groups - New Features  Enhancements
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 12-12-2015 - Session time: 11:30:00 - Track: DBA
 ## Speaker: John Martin
 ## Title: SQL Server 2016 AlwaysOn Availability Groups - New Features  Enhancements
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 39132
 # Databases on mobile devices
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DEV
+Event Date: 12-12-2015 - Session time: 11:30:00 - Track: DEV
 ## Speaker: Catalin Gheorghiu
 ## Title: Databases on mobile devices
 ## Abstract:
@@ -190,7 +190,7 @@ And of course all with as much demoes and code as possible.
 #### SessionID: 40474
 # Anatomy of the DAX Query Plan
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: BI
+Event Date: 12-12-2015 - Session time: 11:30:00 - Track: BI
 ## Speaker: Stacia Varga
 ## Title: Anatomy of the DAX Query Plan
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 12-12-2015 - Session time: 16:00:00 - Track: BI
 #### SessionID: 40799
 # Effective Index Partitioning, Compression Strategy
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DBA/DEV
+Event Date: 12-12-2015 - Session time: 13:30:00 - Track: DBA/DEV
 ## Speaker: Neil Hambly
 ## Title: Effective Index Partitioning, Compression Strategy
 ## Abstract:
@@ -213,7 +213,7 @@ Using Demos to illustrate the performance gains with real-world examples, Take a
 #### SessionID: 41115
 # SQL Server 2016 Query Store
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 12-12-2015 - Session time: 13:30:00 - Track: DBA
 ## Speaker: Sergio Govoni
 ## Title: SQL Server 2016 Query Store
 ## Abstract:
@@ -222,7 +222,7 @@ Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 41167
 # Analysing application performance with pattern searching using RML Utilitie
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DEV
+Event Date: 12-12-2015 - Session time: 13:30:00 - Track: DEV
 ## Speaker: André Kamman
 ## Title: Analysing application performance with pattern searching using RML Utilitie
 ## Abstract:
@@ -231,7 +231,7 @@ Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DEV
 #### SessionID: 41176
 # Building mobile BI dashboards with Datazen
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: BI
+Event Date: 12-12-2015 - Session time: 13:30:00 - Track: BI
 ## Speaker: Zoltán Horváth
 ## Title: Building mobile BI dashboards with Datazen
 ## Abstract:
@@ -242,7 +242,7 @@ Join this session to see how simple it is to build a Datazen dashboard and publi
 #### SessionID: 43006
 # Ask the Expert Panel - Your Questions, Our Answers, and Fun
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: BI/DEV
+Event Date: 12-12-2015 - Session time: 13:30:00 - Track: BI/DEV
 ## Speaker: Mladen Prajdić
 ## Title: Ask the Expert Panel - Your Questions, Our Answers, and Fun
 ## Abstract:
@@ -255,7 +255,7 @@ With you attending we can make it really great. Don't miss out.
 #### SessionID: 38419
 # Database Administration for the non-DBA
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DBA/DEV
+Event Date: 12-12-2015 - Session time: 14:45:00 - Track: DBA/DEV
 ## Speaker: Denny Cherry
 ## Title: Database Administration for the non-DBA
 ## Abstract:
@@ -266,7 +266,7 @@ While this session won't teach you everything you need to know, it will give you
 #### SessionID: 38536
 # You don't need Enterprise Edition to do that!
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DBA
+Event Date: 12-12-2015 - Session time: 14:45:00 - Track: DBA
 ## Speaker: William Durkin
 ## Title: You don't need Enterprise Edition to do that!
 ## Abstract:
@@ -275,7 +275,7 @@ Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DBA
 #### SessionID: 40242
 # Stream Analytics on premise and on the Cloud with SQL
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: BI/DEV
+Event Date: 12-12-2015 - Session time: 14:45:00 - Track: BI/DEV
 ## Speaker: Marco Parenzan
 ## Title: Stream Analytics on premise and on the Cloud with SQL
 ## Abstract:
@@ -284,7 +284,7 @@ Event Date: 12-12-2015 - Session time: 16:00:00 - Track: BI/DEV
 #### SessionID: 40637
 # The Ticking Timebombs in Your Databases
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: DEV
+Event Date: 12-12-2015 - Session time: 14:45:00 - Track: DEV
 ## Speaker: Karen Lopez
 ## Title: The Ticking Timebombs in Your Databases
 ## Abstract:
@@ -298,7 +298,7 @@ Join us: you'll keep your job, have happier users and get more rest.
 #### SessionID: 40644
 # Shiny: dashboards in R
 #### [Back to calendar](#nr-460)
-Event Date: 12-12-2015 - Session time: 16:00:00 - Track: BI
+Event Date: 12-12-2015 - Session time: 14:45:00 - Track: BI
 ## Speaker: Stephanie Locke
 ## Title: Shiny: dashboards in R
 ## Abstract:

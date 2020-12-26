@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 108122
 # Carreira de banco de dados - Como e por onde começar
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 26-09-2020 - Session time: 10:00:00 - Track: Professional Development
 ## Speaker: Marcel Inowe
 ## Title: Carreira de banco de dados - Como e por onde começar
 ## Abstract:
@@ -40,7 +40,7 @@ Embarque comigo nessa sessão. Eu vou te contar como eu comecei, quais estratég
 #### SessionID: 108130
 # New features in Management Studio  -- Performance Troubleshooting made easier!
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-09-2020 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taiob Ali
 ## Title: New features in Management Studio  -- Performance Troubleshooting made easier!
 ## Abstract:
@@ -53,7 +53,7 @@ In this demo intensive session, I will show you how to find and use new features
 #### SessionID: 108132
 # Azure SQL Managed Instance - lições aprendidas
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 26-09-2020 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Roberto Cavalcanti
 ## Title: Azure SQL Managed Instance - lições aprendidas
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 108107
 # Técnicas de Tuning que Todo Desenvolvedor Deve Saber
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 26-09-2020 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Rodrigo Crespi
 ## Title: Técnicas de Tuning que Todo Desenvolvedor Deve Saber
 ## Abstract:
@@ -72,7 +72,7 @@ Contudo, você sabe o impacto de suas consultas no futuro? Nesta sessão, aprend
 #### SessionID: 108131
 # Start thinking like the SQL Engine
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-09-2020 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Deepthi Goguri
 ## Title: Start thinking like the SQL Engine
 ## Abstract:
@@ -82,7 +82,7 @@ Deepthi will show you how the SQL engine thinks – enabling you to think like i
 #### SessionID: 108143
 # The Evolution of SQL Server as a Service - Azure SQL Database Managed Instance
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 26-09-2020 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Javier Villegas
 ## Title: The Evolution of SQL Server as a Service - Azure SQL Database Managed Instance
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 108123
 # Estratégias de Migração de Bancos de Dados para Azure
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 26-09-2020 - Session time: 12:00:00 - Track: Strategy and Architecture
 ## Speaker: William Lino Oliveira
 ## Title: Estratégias de Migração de Bancos de Dados para Azure
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 108152
 # How to prepare for passing certifications
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 26-09-2020 - Session time: 12:00:00 - Track: Professional Development
 ## Speaker: Nestor Campos
 ## Title: How to prepare for passing certifications
 ## Abstract:
@@ -111,7 +111,7 @@ LinkedIn: https://www.linkedin.com/in/nescampos/
 #### SessionID: 108287
 # Powershell para DBAs SQL Server
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-09-2020 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rodrigo Crespi
 ## Title: Powershell para DBAs SQL Server
 ## Abstract:
@@ -121,7 +121,7 @@ Venha conhecer e aprender como utilizar esta linguagem em prol do seu tempo.
 #### SessionID: 108290
 # LGPD - Lei Geral de Proteção de Dados
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Information Delivery
+Event Date: 26-09-2020 - Session time: 12:00:00 - Track: Information Delivery
 ## Speaker: Sulamita Dantas
 ## Title: LGPD - Lei Geral de Proteção de Dados
 ## Abstract:
@@ -130,7 +130,7 @@ Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Information Delivery
 #### SessionID: 108357
 # Serverless + Integrações com Bancos de Dados: utilizando Azure Functions e Logic Apps
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 26-09-2020 - Session time: 12:00:00 - Track: Application  Database Development
 ## Speaker: Renato Groffe
 ## Title: Serverless + Integrações com Bancos de Dados: utilizando Azure Functions e Logic Apps
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 108154
 # Getting started database development with WSL2
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 26-09-2020 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Carlos Lopez
 ## Title: Getting started database development with WSL2
 ## Abstract:
@@ -151,7 +151,7 @@ Overview SQL Server containers demos inside the image prepared as well as the co
 #### SessionID: 108304
 # Cosmos – Cenários comuns no suporte e boas práticas
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 26-09-2020 - Session time: 13:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Luciano Moreira
 ## Title: Cosmos – Cenários comuns no suporte e boas práticas
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 108311
 # Ative o olho de Thundera no SQL Server e saiba tudo o que todo mundo fez e está fazendo
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-09-2020 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dirceu Resende
 ## Title: Ative o olho de Thundera no SQL Server e saiba tudo o que todo mundo fez e está fazendo
 ## Abstract:
@@ -169,7 +169,7 @@ Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 108119
 # Data Science, Analytics, and Storytelling Tools
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 26-09-2020 - Session time: 14:00:00 - Track: Analytics and Visualization
 ## Speaker: ALAN FERRANDIZ LANGLEY
 ## Title: Data Science, Analytics, and Storytelling Tools
 ## Abstract:
@@ -179,7 +179,7 @@ Alan Ferrandiz Langley, MCT
 #### SessionID: 108176
 # Getting started with Azure Data Studio
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 26-09-2020 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Eduardo Pivaral
 ## Title: Getting started with Azure Data Studio
 ## Abstract:
@@ -198,7 +198,7 @@ On this session we will show you how to start using and customize it, we will le
 #### SessionID: 108297
 # Virei DBA, e agora?
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-09-2020 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Fabiano Amorim
 ## Title: Virei DBA, e agora?
 ## Abstract:
@@ -207,7 +207,7 @@ Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 108133
 # Azure SQL DB - Automatizando/Provisionando o seu banco de dados
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 26-09-2020 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Thiago Carlos de Alencar
 ## Title: Azure SQL DB - Automatizando/Provisionando o seu banco de dados
 ## Abstract:
@@ -216,7 +216,7 @@ Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 108180
 # Handle Data with Care
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 26-09-2020 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Jasmin Azemović
 ## Title: Handle Data with Care
 ## Abstract:
@@ -228,7 +228,7 @@ Is everything just so black? Learn about it on this session.
 #### SessionID: 108293
 # Power BI - Dicas e Truques para turbinar seu Dashboard
 #### [Back to calendar](#nr-1016)
-Event Date: 26-09-2020 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 26-09-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rodrigo Dornel
 ## Title: Power BI - Dicas e Truques para turbinar seu Dashboard
 ## Abstract:

@@ -41,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 105706
 # Azure DevOps duet (60 minutes version)
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 04-07-2020 - Session time: 09:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Kevin Chant
 ## Title: Azure DevOps duet (60 minutes version)
 ## Abstract:
@@ -62,7 +62,7 @@ After this session you will have the tools and knowledge to get started with Dev
 #### SessionID: 105834
 # Keynote
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
+Event Date: 04-07-2020 - Session time: 09:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Juan Rafael
 ## Title: Keynote
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #### SessionID: 105454
 # SQL Curiosities: La curiosidad mató al gatito
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 04-07-2020 - Session time: 10:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: André Melancia
 ## Title: SQL Curiosities: La curiosidad mató al gatito
 ## Abstract:
@@ -81,7 +81,7 @@ Disclaimer: No feline was harmed in the making of this session. Please do not re
 #### SessionID: 105645
 # El verdadero poder de Power BI como herramienta de Business Intelligence
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
+Event Date: 04-07-2020 - Session time: 10:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Ana Maria Bisbé York
 ## Title: El verdadero poder de Power BI como herramienta de Business Intelligence
 ## Abstract:
@@ -91,7 +91,7 @@ A través de ejemplos se muestra Power BI como herramienta Business Intelligence
 #### SessionID: 105652
 # DAX As Power BI Visualization Weapon. Virtual Relationships And Time Intelligence Analytics
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
+Event Date: 04-07-2020 - Session time: 10:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Ruslan Zolotukhin
 ## Title: DAX As Power BI Visualization Weapon. Virtual Relationships And Time Intelligence Analytics
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #### SessionID: 105793
 # Integration SCRUM + Microsoft Tools
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
+Event Date: 04-07-2020 - Session time: 10:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Bryan Medrano Ruiz
 ## Title: Integration SCRUM + Microsoft Tools
 ## Abstract:
@@ -111,7 +111,7 @@ Entonces, esta es la sesión ideal para ti. Te mostraremos casos puntuales de la
 #### SessionID: 105165
 # T-SQL Performance Guidelines for the optimal DB stress powers
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
+Event Date: 04-07-2020 - Session time: 11:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for the optimal DB stress powers
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #### SessionID: 105579
 # Levantar Data Warehouse Moderno en Azure
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
+Event Date: 04-07-2020 - Session time: 11:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Walter Calcagno
 ## Title: Levantar Data Warehouse Moderno en Azure
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #### SessionID: 105671
 # T-SQL: Escribiendo código de alto desempeño
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 04-07-2020 - Session time: 11:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Eduardo Pivaral
 ## Title: T-SQL: Escribiendo código de alto desempeño
 ## Abstract:
@@ -140,7 +140,7 @@ En esta sesión, aprenderemos algunos consejos básicos para crear código de al
 #### SessionID: 105730
 # Gráficos animados en R
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Big Data  Analytics
+Event Date: 04-07-2020 - Session time: 11:00:00 - Track: Big Data  Analytics
 ## Speaker: Edison Lecca
 ## Title: Gráficos animados en R
 ## Abstract:
@@ -149,7 +149,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Big Data  Analytics
 #### SessionID: 105395
 # Power BI dataflows : Going beyond the self-service
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
+Event Date: 04-07-2020 - Session time: 12:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Dennes Torres
 ## Title: Power BI dataflows : Going beyond the self-service
 ## Abstract:
@@ -162,7 +162,7 @@ In this session you will understand better how the dataflows are an important fe
 #### SessionID: 105403
 # Getting Started with Apache Spark
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Big Data  Analytics
+Event Date: 04-07-2020 - Session time: 12:00:00 - Track: Big Data  Analytics
 ## Speaker: Kevin Feasel
 ## Title: Getting Started with Apache Spark
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Big Data  Analytics
 #### SessionID: 105452
 # Hacking SQL Server Is Not Enough
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 04-07-2020 - Session time: 12:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server Is Not Enough
 ## Abstract:
@@ -182,7 +182,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #### SessionID: 105647
 # Escenarios de modelado en DAX, el súper lenguaje de Power BI.
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
+Event Date: 04-07-2020 - Session time: 12:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Ana Maria Bisbé York
 ## Title: Escenarios de modelado en DAX, el súper lenguaje de Power BI.
 ## Abstract:
@@ -191,7 +191,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #### SessionID: 105182
 # Lo nuevo en SQL Server 2019
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 04-07-2020 - Session time: 13:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Javier Villegas
 ## Title: Lo nuevo en SQL Server 2019
 ## Abstract:
@@ -200,7 +200,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Rela
 #### SessionID: 105419
 # Big Data Clusters for the Absolute Beginner
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 04-07-2020 - Session time: 13:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Mohammad Darab
 ## Title: Big Data Clusters for the Absolute Beginner
 ## Abstract:
@@ -216,7 +216,7 @@ Topics include:
 #### SessionID: 105447
 # Arquitectura de Datos con Azure Synapse Analytics
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
+Event Date: 04-07-2020 - Session time: 13:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Arquitectura de Datos con Azure Synapse Analytics
 ## Abstract:
@@ -225,7 +225,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #### SessionID: 105581
 # Azure Machine Learning en 60 minutos
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
+Event Date: 04-07-2020 - Session time: 13:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Ahias Portillo
 ## Title: Azure Machine Learning en 60 minutos
 ## Abstract:
@@ -234,7 +234,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #### SessionID: 105449
 # Machine Learning is full of stars: An Azure Story
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
+Event Date: 04-07-2020 - Session time: 14:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: André Melancia
 ## Title: Machine Learning is full of stars: An Azure Story
 ## Abstract:
@@ -245,7 +245,7 @@ Disclaimer: All these worlds are yours except Cognitive Service, that's for a di
 #### SessionID: 105651
 # Mejorando la seguridad de datos sensibles con técnicas de enmascarado en Azure SQL Database
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 04-07-2020 - Session time: 14:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Alberto De Rossi
 ## Title: Mejorando la seguridad de datos sensibles con técnicas de enmascarado en Azure SQL Database
 ## Abstract:
@@ -254,7 +254,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Rela
 #### SessionID: 105726
 # Microsoft Genomic Analytics
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
+Event Date: 04-07-2020 - Session time: 14:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Nicolas Nakasone
 ## Title: Microsoft Genomic Analytics
 ## Abstract:
@@ -263,7 +263,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #### SessionID: 105775
 # Power BI con MS Dynamics 365 FO
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Big Data  Analytics
+Event Date: 04-07-2020 - Session time: 14:00:00 - Track: Big Data  Analytics
 ## Speaker: Juan Rafael
 ## Title: Power BI con MS Dynamics 365 FO
 ## Abstract:
@@ -272,7 +272,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Big Data  Analytics
 #### SessionID: 105181
 # Introduccion a la Plataforma de Datos de Microsoft Azure
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 04-07-2020 - Session time: 15:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Javier Villegas
 ## Title: Introduccion a la Plataforma de Datos de Microsoft Azure
 ## Abstract:
@@ -282,7 +282,7 @@ Conoceremos todos estos servicios para así poder seleccionar el más convenient
 #### SessionID: 105420
 # Azure Vs. AWS: And the winner is!!!
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 04-07-2020 - Session time: 15:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Paresh Motiwala
 ## Title: Azure Vs. AWS: And the winner is!!!
 ## Abstract:
@@ -313,7 +313,7 @@ We will look into the following aspects and more:
 #### SessionID: 105580
 # Processing Tabular Models
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
+Event Date: 04-07-2020 - Session time: 15:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Gaston Cruz
 ## Title: Processing Tabular Models
 ## Abstract:
@@ -322,7 +322,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #### SessionID: 105681
 # Chatbots: La interacción entre tus clientes y tus datos
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
+Event Date: 04-07-2020 - Session time: 15:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Luis Beltran
 ## Title: Chatbots: La interacción entre tus clientes y tus datos
 ## Abstract:
@@ -335,7 +335,7 @@ Esta sesión se enfocará en explicar a los actores involucrados al construir un
 #### SessionID: 105446
 # Machine Learning con Databricks
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
+Event Date: 04-07-2020 - Session time: 16:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Raul Martin Sarachaga Diaz
 ## Title: Machine Learning con Databricks
 ## Abstract:
@@ -344,7 +344,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #### SessionID: 105643
 # Tips que todo amante de Power BI debe conocer ...
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence  Business Intelligence
+Event Date: 04-07-2020 - Session time: 16:00:00 - Track: Artificial Intelligence  Business Intelligence
 ## Speaker: Jorge Michael Muchaypiña Gutierrez
 ## Title: Tips que todo amante de Power BI debe conocer ...
 ## Abstract:
@@ -353,7 +353,7 @@ Event Date: 04-07-2020 - Session time: 17:00:00 - Track: Artificial Intelligence
 #### SessionID: 105663
 # Data virtualization with SQL Server 2019 PolyBase
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 04-07-2020 - Session time: 16:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Itshak David
 ## Title: Data virtualization with SQL Server 2019 PolyBase
 ## Abstract:
@@ -374,7 +374,7 @@ Monitor  PolyBase with  Dynamic Management Views .
 #### SessionID: 105717
 # Intelligent Query Processing in sql server 2019
 #### [Back to calendar](#nr-990)
-Event Date: 04-07-2020 - Session time: 17:00:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 04-07-2020 - Session time: 16:00:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Mariano Irvin Lopez Jaramillo
 ## Title: Intelligent Query Processing in sql server 2019
 ## Abstract:

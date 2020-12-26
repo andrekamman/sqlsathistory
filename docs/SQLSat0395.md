@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 23995
 # Using Common Table Expressions (CTE)
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DEV
+Event Date: 09-05-2015 - Session time: 08:30:00 - Track: DEV
 ## Speaker: Ben Galluzzo
 ## Title: Using Common Table Expressions (CTE)
 ## Abstract:
@@ -53,7 +53,7 @@ We'll begin with an overview of how a Common Table Expression is constructed.  T
 #### SessionID: 35604
 # Intro to Power BI
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 1
+Event Date: 09-05-2015 - Session time: 08:30:00 - Track: BI 1
 ## Speaker: Azhagappan Arunachalam
 ## Title: Intro to Power BI
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 1
 #### SessionID: 35718
 # Modeling For Tableau
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
+Event Date: 09-05-2015 - Session time: 08:30:00 - Track: BI 2
 ## Speaker: Jennifer Kenney
 ## Title: Modeling For Tableau
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
 #### SessionID: 35916
 # 15 Quick Tips for SSIS Performance
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 3
+Event Date: 09-05-2015 - Session time: 08:30:00 - Track: BI 3
 ## Speaker: Tim Mitchell
 ## Title: 15 Quick Tips for SSIS Performance
 ## Abstract:
@@ -82,7 +82,7 @@ In this session, we’ll focus on SSIS package performance, quickly reviewing 15
 #### SessionID: 35972
 # Execution Plans 101
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DBA
+Event Date: 09-05-2015 - Session time: 08:30:00 - Track: DBA
 ## Speaker: Eugene Meidinger
 ## Title: Execution Plans 101
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DBA
 #### SessionID: 36291
 # Automating Your SSIS Design Pattern for Faster Development
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 3
+Event Date: 09-05-2015 - Session time: 08:30:00 - Track: BI 3
 ## Speaker: Samuel Vanga
 ## Title: Automating Your SSIS Design Pattern for Faster Development
 ## Abstract:
@@ -102,7 +102,7 @@ BI Markup Language (BIML), which is a free plugin, removes the pain-points invol
 #### SessionID: 17816
 # Automated SQL Server installation and configuration using PowerShell
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DBA
+Event Date: 09-05-2015 - Session time: 09:50:00 - Track: DBA
 ## Speaker: Jamie Wick
 ## Title: Automated SQL Server installation and configuration using PowerShell
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DBA
 #### SessionID: 27594
 # Introduction to APS
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
+Event Date: 09-05-2015 - Session time: 09:50:00 - Track: BI 2
 ## Speaker: Warren Sifre
 ## Title: Introduction to APS
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
 #### SessionID: 35917
 # Introduction to Biml
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 3
+Event Date: 09-05-2015 - Session time: 09:50:00 - Track: BI 3
 ## Speaker: Tim Mitchell
 ## Title: Introduction to Biml
 ## Abstract:
@@ -132,7 +132,7 @@ In this session, we'll cover the essentials of Biml. I'll discuss what it is and
 #### SessionID: 35918
 # A "101" Overview  of Microsoft Power BI for Office 365 
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 1
+Event Date: 09-05-2015 - Session time: 09:50:00 - Track: BI 1
 ## Speaker: Timothy McAliley
 ## Title: A "101" Overview  of Microsoft Power BI for Office 365 
 ## Abstract:
@@ -142,7 +142,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 1
 #### SessionID: 35971
 # Getting in Sync With The Developer Next To You
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DEV
+Event Date: 09-05-2015 - Session time: 09:50:00 - Track: DEV
 ## Speaker: Brad McKuhen
 ## Title: Getting in Sync With The Developer Next To You
 ## Abstract:
@@ -151,7 +151,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DEV
 #### SessionID: 36287
 # SQL Clinic Part 1
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: PRO
+Event Date: 09-05-2015 - Session time: 09:50:00 - Track: PRO
 ## Speaker: Harsh Deep Singh
 ## Title: SQL Clinic Part 1
 ## Abstract:
@@ -163,7 +163,7 @@ If you do not have problems or questions you can just stay there and learn what 
 #### SessionID: 16681
 # Analysis Services: Multidimensional vs Tabular
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 1
+Event Date: 09-05-2015 - Session time: 11:10:00 - Track: BI 1
 ## Speaker: Jessica Moss
 ## Title: Analysis Services: Multidimensional vs Tabular
 ## Abstract:
@@ -172,7 +172,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 1
 #### SessionID: 22438
 # Normalize because you need it
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DEV
+Event Date: 09-05-2015 - Session time: 11:10:00 - Track: DEV
 ## Speaker: Raj More
 ## Title: Normalize because you need it
 ## Abstract:
@@ -187,7 +187,7 @@ I back my suggestions with experience from designing Transactional Database Syst
 #### SessionID: 35742
 # Optimizing your data warehouse for OLAP Processing
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DBA
+Event Date: 09-05-2015 - Session time: 11:10:00 - Track: DBA
 ## Speaker: Konstantin Melamud
 ## Title: Optimizing your data warehouse for OLAP Processing
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DBA
 #### SessionID: 35820
 # ETL Design - Staging
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 3
+Event Date: 09-05-2015 - Session time: 11:10:00 - Track: BI 3
 ## Speaker: Philip Noakes
 ## Title: ETL Design - Staging
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 3
 #### SessionID: 36136
 # 3 Ways for Getting Data from SharePoint : SSIS, Excel and Access
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
+Event Date: 09-05-2015 - Session time: 11:10:00 - Track: BI 2
 ## Speaker: David Patrick
 ## Title: 3 Ways for Getting Data from SharePoint : SSIS, Excel and Access
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
 #### SessionID: 36288
 # SQL Clinic Part 2
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: PRO
+Event Date: 09-05-2015 - Session time: 11:10:00 - Track: PRO
 ## Speaker: Harsh Deep Singh
 ## Title: SQL Clinic Part 2
 ## Abstract:
@@ -227,7 +227,7 @@ If you do not have problems or questions you can just stay there and learn what 
 #### SessionID: 36289
 # SQL Clinic Part 3
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: PRO
+Event Date: 09-05-2015 - Session time: 12:55:00 - Track: PRO
 ## Speaker: Harsh Deep Singh
 ## Title: SQL Clinic Part 3
 ## Abstract:
@@ -239,7 +239,7 @@ If you do not have problems or questions you can just stay there and learn what 
 #### SessionID: 36346
 # MDM with Profisee. Usage, Value and First Steps
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: Reserved
+Event Date: 09-05-2015 - Session time: 12:55:00 - Track: Reserved
 ## Speaker: Event Sponsor
 ## Title: MDM with Profisee. Usage, Value and First Steps
 ## Abstract:
@@ -248,7 +248,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: Reserved
 #### SessionID: 36347
 # Micron Presenting
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: Reserved
+Event Date: 09-05-2015 - Session time: 12:55:00 - Track: Reserved
 ## Speaker: Event Sponsor
 ## Title: Micron Presenting
 ## Abstract:
@@ -257,7 +257,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: Reserved
 #### SessionID: 36348
 # Microsoft Presenting
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: Reserved
+Event Date: 09-05-2015 - Session time: 12:55:00 - Track: Reserved
 ## Speaker: Event Sponsor
 ## Title: Microsoft Presenting
 ## Abstract:
@@ -266,7 +266,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: Reserved
 #### SessionID: 36349
 # Cisco: Optimize Your SQL Server 2014 Workloads with Cisco UCS
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: Reserved
+Event Date: 09-05-2015 - Session time: 12:55:00 - Track: Reserved
 ## Speaker: Event Sponsor
 ## Title: Cisco: Optimize Your SQL Server 2014 Workloads with Cisco UCS
 ## Abstract:
@@ -277,7 +277,7 @@ Learn about Cisco Unified Computing System (UCS) and why it is an optimal platfo
 #### SessionID: 11297
 # Hacking Expos#233; - Using SSL to Protect SQL Connections
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DBA
+Event Date: 09-05-2015 - Session time: 14:00:00 - Track: DBA
 ## Speaker: Chris Bell
 ## Title: Hacking Expos#233; - Using SSL to Protect SQL Connections
 ## Abstract:
@@ -290,7 +290,7 @@ Using a simple hacking technique we will dig into some packets on our network an
 #### SessionID: 11721
 # Creating solid Power Pivot data models
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 1
+Event Date: 09-05-2015 - Session time: 14:00:00 - Track: BI 1
 ## Speaker: Dan Clark
 ## Title: Creating solid Power Pivot data models
 ## Abstract:
@@ -302,7 +302,7 @@ At the core of every successful data analysis project is a robust data model. In
 #### SessionID: 18879
 # SSRS 101 to 301: Learn how to build Simple and Intermediate level SSRS Report
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
+Event Date: 09-05-2015 - Session time: 14:00:00 - Track: BI 2
 ## Speaker: Ravi Kumar
 ## Title: SSRS 101 to 301: Learn how to build Simple and Intermediate level SSRS Report
 ## Abstract:
@@ -311,7 +311,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 2
 #### SessionID: 21809
 # ETL not ELT!  Common mistakes and misconceptions about SSIS
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 3
+Event Date: 09-05-2015 - Session time: 14:00:00 - Track: BI 3
 ## Speaker: Paul Rizza
 ## Title: ETL not ELT!  Common mistakes and misconceptions about SSIS
 ## Abstract:
@@ -321,7 +321,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: BI 3
 #### SessionID: 35603
 # SQL Server Internals Party: Storage, Memory and the Query Life-cycle
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DEV
+Event Date: 09-05-2015 - Session time: 14:00:00 - Track: DEV
 ## Speaker: Ayman El-Ghazali
 ## Title: SQL Server Internals Party: Storage, Memory and the Query Life-cycle
 ## Abstract:
@@ -330,7 +330,7 @@ Event Date: 09-05-2015 - Session time: 15:20:00 - Track: DEV
 #### SessionID: 35978
 # Lights, Camera, Action: Introduction to Creating and Delivering Presentations
 #### [Back to calendar](#nr-395)
-Event Date: 09-05-2015 - Session time: 15:20:00 - Track: PRO
+Event Date: 09-05-2015 - Session time: 14:00:00 - Track: PRO
 ## Speaker: Jessica Moss
 ## Title: Lights, Camera, Action: Introduction to Creating and Delivering Presentations
 ## Abstract:

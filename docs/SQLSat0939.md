@@ -29,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 99438
 # Networking 102: Getting Ready for a SQL Event
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Professional Development
+Event Date: 08-02-2020 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: Matt Cushing
 ## Title: Networking 102: Getting Ready for a SQL Event
 ## Abstract:
@@ -40,7 +40,7 @@ In this session, we'll go over steps you can take before, during and after the e
 #### SessionID: 100046
 # Getting Started with Data Science and Databricks
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Analysis / Cleaning Method and Tools / Data Demographics
+Event Date: 08-02-2020 - Session time: 09:50:00 - Track: Data Analysis / Cleaning Method and Tools / Data Demographics
 ## Speaker: Ginger Grant
 ## Title: Getting Started with Data Science and Databricks
 ## Abstract:
@@ -53,7 +53,7 @@ Agenda
 #### SessionID: 101996
 # DAX Optimization Examples
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Modeling Techniques, Tools (ex Star vs Snowflake, Tabluar, Fact vs Dimmension)
+Event Date: 08-02-2020 - Session time: 09:50:00 - Track: Data Modeling Techniques, Tools (ex Star vs Snowflake, Tabluar, Fact vs Dimmension)
 ## Speaker: Alberto Ferrari
 ## Title: DAX Optimization Examples
 ## Abstract:
@@ -63,7 +63,7 @@ As you will see, most optimizations are the direct application of best practices
 #### SessionID: 99228
 # Ethics in Data
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Analysis / Cleaning Method and Tools / Data Demographics
+Event Date: 08-02-2020 - Session time: 09:50:00 - Track: Data Analysis / Cleaning Method and Tools / Data Demographics
 ## Speaker: William Assaf
 ## Title: Ethics in Data
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Analysis / Cleanin
 #### SessionID: 99454
 # Building a Strong Foundation for Data Analysis
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Other
+Event Date: 08-02-2020 - Session time: 09:50:00 - Track: Other
 ## Speaker: Leslie Andrews
 ## Title: Building a Strong Foundation for Data Analysis
 ## Abstract:
@@ -81,7 +81,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Other
 #### SessionID: 100237
 # Power BI Time Intelligence using a custom calendar
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Presentation / Reports / Dashboards
+Event Date: 08-02-2020 - Session time: 11:10:00 - Track: Data Presentation / Reports / Dashboards
 ## Speaker: Matthew Floyd
 ## Title: Power BI Time Intelligence using a custom calendar
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Presentation / Rep
 #### SessionID: 101140
 # Make Your Company Conversational using Azure Cognitive Services
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Other
+Event Date: 08-02-2020 - Session time: 11:10:00 - Track: Other
 ## Speaker: Matt Gordon
 ## Title: Make Your Company Conversational using Azure Cognitive Services
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Other
 #### SessionID: 101344
 # A metadata approach to fixed width files
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Importing Techniques and Tools (ex SSIS)
+Event Date: 08-02-2020 - Session time: 11:10:00 - Track: Data Importing Techniques and Tools (ex SSIS)
 ## Speaker: Russel Loski
 ## Title: A metadata approach to fixed width files
 ## Abstract:
@@ -109,7 +109,7 @@ To demonstrate such an approach, I build an Excel file describing US census data
 #### SessionID: 99684
 # Change Tracking: A Near Bullet-Proof ETL Synchronization Control
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Importing Techniques and Tools (ex SSIS)
+Event Date: 08-02-2020 - Session time: 11:10:00 - Track: Data Importing Techniques and Tools (ex SSIS)
 ## Speaker: Mike Byrd
 ## Title: Change Tracking: A Near Bullet-Proof ETL Synchronization Control
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Importing Techniqu
 #### SessionID: 99749
 # Code Like a Snake Charmer - Introduction to Python!
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Modeling Techniques, Tools (ex Star vs Snowflake, Tabluar, Fact vs Dimmension)
+Event Date: 08-02-2020 - Session time: 11:10:00 - Track: Data Modeling Techniques, Tools (ex Star vs Snowflake, Tabluar, Fact vs Dimmension)
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Snake Charmer - Introduction to Python!
 ## Abstract:
@@ -137,7 +137,7 @@ Attend this session to learn how Python can take your data analytics to the next
 #### SessionID: 101582
 # Basics of Data Modeling for BI Reporting
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Modeling Techniques, Tools (ex Star vs Snowflake, Tabluar, Fact vs Dimmension)
+Event Date: 08-02-2020 - Session time: 13:30:00 - Track: Data Modeling Techniques, Tools (ex Star vs Snowflake, Tabluar, Fact vs Dimmension)
 ## Speaker: Michael McKinley
 ## Title: Basics of Data Modeling for BI Reporting
 ## Abstract:
@@ -150,7 +150,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Modeling Technique
 #### SessionID: 101584
 # Mastering your Resume  Interview: Tips to Get Hired
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Professional Development
+Event Date: 08-02-2020 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Mastering your Resume  Interview: Tips to Get Hired
 ## Abstract:
@@ -159,7 +159,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Professional Developmen
 #### SessionID: 99470
 # Getting Started with Apache Spark
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Analysis / Cleaning Method and Tools / Data Demographics
+Event Date: 08-02-2020 - Session time: 13:30:00 - Track: Data Analysis / Cleaning Method and Tools / Data Demographics
 ## Speaker: Kevin Feasel
 ## Title: Getting Started with Apache Spark
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Analysis / Cleanin
 #### SessionID: 99533
 # Data Vault on SQL Server Tabular Model and Power BI
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Modeling Techniques, Tools (ex Star vs Snowflake, Tabluar, Fact vs Dimmension)
+Event Date: 08-02-2020 - Session time: 13:30:00 - Track: Data Modeling Techniques, Tools (ex Star vs Snowflake, Tabluar, Fact vs Dimmension)
 ## Speaker: Derek Wilson
 ## Title: Data Vault on SQL Server Tabular Model and Power BI
 ## Abstract:
@@ -177,7 +177,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Modeling Technique
 #### SessionID: 101588
 # AI For Good: Cognitive Services Vision
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Other
+Event Date: 08-02-2020 - Session time: 14:50:00 - Track: Other
 ## Speaker: Alicia Moniz
 ## Title: AI For Good: Cognitive Services Vision
 ## Abstract:
@@ -194,7 +194,7 @@ Prerequisites: Attendees should have an Azure account, as well as an account on 
 #### SessionID: 101997
 # Using calculation groups in DAX
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Modeling Techniques, Tools (ex Star vs Snowflake, Tabluar, Fact vs Dimmension)
+Event Date: 08-02-2020 - Session time: 14:50:00 - Track: Data Modeling Techniques, Tools (ex Star vs Snowflake, Tabluar, Fact vs Dimmension)
 ## Speaker: Alberto Ferrari
 ## Title: Using calculation groups in DAX
 ## Abstract:
@@ -204,7 +204,7 @@ This session introduces the syntax of calculation groups, when they should be us
 #### SessionID: 99433
 # More Common Than You Think: Mental Illness in Tech
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Professional Development
+Event Date: 08-02-2020 - Session time: 14:50:00 - Track: Professional Development
 ## Speaker: Tracy Boggiano
 ## Title: More Common Than You Think: Mental Illness in Tech
 ## Abstract:
@@ -215,7 +215,7 @@ In this session, we will talk about what mental illness is and what it is not.  
 #### SessionID: 99436
 # Do I Need To M?
 #### [Back to calendar](#nr-939)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Analysis / Cleaning Method and Tools / Data Demographics
+Event Date: 08-02-2020 - Session time: 14:50:00 - Track: Data Analysis / Cleaning Method and Tools / Data Demographics
 ## Speaker: Bob Phillips
 ## Title: Do I Need To M?
 ## Abstract:

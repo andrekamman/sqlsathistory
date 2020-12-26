@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 100308
 # Demystifying Query Store Plan Forcing
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:  DBA
+Event Date: 14-12-2019 - Session time: 09:00:00 - Track:  DBA
 ## Speaker: Miloš Radivojević
 ## Title: Demystifying Query Store Plan Forcing
 ## Abstract:
@@ -48,7 +48,7 @@ We’ll also cover in detail the automatic tuning. You will understand benefits 
 #### SessionID: 94303
 # An Introduction to Terraform, Infrastructure as Code
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:   DEV/DBA
+Event Date: 14-12-2019 - Session time: 09:00:00 - Track:   DEV/DBA
 ## Speaker: John Martin
 ## Title: An Introduction to Terraform, Infrastructure as Code
 ## Abstract:
@@ -61,7 +61,7 @@ This session will take an introductory look at how infrastructure can be defined
 #### SessionID: 98528
 # What's new in MS SQL for developers?
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:    DEV
+Event Date: 14-12-2019 - Session time: 09:00:00 - Track:    DEV
 ## Speaker: Damir Matesic
 ## Title: What's new in MS SQL for developers?
 ## Abstract:
@@ -70,7 +70,7 @@ Event Date: 14-12-2019 - Session time: 16:00:00 - Track:    DEV
 #### SessionID: 98547
 # An Introduction to Data Visualizations and Design Best Practices
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:       BI
+Event Date: 14-12-2019 - Session time: 09:00:00 - Track:       BI
 ## Speaker: Prathy Kamasani
 ## Title: An Introduction to Data Visualizations and Design Best Practices
 ## Abstract:
@@ -81,7 +81,7 @@ In this session, we will discuss how different types of visuals are perceived an
 #### SessionID: 98665
 # Implementing a new database platform for your modern data warehouse – Snowflake on Azure
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:     BI/DEV
+Event Date: 14-12-2019 - Session time: 09:00:00 - Track:     BI/DEV
 ## Speaker: Grega Jerkič
 ## Title: Implementing a new database platform for your modern data warehouse – Snowflake on Azure
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 14-12-2019 - Session time: 16:00:00 - Track:     BI/DEV
 #### SessionID: 100504
 # Intelligent Query Processing in SQL Server 2019
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:  DBA
+Event Date: 14-12-2019 - Session time: 10:15:00 - Track:  DBA
 ## Speaker: Miloš Radivojević
 ## Title: Intelligent Query Processing in SQL Server 2019
 ## Abstract:
@@ -102,7 +102,7 @@ After the session, you’ll understand how much improvements you should expect i
 #### SessionID: 94190
 # It's broken, now what? (Approaches to Practical Problem Solving)
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:   DEV/DBA
+Event Date: 14-12-2019 - Session time: 10:15:00 - Track:   DEV/DBA
 ## Speaker: William Durkin
 ## Title: It's broken, now what? (Approaches to Practical Problem Solving)
 ## Abstract:
@@ -115,7 +115,7 @@ You will leave the session with a better understanding on how to approach solvin
 #### SessionID: 94195
 # Bringing AI to the edge - Azure Cognitive Services in docker containers
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:     BI/DEV
+Event Date: 14-12-2019 - Session time: 10:15:00 - Track:     BI/DEV
 ## Speaker: Alexander Klein
 ## Title: Bringing AI to the edge - Azure Cognitive Services in docker containers
 ## Abstract:
@@ -126,7 +126,7 @@ How can you use these API's if you don't want to send your data to an Azure Data
 #### SessionID: 94286
 # Missing T-SQL querying features for handling NULLs and for data analysis
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:    DEV
+Event Date: 14-12-2019 - Session time: 10:15:00 - Track:    DEV
 ## Speaker: Itzik Ben-Gan
 ## Title: Missing T-SQL querying features for handling NULLs and for data analysis
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 14-12-2019 - Session time: 16:00:00 - Track:    DEV
 #### SessionID: 96431
 # How will we use Excel tomorrow?
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:       BI
+Event Date: 14-12-2019 - Session time: 10:15:00 - Track:       BI
 ## Speaker: Gašper Kamenšek
 ## Title: How will we use Excel tomorrow?
 ## Abstract:
@@ -147,7 +147,7 @@ We will breeze past the early staples like Power Query and Power Pivot to submer
 #### SessionID: 94353
 # Advanced analytics in the cloud: AzureML
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:     BI/DEV
+Event Date: 14-12-2019 - Session time: 11:30:00 - Track:     BI/DEV
 ## Speaker: Enrico van de Laar
 ## Title: Advanced analytics in the cloud: AzureML
 ## Abstract:
@@ -158,7 +158,7 @@ In this session we are going to take a close look at AzureML, from how you can b
 #### SessionID: 94547
 # Mastering DML Operations like a master
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:   DEV/DBA
+Event Date: 14-12-2019 - Session time: 11:30:00 - Track:   DEV/DBA
 ## Speaker: Uwe Ricken
 ## Title: Mastering DML Operations like a master
 ## Abstract:
@@ -175,7 +175,7 @@ What performance drawbacks will Page Splits and Forwarded Records have for my ap
 #### SessionID: 94607
 # Troubleshooting Power BI Report Performance
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:       BI
+Event Date: 14-12-2019 - Session time: 11:30:00 - Track:       BI
 ## Speaker: Benni De Jagere
 ## Title: Troubleshooting Power BI Report Performance
 ## Abstract:
@@ -193,7 +193,7 @@ Every report can be tuned to handle like a dream, and you can do it too!
 #### SessionID: 95264
 # T-SQL advanced: Grouping and Windowing
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:    DEV
+Event Date: 14-12-2019 - Session time: 11:30:00 - Track:    DEV
 ## Speaker: Andrea Martorana Tusa
 ## Title: T-SQL advanced: Grouping and Windowing
 ## Abstract:
@@ -206,7 +206,7 @@ The session is mainly based on a copious array of demos, to make explicit every 
 #### SessionID: 96146
 # Containers, Pods, and Databases- The Future of Infrastructure
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:  DBA
+Event Date: 14-12-2019 - Session time: 11:30:00 - Track:  DBA
 ## Speaker: Joseph D'Antoni
 ## Title: Containers, Pods, and Databases- The Future of Infrastructure
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 14-12-2019 - Session time: 16:00:00 - Track:  DBA
 #### SessionID: 94490
 # "Kubernetify" your SQL Server Containers
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:  DBA
+Event Date: 14-12-2019 - Session time: 13:30:00 - Track:  DBA
 ## Speaker: Chris Taylor
 ## Title: "Kubernetify" your SQL Server Containers
 ## Abstract:
@@ -233,7 +233,7 @@ We will be talking about what Kubernetes is and how it works and through the use
 #### SessionID: 94887
 # Debugging your premium capacity
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:     BI/DEV
+Event Date: 14-12-2019 - Session time: 13:30:00 - Track:     BI/DEV
 ## Speaker: Kasper de Jonge
 ## Title: Debugging your premium capacity
 ## Abstract:
@@ -242,7 +242,7 @@ Event Date: 14-12-2019 - Session time: 16:00:00 - Track:     BI/DEV
 #### SessionID: 95173
 # Retail Point-of-sale scenario using Azure Cosmos DB
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:    DEV
+Event Date: 14-12-2019 - Session time: 13:30:00 - Track:    DEV
 ## Speaker: Aleksandar Talev
 ## Title: Retail Point-of-sale scenario using Azure Cosmos DB
 ## Abstract:
@@ -255,7 +255,7 @@ This scenario takes an event sourcing approach, using a functional programming m
 #### SessionID: 98314
 # Hitchhiker's Guide to the SSAS Tabular
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:       BI
+Event Date: 14-12-2019 - Session time: 13:30:00 - Track:       BI
 ## Speaker: Roman Lansky
 ## Title: Hitchhiker's Guide to the SSAS Tabular
 ## Abstract:
@@ -264,7 +264,7 @@ Event Date: 14-12-2019 - Session time: 16:00:00 - Track:       BI
 #### SessionID: 98703
 # IoT Round Table
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:   DEV/DBA
+Event Date: 14-12-2019 - Session time: 13:30:00 - Track:   DEV/DBA
 ## Speaker: Constantin Klein
 ## Title: IoT Round Table
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 14-12-2019 - Session time: 16:00:00 - Track:   DEV/DBA
 #### SessionID: 94206
 # SQL Notebooks in Azure Data Studio for the DBA
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:  DBA
+Event Date: 14-12-2019 - Session time: 14:45:00 - Track:  DBA
 ## Speaker: Rob Sewell
 ## Title: SQL Notebooks in Azure Data Studio for the DBA
 ## Abstract:
@@ -288,7 +288,7 @@ and some gifs ;-)
 #### SessionID: 94345
 # Creating an Enterprise Datalake without an Enterprise budget
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:     BI/DEV
+Event Date: 14-12-2019 - Session time: 14:45:00 - Track:     BI/DEV
 ## Speaker: André Kamman
 ## Title: Creating an Enterprise Datalake without an Enterprise budget
 ## Abstract:
@@ -299,7 +299,7 @@ You get to decide how far you want to go, from cost-effective to penny pinching.
 #### SessionID: 98471
 # Don't Bite Off More Than You Can Chew - Take It in Chunks
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:    DEV
+Event Date: 14-12-2019 - Session time: 14:45:00 - Track:    DEV
 ## Speaker: Erland Sommarskog
 ## Title: Don't Bite Off More Than You Can Chew - Take It in Chunks
 ## Abstract:
@@ -312,7 +312,7 @@ I will also look at how you can use chunking for error handling: You want proces
 #### SessionID: 98680
 # Move part of your body to Azure Data Warehouse
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:       BI
+Event Date: 14-12-2019 - Session time: 14:45:00 - Track:       BI
 ## Speaker: Kamil Nowinski
 ## Title: Move part of your body to Azure Data Warehouse
 ## Abstract:
@@ -324,7 +324,7 @@ Finally, I will present one tool that can help you in preparation and also we wi
 #### SessionID: 98728
 # Strategies for solving compliance challenges
 #### [Back to calendar](#nr-910)
-Event Date: 14-12-2019 - Session time: 16:00:00 - Track:   DEV/DBA
+Event Date: 14-12-2019 - Session time: 14:45:00 - Track:   DEV/DBA
 ## Speaker: Steve Jones
 ## Title: Strategies for solving compliance challenges
 ## Abstract:

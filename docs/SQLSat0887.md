@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 92069
 # Dynamic SQL: When, Why, and How to Use It
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Brent Ozar
 ## Title: Dynamic SQL: When, Why, and How to Use It
 ## Abstract:
@@ -45,7 +45,7 @@ In one all-demo hour, performance tuner Brent Ozar will show you several ways th
 #### SessionID: 93394
 # Availability Groups: What They’re Not Telling You
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-08-2019 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Nicholas Cain
 ## Title: Availability Groups: What They’re Not Telling You
 ## Abstract:
@@ -54,7 +54,7 @@ Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 94261
 # Faster Transactions: Query Tuning for Data Manipulation
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Jeff Iannucci
 ## Title: Faster Transactions: Query Tuning for Data Manipulation
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 94927
 # ROI with Power BI: Do more than Excel
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-08-2019 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Erika Haase Nalley
 ## Title: ROI with Power BI: Do more than Excel
 ## Abstract:
@@ -81,7 +81,7 @@ No matter what business you are in, we will cover the basics and benefits of adv
 #### SessionID: 91918
 # SQL DevOps Simplified with Production Databases
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Paul Stanton
 ## Title: SQL DevOps Simplified with Production Databases
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 92634
 # Beginning Admin: The Care and Feeding of SQL Server
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-08-2019 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jennifer McCown
 ## Title: Beginning Admin: The Care and Feeding of SQL Server
 ## Abstract:
@@ -107,7 +107,7 @@ Being a database administrator is a big job, but we can cover the basics in one 
 #### SessionID: 93922
 # Advanced Power BI Modeling Techniques
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 03-08-2019 - Session time: 09:45:00 - Track: BI Information Delivery
 ## Speaker: Martin Schoombee
 ## Title: Advanced Power BI Modeling Techniques
 ## Abstract:
@@ -118,7 +118,7 @@ In this session we'll take your modeling skills to the next level as we explore 
 #### SessionID: 93995
 # Short Circuit Bad User Queries
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Other
+Event Date: 03-08-2019 - Session time: 09:45:00 - Track: Other
 ## Speaker: Jenny Adams
 ## Title: Short Circuit Bad User Queries
 ## Abstract:
@@ -127,7 +127,7 @@ Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Other
 #### SessionID: 92268
 # Use Visual Studio Code to get started with PowerShell
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-08-2019 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steve Peterson
 ## Title: Use Visual Studio Code to get started with PowerShell
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 93504
 # Azure Machine Learning 101
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-08-2019 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kathi Kellenberger
 ## Title: Azure Machine Learning 101
 ## Abstract:
@@ -149,7 +149,7 @@ If you are experienced in machine learning but haven’t seen Azure ML or if you
 #### SessionID: 94375
 # Women In Tech Panel
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 03-08-2019 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Liz Amador
 ## Title: Women In Tech Panel
 ## Abstract:
@@ -158,7 +158,7 @@ Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 94732
 # Possiblities and Limitations of System-Versioned Temporal Tables beyond the Basics
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Reinhard Flügel
 ## Title: Possiblities and Limitations of System-Versioned Temporal Tables beyond the Basics
 ## Abstract:
@@ -167,7 +167,7 @@ Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 92297
 # SSAS 101
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-08-2019 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matt Horton
 ## Title: SSAS 101
 ## Abstract:
@@ -176,7 +176,7 @@ Event Date: 03-08-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 93869
 # Reducing The Surface Area Of Risk in Data Security
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-08-2019 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Gorman
 ## Title: Reducing The Surface Area Of Risk in Data Security
 ## Abstract:
@@ -195,7 +195,7 @@ Masking is important, and sophisticated software packages are available today, b
 #### SessionID: 94040
 # Clustered, Non-Clustered and Covering Indexes Oh My!
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Steve Seeley
 ## Title: Clustered, Non-Clustered and Covering Indexes Oh My!
 ## Abstract:
@@ -204,7 +204,7 @@ Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 94920
 # Are all RDBMS systems created equally?
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 03-08-2019 - Session time: 13:00:00 - Track: Strategy and Architecture
 ## Speaker: Pat Wright
 ## Title: Are all RDBMS systems created equally?
 ## Abstract:
@@ -213,7 +213,7 @@ Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Strategy and Architectu
 #### SessionID: 93905
 # SQL Server Management Studio Tips and Tricks
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Andrea Allred
 ## Title: SQL Server Management Studio Tips and Tricks
 ## Abstract:
@@ -222,7 +222,7 @@ Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 94097
 # Improving concurrency with Read Committed Snapshot Isolation
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Jacob Case
 ## Title: Improving concurrency with Read Committed Snapshot Isolation
 ## Abstract:
@@ -231,7 +231,7 @@ Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 94102
 # Introduction to SQL Server Graph DB
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 03-08-2019 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Greg McMurray
 ## Title: Introduction to SQL Server Graph DB
 ## Abstract:
@@ -240,7 +240,7 @@ Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 94230
 # Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-08-2019 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
 ## Abstract:
@@ -250,7 +250,7 @@ Whether you are just getting started with Azure Data Factory or looking to make 
 #### SessionID: 94906
 # Inside the DBAtools PowerShell Module
 #### [Back to calendar](#nr-887)
-Event Date: 03-08-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-08-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: Inside the DBAtools PowerShell Module
 ## Abstract:

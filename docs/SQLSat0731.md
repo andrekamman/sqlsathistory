@@ -18,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 71728
 # Administrate SSRS/PBIRS with PowerShell
 #### [Back to calendar](#nr-731)
-Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-06-2018 - Session time: 09:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Cláudio Silva
 ## Title: Administrate SSRS/PBIRS with PowerShell
 ## Abstract:
@@ -32,7 +32,7 @@ We will see examples for both Reporting Services and PowerBI Report Server.
 #### SessionID: 72318
 # SQL Server 2017 Graph Database
 #### [Back to calendar](#nr-731)
-Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Professional Development
+Event Date: 16-06-2018 - Session time: 09:40:00 - Track: Professional Development
 ## Speaker: Sergio Govoni
 ## Title: SQL Server 2017 Graph Database
 ## Abstract:
@@ -41,7 +41,7 @@ Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Professional Developmen
 #### SessionID: 73734
 # A Masters view on Query plans and indexing
 #### [Back to calendar](#nr-731)
-Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 16-06-2018 - Session time: 10:50:00 - Track: Application  Database Development
 ## Speaker: Mikael Wedham
 ## Title: A Masters view on Query plans and indexing
 ## Abstract:
@@ -53,7 +53,7 @@ selecting appropriate indexing for your query load.
 #### SessionID: 73868
 # Choosing the Right Database for Microservices Solutions
 #### [Back to calendar](#nr-731)
-Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Strategy and Architecture
+Event Date: 16-06-2018 - Session time: 10:50:00 - Track: Strategy and Architecture
 ## Speaker: Mihail Mateev
 ## Title: Choosing the Right Database for Microservices Solutions
 ## Abstract:
@@ -64,7 +64,7 @@ In this talk we will discuss how we can go about choosing the right database mod
 #### SessionID: 71476
 # SQL Curiosities: η περιέργεια σκότωσε τη γάτα
 #### [Back to calendar](#nr-731)
-Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-06-2018 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: SQL Curiosities: η περιέργεια σκότωσε τη γάτα
 ## Abstract:
@@ -74,7 +74,7 @@ Disclaimer: No feline was harmed in the making of this session. Please do not re
 #### SessionID: 82434
 # The modern data warehouse
 #### [Back to calendar](#nr-731)
-Event Date: 16-06-2018 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-06-2018 - Session time: 12:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christian Cote
 ## Title: The modern data warehouse
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 16-06-2018 - Session time: 16:05:00 - Track: BI Platform Architectur
 #### SessionID: 74711
 # Boost your Tabular Productivity
 #### [Back to calendar](#nr-731)
-Event Date: 16-06-2018 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-06-2018 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bent Pedersen
 ## Title: Boost your Tabular Productivity
 ## Abstract:
@@ -98,7 +98,7 @@ Demoing the capabilities of the tool is what is in focus for this session and th
 #### SessionID: 77166
 # Magical Memory Moments
 #### [Back to calendar](#nr-731)
-Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 16-06-2018 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Arnie Rowland
 ## Title: Magical Memory Moments
 ## Abstract:
@@ -113,7 +113,7 @@ In this demo packed session, we will discuss the pros and cons of using memory-o
 #### SessionID: 71412
 # What can you do with SQL Server on Linux?
 #### [Back to calendar](#nr-731)
-Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-06-2018 - Session time: 14:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rudi Bruchez
 ## Title: What can you do with SQL Server on Linux?
 ## Abstract:
@@ -122,7 +122,7 @@ Event Date: 16-06-2018 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 73559
 # Azure Data Factory V2 /SSIS in Azure
 #### [Back to calendar](#nr-731)
-Event Date: 16-06-2018 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-06-2018 - Session time: 14:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Christian Cote
 ## Title: Azure Data Factory V2 /SSIS in Azure
 ## Abstract:

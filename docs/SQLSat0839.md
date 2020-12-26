@@ -51,7 +51,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 88667
 # Core Level Practical Performance Monitoring
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-06-2019 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Kelly
 ## Title: Core Level Practical Performance Monitoring
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 89279
 # Managing and Architecting Azure Data Platform
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 08-06-2019 - Session time: 12:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Morehouse
 ## Title: Managing and Architecting Azure Data Platform
 ## Abstract:
@@ -76,7 +76,7 @@ As Azure scales around the world many more companies, no matter where they are l
 #### SessionID: 92198
 # Intelligent Data Integration with SSIS
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-06-2019 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Intelligent Data Integration with SSIS
 ## Abstract:
@@ -100,7 +100,7 @@ Topics include:
 #### SessionID: 87261
 # Database Project Makes Deployment Consistent
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-06-2019 - Session time: 08:15:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 87570
 # Networking 101: Getting Ready for a SQL Event
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 08-06-2019 - Session time: 08:15:00 - Track: Professional Development
 ## Speaker: Matt Cushing
 ## Title: Networking 101: Getting Ready for a SQL Event
 ## Abstract:
@@ -120,7 +120,7 @@ In this session, we'll go over steps you can take before, during and after the e
 #### SessionID: 88658
 # Parameters in SQL Server - Query Performance Makers or Breakers
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-06-2019 - Session time: 08:15:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: Parameters in SQL Server - Query Performance Makers or Breakers
 ## Abstract:
@@ -135,7 +135,7 @@ If this is a new topic to you, you'll leave this session with takeaways galore.
 #### SessionID: 88669
 # Getting your Database off to a Right Start
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-06-2019 - Session time: 08:15:00 - Track: Application  Database Development
 ## Speaker: Andrew Kelly
 ## Title: Getting your Database off to a Right Start
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 90705
 # Visualize Your Transaction Log
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-06-2019 - Session time: 08:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Hansen
 ## Title: Visualize Your Transaction Log
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 91268
 # Getting started with Azure SQL Database: What You Need To Know!
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 08-06-2019 - Session time: 08:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Donahoe
 ## Title: Getting started with Azure SQL Database: What You Need To Know!
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 91692
 # Intro to Azure Data Studio
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-06-2019 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Flamm
 ## Title: Intro to Azure Data Studio
 ## Abstract:
@@ -173,7 +173,7 @@ Release 1.5.1 (March 2019) adds support for PostgreSQL and updated support for S
 #### SessionID: 87258
 # Using Modular Scripts to Perform SQL Compliance Audits in Seconds
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-06-2019 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: Using Modular Scripts to Perform SQL Compliance Audits in Seconds
 ## Abstract:
@@ -183,7 +183,7 @@ In this session, we will go over some scripts that are used for compliance audit
 #### SessionID: 87449
 # Profiling Your Data
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-06-2019 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Angela Henry
 ## Title: Profiling Your Data
 ## Abstract:
@@ -192,7 +192,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 87623
 # Do Your Data Visualizations Need A Makeover?
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-06-2019 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Meagan Longoria
 ## Title: Do Your Data Visualizations Need A Makeover?
 ## Abstract:
@@ -201,7 +201,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 87907
 # Automated SQL Server installation and configuration using PowerShell  JSON
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-06-2019 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jamie Wick
 ## Title: Automated SQL Server installation and configuration using PowerShell  JSON
 ## Abstract:
@@ -210,7 +210,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 88969
 # SQL Joins - Deep Dive into the Shallow Waters
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-06-2019 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Slava Murygin
 ## Title: SQL Joins - Deep Dive into the Shallow Waters
 ## Abstract:
@@ -220,7 +220,7 @@ In this session, we will review different types of Join predicates, such as LEFT
 #### SessionID: 91270
 # New Instance, Now what?
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-06-2019 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Donahoe
 ## Title: New Instance, Now what?
 ## Abstract:
@@ -233,7 +233,7 @@ By the end of this session, you will have developed a pallet of tools to help yo
 #### SessionID: 91723
 # Back to Basics: SQL Server Configuration with dbatools and dbachecks
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-06-2019 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Back to Basics: SQL Server Configuration with dbatools and dbachecks
 ## Abstract:
@@ -246,7 +246,7 @@ Attendees will see how easy it to use PowerShell via dbatools to configure their
 #### SessionID: 87272
 # Faster SSIS
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-06-2019 - Session time: 10:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Faster SSIS
 ## Abstract:
@@ -259,7 +259,7 @@ Finally, we'll demonstrate a design pattern that uses a Script Component in a Da
 #### SessionID: 87314
 # Extended Events: What are they and How do I use them
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-06-2019 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
 ## Abstract:
@@ -268,7 +268,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 87482
 # Advanced T-SQL Development with latest features.
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-06-2019 - Session time: 10:45:00 - Track: Application  Database Development
 ## Speaker: Alex Grinberg
 ## Title: Advanced T-SQL Development with latest features.
 ## Abstract:
@@ -277,7 +277,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 87487
 # Data Meaning in Database Design, Analysis, and Reporting
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-06-2019 - Session time: 10:45:00 - Track: Application  Database Development
 ## Speaker: Judith Moffitt
 ## Title: Data Meaning in Database Design, Analysis, and Reporting
 ## Abstract:
@@ -288,7 +288,7 @@ We will look at how it impacts database design. We will examine how it affects E
 #### SessionID: 88660
 # Disaster Recovery - Done Dirt Cheap
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 08-06-2019 - Session time: 10:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mindy Curnutt
 ## Title: Disaster Recovery - Done Dirt Cheap
 ## Abstract:
@@ -297,7 +297,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 93383
 # What You'll Love in SQL Server 2019
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-06-2019 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: What You'll Love in SQL Server 2019
 ## Abstract:
@@ -306,7 +306,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 92125
 # SentryOne -Beyond Monitoring With SentryOne
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-06-2019 - Session time: 12:00:00 - Track: Application  Database Development
 ## Speaker: Sponsor Session
 ## Title: SentryOne -Beyond Monitoring With SentryOne
 ## Abstract:
@@ -315,7 +315,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 92126
 # Marathon Consulting -A Day in the Life of a Data Consultant
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-06-2019 - Session time: 12:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sponsor Session
 ## Title: Marathon Consulting -A Day in the Life of a Data Consultant
 ## Abstract:
@@ -324,7 +324,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 94001
 # SQL Data Partners Power BI Deployed Lunch Session
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-06-2019 - Session time: 12:00:00 - Track: Application  Database Development
 ## Speaker: Sponsor Session
 ## Title: SQL Data Partners Power BI Deployed Lunch Session
 ## Abstract:
@@ -333,7 +333,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 87429
 # Disaster Documents: The role of documentation in disaster recovery
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 08-06-2019 - Session time: 13:15:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: Disaster Documents: The role of documentation in disaster recovery
 ## Abstract:
@@ -344,7 +344,7 @@ While other disaster recovery presentations talk about strategies, plans, and te
 #### SessionID: 87478
 # Relational Design Critique
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-06-2019 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Relational Design Critique
 ## Abstract:
@@ -353,7 +353,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 87814
 # I/O Tuning 101
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-06-2019 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Anders Pedersen
 ## Title: I/O Tuning 101
 ## Abstract:
@@ -370,7 +370,7 @@ All of this can be done without the need for any 3rd party tools, all within the
 #### SessionID: 87929
 # SQL Server and Docker
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-06-2019 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Azhagappan Arunachalam
 ## Title: SQL Server and Docker
 ## Abstract:
@@ -379,7 +379,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 88914
 # Effective Data Warehouse Storage Patterns
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-06-2019 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: John Miner
 ## Title: Effective Data Warehouse Storage Patterns
 ## Abstract:
@@ -403,7 +403,7 @@ Techniques:
 #### SessionID: 93386
 # Moving and Transforming Your Data with Azure Data Factory V2
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 08-06-2019 - Session time: 13:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Meagan Longoria
 ## Title: Moving and Transforming Your Data with Azure Data Factory V2
 ## Abstract:
@@ -412,7 +412,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 87263
 # DevOps: Consistent Deployments / Team Development
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-06-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: DevOps: Consistent Deployments / Team Development
 ## Abstract:
@@ -421,7 +421,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 87273
 # Moving Data with Azure Data Factory
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-06-2019 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Moving Data with Azure Data Factory
 ## Abstract:
@@ -435,7 +435,7 @@ Attend this session to learn:
 #### SessionID: 87820
 # Exploring Machine Learning Tasks and Statistical Data Analysis
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-06-2019 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jon Tupitza
 ## Title: Exploring Machine Learning Tasks and Statistical Data Analysis
 ## Abstract:
@@ -444,7 +444,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 88668
 # Practical Monitoring of TempDB
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-06-2019 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Kelly
 ## Title: Practical Monitoring of TempDB
 ## Abstract:
@@ -453,7 +453,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 89125
 # Case Study: How I used SharePoint, Flow, PowerApps, and Forms to build a Speaker Database
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-06-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Sarah Patrick
 ## Title: Case Study: How I used SharePoint, Flow, PowerApps, and Forms to build a Speaker Database
 ## Abstract:
@@ -462,7 +462,7 @@ Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 89278
 # Data Encryption for DBAs
 #### [Back to calendar](#nr-839)
-Event Date: 08-06-2019 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-06-2019 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: Data Encryption for DBAs
 ## Abstract:

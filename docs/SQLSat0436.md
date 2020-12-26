@@ -47,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 36517
 # A NoSQL Primer for the SQL Server Developer
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Other
+Event Date: 12-09-2015 - Session time: 08:30:00 - Track: Other
 ## Speaker: Andrew Karcher
 ## Title: A NoSQL Primer for the SQL Server Developer
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Other
 #### SessionID: 36599
 # You Want Me To Do What? SQL Security Basics
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-09-2015 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: You Want Me To Do What? SQL Security Basics
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 38171
 # The PROCESS of Queries
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 12-09-2015 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: John Deardurff
 ## Title: The PROCESS of Queries
 ## Abstract:
@@ -78,7 +78,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 38221
 # First Look at SQL Server 2016
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-09-2015 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Heiges
 ## Title: First Look at SQL Server 2016
 ## Abstract:
@@ -87,7 +87,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 38337
 # Turbo Boost Performance: In Memory Tables index optimizations
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Strategy and Architecture
+Event Date: 12-09-2015 - Session time: 08:30:00 - Track: Strategy and Architecture
 ## Speaker: Konstantin Melamud
 ## Title: Turbo Boost Performance: In Memory Tables index optimizations
 ## Abstract:
@@ -96,7 +96,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Strategy and Architectu
 #### SessionID: 38530
 # DBA to Project Manager in 60 minutes flat
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Professional Development
+Event Date: 12-09-2015 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: Paresh Motiwala
 ## Title: DBA to Project Manager in 60 minutes flat
 ## Abstract:
@@ -107,7 +107,7 @@ In this session we wil actually take an arbitrary application and its affiliated
 #### SessionID: 39052
 # Making the Leap from Developer to DBA
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Professional Development
+Event Date: 12-09-2015 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Professional Developmen
 #### SessionID: 36516
 # Physical Join Operators
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-09-2015 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ami Levin
 ## Title: Physical Join Operators
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 36531
 # AlwaysOn Availability Groups Kickoff
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-09-2015 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Reinhard
 ## Title: AlwaysOn Availability Groups Kickoff
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 37044
 # Statistics and Query Optimization
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 12-09-2015 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Statistics and Query Optimization
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 37916
 # Why should I care about the plan cache?
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-09-2015 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about the plan cache?
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 38344
 # Make Your SQL Server Queries Go Faster
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-09-2015 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: Make Your SQL Server Queries Go Faster
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 38731
 # Tame the sibling rivalry of the Lock, Block and Deadlock sisters
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 12-09-2015 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Tame the sibling rivalry of the Lock, Block and Deadlock sisters
 ## Abstract:
@@ -172,7 +172,7 @@ We will review locking, blocking and deadlocking.  We will review isolation leve
 #### SessionID: 36511
 # When Database Corruption Strikes - Will you be ready?
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-09-2015 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steve Stedman
 ## Title: When Database Corruption Strikes - Will you be ready?
 ## Abstract:
@@ -181,7 +181,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 37438
 # Collecting and Analyzing File  Wait Statistics
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-09-2015 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Kelly
 ## Title: Collecting and Analyzing File  Wait Statistics
 ## Abstract:
@@ -190,7 +190,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 38500
 # Tricks from the DBA Inbox: Real World Performance Tuning
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-09-2015 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Horner
 ## Title: Tricks from the DBA Inbox: Real World Performance Tuning
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 38529
 # Setting up your BI Infrastructure
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-09-2015 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paresh Motiwala
 ## Title: Setting up your BI Infrastructure
 ## Abstract:
@@ -210,7 +210,7 @@ What are the best practices involved in creating a BI infrastructure. We can dis
 #### SessionID: 38574
 # The Lost Science of Set Theory
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 12-09-2015 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Aaron Cutshall
 ## Title: The Lost Science of Set Theory
 ## Abstract:
@@ -219,7 +219,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 39398
 # Understanding the SQL Server Transaction Log
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-09-2015 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Randy Knight
 ## Title: Understanding the SQL Server Transaction Log
 ## Abstract:
@@ -228,7 +228,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 37381
 # Master Data Management - Getting Started with SQL Server MDS 
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Information Delivery
+Event Date: 12-09-2015 - Session time: 12:30:00 - Track: Information Delivery
 ## Speaker: John McAllister
 ## Title: Master Data Management - Getting Started with SQL Server MDS 
 ## Abstract:
@@ -237,7 +237,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Information Delivery
 #### SessionID: 40083
 # How to Light up your SQL Server Investment with Pyramid Analytics BI 
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Analytics and Visualization
+Event Date: 12-09-2015 - Session time: 12:30:00 - Track: Analytics and Visualization
 ## Speaker: Mike Teel
 ## Title: How to Light up your SQL Server Investment with Pyramid Analytics BI 
 ## Abstract:
@@ -249,7 +249,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #### SessionID: 38078
 # Picking the Right Fights with Your Server Team
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-09-2015 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joseph D'Antoni
 ## Title: Picking the Right Fights with Your Server Team
 ## Abstract:
@@ -266,7 +266,7 @@ After attending this session, you will have a good understanding of how to talk 
 #### SessionID: 38338
 # Optimizing your data warehouse for OLAP Processing
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-09-2015 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Konstantin Melamud
 ## Title: Optimizing your data warehouse for OLAP Processing
 ## Abstract:
@@ -275,7 +275,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 38737
 # Zero-Downtime Upgrades: Rockstar DBA
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-09-2015 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Argenis Fernandez
 ## Title: Zero-Downtime Upgrades: Rockstar DBA
 ## Abstract:
@@ -295,7 +295,7 @@ If you are considering upgrading to a major version of SQL Server, or just apply
 #### SessionID: 38892
 # A Masters Passport to Extended Events
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-09-2015 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: A Masters Passport to Extended Events
 ## Abstract:
@@ -308,7 +308,7 @@ This session on Extended Events will help prepare you to put this tool to immedi
 #### SessionID: 39054
 # Running with Scissors - SQLCLR and You
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 12-09-2015 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Ben Thul
 ## Title: Running with Scissors - SQLCLR and You
 ## Abstract:
@@ -317,7 +317,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 39160
 # R#246;ck Yo#252;r Technical Interview (Part 1)
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Professional Development
+Event Date: 12-09-2015 - Session time: 13:45:00 - Track: Professional Development
 ## Speaker: David McCarter
 ## Title: R#246;ck Yo#252;r Technical Interview (Part 1)
 ## Abstract:
@@ -326,7 +326,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Professional Developmen
 #### SessionID: 37546
 # CSI: DW -- Anatomy of a VLDW!
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-09-2015 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dave Fackler
 ## Title: CSI: DW -- Anatomy of a VLDW!
 ## Abstract:
@@ -335,7 +335,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 36602
 # Hacking Expos#233; - Using SSL to Secure SQL Server Connections
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Bell
 ## Title: Hacking Expos#233; - Using SSL to Secure SQL Server Connections
 ## Abstract:
@@ -349,7 +349,7 @@ Once secured, we will resume the role of the hacker and look inside the packets 
 #### SessionID: 37402
 # Data Pages, Allocation Units, IAM chains... Oh My!
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brandon Leach
 ## Title: Data Pages, Allocation Units, IAM chains... Oh My!
 ## Abstract:
@@ -359,7 +359,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 37549
 # T-SQL: Simple Changes That Go a Long Way
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: David Valentine
 ## Title: T-SQL: Simple Changes That Go a Long Way
 ## Abstract:
@@ -368,7 +368,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 38964
 # Use Hive and Hadoop for High Performance Data Warehousing
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: BI Information Delivery
+Event Date: 12-09-2015 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Carlos Bossy
 ## Title: Use Hive and Hadoop for High Performance Data Warehousing
 ## Abstract:
@@ -377,7 +377,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: BI Information Delivery
 #### SessionID: 39011
 # What is a Latch, and Why Should I Care?
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eddie Wuerch
 ## Title: What is a Latch, and Why Should I Care?
 ## Abstract:
@@ -386,7 +386,7 @@ Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 39161
 # R#246;ck Yo#252;r Technical Interview (Part 2)
 #### [Back to calendar](#nr-436)
-Event Date: 12-09-2015 - Session time: 16:15:00 - Track: Professional Development
+Event Date: 12-09-2015 - Session time: 15:00:00 - Track: Professional Development
 ## Speaker: David McCarter
 ## Title: R#246;ck Yo#252;r Technical Interview (Part 2)
 ## Abstract:

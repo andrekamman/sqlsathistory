@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 107262
 # The Battle of DBAAS – RDS vs Cloud SQL vs SQL Azure
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 21-11-2020 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sandeep Arora
 ## Title: The Battle of DBAAS – RDS vs Cloud SQL vs SQL Azure
 ## Abstract:
@@ -47,7 +47,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 107782
 # From Docker to Big Data Clusters: a new era for SQL server
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 21-11-2020 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Christophe Laporte
 ## Title: From Docker to Big Data Clusters: a new era for SQL server
 ## Abstract:
@@ -67,7 +67,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 108255
 # Mijotez de bonnes petites analyses et soyez le cuistot des données grâce à Kusto
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-11-2020 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cédric Charlier
 ## Title: Mijotez de bonnes petites analyses et soyez le cuistot des données grâce à Kusto
 ## Abstract:
@@ -86,7 +86,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 107146
 # Modernizing Your Data Platform
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 21-11-2020 - Session time: 09:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Guy Glantser
 ## Title: Modernizing Your Data Platform
 ## Abstract:
@@ -106,7 +106,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 107402
 # SQL Curiosities: Curiosity Killed The Kitten
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 21-11-2020 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: André Melancia
 ## Title: SQL Curiosities: Curiosity Killed The Kitten
 ## Abstract:
@@ -126,7 +126,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 107730
 # Power BI dataflows? Why you need to implement it!
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-11-2020 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Benni De Jagere
 ## Title: Power BI dataflows? Why you need to implement it!
 ## Abstract:
@@ -153,7 +153,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 107909
 # Python in SQL Server 2017 and 2019
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-11-2020 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017 and 2019
 ## Abstract:
@@ -174,7 +174,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 107962
 # Why Synapse Analytics is beyond Azure SQL Datawarehouse
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 21-11-2020 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Dennes Torres
 ## Title: Why Synapse Analytics is beyond Azure SQL Datawarehouse
 ## Abstract:
@@ -193,7 +193,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 108084
 # Introduction to Snowflake on Microsoft Azure
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 21-11-2020 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Warner Chaves
 ## Title: Introduction to Snowflake on Microsoft Azure
 ## Abstract:
@@ -218,7 +218,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 107152
 # Need to Monitor Any Azure Resource? Must Learn Kusto Query Langua
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-11-2020 - Session time: 12:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Taiob Ali
 ## Title: Need to Monitor Any Azure Resource? Must Learn Kusto Query Langua
 ## Abstract:
@@ -238,7 +238,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 107701
 # Real-World Query Tuning Examples
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 21-11-2020 - Session time: 12:30:00 - Track: Application  Database Development
 ## Speaker: Amit R S Bansal
 ## Title: Real-World Query Tuning Examples
 ## Abstract:
@@ -256,7 +256,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 108213
 # Data Time Travel with SQL Server Temporal Tables
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 21-11-2020 - Session time: 12:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sam Nasr
 ## Title: Data Time Travel with SQL Server Temporal Tables
 ## Abstract:
@@ -275,7 +275,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 107381
 # Data virtualization with  SQL Server 2019  PolyBase and integration with Power BI .
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 21-11-2020 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Itshak David
 ## Title: Data virtualization with  SQL Server 2019  PolyBase and integration with Power BI .
 ## Abstract:
@@ -303,7 +303,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 107905
 # The search for Spark within the modern data platform.
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 21-11-2020 - Session time: 13:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Miner
 ## Title: The search for Spark within the modern data platform.
 ## Abstract:
@@ -326,7 +326,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 108095
 # Improving Analytics Performance With Columnstore Indexes
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-11-2020 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Edward Pollack
 ## Title: Improving Analytics Performance With Columnstore Indexes
 ## Abstract:
@@ -351,7 +351,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 107879
 # First Steps to Work with Graphs in AZURE SQL DB
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-11-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Wagner Crivelini
 ## Title: First Steps to Work with Graphs in AZURE SQL DB
 ## Abstract:
@@ -370,7 +370,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 108030
 # Data Virtualization with PolyBase
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 21-11-2020 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kevin Feasel
 ## Title: Data Virtualization with PolyBase
 ## Abstract:
@@ -391,7 +391,7 @@ New to GoToMeeting? Get the app now and be ready when your first meeting starts:
 #### SessionID: 108410
 # Who's Pissing in Your Data Lake?
 #### [Back to calendar](#nr-1012)
-Event Date: 21-11-2020 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 21-11-2020 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Karen Lopez
 ## Title: Who's Pissing in Your Data Lake?
 ## Abstract:

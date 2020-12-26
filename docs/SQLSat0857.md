@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 90824
 # Move your database to the Cloud: Understand, Design, Migrate, Man
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 18-05-2019 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Move your database to the Cloud: Understand, Design, Migrate, Man
 ## Abstract:
@@ -51,7 +51,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 93429
 # The SQL Server DBA’s Guide to Docker Containers
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-05-2019 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Edwin M Sarmiento
 ## Title: The SQL Server DBA’s Guide to Docker Containers
 ## Abstract:
@@ -67,7 +67,7 @@ Learning Objectives:
 #### SessionID: 89557
 # Hacking SQL Server Is Not Enough
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-05-2019 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server Is Not Enough
 ## Abstract:
@@ -78,7 +78,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #### SessionID: 91594
 # Power BI Premium vs Power BI Embedded for Modern BI Solutions
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-05-2019 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mihail Mateev
 ## Title: Power BI Premium vs Power BI Embedded for Modern BI Solutions
 ## Abstract:
@@ -88,7 +88,7 @@ This talk is abou the best practices designing and implementing in business solu
 #### SessionID: 91691
 # Introduction to Polybase
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-05-2019 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paul Wehland
 ## Title: Introduction to Polybase
 ## Abstract:
@@ -99,7 +99,7 @@ Come to this Beginner talk to learn how you can get started using Polybase in SQ
 #### SessionID: 93435
 # SQL Server 2019  Kubernetes: Cloud Native Development for Enterp
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 18-05-2019 - Session time: 10:00:00 - Track: Strategy and Architecture
 ## Speaker: Vitalii Bondarenko
 ## Title: SQL Server 2019  Kubernetes: Cloud Native Development for Enterp
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 93914
 # Tuning SQL Server for mere mortals (українською)
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 18-05-2019 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Mykola Pobyivovk
 ## Title: Tuning SQL Server for mere mortals (українською)
 ## Abstract:
@@ -119,7 +119,7 @@ In this session I would like to show common mistakes, connected with DB developm
 #### SessionID: 89215
 # Blockchain as service  - Azure Blockchain Workbench
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 18-05-2019 - Session time: 11:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Senthamil V
 ## Title: Blockchain as service  - Azure Blockchain Workbench
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 90473
 # Working in Batches
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 18-05-2019 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Working in Batches
 ## Abstract:
@@ -139,7 +139,7 @@ We will also look at batching from a different angle: problems that requires a l
 #### SessionID: 90755
 # SQL Server  PowerShell. How to become a true senior DBA (на русском)
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-05-2019 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andriy Pogorelov
 ## Title: SQL Server  PowerShell. How to become a true senior DBA (на русском)
 ## Abstract:
@@ -148,7 +148,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 90823
 # Attention Contention!!!
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-05-2019 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Attention Contention!!!
 ## Abstract:
@@ -157,7 +157,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 91921
 # Building BI solution with AWS vs Google Cloud
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 18-05-2019 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Maryna Popova
 ## Title: Building BI solution with AWS vs Google Cloud
 ## Abstract:
@@ -167,7 +167,7 @@ Will share the experience of using different infrastructures and the overview of
 #### SessionID: 93642
 # The future of serverless computing
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 18-05-2019 - Session time: 11:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: The future of serverless computing
 ## Abstract:
@@ -180,7 +180,7 @@ This session will be useful for developers and architects who are seeking a way 
 #### SessionID: 93785
 # Oracle APEX
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 18-05-2019 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Oleksii Vykhristiyk
 ## Title: Oracle APEX
 ## Abstract:
@@ -193,7 +193,7 @@ Then you have everything you need to start building useful, scalable apps now us
 #### SessionID: 89370
 # How to win Kaggle competition and get familiar with machine learning ?
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
+Event Date: 18-05-2019 - Session time: 13:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: How to win Kaggle competition and get familiar with machine learning ?
 ## Abstract:
@@ -204,7 +204,7 @@ Minimum slides and maximum fun guaranteed.
 #### SessionID: 89702
 # DevOPS for DBAs - Where is your magic wand?
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-05-2019 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: DevOPS for DBAs - Where is your magic wand?
 ## Abstract:
@@ -218,7 +218,7 @@ Take away best practices associated in DEVOPS and DBA world.
 #### SessionID: 91790
 # Anomaly Detection in Predictive Maintenance for Sql Server
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-05-2019 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janusz Rokicki
 ## Title: Anomaly Detection in Predictive Maintenance for Sql Server
 ## Abstract:
@@ -227,7 +227,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 91907
 # Securing, maintaining and troubleshooting your Azure SQL in production.
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 18-05-2019 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Stanislav Lebedenko
 ## Title: Securing, maintaining and troubleshooting your Azure SQL in production.
 ## Abstract:
@@ -242,7 +242,7 @@ Infrastructure as code is essential part of Azure and proper set of the environm
 #### SessionID: 93660
 # Power BI. Evaluation context in DAX.
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 18-05-2019 - Session time: 13:30:00 - Track: Analytics and Visualization
 ## Speaker: Artur Konstantynov
 ## Title: Power BI. Evaluation context in DAX.
 ## Abstract:
@@ -251,7 +251,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 90319
 # Plan Caching
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-05-2019 - Session time: 14:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Torsten Strauss
 ## Title: Plan Caching
 ## Abstract:
@@ -264,7 +264,7 @@ Furthermore, we will analyse how the settings ‘optimize for adhoc workloads’
 #### SessionID: 90968
 # The databases in SSDT - a work with project and best practices
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 18-05-2019 - Session time: 14:40:00 - Track: Application  Database Development
 ## Speaker: Kamil Nowinski
 ## Title: The databases in SSDT - a work with project and best practices
 ## Abstract:
@@ -274,7 +274,7 @@ All these topics I will explain in the session focused on practical aspects of w
 #### SessionID: 91404
 # Hadoop in AWS - You can already use it without knowing about it
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 18-05-2019 - Session time: 14:40:00 - Track: Analytics and Visualization
 ## Speaker: Sergey Dzyuban
 ## Title: Hadoop in AWS - You can already use it without knowing about it
 ## Abstract:
@@ -286,7 +286,7 @@ Golang application helps us to retrieve data from Artifactory, and Zeppelin and 
 #### SessionID: 91430
 # Hacking SQL Server
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 18-05-2019 - Session time: 14:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: Hacking SQL Server
 ## Abstract:
@@ -295,7 +295,7 @@ Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 91922
 # “SQL-like” or query languages in Azure IoT
 #### [Back to calendar](#nr-857)
-Event Date: 18-05-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 18-05-2019 - Session time: 14:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Catalin Gheorghiu
 ## Title: “SQL-like” or query languages in Azure IoT
 ## Abstract:

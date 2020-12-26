@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 49090
 # Unicorn safari - alleviating consolidation pains with SQL Server 2016
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-08-2016 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alexander Arvidsson
 ## Title: Unicorn safari - alleviating consolidation pains with SQL Server 2016
 ## Abstract:
@@ -42,7 +42,7 @@ At the end of this session you will have a good understanding of the challenges 
 #### SessionID: 50748
 # Implementing and Maintaining an Azure SQL Database project
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: Azure and Cloud related
+Event Date: 27-08-2016 - Session time: 09:15:00 - Track: Azure and Cloud related
 ## Speaker: Emanuele Zanchettin
 ## Title: Implementing and Maintaining an Azure SQL Database project
 ## Abstract:
@@ -51,7 +51,7 @@ Event Date: 27-08-2016 - Session time: 16:30:00 - Track: Azure and Cloud related
 #### SessionID: 50924
 # Real-Time Analytics: OLAP  OLTP in the mix!
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-08-2016 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stijn Wynants
 ## Title: Real-Time Analytics: OLAP  OLTP in the mix!
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 27-08-2016 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 52546
 # We need to go deeper: Exploring CTEs
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-08-2016 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Daniel Hutmacher
 ## Title: We need to go deeper: Exploring CTEs
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 27-08-2016 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 48144
 # Think  work like a Data Scientist with SQL 2016 R
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-08-2016 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Think  work like a Data Scientist with SQL 2016 R
 ## Abstract:
@@ -82,7 +82,7 @@ In this session, you will definitely take away a breakthrough concept of Advance
 #### SessionID: 48654
 # Mastering DML Operations like a master
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 27-08-2016 - Session time: 10:30:00 - Track: Professional Development
 ## Speaker: Uwe Ricken
 ## Title: Mastering DML Operations like a master
 ## Abstract:
@@ -99,7 +99,7 @@ What performance drawbacks have Page Splits and Forwarded Records for my applica
 #### SessionID: 50446
 # SS2014/2016 In-Memory Tables --Formula One Performance Unleashed???
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-08-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mike Byrd
 ## Title: SS2014/2016 In-Memory Tables --Formula One Performance Unleashed???
 ## Abstract:
@@ -114,7 +114,7 @@ After this session you will
 #### SessionID: 52530
 # SQL 2016 New features
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-08-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Postlethwaite
 ## Title: SQL 2016 New features
 ## Abstract:
@@ -123,7 +123,7 @@ Event Date: 27-08-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 48371
 # Schizophrenic High Availability with SQL and Windows 2016
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-08-2016 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Broadbent
 ## Title: Schizophrenic High Availability with SQL and Windows 2016
 ## Abstract:
@@ -134,7 +134,7 @@ In this session we will take a look at some of the new features provided by SQL 
 #### SessionID: 48603
 # Configuring SQL Server Analysis Services for use with Azure SQL DW
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: Azure and Cloud related
+Event Date: 27-08-2016 - Session time: 11:45:00 - Track: Azure and Cloud related
 ## Speaker: Mike Boswell
 ## Title: Configuring SQL Server Analysis Services for use with Azure SQL DW
 ## Abstract:
@@ -148,7 +148,7 @@ Session objectives:
 #### SessionID: 50285
 # Shadow prediction: SQL spatial data types and astronomy well mixed
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 27-08-2016 - Session time: 11:45:00 - Track: Professional Development
 ## Speaker: Arne Bartels
 ## Title: Shadow prediction: SQL spatial data types and astronomy well mixed
 ## Abstract:
@@ -160,7 +160,7 @@ The calculation of the daily path of a shadow can be seen as a rather complex th
 #### SessionID: 50460
 # GIving Permissions through Stored Procedures
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-08-2016 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Erland Sommarskog
 ## Title: GIving Permissions through Stored Procedures
 ## Abstract:
@@ -173,7 +173,7 @@ The session should be of interest both to DBAs and application developers that n
 #### SessionID: 48916
 # Who, What, When. Monitoring usage of your MS BI stack
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-08-2016 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Asgeir Gunnarsson
 ## Title: Who, What, When. Monitoring usage of your MS BI stack
 ## Abstract:
@@ -186,7 +186,7 @@ At the end of the session all participants will leave with all the code as well 
 #### SessionID: 50416
 # Tools and Tips: From Accidental to Efficient Data Warehouse Developer
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-08-2016 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Tools and Tips: From Accidental to Efficient Data Warehouse Developer
 ## Abstract:
@@ -199,7 +199,7 @@ In this session I will show you some of what I have learned and discovered that 
 #### SessionID: 50905
 # Bioinformatics on Azure
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: Azure and Cloud related
+Event Date: 27-08-2016 - Session time: 14:00:00 - Track: Azure and Cloud related
 ## Speaker: Tillmann Eitelberg
 ## Title: Bioinformatics on Azure
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 27-08-2016 - Session time: 16:30:00 - Track: Azure and Cloud related
 #### SessionID: 52580
 # SELECT TOP 5 Feaures FROM SQL 2016 ORDER BY Coolfactor DESC
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-08-2016 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Håkan Winther
 ## Title: SELECT TOP 5 Feaures FROM SQL 2016 ORDER BY Coolfactor DESC
 ## Abstract:
@@ -225,7 +225,7 @@ Dynamic data masking
 #### SessionID: 48141
 # Statistics, an unreliable friend.
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Magnus Ahlkvist
 ## Title: Statistics, an unreliable friend.
 ## Abstract:
@@ -235,7 +235,7 @@ Join me on some head-ache, a dive into statistics histograms, trace flags and so
 #### SessionID: 48289
 # Making Row Level Security and Dynamic Data Masking work for you!
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-08-2016 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: John Martin
 ## Title: Making Row Level Security and Dynamic Data Masking work for you!
 ## Abstract:
@@ -248,7 +248,7 @@ In this session we will look at how you can get the most out of these features a
 #### SessionID: 48605
 # Why (data) quality matters
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Professional Development
 ## Speaker: Bjorn D. Jensen
 ## Title: Why (data) quality matters
 ## Abstract:
@@ -271,7 +271,7 @@ This is where you benefit from unit testing. (Demo of unit testing with SSDT.)
 #### SessionID: 50252
 # Azure IoT, Windows 10 Core  Raspberry PI
 #### [Back to calendar](#nr-536)
-Event Date: 27-08-2016 - Session time: 16:30:00 - Track: Azure and Cloud related
+Event Date: 27-08-2016 - Session time: 15:15:00 - Track: Azure and Cloud related
 ## Speaker: Jens Vestergaard
 ## Title: Azure IoT, Windows 10 Core  Raspberry PI
 ## Abstract:

@@ -29,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 103366
 # Life Hacks: dbatools edition
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: Jess Pomfret
 ## Title: Life Hacks: dbatools edition
 ## Abstract:
@@ -48,7 +48,7 @@ This session’s life hacks will include, among others:
 #### SessionID: 103742
 # From 0 to hero. Azure data factory CI/CD experiences
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: Halvar Trøyel Nerbø
 ## Title: From 0 to hero. Azure data factory CI/CD experiences
 ## Abstract:
@@ -59,7 +59,7 @@ We will set up a development, test and production Azure Data Factory using varia
 #### SessionID: 104326
 # My Power BI Report is Slow: What Should I Do?
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: Marco Russo
 ## Title: My Power BI Report is Slow: What Should I Do?
 ## Abstract:
@@ -72,7 +72,7 @@ At the end of this session, you will understand how to locate a performance bott
 #### SessionID: 104329
 # SQL Server 2019 Big Data Clusters: Make SQL Server your Data Hub for everything
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: Ben Weissman
 ## Title: SQL Server 2019 Big Data Clusters: Make SQL Server your Data Hub for everything
 ## Abstract:
@@ -85,7 +85,7 @@ In this session we are going to explore the capabilities of the exciting new fea
 #### SessionID: 101891
 # Best Practices for building a Data Lake with Azure Databricks
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 10:45:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: Oskari Heikkinen
 ## Title: Best Practices for building a Data Lake with Azure Databricks
 ## Abstract:
@@ -94,7 +94,7 @@ Event Date: 29-08-2020 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 102584
 # Benchmarking in the Cloud
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: Gianluca Sartori
 ## Title: Benchmarking in the Cloud
 ## Abstract:
@@ -104,7 +104,7 @@ Join me in this session and learn how to capture a production workload, replay i
 #### SessionID: 104435
 # Monitoring service quality with Artificial Intelligence
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Analytics and Visualization (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 10:45:00 - Track: Analytics and Visualization (Cloud/Hybrid/On-prem)
 ## Speaker: Alexander Klein
 ## Title: Monitoring service quality with Artificial Intelligence
 ## Abstract:
@@ -117,7 +117,7 @@ The list of ingredients includes Cognitive Services (AI), Power Apps, an Azure S
 #### SessionID: 104453
 # Power Automate your BI
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 10:45:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: Ida Bergum
 ## Title: Power Automate your BI
 ## Abstract:
@@ -126,7 +126,7 @@ Event Date: 29-08-2020 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 101880
 # Why Synapse Analytics is beyond Azure SQL Datawarehouse
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 12:00:00 - Track: BI Platform Architecture, Development  Administration (Cloud/Hybrid/On-prem)
 ## Speaker: Dennes Torres
 ## Title: Why Synapse Analytics is beyond Azure SQL Datawarehouse
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 29-08-2020 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 102507
 # Azure Arc and Providing Data Platform Services - MSSQL and PostegreSQL
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: Marius Sandbu
 ## Title: Azure Arc and Providing Data Platform Services - MSSQL and PostegreSQL
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 103607
 # From adaptive to intelligent: query processing in SQL 2019
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 12:00:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
 ## Speaker: Hugo Kornelis
 ## Title: From adaptive to intelligent: query processing in SQL 2019
 ## Abstract:
@@ -155,7 +155,7 @@ In this high-paced session, we will look at all these features and cover some us
 #### SessionID: 104204
 # Use parameters to add extra flexibility to your Power BI content
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Analytics and Visualization (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 12:00:00 - Track: Analytics and Visualization (Cloud/Hybrid/On-prem)
 ## Speaker: Marc Lelijveld
 ## Title: Use parameters to add extra flexibility to your Power BI content
 ## Abstract:
@@ -166,7 +166,7 @@ This session will give you examples on where you can use parameters in Power BI 
 #### SessionID: 107580
 # Launch: dbWatch Control Center launch – announcement and live dem
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: Andreas Hope
 ## Title: Launch: dbWatch Control Center launch – announcement and live dem
 ## Abstract:
@@ -179,7 +179,7 @@ Presenter: Andreas Hope, Marketing Director, dbWatch AS
 #### SessionID: 101876
 # Azure DevOps duet (60 minutes version)
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: Kevin Chant
 ## Title: Azure DevOps duet (60 minutes version)
 ## Abstract:
@@ -200,7 +200,7 @@ After this session you will have the tools and knowledge to get started with Dev
 #### SessionID: 102081
 # Four Steps to Securing your Data Platform
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: John Martin
 ## Title: Four Steps to Securing your Data Platform
 ## Abstract:
@@ -211,7 +211,7 @@ In this session we will look at four key elements that are integral to data plat
 #### SessionID: 102140
 # Statistics, an unreliable friend.
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 13:45:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
 ## Speaker: Magnus Ahlkvist
 ## Title: Statistics, an unreliable friend.
 ## Abstract:
@@ -222,7 +222,7 @@ Much of this session is about the "ascending key problem", and how Microsoft hav
 #### SessionID: 104402
 # Data is all around - so how do you control it? ​
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: Marthe Moengen
 ## Title: Data is all around - so how do you control it? ​
 ## Abstract:
@@ -233,7 +233,7 @@ In this session, I will present how data governance and particularly the augment
 #### SessionID: 101974
 # Chaos Engineering for SQL Server
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: Andrew Pruski
 ## Title: Chaos Engineering for SQL Server
 ## Abstract:
@@ -248,7 +248,7 @@ This session is for SQL Server DBAs and Developers who want to know how Chaos En
 #### SessionID: 103428
 # SQL Titbits for the Inexperienced
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 15:00:00 - Track: Application  Database Development (Cloud/Hybrid/On-prem)
 ## Speaker: Erland Sommarskog
 ## Title: SQL Titbits for the Inexperienced
 ## Abstract:
@@ -257,7 +257,7 @@ Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 103975
 # Beyond instance tuning: Optimizing and managing a SQL Server Farm
 #### [Back to calendar](#nr-971)
-Event Date: 29-08-2020 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
+Event Date: 29-08-2020 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment (Cloud/Hybrid/On-prem)
 ## Speaker: Per Christopher Undheim
 ## Title: Beyond instance tuning: Optimizing and managing a SQL Server Farm
 ## Abstract:

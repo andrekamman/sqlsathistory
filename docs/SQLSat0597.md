@@ -67,7 +67,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 56679
 # New Instance, Now what?
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Donahoe
 ## Title: New Instance, Now what?
 ## Abstract:
@@ -80,7 +80,7 @@ By the end of this session, you will have developed a pallet of tools to help yo
 #### SessionID: 56833
 # APPLY Yourself
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: APPLY Yourself
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 56853
 # Polybase, Didn't that go out with the 70's?
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 25-03-2017 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stan Geiger
 ## Title: Polybase, Didn't that go out with the 70's?
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 57086
 # Fun with SQL Server Spatial Data
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: Fun with SQL Server Spatial Data
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 57378
 # Adding Lightness: Better Performance Through Compression
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Jay Robinson
 ## Title: Adding Lightness: Better Performance Through Compression
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 57950
 # Power BI Gotcha's
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Information Delivery
+Event Date: 25-03-2017 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: Rachael Martino
 ## Title: Power BI Gotcha's
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Information Delivery
 #### SessionID: 58214
 # Query Optimization Statistics : Driving Force Behind Performance
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vern Rabe
 ## Title: Query Optimization Statistics : Driving Force Behind Performance
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 59509
 # Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and Deadlocks
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 60954
 # Are you down with MPP? - Part 1 - Hadoop Based Solutions
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 25-03-2017 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Josh Sivey
 ## Title: Are you down with MPP? - Part 1 - Hadoop Based Solutions
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Cloud Application Devel
 #### SessionID: 61036
 # Logical Data Warehousing with Tableau 10
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 25-03-2017 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Frank Cegelski
 ## Title: Logical Data Warehousing with Tableau 10
 ## Abstract:
@@ -167,7 +167,7 @@ Learn about LDW, and learn how Tableau 10 can help provide value to your client 
 #### SessionID: 61107
 # Data Wrangling for Reporting  Analytics
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Analytics and Visualization
+Event Date: 25-03-2017 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Phil Robinson
 ## Title: Data Wrangling for Reporting  Analytics
 ## Abstract:
@@ -176,7 +176,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #### SessionID: 61131
 # JSON and the Astronauts
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Peter Kral
 ## Title: JSON and the Astronauts
 ## Abstract:
@@ -193,7 +193,7 @@ Be amazed at the cool people NASA sends into space!
 #### SessionID: 56855
 # JSON Processing in SQL Server 2016 or Why I hate XML
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: Stan Geiger
 ## Title: JSON Processing in SQL Server 2016 or Why I hate XML
 ## Abstract:
@@ -202,7 +202,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 58212
 # It’s Time for a Change: Temporal Table Support in SQL Server 2016
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vern Rabe
 ## Title: It’s Time for a Change: Temporal Table Support in SQL Server 2016
 ## Abstract:
@@ -213,7 +213,7 @@ In this session we’ll discuss how you can benefit from temporal support in you
 #### SessionID: 59386
 # Speed Up Your SSAS Cube's Data Refresh With Dynamic Partition Processing
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 25-03-2017 - Session time: 11:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeremy Frye
 ## Title: Speed Up Your SSAS Cube's Data Refresh With Dynamic Partition Processing
 ## Abstract:
@@ -222,7 +222,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 59390
 # Faster Provisioning with SQL Clone
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Faster Provisioning with SQL Clone
 ## Abstract:
@@ -237,7 +237,7 @@ In this session Redgate’s Grant Fritchey shows how new tool SQL Clone enables 
 #### SessionID: 59456
 # Deep Dive into the SSIS Catalog
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 25-03-2017 - Session time: 11:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Deep Dive into the SSIS Catalog
 ## Abstract:
@@ -248,7 +248,7 @@ In this demo-heavy presentation, we will dive into the details of the SSIS catal
 #### SessionID: 59511
 # Making the Leap from Developer to DBA
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Professional Development
+Event Date: 25-03-2017 - Session time: 11:15:00 - Track: Professional Development
 ## Speaker: Amy Herold
 ## Title: Making the Leap from Developer to DBA
 ## Abstract:
@@ -257,7 +257,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Professional Developmen
 #### SessionID: 60955
 # Are you down with MPP? - Part 2 - SQL Based Solutions
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 25-03-2017 - Session time: 11:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Josh Sivey
 ## Title: Are you down with MPP? - Part 2 - SQL Based Solutions
 ## Abstract:
@@ -266,7 +266,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Cloud Application Devel
 #### SessionID: 60956
 # An Introduction to Advanced Analytics
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
+Event Date: 25-03-2017 - Session time: 11:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Karla Benefiel
 ## Title: An Introduction to Advanced Analytics
 ## Abstract:
@@ -275,7 +275,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Advanced Analysis Techn
 #### SessionID: 60980
 # Tableau and Power BI-Compare and Contrast
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Analytics and Visualization
+Event Date: 25-03-2017 - Session time: 11:15:00 - Track: Analytics and Visualization
 ## Speaker: Jude Dcosta
 ## Title: Tableau and Power BI-Compare and Contrast
 ## Abstract:
@@ -296,7 +296,7 @@ And much more..!
 #### SessionID: 61074
 # SS2014/2016 In-Memory Tables --Formula One Performance Unleashed, Part 1
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: SS2014/2016 In-Memory Tables --Formula One Performance Unleashed, Part 1
 ## Abstract:
@@ -310,7 +310,7 @@ After this session you will
 #### SessionID: 61110
 # Master Data Services 2016 - Giving users control of their data
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Information Delivery
+Event Date: 25-03-2017 - Session time: 11:15:00 - Track: BI Information Delivery
 ## Speaker: Connie Fowler
 ## Title: Master Data Services 2016 - Giving users control of their data
 ## Abstract:
@@ -319,7 +319,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Information Delivery
 #### SessionID: 61136
 # SQL Server R Services in SQL 2016
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Analytics and Visualization
+Event Date: 25-03-2017 - Session time: 11:15:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
 ## Abstract:
@@ -328,7 +328,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #### SessionID: 57407
 # In-Memory Indexes:  Part 2 -- The rest of the story!
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: In-Memory Indexes:  Part 2 -- The rest of the story!
 ## Abstract:
@@ -341,7 +341,7 @@ After this session you will
 #### SessionID: 57443
 # Partitioned Tables and Query Performance
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Jay Robinson
 ## Title: Partitioned Tables and Query Performance
 ## Abstract:
@@ -350,7 +350,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 58179
 # Enabling Familiar, Powerful Business Intelligence
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Information Delivery
+Event Date: 25-03-2017 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: Sayed Saeed
 ## Title: Enabling Familiar, Powerful Business Intelligence
 ## Abstract:
@@ -359,7 +359,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Information Delivery
 #### SessionID: 59389
 # Azure SQL Database for the DBA
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Grant Fritchey
 ## Title: Azure SQL Database for the DBA
 ## Abstract:
@@ -368,7 +368,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 59403
 # Introduction to Execution Plans
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Lance Tidwell
 ## Title: Introduction to Execution Plans
 ## Abstract:
@@ -377,7 +377,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 59526
 # Power Query: The basics
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Information Delivery
+Event Date: 25-03-2017 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: Martin Schoombee
 ## Title: Power Query: The basics
 ## Abstract:
@@ -388,7 +388,7 @@ In this session we will cover the basics of Power Query, and show you the benefi
 #### SessionID: 59816
 # Indexing for Beginners
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: Indexing for Beginners
 ## Abstract:
@@ -397,7 +397,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 59924
 # SQL Server in Azure, One Year In
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sergio Pacheco
 ## Title: SQL Server in Azure, One Year In
 ## Abstract:
@@ -406,7 +406,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 60981
 # SSRS 2016, Tableau, Power BI: Using Data Visualization Tools to consume API data
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Analytics and Visualization
+Event Date: 25-03-2017 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Cristian Vasconez
 ## Title: SSRS 2016, Tableau, Power BI: Using Data Visualization Tools to consume API data
 ## Abstract:
@@ -415,7 +415,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #### SessionID: 61068
 # Pick the right R - R, Microsoft R Open and Microsoft R Server
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
+Event Date: 25-03-2017 - Session time: 13:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Divya Saini
 ## Title: Pick the right R - R, Microsoft R Open and Microsoft R Server
 ## Abstract:
@@ -428,7 +428,7 @@ In addition to this, she will also give a demo of how to get started with Micros
 #### SessionID: 61120
 # Understanding the SQL Server Transaction Log
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Randy Knight
 ## Title: Understanding the SQL Server Transaction Log
 ## Abstract:
@@ -437,7 +437,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 61153
 # SQL lessons learned operating at scale
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Miller
 ## Title: SQL lessons learned operating at scale
 ## Abstract:
@@ -449,7 +449,7 @@ In this session I will present various high-level lessons learned along the path
 #### SessionID: 56961
 # How to troubleshoot beyond what you understand
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Strategy and Architecture
+Event Date: 25-03-2017 - Session time: 14:15:00 - Track: Strategy and Architecture
 ## Speaker: Ryan McCauley
 ## Title: How to troubleshoot beyond what you understand
 ## Abstract:
@@ -460,7 +460,7 @@ In this session, we'll talk about troubleshooting as a process - how you can ide
 #### SessionID: 59409
 # Unleashing Stretched Databases
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Armando Lacerda
 ## Title: Unleashing Stretched Databases
 ## Abstract:
@@ -469,7 +469,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 59469
 # PowerBI, from a DBA
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: TJay Belt
 ## Title: PowerBI, from a DBA
 ## Abstract:
@@ -482,7 +482,7 @@ You will be given permissions to an Azure DB, and get connected to this source. 
 #### SessionID: 59814
 # Introduction to Window Functions
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: Introduction to Window Functions
 ## Abstract:
@@ -493,7 +493,7 @@ This session will teach you how to avoid cursor solutions, and create simpler co
 #### SessionID: 59868
 # The Anatomy of Select
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Jason Brimhall
 ## Title: The Anatomy of Select
 ## Abstract:
@@ -506,7 +506,7 @@ This session will help the attendee better understand the Select statement. With
 #### SessionID: 60959
 # Big Data Use Case and Implementation with Cloudera
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
+Event Date: 25-03-2017 - Session time: 14:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Surya Vipparthy
 ## Title: Big Data Use Case and Implementation with Cloudera
 ## Abstract:
@@ -515,7 +515,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Advanced Analysis Techn
 #### SessionID: 60964
 # Common Linear and Classification for Machine Learning using Microsoft R
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Analytics and Visualization
+Event Date: 25-03-2017 - Session time: 14:15:00 - Track: Analytics and Visualization
 ## Speaker: Venus Lin
 ## Title: Common Linear and Classification for Machine Learning using Microsoft R
 ## Abstract:
@@ -524,7 +524,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Analytics and Visualiza
 #### SessionID: 61037
 # An Introduction to Market Basket Analysis  Demonstrations
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
+Event Date: 25-03-2017 - Session time: 14:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Yueying Li
 ## Title: An Introduction to Market Basket Analysis  Demonstrations
 ## Abstract:
@@ -533,7 +533,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Advanced Analysis Techn
 #### SessionID: 61121
 # Understanding Transaction Isolation Levels
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Randy Knight
 ## Title: Understanding Transaction Isolation Levels
 ## Abstract:
@@ -542,7 +542,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 61128
 # Data Analytics with U-SQL
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 25-03-2017 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ginger Grant
 ## Title: Data Analytics with U-SQL
 ## Abstract:
@@ -551,7 +551,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Cloud Application Devel
 #### SessionID: 61572
 # Beginning T-SQL
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Beginning T-SQL
 ## Abstract:
@@ -560,7 +560,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 62564
 # Turbo Boost Performance: In Memory Tables index optimizations
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Konstantin Melamud
 ## Title: Turbo Boost Performance: In Memory Tables index optimizations
 ## Abstract:
@@ -569,7 +569,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 57501
 # I/O Tuning 101
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anders Pedersen
 ## Title: I/O Tuning 101
 ## Abstract:
@@ -586,7 +586,7 @@ All of this can be done without the need for any 3rd party tools, all within the
 #### SessionID: 56836
 # Kafka For .NET Developers
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Kafka For .NET Developers
 ## Abstract:
@@ -595,7 +595,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 59459
 # Change Detection in SQL Server
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Strategy and Architecture
+Event Date: 25-03-2017 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Tim Mitchell
 ## Title: Change Detection in SQL Server
 ## Abstract:
@@ -606,7 +606,7 @@ In this session, we will review the tools and design patterns available in SQL S
 #### SessionID: 59736
 # DBA 101 – Let’s Get Started
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Other
+Event Date: 25-03-2017 - Session time: 15:30:00 - Track: Other
 ## Speaker: Lori Edwards
 ## Title: DBA 101 – Let’s Get Started
 ## Abstract:
@@ -615,7 +615,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Other
 #### SessionID: 59866
 # A Masters Passport to Extended Events
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: A Masters Passport to Extended Events
 ## Abstract:
@@ -629,7 +629,7 @@ You will be exposed to advanced troubleshooting techniques as we work through co
 #### SessionID: 59923
 # Sentiment Analysis with R
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Advanced Analysis Techniques
+Event Date: 25-03-2017 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Rachael Phillips
 ## Title: Sentiment Analysis with R
 ## Abstract:
@@ -638,7 +638,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Advanced Analysis Techn
 #### SessionID: 60963
 # The Logical Data Warehouse: How the Logical Data Warehouse is enabling Advanced Analytics
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Strategy and Architecture
+Event Date: 25-03-2017 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Corey Kreun
 ## Title: The Logical Data Warehouse: How the Logical Data Warehouse is enabling Advanced Analytics
 ## Abstract:
@@ -647,7 +647,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Strategy and Architectu
 #### SessionID: 60966
 # SQL vs noSQL
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Eric Peterson
 ## Title: SQL vs noSQL
 ## Abstract:
@@ -660,7 +660,7 @@ Are noSql databases taking over the world?
 #### SessionID: 60990
 # SHARPen Your BIMLSCRIPT
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 25-03-2017 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cyndi Johnson
 ## Title: SHARPen Your BIMLSCRIPT
 ## Abstract:
@@ -669,7 +669,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Platform Architectur
 #### SessionID: 61148
 # Change Data Capture, maybe you should consider it again.
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Information Delivery
+Event Date: 25-03-2017 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Paul Graham
 ## Title: Change Data Capture, maybe you should consider it again.
 ## Abstract:
@@ -678,7 +678,7 @@ Event Date: 25-03-2017 - Session time: 16:15:00 - Track: BI Information Delivery
 #### SessionID: 61566
 # Loading SQL Server Data with Powershell
 #### [Back to calendar](#nr-597)
-Event Date: 25-03-2017 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Loading SQL Server Data with Powershell
 ## Abstract:

@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 85787
 # Power BI In a day Hands-On
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Analytics and Visualization
+Event Date: 08-12-2018 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Ravi Kumar
 ## Title: Power BI In a day Hands-On
 ## Abstract:
@@ -79,7 +79,7 @@ Pre-requisite: Please have Power
 #### SessionID: 85808
 # Keeping Your DBA Happy. Why Some Practices Drive Admins Crazy.
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: pre-con
+Event Date: 08-12-2018 - Session time: 09:00:00 - Track: pre-con
 ## Speaker: Rick Lowe
 ## Title: Keeping Your DBA Happy. Why Some Practices Drive Admins Crazy.
 ## Abstract:
@@ -94,7 +94,7 @@ Query hints, indexing, LINQ to Entities, common table expressions, looping vs se
 #### SessionID: 85910
 # Enter the Tidyverse:  R for the Data Professional
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: pre-con
+Event Date: 08-12-2018 - Session time: 09:00:00 - Track: pre-con
 ## Speaker: Kevin Feasel
 ## Title: Enter the Tidyverse:  R for the Data Professional
 ## Abstract:
@@ -105,7 +105,7 @@ Over the course of the day, we will look at several problem domains.  For databa
 #### SessionID: 85811
 # BI Infrastructure in Azure: Points to Consider
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-12-2018 - Session time: 08:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paresh Motiwala
 ## Title: BI Infrastructure in Azure: Points to Consider
 ## Abstract:
@@ -121,7 +121,7 @@ We will also learn about setting up teams and ways to train them(and yourself) i
 #### SessionID: 85857
 # Execution Plans 101
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 08-12-2018 - Session time: 08:20:00 - Track: Application  Database Development
 ## Speaker: Eugene Meidinger
 ## Title: Execution Plans 101
 ## Abstract:
@@ -130,7 +130,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 86170
 # Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Strategy and Architecture
+Event Date: 08-12-2018 - Session time: 08:20:00 - Track: Strategy and Architecture
 ## Speaker: Jose Chinchilla
 ## Title: Azure Data Factory + SSIS: Migrating your ETLs to the Cloud.
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Strategy and Architectu
 #### SessionID: 86288
 # What's new in SQL Server 2017
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Strategy and Architecture
+Event Date: 08-12-2018 - Session time: 08:20:00 - Track: Strategy and Architecture
 ## Speaker: Hasan Savran
 ## Title: What's new in SQL Server 2017
 ## Abstract:
@@ -155,7 +155,7 @@ In-Memory Tables (NoSQL in SQL Server)
 #### SessionID: 86436
 # Encryption, Encryption, Encryption! Protect your data at the right level
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-12-2018 - Session time: 08:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Encryption, Encryption, Encryption! Protect your data at the right level
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 86749
 # Temporal Tables – The New Hotness in Data Auditing
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 08-12-2018 - Session time: 08:20:00 - Track: Application  Database Development
 ## Speaker: John Morehouse
 ## Title: Temporal Tables – The New Hotness in Data Auditing
 ## Abstract:
@@ -173,7 +173,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 87502
 # Azure Managed Instances: A Primer
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Cloud Application Development  Deployment
+Event Date: 08-12-2018 - Session time: 08:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mike Walsh
 ## Title: Azure Managed Instances: A Primer
 ## Abstract:
@@ -184,7 +184,7 @@ Come to this session and find out. We’ll do some obligatory slides talking abo
 #### SessionID: 85777
 # 3 Ways for Getting Data from SharePoint : SSIS, Excel and Access
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 08-12-2018 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: David Patrick
 ## Title: 3 Ways for Getting Data from SharePoint : SSIS, Excel and Access
 ## Abstract:
@@ -193,7 +193,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 85788
 # DAX 101
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: BI Information Delivery
+Event Date: 08-12-2018 - Session time: 09:45:00 - Track: BI Information Delivery
 ## Speaker: Ravi Kumar
 ## Title: DAX 101
 ## Abstract:
@@ -204,7 +204,7 @@ Currently DAX is used in Power BI and SSAS Tabular.  Attend this session to lear
 #### SessionID: 85837
 # Find and Fix those Troublesome Queries
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 08-12-2018 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Allen White
 ## Title: Find and Fix those Troublesome Queries
 ## Abstract:
@@ -213,7 +213,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 85908
 # Eyes on the Prize:  Simple and Effective Dashboard Visualization Techniques
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Analytics and Visualization
+Event Date: 08-12-2018 - Session time: 09:45:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: Eyes on the Prize:  Simple and Effective Dashboard Visualization Techniques
 ## Abstract:
@@ -222,7 +222,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Analytics and Visualiza
 #### SessionID: 86109
 # Data Profiling or Statistics 201
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Advanced Analysis Techniques
+Event Date: 08-12-2018 - Session time: 09:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Slava Murygin
 ## Title: Data Profiling or Statistics 201
 ## Abstract:
@@ -233,7 +233,7 @@ In order to make the process faster, we will use a hidden gem of SQL Server:  St
 #### SessionID: 86703
 # How can containers for my database help me?
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 08-12-2018 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Carlos L Chacon
 ## Title: How can containers for my database help me?
 ## Abstract:
@@ -242,7 +242,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 86727
 # SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Services?
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Cloud Application Development  Deployment
+Event Date: 08-12-2018 - Session time: 09:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Rick Lowe
 ## Title: SQL Server on Amazon Web Services - Elastic Compute Cloud vs Relational Database Services?
 ## Abstract:
@@ -251,7 +251,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Cloud Application Devel
 #### SessionID: 85833
 # Whacha just say? Talking technology to non-technical people
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 08-12-2018 - Session time: 11:10:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: Whacha just say? Talking technology to non-technical people
 ## Abstract:
@@ -260,7 +260,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Professional Developmen
 #### SessionID: 85839
 # Get Near Realtime ETL with Service Broker
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 08-12-2018 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Allen White
 ## Title: Get Near Realtime ETL with Service Broker
 ## Abstract:
@@ -269,7 +269,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 86031
 # How to build your career
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 08-12-2018 - Session time: 11:10:00 - Track: Professional Development
 ## Speaker: James Serra
 ## Title: How to build your career
 ## Abstract:
@@ -282,7 +282,7 @@ Your first step to enhancing your career will be to attend this session!  Let me
 #### SessionID: 86056
 # SQL Graph
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 08-12-2018 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Azhagappan Arunachalam
 ## Title: SQL Graph
 ## Abstract:
@@ -291,7 +291,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 86171
 # Become a Power BI superstar under 1 hour!
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Analytics and Visualization
+Event Date: 08-12-2018 - Session time: 11:10:00 - Track: Analytics and Visualization
 ## Speaker: Jose Chinchilla
 ## Title: Become a Power BI superstar under 1 hour!
 ## Abstract:
@@ -300,7 +300,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Analytics and Visualiza
 #### SessionID: 86629
 # Always Encrypted for Beginners
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-12-2018 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: Always Encrypted for Beginners
 ## Abstract:
@@ -309,7 +309,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 87114
 # Using distributed AGs for your migrations
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Strategy and Architecture
+Event Date: 08-12-2018 - Session time: 11:10:00 - Track: Strategy and Architecture
 ## Speaker: Elizabeth Noble
 ## Title: Using distributed AGs for your migrations
 ## Abstract:
@@ -320,7 +320,7 @@ In this session I will discuss what distributed AGs are, show how to set them up
 #### SessionID: 86438
 # Successfully Virtualizing SQL Server on vSphere
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-12-2018 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Successfully Virtualizing SQL Server on vSphere
 ## Abstract:
@@ -330,7 +330,7 @@ Still, many IT architects and DBA's are hesitant of virtualizing their SQL workl
 #### SessionID: 85831
 # Networking 101: Building professional relationships
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 08-12-2018 - Session time: 13:40:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: Networking 101: Building professional relationships
 ## Abstract:
@@ -341,7 +341,7 @@ In this interactive session, we will discuss networking -- what it is, why it's 
 #### SessionID: 85905
 # Now you see it, but did you really?  Correcting visual fallacies...
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Analytics and Visualization
+Event Date: 08-12-2018 - Session time: 13:40:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: Now you see it, but did you really?  Correcting visual fallacies...
 ## Abstract:
@@ -350,7 +350,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Analytics and Visualiza
 #### SessionID: 85906
 # Cleaning Is Half The Battle: Launching A Data Science Project
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Advanced Analysis Techniques
+Event Date: 08-12-2018 - Session time: 13:40:00 - Track: Advanced Analysis Techniques
 ## Speaker: Kevin Feasel
 ## Title: Cleaning Is Half The Battle: Launching A Data Science Project
 ## Abstract:
@@ -359,7 +359,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Advanced Analysis Techn
 #### SessionID: 85911
 # Pocket-sized SQL Server
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Other
+Event Date: 08-12-2018 - Session time: 13:40:00 - Track: Other
 ## Speaker: Greg Moore
 ## Title: Pocket-sized SQL Server
 ## Abstract:
@@ -369,7 +369,7 @@ At the other end of the spectrum there's an amazing amount of power available in
 #### SessionID: 85937
 # SQL Restore: Optimizing Your Data Recovery
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-12-2018 - Session time: 13:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jamie Wick
 ## Title: SQL Restore: Optimizing Your Data Recovery
 ## Abstract:
@@ -383,7 +383,7 @@ In this session, we'll answer these questions by looking at how to establish and
 #### SessionID: 86237
 # Using SQL Server 2017 Machine Learning Services to Implement Common Machine Learning Tasks
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 08-12-2018 - Session time: 13:40:00 - Track: Application  Database Development
 ## Speaker: Jon Tupitza
 ## Title: Using SQL Server 2017 Machine Learning Services to Implement Common Machine Learning Tasks
 ## Abstract:
@@ -392,7 +392,7 @@ Event Date: 08-12-2018 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 86342
 # Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
 #### [Back to calendar](#nr-814)
-Event Date: 08-12-2018 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-12-2018 - Session time: 13:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
 ## Abstract:

@@ -34,6 +34,7 @@ foreach ($file in Get-ChildItem "$xmldir\*.xml" | Sort-Object name -Descending){
         }
         foreach ($id in $orderedEvents.importID){               
             $session = $xml.GuidebookXML.events.event | Where-Object ImportID -eq $id
+            $starttime = ([datetime]$session.startTime).ToString("HH:mm:ss")
             $calendar.WriteLine("#  ")
             $calendar.WriteLine("#### SessionID: $id")
             $calendar.WriteLine("# $($session.title)")

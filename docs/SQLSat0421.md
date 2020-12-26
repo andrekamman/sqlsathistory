@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 12802
 # SRS Report Builder for Business Intelligence
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
+Event Date: 11-07-2015 - Session time: 08:30:00 - Track: Track 3
 ## Speaker: David Eichner
 ## Title: SRS Report Builder for Business Intelligence
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #### SessionID: 17230
 # How to get Microsoft Certified
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
+Event Date: 11-07-2015 - Session time: 08:30:00 - Track: Track 3
 ## Speaker: John Deardurff
 ## Title: How to get Microsoft Certified
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #### SessionID: 36038
 # Get Near Realtime ETL with Service Broker
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
+Event Date: 11-07-2015 - Session time: 08:30:00 - Track: Track 1
 ## Speaker: Allen White
 ## Title: Get Near Realtime ETL with Service Broker
 ## Abstract:
@@ -65,7 +65,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 #### SessionID: 36890
 # What changed?  Auditing options in SQL Server 2014
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
+Event Date: 11-07-2015 - Session time: 08:30:00 - Track: Track 1
 ## Speaker: Colleen Morrow
 ## Title: What changed?  Auditing options in SQL Server 2014
 ## Abstract:
@@ -78,7 +78,7 @@ By the end of this session, you'll have the knowledge you need to select and imp
 #### SessionID: 37239
 # Updating Statistics Affects Query Performance More Than You Think
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
+Event Date: 11-07-2015 - Session time: 08:30:00 - Track: Track 3
 ## Speaker: Erin Stellato
 ## Title: Updating Statistics Affects Query Performance More Than You Think
 ## Abstract:
@@ -87,7 +87,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #### SessionID: 12264
 # Database: The Motion Picture
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
+Event Date: 11-07-2015 - Session time: 09:40:00 - Track: Track 3
 ## Speaker: Dave Mattingly
 ## Title: Database: The Motion Picture
 ## Abstract:
@@ -96,7 +96,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #### SessionID: 36404
 # SSRS 101 to 301: Learn how to build Simple and Intermediate level
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
+Event Date: 11-07-2015 - Session time: 09:40:00 - Track: Track 3
 ## Speaker: Ravi Kumar
 ## Title: SSRS 101 to 301: Learn how to build Simple and Intermediate level
 ## Abstract:
@@ -105,7 +105,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #### SessionID: 36943
 # Full-Text Search with Custom Proximity
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
+Event Date: 11-07-2015 - Session time: 09:40:00 - Track: Track 3
 ## Speaker: Sam Nasr
 ## Title: Full-Text Search with Custom Proximity
 ## Abstract:
@@ -114,7 +114,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #### SessionID: 37279
 # Primer on Power BI
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 2
+Event Date: 11-07-2015 - Session time: 09:40:00 - Track: Track 2
 ## Speaker: Mark Tabladillo
 ## Title: Primer on Power BI
 ## Abstract:
@@ -132,7 +132,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 2
 #### SessionID: 37306
 # DQ What? DQ Who? DQ How?
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
+Event Date: 11-07-2015 - Session time: 09:40:00 - Track: Track 3
 ## Speaker: Brian Davis
 ## Title: DQ What? DQ Who? DQ How?
 ## Abstract:
@@ -141,7 +141,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #### SessionID: 36048
 # A Day in the Life of a Row: Internals Deep Dive
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
+Event Date: 11-07-2015 - Session time: 10:50:00 - Track: Track 1
 ## Speaker: Eddie Wuerch
 ## Title: A Day in the Life of a Row: Internals Deep Dive
 ## Abstract:
@@ -152,7 +152,7 @@ Attend this advanced session and you will be able to: * View and interpret raw d
 #### SessionID: 36532
 # Right-Sizing Your SQL Server Virtual Machine
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
+Event Date: 11-07-2015 - Session time: 10:50:00 - Track: Track 1
 ## Speaker: David Klee
 ## Title: Right-Sizing Your SQL Server Virtual Machine
 ## Abstract:
@@ -163,7 +163,7 @@ The methods for understanding the performance of your mission-critical SQL Serve
 #### SessionID: 36578
 # The Spy Who Loathed Me - An Overview of SQL's Security Features
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
+Event Date: 11-07-2015 - Session time: 10:50:00 - Track: Track 1
 ## Speaker: Chris Bell
 ## Title: The Spy Who Loathed Me - An Overview of SQL's Security Features
 ## Abstract:
@@ -178,7 +178,7 @@ This session will quickly go through a majority of the security features in SQL 
 #### SessionID: 37214
 # Turbo Boost Performance: In Memory Tables index optimizations
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
+Event Date: 11-07-2015 - Session time: 10:50:00 - Track: Track 3
 ## Speaker: Konstantin Melamud
 ## Title: Turbo Boost Performance: In Memory Tables index optimizations
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #### SessionID: 37312
 # SSIS Grab Bag of Best Practices
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
+Event Date: 11-07-2015 - Session time: 10:50:00 - Track: Track 1
 ## Speaker: Adam Belebczuk
 ## Title: SSIS Grab Bag of Best Practices
 ## Abstract:
@@ -196,7 +196,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 #### SessionID: 14232
 # Much Ado About Hadoop
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
+Event Date: 11-07-2015 - Session time: 13:00:00 - Track: Track 3
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
 ## Abstract:
@@ -205,7 +205,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #### SessionID: 22128
 # Getting Started with Analysis Services Tabular mode
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
+Event Date: 11-07-2015 - Session time: 13:00:00 - Track: Track 3
 ## Speaker: Phillip Labry
 ## Title: Getting Started with Analysis Services Tabular mode
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #### SessionID: 35976
 # Execution Plans 101
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
+Event Date: 11-07-2015 - Session time: 13:00:00 - Track: Track 3
 ## Speaker: Eugene Meidinger
 ## Title: Execution Plans 101
 ## Abstract:
@@ -223,7 +223,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #### SessionID: 36678
 # Backup and Restore Tips and Tricks
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
+Event Date: 11-07-2015 - Session time: 13:00:00 - Track: Track 1
 ## Speaker: Ryan Adams
 ## Title: Backup and Restore Tips and Tricks
 ## Abstract:
@@ -232,7 +232,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
 #### SessionID: 37305
 # Goodbye Next Next Next, Hello Automated Installs
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
+Event Date: 11-07-2015 - Session time: 13:00:00 - Track: Track 3
 ## Speaker: Brian Davis
 ## Title: Goodbye Next Next Next, Hello Automated Installs
 ## Abstract:
@@ -241,7 +241,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #### SessionID: 14638
 # Partition Switching - Moving a Lot of Data Very Quickly
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
+Event Date: 11-07-2015 - Session time: 14:10:00 - Track: Track 3
 ## Speaker: Gill Rowley
 ## Title: Partition Switching - Moving a Lot of Data Very Quickly
 ## Abstract:
@@ -250,7 +250,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #### SessionID: 36322
 # Scripting out SQL Server for Documentation and Disaster Recovery
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
+Event Date: 11-07-2015 - Session time: 14:10:00 - Track: Track 1
 ## Speaker: George Walkey
 ## Title: Scripting out SQL Server for Documentation and Disaster Recovery
 ## Abstract:
@@ -262,7 +262,7 @@ Objects exported include: SQL Agent Jobs/Alerts/Schedules, NT Service Credential
 #### SessionID: 36579
 # Hacking Expos#233; - Using SSL to Secure SQL Server Connections
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 1
+Event Date: 11-07-2015 - Session time: 14:10:00 - Track: Track 1
 ## Speaker: Chris Bell
 ## Title: Hacking Expos#233; - Using SSL to Secure SQL Server Connections
 ## Abstract:
@@ -276,7 +276,7 @@ Once secured, we will resume the role of the hacker and look inside the packets 
 #### SessionID: 36905
 # Introduction to Azure Machine Learning
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
+Event Date: 11-07-2015 - Session time: 14:10:00 - Track: Track 3
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Machine Learning
 ## Abstract:
@@ -285,7 +285,7 @@ Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
 #### SessionID: 37313
 # Join Us! Getting Started as a Technical Speaker
 #### [Back to calendar](#nr-421)
-Event Date: 11-07-2015 - Session time: 15:20:00 - Track: Track 3
+Event Date: 11-07-2015 - Session time: 14:10:00 - Track: Track 3
 ## Speaker: Eddie Wuerch
 ## Title: Join Us! Getting Started as a Technical Speaker
 ## Abstract:

@@ -51,7 +51,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 97978
 # Kubernetes Zero to Hero - Installation, Configuration, and Applic
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 12-10-2019 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Anthony Nocentino
 ## Title: Kubernetes Zero to Hero - Installation, Configuration, and Applic
 ## Abstract:
@@ -68,7 +68,7 @@ Session Objectives
 #### SessionID: 97979
 # How to Architect Successful Database Changes: Source Control and
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-10-2019 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kendra Little
 ## Title: How to Architect Successful Database Changes: Source Control and
 ## Abstract:
@@ -79,7 +79,7 @@ In this session, you will learn how to choose between state and migrations-based
 #### SessionID: 98238
 # Getting Started with Data Science and Databricks
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 12-10-2019 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Ginger Grant
 ## Title: Getting Started with Data Science and Databricks
 ## Abstract:
@@ -92,7 +92,7 @@ Agenda
 #### SessionID: 95360
 # Data Science 101: An Introduction to Data Science Using Python
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 12-10-2019 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Ganesh Lohani
 ## Title: Data Science 101: An Introduction to Data Science Using Python
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 95490
 # Empowering the SQL Server Professional with Linux Scripting- 60 min.
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-10-2019 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Empowering the SQL Server Professional with Linux Scripting- 60 min.
 ## Abstract:
@@ -112,7 +112,7 @@ This session is the second session in the Linux for SQL Server Professionals Lea
 #### SessionID: 95967
 # Power BI Premium: Is it for Your Company (and Worth It)?
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: BI Information Delivery
+Event Date: 12-10-2019 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Steve Wake
 ## Title: Power BI Premium: Is it for Your Company (and Worth It)?
 ## Abstract:
@@ -124,7 +124,7 @@ Come to this session if your company has been thinking about Power BI Premium, b
 #### SessionID: 96350
 # Consulting/contracting - is it right for me?
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Professional Development
+Event Date: 12-10-2019 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Paul Paiva
 ## Title: Consulting/contracting - is it right for me?
 ## Abstract:
@@ -133,7 +133,7 @@ Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Professional Developmen
 #### SessionID: 96805
 # SQL and MongoDB: When Two Worlds Collide
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Strategy and Architecture
+Event Date: 12-10-2019 - Session time: 09:00:00 - Track: Strategy and Architecture
 ## Speaker: Eric Peterson
 ## Title: SQL and MongoDB: When Two Worlds Collide
 ## Abstract:
@@ -148,7 +148,7 @@ We'll dig into querying normalized SQL and denormalized document db data structu
 #### SessionID: 96821
 # Analytics on AWS
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 12-10-2019 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Gabriel Villa
 ## Title: Analytics on AWS
 ## Abstract:
@@ -157,7 +157,7 @@ Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 99061
 # Anatomy of Select
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
+Event Date: 12-10-2019 - Session time: 09:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jason Brimhall
 ## Title: Anatomy of Select
 ## Abstract:
@@ -170,7 +170,7 @@ This session will help the attendee better understand the Select statement. With
 #### SessionID: 99151
 # ETL Best Practices and Techniques
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-10-2019 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marc Beacom
 ## Title: ETL Best Practices and Techniques
 ## Abstract:
@@ -181,7 +181,7 @@ Gian helpful insights from decades of lessons learned and walk away with best pr
 #### SessionID: 95498
 # Working with SQL Server containers to build database solutions
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 12-10-2019 - Session time: 10:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Carlos Robles
 ## Title: Working with SQL Server containers to build database solutions
 ## Abstract:
@@ -195,7 +195,7 @@ We will explore the options and tools (open source) we have available when worki
 #### SessionID: 96059
 # Dr. DMV's Troubleshooting Toolkit
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-10-2019 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Glenn Berry
 ## Title: Dr. DMV's Troubleshooting Toolkit
 ## Abstract:
@@ -206,7 +206,7 @@ This session goes into exhaustive detail on how to interpret the results of each
 #### SessionID: 96101
 # Reporting Services: A Smart Migration Strategy
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-10-2019 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services: A Smart Migration Strategy
 ## Abstract:
@@ -218,7 +218,7 @@ Learn how to use PowerShell to extract the reports and data sets from the databa
 #### SessionID: 96878
 # Building Big Data Analytics solutions with Azure Databricks
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 12-10-2019 - Session time: 10:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Yuliya Quintela
 ## Title: Building Big Data Analytics solutions with Azure Databricks
 ## Abstract:
@@ -229,7 +229,7 @@ By the end of this session you will know how to easily connect to various data s
 #### SessionID: 97973
 # An Introduction to Versioning and Branching Database Code in Git
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-10-2019 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kendra Little
 ## Title: An Introduction to Versioning and Branching Database Code in Git
 ## Abstract:
@@ -238,7 +238,7 @@ Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 97988
 # Assimilating Microsoft Access -- Upsizing to SQL Server
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 12-10-2019 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Phillip Labry
 ## Title: Assimilating Microsoft Access -- Upsizing to SQL Server
 ## Abstract:
@@ -247,7 +247,7 @@ Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 98983
 # Running SQL Server on AWS
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 12-10-2019 - Session time: 10:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Richard Waymire
 ## Title: Running SQL Server on AWS
 ## Abstract:
@@ -256,7 +256,7 @@ Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #### SessionID: 99119
 # Revealing the Differences in Azure Machine Learning Products
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
+Event Date: 12-10-2019 - Session time: 10:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ginger Grant
 ## Title: Revealing the Differences in Azure Machine Learning Products
 ## Abstract:
@@ -276,7 +276,7 @@ number of different tools and languages, implement version controls, and moni
 #### SessionID: 95594
 # Demystifying SQL in Azure
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Information Delivery
+Event Date: 12-10-2019 - Session time: 12:45:00 - Track: Information Delivery
 ## Speaker: Mark Moore
 ## Title: Demystifying SQL in Azure
 ## Abstract:
@@ -286,7 +286,7 @@ In this session I will cover all of the SQL options you have available, the pros
 #### SessionID: 95646
 # Machine Learning in Azure Databricks
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 12-10-2019 - Session time: 12:45:00 - Track: Analytics and Visualization
 ## Speaker: Kara Annanie
 ## Title: Machine Learning in Azure Databricks
 ## Abstract:
@@ -295,7 +295,7 @@ Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 95989
 # The Future of Database Development with Containers
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 12-10-2019 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Steve Jones
 ## Title: The Future of Database Development with Containers
 ## Abstract:
@@ -304,7 +304,7 @@ Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 96406
 # Moving and Transforming Your Data with Azure Data Factory V2
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-10-2019 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Meagan Longoria
 ## Title: Moving and Transforming Your Data with Azure Data Factory V2
 ## Abstract:
@@ -313,7 +313,7 @@ Event Date: 12-10-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #### SessionID: 96410
 # SQL Server Migration to the AWS: Approach and Methodology
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 12-10-2019 - Session time: 12:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Manguirish Sardessai
 ## Title: SQL Server Migration to the AWS: Approach and Methodology
 ## Abstract:
@@ -324,7 +324,7 @@ Learn more on what trends you can expect to see, what the future holds for publi
 #### SessionID: 96526
 # Azure Analysis Services – Multidimensional solutions in the cloud
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-10-2019 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Scot Reagin
 ## Title: Azure Analysis Services – Multidimensional solutions in the cloud
 ## Abstract:
@@ -337,7 +337,7 @@ In this session we’ll explore Azure Analysis Services functionality, fit in va
 #### SessionID: 96625
 # Power BI, from a DBA's Perspective
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-10-2019 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: TJay Belt
 ## Title: Power BI, from a DBA's Perspective
 ## Abstract:
@@ -348,7 +348,7 @@ As a DBA, we often need to collect and display data in a friendly and interactiv
 #### SessionID: 98042
 # Storing Images in a Database - Tips and Techniques
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-10-2019 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Todd Kleinhans
 ## Title: Storing Images in a Database - Tips and Techniques
 ## Abstract:
@@ -357,7 +357,7 @@ Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 95643
 # Tally Ho! -- Explore the Varied Uses of Tally Tables
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 12-10-2019 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Aaron Cutshall
 ## Title: Tally Ho! -- Explore the Varied Uses of Tally Tables
 ## Abstract:
@@ -366,7 +366,7 @@ Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 95966
 # Data Modeling and Prototyping in Power BI Desktop
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: BI Information Delivery
+Event Date: 12-10-2019 - Session time: 14:00:00 - Track: BI Information Delivery
 ## Speaker: Steve Wake
 ## Title: Data Modeling and Prototyping in Power BI Desktop
 ## Abstract:
@@ -377,7 +377,7 @@ In this session, we will go through multiple examples showing how Power BI Deskt
 #### SessionID: 96061
 # High Availability/Disaster Recovery 101
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-10-2019 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Glenn Berry
 ## Title: High Availability/Disaster Recovery 101
 ## Abstract:
@@ -386,7 +386,7 @@ Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 96305
 # SQL Server on Kubernetes
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 12-10-2019 - Session time: 14:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Susantha Bathige
 ## Title: SQL Server on Kubernetes
 ## Abstract:
@@ -395,7 +395,7 @@ Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #### SessionID: 96677
 # Translating your Excel Skills to Power BI
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 12-10-2019 - Session time: 14:00:00 - Track: Analytics and Visualization
 ## Speaker: Marc Beacom
 ## Title: Translating your Excel Skills to Power BI
 ## Abstract:
@@ -413,7 +413,7 @@ Benefits of Power BI over Excel:
 #### SessionID: 96774
 # Innovative Data Modeling: Make Data Warehousing Cool Again Part 1
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-10-2019 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Weed
 ## Title: Innovative Data Modeling: Make Data Warehousing Cool Again Part 1
 ## Abstract:
@@ -422,7 +422,7 @@ Event Date: 12-10-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #### SessionID: 96907
 # Operationalize Data Science for Advanced Decision Support
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Information Delivery
+Event Date: 12-10-2019 - Session time: 14:00:00 - Track: Information Delivery
 ## Speaker: Carlos Bossy
 ## Title: Operationalize Data Science for Advanced Decision Support
 ## Abstract:
@@ -434,7 +434,7 @@ Through a case study, you’ll learn how to choose a meaningful project with a h
 #### SessionID: 98046
 # Data Collection and Usage: Illegal or Unethical?
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-10-2019 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Angela Tidwell
 ## Title: Data Collection and Usage: Illegal or Unethical?
 ## Abstract:
@@ -443,7 +443,7 @@ Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 98959
 # Weird Stuff I Saw While … Supporting a Java Team
 #### [Back to calendar](#nr-908)
-Event Date: 12-10-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 12-10-2019 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Weird Stuff I Saw While … Supporting a Java Team
 ## Abstract:

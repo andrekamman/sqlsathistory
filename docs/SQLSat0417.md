@@ -18,7 +18,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 21415
 # NoSQL on Azure: An Introduction to DocumentDB
 #### [Back to calendar](#nr-417)
-Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
+Event Date: 06-06-2015 - Session time: 09:30:00 - Track: Data Analytics
 ## Speaker: Nilabja Ball
 ## Title: NoSQL on Azure: An Introduction to DocumentDB
 ## Abstract:
@@ -27,7 +27,7 @@ Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
 #### SessionID: 36173
 # Performance in 60 Seconds - SQL Tricks Everybody MUST Know
 #### [Back to calendar](#nr-417)
-Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Database Engine
+Event Date: 06-06-2015 - Session time: 09:30:00 - Track: Database Engine
 ## Speaker: Pinal Dave
 ## Title: Performance in 60 Seconds - SQL Tricks Everybody MUST Know
 ## Abstract:
@@ -36,7 +36,7 @@ Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Database Engine
 #### SessionID: 10492
 # Inside Transactional Replication
 #### [Back to calendar](#nr-417)
-Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Database Engine
+Event Date: 06-06-2015 - Session time: 10:45:00 - Track: Database Engine
 ## Speaker: Prabhakaran Bhaskaran
 ## Title: Inside Transactional Replication
 ## Abstract:
@@ -47,7 +47,7 @@ This session will answers questions like; How does the log reader know where to 
 #### SessionID: 36538
 # Big Data Analytics: The Microsoft Way
 #### [Back to calendar](#nr-417)
-Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
+Event Date: 06-06-2015 - Session time: 10:45:00 - Track: Data Analytics
 ## Speaker: Dinesh Priyankara
 ## Title: Big Data Analytics: The Microsoft Way
 ## Abstract:
@@ -56,7 +56,7 @@ Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
 #### SessionID: 21416
 # SQL Server 2014 In-Memory Overview 
 #### [Back to calendar](#nr-417)
-Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Database Engine
+Event Date: 06-06-2015 - Session time: 12:00:00 - Track: Database Engine
 ## Speaker: Nilabja Ball
 ## Title: SQL Server 2014 In-Memory Overview 
 ## Abstract:
@@ -65,7 +65,7 @@ Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Database Engine
 #### SessionID: 36650
 # Setting your first foot in the world of Business Intelligence
 #### [Back to calendar](#nr-417)
-Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
+Event Date: 06-06-2015 - Session time: 12:00:00 - Track: Data Analytics
 ## Speaker: Vijayakumar Thurupathan
 ## Title: Setting your first foot in the world of Business Intelligence
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
 #### SessionID: 36000
 # Telling Stories with Data
 #### [Back to calendar](#nr-417)
-Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
+Event Date: 06-06-2015 - Session time: 14:00:00 - Track: Data Analytics
 ## Speaker: Gogula Aryalingam
 ## Title: Telling Stories with Data
 ## Abstract:
@@ -85,7 +85,7 @@ This session looks at how you could collect data from the various sources in you
 #### SessionID: 36174
 # Indexes – The Unsung Hero
 #### [Back to calendar](#nr-417)
-Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Database Engine
+Event Date: 06-06-2015 - Session time: 14:00:00 - Track: Database Engine
 ## Speaker: Pinal Dave
 ## Title: Indexes – The Unsung Hero
 ## Abstract:
@@ -94,7 +94,7 @@ Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Database Engine
 #### SessionID: 36522
 # My Data in the Cloud: Microsoft Azure SQL Database
 #### [Back to calendar](#nr-417)
-Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Database Engine
+Event Date: 06-06-2015 - Session time: 15:15:00 - Track: Database Engine
 ## Speaker: Sammani Palansuriya
 ## Title: My Data in the Cloud: Microsoft Azure SQL Database
 ## Abstract:
@@ -105,7 +105,7 @@ This discussion will give you an understanding about Azure SQL Database; what th
 #### SessionID: 36654
 # Enterprise MS BI for everyone, The Journey So Far
 #### [Back to calendar](#nr-417)
-Event Date: 06-06-2015 - Session time: 16:30:00 - Track: Data Analytics
+Event Date: 06-06-2015 - Session time: 15:15:00 - Track: Data Analytics
 ## Speaker: Indika Ariyasinghe
 ## Title: Enterprise MS BI for everyone, The Journey So Far
 ## Abstract:

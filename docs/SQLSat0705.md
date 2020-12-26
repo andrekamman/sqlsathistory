@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 70250
 # Polybase In Action
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 24-03-2018 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Polybase In Action
 ## Abstract:
@@ -51,7 +51,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 70785
 # Weird Stuff I Saw While ... Working With Heaps
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 24-03-2018 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Weird Stuff I Saw While ... Working With Heaps
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 70897
 # Data Types Do Matter
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Database Design  Architecture
+Event Date: 24-03-2018 - Session time: 08:30:00 - Track: Database Design  Architecture
 ## Speaker: Angela Henry
 ## Title: Data Types Do Matter
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Database Design  Archit
 #### SessionID: 71835
 # Collecting and Analyzing File  Wait Statistics
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Internals  Performance
+Event Date: 24-03-2018 - Session time: 08:30:00 - Track: Internals  Performance
 ## Speaker: Andrew Kelly
 ## Title: Collecting and Analyzing File  Wait Statistics
 ## Abstract:
@@ -78,7 +78,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Internals  Performance
 #### SessionID: 71901
 # Using Columnstore Indexes For Data Analytics
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Database Design  Architecture
+Event Date: 24-03-2018 - Session time: 08:30:00 - Track: Database Design  Architecture
 ## Speaker: Jeremy Frye
 ## Title: Using Columnstore Indexes For Data Analytics
 ## Abstract:
@@ -91,7 +91,7 @@ In this session, we will cover the architecture of columnstore indexes compared 
 #### SessionID: 72120
 # Power Query Deep Dive
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Business Intelligence (SSAS, SSIS, SSRS, PowerBI)
+Event Date: 24-03-2018 - Session time: 08:30:00 - Track: Business Intelligence (SSAS, SSIS, SSRS, PowerBI)
 ## Speaker: Dan Clark
 ## Title: Power Query Deep Dive
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Business Intelligence (
 #### SessionID: 77118
 # Use Biml to Automate SSIS Design Patterns
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Business Intelligence (SSAS, SSIS, SSRS, PowerBI)
+Event Date: 24-03-2018 - Session time: 08:30:00 - Track: Business Intelligence (SSAS, SSIS, SSRS, PowerBI)
 ## Speaker: Andy Leonard
 ## Title: Use Biml to Automate SSIS Design Patterns
 ## Abstract:
@@ -113,7 +113,7 @@ How to rapidly build multiple SSIS packages using BimlHow to apply different SSI
 #### SessionID: 72277
 # 5 Minute No Sweat SQL Security Audits
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration, Deployment  Monitoring
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: Enterprise Database Administration, Deployment  Monitoring
 ## Speaker: Chris Bell
 ## Title: 5 Minute No Sweat SQL Security Audits
 ## Abstract:
@@ -123,7 +123,7 @@ In this session, you will get scripts that I use for compliance audits that help
 #### SessionID: 73072
 # Test Driven Development with SQL Server
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: Application  Database Development
 ## Speaker: David Moore
 ## Title: Test Driven Development with SQL Server
 ## Abstract:
@@ -132,7 +132,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 73229
 # The DBA Survival Guide for In-Memory OLTP
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration, Deployment  Monitoring
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: Enterprise Database Administration, Deployment  Monitoring
 ## Speaker: Ned Otter
 ## Title: The DBA Survival Guide for In-Memory OLTP
 ## Abstract:
@@ -147,7 +147,7 @@ Attendees will gain a clear understanding of the knowledge and skills required t
 #### SessionID: 73540
 # Why I use cursors in SQL
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: Application  Database Development
 ## Speaker: Anders Pedersen
 ## Title: Why I use cursors in SQL
 ## Abstract:
@@ -159,7 +159,7 @@ Discuss when they are appropriate, and when they are not.
 #### SessionID: 73549
 # Data Protection  Privacy in the World of Database DevOps
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Data Protection  Privacy in the World of Database DevOps
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 73600
 # SQL Graph
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: Application  Database Development
 ## Speaker: Azhagappan Arunachalam
 ## Title: SQL Graph
 ## Abstract:
@@ -177,7 +177,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 77407
 # Temporal Data Capture
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 24-03-2018 - Session time: 09:40:00 - Track: Application  Database Development
 ## Speaker: boB Taylor
 ## Title: Temporal Data Capture
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 69923
 # SQL Server on Linux for SQL DBA.
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration, Deployment  Monitoring
+Event Date: 24-03-2018 - Session time: 10:50:00 - Track: Enterprise Database Administration, Deployment  Monitoring
 ## Speaker: Slava Murygin
 ## Title: SQL Server on Linux for SQL DBA.
 ## Abstract:
@@ -200,7 +200,7 @@ And I show you how to do it.
 #### SessionID: 70786
 # Why Should I Care About ... Partitioned Views?
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration, Deployment  Monitoring
+Event Date: 24-03-2018 - Session time: 10:50:00 - Track: Enterprise Database Administration, Deployment  Monitoring
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
 ## Abstract:
@@ -209,7 +209,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 70898
 # Intro to Integration Services (SSIS)
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Business Intelligence (SSAS, SSIS, SSRS, PowerBI)
+Event Date: 24-03-2018 - Session time: 10:50:00 - Track: Business Intelligence (SSAS, SSIS, SSRS, PowerBI)
 ## Speaker: Angela Henry
 ## Title: Intro to Integration Services (SSIS)
 ## Abstract:
@@ -218,7 +218,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Business Intelligence (
 #### SessionID: 72777
 # Choosing Sides in the ETL vs ELT Debate
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Database Design  Architecture
+Event Date: 24-03-2018 - Session time: 10:50:00 - Track: Database Design  Architecture
 ## Speaker: Cameron Snapp
 ## Title: Choosing Sides in the ETL vs ELT Debate
 ## Abstract:
@@ -227,7 +227,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Database Design  Archit
 #### SessionID: 73565
 # Faster SSIS
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Business Intelligence (SSAS, SSIS, SSRS, PowerBI)
+Event Date: 24-03-2018 - Session time: 10:50:00 - Track: Business Intelligence (SSAS, SSIS, SSRS, PowerBI)
 ## Speaker: Andy Leonard
 ## Title: Faster SSIS
 ## Abstract:
@@ -240,7 +240,7 @@ Finally, we'll demonstrate a design pattern that uses a Script Component in a Da
 #### SessionID: 73567
 # A Masters Passport to Extended Events
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration, Deployment  Monitoring
+Event Date: 24-03-2018 - Session time: 10:50:00 - Track: Enterprise Database Administration, Deployment  Monitoring
 ## Speaker: Jason Brimhall
 ## Title: A Masters Passport to Extended Events
 ## Abstract:
@@ -254,7 +254,7 @@ You will be exposed to advanced troubleshooting techniques as we work through co
 #### SessionID: 73633
 # Instrument your code – Basic TSQL Logging
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 24-03-2018 - Session time: 10:50:00 - Track: Application  Database Development
 ## Speaker: Jana Sattainathan
 ## Title: Instrument your code – Basic TSQL Logging
 ## Abstract:
@@ -264,7 +264,7 @@ Day 1!
 #### SessionID: 70251
 # Working Effectively With Legacy SQL
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 24-03-2018 - Session time: 13:50:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Working Effectively With Legacy SQL
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 71308
 # SSRS – Clean while you migrate
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Business Intelligence (SSAS, SSIS, SSRS, PowerBI)
+Event Date: 24-03-2018 - Session time: 13:50:00 - Track: Business Intelligence (SSAS, SSIS, SSRS, PowerBI)
 ## Speaker: George Maxson
 ## Title: SSRS – Clean while you migrate
 ## Abstract:
@@ -282,7 +282,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Business Intelligence (
 #### SessionID: 71915
 # SQL Restore: Optimizing Your Data Recovery
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration, Deployment  Monitoring
+Event Date: 24-03-2018 - Session time: 13:50:00 - Track: Enterprise Database Administration, Deployment  Monitoring
 ## Speaker: Jamie Wick
 ## Title: SQL Restore: Optimizing Your Data Recovery
 ## Abstract:
@@ -296,7 +296,7 @@ In this session, we'll answer these questions by looking at how to establish and
 #### SessionID: 72761
 # Introducing Azure Machine Learning
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Azure / Cloud / Big Data
+Event Date: 24-03-2018 - Session time: 13:50:00 - Track: Azure / Cloud / Big Data
 ## Speaker: Mark Hudson
 ## Title: Introducing Azure Machine Learning
 ## Abstract:
@@ -305,7 +305,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Azure / Cloud / Big Dat
 #### SessionID: 73147
 # Data Visualization: How to truly tell a great story!
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Business Intelligence (SSAS, SSIS, SSRS, PowerBI)
+Event Date: 24-03-2018 - Session time: 13:50:00 - Track: Business Intelligence (SSAS, SSIS, SSRS, PowerBI)
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization: How to truly tell a great story!
 ## Abstract:
@@ -314,7 +314,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Business Intelligence (
 #### SessionID: 73546
 # Extending DevOps To SQL Server
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 24-03-2018 - Session time: 13:50:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Extending DevOps To SQL Server
 ## Abstract:
@@ -323,7 +323,7 @@ Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 74054
 # Indexing for performance
 #### [Back to calendar](#nr-705)
-Event Date: 24-03-2018 - Session time: 15:00:00 - Track: Internals  Performance
+Event Date: 24-03-2018 - Session time: 13:50:00 - Track: Internals  Performance
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
 ## Abstract:

@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 54540
 # Think  work like a Data Scientist with SQL 2016 R
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Data Science Track
+Event Date: 11-03-2017 - Session time: 09:00:00 - Track: Data Science Track
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Think  work like a Data Scientist with SQL 2016 R
 ## Abstract:
@@ -50,7 +50,7 @@ In this session, you will definitely take away a breakthrough concept of Advance
 #### SessionID: 54641
 # Advanced BIML - for the advanced ETL developer
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: BI Track
+Event Date: 11-03-2017 - Session time: 09:00:00 - Track: BI Track
 ## Speaker: Regis Baccaro
 ## Title: Advanced BIML - for the advanced ETL developer
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: BI Track
 #### SessionID: 56262
 # Top SQL Server Performance tips
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DEV Track
+Event Date: 11-03-2017 - Session time: 09:00:00 - Track: DEV Track
 ## Speaker: Peter ter Braake
 ## Title: Top SQL Server Performance tips
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DEV Track
 #### SessionID: 56696
 # SQL Server Monitor and Maintenance with Azure Operations Management Suite
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure Track
+Event Date: 11-03-2017 - Session time: 09:00:00 - Track: Azure  Infrastructure Track
 ## Speaker: Pedro Sousa
 ## Title: SQL Server Monitor and Maintenance with Azure Operations Management Suite
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure T
 #### SessionID: 58175
 # Sneak Peak on SQL Server  Tools  for Linux
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DBA Track
+Event Date: 11-03-2017 - Session time: 09:00:00 - Track: DBA Track
 ## Speaker: Ivan Campos
 ## Title: Sneak Peak on SQL Server  Tools  for Linux
 ## Abstract:
@@ -88,7 +88,7 @@ Join me in this session and see how to start working with SQL Server on Linux, w
 #### SessionID: 54502
 # A Game of Hierarchies: From GROUP BY to Recursive CTEs
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DEV Track
+Event Date: 11-03-2017 - Session time: 10:40:00 - Track: DEV Track
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: A Game of Hierarchies: From GROUP BY to Recursive CTEs
 ## Abstract:
@@ -102,7 +102,7 @@ If these terms caught your attention, then join this session for a journey throu
 #### SessionID: 56263
 # Combining the Power of Machine Learning with the ease of PowerBI
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Data Science Track
+Event Date: 11-03-2017 - Session time: 10:40:00 - Track: Data Science Track
 ## Speaker: Peter ter Braake
 ## Title: Combining the Power of Machine Learning with the ease of PowerBI
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Data Science Track
 #### SessionID: 57099
 # Troubleshooting Blocking for Beginners
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DBA Track
+Event Date: 11-03-2017 - Session time: 10:40:00 - Track: DBA Track
 ## Speaker: Kendra Little
 ## Title: Troubleshooting Blocking for Beginners
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DBA Track
 #### SessionID: 58194
 # SQL Server and Docker. What, How and Why
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure Track
+Event Date: 11-03-2017 - Session time: 10:40:00 - Track: Azure  Infrastructure Track
 ## Speaker: André Kamman
 ## Title: SQL Server and Docker. What, How and Why
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure T
 #### SessionID: 58206
 # RAD with MDS
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: BI Track
+Event Date: 11-03-2017 - Session time: 10:40:00 - Track: BI Track
 ## Speaker: Tillmann Eitelberg
 ## Title: RAD with MDS
 ## Abstract:
@@ -141,7 +141,7 @@ In this session, we will show different development approach
 #### SessionID: 56905
 # Delivering changes for databases and applications
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DEV Track
+Event Date: 11-03-2017 - Session time: 12:00:00 - Track: DEV Track
 ## Speaker: Eduardo Piairo
 ## Title: Delivering changes for databases and applications
 ## Abstract:
@@ -152,7 +152,7 @@ The final purpose is to understand that applications and databases do not need t
 #### SessionID: 58008
 # SQL Server real-life bizarre things
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DBA Track
+Event Date: 11-03-2017 - Session time: 12:00:00 - Track: DBA Track
 ## Speaker: Etienne Lopes
 ## Title: SQL Server real-life bizarre things
 ## Abstract:
@@ -164,7 +164,7 @@ Yep it’s not magic, there is an explanation for it! Come and get it
 #### SessionID: 58186
 # New Azure SQL DB with blades or scripts? Humm what should I use?
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure Track
+Event Date: 11-03-2017 - Session time: 12:00:00 - Track: Azure  Infrastructure Track
 ## Speaker: Ricardo Cabral
 ## Title: New Azure SQL DB with blades or scripts? Humm what should I use?
 ## Abstract:
@@ -175,7 +175,7 @@ Anyone of them has the desired result but what surprise effect has automation in
 #### SessionID: 58188
 # Power BI from the Trenches
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: BI Track
+Event Date: 11-03-2017 - Session time: 12:00:00 - Track: BI Track
 ## Speaker: Rui Romano
 ## Title: Power BI from the Trenches
 ## Abstract:
@@ -186,7 +186,7 @@ This session is targeted to whom is using or start using Power BI and want to ta
 #### SessionID: 58218
 # First steps with  R  RStudio for SQL Developers  DBAs
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Data Science Track
+Event Date: 11-03-2017 - Session time: 12:00:00 - Track: Data Science Track
 ## Speaker: Rui Quintino
 ## Title: First steps with  R  RStudio for SQL Developers  DBAs
 ## Abstract:
@@ -197,7 +197,7 @@ This is a beginner level session to guide you on why  when to use R, and help wi
 #### SessionID: 54504
 # My Favorite Pie (Chart): Simple Rules for Clear Visualizations
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: BI Track
+Event Date: 11-03-2017 - Session time: 14:10:00 - Track: BI Track
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: My Favorite Pie (Chart): Simple Rules for Clear Visualizations
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: BI Track
 #### SessionID: 54581
 # Data Science for beginners
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Data Science Track
+Event Date: 11-03-2017 - Session time: 14:10:00 - Track: Data Science Track
 ## Speaker: Tomaž Kaštrun
 ## Title: Data Science for beginners
 ## Abstract:
@@ -224,7 +224,7 @@ Session we will look into technologies that can be tackled using SQL Server 2016
 #### SessionID: 58150
 # Best practices validation with DBATools
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DBA Track
+Event Date: 11-03-2017 - Session time: 14:10:00 - Track: DBA Track
 ## Speaker: Cláudio Silva
 ## Title: Best practices validation with DBATools
 ## Abstract:
@@ -240,7 +240,7 @@ If you do not know this tool or if you want to learn more this is a great oppo
 #### SessionID: 58190
 # BizTalk Server and SQL Server Together: For Developers  Admins
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DEV Track
+Event Date: 11-03-2017 - Session time: 14:10:00 - Track: DEV Track
 ## Speaker: Sandro Pereira
 ## Title: BizTalk Server and SQL Server Together: For Developers  Admins
 ## Abstract:
@@ -253,7 +253,7 @@ But BizTalk Server also have a strong development component, so in the second pa
 #### SessionID: 58210
 # Introduction to Microsoft Azure Search
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure Track
+Event Date: 11-03-2017 - Session time: 14:10:00 - Track: Azure  Infrastructure Track
 ## Speaker: Tiago Costa
 ## Title: Introduction to Microsoft Azure Search
 ## Abstract:
@@ -262,7 +262,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure T
 #### SessionID: 54485
 # What is SQL Data Warehouse? Is it for me?
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Azure  Infrastructure Track
+Event Date: 11-03-2017 - Session time: 15:50:00 - Track: Azure  Infrastructure Track
 ## Speaker: Vitor Pombeiro
 ## Title: What is SQL Data Warehouse? Is it for me?
 ## Abstract:
@@ -272,7 +272,7 @@ This and many more questions will not be answered in this session but you will l
 #### SessionID: 54539
 # Revolution R models in SQL 2016 Reporting Services
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Data Science Track
+Event Date: 11-03-2017 - Session time: 15:50:00 - Track: Data Science Track
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Revolution R models in SQL 2016 Reporting Services
 ## Abstract:
@@ -281,7 +281,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: Data Science Track
 #### SessionID: 57100
 # Tuning Problem Queries in Table Partitioning
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DEV Track
+Event Date: 11-03-2017 - Session time: 15:50:00 - Track: DEV Track
 ## Speaker: Kendra Little
 ## Title: Tuning Problem Queries in Table Partitioning
 ## Abstract:
@@ -290,7 +290,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DEV Track
 #### SessionID: 58163
 # Recovery Models Made SIMPLE
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DBA Track
+Event Date: 11-03-2017 - Session time: 15:50:00 - Track: DBA Track
 ## Speaker: Kalen Delaney
 ## Title: Recovery Models Made SIMPLE
 ## Abstract:
@@ -299,7 +299,7 @@ Event Date: 11-03-2017 - Session time: 17:10:00 - Track: DBA Track
 #### SessionID: 58202
 # Quo vadis SSAS – What's new with SQL Server 2016 SP1 and SQL Server vNext?
 #### [Back to calendar](#nr-583)
-Event Date: 11-03-2017 - Session time: 17:10:00 - Track: BI Track
+Event Date: 11-03-2017 - Session time: 15:50:00 - Track: BI Track
 ## Speaker: Gabi Münster
 ## Title: Quo vadis SSAS – What's new with SQL Server 2016 SP1 and SQL Server vNext?
 ## Abstract:

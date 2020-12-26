@@ -57,7 +57,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 94095
 # Faster SSIS
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andy Leonard
 ## Title: Faster SSIS
 ## Abstract:
@@ -70,7 +70,7 @@ Finally, we'll demonstrate a design pattern that uses a Script Component in a Da
 #### SessionID: 96368
 # Infrastructure for the DBA: An Introduction
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Shore
 ## Title: Infrastructure for the DBA: An Introduction
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 96525
 # Azure Databricks: A Beginner's Journey
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Katie Novotny
 ## Title: Azure Databricks: A Beginner's Journey
 ## Abstract:
@@ -90,7 +90,7 @@ By the end of this session, you will have a better understanding of Azure Databr
 #### SessionID: 96653
 # Power BI Suite: What services make up Power BI?
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Ravi Kumar
 ## Title: Power BI Suite: What services make up Power BI?
 ## Abstract:
@@ -106,7 +106,7 @@ There will be brief demonstration of each product.
 #### SessionID: 96733
 # Scalable Application Design with Service Broker
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Allen White
 ## Title: Scalable Application Design with Service Broker
 ## Abstract:
@@ -120,7 +120,7 @@ Session Goal 3    Demonstrate how the non-critical updates are best handled asyn
 #### SessionID: 98512
 # Columnstore Indexes for Everyone
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Mike Burek
 ## Title: Columnstore Indexes for Everyone
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 99068
 # Dimension Management for Power BI
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tyler Graham
 ## Title: Dimension Management for Power BI
 ## Abstract:
@@ -141,7 +141,7 @@ analytics.
 #### SessionID: 99112
 # Stop Doing That! Common T-SQL Anti-Patterns
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Stop Doing That! Common T-SQL Anti-Patterns
 ## Abstract:
@@ -154,7 +154,7 @@ By the end of the session, you will be able to quickly identify these common ant
 #### SessionID: 99116
 # Virtualizing SQL  - An overview of what you need to do to virtual
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-10-2019 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: Virtualizing SQL  - An overview of what you need to do to virtual
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 94361
 # Performance Tuning for SQL Developer through Execution Plans
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Performance Tuning for SQL Developer through Execution Plans
 ## Abstract:
@@ -172,7 +172,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 95948
 # Encrypting Data within SQL Server
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within SQL Server
 ## Abstract:
@@ -185,7 +185,7 @@ You will leave this session with a deeper understanding about SQL Server encrypt
 #### SessionID: 96312
 # Managing ETL Change Using BIMLScript
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Russel Loski
 ## Title: Managing ETL Change Using BIMLScript
 ## Abstract:
@@ -196,7 +196,7 @@ To demonstrate such an approach, I import some US census data. I create the SSIS
 #### SessionID: 96412
 # Azure SQL DB Managed Instance: Today
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Heiges
 ## Title: Azure SQL DB Managed Instance: Today
 ## Abstract:
@@ -205,7 +205,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 96439
 # DBA - What's Most Important
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Wagner
 ## Title: DBA - What's Most Important
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 98221
 # How to use Execution Plans to find Performance Issues
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: How to use Execution Plans to find Performance Issues
 ## Abstract:
@@ -223,7 +223,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 98538
 # Avoiding angry calls: Power BI model optimization
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stephanie Bruno
 ## Title: Avoiding angry calls: Power BI model optimization
 ## Abstract:
@@ -232,7 +232,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 98946
 # Ethics, Morals, and Laws for the DBA 101
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 05-10-2019 - Session time: 10:15:00 - Track: Professional Development
 ## Speaker: Pat Phelan
 ## Title: Ethics, Morals, and Laws for the DBA 101
 ## Abstract:
@@ -245,7 +245,7 @@ This session presents basic definitions, ideas, and discussion points. It is int
 #### SessionID: 95127
 # Become the Most Valuable Player: Soft Skills for the Hard Market
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Professional Development
 ## Speaker: Angela Tidwell
 ## Title: Become the Most Valuable Player: Soft Skills for the Hard Market
 ## Abstract:
@@ -254,7 +254,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 95995
 # When to use Indexing ProTools
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Mallon
 ## Title: When to use Indexing ProTools
 ## Abstract:
@@ -267,7 +267,7 @@ We won't only talk about what these options are, we'll also cover how and when t
 #### SessionID: 96254
 # Power BI: From Zero to 101
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: BI Information Delivery
 ## Speaker: Slava Murygin
 ## Title: Power BI: From Zero to 101
 ## Abstract:
@@ -276,7 +276,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 96651
 # Azure Analysis Service or SSAS Tabular: How they work
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ravi Kumar
 ## Title: Azure Analysis Service or SSAS Tabular: How they work
 ## Abstract:
@@ -286,7 +286,7 @@ Come to this session to learn: 1-Strengths and weaknesses for each. 2-How to lev
 #### SessionID: 96731
 # Emergency! Are You Ready for Disaster to Strike?
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Emergency! Are You Ready for Disaster to Strike?
 ## Abstract:
@@ -297,7 +297,7 @@ This session will focus on the kinds of situations that can dramatically affect 
 #### SessionID: 96782
 # Drinking From the Firehose: a Guide to Keeping Up with Technology
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Professional Development
 ## Speaker: Eugene Meidinger
 ## Title: Drinking From the Firehose: a Guide to Keeping Up with Technology
 ## Abstract:
@@ -306,7 +306,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 96874
 # SQL Server 2019 - New Features and Enhancements
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: SQL Server 2019 - New Features and Enhancements
 ## Abstract:
@@ -316,7 +316,7 @@ This is an introductory session to introduce you to these new features. There wi
 #### SessionID: 99085
 # Getting started with Azure SQL Database: What You Need To Know!
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 05-10-2019 - Session time: 11:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Donahoe
 ## Title: Getting started with Azure SQL Database: What You Need To Know!
 ## Abstract:
@@ -326,7 +326,7 @@ Prerequisites: Have some understanding of Azure, and PowerShell. Familiar with H
 #### SessionID: 94228
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-10-2019 - Session time: 12:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
 ## Abstract:
@@ -335,7 +335,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 98595
 # Quest - Lunchtime chat
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 05-10-2019 - Session time: 12:55:00 - Track: Professional Development
 ## Speaker: Matt Nelson
 ## Title: Quest - Lunchtime chat
 ## Abstract:
@@ -344,7 +344,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 98596
 # Pure Storage lunchtime chat
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Other
+Event Date: 05-10-2019 - Session time: 12:55:00 - Track: Other
 ## Speaker: Matt Nelson
 ## Title: Pure Storage lunchtime chat
 ## Abstract:
@@ -353,7 +353,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Other
 #### SessionID: 98774
 # Profisee - Lunchtime chat
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 05-10-2019 - Session time: 12:55:00 - Track: Professional Development
 ## Speaker: Matt Nelson
 ## Title: Profisee - Lunchtime chat
 ## Abstract:
@@ -362,7 +362,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 99054
 # Snowflake - Lunchtime chat
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Information Delivery
+Event Date: 05-10-2019 - Session time: 12:55:00 - Track: Information Delivery
 ## Speaker: Matt Nelson
 ## Title: Snowflake - Lunchtime chat
 ## Abstract:
@@ -371,7 +371,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Information Delivery
 #### SessionID: 94703
 # Using Azure Data Factory Mapping Data Flows to load Data Vault
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 05-10-2019 - Session time: 13:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Rayis Imayev
 ## Title: Using Azure Data Factory Mapping Data Flows to load Data Vault
 ## Abstract:
@@ -384,7 +384,7 @@ In this session, I will share my experience of populating a Data Vault repositor
 #### SessionID: 95128
 # Data Collection and Usage: Illegal or Unethical?
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Other
+Event Date: 05-10-2019 - Session time: 13:40:00 - Track: Other
 ## Speaker: Angela Tidwell
 ## Title: Data Collection and Usage: Illegal or Unethical?
 ## Abstract:
@@ -393,7 +393,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Other
 #### SessionID: 96256
 # What treasures are hidden in the Plan Cache?
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-10-2019 - Session time: 13:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Slava Murygin
 ## Title: What treasures are hidden in the Plan Cache?
 ## Abstract:
@@ -404,7 +404,7 @@ In this session, we’ll look at Plan Cache, what it is and what it contains,  h
 #### SessionID: 96353
 # Inside the Query Store. What Knowledge can You Gain?
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-10-2019 - Session time: 13:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Inside the Query Store. What Knowledge can You Gain?
 ## Abstract:
@@ -419,7 +419,7 @@ About the new adaptive query processing features and SQL Operation Studio
 #### SessionID: 96369
 # Learn Like Your Life Depends On It
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 05-10-2019 - Session time: 13:40:00 - Track: Professional Development
 ## Speaker: Peter Shore
 ## Title: Learn Like Your Life Depends On It
 ## Abstract:
@@ -430,7 +430,7 @@ This session is designed to help with just that. In addition to talking about a 
 #### SessionID: 96770
 # Install  Configure SQL Server with PowerShell DSC
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-10-2019 - Session time: 13:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jess Pomfret
 ## Title: Install  Configure SQL Server with PowerShell DSC
 ## Abstract:
@@ -444,7 +444,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 98220
 # An Introduction to Azure Data Studio
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-10-2019 - Session time: 13:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: An Introduction to Azure Data Studio
 ## Abstract:
@@ -453,7 +453,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 98226
 # Opening SQL Window Functions
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 13:40:00 - Track: Application  Database Development
 ## Speaker: James Loesch
 ## Title: Opening SQL Window Functions
 ## Abstract:
@@ -462,7 +462,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 94093
 # Moving Data with Azure Data Factory
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 05-10-2019 - Session time: 14:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Andy Leonard
 ## Title: Moving Data with Azure Data Factory
 ## Abstract:
@@ -476,7 +476,7 @@ Attend this session to learn:
 #### SessionID: 94722
 # SQL DevOps Simplified with Production Databases
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 05-10-2019 - Session time: 14:50:00 - Track: Application  Database Development
 ## Speaker: Paul Stanton
 ## Title: SQL DevOps Simplified with Production Databases
 ## Abstract:
@@ -485,7 +485,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 95994
 # How to get your Dream Job: Resume  job hunting tips
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 05-10-2019 - Session time: 14:50:00 - Track: Professional Development
 ## Speaker: Andy Mallon
 ## Title: How to get your Dream Job: Resume  job hunting tips
 ## Abstract:
@@ -500,7 +500,7 @@ Slides  handouts available on GitHub: http://am2.co/dream-job-ppt
 #### SessionID: 96253
 # Power BI - A guide to each product and licensing
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-10-2019 - Session time: 14:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: George Woods
 ## Title: Power BI - A guide to each product and licensing
 ## Abstract:
@@ -509,7 +509,7 @@ Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 96445
 # “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 05-10-2019 - Session time: 14:50:00 - Track: Strategy and Architecture
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
 ## Abstract:
@@ -524,7 +524,7 @@ This 1st session is also a recommended segue into the second session.
 #### SessionID: 96769
 # Life Hacks: dbatools edition
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 05-10-2019 - Session time: 14:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jess Pomfret
 ## Title: Life Hacks: dbatools edition
 ## Abstract:
@@ -543,7 +543,7 @@ This session’s life hacks will include, among others:
 #### SessionID: 96783
 # Introduction to M (a.k.a Power Query)
 #### [Back to calendar](#nr-907)
-Event Date: 05-10-2019 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 05-10-2019 - Session time: 14:50:00 - Track: BI Information Delivery
 ## Speaker: Eugene Meidinger
 ## Title: Introduction to M (a.k.a Power Query)
 ## Abstract:

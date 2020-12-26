@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 57743
 # Power BI From Rookie to Rockstar
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 08-04-2017 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Reza Rad
 ## Title: Power BI From Rookie to Rockstar
 ## Abstract:
@@ -46,7 +46,7 @@ Detailed description of agenda here: http://www.radacad.com/power-bi-training
 #### SessionID: 61017
 # Beginners Guide to HA/DR, that can save your Bacon.
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-04-2017 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: Beginners Guide to HA/DR, that can save your Bacon.
 ## Abstract:
@@ -59,7 +59,7 @@ I will cover the following topics across 3 modules for the day:
 #### SessionID: 59715
 # DBA 101 - The things you absolutely MUST be doing in your SQL environment!
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-04-2017 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Douglas
 ## Title: DBA 101 - The things you absolutely MUST be doing in your SQL environment!
 ## Abstract:
@@ -70,7 +70,7 @@ The role of the DBA is never static or easy to define.  It means different thing
 #### SessionID: 59763
 # Security in Power BI; Everything You Need to Know
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-04-2017 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: Security in Power BI; Everything You Need to Know
 ## Abstract:
@@ -80,7 +80,7 @@ This is a demo-heavy session. Come and get answer to all your questions about Se
 #### SessionID: 59910
 # Tuning SQL Server Standard Edition
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-04-2017 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Craig Ryan
 ## Title: Tuning SQL Server Standard Edition
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 63664
 # A practical introduction to ML for the Data Professional
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 08-04-2017 - Session time: 09:30:00 - Track: Analytics and Visualization
 ## Speaker: Nick Burns
 ## Title: A practical introduction to ML for the Data Professional
 ## Abstract:
@@ -100,7 +100,7 @@ We will build a prediction pipeline using AzureML and cover the essential elemen
 #### SessionID: 57697
 # The Power of Power BI
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 08-04-2017 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Geoff Black
 ## Title: The Power of Power BI
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 57700
 # Schroedinger’s Backup – will your recovery work?
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-04-2017 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: Schroedinger’s Backup – will your recovery work?
 ## Abstract:
@@ -122,7 +122,7 @@ In this session Patrick will walk you through how to design,  create and test Re
 #### SessionID: 62633
 # DW SuperHero-Columnstore Index
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-04-2017 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Manjot Kaur
 ## Title: DW SuperHero-Columnstore Index
 ## Abstract:
@@ -131,7 +131,7 @@ Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 57824
 # Cardinality Estimator: A Ride from SQL 7.0 to SQL Server 2016
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-04-2017 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Nagaraj Venkatesan
 ## Title: Cardinality Estimator: A Ride from SQL 7.0 to SQL Server 2016
 ## Abstract:
@@ -140,7 +140,7 @@ Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 59326
 # 2016 – The Rise and Fall of DBM
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-04-2017 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: 2016 – The Rise and Fall of DBM
 ## Abstract:
@@ -149,7 +149,7 @@ Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 61134
 # The DBA's guide to SharePoint
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-04-2017 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steve Knutson
 ## Title: The DBA's guide to SharePoint
 ## Abstract:
@@ -158,7 +158,7 @@ Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 61716
 # On-Premise Reporting - Choosing the Right Strategy (SSRS 2016  Power BI)
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 08-04-2017 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: Anupama Natarajan
 ## Title: On-Premise Reporting - Choosing the Right Strategy (SSRS 2016  Power BI)
 ## Abstract:
@@ -175,7 +175,7 @@ In this session, I will walk you through the
 #### SessionID: 57688
 # Protecting your data from SQL Injection attacks
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 08-04-2017 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Kevin Alcock
 ## Title: Protecting your data from SQL Injection attacks
 ## Abstract:
@@ -193,7 +193,7 @@ Kevin will give us a demo that will show an injection attack in action and how t
 #### SessionID: 57690
 # Database Administration for Azure SQL DB
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 08-04-2017 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Martin Cairney
 ## Title: Database Administration for Azure SQL DB
 ## Abstract:
@@ -204,7 +204,7 @@ You will leave this session with a better story for your manager to convince him
 #### SessionID: 61175
 # CortanaAnalytics : with RaspberryPI  WeatherSensor
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 08-04-2017 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Leila Etaati
 ## Title: CortanaAnalytics : with RaspberryPI  WeatherSensor
 ## Abstract:
@@ -213,7 +213,7 @@ Event Date: 08-04-2017 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 61696
 # Power Query is more than just a desktop BI ETL tool
 #### [Back to calendar](#nr-614)
-Event Date: 08-04-2017 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-04-2017 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Matt Allington
 ## Title: Power Query is more than just a desktop BI ETL tool
 ## Abstract:

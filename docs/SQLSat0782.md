@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 82308
 # DevOps, CI and the Data Warehouse [EN]
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:     BI/DEV
+Event Date: 08-12-2018 - Session time: 09:00:00 - Track:     BI/DEV
 ## Speaker: John Tunnicliffe
 ## Title: DevOps, CI and the Data Warehouse [EN]
 ## Abstract:
@@ -54,7 +54,7 @@ Please visit John's blog for practical tips on how to apply DevOps techniques to
 #### SessionID: 83617
 # dbatools - PowerShell and SQL Server Working Together
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:  DBA
+Event Date: 08-12-2018 - Session time: 09:00:00 - Track:  DBA
 ## Speaker: Sander Stad
 ## Title: dbatools - PowerShell and SQL Server Working Together
 ## Abstract:
@@ -65,7 +65,7 @@ In this session I'll show you a set of commands which will help you start automa
 #### SessionID: 83876
 # Compelling data stories using Power BI
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:      BI
+Event Date: 08-12-2018 - Session time: 09:00:00 - Track:      BI
 ## Speaker: Prathy Kamasani
 ## Title: Compelling data stories using Power BI
 ## Abstract:
@@ -80,7 +80,7 @@ By the end of session users will understand:
 #### SessionID: 84150
 # Introduction to Containers
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:   DEV/DBA
+Event Date: 08-12-2018 - Session time: 09:00:00 - Track:   DEV/DBA
 ## Speaker: Chris Taylor
 ## Title: Introduction to Containers
 ## Abstract:
@@ -91,7 +91,7 @@ By the end of the session you will have the know how to go away and create your 
 #### SessionID: 86233
 # Why Should I Care About SQL if I Have ORM?
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:    DEV
+Event Date: 08-12-2018 - Session time: 09:00:00 - Track:    DEV
 ## Speaker: Denis Reznik
 ## Title: Why Should I Care About SQL if I Have ORM?
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 08-12-2018 - Session time: 16:00:00 - Track:    DEV
 #### SessionID: 80607
 # dbachecks - The PowerShell Module to validate your SQL Estate
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:  DBA
+Event Date: 08-12-2018 - Session time: 10:15:00 - Track:  DBA
 ## Speaker: Rob Sewell
 ## Title: dbachecks - The PowerShell Module to validate your SQL Estate
 ## Abstract:
@@ -122,7 +122,7 @@ Join one of the founders of the module, Rob Sewell MVP. and he will show you how
 #### SessionID: 80642
 # Daily indexing problems and its - possible - solution
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:    DEV
+Event Date: 08-12-2018 - Session time: 10:15:00 - Track:    DEV
 ## Speaker: Uwe Ricken
 ## Title: Daily indexing problems and its - possible - solution
 ## Abstract:
@@ -137,7 +137,7 @@ Event Date: 08-12-2018 - Session time: 16:00:00 - Track:    DEV
 #### SessionID: 80876
 # Introduction to Managed Instances
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:   DEV/DBA
+Event Date: 08-12-2018 - Session time: 10:15:00 - Track:   DEV/DBA
 ## Speaker: John Martin
 ## Title: Introduction to Managed Instances
 ## Abstract:
@@ -152,7 +152,7 @@ But, what is the reality, how do we make use of it, and are there any gotcha’s
 #### SessionID: 83779
 # Beyond image classification - object detection  with multi-task deep models
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:      BI
+Event Date: 08-12-2018 - Session time: 10:15:00 - Track:      BI
 ## Speaker: Marcin Szeliga
 ## Title: Beyond image classification - object detection  with multi-task deep models
 ## Abstract:
@@ -164,7 +164,7 @@ Finally, we will move to multiple objects detection, discus latest architectures
 #### SessionID: 86373
 # Shipping Data Science products with R and Docker
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:     BI/DEV
+Event Date: 08-12-2018 - Session time: 10:15:00 - Track:     BI/DEV
 ## Speaker: Stephanie Locke
 ## Title: Shipping Data Science products with R and Docker
 ## Abstract:
@@ -175,7 +175,7 @@ Covering models, dashboards, and other products built in R, you’ll look at how
 #### SessionID: 82928
 # How to build solution for High Availability/Disaster Recovery
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:  DBA
+Event Date: 08-12-2018 - Session time: 11:30:00 - Track:  DBA
 ## Speaker: Marcelo Fernandes
 ## Title: How to build solution for High Availability/Disaster Recovery
 ## Abstract:
@@ -185,7 +185,7 @@ In this session, we will cover all aspects of HA / DR. We will cover all technol
 #### SessionID: 84067
 # Graph Data in SQL 2017
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:    DEV
+Event Date: 08-12-2018 - Session time: 11:30:00 - Track:    DEV
 ## Speaker: David Postlethwaite
 ## Title: Graph Data in SQL 2017
 ## Abstract:
@@ -210,7 +210,7 @@ Will it replace traditional relational database design within the next 10 years?
 #### SessionID: 84278
 # Azure Analysis Services - An important step for BI in the cloud?
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:      BI
+Event Date: 08-12-2018 - Session time: 11:30:00 - Track:      BI
 ## Speaker: Gabi Münster
 ## Title: Azure Analysis Services - An important step for BI in the cloud?
 ## Abstract:
@@ -221,7 +221,7 @@ This session offers answers to your questions and provides insight to support th
 #### SessionID: 84872
 # The Microsoft Power Platform - What is it?
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:     BI/DEV
+Event Date: 08-12-2018 - Session time: 11:30:00 - Track:     BI/DEV
 ## Speaker: Wolfgang Strasser
 ## Title: The Microsoft Power Platform - What is it?
 ## Abstract:
@@ -232,7 +232,7 @@ Join me in this session if you want to get an overview about the involved techno
 #### SessionID: 86256
 # AI Index for Sql Server
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:   DEV/DBA
+Event Date: 08-12-2018 - Session time: 11:30:00 - Track:   DEV/DBA
 ## Speaker: Janusz Rokicki
 ## Title: AI Index for Sql Server
 ## Abstract:
@@ -241,7 +241,7 @@ Event Date: 08-12-2018 - Session time: 16:00:00 - Track:   DEV/DBA
 #### SessionID: 80543
 # 50 ways to show your data
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:     BI/DEV
+Event Date: 08-12-2018 - Session time: 13:30:00 - Track:     BI/DEV
 ## Speaker: Thomas Hütter
 ## Title: 50 ways to show your data
 ## Abstract:
@@ -254,7 +254,7 @@ Instead our screen will show diagrams that always made you think „How do they 
 #### SessionID: 80578
 # Cubes in the Cloud - Analysis Services in Azure
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:      BI
+Event Date: 08-12-2018 - Session time: 13:30:00 - Track:      BI
 ## Speaker: Alex Whittles
 ## Title: Cubes in the Cloud - Analysis Services in Azure
 ## Abstract:
@@ -263,7 +263,7 @@ Event Date: 08-12-2018 - Session time: 16:00:00 - Track:      BI
 #### SessionID: 80829
 # Encryption in SQL Server
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:   DEV/DBA
+Event Date: 08-12-2018 - Session time: 13:30:00 - Track:   DEV/DBA
 ## Speaker: Michal Sadowski
 ## Title: Encryption in SQL Server
 ## Abstract:
@@ -272,7 +272,7 @@ Event Date: 08-12-2018 - Session time: 16:00:00 - Track:   DEV/DBA
 #### SessionID: 85570
 # Benchmarking in the Cloud
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:  DBA
+Event Date: 08-12-2018 - Session time: 13:30:00 - Track:  DBA
 ## Speaker: Gianluca Sartori
 ## Title: Benchmarking in the Cloud
 ## Abstract:
@@ -282,7 +282,7 @@ Join me in this session and learn how to capture a production workload, replay i
 #### SessionID: 86088
 # Azure Data Studio - The new kid in town
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:    DEV
+Event Date: 08-12-2018 - Session time: 13:30:00 - Track:    DEV
 ## Speaker: Frank Geisler
 ## Title: Azure Data Studio - The new kid in town
 ## Abstract:
@@ -291,7 +291,7 @@ Event Date: 08-12-2018 - Session time: 16:00:00 - Track:    DEV
 #### SessionID: 80556
 # Revenge: The SQL!
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:    DEV
+Event Date: 08-12-2018 - Session time: 14:45:00 - Track:    DEV
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
 ## Abstract:
@@ -303,7 +303,7 @@ Revenge: The SQL! is fun and educational and may even have some practical use, b
 #### SessionID: 86090
 # Azure Data Factory v2 with Data Flows capabilities
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:      BI
+Event Date: 08-12-2018 - Session time: 14:45:00 - Track:      BI
 ## Speaker: Kamil Nowinski
 ## Title: Azure Data Factory v2 with Data Flows capabilities
 ## Abstract:
@@ -315,7 +315,7 @@ We will review this new feature of ADFv2, do deep dive to understand the mention
 #### SessionID: 86123
 # SQL server security out of the box!
 #### [Back to calendar](#nr-782)
-Event Date: 08-12-2018 - Session time: 16:00:00 - Track:  DBA
+Event Date: 08-12-2018 - Session time: 14:45:00 - Track:  DBA
 ## Speaker: Milan Gabor
 ## Title: SQL server security out of the box!
 ## Abstract:

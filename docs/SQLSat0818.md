@@ -24,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 88328
 # Microsoft Data  AI Landscape
 #### [Back to calendar](#nr-818)
-Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Strategy and Architecture
+Event Date: 26-01-2019 - Session time: 09:30:00 - Track: Strategy and Architecture
 ## Speaker: Ian Choy
 ## Title: Microsoft Data  AI Landscape
 ## Abstract:
@@ -33,7 +33,7 @@ Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Strategy and Architectu
 #### SessionID: 86589
 # ETL2.0: Data Engineering with Azure Databricks
 #### [Back to calendar](#nr-818)
-Event Date: 26-01-2019 - Session time: 19:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 26-01-2019 - Session time: 10:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Asanka Padmakumara
 ## Title: ETL2.0: Data Engineering with Azure Databricks
 ## Abstract:
@@ -42,7 +42,7 @@ Event Date: 26-01-2019 - Session time: 19:00:00 - Track: BI Platform Architectur
 #### SessionID: 87060
 # SQL Server Big Data Clusters - A game changer?
 #### [Back to calendar](#nr-818)
-Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Information Delivery
+Event Date: 26-01-2019 - Session time: 10:45:00 - Track: Information Delivery
 ## Speaker: Ben Weissman
 ## Title: SQL Server Big Data Clusters - A game changer?
 ## Abstract:
@@ -53,7 +53,7 @@ Let's take a look at what that means and how you can make use of the extended po
 #### SessionID: 87073
 # Build Dashboards in Power BI with Real-time* Data
 #### [Back to calendar](#nr-818)
-Event Date: 26-01-2019 - Session time: 19:00:00 - Track: BI Information Delivery
+Event Date: 26-01-2019 - Session time: 10:45:00 - Track: BI Information Delivery
 ## Speaker: Khilitchandra Prajapati
 ## Title: Build Dashboards in Power BI with Real-time* Data
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 26-01-2019 - Session time: 19:00:00 - Track: BI Information Delivery
 #### SessionID: 86389
 # Become a SQL Ninja: SQL Server Tools
 #### [Back to calendar](#nr-818)
-Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Application  Database Development
+Event Date: 26-01-2019 - Session time: 11:45:00 - Track: Application  Database Development
 ## Speaker: Vinod Kumar M
 ## Title: Become a SQL Ninja: SQL Server Tools
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Application  Database D
 #### SessionID: 86475
 # Data Visualization: How to truly tell a great story!
 #### [Back to calendar](#nr-818)
-Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Analytics and Visualization
+Event Date: 26-01-2019 - Session time: 11:45:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: Data Visualization: How to truly tell a great story!
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Analytics and Visualiza
 #### SessionID: 87442
 # Modern Azure Data Warehouse
 #### [Back to calendar](#nr-818)
-Event Date: 26-01-2019 - Session time: 19:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 26-01-2019 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Alzamendi
 ## Title: Modern Azure Data Warehouse
 ## Abstract:
@@ -93,7 +93,7 @@ From the traditional data warehouse architecture to the modern data warehouse us
 #### SessionID: 86647
 # Common TSQL Mistakes
 #### [Back to calendar](#nr-818)
-Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Other
+Event Date: 26-01-2019 - Session time: 13:45:00 - Track: Other
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Other
 #### SessionID: 87204
 # GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects
 #### [Back to calendar](#nr-818)
-Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Application  Database Development
+Event Date: 26-01-2019 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Patrick Flynn
 ## Title: GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects
 ## Abstract:
@@ -117,7 +117,7 @@ Based around personal experience of learning not to hate Source control, this se
 #### SessionID: 87722
 # Orchestrating Data Movement in the Cloud
 #### [Back to calendar](#nr-818)
-Event Date: 26-01-2019 - Session time: 19:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 26-01-2019 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Danaraj Ram Kumar
 ## Title: Orchestrating Data Movement in the Cloud
 ## Abstract:
@@ -126,7 +126,7 @@ Event Date: 26-01-2019 - Session time: 19:00:00 - Track: BI Platform Architectur
 #### SessionID: 86277
 # Optimum Environment for SQL Server
 #### [Back to calendar](#nr-818)
-Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-01-2019 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Hamid J. Fard
 ## Title: Optimum Environment for SQL Server
 ## Abstract:
@@ -141,7 +141,7 @@ SQL Server.
 #### SessionID: 86595
 # Let’s Build SSIS Packages with Biml – Live!
 #### [Back to calendar](#nr-818)
-Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Information Delivery
+Event Date: 26-01-2019 - Session time: 14:45:00 - Track: Information Delivery
 ## Speaker: Ben Weissman
 ## Title: Let’s Build SSIS Packages with Biml – Live!
 ## Abstract:
@@ -153,7 +153,7 @@ PS: Even if you have not heard about Biml but are still tired of manually buildi
 #### SessionID: 87951
 # AIOps for Sql Server - Introduction
 #### [Back to calendar](#nr-818)
-Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-01-2019 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janusz Rokicki
 ## Title: AIOps for Sql Server - Introduction
 ## Abstract:
@@ -165,7 +165,7 @@ Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Enterprise Database Adm
 #### SessionID: 86320
 # SQL Server in "The Cloud": High Availability and Disaster Recovery in Azure, AWS and Google
 #### [Back to calendar](#nr-818)
-Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 26-01-2019 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Aw
 ## Title: SQL Server in "The Cloud": High Availability and Disaster Recovery in Azure, AWS and Google
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Enterprise Database Adm
 #### SessionID: 86478
 # Performance Tuning for the BI Professional
 #### [Back to calendar](#nr-818)
-Event Date: 26-01-2019 - Session time: 19:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 26-01-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: Performance Tuning for the BI Professional
 ## Abstract:
@@ -183,7 +183,7 @@ Event Date: 26-01-2019 - Session time: 19:00:00 - Track: BI Platform Architectur
 #### SessionID: 86648
 # Know What Your Code is Doing to SQL Server!
 #### [Back to calendar](#nr-818)
-Event Date: 26-01-2019 - Session time: 19:00:00 - Track: Application  Database Development
+Event Date: 26-01-2019 - Session time: 16:00:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Know What Your Code is Doing to SQL Server!
 ## Abstract:

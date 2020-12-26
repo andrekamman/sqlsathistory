@@ -50,7 +50,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 100385
 # Modern SQL Server CPU Architecture
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 08:00:00 - Track: SQL Server
 ## Speaker: David Klee
 ## Title: Modern SQL Server CPU Architecture
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
 #### SessionID: 100479
 # Python in SQL Server 2017 and 2019
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Business Intelligence
+Event Date: 08-02-2020 - Session time: 08:00:00 - Track: Business Intelligence
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017 and 2019
 ## Abstract:
@@ -70,7 +70,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #### SessionID: 100527
 # SQL DevOps Simplified with Production Databases
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 08:00:00 - Track: SQL Server
 ## Speaker: Paul Stanton
 ## Title: SQL DevOps Simplified with Production Databases
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
 #### SessionID: 100887
 # Microsoft's Modern Data Warehouse Architecture
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Warehousing
+Event Date: 08-02-2020 - Session time: 08:00:00 - Track: Data Warehousing
 ## Speaker: Pierre LaFromboise
 ## Title: Microsoft's Modern Data Warehouse Architecture
 ## Abstract:
@@ -88,7 +88,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Warehousing
 #### SessionID: 101099
 # ROI with Power BI: Do more than Excel
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Business Intelligence
+Event Date: 08-02-2020 - Session time: 08:00:00 - Track: Business Intelligence
 ## Speaker: Erika Haase Nalley
 ## Title: ROI with Power BI: Do more than Excel
 ## Abstract:
@@ -105,7 +105,7 @@ No matter what business you are in, we will cover the basics and benefits of adv
 #### SessionID: 101919
 # Introduction to Power BI
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Business Intelligence
+Event Date: 08-02-2020 - Session time: 08:00:00 - Track: Business Intelligence
 ## Speaker: Mike Diehl
 ## Title: Introduction to Power BI
 ## Abstract:
@@ -115,7 +115,7 @@ With Power BI Desktop, we will import data from several sources, then perform so
 #### SessionID: 99914
 # Moving Data to the Cloud (with Azure Data Factory)
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Enterprise Delivery
+Event Date: 08-02-2020 - Session time: 08:00:00 - Track: Enterprise Delivery
 ## Speaker: Simon Kingaby
 ## Title: Moving Data to the Cloud (with Azure Data Factory)
 ## Abstract:
@@ -124,7 +124,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Enterprise Delivery
 #### SessionID: 100556
 # PowerShell for the DBA
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 09:10:00 - Track: SQL Server
 ## Speaker: Amy Herold
 ## Title: PowerShell for the DBA
 ## Abstract:
@@ -135,7 +135,7 @@ In this session we will explore real-world examples and demonstrate how PowerShe
 #### SessionID: 100608
 # Getting Started with Extended Events
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 09:10:00 - Track: SQL Server
 ## Speaker: Andy Galbraith
 ## Title: Getting Started with Extended Events
 ## Abstract:
@@ -148,7 +148,7 @@ Come learn how to get started - the basics of sessions, events, actions, targets
 #### SessionID: 100844
 # Why You Need a Modern Data Warehouse
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Warehousing
+Event Date: 08-02-2020 - Session time: 09:10:00 - Track: Data Warehousing
 ## Speaker: Gary Bell
 ## Title: Why You Need a Modern Data Warehouse
 ## Abstract:
@@ -157,7 +157,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Warehousing
 #### SessionID: 100875
 # Database CI/CD Concepts and Tooling
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Enterprise Delivery
+Event Date: 08-02-2020 - Session time: 09:10:00 - Track: Enterprise Delivery
 ## Speaker: Dan Guzman
 ## Title: Database CI/CD Concepts and Tooling
 ## Abstract:
@@ -168,7 +168,7 @@ This session will discuss guiding principles, strategies, and explore practices 
 #### SessionID: 101100
 # Calculate: With great power there must also come...great responsibility
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Business Intelligence
+Event Date: 08-02-2020 - Session time: 09:10:00 - Track: Business Intelligence
 ## Speaker: Erika Haase Nalley
 ## Title: Calculate: With great power there must also come...great responsibility
 ## Abstract:
@@ -186,7 +186,7 @@ As data and models become more advanced, there are performance pitfalls that are
 #### SessionID: 100384
 # Level Up Your Cloud Skills
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 10:20:00 - Track: SQL Server
 ## Speaker: David Klee
 ## Title: Level Up Your Cloud Skills
 ## Abstract:
@@ -195,7 +195,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
 #### SessionID: 100610
 # Intro to Powershell for the SQL Server DBA
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 10:20:00 - Track: SQL Server
 ## Speaker: Andy Galbraith
 ## Title: Intro to Powershell for the SQL Server DBA
 ## Abstract:
@@ -204,7 +204,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
 #### SessionID: 100686
 # SQL Server Management Studio - Beyond the basics
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 10:20:00 - Track: SQL Server
 ## Speaker: Adrian Mee
 ## Title: SQL Server Management Studio - Beyond the basics
 ## Abstract:
@@ -215,7 +215,7 @@ In this session, I will take a fresh install of SSMS and step through customizin
 #### SessionID: 100806
 # An Introduction to Azure Data Lake Gen2...
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Warehousing
+Event Date: 08-02-2020 - Session time: 10:20:00 - Track: Data Warehousing
 ## Speaker: Pierre LaFromboise
 ## Title: An Introduction to Azure Data Lake Gen2...
 ## Abstract:
@@ -224,7 +224,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Warehousing
 #### SessionID: 100890
 # Power BI Administration: Enabling true Self-Service BI for your organization
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Business Intelligence
+Event Date: 08-02-2020 - Session time: 10:20:00 - Track: Business Intelligence
 ## Speaker: Jason Roy
 ## Title: Power BI Administration: Enabling true Self-Service BI for your organization
 ## Abstract:
@@ -235,7 +235,7 @@ Just like Power BI Development; Power BI Administration is rapidly evolving. It 
 #### SessionID: 99915
 # Why Learn Python?  A Microsoft DB/ETL/BI Developer's Answer
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Business Intelligence
+Event Date: 08-02-2020 - Session time: 10:20:00 - Track: Business Intelligence
 ## Speaker: Simon Kingaby
 ## Title: Why Learn Python?  A Microsoft DB/ETL/BI Developer's Answer
 ## Abstract:
@@ -244,7 +244,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Business Intelligence
 #### SessionID: 100539
 # Data-Driven Diversity
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Business Intelligence
+Event Date: 08-02-2020 - Session time: 11:30:00 - Track: Business Intelligence
 ## Speaker: LaShana Lewis
 ## Title: Data-Driven Diversity
 ## Abstract:
@@ -253,7 +253,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Business Intelligence
 #### SessionID: 100521
 # Data Warehouse Cloud Service with Cloudera Data Warehouse
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Warehousing
+Event Date: 08-02-2020 - Session time: 12:40:00 - Track: Data Warehousing
 ## Speaker: Scott Shaw
 ## Title: Data Warehouse Cloud Service with Cloudera Data Warehouse
 ## Abstract:
@@ -262,7 +262,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Warehousing
 #### SessionID: 101071
 # Capturing SQL Server activity with SQL Server Audit
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 12:40:00 - Track: SQL Server
 ## Speaker: Ed Leighton-Dick
 ## Title: Capturing SQL Server activity with SQL Server Audit
 ## Abstract:
@@ -275,7 +275,7 @@ This session is part of the Data Security Learning Pathway. For more information
 #### SessionID: 101684
 # Your User Feedback - in 2 Hours or Less - Part 1: Making Entry Mobile
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Business Intelligence
+Event Date: 08-02-2020 - Session time: 12:40:00 - Track: Business Intelligence
 ## Speaker: Gary Polinsky
 ## Title: Your User Feedback - in 2 Hours or Less - Part 1: Making Entry Mobile
 ## Abstract:
@@ -286,7 +286,7 @@ In part one of this two part session,  we will review a proof of concept involvi
 #### SessionID: 101915
 # Azure Data Explorer: Bringing Visibility to the Data Lake
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Enterprise Delivery
+Event Date: 08-02-2020 - Session time: 12:40:00 - Track: Enterprise Delivery
 ## Speaker: Mike Diehl
 ## Title: Azure Data Explorer: Bringing Visibility to the Data Lake
 ## Abstract:
@@ -298,7 +298,7 @@ This session uses Azure Data Explorer and Azure Data Lake Storage (ADLS gen2) as
 #### SessionID: 99919
 # Data Hub Automation with Databricks Delta
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Data Warehousing
+Event Date: 08-02-2020 - Session time: 12:40:00 - Track: Data Warehousing
 ## Speaker: Sean Forgatch
 ## Title: Data Hub Automation with Databricks Delta
 ## Abstract:
@@ -312,7 +312,7 @@ Agenda:
 #### SessionID: 99964
 # Real-World PowerShell for SQL Administration
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 12:40:00 - Track: SQL Server
 ## Speaker: Brian Hansen
 ## Title: Real-World PowerShell for SQL Administration
 ## Abstract:
@@ -325,7 +325,7 @@ And then we'll spend the balance of our time looking at real-world, practical sc
 #### SessionID: 100232
 # Navigating Row Level Security
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 13:50:00 - Track: SQL Server
 ## Speaker: Erin Dempster
 ## Title: Navigating Row Level Security
 ## Abstract:
@@ -334,7 +334,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
 #### SessionID: 101051
 # A Beginners Guide to Transactions
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 13:50:00 - Track: SQL Server
 ## Speaker: John Deardurff
 ## Title: A Beginners Guide to Transactions
 ## Abstract:
@@ -343,7 +343,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
 #### SessionID: 101074
 # Principle of Least Privilege: The Key to Strong Security
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 13:50:00 - Track: SQL Server
 ## Speaker: Ed Leighton-Dick
 ## Title: Principle of Least Privilege: The Key to Strong Security
 ## Abstract:
@@ -354,7 +354,7 @@ In this session, we'll talk about the Principle of Least Privilege in more detai
 #### SessionID: 101685
 # Your User Feedback - in 2 Hours or Less - Part 2: Hunter Gatherer
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Business Intelligence
+Event Date: 08-02-2020 - Session time: 13:50:00 - Track: Business Intelligence
 ## Speaker: Gary Polinsky
 ## Title: Your User Feedback - in 2 Hours or Less - Part 2: Hunter Gatherer
 ## Abstract:
@@ -365,7 +365,7 @@ In part two of this session, we will develop the transmission of data via Flow, 
 #### SessionID: 99816
 # Learn How to Master DATETIME Functions Like a Boss in 59.5 Minutes or Less
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 13:50:00 - Track: SQL Server
 ## Speaker: Peter Doyle
 ## Title: Learn How to Master DATETIME Functions Like a Boss in 59.5 Minutes or Less
 ## Abstract:
@@ -387,7 +387,7 @@ So stop wasting time and get on board because it's about time for the plane to d
 #### SessionID: 99947
 # Common TSQL Mistakes
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 13:50:00 - Track: SQL Server
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
 ## Abstract:
@@ -396,7 +396,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
 #### SessionID: 100874
 # Introduction to Database Containers
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 15:00:00 - Track: SQL Server
 ## Speaker: Dan Guzman
 ## Title: Introduction to Database Containers
 ## Abstract:
@@ -407,7 +407,7 @@ This session will review fundamental container architecture and concepts, discus
 #### SessionID: 100983
 # What is DevOps and Why Should DBAs Care?
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Enterprise Delivery
+Event Date: 08-02-2020 - Session time: 15:00:00 - Track: Enterprise Delivery
 ## Speaker: Kathi Kellenberger
 ## Title: What is DevOps and Why Should DBAs Care?
 ## Abstract:
@@ -416,7 +416,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: Enterprise Delivery
 #### SessionID: 101050
 # Inside the Database Engine
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 15:00:00 - Track: SQL Server
 ## Speaker: John Deardurff
 ## Title: Inside the Database Engine
 ## Abstract:
@@ -425,7 +425,7 @@ Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
 #### SessionID: 101907
 # Migrating to Azure Managed Instance
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 15:00:00 - Track: SQL Server
 ## Speaker: Jonathan Fite
 ## Title: Migrating to Azure Managed Instance
 ## Abstract:
@@ -435,7 +435,7 @@ There are several phases that will be discussed, capacity planning, migration st
 #### SessionID: 101918
 # Using tSQLt unit testing with SSDT Database Projects
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 15:00:00 - Track: SQL Server
 ## Speaker: Mike Diehl
 ## Title: Using tSQLt unit testing with SSDT Database Projects
 ## Abstract:
@@ -450,7 +450,7 @@ In this session we'll also see how to structure your database projects in Visual
 #### SessionID: 99770
 # Become a T-SQL Pivoting Ninja in 59.9 Minutes Or Less
 #### [Back to calendar](#nr-943)
-Event Date: 08-02-2020 - Session time: 16:10:00 - Track: SQL Server
+Event Date: 08-02-2020 - Session time: 15:00:00 - Track: SQL Server
 ## Speaker: Peter Doyle
 ## Title: Become a T-SQL Pivoting Ninja in 59.9 Minutes Or Less
 ## Abstract:

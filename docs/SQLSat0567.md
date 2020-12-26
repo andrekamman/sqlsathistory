@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 50961
 # SQL Server 2016 - is it worth the upgrade?
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:    DBA/DEV
+Event Date: 10-12-2016 - Session time: 09:00:00 - Track:    DBA/DEV
 ## Speaker: William Durkin
 ## Title: SQL Server 2016 - is it worth the upgrade?
 ## Abstract:
@@ -43,7 +43,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:    DBA/DEV
 #### SessionID: 52427
 # Demistifying the errorlog
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:  DBA
+Event Date: 10-12-2016 - Session time: 09:00:00 - Track:  DBA
 ## Speaker: Stephane Haby
 ## Title: Demistifying the errorlog
 ## Abstract:
@@ -53,7 +53,7 @@ In this session, we will discuss about this famous and essential feedback tool, 
 #### SessionID: 52919
 # Introduction to U-SQL and Data Lake
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:       BI
+Event Date: 10-12-2016 - Session time: 09:00:00 - Track:       BI
 ## Speaker: Alex Whittles
 ## Title: Introduction to U-SQL and Data Lake
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:       BI
 #### SessionID: 50944
 # SQL Server 2016 Availability Group Enhancements
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:  DBA
+Event Date: 10-12-2016 - Session time: 10:15:00 - Track:  DBA
 ## Speaker: Karol Papaj
 ## Title: SQL Server 2016 Availability Group Enhancements
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:  DBA
 #### SessionID: 50957
 # Advanced BIML - for the advanced ETL developer
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:      BI/DEV
+Event Date: 10-12-2016 - Session time: 10:15:00 - Track:      BI/DEV
 ## Speaker: Regis Baccaro
 ## Title: Advanced BIML - for the advanced ETL developer
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:      BI/DEV
 #### SessionID: 50975
 # Are Temporal Tables The Better CDC?
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:    DBA/DEV
+Event Date: 10-12-2016 - Session time: 10:15:00 - Track:    DBA/DEV
 ## Speaker: Uwe Ricken
 ## Title: Are Temporal Tables The Better CDC?
 ## Abstract:
@@ -93,7 +93,7 @@ See in this demo-heavy session both techniques will all there pros and cons. Mak
 #### SessionID: 54162
 # Execution Plans End-to-End in SQL Server
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
+Event Date: 10-12-2016 - Session time: 10:15:00 - Track:     DEV
 ## Speaker: Sergio Govoni
 ## Title: Execution Plans End-to-End in SQL Server
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
 #### SessionID: 54675
 # Compelling visuals in Power BI
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:       BI
+Event Date: 10-12-2016 - Session time: 10:15:00 - Track:       BI
 ## Speaker: Prathy Kamasani
 ## Title: Compelling visuals in Power BI
 ## Abstract:
@@ -113,7 +113,7 @@ In this demo-focused session, we look at how we can create stunning dashboards u
 #### SessionID: 51178
 # SQL Server Myths and Misconceptions
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:    DBA/DEV
+Event Date: 10-12-2016 - Session time: 11:30:00 - Track:    DBA/DEV
 ## Speaker: Miroslav Dimitrov
 ## Title: SQL Server Myths and Misconceptions
 ## Abstract:
@@ -122,7 +122,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:    DBA/DEV
 #### SessionID: 51184
 # The Good, the Bad and the Ugly - Always Encrypted in action
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
+Event Date: 10-12-2016 - Session time: 11:30:00 - Track:     DEV
 ## Speaker: Janos Berke
 ## Title: The Good, the Bad and the Ugly - Always Encrypted in action
 ## Abstract:
@@ -139,7 +139,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
 #### SessionID: 52476
 # In the name of the resources: Aggregating data
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
+Event Date: 10-12-2016 - Session time: 11:30:00 - Track:     DEV
 ## Speaker: Dejan Dular
 ## Title: In the name of the resources: Aggregating data
 ## Abstract:
@@ -148,7 +148,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
 #### SessionID: 54547
 # Step into the Internet of Things with Azure IoT, Stream Analytics and PowerBI
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:       BI
+Event Date: 10-12-2016 - Session time: 11:30:00 - Track:       BI
 ## Speaker: Johan Ludvig Brattås
 ## Title: Step into the Internet of Things with Azure IoT, Stream Analytics and PowerBI
 ## Abstract:
@@ -157,7 +157,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:       BI
 #### SessionID: 50943
 # How I use PowerShell to automate the installation  upgrade of DBA scripts
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:  DBA
+Event Date: 10-12-2016 - Session time: 13:30:00 - Track:  DBA
 ## Speaker: Rob Sewell
 ## Title: How I use PowerShell to automate the installation  upgrade of DBA scripts
 ## Abstract:
@@ -169,7 +169,7 @@ In this session I will show how I tackle this for hundreds or thousands of insta
 #### SessionID: 51009
 # Session Details not available
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:      BI/DEV
+Event Date: 10-12-2016 - Session time: 13:30:00 - Track:      BI/DEV
 ## Speaker: n/a n/a
 ## Title: Session Details not available
 ## Abstract:
@@ -178,7 +178,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:      BI/DEV
 #### SessionID: 52236
 # Mobile BI with Microsoft tools
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:       BI
+Event Date: 10-12-2016 - Session time: 13:30:00 - Track:       BI
 ## Speaker: Andrea Martorana Tusa
 ## Title: Mobile BI with Microsoft tools
 ## Abstract:
@@ -193,7 +193,7 @@ Based on some real examples we will set out a comparison matrix to find the best
 #### SessionID: 54285
 # Giving Permissions through Stored Procedures
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
+Event Date: 10-12-2016 - Session time: 13:30:00 - Track:     DEV
 ## Speaker: Erland Sommarskog
 ## Title: Giving Permissions through Stored Procedures
 ## Abstract:
@@ -206,7 +206,7 @@ The session should be of interest both to DBAs and application developers that n
 #### SessionID: 54694
 # Benchmarking like a Pro
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:    DBA/DEV
+Event Date: 10-12-2016 - Session time: 13:30:00 - Track:    DBA/DEV
 ## Speaker: Gianluca Sartori
 ## Title: Benchmarking like a Pro
 ## Abstract:
@@ -218,7 +218,7 @@ In this demo-intensive session you will discover how to capture a meaningful wor
 #### SessionID: 50971
 # Deadlocks. Everything you ever wanted to ask but were too shy.
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:     DEV
+Event Date: 10-12-2016 - Session time: 14:45:00 - Track:     DEV
 ## Speaker: Denis Reznik
 ## Title: Deadlocks. Everything you ever wanted to ask but were too shy.
 ## Abstract:
@@ -229,7 +229,7 @@ In this session, we will learn some basics about Locks and Transaction Isolation
 #### SessionID: 51121
 # Introducing the SQL Server 2016 Query Store
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:    DBA/DEV
+Event Date: 10-12-2016 - Session time: 14:45:00 - Track:    DBA/DEV
 ## Speaker: Enrico van de Laar
 ## Title: Introducing the SQL Server 2016 Query Store
 ## Abstract:
@@ -239,7 +239,7 @@ During this session we will take a thorough look at the Query Store, it’s arch
 #### SessionID: 52341
 # Scripting tabular models
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:       BI
+Event Date: 10-12-2016 - Session time: 14:45:00 - Track:       BI
 ## Speaker: Bent Pedersen
 ## Title: Scripting tabular models
 ## Abstract:
@@ -250,7 +250,7 @@ During this session I will go through and explain some examples on generating a 
 #### SessionID: 53849
 # Powershell community scripts for DBAs
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:  DBA
+Event Date: 10-12-2016 - Session time: 14:45:00 - Track:  DBA
 ## Speaker: André Kamman
 ## Title: Powershell community scripts for DBAs
 ## Abstract:
@@ -259,7 +259,7 @@ Event Date: 10-12-2016 - Session time: 16:00:00 - Track:  DBA
 #### SessionID: 54066
 # Real-Time Analytics: OLAP  OLTP in the mix!
 #### [Back to calendar](#nr-567)
-Event Date: 10-12-2016 - Session time: 16:00:00 - Track:      BI/DEV
+Event Date: 10-12-2016 - Session time: 14:45:00 - Track:      BI/DEV
 ## Speaker: Stijn Wynants
 ## Title: Real-Time Analytics: OLAP  OLTP in the mix!
 ## Abstract:

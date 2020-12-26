@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 49721
 # Introducing Forensic Analytics with Power BI
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 19-11-2016 - Session time: 08:30:00 - Track: Analytics and Visualization
 ## Speaker: William E Pearson III
 ## Title: Introducing Forensic Analytics with Power BI
 ## Abstract:
@@ -46,7 +46,7 @@ In this session, we explore Forensic Analytics: a set of techniques we can use t
 #### SessionID: 49979
 # Getting Started with Extended Events
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-11-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Galbraith
 ## Title: Getting Started with Extended Events
 ## Abstract:
@@ -59,7 +59,7 @@ Come learn how to get started - the basics of sessions, events, actions, targets
 #### SessionID: 50104
 # Top 10 Wait Types Everyone Should Know
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-11-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Top 10 Wait Types Everyone Should Know
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 54297
 # The Ins and Outs of SQL Indexes
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 19-11-2016 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: The Ins and Outs of SQL Indexes
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 54437
 # SQL Server Databases in the Clouds
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 19-11-2016 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tim Plas
 ## Title: SQL Server Databases in the Clouds
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 54621
 # The Most Important IT Person in the Room: Why Data Experts Own the Future
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 19-11-2016 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: Kevin Kline
 ## Title: The Most Important IT Person in the Room: Why Data Experts Own the Future
 ## Abstract:
@@ -95,7 +95,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 50574
 # Pragmatic Power BI:  Transforming Data
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 19-11-2016 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: William E Pearson III
 ## Title: Pragmatic Power BI:  Transforming Data
 ## Abstract:
@@ -104,7 +104,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 53717
 # WIT Panel Session
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 19-11-2016 - Session time: 10:00:00 - Track: Professional Development
 ## Speaker: Dana Stubben
 ## Title: WIT Panel Session
 ## Abstract:
@@ -113,7 +113,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 53856
 # Get Your Optimizer to Give up All Its Secrets
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-11-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
 ## Abstract:
@@ -122,7 +122,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 54351
 # Ping! No Reply
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 19-11-2016 - Session time: 10:00:00 - Track: Strategy and Architecture
 ## Speaker: Cody Chapman
 ## Title: Ping! No Reply
 ## Abstract:
@@ -133,7 +133,7 @@ By the end of this interactive session, you will be able to check your own netwo
 #### SessionID: 54438
 # Querying JSON in Azure Data Lake with USQL
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 19-11-2016 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Russel Loski
 ## Title: Querying JSON in Azure Data Lake with USQL
 ## Abstract:
@@ -142,7 +142,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 54618
 # Configuration Option and Trace Flag Secrets: Surprising Behavior at the Flick of a Switch
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-11-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Kline
 ## Title: Configuration Option and Trace Flag Secrets: Surprising Behavior at the Flick of a Switch
 ## Abstract:
@@ -151,7 +151,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 50591
 # Know What Your Code is Doing to SQL Server!
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 19-11-2016 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Know What Your Code is Doing to SQL Server!
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 53969
 # Power BI – Exploring New Frontiers
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 19-11-2016 - Session time: 12:45:00 - Track: Analytics and Visualization
 ## Speaker: Pam Shaw
 ## Title: Power BI – Exploring New Frontiers
 ## Abstract:
@@ -169,7 +169,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 54059
 # What is Biml and why are SSIS developers excited about it?
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 19-11-2016 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bill Fellows
 ## Title: What is Biml and why are SSIS developers excited about it?
 ## Abstract:
@@ -182,7 +182,7 @@ You will leave this session armed with the knowledge of how Biml can help you ac
 #### SessionID: 54294
 # Fun with SQL Server Spatial Data
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 19-11-2016 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Mindy Curnutt
 ## Title: Fun with SQL Server Spatial Data
 ## Abstract:
@@ -191,7 +191,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 54384
 # Protecting Your Data with Encryption
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 19-11-2016 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Ed Leighton-Dick
 ## Title: Protecting Your Data with Encryption
 ## Abstract:
@@ -200,7 +200,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 54401
 # Tips and Tricks for Performance Troubleshooting
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 19-11-2016 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Phillip Podhradsky
 ## Title: Tips and Tricks for Performance Troubleshooting
 ## Abstract:
@@ -209,7 +209,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 50593
 # Query Plan Deep Drive
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 19-11-2016 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Query Plan Deep Drive
 ## Abstract:
@@ -218,7 +218,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 53709
 # Microsoft R Explained
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 19-11-2016 - Session time: 14:15:00 - Track: Analytics and Visualization
 ## Speaker: Dana Stubben
 ## Title: Microsoft R Explained
 ## Abstract:
@@ -227,7 +227,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 53830
 # Top 5 Tips to Keep Always On Always Humming and Users Happy
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-11-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: Top 5 Tips to Keep Always On Always Humming and Users Happy
 ## Abstract:
@@ -236,7 +236,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 53906
 # Why Should I Care About ... Partitioned Views?
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-11-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
 ## Abstract:
@@ -245,7 +245,7 @@ Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 53971
 # Taking the Scare out of Monster Reports
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Information Delivery
+Event Date: 19-11-2016 - Session time: 14:15:00 - Track: Information Delivery
 ## Speaker: Pam Shaw
 ## Title: Taking the Scare out of Monster Reports
 ## Abstract:
@@ -256,7 +256,7 @@ This session discusses how to use SQL Server Reporting Services (SSRS) to bring 
 #### SessionID: 54436
 # Protecting SQL Data for Availability and DR
 #### [Back to calendar](#nr-552)
-Event Date: 19-11-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-11-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Plas
 ## Title: Protecting SQL Data for Availability and DR
 ## Abstract:

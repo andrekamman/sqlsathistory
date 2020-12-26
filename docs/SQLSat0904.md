@@ -47,7 +47,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 94940
 # Modelos de datos en Azure Cosmos DB
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Big Data  Analytics
+Event Date: 28-09-2019 - Session time: 09:30:00 - Track: Big Data  Analytics
 ## Speaker: Alberto Diaz Martin
 ## Title: Modelos de datos en Azure Cosmos DB
 ## Abstract:
@@ -56,7 +56,7 @@ Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Big Data  Analytics
 #### SessionID: 95694
 # Data Science for beginners (Hands On)
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Artificial Intelligence
+Event Date: 28-09-2019 - Session time: 09:30:00 - Track: Artificial Intelligence
 ## Speaker: Tomaž Kaštrun
 ## Title: Data Science for beginners (Hands On)
 ## Abstract:
@@ -76,7 +76,7 @@ Es una sesión con algunas demos prácticas que, aunque no es obligatorio, si qu
 #### SessionID: 96275
 # Power BI: Si siempre haces lo mismo, no esperes resultados diferentes
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Business Intelligence
+Event Date: 28-09-2019 - Session time: 09:30:00 - Track: Business Intelligence
 ## Speaker: Salvador Ramos
 ## Title: Power BI: Si siempre haces lo mismo, no esperes resultados diferentes
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Business Intelligence
 #### SessionID: 96318
 # Data Virtualization: Superando la resistencia al cambio
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 28-09-2019 - Session time: 09:30:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Alberto López Grande
 ## Title: Data Virtualization: Superando la resistencia al cambio
 ## Abstract:
@@ -103,7 +103,7 @@ Virtualiza... Conecta...
 #### SessionID: 96448
 # Building a voice bot for PowerBI
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Artificial Intelligence
+Event Date: 28-09-2019 - Session time: 09:30:00 - Track: Artificial Intelligence
 ## Speaker: Fran Mercado
 ## Title: Building a voice bot for PowerBI
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Artificial Intelligence
 #### SessionID: 98910
 # Query Store a gran escala: llegando a la milla extra
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 28-09-2019 - Session time: 09:30:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Efraim Sharon
 ## Title: Query Store a gran escala: llegando a la milla extra
 ## Abstract:
@@ -125,7 +125,7 @@ In this session we'll present how at ChannelAdvisor we leverage the power of que
 #### SessionID: 94454
 # Azure Data Studio - The tool formerly known as SQL Operations Studio
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Big Data  Analytics
+Event Date: 28-09-2019 - Session time: 10:25:00 - Track: Big Data  Analytics
 ## Speaker: Frank Geisler
 ## Title: Azure Data Studio - The tool formerly known as SQL Operations Studio
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Big Data  Analytics
 #### SessionID: 95572
 # Predictive Maintenance for airplane turbines with IoT, bringing deep learning to the edge.
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Artificial Intelligence
+Event Date: 28-09-2019 - Session time: 10:25:00 - Track: Artificial Intelligence
 ## Speaker: Rodrigo Cabello
 ## Title: Predictive Maintenance for airplane turbines with IoT, bringing deep learning to the edge.
 ## Abstract:
@@ -158,7 +158,7 @@ o Deployment of the model using a lightweight version of Tensorflow: TFLite. Thi
 #### SessionID: 96241
 # Planes de ejecución con SQL Server 2017/2019
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 28-09-2019 - Session time: 10:25:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Enrique Bañuls
 ## Title: Planes de ejecución con SQL Server 2017/2019
 ## Abstract:
@@ -167,7 +167,7 @@ Event Date: 28-09-2019 - Session time: 17:10:00 - Track: DBA / Enterprise / Rela
 #### SessionID: 96533
 # Building a data connector for Power BI
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Business Intelligence
+Event Date: 28-09-2019 - Session time: 10:25:00 - Track: Business Intelligence
 ## Speaker: Cédric Charlier
 ## Title: Building a data connector for Power BI
 ## Abstract:
@@ -176,7 +176,7 @@ Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Business Intelligence
 #### SessionID: 98615
 # Azure Databricks - Construcción en vivo de un "pipeline" de IA (Hands On)
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Artificial Intelligence
+Event Date: 28-09-2019 - Session time: 10:25:00 - Track: Artificial Intelligence
 ## Speaker: Alberto Diaz Martin
 ## Title: Azure Databricks - Construcción en vivo de un "pipeline" de IA (Hands On)
 ## Abstract:
@@ -187,7 +187,7 @@ Es una sesión con algunas demos prácticas que, aunque no es obligatorio, si qu
 #### SessionID: 98668
 # Taller Infantil Robótica: Desafía tu mente
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Taller Infantil Robótica
+Event Date: 28-09-2019 - Session time: 10:25:00 - Track: Taller Infantil Robótica
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Taller Infantil Robótica: Desafía tu mente
 ## Abstract:
@@ -207,7 +207,7 @@ Importante:
 #### SessionID: 98751
 # ¡Qué locos están estos de Azure Database PaaS! (Hands On)
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 28-09-2019 - Session time: 10:25:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: ¡Qué locos están estos de Azure Database PaaS! (Hands On)
 ## Abstract:
@@ -229,7 +229,7 @@ Es una sesión con algunas demos prácticas que, aunque no es obligatorio, si qu
 #### SessionID: 98913
 # PlainConcepts – Rediscovering the meaning of technology
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Sponsor Session
+Event Date: 28-09-2019 - Session time: 11:45:00 - Track: Sponsor Session
 ## Speaker: Eduardo Matallanas
 ## Title: PlainConcepts – Rediscovering the meaning of technology
 ## Abstract:
@@ -238,7 +238,7 @@ Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Sponsor Session
 #### SessionID: 98914
 # Kabel - Debate y tendencias en IA en 2020
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Sponsor Session
+Event Date: 28-09-2019 - Session time: 11:45:00 - Track: Sponsor Session
 ## Speaker: Carlos Sacristán
 ## Title: Kabel - Debate y tendencias en IA en 2020
 ## Abstract:
@@ -247,7 +247,7 @@ Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Sponsor Session
 #### SessionID: 98930
 # Aura - Aura, Unos novatos muy veteranos
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Sponsor Session
+Event Date: 28-09-2019 - Session time: 11:45:00 - Track: Sponsor Session
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Aura - Aura, Unos novatos muy veteranos
 ## Abstract:
@@ -259,7 +259,7 @@ Ponente: Gianluca Risi
 #### SessionID: 95476
 # Power BI Tips  Tricks from the Real World
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Business Intelligence
+Event Date: 28-09-2019 - Session time: 12:10:00 - Track: Business Intelligence
 ## Speaker: Rui Romano
 ## Title: Power BI Tips  Tricks from the Real World
 ## Abstract:
@@ -270,7 +270,7 @@ Come to my session to find out….
 #### SessionID: 96376
 # SQL Server 2008 ha muerto, larga vida a Managed Instance
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 28-09-2019 - Session time: 12:10:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Fran Lens
 ## Title: SQL Server 2008 ha muerto, larga vida a Managed Instance
 ## Abstract:
@@ -280,7 +280,7 @@ También se abordará algunos aspectos en la configuración inicial de una Manag
 #### SessionID: 96382
 # Dr. Bot, when AI meets helthcare
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Artificial Intelligence
+Event Date: 28-09-2019 - Session time: 12:10:00 - Track: Artificial Intelligence
 ## Speaker: Eduardo Matallanas
 ## Title: Dr. Bot, when AI meets helthcare
 ## Abstract:
@@ -289,7 +289,7 @@ Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Artificial Intelligence
 #### SessionID: 98119
 # What's new in Security for SQL Server 2019 and Azure SQL Database
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 28-09-2019 - Session time: 12:10:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Andreas Wolter
 ## Title: What's new in Security for SQL Server 2019 and Azure SQL Database
 ## Abstract:
@@ -298,7 +298,7 @@ Event Date: 28-09-2019 - Session time: 17:10:00 - Track: DBA / Enterprise / Rela
 #### SessionID: 98752
 # Data Clinic. ¡Ven y pregunta a los expertos!
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Ask the experts
+Event Date: 28-09-2019 - Session time: 12:10:00 - Track: Ask the experts
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Data Clinic. ¡Ven y pregunta a los expertos!
 ## Abstract:
@@ -317,7 +317,7 @@ Ingenieros Microsoft en:
 #### SessionID: 94165
 # Transformaciones que pueden salvar tu ETL
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Business Intelligence
+Event Date: 28-09-2019 - Session time: 13:05:00 - Track: Business Intelligence
 ## Speaker: Ana Maria Bisbé York
 ## Title: Transformaciones que pueden salvar tu ETL
 ## Abstract:
@@ -326,7 +326,7 @@ Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Business Intelligence
 #### SessionID: 94934
 # ¿Bases de Datos en Kubernetes?
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 28-09-2019 - Session time: 13:05:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Christian Melendez
 ## Title: ¿Bases de Datos en Kubernetes?
 ## Abstract:
@@ -337,7 +337,7 @@ En esta sesion mi objetivo es introducirte al mundo de Kubernetes respecto al ma
 #### SessionID: 95029
 # From adaptive to intelligent: query processing in SQL 2019
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 28-09-2019 - Session time: 13:05:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Hugo Kornelis
 ## Title: From adaptive to intelligent: query processing in SQL 2019
 ## Abstract:
@@ -348,7 +348,7 @@ In this high-paced session, we will look at all these features and cover some us
 #### SessionID: 96538
 # AI @ Scale
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Artificial Intelligence
+Event Date: 28-09-2019 - Session time: 13:05:00 - Track: Artificial Intelligence
 ## Speaker: Pablo Peris
 ## Title: AI @ Scale
 ## Abstract:
@@ -359,7 +359,7 @@ We will also explain how to apply concepts like DevOps for AI, Data governance, 
 #### SessionID: 98613
 # Power BI and PowerApps: A real world example on Budgeting (Hands On)
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Business Intelligence
+Event Date: 28-09-2019 - Session time: 13:05:00 - Track: Business Intelligence
 ## Speaker: Rui Romano
 ## Title: Power BI and PowerApps: A real world example on Budgeting (Hands On)
 ## Abstract:
@@ -370,7 +370,7 @@ Es una sesión con algunas demos prácticas que, aunque no es obligatorio, si qu
 #### SessionID: 94083
 # Machine Learning - Best Practices and Vulnerabilities
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Artificial Intelligence
+Event Date: 28-09-2019 - Session time: 14:55:00 - Track: Artificial Intelligence
 ## Speaker: Sebastiano Galazzo
 ## Title: Machine Learning - Best Practices and Vulnerabilities
 ## Abstract:
@@ -382,7 +382,7 @@ The second part will cover vulnerabilities of ML discovering how easy could be t
 #### SessionID: 94542
 # Daily indexing problems and its - possible - solution
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 28-09-2019 - Session time: 14:55:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Uwe Ricken
 ## Title: Daily indexing problems and its - possible - solution
 ## Abstract:
@@ -397,7 +397,7 @@ Event Date: 28-09-2019 - Session time: 17:10:00 - Track: DBA / Enterprise / Rela
 #### SessionID: 95940
 # Snowflake, tu DWH puro SaaS que tienes que conocer
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Big Data  Analytics
+Event Date: 28-09-2019 - Session time: 14:55:00 - Track: Big Data  Analytics
 ## Speaker: Carlos Sacristán
 ## Title: Snowflake, tu DWH puro SaaS que tienes que conocer
 ## Abstract:
@@ -406,7 +406,7 @@ Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Big Data  Analytics
 #### SessionID: 96518
 # Convirtiéndonos en masters de PowerBI con DAX Studio y más. Del desarrollo al Performance Tuning.
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Business Intelligence
+Event Date: 28-09-2019 - Session time: 14:55:00 - Track: Business Intelligence
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Convirtiéndonos en masters de PowerBI con DAX Studio y más. Del desarrollo al Performance Tuning.
 ## Abstract:
@@ -420,7 +420,7 @@ Además, compartiremos ejemplos de casos prácticos y experiencias reales en ent
 #### SessionID: 95340
 # 2 Fast 2 Furious - designing for speed, concurrency, and correctness
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 28-09-2019 - Session time: 15:50:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Mark Broadbent
 ## Title: 2 Fast 2 Furious - designing for speed, concurrency, and correctness
 ## Abstract:
@@ -433,7 +433,7 @@ We will cover SQL Server’s traditional locking model, In-Memory OLTP, Columnst
 #### SessionID: 95556
 # Azure Data Factory v2: Mapping Data Flows - first blood
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Big Data  Analytics
+Event Date: 28-09-2019 - Session time: 15:50:00 - Track: Big Data  Analytics
 ## Speaker: Kamil Nowinski
 ## Title: Azure Data Factory v2: Mapping Data Flows - first blood
 ## Abstract:
@@ -445,7 +445,7 @@ We will review this new feature of ADFv2, do deep dive to understand the mention
 #### SessionID: 95792
 # Tune Like a Guru - The Big Three! (Hands On)
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: DBA / Enterprise / Relational / SQL
+Event Date: 28-09-2019 - Session time: 15:50:00 - Track: DBA / Enterprise / Relational / SQL
 ## Speaker: Kevin Boles
 ## Title: Tune Like a Guru - The Big Three! (Hands On)
 ## Abstract:
@@ -456,7 +456,7 @@ Es una sesión con algunas demos prácticas que, aunque no es obligatorio, si qu
 #### SessionID: 96520
 # Modelado Avanzado en PowerBI. Cuando el drag and drop no es suficiente.
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Business Intelligence
+Event Date: 28-09-2019 - Session time: 15:50:00 - Track: Business Intelligence
 ## Speaker: Ruben Pertusa Lopez
 ## Title: Modelado Avanzado en PowerBI. Cuando el drag and drop no es suficiente.
 ## Abstract:
@@ -467,7 +467,7 @@ Hablaremos de patrones para medidas semiaditivas como el Stock. Nos pelearemos c
 #### SessionID: 96540
 # Churn Norris - ML para mantener a tus clientes
 #### [Back to calendar](#nr-904)
-Event Date: 28-09-2019 - Session time: 17:10:00 - Track: Artificial Intelligence
+Event Date: 28-09-2019 - Session time: 15:50:00 - Track: Artificial Intelligence
 ## Speaker: Pau Sempere
 ## Title: Churn Norris - ML para mantener a tus clientes
 ## Abstract:

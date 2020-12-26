@@ -48,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 89398
 # SQL Server Basic Backups for Beginners
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Support
+Event Date: 27-04-2019 - Session time: 08:30:00 - Track: Support
 ## Speaker: Mark Gordon
 ## Title: SQL Server Basic Backups for Beginners
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Support
 #### SessionID: 89743
 # Working with Multiple DBMS Platforms: You're Not in Kansas Anymore
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Evolve
+Event Date: 27-04-2019 - Session time: 08:30:00 - Track: Evolve
 ## Speaker: Sandra Peele
 ## Title: Working with Multiple DBMS Platforms: You're Not in Kansas Anymore
 ## Abstract:
@@ -68,7 +68,7 @@ This presentation is for anyone with a basic knowledge of SQL.  It was co-produ
 #### SessionID: 90613
 # Why I use cursors in SQL
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Design
+Event Date: 27-04-2019 - Session time: 08:30:00 - Track: Design
 ## Speaker: Anders Pedersen
 ## Title: Why I use cursors in SQL
 ## Abstract:
@@ -80,7 +80,7 @@ Discuss when they are appropriate, and when they are not.
 #### SessionID: 90622
 # Database Corruption! Preventing Disaster to your Database.
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Support
+Event Date: 27-04-2019 - Session time: 08:30:00 - Track: Support
 ## Speaker: Jeff Mlakar
 ## Title: Database Corruption! Preventing Disaster to your Database.
 ## Abstract:
@@ -93,7 +93,7 @@ Beginners will benefit along with others who may one day find themselves with a 
 #### SessionID: 90694
 # Power BI Deployed
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Design
+Event Date: 27-04-2019 - Session time: 08:30:00 - Track: Design
 ## Speaker: Carlos L Chacon
 ## Title: Power BI Deployed
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Design
 #### SessionID: 91221
 # Diagnosing IO Latency
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Perform
+Event Date: 27-04-2019 - Session time: 08:30:00 - Track: Perform
 ## Speaker: Collin Benkler
 ## Title: Diagnosing IO Latency
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Perform
 #### SessionID: 89440
 # Utilizing Azure DevOps on a BI Project
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Build
+Event Date: 27-04-2019 - Session time: 09:45:00 - Track: Build
 ## Speaker: Liz Barrett
 ## Title: Utilizing Azure DevOps on a BI Project
 ## Abstract:
@@ -122,7 +122,7 @@ In this session, we will explore the intersect between Azure DevOps and BI, the 
 #### SessionID: 90252
 # SQL Restore: Optimizing Your Data Recovery
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Perform
+Event Date: 27-04-2019 - Session time: 09:45:00 - Track: Perform
 ## Speaker: Jamie Wick
 ## Title: SQL Restore: Optimizing Your Data Recovery
 ## Abstract:
@@ -136,7 +136,7 @@ In this session, we’ll answer these questions by looking at the Disaster Recov
 #### SessionID: 90585
 # Moving Data with Azure Data Factory
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Build
+Event Date: 27-04-2019 - Session time: 09:45:00 - Track: Build
 ## Speaker: Andy Leonard
 ## Title: Moving Data with Azure Data Factory
 ## Abstract:
@@ -150,7 +150,7 @@ Attend this session to learn:
 #### SessionID: 90630
 # Dodo - Using PowerShell to Deploy TSQL to Multiple Servers
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Build
+Event Date: 27-04-2019 - Session time: 09:45:00 - Track: Build
 ## Speaker: Jeff Nowiski
 ## Title: Dodo - Using PowerShell to Deploy TSQL to Multiple Servers
 ## Abstract:
@@ -169,7 +169,7 @@ This doesn't solve the need for a proper release process or CI Automation but so
 #### SessionID: 90660
 # Build Your Extract Packages Automatically!
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Innovate
+Event Date: 27-04-2019 - Session time: 09:45:00 - Track: Innovate
 ## Speaker: Shannon Lowder
 ## Title: Build Your Extract Packages Automatically!
 ## Abstract:
@@ -180,7 +180,7 @@ With that schema, automatically generating your extract package is a matter of s
 #### SessionID: 90702
 # Automating the Data-Centric Deployment Pipeline
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Perform
+Event Date: 27-04-2019 - Session time: 09:45:00 - Track: Perform
 ## Speaker: John Welch
 ## Title: Automating the Data-Centric Deployment Pipeline
 ## Abstract:
@@ -189,7 +189,7 @@ Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Perform
 #### SessionID: 91836
 # SQL Clinic Lab
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Support
+Event Date: 27-04-2019 - Session time: 09:45:00 - Track: Support
 ## Speaker: Kevin Feasel
 ## Title: SQL Clinic Lab
 ## Abstract:
@@ -198,7 +198,7 @@ Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Support
 #### SessionID: 89421
 # Encrypting Data within Sql Server
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Design
+Event Date: 27-04-2019 - Session time: 11:00:00 - Track: Design
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within Sql Server
 ## Abstract:
@@ -211,7 +211,7 @@ You will leave the session with a deeper understanding about SQL Server encrypti
 #### SessionID: 89741
 # Index Trek: An Introduction to Nonclustered, Clustered, and Columnstore Indexes
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Perform
+Event Date: 27-04-2019 - Session time: 11:00:00 - Track: Perform
 ## Speaker: Sandra Peele
 ## Title: Index Trek: An Introduction to Nonclustered, Clustered, and Columnstore Indexes
 ## Abstract:
@@ -228,7 +228,7 @@ This presentation was co-produced with Stéphane Faroult, author of The Art of S
 #### SessionID: 90566
 # Migrate Your Database with Distributed AGs
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Build
+Event Date: 27-04-2019 - Session time: 11:00:00 - Track: Build
 ## Speaker: Elizabeth Noble
 ## Title: Migrate Your Database with Distributed AGs
 ## Abstract:
@@ -241,7 +241,7 @@ NOTE: This session expects that attendees are already familiar with Availability
 #### SessionID: 90623
 # Environmental SQL Server Troubleshooting
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Support
+Event Date: 27-04-2019 - Session time: 11:00:00 - Track: Support
 ## Speaker: Jeff Mlakar
 ## Title: Environmental SQL Server Troubleshooting
 ## Abstract:
@@ -252,7 +252,7 @@ In this session we will discuss both performance pitfalls and optimizations that
 #### SessionID: 90642
 # TempDB Inside Out
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Design
+Event Date: 27-04-2019 - Session time: 11:00:00 - Track: Design
 ## Speaker: Ryan Adams
 ## Title: TempDB Inside Out
 ## Abstract:
@@ -261,7 +261,7 @@ Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Design
 #### SessionID: 90730
 # SSMS Tips and Tricks
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Perform
+Event Date: 27-04-2019 - Session time: 11:00:00 - Track: Perform
 ## Speaker: Wayne Sheffield
 ## Title: SSMS Tips and Tricks
 ## Abstract:
@@ -270,7 +270,7 @@ Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Perform
 #### SessionID: 90049
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Vendor Session
+Event Date: 27-04-2019 - Session time: 12:15:00 - Track: Vendor Session
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
 ## Abstract:
@@ -279,7 +279,7 @@ Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Vendor Session
 #### SessionID: 90286
 # Sponsored - Maximum SQL Server on VMware Performance
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Vendor Session
+Event Date: 27-04-2019 - Session time: 12:15:00 - Track: Vendor Session
 ## Speaker: David Klee
 ## Title: Sponsored - Maximum SQL Server on VMware Performance
 ## Abstract:
@@ -290,7 +290,7 @@ This session is packed with many live examples of tips and tricks gained from ye
 #### SessionID: 91505
 # Sponsored:  Beyond Monitoring With SentryOne
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Vendor Session
+Event Date: 27-04-2019 - Session time: 12:15:00 - Track: Vendor Session
 ## Speaker: Alec Pickup
 ## Title: Sponsored:  Beyond Monitoring With SentryOne
 ## Abstract:
@@ -299,7 +299,7 @@ Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Vendor Session
 #### SessionID: 91506
 # Running SQL Server on AWS
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Vendor Session
+Event Date: 27-04-2019 - Session time: 12:15:00 - Track: Vendor Session
 ## Speaker: Richard Waymire
 ## Title: Running SQL Server on AWS
 ## Abstract:
@@ -308,7 +308,7 @@ Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Vendor Session
 #### SessionID: 93083
 # SQL Access to SaaS/Cloud Data through PolyBase and Linked Servers
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Vendor Session
+Event Date: 27-04-2019 - Session time: 12:15:00 - Track: Vendor Session
 ## Speaker: Jerod Johnson
 ## Title: SQL Access to SaaS/Cloud Data through PolyBase and Linked Servers
 ## Abstract:
@@ -319,7 +319,7 @@ In this talk, we will discuss the virtualization features of SQL Server 2019 Pol
 #### SessionID: 89626
 # Interviewing-Be So Good They Can’t Ignore You
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Support
+Event Date: 27-04-2019 - Session time: 13:15:00 - Track: Support
 ## Speaker: Leveat Ruse
 ## Title: Interviewing-Be So Good They Can’t Ignore You
 ## Abstract:
@@ -328,7 +328,7 @@ Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Support
 #### SessionID: 89657
 # Your AG might not be as “Available” as you think
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Design
+Event Date: 27-04-2019 - Session time: 13:15:00 - Track: Design
 ## Speaker: Joseph Fleming
 ## Title: Your AG might not be as “Available” as you think
 ## Abstract:
@@ -339,7 +339,7 @@ An availability group will keep all of your database objects synchronized, but s
 #### SessionID: 89973
 # Using Open Source Products to Collect Performance Metrics
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Support
+Event Date: 27-04-2019 - Session time: 13:15:00 - Track: Support
 ## Speaker: Tracy Boggiano
 ## Title: Using Open Source Products to Collect Performance Metrics
 ## Abstract:
@@ -352,7 +352,7 @@ Attendees will see how easy it is to get good performance data and visualize in 
 #### SessionID: 90721
 # Extended Events - Better than Profiler
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Innovate
+Event Date: 27-04-2019 - Session time: 13:15:00 - Track: Innovate
 ## Speaker: Jason Brimhall
 ## Title: Extended Events - Better than Profiler
 ## Abstract:
@@ -361,7 +361,7 @@ Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Innovate
 #### SessionID: 90729
 # Intelligent Query Processing
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Support
+Event Date: 27-04-2019 - Session time: 13:15:00 - Track: Support
 ## Speaker: Wayne Sheffield
 ## Title: Intelligent Query Processing
 ## Abstract:
@@ -374,7 +374,7 @@ Coming away from this session, you will have plenty of reasons to want to upgrad
 #### SessionID: 89397
 # Module Signing: Certificates Replace TRUSTWORTHY / EXECUTE AS / DB Chaining
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Build
+Event Date: 27-04-2019 - Session time: 14:30:00 - Track: Build
 ## Speaker: Solomon Rutzky
 ## Title: Module Signing: Certificates Replace TRUSTWORTHY / EXECUTE AS / DB Chaining
 ## Abstract:
@@ -387,7 +387,7 @@ Come learn how to have more secure, granular permissions that handle cross-DB ta
 #### SessionID: 90187
 # From R to Machine Learning Services and Beyond
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Evolve
+Event Date: 27-04-2019 - Session time: 14:30:00 - Track: Evolve
 ## Speaker: Mark Hudson
 ## Title: From R to Machine Learning Services and Beyond
 ## Abstract:
@@ -400,7 +400,7 @@ Take with you a better understanding of why analysts, developers, DBAs, PMs, CIO
 #### SessionID: 90571
 # DBA's and DevOps: The Fundamentals
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Innovate
+Event Date: 27-04-2019 - Session time: 14:30:00 - Track: Innovate
 ## Speaker: Stuart Ainsworth
 ## Title: DBA's and DevOps: The Fundamentals
 ## Abstract:
@@ -414,7 +414,7 @@ Topics covered include:
 #### SessionID: 90644
 # Building machine learning models in Azure ML Studio
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Innovate
+Event Date: 27-04-2019 - Session time: 14:30:00 - Track: Innovate
 ## Speaker: Zeydy Ortiz
 ## Title: Building machine learning models in Azure ML Studio
 ## Abstract:
@@ -424,7 +424,7 @@ We will also share practical tips including pitfalls to avoid when using custome
 #### SessionID: 91219
 # Stored Procs Rule, Ad Hoc Drools
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Design
+Event Date: 27-04-2019 - Session time: 14:30:00 - Track: Design
 ## Speaker: Dale Burnett
 ## Title: Stored Procs Rule, Ad Hoc Drools
 ## Abstract:
@@ -433,7 +433,7 @@ Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Design
 #### SessionID: 93457
 # What is Power BI?
 #### [Back to calendar](#nr-863)
-Event Date: 27-04-2019 - Session time: 15:45:00 - Track: Analyze
+Event Date: 27-04-2019 - Session time: 14:30:00 - Track: Analyze
 ## Speaker: Angela Henry
 ## Title: What is Power BI?
 ## Abstract:

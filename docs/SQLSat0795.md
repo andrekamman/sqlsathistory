@@ -24,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 82842
 # dbachecks - Checking SQL Server environments with PowerShell
 #### [Back to calendar](#nr-795)
-Event Date: 29-09-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 09:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Cláudio Silva
 ## Title: dbachecks - Checking SQL Server environments with PowerShell
 ## Abstract:
@@ -47,7 +47,7 @@ Join us to see how easy (and beautiful) it can be validate all of your SQL Serve
 #### SessionID: 82852
 # Open Knowledge Platform Use-Cases
 #### [Back to calendar](#nr-795)
-Event Date: 29-09-2018 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-09-2018 - Session time: 09:25:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Pedro Sousa
 ## Title: Open Knowledge Platform Use-Cases
 ## Abstract:
@@ -60,7 +60,7 @@ In this talk I'll go over some use-cases of Open Knowledge Platform implementati
 #### SessionID: 83674
 # Agile BI from the cloud with Team Foundation Services
 #### [Back to calendar](#nr-795)
-Event Date: 29-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-09-2018 - Session time: 09:25:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sander van der hoeff
 ## Title: Agile BI from the cloud with Team Foundation Services
 ## Abstract:
@@ -74,7 +74,7 @@ You will learn the possibilities of Version Control and in which way to implemen
 #### SessionID: 84468
 # Whats new for Columnstore Indexes  Batch Mode in vNext
 #### [Back to calendar](#nr-795)
-Event Date: 29-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-09-2018 - Session time: 09:25:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Niko Neugebauer
 ## Title: Whats new for Columnstore Indexes  Batch Mode in vNext
 ## Abstract:
@@ -84,7 +84,7 @@ Join me in discovering all documented and non-documented features and how they w
 #### SessionID: 82850
 # Developing effective IoT back-end services with SQL Server and .Net
 #### [Back to calendar](#nr-795)
-Event Date: 29-09-2018 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-09-2018 - Session time: 10:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Peter Willmot
 ## Title: Developing effective IoT back-end services with SQL Server and .Net
 ## Abstract:
@@ -99,7 +99,7 @@ The session content covers various aspects of a typical SQL IoT back-end notably
 #### SessionID: 82875
 # Power BI Hacks
 #### [Back to calendar](#nr-795)
-Event Date: 29-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-09-2018 - Session time: 10:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rui Romano
 ## Title: Power BI Hacks
 ## Abstract:
@@ -110,7 +110,7 @@ Come to my session to find out....
 #### SessionID: 83795
 # Be a dynamic SQL dynamo!
 #### [Back to calendar](#nr-795)
-Event Date: 29-09-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 10:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Joanna Wolthuis
 ## Title: Be a dynamic SQL dynamo!
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 29-09-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 83596
 # Continuous Integration Pipelines With Jenkins, Docker and SQL Server
 #### [Back to calendar](#nr-795)
-Event Date: 29-09-2018 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-09-2018 - Session time: 12:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christopher Adkin
 ## Title: Continuous Integration Pipelines With Jenkins, Docker and SQL Server
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 29-09-2018 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 83686
 # DevOps, CI and the Data Warehouse [EN]
 #### [Back to calendar](#nr-795)
-Event Date: 29-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-09-2018 - Session time: 12:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: John Tunnicliffe
 ## Title: DevOps, CI and the Data Warehouse [EN]
 ## Abstract:
@@ -148,7 +148,7 @@ Please visit John's blog for practical tips on how to apply DevOps techniques to
 #### SessionID: 84244
 # More Performance? YES WE CAN!
 #### [Back to calendar](#nr-795)
-Event Date: 29-09-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Etienne Lopes
 ## Title: More Performance? YES WE CAN!
 ## Abstract:
@@ -159,7 +159,7 @@ Examples will cover both application queries and maintenance tasks and I'm sure 
 #### SessionID: 82856
 # Graph Databases and Solutions
 #### [Back to calendar](#nr-795)
-Event Date: 29-09-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-09-2018 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Niko Neugebauer
 ## Title: Graph Databases and Solutions
 ## Abstract:
@@ -173,7 +173,7 @@ Let's dive into this diverse world of graph databases and discover the new kid o
 #### SessionID: 82890
 # From relational to Multimodel : Azure Cosmos DB
 #### [Back to calendar](#nr-795)
-Event Date: 29-09-2018 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-09-2018 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Rudi Bruchez
 ## Title: From relational to Multimodel : Azure Cosmos DB
 ## Abstract:
@@ -182,7 +182,7 @@ Event Date: 29-09-2018 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 85827
 # Service Broker - Old feature that solves modern problems.
 #### [Back to calendar](#nr-795)
-Event Date: 29-09-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ivan Campos
 ## Title: Service Broker - Old feature that solves modern problems.
 ## Abstract:
@@ -192,7 +192,7 @@ In this session I will show you where Service Broker can be very useful, how to 
 #### SessionID: 84400
 # Using In-Memory OLTP in Production workloads!
 #### [Back to calendar](#nr-795)
-Event Date: 29-09-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 15:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Broadbent
 ## Title: Using In-Memory OLTP in Production workloads!
 ## Abstract:

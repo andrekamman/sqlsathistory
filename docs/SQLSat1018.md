@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 108569
 # Continuous Integration for the BI Developer
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2020 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Wolfgang Strasser
 ## Title: Continuous Integration for the BI Developer
 ## Abstract:
@@ -40,7 +40,7 @@ After this 60 minutes you'll have the guidelines and some ideas how easy it is t
 #### SessionID: 108900
 # "DAX" the way to do it
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 05-12-2020 - Session time: 08:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Pedro Reis
 ## Title: "DAX" the way to do it
 ## Abstract:
@@ -51,7 +51,7 @@ I'll show you real-world applications of DAX and lots of tips and tricks that yo
 #### SessionID: 109015
 # Different Types of Many-to-Many Relationships in Power BI
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2020 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Russo
 ## Title: Different Types of Many-to-Many Relationships in Power BI
 ## Abstract:
@@ -62,7 +62,7 @@ In this session, we clarify the purpose of the relationships with many-to-many c
 #### SessionID: 108498
 # Designing impactful visualisations for your data
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 05-12-2020 - Session time: 09:40:00 - Track: Analytics and Visualization
 ## Speaker: Benni De Jagere
 ## Title: Designing impactful visualisations for your data
 ## Abstract:
@@ -75,7 +75,7 @@ Walking out of this session, you can expect to have a decent understanding on a 
 #### SessionID: 108504
 # Magnificent 7 - Simple tricks to boost your Power BI development
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 05-12-2020 - Session time: 09:40:00 - Track: Analytics and Visualization
 ## Speaker: Nikola Ilic
 ## Title: Magnificent 7 - Simple tricks to boost your Power BI development
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 108514
 # Tabular Analysis Services 2019 from Start to Finish
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2020 - Session time: 09:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Thomas LeBlanc
 ## Title: Tabular Analysis Services 2019 from Start to Finish
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 108727
 # Checking in on Tabular Models: Making Them Work Better
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2020 - Session time: 10:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Wilkie
 ## Title: Checking in on Tabular Models: Making Them Work Better
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 108869
 # Advanced ETL with Power Query
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 05-12-2020 - Session time: 10:50:00 - Track: BI Information Delivery
 ## Speaker: Dennes Torres
 ## Title: Advanced ETL with Power Query
 ## Abstract:
@@ -113,7 +113,7 @@ We can create functions, re-use funcitons, create loops, everything to turn our 
 #### SessionID: 109313
 # An (Advanced) Introduction to DAX
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 05-12-2020 - Session time: 10:50:00 - Track: Analytics and Visualization
 ## Speaker: Eugene Meidinger
 ## Title: An (Advanced) Introduction to DAX
 ## Abstract:
@@ -122,7 +122,7 @@ Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 108472
 # Intro to CDS inside of Power Automate (fka Microsoft Flow)
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 05-12-2020 - Session time: 12:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: David Patrick
 ## Title: Intro to CDS inside of Power Automate (fka Microsoft Flow)
 ## Abstract:
@@ -133,7 +133,7 @@ Learn how the CDS ties into Power Automate (Flow), what Triggers and actions are
 #### SessionID: 108513
 # Power BI Aggs
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2020 - Session time: 12:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Armando Lacerda
 ## Title: Power BI Aggs
 ## Abstract:
@@ -143,7 +143,7 @@ In this session I will demo how to design and implement agg's and take advantage
 #### SessionID: 108573
 # Deep Dive on Embedded Analytics with Power BI
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2020 - Session time: 12:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mihail Mateev
 ## Title: Deep Dive on Embedded Analytics with Power BI
 ## Abstract:
@@ -159,7 +159,7 @@ This session covers the major concepts, related to Power BI Embedded Analytics:
 #### SessionID: 108488
 # Azure Synapse Analytics: A Data Lakehouse
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2020 - Session time: 13:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: James Serra
 ## Title: Azure Synapse Analytics: A Data Lakehouse
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 109023
 # Data Modeling Solutions for Challenging BI Data Modeling Problems
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 05-12-2020 - Session time: 13:10:00 - Track: BI Information Delivery
 ## Speaker: Paul Turley
 ## Title: Data Modeling Solutions for Challenging BI Data Modeling Problems
 ## Abstract:
@@ -177,7 +177,7 @@ Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 109026
 # Data Engineering Brick-by-Brick: An Introduction To Azure Databricks
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2020 - Session time: 13:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Chris Hyde
 ## Title: Data Engineering Brick-by-Brick: An Introduction To Azure Databricks
 ## Abstract:
@@ -188,7 +188,7 @@ Azure Databricks provides a cloud-based Apache Spark environment that can be sca
 #### SessionID: 108603
 # Getting Started with Apache Spark
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 05-12-2020 - Session time: 14:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kevin Feasel
 ## Title: Getting Started with Apache Spark
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 108927
 # Exploring the Power BI Desktop Designer
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-12-2020 - Session time: 14:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: John Miner
 ## Title: Exploring the Power BI Desktop Designer
 ## Abstract:
@@ -212,7 +212,7 @@ In short, the Power BI Desktop designer is a one stop place to turn mundane data
 #### SessionID: 108992
 # Top Essential Actions for Governing Power BI
 #### [Back to calendar](#nr-1018)
-Event Date: 05-12-2020 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 05-12-2020 - Session time: 14:20:00 - Track: Strategy and Architecture
 ## Speaker: Melissa Coates
 ## Title: Top Essential Actions for Governing Power BI
 ## Abstract:

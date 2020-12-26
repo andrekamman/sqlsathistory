@@ -33,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 18252
 # Keynote
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: Other
+Event Date: 06-06-2015 - Session time: 00:00:00 - Track: Other
 ## Speaker: Kevin Cox
 ## Title: Keynote
 ## Abstract:
@@ -42,7 +42,7 @@ Event Date: 06-06-2015 - Session time: 15:40:00 - Track: Other
 #### SessionID: 35631
 # Tips for SQL Server Performance and Resiliency
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: DBA
+Event Date: 06-06-2015 - Session time: 09:10:00 - Track: DBA
 ## Speaker: Chris Shaw
 ## Title: Tips for SQL Server Performance and Resiliency
 ## Abstract:
@@ -54,7 +54,7 @@ These patterns are so clear in fact that I many SQL Servers will benefit from th
 #### SessionID: 35632
 # Row-Based Security in SSRS and SSAS
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: BI
+Event Date: 06-06-2015 - Session time: 09:10:00 - Track: BI
 ## Speaker: Chris Hyde
 ## Title: Row-Based Security in SSRS and SSAS
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 06-06-2015 - Session time: 15:40:00 - Track: BI
 #### SessionID: 36050
 # Developing Production Quality SQL Code
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: Development
+Event Date: 06-06-2015 - Session time: 09:10:00 - Track: Development
 ## Speaker: Paul Nielsen
 ## Title: Developing Production Quality SQL Code
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 06-06-2015 - Session time: 15:40:00 - Track: Development
 #### SessionID: 36228
 # Hadoop and SQL Together: Modern Data Warehouse Design Patterns
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: NoSQL
+Event Date: 06-06-2015 - Session time: 09:10:00 - Track: NoSQL
 ## Speaker: Josh Fennessy
 ## Title: Hadoop and SQL Together: Modern Data Warehouse Design Patterns
 ## Abstract:
@@ -85,7 +85,7 @@ This session is largely conceptual, although we will cover a few code examples t
 #### SessionID: 36417
 # Getting Started with Extended Events
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: DBA
+Event Date: 06-06-2015 - Session time: 09:10:00 - Track: DBA
 ## Speaker: Andy Galbraith
 ## Title: Getting Started with Extended Events
 ## Abstract:
@@ -98,7 +98,7 @@ Come learn how to get started - the basics of sessions, events, actions, targets
 #### SessionID: 18866
 # SQL Server Backups and Restores A to Z
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: DBA
+Event Date: 06-06-2015 - Session time: 10:30:00 - Track: DBA
 ## Speaker: Keith Tate
 ## Title: SQL Server Backups and Restores A to Z
 ## Abstract:
@@ -109,7 +109,7 @@ The session will begin with the reasons why databases must be backed up (hint: t
 #### SessionID: 19433
 # Getting started with Dimensional Modeling
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: BI
+Event Date: 06-06-2015 - Session time: 10:30:00 - Track: BI
 ## Speaker: Marc Beacom
 ## Title: Getting started with Dimensional Modeling
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 06-06-2015 - Session time: 15:40:00 - Track: BI
 #### SessionID: 36042
 # ETL is Dead
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: BI
+Event Date: 06-06-2015 - Session time: 10:30:00 - Track: BI
 ## Speaker: Kevin Cox
 ## Title: ETL is Dead
 ## Abstract:
@@ -127,7 +127,7 @@ Event Date: 06-06-2015 - Session time: 15:40:00 - Track: BI
 #### SessionID: 36177
 # What’s this ‘Scaffolding a CRUD’ all about? Build a Website from 
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: Development
+Event Date: 06-06-2015 - Session time: 10:30:00 - Track: Development
 ## Speaker: Gabriel Villa
 ## Title: What’s this ‘Scaffolding a CRUD’ all about? Build a Website from 
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 06-06-2015 - Session time: 15:40:00 - Track: Development
 #### SessionID: 36233
 # Sentiment Analysis with Big Data
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: NoSQL
+Event Date: 06-06-2015 - Session time: 10:30:00 - Track: NoSQL
 ## Speaker: Paco Gonzalez
 ## Title: Sentiment Analysis with Big Data
 ## Abstract:
@@ -145,7 +145,7 @@ Event Date: 06-06-2015 - Session time: 15:40:00 - Track: NoSQL
 #### SessionID: 16899
 # XQuery: get FLWORed
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: Development
+Event Date: 06-06-2015 - Session time: 13:00:00 - Track: Development
 ## Speaker: Jennifer Kenney
 ## Title: XQuery: get FLWORed
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 06-06-2015 - Session time: 15:40:00 - Track: Development
 #### SessionID: 20380
 # An Unexpected Journey: SQL Server 2000 to 2014
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: DBA
+Event Date: 06-06-2015 - Session time: 13:00:00 - Track: DBA
 ## Speaker: Michelle Poolet
 ## Title: An Unexpected Journey: SQL Server 2000 to 2014
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 06-06-2015 - Session time: 15:40:00 - Track: DBA
 #### SessionID: 20601
 # The Augean Stables:  Data Cleansing in the Modern Enterprise
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: BI
+Event Date: 06-06-2015 - Session time: 13:00:00 - Track: BI
 ## Speaker: Michael Sexton
 ## Title: The Augean Stables:  Data Cleansing in the Modern Enterprise
 ## Abstract:
@@ -178,7 +178,7 @@ Database professionals in Greece circa 600 BCE may have access to the Alpheus an
 #### SessionID: 35954
 # Right-Sizing Your SQL Server Virtual Machine
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: Architecture
+Event Date: 06-06-2015 - Session time: 13:00:00 - Track: Architecture
 ## Speaker: David Klee
 ## Title: Right-Sizing Your SQL Server Virtual Machine
 ## Abstract:
@@ -189,7 +189,7 @@ The methods for understanding the performance of your mission-critical SQL Serve
 #### SessionID: 36056
 # Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: DBA
+Event Date: 06-06-2015 - Session time: 13:00:00 - Track: DBA
 ## Speaker: Amy Herold
 ## Title: Deadlock, Block  Two Smoking Barrels: Breaking Down Blocking and
 ## Abstract:
@@ -198,7 +198,7 @@ Event Date: 06-06-2015 - Session time: 15:40:00 - Track: DBA
 #### SessionID: 18948
 # Why Be Normal?
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: Architecture
+Event Date: 06-06-2015 - Session time: 14:20:00 - Track: Architecture
 ## Speaker: Leslie Andrews
 ## Title: Why Be Normal?
 ## Abstract:
@@ -207,7 +207,7 @@ Event Date: 06-06-2015 - Session time: 15:40:00 - Track: Architecture
 #### SessionID: 36007
 # An Introduction to Hadoop Development
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: NoSQL
+Event Date: 06-06-2015 - Session time: 14:20:00 - Track: NoSQL
 ## Speaker: Carlos Bossy
 ## Title: An Introduction to Hadoop Development
 ## Abstract:
@@ -216,7 +216,7 @@ Event Date: 06-06-2015 - Session time: 15:40:00 - Track: NoSQL
 #### SessionID: 36079
 # Are You Optimistic About Concurrency?
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: Architecture
+Event Date: 06-06-2015 - Session time: 14:20:00 - Track: Architecture
 ## Speaker: Kalen Delaney
 ## Title: Are You Optimistic About Concurrency?
 ## Abstract:
@@ -228,7 +228,7 @@ In this session, we'll look at what guarantees the various isolation levels prov
 #### SessionID: 36149
 # Powershell and the Art of SQL Server Deployment
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: DBA
+Event Date: 06-06-2015 - Session time: 14:20:00 - Track: DBA
 ## Speaker: Michael Fal
 ## Title: Powershell and the Art of SQL Server Deployment
 ## Abstract:
@@ -237,7 +237,7 @@ Event Date: 06-06-2015 - Session time: 15:40:00 - Track: DBA
 #### SessionID: 36245
 # Increase your SSIS Productivity with Biml
 #### [Back to calendar](#nr-415)
-Event Date: 06-06-2015 - Session time: 15:40:00 - Track: BI
+Event Date: 06-06-2015 - Session time: 14:20:00 - Track: BI
 ## Speaker: Reeves Smith
 ## Title: Increase your SSIS Productivity with Biml
 ## Abstract:

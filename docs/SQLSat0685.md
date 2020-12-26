@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 67657
 # SSIS Package generation with BIML
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Analytics 
+Event Date: 28-10-2017 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Analytics 
 ## Speaker: Sander van der hoeff
 ## Title: SSIS Package generation with BIML
 ## Abstract:
@@ -43,7 +43,7 @@ I will show you around in BIML. After the quick basics of BIML I will show you h
 #### SessionID: 68613
 # Yet Another Session about Docker and Containers
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-10-2017 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Pedro Sousa
 ## Title: Yet Another Session about Docker and Containers
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Cloud Application Devel
 #### SessionID: 69127
 # Patterns for building hybrid scenarios with SQL Server and Azure
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-10-2017 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Murilo Miranda
 ## Title: Patterns for building hybrid scenarios with SQL Server and Azure
 ## Abstract:
@@ -65,7 +65,7 @@ New hybrid scenarios between on-premise SQL Server and Azure mean they don't hav
 #### SessionID: 67488
 # SQL Server and Continuous Integration
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-10-2017 - Session time: 10:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: James Anderson
 ## Title: SQL Server and Continuous Integration
 ## Abstract:
@@ -90,7 +90,7 @@ You will see how a CI approach to database development can increase team efficie
 #### SessionID: 68567
 # Deep dive into Query Store on SQL Server 2016
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-10-2017 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andre Batista
 ## Title: Deep dive into Query Store on SQL Server 2016
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #### SessionID: 69157
 # Modeling scenarios in DAX, the awesome language of Power BI
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Analytics 
+Event Date: 28-10-2017 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Analytics 
 ## Speaker: Ana Maria Bisbé York
 ## Title: Modeling scenarios in DAX, the awesome language of Power BI
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 28-10-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #### SessionID: 67535
 # Setting a WordPress website using Azure Web Apps and Azure Database for MySQL
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-10-2017 - Session time: 11:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Eduardo Piairo
 ## Title: Setting a WordPress website using Azure Web Apps and Azure Database for MySQL
 ## Abstract:
@@ -118,7 +118,7 @@ As a plus, during the session I will share some tricks about how to build a proc
 #### SessionID: 67810
 # Development Methodology for BI teams
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Analytics 
+Event Date: 28-10-2017 - Session time: 11:40:00 - Track: BI Platform Architecture, Development  Analytics 
 ## Speaker: Maryna Popova
 ## Title: Development Methodology for BI teams
 ## Abstract:
@@ -129,7 +129,7 @@ In my talk I would like to share my experience choosing and adjusting one.
 #### SessionID: 68403
 # Taking Security to another level: SQL Server Audit
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-10-2017 - Session time: 11:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Etienne Lopes
 ## Title: Taking Security to another level: SQL Server Audit
 ## Abstract:
@@ -141,7 +141,7 @@ Also some news in SQL Server 2017 regarding this subject!
 #### SessionID: 67887
 # SQL Server on Linux and high availability
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-10-2017 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Barbarin
 ## Title: SQL Server on Linux and high availability
 ## Abstract:
@@ -155,7 +155,7 @@ This session will be delivering an overview of what is new and how it is going t
 #### SessionID: 68184
 # Database Continuous Delivery on the Microsoft Platform
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-10-2017 - Session time: 13:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Gavin Campbell
 ## Title: Database Continuous Delivery on the Microsoft Platform
 ## Abstract:
@@ -170,7 +170,7 @@ This session will discuss some of the challenges associated with database contin
 #### SessionID: 68843
 # "Start Small and Grow Big" with Power BI and Azure AS
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Analytics 
+Event Date: 28-10-2017 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Analytics 
 ## Speaker: Rui Romano
 ## Title: "Start Small and Grow Big" with Power BI and Azure AS
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 28-10-2017 - Session time: 17:00:00 - Track: BI Platform Architectur
 #### SessionID: 70344
 # Natixis Sponsor Session
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Information Delivery
+Event Date: 28-10-2017 - Session time: 14:45:00 - Track: Information Delivery
 ## Speaker: Ivan Campos
 ## Title: Natixis Sponsor Session
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Information Delivery
 #### SessionID: 70346
 # DevScope Sponsor Session
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Information Delivery
+Event Date: 28-10-2017 - Session time: 14:45:00 - Track: Information Delivery
 ## Speaker: Ivan Campos
 ## Title: DevScope Sponsor Session
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Information Delivery
 #### SessionID: 67467
 # Azure SQL Database - Lessons learned from the trenches
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-10-2017 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Roberto Cavalcanti
 ## Title: Azure SQL Database - Lessons learned from the trenches
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Cloud Application Devel
 #### SessionID: 67470
 # Hiding data with SQL Server 2016/2017
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-10-2017 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ivan Campos
 ## Title: Hiding data with SQL Server 2016/2017
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 28-10-2017 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #### SessionID: 68983
 # R Server on Spark - Go big or go home
 #### [Back to calendar](#nr-685)
-Event Date: 28-10-2017 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Analytics 
+Event Date: 28-10-2017 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Analytics 
 ## Speaker: Pau Sempere
 ## Title: R Server on Spark - Go big or go home
 ## Abstract:

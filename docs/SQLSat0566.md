@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 53923
 # Using R in the Azure ML platform
 #### [Back to calendar](#nr-566)
-Event Date: 26-11-2016 - Session time: 16:30:00 - Track: CLOUD/BI
+Event Date: 26-11-2016 - Session time: 09:45:00 - Track: CLOUD/BI
 ## Speaker: Alessandro Rezzani
 ## Title: Using R in the Azure ML platform
 ## Abstract:
@@ -34,7 +34,7 @@ Event Date: 26-11-2016 - Session time: 16:30:00 - Track: CLOUD/BI
 #### SessionID: 54068
 # SQL Server 2016 Temporal Database Support - Focus on Retention and Performance
 #### [Back to calendar](#nr-566)
-Event Date: 26-11-2016 - Session time: 16:30:00 - Track: DEV
+Event Date: 26-11-2016 - Session time: 09:45:00 - Track: DEV
 ## Speaker: Pasquale Ceglie
 ## Title: SQL Server 2016 Temporal Database Support - Focus on Retention and Performance
 ## Abstract:
@@ -43,7 +43,7 @@ Event Date: 26-11-2016 - Session time: 16:30:00 - Track: DEV
 #### SessionID: 54327
 # SQL Server Extended Events: monitoring  tuning (IT)
 #### [Back to calendar](#nr-566)
-Event Date: 26-11-2016 - Session time: 16:30:00 - Track: DBA
+Event Date: 26-11-2016 - Session time: 09:45:00 - Track: DBA
 ## Speaker: Gianluca Hotz
 ## Title: SQL Server Extended Events: monitoring  tuning (IT)
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 26-11-2016 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 53526
 # Crate your own Data Pipeline with Spark on HDInsight
 #### [Back to calendar](#nr-566)
-Event Date: 26-11-2016 - Session time: 16:30:00 - Track: DEV
+Event Date: 26-11-2016 - Session time: 11:00:00 - Track: DEV
 ## Speaker: Roberto Grandi
 ## Title: Crate your own Data Pipeline with Spark on HDInsight
 ## Abstract:
@@ -69,7 +69,7 @@ At the end of the session you will be able to create data pipeline on the cloud.
 #### SessionID: 54047
 # State of Azure SQL Database
 #### [Back to calendar](#nr-566)
-Event Date: 26-11-2016 - Session time: 16:30:00 - Track: CLOUD/BI
+Event Date: 26-11-2016 - Session time: 11:00:00 - Track: CLOUD/BI
 ## Speaker: Marco Parenzan
 ## Title: State of Azure SQL Database
 ## Abstract:
@@ -78,7 +78,7 @@ Event Date: 26-11-2016 - Session time: 16:30:00 - Track: CLOUD/BI
 #### SessionID: 54061
 # Troubleshooting delle prestazioni delle query con SQL Server 2016 Query Store
 #### [Back to calendar](#nr-566)
-Event Date: 26-11-2016 - Session time: 16:30:00 - Track: DBA
+Event Date: 26-11-2016 - Session time: 11:00:00 - Track: DBA
 ## Speaker: Saverio Lorenzini
 ## Title: Troubleshooting delle prestazioni delle query con SQL Server 2016 Query Store
 ## Abstract:
@@ -89,7 +89,7 @@ Più in generale, la sessione mostra come trarre il massimo vantaggio da questa 
 #### SessionID: 50894
 # Common non-configured options on a Database Server
 #### [Back to calendar](#nr-566)
-Event Date: 26-11-2016 - Session time: 16:30:00 - Track: DBA
+Event Date: 26-11-2016 - Session time: 12:15:00 - Track: DBA
 ## Speaker: Sergio Govoni
 ## Title: Common non-configured options on a Database Server
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 26-11-2016 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 53630
 # Upload data on Azure SQL Database with Azure Service Bus amp; Azure Logic Apps
 #### [Back to calendar](#nr-566)
-Event Date: 26-11-2016 - Session time: 16:30:00 - Track: CLOUD/BI
+Event Date: 26-11-2016 - Session time: 12:15:00 - Track: CLOUD/BI
 ## Speaker: Salvatore Pellitteri
 ## Title: Upload data on Azure SQL Database with Azure Service Bus amp; Azure Logic Apps
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 26-11-2016 - Session time: 16:30:00 - Track: CLOUD/BI
 #### SessionID: 54284
 # Giving Permissions through Stored Procedures
 #### [Back to calendar](#nr-566)
-Event Date: 26-11-2016 - Session time: 16:30:00 - Track: DEV
+Event Date: 26-11-2016 - Session time: 12:15:00 - Track: DEV
 ## Speaker: Erland Sommarskog
 ## Title: Giving Permissions through Stored Procedures
 ## Abstract:
@@ -120,7 +120,7 @@ The session should be of interest both to DBAs and application developers that n
 #### SessionID: 50863
 # Elastic Database, going to the infinity *
 #### [Back to calendar](#nr-566)
-Event Date: 26-11-2016 - Session time: 16:30:00 - Track: DBA
+Event Date: 26-11-2016 - Session time: 14:00:00 - Track: DBA
 ## Speaker: Emanuele Zanchettin
 ## Title: Elastic Database, going to the infinity *
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 26-11-2016 - Session time: 16:30:00 - Track: DBA
 #### SessionID: 54030
 # T-SQL Error Handling - Perchè gestire gli errori è importante
 #### [Back to calendar](#nr-566)
-Event Date: 26-11-2016 - Session time: 16:30:00 - Track: DEV
+Event Date: 26-11-2016 - Session time: 14:00:00 - Track: DEV
 ## Speaker: Luca Ferrari
 ## Title: T-SQL Error Handling - Perchè gestire gli errori è importante
 ## Abstract:
@@ -140,7 +140,7 @@ Tutto quello che c'è da sapere per scrivere codice T-SQL, e non solo, robusto e
 #### SessionID: 54325
 # Continuous integration for BI
 #### [Back to calendar](#nr-566)
-Event Date: 26-11-2016 - Session time: 16:30:00 - Track: CLOUD/BI
+Event Date: 26-11-2016 - Session time: 14:00:00 - Track: CLOUD/BI
 ## Speaker: Bent Pedersen
 ## Title: Continuous integration for BI
 ## Abstract:
@@ -153,7 +153,7 @@ Testing will cover different aspects of SQL, SSAS and execution of SSIS packages
 #### SessionID: 50904
 # Power BI: basic data modelling with DAX
 #### [Back to calendar](#nr-566)
-Event Date: 26-11-2016 - Session time: 16:30:00 - Track: CLOUD/BI
+Event Date: 26-11-2016 - Session time: 15:15:00 - Track: CLOUD/BI
 ## Speaker: Marco Pozzan
 ## Title: Power BI: basic data modelling with DAX
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 26-11-2016 - Session time: 16:30:00 - Track: CLOUD/BI
 #### SessionID: 53632
 # SQL Server Infernals: Worst Practices in Action
 #### [Back to calendar](#nr-566)
-Event Date: 26-11-2016 - Session time: 16:30:00 - Track: DEV
+Event Date: 26-11-2016 - Session time: 15:15:00 - Track: DEV
 ## Speaker: Gianluca Sartori
 ## Title: SQL Server Infernals: Worst Practices in Action
 ## Abstract:
@@ -173,7 +173,7 @@ Have you ever thought that in dire times avoiding Worst Practices could be a goo
 #### SessionID: 53747
 # Configurare Always On Availability Group in Azure
 #### [Back to calendar](#nr-566)
-Event Date: 26-11-2016 - Session time: 16:30:00 - Track: DBA
+Event Date: 26-11-2016 - Session time: 15:15:00 - Track: DBA
 ## Speaker: Gilberto Zampatti
 ## Title: Configurare Always On Availability Group in Azure
 ## Abstract:

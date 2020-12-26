@@ -63,7 +63,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 39171
 # SQL Server Query Tuning  Optimization
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DEV (Animals)
+Event Date: 12-09-2015 - Session time: 09:00:00 - Track: DEV (Animals)
 ## Speaker: Benjamin Nevarez
 ## Title: SQL Server Query Tuning  Optimization
 ## Abstract:
@@ -79,7 +79,7 @@ Understand statistics and how to detect and fix cardinal
 #### SessionID: 39188
 # A Day with Columnstore Indexes
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI (Wish You Were Here)
+Event Date: 12-09-2015 - Session time: 09:00:00 - Track: BI (Wish You Were Here)
 ## Speaker: Niko Neugebauer
 ## Title: A Day with Columnstore Indexes
 ## Abstract:
@@ -95,7 +95,7 @@ Through the use of Dynamic Management Views, Extended Events and Traceflags we s
 #### SessionID: 39189
 # Automating business processes with SharePoint, Office 365 and Azu
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: SharePoint (Dark Side of the Moon)
+Event Date: 12-09-2015 - Session time: 09:00:00 - Track: SharePoint (Dark Side of the Moon)
 ## Speaker: Penelope Coventry
 ## Title: Automating business processes with SharePoint, Office 365 and Azu
 ## Abstract:
@@ -109,7 +109,7 @@ SharePoint topics that will be cover
 #### SessionID: 39025
 # Implementing Business Intelligence  SharePoint High Availability
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: SharePoint (Dark Side of the Moon)
+Event Date: 12-09-2015 - Session time: 09:00:00 - Track: SharePoint (Dark Side of the Moon)
 ## Speaker: Mark Broadbent
 ## Title: Implementing Business Intelligence  SharePoint High Availability
 ## Abstract:
@@ -123,7 +123,7 @@ For more detail about this session please visit http://sqlcambs.org.uk/precon6/
 #### SessionID: 39167
 # Building tomorrows ETL architecture with BIML and MDS today
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI (Wish You Were Here)
+Event Date: 12-09-2015 - Session time: 09:00:00 - Track: BI (Wish You Were Here)
 ## Speaker: Rasmus Reinholdt
 ## Title: Building tomorrows ETL architecture with BIML and MDS today
 ## Abstract:
@@ -140,7 +140,7 @@ Least interdependent structu
 #### SessionID: 39170
 # SQL Anti-Patterns
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DEV (Animals)
+Event Date: 12-09-2015 - Session time: 09:00:00 - Track: DEV (Animals)
 ## Speaker: Kennie Pontoppidan
 ## Title: SQL Anti-Patterns
 ## Abstract:
@@ -158,7 +158,7 @@ Examples of SQL Anti patterns that we will address dur
 #### SessionID: 40202
 # Microsoft – Building a Data Driven Strategy
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA (The Wall)
+Event Date: 12-09-2015 - Session time: 09:00:00 - Track: DBA (The Wall)
 ## Speaker: Microsoft and Guests
 ## Title: Microsoft – Building a Data Driven Strategy
 ## Abstract:
@@ -170,7 +170,7 @@ Four characteristics distinguish leaders in analytics—the use of more diverse 
 #### SessionID: 17292
 # Availability Group Maintenance Operations
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA (The Wall)
+Event Date: 12-09-2015 - Session time: 08:30:00 - Track: DBA (The Wall)
 ## Speaker: John Martin
 ## Title: Availability Group Maintenance Operations
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA (The Wall)
 #### SessionID: 26106
 # SSRS Inception: Reporting on Reporting services.
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI (Wish You Were Here)
+Event Date: 12-09-2015 - Session time: 08:30:00 - Track: BI (Wish You Were Here)
 ## Speaker: Terry McCann
 ## Title: SSRS Inception: Reporting on Reporting services.
 ## Abstract:
@@ -190,7 +190,7 @@ Wouldn't it be great if you could see who is viewing a report, in what format an
 #### SessionID: 35732
 # Ask the CEO - Infrastructure for your new business
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Other (A Momentary Lapse of Reason)
+Event Date: 12-09-2015 - Session time: 08:30:00 - Track: Other (A Momentary Lapse of Reason)
 ## Speaker: Kennie Pontoppidan
 ## Title: Ask the CEO - Infrastructure for your new business
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Other (A Momentary Laps
 #### SessionID: 37073
 # How to be a Cloud DBA
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud (Piper at the Gates of Dawn)
+Event Date: 12-09-2015 - Session time: 08:30:00 - Track: Cloud (Piper at the Gates of Dawn)
 ## Speaker: André Kamman
 ## Title: How to be a Cloud DBA
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud (Piper at the Gat
 #### SessionID: 37853
 # Testing T-SQL Code with tSQLt
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DEV (Animals)
+Event Date: 12-09-2015 - Session time: 08:30:00 - Track: DEV (Animals)
 ## Speaker: Frank Geisler
 ## Title: Testing T-SQL Code with tSQLt
 ## Abstract:
@@ -217,7 +217,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DEV (Animals)
 #### SessionID: 39974
 # Using SharePoint as a Service Delivery Platform
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: SharePoint (Dark Side of the Moon)
+Event Date: 12-09-2015 - Session time: 08:30:00 - Track: SharePoint (Dark Side of the Moon)
 ## Speaker: Ryan Yates
 ## Title: Using SharePoint as a Service Delivery Platform
 ## Abstract:
@@ -231,7 +231,7 @@ In this session we will utilise SharePoint's Out-Of-The-Box functionality and th
 #### SessionID: 39976
 # SharePoint Enterprise Platforms: Build  Run Lessons Learnt
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: SharePoint (Dark Side of the Moon)
+Event Date: 12-09-2015 - Session time: 08:30:00 - Track: SharePoint (Dark Side of the Moon)
 ## Speaker: Andy Talbot
 ## Title: SharePoint Enterprise Platforms: Build  Run Lessons Learnt
 ## Abstract:
@@ -242,7 +242,7 @@ In this session, Andy will address some of the common challenges that can take s
 #### SessionID: 10971
 # Securing your SQL Azure Database. How?
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud (Piper at the Gates of Dawn)
+Event Date: 12-09-2015 - Session time: 10:00:00 - Track: Cloud (Piper at the Gates of Dawn)
 ## Speaker: Boris Hristov
 ## Title: Securing your SQL Azure Database. How?
 ## Abstract:
@@ -251,7 +251,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud (Piper at the Gat
 #### SessionID: 11482
 # Common Analysis Services Multidimensional Design Mistakes And How To Avoid Them
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI (Wish You Were Here)
+Event Date: 12-09-2015 - Session time: 10:00:00 - Track: BI (Wish You Were Here)
 ## Speaker: Chris Webb
 ## Title: Common Analysis Services Multidimensional Design Mistakes And How To Avoid Them
 ## Abstract:
@@ -260,7 +260,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI (Wish You Were Here)
 #### SessionID: 13126
 # SQL Server Performance Tuning. Practical Guide.
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DEV (Animals)
+Event Date: 12-09-2015 - Session time: 10:00:00 - Track: DEV (Animals)
 ## Speaker: Denis Reznik
 ## Title: SQL Server Performance Tuning. Practical Guide.
 ## Abstract:
@@ -269,7 +269,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DEV (Animals)
 #### SessionID: 17141
 # Performance tuning a PowerPivot and Tabular model, notes from the field
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI (Wish You Were Here)
+Event Date: 12-09-2015 - Session time: 10:00:00 - Track: BI (Wish You Were Here)
 ## Speaker: Johan Ludvig Brattås
 ## Title: Performance tuning a PowerPivot and Tabular model, notes from the field
 ## Abstract:
@@ -283,7 +283,7 @@ Join me on a session of improving a malfunctioning PowerBI Excel sheet and pick 
 #### SessionID: 18616
 # Azure Big Data Solution – automation of deployment
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud (Piper at the Gates of Dawn)
+Event Date: 12-09-2015 - Session time: 10:00:00 - Track: Cloud (Piper at the Gates of Dawn)
 ## Speaker: Kenneth Nielsen
 ## Title: Azure Big Data Solution – automation of deployment
 ## Abstract:
@@ -302,7 +302,7 @@ Show how to make creation and deletion of AZURE elements automatically as part o
 #### SessionID: 21909
 # Understanding SharePoint reporting options for SQL Server
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: SharePoint (Dark Side of the Moon)
+Event Date: 12-09-2015 - Session time: 10:00:00 - Track: SharePoint (Dark Side of the Moon)
 ## Speaker: Peter Baddeley
 ## Title: Understanding SharePoint reporting options for SQL Server
 ## Abstract:
@@ -312,7 +312,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: SharePoint (Dark Side o
 #### SessionID: 27294
 # Efficient Index maintenance through DMVs
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA (The Wall)
+Event Date: 12-09-2015 - Session time: 10:00:00 - Track: DBA (The Wall)
 ## Speaker: Uwe Ricken
 ## Title: Efficient Index maintenance through DMVs
 ## Abstract:
@@ -322,7 +322,7 @@ We will take a deep look into the dmos for the new Column Stored Indexes too!
 #### SessionID: 36688
 # SharePoint Databases - What you need to know
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: SharePoint (Dark Side of the Moon)
+Event Date: 12-09-2015 - Session time: 10:00:00 - Track: SharePoint (Dark Side of the Moon)
 ## Speaker: Al Eardley
 ## Title: SharePoint Databases - What you need to know
 ## Abstract:
@@ -331,7 +331,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: SharePoint (Dark Side o
 #### SessionID: 13127
 # Hidden gems of SQL Server 2014
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA (The Wall)
+Event Date: 12-09-2015 - Session time: 11:15:00 - Track: DBA (The Wall)
 ## Speaker: Denis Reznik
 ## Title: Hidden gems of SQL Server 2014
 ## Abstract:
@@ -340,7 +340,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA (The Wall)
 #### SessionID: 17800
 # Introduction to MDX
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI (Wish You Were Here)
+Event Date: 12-09-2015 - Session time: 11:15:00 - Track: BI (Wish You Were Here)
 ## Speaker: Jens Vestergaard
 ## Title: Introduction to MDX
 ## Abstract:
@@ -354,7 +354,7 @@ Aspects covered in the session:
 #### SessionID: 27298
 # Building abstract layers for data protection and business logic
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DEV (Animals)
+Event Date: 12-09-2015 - Session time: 11:15:00 - Track: DEV (Animals)
 ## Speaker: Uwe Ricken
 ## Title: Building abstract layers for data protection and business logic
 ## Abstract:
@@ -365,7 +365,7 @@ This session demonstrates the protection of data by using schemata for data prot
 #### SessionID: 37013
 # AzureML: Welcome to the future of predictive analytics
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BA (The Division Bell)
+Event Date: 12-09-2015 - Session time: 11:15:00 - Track: BA (The Division Bell)
 ## Speaker: Ruben Pertusa Lopez
 ## Title: AzureML: Welcome to the future of predictive analytics
 ## Abstract:
@@ -375,7 +375,7 @@ Real machine learning solutions and some best practices when integrating ML on A
 #### SessionID: 37102
 # Continuous Integration and the Data Warehouse
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DEV (Animals)
+Event Date: 12-09-2015 - Session time: 11:15:00 - Track: DEV (Animals)
 ## Speaker: John Tunnicliffe
 ## Title: Continuous Integration and the Data Warehouse
 ## Abstract:
@@ -389,7 +389,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DEV (Animals)
 #### SessionID: 37905
 # Dealing With Errors in SSIS 2012 
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI (Wish You Were Here)
+Event Date: 12-09-2015 - Session time: 11:15:00 - Track: BI (Wish You Were Here)
 ## Speaker: David Dye
 ## Title: Dealing With Errors in SSIS 2012 
 ## Abstract:
@@ -405,7 +405,7 @@ You will learn:
 #### SessionID: 39971
 # Quick Start Guide to JavaScript Frameworks for SharePoint Apps
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: SharePoint (Dark Side of the Moon)
+Event Date: 12-09-2015 - Session time: 11:15:00 - Track: SharePoint (Dark Side of the Moon)
 ## Speaker: Sonja Madsen
 ## Title: Quick Start Guide to JavaScript Frameworks for SharePoint Apps
 ## Abstract:
@@ -415,7 +415,7 @@ Apps and the cloud app model have brought not only new ways to interact, send, w
 #### SessionID: 39831
 # Introducing Azure SQL Data Warehouse
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud (Piper at the Gates of Dawn)
+Event Date: 12-09-2015 - Session time: 12:20:00 - Track: Cloud (Piper at the Gates of Dawn)
 ## Speaker: James Rowland-Jones
 ## Title: Introducing Azure SQL Data Warehouse
 ## Abstract:
@@ -424,7 +424,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud (Piper at the Gat
 #### SessionID: 39832
 # Scale Out Data Warehouse QA with Big Bang Data Co
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI (Wish You Were Here)
+Event Date: 12-09-2015 - Session time: 12:55:00 - Track: BI (Wish You Were Here)
 ## Speaker: James Rowland-Jones
 ## Title: Scale Out Data Warehouse QA with Big Bang Data Co
 ## Abstract:
@@ -435,7 +435,7 @@ Please join us! Ask a question or just sit in, learn and share your experiences 
 #### SessionID: 13817
 # Efficient Indexing Strategies
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA (The Wall)
+Event Date: 12-09-2015 - Session time: 13:30:00 - Track: DBA (The Wall)
 ## Speaker: Enrico van de Laar
 ## Title: Efficient Indexing Strategies
 ## Abstract:
@@ -444,7 +444,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA (The Wall)
 #### SessionID: 22842
 # SharePoint as a Business Intelligence platform
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: SharePoint (Dark Side of the Moon)
+Event Date: 12-09-2015 - Session time: 13:30:00 - Track: SharePoint (Dark Side of the Moon)
 ## Speaker: Regis Baccaro
 ## Title: SharePoint as a Business Intelligence platform
 ## Abstract:
@@ -455,7 +455,7 @@ In this session we will walk through the configuration of a complete on-premises
 #### SessionID: 35733
 # How to build an IT operations expert
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Other (A Momentary Lapse of Reason)
+Event Date: 12-09-2015 - Session time: 13:30:00 - Track: Other (A Momentary Lapse of Reason)
 ## Speaker: Kennie Pontoppidan
 ## Title: How to build an IT operations expert
 ## Abstract:
@@ -471,7 +471,7 @@ Come and hear about my results and how to make your IT operations professionals 
 #### SessionID: 35862
 # Digging Into the .Net SqlClient
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DEV (Animals)
+Event Date: 12-09-2015 - Session time: 13:30:00 - Track: DEV (Animals)
 ## Speaker: Mladen Prajdić
 ## Title: Digging Into the .Net SqlClient
 ## Abstract:
@@ -480,7 +480,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DEV (Animals)
 #### SessionID: 37851
 # Datazen - An overview
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI (Wish You Were Here)
+Event Date: 12-09-2015 - Session time: 13:30:00 - Track: BI (Wish You Were Here)
 ## Speaker: Frank Geisler
 ## Title: Datazen - An overview
 ## Abstract:
@@ -489,7 +489,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI (Wish You Were Here)
 #### SessionID: 37907
 # Creating Dynamic Packages
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI (Wish You Were Here)
+Event Date: 12-09-2015 - Session time: 13:30:00 - Track: BI (Wish You Were Here)
 ## Speaker: David Dye
 ## Title: Creating Dynamic Packages
 ## Abstract:
@@ -508,7 +508,7 @@ Each attendee will leave with the knowledge and toolset necessary to:
 #### SessionID: 39975
 # Re-engineering the SharePoint Migration
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: SharePoint (Dark Side of the Moon)
+Event Date: 12-09-2015 - Session time: 13:30:00 - Track: SharePoint (Dark Side of the Moon)
 ## Speaker: Corey Burke
 ## Title: Re-engineering the SharePoint Migration
 ## Abstract:
@@ -517,7 +517,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: SharePoint (Dark Side o
 #### SessionID: 40583
 # No stress with OSTRESS, Lessons Learned from a high traffic Replay attempt
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA (The Wall)
+Event Date: 12-09-2015 - Session time: 13:30:00 - Track: DBA (The Wall)
 ## Speaker: André Kamman
 ## Title: No stress with OSTRESS, Lessons Learned from a high traffic Replay attempt
 ## Abstract:
@@ -529,7 +529,7 @@ If you are thinking about using OSTRESS / RML Utilities to analyse your system a
 #### SessionID: 9345
 # Azure Data Factory - The New SSIS?
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BA (The Division Bell)
+Event Date: 12-09-2015 - Session time: 13:30:00 - Track: BA (The Division Bell)
 ## Speaker: Allan Mitchell
 ## Title: Azure Data Factory - The New SSIS?
 ## Abstract:
@@ -538,7 +538,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BA (The Division Bell)
 #### SessionID: 15411
 # Understanding  Solving Columnstore Problems
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DBA (The Wall)
+Event Date: 12-09-2015 - Session time: 14:45:00 - Track: DBA (The Wall)
 ## Speaker: Niko Neugebauer
 ## Title: Understanding  Solving Columnstore Problems
 ## Abstract:
@@ -555,7 +555,7 @@ The answers on those questions are to be revealed at this session.
 #### SessionID: 17288
 # Building your first Microsoft Azure IaaS infrastructure
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud (Piper at the Gates of Dawn)
+Event Date: 12-09-2015 - Session time: 14:45:00 - Track: Cloud (Piper at the Gates of Dawn)
 ## Speaker: John Martin
 ## Title: Building your first Microsoft Azure IaaS infrastructure
 ## Abstract:
@@ -564,7 +564,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: Cloud (Piper at the Gat
 #### SessionID: 17799
 # Scaling out Analysis Services
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI (Wish You Were Here)
+Event Date: 12-09-2015 - Session time: 14:45:00 - Track: BI (Wish You Were Here)
 ## Speaker: Jens Vestergaard
 ## Title: Scaling out Analysis Services
 ## Abstract:
@@ -577,7 +577,7 @@ How to accommodate for:
 #### SessionID: 23536
 # Taking your application to memory
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: DEV (Animals)
+Event Date: 12-09-2015 - Session time: 14:45:00 - Track: DEV (Animals)
 ## Speaker: Rasmus Reinholdt
 ## Title: Taking your application to memory
 ## Abstract:
@@ -588,7 +588,7 @@ You will therefore be taken through the concept of in-memory tables and what to 
 #### SessionID: 27001
 # Benefits of analytics using Microsoft Azure Machine Learning 
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BA (The Division Bell)
+Event Date: 12-09-2015 - Session time: 14:45:00 - Track: BA (The Division Bell)
 ## Speaker: Tomaž Kaštrun
 ## Title: Benefits of analytics using Microsoft Azure Machine Learning 
 ## Abstract:
@@ -599,7 +599,7 @@ This session will be focused on benefits of building a predictive model using Az
 #### SessionID: 36720
 # Extending SharePoint solutions: Without spending money
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: SharePoint (Dark Side of the Moon)
+Event Date: 12-09-2015 - Session time: 14:45:00 - Track: SharePoint (Dark Side of the Moon)
 ## Speaker: Penelope Coventry
 ## Title: Extending SharePoint solutions: Without spending money
 ## Abstract:
@@ -608,7 +608,7 @@ Event Date: 12-09-2015 - Session time: 16:00:00 - Track: SharePoint (Dark Side o
 #### SessionID: 37014
 # A journey through the Modern Data Warehouse
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: BI (Wish You Were Here)
+Event Date: 12-09-2015 - Session time: 14:45:00 - Track: BI (Wish You Were Here)
 ## Speaker: Ruben Pertusa Lopez
 ## Title: A journey through the Modern Data Warehouse
 ## Abstract:
@@ -619,7 +619,7 @@ Join this session and learn how to enable the Modern Data Warehouse in your orga
 #### SessionID: 39980
 # Office 365 - The Art of the Possible
 #### [Back to calendar](#nr-411)
-Event Date: 12-09-2015 - Session time: 16:00:00 - Track: SharePoint (Dark Side of the Moon)
+Event Date: 12-09-2015 - Session time: 14:45:00 - Track: SharePoint (Dark Side of the Moon)
 ## Speaker: Al Eardley
 ## Title: Office 365 - The Art of the Possible
 ## Abstract:

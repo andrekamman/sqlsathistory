@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 82515
 # Daily indexing problems and its - possible - solution
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 08-09-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Uwe Ricken
 ## Title: Daily indexing problems and its - possible - solution
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 82689
 # Master Data Services From Start To Finish
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 08-09-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Jeanne Combrinck
 ## Title: Master Data Services From Start To Finish
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 84325
 # Get your head start on IoT with Azure IoT Hub and stream Analytics to Power Bi
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 08-09-2018 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Arohan Naidoo
 ## Title: Get your head start on IoT with Azure IoT Hub and stream Analytics to Power Bi
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 08-09-2018 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 84986
 # Getting started with PowerBI
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 08-09-2018 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Michael Johnson
 ## Title: Getting started with PowerBI
 ## Abstract:
@@ -75,7 +75,7 @@ In this session, you will see how easily great looking reports can be created us
 #### SessionID: 82520
 # DevOps 101 for Data People
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 08-09-2018 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Alex Yates
 ## Title: DevOps 101 for Data People
 ## Abstract:
@@ -90,7 +90,7 @@ In this interactive talk I'll explain what DevOps is, where it came from, and it
 #### SessionID: 82549
 # SQL Server Reporting Services 2017 on Steroids!!
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 08-09-2018 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services 2017 on Steroids!!
 ## Abstract:
@@ -101,7 +101,7 @@ We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as
 #### SessionID: 82905
 # Wading into Stream Analytics
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 08-09-2018 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Andrew Collier
 ## Title: Wading into Stream Analytics
 ## Abstract:
@@ -128,7 +128,7 @@ To illustrate these concepts we'll build a real time sentiment analysis system f
 #### SessionID: 84933
 # An introduction to Azure SQLDatawarehouse
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 08-09-2018 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Gail Shaw
 ## Title: An introduction to Azure SQLDatawarehouse
 ## Abstract:
@@ -139,7 +139,7 @@ In this session, I’ll take you through the architecture of Azure SQL Datawareh
 #### SessionID: 84975
 # Azure Machine Learning
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 08-09-2018 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Niels Berglund
 ## Title: Azure Machine Learning
 ## Abstract:
@@ -148,7 +148,7 @@ Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Cloud Application Devel
 #### SessionID: 82738
 # Getting Started with Azure IoT Edge
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 08-09-2018 - Session time: 13:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Allan Pead
 ## Title: Getting Started with Azure IoT Edge
 ## Abstract:
@@ -159,7 +159,7 @@ Use the same programming models you use in the cloud to create and test your IoT
 #### SessionID: 82959
 # SQL Server Temporal Tables
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 08-09-2018 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Sean Cremer
 ## Title: SQL Server Temporal Tables
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 84918
 # Power BI data preparation with Dataflows
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 08-09-2018 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: Michael Johnson
 ## Title: Power BI data preparation with Dataflows
 ## Abstract:
@@ -182,7 +182,7 @@ You will learn
 #### SessionID: 84978
 # The Ins and Outs of sp_execute_external_script
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 08-09-2018 - Session time: 13:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Niels Berglund
 ## Title: The Ins and Outs of sp_execute_external_script
 ## Abstract:
@@ -191,7 +191,7 @@ Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 85100
 # Deadlocks: What they are and how to resolve them
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 08-09-2018 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Jodi Craig
 ## Title: Deadlocks: What they are and how to resolve them
 ## Abstract:
@@ -202,7 +202,7 @@ So when your DBA tells you that you need to fix a deadlock: what is it and how s
 #### SessionID: 82521
 # DevOps, Dev Data and Data Breaches: 5 Solutions
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 08-09-2018 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Alex Yates
 ## Title: DevOps, Dev Data and Data Breaches: 5 Solutions
 ## Abstract:
@@ -221,7 +221,7 @@ After this session you’ll be equipped to discuss the problem with your colleag
 #### SessionID: 83435
 # Working with complicated data models in DAX
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 08-09-2018 - Session time: 14:00:00 - Track: BI Information Delivery
 ## Speaker: James McGillivray
 ## Title: Working with complicated data models in DAX
 ## Abstract:
@@ -234,7 +234,7 @@ From role-playing dimensions and bi-directional filters to advanced filter conte
 #### SessionID: 84934
 # Graphs in SQL Server and Cosmos DB
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 08-09-2018 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Gail Shaw
 ## Title: Graphs in SQL Server and Cosmos DB
 ## Abstract:
@@ -245,7 +245,7 @@ In this session, I’ll take you through the design process for graph tables, an
 #### SessionID: 84972
 # Machine Learning with R in Power BI
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 08-09-2018 - Session time: 14:00:00 - Track: Analytics and Visualization
 ## Speaker: Luis de Sousa
 ## Title: Machine Learning with R in Power BI
 ## Abstract:
@@ -259,7 +259,7 @@ We'll cover:
 #### SessionID: 85041
 # Top tips on cracking a new database (and impressing your new employer)
 #### [Back to calendar](#nr-793)
-Event Date: 08-09-2018 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 08-09-2018 - Session time: 14:00:00 - Track: Professional Development
 ## Speaker: Warren Rocchi
 ## Title: Top tips on cracking a new database (and impressing your new employer)
 ## Abstract:

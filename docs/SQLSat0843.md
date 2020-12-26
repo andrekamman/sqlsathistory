@@ -19,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 88294
 # An introduction to Data Mining  with SQL Server 2017
 #### [Back to calendar](#nr-843)
-Event Date: 12-04-2019 - Session time: 14:45:00 - Track: BI  Infonuagique
+Event Date: 12-04-2019 - Session time: 08:45:00 - Track: BI  Infonuagique
 ## Speaker: Steve Simon
 ## Title: An introduction to Data Mining  with SQL Server 2017
 ## Abstract:
@@ -40,7 +40,7 @@ In this hands on BEGINNERS presentation we shall be looking at Microsoft SQL Ser
 #### SessionID: 89228
 # Migration de base données (fin de support 2008r2)
 #### [Back to calendar](#nr-843)
-Event Date: 12-04-2019 - Session time: 14:45:00 - Track: Développement
+Event Date: 12-04-2019 - Session time: 08:45:00 - Track: Développement
 ## Speaker: Manuel Pineda
 ## Title: Migration de base données (fin de support 2008r2)
 ## Abstract:
@@ -51,7 +51,7 @@ How do you design and implement a safe and successful migration from an older ve
 #### SessionID: 88296
 # Efficient and Effective coding of Stored Procedures
 #### [Back to calendar](#nr-843)
-Event Date: 12-04-2019 - Session time: 14:45:00 - Track: Développement
+Event Date: 12-04-2019 - Session time: 10:15:00 - Track: Développement
 ## Speaker: Steve Simon
 ## Title: Efficient and Effective coding of Stored Procedures
 ## Abstract:
@@ -61,7 +61,7 @@ In this hands-on presentation, we shall be looking at best practices with regard
 #### SessionID: 88338
 # DevOps 101 for DBAs and Database Developers
 #### [Back to calendar](#nr-843)
-Event Date: 12-04-2019 - Session time: 14:45:00 - Track: Développement
+Event Date: 12-04-2019 - Session time: 10:15:00 - Track: Développement
 ## Speaker: Clay Jackson
 ## Title: DevOps 101 for DBAs and Database Developers
 ## Abstract:
@@ -70,7 +70,7 @@ Event Date: 12-04-2019 - Session time: 14:45:00 - Track: Développement
 #### SessionID: 88340
 # Using Database Replication to Make Your Oracle Data Available in SQLServer
 #### [Back to calendar](#nr-843)
-Event Date: 12-04-2019 - Session time: 14:45:00 - Track: BI  Infonuagique
+Event Date: 12-04-2019 - Session time: 10:15:00 - Track: BI  Infonuagique
 ## Speaker: Clay Jackson
 ## Title: Using Database Replication to Make Your Oracle Data Available in SQLServer
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 12-04-2019 - Session time: 14:45:00 - Track: BI  Infonuagique
 #### SessionID: 91366
 # Azure Database, Azure Machine or Azure Managed Instance? Why, whe
 #### [Back to calendar](#nr-843)
-Event Date: 12-04-2019 - Session time: 14:45:00 - Track: BI  Infonuagique
+Event Date: 12-04-2019 - Session time: 10:15:00 - Track: BI  Infonuagique
 ## Speaker: Michelle Gutzait
 ## Title: Azure Database, Azure Machine or Azure Managed Instance? Why, whe
 ## Abstract:
@@ -88,7 +88,7 @@ Event Date: 12-04-2019 - Session time: 14:45:00 - Track: BI  Infonuagique
 #### SessionID: 89040
 # Azure Cosmos DB
 #### [Back to calendar](#nr-843)
-Event Date: 12-04-2019 - Session time: 14:45:00 - Track: BI  Infonuagique
+Event Date: 12-04-2019 - Session time: 11:30:00 - Track: BI  Infonuagique
 ## Speaker: Franck Mercier
 ## Title: Azure Cosmos DB
 ## Abstract:
@@ -97,7 +97,7 @@ Event Date: 12-04-2019 - Session time: 14:45:00 - Track: BI  Infonuagique
 #### SessionID: 91365
 # Running Microsoft Database Migration Assistant (DMA) on many inst
 #### [Back to calendar](#nr-843)
-Event Date: 12-04-2019 - Session time: 14:45:00 - Track: Développement
+Event Date: 12-04-2019 - Session time: 11:30:00 - Track: Développement
 ## Speaker: Michelle Gutzait
 ## Title: Running Microsoft Database Migration Assistant (DMA) on many inst
 ## Abstract:
@@ -107,7 +107,7 @@ In this session, I will teach you how to run the tool as a scheduled task using 
 #### SessionID: 88905
 # Staging data for Azure SQL services
 #### [Back to calendar](#nr-843)
-Event Date: 12-04-2019 - Session time: 14:45:00 - Track: Développement
+Event Date: 12-04-2019 - Session time: 13:30:00 - Track: Développement
 ## Speaker: John Miner
 ## Title: Staging data for Azure SQL services
 ## Abstract:
@@ -131,7 +131,7 @@ Today, we will learn how to stage data using Azure blob storage which can be ing
 #### SessionID: 89039
 # Déployer une solution complète et sécurisée d’analyses de données dans Azur
 #### [Back to calendar](#nr-843)
-Event Date: 12-04-2019 - Session time: 14:45:00 - Track: BI  Infonuagique
+Event Date: 12-04-2019 - Session time: 13:30:00 - Track: BI  Infonuagique
 ## Speaker: Franck Mercier
 ## Title: Déployer une solution complète et sécurisée d’analyses de données dans Azur
 ## Abstract:

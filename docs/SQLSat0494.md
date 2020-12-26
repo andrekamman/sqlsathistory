@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 41945
 # Best Practices – Jeder kann sie haben, die perfekte SQL Server Installation
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Administration
+Event Date: 01-04-2016 - Session time: 11:00:00 - Track: Administration
 ## Speaker: Andre Essing
 ## Title: Best Practices – Jeder kann sie haben, die perfekte SQL Server Installation
 ## Abstract:
@@ -41,7 +41,7 @@ Von den BIOS Einstellungen, #252;ber die Windows Settings bis hin zum SQL Server
 #### SessionID: 43114
 # Microsoft Azure Machine Learning Algorithms
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Business Intelligence
+Event Date: 01-04-2016 - Session time: 11:00:00 - Track: Business Intelligence
 ## Speaker: Tomaž Kaštrun
 ## Title: Microsoft Azure Machine Learning Algorithms
 ## Abstract:
@@ -51,7 +51,7 @@ Within this session we will explore, which algorithm is used and useful for what
 #### SessionID: 45687
 # Lightning Talks
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Lightning Talks
+Event Date: 01-04-2016 - Session time: 11:00:00 - Track: Lightning Talks
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Lightning Talks
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Lightning Talks
 #### SessionID: 48574
 # Microsoft Azure Overview
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Cloud  Big Data
+Event Date: 01-04-2016 - Session time: 11:00:00 - Track: Cloud  Big Data
 ## Speaker: Oliver Lintner
 ## Title: Microsoft Azure Overview
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Cloud  Big Data
 #### SessionID: 49305
 # Hacking Into SQL Server for Fun and Profit
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Administration
+Event Date: 01-04-2016 - Session time: 11:00:00 - Track: Administration
 ## Speaker: Argenis Fernandez
 ## Title: Hacking Into SQL Server for Fun and Profit
 ## Abstract:
@@ -78,7 +78,7 @@ Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Administration
 #### SessionID: 41953
 # Ye Olde Cluster Curiosity Shoppe - A miscellany of SQL Clustering top tips
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Administration
+Event Date: 01-04-2016 - Session time: 13:00:00 - Track: Administration
 ## Speaker: Mark Broadbent
 ## Title: Ye Olde Cluster Curiosity Shoppe - A miscellany of SQL Clustering top tips
 ## Abstract:
@@ -89,7 +89,7 @@ Roll-up roll-up! Come and see: The Shrunken Head; The Bearded Lady; Many Headed 
 #### SessionID: 42580
 # Performance: Es ist nicht immer die Datenbank schuld!
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Development
+Event Date: 01-04-2016 - Session time: 13:00:00 - Track: Development
 ## Speaker: Sonja Chevre
 ## Title: Performance: Es ist nicht immer die Datenbank schuld!
 ## Abstract:
@@ -103,7 +103,7 @@ Based on real life examples, you will learn how to approach performance problems
 #### SessionID: 44142
 # R, Rattle und SQL Server 2016
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Cloud  Big Data
+Event Date: 01-04-2016 - Session time: 13:00:00 - Track: Cloud  Big Data
 ## Speaker: Mario Schnalzenberger
 ## Title: R, Rattle und SQL Server 2016
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Cloud  Big Data
 #### SessionID: 44240
 # Biml for Beginners: Speed up your SSIS development
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Business Intelligence
+Event Date: 01-04-2016 - Session time: 13:00:00 - Track: Business Intelligence
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Biml for Beginners: Speed up your SSIS development
 ## Abstract:
@@ -125,7 +125,7 @@ Speed up your SSIS development by using Biml and BimlScript, and see how you can
 #### SessionID: 48575
 # Getting started with Microsoft Azure Data Services
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Cloud  Big Data
+Event Date: 01-04-2016 - Session time: 13:00:00 - Track: Cloud  Big Data
 ## Speaker: Oliver Lintner
 ## Title: Getting started with Microsoft Azure Data Services
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Cloud  Big Data
 #### SessionID: 41915
 # Top 10 SSAS Solution Design Best Practices
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Business Intelligence
+Event Date: 01-04-2016 - Session time: 14:15:00 - Track: Business Intelligence
 ## Speaker: Zoltán Horváth
 ## Title: Top 10 SSAS Solution Design Best Practices
 ## Abstract:
@@ -145,7 +145,7 @@ I've collected a number of best practices during the years I've spent on buildin
 #### SessionID: 41918
 # Neuigkeiten zu Reporting Services 2016
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Business Intelligence
+Event Date: 01-04-2016 - Session time: 14:15:00 - Track: Business Intelligence
 ## Speaker: Frank Geisler
 ## Title: Neuigkeiten zu Reporting Services 2016
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Business Intelligence
 #### SessionID: 41928
 # Load Testing With SQL Server Tools
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Administration
+Event Date: 01-04-2016 - Session time: 14:15:00 - Track: Administration
 ## Speaker: Neil Hambly
 ## Title: Load Testing With SQL Server Tools
 ## Abstract:
@@ -165,7 +165,7 @@ Come learn about the native tools at our disposal for performing these important
 #### SessionID: 42968
 # Azure SQL Database vs. Azure SQL Data Warehouse
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Cloud  Big Data
+Event Date: 01-04-2016 - Session time: 14:15:00 - Track: Cloud  Big Data
 ## Speaker: Marcel Franke
 ## Title: Azure SQL Database vs. Azure SQL Data Warehouse
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Cloud  Big Data
 #### SessionID: 48576
 # Instructor-Led Lab: Azure SQL DB in Action
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Cloud  Big Data
+Event Date: 01-04-2016 - Session time: 14:15:00 - Track: Cloud  Big Data
 ## Speaker: Oliver Lintner
 ## Title: Instructor-Led Lab: Azure SQL DB in Action
 ## Abstract:
@@ -183,7 +183,7 @@ Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Cloud  Big Data
 #### SessionID: 42074
 # What a boozy day at the Guinness factory teaches us about Analytics
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Business Intelligence
+Event Date: 01-04-2016 - Session time: 15:30:00 - Track: Business Intelligence
 ## Speaker: Jen Stirrup
 ## Title: What a boozy day at the Guinness factory teaches us about Analytics
 ## Abstract:
@@ -196,7 +196,7 @@ In this session, we will look at modeling techniques in Predictive Analytics usi
 #### SessionID: 42620
 # Indexes, beyond the basics
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Development
+Event Date: 01-04-2016 - Session time: 15:30:00 - Track: Development
 ## Speaker: Hugo Kornelis
 ## Title: Indexes, beyond the basics
 ## Abstract:
@@ -205,7 +205,7 @@ Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Development
 #### SessionID: 44385
 # Der faule DBA | 7 Schritte zu einer automatisierten Datenbankumgebung
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Administration
+Event Date: 01-04-2016 - Session time: 15:30:00 - Track: Administration
 ## Speaker: Markus Wagner
 ## Title: Der faule DBA | 7 Schritte zu einer automatisierten Datenbankumgebung
 ## Abstract:
@@ -216,7 +216,7 @@ Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Administration
 #### SessionID: 44458
 # From Personal BI to Managed BI with Power BI
 #### [Back to calendar](#nr-494)
-Event Date: 01-04-2016 - Session time: 16:45:00 - Track: Business Intelligence
+Event Date: 01-04-2016 - Session time: 15:30:00 - Track: Business Intelligence
 ## Speaker: Jean-Pierre Riehl
 ## Title: From Personal BI to Managed BI with Power BI
 ## Abstract:

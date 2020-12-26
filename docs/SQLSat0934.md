@@ -24,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 98986
 # Infrastructure As Code + SQL Server
 #### [Back to calendar](#nr-934)
-Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-11-2019 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: William Lino Oliveira
 ## Title: Infrastructure As Code + SQL Server
 ## Abstract:
@@ -33,7 +33,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 99002
 # Problemas Mais Comuns Em Uma Query
 #### [Back to calendar](#nr-934)
-Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 23-11-2019 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Marcio Junior
 ## Title: Problemas Mais Comuns Em Uma Query
 ## Abstract:
@@ -42,7 +42,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 99089
 # O que virá após a Transformação Digital? Vem ai a Transformação Analítica
 #### [Back to calendar](#nr-934)
-Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 23-11-2019 - Session time: 10:00:00 - Track: Professional Development
 ## Speaker: Luiz Coelho
 ## Title: O que virá após a Transformação Digital? Vem ai a Transformação Analítica
 ## Abstract:
@@ -52,7 +52,7 @@ Entenda nesta talk quais são os novos instrumentos da transformação digital q
 #### SessionID: 98985
 # Desenvolvimento e Administração em SQL Server com Python
 #### [Back to calendar](#nr-934)
-Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 23-11-2019 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: William Lino Oliveira
 ## Title: Desenvolvimento e Administração em SQL Server com Python
 ## Abstract:
@@ -61,7 +61,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 98998
 # Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade
 #### [Back to calendar](#nr-934)
-Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-11-2019 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Roberto Santos
 ## Title: Segurança de dados, análise de desempenho e metodologia para planejamento de capacidade
 ## Abstract:
@@ -76,7 +76,7 @@ Esta disciplina se faz muito relevante tanto no ambiente on-premise quanto em nu
 #### SessionID: 99036
 # AZURE DATA EXPLORER - ADX  101
 #### [Back to calendar](#nr-934)
-Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 23-11-2019 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Wagner Crivelini
 ## Title: AZURE DATA EXPLORER - ADX  101
 ## Abstract:
@@ -85,7 +85,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 99043
 # SQL 2019 Intelligent Query Processing - New features
 #### [Back to calendar](#nr-934)
-Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 23-11-2019 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Guilherme Torres
 ## Title: SQL 2019 Intelligent Query Processing - New features
 ## Abstract:
@@ -94,7 +94,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 99169
 # Hyper Scale - Perks and Pitfalls
 #### [Back to calendar](#nr-934)
-Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-11-2019 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kézia Letícia Carvalho
 ## Title: Hyper Scale - Perks and Pitfalls
 ## Abstract:
@@ -104,7 +104,7 @@ In this session, we'll go through the architecture of Hyper Scale and explain, b
 #### SessionID: 99049
 # Infraestrutura de TI para DBAs - O que devo conhecer para não ser enganado?
 #### [Back to calendar](#nr-934)
-Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 23-11-2019 - Session time: 13:10:00 - Track: Strategy and Architecture
 ## Speaker: Wiluey Sousa
 ## Title: Infraestrutura de TI para DBAs - O que devo conhecer para não ser enganado?
 ## Abstract:
@@ -123,7 +123,7 @@ Fechamos com uma DEMO de Contadores de Performance (Perf Counters) para INFRA.
 #### SessionID: 99152
 # Data, o que?
 #### [Back to calendar](#nr-934)
-Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 23-11-2019 - Session time: 13:10:00 - Track: Analytics and Visualization
 ## Speaker: Fernanda ALVES
 ## Title: Data, o que?
 ## Abstract:
@@ -132,7 +132,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 99170
 # Always Encrypted: A Forensic Analysis
 #### [Back to calendar](#nr-934)
-Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 23-11-2019 - Session time: 13:10:00 - Track: Application  Database Development
 ## Speaker: Gustavo Moura Fé
 ## Title: Always Encrypted: A Forensic Analysis
 ## Abstract:
@@ -145,7 +145,7 @@ Prerequisites: Understanding how SQL Server stores data and manages the buffer p
 #### SessionID: 99033
 # Big Data, NoSQL e Analytics com MongoDB, Power BI e SQL Big Data Clusters - Parte 1
 #### [Back to calendar](#nr-934)
-Event Date: 23-11-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-11-2019 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leandro Domingues
 ## Title: Big Data, NoSQL e Analytics com MongoDB, Power BI e SQL Big Data Clusters - Parte 1
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 99087
 # Event Hub + Stream Analytics Jobs + Power BI = Visualizando dados em tempo real
 #### [Back to calendar](#nr-934)
-Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 23-11-2019 - Session time: 14:00:00 - Track: Analytics and Visualization
 ## Speaker: Reginaldo Silva
 ## Title: Event Hub + Stream Analytics Jobs + Power BI = Visualizando dados em tempo real
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 99117
 # Governança de dados: Primeiros Passos
 #### [Back to calendar](#nr-934)
-Event Date: 23-11-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 23-11-2019 - Session time: 14:00:00 - Track: Analytics and Visualization
 ## Speaker: Mariane Borges
 ## Title: Governança de dados: Primeiros Passos
 ## Abstract:

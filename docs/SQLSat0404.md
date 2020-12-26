@@ -12,7 +12,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 14210
 # Working Effectively With Legacy SQL
 #### [Back to calendar](#nr-404)
-Event Date: 13-06-2015 - Session time: 14:10:00 - Track: Other
+Event Date: 13-06-2015 - Session time: 08:30:00 - Track: Other
 ## Speaker: Kevin Feasel
 ## Title: Working Effectively With Legacy SQL
 ## Abstract:
@@ -21,7 +21,7 @@ Event Date: 13-06-2015 - Session time: 14:10:00 - Track: Other
 #### SessionID: 23617
 # Divide and Conquer - Creating and Managing Partitioned Tables and
 #### [Back to calendar](#nr-404)
-Event Date: 13-06-2015 - Session time: 14:10:00 - Track: Other
+Event Date: 13-06-2015 - Session time: 09:40:00 - Track: Other
 ## Speaker: Russ Allen
 ## Title: Divide and Conquer - Creating and Managing Partitioned Tables and
 ## Abstract:
@@ -39,7 +39,7 @@ The presentation will include a live demonstration of partitioning using fact ta
 #### SessionID: 36460
 # Overcoming Chartaphobia  Moving Toward Enlightening Data Viz
 #### [Back to calendar](#nr-404)
-Event Date: 13-06-2015 - Session time: 14:10:00 - Track: Track 1
+Event Date: 13-06-2015 - Session time: 10:50:00 - Track: Track 1
 ## Speaker: Meagan Longoria
 ## Title: Overcoming Chartaphobia  Moving Toward Enlightening Data Viz
 ## Abstract:
@@ -48,7 +48,7 @@ Event Date: 13-06-2015 - Session time: 14:10:00 - Track: Track 1
 #### SessionID: 28344
 # Version control with GIT for the DBA
 #### [Back to calendar](#nr-404)
-Event Date: 13-06-2015 - Session time: 14:10:00 - Track: Other
+Event Date: 13-06-2015 - Session time: 13:00:00 - Track: Other
 ## Speaker: Justin Dearing
 ## Title: Version control with GIT for the DBA
 ## Abstract:

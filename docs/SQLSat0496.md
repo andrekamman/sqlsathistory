@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 42145
 # Adding another Dimension type to SQL Server 2016
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 12-03-2016 - Session time: 08:00:00 - Track: BI Information Delivery
 ## Speaker: Mike Boswell
 ## Title: Adding another Dimension type to SQL Server 2016
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 12-03-2016 - Session time: 16:30:00 - Track: BI Information Delivery
 #### SessionID: 43045
 # Office 365 - The Art of the Possible
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Strategy and Architecture
+Event Date: 12-03-2016 - Session time: 08:00:00 - Track: Strategy and Architecture
 ## Speaker: Al Eardley
 ## Title: Office 365 - The Art of the Possible
 ## Abstract:
@@ -57,7 +57,7 @@ This session will explain some of the ways that Office 365 is being used and dem
 #### SessionID: 44935
 # Creating Mobile Dashboards with DataZen
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 12-03-2016 - Session time: 08:00:00 - Track: Analytics and Visualization
 ## Speaker: Bob Duffy
 ## Title: Creating Mobile Dashboards with DataZen
 ## Abstract:
@@ -69,7 +69,7 @@ We will be showing an end to end demo of creating and publishing dashboards for 
 #### SessionID: 45887
 # Keynote
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 12-03-2016 - Session time: 09:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Annette Allen
 ## Title: Keynote
 ## Abstract:
@@ -78,7 +78,7 @@ Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 42188
 # Estimation and Statistics : The Basis of query optimization
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-03-2016 - Session time: 09:10:00 - Track: Application  Database Development
 ## Speaker: Dave Ballantyne
 ## Title: Estimation and Statistics : The Basis of query optimization
 ## Abstract:
@@ -89,7 +89,7 @@ This will be a deep dive into how the optimizer makes its decisions to give you 
 #### SessionID: 42934
 # Introduction to U-SQL
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-03-2016 - Session time: 09:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alex Whittles
 ## Title: Introduction to U-SQL
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 12-03-2016 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 44160
 # Think  work like a Data Scientist with SQL 2016 R.
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 12-03-2016 - Session time: 09:10:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Think  work like a Data Scientist with SQL 2016 R.
 ## Abstract:
@@ -111,7 +111,7 @@ In this session, you will definitely take away a breakthrough concept of Advance
 #### SessionID: 44976
 # Re-architecting your old-school database to maximize Azure cloud options
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 12-03-2016 - Session time: 09:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: André Kamman
 ## Title: Re-architecting your old-school database to maximize Azure cloud options
 ## Abstract:
@@ -127,7 +127,7 @@ This excercise is about an OLTP system but we will also look at how it affects l
 #### SessionID: 45019
 # Stats 101
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 12-03-2016 - Session time: 10:30:00 - Track: Analytics and Visualization
 ## Speaker: Stephanie Locke
 ## Title: Stats 101
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 45853
 # SQL Server 2016, New Features and Enhancements - DBA Features
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 12-03-2016 - Session time: 10:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: John Martin
 ## Title: SQL Server 2016, New Features and Enhancements - DBA Features
 ## Abstract:
@@ -152,7 +152,7 @@ In part 1 we will look at the new DBA features which include:
 #### SessionID: 46996
 # Still running SQL 2005? Thinking about upgrading to SQL 2014?
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 12-03-2016 - Session time: 10:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Niall MacLeod
 ## Title: Still running SQL 2005? Thinking about upgrading to SQL 2014?
 ## Abstract:
@@ -173,7 +173,7 @@ This presentation discusses the process undertaken to achieve a certification, w
 #### SessionID: 48312
 # Lightning Talks
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 12-03-2016 - Session time: 10:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Annette Allen
 ## Title: Lightning Talks
 ## Abstract:
@@ -182,7 +182,7 @@ Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 42724
 # A first look at the Azure Data Lake Analytics service
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 12-03-2016 - Session time: 11:30:00 - Track: Analytics and Visualization
 ## Speaker: Allan Mitchell
 ## Title: A first look at the Azure Data Lake Analytics service
 ## Abstract:
@@ -195,7 +195,7 @@ Come to this session to see why people are talking about this new offering from 
 #### SessionID: 45033
 # Investigate TempDB like Sherlock Holmes
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-03-2016 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lord Richard Douglas
 ## Title: Investigate TempDB like Sherlock Holmes
 ## Abstract:
@@ -204,7 +204,7 @@ Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 45854
 # SQL Server 2016, New Features and Enhancements - Dev Focus
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 12-03-2016 - Session time: 11:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: John Martin
 ## Title: SQL Server 2016, New Features and Enhancements - Dev Focus
 ## Abstract:
@@ -219,7 +219,7 @@ In part 2 we will focus on dev features:
 #### SessionID: 46001
 # The new world of enterprise Business Intelligence
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-03-2016 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andrew Fryer
 ## Title: The new world of enterprise Business Intelligence
 ## Abstract:
@@ -228,7 +228,7 @@ Event Date: 12-03-2016 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 47416
 # The first step towards release management for SQL Server
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Information Delivery
+Event Date: 12-03-2016 - Session time: 13:10:00 - Track: Information Delivery
 ## Speaker: Alex Yates
 ## Title: The first step towards release management for SQL Server
 ## Abstract:
@@ -241,7 +241,7 @@ At last year’s SQL Saturday Alex showed you how to set up a working automated 
 #### SessionID: 48101
 # One BI Platform to Rule Them All! 
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 12-03-2016 - Session time: 13:10:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ian Macdonald
 ## Title: One BI Platform to Rule Them All! 
 ## Abstract:
@@ -250,7 +250,7 @@ Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 48228
 # Necto - Smart Data Discovery
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 12-03-2016 - Session time: 13:10:00 - Track: Analytics and Visualization
 ## Speaker: Santiago Castro
 ## Title: Necto - Smart Data Discovery
 ## Abstract:
@@ -264,7 +264,7 @@ Necto provides your users within one unique platform all the tools to focus, col
 #### SessionID: 42112
 # Using Power BI with my DBA Database
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-03-2016 - Session time: 14:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Sewell
 ## Title: Using Power BI with my DBA Database
 ## Abstract:
@@ -273,7 +273,7 @@ Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 42412
 # You don't need Enterprise Edition to do that!
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-03-2016 - Session time: 14:10:00 - Track: Application  Database Development
 ## Speaker: William Durkin
 ## Title: You don't need Enterprise Edition to do that!
 ## Abstract:
@@ -282,7 +282,7 @@ Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 44144
 # From SSMS to SSDT why and how to move your SQL database development to SSDT
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-03-2016 - Session time: 14:10:00 - Track: Application  Database Development
 ## Speaker: Ed Elliott
 ## Title: From SSMS to SSDT why and how to move your SQL database development to SSDT
 ## Abstract:
@@ -299,7 +299,7 @@ If you write, debug or modify SQL Server database code and haven't yet started u
 #### SessionID: 42864
 # Responding to Extended Events in near real-time
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-03-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Gianluca Sartori
 ## Title: Responding to Extended Events in near real-time
 ## Abstract:
@@ -310,7 +310,7 @@ In this session we will see how the Extended Events streaming API can be used to
 #### SessionID: 43108
 # Dive into SSISDB Catalog using Power BI
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 12-03-2016 - Session time: 15:30:00 - Track: BI Information Delivery
 ## Speaker: Prathy Kamasani
 ## Title: Dive into SSISDB Catalog using Power BI
 ## Abstract:
@@ -322,7 +322,7 @@ However, have you ever wondered how to design an SSIS Project so we can take max
 #### SessionID: 44988
 # Social Engineering: Hacking People
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 12-03-2016 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Mladen Prajdić
 ## Title: Social Engineering: Hacking People
 ## Abstract:
@@ -336,7 +336,7 @@ in this session we're going to try to fix that and educate you on how to realize
 #### SessionID: 45849
 # Why and how to Implement PowerShell DSC for SQL Server - Part 1
 #### [Back to calendar](#nr-496)
-Event Date: 12-03-2016 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 12-03-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ryan Yates
 ## Title: Why and how to Implement PowerShell DSC for SQL Server - Part 1
 ## Abstract:

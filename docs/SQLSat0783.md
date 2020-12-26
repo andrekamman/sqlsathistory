@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 84786
 # Business Intelligence DevOps
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-06-2019 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: César Oviedo
 ## Title: Business Intelligence DevOps
 ## Abstract:
@@ -45,7 +45,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architectur
 #### SessionID: 84787
 # Business Intelligence - De la teoría a los Hechos
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-06-2019 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: César Oviedo
 ## Title: Business Intelligence - De la teoría a los Hechos
 ## Abstract:
@@ -54,7 +54,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architectur
 #### SessionID: 85326
 # Azure Log Analytics
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
+Event Date: 15-06-2019 - Session time: 09:30:00 - Track: Analytics and Visualization
 ## Speaker: Keneth Murillo
 ## Title: Azure Log Analytics
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #### SessionID: 86516
 # Bases de datos de Plataforma como Servicio en la nube Azure
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
+Event Date: 15-06-2019 - Session time: 09:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kenneth Urena
 ## Title: Bases de datos de Plataforma como Servicio en la nube Azure
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Cloud Application Devel
 #### SessionID: 94523
 # Delivering a Data Warehouse in the Cloud
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-06-2019 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ahias Portillo
 ## Title: Delivering a Data Warehouse in the Cloud
 ## Abstract:
@@ -89,7 +89,7 @@ Loading data from a variety of sources, querying using PolyBase, securing and re
 #### SessionID: 95188
 # Ciencia de datos: Creando modelos de clasificación con clases desbalanceadas
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Advanced Analysis Techniques
+Event Date: 15-06-2019 - Session time: 09:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ahias Portillo
 ## Title: Ciencia de datos: Creando modelos de clasificación con clases desbalanceadas
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Advanced Analysis Techn
 #### SessionID: 86365
 # ¿Comó Iniciar con R  VS + SQL?
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 15-06-2019 - Session time: 10:20:00 - Track: Professional Development
 ## Speaker: Ricardo Estrada
 ## Title: ¿Comó Iniciar con R  VS + SQL?
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Professional Developmen
 #### SessionID: 94820
 # Business Intelligence to Business Analytics w SQL Server + Tableau + Alteryx on Azure
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
+Event Date: 15-06-2019 - Session time: 10:20:00 - Track: Analytics and Visualization
 ## Speaker: Rafael Garita Molina
 ## Title: Business Intelligence to Business Analytics w SQL Server + Tableau + Alteryx on Azure
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #### SessionID: 94922
 # Introduccón a Equipos de Datos: Roles y Responsabilidades Tecnológicas
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 15-06-2019 - Session time: 10:20:00 - Track: Professional Development
 ## Speaker: Daniel Montero
 ## Title: Introduccón a Equipos de Datos: Roles y Responsabilidades Tecnológicas
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Professional Developmen
 #### SessionID: 84176
 # Analisis en tiempo real con Power BI
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
+Event Date: 15-06-2019 - Session time: 11:10:00 - Track: Analytics and Visualization
 ## Speaker: Vladimir Guzman
 ## Title: Analisis en tiempo real con Power BI
 ## Abstract:
@@ -137,7 +137,7 @@ En esta sesión se mostrara como:
 #### SessionID: 87738
 # Using Intelligent Insights and SQL Analytics to monitor databases in the cloud
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
+Event Date: 15-06-2019 - Session time: 11:10:00 - Track: Analytics and Visualization
 ## Speaker: Julio Calderón
 ## Title: Using Intelligent Insights and SQL Analytics to monitor databases in the cloud
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #### SessionID: 94531
 # Técnicas en patrones de búsquedas (SSIS), Quien gana la carrera?
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-06-2019 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jorge García
 ## Title: Técnicas en patrones de búsquedas (SSIS), Quien gana la carrera?
 ## Abstract:
@@ -155,7 +155,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architectur
 #### SessionID: 94966
 # How to integrate  BI  Six Sigma using digital tools for Business Projects?
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
+Event Date: 15-06-2019 - Session time: 11:10:00 - Track: Analytics and Visualization
 ## Speaker: Bryan Medrano Ruiz
 ## Title: How to integrate  BI  Six Sigma using digital tools for Business Projects?
 ## Abstract:
@@ -166,7 +166,7 @@ En esta sesión te presentaremos las distintas herramientas digitales (entre ell
 #### SessionID: 85341
 # SQL Server 2017 - Graph Databases con Power BI
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
+Event Date: 15-06-2019 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: SQL Server 2017 - Graph Databases con Power BI
 ## Abstract:
@@ -177,7 +177,7 @@ Evoluciones, como trabajarlo correctamente, interacción con Power BI, entre otr
 #### SessionID: 94525
 # Descubriendo el corazón de la optimización “Estadísticas más que un concepto”
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 15-06-2019 - Session time: 13:00:00 - Track: Professional Development
 ## Speaker: Ahias Portillo
 ## Title: Descubriendo el corazón de la optimización “Estadísticas más que un concepto”
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Professional Developmen
 #### SessionID: 94910
 # Optimización SQL: conociendo la infraestructura de herramientas integradas
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-06-2019 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leda Araya
 ## Title: Optimización SQL: conociendo la infraestructura de herramientas integradas
 ## Abstract:
@@ -195,7 +195,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architectur
 #### SessionID: 95189
 # Ciencia de datos: Un análisis estadístico de la satisfacción laboral con R
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Advanced Analysis Techniques
+Event Date: 15-06-2019 - Session time: 13:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ahias Portillo
 ## Title: Ciencia de datos: Un análisis estadístico de la satisfacción laboral con R
 ## Abstract:
@@ -204,7 +204,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Advanced Analysis Techn
 #### SessionID: 83274
 # Cognitive Computing con Microsoft
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Cloud Application Development  Deployment
+Event Date: 15-06-2019 - Session time: 13:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Eduardo Castro
 ## Title: Cognitive Computing con Microsoft
 ## Abstract:
@@ -213,7 +213,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Cloud Application Devel
 #### SessionID: 85339
 # La nueva era Azure Data Factory v2
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-06-2019 - Session time: 13:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: La nueva era Azure Data Factory v2
 ## Abstract:
@@ -228,7 +228,7 @@ En esta charla pretendemos compartir las usabilidad de este servicio y orientarl
 #### SessionID: 94634
 # La evolución de la inteligencia de negocios
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-06-2019 - Session time: 13:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: La evolución de la inteligencia de negocios
 ## Abstract:
@@ -237,7 +237,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architectur
 #### SessionID: 83275
 # Data Analytics con Python en SQL Server 2017
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
+Event Date: 15-06-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: Data Analytics con Python en SQL Server 2017
 ## Abstract:
@@ -246,7 +246,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #### SessionID: 84179
 # Power BI Report Server - OnPremise
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
+Event Date: 15-06-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Vladimir Guzman
 ## Title: Power BI Report Server - OnPremise
 ## Abstract:
@@ -259,7 +259,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #### SessionID: 85325
 # Monitorear Aplicaciones Móviles con App Center
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
+Event Date: 15-06-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Keneth Murillo
 ## Title: Monitorear Aplicaciones Móviles con App Center
 ## Abstract:
@@ -268,7 +268,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualiza
 #### SessionID: 86514
 # SQL 2017 - Diseñando mi datawarehouse "Disaster recovery ready"
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-06-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kenneth Urena
 ## Title: SQL 2017 - Diseñando mi datawarehouse "Disaster recovery ready"
 ## Abstract:
@@ -277,7 +277,7 @@ Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architectur
 #### SessionID: 94633
 # La liga de las dimensiones extraordinarias
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 15-06-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: La liga de las dimensiones extraordinarias
 ## Abstract:
@@ -287,7 +287,7 @@ Revisaremos dimensiones copo de nieve, dimensiones degeneradas, dimensiones chat
 #### SessionID: 94960
 # Analisis Visual de datos Avanzado
 #### [Back to calendar](#nr-783)
-Event Date: 15-06-2019 - Session time: 15:50:00 - Track: Analytics and Visualization
+Event Date: 15-06-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Rafael Garita Molina
 ## Title: Analisis Visual de datos Avanzado
 ## Abstract:

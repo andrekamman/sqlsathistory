@@ -43,7 +43,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 70440
 # Power BI Report Server
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Information Delivery
+Event Date: 03-02-2018 - Session time: 09:00:00 - Track: Information Delivery
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Power BI Report Server
 ## Abstract:
@@ -53,7 +53,7 @@ Esta charla cubre temas como la instalación, creación de reportes, publicarlos
 #### SessionID: 70508
 # Introducción a Reporting Services 2017
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 03-02-2018 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Yanitza Campos
 ## Title: Introducción a Reporting Services 2017
 ## Abstract:
@@ -63,7 +63,7 @@ En esta sesión exploraremos sus nuevas características; así como sus ventajas
 #### SessionID: 70509
 # SQL Server on Linux
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 03-02-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Carlos A. Ulate Hernandez
 ## Title: SQL Server on Linux
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 71409
 # Working with Mobile Databases
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 03-02-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Keneth Murillo
 ## Title: Working with Mobile Databases
 ## Abstract:
@@ -81,7 +81,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 72401
 # Dr Rudo SQL presenta: Administra SQL Server 2017
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-02-2018 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Dr Rudo SQL presenta: Administra SQL Server 2017
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 72951
 # Machine Learning para principiantes
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
+Event Date: 03-02-2018 - Session time: 09:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Victor Hugo Cardenas
 ## Title: Machine Learning para principiantes
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #### SessionID: 69571
 # Integracion y Entrega Continua con Docker para SQL Server
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 03-02-2018 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christian Melendez
 ## Title: Integracion y Entrega Continua con Docker para SQL Server
 ## Abstract:
@@ -110,7 +110,7 @@ En esta presentación veremos cómo los contenedores Docker para SQL Server nos 
 #### SessionID: 69573
 # Data Analytics con Python en SQL Server 2017
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 03-02-2018 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: Data Analytics con Python en SQL Server 2017
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 69834
 # SQL Server Health check
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-02-2018 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Carlos Robles
 ## Title: SQL Server Health check
 ## Abstract:
@@ -134,7 +134,7 @@ What tools we can use to perform a SQL Server health check?
 #### SessionID: 71309
 # Introducción a SQL Graph Databases
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 03-02-2018 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Ricardo Estrada
 ## Title: Introducción a SQL Graph Databases
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 72571
 # Una luz dentro del mundo oculto de las estadísticas de SQL Server
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 03-02-2018 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Javier Loria
 ## Title: Una luz dentro del mundo oculto de las estadísticas de SQL Server
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 73739
 # Mas rápido y Mas Furioso: Windowing Functions  Columnstore Indexes
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 03-02-2018 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Ahias Portillo
 ## Title: Mas rápido y Mas Furioso: Windowing Functions  Columnstore Indexes
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 68954
 # Como resolver problemas de rendimiento con SQL Server 2016
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-02-2018 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adrian Miranda
 ## Title: Como resolver problemas de rendimiento con SQL Server 2016
 ## Abstract:
@@ -170,7 +170,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 69640
 # Implementing Row Level security
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-02-2018 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christian Araujo
 ## Title: Implementing Row Level security
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 69967
 # Mejores practicas para instalación de motores SQL Server
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Strategy and Architecture
+Event Date: 03-02-2018 - Session time: 11:00:00 - Track: Strategy and Architecture
 ## Speaker: José Villalta
 ## Title: Mejores practicas para instalación de motores SQL Server
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Strategy and Architectu
 #### SessionID: 72378
 # Tips and tricks de Power BI
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Information Delivery
+Event Date: 03-02-2018 - Session time: 11:00:00 - Track: BI Information Delivery
 ## Speaker: Juan Alvarado
 ## Title: Tips and tricks de Power BI
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Information Delivery
 #### SessionID: 72574
 # Trucos de T-SQL que deberias estar usando en tu Datawarehouse
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-02-2018 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Javier Loria
 ## Title: Trucos de T-SQL que deberias estar usando en tu Datawarehouse
 ## Abstract:
@@ -207,7 +207,7 @@ Más específicamente cubriremos temas variados que incluyen desde configuració
 #### SessionID: 72987
 # Advanced Performance Diagnostics in SQL Server
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-02-2018 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alexander Ortiz
 ## Title: Advanced Performance Diagnostics in SQL Server
 ## Abstract:
@@ -226,7 +226,7 @@ service levels.
 #### SessionID: 69177
 # SQL Server 2016 - Mejorando el desempeño de consultas de análisis sobre sistemas de misión crítica
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-02-2018 - Session time: 12:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2016 - Mejorando el desempeño de consultas de análisis sobre sistemas de misión crítica
 ## Abstract:
@@ -235,7 +235,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Platform Architectur
 #### SessionID: 69483
 # SQL Server 2017 Automatic Tuning
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-02-2018 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alejandro Cordero
 ## Title: SQL Server 2017 Automatic Tuning
 ## Abstract:
@@ -244,7 +244,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 69577
 # Introducción a Data Analysis Expressions (DAX)
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Information Delivery
+Event Date: 03-02-2018 - Session time: 12:00:00 - Track: BI Information Delivery
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Introducción a Data Analysis Expressions (DAX)
 ## Abstract:
@@ -263,7 +263,7 @@ Tablas relacionadas
 #### SessionID: 69920
 # New times, new business, new generations.  Training new (and old) members of your team.
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Professional Development
+Event Date: 03-02-2018 - Session time: 12:00:00 - Track: Professional Development
 ## Speaker: Esdras Salazar
 ## Title: New times, new business, new generations.  Training new (and old) members of your team.
 ## Abstract:
@@ -272,7 +272,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Professional Developmen
 #### SessionID: 70452
 # Necesitamos BI, ¡utilicemos la nube! (Azure SQL Database - Azure Analysis Services - Power BI)
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Information Delivery
+Event Date: 03-02-2018 - Session time: 12:00:00 - Track: BI Information Delivery
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: Necesitamos BI, ¡utilicemos la nube! (Azure SQL Database - Azure Analysis Services - Power BI)
 ## Abstract:
@@ -282,7 +282,7 @@ En este espacio aprovecharemos las bondades de una solución 100% nube, creando 
 #### SessionID: 70596
 # La historia debe contarse como es......SQL Temporal Tables
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 03-02-2018 - Session time: 12:00:00 - Track: Application  Database Development
 ## Speaker: Vladimir Guzman
 ## Title: La historia debe contarse como es......SQL Temporal Tables
 ## Abstract:
@@ -293,7 +293,7 @@ Veremos las formas de crear Temporal Tables así como su acceso, consulta y actu
 #### SessionID: 72402
 # Como hacer un  PowerBI DBA Dashboard
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 03-02-2018 - Session time: 12:00:00 - Track: Analytics and Visualization
 ## Speaker: Jesus Gil
 ## Title: Como hacer un  PowerBI DBA Dashboard
 ## Abstract:
@@ -302,7 +302,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 68953
 # Troubleshooting SQL Server
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-02-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adrian Miranda
 ## Title: Troubleshooting SQL Server
 ## Abstract:
@@ -311,7 +311,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 69175
 # SQL 2016 - Diseñando mi datawarehouse "Disaster recovery ready"
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-02-2018 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kenneth Urena
 ## Title: SQL 2016 - Diseñando mi datawarehouse "Disaster recovery ready"
 ## Abstract:
@@ -320,7 +320,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: BI Platform Architectur
 #### SessionID: 69835
 # Advance SQL Server troubleshooting with DMVs
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
+Event Date: 03-02-2018 - Session time: 14:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Carlos Robles
 ## Title: Advance SQL Server troubleshooting with DMVs
 ## Abstract:
@@ -331,7 +331,7 @@ In this session we will show how to use and the most important to understand the
 #### SessionID: 69971
 # Monitoreando el performance del motor SQL con el Performance Dashboard Reports de Microsoft.
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Strategy and Architecture
+Event Date: 03-02-2018 - Session time: 14:15:00 - Track: Strategy and Architecture
 ## Speaker: José Villalta
 ## Title: Monitoreando el performance del motor SQL con el Performance Dashboard Reports de Microsoft.
 ## Abstract:
@@ -340,7 +340,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Strategy and Architectu
 #### SessionID: 70542
 # La era de los Reportes Móviles
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 03-02-2018 - Session time: 14:15:00 - Track: Analytics and Visualization
 ## Speaker: Yanitza Campos
 ## Title: La era de los Reportes Móviles
 ## Abstract:
@@ -349,7 +349,7 @@ Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 70594
 # Big Bang SQL Server 2017
 #### [Back to calendar](#nr-695)
-Event Date: 03-02-2018 - Session time: 15:15:00 - Track: Other
+Event Date: 03-02-2018 - Session time: 14:15:00 - Track: Other
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: Big Bang SQL Server 2017
 ## Abstract:

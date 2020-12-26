@@ -41,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 96851
 # Power BI In a day Hands-On
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: BI Information Delivery
+Event Date: 14-12-2019 - Session time: 08:00:00 - Track: BI Information Delivery
 ## Speaker: Ravi Kumar
 ## Title: Power BI In a day Hands-On
 ## Abstract:
@@ -75,7 +75,7 @@ Pre-requisite: Power BI Installed
 #### SessionID: 98537
 # Total Server Performance Tuning
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Analytics and Visualization
+Event Date: 14-12-2019 - Session time: 08:00:00 - Track: Analytics and Visualization
 ## Speaker: Erik Darling
 ## Title: Total Server Performance Tuning
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Analytics and Visualiza
 #### SessionID: 99005
 # Azure Data Factory Deep Dive
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-12-2019 - Session time: 08:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Azure Data Factory Deep Dive
 ## Abstract:
@@ -94,7 +94,7 @@ We will start with a conceptual overview, and then explore using metadata to bui
 #### SessionID: 96606
 # "Schadenfreude" - Let's enjoy the mistakes other people made...
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Other
+Event Date: 14-12-2019 - Session time: 08:20:00 - Track: Other
 ## Speaker: Thomas Grohser
 ## Title: "Schadenfreude" - Let's enjoy the mistakes other people made...
 ## Abstract:
@@ -105,7 +105,7 @@ After a log day, come in and have some fun before the evening event starts
 #### SessionID: 96610
 # Networking 101: Getting Ready for a SQL Event
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 14-12-2019 - Session time: 08:20:00 - Track: Professional Development
 ## Speaker: Matt Cushing
 ## Title: Networking 101: Getting Ready for a SQL Event
 ## Abstract:
@@ -116,7 +116,7 @@ In this session, we'll go over steps you can take before, during and after the e
 #### SessionID: 97949
 # Data Virtualization with PolyBase
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 14-12-2019 - Session time: 08:20:00 - Track: Application  Database Development
 ## Speaker: Kevin Feasel
 ## Title: Data Virtualization with PolyBase
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 98234
 # Moving to SQL 2019- A primer for the unaware!
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-12-2019 - Session time: 08:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paresh Motiwala
 ## Title: Moving to SQL 2019- A primer for the unaware!
 ## Abstract:
@@ -143,7 +143,7 @@ Time permitting we will demo these.
 #### SessionID: 99356
 # Profiling Your Data
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 14-12-2019 - Session time: 08:20:00 - Track: Application  Database Development
 ## Speaker: Angela Henry
 ## Title: Profiling Your Data
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 99520
 # Azure SQL Managed Instance - Technical Overview, Deployment, Best Practices and Monitoring
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Cloud Application Development  Deployment
+Event Date: 14-12-2019 - Session time: 08:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kavitha Saravanan
 ## Title: Azure SQL Managed Instance - Technical Overview, Deployment, Best Practices and Monitoring
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Cloud Application Devel
 #### SessionID: 96630
 # Big Data Clusters for the Absolute Beginner
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-12-2019 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohammad Darab
 ## Title: Big Data Clusters for the Absolute Beginner
 ## Abstract:
@@ -177,7 +177,7 @@ Topics include:
 #### SessionID: 98484
 # Common TSQL Mistakes
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 14-12-2019 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 99004
 # Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-12-2019 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jason Horner
 ## Title: Real-World Data Movement and Orchestration Patterns using Azure Data Factory V2
 ## Abstract:
@@ -196,7 +196,7 @@ Whether you are just getting started with Azure Data Factory or looking to make 
 #### SessionID: 99133
 # When to use Indexing Pro Features
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-12-2019 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Mallon
 ## Title: When to use Indexing Pro Features
 ## Abstract:
@@ -209,7 +209,7 @@ We won't only talk about what these options are, we'll also cover how and when t
 #### SessionID: 99213
 # Docker for the SQL Server Developer
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 14-12-2019 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Leonard Lobel
 ## Title: Docker for the SQL Server Developer
 ## Abstract:
@@ -218,7 +218,7 @@ Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 99694
 # Recognizing Tempdb Performance Bottlenecks
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-12-2019 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kat Edrington
 ## Title: Recognizing Tempdb Performance Bottlenecks
 ## Abstract:
@@ -227,7 +227,7 @@ Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 96871
 # How UCF IT uses Power BI to monitor our IT Services
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: BI Information Delivery
+Event Date: 14-12-2019 - Session time: 11:10:00 - Track: BI Information Delivery
 ## Speaker: Priscilla Camp
 ## Title: How UCF IT uses Power BI to monitor our IT Services
 ## Abstract:
@@ -236,7 +236,7 @@ Event Date: 14-12-2019 - Session time: 15:05:00 - Track: BI Information Delivery
 #### SessionID: 98132
 # SQL Server on your fingertips
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-12-2019 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Slava Murygin
 ## Title: SQL Server on your fingertips
 ## Abstract:
@@ -247,7 +247,7 @@ In the second hour I'll show you how to set the best SQL queries developed by th
 #### SessionID: 98798
 # PowerApps and AI: A Flow of Location Events
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-12-2019 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeremy Frye
 ## Title: PowerApps and AI: A Flow of Location Events
 ## Abstract:
@@ -258,7 +258,7 @@ In this session, we will create an application using PowerApps and location serv
 #### SessionID: 98924
 # A Beginner's Guide to Seven Practices that Kill Performance
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 14-12-2019 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: A Beginner's Guide to Seven Practices that Kill Performance
 ## Abstract:
@@ -271,7 +271,7 @@ When you leave, you'll be armed with knowledge and tools to tackle your current 
 #### SessionID: 99546
 # Introduction to M (a.k.a Power Query)
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: BI Information Delivery
+Event Date: 14-12-2019 - Session time: 11:10:00 - Track: BI Information Delivery
 ## Speaker: Eugene Meidinger
 ## Title: Introduction to M (a.k.a Power Query)
 ## Abstract:
@@ -282,7 +282,7 @@ In this session, we'll demonstrate how M is a linear series of transformations, 
 #### SessionID: 99696
 # Streamline Database Deployments
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 14-12-2019 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Elizabeth Noble
 ## Title: Streamline Database Deployments
 ## Abstract:
@@ -297,7 +297,7 @@ Attendees should be familiar with general concepts about source control and be c
 #### SessionID: 100185
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 14-12-2019 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
 ## Abstract:
@@ -306,7 +306,7 @@ Event Date: 14-12-2019 - Session time: 15:05:00 - Track: BI Platform Architectur
 #### SessionID: 96611
 # Case Study: How I used SharePoint, Flow, PowerApps, and Forms to build a Speaker Database
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 14-12-2019 - Session time: 13:40:00 - Track: Application  Database Development
 ## Speaker: Sarah Patrick
 ## Title: Case Study: How I used SharePoint, Flow, PowerApps, and Forms to build a Speaker Database
 ## Abstract:
@@ -315,7 +315,7 @@ Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 96708
 # Building your Microsoft Business Intelligence (MSBI) Career
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 14-12-2019 - Session time: 13:40:00 - Track: Professional Development
 ## Speaker: Ganesh Lohani
 ## Title: Building your Microsoft Business Intelligence (MSBI) Career
 ## Abstract:
@@ -324,7 +324,7 @@ Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Professional Developmen
 #### SessionID: 98545
 # Integrating On-Premises Data with Azure-based Applications
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Cloud Application Development  Deployment
+Event Date: 14-12-2019 - Session time: 13:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jamie Wick
 ## Title: Integrating On-Premises Data with Azure-based Applications
 ## Abstract:
@@ -335,7 +335,7 @@ In this session, we will look at using an Azure On-Premises Data Gateway to inte
 #### SessionID: 98582
 # Query Plans For Visual Learners
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 14-12-2019 - Session time: 13:40:00 - Track: Application  Database Development
 ## Speaker: Forrest McDaniel
 ## Title: Query Plans For Visual Learners
 ## Abstract:
@@ -344,7 +344,7 @@ Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 99300
 # 10 Steps Towards Global Data Compliance
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Strategy and Architecture
+Event Date: 14-12-2019 - Session time: 13:40:00 - Track: Strategy and Architecture
 ## Speaker: Grant Fritchey
 ## Title: 10 Steps Towards Global Data Compliance
 ## Abstract:
@@ -355,7 +355,7 @@ However, it is possible to define a core set of processes that will help to enab
 #### SessionID: 99589
 # Performance Troubleshooting for the Accidental DBA
 #### [Back to calendar](#nr-923)
-Event Date: 14-12-2019 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 14-12-2019 - Session time: 13:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sebastian Meine
 ## Title: Performance Troubleshooting for the Accidental DBA
 ## Abstract:

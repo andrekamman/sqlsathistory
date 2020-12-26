@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 49301
 # T-SQL: Tips and Tricks
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 25-06-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Nigel Sammy
 ## Title: T-SQL: Tips and Tricks
 ## Abstract:
@@ -39,7 +39,7 @@ This session will share insight on how basic query structure and logic works so 
 #### SessionID: 49949
 # Preparing Data with Power BI: Scripts, Tips  Tricks
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Information Delivery
+Event Date: 25-06-2016 - Session time: 09:45:00 - Track: BI Information Delivery
 ## Speaker: Rafael Salas
 ## Title: Preparing Data with Power BI: Scripts, Tips  Tricks
 ## Abstract:
@@ -50,7 +50,7 @@ This session is loaded with practical examples that will help you getting a bett
 #### SessionID: 50099
 # SQL Server 2016 - Stretch Databases
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-06-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2016 - Stretch Databases
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #### SessionID: 50116
 # SQL Server 2016 un vistazo a todo lo nuevo!
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 25-06-2016 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eduardo Castro
 ## Title: SQL Server 2016 un vistazo a todo lo nuevo!
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Platform Architectur
 #### SessionID: 49597
 # UFC #1433 In-Memory tables 2014 vs. 2016
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 25-06-2016 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: Alejandro Cordero
 ## Title: UFC #1433 In-Memory tables 2014 vs. 2016
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 49966
 # Copy Data Management and Virtualization
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-06-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paresh Motiwala
 ## Title: Copy Data Management and Virtualization
 ## Abstract:
@@ -93,7 +93,7 @@ We will examine what technologies/products are available that help us mitigate s
 #### SessionID: 50155
 # Accurate and Faster DBA: Start Creating Your Own DBA Toolbox Using Scripts
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-06-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jorge Sanchez
 ## Title: Accurate and Faster DBA: Start Creating Your Own DBA Toolbox Using Scripts
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #### SessionID: 50526
 # How I got my Scorecard - Measuring to Succeed (from MSFT Humacao, PR)
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Analytics and Visualization
+Event Date: 25-06-2016 - Session time: 11:15:00 - Track: Analytics and Visualization
 ## Speaker: Wilson Diaz
 ## Title: How I got my Scorecard - Measuring to Succeed (from MSFT Humacao, PR)
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Analytics and Visualiza
 #### SessionID: 52604
 # Unlock Productivity and Freedom with Windows Containers
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Strategy and Architecture
+Event Date: 25-06-2016 - Session time: 11:15:00 - Track: Strategy and Architecture
 ## Speaker: Juan Ortiz
 ## Title: Unlock Productivity and Freedom with Windows Containers
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Strategy and Architectu
 #### SessionID: 52265
 # Real-time Operational Analytic with SQL Server 2016
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 25-06-2016 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose L. Rivera
 ## Title: Real-time Operational Analytic with SQL Server 2016
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Platform Architectur
 #### SessionID: 52547
 # Xamarin.Forms – The rising hero!
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Application  Database Development
+Event Date: 25-06-2016 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Juan Martí
 ## Title: Xamarin.Forms – The rising hero!
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Application  Database D
 #### SessionID: 52548
 # SQL Server 2016 Hybrid Scenarios
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Strategy and Architecture
+Event Date: 25-06-2016 - Session time: 13:45:00 - Track: Strategy and Architecture
 ## Speaker: Ramon Ponte
 ## Title: SQL Server 2016 Hybrid Scenarios
 ## Abstract:
@@ -150,7 +150,7 @@ As a result, it is now much easier to move databases to the cloud. Learn about t
 #### SessionID: 52590
 # Building a Modern Reporting Solution with SQL Server 2016
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Information Delivery
+Event Date: 25-06-2016 - Session time: 13:45:00 - Track: BI Information Delivery
 ## Speaker: Guillermo Caicedo Santiago
 ## Title: Building a Modern Reporting Solution with SQL Server 2016
 ## Abstract:
@@ -159,7 +159,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Information Delivery
 #### SessionID: 50130
 # Power BI Data Visualization Tips and Tricks
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Analytics and Visualization
+Event Date: 25-06-2016 - Session time: 15:15:00 - Track: Analytics and Visualization
 ## Speaker: Adolfo Socorro
 ## Title: Power BI Data Visualization Tips and Tricks
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Analytics and Visualiza
 #### SessionID: 52251
 # Everything you want to know about SQL Server 2016 Analysis Services
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 25-06-2016 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alan Koo
 ## Title: Everything you want to know about SQL Server 2016 Analysis Services
 ## Abstract:
@@ -177,7 +177,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: BI Platform Architectur
 #### SessionID: 52252
 # Windows 2016 + SQL: Better Together
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-06-2016 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Isaias Martinez
 ## Title: Windows 2016 + SQL: Better Together
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Enterprise Database Adm
 #### SessionID: 52264
 # Advance Analytics with SQL Server R Services
 #### [Back to calendar](#nr-537)
-Event Date: 25-06-2016 - Session time: 16:45:00 - Track: Advanced Analysis Techniques
+Event Date: 25-06-2016 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jose L. Rivera
 ## Title: Advance Analytics with SQL Server R Services
 ## Abstract:

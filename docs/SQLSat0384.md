@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 20325
 # Keynote 
 #### [Back to calendar](#nr-384)
-Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
+Event Date: 30-05-2015 - Session time: 09:00:00 - Track: A
 ## Speaker: Mihail Mateev
 ## Title: Keynote 
 ## Abstract:
@@ -36,7 +36,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 #### SessionID: 10612
 # Building Great Business Intelligence Semantic Models for Power View
 #### [Back to calendar](#nr-384)
-Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
+Event Date: 30-05-2015 - Session time: 10:15:00 - Track: C
 ## Speaker: Boriana Petrova
 ## Title: Building Great Business Intelligence Semantic Models for Power View
 ## Abstract:
@@ -45,7 +45,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
 #### SessionID: 13799
 # Memory-Optimized tables - Querying at the speed of light
 #### [Back to calendar](#nr-384)
-Event Date: 30-05-2015 - Session time: 17:15:00 - Track: B
+Event Date: 30-05-2015 - Session time: 10:15:00 - Track: B
 ## Speaker: Enrico van de Laar
 ## Title: Memory-Optimized tables - Querying at the speed of light
 ## Abstract:
@@ -56,7 +56,7 @@ Transforming your disk-based tables to Memory-Optimized tables takes careful pla
 #### SessionID: 31541
 # Find and tune those queries!
 #### [Back to calendar](#nr-384)
-Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
+Event Date: 30-05-2015 - Session time: 10:15:00 - Track: A
 ## Speaker: Margarita Naumova
 ## Title: Find and tune those queries!
 ## Abstract:
@@ -65,7 +65,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 #### SessionID: 13545
 # SQL Server  Power BI Geographic and Temporal Predictions
 #### [Back to calendar](#nr-384)
-Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
+Event Date: 30-05-2015 - Session time: 11:30:00 - Track: A
 ## Speaker: Dejan Sarka
 ## Title: SQL Server  Power BI Geographic and Temporal Predictions
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 #### SessionID: 17856
 # Managing 999 MS SQL Servers
 #### [Back to calendar](#nr-384)
-Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
+Event Date: 30-05-2015 - Session time: 11:30:00 - Track: C
 ## Speaker: Kaloyan Kosev
 ## Title: Managing 999 MS SQL Servers
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
 #### SessionID: 36305
 # SQL Server as a Data Warehousing platform
 #### [Back to calendar](#nr-384)
-Event Date: 30-05-2015 - Session time: 17:15:00 - Track: B
+Event Date: 30-05-2015 - Session time: 11:30:00 - Track: B
 ## Speaker: Sylvia Takvorian
 ## Title: SQL Server as a Data Warehousing platform
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: B
 #### SessionID: 15273
 # SQL Server Advanced indexing techniques
 #### [Back to calendar](#nr-384)
-Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
+Event Date: 30-05-2015 - Session time: 13:15:00 - Track: A
 ## Speaker: Ivan Donev
 ## Title: SQL Server Advanced indexing techniques
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 #### SessionID: 19686
 # Boosting DWH-Performance with SQL Server 2014
 #### [Back to calendar](#nr-384)
-Event Date: 30-05-2015 - Session time: 17:15:00 - Track: B
+Event Date: 30-05-2015 - Session time: 13:15:00 - Track: B
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Boosting DWH-Performance with SQL Server 2014
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: B
 #### SessionID: 20815
 # Extended events in action
 #### [Back to calendar](#nr-384)
-Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
+Event Date: 30-05-2015 - Session time: 13:15:00 - Track: C
 ## Speaker: Miroslav Dimitrov
 ## Title: Extended events in action
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
 #### SessionID: 13133
 # Deadlocks. Everything that developer needs to know.
 #### [Back to calendar](#nr-384)
-Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
+Event Date: 30-05-2015 - Session time: 14:30:00 - Track: A
 ## Speaker: Denis Reznik
 ## Title: Deadlocks. Everything that developer needs to know.
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
 #### SessionID: 15762
 # Introduction to SQL Server high availability solutions
 #### [Back to calendar](#nr-384)
-Event Date: 30-05-2015 - Session time: 17:15:00 - Track: B
+Event Date: 30-05-2015 - Session time: 14:30:00 - Track: B
 ## Speaker: Janos Berke
 ## Title: Introduction to SQL Server high availability solutions
 ## Abstract:
@@ -151,7 +151,7 @@ Demos:
 #### SessionID: 23449
 # MS-SQL Basic Features
 #### [Back to calendar](#nr-384)
-Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
+Event Date: 30-05-2015 - Session time: 14:30:00 - Track: C
 ## Speaker: Rosen Kolev
 ## Title: MS-SQL Basic Features
 ## Abstract:
@@ -160,7 +160,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
 #### SessionID: 17931
 # Data quality with DQS components in Integration Services
 #### [Back to calendar](#nr-384)
-Event Date: 30-05-2015 - Session time: 17:15:00 - Track: B
+Event Date: 30-05-2015 - Session time: 16:00:00 - Track: B
 ## Speaker: Alexander Karl
 ## Title: Data quality with DQS components in Integration Services
 ## Abstract:
@@ -171,7 +171,7 @@ The result of the evaluation is imported via DQS_stagingDB into DQS_Main Databas
 #### SessionID: 18821
 # BIML – the best friend of SSIS developers
 #### [Back to calendar](#nr-384)
-Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
+Event Date: 30-05-2015 - Session time: 16:00:00 - Track: C
 ## Speaker: Andrey Korshikov
 ## Title: BIML – the best friend of SSIS developers
 ## Abstract:
@@ -180,7 +180,7 @@ Event Date: 30-05-2015 - Session time: 17:15:00 - Track: C
 #### SessionID: 25043
 # Lets cook SQL Server Management practices for the Non-DBA 
 #### [Back to calendar](#nr-384)
-Event Date: 30-05-2015 - Session time: 17:15:00 - Track: A
+Event Date: 30-05-2015 - Session time: 16:00:00 - Track: A
 ## Speaker: Satya Jayanty
 ## Title: Lets cook SQL Server Management practices for the Non-DBA 
 ## Abstract:

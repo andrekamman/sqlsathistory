@@ -53,7 +53,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 83172
 # Keeping Your DBA Happy. Why Some Practices Drive Admins Crazy.
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Keeping Your DBA Happy. Why Some Practices Drive Admins Crazy.
 ## Abstract:
@@ -68,7 +68,7 @@ Query hints, indexing, LINQ to Entities, common table expressions, looping vs se
 #### SessionID: 84515
 # The Modern Enterprise Data Warehouse in Azure
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joshuha Owen
 ## Title: The Modern Enterprise Data Warehouse in Azure
 ## Abstract:
@@ -83,7 +83,7 @@ By the end of this pre-con you should have a thorough understanding of the archi
 #### SessionID: 84779
 # Powering Up with Power BI (Pre-Con)
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Analytics and Visualization
+Event Date: 06-10-2018 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Brian Larson
 ## Title: Powering Up with Power BI (Pre-Con)
 ## Abstract:
@@ -100,7 +100,7 @@ Along the way we will look at tips and tricks as well as best practices for each
 #### SessionID: 84960
 # Data Security for the Cloud
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: Data Security for the Cloud
 ## Abstract:
@@ -113,7 +113,7 @@ Microsoft MVP Ed Leighton-Dick will answer these questions and more in this full
 #### SessionID: 86086
 # Welcome to SQLSaturday #796 (Theather)
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: General
+Event Date: 06-10-2018 - Session time: 09:00:00 - Track: General
 ## Speaker: Riley Major
 ## Title: Welcome to SQLSaturday #796 (Theather)
 ## Abstract:
@@ -122,7 +122,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: General
 #### SessionID: 83880
 # Implementing security inside SQL Server
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Bielawski
 ## Title: Implementing security inside SQL Server
 ## Abstract:
@@ -131,7 +131,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Adm
 #### SessionID: 84288
 # Custom Activities in Azure Data Factory
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-10-2018 - Session time: 09:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jared Zagelbaum
 ## Title: Custom Activities in Azure Data Factory
 ## Abstract:
@@ -140,7 +140,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Cloud Application Devel
 #### SessionID: 84526
 # Getting Started with Extended Events
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Galbraith
 ## Title: Getting Started with Extended Events
 ## Abstract:
@@ -153,7 +153,7 @@ Come learn how to get started - the basics of sessions, events, actions, targets
 #### SessionID: 84837
 # Power BI: Dashboard in an Hour Walk-Through
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Analytics and Visualization
+Event Date: 06-10-2018 - Session time: 09:30:00 - Track: Analytics and Visualization
 ## Speaker: Dan English
 ## Title: Power BI: Dashboard in an Hour Walk-Through
 ## Abstract:
@@ -164,7 +164,7 @@ This session is perfect for anyone that is new to Power BI and is looking for an
 #### SessionID: 84896
 # Power BI Premium Use Cases
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ross McNeely
 ## Title: Power BI Premium Use Cases
 ## Abstract:
@@ -173,7 +173,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architectur
 #### SessionID: 84936
 # Power BI Embedding – Ecolab’s Story
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mark Davis
 ## Title: Power BI Embedding – Ecolab’s Story
 ## Abstract:
@@ -182,7 +182,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architectur
 #### SessionID: 85022
 # I deleted 1 billion records, what happened next will shock you!
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Eric Zierdt
 ## Title: I deleted 1 billion records, what happened next will shock you!
 ## Abstract:
@@ -191,7 +191,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database D
 #### SessionID: 86260
 # Database Backup and Restore Best Practices
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 09:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Database Backup and Restore Best Practices
 ## Abstract:
@@ -201,7 +201,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Adm
 #### SessionID: 84357
 # Consumption Based Architecture and MSBI
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 10:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Hughes
 ## Title: Consumption Based Architecture and MSBI
 ## Abstract:
@@ -210,7 +210,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architectur
 #### SessionID: 84466
 # SSIS Project Deployment: The T-SQL Way
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Kral
 ## Title: SSIS Project Deployment: The T-SQL Way
 ## Abstract:
@@ -223,7 +223,7 @@ You should have previous experience with SQL Server Integration Services (SSIS) 
 #### SessionID: 84502
 # Why should I care about ... the plan cache?
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
 ## Abstract:
@@ -234,7 +234,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #### SessionID: 84953
 # Hyper-Interactivity in Power BI and SSRS Reports
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Analytics and Visualization
+Event Date: 06-10-2018 - Session time: 10:45:00 - Track: Analytics and Visualization
 ## Speaker: Brian Larson
 ## Title: Hyper-Interactivity in Power BI and SSRS Reports
 ## Abstract:
@@ -243,7 +243,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Analytics and Visualiza
 #### SessionID: 85011
 # You are more than a DBA: Expanding your career into Big Data
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 10:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bill Preachuk
 ## Title: You are more than a DBA: Expanding your career into Big Data
 ## Abstract:
@@ -256,7 +256,7 @@ In this session we will identify the big picture IT changes going on around us  
 #### SessionID: 85014
 # Agile Data warehouse
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 10:45:00 - Track: Application  Database Development
 ## Speaker: Fru N
 ## Title: Agile Data warehouse
 ## Abstract:
@@ -266,7 +266,7 @@ We'd cover CDC on SQL server, full load, incremental loads, and more.
 #### SessionID: 85902
 # Processing Streaming Data with KSQL
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 10:45:00 - Track: Application  Database Development
 ## Speaker: Viktor Gamov
 ## Title: Processing Streaming Data with KSQL
 ## Abstract:
@@ -277,7 +277,7 @@ Kafka now offers KSQL, a declarative, SQL-like stream processing language that l
 #### SessionID: 86261
 # Simplifying SQL Data Protection
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 10:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Simplifying SQL Data Protection
 ## Abstract:
@@ -287,7 +287,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Adm
 #### SessionID: 83988
 # Locking and its effects on queries and maintenance tasks
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Jake Manske
 ## Title: Locking and its effects on queries and maintenance tasks
 ## Abstract:
@@ -300,7 +300,7 @@ After this session, you will have the understanding you need to start writing ap
 #### SessionID: 84387
 # SQL Sprawl - How to get a handle on your Infrastructure
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Phil Ekins
 ## Title: SQL Sprawl - How to get a handle on your Infrastructure
 ## Abstract:
@@ -313,7 +313,7 @@ This will provide a road-map to make a case for virtualization (if you’re not 
 #### SessionID: 84463
 # Intermediate Security in SQL Server
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Thul
 ## Title: Intermediate Security in SQL Server
 ## Abstract:
@@ -343,7 +343,7 @@ In the course of this presentation, you'll learn about:
 #### SessionID: 84843
 # Got the Consulting Itch?  The Ins and Outs of being a Contractor for a Living
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Professional Development
+Event Date: 06-10-2018 - Session time: 13:00:00 - Track: Professional Development
 ## Speaker: John Eisbrener
 ## Title: Got the Consulting Itch?  The Ins and Outs of being a Contractor for a Living
 ## Abstract:
@@ -352,7 +352,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Professional Developmen
 #### SessionID: 84951
 # Plan Cache performance tuning
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Arthur Daniels III
 ## Title: Plan Cache performance tuning
 ## Abstract:
@@ -363,7 +363,7 @@ Just like gardening, keeping a database healthy requires pruning.  Techniques to
 #### SessionID: 84988
 # Data Engineering - The Hottest New Job
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Matt Stenzel
 ## Title: Data Engineering - The Hottest New Job
 ## Abstract:
@@ -372,7 +372,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database D
 #### SessionID: 85010
 # Little and Large - Cubes to Scale
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: George Bryant
 ## Title: Little and Large - Cubes to Scale
 ## Abstract:
@@ -381,7 +381,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architectur
 #### SessionID: 82901
 # Virtualizing SQL Server
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: Virtualizing SQL Server
 ## Abstract:
@@ -390,7 +390,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Adm
 #### SessionID: 84363
 # Fundamentals That Will Improve Your Query Performance!
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: John Wells
 ## Title: Fundamentals That Will Improve Your Query Performance!
 ## Abstract:
@@ -399,7 +399,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database D
 #### SessionID: 84435
 # DB Options on Azure – Which One Should I Use?
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-10-2018 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tim Plas
 ## Title: DB Options on Azure – Which One Should I Use?
 ## Abstract:
@@ -408,7 +408,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Cloud Application Devel
 #### SessionID: 84505
 # Maximizing SQL Server Management Studio for Developers and DBAs
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Nem Schlecht
 ## Title: Maximizing SQL Server Management Studio for Developers and DBAs
 ## Abstract:
@@ -417,7 +417,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database D
 #### SessionID: 84937
 # Building Better Tabular Models
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Alex Barbeau
 ## Title: Building Better Tabular Models
 ## Abstract:
@@ -427,7 +427,7 @@ In this demo heavy session we'll cover how to create a new Tabular model with a 
 #### SessionID: 84994
 # Designing SSIS Packages for Performance
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eleanor Stahura
 ## Title: Designing SSIS Packages for Performance
 ## Abstract:
@@ -436,7 +436,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architectur
 #### SessionID: 85012
 # If I Only Had a Brain!
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Rowland Gosling
 ## Title: If I Only Had a Brain!
 ## Abstract:
@@ -445,7 +445,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database D
 #### SessionID: 86121
 # Dell EMC SQL Server Solutions
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: General
+Event Date: 06-10-2018 - Session time: 15:25:00 - Track: General
 ## Speaker: Doug Bernhardt
 ## Title: Dell EMC SQL Server Solutions
 ## Abstract:
@@ -454,7 +454,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: General
 #### SessionID: 82967
 # Understanding your ETL and SQL performance with a Power BI dashboard
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 15:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Anton Rozenson
 ## Title: Understanding your ETL and SQL performance with a Power BI dashboard
 ## Abstract:
@@ -463,7 +463,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architectur
 #### SessionID: 83372
 # I'm a DBA. Now what?
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Fabiano Amorim
 ## Title: I'm a DBA. Now what?
 ## Abstract:
@@ -472,7 +472,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Adm
 #### SessionID: 84001
 # Decoding the Cardinality Estimator to Speed Up Queries
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 15:55:00 - Track: Application  Database Development
 ## Speaker: Joe Obbish
 ## Title: Decoding the Cardinality Estimator to Speed Up Queries
 ## Abstract:
@@ -481,7 +481,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database D
 #### SessionID: 84268
 # Let's build a data app with Azure Functions!
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-10-2018 - Session time: 15:55:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Joshuha Owen
 ## Title: Let's build a data app with Azure Functions!
 ## Abstract:
@@ -492,7 +492,7 @@ In this session, we will walk through the architecture and components of creatin
 #### SessionID: 84356
 # Azure Data Factory V2: The cloud SSIS we have been waiting for?
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-10-2018 - Session time: 15:55:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Joshuha Owen
 ## Title: Azure Data Factory V2: The cloud SSIS we have been waiting for?
 ## Abstract:
@@ -501,7 +501,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Cloud Application Devel
 #### SessionID: 84836
 # Azure Data Studio Extension Development
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database Development
+Event Date: 06-10-2018 - Session time: 15:55:00 - Track: Application  Database Development
 ## Speaker: Drew Skwiers-Koballa
 ## Title: Azure Data Studio Extension Development
 ## Abstract:
@@ -510,7 +510,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Application  Database D
 #### SessionID: 84957
 # Three Steps to Lasting Encryption
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ed Leighton-Dick
 ## Title: Three Steps to Lasting Encryption
 ## Abstract:
@@ -521,7 +521,7 @@ To keep your encryption at full strength, you need to add three practices to you
 #### SessionID: 84990
 # How to navigate through the cornucopia of power BI architecture options
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-10-2018 - Session time: 15:55:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Greg Sharrow
 ## Title: How to navigate through the cornucopia of power BI architecture options
 ## Abstract:
@@ -530,7 +530,7 @@ Event Date: 06-10-2018 - Session time: 17:05:00 - Track: BI Platform Architectur
 #### SessionID: 85577
 # SQL Server 2017 on Containers
 #### [Back to calendar](#nr-796)
-Event Date: 06-10-2018 - Session time: 17:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-10-2018 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Kramer
 ## Title: SQL Server 2017 on Containers
 ## Abstract:

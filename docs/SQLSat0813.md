@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 86471
 # Power BI In a day Hands-On
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Development
+Event Date: 30-03-2019 - Session time: 08:30:00 - Track: BI Development
 ## Speaker: Ravi Kumar
 ## Title: Power BI In a day Hands-On
 ## Abstract:
@@ -76,7 +76,7 @@ Pre-requisite: Please have Pow
 #### SessionID: 88977
 # Introduction to Data Science With Python
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 30-03-2019 - Session time: 08:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: John Miner
 ## Title: Introduction to Data Science With Python
 ## Abstract:
@@ -98,7 +98,7 @@ This course is meant for beginners who want to learn Python. At the end of the d
 #### SessionID: 89373
 # Intelligent Data Integration with SSIS
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Administration and Performance
+Event Date: 30-03-2019 - Session time: 08:30:00 - Track: BI Administration and Performance
 ## Speaker: Andy Leonard
 ## Title: Intelligent Data Integration with SSIS
 ## Abstract:
@@ -122,7 +122,7 @@ Topics include:
 #### SessionID: 85760
 # Azure Databricks... what makes it better?
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 30-03-2019 - Session time: 09:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chris Seferlis
 ## Title: Azure Databricks... what makes it better?
 ## Abstract:
@@ -131,7 +131,7 @@ Event Date: 30-03-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 86145
 # The Power of Data: The Complete Beginners Data Warehouse Kit
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Development
+Event Date: 30-03-2019 - Session time: 09:00:00 - Track: BI Development
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data: The Complete Beginners Data Warehouse Kit
 ## Abstract:
@@ -140,7 +140,7 @@ Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Development
 #### SessionID: 86975
 # SQL Server Reporting Services 2017 on Steroids!!
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 30-03-2019 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server Reporting Services 2017 on Steroids!!
 ## Abstract:
@@ -151,7 +151,7 @@ We shall be utilizing concepts of  ‘Openquery()’ and ‘linked servers’ as
 #### SessionID: 87571
 # Networking 101: Getting Ready for a SQL Event
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 30-03-2019 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Matt Cushing
 ## Title: Networking 101: Getting Ready for a SQL Event
 ## Abstract:
@@ -162,7 +162,7 @@ In this session, we'll go over steps you can take before, during and after the e
 #### SessionID: 87926
 # Azure Data Factory Design Patterns
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Platform Architecture/Design
+Event Date: 30-03-2019 - Session time: 09:00:00 - Track: BI Platform Architecture/Design
 ## Speaker: Andy Leonard
 ## Title: Azure Data Factory Design Patterns
 ## Abstract:
@@ -176,7 +176,7 @@ Attend this session to learn:
 #### SessionID: 90039
 # Building Winning Business Cases
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Administration and Performance
+Event Date: 30-03-2019 - Session time: 09:00:00 - Track: BI Administration and Performance
 ## Speaker: Andy Yun
 ## Title: Building Winning Business Cases
 ## Abstract:
@@ -187,7 +187,7 @@ Come to this session and you'll learn some new techniques on how to engage your 
 #### SessionID: 86520
 # Advanced Power BI features for Beginners
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 30-03-2019 - Session time: 10:10:00 - Track: BI Information Delivery
 ## Speaker: Todd Chittenden
 ## Title: Advanced Power BI features for Beginners
 ## Abstract:
@@ -196,7 +196,7 @@ Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Information Delivery
 #### SessionID: 87563
 # Preparing for Power BI Exam 70-778
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 30-03-2019 - Session time: 10:10:00 - Track: Professional Development
 ## Speaker: Paul DellaGrotte
 ## Title: Preparing for Power BI Exam 70-778
 ## Abstract:
@@ -207,7 +207,7 @@ https://www.microsoft.com/en-us/learning/exam-70-778.aspx
 #### SessionID: 88930
 # Designing for Azure Data Warehouse Peformance
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Platform Architecture/Design
+Event Date: 30-03-2019 - Session time: 10:10:00 - Track: BI Platform Architecture/Design
 ## Speaker: Beth Wolfset
 ## Title: Designing for Azure Data Warehouse Peformance
 ## Abstract:
@@ -216,7 +216,7 @@ Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 89104
 # Time Intelligence in Azure Analysis Services
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 30-03-2019 - Session time: 10:10:00 - Track: Advanced Analysis Techniques
 ## Speaker: Sunil Kadimdiwan
 ## Title: Time Intelligence in Azure Analysis Services
 ## Abstract:
@@ -227,7 +227,7 @@ In this session I will show you, using DAX functions in Azure (and on-premise) A
 #### SessionID: 89105
 # Custom Auditing in SSIS
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Development
+Event Date: 30-03-2019 - Session time: 10:10:00 - Track: BI Development
 ## Speaker: Meghana Vasavada
 ## Title: Custom Auditing in SSIS
 ## Abstract:
@@ -242,7 +242,7 @@ We'll create a package with an event handler that loads Data from a Staging to D
 #### SessionID: 89656
 # Master Data Management: BI and Data Science’s Best Friend
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Administration and Performance
+Event Date: 30-03-2019 - Session time: 10:10:00 - Track: BI Administration and Performance
 ## Speaker: Tyler Graham
 ## Title: Master Data Management: BI and Data Science’s Best Friend
 ## Abstract:
@@ -251,7 +251,7 @@ Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Administration and P
 #### SessionID: 85768
 # Data here, there and everywhere
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 30-03-2019 - Session time: 11:20:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jessica Jolly
 ## Title: Data here, there and everywhere
 ## Abstract:
@@ -260,7 +260,7 @@ Event Date: 30-03-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 86024
 # Big Data Architectures and The Data Lake
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Platform Architecture/Design
+Event Date: 30-03-2019 - Session time: 11:20:00 - Track: BI Platform Architecture/Design
 ## Speaker: James Serra
 ## Title: Big Data Architectures and The Data Lake
 ## Abstract:
@@ -269,7 +269,7 @@ Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 86987
 # Using SQL Server, Powershell and Power BI together - achieve amaz
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 30-03-2019 - Session time: 11:20:00 - Track: BI Information Delivery
 ## Speaker: Varsham Papikian
 ## Title: Using SQL Server, Powershell and Power BI together - achieve amaz
 ## Abstract:
@@ -278,7 +278,7 @@ Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Information Delivery
 #### SessionID: 88818
 # SSIS DevOps with Azure Containers
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Development
+Event Date: 30-03-2019 - Session time: 11:20:00 - Track: BI Development
 ## Speaker: Sreeja Pullagura
 ## Title: SSIS DevOps with Azure Containers
 ## Abstract:
@@ -289,7 +289,7 @@ First, we’ll see how to modify the existing Microsoft Docker file for SQL Serv
 #### SessionID: 88872
 # Artificial Intelligence for everyone
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 30-03-2019 - Session time: 11:20:00 - Track: Professional Development
 ## Speaker: Veronika Kolesnikova
 ## Title: Artificial Intelligence for everyone
 ## Abstract:
@@ -298,7 +298,7 @@ Event Date: 30-03-2019 - Session time: 15:00:00 - Track: Professional Developmen
 #### SessionID: 88996
 # How to Tune your BI DBs in Azure to save $$$
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Administration and Performance
+Event Date: 30-03-2019 - Session time: 11:20:00 - Track: BI Administration and Performance
 ## Speaker: Taiob Ali
 ## Title: How to Tune your BI DBs in Azure to save $$$
 ## Abstract:
@@ -311,7 +311,7 @@ At the end of this session you will walk out knowing how to identify and tune Az
 #### SessionID: 90040
 # Boosting Performance of SSAS (Sponsor)
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Administration and Performance
+Event Date: 30-03-2019 - Session time: 12:40:00 - Track: BI Administration and Performance
 ## Speaker: Andy Yun
 ## Title: Boosting Performance of SSAS (Sponsor)
 ## Abstract:
@@ -324,7 +324,7 @@ When you leave, you will be armed with new insights into SSAS and how to tackle 
 #### SessionID: 92193
 # Micro Data Management: Data in the age of Micro-services (Sponsor)
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Development
+Event Date: 30-03-2019 - Session time: 12:40:00 - Track: BI Development
 ## Speaker: Tyler Graham
 ## Title: Micro Data Management: Data in the age of Micro-services (Sponsor)
 ## Abstract:
@@ -333,7 +333,7 @@ Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Development
 #### SessionID: 92194
 # Diversity  Inclusion Discussion Group
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Platform Architecture/Design
+Event Date: 30-03-2019 - Session time: 12:40:00 - Track: BI Platform Architecture/Design
 ## Speaker: Beth Wolfset
 ## Title: Diversity  Inclusion Discussion Group
 ## Abstract:
@@ -347,7 +347,7 @@ Addressing Everyday Discrimination
 #### SessionID: 85764
 # Whacha just say? Talking technology to non-technical people
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 30-03-2019 - Session time: 13:50:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: Whacha just say? Talking technology to non-technical people
 ## Abstract:
@@ -356,7 +356,7 @@ Event Date: 30-03-2019 - Session time: 15:00:00 - Track: Professional Developmen
 #### SessionID: 85844
 # Creating and Using Calendar Tables
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Development
+Event Date: 30-03-2019 - Session time: 13:50:00 - Track: BI Development
 ## Speaker: Edward Pollack
 ## Title: Creating and Using Calendar Tables
 ## Abstract:
@@ -371,7 +371,7 @@ This session delves into the design, implementation, and use of calendar tables,
 #### SessionID: 87054
 # Not your Daddy's Financial Statements
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 30-03-2019 - Session time: 13:50:00 - Track: BI Information Delivery
 ## Speaker: Belinda Allen
 ## Title: Not your Daddy's Financial Statements
 ## Abstract:
@@ -385,7 +385,7 @@ Learning Objectives:
 #### SessionID: 87691
 # Re-Architect your Software as a Service Application for Azure: Tips and Tricks
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Platform Architecture/Design
+Event Date: 30-03-2019 - Session time: 13:50:00 - Track: BI Platform Architecture/Design
 ## Speaker: George Walters
 ## Title: Re-Architect your Software as a Service Application for Azure: Tips and Tricks
 ## Abstract:
@@ -394,7 +394,7 @@ Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 88336
 # Azure Databricks (ADB) and the Traditional DBA
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Administration and Performance
+Event Date: 30-03-2019 - Session time: 13:50:00 - Track: BI Administration and Performance
 ## Speaker: Rodney Landrum
 ## Title: Azure Databricks (ADB) and the Traditional DBA
 ## Abstract:
@@ -403,7 +403,7 @@ Event Date: 30-03-2019 - Session time: 15:00:00 - Track: BI Administration and P
 #### SessionID: 89113
 # Power BI gets 'smarter': infuse more AI and ML into your BI processes
 #### [Back to calendar](#nr-813)
-Event Date: 30-03-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 30-03-2019 - Session time: 13:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Varsham Papikian
 ## Title: Power BI gets 'smarter': infuse more AI and ML into your BI processes
 ## Abstract:

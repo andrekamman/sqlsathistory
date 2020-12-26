@@ -33,7 +33,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 88703
 # Azure Cosmos DB - What you need to know to build globally distributed apps?
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 11-05-2019 - Session time: 09:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Satya Jayanty
 ## Title: Azure Cosmos DB - What you need to know to build globally distributed apps?
 ## Abstract:
@@ -42,7 +42,7 @@ Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 89206
 # 101 BI and AI
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques  Machine Learning
+Event Date: 11-05-2019 - Session time: 09:15:00 - Track: Advanced Analysis Techniques  Machine Learning
 ## Speaker: Alexander Klein
 ## Title: 101 BI and AI
 ## Abstract:
@@ -54,7 +54,7 @@ If you already have your BI application in the cloud, Azure Data Factory, Logic 
 #### SessionID: 89341
 # Introduction to Azure Data Lake
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-05-2019 - Session time: 09:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Oskari Heikkinen
 ## Title: Introduction to Azure Data Lake
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 11-05-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 89447
 # Not just polish – How good code also runs faster
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 11-05-2019 - Session time: 09:15:00 - Track: Application  Database Development
 ## Speaker: Daniel Hutmacher
 ## Title: Not just polish – How good code also runs faster
 ## Abstract:
@@ -78,7 +78,7 @@ This presentation is all-code, some execution plans, and no-powerpoint.
 #### SessionID: 89455
 # Power BI Cheat Sheet explained!
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 11-05-2019 - Session time: 09:15:00 - Track: Analytics and Visualization
 ## Speaker: Dave Ruijter
 ## Title: Power BI Cheat Sheet explained!
 ## Abstract:
@@ -87,7 +87,7 @@ Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 89138
 # Making Managed Instance Perform, a dive into storage.
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Architecture, Administration  Deployment
+Event Date: 11-05-2019 - Session time: 10:30:00 - Track: Enterprise Database Architecture, Administration  Deployment
 ## Speaker: John Martin
 ## Title: Making Managed Instance Perform, a dive into storage.
 ## Abstract:
@@ -96,7 +96,7 @@ Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Arc
 #### SessionID: 90175
 # SQL Server Magic Show
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 11-05-2019 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Vedran Kesegic
 ## Title: SQL Server Magic Show
 ## Abstract:
@@ -111,7 +111,7 @@ Reading plaintext data of TDE-encrypted database - without SQL access
 #### SessionID: 90944
 # Monitoring Mission-critical SQL Servers: How to utilize alerting to predict system bottlenecks
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Architecture, Administration  Deployment
+Event Date: 11-05-2019 - Session time: 10:30:00 - Track: Enterprise Database Architecture, Administration  Deployment
 ## Speaker: Jani K. Savolainen
 ## Title: Monitoring Mission-critical SQL Servers: How to utilize alerting to predict system bottlenecks
 ## Abstract:
@@ -122,7 +122,7 @@ This session goes through 10 different pain points in SQL Server monitoring and 
 #### SessionID: 92061
 # Arun's and Vesa's Azure SQL DW deep-dive version 2 for Gen2
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques  Machine Learning
+Event Date: 11-05-2019 - Session time: 10:30:00 - Track: Advanced Analysis Techniques  Machine Learning
 ## Speaker: Arun Justus
 ## Title: Arun's and Vesa's Azure SQL DW deep-dive version 2 for Gen2
 ## Abstract:
@@ -131,7 +131,7 @@ Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 88695
 # T-SQL advanced: Grouping and Windowing
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 11-05-2019 - Session time: 12:30:00 - Track: Application  Database Development
 ## Speaker: Andrea Martorana Tusa
 ## Title: T-SQL advanced: Grouping and Windowing
 ## Abstract:
@@ -144,7 +144,7 @@ The session is mainly based on a copious array of demos, to make explicit every 
 #### SessionID: 88876
 # Power BI Premium vs Power BI Embedded for Modern BI Solutions
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-05-2019 - Session time: 12:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mihail Mateev
 ## Title: Power BI Premium vs Power BI Embedded for Modern BI Solutions
 ## Abstract:
@@ -154,7 +154,7 @@ This talk is abou the best practices designing and implementing in business solu
 #### SessionID: 90077
 # Attention Contention!!!
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Architecture, Administration  Deployment
+Event Date: 11-05-2019 - Session time: 12:30:00 - Track: Enterprise Database Architecture, Administration  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Attention Contention!!!
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Arc
 #### SessionID: 90863
 # Ten Query Tuning Techniques Every SQL Programmer Should Know
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 11-05-2019 - Session time: 12:30:00 - Track: Application  Database Development
 ## Speaker: Kevin Kline
 ## Title: Ten Query Tuning Techniques Every SQL Programmer Should Know
 ## Abstract:
@@ -178,7 +178,7 @@ Attend this session to take your query writing and query tuning skills to the ne
 #### SessionID: 93191
 # DBA as the Cloud era Data Professional
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Other
+Event Date: 11-05-2019 - Session time: 12:30:00 - Track: Other
 ## Speaker: Mika Sutinen
 ## Title: DBA as the Cloud era Data Professional
 ## Abstract:
@@ -191,7 +191,7 @@ When it comes to disruptiveness, very few technologies can match the public clou
 #### SessionID: 88696
 # Failure prediction for manufacturing industry with SQL Server  R
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 11-05-2019 - Session time: 13:40:00 - Track: Analytics and Visualization
 ## Speaker: Andrea Martorana Tusa
 ## Title: Failure prediction for manufacturing industry with SQL Server  R
 ## Abstract:
@@ -203,7 +203,7 @@ Binary or multi-class classification problem. Some reports are also created to d
 #### SessionID: 91906
 # SQL Server Machine Learning Services with R and Python
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techniques  Machine Learning
+Event Date: 11-05-2019 - Session time: 13:40:00 - Track: Advanced Analysis Techniques  Machine Learning
 ## Speaker: Pekka Korhonen
 ## Title: SQL Server Machine Learning Services with R and Python
 ## Abstract:
@@ -212,7 +212,7 @@ Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 92091
 # Dataflow - The Power BI Version - Role in Data Platform strategy,
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-05-2019 - Session time: 13:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jouko Nyholm
 ## Title: Dataflow - The Power BI Version - Role in Data Platform strategy,
 ## Abstract:
@@ -221,7 +221,7 @@ Event Date: 11-05-2019 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 92860
 # Analyzing Performance Problems Using XEvents, DMVs  Query Store
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Architecture, Administration  Deployment
+Event Date: 11-05-2019 - Session time: 13:40:00 - Track: Enterprise Database Architecture, Administration  Deployment
 ## Speaker: Ola Hallengren
 ## Title: Analyzing Performance Problems Using XEvents, DMVs  Query Store
 ## Abstract:
@@ -234,7 +234,7 @@ In this session, we will look at how the tools work in different scenarios, how 
 #### SessionID: 89049
 # When Things go Wrong - Error Handling in SQL Server
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 11-05-2019 - Session time: 14:50:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: When Things go Wrong - Error Handling in SQL Server
 ## Abstract:
@@ -245,7 +245,7 @@ This presentation starts with a horror show of the many different actions SQL Se
 #### SessionID: 89819
 # Storytelling  interactive reports with Power BI Bookmarks  Drillthrough
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 11-05-2019 - Session time: 14:50:00 - Track: Analytics and Visualization
 ## Speaker: Marc Lelijveld
 ## Title: Storytelling  interactive reports with Power BI Bookmarks  Drillthrough
 ## Abstract:
@@ -258,7 +258,7 @@ During this session I well tell more about the principles of story telling. Besi
 #### SessionID: 90895
 # SQL Server 2019 Architecture - High Availability and Disaster rec
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Architecture, Administration  Deployment
+Event Date: 11-05-2019 - Session time: 14:50:00 - Track: Enterprise Database Architecture, Administration  Deployment
 ## Speaker: Rami Laine
 ## Title: SQL Server 2019 Architecture - High Availability and Disaster rec
 ## Abstract:
@@ -267,7 +267,7 @@ Event Date: 11-05-2019 - Session time: 16:00:00 - Track: Enterprise Database Arc
 #### SessionID: 92058
 # Data Flow - The Azure version deepdive
 #### [Back to calendar](#nr-852)
-Event Date: 11-05-2019 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-05-2019 - Session time: 14:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vesa Tikkanen
 ## Title: Data Flow - The Azure version deepdive
 ## Abstract:

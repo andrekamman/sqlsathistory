@@ -39,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 103185
 # Improve your daily productivity levels with SentryOne solutions
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-05-2020 - Session time: 12:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jon Moore
 ## Title: Improve your daily productivity levels with SentryOne solutions
 ## Abstract:
@@ -48,7 +48,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #### SessionID: 100961
 # SQL Server By Example
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-05-2020 - Session time: 08:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: SQL Server By Example
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #### SessionID: 100826
 # Getting started with Azure Machine Learning
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
+Event Date: 16-05-2020 - Session time: 09:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Lucas Feiock
 ## Title: Getting started with Azure Machine Learning
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Cloud Application Devel
 #### SessionID: 101002
 # Presentation Skills for the Technical Professional
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Professional Development
+Event Date: 16-05-2020 - Session time: 09:15:00 - Track: Professional Development
 ## Speaker: Buck Woody
 ## Title: Presentation Skills for the Technical Professional
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Professional Developmen
 #### SessionID: 101519
 # Managing Availability Groups with PowerShell, Tips, Techniques, Cool Scripts!
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-05-2020 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Julie McLain-Harper
 ## Title: Managing Availability Groups with PowerShell, Tips, Techniques, Cool Scripts!
 ## Abstract:
@@ -88,7 +88,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #### SessionID: 99658
 # Getting started with Azure SQL Database: What You Need To Know!
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
+Event Date: 16-05-2020 - Session time: 09:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jim Donahoe
 ## Title: Getting started with Azure SQL Database: What You Need To Know!
 ## Abstract:
@@ -97,7 +97,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Cloud Application Devel
 #### SessionID: 100965
 # Azure SQL Database: Maximizing Cloud Performance and Availability
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
+Event Date: 16-05-2020 - Session time: 10:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anna Hoffman
 ## Title: Azure SQL Database: Maximizing Cloud Performance and Availability
 ## Abstract:
@@ -106,7 +106,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Cloud Application Devel
 #### SessionID: 102644
 # Charlie and the Data Factory
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 16-05-2020 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vanessa Kesten
 ## Title: Charlie and the Data Factory
 ## Abstract:
@@ -115,7 +115,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: BI Platform Architectur
 #### SessionID: 102719
 # Enable Real-time Analytics and Machine Learning with Azure Stream Analytics and Azure IoT
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Advanced Analysis Techniques
+Event Date: 16-05-2020 - Session time: 10:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Sriharsh Adari
 ## Title: Enable Real-time Analytics and Machine Learning with Azure Stream Analytics and Azure IoT
 ## Abstract:
@@ -124,7 +124,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Advanced Analysis Techn
 #### SessionID: 99579
 # Querying NoSQL with SQL: HAVING Your JSON Cake and SELECTing it too
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database Development
+Event Date: 16-05-2020 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Matthew Groves
 ## Title: Querying NoSQL with SQL: HAVING Your JSON Cake and SELECTing it too
 ## Abstract:
@@ -135,7 +135,7 @@ Developers need to deliver apps that readily evolve, perform, and scale, all to 
 #### SessionID: 100418
 # Achievement Unlocked: How to Get Promoted
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Professional Development
+Event Date: 16-05-2020 - Session time: 11:40:00 - Track: Professional Development
 ## Speaker: Dave Mattingly
 ## Title: Achievement Unlocked: How to Get Promoted
 ## Abstract:
@@ -146,7 +146,7 @@ In this session, you'll learn how to promote yourself, how to speak confidently,
 #### SessionID: 101240
 # Introduction to M (a.k.a Power Query)
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Analytics and Visualization
+Event Date: 16-05-2020 - Session time: 11:40:00 - Track: Analytics and Visualization
 ## Speaker: Eugene Meidinger
 ## Title: Introduction to M (a.k.a Power Query)
 ## Abstract:
@@ -157,7 +157,7 @@ In this session, we'll demonstrate how M is a linear series of transformations, 
 #### SessionID: 102704
 # Power BI Data Modeling with Less Than Ideal Data Sources
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: BI Information Delivery
+Event Date: 16-05-2020 - Session time: 11:40:00 - Track: BI Information Delivery
 ## Speaker: Mark Beedle
 ## Title: Power BI Data Modeling with Less Than Ideal Data Sources
 ## Abstract:
@@ -168,7 +168,7 @@ This course will provide guidance and tips for building a solid Power BI data mo
 #### SessionID: 99785
 # Using Open Source Software to Collect Performance Metrics
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-05-2020 - Session time: 11:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Using Open Source Software to Collect Performance Metrics
 ## Abstract:
@@ -179,7 +179,7 @@ In this session, we will discuss sp_whoisactive and Query Store to track what qu
 #### SessionID: 102187
 # Azure Data Studio – Way Cool for Database Applications
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database Development
+Event Date: 16-05-2020 - Session time: 12:50:00 - Track: Application  Database Development
 ## Speaker: Jim Miller
 ## Title: Azure Data Studio – Way Cool for Database Applications
 ## Abstract:
@@ -195,7 +195,7 @@ And why Azure Data Studio could be Way Cool for your Database Application
 #### SessionID: 102219
 # New Features in SSRS 2017
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: BI Information Delivery
+Event Date: 16-05-2020 - Session time: 12:50:00 - Track: BI Information Delivery
 ## Speaker: Sam Nasr
 ## Title: New Features in SSRS 2017
 ## Abstract:
@@ -205,7 +205,7 @@ With intuitive interfaces and rich data visualization, business users and stake 
 #### SessionID: 102720
 # Making Your Reports Faster – Introduction to Power BI Performance Tuning
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Analytics and Visualization
+Event Date: 16-05-2020 - Session time: 12:50:00 - Track: Analytics and Visualization
 ## Speaker: Slava Trofimov
 ## Title: Making Your Reports Faster – Introduction to Power BI Performance Tuning
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Analytics and Visualiza
 #### SessionID: 105006
 # SQL Server Virtualization and I/O Patterns
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-05-2020 - Session time: 12:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Argenis Fernandez
 ## Title: SQL Server Virtualization and I/O Patterns
 ## Abstract:
@@ -223,7 +223,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #### SessionID: 101238
 # An (Advanced) Introduction to DAX
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Analytics and Visualization
+Event Date: 16-05-2020 - Session time: 14:00:00 - Track: Analytics and Visualization
 ## Speaker: Eugene Meidinger
 ## Title: An (Advanced) Introduction to DAX
 ## Abstract:
@@ -232,7 +232,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Analytics and Visualiza
 #### SessionID: 101945
 # A Better Way to Run MsSql (aka Can You Believe This is Even Possible?!?!)
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database Development
+Event Date: 16-05-2020 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Chris Smith
 ## Title: A Better Way to Run MsSql (aka Can You Believe This is Even Possible?!?!)
 ## Abstract:
@@ -246,7 +246,7 @@ In this talk, we'll discuss:
 #### SessionID: 102130
 # AWS vs. Azure: What's The Difference For A DBA?
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 16-05-2020 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Corey Hambrick
 ## Title: AWS vs. Azure: What's The Difference For A DBA?
 ## Abstract:
@@ -255,7 +255,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Enterprise Database Adm
 #### SessionID: 102750
 # AI For Good: Cognitive Services Vision
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Advanced Analysis Techniques
+Event Date: 16-05-2020 - Session time: 14:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Alicia Moniz
 ## Title: AI For Good: Cognitive Services Vision
 ## Abstract:
@@ -272,7 +272,7 @@ Prerequisites: Attendees should have an Azure account, as well as an account on 
 #### SessionID: 100639
 # Query Plans For Visual Learners
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database Development
+Event Date: 16-05-2020 - Session time: 15:10:00 - Track: Application  Database Development
 ## Speaker: Forrest McDaniel
 ## Title: Query Plans For Visual Learners
 ## Abstract:
@@ -281,7 +281,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database D
 #### SessionID: 100720
 # More Common Than You Think: Mental Illness in Tech
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Professional Development
+Event Date: 16-05-2020 - Session time: 15:10:00 - Track: Professional Development
 ## Speaker: Tracy Boggiano
 ## Title: More Common Than You Think: Mental Illness in Tech
 ## Abstract:
@@ -292,7 +292,7 @@ In this session, we will talk about what mental illness is and what it is not.  
 #### SessionID: 102182
 # Azure Data Studio – Way Cool for Azure and On-Prem SQL
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database Development
+Event Date: 16-05-2020 - Session time: 15:10:00 - Track: Application  Database Development
 ## Speaker: Jim Miller
 ## Title: Azure Data Studio – Way Cool for Azure and On-Prem SQL
 ## Abstract:
@@ -308,7 +308,7 @@ And demonstrate why Azure Data Studio is in fact Way Cool.
 #### SessionID: 102217
 # SQL Server Security Features
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database Development
+Event Date: 16-05-2020 - Session time: 15:10:00 - Track: Application  Database Development
 ## Speaker: Sam Nasr
 ## Title: SQL Server Security Features
 ## Abstract:
@@ -317,7 +317,7 @@ Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Application  Database D
 #### SessionID: 105008
 # Navigating Today's Azure SQL Services
 #### [Back to calendar](#nr-948)
-Event Date: 16-05-2020 - Session time: 16:20:00 - Track: Strategy and Architecture
+Event Date: 16-05-2020 - Session time: 15:10:00 - Track: Strategy and Architecture
 ## Speaker: John Miner
 ## Title: Navigating Today's Azure SQL Services
 ## Abstract:

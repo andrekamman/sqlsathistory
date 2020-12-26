@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 64559
 # SQL Server Problem Tombola
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stijn Wynants
 ## Title: SQL Server Problem Tombola
 ## Abstract:
@@ -40,7 +40,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 65028
 # Database tuning advisor vs. database management views
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: Application  Database Development
 ## Speaker: Torsten Strauss
 ## Title: Database tuning advisor vs. database management views
 ## Abstract:
@@ -51,7 +51,7 @@ You will learn the limitations of both approaches in order to avoid applying wro
 #### SessionID: 66963
 # Azure Machine Learning
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Nico Jacobs
 ## Title: Azure Machine Learning
 ## Abstract:
@@ -62,7 +62,7 @@ In this demo-oriented session you will see demonstrations of these three ways of
 #### SessionID: 69650
 # Idling for Performance?
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 09:15:00 - Track: Application  Database Development
 ## Speaker: Peter Larsson
 ## Title: Idling for Performance?
 ## Abstract:
@@ -73,7 +73,7 @@ In this presentation I will show you how to spot the performance blockers.
 #### SessionID: 64352
 # MPP – Master Parallel Productivity in Azure SQL DW
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-09-2017 - Session time: 10:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Britton Gray
 ## Title: MPP – Master Parallel Productivity in Azure SQL DW
 ## Abstract:
@@ -87,7 +87,7 @@ This session will also include some benchmarks and Power BI demos  with differen
 #### SessionID: 64411
 # Playground of cognitive services - Even big kids play here
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 23-09-2017 - Session time: 10:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Alexander Klein
 ## Title: Playground of cognitive services - Even big kids play here
 ## Abstract:
@@ -96,7 +96,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Cloud Application Devel
 #### SessionID: 65173
 # Abusing your SQL Server for fun and profit
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 10:45:00 - Track: Application  Database Development
 ## Speaker: Alexander Arvidsson
 ## Title: Abusing your SQL Server for fun and profit
 ## Abstract:
@@ -107,7 +107,7 @@ Join Alexander for a session of examples how developers can and do abuse SQL Ser
 #### SessionID: 69673
 # SQL DataFactory for heterogenous data source
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 23-09-2017 - Session time: 10:45:00 - Track: Analytics and Visualization
 ## Speaker: Mohamed Mawla
 ## Title: SQL DataFactory for heterogenous data source
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 64367
 # Master Data Services: Unknown thus unloved
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-09-2017 - Session time: 12:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Remko de Boer
 ## Title: Master Data Services: Unknown thus unloved
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 64428
 # Always On Multi-Site Patterns
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Strategy and Architecture
+Event Date: 23-09-2017 - Session time: 12:00:00 - Track: Strategy and Architecture
 ## Speaker: John Martin
 ## Title: Always On Multi-Site Patterns
 ## Abstract:
@@ -138,7 +138,7 @@ All of these elements mean that it is more than just simple wizards to follow in
 #### SessionID: 65030
 # Index Fragmentation
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 12:00:00 - Track: Application  Database Development
 ## Speaker: Torsten Strauss
 ## Title: Index Fragmentation
 ## Abstract:
@@ -156,7 +156,7 @@ You will get a deep understanding of the reasons of fragmentation like
 #### SessionID: 65340
 # SQL Server on Linux - SQL Server goes cross platform!
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 12:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Williams
 ## Title: SQL Server on Linux - SQL Server goes cross platform!
 ## Abstract:
@@ -193,7 +193,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 64376
 # Azure SQL DWH: Tips and Tricks for developers
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-09-2017 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Azure SQL DWH: Tips and Tricks for developers
 ## Abstract:
@@ -202,7 +202,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 66676
 # Management Studio level-up
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Daniel Hutmacher
 ## Title: Management Studio level-up
 ## Abstract:
@@ -220,7 +220,7 @@ But I’m not going to sugarcoat it. Your code may still run slow, and you’ll 
 #### SessionID: 68716
 # Are Temporal Tables a useful feature?
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Uwe Ricken
 ## Title: Are Temporal Tables a useful feature?
 ## Abstract:
@@ -229,7 +229,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 69475
 # GDPR for SQL Server
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Håkan Winther
 ## Title: GDPR for SQL Server
 ## Abstract:
@@ -238,7 +238,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 64355
 # Hacking SQL Server
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-09-2017 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: Hacking SQL Server
 ## Abstract:
@@ -252,7 +252,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #### SessionID: 64825
 # SSIS Custom Pipeline Component
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Arne Bartels
 ## Title: SSIS Custom Pipeline Component
 ## Abstract:
@@ -261,7 +261,7 @@ Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 66256
 # When Things go Wrong - Error Handling in SQL Server
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 23-09-2017 - Session time: 15:15:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: When Things go Wrong - Error Handling in SQL Server
 ## Abstract:
@@ -272,7 +272,7 @@ This presentation starts with a horror show of the many different actions SQL Se
 #### SessionID: 66329
 # Power BI behind the scene: security and user management
 #### [Back to calendar](#nr-657)
-Event Date: 23-09-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-09-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Andrea Martorana Tusa
 ## Title: Power BI behind the scene: security and user management
 ## Abstract:

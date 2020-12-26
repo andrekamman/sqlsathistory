@@ -65,7 +65,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 72617
 # Extended Events: What are they and How do I use them
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-08-2018 - Session time: 08:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: Extended Events: What are they and How do I use them
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 73900
 # SQL Operations Studio: A Test Drive
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 11-08-2018 - Session time: 08:00:00 - Track: Application  Database Development
 ## Speaker: Jay Robinson
 ## Title: SQL Operations Studio: A Test Drive
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 78975
 # Hadoop Shmadoop... What the heck is the all the Hadoop about it?
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 11-08-2018 - Session time: 08:00:00 - Track: Strategy and Architecture
 ## Speaker: Warren Sifre
 ## Title: Hadoop Shmadoop... What the heck is the all the Hadoop about it?
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Strategy and Architectu
 #### SessionID: 80629
 # Plan Cache performance tuning
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-08-2018 - Session time: 08:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Arthur Daniels III
 ## Title: Plan Cache performance tuning
 ## Abstract:
@@ -103,7 +103,7 @@ Just like gardening, keeping a database healthy requires pruning.  Techniques to
 #### SessionID: 80677
 # Emergency! Are You Ready for Disaster to Strike?
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-08-2018 - Session time: 08:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Emergency! Are You Ready for Disaster to Strike?
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 83316
 # Discover the Hidden Mysteries of Common Table Expressions
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 11-08-2018 - Session time: 08:00:00 - Track: Application  Database Development
 ## Speaker: Aaron Cutshall
 ## Title: Discover the Hidden Mysteries of Common Table Expressions
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 83651
 # Integrating Azure ML with Power BI
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 11-08-2018 - Session time: 08:00:00 - Track: Analytics and Visualization
 ## Speaker: Michael Huffer
 ## Title: Integrating Azure ML with Power BI
 ## Abstract:
@@ -134,7 +134,7 @@ This talk will cover the basics of Power BI and of Azure ML, how to build and de
 #### SessionID: 83653
 # What To Learn Next
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 11-08-2018 - Session time: 08:00:00 - Track: Professional Development
 ## Speaker: Dave Leininger
 ## Title: What To Learn Next
 ## Abstract:
@@ -147,7 +147,7 @@ What To Learn Next will be most valuable to intermediate and advanced SQL Server
 #### SessionID: 83738
 # SQLStarter - Intro to Database Administration
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: SQLStarter
+Event Date: 11-08-2018 - Session time: 08:00:00 - Track: SQLStarter
 ## Speaker: Peter Shore
 ## Title: SQLStarter - Intro to Database Administration
 ## Abstract:
@@ -156,7 +156,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: SQLStarter
 #### SessionID: 72611
 # Building the HASSP: Putting SQL Server In Space
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Other
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: Other
 ## Speaker: Drew Furgiuele
 ## Title: Building the HASSP: Putting SQL Server In Space
 ## Abstract:
@@ -171,7 +171,7 @@ In this session, you'll hear about how this is possible: we'll discuss the hardw
 #### SessionID: 72736
 # Choosing the Right Microsoft Data Science Platform
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: Strategy and Architecture
 ## Speaker: Sean Werick
 ## Title: Choosing the Right Microsoft Data Science Platform
 ## Abstract:
@@ -190,7 +190,7 @@ If you're looking to maximize and optimize your data science platform of choice,
 #### SessionID: 80164
 # Transaction Log Internals and Performance
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Transaction Log Internals and Performance
 ## Abstract:
@@ -199,7 +199,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 80764
 # Introduction to T-SQL Windowing Functions
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: Introduction to T-SQL Windowing Functions
 ## Abstract:
@@ -210,7 +210,7 @@ Attend this session to learn how T-SQL windowing functions apply to many real wo
 #### SessionID: 80777
 # Learn History from Temporal Tables
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: Learn History from Temporal Tables
 ## Abstract:
@@ -219,7 +219,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 82140
 # Inside the SQLServer PowerShell Module
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: Application  Database Development
 ## Speaker: Ben Miller
 ## Title: Inside the SQLServer PowerShell Module
 ## Abstract:
@@ -228,7 +228,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 82214
 # Getting started with Machine Learning
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: Analytics and Visualization
 ## Speaker: Andrew Loree
 ## Title: Getting started with Machine Learning
 ## Abstract:
@@ -239,7 +239,7 @@ In this session, you will be introduced to the fundamentals of ML, to get you st
 #### SessionID: 82790
 # Finding root cause for unexplained Availability Group failover
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Trayce Jordan
 ## Title: Finding root cause for unexplained Availability Group failover
 ## Abstract:
@@ -248,7 +248,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 83105
 # Relax! It's just DAX.
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: Professional Development
 ## Speaker: Jessica Jolly
 ## Title: Relax! It's just DAX.
 ## Abstract:
@@ -260,7 +260,7 @@ The experts in DAX say that DAX is an easy language to learn, and a hard languag
 #### SessionID: 83739
 # SQLStarter - Intro to Database Development
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: SQLStarter
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: SQLStarter
 ## Speaker: Grant Fritchey
 ## Title: SQLStarter - Intro to Database Development
 ## Abstract:
@@ -269,7 +269,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: SQLStarter
 #### SessionID: 85072
 # Relationship Goals: The SQL Server Graph Database
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 11-08-2018 - Session time: 09:15:00 - Track: Application  Database Development
 ## Speaker: Jonathan Stewart
 ## Title: Relationship Goals: The SQL Server Graph Database
 ## Abstract:
@@ -279,7 +279,7 @@ One of the best new features of SQL Server 2017 is the Graph Database! It brings
 #### SessionID: 73126
 # Alexa, Talk to Me
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dave Mattingly
 ## Title: Alexa, Talk to Me
 ## Abstract:
@@ -289,7 +289,7 @@ In this session, we'll create a simple skill from scratch, and show how to get i
 #### SessionID: 76876
 # Essential Linux for the SQL Server DBA
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: Essential Linux for the SQL Server DBA
 ## Abstract:
@@ -308,7 +308,7 @@ You’ll leave feeling more at ease with Linux and have plenty of content and li
 #### SessionID: 78598
 # Introduction to Spatial Data with the help of SQL Server 2016/17
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: Strategy and Architecture
 ## Speaker: Hasan Savran
 ## Title: Introduction to Spatial Data with the help of SQL Server 2016/17
 ## Abstract:
@@ -319,7 +319,7 @@ I will introduce you to Spatial Data in the SQL server and show how to import da
 #### SessionID: 82141
 # SQL Server Encryption
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: SQL Server Encryption
 ## Abstract:
@@ -328,7 +328,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 82889
 # Introduction to SQL Server Machine Learning Services
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Bradley Nielsen
 ## Title: Introduction to SQL Server Machine Learning Services
 ## Abstract:
@@ -337,7 +337,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 83402
 # Python in SQL Server 2017
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: Analytics and Visualization
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
 ## Abstract:
@@ -348,7 +348,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #### SessionID: 83465
 # Lift Off to the Cloud: Lift  Shift Azure options for the SQL Server BI Stack
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Mellinger
 ## Title: Lift Off to the Cloud: Lift  Shift Azure options for the SQL Server BI Stack
 ## Abstract:
@@ -357,7 +357,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 83527
 # Moving Past Imposter Syndrome
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: Professional Development
 ## Speaker: Wendy Pastrick
 ## Title: Moving Past Imposter Syndrome
 ## Abstract:
@@ -366,7 +366,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 83737
 # SQLStarter - Intro to Big Data
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: SQLStarter
+Event Date: 11-08-2018 - Session time: 10:30:00 - Track: SQLStarter
 ## Speaker: Warren Sifre
 ## Title: SQLStarter - Intro to Big Data
 ## Abstract:
@@ -375,7 +375,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: SQLStarter
 #### SessionID: 84773
 # Simplifying SQL Data Protection (Sponsored by Rubrik)
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Other
+Event Date: 11-08-2018 - Session time: 11:45:00 - Track: Other
 ## Speaker: Chris Lumnah
 ## Title: Simplifying SQL Data Protection (Sponsored by Rubrik)
 ## Abstract:
@@ -384,7 +384,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Other
 #### SessionID: 85052
 # Using RDS SQL Server on Amazon Web Services
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Other
+Event Date: 11-08-2018 - Session time: 11:45:00 - Track: Other
 ## Speaker: Richard Waymire
 ## Title: Using RDS SQL Server on Amazon Web Services
 ## Abstract:
@@ -393,7 +393,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Other
 #### SessionID: 77403
 # Simple DR Setup
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-08-2018 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Wickman
 ## Title: Simple DR Setup
 ## Abstract:
@@ -402,7 +402,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 77495
 # Linked Servers – Purpose, Pitfalls and Performance Implications
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-08-2018 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Davis
 ## Title: Linked Servers – Purpose, Pitfalls and Performance Implications
 ## Abstract:
@@ -411,7 +411,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 77957
 # Data Protection  Privacy in the World of Database DevOps
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 11-08-2018 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Grant Fritchey
 ## Title: Data Protection  Privacy in the World of Database DevOps
 ## Abstract:
@@ -420,7 +420,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 77982
 # Everyone Has a Story to Tell: Developing Your First Presentation
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 11-08-2018 - Session time: 13:00:00 - Track: Professional Development
 ## Speaker: Andy Yun
 ## Title: Everyone Has a Story to Tell: Developing Your First Presentation
 ## Abstract:
@@ -433,7 +433,7 @@ You will leave armed with a wealth of resources (and hopefully some inspiration)
 #### SessionID: 80771
 # Data Science in Reverse: Creating Credible Fake Data Sets
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 11-08-2018 - Session time: 13:00:00 - Track: Analytics and Visualization
 ## Speaker: Britton Gray
 ## Title: Data Science in Reverse: Creating Credible Fake Data Sets
 ## Abstract:
@@ -442,7 +442,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 80799
 # Where Should My Data Live (and Why)?
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 11-08-2018 - Session time: 13:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Matt Gordon
 ## Title: Where Should My Data Live (and Why)?
 ## Abstract:
@@ -451,7 +451,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 83493
 # The Case for Change: Identifying and Remedying Bad Code
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-08-2018 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: The Case for Change: Identifying and Remedying Bad Code
 ## Abstract:
@@ -462,7 +462,7 @@ How do you capture those bad queries? When you have this data what do you look a
 #### SessionID: 83567
 # SSRS; Not everything is a dashboard
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-08-2018 - Session time: 13:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tamera Clark
 ## Title: SSRS; Not everything is a dashboard
 ## Abstract:
@@ -471,7 +471,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 83740
 # SQLStarter - Intro to Data Science
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: SQLStarter
+Event Date: 11-08-2018 - Session time: 13:00:00 - Track: SQLStarter
 ## Speaker: Sean Werick
 ## Title: SQLStarter - Intro to Data Science
 ## Abstract:
@@ -480,7 +480,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: SQLStarter
 #### SessionID: 72687
 # R For the SQL Server Developer
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 11-08-2018 - Session time: 14:15:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
 ## Abstract:
@@ -489,7 +489,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 77058
 # 5 Lessons from Black Panther for any IT Professional
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 11-08-2018 - Session time: 14:15:00 - Track: Professional Development
 ## Speaker: Hilary Wilkie
 ## Title: 5 Lessons from Black Panther for any IT Professional
 ## Abstract:
@@ -498,7 +498,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 78346
 # Revenge: The SQL!
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-08-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Volk
 ## Title: Revenge: The SQL!
 ## Abstract:
@@ -507,7 +507,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 80790
 # Hello My Friends, Welcome to CosmosDB
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 11-08-2018 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Peter Shore
 ## Title: Hello My Friends, Welcome to CosmosDB
 ## Abstract:
@@ -516,7 +516,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 83393
 # Get Your Optimizer to Give up All Its Secrets
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-08-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
 ## Abstract:
@@ -525,7 +525,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 83445
 # Database Design Fundamentals
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 11-08-2018 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Louis Davidson
 ## Title: Database Design Fundamentals
 ## Abstract:
@@ -534,7 +534,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 83484
 # Tuning Like CSS: With These Tools There's No Need Call Support
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-08-2018 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kerry Tyler
 ## Title: Tuning Like CSS: With These Tools There's No Need Call Support
 ## Abstract:
@@ -547,7 +547,7 @@ In this session, you'll learn how to use battle tested tools to analyze your wor
 #### SessionID: 83682
 # Managing Enterprise Data Quality with Data Quality Services 2016
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-08-2018 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Beswick
 ## Title: Managing Enterprise Data Quality with Data Quality Services 2016
 ## Abstract:
@@ -556,7 +556,7 @@ Event Date: 11-08-2018 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 83713
 # SQLStarter - Intro to Business Intelligence
 #### [Back to calendar](#nr-745)
-Event Date: 11-08-2018 - Session time: 15:30:00 - Track: SQLStarter
+Event Date: 11-08-2018 - Session time: 14:15:00 - Track: SQLStarter
 ## Speaker: CJ Knapp
 ## Title: SQLStarter - Intro to Business Intelligence
 ## Abstract:

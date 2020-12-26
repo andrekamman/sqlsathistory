@@ -17,7 +17,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 90395
 # Building a modern data warehouse and BI solution in Microsoft cloud
 #### [Back to calendar](#nr-850)
-Event Date: 20-04-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-04-2019 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gergely Csom
 ## Title: Building a modern data warehouse and BI solution in Microsoft cloud
 ## Abstract:
@@ -28,7 +28,7 @@ In the last couple years I helped many customers to modernize their DWH landscap
 #### SessionID: 91066
 # Top 10 SSAS Design Best Practice (vagy talán több is)
 #### [Back to calendar](#nr-850)
-Event Date: 20-04-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-04-2019 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Zoltán Horváth
 ## Title: Top 10 SSAS Design Best Practice (vagy talán több is)
 ## Abstract:
@@ -39,7 +39,7 @@ Jó pár best practice-t összegyűjtöttem az OLAP-kockák építésével és �
 #### SessionID: 88711
 # How to win Kaggle competition and get familiar with machine learning ?
 #### [Back to calendar](#nr-850)
-Event Date: 20-04-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 20-04-2019 - Session time: 10:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: How to win Kaggle competition and get familiar with machine learning ?
 ## Abstract:
@@ -50,7 +50,7 @@ Minimum slides and maximum fun guaranteed.
 #### SessionID: 90007
 # Modernise your data migration with Azure Data Migration Service
 #### [Back to calendar](#nr-850)
-Event Date: 20-04-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-04-2019 - Session time: 10:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Satya Jayanty
 ## Title: Modernise your data migration with Azure Data Migration Service
 ## Abstract:
@@ -63,7 +63,7 @@ Let us jump into Database Migration Service, and how you can utilize and moderni
 #### SessionID: 90695
 # A baglyok nem azok amiknek látszanak, avagy mi is az a scan?
 #### [Back to calendar](#nr-850)
-Event Date: 20-04-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 20-04-2019 - Session time: 10:45:00 - Track: Application  Database Development
 ## Speaker: Zoltán Hangyál
 ## Title: A baglyok nem azok amiknek látszanak, avagy mi is az a scan?
 ## Abstract:
@@ -76,7 +76,7 @@ Ebben az elöadásban scan-elés témakörét járjuk körbe.
 #### SessionID: 88880
 # Dealing with CosmosDB
 #### [Back to calendar](#nr-850)
-Event Date: 20-04-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-04-2019 - Session time: 13:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Dealing with CosmosDB
 ## Abstract:
@@ -91,7 +91,7 @@ In this presentation, you will learn:
 #### SessionID: 91612
 # SQL Server Security and Vulnerability Assessment in One Hour
 #### [Back to calendar](#nr-850)
-Event Date: 20-04-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-04-2019 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tobias Koprowski
 ## Title: SQL Server Security and Vulnerability Assessment in One Hour
 ## Abstract:
@@ -104,7 +104,7 @@ We will look for a hybrid environment when our data are on-premises and in the c
 #### SessionID: 89073
 # SQL Server In-database machine learning with R and Python
 #### [Back to calendar](#nr-850)
-Event Date: 20-04-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 20-04-2019 - Session time: 14:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Tomaž Kaštrun
 ## Title: SQL Server In-database machine learning with R and Python
 ## Abstract:
@@ -115,7 +115,7 @@ From retrieving data from SQL Server to providing data insights with different d
 #### SessionID: 90404
 # IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights
 #### [Back to calendar](#nr-850)
-Event Date: 20-04-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-04-2019 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Catalin Gheorghiu
 ## Title: IoT Circus –  deathmatch oops, datematch :) Power Bi vs Time Series Insights
 ## Abstract:

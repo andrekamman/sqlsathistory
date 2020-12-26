@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 67722
 # Python in SQL Server 2017
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Analyze
+Event Date: 28-10-2017 - Session time: 08:30:00 - Track: Analyze
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017
 ## Abstract:
@@ -57,7 +57,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #### SessionID: 67735
 # JSON and the Astronauts
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
+Event Date: 28-10-2017 - Session time: 08:30:00 - Track: Build
 ## Speaker: Peter Kral
 ## Title: JSON and the Astronauts
 ## Abstract:
@@ -69,7 +69,7 @@ You should have experience writing queries in T-SQL. No previous knowledge of JS
 #### SessionID: 67742
 # Introduction to Indexes and SARGability
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
+Event Date: 28-10-2017 - Session time: 08:30:00 - Track: Perform
 ## Speaker: Jared Karney
 ## Title: Introduction to Indexes and SARGability
 ## Abstract:
@@ -78,7 +78,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 #### SessionID: 67760
 # Boost your Analytics with Machine Learning for SQL Nerds
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Innovate
+Event Date: 28-10-2017 - Session time: 08:30:00 - Track: Innovate
 ## Speaker: Julie Koesmarno
 ## Title: Boost your Analytics with Machine Learning for SQL Nerds
 ## Abstract:
@@ -89,7 +89,7 @@ This session will provide a gentle and fun introduction to SQL Server R Services
 #### SessionID: 68680
 # Tame Your Unruly Data With Constraints
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Design
+Event Date: 28-10-2017 - Session time: 08:30:00 - Track: Design
 ## Speaker: Rob Volk
 ## Title: Tame Your Unruly Data With Constraints
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Design
 #### SessionID: 69080
 # Don’t Panic: Use the DBA Cheat Sheet for Administrative Tasks
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
+Event Date: 28-10-2017 - Session time: 08:30:00 - Track: Build
 ## Speaker: Elizabeth Block
 ## Title: Don’t Panic: Use the DBA Cheat Sheet for Administrative Tasks
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 #### SessionID: 69164
 # Ultimate Security and Sharing in Power BI
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Scale
+Event Date: 28-10-2017 - Session time: 08:30:00 - Track: Scale
 ## Speaker: Reza Rad
 ## Title: Ultimate Security and Sharing in Power BI
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Scale
 #### SessionID: 69188
 # Adopting Power BI - How to avoid "free puppy" scenario with a new Adoption Framework from Microsoft
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Evolve
+Event Date: 28-10-2017 - Session time: 08:30:00 - Track: Evolve
 ## Speaker: Ron Ellis Gaut
 ## Title: Adopting Power BI - How to avoid "free puppy" scenario with a new Adoption Framework from Microsoft
 ## Abstract:
@@ -142,7 +142,7 @@ Support (enablement)
 #### SessionID: 67730
 # Welcome To the 2016 Query Store!
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
+Event Date: 28-10-2017 - Session time: 10:10:00 - Track: Perform
 ## Speaker: Janis Griffin
 ## Title: Welcome To the 2016 Query Store!
 ## Abstract:
@@ -151,7 +151,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 #### SessionID: 67755
 # Using Always Encrypted in Real World
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
+Event Date: 28-10-2017 - Session time: 10:10:00 - Track: Build
 ## Speaker: Dan de Sousa
 ## Title: Using Always Encrypted in Real World
 ## Abstract:
@@ -162,7 +162,7 @@ I will demonstrate the technology  and some scenarios presented to us (including
 #### SessionID: 67790
 # Self-Service ETL with Power Query
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Analyze
+Event Date: 28-10-2017 - Session time: 10:10:00 - Track: Analyze
 ## Speaker: Dan Clark
 ## Title: Self-Service ETL with Power Query
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Analyze
 #### SessionID: 67882
 # Upgrade your SQL Server like a Ninja
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
+Event Date: 28-10-2017 - Session time: 10:10:00 - Track: Build
 ## Speaker: Amit Banerjee
 ## Title: Upgrade your SQL Server like a Ninja
 ## Abstract:
@@ -180,7 +180,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 #### SessionID: 68391
 # Whats new for Columnstore in SQL Server 2017
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
+Event Date: 28-10-2017 - Session time: 10:10:00 - Track: Perform
 ## Speaker: Niko Neugebauer
 ## Title: Whats new for Columnstore in SQL Server 2017
 ## Abstract:
@@ -193,7 +193,7 @@ Discover all the big and little Columnstore gems of the 2017 edition of the SQL 
 #### SessionID: 68686
 # Modern Data Modeling for Azure Data Lake and Azure SQL DW
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Design
+Event Date: 28-10-2017 - Session time: 10:10:00 - Track: Design
 ## Speaker: Steve Moss
 ## Title: Modern Data Modeling for Azure Data Lake and Azure SQL DW
 ## Abstract:
@@ -204,7 +204,7 @@ This presentation will explore when the concepts of dimensional modeling are sti
 #### SessionID: 69149
 # Why is my DBA So Grump? Real Reasons Why Some Code Practices Cause Issues.
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
+Event Date: 28-10-2017 - Session time: 10:10:00 - Track: Build
 ## Speaker: Rick Lowe
 ## Title: Why is my DBA So Grump? Real Reasons Why Some Code Practices Cause Issues.
 ## Abstract:
@@ -213,7 +213,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 #### SessionID: 69186
 # SQL Server Take Over:  Establishing a Baseline
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Support
+Event Date: 28-10-2017 - Session time: 10:10:00 - Track: Support
 ## Speaker: Lowry Kozlowski
 ## Title: SQL Server Take Over:  Establishing a Baseline
 ## Abstract:
@@ -228,7 +228,7 @@ The server is running slowly... or is it? Slow compared to what?  Before you be
 #### SessionID: 67733
 # Make Power BI Your Own with the Power BI APIs
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
+Event Date: 28-10-2017 - Session time: 12:50:00 - Track: Build
 ## Speaker: Steve Wake
 ## Title: Make Power BI Your Own with the Power BI APIs
 ## Abstract:
@@ -237,7 +237,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 #### SessionID: 67757
 # Will my workload run faster with In-Memory OLTP?
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
+Event Date: 28-10-2017 - Session time: 12:50:00 - Track: Perform
 ## Speaker: Ned Otter
 ## Title: Will my workload run faster with In-Memory OLTP?
 ## Abstract:
@@ -252,7 +252,7 @@ We will lift the veil of confusion that surrounds this blazingly fast feature. B
 #### SessionID: 67840
 # dbatools - PowerShell and SQL Server Working Together
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Support
+Event Date: 28-10-2017 - Session time: 12:50:00 - Track: Support
 ## Speaker: Sander Stad
 ## Title: dbatools - PowerShell and SQL Server Working Together
 ## Abstract:
@@ -262,7 +262,7 @@ In this session I'll show how dbatools can help you automate and simplify your d
 #### SessionID: 67843
 # Azure Machine Learning 101
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Analyze
+Event Date: 28-10-2017 - Session time: 12:50:00 - Track: Analyze
 ## Speaker: Kathi Kellenberger
 ## Title: Azure Machine Learning 101
 ## Abstract:
@@ -271,7 +271,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Analyze
 #### SessionID: 67915
 # Linux Administration for the SQL Server DBA
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
+Event Date: 28-10-2017 - Session time: 12:50:00 - Track: Build
 ## Speaker: David Klee
 ## Title: Linux Administration for the SQL Server DBA
 ## Abstract:
@@ -282,7 +282,7 @@ This introductory session will help seasoned SQL Server DBAs understand the basi
 #### SessionID: 68384
 # Introduction to Cortana  – Turning Data into Intelligent Action
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Design
+Event Date: 28-10-2017 - Session time: 12:50:00 - Track: Design
 ## Speaker: Melody Zacharias
 ## Title: Introduction to Cortana  – Turning Data into Intelligent Action
 ## Abstract:
@@ -291,7 +291,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Design
 #### SessionID: 68762
 # Well, actually...  How to not be THAT guy in IT
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Evolve
+Event Date: 28-10-2017 - Session time: 12:50:00 - Track: Evolve
 ## Speaker: Rie Irish
 ## Title: Well, actually...  How to not be THAT guy in IT
 ## Abstract:
@@ -302,7 +302,7 @@ It doesn't have to be that way.  Most of the guys we work with are stand-up, res
 #### SessionID: 69198
 # Query Optimization Statistics : Driving Force Behind Performance
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
+Event Date: 28-10-2017 - Session time: 12:50:00 - Track: Perform
 ## Speaker: Vern Rabe
 ## Title: Query Optimization Statistics : Driving Force Behind Performance
 ## Abstract:
@@ -311,7 +311,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 #### SessionID: 67724
 # Why candidates fail the job interview in the first minute
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Evolve
+Event Date: 28-10-2017 - Session time: 14:30:00 - Track: Evolve
 ## Speaker: Thomas Grohser
 ## Title: Why candidates fail the job interview in the first minute
 ## Abstract:
@@ -322,7 +322,7 @@ Thomas will share what he misses in resumes and how to respond to questions bett
 #### SessionID: 67727
 # Hi, my name is Powershell, let's be friends! An Intro to PoSH
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Support
+Event Date: 28-10-2017 - Session time: 14:30:00 - Track: Support
 ## Speaker: Amy Herold
 ## Title: Hi, my name is Powershell, let's be friends! An Intro to PoSH
 ## Abstract:
@@ -331,7 +331,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Support
 #### SessionID: 68324
 # What is new for database developers in Visual Studio 2017
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
+Event Date: 28-10-2017 - Session time: 14:30:00 - Track: Build
 ## Speaker: Frank Geisler
 ## Title: What is new for database developers in Visual Studio 2017
 ## Abstract:
@@ -340,7 +340,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
 #### SessionID: 68329
 # On Transactions and Atomic Operations
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
+Event Date: 28-10-2017 - Session time: 14:30:00 - Track: Build
 ## Speaker: Gail Shaw
 ## Title: On Transactions and Atomic Operations
 ## Abstract:
@@ -361,7 +361,7 @@ In this session, we’ll look at what transactions are and why we should use the
 #### SessionID: 68489
 # Locks, Blocks, and Snapshots: Maximizing Database Concurrency
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
+Event Date: 28-10-2017 - Session time: 14:30:00 - Track: Perform
 ## Speaker: Bob Pusateri
 ## Title: Locks, Blocks, and Snapshots: Maximizing Database Concurrency
 ## Abstract:
@@ -370,7 +370,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Perform
 #### SessionID: 68999
 # Data Wrangling for Reporting  Analytics
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Analyze
+Event Date: 28-10-2017 - Session time: 14:30:00 - Track: Analyze
 ## Speaker: Phil Robinson
 ## Title: Data Wrangling for Reporting  Analytics
 ## Abstract:
@@ -379,7 +379,7 @@ Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Analyze
 #### SessionID: 69182
 # Introduction to SQL Server Reporting Services
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Build
+Event Date: 28-10-2017 - Session time: 14:30:00 - Track: Build
 ## Speaker: Ted Stathakis
 ## Title: Introduction to SQL Server Reporting Services
 ## Abstract:
@@ -393,7 +393,7 @@ You will leave this session able to return to the office and present meaningful 
 #### SessionID: 69215
 # Understanding SQL Database-as-a-Service in Microsoft Azure Stack
 #### [Back to calendar](#nr-686)
-Event Date: 28-10-2017 - Session time: 15:55:00 - Track: Evolve
+Event Date: 28-10-2017 - Session time: 14:30:00 - Track: Evolve
 ## Speaker: Michael Wells
 ## Title: Understanding SQL Database-as-a-Service in Microsoft Azure Stack
 ## Abstract:

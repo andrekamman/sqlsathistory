@@ -41,7 +41,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 37434
 # Getting the Skinny on Minimally Logged Operations
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Intermediate
+Event Date: 10-10-2015 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment Intermediate
 ## Speaker: Andrew Kelly
 ## Title: Getting the Skinny on Minimally Logged Operations
 ## Abstract:
@@ -50,7 +50,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 37880
 # Get Familiar with Spatial Data
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Beginner
+Event Date: 10-10-2015 - Session time: 08:30:00 - Track: Application  Database Development Beginner
 ## Speaker: Slava Murygin
 ## Title: Get Familiar with Spatial Data
 ## Abstract:
@@ -60,7 +60,7 @@ We'll go through very basic SQL Server Spatial data functionality and draw some 
 #### SessionID: 38656
 # SQL Server Basic Backups for Beginners
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Beginner
+Event Date: 10-10-2015 - Session time: 08:30:00 - Track: Application  Database Development Beginner
 ## Speaker: Mark Gordon
 ## Title: SQL Server Basic Backups for Beginners
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 39005
 # Working with Object Compression in SQL Server
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Advanced
+Event Date: 10-10-2015 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment Advanced
 ## Speaker: Jason Brimhall
 ## Title: Working with Object Compression in SQL Server
 ## Abstract:
@@ -80,7 +80,7 @@ This session shows you how to reach into the database and discover compression s
 #### SessionID: 39966
 # Analysis Services: Show Me Where It Hurts
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration Intermediate
+Event Date: 10-10-2015 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration Intermediate
 ## Speaker: Bill Anton
 ## Title: Analysis Services: Show Me Where It Hurts
 ## Abstract:
@@ -93,7 +93,7 @@ Join this "something-everyone-should-be-doing-but-isn't" session, in which we wi
 #### SessionID: 39989
 # Disaster Recovery 101
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 10-10-2015 - Session time: 08:30:00 - Track: Strategy and Architecture
 ## Speaker: Tracy Boggiano
 ## Title: Disaster Recovery 101
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 40053
 # Managing Very Large Databases with SQL Server
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Intermediate
+Event Date: 10-10-2015 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment Intermediate
 ## Speaker: Brian Carrig
 ## Title: Managing Very Large Databases with SQL Server
 ## Abstract:
@@ -113,7 +113,7 @@ In this session, I will provide some practical advice on managing VLDBs with SQL
 #### SessionID: 37823
 # I’m New, Select Me!
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Beginner
+Event Date: 10-10-2015 - Session time: 09:45:00 - Track: Application  Database Development Beginner
 ## Speaker: Thomas Norman
 ## Title: I’m New, Select Me!
 ## Abstract:
@@ -122,7 +122,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 37861
 # PowerShell Basics for SQLServer
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Beginner
+Event Date: 10-10-2015 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment Beginner
 ## Speaker: Michael Wharton
 ## Title: PowerShell Basics for SQLServer
 ## Abstract:
@@ -131,7 +131,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 38219
 # First Look at SQL Server 2016
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Intermediate
+Event Date: 10-10-2015 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment Intermediate
 ## Speaker: Rick Heiges
 ## Title: First Look at SQL Server 2016
 ## Abstract:
@@ -140,7 +140,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 38365
 # Query Compilation and Plan Caching
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Intermediate
+Event Date: 10-10-2015 - Session time: 09:45:00 - Track: Application  Database Development Intermediate
 ## Speaker: Dale Burnett
 ## Title: Query Compilation and Plan Caching
 ## Abstract:
@@ -149,7 +149,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 39106
 # Getting Started with SSIS Script Tasks and Components
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration Beginner
+Event Date: 10-10-2015 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration Beginner
 ## Speaker: John Welch
 ## Title: Getting Started with SSIS Script Tasks and Components
 ## Abstract:
@@ -159,7 +159,7 @@ Many data movement activities can be handled with SSIS using the built-in tasks 
 #### SessionID: 39761
 # If You Build It, They Will Come--Creating Your Own Opportunities!
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 10-10-2015 - Session time: 09:45:00 - Track: Professional Development
 ## Speaker: Carlos L Chacon
 ## Title: If You Build It, They Will Come--Creating Your Own Opportunities!
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 37049
 # Congrats on your promotion to DBA, now what?
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 10-10-2015 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Doug Purnell
 ## Title: Congrats on your promotion to DBA, now what?
 ## Abstract:
@@ -177,7 +177,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 37930
 # Automated SQL Server installation and configuration using PowerShell
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Beginner
+Event Date: 10-10-2015 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment Beginner
 ## Speaker: Jamie Wick
 ## Title: Automated SQL Server installation and configuration using PowerShell
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 39003
 # A Masters Passport to Extended Events
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Advanced
+Event Date: 10-10-2015 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment Advanced
 ## Speaker: Jason Brimhall
 ## Title: A Masters Passport to Extended Events
 ## Abstract:
@@ -200,7 +200,7 @@ This session on Extended Events will help prepare you to put this tool to immedi
 #### SessionID: 39229
 # Table Vars and Temp Tables – What you NEED to Know!
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Intermediate
+Event Date: 10-10-2015 - Session time: 11:00:00 - Track: Application  Database Development Intermediate
 ## Speaker: Wayne Sheffield
 ## Title: Table Vars and Temp Tables – What you NEED to Know!
 ## Abstract:
@@ -209,7 +209,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 39791
 # Maintain SQL Server Performance Baseline w/PowerShell
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Intermediate
+Event Date: 10-10-2015 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment Intermediate
 ## Speaker: Allen White
 ## Title: Maintain SQL Server Performance Baseline w/PowerShell
 ## Abstract:
@@ -218,7 +218,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 39967
 # 20 Minute Tabular Model
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration Intermediate
+Event Date: 10-10-2015 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration Intermediate
 ## Speaker: Bill Anton
 ## Title: 20 Minute Tabular Model
 ## Abstract:
@@ -229,7 +229,7 @@ Join me in this session and learn what a Tabular model is, how it fits into the 
 #### SessionID: 40056
 # Common SQL Server Development Misconceptions
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Beginner
+Event Date: 10-10-2015 - Session time: 11:00:00 - Track: Application  Database Development Beginner
 ## Speaker: Brian Carrig
 ## Title: Common SQL Server Development Misconceptions
 ## Abstract:
@@ -238,7 +238,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 37435
 # Collecting and Analyzing File  Wait Statistics
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Intermediate
+Event Date: 10-10-2015 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment Intermediate
 ## Speaker: Andrew Kelly
 ## Title: Collecting and Analyzing File  Wait Statistics
 ## Abstract:
@@ -247,7 +247,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 37881
 # Statistics are hidden treasure.
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Advanced
+Event Date: 10-10-2015 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment Advanced
 ## Speaker: Slava Murygin
 ## Title: Statistics are hidden treasure.
 ## Abstract:
@@ -262,7 +262,7 @@ Also, will show how to use statistics in your day-to-day life and benefit from i
 #### SessionID: 39107
 # Advanced Scripting Using SSIS Script Tasks and Components
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration Intermediate
+Event Date: 10-10-2015 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration Intermediate
 ## Speaker: John Welch
 ## Title: Advanced Scripting Using SSIS Script Tasks and Components
 ## Abstract:
@@ -272,7 +272,7 @@ SSIS offers significant capabilities out-of-the-box. However, many data movement
 #### SessionID: 39399
 # No Money for Performance Monitoring Tools? No Problem!
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Beginner
+Event Date: 10-10-2015 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment Beginner
 ## Speaker: Patrick Keisler
 ## Title: No Money for Performance Monitoring Tools? No Problem!
 ## Abstract:
@@ -281,7 +281,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 39763
 # The TSQL Review for the Busy Data Professional
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Beginner
+Event Date: 10-10-2015 - Session time: 13:30:00 - Track: Application  Database Development Beginner
 ## Speaker: Carlos L Chacon
 ## Title: The TSQL Review for the Busy Data Professional
 ## Abstract:
@@ -290,7 +290,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 39790
 # Scalable Application Design with Service Broker
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Intermediate
+Event Date: 10-10-2015 - Session time: 13:30:00 - Track: Application  Database Development Intermediate
 ## Speaker: Allen White
 ## Title: Scalable Application Design with Service Broker
 ## Abstract:
@@ -299,7 +299,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 37079
 # Excel with DAX
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration Beginner
+Event Date: 10-10-2015 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration Beginner
 ## Speaker: Azhagappan Arunachalam
 ## Title: Excel with DAX
 ## Abstract:
@@ -308,7 +308,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 37301
 # R For The .NET Developer
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 10-10-2015 - Session time: 14:45:00 - Track: Analytics and Visualization
 ## Speaker: Jamie Dixon
 ## Title: R For The .NET Developer
 ## Abstract:
@@ -320,7 +320,7 @@ This session will assume no prior experience with R.  We will look at its syntax
 #### SessionID: 37366
 # What can SQLCLR do for you?
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database Development Beginner
+Event Date: 10-10-2015 - Session time: 14:45:00 - Track: Application  Database Development Beginner
 ## Speaker: Solomon Rutzky
 ## Title: What can SQLCLR do for you?
 ## Abstract:
@@ -329,7 +329,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 39699
 # Secure SQL Server Database With TDE
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment Intermediate
+Event Date: 10-10-2015 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment Intermediate
 ## Speaker: Thomas Chan
 ## Title: Secure SQL Server Database With TDE
 ## Abstract:
@@ -338,7 +338,7 @@ Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 39958
 # Beginning Azure
 #### [Back to calendar](#nr-445)
-Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 10-10-2015 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Thomas Norman
 ## Title: Beginning Azure
 ## Abstract:

@@ -60,7 +60,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 50334
 # Polybase and Time Travel (Temporal Tables)
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-09-2016 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stan Geiger
 ## Title: Polybase and Time Travel (Temporal Tables)
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 52418
 # Developing R and SQL Server 2016
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 24-09-2016 - Session time: 08:30:00 - Track: BI Information Delivery
 ## Speaker: Ginger Grant
 ## Title: Developing R and SQL Server 2016
 ## Abstract:
@@ -82,7 +82,7 @@ Attendees will learn the setup requirements for running R from within SQL Server
 #### SessionID: 52544
 # Creating Access Web Apps with Power BI Integration
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 24-09-2016 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Andy Tabisz
 ## Title: Creating Access Web Apps with Power BI Integration
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 52734
 # Intro to SQL Server 2016 - Always Encrypted, Masking  Row level security
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Trayce Jordan
 ## Title: Intro to SQL Server 2016 - Always Encrypted, Masking  Row level security
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 52795
 # Power BI Performance Tips
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 24-09-2016 - Session time: 08:30:00 - Track: Analytics and Visualization
 ## Speaker: Rachael Martino
 ## Title: Power BI Performance Tips
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 52933
 # Stop Doing That! 5 Common T-SQL Anti-Patterns
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 24-09-2016 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: William Wolf
 ## Title: Stop Doing That! 5 Common T-SQL Anti-Patterns
 ## Abstract:
@@ -124,7 +124,7 @@ By the end of the session, you will be able to quickly identify these common ant
 #### SessionID: 53018
 # RESTful JSON API Microservices and SQL Server
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 24-09-2016 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Jared Nielsen
 ## Title: RESTful JSON API Microservices and SQL Server
 ## Abstract:
@@ -133,7 +133,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 54412
 # Agile Leadership Skills and Building High Performing Teams
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 24-09-2016 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: George Govantes
 ## Title: Agile Leadership Skills and Building High Performing Teams
 ## Abstract:
@@ -142,7 +142,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 50310
 # MICROSOFT: SQL Server 2016 Stretch Database 
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 24-09-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Anthony van Gemert
 ## Title: MICROSOFT: SQL Server 2016 Stretch Database 
 ## Abstract:
@@ -153,7 +153,7 @@ Come and meet some of the SQL Server Stretch database product team, and find out
 #### SessionID: 50317
 # Create a Data Loading Strategy
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-09-2016 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Casey
 ## Title: Create a Data Loading Strategy
 ## Abstract:
@@ -171,7 +171,7 @@ This session uses a Virtual Sandbox to demonstrate “real” data loads using t
 #### SessionID: 50325
 # SQL Server 2016: Data Masking and Encryption
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 24-09-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Sean Werick
 ## Title: SQL Server 2016: Data Masking and Encryption
 ## Abstract:
@@ -180,7 +180,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 52999
 # A DBA's guide to whole stack performance troubleshooting
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 24-09-2016 - Session time: 09:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Janik
 ## Title: A DBA's guide to whole stack performance troubleshooting
 ## Abstract:
@@ -193,7 +193,7 @@ Join me as I guide you through troubleshooting SQL Server performance from tip t
 #### SessionID: 53036
 # Tips for SQL Server Performance and Resiliency
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Shaw
 ## Title: Tips for SQL Server Performance and Resiliency
 ## Abstract:
@@ -205,7 +205,7 @@ These patterns are so clear in fact that I many SQL Servers will benefit from th
 #### SessionID: 54262
 # Weird stuff I saw ... while supporting a Java team
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 24-09-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Weird stuff I saw ... while supporting a Java team
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 54265
 # Azure SQL Database v12 - Lessons learned from the trenches
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 24-09-2016 - Session time: 09:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Roberto Cavalcanti
 ## Title: Azure SQL Database v12 - Lessons learned from the trenches
 ## Abstract:
@@ -223,7 +223,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 50324
 # Cursors temp tables and pivots oh boy
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 24-09-2016 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Steve Allison
 ## Title: Cursors temp tables and pivots oh boy
 ## Abstract:
@@ -232,7 +232,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 50327
 # The Journey from Data to Insight
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 24-09-2016 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Bryan Smith
 ## Title: The Journey from Data to Insight
 ## Abstract:
@@ -242,7 +242,7 @@ In this session, we will discuss the our current understanding of how this proce
 #### SessionID: 50424
 # Imposter Syndrome: Are You Faking It  Will they Find Out?
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 24-09-2016 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Mindy Curnutt
 ## Title: Imposter Syndrome: Are You Faking It  Will they Find Out?
 ## Abstract:
@@ -251,7 +251,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 50636
 # Code Like a Pirate ... Intro to R and Data Science Tools in MS
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 24-09-2016 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Jamey Johnston
 ## Title: Code Like a Pirate ... Intro to R and Data Science Tools in MS
 ## Abstract:
@@ -275,7 +275,7 @@ The focus of the session will be primarily on the introduction to the R language
 #### SessionID: 50755
 # Objective SQL Server Performance
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Objective SQL Server Performance
 ## Abstract:
@@ -284,7 +284,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 51147
 # Deploy SQL Server with Microsoft Azure Virtual Machine
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 24-09-2016 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bala Shankar
 ## Title: Deploy SQL Server with Microsoft Azure Virtual Machine
 ## Abstract:
@@ -293,7 +293,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 52935
 # Managing MSDB
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ryan Adams
 ## Title: Managing MSDB
 ## Abstract:
@@ -302,7 +302,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 53057
 # Standardize Your Baseline
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Shaw
 ## Title: Standardize Your Baseline
 ## Abstract:
@@ -316,7 +316,7 @@ These standardized baselines will give you a head start the next time you are lo
 #### SessionID: 53580
 # SSMS Tips and Tricks
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Latish Sehgal
 ## Title: SSMS Tips and Tricks
 ## Abstract:
@@ -326,7 +326,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 54263
 # WIT: Start 'em Young - Growing Women in IT
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 24-09-2016 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Amy Herold
 ## Title: WIT: Start 'em Young - Growing Women in IT
 ## Abstract:
@@ -337,7 +337,7 @@ Guest Speakers : Abha Jos
 #### SessionID: 54431
 # Dell EMC - Maximizing Microsoft SQL Server Storage Investments
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 24-09-2016 - Session time: 12:15:00 - Track: Professional Development
 ## Speaker: David Stein
 ## Title: Dell EMC - Maximizing Microsoft SQL Server Storage Investments
 ## Abstract:
@@ -348,7 +348,7 @@ Beyond just production database performance, DELL EMC provides robust database r
 #### SessionID: 54455
 # Dell EMC - Maximizing Microsoft SQL Server Storage Investments
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 24-09-2016 - Session time: 12:15:00 - Track: Professional Development
 ## Speaker: Craig Allen
 ## Title: Dell EMC - Maximizing Microsoft SQL Server Storage Investments
 ## Abstract:
@@ -359,7 +359,7 @@ Beyond just production database performance, DELL EMC provides robust database r
 #### SessionID: 54470
 # Kaminario - Pushing the SQL Turbo Button with All Flash Storage
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 24-09-2016 - Session time: 12:15:00 - Track: Professional Development
 ## Speaker: Michael Minichino
 ## Title: Kaminario - Pushing the SQL Turbo Button with All Flash Storage
 ## Abstract:
@@ -368,7 +368,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 54471
 # IA-Database Development using SQL Server Data Tools projects
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 24-09-2016 - Session time: 12:15:00 - Track: Professional Development
 ## Speaker: Mark Wheeler
 ## Title: IA-Database Development using SQL Server Data Tools projects
 ## Abstract:
@@ -379,7 +379,7 @@ By the end of the session, you will have the working knowledge on how to use dat
 #### SessionID: 50316
 # Seamlessly Scaling Azure SQL DB with Elastic Database Tools
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 24-09-2016 - Session time: 13:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Silvia Doomra
 ## Title: Seamlessly Scaling Azure SQL DB with Elastic Database Tools
 ## Abstract:
@@ -388,7 +388,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Cloud Application Devel
 #### SessionID: 50319
 # Troubleshooting SQL Server Performance
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stacy Gray
 ## Title: Troubleshooting SQL Server Performance
 ## Abstract:
@@ -397,7 +397,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 50396
 # Indexes: Everything You Wanted to Know -- Help or Hinder
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 24-09-2016 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: Indexes: Everything You Wanted to Know -- Help or Hinder
 ## Abstract:
@@ -406,7 +406,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 51047
 # Getting Started With Your First SQL Server AWS RDS Migration
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matthew Brimer
 ## Title: Getting Started With Your First SQL Server AWS RDS Migration
 ## Abstract:
@@ -415,7 +415,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 51079
 # Using Failover Clusters for High Availability
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rowdy Vinson
 ## Title: Using Failover Clusters for High Availability
 ## Abstract:
@@ -424,7 +424,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 52385
 # Understanding SQL Server R Services
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: Understanding SQL Server R Services
 ## Abstract:
@@ -433,7 +433,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 53005
 # Hi, my name is Powershell, let's be friends! An Intro to PoSH
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Hi, my name is Powershell, let's be friends! An Intro to PoSH
 ## Abstract:
@@ -442,7 +442,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 54513
 # Power Networking for Data Professionals
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 24-09-2016 - Session time: 13:15:00 - Track: Professional Development
 ## Speaker: Sri Sridharan
 ## Title: Power Networking for Data Professionals
 ## Abstract:
@@ -451,7 +451,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 50322
 # Build ETL efficiently (10x) with Minimal Logging
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-09-2016 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Simon Cho
 ## Title: Build ETL efficiently (10x) with Minimal Logging
 ## Abstract:
@@ -462,7 +462,7 @@ We will first analyze how data gets accessed from the source and how data gets u
 #### SessionID: 50639
 # Ways SQL Server Lies and the Performance Tuning Headaches It Can Cause.
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lance Tidwell
 ## Title: Ways SQL Server Lies and the Performance Tuning Headaches It Can Cause.
 ## Abstract:
@@ -471,7 +471,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 51040
 # SQL Server 2016: It Just Runs Faster
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Bob Ward
 ## Title: SQL Server 2016: It Just Runs Faster
 ## Abstract:
@@ -480,7 +480,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 52410
 # The AG-ony of Defeat: Let's Break Some SQL Server Availability Groups!
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 24-09-2016 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Harp
 ## Title: The AG-ony of Defeat: Let's Break Some SQL Server Availability Groups!
 ## Abstract:
@@ -489,7 +489,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 52777
 # Agile Data Warehouse and ETL Design with Biml
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-09-2016 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Stein
 ## Title: Agile Data Warehouse and ETL Design with Biml
 ## Abstract:
@@ -499,7 +499,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 52972
 # IoT – Particle Photon to Azure and PowerBI integration
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Other
+Event Date: 24-09-2016 - Session time: 14:30:00 - Track: Other
 ## Speaker: Louis Mangiacapra
 ## Title: IoT – Particle Photon to Azure and PowerBI integration
 ## Abstract:
@@ -514,7 +514,7 @@ For this training we will specifically look at publishing data from a Particle P
 #### SessionID: 52984
 # How To Plan Meetings That Work
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Development
+Event Date: 24-09-2016 - Session time: 14:30:00 - Track: Professional Development
 ## Speaker: Lori Edwards
 ## Title: How To Plan Meetings That Work
 ## Abstract:
@@ -525,7 +525,7 @@ Event Date: 24-09-2016 - Session time: 15:45:00 - Track: Professional Developmen
 #### SessionID: 54411
 # Step by Step SSIS Import Package Creation
 #### [Back to calendar](#nr-563)
-Event Date: 24-09-2016 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 24-09-2016 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mike Burek
 ## Title: Step by Step SSIS Import Package Creation
 ## Abstract:

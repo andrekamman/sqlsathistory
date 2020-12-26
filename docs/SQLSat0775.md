@@ -24,7 +24,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 78501
 # Let the Cognitive Services to help you to find your favourite cocktail.
 #### [Back to calendar](#nr-775)
-Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Cloud Application Development  Deployment
+Event Date: 15-09-2018 - Session time: 09:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Alexander Klein
 ## Title: Let the Cognitive Services to help you to find your favourite cocktail.
 ## Abstract:
@@ -34,7 +34,7 @@ The Cogntive services offer here with face, emotion and recommendation three API
 #### SessionID: 78503
 # DevOPS for DBAs - Where is your magic wand?
 #### [Back to calendar](#nr-775)
-Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-09-2018 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: DevOPS for DBAs - Where is your magic wand?
 ## Abstract:
@@ -48,7 +48,7 @@ Take away best practices associated in DEVOPS and DBA world.
 #### SessionID: 78530
 # Scaling Out Workload Processing Using SQL Server Running Inside Containers
 #### [Back to calendar](#nr-775)
-Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Application  Database Development
+Event Date: 15-09-2018 - Session time: 09:15:00 - Track: Application  Database Development
 ## Speaker: Christopher Adkin
 ## Title: Scaling Out Workload Processing Using SQL Server Running Inside Containers
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Application  Database D
 #### SessionID: 78962
 # The Road to The Autonomous Databases
 #### [Back to calendar](#nr-775)
-Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Strategy and Architecture
+Event Date: 15-09-2018 - Session time: 10:35:00 - Track: Strategy and Architecture
 ## Speaker: Janusz Rokicki
 ## Title: The Road to The Autonomous Databases
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Strategy and Architectu
 #### SessionID: 80611
 # SQL Server, Next station Azure
 #### [Back to calendar](#nr-775)
-Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Cloud Application Development  Deployment
+Event Date: 15-09-2018 - Session time: 10:35:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: SQL Server, Next station Azure
 ## Abstract:
@@ -82,7 +82,7 @@ We will cover:
 #### SessionID: 83920
 # Natural Born Killers, Performance Issues to Avoid
 #### [Back to calendar](#nr-775)
-Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Application  Database Development
+Event Date: 15-09-2018 - Session time: 10:35:00 - Track: Application  Database Development
 ## Speaker: Lord Richard Douglas
 ## Title: Natural Born Killers, Performance Issues to Avoid
 ## Abstract:
@@ -95,7 +95,7 @@ You will leave this session with a list of things that you can check for in your
 #### SessionID: 80848
 # How to build solution for High Availability/Disaster Recovery
 #### [Back to calendar](#nr-775)
-Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Strategy and Architecture
+Event Date: 15-09-2018 - Session time: 11:45:00 - Track: Strategy and Architecture
 ## Speaker: Marcelo Fernandes
 ## Title: How to build solution for High Availability/Disaster Recovery
 ## Abstract:
@@ -105,7 +105,7 @@ In this session, we will cover all aspects of HA / DR. We will cover all technol
 #### SessionID: 82885
 # SQL Server  GDPR
 #### [Back to calendar](#nr-775)
-Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-09-2018 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Francisco Racionero
 ## Title: SQL Server  GDPR
 ## Abstract:
@@ -120,7 +120,7 @@ Monitoring
 #### SessionID: 83714
 # Don't Use Cursors or Why You Maybe Should Use a Cursor After All
 #### [Back to calendar](#nr-775)
-Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Application  Database Development
+Event Date: 15-09-2018 - Session time: 11:45:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Don't Use Cursors or Why You Maybe Should Use a Cursor After All
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Application  Database D
 #### SessionID: 80821
 # Encryption in SQL Server
 #### [Back to calendar](#nr-775)
-Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-09-2018 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: Encryption in SQL Server
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Enterprise Database Adm
 #### SessionID: 83635
 # Data Wrangling as the key to success with Data Lake
 #### [Back to calendar](#nr-775)
-Event Date: 15-09-2018 - Session time: 16:10:00 - Track: BI Information Delivery
+Event Date: 15-09-2018 - Session time: 13:45:00 - Track: BI Information Delivery
 ## Speaker: Sergiy Lunyakin
 ## Title: Data Wrangling as the key to success with Data Lake
 ## Abstract:
@@ -147,7 +147,7 @@ Event Date: 15-09-2018 - Session time: 16:10:00 - Track: BI Information Delivery
 #### SessionID: 83732
 # Azure Stream Analytics  Machine learning: better together
 #### [Back to calendar](#nr-775)
-Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Advanced Analysis Techniques
+Event Date: 15-09-2018 - Session time: 13:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Nico Jacobs
 ## Title: Azure Stream Analytics  Machine learning: better together
 ## Abstract:
@@ -157,7 +157,7 @@ So if you want to see how within 60 minutes we can learn patterns in streams of 
 #### SessionID: 78873
 # Headless chicken - calming the sysadmin that turned DBA
 #### [Back to calendar](#nr-775)
-Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 15-09-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Alexander Arvidsson
 ## Title: Headless chicken - calming the sysadmin that turned DBA
 ## Abstract:
@@ -166,7 +166,7 @@ Event Date: 15-09-2018 - Session time: 16:10:00 - Track: Enterprise Database Adm
 #### SessionID: 82570
 # Making reports in SSRS: beyond standard tools
 #### [Back to calendar](#nr-775)
-Event Date: 15-09-2018 - Session time: 16:10:00 - Track: BI Information Delivery
+Event Date: 15-09-2018 - Session time: 15:00:00 - Track: BI Information Delivery
 ## Speaker: Andrea Martorana Tusa
 ## Title: Making reports in SSRS: beyond standard tools
 ## Abstract:

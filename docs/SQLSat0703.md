@@ -32,7 +32,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 72898
 # Diseñando e Implementando Almacenamientos en Azure
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-04-2018 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julián Castiblanco
 ## Title: Diseñando e Implementando Almacenamientos en Azure
 ## Abstract:
@@ -41,7 +41,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 74049
 # What is new with SQL 2017
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-04-2018 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christian Araujo
 ## Title: What is new with SQL 2017
 ## Abstract:
@@ -50,7 +50,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 74082
 # From problem to Power BI:  A journey in data visualization
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 21-04-2018 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Jonathan Stewart
 ## Title: From problem to Power BI:  A journey in data visualization
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 74605
 # Como crear un dashboard para el DBA con Power BI
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 21-04-2018 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Juan Alvarado
 ## Title: Como crear un dashboard para el DBA con Power BI
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 74612
 # Definición y mejores prácticas de Particionamiento en SQL Server
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-04-2018 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jose Arguello Hines
 ## Title: Definición y mejores prácticas de Particionamiento en SQL Server
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 70192
 # Database Development and Automation with SQL Server Data Tools
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 21-04-2018 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Ken Stuber
 ## Title: Database Development and Automation with SQL Server Data Tools
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 70441
 # Power BI Report Server
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Information Delivery
+Event Date: 21-04-2018 - Session time: 10:15:00 - Track: Information Delivery
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Power BI Report Server
 ## Abstract:
@@ -96,7 +96,7 @@ Esta charla cubre temas como la instalación, creación de reportes, publicarlos
 #### SessionID: 74241
 # SQL Server 2017 - Graph Databases
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 21-04-2018 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: SQL Server 2017 - Graph Databases
 ## Abstract:
@@ -107,7 +107,7 @@ Evoluciones, como trabajarlo correctamente, entre otros.
 #### SessionID: 74642
 # ¡Data Discovery con R y PBI! ¿Qué es? y ¿Por qué es importante?
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 21-04-2018 - Session time: 10:15:00 - Track: Analytics and Visualization
 ## Speaker: Ricardo Estrada
 ## Title: ¡Data Discovery con R y PBI! ¿Qué es? y ¿Por qué es importante?
 ## Abstract:
@@ -120,7 +120,7 @@ Herramientas que utilzaremos:
 #### SessionID: 70878
 # Cosas que tienes que hacer antes de llamar a Microsoft Support
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 21-04-2018 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Adrian Miranda
 ## Title: Cosas que tienes que hacer antes de llamar a Microsoft Support
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 72546
 # Tips and tricks de Power BI
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 21-04-2018 - Session time: 11:30:00 - Track: BI Information Delivery
 ## Speaker: Juan Alvarado
 ## Title: Tips and tricks de Power BI
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 74508
 # Business Intelligence DevOps
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-04-2018 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: César Oviedo
 ## Title: Business Intelligence DevOps
 ## Abstract:
@@ -147,7 +147,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 74522
 # Dr Rudo SQL presenta: administra SQL Server en Linux como un master
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-04-2018 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Dr Rudo SQL presenta: administra SQL Server en Linux como un master
 ## Abstract:
@@ -157,7 +157,7 @@ Acompaña al Dr Rudo y ayudale a ganar esta lucha a 2 de 3 caidas!!!
 #### SessionID: 69822
 # Much Ado About Hadoop
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 21-04-2018 - Session time: 13:30:00 - Track: Strategy and Architecture
 ## Speaker: Kevin Feasel
 ## Title: Much Ado About Hadoop
 ## Abstract:
@@ -166,7 +166,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 72813
 # Successfully Virtualizing SQL Server on vSphere - Straight from the Source
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 21-04-2018 - Session time: 13:30:00 - Track: Strategy and Architecture
 ## Speaker: Deji Akomolafe
 ## Title: Successfully Virtualizing SQL Server on vSphere - Straight from the Source
 ## Abstract:
@@ -175,7 +175,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 74083
 # Performance Tuning for the BI Professional
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 21-04-2018 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: Performance Tuning for the BI Professional
 ## Abstract:
@@ -184,7 +184,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 74232
 # La Era de los Reportes Móviles
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 21-04-2018 - Session time: 13:30:00 - Track: Analytics and Visualization
 ## Speaker: Yanitza Campos
 ## Title: La Era de los Reportes Móviles
 ## Abstract:
@@ -193,7 +193,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 69695
 # Aprovechando los AlwaysOn Basic Availability Groups en SQL-Server Standard Edition
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 21-04-2018 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Carlos Rojas Vargas
 ## Title: Aprovechando los AlwaysOn Basic Availability Groups en SQL-Server Standard Edition
 ## Abstract:
@@ -202,7 +202,7 @@ Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 70598
 # La historia debe contarse como es......SQL Temporal Tables
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 21-04-2018 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Vladimir Guzman
 ## Title: La historia debe contarse como es......SQL Temporal Tables
 ## Abstract:
@@ -213,7 +213,7 @@ Veremos las formas de crear Temporal Tables así como su acceso, consulta y actu
 #### SessionID: 72035
 # Necesitamos BI, ¡utilicemos la nube! (Azure SQL Database - Azure Analysis Services - Power BI)
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 21-04-2018 - Session time: 14:45:00 - Track: BI Information Delivery
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: Necesitamos BI, ¡utilicemos la nube! (Azure SQL Database - Azure Analysis Services - Power BI)
 ## Abstract:
@@ -223,7 +223,7 @@ En este espacio aprovecharemos las bondades de una solución 100% nube, creando 
 #### SessionID: 74058
 # Flotando en un lago de datos? - Exploremos Azure Data Lake
 #### [Back to calendar](#nr-703)
-Event Date: 21-04-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 21-04-2018 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christian Araujo
 ## Title: Flotando en un lago de datos? - Exploremos Azure Data Lake
 ## Abstract:

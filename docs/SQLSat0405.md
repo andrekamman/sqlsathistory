@@ -19,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 19885
 # SQL en ambientes virtuales
 #### [Back to calendar](#nr-405)
-Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deployment
+Event Date: 22-05-2015 - Session time: 10:00:00 - Track: Administración  Deployment
 ## Speaker: Maximiliano Damian Accotto
 ## Title: SQL en ambientes virtuales
 ## Abstract:
@@ -28,7 +28,7 @@ Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deploy
 #### SessionID: 36739
 # Big Data and Microsoft Azure
 #### [Back to calendar](#nr-405)
-Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarrollo y BI
+Event Date: 22-05-2015 - Session time: 10:00:00 - Track: Plataforma de Desarrollo y BI
 ## Speaker: Adrian Fernandez
 ## Title: Big Data and Microsoft Azure
 ## Abstract:
@@ -39,7 +39,7 @@ I’ll also show how to works in Microsoft Big Data Analytics platform component
 #### SessionID: 15999
 # SQL Monitoring
 #### [Back to calendar](#nr-405)
-Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deployment
+Event Date: 22-05-2015 - Session time: 11:10:00 - Track: Administración  Deployment
 ## Speaker: Javier Villegas
 ## Title: SQL Monitoring
 ## Abstract:
@@ -50,7 +50,7 @@ DBA Dashboard
 #### SessionID: 36925
 # Power Query
 #### [Back to calendar](#nr-405)
-Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarrollo y BI
+Event Date: 22-05-2015 - Session time: 11:10:00 - Track: Plataforma de Desarrollo y BI
 ## Speaker: Alejandro Cabanchik
 ## Title: Power Query
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarroll
 #### SessionID: 19884
 # Tuning avanzado para DBa#180;s
 #### [Back to calendar](#nr-405)
-Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deployment
+Event Date: 22-05-2015 - Session time: 12:20:00 - Track: Administración  Deployment
 ## Speaker: Maximiliano Damian Accotto
 ## Title: Tuning avanzado para DBa#180;s
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deploy
 #### SessionID: 35627
 # Juez, Jurado Y  Verdugo--Una Primera Observaci#243;n de Planes de Eje
 #### [Back to calendar](#nr-405)
-Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarrollo y BI
+Event Date: 22-05-2015 - Session time: 12:20:00 - Track: Plataforma de Desarrollo y BI
 ## Speaker: Carlos L Chacon
 ## Title: Juez, Jurado Y  Verdugo--Una Primera Observaci#243;n de Planes de Eje
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarroll
 #### SessionID: 35626
 # "I Know What You Did Last Query" --SQL Server
 #### [Back to calendar](#nr-405)
-Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deployment
+Event Date: 22-05-2015 - Session time: 14:30:00 - Track: Administración  Deployment
 ## Speaker: Carlos L Chacon
 ## Title: "I Know What You Did Last Query" --SQL Server
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deploy
 #### SessionID: 36926
 # Mobile BI with Datazen
 #### [Back to calendar](#nr-405)
-Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarrollo y BI
+Event Date: 22-05-2015 - Session time: 14:30:00 - Track: Plataforma de Desarrollo y BI
 ## Speaker: Alejandro Cabanchik
 ## Title: Mobile BI with Datazen
 ## Abstract:
@@ -95,7 +95,7 @@ Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarroll
 #### SessionID: 36740
 # Microsoft Azure and Internet of Things (IoT)
 #### [Back to calendar](#nr-405)
-Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Plataforma de Desarrollo y BI
+Event Date: 22-05-2015 - Session time: 15:40:00 - Track: Plataforma de Desarrollo y BI
 ## Speaker: Adrian Fernandez
 ## Title: Microsoft Azure and Internet of Things (IoT)
 ## Abstract:
@@ -105,7 +105,7 @@ data, Internet of Things (IoT), Stream Analytcs and Open Hardware.
 #### SessionID: 37114
 # Administre, Diagnostique y Resuelva problemas sobre su SQL Server
 #### [Back to calendar](#nr-405)
-Event Date: 22-05-2015 - Session time: 16:50:00 - Track: Administración  Deployment
+Event Date: 22-05-2015 - Session time: 15:40:00 - Track: Administración  Deployment
 ## Speaker: Gustavo Boismoreau
 ## Title: Administre, Diagnostique y Resuelva problemas sobre su SQL Server
 ## Abstract:

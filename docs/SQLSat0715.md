@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 71010
 # Database Console Commands
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Administração de Banco de Dados
+Event Date: 19-05-2018 - Session time: 09:30:00 - Track: Administração de Banco de Dados
 ## Speaker: Rodrigo Crespi
 ## Title: Database Console Commands
 ## Abstract:
@@ -38,7 +38,7 @@ Falaremos (Sem Censura!) sobre o impacto destes comandos e sua utilidade.#160;
 #### SessionID: 75809
 # 5 dicas de performance tuning para desenvolvedores
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Desenvolvimento de Software e Banco de Dados
+Event Date: 19-05-2018 - Session time: 09:30:00 - Track: Desenvolvimento de Software e Banco de Dados
 ## Speaker: Caio Amante
 ## Title: 5 dicas de performance tuning para desenvolvedores
 ## Abstract:
@@ -47,7 +47,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Desenvolvimento de Soft
 #### SessionID: 76980
 # Arquitetura e Processamento de Dados em Tempo Real
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
+Event Date: 19-05-2018 - Session time: 09:30:00 - Track: BI  Big Data
 ## Speaker: Viviane Ribeiro
 ## Title: Arquitetura e Processamento de Dados em Tempo Real
 ## Abstract:
@@ -56,7 +56,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 #### SessionID: 72524
 # Integrando LogicApp e CosmosDB
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Nuvem e Infraestrutura
+Event Date: 19-05-2018 - Session time: 10:30:00 - Track: Nuvem e Infraestrutura
 ## Speaker: Flávio Farias
 ## Title: Integrando LogicApp e CosmosDB
 ## Abstract:
@@ -65,7 +65,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Nuvem e Infraestrutura
 #### SessionID: 72931
 # Hacking SQL Server
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Administração de Banco de Dados
+Event Date: 19-05-2018 - Session time: 10:30:00 - Track: Administração de Banco de Dados
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Hacking SQL Server
 ## Abstract:
@@ -77,7 +77,7 @@ Simularemos uma invasão ao SQL Server explorando alguns conceitos mal interpret
 #### SessionID: 82115
 # Power BI não é só um rostinho bonito: Tratando arquivos de log
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
+Event Date: 19-05-2018 - Session time: 10:30:00 - Track: BI  Big Data
 ## Speaker: RUY LACERDA
 ## Title: Power BI não é só um rostinho bonito: Tratando arquivos de log
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 #### SessionID: 71054
 # Indices para Iniciantes - Clustered, Nonclustered,  Scan, Seek, Lookup e Muito Mais
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Desenvolvimento de Software e Banco de Dados
+Event Date: 19-05-2018 - Session time: 11:30:00 - Track: Desenvolvimento de Software e Banco de Dados
 ## Speaker: Fabrício Lima
 ## Title: Indices para Iniciantes - Clustered, Nonclustered,  Scan, Seek, Lookup e Muito Mais
 ## Abstract:
@@ -97,7 +97,7 @@ Veja isso e muito mais nessa palestra.
 #### SessionID: 73358
 # Ingerindo, Processando e Analisando Dados com Azure Data Lake Analytics
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
+Event Date: 19-05-2018 - Session time: 11:30:00 - Track: BI  Big Data
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Ingerindo, Processando e Analisando Dados com Azure Data Lake Analytics
 ## Abstract:
@@ -108,7 +108,7 @@ Nesta sessão, você aprenderá sobre o Azure Data Lake Store e o Azure Data Lak
 #### SessionID: 75836
 # Mulheres na TI - Desafios, medos e receios!
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Carreira
+Event Date: 19-05-2018 - Session time: 11:30:00 - Track: Carreira
 ## Speaker: Suellen Moraes
 ## Title: Mulheres na TI - Desafios, medos e receios!
 ## Abstract:
@@ -117,7 +117,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Carreira
 #### SessionID: 70843
 # Análise de Dados no Power BI
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
+Event Date: 19-05-2018 - Session time: 12:30:00 - Track: BI  Big Data
 ## Speaker: Karine Lago
 ## Title: Análise de Dados no Power BI
 ## Abstract:
@@ -126,7 +126,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 #### SessionID: 72336
 # SQL Server 2017 para desenvolvedores de software
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Desenvolvimento de Software e Banco de Dados
+Event Date: 19-05-2018 - Session time: 12:30:00 - Track: Desenvolvimento de Software e Banco de Dados
 ## Speaker: Renato Groffe
 ## Title: SQL Server 2017 para desenvolvedores de software
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Desenvolvimento de Soft
 #### SessionID: 75838
 # Machine Learning com Analysis Services
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
+Event Date: 19-05-2018 - Session time: 12:30:00 - Track: BI  Big Data
 ## Speaker: Rodrigo Dornel
 ## Title: Machine Learning com Analysis Services
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 #### SessionID: 70959
 # Window function como podemos tirar proveito?
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Desenvolvimento de Software e Banco de Dados
+Event Date: 19-05-2018 - Session time: 13:30:00 - Track: Desenvolvimento de Software e Banco de Dados
 ## Speaker: Felippe Oliveira
 ## Title: Window function como podemos tirar proveito?
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Desenvolvimento de Soft
 #### SessionID: 71801
 # SQL 2017 não é somente Linux, conheça as outras novidades!
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Administração de Banco de Dados
+Event Date: 19-05-2018 - Session time: 13:30:00 - Track: Administração de Banco de Dados
 ## Speaker: Felipe de Assis
 ## Title: SQL 2017 não é somente Linux, conheça as outras novidades!
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Administração de Banc
 #### SessionID: 72601
 # Introdução ao SQL DataWarehouse
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Nuvem e Infraestrutura
+Event Date: 19-05-2018 - Session time: 13:30:00 - Track: Nuvem e Infraestrutura
 ## Speaker: Vitor Fava
 ## Title: Introdução ao SQL DataWarehouse
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Nuvem e Infraestrutura
 #### SessionID: 72937
 # Machine Learning de caixinha?
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
+Event Date: 19-05-2018 - Session time: 14:30:00 - Track: BI  Big Data
 ## Speaker: Diego Nogare
 ## Title: Machine Learning de caixinha?
 ## Abstract:
@@ -180,7 +180,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: BI  Big Data
 #### SessionID: 74435
 # SaaS, IaaS e PaaS, vamos conhecer essa sopa de letrinhas ?
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Nuvem e Infraestrutura
+Event Date: 19-05-2018 - Session time: 14:30:00 - Track: Nuvem e Infraestrutura
 ## Speaker: Tiago Neves
 ## Title: SaaS, IaaS e PaaS, vamos conhecer essa sopa de letrinhas ?
 ## Abstract:
@@ -189,7 +189,7 @@ Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Nuvem e Infraestrutura
 #### SessionID: 76878
 # Carreiras - DBA, Cientista de Dados ou Engenheiro de Dados?
 #### [Back to calendar](#nr-715)
-Event Date: 19-05-2018 - Session time: 16:00:00 - Track: Carreira
+Event Date: 19-05-2018 - Session time: 14:30:00 - Track: Carreira
 ## Speaker: Advaldo Mesquita
 ## Title: Carreiras - DBA, Cientista de Dados ou Engenheiro de Dados?
 ## Abstract:

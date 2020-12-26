@@ -38,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 54394
 # SQL 2016 New features [EN]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Administration  (Enterprise Database  Deployment)
+Event Date: 20-01-2017 - Session time: 10:45:00 - Track: Administration  (Enterprise Database  Deployment)
 ## Speaker: David Postlethwaite
 ## Title: SQL 2016 New features [EN]
 ## Abstract:
@@ -47,7 +47,7 @@ Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Administration  (Enterp
 #### SessionID: 54418
 # Data Science Track in the Microsoft Professional (Degree) Program [EN]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: BI (Architecture, Development, Administration, Analytics, Vizualization)
+Event Date: 20-01-2017 - Session time: 10:45:00 - Track: BI (Architecture, Development, Administration, Analytics, Vizualization)
 ## Speaker: Suha Güngören
 ## Title: Data Science Track in the Microsoft Professional (Degree) Program [EN]
 ## Abstract:
@@ -63,7 +63,7 @@ We show you in that session, how you can benefit from this Microsoft Professiona
 #### SessionID: 54525
 # SQL Security in the Cloud [EN]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Administration  (Enterprise Database  Deployment)
+Event Date: 20-01-2017 - Session time: 10:45:00 - Track: Administration  (Enterprise Database  Deployment)
 ## Speaker: Tobias Koprowski
 ## Title: SQL Security in the Cloud [EN]
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Administration  (Enterp
 #### SessionID: 54673
 # SQL Server on Linux [DE]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Development (Application  Database)
+Event Date: 20-01-2017 - Session time: 10:45:00 - Track: Development (Application  Database)
 ## Speaker: Florian Mader
 ## Title: SQL Server on Linux [DE]
 ## Abstract:
@@ -81,7 +81,7 @@ Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Development (Applicatio
 #### SessionID: 55144
 # R 101 - What is this R thing, and is it worth some effort? [DE]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: BI (Architecture, Development, Administration, Analytics, Vizualization)
+Event Date: 20-01-2017 - Session time: 10:45:00 - Track: BI (Architecture, Development, Administration, Analytics, Vizualization)
 ## Speaker: Thomas Martens
 ## Title: R 101 - What is this R thing, and is it worth some effort? [DE]
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 20-01-2017 - Session time: 16:45:00 - Track: BI (Architecture, Devel
 #### SessionID: 56676
 # Lightning Talks (Ehrenmüller, Zunzer, Brückl, Monchen  Strasser)
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Lightning Talks
+Event Date: 20-01-2017 - Session time: 10:45:00 - Track: Lightning Talks
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Lightning Talks (Ehrenmüller, Zunzer, Brückl, Monchen  Strasser)
 ## Abstract:
@@ -103,7 +103,7 @@ Wolfgang Strasser: Power BI und ihre On-Premises Daten
 #### SessionID: 56893
 # Introduction into Microsoft Azure [DE]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-01-2017 - Session time: 10:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Oliver Lintner
 ## Title: Introduction into Microsoft Azure [DE]
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Cloud Application Devel
 #### SessionID: 54708
 # Women in Technology – Ein Thema in Österreich? [DE]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Lightning Talks
+Event Date: 20-01-2017 - Session time: 12:00:00 - Track: Lightning Talks
 ## Speaker: Gabi Münster
 ## Title: Women in Technology – Ein Thema in Österreich? [DE]
 ## Abstract:
@@ -127,7 +127,7 @@ Wir freuen uns auf eine rege Beteiligung. :-)
 #### SessionID: 54359
 # New Security Features in SQL Server 2016
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Administration  (Enterprise Database  Deployment)
+Event Date: 20-01-2017 - Session time: 13:00:00 - Track: Administration  (Enterprise Database  Deployment)
 ## Speaker: Gianluca Sartori
 ## Title: New Security Features in SQL Server 2016
 ## Abstract:
@@ -140,7 +140,7 @@ We will demonstrate the use of these three features with example applications an
 #### SessionID: 54850
 # Automating the testing of your BI solutions with NBi [EN]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: BI (Architecture, Development, Administration, Analytics, Vizualization)
+Event Date: 20-01-2017 - Session time: 13:00:00 - Track: BI (Architecture, Development, Administration, Analytics, Vizualization)
 ## Speaker: Cédric Charlier
 ## Title: Automating the testing of your BI solutions with NBi [EN]
 ## Abstract:
@@ -149,7 +149,7 @@ Event Date: 20-01-2017 - Session time: 16:45:00 - Track: BI (Architecture, Devel
 #### SessionID: 55037
 # Doing Hadoop with Azure HDInsight [DE]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-01-2017 - Session time: 13:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mario Meir-Huber
 ## Title: Doing Hadoop with Azure HDInsight [DE]
 ## Abstract:
@@ -158,7 +158,7 @@ Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Cloud Application Devel
 #### SessionID: 55052
 # A time travel with temporal tables [EN]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Development (Application  Database)
+Event Date: 20-01-2017 - Session time: 13:00:00 - Track: Development (Application  Database)
 ## Speaker: LEONEL ABREU
 ## Title: A time travel with temporal tables [EN]
 ## Abstract:
@@ -172,7 +172,7 @@ In this session will be shown the most useful scenarios:
 #### SessionID: 55066
 # If a machine can learn, why can't YOU learn Azure Machine Learning? [EN]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-01-2017 - Session time: 13:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: André Melancia
 ## Title: If a machine can learn, why can't YOU learn Azure Machine Learning? [EN]
 ## Abstract:
@@ -183,7 +183,7 @@ Disclaimer: Sadly, AzureML still can't predict what's on your girlfriend's mind.
 #### SessionID: 56697
 # Maximierung Ihres Investments in Microsoft mit Pyramid Analytics [DE]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: BI (Architecture, Development, Administration, Analytics, Vizualization)
+Event Date: 20-01-2017 - Session time: 13:00:00 - Track: BI (Architecture, Development, Administration, Analytics, Vizualization)
 ## Speaker: Emma Page
 ## Title: Maximierung Ihres Investments in Microsoft mit Pyramid Analytics [DE]
 ## Abstract:
@@ -194,7 +194,7 @@ Erfahren Sie in diesem Vortrag, wie Sie mit BI Office Ihr Investment in Microsof
 #### SessionID: 54090
 # SSIS für Faulpelze – Einführung in Biml [DE]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: BI (Architecture, Development, Administration, Analytics, Vizualization)
+Event Date: 20-01-2017 - Session time: 14:15:00 - Track: BI (Architecture, Development, Administration, Analytics, Vizualization)
 ## Speaker: Ben Weissman
 ## Title: SSIS für Faulpelze – Einführung in Biml [DE]
 ## Abstract:
@@ -203,7 +203,7 @@ Event Date: 20-01-2017 - Session time: 16:45:00 - Track: BI (Architecture, Devel
 #### SessionID: 54740
 # Business Intelligence for Modern IoT Solutions in Microsoft Azure [EN]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-01-2017 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mihail Mateev
 ## Title: Business Intelligence for Modern IoT Solutions in Microsoft Azure [EN]
 ## Abstract:
@@ -214,7 +214,7 @@ This talk is about the main types of BI, used in IoT systems. Presentation is al
 #### SessionID: 54870
 # Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server [EN]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Development (Application  Database)
+Event Date: 20-01-2017 - Session time: 14:15:00 - Track: Development (Application  Database)
 ## Speaker: Kevin Feasel
 ## Title: Peanut Butter  Chocolate:  Integrating Hadoop with SQL Server [EN]
 ## Abstract:
@@ -223,7 +223,7 @@ Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Development (Applicatio
 #### SessionID: 54906
 # Azure 101 for DB Administrators [DE]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-01-2017 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Raoul Holzer
 ## Title: Azure 101 for DB Administrators [DE]
 ## Abstract:
@@ -232,7 +232,7 @@ Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Cloud Application Devel
 #### SessionID: 55084
 # Exploring Dark Data with SQL Server 2016 and R [EN]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Development (Application  Database)
+Event Date: 20-01-2017 - Session time: 14:15:00 - Track: Development (Application  Database)
 ## Speaker: Oliver Frost
 ## Title: Exploring Dark Data with SQL Server 2016 and R [EN]
 ## Abstract:
@@ -245,7 +245,7 @@ This session is for anyone who is new to R and is interesting expanding their sk
 #### SessionID: 55134
 # Modern Database Administration using PowerShell and dbatools [EN]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Administration  (Enterprise Database  Deployment)
+Event Date: 20-01-2017 - Session time: 14:15:00 - Track: Administration  (Enterprise Database  Deployment)
 ## Speaker: Chrissy LeMaire
 ## Title: Modern Database Administration using PowerShell and dbatools [EN]
 ## Abstract:
@@ -256,7 +256,7 @@ Join for me for this electric, demo-heavy session to learn how to greatly simpli
 #### SessionID: 54357
 # SQL Server Infernals: Worst Practices in Action [EN]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Development (Application  Database)
+Event Date: 20-01-2017 - Session time: 15:30:00 - Track: Development (Application  Database)
 ## Speaker: Gianluca Sartori
 ## Title: SQL Server Infernals: Worst Practices in Action [EN]
 ## Abstract:
@@ -267,7 +267,7 @@ Have you ever thought that in dire times avoiding Worst Practices could be a goo
 #### SessionID: 54592
 # SQL Server 2016 R Integration for database administrators [EN]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Administration  (Enterprise Database  Deployment)
+Event Date: 20-01-2017 - Session time: 15:30:00 - Track: Administration  (Enterprise Database  Deployment)
 ## Speaker: Tomaž Kaštrun
 ## Title: SQL Server 2016 R Integration for database administrators [EN]
 ## Abstract:
@@ -279,7 +279,7 @@ This session will explore possibilities on how R integration can work for DBA.  
 #### SessionID: 54702
 # Multi-client SSAS deployment : What's MDS got to do with? [DE]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: BI (Architecture, Development, Administration, Analytics, Vizualization)
+Event Date: 20-01-2017 - Session time: 15:30:00 - Track: BI (Architecture, Development, Administration, Analytics, Vizualization)
 ## Speaker: Gabi Münster
 ## Title: Multi-client SSAS deployment : What's MDS got to do with? [DE]
 ## Abstract:
@@ -292,7 +292,7 @@ But how about the Tabular mode? Let's find out together if we can apply a simila
 #### SessionID: 54843
 # Microsoft Business Intelligence für alle mobilen Plattformen [DE]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: BI (Architecture, Development, Administration, Analytics, Vizualization)
+Event Date: 20-01-2017 - Session time: 15:30:00 - Track: BI (Architecture, Development, Administration, Analytics, Vizualization)
 ## Speaker: Frank Geisler
 ## Title: Microsoft Business Intelligence für alle mobilen Plattformen [DE]
 ## Abstract:
@@ -301,7 +301,7 @@ Event Date: 20-01-2017 - Session time: 16:45:00 - Track: BI (Architecture, Devel
 #### SessionID: 54945
 # In the name of the resources: Aggregating data [EN]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Development (Application  Database)
+Event Date: 20-01-2017 - Session time: 15:30:00 - Track: Development (Application  Database)
 ## Speaker: Dejan Dular
 ## Title: In the name of the resources: Aggregating data [EN]
 ## Abstract:
@@ -310,7 +310,7 @@ Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Development (Applicatio
 #### SessionID: 56195
 # Extended Events – The Top Features for efficient Traces [DE]
 #### [Back to calendar](#nr-579)
-Event Date: 20-01-2017 - Session time: 16:45:00 - Track: Administration  (Enterprise Database  Deployment)
+Event Date: 20-01-2017 - Session time: 15:30:00 - Track: Administration  (Enterprise Database  Deployment)
 ## Speaker: Andreas Wolter
 ## Title: Extended Events – The Top Features for efficient Traces [DE]
 ## Abstract:

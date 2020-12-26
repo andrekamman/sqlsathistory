@@ -48,7 +48,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 71304
 # Practical Design Pitfalls in designing Enterprise Data Warehouse
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dr. Suresh Rajappa
 ## Title: Practical Design Pitfalls in designing Enterprise Data Warehouse
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 71386
 # Data Modeling for the Modern Data Warehouse
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Casey
 ## Title: Data Modeling for the Modern Data Warehouse
 ## Abstract:
@@ -89,7 +89,7 @@ Different Modeling Techniques
 #### SessionID: 72943
 # Very Large Databases in your future
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eric Peterson
 ## Title: Very Large Databases in your future
 ## Abstract:
@@ -101,7 +101,7 @@ indexing and DBCC checks into itty-bitty maintenance windows. As a bonus, many o
 #### SessionID: 72973
 # Azure Transient SQL Warehouse Resource
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 17-03-2018 - Session time: 10:00:00 - Track: Strategy and Architecture
 ## Speaker: Chris Horvath
 ## Title: Azure Transient SQL Warehouse Resource
 ## Abstract:
@@ -114,7 +114,7 @@ Hadoop Decommision Effort - Hadoop 16hr process replaced with 1.5 hr process at 
 #### SessionID: 73002
 # Power BI: The Magic of M
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 17-03-2018 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: Andrea Letourneau
 ## Title: Power BI: The Magic of M
 ## Abstract:
@@ -123,7 +123,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 73167
 # Data Security in Power BI
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 10:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Steve Hughes
 ## Title: Data Security in Power BI
 ## Abstract:
@@ -134,7 +134,7 @@ Due to the frequent changes to Power BI, improvements to data security are commo
 #### SessionID: 73341
 # Use PowerShell and dbatools to Manage your SQL Server Environment
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Garry Bargsley
 ## Title: Use PowerShell and dbatools to Manage your SQL Server Environment
 ## Abstract:
@@ -144,7 +144,7 @@ In this session, you will learn how to standardize, monitor and alert on your en
 #### SessionID: 73443
 # Natural Language Processing (NLP) Intro
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 17-03-2018 - Session time: 10:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Yueying Li
 ## Title: Natural Language Processing (NLP) Intro
 ## Abstract:
@@ -155,7 +155,7 @@ For this session, I will walk you through some fundamental techniques and demos.
 #### SessionID: 77361
 # Open Source vs SQL Database Maintenance Plans
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Lundell
 ## Title: Open Source vs SQL Database Maintenance Plans
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 73073
 # Using SQL  PowerPivot In Excel to create a SSAS Tabular Model for Power BI
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 17-03-2018 - Session time: 11:15:00 - Track: BI Information Delivery
 ## Speaker: Kristine Dyess
 ## Title: Using SQL  PowerPivot In Excel to create a SSAS Tabular Model for Power BI
 ## Abstract:
@@ -173,7 +173,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 73074
 # Proper DataType Usage=Guaranteed Better Performance and Accuracy
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: Vern Rabe
 ## Title: Proper DataType Usage=Guaranteed Better Performance and Accuracy
 ## Abstract:
@@ -184,7 +184,7 @@ In this demo-heavy presentation I will show you the importance of choosing the p
 #### SessionID: 73123
 # Data Driven Digital Transformation
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 17-03-2018 - Session time: 11:15:00 - Track: Strategy and Architecture
 ## Speaker: Adam Jorgensen
 ## Title: Data Driven Digital Transformation
 ## Abstract:
@@ -193,7 +193,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 73177
 # Introduction to Azure SQL Database
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 11:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joe Abbott
 ## Title: Introduction to Azure SQL Database
 ## Abstract:
@@ -202,7 +202,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 73521
 # Monitoring and Alerting of Availability Groups
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: Monitoring and Alerting of Availability Groups
 ## Abstract:
@@ -212,7 +212,7 @@ This session will answer all these questions
 #### SessionID: 73660
 # Implementing Python in SQL Server 2017
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 17-03-2018 - Session time: 11:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Ginger Grant
 ## Title: Implementing Python in SQL Server 2017
 ## Abstract:
@@ -222,7 +222,7 @@ If you have not had a chance to review SQL Server 2017 yet, please attend to see
 #### SessionID: 73710
 # Is it really HA when you upgrade from 2016 to 2017? I say yes.
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Schmidt
 ## Title: Is it really HA when you upgrade from 2016 to 2017? I say yes.
 ## Abstract:
@@ -231,7 +231,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 74378
 # Operationalizing Data Science
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 17-03-2018 - Session time: 11:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Carlos Bossy
 ## Title: Operationalizing Data Science
 ## Abstract:
@@ -240,7 +240,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 74608
 # Beginner's Guide to Query Tuning with SQL Server
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 11:15:00 - Track: Application  Database Development
 ## Speaker: Phil Guevara
 ## Title: Beginner's Guide to Query Tuning with SQL Server
 ## Abstract:
@@ -249,7 +249,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 71305
 # Lockless in Seattle: Using In-Memory OLTP Transaction Processing
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Broadbent
 ## Title: Lockless in Seattle: Using In-Memory OLTP Transaction Processing
 ## Abstract:
@@ -260,7 +260,7 @@ In this session, we will understand how In-Memory OLTP architecture is implement
 #### SessionID: 72351
 # Climbing the SQL Server Index B-Tree (from a user perspective)
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: Climbing the SQL Server Index B-Tree (from a user perspective)
 ## Abstract:
@@ -269,7 +269,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 72699
 # Locks, Blocks, and Deadlocks, Oh My!
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Randy Knight
 ## Title: Locks, Blocks, and Deadlocks, Oh My!
 ## Abstract:
@@ -280,7 +280,7 @@ In this session targeted at the accidental or new DBA, we will walk through each
 #### SessionID: 72767
 # Challenges and Opportunities in Creating Accessible Power BI Reports
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 17-03-2018 - Session time: 13:15:00 - Track: Analytics and Visualization
 ## Speaker: Meagan Longoria
 ## Title: Challenges and Opportunities in Creating Accessible Power BI Reports
 ## Abstract:
@@ -289,7 +289,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 73008
 # The Power of Data:  The Complete Beginners Data Warehouse Kit
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 13:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data:  The Complete Beginners Data Warehouse Kit
 ## Abstract:
@@ -298,7 +298,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architectur
 #### SessionID: 73132
 # Power BI Development Best Practices
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 17-03-2018 - Session time: 13:15:00 - Track: BI Information Delivery
 ## Speaker: Martin Schoombee
 ## Title: Power BI Development Best Practices
 ## Abstract:
@@ -309,7 +309,7 @@ In this session we will take a brief look at all of the considerations and best 
 #### SessionID: 73439
 # Relational meets Graph
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 17-03-2018 - Session time: 13:15:00 - Track: Analytics and Visualization
 ## Speaker: Leonard Lwakabamba
 ## Title: Relational meets Graph
 ## Abstract:
@@ -318,7 +318,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Analytics and Visualiza
 #### SessionID: 73444
 # SSIS Project Deployment: The T-SQL Way
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Peter Kral
 ## Title: SSIS Project Deployment: The T-SQL Way
 ## Abstract:
@@ -331,7 +331,7 @@ You should have previous experience with SQL Server Integration Services (SSIS) 
 #### SessionID: 73573
 # Extended Events - Better than Profiler
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Extended Events - Better than Profiler
 ## Abstract:
@@ -340,7 +340,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 71281
 # DBA Impacting Trends
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Mandeville
 ## Title: DBA Impacting Trends
 ## Abstract:
@@ -349,7 +349,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 71367
 # Data Wrangling for Reporting  Analytics using Power BI
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Analytics and Visualization
+Event Date: 17-03-2018 - Session time: 14:30:00 - Track: Analytics and Visualization
 ## Speaker: Phil Robinson
 ## Title: Data Wrangling for Reporting  Analytics using Power BI
 ## Abstract:
@@ -362,7 +362,7 @@ In this presentation we will review tools to examine/repair schema issues and ex
 #### SessionID: 71853
 # Dynamic SQL: Tables, Pivots, Parameters  More
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Steven Tidwell
 ## Title: Dynamic SQL: Tables, Pivots, Parameters  More
 ## Abstract:
@@ -371,7 +371,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 72955
 # Understanding the SQL Server Transaction Log
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 17-03-2018 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Randy Knight
 ## Title: Understanding the SQL Server Transaction Log
 ## Abstract:
@@ -380,7 +380,7 @@ Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 73127
 # ETL Best Practices and Techniques
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marc Beacom
 ## Title: ETL Best Practices and Techniques
 ## Abstract:
@@ -391,7 +391,7 @@ Gain helpful insights from decades of lessons learned and walk away with best pr
 #### SessionID: 73333
 # Intro to tSQLt:  Unit Testing for Databases
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Sandra Walters
 ## Title: Intro to tSQLt:  Unit Testing for Databases
 ## Abstract:
@@ -402,7 +402,7 @@ If you've ever had these questions, this introduction to the unit test framework
 #### SessionID: 73537
 # Azure Data Factory Version 2 - Early Adopters
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joseph Barth
 ## Title: Azure Data Factory Version 2 - Early Adopters
 ## Abstract:
@@ -416,7 +416,7 @@ Speaker Bio: Joe Barth is the AZSSUG PASS chapter Leader, over 9 years SQL Serve
 #### SessionID: 77789
 # An introduction to the magical world of BIML!
 #### [Back to calendar](#nr-726)
-Event Date: 17-03-2018 - Session time: 15:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 17-03-2018 - Session time: 14:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jonathan Stewart
 ## Title: An introduction to the magical world of BIML!
 ## Abstract:

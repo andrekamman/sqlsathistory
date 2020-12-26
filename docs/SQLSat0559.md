@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 53239
 # Infographics using PowerBI and BI Office
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 10-09-2016 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Jason Basterfield
 ## Title: Infographics using PowerBI and BI Office
 ## Abstract:
@@ -37,7 +37,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 53295
 # On Transactions and Atomic Operations
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 10-09-2016 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Gail Shaw
 ## Title: On Transactions and Atomic Operations
 ## Abstract:
@@ -51,7 +51,7 @@ In this session, we'll look at what transactions are and why we should use them.
 #### SessionID: 53365
 # Real-Time Operational Analytics
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-09-2016 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Niels Berglund
 ## Title: Real-Time Operational Analytics
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 54077
 # From Me BI to We BI, take your BI solution beyond the clouds
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 10-09-2016 - Session time: 09:00:00 - Track: BI Information Delivery
 ## Speaker: Michael Raam
 ## Title: From Me BI to We BI, take your BI solution beyond the clouds
 ## Abstract:
@@ -79,7 +79,7 @@ Pyramid Analytics revolutionary platform provides a single platform that deliver
 #### SessionID: 50036
 # Using the SQL 2016 Query Store to optimise Performance and Scalability
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Other
+Event Date: 10-09-2016 - Session time: 10:00:00 - Track: Other
 ## Speaker: Peter Willmot
 ## Title: Using the SQL 2016 Query Store to optimise Performance and Scalability
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Other
 #### SessionID: 50267
 # The language informally known as M
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 10-09-2016 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: Matt Horn
 ## Title: The language informally known as M
 ## Abstract:
@@ -102,7 +102,7 @@ In this session I will introduce you to the basics of the M language and demonst
 #### SessionID: 52928
 # Your code is not just...your code
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 10-09-2016 - Session time: 10:00:00 - Track: Professional Development
 ## Speaker: Gordon Beeming
 ## Title: Your code is not just...your code
 ## Abstract:
@@ -113,7 +113,7 @@ We'll take a look at how SQL code traditionally (or at least most commonly) gets
 #### SessionID: 53364
 # What R You Analyzing
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 10-09-2016 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Niels Berglund
 ## Title: What R You Analyzing
 ## Abstract:
@@ -124,7 +124,7 @@ In this session we will look at how R works in SQL Server, and also talk about s
 #### SessionID: 53191
 # SQL Server 2016: A dive into Data Quality Services
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 10-09-2016 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server 2016: A dive into Data Quality Services
 ## Abstract:
@@ -133,7 +133,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 #### SessionID: 53297
 # Introduction to Indexes
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 10-09-2016 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Gail Shaw
 ## Title: Introduction to Indexes
 ## Abstract:
@@ -144,7 +144,7 @@ This session is aimed at people who are relatively new to indexing.
 #### SessionID: 53501
 # Dive into the Query Optimizer - Undocumented Insight
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 10-09-2016 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Benjamin Nevarez
 ## Title: Dive into the Query Optimizer - Undocumented Insight
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 54072
 # BI Office Analytic Platforms and the Value of Shared Context
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 10-09-2016 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: Sandesh Nagaraj
 ## Title: BI Office Analytic Platforms and the Value of Shared Context
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 #### SessionID: 50026
 # So, when you say database what do you mean?
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 10-09-2016 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Clinton van Blommestein
 ## Title: So, when you say database what do you mean?
 ## Abstract:
@@ -177,7 +177,7 @@ This session will cover some of the more popular types of data stores that are a
 #### SessionID: 53192
 # SQL Server 2016: Master Data Services and Rapid Application Development
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
+Event Date: 10-09-2016 - Session time: 14:00:00 - Track: BI Information Delivery
 ## Speaker: Steve Simon
 ## Title: SQL Server 2016: Master Data Services and Rapid Application Development
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Information Delivery
 #### SessionID: 53376
 # Query Performance Tuning on a budget (Free)
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 10-09-2016 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Martin Phelps
 ## Title: Query Performance Tuning on a budget (Free)
 ## Abstract:
@@ -195,7 +195,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 53884
 # Detecting ETL Duration Anomalies with Simple Linear Regression
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-09-2016 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jeanne Combrinck
 ## Title: Detecting ETL Duration Anomalies with Simple Linear Regression
 ## Abstract:
@@ -204,7 +204,7 @@ Event Date: 10-09-2016 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 54152
 # Data Driven: finding value in the digital maze
 #### [Back to calendar](#nr-559)
-Event Date: 10-09-2016 - Session time: 15:00:00 - Track: Professional Development
+Event Date: 10-09-2016 - Session time: 14:00:00 - Track: Professional Development
 ## Speaker: Toufiq Abrahams
 ## Title: Data Driven: finding value in the digital maze
 ## Abstract:

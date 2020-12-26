@@ -15,7 +15,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 70296
 # Graphs ... graphs everywhere!
 #### [Back to calendar](#nr-709)
-Event Date: 17-03-2018 - Session time: 14:40:00 - Track: BI DEV
+Event Date: 17-03-2018 - Session time: 10:00:00 - Track: BI DEV
 ## Speaker: Cédric Charlier
 ## Title: Graphs ... graphs everywhere!
 ## Abstract:
@@ -24,7 +24,7 @@ Event Date: 17-03-2018 - Session time: 14:40:00 - Track: BI DEV
 #### SessionID: 71859
 # Continuous Integration Pipelines With Jenkins, Docker and SQL Server
 #### [Back to calendar](#nr-709)
-Event Date: 17-03-2018 - Session time: 14:40:00 - Track: BI DEV
+Event Date: 17-03-2018 - Session time: 10:00:00 - Track: BI DEV
 ## Speaker: Christopher Adkin
 ## Title: Continuous Integration Pipelines With Jenkins, Docker and SQL Server
 ## Abstract:
@@ -33,7 +33,7 @@ Event Date: 17-03-2018 - Session time: 14:40:00 - Track: BI DEV
 #### SessionID: 70305
 # Partitioning 101
 #### [Back to calendar](#nr-709)
-Event Date: 17-03-2018 - Session time: 14:40:00 - Track: Application  Database Development
+Event Date: 17-03-2018 - Session time: 11:20:00 - Track: Application  Database Development
 ## Speaker: Andrew Pruski
 ## Title: Partitioning 101
 ## Abstract:
@@ -52,7 +52,7 @@ Implementing sliding windows
 #### SessionID: 72086
 # PowerShell - Grow Your Script From Simple to Module
 #### [Back to calendar](#nr-709)
-Event Date: 17-03-2018 - Session time: 14:40:00 - Track: BI DEV
+Event Date: 17-03-2018 - Session time: 11:20:00 - Track: BI DEV
 ## Speaker: Sander Stad
 ## Title: PowerShell - Grow Your Script From Simple to Module
 ## Abstract:
@@ -67,7 +67,7 @@ Have you written a couple of scripts but want to get them to the next level. Tha
 #### SessionID: 70421
 # SQL Server under Pressure: Can I Fix it?
 #### [Back to calendar](#nr-709)
-Event Date: 17-03-2018 - Session time: 14:40:00 - Track: DBA
+Event Date: 17-03-2018 - Session time: 13:20:00 - Track: DBA
 ## Speaker: Sander van der hoeff
 ## Title: SQL Server under Pressure: Can I Fix it?
 ## Abstract:
@@ -82,7 +82,7 @@ And in a lot of cases these tools will tell you that you yourself can fix the pr
 #### SessionID: 73187
 # Embedding PowerApps into a Power BI Dashboard
 #### [Back to calendar](#nr-709)
-Event Date: 17-03-2018 - Session time: 14:40:00 - Track: BI DEV
+Event Date: 17-03-2018 - Session time: 13:20:00 - Track: BI DEV
 ## Speaker: Callum Green
 ## Title: Embedding PowerApps into a Power BI Dashboard
 ## Abstract:

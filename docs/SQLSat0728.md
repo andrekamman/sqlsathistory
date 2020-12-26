@@ -19,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 71482
 # SQL Server on Linux
 #### [Back to calendar](#nr-728)
-Event Date: 19-05-2018 - Session time: 16:55:00 - Track: Advanced
+Event Date: 19-05-2018 - Session time: 10:05:00 - Track: Advanced
 ## Speaker: Danilo Dominici
 ## Title: SQL Server on Linux
 ## Abstract:
@@ -28,7 +28,7 @@ Event Date: 19-05-2018 - Session time: 16:55:00 - Track: Advanced
 #### SessionID: 72004
 # SQL Server Infernals - A Beginner’s Guide to Worst Practices
 #### [Back to calendar](#nr-728)
-Event Date: 19-05-2018 - Session time: 16:55:00 - Track: Begineer
+Event Date: 19-05-2018 - Session time: 10:05:00 - Track: Begineer
 ## Speaker: Gianluca Sartori
 ## Title: SQL Server Infernals - A Beginner’s Guide to Worst Practices
 ## Abstract:
@@ -39,7 +39,7 @@ You are probably thinking: “Hey, wait, what about Best Practices?”. Sometime
 #### SessionID: 71466
 # Cert Prep:70-778: Analysing  Visualizing Data with Power BI
 #### [Back to calendar](#nr-728)
-Event Date: 19-05-2018 - Session time: 16:55:00 - Track: Begineer
+Event Date: 19-05-2018 - Session time: 11:25:00 - Track: Begineer
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Cert Prep:70-778: Analysing  Visualizing Data with Power BI
 ## Abstract:
@@ -52,7 +52,7 @@ Attendees will leave with an understanding of how Microsoft Certification works,
 #### SessionID: 77164
 # Magical Memory Moments
 #### [Back to calendar](#nr-728)
-Event Date: 19-05-2018 - Session time: 16:55:00 - Track: Advanced
+Event Date: 19-05-2018 - Session time: 11:25:00 - Track: Advanced
 ## Speaker: Arnie Rowland
 ## Title: Magical Memory Moments
 ## Abstract:
@@ -67,7 +67,7 @@ In this demo packed session, we will discuss the pros and cons of using memory-o
 #### SessionID: 73185
 # Il Transaction Log: cos'è realmente e come si gestisce
 #### [Back to calendar](#nr-728)
-Event Date: 19-05-2018 - Session time: 16:55:00 - Track: Advanced
+Event Date: 19-05-2018 - Session time: 12:30:00 - Track: Advanced
 ## Speaker: Gilberto Zampatti
 ## Title: Il Transaction Log: cos'è realmente e come si gestisce
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 19-05-2018 - Session time: 16:55:00 - Track: Advanced
 #### SessionID: 73527
 # SQL Server  GDPR
 #### [Back to calendar](#nr-728)
-Event Date: 19-05-2018 - Session time: 16:55:00 - Track: Begineer
+Event Date: 19-05-2018 - Session time: 12:30:00 - Track: Begineer
 ## Speaker: Gianluca Hotz
 ## Title: SQL Server  GDPR
 ## Abstract:
@@ -85,7 +85,7 @@ Event Date: 19-05-2018 - Session time: 16:55:00 - Track: Begineer
 #### SessionID: 71501
 # Decision Trees: the Machine Learning "Magic" Unveiled
 #### [Back to calendar](#nr-728)
-Event Date: 19-05-2018 - Session time: 16:55:00 - Track: Advanced
+Event Date: 19-05-2018 - Session time: 14:30:00 - Track: Advanced
 ## Speaker: Luca Zavarella
 ## Title: Decision Trees: the Machine Learning "Magic" Unveiled
 ## Abstract:
@@ -94,7 +94,7 @@ Event Date: 19-05-2018 - Session time: 16:55:00 - Track: Advanced
 #### SessionID: 71703
 # Thinking our of the Box! - SMB 3.0
 #### [Back to calendar](#nr-728)
-Event Date: 19-05-2018 - Session time: 16:55:00 - Track: Begineer
+Event Date: 19-05-2018 - Session time: 14:30:00 - Track: Begineer
 ## Speaker: Marcelo Fernandes
 ## Title: Thinking our of the Box! - SMB 3.0
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 19-05-2018 - Session time: 16:55:00 - Track: Begineer
 #### SessionID: 71515
 # SQL Server performance tuning on Azure IaaS
 #### [Back to calendar](#nr-728)
-Event Date: 19-05-2018 - Session time: 16:55:00 - Track: Advanced
+Event Date: 19-05-2018 - Session time: 15:35:00 - Track: Advanced
 ## Speaker: Marco Obinu
 ## Title: SQL Server performance tuning on Azure IaaS
 ## Abstract:
@@ -113,7 +113,7 @@ Let's see together how to maximize performance (and minimize costs) of our SQL V
 #### SessionID: 72384
 # SQL Server Temporal tables: Viaggiare nel tempo con SQL Server
 #### [Back to calendar](#nr-728)
-Event Date: 19-05-2018 - Session time: 16:55:00 - Track: Begineer
+Event Date: 19-05-2018 - Session time: 15:35:00 - Track: Begineer
 ## Speaker: Pasquale Ceglie
 ## Title: SQL Server Temporal tables: Viaggiare nel tempo con SQL Server
 ## Abstract:

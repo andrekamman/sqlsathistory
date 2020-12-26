@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 67215
 # Indices para Iniciantes - Clustered, Nonclustered,  Scan, Seek, Lookup e Muito Mais
 #### [Back to calendar](#nr-618)
-Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Development
+Event Date: 19-08-2017 - Session time: 09:30:00 - Track: Development
 ## Speaker: Fabrício Lima
 ## Title: Indices para Iniciantes - Clustered, Nonclustered,  Scan, Seek, Lookup e Muito Mais
 ## Abstract:
@@ -37,7 +37,7 @@ Veja isso e muito mais nessa palestra.
 #### SessionID: 67220
 # Por Detrás dos Relatórios
 #### [Back to calendar](#nr-618)
-Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Business Intelligence and Analytics
+Event Date: 19-08-2017 - Session time: 09:30:00 - Track: Business Intelligence and Analytics
 ## Speaker: Arthur Luz
 ## Title: Por Detrás dos Relatórios
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Business Intelligence a
 #### SessionID: 66983
 # SQL Server 2016: O que temos de novidades no AlwaysOn Availabilty Groups?
 #### [Back to calendar](#nr-618)
-Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Administration
+Event Date: 19-08-2017 - Session time: 10:45:00 - Track: Administration
 ## Speaker: Nilton Pinheiro
 ## Title: SQL Server 2016: O que temos de novidades no AlwaysOn Availabilty Groups?
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Administration
 #### SessionID: 67185
 # Adequando ambiente de Bancos de Dados para a Nuvem com o PowerBI
 #### [Back to calendar](#nr-618)
-Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Administration
+Event Date: 19-08-2017 - Session time: 10:45:00 - Track: Administration
 ## Speaker: Flávio Farias
 ## Title: Adequando ambiente de Bancos de Dados para a Nuvem com o PowerBI
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Administration
 #### SessionID: 67646
 # Começando a administrar banco de dados
 #### [Back to calendar](#nr-618)
-Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Career and Academic
+Event Date: 19-08-2017 - Session time: 10:45:00 - Track: Career and Academic
 ## Speaker: Raiane Lins
 ## Title: Começando a administrar banco de dados
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Career and Academic
 #### SessionID: 65133
 # O que acontece quando eu executo minha query? - Conhecendo o Query Optimizer
 #### [Back to calendar](#nr-618)
-Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Development
+Event Date: 19-08-2017 - Session time: 13:00:00 - Track: Development
 ## Speaker: Suellen Moraes
 ## Title: O que acontece quando eu executo minha query? - Conhecendo o Query Optimizer
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Development
 #### SessionID: 65594
 # Inside SSIS Catalog
 #### [Back to calendar](#nr-618)
-Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Business Intelligence and Analytics
+Event Date: 19-08-2017 - Session time: 13:00:00 - Track: Business Intelligence and Analytics
 ## Speaker: Wasley Portes
 ## Title: Inside SSIS Catalog
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Business Intelligence a
 #### SessionID: 66344
 # Powershell para DBAs SQL Server
 #### [Back to calendar](#nr-618)
-Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Administration
+Event Date: 19-08-2017 - Session time: 13:00:00 - Track: Administration
 ## Speaker: Rodrigo Crespi
 ## Title: Powershell para DBAs SQL Server
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Administration
 #### SessionID: 67282
 # Dicas para tirar sua certificação Microsoft
 #### [Back to calendar](#nr-618)
-Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Career and Academic
+Event Date: 19-08-2017 - Session time: 13:00:00 - Track: Career and Academic
 ## Speaker: Caio Amante
 ## Title: Dicas para tirar sua certificação Microsoft
 ## Abstract:
@@ -110,7 +110,7 @@ O Objetivo principal é ajudar as pessoas a traçar um planejamento para consegu
 #### SessionID: 65764
 # Reestruturando um Ambiente de Banco de Dados SQL Server na Pratica
 #### [Back to calendar](#nr-618)
-Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Administration
+Event Date: 19-08-2017 - Session time: 14:00:00 - Track: Administration
 ## Speaker: Sidney Cirqueira
 ## Title: Reestruturando um Ambiente de Banco de Dados SQL Server na Pratica
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Administration
 #### SessionID: 66207
 # Como o uso de machine learning está contribuindo para criação de bots mais humanos?
 #### [Back to calendar](#nr-618)
-Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Business Intelligence and Analytics
+Event Date: 19-08-2017 - Session time: 14:00:00 - Track: Business Intelligence and Analytics
 ## Speaker: Jucinei Santos
 ## Title: Como o uso de machine learning está contribuindo para criação de bots mais humanos?
 ## Abstract:
@@ -129,7 +129,7 @@ O objetivo é  realizar uma apresentação, demonstrando a disponibilização de
 #### SessionID: 67201
 # Backup - Isso Salva empregos e empresas...
 #### [Back to calendar](#nr-618)
-Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Administration
+Event Date: 19-08-2017 - Session time: 14:00:00 - Track: Administration
 ## Speaker: Tiago Neves
 ## Title: Backup - Isso Salva empregos e empresas...
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Administration
 #### SessionID: 67641
 # Azure CosmosDB: O banco de dados globalmente distribuído e multi modelo da Microsoft
 #### [Back to calendar](#nr-618)
-Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Development
+Event Date: 19-08-2017 - Session time: 14:00:00 - Track: Development
 ## Speaker: Igor Santos de Paula
 ## Title: Azure CosmosDB: O banco de dados globalmente distribuído e multi modelo da Microsoft
 ## Abstract:
@@ -147,7 +147,7 @@ Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Development
 #### SessionID: 67182
 # 5 dicas de performance tuning para desenvolvedores
 #### [Back to calendar](#nr-618)
-Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Development
+Event Date: 19-08-2017 - Session time: 15:30:00 - Track: Development
 ## Speaker: Reginaldo Silva
 ## Title: 5 dicas de performance tuning para desenvolvedores
 ## Abstract:
@@ -156,7 +156,7 @@ Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Development
 #### SessionID: 67199
 # Hacking SQL Server
 #### [Back to calendar](#nr-618)
-Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Development
+Event Date: 19-08-2017 - Session time: 15:30:00 - Track: Development
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Hacking SQL Server
 ## Abstract:
@@ -168,7 +168,7 @@ Simularemos uma invasão ao SQL Server explorando alguns conceitos mal interpret
 #### SessionID: 67263
 # Importando e controlando relatórios do Power BI na sua própria aplicação
 #### [Back to calendar](#nr-618)
-Event Date: 19-08-2017 - Session time: 16:30:00 - Track: Business Intelligence and Analytics
+Event Date: 19-08-2017 - Session time: 15:30:00 - Track: Business Intelligence and Analytics
 ## Speaker: Lutti Coelho
 ## Title: Importando e controlando relatórios do Power BI na sua própria aplicação
 ## Abstract:

@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 96791
 # Introduction to BI Architecture
 #### [Back to calendar](#nr-896)
-Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-10-2019 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Warren Sifre
 ## Title: Introduction to BI Architecture
 ## Abstract:
@@ -34,7 +34,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 98158
 # 45 Minutes to Your First Tabular Model
 #### [Back to calendar](#nr-896)
-Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-10-2019 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kerry Tyler
 ## Title: 45 Minutes to Your First Tabular Model
 ## Abstract:
@@ -44,7 +44,7 @@ In this session, we will talk about what Tabular is and what it does, in additio
 #### SessionID: 93260
 # Women in IT. A survival guide.
 #### [Back to calendar](#nr-896)
-Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 12-10-2019 - Session time: 10:00:00 - Track: Professional Development
 ## Speaker: Gilda Alvarez
 ## Title: Women in IT. A survival guide.
 ## Abstract:
@@ -53,7 +53,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Professional Developmen
 #### SessionID: 96919
 # How do you Azure?
 #### [Back to calendar](#nr-896)
-Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 12-10-2019 - Session time: 10:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Tamera Clark
 ## Title: How do you Azure?
 ## Abstract:
@@ -66,7 +66,7 @@ This is a level 0 session, #N00b, #Imabeginner
 #### SessionID: 98555
 # Typescript and beyond...
 #### [Back to calendar](#nr-896)
-Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-10-2019 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Edwin Martinez
 ## Title: Typescript and beyond...
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 98754
 # Azure Databricks: A Brief Introduction
 #### [Back to calendar](#nr-896)
-Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-10-2019 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Philip Austin
 ## Title: Azure Databricks: A Brief Introduction
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 98501
 # Chatbot, 0 to 100 with L.U.I.S.
 #### [Back to calendar](#nr-896)
-Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 12-10-2019 - Session time: 13:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Isaias Martinez
 ## Title: Chatbot, 0 to 100 with L.U.I.S.
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 99086
 # Data visualization tips for Power BI
 #### [Back to calendar](#nr-896)
-Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 12-10-2019 - Session time: 13:30:00 - Track: Analytics and Visualization
 ## Speaker: Orlando Mezquita
 ## Title: Data visualization tips for Power BI
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 98159
 # Active Directory and Azure Active Directory: Authentication in a Cloudy World
 #### [Back to calendar](#nr-896)
-Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 12-10-2019 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kerry Tyler
 ## Title: Active Directory and Azure Active Directory: Authentication in a Cloudy World
 ## Abstract:
@@ -112,7 +112,7 @@ This is a beginner session, but there will be some networking involved, in addit
 #### SessionID: 98957
 # SQL Server 2019: Estrategias de Indexación para alto desempeño
 #### [Back to calendar](#nr-896)
-Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 12-10-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Kenneth Urena
 ## Title: SQL Server 2019: Estrategias de Indexación para alto desempeño
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 99163
 # Data Integration at Scale with Azure Data Factory
 #### [Back to calendar](#nr-896)
-Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 12-10-2019 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: Guillermo Caicedo
 ## Title: Data Integration at Scale with Azure Data Factory
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Information Delivery
 #### SessionID: 96792
 # Introduction To Data Lakes
 #### [Back to calendar](#nr-896)
-Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-10-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Warren Sifre
 ## Title: Introduction To Data Lakes
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 96793
 # Introduction To Data Governance
 #### [Back to calendar](#nr-896)
-Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Other
+Event Date: 12-10-2019 - Session time: 15:30:00 - Track: Other
 ## Speaker: Warren Sifre
 ## Title: Introduction To Data Governance
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: Other
 #### SessionID: 98604
 # What's new in SQL Server 2019
 #### [Back to calendar](#nr-896)
-Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-10-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose L. Rivera
 ## Title: What's new in SQL Server 2019
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 98605
 # SQL Server 2019: Big Data Clusters
 #### [Back to calendar](#nr-896)
-Event Date: 12-10-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 12-10-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jose L. Rivera
 ## Title: SQL Server 2019: Big Data Clusters
 ## Abstract:

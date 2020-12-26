@@ -55,7 +55,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 62458
 # Azure Cosmos DB – Does this change the game?
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
+Event Date: 03-06-2017 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Timothy McAliley
 ## Title: Azure Cosmos DB – Does this change the game?
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Cloud Application Devel
 #### SessionID: 62798
 # 5 Minute No Sweat SQL Security Audits
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration (DBA)  Deployment
+Event Date: 03-06-2017 - Session time: 08:30:00 - Track: Enterprise Database Administration (DBA)  Deployment
 ## Speaker: Chris Bell
 ## Title: 5 Minute No Sweat SQL Security Audits
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 63919
 # Replication Technologies
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration (DBA)  Deployment
+Event Date: 03-06-2017 - Session time: 08:30:00 - Track: Enterprise Database Administration (DBA)  Deployment
 ## Speaker: Hilary Cotter
 ## Title: Replication Technologies
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 61755
 # Relational databases vs Non-relational databases
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Strategy and Architecture
+Event Date: 03-06-2017 - Session time: 08:40:00 - Track: Strategy and Architecture
 ## Speaker: James Serra
 ## Title: Relational databases vs Non-relational databases
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Strategy and Architectu
 #### SessionID: 63326
 # Real world SQL 2016 In-Memory OLTP
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration (DBA)  Deployment
+Event Date: 03-06-2017 - Session time: 08:40:00 - Track: Enterprise Database Administration (DBA)  Deployment
 ## Speaker: Ned Otter
 ## Title: Real world SQL 2016 In-Memory OLTP
 ## Abstract:
@@ -104,7 +104,7 @@ All of these questions and more are answered as we discuss real-world usage of S
 #### SessionID: 63928
 # Weird Stuff I Saw While ... Working With Heaps
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Application  Database Development
+Event Date: 03-06-2017 - Session time: 08:40:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Weird Stuff I Saw While ... Working With Heaps
 ## Abstract:
@@ -113,7 +113,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Application  Database D
 #### SessionID: 66306
 # Movin’ On Up:  Taking your Data to the Azure Cloud
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
+Event Date: 03-06-2017 - Session time: 08:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Kevin Howell
 ## Title: Movin’ On Up:  Taking your Data to the Azure Cloud
 ## Abstract:
@@ -122,7 +122,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Cloud Application Devel
 #### SessionID: 61795
 # SQL Server on Linux for SQL DBA.
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration (DBA)  Deployment
+Event Date: 03-06-2017 - Session time: 08:50:00 - Track: Enterprise Database Administration (DBA)  Deployment
 ## Speaker: Slava Murygin
 ## Title: SQL Server on Linux for SQL DBA.
 ## Abstract:
@@ -136,7 +136,7 @@ And I show you how to do it.
 #### SessionID: 62808
 # Why candidates fail the job interview in the first minute
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Professional Development
+Event Date: 03-06-2017 - Session time: 08:50:00 - Track: Professional Development
 ## Speaker: Thomas Grohser
 ## Title: Why candidates fail the job interview in the first minute
 ## Abstract:
@@ -147,7 +147,7 @@ Thomas will share what he misses in resumes and how to respond to questions bett
 #### SessionID: 62839
 # SELECT Provider FROM Cloud
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
+Event Date: 03-06-2017 - Session time: 08:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Peter Shore
 ## Title: SELECT Provider FROM Cloud
 ## Abstract:
@@ -156,7 +156,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Cloud Application Devel
 #### SessionID: 61789
 # Microsoft and Big Data - An Overview of the Power Tools and more!
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: BI Information Delivery
+Event Date: 03-06-2017 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: David Patrick
 ## Title: Microsoft and Big Data - An Overview of the Power Tools and more!
 ## Abstract:
@@ -165,7 +165,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: BI Information Delivery
 #### SessionID: 63258
 # Finding more space for your tight environment.
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration (DBA)  Deployment
+Event Date: 03-06-2017 - Session time: 10:00:00 - Track: Enterprise Database Administration (DBA)  Deployment
 ## Speaker: Thomas Chan
 ## Title: Finding more space for your tight environment.
 ## Abstract:
@@ -177,7 +177,7 @@ And in the final I will defrag the indexes and update the statistics, since shri
 #### SessionID: 63869
 # DevOps: What it is and why you should care
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration (DBA)  Deployment
+Event Date: 03-06-2017 - Session time: 10:00:00 - Track: Enterprise Database Administration (DBA)  Deployment
 ## Speaker: Stephanie Herr
 ## Title: DevOps: What it is and why you should care
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 61753
 # Crash Course on Better SQL Development
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Application  Database Development
+Event Date: 03-06-2017 - Session time: 10:10:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
 ## Abstract:
@@ -195,7 +195,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Application  Database D
 #### SessionID: 61771
 # Take the changes under control
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Strategy and Architecture
+Event Date: 03-06-2017 - Session time: 10:10:00 - Track: Strategy and Architecture
 ## Speaker: Alex Grinberg
 ## Title: Take the changes under control
 ## Abstract:
@@ -204,7 +204,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Strategy and Architectu
 #### SessionID: 61824
 # Power BI-Create a Dashboard from Zero to Hero
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-06-2017 - Session time: 10:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vishal Pawar
 ## Title: Power BI-Create a Dashboard from Zero to Hero
 ## Abstract:
@@ -214,7 +214,7 @@ Learn how to create Power BI Dashboard from scratch.
 #### SessionID: 63899
 # Dashboard Development in R
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: BI Information Delivery
+Event Date: 03-06-2017 - Session time: 10:10:00 - Track: BI Information Delivery
 ## Speaker: Rick Wargo
 ## Title: Dashboard Development in R
 ## Abstract:
@@ -227,7 +227,7 @@ You will leave this session with an understanding of how to start developing das
 #### SessionID: 61792
 # Tech Writing for Techies: A Primer
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Professional Development
+Event Date: 03-06-2017 - Session time: 10:20:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: Tech Writing for Techies: A Primer
 ## Abstract:
@@ -236,7 +236,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Professional Developmen
 #### SessionID: 63807
 # The Phenomenal IT Consultant
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Professional Development
+Event Date: 03-06-2017 - Session time: 10:20:00 - Track: Professional Development
 ## Speaker: Sebastian Meine
 ## Title: The Phenomenal IT Consultant
 ## Abstract:
@@ -251,7 +251,7 @@ Join this session and get started on your way to becoming a Phenomenal IT Consul
 #### SessionID: 63817
 # Slay the Legacy Leviathan... Without Modifying Application Code
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Application  Database Development
+Event Date: 03-06-2017 - Session time: 10:20:00 - Track: Application  Database Development
 ## Speaker: Ryan Booz
 ## Title: Slay the Legacy Leviathan... Without Modifying Application Code
 ## Abstract:
@@ -264,7 +264,7 @@ This session will give you hope and inspire you to start your own "modernizing" 
 #### SessionID: 61797
 # Agile Data Modeling with Data Vault
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-06-2017 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Scot Reagin
 ## Title: Agile Data Modeling with Data Vault
 ## Abstract:
@@ -274,7 +274,7 @@ In this session we’ll compare modeling techniques in real world scenarios to u
 #### SessionID: 61817
 # Setting up BI Infrastructure: Points to consider
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-06-2017 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Paresh Motiwala
 ## Title: Setting up BI Infrastructure: Points to consider
 ## Abstract:
@@ -287,7 +287,7 @@ At the end of the session you will have a complete information about an ideal BI
 #### SessionID: 62807
 # SQL Server Storage Engine under the hood
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration (DBA)  Deployment
+Event Date: 03-06-2017 - Session time: 11:30:00 - Track: Enterprise Database Administration (DBA)  Deployment
 ## Speaker: Thomas Grohser
 ## Title: SQL Server Storage Engine under the hood
 ## Abstract:
@@ -301,7 +301,7 @@ Which I/O Subsystems (including SSD) are best for which type of data and what's 
 #### SessionID: 61763
 # HA/DR options with SQL Server in Azure and hybrid
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration (DBA)  Deployment
+Event Date: 03-06-2017 - Session time: 11:40:00 - Track: Enterprise Database Administration (DBA)  Deployment
 ## Speaker: James Serra
 ## Title: HA/DR options with SQL Server in Azure and hybrid
 ## Abstract:
@@ -310,7 +310,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 62796
 # Would You Just Load Already?!  Maximizing Your SSIS Data Load
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Application  Database Development
+Event Date: 03-06-2017 - Session time: 11:40:00 - Track: Application  Database Development
 ## Speaker: Chris Bell
 ## Title: Would You Just Load Already?!  Maximizing Your SSIS Data Load
 ## Abstract:
@@ -321,7 +321,7 @@ In this session you will learn a simple method to load data via SSIS and identif
 #### SessionID: 63900
 # Introduction to R and SQL Server
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-06-2017 - Session time: 11:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan Hartshorn
 ## Title: Introduction to R and SQL Server
 ## Abstract:
@@ -335,7 +335,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: BI Platform Architectur
 #### SessionID: 63918
 # Monitoring SQL Server using Extended Events
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration (DBA)  Deployment
+Event Date: 03-06-2017 - Session time: 11:40:00 - Track: Enterprise Database Administration (DBA)  Deployment
 ## Speaker: Hilary Cotter
 ## Title: Monitoring SQL Server using Extended Events
 ## Abstract:
@@ -344,7 +344,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 61756
 # Who's flying the plane? What IT can learn from plane crashes
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Strategy and Architecture
+Event Date: 03-06-2017 - Session time: 11:50:00 - Track: Strategy and Architecture
 ## Speaker: Greg Moore
 ## Title: Who's flying the plane? What IT can learn from plane crashes
 ## Abstract:
@@ -359,7 +359,7 @@ I'll touch upon what we can learn from plane crashes and how those lessons can b
 #### SessionID: 63603
 # Network your Way to Success!
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Professional Development
+Event Date: 03-06-2017 - Session time: 11:50:00 - Track: Professional Development
 ## Speaker: Lisa Margerum
 ## Title: Network your Way to Success!
 ## Abstract:
@@ -372,7 +372,7 @@ Join us for an interactive session to strategize the best actions to increase yo
 #### SessionID: 63930
 # Why should I care about ... the plan cache?
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration (DBA)  Deployment
+Event Date: 03-06-2017 - Session time: 11:50:00 - Track: Enterprise Database Administration (DBA)  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
 ## Abstract:
@@ -383,7 +383,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #### SessionID: 61770
 # Migrating a Disk-based Table to a Memory-optimized Table
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Strategy and Architecture
+Event Date: 03-06-2017 - Session time: 14:10:00 - Track: Strategy and Architecture
 ## Speaker: Alex Grinberg
 ## Title: Migrating a Disk-based Table to a Memory-optimized Table
 ## Abstract:
@@ -392,7 +392,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Strategy and Architectu
 #### SessionID: 63012
 # Understanding U-SQL
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
+Event Date: 03-06-2017 - Session time: 14:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Azhagappan Arunachalam
 ## Title: Understanding U-SQL
 ## Abstract:
@@ -401,7 +401,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Cloud Application Devel
 #### SessionID: 63599
 # Power BI Advanced Modeling
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: BI Information Delivery
+Event Date: 03-06-2017 - Session time: 14:10:00 - Track: BI Information Delivery
 ## Speaker: Bob Blackburn
 ## Title: Power BI Advanced Modeling
 ## Abstract:
@@ -410,7 +410,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: BI Information Delivery
 #### SessionID: 61757
 # Learning to present and becoming good at it
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Professional Development
+Event Date: 03-06-2017 - Session time: 14:15:00 - Track: Professional Development
 ## Speaker: James Serra
 ## Title: Learning to present and becoming good at it
 ## Abstract:
@@ -419,7 +419,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Professional Developmen
 #### SessionID: 61761
 # Running SQL Server in AWS
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
+Event Date: 03-06-2017 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Brian Carrig
 ## Title: Running SQL Server in AWS
 ## Abstract:
@@ -428,7 +428,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Cloud Application Devel
 #### SessionID: 61794
 # Disaster Documents: The role of documentation in disaster recovery
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Strategy and Architecture
+Event Date: 03-06-2017 - Session time: 14:15:00 - Track: Strategy and Architecture
 ## Speaker: Ray Kim
 ## Title: Disaster Documents: The role of documentation in disaster recovery
 ## Abstract:
@@ -439,7 +439,7 @@ While other disaster recovery presentations talk about strategies, plans, and te
 #### SessionID: 63806
 # Introduction to Unit-Testing in SQL Server
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Application  Database Development
+Event Date: 03-06-2017 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Sebastian Meine
 ## Title: Introduction to Unit-Testing in SQL Server
 ## Abstract:
@@ -452,7 +452,7 @@ You will leave this session ready to write unit tests for your own environment t
 #### SessionID: 62457
 # Azure Analysis Services - An introduction
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
+Event Date: 03-06-2017 - Session time: 14:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Timothy McAliley
 ## Title: Azure Analysis Services - An introduction
 ## Abstract:
@@ -461,7 +461,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Cloud Application Devel
 #### SessionID: 63327
 # Indexing survival guide for SQL 2016 In-Memory OLTP
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Application  Database Development
+Event Date: 03-06-2017 - Session time: 14:20:00 - Track: Application  Database Development
 ## Speaker: Ned Otter
 ## Title: Indexing survival guide for SQL 2016 In-Memory OLTP
 ## Abstract:
@@ -479,7 +479,7 @@ Support for ascending/descending indexes
 #### SessionID: 63853
 # Securing and Managing access to your DW data
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-06-2017 - Session time: 14:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Vince Napoli
 ## Title: Securing and Managing access to your DW data
 ## Abstract:
@@ -488,7 +488,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: BI Platform Architectur
 #### SessionID: 61816
 # Big Data 101
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Strategy and Architecture
+Event Date: 03-06-2017 - Session time: 15:30:00 - Track: Strategy and Architecture
 ## Speaker: Paresh Motiwala
 ## Title: Big Data 101
 ## Abstract:
@@ -504,7 +504,7 @@ We will also talk about HDInsight and take a look at Microsoft's items in play.
 #### SessionID: 62795
 # Statistics  Cardinality – How They Work to Find Data Efficiently
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Application  Database Development
+Event Date: 03-06-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Chris Bell
 ## Title: Statistics  Cardinality – How They Work to Find Data Efficiently
 ## Abstract:
@@ -515,7 +515,7 @@ In this session we will go over why statistics matter, how they are generated, h
 #### SessionID: 63908
 # Service Broker - Async In the DB
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Application  Database Development
+Event Date: 03-06-2017 - Session time: 15:30:00 - Track: Application  Database Development
 ## Speaker: Ryan Booz
 ## Title: Service Broker - Async In the DB
 ## Abstract:
@@ -528,7 +528,7 @@ You'll leave with ideas of how to refactor existing logic and setup your first S
 #### SessionID: 61758
 # Tips that have saved my bacon
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration (DBA)  Deployment
+Event Date: 03-06-2017 - Session time: 15:35:00 - Track: Enterprise Database Administration (DBA)  Deployment
 ## Speaker: Greg Moore
 ## Title: Tips that have saved my bacon
 ## Abstract:
@@ -541,7 +541,7 @@ Everyone knows log-shipping is great for DR recovery, but what about using it fo
 #### SessionID: 63870
 # Master Data Management with SQL Server MDS 2016
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Strategy and Architecture
+Event Date: 03-06-2017 - Session time: 15:35:00 - Track: Strategy and Architecture
 ## Speaker: Ravi Gudlavalleti
 ## Title: Master Data Management with SQL Server MDS 2016
 ## Abstract:
@@ -559,7 +559,7 @@ The following topics will be covered (tentative list):
 #### SessionID: 64312
 # Query Store Primer
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Administration (DBA)  Deployment
+Event Date: 03-06-2017 - Session time: 15:35:00 - Track: Enterprise Database Administration (DBA)  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Query Store Primer
 ## Abstract:
@@ -568,7 +568,7 @@ Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 66419
 # Parsing T-SQL using the TransactSql.ScriptDom library (C#)
 #### [Back to calendar](#nr-638)
-Event Date: 03-06-2017 - Session time: 15:40:00 - Track: Application  Database Development
+Event Date: 03-06-2017 - Session time: 15:35:00 - Track: Application  Database Development
 ## Speaker: Dominic Falso
 ## Title: Parsing T-SQL using the TransactSql.ScriptDom library (C#)
 ## Abstract:

@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 107349
 # From XL to S - Reduce your Power BI model size by 90%!
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track:   YELLOW
+Event Date: 12-12-2020 - Session time: 09:00:00 - Track:   YELLOW
 ## Speaker: Nikola Ilic
 ## Title: From XL to S - Reduce your Power BI model size by 90%!
 ## Abstract:
@@ -41,7 +41,7 @@ Finally, you will see a real use-case demo showing how the Power BI data model w
 #### SessionID: 108088
 # Common Data Model - Our new buddy for Data Governance
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track:  RED
+Event Date: 12-12-2020 - Session time: 09:00:00 - Track:  RED
 ## Speaker: Oliver Engels
 ## Title: Common Data Model - Our new buddy for Data Governance
 ## Abstract:
@@ -50,7 +50,7 @@ Event Date: 12-12-2020 - Session time: 16:45:00 - Track:  RED
 #### SessionID: 108224
 # SQL Server Intelligent Query Processing
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track: BLUE
+Event Date: 12-12-2020 - Session time: 09:00:00 - Track: BLUE
 ## Speaker: Dean Savović
 ## Title: SQL Server Intelligent Query Processing
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 12-12-2020 - Session time: 16:45:00 - Track: BLUE
 #### SessionID: 107068
 # Performance Monitoring in SQL Server 2019
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track: BLUE
+Event Date: 12-12-2020 - Session time: 10:15:00 - Track: BLUE
 ## Speaker: Gilberto Zampatti
 ## Title: Performance Monitoring in SQL Server 2019
 ## Abstract:
@@ -71,7 +71,7 @@ that can change our approach to the monitoring, maintenance and tuning activity.
 #### SessionID: 107079
 # When Things go Wrong - Error Handling in SQL Server
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track:  RED
+Event Date: 12-12-2020 - Session time: 10:15:00 - Track:  RED
 ## Speaker: Erland Sommarskog
 ## Title: When Things go Wrong - Error Handling in SQL Server
 ## Abstract:
@@ -82,7 +82,7 @@ The session presents a recipe for writing CATCH block where focus is on keeping 
 #### SessionID: 108467
 # Connect your data artifacts with Azure Synapse Analytics
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track:   YELLOW
+Event Date: 12-12-2020 - Session time: 10:15:00 - Track:   YELLOW
 ## Speaker: Wolfgang Strasser
 ## Title: Connect your data artifacts with Azure Synapse Analytics
 ## Abstract:
@@ -92,7 +92,7 @@ Join this session, if you want to hear about the building blocks of Azure Synaps
 #### SessionID: 107066
 # Working with parameters in Power Query
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track:   YELLOW
+Event Date: 12-12-2020 - Session time: 11:30:00 - Track:   YELLOW
 ## Speaker: Boriana Petrova
 ## Title: Working with parameters in Power Query
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 12-12-2020 - Session time: 16:45:00 - Track:   YELLOW
 #### SessionID: 107207
 # Baking Extended Events recipes without breaking a sweat
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track: BLUE
+Event Date: 12-12-2020 - Session time: 11:30:00 - Track: BLUE
 ## Speaker: Gianluca Sartori
 ## Title: Baking Extended Events recipes without breaking a sweat
 ## Abstract:
@@ -112,7 +112,7 @@ Stop doing things the hard way! Join me and learn how XESmartTarget can do all t
 #### SessionID: 108416
 # 2 Fast 2 Furious - designing for speed, concurrency, and correctness
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track:  RED
+Event Date: 12-12-2020 - Session time: 11:30:00 - Track:  RED
 ## Speaker: Mark Broadbent
 ## Title: 2 Fast 2 Furious - designing for speed, concurrency, and correctness
 ## Abstract:
@@ -125,7 +125,7 @@ We will cover SQL Server’s traditional locking model, In-Memory OLTP, Columnst
 #### SessionID: 107182
 # "DAX" the way to do it
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track:   YELLOW
+Event Date: 12-12-2020 - Session time: 13:00:00 - Track:   YELLOW
 ## Speaker: Pedro Reis
 ## Title: "DAX" the way to do it
 ## Abstract:
@@ -136,7 +136,7 @@ I'll show you real-world applications of DAX and lots of tips and tricks that yo
 #### SessionID: 107598
 # Azure Key Vault, Azure Dev Ops and Data Factory how do these Azur
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track: BLUE
+Event Date: 12-12-2020 - Session time: 13:00:00 - Track: BLUE
 ## Speaker: Erwin De Kreuk
 ## Title: Azure Key Vault, Azure Dev Ops and Data Factory how do these Azur
 ## Abstract:
@@ -147,7 +147,7 @@ During this session I will give answers on all of these questions. You will lear
 #### SessionID: 108090
 # Azure Synapse Analytics - Early Lessons learned
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track:  RED
+Event Date: 12-12-2020 - Session time: 13:00:00 - Track:  RED
 ## Speaker: Gabi Münster
 ## Title: Azure Synapse Analytics - Early Lessons learned
 ## Abstract:
@@ -156,7 +156,7 @@ Event Date: 12-12-2020 - Session time: 16:45:00 - Track:  RED
 #### SessionID: 107077
 # The Evolution of SQL Server as a Service - Azure SQL Database Managed Instance
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track:  RED
+Event Date: 12-12-2020 - Session time: 14:15:00 - Track:  RED
 ## Speaker: Javier Villegas
 ## Title: The Evolution of SQL Server as a Service - Azure SQL Database Managed Instance
 ## Abstract:
@@ -165,7 +165,7 @@ Event Date: 12-12-2020 - Session time: 16:45:00 - Track:  RED
 #### SessionID: 108182
 # Designing impactful visualisations for your data
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track:   YELLOW
+Event Date: 12-12-2020 - Session time: 14:15:00 - Track:   YELLOW
 ## Speaker: Benni De Jagere
 ## Title: Designing impactful visualisations for your data
 ## Abstract:
@@ -178,7 +178,7 @@ Walking out of this session, you can expect to have a decent understanding on a 
 #### SessionID: 108354
 # Change your skills - from an onpremise DBA to a cloud DBA
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track: BLUE
+Event Date: 12-12-2020 - Session time: 14:15:00 - Track: BLUE
 ## Speaker: Björn Peters
 ## Title: Change your skills - from an onpremise DBA to a cloud DBA
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 12-12-2020 - Session time: 16:45:00 - Track: BLUE
 #### SessionID: 107061
 # Why Partitioning can boost your data management
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track:  RED
+Event Date: 12-12-2020 - Session time: 15:30:00 - Track:  RED
 ## Speaker: Uwe Ricken
 ## Title: Why Partitioning can boost your data management
 ## Abstract:
@@ -197,7 +197,7 @@ The main area of application for partitioning is the optimization of load paths 
 #### SessionID: 107171
 # Poor man's SQL Server job monitoring with R
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track: BLUE
+Event Date: 12-12-2020 - Session time: 15:30:00 - Track: BLUE
 ## Speaker: Thomas Hütter
 ## Title: Poor man's SQL Server job monitoring with R
 ## Abstract:
@@ -210,7 +210,7 @@ We'll work our way from finding the right system tables to use, generating one g
 #### SessionID: 108197
 # The Hitchhiker's Guide to navigating Power BI
 #### [Back to calendar](#nr-1010)
-Event Date: 12-12-2020 - Session time: 16:45:00 - Track:   YELLOW
+Event Date: 12-12-2020 - Session time: 15:30:00 - Track:   YELLOW
 ## Speaker: Just Blindbaek
 ## Title: The Hitchhiker's Guide to navigating Power BI
 ## Abstract:

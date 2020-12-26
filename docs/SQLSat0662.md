@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 64933
 # JSON for the Data Mortals
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 19-08-2017 - Session time: 08:15:00 - Track: Application  Database Development
 ## Speaker: Jim Dorame
 ## Title: JSON for the Data Mortals
 ## Abstract:
@@ -40,7 +40,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database D
 #### SessionID: 66816
 # Set Me Up: How to Think in Sets
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 19-08-2017 - Session time: 08:15:00 - Track: Application  Database Development
 ## Speaker: Brian Hansen
 ## Title: Set Me Up: How to Think in Sets
 ## Abstract:
@@ -51,7 +51,7 @@ We will look at T-SQL features that can break set-based processing -- generally 
 #### SessionID: 68793
 # Building Stronger Relationships Between Us... "Data People" and T
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Professional Development
+Event Date: 19-08-2017 - Session time: 08:15:00 - Track: Professional Development
 ## Speaker: Joshua Warne
 ## Title: Building Stronger Relationships Between Us... "Data People" and T
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Professional Developmen
 #### SessionID: 68848
 # Business Intelligence with R and Python
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 19-08-2017 - Session time: 08:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jasmine Miller
 ## Title: Business Intelligence with R and Python
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architectur
 #### SessionID: 64556
 # HELP! HELP! My System Databases Are Gone!
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-08-2017 - Session time: 09:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcus Hopfinger
 ## Title: HELP! HELP! My System Databases Are Gone!
 ## Abstract:
@@ -78,7 +78,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 65045
 # Does Your Performance Tuning Need a 12-step Program?
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-08-2017 - Session time: 09:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Does Your Performance Tuning Need a 12-step Program?
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 65096
 # Statistics and New Cardinality Estimator Model
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-08-2017 - Session time: 09:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Susantha Bathige
 ## Title: Statistics and New Cardinality Estimator Model
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 66941
 # Even I Can Power BI!
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 19-08-2017 - Session time: 09:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julia Renz
 ## Title: Even I Can Power BI!
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architectur
 #### SessionID: 64564
 # Intro to PowerApps  Flow - Creating mobile business apps without writing code
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 19-08-2017 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Andy Tabisz
 ## Title: Intro to PowerApps  Flow - Creating mobile business apps without writing code
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database D
 #### SessionID: 65107
 # Remote SQL Server Troubleshooting and Monitoring Using SSIS
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 19-08-2017 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Don St. Cyr
 ## Title: Remote SQL Server Troubleshooting and Monitoring Using SSIS
 ## Abstract:
@@ -131,7 +131,7 @@ In this session I'll use Glenn Berry's diagnostic queries and SSIS to show how w
 #### SessionID: 66431
 # Difficult Queries
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 19-08-2017 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Rick Bielawski
 ## Title: Difficult Queries
 ## Abstract:
@@ -140,7 +140,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Application  Database D
 #### SessionID: 66814
 # Visualize Your Transaction Log
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-08-2017 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Visualize Your Transaction Log
 ## Abstract:
@@ -149,7 +149,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 64565
 # Isolation Levels – Understanding Transaction Temper Tantrums
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-08-2017 - Session time: 13:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adam Koehler
 ## Title: Isolation Levels – Understanding Transaction Temper Tantrums
 ## Abstract:
@@ -158,7 +158,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 65196
 # Where Does R Fit Into Your SQL Server Stack?
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 19-08-2017 - Session time: 13:25:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stacia Varga
 ## Title: Where Does R Fit Into Your SQL Server Stack?
 ## Abstract:
@@ -173,7 +173,7 @@ Then we explore options for using R to prepare data for analytics using SSIS or 
 #### SessionID: 65312
 # Amazon Web Services RDS with SQL Server
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Cloud Application Development  Deployment
+Event Date: 19-08-2017 - Session time: 13:25:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christopher Wolff
 ## Title: Amazon Web Services RDS with SQL Server
 ## Abstract:
@@ -182,7 +182,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Cloud Application Devel
 #### SessionID: 66974
 # SQL Server DBA Quiz Show
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Professional Development
+Event Date: 19-08-2017 - Session time: 13:25:00 - Track: Professional Development
 ## Speaker: Eric Zierdt
 ## Title: SQL Server DBA Quiz Show
 ## Abstract:
@@ -193,7 +193,7 @@ This session promises to be fast paced and fun and hopefully you will even learn
 #### SessionID: 65044
 # Welcome To the 2016 Query Store!
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-08-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Welcome To the 2016 Query Store!
 ## Abstract:
@@ -202,7 +202,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 65199
 # Reduce, Reuse, Recycle: Automating Your BI Framework
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 19-08-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stacia Varga
 ## Title: Reduce, Reuse, Recycle: Automating Your BI Framework
 ## Abstract:
@@ -211,7 +211,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: BI Platform Architectur
 #### SessionID: 66815
 # Remember Back When?  Temporal Tables in SQL Server 2016
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-08-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Remember Back When?  Temporal Tables in SQL Server 2016
 ## Abstract:
@@ -220,7 +220,7 @@ Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 66848
 # How to Fix Cardinality Estimation Anomalies
 #### [Back to calendar](#nr-662)
-Event Date: 19-08-2017 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 19-08-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Susantha Bathige
 ## Title: How to Fix Cardinality Estimation Anomalies
 ## Abstract:

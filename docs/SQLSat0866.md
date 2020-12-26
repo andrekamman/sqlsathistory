@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 92410
 # Diving into data - Swimming in the Lake. A look at Data Lake.
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 10-08-2019 - Session time: 09:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Martin Catherall
 ## Title: Diving into data - Swimming in the Lake. A look at Data Lake.
 ## Abstract:
@@ -45,7 +45,7 @@ In this session we’ll take a look at these two technologies and how they might
 #### SessionID: 93348
 # Bridging the gap between SSRS and Power BI
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 10-08-2019 - Session time: 09:40:00 - Track: Strategy and Architecture
 ## Speaker: Manohar Punna
 ## Title: Bridging the gap between SSRS and Power BI
 ## Abstract:
@@ -54,7 +54,7 @@ Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Strategy and Architectu
 #### SessionID: 94264
 # Test Driven Development in SQL Server – how to deploy code safer
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 10-08-2019 - Session time: 09:40:00 - Track: Application  Database Development
 ## Speaker: Hamish Watson
 ## Title: Test Driven Development in SQL Server – how to deploy code safer
 ## Abstract:
@@ -68,7 +68,7 @@ A comprehensive DEMO will reveal how Test Driven Development can help you deploy
 #### SessionID: 94541
 # Azure Data Studio – The New Frontier
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 10-08-2019 - Session time: 09:40:00 - Track: Application  Database Development
 ## Speaker: Warwick Rudd
 ## Title: Azure Data Studio – The New Frontier
 ## Abstract:
@@ -78,7 +78,7 @@ Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 94825
 # Starting with Azure Cognitive Services
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 10-08-2019 - Session time: 09:40:00 - Track: Advanced Analysis Techniques
 ## Speaker: David Alzamendi
 ## Title: Starting with Azure Cognitive Services
 ## Abstract:
@@ -89,7 +89,7 @@ This session is for you and will provide the answers to each of these questions.
 #### SessionID: 93423
 # Learning DAX? Five things to get you started fast
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-08-2019 - Session time: 10:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Seamark
 ## Title: Learning DAX? Five things to get you started fast
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 10-08-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 93761
 # Introduction to Azure Analysis Services
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-08-2019 - Session time: 10:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Geoff Black
 ## Title: Introduction to Azure Analysis Services
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 10-08-2019 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 95460
 # AI Builder: AI in Power Apps and Microsoft Flow
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 10-08-2019 - Session time: 10:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Leila Etaati
 ## Title: AI Builder: AI in Power Apps and Microsoft Flow
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 95617
 # A Generic ETL Framework
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-08-2019 - Session time: 10:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Robert Blaas
 ## Title: A Generic ETL Framework
 ## Abstract:
@@ -128,7 +128,7 @@ I will show you how with a few simple SSIS tasks and lines of code we can create
 #### SessionID: 96626
 # Things I've learned from working with Data Scientists
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 10-08-2019 - Session time: 10:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Heidi Hasting
 ## Title: Things I've learned from working with Data Scientists
 ## Abstract:
@@ -146,7 +146,7 @@ In this session, I'll take you through my journey from the notebook to running o
 #### SessionID: 96787
 # Lightning Talks: PowerShell  Azure SQLDB, and Azure Data Bricks
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Lightning Talk (15 and 30 minutes Talk)
+Event Date: 10-08-2019 - Session time: 10:50:00 - Track: Lightning Talk (15 and 30 minutes Talk)
 ## Speaker: Tariq Younas
 ## Title: Lightning Talks: PowerShell  Azure SQLDB, and Azure Data Bricks
 ## Abstract:
@@ -166,7 +166,7 @@ This talk will show the importance and justification with 4 reasons for the new 
 #### SessionID: 89329
 # Read Committed Snapshot Isolation - The Real Implications
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-08-2019 - Session time: 12:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Leo Miller
 ## Title: Read Committed Snapshot Isolation - The Real Implications
 ## Abstract:
@@ -179,7 +179,7 @@ This is for the DBA who wants to gain an extra level of understanding and the to
 #### SessionID: 91340
 # GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 10-08-2019 - Session time: 12:40:00 - Track: Application  Database Development
 ## Speaker: Patrick Flynn
 ## Title: GITHB 101 - An introduction to using Github and Git for Source Control and Open Source Projects
 ## Abstract:
@@ -194,7 +194,7 @@ Based around personal experience of learning not to hate Source control, this se
 #### SessionID: 93499
 # Developing Cosmos DB for the Enterprise
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 10-08-2019 - Session time: 12:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Will Velida
 ## Title: Developing Cosmos DB for the Enterprise
 ## Abstract:
@@ -207,7 +207,7 @@ By the end of this session, you should be able to take these learnings and apply
 #### SessionID: 93773
 # 4 Reasons to love Azure Databricks (₳  G₳MË  CH₳NGËR)
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Lightning Talk (15 and 30 minutes Talk)
+Event Date: 10-08-2019 - Session time: 12:40:00 - Track: Lightning Talk (15 and 30 minutes Talk)
 ## Speaker: Tariq Younas
 ## Title: 4 Reasons to love Azure Databricks (₳  G₳MË  CH₳NGËR)
 ## Abstract:
@@ -217,7 +217,7 @@ This talk will show the importance and justification with 4 reasons for the new 
 #### SessionID: 94438
 # Bespoke Visual Layouts with Charticulator
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 10-08-2019 - Session time: 12:40:00 - Track: Analytics and Visualization
 ## Speaker: Daniel Marsh-Patrick
 ## Title: Bespoke Visual Layouts with Charticulator
 ## Abstract:
@@ -230,7 +230,7 @@ In this session, we'll go through the concepts of the tool and build on these to
 #### SessionID: 96788
 # MLOps - a DevOps ext for building enterprise machine learning pipelines
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 10-08-2019 - Session time: 12:40:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chimène Bonhomme
 ## Title: MLOps - a DevOps ext for building enterprise machine learning pipelines
 ## Abstract:
@@ -240,7 +240,7 @@ In this session, we will cover how MLOps is different to DevOps, MLOps workflow 
 #### SessionID: 90215
 # Demystifying Encryption
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-08-2019 - Session time: 13:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rob Douglas
 ## Title: Demystifying Encryption
 ## Abstract:
@@ -250,7 +250,7 @@ Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 93492
 # Building your own million dollar SQL Practice
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Other
+Event Date: 10-08-2019 - Session time: 13:50:00 - Track: Other
 ## Speaker: Adrian Sullivan
 ## Title: Building your own million dollar SQL Practice
 ## Abstract:
@@ -281,7 +281,7 @@ I'll also touch on how long it took me to achieve each of these, and how I measu
 #### SessionID: 93494
 # Top 10 tips every Power BI developer should know
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 10-08-2019 - Session time: 13:50:00 - Track: Analytics and Visualization
 ## Speaker: Indira Bandari
 ## Title: Top 10 tips every Power BI developer should know
 ## Abstract:
@@ -290,7 +290,7 @@ Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 93568
 # Build your first notebook using Azure Notebooks
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 10-08-2019 - Session time: 13:50:00 - Track: Advanced Analysis Techniques
 ## Speaker: Anupama Natarajan
 ## Title: Build your first notebook using Azure Notebooks
 ## Abstract:
@@ -306,7 +306,7 @@ By the end of the session you will get a good understanding about Azure Notebook
 #### SessionID: 95116
 # Essential financial calculations in Power BI
 #### [Back to calendar](#nr-866)
-Event Date: 10-08-2019 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 10-08-2019 - Session time: 13:50:00 - Track: Analytics and Visualization
 ## Speaker: Owen Auger
 ## Title: Essential financial calculations in Power BI
 ## Abstract:

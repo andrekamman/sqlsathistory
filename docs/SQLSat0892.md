@@ -37,7 +37,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 91843
 # The Modern Data Warehouse and Azure
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform - Architecture, Development, Deployment or Administration
+Event Date: 24-08-2019 - Session time: 09:00:00 - Track: BI Platform - Architecture, Development, Deployment or Administration
 ## Speaker: Chris Seferlis
 ## Title: The Modern Data Warehouse and Azure
 ## Abstract:
@@ -46,7 +46,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform - Architect
 #### SessionID: 92603
 # New features in Management Studio  -- Performance Troubleshooting made easier!
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
+Event Date: 24-08-2019 - Session time: 09:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Taiob Ali
 ## Title: New features in Management Studio  -- Performance Troubleshooting made easier!
 ## Abstract:
@@ -59,7 +59,7 @@ In this demo intensive session, I will show you how to find and use new features
 #### SessionID: 93485
 # Python in SQL Server 2017 and 2019
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Application, Analytics, Database or ML Development
+Event Date: 24-08-2019 - Session time: 09:00:00 - Track: Application, Analytics, Database or ML Development
 ## Speaker: Chris Hyde
 ## Title: Python in SQL Server 2017 and 2019
 ## Abstract:
@@ -70,7 +70,7 @@ In this introductory session we'll briefly introduce the Python language and the
 #### SessionID: 94519
 # Monitor Your Azure Resources Effectively
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Cloud Platform - Architecture, Development, Deployment or Administration
+Event Date: 24-08-2019 - Session time: 09:00:00 - Track: Cloud Platform - Architecture, Development, Deployment or Administration
 ## Speaker: Todd Chittenden
 ## Title: Monitor Your Azure Resources Effectively
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Cloud Platform - Archit
 #### SessionID: 95506
 # Let's Dive Into SQL Server I/O To Improve T-SQL Performance
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Application, Analytics, Database or ML Development
+Event Date: 24-08-2019 - Session time: 09:00:00 - Track: Application, Analytics, Database or ML Development
 ## Speaker: Andy Yun
 ## Title: Let's Dive Into SQL Server I/O To Improve T-SQL Performance
 ## Abstract:
@@ -92,7 +92,7 @@ When you leave, you'll be able to optimize your T-SQL reduce I/O and improve per
 #### SessionID: 91820
 # Blogging for Success: Advancing your career by blogging
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Professional Development or Other
+Event Date: 24-08-2019 - Session time: 10:00:00 - Track: Professional Development or Other
 ## Speaker: Ray Kim
 ## Title: Blogging for Success: Advancing your career by blogging
 ## Abstract:
@@ -103,7 +103,7 @@ In this presentation, I'll tell you how I got started with 'blogging, where it's
 #### SessionID: 91955
 # Finding Islands, Gaps, and Clusters in Complex Data
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform - Architecture, Development, Deployment or Administration
+Event Date: 24-08-2019 - Session time: 10:00:00 - Track: BI Platform - Architecture, Development, Deployment or Administration
 ## Speaker: Edward Pollack
 ## Title: Finding Islands, Gaps, and Clusters in Complex Data
 ## Abstract:
@@ -120,7 +120,7 @@ This is a fast-paced session that delves into methods that can be applied to any
 #### SessionID: 92343
 # Documenting your SQL Server environment with PowerShell
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
+Event Date: 24-08-2019 - Session time: 10:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Matthew Anderson
 ## Title: Documenting your SQL Server environment with PowerShell
 ## Abstract:
@@ -131,7 +131,7 @@ Finding a free and simple method to gather information about my SQL Server envir
 #### SessionID: 94998
 # Possiblities and Limitations of System-Versioned Temporal Tables beyond the Basics
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Application, Analytics, Database or ML Development
+Event Date: 24-08-2019 - Session time: 10:00:00 - Track: Application, Analytics, Database or ML Development
 ## Speaker: Reinhard Flügel
 ## Title: Possiblities and Limitations of System-Versioned Temporal Tables beyond the Basics
 ## Abstract:
@@ -140,7 +140,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Application, Analytics,
 #### SessionID: 95304
 # Shortcuts from an Impatient DBA
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
+Event Date: 24-08-2019 - Session time: 10:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Andy Mallon
 ## Title: Shortcuts from an Impatient DBA
 ## Abstract:
@@ -155,7 +155,7 @@ Slides and handouts available on GitHub: http://am2.co/shortcuts-ppt
 #### SessionID: 93198
 # Feeding the modern data warehouse (Power BI, Azure Data Factory and Databricks)
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform - Architecture, Development, Deployment or Administration
+Event Date: 24-08-2019 - Session time: 11:00:00 - Track: BI Platform - Architecture, Development, Deployment or Administration
 ## Speaker: Christian Cote
 ## Title: Feeding the modern data warehouse (Power BI, Azure Data Factory and Databricks)
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform - Architect
 #### SessionID: 93552
 # We Need To Talk Security
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
+Event Date: 24-08-2019 - Session time: 11:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Joe Gavin
 ## Title: We Need To Talk Security
 ## Abstract:
@@ -177,7 +177,7 @@ We'll take a high level look at security starting with physical security, see th
 #### SessionID: 95441
 # Data Science at Warp Speed with Azure Machine Learning service
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Application, Analytics, Database or ML Development
+Event Date: 24-08-2019 - Session time: 11:00:00 - Track: Application, Analytics, Database or ML Development
 ## Speaker: Bryan Cafferky
 ## Title: Data Science at Warp Speed with Azure Machine Learning service
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Application, Analytics,
 #### SessionID: 95445
 # Modernise your data migration with Azure Data Migration Service
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
+Event Date: 24-08-2019 - Session time: 11:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: Modernise your data migration with Azure Data Migration Service
 ## Abstract:
@@ -199,7 +199,7 @@ Let us jump into Database Migration Service, and how you can utilize and moderni
 #### SessionID: 95505
 # A Beginner's Guide to Seven Practices that Kill Performance
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
+Event Date: 24-08-2019 - Session time: 11:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Andy Yun
 ## Title: A Beginner's Guide to Seven Practices that Kill Performance
 ## Abstract:
@@ -212,7 +212,7 @@ When you leave, you'll be armed with knowledge and tools to tackle your current 
 #### SessionID: 94855
 # Looking "Normal" and Seeing "Stars": Table Designs Working Together
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Application, Analytics, Database or ML Development
+Event Date: 24-08-2019 - Session time: 13:00:00 - Track: Application, Analytics, Database or ML Development
 ## Speaker: Deborah Melkin
 ## Title: Looking "Normal" and Seeing "Stars": Table Designs Working Together
 ## Abstract:
@@ -225,7 +225,7 @@ By the end of the session, you will better understand how using the two designs 
 #### SessionID: 95303
 # Demystifying Data Compression
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
+Event Date: 24-08-2019 - Session time: 13:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Andy Mallon
 ## Title: Demystifying Data Compression
 ## Abstract:
@@ -240,7 +240,7 @@ Slides  materials available at: https://github.com/amtwo/Presentations/tree/mast
 #### SessionID: 95323
 # Painlessly Upgrade to SQL 2017 or SQL 2019
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
+Event Date: 24-08-2019 - Session time: 13:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Paresh Motiwala
 ## Title: Painlessly Upgrade to SQL 2017 or SQL 2019
 ## Abstract:
@@ -262,7 +262,7 @@ We will end the sessions with QA. If there is enough demand we can have a separa
 #### SessionID: 95571
 # Will Query Store fix all my Performance Issues?
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
+Event Date: 24-08-2019 - Session time: 13:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Surbhi Pokharna
 ## Title: Will Query Store fix all my Performance Issues?
 ## Abstract:
@@ -271,7 +271,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - A
 #### SessionID: 98146
 # Basic Database Design
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Application, Analytics, Database or ML Development
+Event Date: 24-08-2019 - Session time: 13:00:00 - Track: Application, Analytics, Database or ML Development
 ## Speaker: John Miner
 ## Title: Basic Database Design
 ## Abstract:
@@ -298,7 +298,7 @@ Coverage:
 #### SessionID: 92598
 # SQL Injection: What Is It, Prevent It, Monitor For It!
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
+Event Date: 24-08-2019 - Session time: 14:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Grant Fritchey
 ## Title: SQL Injection: What Is It, Prevent It, Monitor For It!
 ## Abstract:
@@ -307,7 +307,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - A
 #### SessionID: 93202
 # Power BI Report Server for the enterprise
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform - Architecture, Development, Deployment or Administration
+Event Date: 24-08-2019 - Session time: 14:00:00 - Track: BI Platform - Architecture, Development, Deployment or Administration
 ## Speaker: Christian Cote
 ## Title: Power BI Report Server for the enterprise
 ## Abstract:
@@ -316,7 +316,7 @@ Event Date: 24-08-2019 - Session time: 15:00:00 - Track: BI Platform - Architect
 #### SessionID: 93801
 # “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
+Event Date: 24-08-2019 - Session time: 14:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
 ## Abstract:
@@ -331,7 +331,7 @@ This 1st session is also a recommended segue into the second sessio
 #### SessionID: 94700
 # Continuous integration and delivery (CI/CD) in Azure Data Factory
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Cloud Platform - Architecture, Development, Deployment or Administration
+Event Date: 24-08-2019 - Session time: 14:00:00 - Track: Cloud Platform - Architecture, Development, Deployment or Administration
 ## Speaker: Rayis Imayev
 ## Title: Continuous integration and delivery (CI/CD) in Azure Data Factory
 ## Abstract:
@@ -342,7 +342,7 @@ Let's explore how we can use Microsoft DevOps and GitHub to build and release ou
 #### SessionID: 95172
 # Organizational Security  Compliance with SQL 2012 through 2016/2017/2019
 #### [Back to calendar](#nr-892)
-Event Date: 24-08-2019 - Session time: 15:00:00 - Track: Enterprise Database - Administration  Deployment
+Event Date: 24-08-2019 - Session time: 14:00:00 - Track: Enterprise Database - Administration  Deployment
 ## Speaker: George Walters
 ## Title: Organizational Security  Compliance with SQL 2012 through 2016/2017/2019
 ## Abstract:

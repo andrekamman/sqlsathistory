@@ -38,7 +38,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 54558
 # Introduction to SQL
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Thane Schaffer
 ## Title: Introduction to SQL
 ## Abstract:
@@ -47,7 +47,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 56316
 # Statistics and New Cardinality Estimator Model
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Susantha Bathige
 ## Title: Statistics and New Cardinality Estimator Model
 ## Abstract:
@@ -56,7 +56,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 57133
 # Up Close and Personal with the Tabular SSAS DMVs
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 25-03-2017 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Meagan Longoria
 ## Title: Up Close and Personal with the Tabular SSAS DMVs
 ## Abstract:
@@ -65,7 +65,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: BI Platform Architectur
 #### SessionID: 57957
 # Introduction to Azure Machine Learning
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techniques
+Event Date: 25-03-2017 - Session time: 08:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Machine Learning
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Advanced Analysis Techn
 #### SessionID: 59323
 # Branding Yourself for a Dream Job
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 25-03-2017 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 61075
 # Weird Stuff I Saw While ... Working With Heaps
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Weird Stuff I Saw While ... Working With Heaps
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 56384
 # Seeking the Perfect Hybrid:  On-Prem Data with Reports and Dashboards in Power BI
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 25-03-2017 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: William E Pearson III
 ## Title: Seeking the Perfect Hybrid:  On-Prem Data with Reports and Dashboards in Power BI
 ## Abstract:
@@ -104,7 +104,7 @@ This session applies, in most respects, to Analysis Services 2012 and above.
 #### SessionID: 56503
 # Disaster Recovery Where to Begin
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Strategy and Architecture
+Event Date: 25-03-2017 - Session time: 09:45:00 - Track: Strategy and Architecture
 ## Speaker: Tracy Boggiano
 ## Title: Disaster Recovery Where to Begin
 ## Abstract:
@@ -113,7 +113,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Strategy and Architectu
 #### SessionID: 56566
 # The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kellyn Pot'Vin-Gorman
 ## Title: The Next Frontier-  Opportunities When Migrating to the Cloud with Virtualization
 ## Abstract:
@@ -126,7 +126,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 56751
 # Finding root cause for unexplained Availability Group failover
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Trayce Jordan
 ## Title: Finding root cause for unexplained Availability Group failover
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 59831
 # Visualize Your Transaction Log
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Visualize Your Transaction Log
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 61130
 # Data Integration: the neglected hero of your information environment
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Information Delivery
+Event Date: 25-03-2017 - Session time: 09:45:00 - Track: Information Delivery
 ## Speaker: Scot Reagin
 ## Title: Data Integration: the neglected hero of your information environment
 ## Abstract:
@@ -159,7 +159,7 @@ A managed Data Integration platform can provide both efficient data management a
 #### SessionID: 54712
 # My Top 10 Favorite Replication Tricks
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcus Hopfinger
 ## Title: My Top 10 Favorite Replication Tricks
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 59322
 # Bringing DevOps to the Database
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Strategy and Architecture
+Event Date: 25-03-2017 - Session time: 11:00:00 - Track: Strategy and Architecture
 ## Speaker: Steve Jones
 ## Title: Bringing DevOps to the Database
 ## Abstract:
@@ -177,7 +177,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Strategy and Architectu
 #### SessionID: 59710
 # Continuous Deployments using SSDT
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christopher Wolff
 ## Title: Continuous Deployments using SSDT
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 60965
 # Introduction to Data Science with R
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Analytics and Visualization
+Event Date: 25-03-2017 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Reeves Smith
 ## Title: Introduction to Data Science with R
 ## Abstract:
@@ -197,7 +197,7 @@ In this session, we will introduce the R language and review some of the feature
 #### SessionID: 61051
 # Even I Can Power BI!
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Analytics and Visualization
+Event Date: 25-03-2017 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: Julia Renz
 ## Title: Even I Can Power BI!
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Analytics and Visualiza
 #### SessionID: 61108
 # Getting Started with Databases on Amazon Web Services
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 25-03-2017 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Gabriel Villa
 ## Title: Getting Started with Databases on Amazon Web Services
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Cloud Application Devel
 #### SessionID: 63692
 # SQL Performance Best Practices
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 12:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Craig Allen
 ## Title: SQL Performance Best Practices
 ## Abstract:
@@ -224,7 +224,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 54601
 # Test Automation: Agile Enablement for DW and BI Teams
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Other
+Event Date: 25-03-2017 - Session time: 13:30:00 - Track: Other
 ## Speaker: Cher Fox
 ## Title: Test Automation: Agile Enablement for DW and BI Teams
 ## Abstract:
@@ -233,7 +233,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Other
 #### SessionID: 56842
 # Accelerating DevOps and TDM Using Data Virtualization
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 25-03-2017 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Gorman
 ## Title: Accelerating DevOps and TDM Using Data Virtualization
 ## Abstract:
@@ -250,7 +250,7 @@ Data virtualization is the solution.  Come learn.
 #### SessionID: 57553
 # Power BI on  Azure Analysis Services
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: BI Information Delivery
+Event Date: 25-03-2017 - Session time: 13:30:00 - Track: BI Information Delivery
 ## Speaker: Patrick Geselbracht
 ## Title: Power BI on  Azure Analysis Services
 ## Abstract:
@@ -261,7 +261,7 @@ We will discuss modeling  security patterns in Analysis Services in conjunction 
 #### SessionID: 61049
 # Introduction To Azure DocumentDB
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 25-03-2017 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Jeff Renz
 ## Title: Introduction To Azure DocumentDB
 ## Abstract:
@@ -272,7 +272,7 @@ In this session I will demonstrate how to create a DocumentDB instance in Azure,
 #### SessionID: 61117
 # So you want to launch a software company
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Professional Development
+Event Date: 25-03-2017 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Paul Nielsen
 ## Title: So you want to launch a software company
 ## Abstract:
@@ -281,7 +281,7 @@ Event Date: 25-03-2017 - Session time: 14:45:00 - Track: Professional Developmen
 #### SessionID: 61473
 # Business Intelligence in the Cloud
 #### [Back to calendar](#nr-584)
-Event Date: 25-03-2017 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 25-03-2017 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Carlos Bossy
 ## Title: Business Intelligence in the Cloud
 ## Abstract:

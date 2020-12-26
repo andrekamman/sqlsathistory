@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 10975
 # Securing your SQL Azure Database. How?
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
+Event Date: 29-08-2015 - Session time: 09:00:00 - Track: Database Administration
 ## Speaker: Boris Hristov
 ## Title: Securing your SQL Azure Database. How?
 ## Abstract:
@@ -43,7 +43,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 #### SessionID: 36065
 # End to end risk assessment – affordable solution using Power BI
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Analytics  Visualization
+Event Date: 29-08-2015 - Session time: 09:00:00 - Track: BI Analytics  Visualization
 ## Speaker: Asgeir Gunnarsson
 ## Title: End to end risk assessment – affordable solution using Power BI
 ## Abstract:
@@ -55,7 +55,7 @@ This method can easily transfer to any other data collection solution such as bu
 #### SessionID: 36669
 # Data modeling for data analysis and cubes
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Architecture  Development
+Event Date: 29-08-2015 - Session time: 09:00:00 - Track: BI Architecture  Development
 ## Speaker: Alex Whittles
 ## Title: Data modeling for data analysis and cubes
 ## Abstract:
@@ -65,7 +65,7 @@ In this session we’ll look at a number of different data scenarios that we enc
 #### SessionID: 36839
 # Automating the testing of your BI solutions with NBi
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Architecture  Development
+Event Date: 29-08-2015 - Session time: 09:00:00 - Track: BI Architecture  Development
 ## Speaker: Cédric Charlier
 ## Title: Automating the testing of your BI solutions with NBi
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Architecture  Develo
 #### SessionID: 37749
 # From rakfisk to lutefisk - Beginners guide to SQL Server
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Development
+Event Date: 29-08-2015 - Session time: 09:00:00 - Track: Database Development
 ## Speaker: André Melancia
 ## Title: From rakfisk to lutefisk - Beginners guide to SQL Server
 ## Abstract:
@@ -87,7 +87,7 @@ Session suited for developers and students (beginner level).
 #### SessionID: 14612
 # Responding to extended events in near real time
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
+Event Date: 29-08-2015 - Session time: 10:20:00 - Track: Database Administration
 ## Speaker: Gianluca Sartori
 ## Title: Responding to extended events in near real time
 ## Abstract:
@@ -96,7 +96,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 #### SessionID: 36979
 # Optimising Cube Processing
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Architecture  Development
+Event Date: 29-08-2015 - Session time: 10:20:00 - Track: BI Architecture  Development
 ## Speaker: Bob Duffy
 ## Title: Optimising Cube Processing
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Architecture  Develo
 #### SessionID: 37188
 # Taming the Beast – How a SQL DBA can keep Kerberos under control
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
+Event Date: 29-08-2015 - Session time: 10:20:00 - Track: Database Administration
 ## Speaker: David Postlethwaite
 ## Title: Taming the Beast – How a SQL DBA can keep Kerberos under control
 ## Abstract:
@@ -128,7 +128,7 @@ This talk looks at the principle of Kerberos, how it applies to SQL Server and w
 #### SessionID: 37509
 # Transaction Log Internals and Troubleshooting
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
+Event Date: 29-08-2015 - Session time: 10:20:00 - Track: Database Administration
 ## Speaker: Andrey Zavadskiy
 ## Title: Transaction Log Internals and Troubleshooting
 ## Abstract:
@@ -138,7 +138,7 @@ We examine the common issues such as full transaction log, how to get rid of mul
 #### SessionID: 39597
 # Azure Machine Learning, notes from the field
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Analytics  Visualization
+Event Date: 29-08-2015 - Session time: 10:20:00 - Track: BI Analytics  Visualization
 ## Speaker: Harald Svandal Presthus
 ## Title: Azure Machine Learning, notes from the field
 ## Abstract:
@@ -149,7 +149,7 @@ Come to my session to get an overview of the possibilities Azure Machine Learnin
 #### SessionID: 13813
 # Efficient Indexing Strategies
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Development
+Event Date: 29-08-2015 - Session time: 11:40:00 - Track: Database Development
 ## Speaker: Enrico van de Laar
 ## Title: Efficient Indexing Strategies
 ## Abstract:
@@ -158,7 +158,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Development
 #### SessionID: 17299
 # Availability Group Maintenance Operations
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
+Event Date: 29-08-2015 - Session time: 11:40:00 - Track: Database Administration
 ## Speaker: John Martin
 ## Title: Availability Group Maintenance Operations
 ## Abstract:
@@ -167,7 +167,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 #### SessionID: 37187
 # Business Data Lakes - New architecture, and mindset, saves time and money
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Architecture  Development
+Event Date: 29-08-2015 - Session time: 11:40:00 - Track: BI Architecture  Development
 ## Speaker: Martin Kraugerud
 ## Title: Business Data Lakes - New architecture, and mindset, saves time and money
 ## Abstract:
@@ -178,7 +178,7 @@ Imaging that you can give the business what they want in days rather than months
 #### SessionID: 39624
 # SQL Server Magic Buttons: What are Trace Flags, and why should I care?
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
+Event Date: 29-08-2015 - Session time: 11:40:00 - Track: Database Administration
 ## Speaker: Steinar Andersen
 ## Title: SQL Server Magic Buttons: What are Trace Flags, and why should I care?
 ## Abstract:
@@ -189,7 +189,7 @@ In this session you will get a good overview of what Trace Flags can do for you,
 #### SessionID: 40292
 # Capgemini: Azure Machine Learning by Kjetil #197;mdal
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Lunch with Sponsors
+Event Date: 29-08-2015 - Session time: 13:00:00 - Track: Lunch with Sponsors
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: Capgemini: Azure Machine Learning by Kjetil #197;mdal
 ## Abstract:
@@ -198,7 +198,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Lunch with Sponsors
 #### SessionID: 40293
 # NextBridge: Rapid Fire Slowly Changing Dimensions by Are Skaar
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Lunch with Sponsors
+Event Date: 29-08-2015 - Session time: 13:00:00 - Track: Lunch with Sponsors
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: NextBridge: Rapid Fire Slowly Changing Dimensions by Are Skaar
 ## Abstract:
@@ -214,7 +214,7 @@ o   Relational (hybrid Kimball/Inmon models)
 #### SessionID: 40294
 # Violin Memory: In-Memory or Violin Memory by Jens Melhede
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Lunch with Sponsors
+Event Date: 29-08-2015 - Session time: 13:00:00 - Track: Lunch with Sponsors
 ## Speaker: SQLSaturday Oslo Sponsor
 ## Title: Violin Memory: In-Memory or Violin Memory by Jens Melhede
 ## Abstract:
@@ -223,7 +223,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Lunch with Sponsors
 #### SessionID: 17143
 # Performance tuning a PowerPivot and Tabular model, notes from the field
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Architecture  Development
+Event Date: 29-08-2015 - Session time: 14:00:00 - Track: BI Architecture  Development
 ## Speaker: Johan Ludvig Brattås
 ## Title: Performance tuning a PowerPivot and Tabular model, notes from the field
 ## Abstract:
@@ -237,7 +237,7 @@ Join me on a session of improving a malfunctioning PowerBI Excel sheet and pick 
 #### SessionID: 36082
 # The Data Loading Performance Presentation
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Development
+Event Date: 29-08-2015 - Session time: 14:00:00 - Track: Database Development
 ## Speaker: Matan Yungman
 ## Title: The Data Loading Performance Presentation
 ## Abstract:
@@ -254,7 +254,7 @@ Among other topics, we will talk about the #1 enemy of high performance data loa
 #### SessionID: 36188
 # A deep dive into SQL Server Plan Cache Management
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
+Event Date: 29-08-2015 - Session time: 14:00:00 - Track: Database Administration
 ## Speaker: Margarita Naumova
 ## Title: A deep dive into SQL Server Plan Cache Management
 ## Abstract:
@@ -263,7 +263,7 @@ Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
 #### SessionID: 37718
 # An introduction to Datazen
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: BI Analytics  Visualization
+Event Date: 29-08-2015 - Session time: 14:00:00 - Track: BI Analytics  Visualization
 ## Speaker: Erik Flateby
 ## Title: An introduction to Datazen
 ## Abstract:
@@ -274,7 +274,7 @@ creating your own impressive dashboards for mobile devices right away.
 #### SessionID: 37740
 # Stories from the Trenches: Upgrading SQL with Minimal Downtime
 #### [Back to calendar](#nr-414)
-Event Date: 29-08-2015 - Session time: 15:20:00 - Track: Database Administration
+Event Date: 29-08-2015 - Session time: 14:00:00 - Track: Database Administration
 ## Speaker: William Durkin
 ## Title: Stories from the Trenches: Upgrading SQL with Minimal Downtime
 ## Abstract:

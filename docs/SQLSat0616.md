@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 57751
 # Data Science that’s scale
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 20-05-2017 - Session time: 10:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: Data Science that’s scale
 ## Abstract:
@@ -47,7 +47,7 @@ Secondly, MRS 9 allows R models to be exposed as Web services. Furthermore with 
 #### SessionID: 59650
 # Introduction to the Stream Analytics query language
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 20-05-2017 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Johan Ludvig Brattås
 ## Title: Introduction to the Stream Analytics query language
 ## Abstract:
@@ -59,7 +59,7 @@ We will look at inputs and outputs - and see some working samples.
 #### SessionID: 61138
 # Важливість статистики в MS SQL Server, як вона використовується.
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Andrii Zrobok
 ## Title: Важливість статистики в MS SQL Server, як вона використовується.
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 61230
 # BI Application Lifecycle Management with TFS
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 20-05-2017 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: Dmytro Andriychenko
 ## Title: BI Application Lifecycle Management with TFS
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Information Delivery
 #### SessionID: 63047
 # When Things go Wrong - Error Handling in SQL Server
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: When Things go Wrong - Error Handling in SQL Server
 ## Abstract:
@@ -88,7 +88,7 @@ This presentation will start with a horror show of the many different actions SQ
 #### SessionID: 58085
 # Meta-Data Driven Tabular Modeling with TOM in SSAS
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-05-2017 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Meta-Data Driven Tabular Modeling with TOM in SSAS
 ## Abstract:
@@ -98,7 +98,7 @@ For example, you need to generate set of new measures every year or end users wa
 #### SessionID: 59492
 # Enabling Citizen Data Science with Microsoft
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-05-2017 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jan Mulkens
 ## Title: Enabling Citizen Data Science with Microsoft
 ## Abstract:
@@ -114,7 +114,7 @@ Using a combination of theory and demo’s, we explore Microsoft’s solutions t
 #### SessionID: 61360
 # Azure real-time analytics and kappa architecture with Kafka and Cassandra clusters.
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 20-05-2017 - Session time: 11:10:00 - Track: Advanced Analysis Techniques
 ## Speaker: Vitalii Bondarenko
 ## Title: Azure real-time analytics and kappa architecture with Kafka and Cassandra clusters.
 ## Abstract:
@@ -124,7 +124,7 @@ During the session we will dive into different aspects of building real-time str
 #### SessionID: 62690
 # Mastering DML Operations like a master
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Uwe Ricken
 ## Title: Mastering DML Operations like a master
 ## Abstract:
@@ -141,7 +141,7 @@ What performance drawbacks have Page Splits and Forwarded Records for my applica
 #### SessionID: 62708
 # Anchor Modelling: Sixth normal form databases!
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Stephanie Locke
 ## Title: Anchor Modelling: Sixth normal form databases!
 ## Abstract:
@@ -152,7 +152,7 @@ This session deep dives into all the concepts behind Anchor Modelling (and indee
 #### SessionID: 62954
 # Stretch your HA/DR capabilities with Azure and SQL Server 2016
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 11:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: Stretch your HA/DR capabilities with Azure and SQL Server 2016
 ## Abstract:
@@ -166,7 +166,7 @@ This session will overview features such as Always On AG, Failover cluster, Azur
 #### SessionID: 58023
 # T-SQL Performance Guidelines for better DB stress powers
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Shehab El-Najjar
 ## Title: T-SQL Performance Guidelines for better DB stress powers
 ## Abstract:
@@ -175,7 +175,7 @@ Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 58084
 # Azure SQL DWH: Tips and Tricks for developers
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-05-2017 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: Azure SQL DWH: Tips and Tricks for developers
 ## Abstract:
@@ -184,7 +184,7 @@ Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 58241
 # NSA Secrets - Hacking SQL Server
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 20-05-2017 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: NSA Secrets - Hacking SQL Server
 ## Abstract:
@@ -198,7 +198,7 @@ Disclaimer: No actual state secrets will be revealed. Please do not send agents 
 #### SessionID: 60970
 # Creating Custom BI Solutions with Power BI Embedded
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-05-2017 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mihail Mateev
 ## Title: Creating Custom BI Solutions with Power BI Embedded
 ## Abstract:
@@ -209,7 +209,7 @@ This talk is a practical session on Microsoft Power BI Embedded concept with man
 #### SessionID: 62727
 # Supercharge your PostgreSQL with extensions
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Strategy and Architecture
+Event Date: 20-05-2017 - Session time: 14:00:00 - Track: Strategy and Architecture
 ## Speaker: Alexey Vasiliev
 ## Title: Supercharge your PostgreSQL with extensions
 ## Abstract:
@@ -218,7 +218,7 @@ Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Strategy and Architectu
 #### SessionID: 63419
 # Azure Data Factory. Ingest,prepare, transform and publish your data
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 20-05-2017 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Polonichko
 ## Title: Azure Data Factory. Ingest,prepare, transform and publish your data
 ## Abstract:
@@ -227,7 +227,7 @@ Event Date: 20-05-2017 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 65183
 # Optimization SQL Server for SharePoint Farm
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Strategy and Architecture
+Event Date: 20-05-2017 - Session time: 14:00:00 - Track: Strategy and Architecture
 ## Speaker: Sergii Bielskyi
 ## Title: Optimization SQL Server for SharePoint Farm
 ## Abstract:
@@ -236,7 +236,7 @@ Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Strategy and Architectu
 #### SessionID: 57737
 # SQL SERVER - Next station Azure
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-05-2017 - Session time: 15:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: SQL SERVER - Next station Azure
 ## Abstract:
@@ -252,7 +252,7 @@ We will cover:
 #### SessionID: 63046
 # Giving Permissions through Stored Procedures
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 15:10:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Giving Permissions through Stored Procedures
 ## Abstract:
@@ -265,7 +265,7 @@ The session should be of interest both to DBAs and application developers that n
 #### SessionID: 63583
 # Development Methodology for BI teams
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 15:10:00 - Track: Application  Database Development
 ## Speaker: Maryna Popova
 ## Title: Development Methodology for BI teams
 ## Abstract:
@@ -276,7 +276,7 @@ In my talk I would like to share my experience choosing and adjusting one.
 #### SessionID: 63631
 # SQL database on IoT devices, could you? should you? would you?
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 20-05-2017 - Session time: 15:10:00 - Track: Application  Database Development
 ## Speaker: Catalin Gheorghiu
 ## Title: SQL database on IoT devices, could you? should you? would you?
 ## Abstract:
@@ -287,7 +287,7 @@ How does all fit with the field gateway concept?  During the presentation, we wi
 #### SessionID: 65148
 # Создание data-driven serverless приложений используя Azure Functions
 #### [Back to calendar](#nr-616)
-Event Date: 20-05-2017 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 20-05-2017 - Session time: 15:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Anton Boyko
 ## Title: Создание data-driven serverless приложений используя Azure Functions
 ## Abstract:

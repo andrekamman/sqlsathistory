@@ -19,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 87366
 # The Tricky Part of Doing Tricky Things in your Database
 #### [Back to calendar](#nr-837)
-Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Application  Database Development
+Event Date: 02-03-2019 - Session time: 08:45:00 - Track: Application  Database Development
 ## Speaker: Karen Lopez
 ## Title: The Tricky Part of Doing Tricky Things in your Database
 ## Abstract:
@@ -30,7 +30,7 @@ We'll demo tricks that we've seen in our database design reviews and show you ho
 #### SessionID: 88385
 # The wonders of modern SQL Server administration
 #### [Back to calendar](#nr-837)
-Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-03-2019 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kirill Kravtsov
 ## Title: The wonders of modern SQL Server administration
 ## Abstract:
@@ -47,7 +47,7 @@ During this session you will see by yourself how easy it is to automate mundane 
 #### SessionID: 90432
 # Introduction to Power BI
 #### [Back to calendar](#nr-837)
-Event Date: 02-03-2019 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-03-2019 - Session time: 08:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mike Diehl
 ## Title: Introduction to Power BI
 ## Abstract:
@@ -57,7 +57,7 @@ With Power BI Desktop, we will import data from several sources, then perform so
 #### SessionID: 87365
 # Who's Pissing in Your Data Lake?
 #### [Back to calendar](#nr-837)
-Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 02-03-2019 - Session time: 10:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Karen Lopez
 ## Title: Who's Pissing in Your Data Lake?
 ## Abstract:
@@ -72,7 +72,7 @@ We will build a list of good pracitices and tools to use to spare you from a flo
 #### SessionID: 87949
 # Database Corruption - Advanced Recovery Techniques
 #### [Back to calendar](#nr-837)
-Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-03-2019 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Patrick Flynn
 ## Title: Database Corruption - Advanced Recovery Techniques
 ## Abstract:
@@ -84,7 +84,7 @@ Warning: Hex Editors and DBCC Page dumps will be involved!
 #### SessionID: 90433
 # Building measures in Power BI (and SQL Server Analysis Services tabular models)
 #### [Back to calendar](#nr-837)
-Event Date: 02-03-2019 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-03-2019 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Mike Diehl
 ## Title: Building measures in Power BI (and SQL Server Analysis Services tabular models)
 ## Abstract:
@@ -96,7 +96,7 @@ The DAX language is designed to look like Excel functions, so if you don't have 
 #### SessionID: 87364
 # A Database Designer's Favorite Features in SQL Server: Security, Privacy, and More
 #### [Back to calendar](#nr-837)
-Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Application  Database Development
+Event Date: 02-03-2019 - Session time: 12:45:00 - Track: Application  Database Development
 ## Speaker: Karen Lopez
 ## Title: A Database Designer's Favorite Features in SQL Server: Security, Privacy, and More
 ## Abstract:
@@ -113,7 +113,7 @@ We'll look at the features, why you should consider them, where they work, where
 #### SessionID: 88411
 # Get Your Optimizer to Give up All Its Secrets
 #### [Back to calendar](#nr-837)
-Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-03-2019 - Session time: 12:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Get Your Optimizer to Give up All Its Secrets
 ## Abstract:
@@ -122,7 +122,7 @@ Event Date: 02-03-2019 - Session time: 14:15:00 - Track: Enterprise Database Adm
 #### SessionID: 89007
 # Why do I need Analysis Services?
 #### [Back to calendar](#nr-837)
-Event Date: 02-03-2019 - Session time: 14:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-03-2019 - Session time: 12:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phillip Labry
 ## Title: Why do I need Analysis Services?
 ## Abstract:

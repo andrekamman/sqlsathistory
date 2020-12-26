@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 35621
 # Funky reports with Power BI for Excel and Office 365
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: BIPrograming
+Event Date: 10-10-2015 - Session time: 10:15:00 - Track: BIPrograming
 ## Speaker: Boriana Petrova
 ## Title: Funky reports with Power BI for Excel and Office 365
 ## Abstract:
@@ -40,7 +40,7 @@ Event Date: 10-10-2015 - Session time: 17:15:00 - Track: BIPrograming
 #### SessionID: 36090
 # Introduction to Azure DocumentDB
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: Azure
+Event Date: 10-10-2015 - Session time: 10:15:00 - Track: Azure
 ## Speaker: Leonard Lobel
 ## Title: Introduction to Azure DocumentDB
 ## Abstract:
@@ -49,7 +49,7 @@ Event Date: 10-10-2015 - Session time: 17:15:00 - Track: Azure
 #### SessionID: 37475
 # Mastering indexing maintenance with DMO like a PRO
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: DBA
+Event Date: 10-10-2015 - Session time: 10:15:00 - Track: DBA
 ## Speaker: Uwe Ricken
 ## Title: Mastering indexing maintenance with DMO like a PRO
 ## Abstract:
@@ -58,7 +58,7 @@ Event Date: 10-10-2015 - Session time: 17:15:00 - Track: DBA
 #### SessionID: 38029
 # Easy ETL with Biml
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: Database development
+Event Date: 10-10-2015 - Session time: 10:15:00 - Track: Database development
 ## Speaker: Marcin Szeliga
 ## Title: Easy ETL with Biml
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 10-10-2015 - Session time: 17:15:00 - Track: Database development
 #### SessionID: 36091
 # Native File Streaming with SQL Server
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: Database development
+Event Date: 10-10-2015 - Session time: 11:30:00 - Track: Database development
 ## Speaker: Leonard Lobel
 ## Title: Native File Streaming with SQL Server
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 10-10-2015 - Session time: 17:15:00 - Track: Database development
 #### SessionID: 37422
 # Azure Data Factory vs SSIS, the Ins and Outs.
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: Azure
+Event Date: 10-10-2015 - Session time: 11:30:00 - Track: Azure
 ## Speaker: Regis Baccaro
 ## Title: Azure Data Factory vs SSIS, the Ins and Outs.
 ## Abstract:
@@ -86,7 +86,7 @@ These are some of the questions that might arise, when reading about this new Pa
 #### SessionID: 39495
 # Advanced Reporting Techniques  Managing Reports
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: BIPrograming
+Event Date: 10-10-2015 - Session time: 11:30:00 - Track: BIPrograming
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Advanced Reporting Techniques  Managing Reports
 ## Abstract:
@@ -106,7 +106,7 @@ This session also helps you identify the performance bottleneck in poor performi
 #### SessionID: 39756
 # Are your SQL Server indexes effective?
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: DBA
+Event Date: 10-10-2015 - Session time: 11:30:00 - Track: DBA
 ## Speaker: Ivan Donev
 ## Title: Are your SQL Server indexes effective?
 ## Abstract:
@@ -115,7 +115,7 @@ Event Date: 10-10-2015 - Session time: 17:15:00 - Track: DBA
 #### SessionID: 39131
 # IoT and SQL (Server)
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: BIPrograming
+Event Date: 10-10-2015 - Session time: 13:15:00 - Track: BIPrograming
 ## Speaker: Catalin Gheorghiu
 ## Title: IoT and SQL (Server)
 ## Abstract:
@@ -126,7 +126,7 @@ And we are not talking about Oracle Index Organized Tables, we are talking about
 #### SessionID: 40279
 # The top 8 reasons for your transaction performance problems
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: Database development
+Event Date: 10-10-2015 - Session time: 13:15:00 - Track: Database development
 ## Speaker: Margarita Naumova
 ## Title: The top 8 reasons for your transaction performance problems
 ## Abstract:
@@ -136,7 +136,7 @@ There are common reasons for transaction delays like slow transaction log, page 
 #### SessionID: 41078
 # Pros and cons of stored procedures and clr
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: BIPrograming
+Event Date: 10-10-2015 - Session time: 13:15:00 - Track: BIPrograming
 ## Speaker: Todor Peev
 ## Title: Pros and cons of stored procedures and clr
 ## Abstract:
@@ -145,7 +145,7 @@ Event Date: 10-10-2015 - Session time: 17:15:00 - Track: BIPrograming
 #### SessionID: 41251
 # Microsoft SQL Server Transaction Log Inside
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: DBA
+Event Date: 10-10-2015 - Session time: 13:15:00 - Track: DBA
 ## Speaker: Tsvetozar Ivanov
 ## Title: Microsoft SQL Server Transaction Log Inside
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 10-10-2015 - Session time: 17:15:00 - Track: DBA
 #### SessionID: 37582
 # Boosting DWH-Performance with SQL Server 2016
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: BIPrograming
+Event Date: 10-10-2015 - Session time: 14:30:00 - Track: BIPrograming
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Boosting DWH-Performance with SQL Server 2016
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 10-10-2015 - Session time: 17:15:00 - Track: BIPrograming
 #### SessionID: 40040
 # Exploring Optimistic Concurrency
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: DBA
+Event Date: 10-10-2015 - Session time: 14:30:00 - Track: DBA
 ## Speaker: Boris Hristov
 ## Title: Exploring Optimistic Concurrency
 ## Abstract:
@@ -172,7 +172,7 @@ Event Date: 10-10-2015 - Session time: 17:15:00 - Track: DBA
 #### SessionID: 40499
 # When SQL is not enough… there it comes Elasticsearch
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: Database development
+Event Date: 10-10-2015 - Session time: 14:30:00 - Track: Database development
 ## Speaker: Ivelin Andreev
 ## Title: When SQL is not enough… there it comes Elasticsearch
 ## Abstract:
@@ -183,7 +183,7 @@ This session will draw your path into this relatively new technology, provide gu
 #### SessionID: 40906
 # Implement Forecasting in C# with ADOMD in real application 
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: BIPrograming
+Event Date: 10-10-2015 - Session time: 14:30:00 - Track: BIPrograming
 ## Speaker: Daniel Joskovski
 ## Title: Implement Forecasting in C# with ADOMD in real application 
 ## Abstract:
@@ -193,7 +193,7 @@ Event Date: 10-10-2015 - Session time: 17:15:00 - Track: BIPrograming
 #### SessionID: 37581
 # My Favorite Pie (Chart)
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: BIPrograming
+Event Date: 10-10-2015 - Session time: 16:00:00 - Track: BIPrograming
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: My Favorite Pie (Chart)
 ## Abstract:
@@ -202,7 +202,7 @@ Event Date: 10-10-2015 - Session time: 17:15:00 - Track: BIPrograming
 #### SessionID: 38753
 # Continuous Integration with Sql Server Data Tool and Team Foundation Server
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: Database development
+Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Database development
 ## Speaker: Regis Baccaro
 ## Title: Continuous Integration with Sql Server Data Tool and Team Foundation Server
 ## Abstract:
@@ -211,7 +211,7 @@ Event Date: 10-10-2015 - Session time: 17:15:00 - Track: Database development
 #### SessionID: 40015
 # Tips and Tricks for Maintenance Optimization
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: DBA
+Event Date: 10-10-2015 - Session time: 16:00:00 - Track: DBA
 ## Speaker: Miroslav Dimitrov
 ## Title: Tips and Tricks for Maintenance Optimization
 ## Abstract:
@@ -221,7 +221,7 @@ Event Date: 10-10-2015 - Session time: 17:15:00 - Track: DBA
 #### SessionID: 41212
 # Datawarehouse in the Cloud with Azure
 #### [Back to calendar](#nr-430)
-Event Date: 10-10-2015 - Session time: 17:15:00 - Track: Azure
+Event Date: 10-10-2015 - Session time: 16:00:00 - Track: Azure
 ## Speaker: Ivan Donev
 ## Title: Datawarehouse in the Cloud with Azure
 ## Abstract:

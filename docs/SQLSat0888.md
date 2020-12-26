@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 95401
 # Power BI Development Best Practices (Deep Dive)
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: PreCon1
+Event Date: 10-08-2019 - Session time: 09:00:00 - Track: PreCon1
 ## Speaker: Martin Schoombee
 ## Title: Power BI Development Best Practices (Deep Dive)
 ## Abstract:
@@ -57,7 +57,7 @@ https://www.eventbrite.com/e/precons-sqlsaturday-sioux-falls-tickets-63432355884
 #### SessionID: 95402
 # Doing Data Science on Azure (and the Certifications)
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: PreCon2
+Event Date: 10-08-2019 - Session time: 09:00:00 - Track: PreCon2
 ## Speaker: Ryan Swanstrom
 ## Title: Doing Data Science on Azure (and the Certifications)
 ## Abstract:
@@ -74,7 +74,7 @@ https://www.eventbrite.com/e/precons-sqlsaturday-sioux-falls-tickets-63432355884
 #### SessionID: 95403
 # Using SQL Server tools to Find Performance Bottlenecks
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: PreCon3
+Event Date: 10-08-2019 - Session time: 09:00:00 - Track: PreCon3
 ## Speaker: Dave Bland
 ## Title: Using SQL Server tools to Find Performance Bottlenecks
 ## Abstract:
@@ -102,7 +102,7 @@ https://www.eventbrite.com/e/precons-sqlsaturday-sioux-falls-tickets-63432355884
 #### SessionID: 92025
 # Playing with (M)agic: an introduction to writing M code in Power BI
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Analytics and Visualization
+Event Date: 10-08-2019 - Session time: 08:00:00 - Track: Analytics and Visualization
 ## Speaker: Justin Mannhardt
 ## Title: Playing with (M)agic: an introduction to writing M code in Power BI
 ## Abstract:
@@ -116,7 +116,7 @@ In this session you will learn:
 #### SessionID: 93522
 # Introduction to Business Intelligence
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Professional Development
+Event Date: 10-08-2019 - Session time: 08:00:00 - Track: Professional Development
 ## Speaker: CJ Knapp
 ## Title: Introduction to Business Intelligence
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Professional Developmen
 #### SessionID: 93941
 # 42 TSQL Functions
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 10-08-2019 - Session time: 08:00:00 - Track: Application  Database Development
 ## Speaker: Thomas Grohser
 ## Title: 42 TSQL Functions
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Application  Database D
 #### SessionID: 94806
 # How to use Execution Plans to find Performance Issues
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-08-2019 - Session time: 08:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: How to use Execution Plans to find Performance Issues
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 95055
 # The 10 Commandments of ETL
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 10-08-2019 - Session time: 08:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Martin Schoombee
 ## Title: The 10 Commandments of ETL
 ## Abstract:
@@ -154,7 +154,7 @@ In this session I will share the 10 basic principles I follow when developing ET
 #### SessionID: 94213
 # Real Time Monitoring with Power BI
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: BI Information Delivery
+Event Date: 10-08-2019 - Session time: 09:25:00 - Track: BI Information Delivery
 ## Speaker: Bill Fellows
 ## Title: Real Time Monitoring with Power BI
 ## Abstract:
@@ -163,7 +163,7 @@ Event Date: 10-08-2019 - Session time: 16:05:00 - Track: BI Information Delivery
 #### SessionID: 94260
 # Unit Testing - How to Make Friends and Influence Databases
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 10-08-2019 - Session time: 09:25:00 - Track: Application  Database Development
 ## Speaker: Adam Hafner
 ## Title: Unit Testing - How to Make Friends and Influence Databases
 ## Abstract:
@@ -172,7 +172,7 @@ Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Application  Database D
 #### SessionID: 94436
 # Big Data Clusters for the Absolute Beginner
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-08-2019 - Session time: 09:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mohammad Darab
 ## Title: Big Data Clusters for the Absolute Beginner
 ## Abstract:
@@ -188,7 +188,7 @@ Topics include:
 #### SessionID: 94984
 # Data Science with SQL Server 2017
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Advanced Analysis Techniques
+Event Date: 10-08-2019 - Session time: 09:25:00 - Track: Advanced Analysis Techniques
 ## Speaker: John Byrnes
 ## Title: Data Science with SQL Server 2017
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Advanced Analysis Techn
 #### SessionID: 94330
 # Why should I care about ... the plan cache?
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-08-2019 - Session time: 10:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
 ## Abstract:
@@ -208,7 +208,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #### SessionID: 94366
 # Hyper-Interactivity in Power BI
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Analytics and Visualization
+Event Date: 10-08-2019 - Session time: 10:50:00 - Track: Analytics and Visualization
 ## Speaker: Brian Larson
 ## Title: Hyper-Interactivity in Power BI
 ## Abstract:
@@ -217,7 +217,7 @@ Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Analytics and Visualiza
 #### SessionID: 94464
 # SQL Unit Testing with T-SQLt
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 10-08-2019 - Session time: 10:50:00 - Track: Application  Database Development
 ## Speaker: Kevin Trojanowski
 ## Title: SQL Unit Testing with T-SQLt
 ## Abstract:
@@ -226,7 +226,7 @@ Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Application  Database D
 #### SessionID: 95058
 # Real-World PowerShell for SQL Administration
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-08-2019 - Session time: 10:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Real-World PowerShell for SQL Administration
 ## Abstract:
@@ -239,7 +239,7 @@ And then we'll spend the balance of our time looking at real-world, practical sc
 #### SessionID: 93946
 # Innovative Data Modeling: Make Data Warehousing Cool Again
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 10-08-2019 - Session time: 13:15:00 - Track: Application  Database Development
 ## Speaker: Leslie Weed
 ## Title: Innovative Data Modeling: Make Data Warehousing Cool Again
 ## Abstract:
@@ -248,7 +248,7 @@ Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Application  Database D
 #### SessionID: 94713
 # Extended Events - Better than Profiler
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-08-2019 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Brimhall
 ## Title: Extended Events - Better than Profiler
 ## Abstract:
@@ -257,7 +257,7 @@ Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 95054
 # Advanced Power BI Modeling Techniques
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: BI Information Delivery
+Event Date: 10-08-2019 - Session time: 13:15:00 - Track: BI Information Delivery
 ## Speaker: Martin Schoombee
 ## Title: Advanced Power BI Modeling Techniques
 ## Abstract:
@@ -268,7 +268,7 @@ In this session we'll take your modeling skills to the next level as we explore 
 #### SessionID: 95160
 # HA in an about an Hour
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-08-2019 - Session time: 13:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Shawn Meyers
 ## Title: HA in an about an Hour
 ## Abstract:
@@ -277,7 +277,7 @@ Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 92086
 # Building Web-Apps with R and SQL Server
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Application  Database Development
+Event Date: 10-08-2019 - Session time: 14:40:00 - Track: Application  Database Development
 ## Speaker: Matthew Sharkey
 ## Title: Building Web-Apps with R and SQL Server
 ## Abstract:
@@ -292,7 +292,7 @@ Here are a few topics we'll address:
 #### SessionID: 93094
 # Are you getting the most out of SQL Agent?
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-08-2019 - Session time: 14:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcus Hopfinger
 ## Title: Are you getting the most out of SQL Agent?
 ## Abstract:
@@ -301,7 +301,7 @@ Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Enterprise Database Adm
 #### SessionID: 94532
 # "Why is My Drive Full?" Understanding SQL Backups - Even if you are not responsible for Backups
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 10-08-2019 - Session time: 14:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Preston VanderPlaats
 ## Title: "Why is My Drive Full?" Understanding SQL Backups - Even if you are not responsible for Backups
 ## Abstract:
@@ -320,7 +320,7 @@ This is a good introduction, if you need to learn how to backup SQL, want to kno
 #### SessionID: 94755
 # What are these new Microsoft Data Certifications?
 #### [Back to calendar](#nr-888)
-Event Date: 10-08-2019 - Session time: 16:05:00 - Track: Professional Development
+Event Date: 10-08-2019 - Session time: 14:40:00 - Track: Professional Development
 ## Speaker: Ryan Swanstrom
 ## Title: What are these new Microsoft Data Certifications?
 ## Abstract:

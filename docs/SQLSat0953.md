@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 100229
 # Introduction to DAX in Power BI
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-02-2020 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Adam Maxam
 ## Title: Introduction to DAX in Power BI
 ## Abstract:
@@ -43,7 +43,7 @@ Event Date: 29-02-2020 - Session time: 15:50:00 - Track: BI Platform Architectur
 #### SessionID: 100260
 # Inside of Indexes
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-02-2020 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Slava Murygin
 ## Title: Inside of Indexes
 ## Abstract:
@@ -54,7 +54,7 @@ In that session we will use DBCC IND and DBCC PAGE and dig into pages' binary co
 #### SessionID: 100265
 # Networking 101: Getting Ready for a SQL Event
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 29-02-2020 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: Matt Cushing
 ## Title: Networking 101: Getting Ready for a SQL Event
 ## Abstract:
@@ -65,7 +65,7 @@ In this session, we'll go over steps you can take before, during and after the e
 #### SessionID: 100298
 # Why should I care about ... the plan cache?
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: Why should I care about ... the plan cache?
 ## Abstract:
@@ -76,7 +76,7 @@ Perfect for those who are relatively new to performance tuning concerns, or adva
 #### SessionID: 101405
 # Beginning T-SQL
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Beginning T-SQL
 ## Abstract:
@@ -85,7 +85,7 @@ Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Application  Database D
 #### SessionID: 101178
 # How I Cut My Maintenance Window by 80%
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-02-2020 - Session time: 09:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paresh Motiwala
 ## Title: How I Cut My Maintenance Window by 80%
 ## Abstract:
@@ -97,7 +97,7 @@ We'll also some of the best practices to help you cut down the maintenance windo
 #### SessionID: 101286
 # Beyond the Basic SELECT
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 09:50:00 - Track: Application  Database Development
 ## Speaker: Deborah Melkin
 ## Title: Beyond the Basic SELECT
 ## Abstract:
@@ -106,7 +106,7 @@ Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Application  Database D
 #### SessionID: 101310
 # Find (So You can Fix) those Troublesome Queries
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-02-2020 - Session time: 09:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Find (So You can Fix) those Troublesome Queries
 ## Abstract:
@@ -115,7 +115,7 @@ Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Enterprise Database Adm
 #### SessionID: 101375
 # New features in Management Studio  -- Performance Troubleshooting made easier!
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-02-2020 - Session time: 09:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Taiob Ali
 ## Title: New features in Management Studio  -- Performance Troubleshooting made easier!
 ## Abstract:
@@ -128,7 +128,7 @@ In this demo intensive session, I will show you how to find and use new features
 #### SessionID: 101686
 # The Future Of The DBA In A Cloud Centric Environment
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 29-02-2020 - Session time: 09:50:00 - Track: Professional Development
 ## Speaker: David Benoit
 ## Title: The Future Of The DBA In A Cloud Centric Environment
 ## Abstract:
@@ -143,7 +143,7 @@ This goal of this session is to encourage attendees to become life long learners
 #### SessionID: 100699
 # Introduction to Sentiment Analysis with SQL Server
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Analytics and Visualization
+Event Date: 29-02-2020 - Session time: 11:20:00 - Track: Analytics and Visualization
 ## Speaker: Tracey Kroll
 ## Title: Introduction to Sentiment Analysis with SQL Server
 ## Abstract:
@@ -154,7 +154,7 @@ Sentiment Analysis helps you understand what customers are feeling.  Being able 
 #### SessionID: 101201
 # Loading your Data Vault with Azure Data Factory Mapping Data Flows
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 11:20:00 - Track: Application  Database Development
 ## Speaker: Rayis Imayev
 ## Title: Loading your Data Vault with Azure Data Factory Mapping Data Flows
 ## Abstract:
@@ -167,7 +167,7 @@ In this session, I will share my experience of populating a Data Vault repositor
 #### SessionID: 101400
 # More Common Than You Think: Mental Illness in Tech
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 29-02-2020 - Session time: 11:20:00 - Track: Professional Development
 ## Speaker: Tracy Boggiano
 ## Title: More Common Than You Think: Mental Illness in Tech
 ## Abstract:
@@ -178,7 +178,7 @@ In this session, we will talk about what mental illness is and what it is not.  
 #### SessionID: 101409
 # Monster Text Manipulation: Regular Expressions for the DBA
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 11:20:00 - Track: Application  Database Development
 ## Speaker: Sean McCown
 ## Title: Monster Text Manipulation: Regular Expressions for the DBA
 ## Abstract:
@@ -192,7 +192,7 @@ Here you’ll learn:
 #### SessionID: 101927
 # Lightning Talks - AM
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Other
+Event Date: 29-02-2020 - Session time: 11:20:00 - Track: Other
 ## Speaker: Kimberly StJacques
 ## Title: Lightning Talks - AM
 ## Abstract:
@@ -205,7 +205,7 @@ Taiob Ali - Extended Events - How to collect the first 10 or every 4th event
 #### SessionID: 100146
 # Production down!  How to keep calm and query on during an outage.
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 29-02-2020 - Session time: 13:20:00 - Track: Professional Development
 ## Speaker: Kris Gruttemeyer
 ## Title: Production down!  How to keep calm and query on during an outage.
 ## Abstract:
@@ -220,7 +220,7 @@ This session will arm you with techniques to help you and your team efficiently 
 #### SessionID: 100740
 # Let's Dive Into SQL Server I/O To Improve T-SQL Performance
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 13:20:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: Let's Dive Into SQL Server I/O To Improve T-SQL Performance
 ## Abstract:
@@ -233,7 +233,7 @@ When you leave, you'll be able to optimize your T-SQL reduce I/O and improve per
 #### SessionID: 101249
 # Introduction to M (a.k.a Power Query)
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-02-2020 - Session time: 13:20:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Eugene Meidinger
 ## Title: Introduction to M (a.k.a Power Query)
 ## Abstract:
@@ -244,7 +244,7 @@ In this session, we'll demonstrate how M is a linear series of transformations, 
 #### SessionID: 101429
 # Streamline Database Deployments
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 13:20:00 - Track: Application  Database Development
 ## Speaker: Elizabeth Noble
 ## Title: Streamline Database Deployments
 ## Abstract:
@@ -259,7 +259,7 @@ Attendees should be familiar with general concepts about source control and be c
 #### SessionID: 100738
 # How Intelligent Query Processing improves T-SQL performance
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Application  Database Development
+Event Date: 29-02-2020 - Session time: 14:35:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: How Intelligent Query Processing improves T-SQL performance
 ## Abstract:
@@ -268,7 +268,7 @@ Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Application  Database D
 #### SessionID: 101399
 # Intro to Query Store
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-02-2020 - Session time: 14:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Intro to Query Store
 ## Abstract:
@@ -281,7 +281,7 @@ In this session, we will walk through the features of the Query Store, so you ca
 #### SessionID: 101433
 # The Good, the Bad, and the Ugly -- switching from SSIS to Informatica Cloud as an ETL Tool
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Strategy and Architecture
+Event Date: 29-02-2020 - Session time: 14:35:00 - Track: Strategy and Architecture
 ## Speaker: Jane Datz
 ## Title: The Good, the Bad, and the Ugly -- switching from SSIS to Informatica Cloud as an ETL Tool
 ## Abstract:
@@ -298,7 +298,7 @@ Product360 and onward
 #### SessionID: 101586
 # Thanks for the Feedback!
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Professional Development
+Event Date: 29-02-2020 - Session time: 14:35:00 - Track: Professional Development
 ## Speaker: Anna Hadnagy
 ## Title: Thanks for the Feedback!
 ## Abstract:
@@ -313,7 +313,7 @@ This session won't teach you how to give feedback, because you've already been t
 #### SessionID: 101929
 # Lightning Talks - PM
 #### [Back to calendar](#nr-953)
-Event Date: 29-02-2020 - Session time: 15:50:00 - Track: Other
+Event Date: 29-02-2020 - Session time: 14:35:00 - Track: Other
 ## Speaker: Deborah Melkin
 ## Title: Lightning Talks - PM
 ## Abstract:

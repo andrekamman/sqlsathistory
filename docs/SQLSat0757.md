@@ -39,7 +39,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 77954
 # Data Protection  Privacy in the World of Database DevOps
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-07-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Grant Fritchey
 ## Title: Data Protection  Privacy in the World of Database DevOps
 ## Abstract:
@@ -48,7 +48,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 78312
 # Monitoring Linux Performance for the SQL Server Admin
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-07-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: Monitoring Linux Performance for the SQL Server Admin
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 80368
 # SQL Query 101
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 28-07-2018 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Robert Muir
 ## Title: SQL Query 101
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 82860
 # Azure Basics for the DBA
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-07-2018 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: John Morehouse
 ## Title: Azure Basics for the DBA
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 84304
 # Real-World Data Movement and Orchestration Patterns with Azure Data Factory
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-07-2018 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jason Horner
 ## Title: Real-World Data Movement and Orchestration Patterns with Azure Data Factory
 ## Abstract:
@@ -85,7 +85,7 @@ Whether you are just getting started with Azure Data Factory or looking to make 
 #### SessionID: 74400
 # Mom Rules for Managing Enterprise Database Environments
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-07-2018 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: Mom Rules for Managing Enterprise Database Environments
 ## Abstract:
@@ -94,7 +94,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 82742
 # Always Encrypted for Beginners
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 28-07-2018 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Monica Rathbun
 ## Title: Always Encrypted for Beginners
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 82863
 # SQL Server Databaseology: A Deep Dive Into Database Internals
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-07-2018 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: SQL Server Databaseology: A Deep Dive Into Database Internals
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 83204
 # Get TurnedOn with AlwaysOn
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-07-2018 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mitchell Bottel
 ## Title: Get TurnedOn with AlwaysOn
 ## Abstract:
@@ -122,7 +122,7 @@ SQL Server AlwaysOn provides a high-availability and Disaster-recovery solution 
 #### SessionID: 83563
 # What's new in SQL Server 2017
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 28-07-2018 - Session time: 09:45:00 - Track: Professional Development
 ## Speaker: Hasan Savran
 ## Title: What's new in SQL Server 2017
 ## Abstract:
@@ -143,7 +143,7 @@ SQL Server 2017 became a great resource for caching with the new In-Memory featu
 #### SessionID: 74399
 # How To Talk To Your Storage Admin
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-07-2018 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marsha Pierce
 ## Title: How To Talk To Your Storage Admin
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 82554
 # Delivering Business Value Faster
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-07-2018 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Adam Anderson
 ## Title: Delivering Business Value Faster
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 83328
 # Power BI Dashboard - Creating End to End Solutions
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-07-2018 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Suresh Datla
 ## Title: Power BI Dashboard - Creating End to End Solutions
 ## Abstract:
@@ -171,7 +171,7 @@ Accessing data, Data preparation, and cleansing, consuming the data for reports 
 #### SessionID: 83354
 # Big Data - The Biggest Fad of the Decade
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 28-07-2018 - Session time: 11:00:00 - Track: Strategy and Architecture
 ## Speaker: Ami Levin
 ## Title: Big Data - The Biggest Fad of the Decade
 ## Abstract:
@@ -180,7 +180,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 84286
 # Introduction to SQL Server Integration Services, what's new in SSIS
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Information Delivery
+Event Date: 28-07-2018 - Session time: 11:00:00 - Track: Information Delivery
 ## Speaker: Steve Rezhener
 ## Title: Introduction to SQL Server Integration Services, what's new in SSIS
 ## Abstract:
@@ -189,7 +189,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Information Delivery
 #### SessionID: 82747
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-07-2018 - Session time: 12:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
 ## Abstract:
@@ -198,7 +198,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 84514
 # Attunix: Azure Intelligent Services
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-07-2018 - Session time: 12:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Amie Mason
 ## Title: Attunix: Azure Intelligent Services
 ## Abstract:
@@ -207,7 +207,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 74132
 # Insights with massive data ingestion and Power BI
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-07-2018 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Armando Lacerda
 ## Title: Insights with massive data ingestion and Power BI
 ## Abstract:
@@ -223,7 +223,7 @@ You will learn:
 #### SessionID: 77956
 # Disaster Recovery and High Availability in Azure SQL Database
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-07-2018 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Grant Fritchey
 ## Title: Disaster Recovery and High Availability in Azure SQL Database
 ## Abstract:
@@ -232,7 +232,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 78700
 # Dynamic SQL: Tables, Pivots, Parameters  More
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 28-07-2018 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Steven Tidwell
 ## Title: Dynamic SQL: Tables, Pivots, Parameters  More
 ## Abstract:
@@ -241,7 +241,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 82743
 # I'm It - Survival Techniques for the Lone DBA
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-07-2018 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: I'm It - Survival Techniques for the Lone DBA
 ## Abstract:
@@ -250,7 +250,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 84044
 # A Look Inside SQL Server Distribution Statistics
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
+Event Date: 28-07-2018 - Session time: 13:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Kalen Delaney
 ## Title: A Look Inside SQL Server Distribution Statistics
 ## Abstract:
@@ -259,7 +259,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 74183
 # Data Wrangling for Reporting  Analytics using Power BI
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-07-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Phil Robinson
 ## Title: Data Wrangling for Reporting  Analytics using Power BI
 ## Abstract:
@@ -272,7 +272,7 @@ In this presentation we will review tools to examine/repair schema issues and ex
 #### SessionID: 82506
 # Soft skills for Geeks: Don't be a flat boxer
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 28-07-2018 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Randy Knight
 ## Title: Soft skills for Geeks: Don't be a flat boxer
 ## Abstract:
@@ -281,7 +281,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 83366
 # Why Should I Care About ... Partitioned Views?
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 28-07-2018 - Session time: 14:45:00 - Track: Strategy and Architecture
 ## Speaker: Rick Lowe
 ## Title: Why Should I Care About ... Partitioned Views?
 ## Abstract:
@@ -290,7 +290,7 @@ Event Date: 28-07-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 83946
 # Reporting Services 2016: New Features  Smart Migration Strategy
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 28-07-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ted Stathakis
 ## Title: Reporting Services 2016: New Features  Smart Migration Strategy
 ## Abstract:
@@ -301,7 +301,7 @@ The session will then dive into how to use the data in the ReportServer database
 #### SessionID: 84236
 # PowerBI your way to understand your SQL Server Estate
 #### [Back to calendar](#nr-757)
-Event Date: 28-07-2018 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 28-07-2018 - Session time: 14:45:00 - Track: BI Information Delivery
 ## Speaker: Neil Hambly
 ## Title: PowerBI your way to understand your SQL Server Estate
 ## Abstract:

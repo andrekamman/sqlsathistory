@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 45240
 # Think  work like a Data Scientist with SQL 2016 R.
 #### [Back to calendar](#nr-519)
-Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Advanced Analysis Techniques
+Event Date: 28-05-2016 - Session time: 10:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Think  work like a Data Scientist with SQL 2016 R.
 ## Abstract:
@@ -36,7 +36,7 @@ In this session, you will definitely take away a breakthrough concept of Advance
 #### SessionID: 46383
 # Performance Tuning for the Transaction Log
 #### [Back to calendar](#nr-519)
-Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-05-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Miroslav Dimitrov
 ## Title: Performance Tuning for the Transaction Log
 ## Abstract:
@@ -45,7 +45,7 @@ Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 50274
 # Why SQL server 2016 rocks
 #### [Back to calendar](#nr-519)
-Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 28-05-2016 - Session time: 10:00:00 - Track: Strategy and Architecture
 ## Speaker: Ivan Donev
 ## Title: Why SQL server 2016 rocks
 ## Abstract:
@@ -54,7 +54,7 @@ Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Strategy and Architectu
 #### SessionID: 45234
 # Real-Time Dashboards on PowerBI
 #### [Back to calendar](#nr-519)
-Event Date: 28-05-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 28-05-2016 - Session time: 11:15:00 - Track: BI Information Delivery
 ## Speaker: Sergiy Lunyakin
 ## Title: Real-Time Dashboards on PowerBI
 ## Abstract:
@@ -63,7 +63,7 @@ Event Date: 28-05-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 45241
 # SQL Server 2016 has Gold plated  bullet proof Database Engine
 #### [Back to calendar](#nr-519)
-Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-05-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: SQL Server 2016 has Gold plated  bullet proof Database Engine
 ## Abstract:
@@ -74,7 +74,7 @@ In this session, I will let you have a quick look around the new DB Engine featu
 #### SessionID: 49161
 # A deep dive into SQL Server Plan Cache Management 
 #### [Back to calendar](#nr-519)
-Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-05-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Margarita Naumova
 ## Title: A deep dive into SQL Server Plan Cache Management 
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Enterprise Database Adm
 #### SessionID: 45598
 # DBA Vs. Hacker: Protecting SQL Server
 #### [Back to calendar](#nr-519)
-Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Cloud Application Development  Deployment
+Event Date: 28-05-2016 - Session time: 13:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: DBA Vs. Hacker: Protecting SQL Server
 ## Abstract:
@@ -95,7 +95,7 @@ A Hacker's goal is to find vulnerabilities in a system and a DBA's goal is to ma
 #### SessionID: 46183
 # AlwaysOn Availability Groups for Developers
 #### [Back to calendar](#nr-519)
-Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 28-05-2016 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Kaloyan Kosev
 ## Title: AlwaysOn Availability Groups for Developers
 ## Abstract:
@@ -105,7 +105,7 @@ Come join me in a session focused on AlwaysOn Availability Groups - how they act
 #### SessionID: 49162
 # SQL Server 2016 Query Store – a flight recorder of your database
 #### [Back to calendar](#nr-519)
-Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 28-05-2016 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Margarita Naumova
 ## Title: SQL Server 2016 Query Store – a flight recorder of your database
 ## Abstract:
@@ -116,7 +116,7 @@ With the Query Store feature, SQL Server 2016 saves historical execution plans. 
 #### SessionID: 50710
 # SQL Server 2016 and JSON Support
 #### [Back to calendar](#nr-519)
-Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 28-05-2016 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Branimir Giurov
 ## Title: SQL Server 2016 and JSON Support
 ## Abstract:
@@ -132,7 +132,7 @@ Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 45349
 # T-SQL gotchas and powerups
 #### [Back to calendar](#nr-519)
-Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Application  Database Development
+Event Date: 28-05-2016 - Session time: 14:15:00 - Track: Application  Database Development
 ## Speaker: Andrey Nikolov
 ## Title: T-SQL gotchas and powerups
 ## Abstract:
@@ -141,7 +141,7 @@ Event Date: 28-05-2016 - Session time: 15:45:00 - Track: Application  Database D
 #### SessionID: 45430
 # Funky reports with Power BI for Excel and Office 365
 #### [Back to calendar](#nr-519)
-Event Date: 28-05-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 28-05-2016 - Session time: 14:15:00 - Track: BI Information Delivery
 ## Speaker: Boriana Petrova
 ## Title: Funky reports with Power BI for Excel and Office 365
 ## Abstract:
@@ -150,7 +150,7 @@ Event Date: 28-05-2016 - Session time: 15:45:00 - Track: BI Information Delivery
 #### SessionID: 45614
 # New life for Reporting Services: what's up in 2016
 #### [Back to calendar](#nr-519)
-Event Date: 28-05-2016 - Session time: 15:45:00 - Track: BI Information Delivery
+Event Date: 28-05-2016 - Session time: 14:15:00 - Track: BI Information Delivery
 ## Speaker: Andrea Martorana Tusa
 ## Title: New life for Reporting Services: what's up in 2016
 ## Abstract:

@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 46163
 # #15 | KEYNOTE | SQL 2016 Data Platform | Mark Souza  | Microsoft USA
 #### [Back to calendar](#nr-468)
-Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Other
+Event Date: 27-02-2016 - Session time: 08:30:00 - Track: Other
 ## Speaker: Grant Paisley
 ## Title: #15 | KEYNOTE | SQL 2016 Data Platform | Mark Souza  | Microsoft USA
 ## Abstract:
@@ -37,7 +37,7 @@ Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Other
 #### SessionID: 39466
 # #22 | The DBA with his Head in the Clouds
 #### [Back to calendar](#nr-468)
-Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Martin Cairney
 ## Title: #22 | The DBA with his Head in the Clouds
 ## Abstract:
@@ -48,7 +48,7 @@ In this session we will compare the core features of Azure SQL Database against 
 #### SessionID: 42653
 # #21 | TempDB: the forgotten pillar of Performance Tuning
 #### [Back to calendar](#nr-468)
-Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 27-02-2016 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Hamish Watson
 ## Title: #21 | TempDB: the forgotten pillar of Performance Tuning
 ## Abstract:
@@ -62,7 +62,7 @@ We will start with determining the best configuration, number of database files 
 #### SessionID: 42906
 # #06 | Big Data Fundamentals with Azure HDInsight
 #### [Back to calendar](#nr-468)
-Event Date: 27-02-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-02-2016 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Peter Myers
 ## Title: #06 | Big Data Fundamentals with Azure HDInsight
 ## Abstract:
@@ -75,7 +75,7 @@ This session will be of interest to those new to the concept of Big Data and int
 #### SessionID: 44393
 # #23 | Toolkit for DAX Optimization
 #### [Back to calendar](#nr-468)
-Event Date: 27-02-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-02-2016 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Russo
 ## Title: #23 | Toolkit for DAX Optimization
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 27-02-2016 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 41556
 # #05 | Automated Test Driven Development with SQL Server using nUnit
 #### [Back to calendar](#nr-468)
-Event Date: 27-02-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-02-2016 - Session time: 11:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Dan de Sousa
 ## Title: #05 | Automated Test Driven Development with SQL Server using nUnit
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 27-02-2016 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 41920
 # #13 | How Available is SQL Server 2016
 #### [Back to calendar](#nr-468)
-Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Warwick Rudd
 ## Title: #13 | How Available is SQL Server 2016
 ## Abstract:
@@ -105,7 +105,7 @@ In this session we will look at the options available to you currently to meet y
 #### SessionID: 42918
 # #01 | 5 reasons I am excited about IoT and Cortana Analytics
 #### [Back to calendar](#nr-468)
-Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 27-02-2016 - Session time: 11:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Iman Eftekhari
 ## Title: #01 | 5 reasons I am excited about IoT and Cortana Analytics
 ## Abstract:
@@ -114,7 +114,7 @@ Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 42944
 # #08 | Creating High Performance Tabular Models
 #### [Back to calendar](#nr-468)
-Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Other
+Event Date: 27-02-2016 - Session time: 11:15:00 - Track: Other
 ## Speaker: James Beresford
 ## Title: #08 | Creating High Performance Tabular Models
 ## Abstract:
@@ -123,7 +123,7 @@ Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Other
 #### SessionID: 44539
 # #03 | An introduction to data analysis with R
 #### [Back to calendar](#nr-468)
-Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 27-02-2016 - Session time: 11:15:00 - Track: Analytics and Visualization
 ## Speaker: Glyn LLewellyn
 ## Title: #03 | An introduction to data analysis with R
 ## Abstract:
@@ -132,7 +132,7 @@ Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Analytics and Visualiza
 #### SessionID: 47188
 # #24 | Power BI Red Carpet Showcases – come and see real-life dashboards
 #### [Back to calendar](#nr-468)
-Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Analytics and Visualization
+Event Date: 27-02-2016 - Session time: 12:45:00 - Track: Analytics and Visualization
 ## Speaker: Iman Eftekhari
 ## Title: #24 | Power BI Red Carpet Showcases – come and see real-life dashboards
 ## Abstract:
@@ -145,7 +145,7 @@ BIO: Agile BI is a Sydney based consulting firm that specialises in Microsoft Da
 #### SessionID: 39468
 # #09 | DBA life made easier with SQL Server 2016 - Query Store and
 #### [Back to calendar](#nr-468)
-Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Manohar Punna
 ## Title: #09 | DBA life made easier with SQL Server 2016 - Query Store and
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Enterprise Database Adm
 #### SessionID: 42570
 # #04 | Are You High?  Can You Recover?
 #### [Back to calendar](#nr-468)
-Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Strategy and Architecture
+Event Date: 27-02-2016 - Session time: 13:30:00 - Track: Strategy and Architecture
 ## Speaker: Rob Douglas
 ## Title: #04 | Are You High?  Can You Recover?
 ## Abstract:
@@ -165,7 +165,7 @@ Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Strategy and Architectu
 #### SessionID: 42817
 # #20 | SSIS vs. Azure Data Factory 
 #### [Back to calendar](#nr-468)
-Event Date: 27-02-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 27-02-2016 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Reza Rad
 ## Title: #20 | SSIS vs. Azure Data Factory 
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 27-02-2016 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 42895
 # #07 | Build an Activity-Based Costing System with Power BI
 #### [Back to calendar](#nr-468)
-Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 27-02-2016 - Session time: 13:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Grant Paisley
 ## Title: #07 | Build an Activity-Based Costing System with Power BI
 ## Abstract:
@@ -185,7 +185,7 @@ We will use a real-world health care model to show how we replaced an expensive,
 #### SessionID: 44400
 # #16 | Maintain SQL Server Performance Baseline w/PowerShell
 #### [Back to calendar](#nr-468)
-Event Date: 27-02-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 27-02-2016 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: #16 | Maintain SQL Server Performance Baseline w/PowerShell
 ## Abstract:

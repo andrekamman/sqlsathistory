@@ -40,7 +40,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 86687
 # Power BI Security -  End to End
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
+Event Date: 06-04-2019 - Session time: 08:30:00 - Track: BI Information Delivery
 ## Speaker: Suresh Datla
 ## Title: Power BI Security -  End to End
 ## Abstract:
@@ -49,7 +49,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 #### SessionID: 87091
 # The Power of Data: The Complete Beginners Data Warehouse Kit
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-04-2019 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data: The Complete Beginners Data Warehouse Kit
 ## Abstract:
@@ -58,7 +58,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #### SessionID: 87289
 # Dump the Trace: Extending your Events
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 06-04-2019 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Daniel Maenle
 ## Title: Dump the Trace: Extending your Events
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 88238
 # “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-04-2019 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #1: How the “Best Practice” Methods are Silently Killing Performance
 ## Abstract:
@@ -80,7 +80,7 @@ In this first of two back-to-back sessions on the subject, we’ll explore what 
 #### SessionID: 88369
 # Accelerate SQL Server Migration to the AWS Cloud: Approach and Methodology
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-04-2019 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Manguirish Sardessai
 ## Title: Accelerate SQL Server Migration to the AWS Cloud: Approach and Methodology
 ## Abstract:
@@ -91,7 +91,7 @@ Learn more on what trends you can expect to see, what the future holds for publi
 #### SessionID: 89763
 # Hyphenated Data Roles in Today's Information Environment
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Professional Development
+Event Date: 06-04-2019 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Scot Reagin
 ## Title: Hyphenated Data Roles in Today's Information Environment
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Professional Developmen
 #### SessionID: 92113
 # Exploring SQL Server containers on Docker  Kubernetes
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-04-2019 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Carlos Robles
 ## Title: Exploring SQL Server containers on Docker  Kubernetes
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #### SessionID: 86811
 # CONVERT_IMPLICIT is a hidden danger
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
+Event Date: 06-04-2019 - Session time: 10:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Alex Grinberg
 ## Title: CONVERT_IMPLICIT is a hidden danger
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #### SessionID: 87036
 # Keeping up with SSMS
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-04-2019 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michelle Haarhues
 ## Title: Keeping up with SSMS
 ## Abstract:
@@ -129,7 +129,7 @@ On top of the new versions, there is a lot of cool stuff available in SSMS that 
 #### SessionID: 88239
 # “Black Arts” Index Maintenance #2: Better Methods that Can Actually Prevent Fragmentation for Weeks.
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-04-2019 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Moden
 ## Title: “Black Arts” Index Maintenance #2: Better Methods that Can Actually Prevent Fragmentation for Weeks.
 ## Abstract:
@@ -144,7 +144,7 @@ We’ll also learn that no simple method is a panacea, what to do about the horr
 #### SessionID: 88561
 # Introduction to the R Programming Language for BI Professionals
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 06-04-2019 - Session time: 10:15:00 - Track: Analytics and Visualization
 ## Speaker: Jeff Renz
 ## Title: Introduction to the R Programming Language for BI Professionals
 ## Abstract:
@@ -155,7 +155,7 @@ In this session I will demonstrate how to use R Studio to generate and test R sc
 #### SessionID: 89807
 # Say Anything: Using knowledge base, NLP and AI to enable customer
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-04-2019 - Session time: 10:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Yuliya Quintela
 ## Title: Say Anything: Using knowledge base, NLP and AI to enable customer
 ## Abstract:
@@ -166,7 +166,7 @@ Come and learn how to use Azure technologies to build a Chat Bot to answer quest
 #### SessionID: 89809
 # Building Composable Query Abstractions in TSQL
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 06-04-2019 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Isak Sky
 ## Title: Building Composable Query Abstractions in TSQL
 ## Abstract:
@@ -177,7 +177,7 @@ This presentation will show how this problem can be avoided by taking a data-fir
 #### SessionID: 87000
 # The next generation of Business Intelligence is done with DevOps
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-04-2019 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: César Oviedo
 ## Title: The next generation of Business Intelligence is done with DevOps
 ## Abstract:
@@ -186,7 +186,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #### SessionID: 86690
 # Power BI Premium: Is it for your Company (and Worth it)?
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
+Event Date: 06-04-2019 - Session time: 11:30:00 - Track: BI Information Delivery
 ## Speaker: Steve Wake
 ## Title: Power BI Premium: Is it for your Company (and Worth it)?
 ## Abstract:
@@ -195,7 +195,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Information Delivery
 #### SessionID: 89352
 # Everlasting Issues with Temporary Tables and tempdb
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 06-04-2019 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Kalen Delaney
 ## Title: Everlasting Issues with Temporary Tables and tempdb
 ## Abstract:
@@ -204,7 +204,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 89735
 # So you want to be a consultant?
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Professional Development
+Event Date: 06-04-2019 - Session time: 11:30:00 - Track: Professional Development
 ## Speaker: Eric Peterson
 ## Title: So you want to be a consultant?
 ## Abstract:
@@ -219,7 +219,7 @@ Then we'll review the various ways you can find new projects because waiting for
 #### SessionID: 89801
 # Power BI, from a DBA's Perspective
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-04-2019 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: TJay Belt
 ## Title: Power BI, from a DBA's Perspective
 ## Abstract:
@@ -230,7 +230,7 @@ As a DBA, we often need to collect and display data in a friendly and interactiv
 #### SessionID: 89837
 # Implementing a Cloud Analytics Solution: Options, Costs and More
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-04-2019 - Session time: 11:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Marc Beacom
 ## Title: Implementing a Cloud Analytics Solution: Options, Costs and More
 ## Abstract:
@@ -239,7 +239,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #### SessionID: 89839
 # Storing Images in a Database - Tips and Techniques
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 06-04-2019 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Todd Kleinhans
 ## Title: Storing Images in a Database - Tips and Techniques
 ## Abstract:
@@ -248,7 +248,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 87775
 # Effective Communication and Self Promotion for the IT Introvert (YOU!)
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Professional Development
+Event Date: 06-04-2019 - Session time: 14:00:00 - Track: Professional Development
 ## Speaker: Mitchell Bottel
 ## Title: Effective Communication and Self Promotion for the IT Introvert (YOU!)
 ## Abstract:
@@ -257,7 +257,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Professional Developmen
 #### SessionID: 88037
 # Understanding Azure SQL Managed Instances
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 06-04-2019 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Moore
 ## Title: Understanding Azure SQL Managed Instances
 ## Abstract:
@@ -266,7 +266,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Enterprise Database Adm
 #### SessionID: 88299
 # The very Model of a Modern Day Database
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Strategy and Architecture
+Event Date: 06-04-2019 - Session time: 14:00:00 - Track: Strategy and Architecture
 ## Speaker: Greg Moore
 ## Title: The very Model of a Modern Day Database
 ## Abstract:
@@ -278,7 +278,7 @@ This session will cover how and when to back them up, how to move them if necess
 #### SessionID: 89846
 # Innovative Data Modeling: Make Data Warehousing Cool Again
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 06-04-2019 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Leslie Weed
 ## Title: Innovative Data Modeling: Make Data Warehousing Cool Again
 ## Abstract:
@@ -287,7 +287,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: BI Platform Architectur
 #### SessionID: 89902
 # Professional SQL Server Development
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database Development
+Event Date: 06-04-2019 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Paul Nielsen
 ## Title: Professional SQL Server Development
 ## Abstract:
@@ -296,7 +296,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Application  Database D
 #### SessionID: 92652
 # SQL Server using Amazon Web Services EC2 Instances
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-04-2019 - Session time: 14:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Christopher Wolff
 ## Title: SQL Server using Amazon Web Services EC2 Instances
 ## Abstract:
@@ -305,7 +305,7 @@ Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Devel
 #### SessionID: 86691
 # Azure SQL DB and PowerBI the Best friends
 #### [Back to calendar](#nr-830)
-Event Date: 06-04-2019 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 06-04-2019 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Pini Krisher
 ## Title: Azure SQL DB and PowerBI the Best friends
 ## Abstract:

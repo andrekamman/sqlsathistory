@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 88200
 # Big Data e Arquitetura Lambda
 #### [Back to calendar](#nr-834)
-Event Date: 22-06-2019 - Session time: 15:55:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-06-2019 - Session time: 09:40:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Arthur Luz
 ## Title: Big Data e Arquitetura Lambda
 ## Abstract:
@@ -34,7 +34,7 @@ Event Date: 22-06-2019 - Session time: 15:55:00 - Track: BI Platform Architectur
 #### SessionID: 93795
 # Let's talk about Always On Availability Group
 #### [Back to calendar](#nr-834)
-Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Strategy and Architecture
+Event Date: 22-06-2019 - Session time: 09:40:00 - Track: Strategy and Architecture
 ## Speaker: Alex Ramos
 ## Title: Let's talk about Always On Availability Group
 ## Abstract:
@@ -43,7 +43,7 @@ Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Strategy and Architectu
 #### SessionID: 93948
 # Arquitetura Kappa com Apache Kafka, Azure Databricks e Delta Lake
 #### [Back to calendar](#nr-834)
-Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Analytics and Visualization
+Event Date: 22-06-2019 - Session time: 09:40:00 - Track: Analytics and Visualization
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Arquitetura Kappa com Apache Kafka, Azure Databricks e Delta Lake
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Analytics and Visualiza
 #### SessionID: 93385
 # Configurando a infraestrutura para uma FCI do SQL Server no Azure
 #### [Back to calendar](#nr-834)
-Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-06-2019 - Session time: 10:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tiago Crespi
 ## Title: Configurando a infraestrutura para uma FCI do SQL Server no Azure
 ## Abstract:
@@ -61,7 +61,7 @@ Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Enterprise Database Adm
 #### SessionID: 93402
 # Power BI - Dicas e Truques para turbinar seu Dashboard
 #### [Back to calendar](#nr-834)
-Event Date: 22-06-2019 - Session time: 15:55:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-06-2019 - Session time: 10:35:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rodrigo Dornel
 ## Title: Power BI - Dicas e Truques para turbinar seu Dashboard
 ## Abstract:
@@ -70,7 +70,7 @@ Event Date: 22-06-2019 - Session time: 15:55:00 - Track: BI Platform Architectur
 #### SessionID: 93477
 # Entregando aplicações legadas client-server com alto desempenho no Azure
 #### [Back to calendar](#nr-834)
-Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Strategy and Architecture
+Event Date: 22-06-2019 - Session time: 10:35:00 - Track: Strategy and Architecture
 ## Speaker: Rafael Felipe
 ## Title: Entregando aplicações legadas client-server com alto desempenho no Azure
 ## Abstract:
@@ -79,7 +79,7 @@ Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Strategy and Architectu
 #### SessionID: 87992
 # SQL Server 2019 Big Data Clusters
 #### [Back to calendar](#nr-834)
-Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-06-2019 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Luiz Henrique Garetti
 ## Title: SQL Server 2019 Big Data Clusters
 ## Abstract:
@@ -90,7 +90,7 @@ Nesta sessão, vamos aprofundar um pouco mais nesse assunto, entendendo (na teor
 #### SessionID: 88010
 # Managed Instance - Uma instância do SQL Server como serviço que você terá que conhecer
 #### [Back to calendar](#nr-834)
-Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Cloud Application Development  Deployment
+Event Date: 22-06-2019 - Session time: 11:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Fabrício Lima
 ## Title: Managed Instance - Uma instância do SQL Server como serviço que você terá que conhecer
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Cloud Application Devel
 #### SessionID: 90031
 # Hacking SQL Server 2
 #### [Back to calendar](#nr-834)
-Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-06-2019 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Hacking SQL Server 2
 ## Abstract:
@@ -111,7 +111,7 @@ Simularemos uma invasão ao SQL Server explorando alguns conceitos mal interpret
 #### SessionID: 87562
 # Tuning no SQL Server 2019 - Quais as novidades?
 #### [Back to calendar](#nr-834)
-Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Application  Database Development
+Event Date: 22-06-2019 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Fabiano Amorim
 ## Title: Tuning no SQL Server 2019 - Quais as novidades?
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Application  Database D
 #### SessionID: 95330
 # Hoje no SQL Saturday – Índices! Como vivem? Como se reproduzem?
 #### [Back to calendar](#nr-834)
-Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Application  Database Development
+Event Date: 22-06-2019 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Tiago Crespi
 ## Title: Hoje no SQL Saturday – Índices! Como vivem? Como se reproduzem?
 ## Abstract:
@@ -133,7 +133,7 @@ Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Application  Database D
 #### SessionID: 95424
 # SQL SERVER on Linux: Breaking paradigms
 #### [Back to calendar](#nr-834)
-Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-06-2019 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcelo Adade
 ## Title: SQL SERVER on Linux: Breaking paradigms
 ## Abstract:
@@ -143,7 +143,7 @@ Nesta sessão veremos como instalar, configurar e executar o SQL SERVER no Linux
 #### SessionID: 90656
 # BSoD - Blue Screen of Death
 #### [Back to calendar](#nr-834)
-Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 22-06-2019 - Session time: 14:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ricardo Leka
 ## Title: BSoD - Blue Screen of Death
 ## Abstract:
@@ -153,7 +153,7 @@ Vamos tentar achar o motivo que levou sua solução de alta disponibilidade ser 
 #### SessionID: 93571
 # Entendendo o que são Window Functions e como ganhar desempenho nas suas consultas
 #### [Back to calendar](#nr-834)
-Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Application  Database Development
+Event Date: 22-06-2019 - Session time: 14:25:00 - Track: Application  Database Development
 ## Speaker: LOGAN MERAZZI
 ## Title: Entendendo o que são Window Functions e como ganhar desempenho nas suas consultas
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 22-06-2019 - Session time: 15:55:00 - Track: Application  Database D
 #### SessionID: 95400
 # SQL Server PolyBase - Como integrar meu banco de dados relacional com NoSQL e BigData
 #### [Back to calendar](#nr-834)
-Event Date: 22-06-2019 - Session time: 15:55:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 22-06-2019 - Session time: 14:25:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Rodrigo Dornel
 ## Title: SQL Server PolyBase - Como integrar meu banco de dados relacional com NoSQL e BigData
 ## Abstract:

@@ -20,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 40382
 # SQL Server Partitioning from A to Z
 #### [Back to calendar](#nr-451)
-Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Jupiter 2
+Event Date: 12-12-2015 - Session time: 10:00:00 - Track: Jupiter 2
 ## Speaker: Kevin Boles
 ## Title: SQL Server Partitioning from A to Z
 ## Abstract:
@@ -29,7 +29,7 @@ Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Jupiter 2
 #### SessionID: 40679
 # Social Media Analytics using Azure Technologies
 #### [Back to calendar](#nr-451)
-Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Adara
+Event Date: 12-12-2015 - Session time: 10:00:00 - Track: Adara
 ## Speaker: Koray Kocabas
 ## Title: Social Media Analytics using Azure Technologies
 ## Abstract:
@@ -38,7 +38,7 @@ Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Adara
 #### SessionID: 41672
 # SQL Server 2016 High Availability and Disaster Recovery Solutions
 #### [Back to calendar](#nr-451)
-Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Jupiter 1
+Event Date: 12-12-2015 - Session time: 10:00:00 - Track: Jupiter 1
 ## Speaker: Levent Oktar
 ## Title: SQL Server 2016 High Availability and Disaster Recovery Solutions
 ## Abstract:
@@ -47,7 +47,7 @@ Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Jupiter 1
 #### SessionID: 38192
 # Troubleshooting AlwaysOn Availability Groups in SQL Server 2012/2014/2016
 #### [Back to calendar](#nr-451)
-Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Jupiter 1
+Event Date: 12-12-2015 - Session time: 11:15:00 - Track: Jupiter 1
 ## Speaker: Yigit Aktan
 ## Title: Troubleshooting AlwaysOn Availability Groups in SQL Server 2012/2014/2016
 ## Abstract:
@@ -56,7 +56,7 @@ Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Jupiter 1
 #### SessionID: 40492
 # Deep dive to SQL Server configuration for SharePoint Server
 #### [Back to calendar](#nr-451)
-Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Jupiter 2
+Event Date: 12-12-2015 - Session time: 11:15:00 - Track: Jupiter 2
 ## Speaker: Gokan Ozcifci
 ## Title: Deep dive to SQL Server configuration for SharePoint Server
 ## Abstract:
@@ -67,7 +67,7 @@ After this session you will serve admirably the database back end to your ShareP
 #### SessionID: 41767
 # Real-Time Click Stream Analysis with Microsoft Azure Stream Analytics
 #### [Back to calendar](#nr-451)
-Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Adara
+Event Date: 12-12-2015 - Session time: 11:15:00 - Track: Adara
 ## Speaker: Abdullah ALTINTAŞ
 ## Title: Real-Time Click Stream Analysis with Microsoft Azure Stream Analytics
 ## Abstract:
@@ -83,7 +83,7 @@ In this session, we will be talking about;
 #### SessionID: 38326
 # Execution Plans Detail From Zero to Hero
 #### [Back to calendar](#nr-451)
-Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Jupiter 2
+Event Date: 12-12-2015 - Session time: 13:15:00 - Track: Jupiter 2
 ## Speaker: Ismail Adar
 ## Title: Execution Plans Detail From Zero to Hero
 ## Abstract:
@@ -93,7 +93,7 @@ At the end of this session attendees are be able to read and understand the exec
 #### SessionID: 41038
 # Querying SQL Server Data with Power BI Desktop
 #### [Back to calendar](#nr-451)
-Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Jupiter 2
+Event Date: 12-12-2015 - Session time: 13:15:00 - Track: Jupiter 2
 ## Speaker: Erdem Avni SELÇUK
 ## Title: Querying SQL Server Data with Power BI Desktop
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Jupiter 2
 #### SessionID: 38329
 # SQL Server Query Design and Optimization Recommendations For Developers
 #### [Back to calendar](#nr-451)
-Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Jupiter 2
+Event Date: 12-12-2015 - Session time: 14:30:00 - Track: Jupiter 2
 ## Speaker: Ismail Adar
 ## Title: SQL Server Query Design and Optimization Recommendations For Developers
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Jupiter 2
 #### SessionID: 40383
 # Indexing Deep Dive
 #### [Back to calendar](#nr-451)
-Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Jupiter 1
+Event Date: 12-12-2015 - Session time: 14:30:00 - Track: Jupiter 1
 ## Speaker: Kevin Boles
 ## Title: Indexing Deep Dive
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Jupiter 1
 #### SessionID: 41454
 # Think Connected – Modern IoT Solutions with Microsoft Azure
 #### [Back to calendar](#nr-451)
-Event Date: 12-12-2015 - Session time: 15:45:00 - Track: Adara
+Event Date: 12-12-2015 - Session time: 14:30:00 - Track: Adara
 ## Speaker: Mihail Mateev
 ## Title: Think Connected – Modern IoT Solutions with Microsoft Azure
 ## Abstract:

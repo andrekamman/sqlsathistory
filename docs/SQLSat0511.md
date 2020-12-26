@@ -35,7 +35,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 44333
 # Scripting out SQL Server for Documentation and Disaster Recovery
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: George Walkey
 ## Title: Scripting out SQL Server for Documentation and Disaster Recovery
 ## Abstract:
@@ -47,7 +47,7 @@ Objects exported include: SQL Agent Jobs/Alerts/Schedules, NT Service Credential
 #### SessionID: 44436
 # In-Memory Analytics using Columnstore Index in SQL Server 2016
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sunil Agarwal
 ## Title: In-Memory Analytics using Columnstore Index in SQL Server 2016
 ## Abstract:
@@ -56,7 +56,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 44527
 # Top 10 Wait Types Everyone Should Know
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Top 10 Wait Types Everyone Should Know
 ## Abstract:
@@ -65,7 +65,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 45479
 # Introduction to Wait Types and Response Time Analysis
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dean Richards
 ## Title: Introduction to Wait Types and Response Time Analysis
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 46150
 # Life Balance - Sad Realities of Divorce, Optimizations and Being On Call
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 02-04-2016 - Session time: 08:45:00 - Track: Professional Development
 ## Speaker: Eric Crew
 ## Title: Life Balance - Sad Realities of Divorce, Optimizations and Being On Call
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 47488
 # Keep your confidential data out of the prying eyes of your DBA
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 08:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Greg Larsen
 ## Title: Keep your confidential data out of the prying eyes of your DBA
 ## Abstract:
@@ -92,7 +92,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 44335
 # Intro to Monitoring I/O: The Counters That Count
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: J May
 ## Title: Intro to Monitoring I/O: The Counters That Count
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 44435
 # Real Time Operational Analtyics in SQL Server 2016
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 02-04-2016 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Sunil Agarwal
 ## Title: Real Time Operational Analtyics in SQL Server 2016
 ## Abstract:
@@ -110,7 +110,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 45091
 # It’s Time for a Change : Temporal Table Support in SQL Server 2016
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vern Rabe
 ## Title: It’s Time for a Change : Temporal Table Support in SQL Server 2016
 ## Abstract:
@@ -121,7 +121,7 @@ In this session we’ll discuss how you can benefit from temporal support in you
 #### SessionID: 45232
 # Diversity Panel: Career Decisions
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 02-04-2016 - Session time: 10:00:00 - Track: Professional Development
 ## Speaker: Cindy Gross
 ## Title: Diversity Panel: Career Decisions
 ## Abstract:
@@ -133,7 +133,7 @@ Cindy Gross / Panelists: Aviva Stephens, Julie Koesmarno, Scott Senkeresty, Soni
 #### SessionID: 45272
 # Microsoft and Big Data - An Overview of the Power Tools and more!
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 02-04-2016 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: David Patrick
 ## Title: Microsoft and Big Data - An Overview of the Power Tools and more!
 ## Abstract:
@@ -142,7 +142,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: BI Information Delivery
 #### SessionID: 48210
 # Be Friendly to SQL Server with TSQL Best Practices
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: Be Friendly to SQL Server with TSQL Best Practices
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 49188
 # Transform Database Agility with XtremIO
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Vendor 
+Event Date: 02-04-2016 - Session time: 10:00:00 - Track: Vendor 
 ## Speaker: Bryan Walsh
 ## Title: Transform Database Agility with XtremIO
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Vendor
 #### SessionID: 44402
 # The Art and the Science of Designing a Mission Critical SQL Server Solution
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 02-04-2016 - Session time: 11:15:00 - Track: Strategy and Architecture
 ## Speaker: Maxwell Myrick
 ## Title: The Art and the Science of Designing a Mission Critical SQL Server Solution
 ## Abstract:
@@ -170,7 +170,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Strategy and Architectu
 #### SessionID: 44528
 # Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Geekin’ Out on Extended Events -Deconstructing the system_health session to solve performance issues
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 45144
 # Moving Beyond Unconscious Bias
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 02-04-2016 - Session time: 11:15:00 - Track: Professional Development
 ## Speaker: Cindy Gross
 ## Title: Moving Beyond Unconscious Bias
 ## Abstract:
@@ -188,7 +188,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 45705
 # TempDB… Do this and don’t do that.
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steve Stedman
 ## Title: TempDB… Do this and don’t do that.
 ## Abstract:
@@ -199,7 +199,7 @@ We will start by taking a look at what TempDB is, how it is used, and why this i
 #### SessionID: 48211
 # SQL Server Encryption
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 11:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: SQL Server Encryption
 ## Abstract:
@@ -208,7 +208,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 44526
 # Seamlessly Scaling Azure SQL DB with Elastic Database Tools
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 02-04-2016 - Session time: 14:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Silvia Doomra
 ## Title: Seamlessly Scaling Azure SQL DB with Elastic Database Tools
 ## Abstract:
@@ -217,7 +217,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 44999
 # Analyze your query plan like a Microsoft Engineer!
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 02-04-2016 - Session time: 14:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Daniel Janik
 ## Title: Analyze your query plan like a Microsoft Engineer!
 ## Abstract:
@@ -226,7 +226,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 45413
 # Query Optimization Statistics – the Driving Force Behind Good Performance
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Vern Rabe
 ## Title: Query Optimization Statistics – the Driving Force Behind Good Performance
 ## Abstract:
@@ -235,7 +235,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 45920
 # Troubleshooting made easier using Extended events
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amit Banerjee
 ## Title: Troubleshooting made easier using Extended events
 ## Abstract:
@@ -245,7 +245,7 @@ Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 46164
 # Inside and out of Transactional Replication
 #### [Back to calendar](#nr-511)
-Event Date: 02-04-2016 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-04-2016 - Session time: 14:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chuck Lathrope
 ## Title: Inside and out of Transactional Replication
 ## Abstract:

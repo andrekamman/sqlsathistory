@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 53900
 # (PL) Think Mobile! Mobile Reporting with Microsoft Data Platform
 #### [Back to calendar](#nr-534)
-Event Date: 01-10-2016 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-10-2016 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Pawel Potasinski
 ## Title: (PL) Think Mobile! Mobile Reporting with Microsoft Data Platform
 ## Abstract:
@@ -35,7 +35,7 @@ Event Date: 01-10-2016 - Session time: 17:30:00 - Track: BI Platform Architectur
 #### SessionID: 47718
 # (EN) Demystifying clustered indexes
 #### [Back to calendar](#nr-534)
-Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Uwe Ricken
 ## Title: (EN) Demystifying clustered indexes
 ## Abstract:
@@ -48,7 +48,7 @@ The session goal is to make decisions easier for you to use a clustered index or
 #### SessionID: 52912
 # (PL) Rozwiązywanie problemów i optym. SQL Server przy użyciu Data Collect
 #### [Back to calendar](#nr-534)
-Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Agnieszka Cieplak
 ## Title: (PL) Rozwiązywanie problemów i optym. SQL Server przy użyciu Data Collect
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Adm
 #### SessionID: 53109
 # (EN) NSA Secrets - Hacking SQL Server
 #### [Back to calendar](#nr-534)
-Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: (EN) NSA Secrets - Hacking SQL Server
 ## Abstract:
@@ -71,7 +71,7 @@ Disclaimer: No actual state secrets will be revealed. Please do not send agents 
 #### SessionID: 47604
 # (EN) Automating the testing of your BI solutions with NBi
 #### [Back to calendar](#nr-534)
-Event Date: 01-10-2016 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-10-2016 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Cédric Charlier
 ## Title: (EN) Automating the testing of your BI solutions with NBi
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 01-10-2016 - Session time: 17:30:00 - Track: BI Platform Architectur
 #### SessionID: 50377
 # (EN) Natural Born Killers, Performance Issues to Avoid
 #### [Back to calendar](#nr-534)
-Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lord Richard Douglas
 ## Title: (EN) Natural Born Killers, Performance Issues to Avoid
 ## Abstract:
@@ -93,7 +93,7 @@ You will leave this session with a list of things that you can check for in your
 #### SessionID: 53569
 # (PL) Optymalizacja zapytań opartych o linked servery
 #### [Back to calendar](#nr-534)
-Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michał Janiec
 ## Title: (PL) Optymalizacja zapytań opartych o linked servery
 ## Abstract:
@@ -106,7 +106,7 @@ Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Adm
 #### SessionID: 48864
 # (EN)Upgrade, upgrade  more upgrade -know about SQL Server platform upgrade
 #### [Back to calendar](#nr-534)
-Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Satya Jayanty
 ## Title: (EN)Upgrade, upgrade  more upgrade -know about SQL Server platform upgrade
 ## Abstract:
@@ -123,7 +123,7 @@ We will cover the complete upgrade cycle, including the preparation tasks, upgra
 #### SessionID: 53324
 # (EN) Microsoft R Server
 #### [Back to calendar](#nr-534)
-Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Advanced Analysis Techniques
+Event Date: 01-10-2016 - Session time: 13:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Marcin Szeliga
 ## Title: (EN) Microsoft R Server
 ## Abstract:
@@ -134,7 +134,7 @@ Don’t miss the opportunity to see how MSR addresses open source R scalability 
 #### SessionID: 53327
 # (EN) Effective Index Partitioning, Compression Strategy
 #### [Back to calendar](#nr-534)
-Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Neil Hambly
 ## Title: (EN) Effective Index Partitioning, Compression Strategy
 ## Abstract:
@@ -148,7 +148,7 @@ Using Demos to illustrate the performance gains with real-world examples, Take a
 #### SessionID: 53467
 # (PL) How minimal logging can help me?
 #### [Back to calendar](#nr-534)
-Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Application  Database Development
+Event Date: 01-10-2016 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Bartosz Ratajczyk
 ## Title: (PL) How minimal logging can help me?
 ## Abstract:
@@ -159,7 +159,7 @@ If you want to speed up data loading you should get familiar with minimal loggin
 #### SessionID: 51153
 # (EN) Continuous Integration with SSDT and Team Foundation Server
 #### [Back to calendar](#nr-534)
-Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Regis Baccaro
 ## Title: (EN) Continuous Integration with SSDT and Team Foundation Server
 ## Abstract:
@@ -168,7 +168,7 @@ Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Adm
 #### SessionID: 52268
 # (EN) Azure SQL Data Warehouse: Deep Dive
 #### [Back to calendar](#nr-534)
-Event Date: 01-10-2016 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-10-2016 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sergiy Lunyakin
 ## Title: (EN) Azure SQL Data Warehouse: Deep Dive
 ## Abstract:
@@ -177,7 +177,7 @@ Event Date: 01-10-2016 - Session time: 17:30:00 - Track: BI Platform Architectur
 #### SessionID: 53291
 # (EN) Hidden gems of SQL Server 2014
 #### [Back to calendar](#nr-534)
-Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Application  Database Development
+Event Date: 01-10-2016 - Session time: 15:00:00 - Track: Application  Database Development
 ## Speaker: Denis Reznik
 ## Title: (EN) Hidden gems of SQL Server 2014
 ## Abstract:
@@ -190,7 +190,7 @@ As a small bonus, we will talk a bit how these features are improved in SQL Serv
 #### SessionID: 48103
 # (PL) Refresh a 1TB+ database in under 10 seconds
 #### [Back to calendar](#nr-534)
-Event Date: 01-10-2016 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrzej Pilacik
 ## Title: (PL) Refresh a 1TB+ database in under 10 seconds
 ## Abstract:
@@ -200,7 +200,7 @@ Finally, the presentation will focus on an architecture based on SAN technologie
 #### SessionID: 52390
 # (PL) Diving into hyperspace - how to make better OLAP calculation
 #### [Back to calendar](#nr-534)
-Event Date: 01-10-2016 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-10-2016 - Session time: 16:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Grzegorz Stolecki
 ## Title: (PL) Diving into hyperspace - how to make better OLAP calculation
 ## Abstract:

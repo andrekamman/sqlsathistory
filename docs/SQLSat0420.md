@@ -27,7 +27,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 10988
 # Securing your SQL Azure Database. How?
 #### [Back to calendar](#nr-420)
-Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Bleue
+Event Date: 05-09-2015 - Session time: 10:00:00 - Track: Salle Bleue
 ## Speaker: Boris Hristov
 ## Title: Securing your SQL Azure Database. How?
 ## Abstract:
@@ -36,7 +36,7 @@ Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Bleue
 #### SessionID: 36675
 # Data modeling for data analysis and cubes
 #### [Back to calendar](#nr-420)
-Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Verte
+Event Date: 05-09-2015 - Session time: 10:00:00 - Track: Salle Verte
 ## Speaker: Alex Whittles
 ## Title: Data modeling for data analysis and cubes
 ## Abstract:
@@ -46,7 +46,7 @@ In this session we’ll look at a number of different data scenarios that we enc
 #### SessionID: 37323
 # Synchroniser ses donn#233;es
 #### [Back to calendar](#nr-420)
-Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Jaune
+Event Date: 05-09-2015 - Session time: 10:00:00 - Track: Salle Jaune
 ## Speaker: Arian Papillon
 ## Title: Synchroniser ses donn#233;es
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Jaune
 #### SessionID: 37473
 # SQL Server 2016 et nouveaut#233;s du moteur SQL
 #### [Back to calendar](#nr-420)
-Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Rouge
+Event Date: 05-09-2015 - Session time: 10:00:00 - Track: Salle Rouge
 ## Speaker: David Barbarin
 ## Title: SQL Server 2016 et nouveaut#233;s du moteur SQL
 ## Abstract:
@@ -64,7 +64,7 @@ Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Rouge
 #### SessionID: 20581
 # Transaction Log Internals: Virtual Log Files
 #### [Back to calendar](#nr-420)
-Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Jaune
+Event Date: 05-09-2015 - Session time: 11:30:00 - Track: Salle Jaune
 ## Speaker: Mike Hillwig
 ## Title: Transaction Log Internals: Virtual Log Files
 ## Abstract:
@@ -80,7 +80,7 @@ In this more advanced session, veteran DBA Mike Hillwig will show you what VLFs 
 #### SessionID: 28259
 # Professional Recycling - SSIS Custom Control Flow Components with Visual Studio Community
 #### [Back to calendar](#nr-420)
-Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Verte
+Event Date: 05-09-2015 - Session time: 11:30:00 - Track: Salle Verte
 ## Speaker: Wolfgang Strasser
 ## Title: Professional Recycling - SSIS Custom Control Flow Components with Visual Studio Community
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Verte
 #### SessionID: 37208
 # SQL 2016, un nouveau souffle pour la B.I. Microsoft On Premise ?
 #### [Back to calendar](#nr-420)
-Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Rouge
+Event Date: 05-09-2015 - Session time: 11:30:00 - Track: Salle Rouge
 ## Speaker: Charles-Henri Sauget
 ## Title: SQL 2016, un nouveau souffle pour la B.I. Microsoft On Premise ?
 ## Abstract:
@@ -110,7 +110,7 @@ Les points pr#233;c#233;dents seront trait#233;s #224; travers 3 axes majeurs, l
 #### SessionID: 37431
 # SQL Server sur Azure dans tous ses #233;tats !
 #### [Back to calendar](#nr-420)
-Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Bleue
+Event Date: 05-09-2015 - Session time: 11:30:00 - Track: Salle Bleue
 ## Speaker: Benjamin Talmard
 ## Title: SQL Server sur Azure dans tous ses #233;tats !
 ## Abstract:
@@ -119,7 +119,7 @@ Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Bleue
 #### SessionID: 16425
 # R is for Real World: Predictive Analytics models for Business Analytics
 #### [Back to calendar](#nr-420)
-Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Verte
+Event Date: 05-09-2015 - Session time: 13:30:00 - Track: Salle Verte
 ## Speaker: Jen Stirrup
 ## Title: R is for Real World: Predictive Analytics models for Business Analytics
 ## Abstract:
@@ -129,7 +129,7 @@ We will also look at visualising our results using Power BI, making actionable R
 #### SessionID: 37390
 # SSDT pour les sceptiques !
 #### [Back to calendar](#nr-420)
-Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Jaune
+Event Date: 05-09-2015 - Session time: 13:30:00 - Track: Salle Jaune
 ## Speaker: Cédric Charlier
 ## Title: SSDT pour les sceptiques !
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Jaune
 #### SessionID: 37460
 # SQL 2016 Query Store: Et si mes queries m'#233;taient cont#233;es...
 #### [Back to calendar](#nr-420)
-Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Rouge
+Event Date: 05-09-2015 - Session time: 13:30:00 - Track: Salle Rouge
 ## Speaker: Isabelle Van Campenhoudt
 ## Title: SQL 2016 Query Store: Et si mes queries m'#233;taient cont#233;es...
 ## Abstract:
@@ -147,7 +147,7 @@ Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Rouge
 #### SessionID: 40168
 # Aller plus loin dans l'analyse et la visualisation des donn#233;es BI
 #### [Back to calendar](#nr-420)
-Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Bleue
+Event Date: 05-09-2015 - Session time: 13:30:00 - Track: Salle Bleue
 ## Speaker: GUSS France
 ## Title: Aller plus loin dans l'analyse et la visualisation des donn#233;es BI
 ## Abstract:
@@ -156,7 +156,7 @@ Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Bleue
 #### SessionID: 27300
 # INSERT / UPDATE / DELETE - deep dive
 #### [Back to calendar](#nr-420)
-Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Jaune
+Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Salle Jaune
 ## Speaker: Uwe Ricken
 ## Title: INSERT / UPDATE / DELETE - deep dive
 ## Abstract:
@@ -167,7 +167,7 @@ SEE, what a workload will be caused by a "forwarded record". What tremendous wor
 #### SessionID: 37372
 # Performance des requ#234;tes : SSAS et SQL
 #### [Back to calendar](#nr-420)
-Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Verte
+Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Salle Verte
 ## Speaker: Patrice Harel
 ## Title: Performance des requ#234;tes : SSAS et SQL
 ## Abstract:
@@ -177,7 +177,7 @@ L'objectif sera triple : d#233;terminer les typologies de requ#234;tes plut#244;
 #### SessionID: 37452
 # DataViz 2016
 #### [Back to calendar](#nr-420)
-Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Rouge
+Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Salle Rouge
 ## Speaker: Ratana Vanisaveth
 ## Title: DataViz 2016
 ## Abstract:
@@ -189,7 +189,7 @@ Level 200
 #### SessionID: 37480
 # BI in the Cloud - what solutions ?
 #### [Back to calendar](#nr-420)
-Event Date: 05-09-2015 - Session time: 16:30:00 - Track: Salle Bleue
+Event Date: 05-09-2015 - Session time: 15:00:00 - Track: Salle Bleue
 ## Speaker: Jean-Pierre Riehl
 ## Title: BI in the Cloud - what solutions ?
 ## Abstract:

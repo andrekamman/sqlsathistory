@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 82445
 # SQL en la nube o en tierra??...pensemos en SQL infraestructura hibrida
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 13-10-2018 - Session time: 09:00:00 - Track: Strategy and Architecture
 ## Speaker: Vladimir Guzman
 ## Title: SQL en la nube o en tierra??...pensemos en SQL infraestructura hibrida
 ## Abstract:
@@ -59,7 +59,7 @@ En esta sesión veremos como pueden trabajar en forma coordinada SQL On Premises
 #### SessionID: 82987
 # Taking full advantage of SQL SERVER to create  high performanse mobile apps enviroments
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 13-10-2018 - Session time: 09:00:00 - Track: Strategy and Architecture
 ## Speaker: Juan Andres Johanning
 ## Title: Taking full advantage of SQL SERVER to create  high performanse mobile apps enviroments
 ## Abstract:
@@ -68,7 +68,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 85372
 # Migración a SQL Server 2017 ¿por qué? ¿para qué? ¿cómo?
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-10-2018 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Migración a SQL Server 2017 ¿por qué? ¿para qué? ¿cómo?
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 85583
 # Inteligencia artificial en la nube
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techniques
+Event Date: 13-10-2018 - Session time: 09:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Eduardo Castro
 ## Title: Inteligencia artificial en la nube
 ## Abstract:
@@ -86,7 +86,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 85819
 # Business Intelligence???
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: César Oviedo
 ## Title: Business Intelligence???
 ## Abstract:
@@ -95,7 +95,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 86296
 # Transformación Digital Empresarial
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Ahias Portillo
 ## Title: Transformación Digital Empresarial
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 86317
 # Introducción a Modern Data Solutions
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-10-2018 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jesus Gil
 ## Title: Introducción a Modern Data Solutions
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 84152
 # Instalacion de SQL Server 2017 utilizando Docker
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 13-10-2018 - Session time: 10:15:00 - Track: Strategy and Architecture
 ## Speaker: Raul Sao
 ## Title: Instalacion de SQL Server 2017 utilizando Docker
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 85330
 # Como los modelos de datos soportan la transformación digital
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 13-10-2018 - Session time: 10:15:00 - Track: Professional Development
 ## Speaker: Fabricio Quintanilla
 ## Title: Como los modelos de datos soportan la transformación digital
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 85338
 # La nueva era Azure Data Factory v2
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-10-2018 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: La nueva era Azure Data Factory v2
 ## Abstract:
@@ -149,7 +149,7 @@ En esta charla pretendemos compartir las usabilidad de este servicio y orientarl
 #### SessionID: 85824
 # Machine Learning and Microsoft Cognitive Services
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 10:15:00 - Track: Analytics and Visualization
 ## Speaker: Keneth Murillo
 ## Title: Machine Learning and Microsoft Cognitive Services
 ## Abstract:
@@ -158,7 +158,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 86069
 # Seguridad de la Información - de lo Básico a lo Formal
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 13-10-2018 - Session time: 10:15:00 - Track: Strategy and Architecture
 ## Speaker: Walter Navarrete
 ## Title: Seguridad de la Información - de lo Básico a lo Formal
 ## Abstract:
@@ -169,7 +169,7 @@ Cómo convivir en la nube bajo un esquema de seguridad.
 #### SessionID: 86324
 # SQL Server en Azure ¿cómo elegir entre tantas opciones?
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-10-2018 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: SQL Server en Azure ¿cómo elegir entre tantas opciones?
 ## Abstract:
@@ -178,7 +178,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 84083
 # Big Data en la Nube - Ecosistema Hadoop con HDInsight y Azure Data Lake
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-10-2018 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Joseph Arriola
 ## Title: Big Data en la Nube - Ecosistema Hadoop con HDInsight y Azure Data Lake
 ## Abstract:
@@ -188,7 +188,7 @@ Una forma de implementar de forma rápida un proyecto de Big Data es a través d
 #### SessionID: 84227
 # SQL Server Implementation Best Practices and Performance Tuning
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 13-10-2018 - Session time: 11:30:00 - Track: Strategy and Architecture
 ## Speaker: José Villalta
 ## Title: SQL Server Implementation Best Practices and Performance Tuning
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 84852
 # Desarrollando con SQL Server en Linux
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 13-10-2018 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Roberto Pena
 ## Title: Desarrollando con SQL Server en Linux
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 85822
 # Exploring Azure Bot Service in Microsoft Azure
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 13-10-2018 - Session time: 11:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Keneth Murillo
 ## Title: Exploring Azure Bot Service in Microsoft Azure
 ## Abstract:
@@ -215,7 +215,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 85872
 # ¡Data Discovery con R y PBI! ¿Qué es? y ¿Por qué es importante?
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 11:30:00 - Track: Analytics and Visualization
 ## Speaker: Ricardo Estrada
 ## Title: ¡Data Discovery con R y PBI! ¿Qué es? y ¿Por qué es importante?
 ## Abstract:
@@ -228,7 +228,7 @@ Herramientas que utilzaremos:
 #### SessionID: 86116
 # El Ciclo Empresarial de los Datos. Una perspectiva de negocios para la ventaja competitiva
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 13-10-2018 - Session time: 11:30:00 - Track: Professional Development
 ## Speaker: Carlos Alegria
 ## Title: El Ciclo Empresarial de los Datos. Una perspectiva de negocios para la ventaja competitiva
 ## Abstract:
@@ -237,7 +237,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 82281
 # AZURE: El poder de los servicios Cloud
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 13-10-2018 - Session time: 13:40:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Emerson Reyna
 ## Title: AZURE: El poder de los servicios Cloud
 ## Abstract:
@@ -256,7 +256,7 @@ En esta sesion vamos a explorar todas las áreas de aplicación de esta platafor
 #### SessionID: 82666
 # SQL Server 2017 - Graph Databases
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 13:40:00 - Track: Analytics and Visualization
 ## Speaker: Julio Enrique Urriola Barra
 ## Title: SQL Server 2017 - Graph Databases
 ## Abstract:
@@ -267,7 +267,7 @@ Evoluciones, como trabajarlo correctamente, interacción con Power BI, entre otr
 #### SessionID: 85584
 # Data Analytics en la nube de Azure
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 13:40:00 - Track: Analytics and Visualization
 ## Speaker: Eduardo Castro
 ## Title: Data Analytics en la nube de Azure
 ## Abstract:
@@ -276,7 +276,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 85995
 # ¡Hágalo fácil con Azure y Modelos Tabulares! Lecciones aprendidas…
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Information Delivery
+Event Date: 13-10-2018 - Session time: 13:40:00 - Track: BI Information Delivery
 ## Speaker: Ricardo Estrada
 ## Title: ¡Hágalo fácil con Azure y Modelos Tabulares! Lecciones aprendidas…
 ## Abstract:
@@ -285,7 +285,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Information Delivery
 #### SessionID: 86115
 # Visualización de Datos usando Excel. Un modelo practico.
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 13:40:00 - Track: Analytics and Visualization
 ## Speaker: Carlos Alegria
 ## Title: Visualización de Datos usando Excel. Un modelo practico.
 ## Abstract:
@@ -294,7 +294,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 86312
 # Dr Rudo SQL presenta: Soy el nuevo y me toca Administrar SQL Server
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-10-2018 - Session time: 13:40:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Dr Rudo SQL presenta: Soy el nuevo y me toca Administrar SQL Server
 ## Abstract:
@@ -303,7 +303,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 86323
 # Business Intelligence y la nube... ¿A dónde vamos a parar?
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 13:40:00 - Track: Analytics and Visualization
 ## Speaker: Luis Angel Dionicio Kuri
 ## Title: Business Intelligence y la nube... ¿A dónde vamos a parar?
 ## Abstract:
@@ -312,7 +312,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 84108
 # Integracion de datos en la nube - Azure Data Factory
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 13-10-2018 - Session time: 14:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Tulio Gómez Reyes
 ## Title: Integracion de datos en la nube - Azure Data Factory
 ## Abstract:
@@ -321,7 +321,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 84153
 # Utilización de R en Transact-SQL
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 14:50:00 - Track: Analytics and Visualization
 ## Speaker: Raul Sao
 ## Title: Utilización de R en Transact-SQL
 ## Abstract:
@@ -330,7 +330,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 85373
 # Dr Rudo SQL Presenta: Mejores practicas para Administrar tu SQL Server
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 13-10-2018 - Session time: 14:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jesus Gil
 ## Title: Dr Rudo SQL Presenta: Mejores practicas para Administrar tu SQL Server
 ## Abstract:
@@ -339,7 +339,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 85797
 # Aprendamos Reporting Services
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 14:50:00 - Track: Analytics and Visualization
 ## Speaker: Mario Guzman
 ## Title: Aprendamos Reporting Services
 ## Abstract:
@@ -348,7 +348,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 85823
 # Working with Text Analytics
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 14:50:00 - Track: Analytics and Visualization
 ## Speaker: Keneth Murillo
 ## Title: Working with Text Analytics
 ## Abstract:
@@ -357,7 +357,7 @@ Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualiza
 #### SessionID: 85860
 # Visualización de datos, el futuro está en la nube
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Analytics and Visualization
+Event Date: 13-10-2018 - Session time: 14:50:00 - Track: Analytics and Visualization
 ## Speaker: Ahias Portillo
 ## Title: Visualización de datos, el futuro está en la nube
 ## Abstract:
@@ -372,7 +372,7 @@ En esta sesión aprenderás:
 #### SessionID: 86300
 # BIG DATA
 #### [Back to calendar](#nr-788)
-Event Date: 13-10-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 13-10-2018 - Session time: 14:50:00 - Track: Application  Database Development
 ## Speaker: Carlos Munoz
 ## Title: BIG DATA
 ## Abstract:

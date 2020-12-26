@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 80292
 # Inteligência Artificial...Onde estamos e para onde vamos...
 #### [Back to calendar](#nr-744)
-Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Other
+Event Date: 23-06-2018 - Session time: 09:00:00 - Track: Other
 ## Speaker: Gustavo Gattass Ayub
 ## Title: Inteligência Artificial...Onde estamos e para onde vamos...
 ## Abstract:
@@ -35,7 +35,7 @@ Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Other
 #### SessionID: 72502
 # Go to Space with Azure CosmosDB
 #### [Back to calendar](#nr-744)
-Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Flávio Farias
 ## Title: Go to Space with Azure CosmosDB
 ## Abstract:
@@ -44,7 +44,7 @@ Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 82063
 # O Guia de Sobrevivência do "DBA Moderno"
 #### [Back to calendar](#nr-744)
-Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Raul Oliveira
 ## Title: O Guia de Sobrevivência do "DBA Moderno"
 ## Abstract:
@@ -58,7 +58,7 @@ Evolução é sempre necessária e temos que trabalhar para que ela venha a noss
 #### SessionID: 82325
 # Power BI - Cluster com DAX, Publicação e Compartilhamento com RLS
 #### [Back to calendar](#nr-744)
-Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 23-06-2018 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Fernando Garcia
 ## Title: Power BI - Cluster com DAX, Publicação e Compartilhamento com RLS
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 72938
 # Machine Learning de caixinha?
 #### [Back to calendar](#nr-744)
-Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 23-06-2018 - Session time: 11:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Diego Nogare
 ## Title: Machine Learning de caixinha?
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 77633
 # Relacional x NOSQL
 #### [Back to calendar](#nr-744)
-Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Caio Amante
 ## Title: Relacional x NOSQL
 ## Abstract:
@@ -85,7 +85,7 @@ Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 80756
 # Docker Windows com SQL Server 2017 - HowTo
 #### [Back to calendar](#nr-744)
-Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Other
+Event Date: 23-06-2018 - Session time: 11:00:00 - Track: Other
 ## Speaker: Anderson Souza
 ## Title: Docker Windows com SQL Server 2017 - HowTo
 ## Abstract:
@@ -94,7 +94,7 @@ Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Other
 #### SessionID: 81946
 # Backup Database On Premises no Azure
 #### [Back to calendar](#nr-744)
-Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 23-06-2018 - Session time: 13:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sulamita Dantas
 ## Title: Backup Database On Premises no Azure
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Cloud Application Devel
 #### SessionID: 82045
 # Análise de dados com Linguagem R + Visual Studio 2017 + Power BI
 #### [Back to calendar](#nr-744)
-Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Advanced Analysis Techniques
+Event Date: 23-06-2018 - Session time: 13:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Rodrigo Dornel
 ## Title: Análise de dados com Linguagem R + Visual Studio 2017 + Power BI
 ## Abstract:
@@ -112,7 +112,7 @@ Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 83355
 # Introdução a T-SQL
 #### [Back to calendar](#nr-744)
-Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 23-06-2018 - Session time: 13:00:00 - Track: Application  Database Development
 ## Speaker: Arthur Luz
 ## Title: Introdução a T-SQL
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 72543
 # Evitando as gafes mais comuns no Always On Availability Groups
 #### [Back to calendar](#nr-744)
-Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcelo Adade
 ## Title: Evitando as gafes mais comuns no Always On Availability Groups
 ## Abstract:
@@ -132,7 +132,7 @@ Nesta seção veremos as "pegadinhas" mais comuns quando  configuramos os AGs e 
 #### SessionID: 81995
 # Conhecendo o Azure SQL Data Warehouse
 #### [Back to calendar](#nr-744)
-Event Date: 23-06-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-06-2018 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bruno Feldman
 ## Title: Conhecendo o Azure SQL Data Warehouse
 ## Abstract:
@@ -141,7 +141,7 @@ Event Date: 23-06-2018 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 83948
 # Implementação de Self Service Bi através do Power Bi e SSIS
 #### [Back to calendar](#nr-744)
-Event Date: 23-06-2018 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-06-2018 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Marco Gustavo Nör da Silva Nör da Silva
 ## Title: Implementação de Self Service Bi através do Power Bi e SSIS
 ## Abstract:
@@ -150,7 +150,7 @@ Event Date: 23-06-2018 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 72847
 # Melhores práticas #SQN
 #### [Back to calendar](#nr-744)
-Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ricardo Leka
 ## Title: Melhores práticas #SQN
 ## Abstract:
@@ -160,7 +160,7 @@ Vamos conversar sobre configurações e programação que já encontramos em vá
 #### SessionID: 80774
 # The Dark Side of Big Data
 #### [Back to calendar](#nr-744)
-Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 23-06-2018 - Session time: 15:30:00 - Track: Professional Development
 ## Speaker: Fernando Andreazi
 ## Title: The Dark Side of Big Data
 ## Abstract:
@@ -169,7 +169,7 @@ Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Professional Developmen
 #### SessionID: 82368
 # Hacking SQL Server
 #### [Back to calendar](#nr-744)
-Event Date: 23-06-2018 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: Hacking SQL Server
 ## Abstract:

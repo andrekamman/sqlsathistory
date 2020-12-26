@@ -25,7 +25,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 44846
 # Putting Your head in the Cloud - Working with SQL Azure
 #### [Back to calendar](#nr-516)
-Event Date: 18-06-2016 - Session time: 15:00:00 - Track: DEVOPS
+Event Date: 18-06-2016 - Session time: 08:30:00 - Track: DEVOPS
 ## Speaker: David Postlethwaite
 ## Title: Putting Your head in the Cloud - Working with SQL Azure
 ## Abstract:
@@ -50,7 +50,7 @@ By the end of this sessions you will some way to becoming an Azure Jedi
 #### SessionID: 48323
 # Security Enhancements in SQL Server 2016
 #### [Back to calendar](#nr-516)
-Event Date: 18-06-2016 - Session time: 15:00:00 - Track: DBA
+Event Date: 18-06-2016 - Session time: 08:30:00 - Track: DBA
 ## Speaker: LEONEL ABREU
 ## Title: Security Enhancements in SQL Server 2016
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 18-06-2016 - Session time: 15:00:00 - Track: DBA
 #### SessionID: 48416
 # Really mobile first in Microsoft BI? - What's up in mobilty @ MS
 #### [Back to calendar](#nr-516)
-Event Date: 18-06-2016 - Session time: 15:00:00 - Track: BI
+Event Date: 18-06-2016 - Session time: 08:30:00 - Track: BI
 ## Speaker: Oliver Engels
 ## Title: Really mobile first in Microsoft BI? - What's up in mobilty @ MS
 ## Abstract:
@@ -69,7 +69,7 @@ If you apply Microsofts strategy Cloud First Mobile First to Microsoft BI you ma
 #### SessionID: 45086
 # Data Warehousing, ETL and Cubes in Azure
 #### [Back to calendar](#nr-516)
-Event Date: 18-06-2016 - Session time: 15:00:00 - Track: BI
+Event Date: 18-06-2016 - Session time: 09:40:00 - Track: BI
 ## Speaker: Alex Whittles
 ## Title: Data Warehousing, ETL and Cubes in Azure
 ## Abstract:
@@ -79,7 +79,7 @@ We'll take a high level look at the available Azure services, discussing what th
 #### SessionID: 45933
 # Simplifying SQL Server Migrations using PowerShell
 #### [Back to calendar](#nr-516)
-Event Date: 18-06-2016 - Session time: 15:00:00 - Track: DBA
+Event Date: 18-06-2016 - Session time: 09:40:00 - Track: DBA
 ## Speaker: Chrissy LeMaire
 ## Title: Simplifying SQL Server Migrations using PowerShell
 ## Abstract:
@@ -93,7 +93,7 @@ Then I'll show you how to use the PowerShell dbatools module to simplify your SQ
 #### SessionID: 48445
 # Building Your T-SQL Tool Kit: Window Function Fundamentals
 #### [Back to calendar](#nr-516)
-Event Date: 18-06-2016 - Session time: 15:00:00 - Track: DEVOPS
+Event Date: 18-06-2016 - Session time: 09:40:00 - Track: DEVOPS
 ## Speaker: Christina Leo
 ## Title: Building Your T-SQL Tool Kit: Window Function Fundamentals
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 18-06-2016 - Session time: 15:00:00 - Track: DEVOPS
 #### SessionID: 44854
 # How Good Is Your Indexing Strategy?
 #### [Back to calendar](#nr-516)
-Event Date: 18-06-2016 - Session time: 15:00:00 - Track: DBA
+Event Date: 18-06-2016 - Session time: 10:50:00 - Track: DBA
 ## Speaker: Tim Ford
 ## Title: How Good Is Your Indexing Strategy?
 ## Abstract:
@@ -113,7 +113,7 @@ A working knowledge of Dynamic Management Objects, indexing internals, and eager
 #### SessionID: 45400
 # What's new in Power BI 2.0
 #### [Back to calendar](#nr-516)
-Event Date: 18-06-2016 - Session time: 15:00:00 - Track: BI
+Event Date: 18-06-2016 - Session time: 10:50:00 - Track: BI
 ## Speaker: Frank Geisler
 ## Title: What's new in Power BI 2.0
 ## Abstract:
@@ -122,7 +122,7 @@ Event Date: 18-06-2016 - Session time: 15:00:00 - Track: BI
 #### SessionID: 46978
 # Taking your application to memory
 #### [Back to calendar](#nr-516)
-Event Date: 18-06-2016 - Session time: 15:00:00 - Track: DEVOPS
+Event Date: 18-06-2016 - Session time: 10:50:00 - Track: DEVOPS
 ## Speaker: Rasmus Reinholdt
 ## Title: Taking your application to memory
 ## Abstract:
@@ -133,7 +133,7 @@ You will therefore be taken through the concept of in-memory tables and what to 
 #### SessionID: 45188
 # Lock, Block and Two Smoking Barrels
 #### [Back to calendar](#nr-516)
-Event Date: 18-06-2016 - Session time: 15:00:00 - Track: DBA
+Event Date: 18-06-2016 - Session time: 12:40:00 - Track: DBA
 ## Speaker: Mark Broadbent
 ## Title: Lock, Block and Two Smoking Barrels
 ## Abstract:
@@ -145,7 +145,7 @@ Let’s take a long look into the world of SQL Server concurrency and investigat
 #### SessionID: 48414
 # R shines! The 4th force is coming to visualize your data
 #### [Back to calendar](#nr-516)
-Event Date: 18-06-2016 - Session time: 15:00:00 - Track: BI
+Event Date: 18-06-2016 - Session time: 12:40:00 - Track: BI
 ## Speaker: Oliver Engels
 ## Title: R shines! The 4th force is coming to visualize your data
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 18-06-2016 - Session time: 15:00:00 - Track: BI
 #### SessionID: 52523
 # Calling Captain Ahab, from Unknown Knowns to Known
 #### [Back to calendar](#nr-516)
-Event Date: 18-06-2016 - Session time: 15:00:00 - Track: DEVOPS
+Event Date: 18-06-2016 - Session time: 12:40:00 - Track: DEVOPS
 ## Speaker: Asgeir Gunnarsson
 ## Title: Calling Captain Ahab, from Unknown Knowns to Known
 ## Abstract:
@@ -166,7 +166,7 @@ Modern day Database owners and administrators have to navigate trough a horde of
 #### SessionID: 44816
 # Digging Into the .Net SqlClient
 #### [Back to calendar](#nr-516)
-Event Date: 18-06-2016 - Session time: 15:00:00 - Track: DEVOPS
+Event Date: 18-06-2016 - Session time: 13:50:00 - Track: DEVOPS
 ## Speaker: Mladen Prajdić
 ## Title: Digging Into the .Net SqlClient
 ## Abstract:
@@ -175,7 +175,7 @@ Event Date: 18-06-2016 - Session time: 15:00:00 - Track: DEVOPS
 #### SessionID: 44842
 # Biml for Beginners: Speed up your SSIS development
 #### [Back to calendar](#nr-516)
-Event Date: 18-06-2016 - Session time: 15:00:00 - Track: BI
+Event Date: 18-06-2016 - Session time: 13:50:00 - Track: BI
 ## Speaker: Cathrine Wilhelmsen
 ## Title: Biml for Beginners: Speed up your SSIS development
 ## Abstract:
@@ -188,7 +188,7 @@ Speed up your SSIS development by using Biml and BimlScript, and see how you can
 #### SessionID: 45355
 # Go, go, QueryStore!
 #### [Back to calendar](#nr-516)
-Event Date: 18-06-2016 - Session time: 15:00:00 - Track: DBA
+Event Date: 18-06-2016 - Session time: 13:50:00 - Track: DBA
 ## Speaker: Gail Shaw
 ## Title: Go, go, QueryStore!
 ## Abstract:

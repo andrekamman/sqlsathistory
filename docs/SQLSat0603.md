@@ -21,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 57098
 # Create a Data Loading Strategy
 #### [Back to calendar](#nr-603)
-Event Date: 04-03-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-03-2017 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Casey
 ## Title: Create a Data Loading Strategy
 ## Abstract:
@@ -39,7 +39,7 @@ This session uses a Virtual Sandbox to demonstrate “real” data loads using t
 #### SessionID: 57162
 # Intro to Azure SQL Data Warehouse
 #### [Back to calendar](#nr-603)
-Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 04-03-2017 - Session time: 09:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Shawn Weisfeld
 ## Title: Intro to Azure SQL Data Warehouse
 ## Abstract:
@@ -48,7 +48,7 @@ Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Cloud Application Devel
 #### SessionID: 57273
 # R For the SQL Server Developer
 #### [Back to calendar](#nr-603)
-Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Analytics and Visualization
+Event Date: 04-03-2017 - Session time: 09:00:00 - Track: Analytics and Visualization
 ## Speaker: Kevin Feasel
 ## Title: R For the SQL Server Developer
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Analytics and Visualiza
 #### SessionID: 57095
 # SQL Server R Services in SQL 2016
 #### [Back to calendar](#nr-603)
-Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
+Event Date: 04-03-2017 - Session time: 10:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Advanced Analysis Techn
 #### SessionID: 57517
 # Azure Machine Learning: From Design to Integration
 #### [Back to calendar](#nr-603)
-Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Advanced Analysis Techniques
+Event Date: 04-03-2017 - Session time: 10:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Peter Myers
 ## Title: Azure Machine Learning: From Design to Integration
 ## Abstract:
@@ -79,7 +79,7 @@ This session has been specifically designed to describe Machine Learning fundame
 #### SessionID: 61233
 # Azure SQL Databases - There's room for Azure in your BI solutions
 #### [Back to calendar](#nr-603)
-Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 04-03-2017 - Session time: 10:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Mike Walsh
 ## Title: Azure SQL Databases - There's room for Azure in your BI solutions
 ## Abstract:
@@ -92,7 +92,7 @@ This session will give you a gentle and guided intro. We'll have a few slides, b
 #### SessionID: 62914
 # Agile Data Warehouse and ETL Design with Biml
 #### [Back to calendar](#nr-603)
-Event Date: 04-03-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-03-2017 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Stein
 ## Title: Agile Data Warehouse and ETL Design with Biml
 ## Abstract:
@@ -101,7 +101,7 @@ Event Date: 04-03-2017 - Session time: 15:15:00 - Track: BI Platform Architectur
 #### SessionID: 62746
 # Dynamic Data Flows in SSIS without Programming
 #### [Back to calendar](#nr-603)
-Event Date: 04-03-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-03-2017 - Session time: 12:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: Dynamic Data Flows in SSIS without Programming
 ## Abstract:
@@ -116,7 +116,7 @@ Furthermore, the initial design time and effort may be greatly reduced when deal
 #### SessionID: 58290
 # Querying Semistructured Data in Azure Data Lake with USQL
 #### [Back to calendar](#nr-603)
-Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 04-03-2017 - Session time: 13:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Russel Loski
 ## Title: Querying Semistructured Data in Azure Data Lake with USQL
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 04-03-2017 - Session time: 15:15:00 - Track: Cloud Application Devel
 #### SessionID: 61088
 # Rent-a-Cube: Azure Analysis Services
 #### [Back to calendar](#nr-603)
-Event Date: 04-03-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-03-2017 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Greg Galloway
 ## Title: Rent-a-Cube: Azure Analysis Services
 ## Abstract:
@@ -136,7 +136,7 @@ This demo-heavy session will deep dive into the new cloud version of Analysis Se
 #### SessionID: 61826
 # Deep Dive into the SSIS Catalog
 #### [Back to calendar](#nr-603)
-Event Date: 04-03-2017 - Session time: 15:15:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 04-03-2017 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Deep Dive into the SSIS Catalog
 ## Abstract:

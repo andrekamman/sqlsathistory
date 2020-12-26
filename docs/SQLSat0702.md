@@ -20,7 +20,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 69727
 # Cloud Data Warehousing: Azure SQL Data Warehouse
 #### [Back to calendar](#nr-702)
-Event Date: 13-01-2018 - Session time: 16:20:00 - Track: Data and BI Platforms
+Event Date: 13-01-2018 - Session time: 10:20:00 - Track: Data and BI Platforms
 ## Speaker: Dinesh Priyankara
 ## Title: Cloud Data Warehousing: Azure SQL Data Warehouse
 ## Abstract:
@@ -29,7 +29,7 @@ Event Date: 13-01-2018 - Session time: 16:20:00 - Track: Data and BI Platforms
 #### SessionID: 70267
 # Adaptive Query Processing in SQL Server 2017
 #### [Back to calendar](#nr-702)
-Event Date: 13-01-2018 - Session time: 16:20:00 - Track: Data and BI Platforms
+Event Date: 13-01-2018 - Session time: 10:20:00 - Track: Data and BI Platforms
 ## Speaker: Nagaraj Venkatesan
 ## Title: Adaptive Query Processing in SQL Server 2017
 ## Abstract:
@@ -38,7 +38,7 @@ Event Date: 13-01-2018 - Session time: 16:20:00 - Track: Data and BI Platforms
 #### SessionID: 71965
 # Database Corruption - Advanced Recovery Techniques
 #### [Back to calendar](#nr-702)
-Event Date: 13-01-2018 - Session time: 16:20:00 - Track: Data and BI Platforms
+Event Date: 13-01-2018 - Session time: 11:30:00 - Track: Data and BI Platforms
 ## Speaker: Patrick Flynn
 ## Title: Database Corruption - Advanced Recovery Techniques
 ## Abstract:
@@ -50,7 +50,7 @@ Warning: Hex Editors and DBCC Page dumps will be involved!
 #### SessionID: 72104
 # Empowering Modern BI - the gap between Self-Service and Corporate BI
 #### [Back to calendar](#nr-702)
-Event Date: 13-01-2018 - Session time: 16:20:00 - Track: Data and BI Platforms
+Event Date: 13-01-2018 - Session time: 11:30:00 - Track: Data and BI Platforms
 ## Speaker: Danaraj Ram Kumar
 ## Title: Empowering Modern BI - the gap between Self-Service and Corporate BI
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 13-01-2018 - Session time: 16:20:00 - Track: Data and BI Platforms
 #### SessionID: 72273
 # Azure Data Lake Analytics: Leveraging the Modern Data Warehouse
 #### [Back to calendar](#nr-702)
-Event Date: 13-01-2018 - Session time: 16:20:00 - Track: Data and BI Platforms
+Event Date: 13-01-2018 - Session time: 11:30:00 - Track: Data and BI Platforms
 ## Speaker: Gogula Aryalingam
 ## Title: Azure Data Lake Analytics: Leveraging the Modern Data Warehouse
 ## Abstract:
@@ -69,7 +69,7 @@ Fear not, all you need to do is look to the heavens; with Azure Data Lake and Az
 #### SessionID: 69733
 # Let's make a complex data set simple using Azure Cosmos DB
 #### [Back to calendar](#nr-702)
-Event Date: 13-01-2018 - Session time: 16:20:00 - Track: Data and BI Platforms
+Event Date: 13-01-2018 - Session time: 13:40:00 - Track: Data and BI Platforms
 ## Speaker: Hansamali Gamage
 ## Title: Let's make a complex data set simple using Azure Cosmos DB
 ## Abstract:
@@ -81,7 +81,7 @@ Let's see in action with a demo, how you can transfer your complex data into a s
 #### SessionID: 71963
 # DBATools! The reason to finally start learning and using Powershell
 #### [Back to calendar](#nr-702)
-Event Date: 13-01-2018 - Session time: 16:20:00 - Track: Data and BI Platforms
+Event Date: 13-01-2018 - Session time: 13:40:00 - Track: Data and BI Platforms
 ## Speaker: Patrick Flynn
 ## Title: DBATools! The reason to finally start learning and using Powershell
 ## Abstract:
@@ -97,7 +97,7 @@ No prior experience with Powershell required!
 #### SessionID: 71966
 # SQL Server 2017 Availability Group Performance Internals
 #### [Back to calendar](#nr-702)
-Event Date: 13-01-2018 - Session time: 16:20:00 - Track: Data and BI Platforms
+Event Date: 13-01-2018 - Session time: 13:40:00 - Track: Data and BI Platforms
 ## Speaker: Hamid J. Fard
 ## Title: SQL Server 2017 Availability Group Performance Internals
 ## Abstract:
@@ -106,7 +106,7 @@ Event Date: 13-01-2018 - Session time: 16:20:00 - Track: Data and BI Platforms
 #### SessionID: 70302
 # SQL Consolidation with Azure SQL Database: an IT Pro  DBA's view.
 #### [Back to calendar](#nr-702)
-Event Date: 13-01-2018 - Session time: 16:20:00 - Track: Data and BI Platforms
+Event Date: 13-01-2018 - Session time: 14:45:00 - Track: Data and BI Platforms
 ## Speaker: Darien Nagle
 ## Title: SQL Consolidation with Azure SQL Database: an IT Pro  DBA's view.
 ## Abstract:
@@ -115,7 +115,7 @@ Event Date: 13-01-2018 - Session time: 16:20:00 - Track: Data and BI Platforms
 #### SessionID: 71964
 # Optimizing your management of SQL Server with SSMS and SQLOperationsStudio - The 2018 Edition
 #### [Back to calendar](#nr-702)
-Event Date: 13-01-2018 - Session time: 16:20:00 - Track: Data and BI Platforms
+Event Date: 13-01-2018 - Session time: 14:45:00 - Track: Data and BI Platforms
 ## Speaker: Patrick Flynn
 ## Title: Optimizing your management of SQL Server with SSMS and SQLOperationsStudio - The 2018 Edition
 ## Abstract:
@@ -131,7 +131,7 @@ Attendees will come away with an appreciation of how to maximise the use of thes
 #### SessionID: 72927
 # SQL Server Security Features - GDPR  Data Security Protection
 #### [Back to calendar](#nr-702)
-Event Date: 13-01-2018 - Session time: 16:20:00 - Track: Data and BI Platforms
+Event Date: 13-01-2018 - Session time: 14:45:00 - Track: Data and BI Platforms
 ## Speaker: Sina Manavi
 ## Title: SQL Server Security Features - GDPR  Data Security Protection
 ## Abstract:

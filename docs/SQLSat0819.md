@@ -29,7 +29,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 87946
 # Power BI + Azure + Forms + Flow + Sharepoint - Dados em tempo real analisando sentimentos da platéia
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 30-03-2019 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: Fernando Garcia
 ## Title: Power BI + Azure + Forms + Flow + Sharepoint - Dados em tempo real analisando sentimentos da platéia
 ## Abstract:
@@ -38,7 +38,7 @@ Event Date: 30-03-2019 - Session time: 16:30:00 - Track: BI Information Delivery
 #### SessionID: 87990
 # SQL Server 2019 Big Data Clusters
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-03-2019 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Luiz Henrique Garetti
 ## Title: SQL Server 2019 Big Data Clusters
 ## Abstract:
@@ -49,7 +49,7 @@ Nesta sessão, vamos aprofundar um pouco mais nesse assunto, entendendo (na teor
 #### SessionID: 89003
 # Tuning no SQL Server 2019 - Quais as novidades?
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 30-03-2019 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Fabiano Amorim
 ## Title: Tuning no SQL Server 2019 - Quais as novidades?
 ## Abstract:
@@ -58,7 +58,7 @@ Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 91548
 # Visualização de Dados na Era do Big Data
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 30-03-2019 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Nilton Kazuyuki Ueda
 ## Title: Visualização de Dados na Era do Big Data
 ## Abstract:
@@ -67,7 +67,7 @@ Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 92074
 # Otimizando seu ambiente com SQL Server 2017/2019
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Application  Database Development
+Event Date: 30-03-2019 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Reginaldo Silva
 ## Title: Otimizando seu ambiente com SQL Server 2017/2019
 ## Abstract:
@@ -76,7 +76,7 @@ Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Application  Database D
 #### SessionID: 88690
 # Porque migrar seu SQL Server On Premisse  para o SQL Azure!
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 30-03-2019 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sulamita Dantas
 ## Title: Porque migrar seu SQL Server On Premisse  para o SQL Azure!
 ## Abstract:
@@ -85,7 +85,7 @@ Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Cloud Application Devel
 #### SessionID: 89504
 # O nome dela é CALCULATE. A função mais importante do Power BI!
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 30-03-2019 - Session time: 11:00:00 - Track: Analytics and Visualization
 ## Speaker: RUY LACERDA
 ## Title: O nome dela é CALCULATE. A função mais importante do Power BI!
 ## Abstract:
@@ -94,7 +94,7 @@ Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 90033
 # SQL SERVER on Docker and Linux (Why and How)
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-03-2019 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcelo Adade
 ## Title: SQL SERVER on Docker and Linux (Why and How)
 ## Abstract:
@@ -104,7 +104,7 @@ Nesta apresentação veremos como instalar e utilizar o SQL SERVER 2019 nestas d
 #### SessionID: 91536
 # Era do Streaming: Implementando Soluções e Reagindo a Eventos
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 30-03-2019 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Era do Streaming: Implementando Soluções e Reagindo a Eventos
 ## Abstract:
@@ -115,7 +115,7 @@ Por mais que muitos não aceitem, estamos na era do streaming e isso significa q
 #### SessionID: 92075
 # Canadá tem vagas para Brasileiros?
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Professional Development
+Event Date: 30-03-2019 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Jucinei Santos
 ## Title: Canadá tem vagas para Brasileiros?
 ## Abstract:
@@ -126,7 +126,7 @@ Nesta apresentação será abordado a veracidade das informações de posts, com
 #### SessionID: 86839
 # Streaming de dados no Power BI utilizando PowerShell
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: BI Information Delivery
+Event Date: 30-03-2019 - Session time: 13:00:00 - Track: BI Information Delivery
 ## Speaker: Rafael Mendonça
 ## Title: Streaming de dados no Power BI utilizando PowerShell
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 30-03-2019 - Session time: 16:30:00 - Track: BI Information Delivery
 #### SessionID: 87592
 # Internals Always On
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-03-2019 - Session time: 13:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Suellen Moraes
 ## Title: Internals Always On
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 89512
 # DevOps for Azure Databases
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Strategy and Architecture
+Event Date: 30-03-2019 - Session time: 13:00:00 - Track: Strategy and Architecture
 ## Speaker: Renan Queiroz
 ## Title: DevOps for Azure Databases
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Strategy and Architectu
 #### SessionID: 88197
 # Big Data e Arquitetura Lambda
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 30-03-2019 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Arthur Luz
 ## Title: Big Data e Arquitetura Lambda
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 30-03-2019 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 88715
 # Iniciando um trabalho de tuning.
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-03-2019 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tiago Neves
 ## Title: Iniciando um trabalho de tuning.
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Enterprise Database Adm
 #### SessionID: 90047
 # Nem tudo que reluz é ouro! O design e a visualização de dados!
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Analytics and Visualization
+Event Date: 30-03-2019 - Session time: 14:00:00 - Track: Analytics and Visualization
 ## Speaker: Rayssa Dias
 ## Title: Nem tudo que reluz é ouro! O design e a visualização de dados!
 ## Abstract:
@@ -180,7 +180,7 @@ Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Analytics and Visualiza
 #### SessionID: 87532
 # Criando e gerenciando réplicas geo-localizadas no SQL Azure
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 30-03-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Wiluey Sousa
 ## Title: Criando e gerenciando réplicas geo-localizadas no SQL Azure
 ## Abstract:
@@ -192,7 +192,7 @@ Abordaremos as melhores estratégias e os benefícios desta arquitetura.
 #### SessionID: 90035
 # SSIS, SSAS e PowerBI: Indicadores Elicitados com MindMap e Canvas
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 30-03-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Aislan Honorato
 ## Title: SSIS, SSAS e PowerBI: Indicadores Elicitados com MindMap e Canvas
 ## Abstract:
@@ -201,7 +201,7 @@ Event Date: 30-03-2019 - Session time: 16:30:00 - Track: BI Platform Architectur
 #### SessionID: 90050
 # Aumentando o Nível de Segurança com o SQL Server
 #### [Back to calendar](#nr-819)
-Event Date: 30-03-2019 - Session time: 16:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 30-03-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Caio Amante
 ## Title: Aumentando o Nível de Segurança com o SQL Server
 ## Abstract:

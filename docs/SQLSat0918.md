@@ -56,7 +56,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 95943
 # What You Need To Know About Processing Tabular Models and Power BI Datasets
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-12-2019 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Bill Anton
 ## Title: What You Need To Know About Processing Tabular Models and Power BI Datasets
 ## Abstract:
@@ -71,7 +71,7 @@ Keywords: Analysis Services, SSAS, Power BI
 #### SessionID: 96928
 # SQL Server on Linux and containers
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 07-12-2019 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Prabhaker Potharaju
 ## Title: SQL Server on Linux and containers
 ## Abstract:
@@ -81,7 +81,7 @@ What’s next for SQL Server in containers, Container orchestration using Kubern
 #### SessionID: 97970
 # Intro to SQL Spatial Data: Location Analytics
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 07-12-2019 - Session time: 08:30:00 - Track: Analytics and Visualization
 ## Speaker: Lucas Feiock
 ## Title: Intro to SQL Spatial Data: Location Analytics
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 97992
 # Why I use cursors in SQL for performance
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 07-12-2019 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Anders Pedersen
 ## Title: Why I use cursors in SQL for performance
 ## Abstract:
@@ -100,7 +100,7 @@ In this session I will explore why I use cursors to solve certain problems. Disc
 #### SessionID: 98465
 # What You'll Love in SQL Server 2019
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 07-12-2019 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Morehouse
 ## Title: What You'll Love in SQL Server 2019
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 99046
 # The Power of Data: The Complete Beginners Data Warehouse Kit
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 07-12-2019 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Leslie Andrews
 ## Title: The Power of Data: The Complete Beginners Data Warehouse Kit
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 100059
 # Aggregations in Power BI: How to unlock the power of big datasets
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 07-12-2019 - Session time: 09:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Shabnam Watson
 ## Title: Aggregations in Power BI: How to unlock the power of big datasets
 ## Abstract:
@@ -134,7 +134,7 @@ Prerequisite: Basic knowledge of data modeling in Power BI Desktop.
 #### SessionID: 96094
 # The Key. The Whole Key. And Nothing but the Key! So help me Codd!
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 07-12-2019 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Johnathan Sluder
 ## Title: The Key. The Whole Key. And Nothing but the Key! So help me Codd!
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 96413
 # Moving Data to the Cloud (with Azure Data Factory)
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 07-12-2019 - Session time: 09:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Simon Kingaby
 ## Title: Moving Data to the Cloud (with Azure Data Factory)
 ## Abstract:
@@ -152,7 +152,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 98229
 # Working with Multiple DBMS Platforms: You're Not in Kansas Anymore
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 07-12-2019 - Session time: 09:30:00 - Track: Application  Database Development
 ## Speaker: Sandra Peele
 ## Title: Working with Multiple DBMS Platforms: You're Not in Kansas Anymore
 ## Abstract:
@@ -163,7 +163,7 @@ This presentation is for anyone with a basic knowledge of SQL.  It was co-produ
 #### SessionID: 98896
 # Deep dive into disk drives, partitions, controllers and hardware to improve SQL server performance.
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 07-12-2019 - Session time: 09:30:00 - Track: Professional Development
 ## Speaker: Michael Wharton
 ## Title: Deep dive into disk drives, partitions, controllers and hardware to improve SQL server performance.
 ## Abstract:
@@ -172,7 +172,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 99000
 # Power BI Architecture End-to-End
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-12-2019 - Session time: 09:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Melissa Coates
 ## Title: Power BI Architecture End-to-End
 ## Abstract:
@@ -181,7 +181,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 99162
 # PR for PR! Get the word out on Paginated Reports.
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: BI Information Delivery
+Event Date: 07-12-2019 - Session time: 09:30:00 - Track: BI Information Delivery
 ## Speaker: Erika Haase Nalley
 ## Title: PR for PR! Get the word out on Paginated Reports.
 ## Abstract:
@@ -198,7 +198,7 @@ The Report Builder is to Power BI  as the Lasagna Pasta Accessory is to the Kitc
 #### SessionID: 95927
 # Become a T-SQL Pivoting Ninja in 60 Minutes Or Less
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 07-12-2019 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Peter Doyle
 ## Title: Become a T-SQL Pivoting Ninja in 60 Minutes Or Less
 ## Abstract:
@@ -212,7 +212,7 @@ Come join me, and by the end of this session, you will have the knowledge to lev
 #### SessionID: 95957
 # Performance Tuning, Getting the Biggest Bang for Your Buck
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 07-12-2019 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Monica Rathbun
 ## Title: Performance Tuning, Getting the Biggest Bang for Your Buck
 ## Abstract:
@@ -221,7 +221,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 96008
 # Feelings Quantified: Scoring, Storing, and Exploring Social Media Sentiment
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 07-12-2019 - Session time: 10:30:00 - Track: Analytics and Visualization
 ## Speaker: Matt Gordon
 ## Title: Feelings Quantified: Scoring, Storing, and Exploring Social Media Sentiment
 ## Abstract:
@@ -230,7 +230,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 98467
 # Migrating to PostgreSQL
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 07-12-2019 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Ramu Pulipati
 ## Title: Migrating to PostgreSQL
 ## Abstract:
@@ -239,7 +239,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 98487
 # The Power Platform Game Changer
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 07-12-2019 - Session time: 10:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Hiram Fleitas
 ## Title: The Power Platform Game Changer
 ## Abstract:
@@ -257,7 +257,7 @@ We'll have time for QA. Maybe we'll even ask Cortana a few questions. I look for
 #### SessionID: 98890
 # Tips for Creating  Growing a Successful Professional Network
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 07-12-2019 - Session time: 10:30:00 - Track: Professional Development
 ## Speaker: Leveat Ruse
 ## Title: Tips for Creating  Growing a Successful Professional Network
 ## Abstract:
@@ -266,7 +266,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 99885
 # SQL Server Management Studio - Beyond the basics
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 07-12-2019 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Adrian Mee
 ## Title: SQL Server Management Studio - Beyond the basics
 ## Abstract:
@@ -277,7 +277,7 @@ In this session, I will take a fresh install of SSMS and step through customizin
 #### SessionID: 95954
 # Using Python In Power BI
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Analytics and Visualization
+Event Date: 07-12-2019 - Session time: 11:30:00 - Track: Analytics and Visualization
 ## Speaker: Julie Smith
 ## Title: Using Python In Power BI
 ## Abstract:
@@ -286,7 +286,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Analytics and Visualiza
 #### SessionID: 96040
 # The Psychology of Better Power BI Reporting
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-12-2019 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ed Watson
 ## Title: The Psychology of Better Power BI Reporting
 ## Abstract:
@@ -295,7 +295,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 96095
 # Building your Microsoft Business Intelligence (MSBI) Career
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Professional Development
+Event Date: 07-12-2019 - Session time: 11:30:00 - Track: Professional Development
 ## Speaker: Ganesh Lohani
 ## Title: Building your Microsoft Business Intelligence (MSBI) Career
 ## Abstract:
@@ -304,7 +304,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Professional Developmen
 #### SessionID: 96160
 # Encrypting Data within SQL Server
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 07-12-2019 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Encrypting Data within SQL Server
 ## Abstract:
@@ -317,7 +317,7 @@ You will leave this session with a deeper understanding about SQL Server encrypt
 #### SessionID: 96441
 # Version control with GIT for the DBA
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 07-12-2019 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Justin Dearing
 ## Title: Version control with GIT for the DBA
 ## Abstract:
@@ -338,7 +338,7 @@ We will be covering using git from both the command line and Visual Studio.
 #### SessionID: 98453
 # Database Corruption
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 07-12-2019 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Stephen Muliokela
 ## Title: Database Corruption
 ## Abstract:
@@ -356,7 +356,7 @@ Highlight of topics
 #### SessionID: 98550
 # Azure SQL Containers
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 07-12-2019 - Session time: 11:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Andrew Pruski
 ## Title: Azure SQL Containers
 ## Abstract:
@@ -374,7 +374,7 @@ Each topic will be backed up with demos which will show how simple it is to get 
 #### SessionID: 100145
 # SQL Server REST Integration the Easy Way
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-12-2019 - Session time: 12:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ivan Peev
 ## Title: SQL Server REST Integration the Easy Way
 ## Abstract:
@@ -383,7 +383,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 100282
 # Fix Queries Fast with SentryOne Plan Explorer
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 07-12-2019 - Session time: 12:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Kline
 ## Title: Fix Queries Fast with SentryOne Plan Explorer
 ## Abstract:
@@ -392,7 +392,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 96177
 # Improve distributed system and web app performance by using in-memory cache system
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 07-12-2019 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: oscar garcia
 ## Title: Improve distributed system and web app performance by using in-memory cache system
 ## Abstract:
@@ -413,7 +413,7 @@ Real-time data integration
 #### SessionID: 96179
 # Building End-to-End ML Pipeline with Azure Machine Learning Services
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 07-12-2019 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Bhakthi Liyanage
 ## Title: Building End-to-End ML Pipeline with Azure Machine Learning Services
 ## Abstract:
@@ -422,7 +422,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Cloud Application Devel
 #### SessionID: 96403
 # Creating Accessible Power BI Reports
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 07-12-2019 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Meagan Longoria
 ## Title: Creating Accessible Power BI Reports
 ## Abstract:
@@ -431,7 +431,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: BI Platform Architectur
 #### SessionID: 96437
 # Optimizing Backup Performance Using Data Science Techniques
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 07-12-2019 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Feasel
 ## Title: Optimizing Backup Performance Using Data Science Techniques
 ## Abstract:
@@ -440,7 +440,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 97981
 # Using DMVs for Performance Root Cause
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techniques
+Event Date: 07-12-2019 - Session time: 13:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jared Poché
 ## Title: Using DMVs for Performance Root Cause
 ## Abstract:
@@ -449,7 +449,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Advanced Analysis Techn
 #### SessionID: 98343
 # A Beginner's Guide to Using GIT
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 07-12-2019 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Marc Bushong
 ## Title: A Beginner's Guide to Using GIT
 ## Abstract:
@@ -460,7 +460,7 @@ With this session, you will learn the foundational knowledge to not only to appl
 #### SessionID: 99009
 # Test Driven Development (TDD) for T-SQL Database Development
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 07-12-2019 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Anthony Mendoza
 ## Title: Test Driven Development (TDD) for T-SQL Database Development
 ## Abstract:
@@ -469,7 +469,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 96704
 # Module Signing: Use Certificates to Replace TRUSTWORTHY, EXECUTE AS, and Cross-DB Pwnership Chaining
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Strategy and Architecture
+Event Date: 07-12-2019 - Session time: 14:30:00 - Track: Strategy and Architecture
 ## Speaker: Solomon Rutzky
 ## Title: Module Signing: Use Certificates to Replace TRUSTWORTHY, EXECUTE AS, and Cross-DB Pwnership Chaining
 ## Abstract:
@@ -482,7 +482,7 @@ Come learn how to have more secure, granular permissions that handle cross-DB ta
 #### SessionID: 98164
 # NoSQL vs. SQL, Real life database platform compare
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 07-12-2019 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Art Cardenas
 ## Title: NoSQL vs. SQL, Real life database platform compare
 ## Abstract:
@@ -491,7 +491,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 98878
 # 911 What's your emergency?
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Information Delivery
+Event Date: 07-12-2019 - Session time: 14:30:00 - Track: Information Delivery
 ## Speaker: Chris Skorlinski
 ## Title: 911 What's your emergency?
 ## Abstract:
@@ -500,7 +500,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Information Delivery
 #### SessionID: 99146
 # Intro to SQL Server Internals and Architecture
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database Development
+Event Date: 07-12-2019 - Session time: 14:30:00 - Track: Application  Database Development
 ## Speaker: Kevin Kline
 ## Title: Intro to SQL Server Internals and Architecture
 ## Abstract:
@@ -515,7 +515,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Application  Database D
 #### SessionID: 99150
 # CCI - Implementation Lessons Learned
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 07-12-2019 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andrew Kelly
 ## Title: CCI - Implementation Lessons Learned
 ## Abstract:
@@ -524,7 +524,7 @@ Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Enterprise Database Adm
 #### SessionID: 99160
 # More Common Than You Think: Mental Illness in Tech
 #### [Back to calendar](#nr-918)
-Event Date: 07-12-2019 - Session time: 15:30:00 - Track: Other
+Event Date: 07-12-2019 - Session time: 14:30:00 - Track: Other
 ## Speaker: Tracy Boggiano
 ## Title: More Common Than You Think: Mental Illness in Tech
 ## Abstract:

@@ -28,7 +28,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 80447
 # Let the Cognitive Services to help you to find your favourite cocktail.
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Data Science  Machine Learning
+Event Date: 08-12-2018 - Session time: 09:00:00 - Track: Data Science  Machine Learning
 ## Speaker: Alexander Klein
 ## Title: Let the Cognitive Services to help you to find your favourite cocktail.
 ## Abstract:
@@ -38,7 +38,7 @@ The Cogntive services offer here with face, emotion and recommendation three API
 #### SessionID: 82701
 # Administrating SSRS/PBIRS was a boring task! Sorry...did you said WAS?
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Database Administration  Deployment
+Event Date: 08-12-2018 - Session time: 09:00:00 - Track: Database Administration  Deployment
 ## Speaker: Cláudio Silva
 ## Title: Administrating SSRS/PBIRS was a boring task! Sorry...did you said WAS?
 ## Abstract:
@@ -52,7 +52,7 @@ We will see examples for both Reporting Services and PowerBI Report Server.
 #### SessionID: 85825
 # Parallel Query Processing in SQL Server
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Database  Application Development
+Event Date: 08-12-2018 - Session time: 09:00:00 - Track: Database  Application Development
 ## Speaker: Dmitry Pilugin
 ## Title: Parallel Query Processing in SQL Server
 ## Abstract:
@@ -63,7 +63,7 @@ In this session we will look at the balance from the Query Processor prospective
 #### SessionID: 85826
 # Inside the VertiPaq engine
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Business Intelligence
+Event Date: 08-12-2018 - Session time: 10:15:00 - Track: Business Intelligence
 ## Speaker: Alberto Ferrari
 ## Title: Inside the VertiPaq engine
 ## Abstract:
@@ -72,7 +72,7 @@ Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Business Intelligence
 #### SessionID: 85842
 # SQL Server Machine Learning Services with Python and R
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Data Science  Machine Learning
+Event Date: 08-12-2018 - Session time: 10:15:00 - Track: Data Science  Machine Learning
 ## Speaker: Luis Beltran
 ## Title: SQL Server Machine Learning Services with Python and R
 ## Abstract:
@@ -85,7 +85,7 @@ In this session, I will show you how to prepare your environment to do ML in SQL
 #### SessionID: 86190
 # A Masters view on Locking and blocking
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Database  Application Development
+Event Date: 08-12-2018 - Session time: 10:15:00 - Track: Database  Application Development
 ## Speaker: Mikael Wedham
 ## Title: A Masters view on Locking and blocking
 ## Abstract:
@@ -97,7 +97,7 @@ And finally a real-world quick list of suggestions on what you can do to solve s
 #### SessionID: 80343
 # SQL Curiosities: Zvědavost kočku zabila
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Database Administration  Deployment
+Event Date: 08-12-2018 - Session time: 12:15:00 - Track: Database Administration  Deployment
 ## Speaker: André Melancia
 ## Title: SQL Curiosities: Zvědavost kočku zabila
 ## Abstract:
@@ -107,7 +107,7 @@ Disclaimer: No feline was harmed in the making of this session. Please do not re
 #### SessionID: 80431
 # T-SQL advanced: Grouping and Windowing
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Database  Application Development
+Event Date: 08-12-2018 - Session time: 12:15:00 - Track: Database  Application Development
 ## Speaker: Andrea Martorana Tusa
 ## Title: T-SQL advanced: Grouping and Windowing
 ## Abstract:
@@ -120,7 +120,7 @@ The session is mainly based on a copious array of demos, to make explicit every 
 #### SessionID: 86481
 # Monitoring your BI solution with Power BI
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Business Intelligence
+Event Date: 08-12-2018 - Session time: 12:15:00 - Track: Business Intelligence
 ## Speaker: Jiří Neoral
 ## Title: Monitoring your BI solution with Power BI
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Business Intelligence
 #### SessionID: 80330
 # Automating the testing of your BI solutions with NBi
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Business Intelligence
+Event Date: 08-12-2018 - Session time: 13:30:00 - Track: Business Intelligence
 ## Speaker: Cédric Charlier
 ## Title: Automating the testing of your BI solutions with NBi
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Business Intelligence
 #### SessionID: 85299
 # Execution plans ... where do I start?
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Database  Application Development
+Event Date: 08-12-2018 - Session time: 13:30:00 - Track: Database  Application Development
 ## Speaker: Hugo Kornelis
 ## Title: Execution plans ... where do I start?
 ## Abstract:
@@ -153,7 +153,7 @@ In this session you will learn how to obtain execution plans. and how to start r
 #### SessionID: 85816
 # Data Science for everybody. Beware of what you are eating.
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Data Science  Machine Learning
+Event Date: 08-12-2018 - Session time: 13:30:00 - Track: Data Science  Machine Learning
 ## Speaker: Damian Widera
 ## Title: Data Science for everybody. Beware of what you are eating.
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Data Science  Machine L
 #### SessionID: 80713
 # Dbatools - The Swiss army knife for the DBA
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Database Administration  Deployment
+Event Date: 08-12-2018 - Session time: 14:45:00 - Track: Database Administration  Deployment
 ## Speaker: Marcos Freccia
 ## Title: Dbatools - The Swiss army knife for the DBA
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Database Administration
 #### SessionID: 83724
 # When Things go Wrong - Error Handling in SQL Server
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Database  Application Development
+Event Date: 08-12-2018 - Session time: 14:45:00 - Track: Database  Application Development
 ## Speaker: Erland Sommarskog
 ## Title: When Things go Wrong - Error Handling in SQL Server
 ## Abstract:
@@ -182,7 +182,7 @@ This presentation starts with a horror show of the many different actions SQL Se
 #### SessionID: 85530
 # Hitchhiker's Guide to the SSAS Tabular
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Business Intelligence
+Event Date: 08-12-2018 - Session time: 14:45:00 - Track: Business Intelligence
 ## Speaker: Roman Lansky
 ## Title: Hitchhiker's Guide to the SSAS Tabular
 ## Abstract:
@@ -191,7 +191,7 @@ Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Business Intelligence
 #### SessionID: 85946
 # Azure Databricks - managed Spark cluster as a service
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Data Science  Machine Learning
+Event Date: 08-12-2018 - Session time: 16:00:00 - Track: Data Science  Machine Learning
 ## Speaker: Milan Berka
 ## Title: Azure Databricks - managed Spark cluster as a service
 ## Abstract:
@@ -200,7 +200,7 @@ Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Data Science  Machine L
 #### SessionID: 86034
 # Data Modeling for Beginners
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Business Intelligence
+Event Date: 08-12-2018 - Session time: 16:00:00 - Track: Business Intelligence
 ## Speaker: Martin Bém
 ## Title: Data Modeling for Beginners
 ## Abstract:
@@ -209,7 +209,7 @@ Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Business Intelligence
 #### SessionID: 86216
 # Query profiling options in SQL Server
 #### [Back to calendar](#nr-779)
-Event Date: 08-12-2018 - Session time: 17:15:00 - Track: Database  Application Development
+Event Date: 08-12-2018 - Session time: 16:00:00 - Track: Database  Application Development
 ## Speaker: Karol Papaj
 ## Title: Query profiling options in SQL Server
 ## Abstract:

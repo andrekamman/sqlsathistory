@@ -22,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 105784
 # Getting Started as a Conference Speaker
 #### [Back to calendar](#nr-1003)
-Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Professional Development
+Event Date: 03-10-2020 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: Mark Runyon
 ## Title: Getting Started as a Conference Speaker
 ## Abstract:
@@ -31,7 +31,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Professional Developmen
 #### SessionID: 105824
 # The Psychology of Better Power BI Reporting
 #### [Back to calendar](#nr-1003)
-Event Date: 03-10-2020 - Session time: 14:00:00 - Track: BI Information Delivery
+Event Date: 03-10-2020 - Session time: 08:30:00 - Track: BI Information Delivery
 ## Speaker: Ed Watson
 ## Title: The Psychology of Better Power BI Reporting
 ## Abstract:
@@ -40,7 +40,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: BI Information Delivery
 #### SessionID: 107448
 # Modern SQL Server CPU Architectures for Performance
 #### [Back to calendar](#nr-1003)
-Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-10-2020 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Modern SQL Server CPU Architectures for Performance
 ## Abstract:
@@ -49,7 +49,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Enterprise Database Adm
 #### SessionID: 107425
 # Introduction to GitHub for Data Professionals
 #### [Back to calendar](#nr-1003)
-Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Application  Database Development
+Event Date: 03-10-2020 - Session time: 09:40:00 - Track: Application  Database Development
 ## Speaker: Joshua Higginbotham
 ## Title: Introduction to GitHub for Data Professionals
 ## Abstract:
@@ -62,7 +62,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Application  Database D
 #### SessionID: 107637
 # Certification Exams Inside Out
 #### [Back to calendar](#nr-1003)
-Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Professional Development
+Event Date: 03-10-2020 - Session time: 09:40:00 - Track: Professional Development
 ## Speaker: William Assaf
 ## Title: Certification Exams Inside Out
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Professional Developmen
 #### SessionID: 107972
 # Become a Power BI Magician using Bookmarks and Drill Through Page
 #### [Back to calendar](#nr-1003)
-Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Analytics and Visualization
+Event Date: 03-10-2020 - Session time: 09:40:00 - Track: Analytics and Visualization
 ## Speaker: DeNisha Malone
 ## Title: Become a Power BI Magician using Bookmarks and Drill Through Page
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Analytics and Visualiza
 #### SessionID: 105830
 # Turn Runbooks into Notebooks: Handling Maintenance and Emergencies with Azure Data Studio
 #### [Back to calendar](#nr-1003)
-Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 03-10-2020 - Session time: 10:50:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Matt Gordon
 ## Title: Turn Runbooks into Notebooks: Handling Maintenance and Emergencies with Azure Data Studio
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Enterprise Database Adm
 #### SessionID: 107243
 # How to Budget for a Azure Migration
 #### [Back to calendar](#nr-1003)
-Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 03-10-2020 - Session time: 10:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Dustin Dorsey
 ## Title: How to Budget for a Azure Migration
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Cloud Application Devel
 #### SessionID: 107657
 # Organizational Trauma: Supporting Mental Health During a Crisis
 #### [Back to calendar](#nr-1003)
-Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Professional Development
+Event Date: 03-10-2020 - Session time: 10:50:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Organizational Trauma: Supporting Mental Health During a Crisis
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Professional Developmen
 #### SessionID: 105812
 # Checking in on Tabular Models: Making Them Work Better
 #### [Back to calendar](#nr-1003)
-Event Date: 03-10-2020 - Session time: 14:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 03-10-2020 - Session time: 12:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Kevin Wilkie
 ## Title: Checking in on Tabular Models: Making Them Work Better
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 03-10-2020 - Session time: 14:00:00 - Track: BI Platform Architectur
 #### SessionID: 107422
 # Advanced Plan Explorer Usage for Tuning Execution Plans
 #### [Back to calendar](#nr-1003)
-Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Application  Database Development
+Event Date: 03-10-2020 - Session time: 12:50:00 - Track: Application  Database Development
 ## Speaker: Andy Yun
 ## Title: Advanced Plan Explorer Usage for Tuning Execution Plans
 ## Abstract:
@@ -127,7 +127,7 @@ Join me to learn how you can go beyond the basics. This demo-heavy (and marketin
 #### SessionID: 107470
 # I lost my job!  Now what?!?  A survival guide for the unemployed
 #### [Back to calendar](#nr-1003)
-Event Date: 03-10-2020 - Session time: 14:00:00 - Track: Professional Development
+Event Date: 03-10-2020 - Session time: 12:50:00 - Track: Professional Development
 ## Speaker: Ray Kim
 ## Title: I lost my job!  Now what?!?  A survival guide for the unemployed
 ## Abstract:

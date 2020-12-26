@@ -36,7 +36,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 64517
 # Entendendo Backup/Restore no SQL Server
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Iniciante (Sala 215 - 2º Andar)
+Event Date: 21-10-2017 - Session time: 10:10:00 - Track: DBA - Iniciante (Sala 215 - 2º Andar)
 ## Speaker: Marcelo Adade
 ## Title: Entendendo Backup/Restore no SQL Server
 ## Abstract:
@@ -45,7 +45,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Iniciante (Sala 2
 #### SessionID: 64879
 # Power BI in Action - Sentiment Analysis - Cognitive Services - Flow
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: BI/Analytics (Sala 102 - 1º Andar)
+Event Date: 21-10-2017 - Session time: 10:10:00 - Track: BI/Analytics (Sala 102 - 1º Andar)
 ## Speaker: Gaston Cruz
 ## Title: Power BI in Action - Sentiment Analysis - Cognitive Services - Flow
 ## Abstract:
@@ -54,7 +54,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: BI/Analytics (Sala 102 
 #### SessionID: 69020
 # De DBA a empreendedor! Como ter sua própria consultoria SQL Server.
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: Miscellania (Sala 216 - 2º Andar)
+Event Date: 21-10-2017 - Session time: 10:10:00 - Track: Miscellania (Sala 216 - 2º Andar)
 ## Speaker: Thiago Cruz
 ## Title: De DBA a empreendedor! Como ter sua própria consultoria SQL Server.
 ## Abstract:
@@ -64,7 +64,7 @@ Entenda quais são as principais barreiras e quais são as maiores indagações 
 #### SessionID: 69522
 # SQL Bad Practices
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Avançado (Auditório - 2º Andar)
+Event Date: 21-10-2017 - Session time: 10:10:00 - Track: DBA - Avançado (Auditório - 2º Andar)
 ## Speaker: Marcus Vinícius Bittencourt
 ## Title: SQL Bad Practices
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Avançado (Audit�
 #### SessionID: 69566
 # Azure CosmosDB - As armas da Microsoft no mundo NoSQL
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: BI/Analytics (Sala 102 - 1º Andar)
+Event Date: 21-10-2017 - Session time: 10:10:00 - Track: BI/Analytics (Sala 102 - 1º Andar)
 ## Speaker: Alexandre Araujo
 ## Title: Azure CosmosDB - As armas da Microsoft no mundo NoSQL
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: BI/Analytics (Sala 102 
 #### SessionID: 68988
 # Acessando dados no Hadoop HDFS usando SQL via Apache Hive
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: Miscellania (Sala 216 - 2º Andar)
+Event Date: 21-10-2017 - Session time: 11:30:00 - Track: Miscellania (Sala 216 - 2º Andar)
 ## Speaker: Eduardo Morelli
 ## Title: Acessando dados no Hadoop HDFS usando SQL via Apache Hive
 ## Abstract:
@@ -95,7 +95,7 @@ Nesta sessão, vamos conhecer um exemplo de acesso a dados armazenados no HDFS (
 #### SessionID: 69067
 # Tuning do inicio ao fim!
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Avançado (Auditório - 2º Andar)
+Event Date: 21-10-2017 - Session time: 11:30:00 - Track: DBA - Avançado (Auditório - 2º Andar)
 ## Speaker: Thiago Carlos de Alencar
 ## Title: Tuning do inicio ao fim!
 ## Abstract:
@@ -104,7 +104,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Avançado (Audit�
 #### SessionID: 69125
 # Por Detrás do Relatórios
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: BI/Analytics (Sala 102 - 1º Andar)
+Event Date: 21-10-2017 - Session time: 11:30:00 - Track: BI/Analytics (Sala 102 - 1º Andar)
 ## Speaker: Arthur Luz
 ## Title: Por Detrás do Relatórios
 ## Abstract:
@@ -113,7 +113,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: BI/Analytics (Sala 102 
 #### SessionID: 69145
 # Linux essential Skills for SQL Server Professionals
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Iniciante (Sala 215 - 2º Andar)
+Event Date: 21-10-2017 - Session time: 11:30:00 - Track: DBA - Iniciante (Sala 215 - 2º Andar)
 ## Speaker: Mohamed Mawla
 ## Title: Linux essential Skills for SQL Server Professionals
 ## Abstract:
@@ -124,7 +124,7 @@ The session will explore the essential skills needed to manage SQL server on Lin
 #### SessionID: 64515
 # SQL Server 2017 - Homem VS Máquina, estamos perdendo a guerra!
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Avançado (Auditório - 2º Andar)
+Event Date: 21-10-2017 - Session time: 13:30:00 - Track: DBA - Avançado (Auditório - 2º Andar)
 ## Speaker: Fabiano Amorim
 ## Title: SQL Server 2017 - Homem VS Máquina, estamos perdendo a guerra!
 ## Abstract:
@@ -133,7 +133,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Avançado (Audit�
 #### SessionID: 64521
 # Unleashing Stretched Databases
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: Miscellania (Sala 216 - 2º Andar)
+Event Date: 21-10-2017 - Session time: 13:30:00 - Track: Miscellania (Sala 216 - 2º Andar)
 ## Speaker: Armando Lacerda
 ## Title: Unleashing Stretched Databases
 ## Abstract:
@@ -142,7 +142,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: Miscellania (Sala 216 -
 #### SessionID: 67212
 # Quero ser um DBA. O que devo aprender ?
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Iniciante (Sala 215 - 2º Andar)
+Event Date: 21-10-2017 - Session time: 13:30:00 - Track: DBA - Iniciante (Sala 215 - 2º Andar)
 ## Speaker: Tiago Neves
 ## Title: Quero ser um DBA. O que devo aprender ?
 ## Abstract:
@@ -152,7 +152,7 @@ Darei um direcionamento de funcionalidades do SQL Server que voc#234; precisa ap
 #### SessionID: 68455
 # SSIS Scale Out
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: BI/Analytics (Sala 102 - 1º Andar)
+Event Date: 21-10-2017 - Session time: 13:30:00 - Track: BI/Analytics (Sala 102 - 1º Andar)
 ## Speaker: Vitor Ferreira
 ## Title: SSIS Scale Out
 ## Abstract:
@@ -161,7 +161,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: BI/Analytics (Sala 102 
 #### SessionID: 64527
 # Introdução à Storage
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Iniciante (Sala 215 - 2º Andar)
+Event Date: 21-10-2017 - Session time: 14:40:00 - Track: DBA - Iniciante (Sala 215 - 2º Andar)
 ## Speaker: Luiz Mercante
 ## Title: Introdução à Storage
 ## Abstract:
@@ -170,7 +170,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Iniciante (Sala 2
 #### SessionID: 64539
 # Introdução ao SQL DataWarehouse
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: BI/Analytics (Sala 102 - 1º Andar)
+Event Date: 21-10-2017 - Session time: 14:40:00 - Track: BI/Analytics (Sala 102 - 1º Andar)
 ## Speaker: Vitor Fava
 ## Title: Introdução ao SQL DataWarehouse
 ## Abstract:
@@ -179,7 +179,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: BI/Analytics (Sala 102 
 #### SessionID: 64804
 # Hackeando o SQL Server
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Avançado (Auditório - 2º Andar)
+Event Date: 21-10-2017 - Session time: 14:40:00 - Track: DBA - Avançado (Auditório - 2º Andar)
 ## Speaker: André Melancia
 ## Title: Hackeando o SQL Server
 ## Abstract:
@@ -193,7 +193,7 @@ Disclaimer: No actual crimes will be committed. Please do not send agents to my 
 #### SessionID: 67476
 # Aumentando a segurança com SQL Server 2016/2017
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: Miscellania (Sala 216 - 2º Andar)
+Event Date: 21-10-2017 - Session time: 14:40:00 - Track: Miscellania (Sala 216 - 2º Andar)
 ## Speaker: Reginaldo Silva
 ## Title: Aumentando a segurança com SQL Server 2016/2017
 ## Abstract:
@@ -202,7 +202,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: Miscellania (Sala 216 -
 #### SessionID: 69069
 # What's the New in SQL Server 2017?
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: Miscellania (Sala 216 - 2º Andar)
+Event Date: 21-10-2017 - Session time: 14:40:00 - Track: Miscellania (Sala 216 - 2º Andar)
 ## Speaker: Thiago Carlos de Alencar
 ## Title: What's the New in SQL Server 2017?
 ## Abstract:
@@ -211,7 +211,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: Miscellania (Sala 216 -
 #### SessionID: 69123
 # Introdução a T-SQL
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Iniciante (Sala 215 - 2º Andar)
+Event Date: 21-10-2017 - Session time: 14:40:00 - Track: DBA - Iniciante (Sala 215 - 2º Andar)
 ## Speaker: Arthur Luz
 ## Title: Introdução a T-SQL
 ## Abstract:
@@ -220,7 +220,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Iniciante (Sala 2
 #### SessionID: 66380
 # Versões do SQL Server - 2000 a  2017
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Iniciante (Sala 215 - 2º Andar)
+Event Date: 21-10-2017 - Session time: 16:00:00 - Track: DBA - Iniciante (Sala 215 - 2º Andar)
 ## Speaker: Sulamita Dantas
 ## Title: Versões do SQL Server - 2000 a  2017
 ## Abstract:
@@ -229,7 +229,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Iniciante (Sala 2
 #### SessionID: 69137
 # Diagnosticando os problemas de latência com as réplicas secundárias do AlwaysOn AG
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Avançado (Auditório - 2º Andar)
+Event Date: 21-10-2017 - Session time: 16:00:00 - Track: DBA - Avançado (Auditório - 2º Andar)
 ## Speaker: Nilton Pinheiro
 ## Title: Diagnosticando os problemas de latência com as réplicas secundárias do AlwaysOn AG
 ## Abstract:
@@ -238,7 +238,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: DBA - Avançado (Audit�
 #### SessionID: 69343
 # Análise em tempo real com Stream Analytics, AZUREML, e PowerBI
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: BI/Analytics (Sala 102 - 1º Andar)
+Event Date: 21-10-2017 - Session time: 16:00:00 - Track: BI/Analytics (Sala 102 - 1º Andar)
 ## Speaker: Diego Nogare
 ## Title: Análise em tempo real com Stream Analytics, AZUREML, e PowerBI
 ## Abstract:
@@ -247,7 +247,7 @@ Event Date: 21-10-2017 - Session time: 17:10:00 - Track: BI/Analytics (Sala 102 
 #### SessionID: 69853
 # Case: Detecção de anomalias onde um desvio pode custar milhões
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: BI/Analytics (Sala 102 - 1º Andar)
+Event Date: 21-10-2017 - Session time: 16:00:00 - Track: BI/Analytics (Sala 102 - 1º Andar)
 ## Speaker: Igor Santos de Paula
 ## Title: Case: Detecção de anomalias onde um desvio pode custar milhões
 ## Abstract:
@@ -258,7 +258,7 @@ O objetivo é demonstrar as técnicas, algoritmos e ferramentas utilizadas para 
 #### SessionID: 69854
 # 5 dicas de performance tuning para desenvolvedores
 #### [Back to calendar](#nr-663)
-Event Date: 21-10-2017 - Session time: 17:10:00 - Track: Miscellania (Sala 216 - 2º Andar)
+Event Date: 21-10-2017 - Session time: 16:00:00 - Track: Miscellania (Sala 216 - 2º Andar)
 ## Speaker: Caio Amante
 ## Title: 5 dicas de performance tuning para desenvolvedores
 ## Abstract:

@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 78550
 # M and Power Query Beyond Limits
 #### [Back to calendar](#nr-761)
-Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Business Intelligence
+Event Date: 25-08-2018 - Session time: 10:30:00 - Track: Business Intelligence
 ## Speaker: Reza Rad
 ## Title: M and Power Query Beyond Limits
 ## Abstract:
@@ -32,7 +32,7 @@ Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Business Intelligence
 #### SessionID: 82403
 # Building a Modern Analytics Solution in the Cloud
 #### [Back to calendar](#nr-761)
-Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Analytics  Big Data
+Event Date: 25-08-2018 - Session time: 10:30:00 - Track: Analytics  Big Data
 ## Speaker: Sergio Reginaldo Zenatti Filho
 ## Title: Building a Modern Analytics Solution in the Cloud
 ## Abstract:
@@ -41,7 +41,7 @@ Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Analytics  Big Data
 #### SessionID: 82405
 # Common TSQL Mistakes
 #### [Back to calendar](#nr-761)
-Event Date: 25-08-2018 - Session time: 15:45:00 - Track: DBA/DevOps
+Event Date: 25-08-2018 - Session time: 10:30:00 - Track: DBA/DevOps
 ## Speaker: Kevin Boles
 ## Title: Common TSQL Mistakes
 ## Abstract:
@@ -50,7 +50,7 @@ Event Date: 25-08-2018 - Session time: 15:45:00 - Track: DBA/DevOps
 #### SessionID: 85442
 # Advanced Indexing for Beginners
 #### [Back to calendar](#nr-761)
-Event Date: 25-08-2018 - Session time: 15:45:00 - Track: DBA/DevOps
+Event Date: 25-08-2018 - Session time: 10:30:00 - Track: DBA/DevOps
 ## Speaker: Rob Farley
 ## Title: Advanced Indexing for Beginners
 ## Abstract:
@@ -59,7 +59,7 @@ Event Date: 25-08-2018 - Session time: 15:45:00 - Track: DBA/DevOps
 #### SessionID: 77034
 # Real-Time Analytics with Power BI
 #### [Back to calendar](#nr-761)
-Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Analytics  Big Data
+Event Date: 25-08-2018 - Session time: 11:35:00 - Track: Analytics  Big Data
 ## Speaker: Manohar Punna
 ## Title: Real-Time Analytics with Power BI
 ## Abstract:
@@ -74,7 +74,7 @@ In this session
 #### SessionID: 80345
 # Machine Learning Revolution with Azure Databricks
 #### [Back to calendar](#nr-761)
-Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Analytics  Big Data
+Event Date: 25-08-2018 - Session time: 11:35:00 - Track: Analytics  Big Data
 ## Speaker: Leila Etaati
 ## Title: Machine Learning Revolution with Azure Databricks
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Analytics  Big Data
 #### SessionID: 80894
 # Data Privacy and the Data Professional.
 #### [Back to calendar](#nr-761)
-Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Strategy and Architecture
+Event Date: 25-08-2018 - Session time: 11:35:00 - Track: Strategy and Architecture
 ## Speaker: Martin Catherall
 ## Title: Data Privacy and the Data Professional.
 ## Abstract:
@@ -97,7 +97,7 @@ Come along to this session and hear how you and your team can lessen your chance
 #### SessionID: 77452
 # Power BI Writeback with Power Apps
 #### [Back to calendar](#nr-761)
-Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Business Intelligence
+Event Date: 25-08-2018 - Session time: 13:15:00 - Track: Business Intelligence
 ## Speaker: Gilbert Quevauvilliers
 ## Title: Power BI Writeback with Power Apps
 ## Abstract:
@@ -110,7 +110,7 @@ The session will be almost entirely demo based, in which I will demonstrate how 
 #### SessionID: 78488
 # Building a Database DevOps Pipeline in the Cloud under 49 minutes
 #### [Back to calendar](#nr-761)
-Event Date: 25-08-2018 - Session time: 15:45:00 - Track: DBA/DevOps
+Event Date: 25-08-2018 - Session time: 13:15:00 - Track: DBA/DevOps
 ## Speaker: Hamish Watson
 ## Title: Building a Database DevOps Pipeline in the Cloud under 49 minutes
 ## Abstract:
@@ -128,7 +128,7 @@ The finished result will be an automated and reliable deployment pipeline that w
 #### SessionID: 82443
 # Creating Custom Visualisations with Power BI
 #### [Back to calendar](#nr-761)
-Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Business Intelligence
+Event Date: 25-08-2018 - Session time: 13:15:00 - Track: Business Intelligence
 ## Speaker: Jim McLeod
 ## Title: Creating Custom Visualisations with Power BI
 ## Abstract:
@@ -139,7 +139,7 @@ This session introduces you to writing your own fully interactive custom visuali
 #### SessionID: 78188
 # SQLOpsStudio Vs SSMS - There can be only one
 #### [Back to calendar](#nr-761)
-Event Date: 25-08-2018 - Session time: 15:45:00 - Track: DBA/DevOps
+Event Date: 25-08-2018 - Session time: 14:20:00 - Track: DBA/DevOps
 ## Speaker: Warwick Rudd
 ## Title: SQLOpsStudio Vs SSMS - There can be only one
 ## Abstract:
@@ -149,7 +149,7 @@ In this session we will take you on a journey of comparing SSMS and SQLOpsStudio
 #### SessionID: 78652
 # Azure PaaS Databases - The Choice is Yours
 #### [Back to calendar](#nr-761)
-Event Date: 25-08-2018 - Session time: 15:45:00 - Track: DBA/DevOps
+Event Date: 25-08-2018 - Session time: 14:20:00 - Track: DBA/DevOps
 ## Speaker: Martin Cairney
 ## Title: Azure PaaS Databases - The Choice is Yours
 ## Abstract:
@@ -160,7 +160,7 @@ This session will explore the features available to each option to help guide yo
 #### SessionID: 80874
 # Power BI and Excel. Better Together.
 #### [Back to calendar](#nr-761)
-Event Date: 25-08-2018 - Session time: 15:45:00 - Track: Business Intelligence
+Event Date: 25-08-2018 - Session time: 14:20:00 - Track: Business Intelligence
 ## Speaker: Wyn Hopkins
 ## Title: Power BI and Excel. Better Together.
 ## Abstract:

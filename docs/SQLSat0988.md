@@ -22,7 +22,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 103103
 # Best Practices for building a Data Lake with Azure Databricks
 #### [Back to calendar](#nr-988)
-Event Date: 05-09-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-09-2020 - Session time: 09:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Oskari Heikkinen
 ## Title: Best Practices for building a Data Lake with Azure Databricks
 ## Abstract:
@@ -31,7 +31,7 @@ Event Date: 05-09-2020 - Session time: 15:00:00 - Track: BI Platform Architectur
 #### SessionID: 104147
 # Monitoring SQL Server: from on-premises to Azure
 #### [Back to calendar](#nr-988)
-Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Database Administration  Deployment
+Event Date: 05-09-2020 - Session time: 09:10:00 - Track: Database Administration  Deployment
 ## Speaker: Juan E. Moreno Romo
 ## Title: Monitoring SQL Server: from on-premises to Azure
 ## Abstract:
@@ -43,7 +43,7 @@ We want to share with you what we have learnt from support cases and how we, Mic
 #### SessionID: 104491
 # Checking in with Power Apps, Flow and Power BI
 #### [Back to calendar](#nr-988)
-Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Other
+Event Date: 05-09-2020 - Session time: 09:10:00 - Track: Other
 ## Speaker: Asgeir Gunnarsson
 ## Title: Checking in with Power Apps, Flow and Power BI
 ## Abstract:
@@ -56,7 +56,7 @@ The audience will take away useful information about Power Apps, Flow and Power 
 #### SessionID: 103019
 # My romantic relation with Powershell generally and  DBATools especially
 #### [Back to calendar](#nr-988)
-Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Database Administration  Deployment
+Event Date: 05-09-2020 - Session time: 10:30:00 - Track: Database Administration  Deployment
 ## Speaker: Magnus Ahlkvist
 ## Title: My romantic relation with Powershell generally and  DBATools especially
 ## Abstract:
@@ -70,7 +70,7 @@ I will cover a brief overview of DBATools and then jump into some scenarios wher
 #### SessionID: 103036
 # Power BI Dataflows? Why you need to implement it!
 #### [Back to calendar](#nr-988)
-Event Date: 05-09-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-09-2020 - Session time: 10:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Benni De Jagere
 ## Title: Power BI Dataflows? Why you need to implement it!
 ## Abstract:
@@ -85,7 +85,7 @@ Expect to walk out of this session with a decent grasp on the underlying archite
 #### SessionID: 105218
 # MS SQL New functions, syntaxes, tips  tricks
 #### [Back to calendar](#nr-988)
-Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 05-09-2020 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Damir Matesic
 ## Title: MS SQL New functions, syntaxes, tips  tricks
 ## Abstract:
@@ -95,7 +95,7 @@ Accompanied with multiple examples, this session will show you many interesting 
 #### SessionID: 103129
 # Power BI Live Data sets, Monitoring your key metrics
 #### [Back to calendar](#nr-988)
-Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 05-09-2020 - Session time: 11:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Jens Vestergaard
 ## Title: Power BI Live Data sets, Monitoring your key metrics
 ## Abstract:
@@ -107,7 +107,7 @@ The session will be covering basic entry to best practices.
 #### SessionID: 103432
 # Dynamic Search Conditions
 #### [Back to calendar](#nr-988)
-Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 05-09-2020 - Session time: 11:45:00 - Track: Application  Database Development
 ## Speaker: Erland Sommarskog
 ## Title: Dynamic Search Conditions
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Application  Database D
 #### SessionID: 105083
 # Detect Plan Regression with Query Store
 #### [Back to calendar](#nr-988)
-Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Database Administration  Deployment
+Event Date: 05-09-2020 - Session time: 11:45:00 - Track: Database Administration  Deployment
 ## Speaker: Torsten Strauss
 ## Title: Detect Plan Regression with Query Store
 ## Abstract:
@@ -126,7 +126,7 @@ In this session, you will learn how Query Store works internally and to interpre
 #### SessionID: 103015
 # Creating Scalable Data Pipelines with Azure Data Factory and Data Flows
 #### [Back to calendar](#nr-988)
-Event Date: 05-09-2020 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 05-09-2020 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ted Malone
 ## Title: Creating Scalable Data Pipelines with Azure Data Factory and Data Flows
 ## Abstract:
@@ -137,7 +137,7 @@ This session will be a mix of discussion and demo, and attendees will come away 
 #### SessionID: 103560
 # Azure DevOps duet (60 minutes version)
 #### [Back to calendar](#nr-988)
-Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Application  Database Development
+Event Date: 05-09-2020 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Kevin Chant
 ## Title: Azure DevOps duet (60 minutes version)
 ## Abstract:
@@ -158,7 +158,7 @@ After this session you will have the tools and knowledge to get started with Dev
 #### SessionID: 104935
 # Why Synapse Analytics is beyond Azure SQL Datawarehouse
 #### [Back to calendar](#nr-988)
-Event Date: 05-09-2020 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
+Event Date: 05-09-2020 - Session time: 13:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Dennes Torres
 ## Title: Why Synapse Analytics is beyond Azure SQL Datawarehouse
 ## Abstract:

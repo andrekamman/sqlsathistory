@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 19271
 # Troubleshooting SQL Server com Waits, Latches e Spinlocks
 #### [Back to calendar](#nr-361)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
+Event Date: 25-04-2015 - Session time: 09:15:00 - Track: DEV
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Troubleshooting SQL Server com Waits, Latches e Spinlocks
 ## Abstract:
@@ -32,7 +32,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
 #### SessionID: 19446
 # SQL SERVER para DBAs ORACLE - quick glance!
 #### [Back to calendar](#nr-361)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DBA
+Event Date: 25-04-2015 - Session time: 09:15:00 - Track: DBA
 ## Speaker: Marcelo Adade
 ## Title: SQL SERVER para DBAs ORACLE - quick glance!
 ## Abstract:
@@ -43,7 +43,7 @@ A ideia não é comparar vantagens e desvantagens dos dois produtos e sim demons
 #### SessionID: 21495
 # Primeiros passos com BI corporativo dentro do SQL Server 2014
 #### [Back to calendar](#nr-361)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: BI
+Event Date: 25-04-2015 - Session time: 09:15:00 - Track: BI
 ## Speaker: Diego Nogare
 ## Title: Primeiros passos com BI corporativo dentro do SQL Server 2014
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: BI
 #### SessionID: 23402
 # Estratégias de Backup e Recovery
 #### [Back to calendar](#nr-361)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DBA
+Event Date: 25-04-2015 - Session time: 11:00:00 - Track: DBA
 ## Speaker: Rodrigo Crespi
 ## Title: Estratégias de Backup e Recovery
 ## Abstract:
@@ -62,7 +62,7 @@ Nesta sessão irei falar sobre a estrutura do Backup no SQL Server e as formas d
 #### SessionID: 23404
 # PowerBI no Office 365
 #### [Back to calendar](#nr-361)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: BI
+Event Date: 25-04-2015 - Session time: 11:00:00 - Track: BI
 ## Speaker: Rodrigo Dornel
 ## Title: PowerBI no Office 365
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: BI
 #### SessionID: 24954
 # Entendendo o Transaction Log
 #### [Back to calendar](#nr-361)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
+Event Date: 25-04-2015 - Session time: 11:00:00 - Track: DEV
 ## Speaker: Luiz Mercante
 ## Title: Entendendo o Transaction Log
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
 #### SessionID: 21459
 # Provendo Alta Disponibilidade para suas Apps em Pequenos, Médios e Grandes Ambientes com SQL2014
 #### [Back to calendar](#nr-361)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DBA
+Event Date: 25-04-2015 - Session time: 13:15:00 - Track: DBA
 ## Speaker: Nilton Pinheiro
 ## Title: Provendo Alta Disponibilidade para suas Apps em Pequenos, Médios e Grandes Ambientes com SQL2014
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DBA
 #### SessionID: 27324
 # Project Deployment Model - Gerenciando e manipulando seus pacotes através do catálogo.
 #### [Back to calendar](#nr-361)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: BI
+Event Date: 25-04-2015 - Session time: 13:15:00 - Track: BI
 ## Speaker: Alexandre Soteras
 ## Title: Project Deployment Model - Gerenciando e manipulando seus pacotes através do catálogo.
 ## Abstract:
@@ -102,7 +102,7 @@ Configuração e gerenciamento de pacotes através de Environments Variables e T
 #### SessionID: 9207
 # Bloqueio SQL Server - Quem? Quando? Recurso?
 #### [Back to calendar](#nr-361)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
+Event Date: 25-04-2015 - Session time: 13:15:00 - Track: DEV
 ## Speaker: Thiago Carlos de Alencar
 ## Title: Bloqueio SQL Server - Quem? Quando? Recurso?
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
 #### SessionID: 14173
 # 7 maneiras diferentes para matar um DBA do coração
 #### [Back to calendar](#nr-361)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
+Event Date: 25-04-2015 - Session time: 14:30:00 - Track: DEV
 ## Speaker: Fabiano Amorim
 ## Title: 7 maneiras diferentes para matar um DBA do coração
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DEV
 #### SessionID: 19443
 # Dicas e melhores práticas sobre Protheus com SQL Server 2014
 #### [Back to calendar](#nr-361)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DBA
+Event Date: 25-04-2015 - Session time: 14:30:00 - Track: DBA
 ## Speaker: Sulamita Dantas
 ## Title: Dicas e melhores práticas sobre Protheus com SQL Server 2014
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 25-04-2015 - Session time: 16:15:00 - Track: DBA
 #### SessionID: 19506
 # Criando um baseline de seu ambiente completo utilizando SSIS e SSRS
 #### [Back to calendar](#nr-361)
-Event Date: 25-04-2015 - Session time: 16:15:00 - Track: BI
+Event Date: 25-04-2015 - Session time: 14:30:00 - Track: BI
 ## Speaker: Marcos Freccia
 ## Title: Criando um baseline de seu ambiente completo utilizando SSIS e SSRS
 ## Abstract:

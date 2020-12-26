@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 40702
 # How I survived supporting a Java team
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database Development
+Event Date: 21-11-2015 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Rick Lowe
 ## Title: How I survived supporting a Java team
 ## Abstract:
@@ -40,7 +40,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database D
 #### SessionID: 40923
 # Hadoop Cluster - Basic OS Setup Insights
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Other
+Event Date: 21-11-2015 - Session time: 09:00:00 - Track: Other
 ## Speaker: Sruthi Kumar Annamnidu
 ## Title: Hadoop Cluster - Basic OS Setup Insights
 ## Abstract:
@@ -49,7 +49,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Other
 #### SessionID: 40932
 # Branding Yourself for a Dream Job
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Professional Development
+Event Date: 21-11-2015 - Session time: 09:00:00 - Track: Professional Development
 ## Speaker: Steve Jones
 ## Title: Branding Yourself for a Dream Job
 ## Abstract:
@@ -58,7 +58,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Professional Developmen
 #### SessionID: 41210
 # Power BI Intro for DBAs Using  Indexing Strategy Analysis as a Data Source
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-11-2015 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tim Ford
 ## Title: Power BI Intro for DBAs Using  Indexing Strategy Analysis as a Data Source
 ## Abstract:
@@ -71,7 +71,7 @@ Tim then goes one step further and introduces you to how Power BI takes this col
 #### SessionID: 39863
 # Creating Access 2013 Web Apps based on SQL Azure using SharePoint
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
+Event Date: 21-11-2015 - Session time: 10:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Andy Tabisz
 ## Title: Creating Access 2013 Web Apps based on SQL Azure using SharePoint
 ## Abstract:
@@ -81,7 +81,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Cloud Application Devel
 #### SessionID: 40029
 # Splits, Merges and Purges: The How To of Table Partitioning
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database Development
+Event Date: 21-11-2015 - Session time: 10:10:00 - Track: Application  Database Development
 ## Speaker: Brandon Preece
 ## Title: Splits, Merges and Purges: The How To of Table Partitioning
 ## Abstract:
@@ -90,7 +90,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database D
 #### SessionID: 40725
 # PoshDBA: Practical PowerShell for the DBA
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-11-2015 - Session time: 10:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ben Miller
 ## Title: PoshDBA: Practical PowerShell for the DBA
 ## Abstract:
@@ -99,7 +99,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 40820
 # Don't get your three-tiered environments in a twist!
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-11-2015 - Session time: 10:10:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Steve Peterson
 ## Title: Don't get your three-tiered environments in a twist!
 ## Abstract:
@@ -108,7 +108,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 40443
 # SQL Game Show
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database Development
+Event Date: 21-11-2015 - Session time: 11:20:00 - Track: Application  Database Development
 ## Speaker: Chad Crawford
 ## Title: SQL Game Show
 ## Abstract:
@@ -117,7 +117,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database D
 #### SessionID: 40701
 # Why should I care about the plan cache?
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-11-2015 - Session time: 11:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rick Lowe
 ## Title: Why should I care about the plan cache?
 ## Abstract:
@@ -126,7 +126,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 40968
 # Powershell Jumpstart for SQL Server DBAs
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-11-2015 - Session time: 11:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Powershell Jumpstart for SQL Server DBAs
 ## Abstract:
@@ -135,7 +135,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 42048
 # SQL Server Management Studio Tips and Tricks
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database Development
+Event Date: 21-11-2015 - Session time: 11:20:00 - Track: Application  Database Development
 ## Speaker: Andrea Allred
 ## Title: SQL Server Management Studio Tips and Tricks
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database D
 #### SessionID: 39982
 # Adding Lightness: Better Performance Through Compression
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database Development
+Event Date: 21-11-2015 - Session time: 13:20:00 - Track: Application  Database Development
 ## Speaker: Jay Robinson
 ## Title: Adding Lightness: Better Performance Through Compression
 ## Abstract:
@@ -153,7 +153,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database D
 #### SessionID: 40942
 # Use  Visual Studio to create a solid database from conception to production
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database Development
+Event Date: 21-11-2015 - Session time: 13:20:00 - Track: Application  Database Development
 ## Speaker: Steve Seeley
 ## Title: Use  Visual Studio to create a solid database from conception to production
 ## Abstract:
@@ -162,7 +162,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Application  Database D
 #### SessionID: 40967
 # Powershell and the Art of SQL Server Deployment
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-11-2015 - Session time: 13:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michael Fal
 ## Title: Powershell and the Art of SQL Server Deployment
 ## Abstract:
@@ -171,7 +171,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 42033
 # Intro to Monitoring I/O: The Counters That Count
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-11-2015 - Session time: 13:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: J May
 ## Title: Intro to Monitoring I/O: The Counters That Count
 ## Abstract:
@@ -180,7 +180,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Adm
 #### SessionID: 40139
 # Configuring and using PolyBase to interact with Hadoop
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: BI Information Delivery
+Event Date: 21-11-2015 - Session time: 14:30:00 - Track: BI Information Delivery
 ## Speaker: Montrial Harrell
 ## Title: Configuring and using PolyBase to interact with Hadoop
 ## Abstract:
@@ -189,7 +189,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: BI Information Delivery
 #### SessionID: 40808
 # A Seven Layer Performance Issue
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Advanced Analysis Techniques
+Event Date: 21-11-2015 - Session time: 14:30:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chad Crawford
 ## Title: A Seven Layer Performance Issue
 ## Abstract:
@@ -198,7 +198,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Advanced Analysis Techn
 #### SessionID: 40908
 # Hadoop, Hive, JSON, and Data! Oh, my!
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Cloud Application Development  Deployment
+Event Date: 21-11-2015 - Session time: 14:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: TJay Belt
 ## Title: Hadoop, Hive, JSON, and Data! Oh, my!
 ## Abstract:
@@ -207,7 +207,7 @@ Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Cloud Application Devel
 #### SessionID: 40989
 # 15  Things to ensure survivability of your database
 #### [Back to calendar](#nr-474)
-Event Date: 21-11-2015 - Session time: 15:40:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 21-11-2015 - Session time: 14:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andre DuBois
 ## Title: 15  Things to ensure survivability of your database
 ## Abstract:

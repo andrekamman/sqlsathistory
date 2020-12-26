@@ -34,7 +34,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 103017
 # Automation for the DBA: Embrace your inner sloth
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
+Event Date: 22-02-2020 - Session time: 10:00:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
 ## Speaker: William Durkin
 ## Title: Automation for the DBA: Embrace your inner sloth
 ## Abstract:
@@ -45,7 +45,7 @@ Along the way we will see that we can benefit from the wide world of automation 
 #### SessionID: 98717
 # Introducing SQL Server 2019 Big Data Clusters
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture, Application  Database Development
+Event Date: 22-02-2020 - Session time: 10:00:00 - Track: Strategy, Architecture, Application  Database Development
 ## Speaker: Ben Weissman
 ## Title: Introducing SQL Server 2019 Big Data Clusters
 ## Abstract:
@@ -58,7 +58,7 @@ In this session, you'll get an overview of the architecture as well as the capab
 #### SessionID: 98941
 # How to use DAX  SQL in PowerBI?
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
+Event Date: 22-02-2020 - Session time: 10:00:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
 ## Speaker: Yana Berkovich
 ## Title: How to use DAX  SQL in PowerBI?
 ## Abstract:
@@ -68,7 +68,7 @@ PowerBI world. Detailed explanation for what goes where, how to connect, what is
 #### SessionID: 99073
 # Data Privacy, Security, Ethics and Compliance in a Data-Driven World
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture, Application  Database Development
+Event Date: 22-02-2020 - Session time: 10:00:00 - Track: Strategy, Architecture, Application  Database Development
 ## Speaker: Martin Catherall
 ## Title: Data Privacy, Security, Ethics and Compliance in a Data-Driven World
 ## Abstract:
@@ -80,7 +80,7 @@ This session will take a close look at some of these challenges and the tools th
 #### SessionID: 99190
 # Revealing the many Azure ML development and release processes
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: AI, Data Science, Machine Learning  IoT
+Event Date: 22-02-2020 - Session time: 10:00:00 - Track: AI, Data Science, Machine Learning  IoT
 ## Speaker: Ginger Grant
 ## Title: Revealing the many Azure ML development and release processes
 ## Abstract:
@@ -90,7 +90,7 @@ AML Studio, Workspace and Pipelines are different products which you can use to 
 #### SessionID: 99902
 # Azure Data Studio - The New Frontier
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
+Event Date: 22-02-2020 - Session time: 10:00:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
 ## Speaker: Warwick Rudd
 ## Title: Azure Data Studio - The New Frontier
 ## Abstract:
@@ -101,7 +101,7 @@ In this demo heavy, introductory session we will introduce you to ADS, discuss i
 #### SessionID: 103018
 # Azure Cognitive Services using containers
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: AI, Data Science, Machine Learning  IoT
+Event Date: 22-02-2020 - Session time: 11:15:00 - Track: AI, Data Science, Machine Learning  IoT
 ## Speaker: Raju RH
 ## Title: Azure Cognitive Services using containers
 ## Abstract:
@@ -114,7 +114,7 @@ In this talk, we’ll explore what it takes to configure and use containers supp
 #### SessionID: 96471
 # Analyze and solve common wait stats scenarios
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
+Event Date: 22-02-2020 - Session time: 11:15:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
 ## Speaker: Uwe Ricken
 ## Title: Analyze and solve common wait stats scenarios
 ## Abstract:
@@ -128,7 +128,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administr
 #### SessionID: 98519
 # Indexes: Under the Hood
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
+Event Date: 22-02-2020 - Session time: 11:15:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
 ## Speaker: Shane Welgama
 ## Title: Indexes: Under the Hood
 ## Abstract:
@@ -137,7 +137,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administr
 #### SessionID: 99081
 # Empower your Business Apps with Artificial Intelligence (Azure Cognitive Services)
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: AI, Data Science, Machine Learning  IoT
+Event Date: 22-02-2020 - Session time: 11:15:00 - Track: AI, Data Science, Machine Learning  IoT
 ## Speaker: Indira Bandari
 ## Title: Empower your Business Apps with Artificial Intelligence (Azure Cognitive Services)
 ## Abstract:
@@ -153,7 +153,7 @@ How to use Cognitive Services APIs ?
 #### SessionID: 99222
 # PowerApps and Flow Best Practices – Working with Data
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture, Application  Database Development
+Event Date: 22-02-2020 - Session time: 11:15:00 - Track: Strategy, Architecture, Application  Database Development
 ## Speaker: Manohar Punna
 ## Title: PowerApps and Flow Best Practices – Working with Data
 ## Abstract:
@@ -167,7 +167,7 @@ Demos:
 #### SessionID: 99978
 # From AI to BI, how to do it all in Azure Synapse Analytics
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, Analytics  Visualization
+Event Date: 22-02-2020 - Session time: 11:15:00 - Track: Business Intelligence, Analytics  Visualization
 ## Speaker: Akanksha Malik
 ## Title: From AI to BI, how to do it all in Azure Synapse Analytics
 ## Abstract:
@@ -178,7 +178,7 @@ Join me in a session to walk through what an end to end solution might look like
 #### SessionID: 98407
 # Back to the Future: Accelerating the Cloud Migration of Legacy SSIS with Azure Data Factory
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, Analytics  Visualization
+Event Date: 22-02-2020 - Session time: 13:00:00 - Track: Business Intelligence, Analytics  Visualization
 ## Speaker: Sandy Winarko
 ## Title: Back to the Future: Accelerating the Cloud Migration of Legacy SSIS with Azure Data Factory
 ## Abstract:
@@ -187,7 +187,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, 
 #### SessionID: 98495
 # Azure SQL Database Serveless  Hyperscale
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
+Event Date: 22-02-2020 - Session time: 13:00:00 - Track: Data Platform Administration, Performance Tuning  Optimisation
 ## Speaker: Pio Balistoy
 ## Title: Azure SQL Database Serveless  Hyperscale
 ## Abstract:
@@ -196,7 +196,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Data Platform Administr
 #### SessionID: 99066
 # How to Deploy SQL Server Containers on Kubernetes in Azure
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: DevOps, PowerShell, Containers, Infrastructure, Security  Deployment
+Event Date: 22-02-2020 - Session time: 13:00:00 - Track: DevOps, PowerShell, Containers, Infrastructure, Security  Deployment
 ## Speaker: Hamish Watson
 ## Title: How to Deploy SQL Server Containers on Kubernetes in Azure
 ## Abstract:
@@ -211,7 +211,7 @@ This session will show you the exciting future of SQL Server and you will walk a
 #### SessionID: 99631
 # Introduction to Dimensional Modeling for the Excel/Power BI Pro
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, Analytics  Visualization
+Event Date: 22-02-2020 - Session time: 13:00:00 - Track: Business Intelligence, Analytics  Visualization
 ## Speaker: Ken Puls
 ## Title: Introduction to Dimensional Modeling for the Excel/Power BI Pro
 ## Abstract:
@@ -221,7 +221,7 @@ In this session we will look at understanding the benefits of dimensional modeli
 #### SessionID: 103594
 # Troubleshooting DAX
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, Analytics  Visualization
+Event Date: 22-02-2020 - Session time: 14:15:00 - Track: Business Intelligence, Analytics  Visualization
 ## Speaker: Phillip Seamark
 ## Title: Troubleshooting DAX
 ## Abstract:
@@ -230,7 +230,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, 
 #### SessionID: 96613
 # Manage data to the ledger using Azure Blockchain as Service
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture, Application  Database Development
+Event Date: 22-02-2020 - Session time: 14:15:00 - Track: Strategy, Architecture, Application  Database Development
 ## Speaker: Mohammad Asif Waquar
 ## Title: Manage data to the ledger using Azure Blockchain as Service
 ## Abstract:
@@ -239,7 +239,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture,
 #### SessionID: 98277
 # Survival Techniques for Lone DBA
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture, Application  Database Development
+Event Date: 22-02-2020 - Session time: 14:15:00 - Track: Strategy, Architecture, Application  Database Development
 ## Speaker: Tejaswi Datla
 ## Title: Survival Techniques for Lone DBA
 ## Abstract:
@@ -248,7 +248,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture,
 #### SessionID: 98560
 # ETL best practices on Azure using Data Factory
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Strategy, Architecture, Application  Database Development
+Event Date: 22-02-2020 - Session time: 14:15:00 - Track: Strategy, Architecture, Application  Database Development
 ## Speaker: Abhishek Narain
 ## Title: ETL best practices on Azure using Data Factory
 ## Abstract:
@@ -258,7 +258,7 @@ In this session, we will talk about design patterns for building scalable data p
 #### SessionID: 98877
 # Composites models and Aggregations in Power BI. What, When and How?
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, Analytics  Visualization
+Event Date: 22-02-2020 - Session time: 14:15:00 - Track: Business Intelligence, Analytics  Visualization
 ## Speaker: Asanka Padmakumara
 ## Title: Composites models and Aggregations in Power BI. What, When and How?
 ## Abstract:
@@ -267,7 +267,7 @@ Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, 
 #### SessionID: 99206
 # Modern Enterprise BI in Azure
 #### [Back to calendar](#nr-922)
-Event Date: 22-02-2020 - Session time: 15:30:00 - Track: Business Intelligence, Analytics  Visualization
+Event Date: 22-02-2020 - Session time: 14:15:00 - Track: Business Intelligence, Analytics  Visualization
 ## Speaker: Craig Bryden
 ## Title: Modern Enterprise BI in Azure
 ## Abstract:

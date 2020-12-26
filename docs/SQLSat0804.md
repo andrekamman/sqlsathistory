@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 83471
 # Monitorando e Diagnosticando com o Perfmon
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Luiz Mercante
 ## Title: Monitorando e Diagnosticando com o Perfmon
 ## Abstract:
@@ -51,7 +51,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #### SessionID: 83590
 # Processamento de dados em tempo real com Azure IoT Hub, Stream Analytics e Power BI
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Analytics and Visualization
+Event Date: 29-09-2018 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Paulo Ricardo Santos
 ## Title: Processamento de dados em tempo real com Azure IoT Hub, Stream Analytics e Power BI
 ## Abstract:
@@ -60,7 +60,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Analytics and Visualiza
 #### SessionID: 84185
 # Oracle e SQL Server na prática: mitos, semelhanças e diferenças
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 10:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Leonardo Pedroso Costa
 ## Title: Oracle e SQL Server na prática: mitos, semelhanças e diferenças
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #### SessionID: 84864
 # HDInsight Spark x Databricks: How to make the better choice?
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Advanced Analysis Techniques
+Event Date: 29-09-2018 - Session time: 10:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Alexandre Soteras
 ## Title: HDInsight Spark x Databricks: How to make the better choice?
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Advanced Analysis Techn
 #### SessionID: 84938
 # Power BI - Utilizando variáveis DAX para criar cluster visual
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Analytics and Visualization
+Event Date: 29-09-2018 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: Fernando Garcia
 ## Title: Power BI - Utilizando variáveis DAX para criar cluster visual
 ## Abstract:
@@ -89,7 +89,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Analytics and Visualiza
 #### SessionID: 84305
 # Automatizando e versionando seu projeto de banco de dados com Vis
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-09-2018 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Milton Camara
 ## Title: Automatizando e versionando seu projeto de banco de dados com Vis
 ## Abstract:
@@ -98,7 +98,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Cloud Application Devel
 #### SessionID: 84354
 # NoSQL para desenvolvedores .NET
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 29-09-2018 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Renato Groffe
 ## Title: NoSQL para desenvolvedores .NET
 ## Abstract:
@@ -107,7 +107,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Application  Database D
 #### SessionID: 84877
 # Passo a passo de como fiz um Tuning em 7 queries reais de um cliente
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Fabrício Lima
 ## Title: Passo a passo de como fiz um Tuning em 7 queries reais de um cliente
 ## Abstract:
@@ -116,7 +116,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #### SessionID: 84905
 # Quer migrar seu banco de dados para a nuvem? Pergunte-me como!
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-09-2018 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sulamita Dantas
 ## Title: Quer migrar seu banco de dados para a nuvem? Pergunte-me como!
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Cloud Application Devel
 #### SessionID: 85021
 # Implementando soluções de IA utilizando os serviços cognitvos no Azure
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Advanced Analysis Techniques
+Event Date: 29-09-2018 - Session time: 11:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Vitor Fava
 ## Title: Implementando soluções de IA utilizando os serviços cognitvos no Azure
 ## Abstract:
@@ -136,7 +136,7 @@ Nesta sessão discutiremos os conceitos básicos da IA e como podemos aplicá-la
 #### SessionID: 83454
 # De - Para! Tudo que você precisa saber sobre Linux para SQL Server
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 12:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rodrigo Crespi
 ## Title: De - Para! Tudo que você precisa saber sobre Linux para SQL Server
 ## Abstract:
@@ -146,7 +146,7 @@ Tudo que é básico entre os dois sistemas operacionais colocado lado a lado.
 #### SessionID: 83456
 # 13 motivos pelo qual minha consulta esta lenta.
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 29-09-2018 - Session time: 12:30:00 - Track: Application  Database Development
 ## Speaker: Fabiano Amorim
 ## Title: 13 motivos pelo qual minha consulta esta lenta.
 ## Abstract:
@@ -169,7 +169,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Application  Database D
 #### SessionID: 83572
 # Entendendo as diferenças de arquitetura entre  Relacionais e NoSQL
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 12:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Caio Amante
 ## Title: Entendendo as diferenças de arquitetura entre  Relacionais e NoSQL
 ## Abstract:
@@ -178,7 +178,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #### SessionID: 83851
 # Column Store - Grande volume de dados x Performance
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 12:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Advaldo Mesquita
 ## Title: Column Store - Grande volume de dados x Performance
 ## Abstract:
@@ -188,7 +188,7 @@ Vou demonstrar o uso do column store e tentar sanar as dúvidas mais comuns do t
 #### SessionID: 84405
 # Segurança de dados, ISO 27002 e Criptografia no SQL Server
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 12:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Diemerson Campos
 ## Title: Segurança de dados, ISO 27002 e Criptografia no SQL Server
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #### SessionID: 83661
 # Event Hub + Stream Analytics Jobs + Power BI = Visualizando dados em tempo real
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Analytics and Visualization
+Event Date: 29-09-2018 - Session time: 13:30:00 - Track: Analytics and Visualization
 ## Speaker: Reginaldo Silva
 ## Title: Event Hub + Stream Analytics Jobs + Power BI = Visualizando dados em tempo real
 ## Abstract:
@@ -206,7 +206,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Analytics and Visualiza
 #### SessionID: 84364
 # SQL Server Performance Troubleshooting
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Application  Database Development
+Event Date: 29-09-2018 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Marcel Inowe
 ## Title: SQL Server Performance Troubleshooting
 ## Abstract:
@@ -216,7 +216,7 @@ Demonstraremos vários problemas de performance, o porque é um problema e como 
 #### SessionID: 84883
 # Hybrid Theory - Synchronizing data between Azure SQL Database and  SQL SERVER Instances
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marcelo Adade
 ## Title: Hybrid Theory - Synchronizing data between Azure SQL Database and  SQL SERVER Instances
 ## Abstract:
@@ -225,7 +225,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #### SessionID: 84996
 # Big Data no Microsoft Azure - Ingerindo, Processando e Analizando Dados
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 29-09-2018 - Session time: 13:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Luan Moreno Medeiros Maciel
 ## Title: Big Data no Microsoft Azure - Ingerindo, Processando e Analizando Dados
 ## Abstract:
@@ -236,7 +236,7 @@ Nesta sessão você aprenderá as melhores práticas , cenários comuns e casos 
 #### SessionID: 85342
 # Utilizando SQL Server 2017 em Docker
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Emerson Ferreira
 ## Title: Utilizando SQL Server 2017 em Docker
 ## Abstract:
@@ -255,7 +255,7 @@ SQL Server 2017 in Docker
 #### SessionID: 83448
 # Distributed Availability Groups - Quem? Quando? Onde? Por quê?
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ricardo Leka
 ## Title: Distributed Availability Groups - Quem? Quando? Onde? Por quê?
 ## Abstract:
@@ -266,7 +266,7 @@ Robusto, rápido, sem necessidade de ter que fazer parte do mesmo FCI, vamos con
 #### SessionID: 84117
 # SQL Server Machine Learning Services
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Analytics and Visualization
+Event Date: 29-09-2018 - Session time: 15:00:00 - Track: Analytics and Visualization
 ## Speaker: Rodrigo Dornel
 ## Title: SQL Server Machine Learning Services
 ## Abstract:
@@ -275,7 +275,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Analytics and Visualiza
 #### SessionID: 84229
 # In-Memory Deep Dive
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lucas Souza
 ## Title: In-Memory Deep Dive
 ## Abstract:
@@ -284,7 +284,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #### SessionID: 84999
 # O Ecossistema de BI no Azure
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-09-2018 - Session time: 15:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Arthur Luz
 ## Title: O Ecossistema de BI no Azure
 ## Abstract:
@@ -293,7 +293,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: BI Platform Architectur
 #### SessionID: 86095
 # Linguagem DAX Avançada
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Advanced Analysis Techniques
+Event Date: 29-09-2018 - Session time: 15:00:00 - Track: Advanced Analysis Techniques
 ## Speaker: Thiago Zavaschi
 ## Title: Linguagem DAX Avançada
 ## Abstract:
@@ -304,7 +304,7 @@ Nesta sessão iremos cobrir a linguagem DAX (do básico ao avançado) para que v
 #### SessionID: 83589
 # Estratégias para aplicações Multi Tenant com SQL Server e Asp.Net
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Strategy and Architecture
+Event Date: 29-09-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Lutti Coelho
 ## Title: Estratégias para aplicações Multi Tenant com SQL Server e Asp.Net
 ## Abstract:
@@ -314,7 +314,7 @@ Nesta palestra apresentarei explicarei três estratégias diferentes e darei exe
 #### SessionID: 83703
 # Governança de Dados para BI, em tempos de Self-Service BI
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 29-09-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Claudio Bonel
 ## Title: Governança de Dados para BI, em tempos de Self-Service BI
 ## Abstract:
@@ -325,7 +325,7 @@ Na parte final faremos uma DEMO, utilizando o SQL Server DB, SQL Server Analysis
 #### SessionID: 84927
 # MySQL  PostgreSQL como PaaS no Ecossistema do Microsoft Azure
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Strategy and Architecture
+Event Date: 29-09-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
 ## Speaker: Wiluey Sousa
 ## Title: MySQL  PostgreSQL como PaaS no Ecossistema do Microsoft Azure
 ## Abstract:
@@ -338,7 +338,7 @@ Entenderemos quais os benefícios deste tipo de arquitetura.
 #### SessionID: 84948
 # Let's talk about Always on Availability Group
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jéssica Lima
 ## Title: Let's talk about Always on Availability Group
 ## Abstract:
@@ -347,7 +347,7 @@ Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Adm
 #### SessionID: 85004
 # SQL Server Dumps - Onde? Como? Quando? Por quê?
 #### [Back to calendar](#nr-804)
-Event Date: 29-09-2018 - Session time: 17:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 29-09-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: João Polisel
 ## Title: SQL Server Dumps - Onde? Como? Quando? Por quê?
 ## Abstract:

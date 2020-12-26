@@ -46,7 +46,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 62858
 # BI Application Lifecycle Management with TFS
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Development, Continuous Integration
+Event Date: 15-07-2017 - Session time: 08:30:00 - Track: Database Development, Continuous Integration
 ## Speaker: Dmytro Andriychenko
 ## Title: BI Application Lifecycle Management with TFS
 ## Abstract:
@@ -55,7 +55,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Development, C
 #### SessionID: 64381
 # An Artistic Dimwit Learns Data Visualisation
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Business Intelligence  Data Science
+Event Date: 15-07-2017 - Session time: 08:30:00 - Track: Business Intelligence  Data Science
 ## Speaker: Pete Moore
 ## Title: An Artistic Dimwit Learns Data Visualisation
 ## Abstract:
@@ -72,7 +72,7 @@ Tags: Power BI, Data Viz, Data Visualisation
 #### SessionID: 64448
 # Getting started with Powershell for the DBA
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 15-07-2017 - Session time: 08:30:00 - Track: Database Administration  Development
 ## Speaker: Matthew Darwin
 ## Title: Getting started with Powershell for the DBA
 ## Abstract:
@@ -83,7 +83,7 @@ In this presentation, I’m going to demonstrate some of the features I use to m
 #### SessionID: 65157
 # Understand the Transaction Log, Unlock Greater Throughput
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 15-07-2017 - Session time: 08:30:00 - Track: Database Administration  Development
 ## Speaker: Lord Richard Douglas
 ## Title: Understand the Transaction Log, Unlock Greater Throughput
 ## Abstract:
@@ -94,7 +94,7 @@ In this session, you will learn to appreciate how the transaction log works and 
 #### SessionID: 65161
 # Session Details not available
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Azure Data Services
+Event Date: 15-07-2017 - Session time: 08:30:00 - Track: Azure Data Services
 ## Speaker: n/a n/a
 ## Title: Session Details not available
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Azure Data Services
 #### SessionID: 62947
 # BI in Azure
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Azure Data Services
+Event Date: 15-07-2017 - Session time: 09:45:00 - Track: Azure Data Services
 ## Speaker: Alex Whittles
 ## Title: BI in Azure
 ## Abstract:
@@ -113,7 +113,7 @@ We'll take a high level look at the available Azure services, discussing what th
 #### SessionID: 64201
 # Exploring the Tiger toolbox
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 15-07-2017 - Session time: 09:45:00 - Track: Database Administration  Development
 ## Speaker: Mark Pryce-Maher
 ## Title: Exploring the Tiger toolbox
 ## Abstract:
@@ -124,7 +124,7 @@ Can't wait for the session? Download the scripts from here. https://github.com/M
 #### SessionID: 65359
 # Enhancing relational models with graph processing In SQL Server 2017.
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Business Intelligence  Data Science
+Event Date: 15-07-2017 - Session time: 09:45:00 - Track: Business Intelligence  Data Science
 ## Speaker: Terry McCann
 ## Title: Enhancing relational models with graph processing In SQL Server 2017.
 ## Abstract:
@@ -135,7 +135,7 @@ In this session, we seek to explore, what is a graph database, why you should be
 #### SessionID: 65393
 # JSON before and after SQL Server 2016
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 15-07-2017 - Session time: 09:45:00 - Track: Database Administration  Development
 ## Speaker: Emanuele Zanchettin
 ## Title: JSON before and after SQL Server 2016
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 66711
 # What is DevOps?
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Development, Continuous Integration
+Event Date: 15-07-2017 - Session time: 09:45:00 - Track: Database Development, Continuous Integration
 ## Speaker: Simon Sabin
 ## Title: What is DevOps?
 ## Abstract:
@@ -159,7 +159,7 @@ You will gain an understanding of why companies with such a culture can get solu
 #### SessionID: 67902
 # SAy our Security Right (or Not)
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 15-07-2017 - Session time: 09:45:00 - Track: Database Administration  Development
 ## Speaker: Neil Hambly
 ## Title: SAy our Security Right (or Not)
 ## Abstract:
@@ -169,7 +169,7 @@ We will be covering SQL Server’s security hierarchy and terminology, identify 
 #### SessionID: 63625
 # Lockless in Seattle: Using In-Memory OLTP Transaction Processing
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 15-07-2017 - Session time: 11:00:00 - Track: Database Administration  Development
 ## Speaker: Mark Broadbent
 ## Title: Lockless in Seattle: Using In-Memory OLTP Transaction Processing
 ## Abstract:
@@ -180,7 +180,7 @@ In this session, we will understand how In-Memory OLTP architecture is implement
 #### SessionID: 64029
 # Microsoft Azure for the DBA
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Azure Data Services
+Event Date: 15-07-2017 - Session time: 11:00:00 - Track: Azure Data Services
 ## Speaker: David Postlethwaite
 ## Title: Microsoft Azure for the DBA
 ## Abstract:
@@ -189,7 +189,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Azure Data Services
 #### SessionID: 65401
 # Through the looking glass on Agile Database Development
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Development, Continuous Integration
+Event Date: 15-07-2017 - Session time: 11:00:00 - Track: Database Development, Continuous Integration
 ## Speaker: Craig Ottley-Thistlethwaite
 ## Title: Through the looking glass on Agile Database Development
 ## Abstract:
@@ -198,7 +198,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Development, C
 #### SessionID: 65420
 # SQL Server and Docker. What, How and Why
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 15-07-2017 - Session time: 11:00:00 - Track: Database Administration  Development
 ## Speaker: André Kamman
 ## Title: SQL Server and Docker. What, How and Why
 ## Abstract:
@@ -207,7 +207,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 66764
 # Solving Power BI pain points with R
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Business Intelligence  Data Science
+Event Date: 15-07-2017 - Session time: 11:00:00 - Track: Business Intelligence  Data Science
 ## Speaker: Stephanie Locke
 ## Title: Solving Power BI pain points with R
 ## Abstract:
@@ -218,7 +218,7 @@ By the end of this session, you’ll know how you can use R to connect to more d
 #### SessionID: 67771
 # An introduction to SQL Server Parallelism
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Other
+Event Date: 15-07-2017 - Session time: 12:10:00 - Track: Other
 ## Speaker: Sponsor Session
 ## Title: An introduction to SQL Server Parallelism
 ## Abstract:
@@ -229,7 +229,7 @@ In this session you'll learn what parallelism is and how it affects your servers
 #### SessionID: 67772
 # Collaborative BI with Governance and Security
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Other
+Event Date: 15-07-2017 - Session time: 12:10:00 - Track: Other
 ## Speaker: Sponsor Session
 ## Title: Collaborative BI with Governance and Security
 ## Abstract:
@@ -245,7 +245,7 @@ Bio: A ‘hands-on’, product oriented technical marketing professional with ex
 #### SessionID: 67773
 # Overview of the IT market and emerging recruitment  salary trends
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Other
+Event Date: 15-07-2017 - Session time: 12:10:00 - Track: Other
 ## Speaker: Sponsor Session
 ## Title: Overview of the IT market and emerging recruitment  salary trends
 ## Abstract:
@@ -256,7 +256,7 @@ This will be an overview of the IT market and emerging recruitment  salary trend
 #### SessionID: 67835
 # Extending SQL Server Master Data Services
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Other
+Event Date: 15-07-2017 - Session time: 12:10:00 - Track: Other
 ## Speaker: Sponsor Session
 ## Title: Extending SQL Server Master Data Services
 ## Abstract:
@@ -269,7 +269,7 @@ Applications of Enterprise Grade MDS
 #### SessionID: 67774
 # PowerBI your way to understand your SQL Server Estate
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Other
+Event Date: 15-07-2017 - Session time: 12:40:00 - Track: Other
 ## Speaker: Sponsor Session
 ## Title: PowerBI your way to understand your SQL Server Estate
 ## Abstract:
@@ -294,7 +294,7 @@ In this session, we showcase a sample report, giving you a flavour of what we ca
 #### SessionID: 67775
 # Sponsor Session
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Other
+Event Date: 15-07-2017 - Session time: 12:40:00 - Track: Other
 ## Speaker: Sponsor Session
 ## Title: Sponsor Session
 ## Abstract:
@@ -303,7 +303,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Other
 #### SessionID: 67776
 # Modern Data Warehousing: Analytics in Azure
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Other
+Event Date: 15-07-2017 - Session time: 12:40:00 - Track: Other
 ## Speaker: Sponsor Session
 ## Title: Modern Data Warehousing: Analytics in Azure
 ## Abstract:
@@ -324,7 +324,7 @@ We'll then briefly show you how they all fit together into a coherent reference 
 #### SessionID: 62943
 # Azure Data Lake - The Services. The SQL. The Sharp.
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Azure Data Services
+Event Date: 15-07-2017 - Session time: 13:30:00 - Track: Azure Data Services
 ## Speaker: Paul Andrew
 ## Title: Azure Data Lake - The Services. The SQL. The Sharp.
 ## Abstract:
@@ -344,7 +344,7 @@ We’ll cover everything you need to know to get started developing data solutio
 #### SessionID: 63568
 # Administrating SQL Server with PowerShell dbatools
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 15-07-2017 - Session time: 13:30:00 - Track: Database Administration  Development
 ## Speaker: Rob Sewell
 ## Title: Administrating SQL Server with PowerShell dbatools
 ## Abstract:
@@ -365,7 +365,7 @@ All this in a fast paced, fun session
 #### SessionID: 63622
 # Exploring Dark Data with SQL Server 2016 and R [EN]
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Business Intelligence  Data Science
+Event Date: 15-07-2017 - Session time: 13:30:00 - Track: Business Intelligence  Data Science
 ## Speaker: Oliver Frost
 ## Title: Exploring Dark Data with SQL Server 2016 and R [EN]
 ## Abstract:
@@ -378,7 +378,7 @@ This session is for anyone who is new to R and is interesting expanding their sk
 #### SessionID: 64369
 # Database version control and deployment: model or migration scripts?
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Development, Continuous Integration
+Event Date: 15-07-2017 - Session time: 13:30:00 - Track: Database Development, Continuous Integration
 ## Speaker: Alex Yates
 ## Title: Database version control and deployment: model or migration scripts?
 ## Abstract:
@@ -393,7 +393,7 @@ I’ll illustrate the limitations of each approach with a simple scenario. I’l
 #### SessionID: 65336
 # SQL Server 2017 New Features (Not Linux support!)
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 15-07-2017 - Session time: 13:30:00 - Track: Database Administration  Development
 ## Speaker: David Williams
 ## Title: SQL Server 2017 New Features (Not Linux support!)
 ## Abstract:
@@ -434,7 +434,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Administration
 #### SessionID: 67540
 # Logic Apps: SSIS for Azure?
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Azure Data Services
+Event Date: 15-07-2017 - Session time: 13:30:00 - Track: Azure Data Services
 ## Speaker: Simon Whiteley
 ## Title: Logic Apps: SSIS for Azure?
 ## Abstract:
@@ -447,7 +447,7 @@ This session will introduce Logic Apps  how it fits into the Modern Azure Wareho
 #### SessionID: 62882
 # Revolution R models in SQL 2016 Reporting Services
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Business Intelligence  Data Science
+Event Date: 15-07-2017 - Session time: 14:45:00 - Track: Business Intelligence  Data Science
 ## Speaker: Dr. Subramani Paramasivam
 ## Title: Revolution R models in SQL 2016 Reporting Services
 ## Abstract:
@@ -456,7 +456,7 @@ Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Business Intelligence  
 #### SessionID: 63607
 # Azure SQL Data Warehouse – Performance, Optimizing and Maintaining
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Azure Data Services
+Event Date: 15-07-2017 - Session time: 14:45:00 - Track: Azure Data Services
 ## Speaker: Robin Lester
 ## Title: Azure SQL Data Warehouse – Performance, Optimizing and Maintaining
 ## Abstract:
@@ -469,7 +469,7 @@ At the end of this talk you will understand the common pitfalls and be empowered
 #### SessionID: 63722
 # Effective Unit Testing for SQL Server
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Development, Continuous Integration
+Event Date: 15-07-2017 - Session time: 14:45:00 - Track: Database Development, Continuous Integration
 ## Speaker: Gavin Campbell
 ## Title: Effective Unit Testing for SQL Server
 ## Abstract:
@@ -488,7 +488,7 @@ This session will incorporate real-life experiences with tSQLt, as well as lesso
 #### SessionID: 64264
 # Window functions are your friends
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 15-07-2017 - Session time: 14:45:00 - Track: Database Administration  Development
 ## Speaker: Dejan Dular
 ## Title: Window functions are your friends
 ## Abstract:
@@ -499,7 +499,7 @@ Window functions are great! They open a whole new world of elegant data analysis
 #### SessionID: 65318
 # SQLOS Scheduling From the Inside
 #### [Back to calendar](#nr-645)
-Event Date: 15-07-2017 - Session time: 16:00:00 - Track: Database Administration  Development
+Event Date: 15-07-2017 - Session time: 14:45:00 - Track: Database Administration  Development
 ## Speaker: Ewald Cress
 ## Title: SQLOS Scheduling From the Inside
 ## Abstract:

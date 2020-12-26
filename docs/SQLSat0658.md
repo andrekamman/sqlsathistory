@@ -21,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 64737
 # High Availability and Disaster Recovery on SQL Server, Azure and beyond
 #### [Back to calendar](#nr-658)
-Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 1 - DBA  Cloud-DBA
+Event Date: 16-09-2017 - Session time: 10:00:00 - Track: 1 - DBA  Cloud-DBA
 ## Speaker: Paul Bertucci
 ## Title: High Availability and Disaster Recovery on SQL Server, Azure and beyond
 ## Abstract:
@@ -30,7 +30,7 @@ Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 1 - DBA  Cloud-DBA
 #### SessionID: 67524
 # L'ALM pour les bases de données SQL Server grâce à Visual Studio, ReadyRoll et VSTS
 #### [Back to calendar](#nr-658)
-Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 3 - Dev  Data
+Event Date: 16-09-2017 - Session time: 10:00:00 - Track: 3 - Dev  Data
 ## Speaker: Patrice Lamarche
 ## Title: L'ALM pour les bases de données SQL Server grâce à Visual Studio, ReadyRoll et VSTS
 ## Abstract:
@@ -41,7 +41,7 @@ Vous en avez marre d'effectuer vos mises à jour de BDD manuellement avec des SQ
 #### SessionID: 67600
 # Azure Data Lake : SELECT People FROM DataLake WHERE Happy = TRUE
 #### [Back to calendar](#nr-658)
-Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 2 - BI  Analytics
+Event Date: 16-09-2017 - Session time: 10:00:00 - Track: 2 - BI  Analytics
 ## Speaker: Jean-Pierre Riehl
 ## Title: Azure Data Lake : SELECT People FROM DataLake WHERE Happy = TRUE
 ## Abstract:
@@ -52,7 +52,7 @@ Even if this session is demo-driven, we won't omit to present you concepts and f
 #### SessionID: 66750
 # Les bases du dépannage SQL Server
 #### [Back to calendar](#nr-658)
-Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 1 - DBA  Cloud-DBA
+Event Date: 16-09-2017 - Session time: 11:30:00 - Track: 1 - DBA  Cloud-DBA
 ## Speaker: Christophe Laporte
 ## Title: Les bases du dépannage SQL Server
 ## Abstract:
@@ -64,7 +64,7 @@ Au cours de cette session, nous allons aborder les bases du diagnostic et du dé
 #### SessionID: 67352
 # SSAS Tabulaire - Optimisation
 #### [Back to calendar](#nr-658)
-Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 2 - BI  Analytics
+Event Date: 16-09-2017 - Session time: 11:30:00 - Track: 2 - BI  Analytics
 ## Speaker: Charles-Henri Sauget
 ## Title: SSAS Tabulaire - Optimisation
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 2 - BI  Analytics
 #### SessionID: 67712
 # Des graphs partout! Microsoft se prendrait-il pour Banksy?
 #### [Back to calendar](#nr-658)
-Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 3 - Dev  Data
+Event Date: 16-09-2017 - Session time: 11:30:00 - Track: 3 - Dev  Data
 ## Speaker: Cédric Charlier
 ## Title: Des graphs partout! Microsoft se prendrait-il pour Banksy?
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 3 - Dev  Data
 #### SessionID: 64703
 # Reporting Services 2016 and beyond
 #### [Back to calendar](#nr-658)
-Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 2 - BI  Analytics
+Event Date: 16-09-2017 - Session time: 13:30:00 - Track: 2 - BI  Analytics
 ## Speaker: Christian Cote
 ## Title: Reporting Services 2016 and beyond
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 2 - BI  Analytics
 #### SessionID: 66886
 # Introducing SQL Server on Linux for DBAs
 #### [Back to calendar](#nr-658)
-Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 1 - DBA  Cloud-DBA
+Event Date: 16-09-2017 - Session time: 13:30:00 - Track: 1 - DBA  Cloud-DBA
 ## Speaker: David Barbarin
 ## Title: Introducing SQL Server on Linux for DBAs
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 1 - DBA  Cloud-DBA
 #### SessionID: 67653
 # Scale-Out your SSIS Package Executions
 #### [Back to calendar](#nr-658)
-Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 3 - Dev  Data
+Event Date: 16-09-2017 - Session time: 13:30:00 - Track: 3 - Dev  Data
 ## Speaker: Wolfgang Strasser
 ## Title: Scale-Out your SSIS Package Executions
 ## Abstract:
@@ -110,7 +110,7 @@ After the definition of scalability-types, the SSIS scale-out architecture and t
 #### SessionID: 67354
 # POWER BI PREMIUM : POUR QUELS USAGES ?
 #### [Back to calendar](#nr-658)
-Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 2 - BI  Analytics
+Event Date: 16-09-2017 - Session time: 15:00:00 - Track: 2 - BI  Analytics
 ## Speaker: Joël Crest
 ## Title: POWER BI PREMIUM : POUR QUELS USAGES ?
 ## Abstract:
@@ -123,7 +123,7 @@ Autant de questions auxquelles je répondrai au cours de cette session.
 #### SessionID: 67357
 # Scale out dans la vraie vie
 #### [Back to calendar](#nr-658)
-Event Date: 16-09-2017 - Session time: 16:30:00 - Track: 1 - DBA  Cloud-DBA
+Event Date: 16-09-2017 - Session time: 15:00:00 - Track: 1 - DBA  Cloud-DBA
 ## Speaker: Gregory Boge
 ## Title: Scale out dans la vraie vie
 ## Abstract:

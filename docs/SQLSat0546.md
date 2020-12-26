@@ -31,7 +31,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 50583
 # Query Store in SQL Server 2016
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Etienne Lopes
 ## Title: Query Store in SQL Server 2016
 ## Abstract:
@@ -45,7 +45,7 @@ If you're a performance troubleshooter I'm sure you'll like this session!
 #### SessionID: 50996
 # Road to database automation: Database source control
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Application  Database Development
+Event Date: 01-10-2016 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Eduardo Piairo
 ## Title: Road to database automation: Database source control
 ## Abstract:
@@ -57,7 +57,7 @@ Using automation as key factor to achieve database source control, database cont
 #### SessionID: 52704
 # Integration Services Architecture -  (SSIS) Modern Framework 
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-10-2016 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: João Lopes
 ## Title: Integration Services Architecture -  (SSIS) Modern Framework 
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 01-10-2016 - Session time: 17:10:00 - Track: BI Platform Architectur
 #### SessionID: 52753
 # What is Windows Nano Servers ?
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Application  Database Development
+Event Date: 01-10-2016 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Ricardo Cabral
 ## Title: What is Windows Nano Servers ?
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Application  Database D
 #### SessionID: 50369
 # Moving your SQL Server backups to Azure Blob storage
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 10:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Johan Bijnens
 ## Title: Moving your SQL Server backups to Azure Blob storage
 ## Abstract:
@@ -85,7 +85,7 @@ This session focusses on performing SQL Server backups directly pushing that bac
 #### SessionID: 51189
 # Azure SQL Database - Migrating from On-Premise to Azure
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Cloud Application Development  Deployment
+Event Date: 01-10-2016 - Session time: 10:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Murilo Miranda
 ## Title: Azure SQL Database - Migrating from On-Premise to Azure
 ## Abstract:
@@ -96,7 +96,7 @@ In this session, we will compare and contrast different migration strategies. We
 #### SessionID: 52711
 # What is SQL Data Warehouse? Is it for me?
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Strategy and Architecture
+Event Date: 01-10-2016 - Session time: 10:30:00 - Track: Strategy and Architecture
 ## Speaker: Vitor Pombeiro
 ## Title: What is SQL Data Warehouse? Is it for me?
 ## Abstract:
@@ -106,7 +106,7 @@ This and many more questions will not be answered in this session but you will l
 #### SessionID: 53883
 # Notebooks, notebooks everywhere!
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Analytics and Visualization
+Event Date: 01-10-2016 - Session time: 10:30:00 - Track: Analytics and Visualization
 ## Speaker: Filipe Coelho
 ## Title: Notebooks, notebooks everywhere!
 ## Abstract:
@@ -115,7 +115,7 @@ Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Analytics and Visualiza
 #### SessionID: 50751
 # What's New in Analysis Services 2016
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-10-2016 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Gerhard Brueckl
 ## Title: What's New in Analysis Services 2016
 ## Abstract:
@@ -125,7 +125,7 @@ Event Date: 01-10-2016 - Session time: 17:10:00 - Track: BI Platform Architectur
 #### SessionID: 50933
 # Real-Time Analytics: OLAP  OLTP in the mix!
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 01-10-2016 - Session time: 11:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Stijn Wynants
 ## Title: Real-Time Analytics: OLAP  OLTP in the mix!
 ## Abstract:
@@ -134,7 +134,7 @@ Event Date: 01-10-2016 - Session time: 17:10:00 - Track: BI Platform Architectur
 #### SessionID: 52736
 # Polybase in SQL Server 2016: Let's query Big Data with T-SQL !
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Application  Database Development
+Event Date: 01-10-2016 - Session time: 11:45:00 - Track: Application  Database Development
 ## Speaker: Andre Batista
 ## Title: Polybase in SQL Server 2016: Let's query Big Data with T-SQL !
 ## Abstract:
@@ -144,7 +144,7 @@ Attend my session if you want to learn how to take advantage of this technology 
 #### SessionID: 52737
 # How to monitor efficiently your SQL Server instances
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Remus Rusanu
 ## Title: How to monitor efficiently your SQL Server instances
 ## Abstract:
@@ -155,7 +155,7 @@ I have worked with SQL Server as a developer in the Redmond team for more than 1
 #### SessionID: 53792
 # Fun with SQL Server 2016 Stretch Database, Temporal, and Always Encrypted
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Application  Database Development
+Event Date: 01-10-2016 - Session time: 11:45:00 - Track: Application  Database Development
 ## Speaker: Scott Klein
 ## Title: Fun with SQL Server 2016 Stretch Database, Temporal, and Always Encrypted
 ## Abstract:
@@ -164,7 +164,7 @@ Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Application  Database D
 #### SessionID: 48814
 # Lockless in Seattle: In-Memory OLTP Transaction Processing
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Mark Broadbent
 ## Title: Lockless in Seattle: In-Memory OLTP Transaction Processing
 ## Abstract:
@@ -175,7 +175,7 @@ In this session we will understand how In-Memory OLTP architecture is implemente
 #### SessionID: 49134
 # Hiding your data with SQL Server 2016
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 14:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ivan Campos
 ## Title: Hiding your data with SQL Server 2016
 ## Abstract:
@@ -184,7 +184,7 @@ Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Enterprise Database Adm
 #### SessionID: 52430
 # Hadoop's Architecture it's relation to Microsoft Data Platform
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Strategy and Architecture
+Event Date: 01-10-2016 - Session time: 14:00:00 - Track: Strategy and Architecture
 ## Speaker: Niko Neugebauer
 ## Title: Hadoop's Architecture it's relation to Microsoft Data Platform
 ## Abstract:
@@ -196,7 +196,7 @@ Let us review what Hadoop, Spark, Hive, Pig, Tez, Ambari and others are and how 
 #### SessionID: 52958
 # Data Visualization through Microsoft platform
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: BI Information Delivery
+Event Date: 01-10-2016 - Session time: 14:00:00 - Track: BI Information Delivery
 ## Speaker: Pedro Perfeito
 ## Title: Data Visualization through Microsoft platform
 ## Abstract:
@@ -205,7 +205,7 @@ Event Date: 01-10-2016 - Session time: 17:10:00 - Track: BI Information Delivery
 #### SessionID: 49000
 # Super Scaling the LMax Queuing Pattern With SQL Server
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Christopher Adkin
 ## Title: Super Scaling the LMax Queuing Pattern With SQL Server
 ## Abstract:
@@ -214,7 +214,7 @@ Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Enterprise Database Adm
 #### SessionID: 49339
 # Unlock the Power of Pivot Tables
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: BI Information Delivery
+Event Date: 01-10-2016 - Session time: 16:00:00 - Track: BI Information Delivery
 ## Speaker: Sander van der hoeff
 ## Title: Unlock the Power of Pivot Tables
 ## Abstract:
@@ -227,7 +227,7 @@ Filters, named sets, and calculations in the pivot table: I will explain it all!
 #### SessionID: 52584
 # Squeezing SQL Server Management Studio
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Cláudio Silva
 ## Title: Squeezing SQL Server Management Studio
 ## Abstract:
@@ -239,7 +239,7 @@ After this session I hope you have learnt at least one or two features of SSMS.
 #### SessionID: 52765
 # Docker Containers and SQL Server coexistence
 #### [Back to calendar](#nr-546)
-Event Date: 01-10-2016 - Session time: 17:10:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 01-10-2016 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Pedro Sousa
 ## Title: Docker Containers and SQL Server coexistence
 ## Abstract:

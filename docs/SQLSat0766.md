@@ -62,7 +62,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 76914
 # Indexing for performance
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeffrey Garbus
 ## Title: Indexing for performance
 ## Abstract:
@@ -71,7 +71,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 76951
 # Cloudy DBA, Amazon (AWS) and SQL Server
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 23-06-2018 - Session time: 08:30:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Faheem Ismat
 ## Title: Cloudy DBA, Amazon (AWS) and SQL Server
 ## Abstract:
@@ -84,7 +84,7 @@ After that we will dive deep into Amazon and explore different options for runni
 #### SessionID: 78288
 # Fundamentals That Will Improve Your Query Performance!
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-06-2018 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: John Wells
 ## Title: Fundamentals That Will Improve Your Query Performance!
 ## Abstract:
@@ -93,7 +93,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 80045
 # Lessons Learned from Two Years as a Devops DBA
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Andy Warren
 ## Title: Lessons Learned from Two Years as a Devops DBA
 ## Abstract:
@@ -102,7 +102,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 80502
 # How to build your personal brand
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 23-06-2018 - Session time: 08:30:00 - Track: Professional Development
 ## Speaker: Adam Saxton
 ## Title: How to build your personal brand
 ## Abstract:
@@ -111,7 +111,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 80527
 # Data Vault on SQL Server Tabular Model and Power BI
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-06-2018 - Session time: 08:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Derek Wilson
 ## Title: Data Vault on SQL Server Tabular Model and Power BI
 ## Abstract:
@@ -120,7 +120,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 82072
 # Consistent Deployments / Team Development
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-06-2018 - Session time: 08:30:00 - Track: Application  Database Development
 ## Speaker: Thomas Norman
 ## Title: Consistent Deployments / Team Development
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 83875
 # DIY: SQL Server Monitoring for your Enterprise
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 08:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: DIY: SQL Server Monitoring for your Enterprise
 ## Abstract:
@@ -138,7 +138,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 76893
 # Become the Most Valuable Player: Soft Skills for the Hard Market
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 23-06-2018 - Session time: 09:45:00 - Track: Professional Development
 ## Speaker: Angela Tidwell
 ## Title: Become the Most Valuable Player: Soft Skills for the Hard Market
 ## Abstract:
@@ -147,7 +147,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 76957
 # What's New In SQL Server 2017
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: William Assaf
 ## Title: What's New In SQL Server 2017
 ## Abstract:
@@ -156,7 +156,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 77063
 # Data Modeling for the Modern Data Warehouse
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-06-2018 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ryan Casey
 ## Title: Data Modeling for the Modern Data Warehouse
 ## Abstract:
@@ -182,7 +182,7 @@ Different Modeling Techniques
 #### SessionID: 77775
 # Populating a Data Warehouse with SSIS and Biml Patterns
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-06-2018 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Jim Miller
 ## Title: Populating a Data Warehouse with SSIS and Biml Patterns
 ## Abstract:
@@ -192,7 +192,7 @@ Attend to see how Biml can revolutionize your SSIS development!
 #### SessionID: 78368
 # How to transition from Profiler to Extended Events and why you should consider.
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dainius Sutkevicius
 ## Title: How to transition from Profiler to Extended Events and why you should consider.
 ## Abstract:
@@ -208,7 +208,7 @@ In this session we will cover the following:
 #### SessionID: 80055
 # Azure SQL Managed Instance the New Hotness
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 23-06-2018 - Session time: 09:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Ryan Adams
 ## Title: Azure SQL Managed Instance the New Hotness
 ## Abstract:
@@ -217,7 +217,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 80392
 # Enterprise Row Level Security in SQL Server and Power BI
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 09:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jamey Johnston
 ## Title: Enterprise Row Level Security in SQL Server and Power BI
 ## Abstract:
@@ -230,7 +230,7 @@ Attendees will leave with a complete working demo they can take to their work an
 #### SessionID: 80935
 # Managing Your Schema with Database Projects in Visual Studio
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-06-2018 - Session time: 09:45:00 - Track: Application  Database Development
 ## Speaker: Kerry Tyler
 ## Title: Managing Your Schema with Database Projects in Visual Studio
 ## Abstract:
@@ -239,7 +239,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 83953
 # Loading a Data Warehouse with SSIS
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-06-2018 - Session time: 09:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Loading a Data Warehouse with SSIS
 ## Abstract:
@@ -252,7 +252,7 @@ In this session, we will discuss and demonstrate loading a data warehouse using 
 #### SessionID: 76895
 # Kimball Methodology - Facts and dimensions
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-06-2018 - Session time: 11:00:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Robert Stewart
 ## Title: Kimball Methodology - Facts and dimensions
 ## Abstract:
@@ -261,7 +261,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 77320
 # GDPR: How it impacts companies outside of Europe
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Strategy and Architecture
+Event Date: 23-06-2018 - Session time: 11:00:00 - Track: Strategy and Architecture
 ## Speaker: Kim Brushaber
 ## Title: GDPR: How it impacts companies outside of Europe
 ## Abstract:
@@ -270,7 +270,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Strategy and Architectu
 #### SessionID: 77365
 # Environmental SQL Server Troubleshooting
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jeff Mlakar
 ## Title: Environmental SQL Server Troubleshooting
 ## Abstract:
@@ -281,7 +281,7 @@ In this session we will discuss both performance pitfalls and optimizations that
 #### SessionID: 80046
 # Patterns for Managing Your Career Learning Needs
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 23-06-2018 - Session time: 11:00:00 - Track: Professional Development
 ## Speaker: Andy Warren
 ## Title: Patterns for Managing Your Career Learning Needs
 ## Abstract:
@@ -294,7 +294,7 @@ Attendees - bring your lists. Bring the list of stuff of you want to learn or th
 #### SessionID: 80057
 # Learning Columnstore Indexes
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-06-2018 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Ryan Adams
 ## Title: Learning Columnstore Indexes
 ## Abstract:
@@ -303,7 +303,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 80372
 # Introduction to Execution Plans
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-06-2018 - Session time: 11:00:00 - Track: Application  Database Development
 ## Speaker: Lance Tidwell
 ## Title: Introduction to Execution Plans
 ## Abstract:
@@ -312,7 +312,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 80436
 # Get insights from data with Cognitive Services
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 23-06-2018 - Session time: 11:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Shawn Weisfeld
 ## Title: Get insights from data with Cognitive Services
 ## Abstract:
@@ -321,7 +321,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 81980
 # Introduction to Linux for SQL Server Professionals
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 11:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jay Falck
 ## Title: Introduction to Linux for SQL Server Professionals
 ## Abstract:
@@ -330,7 +330,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 82535
 # SQL Azure, SQL DW, SQL Managed Instances 101
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Other
+Event Date: 23-06-2018 - Session time: 12:30:00 - Track: Other
 ## Speaker: Mark Moore
 ## Title: SQL Azure, SQL DW, SQL Managed Instances 101
 ## Abstract:
@@ -339,7 +339,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Other
 #### SessionID: 83205
 # CozyRoc: Dynamic Data Flows in SSIS Without Programming
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-06-2018 - Session time: 12:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Diane Schuster
 ## Title: CozyRoc: Dynamic Data Flows in SSIS Without Programming
 ## Abstract:
@@ -348,7 +348,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 83389
 # Trusting your data
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 23-06-2018 - Session time: 12:30:00 - Track: Professional Development
 ## Speaker: Eric Huckabay
 ## Title: Trusting your data
 ## Abstract:
@@ -357,7 +357,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 83704
 # Proactive monitoring with Redgate SQL Monitor
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 12:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chris Randvere
 ## Title: Proactive monitoring with Redgate SQL Monitor
 ## Abstract:
@@ -366,7 +366,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 83744
 # #GetModern SQL Server infrastructure with Dell EMC
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 12:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Craig Allen
 ## Title: #GetModern SQL Server infrastructure with Dell EMC
 ## Abstract:
@@ -377,7 +377,7 @@ This discussion will cover new and upcoming infrastructure technologies, such as
 #### SessionID: 83909
 # Simplifying SQL Data Protection (with Rubrik)
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 12:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jack Bailey
 ## Title: Simplifying SQL Data Protection (with Rubrik)
 ## Abstract:
@@ -386,7 +386,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 76936
 # Securing SQL Server
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Feasel
 ## Title: Securing SQL Server
 ## Abstract:
@@ -395,7 +395,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 76960
 # Mastering your Resume  Interview: Tips to Get Hired
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 23-06-2018 - Session time: 13:30:00 - Track: Professional Development
 ## Speaker: Christine Assaf
 ## Title: Mastering your Resume  Interview: Tips to Get Hired
 ## Abstract:
@@ -404,7 +404,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 76993
 # From the grave: Horror stories from the Microsoft SQL Server CSS archives
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Franklin Gamboa
 ## Title: From the grave: Horror stories from the Microsoft SQL Server CSS archives
 ## Abstract:
@@ -413,7 +413,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 77858
 # In-Memory Indexes: SpaceX® Performance!
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-06-2018 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Mike Byrd
 ## Title: In-Memory Indexes: SpaceX® Performance!
 ## Abstract:
@@ -422,7 +422,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 77859
 # Automate the Pain Away with Query Store and Automatic Tuning
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: John Sterrett
 ## Title: Automate the Pain Away with Query Store and Automatic Tuning
 ## Abstract:
@@ -431,7 +431,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 80499
 # Power BI Security Deep Dive
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-06-2018 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Adam Saxton
 ## Title: Power BI Security Deep Dive
 ## Abstract:
@@ -440,7 +440,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: BI Platform Architectur
 #### SessionID: 82041
 # That's bad mkay!  (How to quantify when things aren't right)
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-06-2018 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Kris Hokanson
 ## Title: That's bad mkay!  (How to quantify when things aren't right)
 ## Abstract:
@@ -449,7 +449,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 82076
 # Migration Basics
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Robert Verell
 ## Title: Migration Basics
 ## Abstract:
@@ -462,7 +462,7 @@ We'll cover all of these things and more, as well as querying the attendees on w
 #### SessionID: 76947
 # The Independent Developer - Lessons Learned from 4+ Years of Self Employment
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Professional Development
+Event Date: 23-06-2018 - Session time: 14:45:00 - Track: Professional Development
 ## Speaker: Jason Awbrey
 ## Title: The Independent Developer - Lessons Learned from 4+ Years of Self Employment
 ## Abstract:
@@ -471,7 +471,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Professional Developmen
 #### SessionID: 77025
 # Dynamic SQL: Tables, Parameters and More
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 23-06-2018 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Steven Tidwell
 ## Title: Dynamic SQL: Tables, Parameters and More
 ## Abstract:
@@ -480,7 +480,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 77068
 # Querying Semistructured Data in Azure Data Lake with USQL
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Cloud Application Development  Deployment
+Event Date: 23-06-2018 - Session time: 14:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Russel Loski
 ## Title: Querying Semistructured Data in Azure Data Lake with USQL
 ## Abstract:
@@ -489,7 +489,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Cloud Application Devel
 #### SessionID: 78758
 # Monitoring Availability Groups
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Tracy Boggiano
 ## Title: Monitoring Availability Groups
 ## Abstract:
@@ -500,7 +500,7 @@ You will walk away from this session with tools you need to monitor your environ
 #### SessionID: 80422
 # Hi, my name is Powershell, let's be friends! An Intro to PoSH
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Amy Herold
 ## Title: Hi, my name is Powershell, let's be friends! An Intro to PoSH
 ## Abstract:
@@ -509,7 +509,7 @@ Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Adm
 #### SessionID: 80934
 # Tuning Like CSS: With These Tools There's No Need Call Support
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kerry Tyler
 ## Title: Tuning Like CSS: With These Tools There's No Need Call Support
 ## Abstract:
@@ -522,7 +522,7 @@ In this session, you'll learn how to use battle tested tools to analyze your wor
 #### SessionID: 82056
 # Azure Data Factory V2 and SSIS Automation With Biml
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-06-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: David Stein
 ## Title: Azure Data Factory V2 and SSIS Automation With Biml
 ## Abstract:
@@ -535,7 +535,7 @@ All of the code used in this presentation can be downloaded by attendees, custom
 #### SessionID: 82873
 # Change Detection in SQL Server
 #### [Back to calendar](#nr-766)
-Event Date: 23-06-2018 - Session time: 16:00:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 23-06-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Tim Mitchell
 ## Title: Change Detection in SQL Server
 ## Abstract:

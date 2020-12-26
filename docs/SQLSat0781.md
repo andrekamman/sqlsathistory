@@ -26,7 +26,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 80349
 # A Beginner's Guide to Power BI
 #### [Back to calendar](#nr-781)
-Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration     RM 101
+Event Date: 13-10-2018 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration     RM 101
 ## Speaker: Ed Watson
 ## Title: A Beginner's Guide to Power BI
 ## Abstract:
@@ -35,7 +35,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architectur
 #### SessionID: 80873
 # Source control, now. Peace through database lifecycle management.
 #### [Back to calendar](#nr-781)
-Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 13-10-2018 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Elizabeth Noble
 ## Title: Source control, now. Peace through database lifecycle management.
 ## Abstract:
@@ -44,7 +44,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Application  Database D
 #### SessionID: 84059
 # Supporting a very large environment
 #### [Back to calendar](#nr-781)
-Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment  RM 201
+Event Date: 13-10-2018 - Session time: 09:00:00 - Track: Enterprise Database Administration  Deployment  RM 201
 ## Speaker: Senthil Raghavan
 ## Title: Supporting a very large environment
 ## Abstract:
@@ -57,7 +57,7 @@ The presentation style being drafted will ensure that the participants stay enga
 #### SessionID: 85108
 # SQL Server R Services in SQL 2016 and 2017
 #### [Back to calendar](#nr-781)
-Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration     RM 101
+Event Date: 13-10-2018 - Session time: 09:00:00 - Track: BI Platform Architecture, Development  Administration     RM 101
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016 and 2017
 ## Abstract:
@@ -66,7 +66,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architectur
 #### SessionID: 82238
 # Database Project Makes Deployment Consistent
 #### [Back to calendar](#nr-781)
-Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment  RM 201
+Event Date: 13-10-2018 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment  RM 201
 ## Speaker: Thomas Norman
 ## Title: Database Project Makes Deployment Consistent
 ## Abstract:
@@ -75,7 +75,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 82401
 # Introducing Hadoop to SQL Server Pros
 #### [Back to calendar](#nr-781)
-Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration     RM 101
+Event Date: 13-10-2018 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration     RM 101
 ## Speaker: Jon Boulineau
 ## Title: Introducing Hadoop to SQL Server Pros
 ## Abstract:
@@ -84,7 +84,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architectur
 #### SessionID: 82961
 # PowerShell for BI Pros: Automating SSIS, SSRS, SSAS, and Power BI
 #### [Back to calendar](#nr-781)
-Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration     RM 101
+Event Date: 13-10-2018 - Session time: 10:15:00 - Track: BI Platform Architecture, Development  Administration     RM 101
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for BI Pros: Automating SSIS, SSRS, SSAS, and Power BI
 ## Abstract:
@@ -95,7 +95,7 @@ By the end of the session, you'll be able to accomplish in minutes what would no
 #### SessionID: 85635
 # PowerShell for the DBA
 #### [Back to calendar](#nr-781)
-Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment  RM 201
+Event Date: 13-10-2018 - Session time: 10:15:00 - Track: Enterprise Database Administration  Deployment  RM 201
 ## Speaker: Amy Herold
 ## Title: PowerShell for the DBA
 ## Abstract:
@@ -104,7 +104,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 80362
 # DevOps, Continuous Integration  Automated Testing: Rule them all
 #### [Back to calendar](#nr-781)
-Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 13-10-2018 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Samir Behara
 ## Title: DevOps, Continuous Integration  Automated Testing: Rule them all
 ## Abstract:
@@ -116,7 +116,7 @@ Come join me in this 60 min session to understand the problems with traditional 
 #### SessionID: 80767
 # Introduction to T-SQL Windowing Functions
 #### [Back to calendar](#nr-781)
-Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 13-10-2018 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Kathi Kellenberger
 ## Title: Introduction to T-SQL Windowing Functions
 ## Abstract:
@@ -127,7 +127,7 @@ Attend this session to learn how T-SQL windowing functions apply to many real wo
 #### SessionID: 82459
 # 2017 SSIS Scale Out:  How and Why
 #### [Back to calendar](#nr-781)
-Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration     RM 101
+Event Date: 13-10-2018 - Session time: 11:30:00 - Track: BI Platform Architecture, Development  Administration     RM 101
 ## Speaker: Paul LaGrone
 ## Title: 2017 SSIS Scale Out:  How and Why
 ## Abstract:
@@ -136,7 +136,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architectur
 #### SessionID: 83670
 # A Beginner’s Guide to the Query Store
 #### [Back to calendar](#nr-781)
-Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment  RM 201
+Event Date: 13-10-2018 - Session time: 11:30:00 - Track: Enterprise Database Administration  Deployment  RM 201
 ## Speaker: Steven Cush
 ## Title: A Beginner’s Guide to the Query Store
 ## Abstract:
@@ -145,7 +145,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Adm
 #### SessionID: 85637
 # LUNCH
 #### [Back to calendar](#nr-781)
-Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Other RM 202
+Event Date: 13-10-2018 - Session time: 12:30:00 - Track: Other RM 202
 ## Speaker: Tim Radney
 ## Title: LUNCH
 ## Abstract:
@@ -154,7 +154,7 @@ Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Other RM 202
 #### SessionID: 80353
 # Intro to SQL Operations Studio
 #### [Back to calendar](#nr-781)
-Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Enterprise Database Administration  Deployment  RM 201
+Event Date: 13-10-2018 - Session time: 13:30:00 - Track: Enterprise Database Administration  Deployment  RM 201
 ## Speaker: Eric Flamm
 ## Title: Intro to SQL Operations Studio
 ## Abstract:
@@ -165,7 +165,7 @@ And, it runs on a Mac (and Linux, and Windows, too). Similar to Visual Studio Co
 #### SessionID: 80758
 # Agile Database Development and Zero Downtime Deployments
 #### [Back to calendar](#nr-781)
-Event Date: 13-10-2018 - Session time: 14:45:00 - Track: Application  Database Development
+Event Date: 13-10-2018 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Jeff Reinhard
 ## Title: Agile Database Development and Zero Downtime Deployments
 ## Abstract:
@@ -181,7 +181,7 @@ This approach is a new mindset, but with a few months of planning can be leverag
 #### SessionID: 80766
 # Azure Machine Learning 101
 #### [Back to calendar](#nr-781)
-Event Date: 13-10-2018 - Session time: 14:45:00 - Track: BI Platform Architecture, Development  Administration     RM 101
+Event Date: 13-10-2018 - Session time: 13:30:00 - Track: BI Platform Architecture, Development  Administration     RM 101
 ## Speaker: Kathi Kellenberger
 ## Title: Azure Machine Learning 101
 ## Abstract:

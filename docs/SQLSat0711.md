@@ -30,7 +30,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 73695
 # Get data insights faster with Data Wrangling
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: BI Information Delivery
+Event Date: 02-06-2018 - Session time: 10:00:00 - Track: BI Information Delivery
 ## Speaker: Sergiy Lunyakin
 ## Title: Get data insights faster with Data Wrangling
 ## Abstract:
@@ -39,7 +39,7 @@ Event Date: 02-06-2018 - Session time: 17:30:00 - Track: BI Information Delivery
 #### SessionID: 73859
 # Choosing the Right Database for Microservices Solutions
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Strategy and Architecture
+Event Date: 02-06-2018 - Session time: 10:00:00 - Track: Strategy and Architecture
 ## Speaker: Mihail Mateev
 ## Title: Choosing the Right Database for Microservices Solutions
 ## Abstract:
@@ -50,7 +50,7 @@ In this talk we will discuss how we can go about choosing the right database mod
 #### SessionID: 77687
 # Score a (row) goal and beat a query optimizer
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Application  Database Development
+Event Date: 02-06-2018 - Session time: 10:00:00 - Track: Application  Database Development
 ## Speaker: Pavel Malek
 ## Title: Score a (row) goal and beat a query optimizer
 ## Abstract:
@@ -61,7 +61,7 @@ In this session we will have a deep look on cases where the query optimizer fail
 #### SessionID: 80233
 # If a machine can learn, why can't YOU learn Azure Machine Learning?
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Analytics and Visualization
+Event Date: 02-06-2018 - Session time: 10:00:00 - Track: Analytics and Visualization
 ## Speaker: André Melancia
 ## Title: If a machine can learn, why can't YOU learn Azure Machine Learning?
 ## Abstract:
@@ -72,7 +72,7 @@ Disclaimer: Sadly, AzureML still can't predict what's on your girlfriend's mind.
 #### SessionID: 70381
 # Real solution using PowerBI
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-06-2018 - Session time: 11:10:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Boriana Petrova
 ## Title: Real solution using PowerBI
 ## Abstract:
@@ -82,7 +82,7 @@ First one is for Pharmaceutics industry, the second one is for HR department and
 #### SessionID: 73896
 # The hidden power of Power BI or what we can do using Power BI REST API
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Application  Database Development
+Event Date: 02-06-2018 - Session time: 11:10:00 - Track: Application  Database Development
 ## Speaker: Andrey Nikolov
 ## Title: The hidden power of Power BI or what we can do using Power BI REST API
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Application  Database D
 #### SessionID: 77592
 # The Road to Autonomous Databases
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 02-06-2018 - Session time: 11:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Janusz Rokicki
 ## Title: The Road to Autonomous Databases
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Cloud Application Devel
 #### SessionID: 80229
 # “SQL-like” or query languages in Azure IoT
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 02-06-2018 - Session time: 11:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Catalin Gheorghiu
 ## Title: “SQL-like” or query languages in Azure IoT
 ## Abstract:
@@ -112,7 +112,7 @@ So, we will leave no SQL query unturned  in Azure IoT Hub, Stream Analytics, Pow
 #### SessionID: 73937
 # Tabular Automation With TMSL and PowerShell
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 02-06-2018 - Session time: 12:50:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Ust Oldfield
 ## Title: Tabular Automation With TMSL and PowerShell
 ## Abstract:
@@ -121,7 +121,7 @@ Event Date: 02-06-2018 - Session time: 17:30:00 - Track: BI Platform Architectur
 #### SessionID: 80040
 # Query tuning when indexes cannot help
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Application  Database Development
+Event Date: 02-06-2018 - Session time: 12:50:00 - Track: Application  Database Development
 ## Speaker: Margarita Naumova
 ## Title: Query tuning when indexes cannot help
 ## Abstract:
@@ -130,7 +130,7 @@ Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Application  Database D
 #### SessionID: 82108
 # Moving eLearning system to the cloud
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 02-06-2018 - Session time: 12:50:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Sergey Prokofiev
 ## Title: Moving eLearning system to the cloud
 ## Abstract:
@@ -144,7 +144,7 @@ Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Cloud Application Devel
 #### SessionID: 75833
 # The Maths behind Machine Learning
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Analytics and Visualization
+Event Date: 02-06-2018 - Session time: 14:00:00 - Track: Analytics and Visualization
 ## Speaker: Matt Willis
 ## Title: The Maths behind Machine Learning
 ## Abstract:
@@ -157,7 +157,7 @@ If you would like an introduction to the world of Machine Learning and to acquir
 #### SessionID: 78883
 # RC, SI, and RCSI -It's So Confusing. Which Should You Use?
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Application  Database Development
+Event Date: 02-06-2018 - Session time: 14:00:00 - Track: Application  Database Development
 ## Speaker: Arnie Rowland
 ## Title: RC, SI, and RCSI -It's So Confusing. Which Should You Use?
 ## Abstract:
@@ -166,7 +166,7 @@ Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Application  Database D
 #### SessionID: 80238
 # Building a data connector for Power BI
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Analytics and Visualization
+Event Date: 02-06-2018 - Session time: 14:00:00 - Track: Analytics and Visualization
 ## Speaker: Cédric Charlier
 ## Title: Building a data connector for Power BI
 ## Abstract:
@@ -175,7 +175,7 @@ Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Analytics and Visualiza
 #### SessionID: 71569
 # Chatbots for Dummies
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 02-06-2018 - Session time: 15:10:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Mendes
 ## Title: Chatbots for Dummies
 ## Abstract:
@@ -188,7 +188,7 @@ Will it pass the Turing test, no, but we can extend the bot service using Machin
 #### SessionID: 74279
 # SQL Server statistics - quick and dirty deep dive
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Application  Database Development
+Event Date: 02-06-2018 - Session time: 15:10:00 - Track: Application  Database Development
 ## Speaker: Ivan Donev
 ## Title: SQL Server statistics - quick and dirty deep dive
 ## Abstract:
@@ -197,7 +197,7 @@ Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Application  Database D
 #### SessionID: 82080
 # How do SQL DB projects support DB scheme and help you make weekly or daily releases?
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Application  Database Development
+Event Date: 02-06-2018 - Session time: 15:10:00 - Track: Application  Database Development
 ## Speaker: Todor Matev
 ## Title: How do SQL DB projects support DB scheme and help you make weekly or daily releases?
 ## Abstract:
@@ -208,7 +208,7 @@ Language: Bulgarian
 #### SessionID: 71688
 # Back to the future - Migrating our SQL Server OnPremise Database to Azure
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 02-06-2018 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Jose Manuel Jurado Diaz
 ## Title: Back to the future - Migrating our SQL Server OnPremise Database to Azure
 ## Abstract:
@@ -224,7 +224,7 @@ This session consists of:
 #### SessionID: 74243
 # Bringing DevOps to your database
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Cloud Application Development  Deployment
+Event Date: 02-06-2018 - Session time: 16:20:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Radoslav Gatev
 ## Title: Bringing DevOps to your database
 ## Abstract:
@@ -236,7 +236,7 @@ The technologies we are going to have in our tool belts are SQL Server Database 
 #### SessionID: 80199
 # SQL Server on Linux –  from 0 to 100 in 1 hour!
 #### [Back to calendar](#nr-711)
-Event Date: 02-06-2018 - Session time: 17:30:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 02-06-2018 - Session time: 16:20:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Rozalina Zaharieva
 ## Title: SQL Server on Linux –  from 0 to 100 in 1 hour!
 ## Abstract:

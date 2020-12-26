@@ -42,7 +42,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 107940
 # From XL to S - Reduce your Power BI model size by 90%!
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Power BI
+Event Date: 15-01-2021 - Session time: 09:00:00 - Track: Power BI
 ## Speaker: Nikola Ilic
 ## Title: From XL to S - Reduce your Power BI model size by 90%!
 ## Abstract:
@@ -55,7 +55,7 @@ Finally, you will see a real use-case demo showing how the Power BI data model w
 #### SessionID: 107999
 # Analyze and solve common wait stats scenarios
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Administration
+Event Date: 15-01-2021 - Session time: 09:00:00 - Track: Administration
 ## Speaker: Uwe Ricken
 ## Title: Analyze and solve common wait stats scenarios
 ## Abstract:
@@ -69,7 +69,7 @@ Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Administration
 #### SessionID: 108332
 # BI in Azure two years live
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Cloud Technology
+Event Date: 15-01-2021 - Session time: 09:00:00 - Track: Cloud Technology
 ## Speaker: Alexander Klein
 ## Title: BI in Azure two years live
 ## Abstract:
@@ -83,7 +83,7 @@ Alexander Klein will answer all these questions and more in this presentation.
 #### SessionID: 108355
 # Introduction to Azure DevOps
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 15-01-2021 - Session time: 09:00:00 - Track: Application  Database Development
 ## Speaker: Mark Broadbent
 ## Title: Introduction to Azure DevOps
 ## Abstract:
@@ -99,7 +99,7 @@ By the end of this session, you will be able to set up your first build and rele
 #### SessionID: 108446
 # Not My Problem(?) - Azure Networking 101 for Azure SQL Server DBAs
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Cloud Technology
+Event Date: 15-01-2021 - Session time: 09:00:00 - Track: Cloud Technology
 ## Speaker: Alexander Arvidsson
 ## Title: Not My Problem(?) - Azure Networking 101 for Azure SQL Server DBAs
 ## Abstract:
@@ -110,7 +110,7 @@ This session will walk you through the basics of networking, explore the concept
 #### SessionID: 109010
 # Lightning Talk Session
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Lightning Talk
+Event Date: 15-01-2021 - Session time: 09:00:00 - Track: Lightning Talk
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Lightning Talk Session
 ## Abstract:
@@ -120,7 +120,7 @@ topics across all tracks
 #### SessionID: 108080
 # Business Analysis with T-SQL
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Artificial Intelligence  Machine Learning
+Event Date: 15-01-2021 - Session time: 10:15:00 - Track: Artificial Intelligence  Machine Learning
 ## Speaker: Dejan Sarka
 ## Title: Business Analysis with T-SQL
 ## Abstract:
@@ -129,7 +129,7 @@ Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Artificial Intelligence
 #### SessionID: 108188
 # Designing impactful visualisations for your data
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Power BI
+Event Date: 15-01-2021 - Session time: 10:15:00 - Track: Power BI
 ## Speaker: Benni De Jagere
 ## Title: Designing impactful visualisations for your data
 ## Abstract:
@@ -142,7 +142,7 @@ Walking out of this session, you can expect to have a decent understanding on a 
 #### SessionID: 108344
 # Let's go Premium! The essentials to kickstart your experience.
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Power BI
+Event Date: 15-01-2021 - Session time: 10:15:00 - Track: Power BI
 ## Speaker: Dave Ruijter
 ## Title: Let's go Premium! The essentials to kickstart your experience.
 ## Abstract:
@@ -157,7 +157,7 @@ In this session you will learn:
 #### SessionID: 108432
 # Living on the Edge: SQL Server Edge
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 15-01-2021 - Session time: 10:15:00 - Track: Application  Database Development
 ## Speaker: Frank Geisler
 ## Title: Living on the Edge: SQL Server Edge
 ## Abstract:
@@ -166,7 +166,7 @@ Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Application  Database D
 #### SessionID: 108460
 # Creating an modern data platform in the cloud
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Cloud Technology
+Event Date: 15-01-2021 - Session time: 10:15:00 - Track: Cloud Technology
 ## Speaker: Johan Ludvig Brattås
 ## Title: Creating an modern data platform in the cloud
 ## Abstract:
@@ -175,7 +175,7 @@ Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Cloud Technology
 #### SessionID: 107934
 # Big Data Clusters for the Absolute Beginner
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Administration
+Event Date: 15-01-2021 - Session time: 11:30:00 - Track: Administration
 ## Speaker: Mohammad Darab
 ## Title: Big Data Clusters for the Absolute Beginner
 ## Abstract:
@@ -191,7 +191,7 @@ Topics include:
 #### SessionID: 107994
 # Power BI and Paginated Reports? [Deutsch/German]
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Power BI
+Event Date: 15-01-2021 - Session time: 11:30:00 - Track: Power BI
 ## Speaker: Philipp Lenz
 ## Title: Power BI and Paginated Reports? [Deutsch/German]
 ## Abstract:
@@ -200,7 +200,7 @@ Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Power BI
 #### SessionID: 108063
 # From adaptive to intelligent: query processing in SQL 2019
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 15-01-2021 - Session time: 11:30:00 - Track: Application  Database Development
 ## Speaker: Hugo Kornelis
 ## Title: From adaptive to intelligent: query processing in SQL 2019
 ## Abstract:
@@ -211,7 +211,7 @@ In this high-paced session, we will look at all these features and cover some us
 #### SessionID: 108091
 # Azure Synapse Analytics - Early Lessons learned
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Cloud Technology
+Event Date: 15-01-2021 - Session time: 11:30:00 - Track: Cloud Technology
 ## Speaker: Gabi Münster
 ## Title: Azure Synapse Analytics - Early Lessons learned
 ## Abstract:
@@ -220,7 +220,7 @@ Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Cloud Technology
 #### SessionID: 108248
 # Azure databricks: brick by brick for the data engineer
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Cloud Technology
+Event Date: 15-01-2021 - Session time: 11:30:00 - Track: Cloud Technology
 ## Speaker: Cédric Charlier
 ## Title: Azure databricks: brick by brick for the data engineer
 ## Abstract:
@@ -229,7 +229,7 @@ Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Cloud Technology
 #### SessionID: 108342
 # External Tools for Power BI, how to create them!
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Power BI
+Event Date: 15-01-2021 - Session time: 11:30:00 - Track: Power BI
 ## Speaker: Marc Lelijveld
 ## Title: External Tools for Power BI, how to create them!
 ## Abstract:
@@ -240,7 +240,7 @@ In this session I will show you how I build my model documentation external tool
 #### SessionID: 107985
 # Strukturierung des Data Lake
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Cloud Technology
+Event Date: 15-01-2021 - Session time: 13:30:00 - Track: Cloud Technology
 ## Speaker: Tillmann Eitelberg
 ## Title: Strukturierung des Data Lake
 ## Abstract:
@@ -255,7 +255,7 @@ Taucht mit uns ab in die Tiefen des Azure Data Lakes.
 #### SessionID: 108168
 # Self-service BI - Why Data Modelling Is Still Important
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Power BI
+Event Date: 15-01-2021 - Session time: 13:30:00 - Track: Power BI
 ## Speaker: Koen Verbeeck
 ## Title: Self-service BI - Why Data Modelling Is Still Important
 ## Abstract:
@@ -264,7 +264,7 @@ Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Power BI
 #### SessionID: 108268
 # Intro to Query Store
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 15-01-2021 - Session time: 13:30:00 - Track: Application  Database Development
 ## Speaker: Tracy Boggiano
 ## Title: Intro to Query Store
 ## Abstract:
@@ -277,7 +277,7 @@ In this session, we will walk through the features of the Query Store, so you ca
 #### SessionID: 108285
 # Crushing a Cloud Migration: Moving Mountains While Migrating Data
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Administration
+Event Date: 15-01-2021 - Session time: 13:30:00 - Track: Administration
 ## Speaker: Matt Gordon
 ## Title: Crushing a Cloud Migration: Moving Mountains While Migrating Data
 ## Abstract:
@@ -288,7 +288,7 @@ As we walk through this session we will discuss and demo the technologies and to
 #### SessionID: 108349
 # Change your skills - from an onpremise DBA to a cloud DBA
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Cloud Technology
+Event Date: 15-01-2021 - Session time: 13:30:00 - Track: Cloud Technology
 ## Speaker: Björn Peters
 ## Title: Change your skills - from an onpremise DBA to a cloud DBA
 ## Abstract:
@@ -297,7 +297,7 @@ Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Cloud Technology
 #### SessionID: 108436
 # ABCs of the Power BI REST API
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Power BI
+Event Date: 15-01-2021 - Session time: 13:30:00 - Track: Power BI
 ## Speaker: Jens Vestergaard
 ## Title: ABCs of the Power BI REST API
 ## Abstract:
@@ -319,7 +319,7 @@ Attending this session will make you familiar with the Power BI REST API and pro
 #### SessionID: 107910
 # Azure Sql DB Managed instance, a different sql server?
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Cloud Technology
+Event Date: 15-01-2021 - Session time: 14:45:00 - Track: Cloud Technology
 ## Speaker: Gonzalo Bissio
 ## Title: Azure Sql DB Managed instance, a different sql server?
 ## Abstract:
@@ -328,7 +328,7 @@ Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Cloud Technology
 #### SessionID: 107920
 # Start thinking like the SQL Engine
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Administration
+Event Date: 15-01-2021 - Session time: 14:45:00 - Track: Administration
 ## Speaker: Deepthi Goguri
 ## Title: Start thinking like the SQL Engine
 ## Abstract:
@@ -338,7 +338,7 @@ Deepthi will show you how the SQL engine thinks – enabling you to think like i
 #### SessionID: 107950
 # Finding Islands, Gaps, and Clusters in Complex Data
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Application  Database Development
+Event Date: 15-01-2021 - Session time: 14:45:00 - Track: Application  Database Development
 ## Speaker: Edward Pollack
 ## Title: Finding Islands, Gaps, and Clusters in Complex Data
 ## Abstract:
@@ -355,7 +355,7 @@ This is a fast-paced session that delves into methods that can be applied to any
 #### SessionID: 107961
 # Advanced ETL with Power Query
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Power BI
+Event Date: 15-01-2021 - Session time: 14:45:00 - Track: Power BI
 ## Speaker: Dennes Torres
 ## Title: Advanced ETL with Power Query
 ## Abstract:
@@ -366,7 +366,7 @@ We can create functions, re-use funcitons, create loops, everything to turn our 
 #### SessionID: 108329
 # Azure SQL anywhere. An Introduction to Azure Arc enabled Data Services.
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Cloud Technology
+Event Date: 15-01-2021 - Session time: 14:45:00 - Track: Cloud Technology
 ## Speaker: Ben Weissman
 ## Title: Azure SQL anywhere. An Introduction to Azure Arc enabled Data Services.
 ## Abstract:
@@ -375,7 +375,7 @@ Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Cloud Technology
 #### SessionID: 108426
 # Power BI Dataflows on Steroids: Handling 100+ million records using Enhanced Compute Engine
 #### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Power BI
+Event Date: 15-01-2021 - Session time: 14:45:00 - Track: Power BI
 ## Speaker: Ferenc Csonka
 ## Title: Power BI Dataflows on Steroids: Handling 100+ million records using Enhanced Compute Engine
 ## Abstract:

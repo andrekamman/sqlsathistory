@@ -64,7 +64,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 56730
 # Networking Internals for the SQL Server Professional
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: Networking Internals for the SQL Server Professional
 ## Abstract:
@@ -73,7 +73,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 56955
 # SQL Server R Services in SQL 2016
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Advanced Analysis Techniques
+Event Date: 11-03-2017 - Session time: 08:15:00 - Track: Advanced Analysis Techniques
 ## Speaker: Chris Hyde
 ## Title: SQL Server R Services in SQL 2016
 ## Abstract:
@@ -82,7 +82,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Advanced Analysis Techn
 #### SessionID: 57363
 # How to use Execution Plans to find Performance Issues
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dave Bland
 ## Title: How to use Execution Plans to find Performance Issues
 ## Abstract:
@@ -91,7 +91,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 57410
 # Analyzing SQL Server Data using PowerPivot in MS Excel
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: BI Information Delivery
+Event Date: 11-03-2017 - Session time: 08:15:00 - Track: BI Information Delivery
 ## Speaker: Wylie Blanchard
 ## Title: Analyzing SQL Server Data using PowerPivot in MS Excel
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: BI Information Delivery
 #### SessionID: 57600
 # Power BI with Narrative Science: Look Who's Talking!
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: BI Information Delivery
+Event Date: 11-03-2017 - Session time: 08:15:00 - Track: BI Information Delivery
 ## Speaker: Rayis Imayev
 ## Title: Power BI with Narrative Science: Look Who's Talking!
 ## Abstract:
@@ -113,7 +113,7 @@ Let’s go together though this interactive data adventure and explore different
 #### SessionID: 59318
 # SQL Server 2016 and PolyBase
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-03-2017 - Session time: 08:15:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Sean Werick
 ## Title: SQL Server 2016 and PolyBase
 ## Abstract:
@@ -124,7 +124,7 @@ In this session, you will learn how to install and set up PolyBase, and how to u
 #### SessionID: 59320
 # Loading SQL Server Data with Powershell
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Sean McCown
 ## Title: Loading SQL Server Data with Powershell
 ## Abstract:
@@ -133,7 +133,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 61031
 # Find out why SQL Server 2016 Service Pack 1 is an Industry Game changer
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 08:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ross LoForte
 ## Title: Find out why SQL Server 2016 Service Pack 1 is an Industry Game changer
 ## Abstract:
@@ -147,7 +147,7 @@ Learn how to upgrade to SQL Server 2016 Service Pack 1
 #### SessionID: 56783
 # Welcome To the 2016 Query Store!
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 09:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janis Griffin
 ## Title: Welcome To the 2016 Query Store!
 ## Abstract:
@@ -156,7 +156,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 56816
 # Building a PowerPivot BI Dashboard in an Hour
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Analytics and Visualization
+Event Date: 11-03-2017 - Session time: 09:35:00 - Track: Analytics and Visualization
 ## Speaker: Vazi Okhandiar
 ## Title: Building a PowerPivot BI Dashboard in an Hour
 ## Abstract:
@@ -165,7 +165,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Analytics and Visualiza
 #### SessionID: 56984
 # Learn History from Temporal Tables
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 09:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Ameena Lalani
 ## Title: Learn History from Temporal Tables
 ## Abstract:
@@ -174,7 +174,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 57784
 # Zen and the Art of Perfmon
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 09:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Klee
 ## Title: Zen and the Art of Perfmon
 ## Abstract:
@@ -183,7 +183,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 58260
 # TempDB- More permanent impact than you think
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 09:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Paresh Motiwala
 ## Title: TempDB- More permanent impact than you think
 ## Abstract:
@@ -207,7 +207,7 @@ Hopefully at the end of the session your knowledge on Tempdb won't be Temp.
 #### SessionID: 59362
 # SQL 2016 Scalability and Performance Enhancements
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 09:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Chirag Shah
 ## Title: SQL 2016 Scalability and Performance Enhancements
 ## Abstract:
@@ -216,7 +216,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 59597
 # Let Her Finish: Supporting Women's Voices from meetings to the board room
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 11-03-2017 - Session time: 09:35:00 - Track: Professional Development
 ## Speaker: Rie Irish
 ## Title: Let Her Finish: Supporting Women's Voices from meetings to the board room
 ## Abstract:
@@ -226,7 +226,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Professional Developmen
 #### SessionID: 59643
 # The Junior Developer's Handbook
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 11-03-2017 - Session time: 09:35:00 - Track: Application  Database Development
 ## Speaker: Doug Lane
 ## Title: The Junior Developer's Handbook
 ## Abstract:
@@ -235,7 +235,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 61030
 # The Optimizer Secrets of 860X
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 09:35:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Kevin Kline
 ## Title: The Optimizer Secrets of 860X
 ## Abstract:
@@ -244,7 +244,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 61034
 # Database Continuous Delivery  Your Salvation!
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 11-03-2017 - Session time: 09:35:00 - Track: Application  Database Development
 ## Speaker: John Morehouse
 ## Title: Database Continuous Delivery  Your Salvation!
 ## Abstract:
@@ -253,7 +253,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 56767
 # Wait Statistics - The Top 5 Waits You Should Know
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 10:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Maxwell
 ## Title: Wait Statistics - The Top 5 Waits You Should Know
 ## Abstract:
@@ -262,7 +262,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 56768
 # JSON for the Data Mortals
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 10:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jim Dorame
 ## Title: JSON for the Data Mortals
 ## Abstract:
@@ -271,7 +271,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 57103
 # Crash Course on Better SQL Development
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 11-03-2017 - Session time: 10:55:00 - Track: Application  Database Development
 ## Speaker: Vladimir Oselsky
 ## Title: Crash Course on Better SQL Development
 ## Abstract:
@@ -280,7 +280,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 58276
 # Visualize Your Transaction Log
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 10:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Brian Hansen
 ## Title: Visualize Your Transaction Log
 ## Abstract:
@@ -289,7 +289,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 59329
 # Analysis Services is in Azure? Seriously!? Let's build a model!
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Cloud Application Development  Deployment
+Event Date: 11-03-2017 - Session time: 10:55:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Phillip Labry
 ## Title: Analysis Services is in Azure? Seriously!? Let's build a model!
 ## Abstract:
@@ -298,7 +298,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Cloud Application Devel
 #### SessionID: 59406
 # Why are you still taking backups?
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 10:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Armando Lacerda
 ## Title: Why are you still taking backups?
 ## Abstract:
@@ -307,7 +307,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 59471
 # Introducing SQL Server on Linux
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 10:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Haidong Ji
 ## Title: Introducing SQL Server on Linux
 ## Abstract:
@@ -318,7 +318,7 @@ In this session, I'll demonstrate how to set up and test SQL Server on Fedora/Re
 #### SessionID: 59596
 # I’m It – Survival Techniques for the Lone DBA
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 11-03-2017 - Session time: 10:55:00 - Track: Professional Development
 ## Speaker: Monica Rathbun
 ## Title: I’m It – Survival Techniques for the Lone DBA
 ## Abstract:
@@ -327,7 +327,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Professional Developmen
 #### SessionID: 62663
 # How SQL Monitor speeds YOU up!
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 10:55:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Anthony Nocentino
 ## Title: How SQL Monitor speeds YOU up!
 ## Abstract:
@@ -336,7 +336,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 63205
 # Cameron Jones - Adopting Agile Database Management
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 11-03-2017 - Session time: 10:55:00 - Track: Application  Database Development
 ## Speaker: Bob Pusateri
 ## Title: Cameron Jones - Adopting Agile Database Management
 ## Abstract:
@@ -345,7 +345,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 56752
 # Whip Away Stress at Home  Work to Create a Better You
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Professional Development
+Event Date: 11-03-2017 - Session time: 12:25:00 - Track: Professional Development
 ## Speaker: Karlyn LeBlanc
 ## Title: Whip Away Stress at Home  Work to Create a Better You
 ## Abstract:
@@ -354,7 +354,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Professional Developmen
 #### SessionID: 57955
 # Introduction to Azure Machine Learning
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Advanced Analysis Techniques
+Event Date: 11-03-2017 - Session time: 12:25:00 - Track: Advanced Analysis Techniques
 ## Speaker: Warren Sifre
 ## Title: Introduction to Azure Machine Learning
 ## Abstract:
@@ -363,7 +363,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Advanced Analysis Techn
 #### SessionID: 59317
 # Designing Stored Procedure Solutions
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 11-03-2017 - Session time: 12:25:00 - Track: Application  Database Development
 ## Speaker: Jennifer McCown
 ## Title: Designing Stored Procedure Solutions
 ## Abstract:
@@ -382,7 +382,7 @@ This session is for data professionals who can write T-SQL, but haven't spent a 
 #### SessionID: 59336
 # Help! My Replication Has Fallen and We Can#39;t Get it Replicating again.
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 12:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Thomas Lane
 ## Title: Help! My Replication Has Fallen and We Can#39;t Get it Replicating again.
 ## Abstract:
@@ -391,7 +391,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 59360
 # Emergency! Are You Ready for Disaster to Strike?
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 12:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Allen White
 ## Title: Emergency! Are You Ready for Disaster to Strike?
 ## Abstract:
@@ -400,7 +400,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 59599
 # Digging Out From Corruption
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 12:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Eddie Wuerch
 ## Title: Digging Out From Corruption
 ## Abstract:
@@ -409,7 +409,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 59623
 # Introduction to SQL Server Indexes
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 11-03-2017 - Session time: 12:25:00 - Track: Application  Database Development
 ## Speaker: Jason Strate
 ## Title: Introduction to SQL Server Indexes
 ## Abstract:
@@ -418,7 +418,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 59705
 # Advanced Spatial Analysis Beyond Bubble Charts
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: BI Information Delivery
+Event Date: 11-03-2017 - Session time: 12:25:00 - Track: BI Information Delivery
 ## Speaker: Jason Horner
 ## Title: Advanced Spatial Analysis Beyond Bubble Charts
 ## Abstract:
@@ -427,7 +427,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: BI Information Delivery
 #### SessionID: 63206
 # Devon Lawler - Native Scheduler Showdown
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 11-03-2017 - Session time: 12:25:00 - Track: Application  Database Development
 ## Speaker: Bob Pusateri
 ## Title: Devon Lawler - Native Scheduler Showdown
 ## Abstract:
@@ -436,7 +436,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 63217
 # SANLess SQL Server Clusters on Windows and Linux
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 12:25:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Bermingham
 ## Title: SANLess SQL Server Clusters on Windows and Linux
 ## Abstract:
@@ -445,7 +445,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 57373
 # Isolation Levels – Understanding Transaction Temper Tantrums
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Adam Koehler
 ## Title: Isolation Levels – Understanding Transaction Temper Tantrums
 ## Abstract:
@@ -454,7 +454,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 57785
 # Parameter Sniffing the Good, the Bad, and the Ugly
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Lance Tidwell
 ## Title: Parameter Sniffing the Good, the Bad, and the Ugly
 ## Abstract:
@@ -463,7 +463,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 57894
 # Don't Let History Be a Mystery! Temporal Data in SQL Server 2016
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 11-03-2017 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Adam Machanic
 ## Title: Don't Let History Be a Mystery! Temporal Data in SQL Server 2016
 ## Abstract:
@@ -472,7 +472,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 58279
 # SQL Server High Availability in Azure IaaS
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: David Bermingham
 ## Title: SQL Server High Availability in Azure IaaS
 ## Abstract:
@@ -485,7 +485,7 @@ In this session attendees will learn how to leverage ARM to deploy SQL AlwaysOn 
 #### SessionID: 59367
 # SSAS 2016 Tabular - Diving into the new features
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: BI Platform Architecture, Development  Administration
+Event Date: 11-03-2017 - Session time: 13:45:00 - Track: BI Platform Architecture, Development  Administration
 ## Speaker: Brian Beswick
 ## Title: SSAS 2016 Tabular - Diving into the new features
 ## Abstract:
@@ -494,7 +494,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: BI Platform Architectur
 #### SessionID: 59564
 # SQL Server System Behavior: Observation  Intervention
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Advanced Analysis Techniques
+Event Date: 11-03-2017 - Session time: 13:45:00 - Track: Advanced Analysis Techniques
 ## Speaker: Lonny Niederstadt
 ## Title: SQL Server System Behavior: Observation  Intervention
 ## Abstract:
@@ -509,7 +509,7 @@ In this session attendees will see profiles and interventions based situations i
 #### SessionID: 59609
 # Protecting Your Data with Encryption
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database Development
+Event Date: 11-03-2017 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Ed Leighton-Dick
 ## Title: Protecting Your Data with Encryption
 ## Abstract:
@@ -518,7 +518,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Application  Database D
 #### SessionID: 59625
 # Strategies for SQL Server Index Analysis
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 11-03-2017 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Jason Strate
 ## Title: Strategies for SQL Server Index Analysis
 ## Abstract:
@@ -527,7 +527,7 @@ Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Enterprise Database Adm
 #### SessionID: 62657
 # Tricks and Traps to Deploying SaaS to SQL in the Azure Cloud
 #### [Back to calendar](#nr-600)
-Event Date: 11-03-2017 - Session time: 15:05:00 - Track: Cloud Application Development  Deployment
+Event Date: 11-03-2017 - Session time: 13:45:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Scott Ellis
 ## Title: Tricks and Traps to Deploying SaaS to SQL in the Azure Cloud
 ## Abstract:

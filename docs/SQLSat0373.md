@@ -23,7 +23,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 21680
 # Setting up your BI Infrastructure
 #### [Back to calendar](#nr-373)
-Event Date: 09-05-2015 - Session time: 16:45:00 - Track: Cloud
+Event Date: 09-05-2015 - Session time: 00:00:00 - Track: Cloud
 ## Speaker: Paresh Motiwala
 ## Title: Setting up your BI Infrastructure
 ## Abstract:
@@ -34,7 +34,7 @@ What are the best practices involved in creating a BI infrastructure. We can dis
 #### SessionID: 23748
 # Enforce Best Practices with CMS and Policy Based Management
 #### [Back to calendar](#nr-373)
-Event Date: 09-05-2015 - Session time: 16:45:00 - Track: DBA
+Event Date: 09-05-2015 - Session time: 00:00:00 - Track: DBA
 ## Speaker: Ryan Adams
 ## Title: Enforce Best Practices with CMS and Policy Based Management
 ## Abstract:
@@ -43,7 +43,7 @@ Event Date: 09-05-2015 - Session time: 16:45:00 - Track: DBA
 #### SessionID: 11878
 # Business Intelligence for Beginners
 #### [Back to calendar](#nr-373)
-Event Date: 09-05-2015 - Session time: 16:45:00 - Track: BI
+Event Date: 09-05-2015 - Session time: 09:45:00 - Track: BI
 ## Speaker: César Oviedo
 ## Title: Business Intelligence for Beginners
 ## Abstract:
@@ -52,7 +52,7 @@ Event Date: 09-05-2015 - Session time: 16:45:00 - Track: BI
 #### SessionID: 17632
 # Introduction to AlwaysOn Availability Groups
 #### [Back to calendar](#nr-373)
-Event Date: 09-05-2015 - Session time: 16:45:00 - Track: DBA
+Event Date: 09-05-2015 - Session time: 09:45:00 - Track: DBA
 ## Speaker: Jorge Sanchez
 ## Title: Introduction to AlwaysOn Availability Groups
 ## Abstract:
@@ -61,7 +61,7 @@ Event Date: 09-05-2015 - Session time: 16:45:00 - Track: DBA
 #### SessionID: 22788
 # Dynamically Increase your Data Awareness
 #### [Back to calendar](#nr-373)
-Event Date: 09-05-2015 - Session time: 16:45:00 - Track: BI
+Event Date: 09-05-2015 - Session time: 09:45:00 - Track: BI
 ## Speaker: Reeves Smith
 ## Title: Dynamically Increase your Data Awareness
 ## Abstract:
@@ -71,7 +71,7 @@ In this session we will walk through a framework that dynamically develops a gro
 #### SessionID: 15863
 # Hecka Fun with Hekaton
 #### [Back to calendar](#nr-373)
-Event Date: 09-05-2015 - Session time: 16:45:00 - Track: Dev
+Event Date: 09-05-2015 - Session time: 11:15:00 - Track: Dev
 ## Speaker: Jason Horner
 ## Title: Hecka Fun with Hekaton
 ## Abstract:
@@ -80,7 +80,7 @@ Event Date: 09-05-2015 - Session time: 16:45:00 - Track: Dev
 #### SessionID: 20585
 # Recovery and Backup for Beginners
 #### [Back to calendar](#nr-373)
-Event Date: 09-05-2015 - Session time: 16:45:00 - Track: DBA
+Event Date: 09-05-2015 - Session time: 11:15:00 - Track: DBA
 ## Speaker: Mike Hillwig
 ## Title: Recovery and Backup for Beginners
 ## Abstract:
@@ -91,7 +91,7 @@ In this session, veteran DBA Mike Hillwig will start with understanding the reco
 #### SessionID: 23749
 # How Active Directory Affects SQL Server
 #### [Back to calendar](#nr-373)
-Event Date: 09-05-2015 - Session time: 16:45:00 - Track: DBA
+Event Date: 09-05-2015 - Session time: 11:15:00 - Track: DBA
 ## Speaker: Ryan Adams
 ## Title: How Active Directory Affects SQL Server
 ## Abstract:
@@ -100,7 +100,7 @@ Event Date: 09-05-2015 - Session time: 16:45:00 - Track: DBA
 #### SessionID: 13611
 # MS-ACCESS and SQL Integration
 #### [Back to calendar](#nr-373)
-Event Date: 09-05-2015 - Session time: 16:45:00 - Track: Dev
+Event Date: 09-05-2015 - Session time: 13:45:00 - Track: Dev
 ## Speaker: Edwin Blancovitch
 ## Title: MS-ACCESS and SQL Integration
 ## Abstract:
@@ -109,7 +109,7 @@ Event Date: 09-05-2015 - Session time: 16:45:00 - Track: Dev
 #### SessionID: 20587
 # Transaction Log Internals: Virtual Log Files
 #### [Back to calendar](#nr-373)
-Event Date: 09-05-2015 - Session time: 16:45:00 - Track: DBA
+Event Date: 09-05-2015 - Session time: 13:45:00 - Track: DBA
 ## Speaker: Mike Hillwig
 ## Title: Transaction Log Internals: Virtual Log Files
 ## Abstract:
@@ -123,7 +123,7 @@ In this more advanced session, veteran DBA Mike Hillwig will show you what VLFs 
 #### SessionID: 36695
 # Dealing with Errors and Exceptions in SSIS
 #### [Back to calendar](#nr-373)
-Event Date: 09-05-2015 - Session time: 16:45:00 - Track: Dev
+Event Date: 09-05-2015 - Session time: 13:45:00 - Track: Dev
 ## Speaker: Jose L. Rivera
 ## Title: Dealing with Errors and Exceptions in SSIS
 ## Abstract:
@@ -134,7 +134,7 @@ At the end of this session you will have a better understanding to configure a b
 #### SessionID: 15864
 # Tricks from the DBA Inbox: Real World Performance Tuning
 #### [Back to calendar](#nr-373)
-Event Date: 09-05-2015 - Session time: 16:45:00 - Track: DBA
+Event Date: 09-05-2015 - Session time: 15:15:00 - Track: DBA
 ## Speaker: Jason Horner
 ## Title: Tricks from the DBA Inbox: Real World Performance Tuning
 ## Abstract:
@@ -143,7 +143,7 @@ Event Date: 09-05-2015 - Session time: 16:45:00 - Track: DBA
 #### SessionID: 22786
 # Increase your SSIS productivity with Biml
 #### [Back to calendar](#nr-373)
-Event Date: 09-05-2015 - Session time: 16:45:00 - Track: BI
+Event Date: 09-05-2015 - Session time: 15:15:00 - Track: BI
 ## Speaker: Reeves Smith
 ## Title: Increase your SSIS productivity with Biml
 ## Abstract:
@@ -155,7 +155,7 @@ This session will be a demo based session that will inspire you to make Biml you
 #### SessionID: 8876
 # PowerShell for Data Professionals
 #### [Back to calendar](#nr-373)
-Event Date: 09-05-2015 - Session time: 16:45:00 - Track: Dev
+Event Date: 09-05-2015 - Session time: 15:15:00 - Track: Dev
 ## Speaker: Aaron Nelson
 ## Title: PowerShell for Data Professionals
 ## Abstract:

@@ -19,7 +19,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 77386
 # Building an Analytics Platform in Azure
 #### [Back to calendar](#nr-764)
-Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 23-06-2018 - Session time: 09:15:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Gerhard Brueckl
 ## Title: Building an Analytics Platform in Azure
 ## Abstract:
@@ -28,7 +28,7 @@ Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Cloud Application Devel
 #### SessionID: 78780
 # The Road to The Autonomous Databases
 #### [Back to calendar](#nr-764)
-Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 09:15:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Janusz Rokicki
 ## Title: The Road to The Autonomous Databases
 ## Abstract:
@@ -37,7 +37,7 @@ Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 80855
 # How to build solution for High Availability/Disaster Recovery
 #### [Back to calendar](#nr-764)
-Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Strategy and Architecture
+Event Date: 23-06-2018 - Session time: 10:30:00 - Track: Strategy and Architecture
 ## Speaker: Marcelo Fernandes
 ## Title: How to build solution for High Availability/Disaster Recovery
 ## Abstract:
@@ -47,7 +47,7 @@ In this session, we will cover all aspects of HA / DR. We will cover all technol
 #### SessionID: 82084
 # Performance Tuning with SQL Server 2017
 #### [Back to calendar](#nr-764)
-Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 23-06-2018 - Session time: 10:30:00 - Track: Application  Database Development
 ## Speaker: Miloš Radivojević
 ## Title: Performance Tuning with SQL Server 2017
 ## Abstract:
@@ -56,7 +56,7 @@ Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 80835
 # Encryption in SQL Server
 #### [Back to calendar](#nr-764)
-Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 11:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Michal Sadowski
 ## Title: Encryption in SQL Server
 ## Abstract:
@@ -65,7 +65,7 @@ Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 82085
 # Common Developer Mistakes with SQL Server
 #### [Back to calendar](#nr-764)
-Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 23-06-2018 - Session time: 11:45:00 - Track: Application  Database Development
 ## Speaker: Miloš Radivojević
 ## Title: Common Developer Mistakes with SQL Server
 ## Abstract:
@@ -74,7 +74,7 @@ Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Application  Database D
 #### SessionID: 77216
 # Running SQL Server on Linux
 #### [Back to calendar](#nr-764)
-Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 13:45:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Marek Chmel
 ## Title: Running SQL Server on Linux
 ## Abstract:
@@ -83,7 +83,7 @@ Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 77688
 # Score a (row) goal and beat a query optimizer
 #### [Back to calendar](#nr-764)
-Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Application  Database Development
+Event Date: 23-06-2018 - Session time: 13:45:00 - Track: Application  Database Development
 ## Speaker: Pavel Malek
 ## Title: Score a (row) goal and beat a query optimizer
 ## Abstract:
@@ -94,7 +94,7 @@ In this session we will have a deep look on cases where the query optimizer fail
 #### SessionID: 77236
 # Bulk Load and Minimal Logging
 #### [Back to calendar](#nr-764)
-Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Administration  Deployment
+Event Date: 23-06-2018 - Session time: 15:00:00 - Track: Enterprise Database Administration  Deployment
 ## Speaker: Dean Savović
 ## Title: Bulk Load and Minimal Logging
 ## Abstract:
@@ -103,7 +103,7 @@ Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Enterprise Database Adm
 #### SessionID: 80853
 # High availability for SQL Server using Azure as DR site
 #### [Back to calendar](#nr-764)
-Event Date: 23-06-2018 - Session time: 16:15:00 - Track: Cloud Application Development  Deployment
+Event Date: 23-06-2018 - Session time: 15:00:00 - Track: Cloud Application Development  Deployment
 ## Speaker: Marcelo Fernandes
 ## Title: High availability for SQL Server using Azure as DR site
 ## Abstract:

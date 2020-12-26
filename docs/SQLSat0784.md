@@ -21,7 +21,7 @@ Start Time (24h)|Speaker|Track|Title
 #### SessionID: 82342
 # SQL Server on Linux High Availability Features and Considerations
 #### [Back to calendar](#nr-784)
-Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 3
+Event Date: 18-08-2018 - Session time: 10:00:00 - Track: Track 3
 ## Speaker: Jason Aw
 ## Title: SQL Server on Linux High Availability Features and Considerations
 ## Abstract:
@@ -30,7 +30,7 @@ Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 3
 #### SessionID: 84241
 # SQL Server Developer Tricks
 #### [Back to calendar](#nr-784)
-Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 1
+Event Date: 18-08-2018 - Session time: 10:00:00 - Track: Track 1
 ## Speaker: Amit R S Bansal
 ## Title: SQL Server Developer Tricks
 ## Abstract:
@@ -39,7 +39,7 @@ Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 1
 #### SessionID: 85284
 # Fundamentals of Block chain  Development
 #### [Back to calendar](#nr-784)
-Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 2
+Event Date: 18-08-2018 - Session time: 10:00:00 - Track: Track 2
 ## Speaker: Senthamil V
 ## Title: Fundamentals of Block chain  Development
 ## Abstract:
@@ -48,7 +48,7 @@ Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 2
 #### SessionID: 82414
 # Tune Like a Guru - The Big Three!
 #### [Back to calendar](#nr-784)
-Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 2
+Event Date: 18-08-2018 - Session time: 11:00:00 - Track: Track 2
 ## Speaker: Kevin Boles
 ## Title: Tune Like a Guru - The Big Three!
 ## Abstract:
@@ -57,7 +57,7 @@ Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 2
 #### SessionID: 82492
 # Business Intelligence Solutions in Azure
 #### [Back to calendar](#nr-784)
-Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 1
+Event Date: 18-08-2018 - Session time: 11:00:00 - Track: Track 1
 ## Speaker: David Alzamendi
 ## Title: Business Intelligence Solutions in Azure
 ## Abstract:
@@ -68,7 +68,7 @@ I will go over the characteristics of the main services that can be implemented 
 #### SessionID: 84433
 # A Database Designer's Favorite Features: Security,Privacy  More
 #### [Back to calendar](#nr-784)
-Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 3
+Event Date: 18-08-2018 - Session time: 11:00:00 - Track: Track 3
 ## Speaker: Karen Lopez
 ## Title: A Database Designer's Favorite Features: Security,Privacy  More
 ## Abstract:
@@ -77,7 +77,7 @@ Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 3
 #### SessionID: 82347
 # Real-Time Analytics with Power BI
 #### [Back to calendar](#nr-784)
-Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 2
+Event Date: 18-08-2018 - Session time: 13:00:00 - Track: Track 2
 ## Speaker: Manohar Punna
 ## Title: Real-Time Analytics with Power BI
 ## Abstract:
@@ -92,7 +92,7 @@ In this session
 #### SessionID: 82454
 # How to Maintain the Same Level of utilities in Cloud Deployments
 #### [Back to calendar](#nr-784)
-Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 3
+Event Date: 18-08-2018 - Session time: 13:00:00 - Track: Track 3
 ## Speaker: Denny Cherry
 ## Title: How to Maintain the Same Level of utilities in Cloud Deployments
 ## Abstract:
@@ -109,7 +109,7 @@ Join us for this fun session and learn how to improve the security, reliability 
 #### SessionID: 83792
 # Accelerating and modernizing data integration with Azure Data Factory
 #### [Back to calendar](#nr-784)
-Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 1
+Event Date: 18-08-2018 - Session time: 13:00:00 - Track: Track 1
 ## Speaker: Dinesh Priyankara
 ## Title: Accelerating and modernizing data integration with Azure Data Factory
 ## Abstract:
@@ -118,7 +118,7 @@ Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 1
 #### SessionID: 82944
 # Graph Databases with Azure Cosmos DB
 #### [Back to calendar](#nr-784)
-Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 3
+Event Date: 18-08-2018 - Session time: 14:00:00 - Track: Track 3
 ## Speaker: Patrick Flynn
 ## Title: Graph Databases with Azure Cosmos DB
 ## Abstract:
@@ -137,7 +137,7 @@ This session is aimed at any developer/architect/DBA that is looking to understa
 #### SessionID: 83820
 # Want to move your data to Cloud ? what are your options?
 #### [Back to calendar](#nr-784)
-Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 1
+Event Date: 18-08-2018 - Session time: 14:00:00 - Track: Track 1
 ## Speaker: Asanka Padmakumara
 ## Title: Want to move your data to Cloud ? what are your options?
 ## Abstract:
@@ -146,7 +146,7 @@ Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 1
 #### SessionID: 84243
 # Don’t be naive, Learn machine learning algorithms
 #### [Back to calendar](#nr-784)
-Event Date: 18-08-2018 - Session time: 15:30:00 - Track: Track 2
+Event Date: 18-08-2018 - Session time: 14:00:00 - Track: Track 2
 ## Speaker: Sarbjit Singh
 ## Title: Don’t be naive, Learn machine learning algorithms
 ## Abstract:
