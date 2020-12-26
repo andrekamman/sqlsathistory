@@ -12,4 +12,4 @@ The site itself can be found at https://sqlsathistory.com (Which is probably how
 
 If, for whatever reason, some community friendly people become the new owner of the SQLSaturday.com site and such and they would prefer I no longer share this data here, I might take it down. We'll see what happens.
 
-If you want to get in touch with me, my name is André Kamman and if you add my first and last name together you've got most of my gmail address figured out already ;-)
+If you want to get in touch with me, my name is André Kamman ([t](https://twitter.com/andrekamman)|[y](https://www.youtube.com/channel/UCyp9dcb3n1q05pmqtSfNanw)) and if you add my first and last name together you've got most of my gmail address figured out already ;-)
