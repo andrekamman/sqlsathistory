@@ -4,8 +4,8 @@
 Start Time (24h)|Speaker|Track|Title
 ---|---|---|---
 09:00:00|Nikola Ilic|Power BI|[From XL to S - Reduce your Power BI model size by 90%!](#sessionid-107940)
-09:00:00|Uwe Ricken|Administration|[Analyze and solve common wait stats scenarios](#sessionid-107999)
 09:00:00|Alexander Klein|Cloud Technology|[BI in Azure two years live](#sessionid-108332)
+09:00:00|Thomas Martens|Power BI|[DAX - Musings about foundational concepts](#sessionid-108336)
 09:00:00|Mark Broadbent|Application  Database Development|[Introduction to Azure DevOps](#sessionid-108355)
 09:00:00|Alexander Arvidsson|Cloud Technology|[Not My Problem(?) - Azure Networking 101 for Azure SQL Server DBAs](#sessionid-108446)
 09:00:00|Markus Ehrenmueller-Jensen|Lightning Talk|[Lightning Talk Session](#sessionid-109010)
@@ -14,6 +14,7 @@ Start Time (24h)|Speaker|Track|Title
 10:15:00|Dave Ruijter|Power BI|[Let's go Premium! The essentials to kickstart your experience.](#sessionid-108344)
 10:15:00|Frank Geisler|Application  Database Development|[Living on the Edge: SQL Server Edge](#sessionid-108432)
 10:15:00|Johan Ludvig Brattås|Cloud Technology|[Creating an modern data platform in the cloud](#sessionid-108460)
+10:15:00|Martin Wild|Administration|[How to continuously optimise your hybrid SQL Server estate](#sessionid-110569)
 11:30:00|Mohammad Darab|Administration|[Big Data Clusters for the Absolute Beginner](#sessionid-107934)
 11:30:00|Philipp Lenz|Power BI|[Power BI and Paginated Reports? [Deutsch/German]](#sessionid-107994)
 11:30:00|Hugo Kornelis|Application  Database Development|[From adaptive to intelligent: query processing in SQL 2019](#sessionid-108063)
@@ -34,9 +35,9 @@ Start Time (24h)|Speaker|Track|Title
 14:45:00|Ferenc Csonka|Power BI|[Power BI Dataflows on Steroids: Handling 100+ million records using Enhanced Compute Engine](#sessionid-108426)
 16:00:00|Bob Duffy|Power BI|[Financial Modelling with Power BI](#sessionid-107929)
 16:00:00|Scott Klein|Administration|[The ins and outs of securing SQL Server traffic](#sessionid-107978)
+16:00:00|Uwe Ricken|Administration|[Analyze and solve common wait stats scenarios](#sessionid-107999)
 16:00:00|Kevin Feasel|Artificial Intelligence  Machine Learning|[Developing a Solution with SQL Server Machine Learning Services](#sessionid-108026)
 16:00:00|Julie Koesmarno|Administration|[Notebooks 101 for SQL People](#sessionid-108298)
-16:00:00|Thomas Martens|Power BI|[DAX - Musings about foundational concepts](#sessionid-108336)
 16:00:00|Craig Porteous|Cloud Technology|[DIY ETL with Logic apps, Azure Functions and more](#sessionid-108428)
 #  
 #### SessionID: 107940
@@ -52,20 +53,6 @@ In this session, we will dig deep to discover what is “under the hood” of Po
 
 Finally, you will see a real use-case demo showing how the Power BI data model was reduced by 90%!
 #  
-#### SessionID: 107999
-# Analyze and solve common wait stats scenarios
-#### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 09:00:00 - Track: Administration
-## Speaker: Uwe Ricken
-## Title: Analyze and solve common wait stats scenarios
-## Abstract:
-### SQL Server is a high frequently used piece of software which need to serve single requests and/or hundreds of thousands of requests in a minute. Within these different kinds of workloads Microsoft SQL Server has to handle the concurrency of tasks in a fashion manner. This demo driven session shows different scenarios where Microsoft SQL Server has to wait and manage hundreds of tasks. See, analyze and solve different wait stats due to their performance impact:
-- CXPACKET: when a query goes parallel
-- ASYNC_IO_COMPLETION: speed up IO operations (Growth / Backup / Restore)
-- ASYNC_NETWORK_IO: What happens if your application refuses data?
-- THREADPOOL starvation: crush of requests for Microsoft SQL Server
-- PAGELATCH_xx: How does Microsoft SQL Server protects data?
-#  
 #### SessionID: 108332
 # BI in Azure two years live
 #### [Back to calendar](#nr-1015)
@@ -79,6 +66,16 @@ Which architecture is the right one? Which tools/services should I use ( Azure D
 What was good and what wasn't so good? What do you have to pay attention to? What can you possibly do better in the next project?
 
 Alexander Klein will answer all these questions and more in this presentation.
+#  
+#### SessionID: 108336
+# DAX - Musings about foundational concepts
+#### [Back to calendar](#nr-1015)
+Event Date: 15-01-2021 - Session time: 09:00:00 - Track: Power BI
+## Speaker: Thomas Martens
+## Title: DAX - Musings about foundational concepts
+## Abstract:
+### Much has been said about DAX, and even more will be told, as DAX still evolves and the adoption of tools that are using DAX like Power BI and MSFT Analysis Services Tabular is growing. I got inspired for this session by questions from https://community.powerbi.com. These questions are touching the most foundational concepts. They remind me of my journey into the realm of evaluation context, filter propagation, data lineage, the scope of variables, and the mysterious world of table iterators, just to name some concepts.
+I explain these concepts using small datasets that allowing us to perform computation without leveraging the cloud, but please be prepared for some surprises. The presentation uses a single pbix file that will be available for download after the session.
 #  
 #### SessionID: 108355
 # Introduction to Azure DevOps
@@ -114,8 +111,15 @@ Event Date: 15-01-2021 - Session time: 09:00:00 - Track: Lightning Talk
 ## Speaker: Markus Ehrenmueller-Jensen
 ## Title: Lightning Talk Session
 ## Abstract:
-### 5 talks, 10min each
+### 6 talks, 10min each
 topics across all tracks
+
+John Miner - Don’t lose your integrity 
+Erik Monchen - Use ADF dynamically to orchestrate your data load
+Reza Rad - The composite model with Analysis Services
+Gianluca Sartori - Using XESmartTarget to Respond to Extended Events
+Magnus Ahlkvist - dbatools Live Hackalong
+Tomaž Kaštrun - Creating data files in Azure Blob storage for on-prem SQL Server
 #  
 #### SessionID: 108080
 # Business Analysis with T-SQL
@@ -171,6 +175,18 @@ Event Date: 15-01-2021 - Session time: 10:15:00 - Track: Cloud Technology
 ## Title: Creating an modern data platform in the cloud
 ## Abstract:
 ### Planning on creating a new data platform? Come join one of Norway's most experienced solutions architect to learn the Do's and Don'ts on cloud data platforms as well as design patterns and which services to choose where.
+#  
+#### SessionID: 110569
+# How to continuously optimise your hybrid SQL Server estate
+#### [Back to calendar](#nr-1015)
+Event Date: 15-01-2021 - Session time: 10:15:00 - Track: Administration
+## Speaker: Martin Wild
+## Title: How to continuously optimise your hybrid SQL Server estate
+## Abstract:
+### So you want to be able to optimise your hybrid production databases but concerned about licensing, performance and compute costs?
+In this session attendees will learn how to record workloads from production instances and replay them either on-prem or on to Azure instances (VMs and managed instances) and compare workload profiles (ie. wait times, time of day), identify bottlenecks and explore SQL tuning techniques.
+We can show you how to justify modifying VM resources and compare the impact on performance to get the right balance of performance and cost, and also tuning queries to reduce IO or CPU.
+ We will also demonstrate how to replay production workloads in a test/development environment. Ensuring a high accuracy of regression testing in CI/CD.
 #  
 #### SessionID: 107934
 # Big Data Clusters for the Absolute Beginner
@@ -413,6 +429,20 @@ Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Administration
 
 While there are multiple levels of security (securing data at rest, data in traffic, etc.), this session will focus on securing data that is on the move; ie., securing traffic between a client and server. We'll discuss and look at two solutions: Certificates and IPsec, exploring them in detail, outlining the pros and cons of each, how to set up and configure them, and when to use what.
 #  
+#### SessionID: 107999
+# Analyze and solve common wait stats scenarios
+#### [Back to calendar](#nr-1015)
+Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Administration
+## Speaker: Uwe Ricken
+## Title: Analyze and solve common wait stats scenarios
+## Abstract:
+### SQL Server is a high frequently used piece of software which need to serve single requests and/or hundreds of thousands of requests in a minute. Within these different kinds of workloads Microsoft SQL Server has to handle the concurrency of tasks in a fashion manner. This demo driven session shows different scenarios where Microsoft SQL Server has to wait and manage hundreds of tasks. See, analyze and solve different wait stats due to their performance impact:
+- CXPACKET: when a query goes parallel
+- ASYNC_IO_COMPLETION: speed up IO operations (Growth / Backup / Restore)
+- ASYNC_NETWORK_IO: What happens if your application refuses data?
+- THREADPOOL starvation: crush of requests for Microsoft SQL Server
+- PAGELATCH_xx: How does Microsoft SQL Server protects data?
+#  
 #### SessionID: 108026
 # Developing a Solution with SQL Server Machine Learning Services
 #### [Back to calendar](#nr-1015)
@@ -434,16 +464,6 @@ Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Administration
 The lack of rigor in being able to reproduce analysis in business context or to reproduce data troubleshooting can lead to confusion and time wasted on work that had been previously done. With Notebooks, Data Professionals can share their techniques and data sources used for the data analysis or troubleshooting for code review and reproducible insights/troubleshooting. 
 
 Azure Data Studio Notebooks support SQL and KQL natively with intellisense; with easy to use charting capabilities. With Notebooks and Jupyter Book (collection of Notebooks) in Azure Data Studio, it’s also easy now for your team to build an onboarding guide (user manual) / documentation on data sources, useful sample scripts and tutorials.
-#  
-#### SessionID: 108336
-# DAX - Musings about foundational concepts
-#### [Back to calendar](#nr-1015)
-Event Date: 15-01-2021 - Session time: 16:00:00 - Track: Power BI
-## Speaker: Thomas Martens
-## Title: DAX - Musings about foundational concepts
-## Abstract:
-### Much has been said about DAX, and even more will be told, as DAX still evolves and the adoption of tools that are using DAX like Power BI and MSFT Analysis Services Tabular is growing. I got inspired for this session by questions from https://community.powerbi.com. These questions are touching the most foundational concepts. They remind me of my journey into the realm of evaluation context, filter propagation, data lineage, the scope of variables, and the mysterious world of table iterators, just to name some concepts.
-I explain these concepts using small datasets that allowing us to perform computation without leveraging the cloud, but please be prepared for some surprises. The presentation uses a single pbix file that will be available for download after the session.
 #  
 #### SessionID: 108428
 # DIY ETL with Logic apps, Azure Functions and more
